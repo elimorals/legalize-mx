@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-para-la-106845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-26"
-last_updated: "2017-03-22"
+last_updated: "2017-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-03-11"
 ---
 # REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACION Y REMOCION DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PUBLICOS LOCALES ELECTORALES -- ANTES -- REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACION Y SANCION DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PUBLICOS LOCALES ELECTORALES -- ANTES -- REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACION Y LA REMOCION DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PUBLICOS LOCALES ELECTORALES
 
-> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ACUERDO DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 22 DE MARZO DE 2017, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO]</small>
+> <small>[N. DE E. EL ACUERDO INE/CG217 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
-REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y SANCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
+REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 26 de marzo de 2015.
 
@@ -57,9 +57,9 @@ Se aprobó en lo particular el Artículo Transitorio Cuarto, por diez votos a fa
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y SANCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
+REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -69,11 +69,11 @@ REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y SANCIÓN DE L
 
 ## TÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
 Artículo 1
 
-1. El presente Reglamento es de observancia general y de aplicación obligatoria para el Instituto Nacional Electoral, y tiene por objeto regular las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos y por la Ley General de Instituciones y Procedimientos Electorales al Instituto Nacional Electoral, relativas a la selección, designación y sanción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales.
+1. El presente Reglamento es de observancia general y de aplicación obligatoria para el Instituto Nacional Electoral, y tiene por objeto regular las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos y por la Ley General de Instituciones y Procedimientos Electorales al Instituto Nacional Electoral, relativas a la selección, designación y remoción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -93,7 +93,9 @@ Artículo 3
 
 Artículo 4
 
-1. El Consejo General del Instituto Nacional Electoral es la autoridad facultada para designar y, en su caso sancionar a las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales.
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+1. El Consejo General del Instituto Nacional Electoral es la autoridad facultada para designar y, en su caso remover a las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales.
 
 2. Para el cumplimiento de las atribuciones previstas en el presente Reglamento, el Consejo General del Instituto Nacional Electoral se auxiliará de los siguientes órganos:
 
@@ -112,6 +114,8 @@ f) La Oficialía Electoral;
 g) Los Organismos Públicos Locales Electorales, y
 
 h) Las Juntas Ejecutivas Locales y Distritales.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN III CONTENÍA HASTA EL INCISO N) Y CON LA PRESENTE REFORMA SE PRECISA ÚNICAMENTE HASTA EL INCISO K).]</small>
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -155,7 +159,9 @@ a) Aspirante. La o el ciudadano mexicano que, una vez publicada la Convocatoria 
 
 b) Causa grave. Las establecidas en el artículo 102, párrafo 2 de la Ley General;
 
-c) Convocatoria ordinaria y extraordinaria. Es el documento que aprueba el Consejo General del Instituto, y que se dirige a la ciudadanía interesada para participar. Será ordinaria la que se emita para cubrir las vacantes que se generen por conclusión del cargo y extraordinaria cuando se emita para cubrir las vacantes generadas con anterioridad a dicha conclusión;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+c) Convocatoria: Es el documento que aprueba el Consejo General del Instituto, y que se dirige a la ciudadanía interesada para participar en un procedimiento de selección y designación de la o el Consejero Presidente y las o los Consejeros Electorales de un Organismo Público;
 
 d) Cotejo documental o compulsa. Acto a través del cual se verifica que las copias o certificaciones presentadas por los aspirantes coincidan con los documentos originales;
 
@@ -165,19 +171,23 @@ f) Entrevista virtual. Forma de concurrir a distancia y no de manera presencial 
 
 g) Grupos de Trabajo. Los integrados por Consejeros Electorales para auxiliar los trabajos de la Comisión de Vinculación dentro del procedimiento de selección y designación de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales;
 
-h) Lista de reserva. Relación de aspirantes a Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de un Organismo Público derivada de una convocatoria ordinaria, que accedieron a la etapa de entrevista y valoración curricular pero no fueron designados, los cuales podrán ser elegidos como sustitutos, para concluir el periodo de una vacante cuando ésta se genere dentro de los primeros cuatro años del encargo;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-i) Portal. La página de Internet del Instituto;
+h) Portal. La página de Internet del Instituto;
 
-j) Procedimiento expedito. Conjunto de etapas para la ocupación de una o más vacantes de Consejera o Consejero Presidente, y Consejera o Consejero Electoral de un Organismo Público, en casos extraordinarios o urgentes;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-k) Caso extraordinario o urgente. Situación en la que se genera una o más vacantes de Consejera o Consejero Presidente y/o Consejeras o Consejeros Electorales de un Organismo Público, que por su naturaleza resulta necesario su inmediata atención, lo cual será determinado por el Consejo General;
+i) Remoción: Es la atribución del Consejo General para que, conforme al procedimiento establecido en la Ley General y en el presente ordenamiento, determine la separación del cargo de Consejera o Consejero Presidente, y Consejeras o Consejeros Electorales de los Organismos Públicos Locales por infracciones al artículo 102 numeral 2 de la Ley General;
 
-l) Sanción. Pena que el Consejo General del INE imponga a los integrantes del órgano superior de dirección de los OPL por infracciones al artículo 102 párrafo 2 de la Ley general, que van de la amonestación a la remoción;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-m) Sistema de Registro. Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
+j) Sistema de Registro. Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
 
-n) Instructivo. Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+k) Instructivo. Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN I CONTENÍA HASTA EL INCISO F) Y CON LA PRESENTE MODIFICACIÓN SE PRECISA ÚNICAMENTE HASTA EL INCISO E), LA FRACCIÓN II, PUNTO 2 CONTENÍA HASTA EL INCISO S), AHORA SE MENCIONA HASTA EL INCISO Q).]</small>
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -195,13 +205,17 @@ c) Votar las propuestas que presente la Comisión de Vinculación;
 
 d) Realizar la designación correspondiente en caso de que ocurra una vacante de Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público, de acuerdo a lo establecido en la Constitución, la Ley General y este ordenamiento;
 
-e) Aprobar un procedimiento expedito en el supuesto de que se originen una o más vacantes de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de un Organismo Público, en casos extraordinarios o urgentes que necesiten su inmediata atención; y
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-f) Resolver, en el ámbito de su competencia, lo no previsto en el presente Reglamento.
+e) Resolver, en el ámbito de su competencia, lo no previsto en el presente Reglamento.
 
-II. Dentro del procedimiento sancionador de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-a) Sancionar a las y los Consejeros Presidentes y Consejeras o Consejeros Electorales del órgano superior de dirección de los Organismos Públicos, cuando se acredite alguna de las causas graves a que se refiere el artículo 102 de la Ley General, y 34, párrafo 2, del presente Reglamento; y
+II. Dentro del procedimiento de remoción de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+a) Remover a las y los Consejeros Presidentes y Consejeras o Consejeros Electorales del órgano superior de dirección de los Organismos Públicos, cuando se acredite alguna de las causas graves a que se refiere el artículo 102 de la Ley General, y 34, numeral 2, del presente Reglamento; y
 
 b) Resolver, en el ámbito de su competencia, lo no previsto en el presente Reglamento.
 
@@ -211,7 +225,9 @@ I. Dentro del procedimiento de selección y designación de las y los Consejeros
 
 a) El desarrollo, vigilancia y la conducción del proceso de selección. Para tal efecto se auxiliará de la Unidad de Vinculación, órganos desconcentrados y en las demás áreas ejecutivas y técnicas del Instituto;
 
-b) Instrumentar, conforme a la Constitución, Ley General y el presente Reglamento, el proceso para la selección y designación de las y los Consejeros Presidentes y Consejeras y Consejeros Electorales de los Organismos Públicos, así como el procedimiento expedito de selección y designación;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+b) Instrumentar, conforme a la Constitución, Ley General y el presente Reglamento, el proceso para la selección y designación de las y los Consejeros Presidentes y Consejeras y Consejeros Electorales de los Organismos Públicos;
 
 c) Recibir de la Secretaría Técnica las listas y expedientes de las y los aspirantes, y verificar el cumplimiento de los requisitos legales;
 
@@ -241,13 +257,13 @@ n) Presentar al Consejo General las listas con los nombres de las y los aspirant
 
 o) Informar al Consejo General la generación de vacantes de Consejera o Consejero Presidente y de Consejeras o Consejeros Electorales en los Organismos Públicos;
 
-p) Preparar la convocatoria para la implementación del procedimiento expedito;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-q) Aprobar el calendario de entrevistas;
+p) Aprobar el calendario de entrevistas; y
 
-r) Aprobar la lista de reserva de Consejera o Consejero Presidente y de Consejeras o Consejeros Electorales en los Organismos Públicos; y
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-s) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
+q) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
 
 3. Son atribuciones de la Secretaría Ejecutiva:
 
@@ -263,9 +279,13 @@ d) Recibir los expedientes que remitan las Juntas Locales Ejecutivas;
 
 e) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
 
-II. Dentro del procedimiento sancionador de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-a) Tramitar y sustanciar a través de la Unidad de lo Contencioso, el procedimiento de sanción, en los términos de la Ley General y el presente Reglamento;
+II. Dentro del procedimiento de remoción de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+a) Tramitar y sustanciar a través de la Unidad de lo Contencioso, el procedimiento de remoción, en los términos de la Ley General y el presente Reglamento;
 
 b) Someter a consideración del Consejo General los dictámenes con proyecto de resolución, en términos de lo dispuesto por el artículo 103, numeral 4 de la Ley General;
 
@@ -295,7 +315,9 @@ h) Las demás que le confiera la Ley General, el presente Reglamento y las dispo
 
 i) Resguardar los expedientes correspondientes a las y los aspirantes.
 
-II. Dentro del procedimiento sancionador de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+II. Dentro del procedimiento de remoción de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
 
 a) Proporcionar a la Secretaría Ejecutiva o a la Unidad de lo Contencioso, la información que le sea requerida;
 
@@ -303,21 +325,31 @@ b) Las demás que le confiera la Ley General, el presente Reglamento y las dispo
 
 5. Son atribuciones de la Unidad de lo Contencioso:
 
-I. Dentro del procedimiento de sanción de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+I. Dentro del procedimiento de remoción de las y los Consejeros Presidentes, así como las y los Consejeros Electorales, las siguientes:
 
 a) Dar aviso a la Unidad de Vinculación sobre las quejas o denuncias que se promuevan en contra de Consejeras o Consejeros Electorales de los Organismos Públicos y, requerirle, en su caso, información de la que disponga para la sustanciación del procedimiento establecido en los artículos 103 de la Ley General y 38 del presente Reglamento;
 
-b) Tramitar y sustanciar, en auxilio de la Secretaría Ejecutiva, el procedimiento sancionador de las y los Consejeros Presidentes y Consejeras y Consejeros Electorales de los Organismos Públicos, en los términos previstos en la Constitución, la Ley General y este ordenamiento;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-c) Dar fe de aquellas actuaciones o diligencias derivadas de los procedimientos de sanción de las y los Consejeros Electorales, con independencia de las que, en su caso, se realicen a través de la Oficialía Electoral.
+b) Tramitar y sustanciar, en auxilio de la Secretaría Ejecutiva, el procedimiento de remoción de las y los Consejeros Presidentes y Consejeras y Consejeros Electorales de los Organismos Públicos, en los términos previstos en la Constitución, la Ley General y este ordenamiento;
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+c) Dar fe de aquellas actuaciones o diligencias derivadas de los procedimientos de remoción de las y los Consejeros Electorales, con independencia de las que, en su caso, se realicen a través de la Oficialía Electoral.
 
 d) Llevar un registro de las denuncias que reciba, para efectos del cumplimiento del artículo 48, párrafo 2 de este Reglamento; y
 
-e) Proponer al Consejo General, por conducto de la Secretaría Ejecutiva, el proyecto de resolución por el que se determine, en su caso, la sanción a imponer, a las y los Consejeros Presidentes y Consejeras o Consejeros Electorales.
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+e) Proponer al Consejo General, por conducto de la Secretaría Ejecutiva, el proyecto de resolución por el que se determine, en su caso, la remoción de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales.
 
 6. Son atribuciones de la Oficialía Electoral:
 
-I. Dentro del procedimiento de sanción de consejeros:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+I. Dentro del procedimiento de remoción de consejeros:
 
 a) Expedir certificaciones de las actuaciones que integren los respectivos expedientes, y
 
@@ -339,9 +371,13 @@ e) Llevar a cabo el registro y cotejo documental de los aspirantes, elaborando u
 
 f) Remitir a la Secretaría Ejecutiva los expedientes de las y los ciudadanos que se registraron.
 
-II. Dentro del procedimiento de sanción de consejeros:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-a) Coadyuvar en la realización de las diligencias de investigación que ordene la Secretaría Ejecutiva o la Unidad de lo Contencioso en los procedimientos de sanción;
+II. Dentro del procedimiento de remoción de consejeros:
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+a) Coadyuvar en la realización de las diligencias de investigación que ordene la Secretaría Ejecutiva o la Unidad de lo Contencioso en los procedimientos de remoción;
 
 b) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
 
@@ -353,9 +389,9 @@ b) Coadyuvar con la Junta Local de su entidad en los actos y diligencias que le 
 
 c) Las demás que le confiera la Ley General, el presente Reglamento y la Convocatoria respectiva.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-# LIBRO SEGUNDO. DESIGNACIÓN Y SANCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
+# LIBRO SEGUNDO. DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -437,6 +473,8 @@ j) Los términos en que rendirán protesta las y los candidatos que resulten des
 
 k) La atención de los asuntos no previstos.
 
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU NUMERAL 1 CONTENÍA HASTA EL INCISO K) Y CON LA PRESENTE REFORMA SE PRECISA ÚNICAMENTE HASTA EL INCISO J).]</small>
+
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 Artículo 9
@@ -463,7 +501,7 @@ i) No estar inhabilitado para ejercer cargos públicos en cualquier institución
 
 j) No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno federal como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Jefe de Gobierno de la Ciudad de México, ni Gobernador, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos, y
 
-k) No ser ni haber sido miembro del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
+k) (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -519,13 +557,7 @@ viii. No ser jefe o jefa delegacional, presidenta o presidente municipal, síndi
 
 ix. La aceptación de concluir todo empleo, cargo o comisión en caso de ser designado como Consejero Presidente o Consejero Electoral; y
 
-x. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
-
-2. A solicitud expresa de un o una aspirante que con motivo de alguna convocatoria anterior hubiera presentado originales o copias certificadas del acta de nacimiento, título o cédula profesional señalados en los incisos a) y c) del presente numeral, y los mismos obraran en los archivos del Instituto, se ubicará en una situación de excepción para exhibirlos, una vez que la Unidad Técnica de Vinculación verifique su resguardo documental e idoneidad. En todo caso, dicha documentación quedará integrada en el expediente específico del procedimiento de designación que se encuentre en curso.
-
-3. La información y documentación que con motivo del procedimiento de selección se proporcione al Instituto, deberá ser veraz y auténtica. De no ser así, el aspirante no podrá continuar en el procedimiento de selección.
-
-4. Al momento de presentar la solicitud de registro, las y los aspirantes recibirán un acuse con la descripción de la información y documentación entregada al Instituto, el cual deberán firmar de conformidad. El mencionado comprobante tendrá como único propósito acusar de recibo la documentación ahí referida, sin que ello implique que se tenga por acreditado el cumplimiento de requisitos; lo anterior deberá asentarse en cada uno de los comprobantes de recepción que se emitan.
+x. (DEROGADA, D.O.F. 29 DE AGOSTO DE 2017)
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -719,7 +751,9 @@ Artículo 24
 
 6. El Consejo General deberá publicar la determinación adoptada en el Diario Oficial de la Federación y la Gaceta Oficial de la entidad federativa correspondiente, así como comunicar a las autoridades locales dicha designación.
 
-7. Al término de la sesión de designación, la Secretaría Ejecutiva, a través de la Unidad de Vinculación, procederá a notificar en forma personal el Acuerdo respectivo a las y los ciudadanos designados. De igual forma, publicará en el portal del Instituto la lista de reserva al que se refiere el artículo 5, numeral 3, inciso h) del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+7. Al término de la sesión de designación, la Secretaría Ejecutiva, a través de la Unidad de Vinculación, procederá a notificar en forma personal el Acuerdo respectivo a las y los ciudadanos designados.
 
 8. Las Consejeras y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos designados, deberán rendir la protesta de ley en la sede del Consejo General del Organismo Público. En dicha protesta deberá incluirse el respeto a la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, así como el apego a los principios rectores de la función electoral.
 
@@ -787,73 +821,51 @@ Artículo 30
 
 2. El resultado de cada una de las etapas es definitivo y deberá hacerse público a través del portal del Instituto y por los demás medios que determine la Comisión de Vinculación.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-### Capítulo XI. De la lista de reserva
+### Capítulo XI. Del proceso para cubrir vacantes generadas previo a la conclusión del periodo de designación
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 34], D.O.F. 29 DE AGOSTO DE 2017)
 
 Artículo 31
 
-1. La Comisión de Vinculación integrará una lista de reserva con todos aquellos aspirantes a Consejera o Consejero Presidente y Consejeras o Consejeros Electorales que accedieron a la etapa de entrevista y valoración curricular pero no fueron designados, los cuales podrán ser elegidos como sustitutos, para concluir el periodo de alguna vacante, cuando ésta se genere dentro de los primeros cuatro años del encargo.
+1. Son causas por las que se puede generar una vacante de Consejera o Consejero Presidente o Consejeras o Consejeros Electorales antes de la conclusión del periodo de designación, entre otras, las siguientes:
 
-2. La lista de reserva no seguirá orden de prelación alguno entre sus integrantes.
+a) Renuncia;
 
-3. La lista de reserva estará vigente a partir de la designación de consejeros derivada de una convocatoria ordinaria y hasta la aprobación de la siguiente convocatoria ordinaria.
+b) Fallecimiento;
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+c) Incapacidad permanente total;
+
+d) Remoción.
+
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 35], D.O.F. 29 DE AGOSTO DE 2017)
 
 Artículo 32
 
-1. Una vez que se genere la o las vacantes, el Secretario Ejecutivo del Organismo Público lo notificará a la Comisión de Vinculación, y ésta aprobará el calendario que tendrá por objeto convocar a los integrantes de la lista de reserva a una nueva etapa de entrevista y valoración curricular.
+1. Si la vacante corresponde al cargo de Consejera o Consejero Presidente, se estará a lo siguiente:
 
-2. Las y los aspirantes que forman parte de la lista de reserva y deseen participar en el procedimiento para cubrir una vacante, deberán:
+a) La o el Secretario Ejecutivo del Organismo Público notificará la vacante a la Comisión de Vinculación, y ésta al Consejo General. Las y los Consejeros Electorales del Organismo Público, en sesión pública, aprobarán la designación provisional de la o el Consejero Presidente, seleccionando a uno de ellos, en un plazo de cinco días hábiles a partir de la generación de la vacante.
 
-a) Expresar su interés de manera escrita;
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-b) Manifestar bajo protesta de decir verdad que siguen cumpliendo con los requisitos legales para ocupar el cargo, en términos del artículo 11, y
+b) En caso de existir empate y no lograr un acuerdo en el plazo estipulado, la o el Secretario Ejecutivo del Organismo Público lo notificará al Consejo General del Instituto para que éste designe a una o un Consejero Presidente provisional de entre las y los Consejeros Electorales que se encuentren en funciones, quien tendrá esta responsabilidad únicamente durante el tiempo que le tome al Instituto, llevar a cabo el procedimiento previsto en el artículo 101 de la Ley General.
 
-c) Presentar curriculum vitae actualizado en los términos del artículo 11, numeral 1, inciso d) del presente Reglamento.
+2. (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
 
-3. La Unidad Técnica de Vinculación, en un pla zo no mayor a tres días hábiles, deberá verificar que las y los integrantes de la lista de reserva cumplen con los requisitos.
+3. (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
 
-4. A partir de que la Comisión de Vinculación apruebe el calendario de entrevistas para las y los integrantes de la lista de reserva, los representantes de los partidos políticos y las y los Consejeros del Poder Legislativo contarán con tres días hábiles para presentar ante la Comisión de Vinculación sus observaciones, debidamente fundadas y motivadas, sobre los aspectos a evaluar previstos en el artículo 27, párrafo 3, del presente Reglamento o el incumplimiento de algún o algunos de los requisitos establecidos en la Ley General, el presente Reglamento y la Convocatoria.
-
-5. Una vez elaboradas las propuestas de las y los candidatos para cubrir la o las vacantes, la Comisión de Vinculación deberá someterlas a consideración del Consejo General con una anticipación no menor a setenta y dos horas previas a la sesión que corresponda.
-
-6. El Consejo General designará por al menos el voto de ocho Consejeras y Consejeros Electorales a la Consejera o Consejero Presidente y/o a las Consejeras o Consejeros Electorales que sustituirán a los que generaron las vacantes, especificando el periodo y cargo para el que son designados.
-
-7. Una vez aprobada la propuesta por el Consejo General, se procederá a su publicación y notificación en términos del artículo 24 numerales 6 y 7 del presente reglamento.
-
-8. De igual forma, la Consejera o Consejero Presidente y las Consejeras o Consejeros designados deberán rendir la protesta de ley en la sede del Consejo General del Organismo Público.
-
-9. La lista de reserva no se utilizará cuando deban designarse a la totalidad de los integrantes del órgano superior de dirección de un Organismo Público Local a causa de la remoción de los mismos.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-### Capítulo XII. Del procedimiento expedito
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 36], D.O.F. 29 DE AGOSTO DE 2017)</small>
 
 Artículo 33
 
-1. En casos extraordinarios o urgentes, el Consejo General podrá aprobar un procedimiento expedito, entre otros supuestos, cuando:
+1. En todos los casos en que se genere una vacante en el cargo de Consejera o Consejero Presidente, Consejera o Consejero Electoral, la Comisión de Vinculación a través de la Unidad de Vinculación, deberá iniciar los trabajos para llevar a cabo un nuevo procedimiento de selección y designación.
 
-a) Se genere la vacante de Consejera o Consejero Presidente o de Consejeras o Consejeros Electorales dentro de los últimos tres años, máxime durante el desarrollo de un proceso electoral local en la entidad federativa que se trate.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-b) Se generen vacantes de la totalidad o mayoría de las y los Consejeros Electorales del organismo público local de que se trate, con motivo de su remoción.
+## TÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REMOCIÓN
 
-c) Se genere la vacante de Consejera o Consejero Presidente o de Consejeras o Consejeros Electorales durante los primeros cuatro años del encargo y se considere que ninguna de las personas que integran la lista de reserva cuentan con el perfil apto para ser designadas como sustitutos.
-
-2.- El Consejo General emitirá la convocatoria en la que se determinará el método, forma y condiciones en que deberá desarrollarse el mismo.
-
-3. Dicho procedimiento podrá prever plazos más reducidos, o en su caso, eliminar algunas de las etapas a que se refiere el artículo 7, numeral 2, del presente Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-### Capítulo XIII. Del proceso para cubrir vacantes generadas previo a la conclusión del periodo de designación
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 37], D.O.F. 29 DE AGOSTO DE 2017)
 
 Artículo 34
 
@@ -867,83 +879,35 @@ c) Incapacidad permanente total;
 
 d) Remoción.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 38], D.O.F. 29 DE AGOSTO DE 2017)</small>
 
 Artículo 35
 
-1. Si la vacante corresponde al cargo de Consejera o Consejero Presidente, se estará a lo siguiente:
+1. El Consejo General del Instituto es la autoridad competente para remover a las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos, por incurrir en alguna de las causas graves establecidas en la Ley General, en los términos y conforme al procedimiento previsto en el presente Reglamento.
 
-a) La o el Secretario Ejecutivo del Organismo Público notificará la vacante a la Comisión de Vinculación, y ésta al Consejo General. Las y los Consejeros Electorales del Organismo Público, en sesión pública, aprobarán la designación provisional de la o el Consejero Presidente, seleccionando a uno de ellos, en un plazo de cinco días hábiles a partir de la generación de la vacante.
+2. La Secretaría Ejecutiva, a través de la Unidad de lo Contencioso, será la instancia responsable de sustanciar el procedimiento de remoción establecido en el presente ordenamiento, conforme a lo previsto en la Constitución, la Ley General y este Reglamento.
 
-b) En caso de existir empate y no lograr un acuerdo en el plazo estipulado, la o el Secretario Ejecutivo del Organismo Público lo notificará al Consejo General del Instituto para que éste designe a una o un Consejero Presidente provisional de entre las y los Consejeros Electorales que se encuentren en funciones, quien tendrá esta responsabilidad únicamente durante el tiempo que le tome al Instituto, desarrollar el mecanismo de la lista de reserva, el procedimiento expedito o, en su caso, llevar a cabo el procedimiento previsto en el artículo 101 de la Ley General.
-
-2. En caso de que se genere la vacante de Consejera o Consejero Presidente durante los primeros cuatro años del encargo, el Consejo General del Instituto, podrá determinar, de entre las Consejeras o Consejeros que se encuentren en funciones, quién ocupará dicho encargo para concluir el periodo.
-
-3. Si la vacante corresponde al cargo de Consejera o Consejero Electoral, se estará a lo siguiente:
-
-a) Cuando se generen dentro de los primeros cuatro años del encargo, el Consejo General podrá elegir a un sustituto para concluir el periodo de entre los que integran la lista de reserva y si ninguna de las personas se considera apta para ser nombrada se desarrollará el procedimiento expedito u ordinario correspondiente.
-
-b) Cuando se genere dentro de los últimos tres años del encargo, el Instituto desarrollará el procedimiento previsto en el artículo 101 de la Ley General o, en su caso, un procedimiento expedito.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 39], D.O.F. 29 DE AGOSTO DE 2017)</small>
 
 Artículo 36
 
-1. En todos los casos en que se genere una vacante en el cargo de Consejera o Consejero Presidente, Consejera o Consejero Electoral, la Comisión de Vinculación a través de la Unidad de Vinculación, deberá iniciar los trabajos para cubrirla a través del procedimiento de lista de reserva, implementar el procedimiento expedito o, en su caso, un nuevo procedimiento de selección y designación con excepción del caso previsto por el artículo 35, numeral 2, del presente Reglamento.
+1. Conforme a lo previsto en el artículo 103 de la Ley General, el Secretario Ejecutivo, a través de la Unidad de lo Contencioso, cuando tenga conocimiento de hechos que actualicen alguna de las causas graves del artículo 102 de la Ley General y considere que existen elementos de prueba, instrumentará el procedimiento de remoción establecido en el presente ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+2. La autoridad que reciba una queja o denuncia de responsabilidad en contra de una Consejera o un Consejero Presidente o de una Consejera o Consejero Electoral de un Organismo Público que se refiera o de la que se desprendan conductas graves de las establecidas en el artículo 102, párrafo 2 de la Ley General y 34, párrafo 2 del presente Reglamento, lo comunicará a la brevedad posible a la Secretaría Ejecutiva con la documentación soporte, para que determine lo conducente.
 
-## TÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR
+3. En cualquier etapa del procedimiento, la Unidad de lo Contencioso dará vista de la denuncia a la autoridad que corresponda, respecto de aquellos hechos que pudieran configurar alguna causa de responsabilidad distinta de las señaladas en el artículo 102, párrafo 2 de la Ley General y 34, párrafo 2, del presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+Además, en cualquier caso, recibida una queja o denuncia, la Secretaría Ejecutiva informará de inmediato -vía correo electrónico- a los integrantes del Consejo General, con independencia del cumplimiento de lo establecido en el artículo 45, numeral 2 de este Reglamento.
+
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 40], D.O.F. 29 DE AGOSTO DE 2017)
 
 Artículo 37
 
-1. Las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución.
-
-2. Las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos podrán ser removidos por el Consejo General, por incurrir en alguna de las siguientes causas graves, señaladas en el artículo 102 de la Ley General:
-
-a) Realizar conductas que atenten contra la independencia e imparcialidad de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
-
-b) Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
-
-c) Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
-
-d) Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
-
-e) Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento y no haberse excusado del mismo;
-
-f) Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo; y
-
-g) Violar de manera grave o reiterada las reglas, lineamientos, criterios y formatos que emita el Instituto en términos de la Base V, Apartado B), inciso a), numeral 5 del artículo 41 de la Constitución. Para los efectos de este inciso se considerará violación grave, aquella que dañe los principios rectores de la elección de que se trate.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 38
-
-1. El Consejo General del Instituto es la autoridad competente para sancionar y, en su caso, remover a las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos, por incurrir en alguna de las faltas establecidas en la Ley General, en los términos y conforme al procedimiento previsto en el presente Reglamento.
-
-2. La Secretaría Ejecutiva, a través de la Unidad de lo Contencioso, será la instancia responsable de sustanciar el procedimiento establecido en el presente ordenamiento, conforme a lo previsto en la Constitución, la Ley General y este Reglamento
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 39
-
-1. Conforme a lo previsto en el artículo 103 de la Ley General, el Secretario Ejecutivo, a través de la Unidad de lo Contencioso, cuando tenga conocimiento de hechos que pudieran actualizar alguna falta y considere que existen elementos de prueba, instrumentará el procedimiento establecido en el presente ordenamiento.
-
-2. La autoridad que reciba una queja o denuncia de responsabilidad en contra de una Consejera o un Consejero Presidente o de una Consejera o Consejero Electoral de un Organismo Público que se refiera o de la que se desprendan conductas de las establecidas en el artículo 102, párrafo 2 de la Ley General y 37, numeral 2 del presente Reglamento, lo comunicará a la brevedad posible a la Secretaría Ejecutiva con la documentación soporte, para que determine lo conducente.
-
-3. En cualquier etapa del procedimiento, la Unidad de lo Contencioso dará vista de la denuncia a la autoridad que corresponda, respecto de aquellos hechos que pudieran configurar alguna causa de responsabilidad distinta de las señaladas en el artículo 102, párrafo 2 de la Ley General y 37, numeral 2, del presente Reglamento.
-
-Además, en cualquier caso, recibida una queja o denuncia, la Secretaría Ejecutiva informará de inmediato -vía correo electrónico- a los integrantes del Consejo General, con independencia del cumplimiento de lo establecido en el artículo 48, numeral 2 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 40
-
 1. El procedimiento se podrá iniciar de oficio o a instancia de parte.
 
-I. Se iniciará de oficio cuando cualquier órgano, instancia o funcionario del Instituto tenga conocimiento de que la o el Consejero Presidente y/o algún o algunos de las o los Consejeros Electorales de los Organismos Públicos pudieron haber incurrido en alguna de las faltas descritas en el artículo 102 de la Ley General y 37, numeral 2 del presente Reglamento.
+> <small>(REFORMADA, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+I. Se iniciará de oficio cuando cualquier órgano, instancia o funcionario del Instituto tenga conocimiento de que la o el Consejero Presidente y/o algún o algunos de las o los Consejeros Electorales de los Organismos Públicos pudieron haber incurrido en alguna de las faltas descritas en el artículo 102 de la Ley General y 34, numeral 2 del presente Reglamento.
 
 II. Iniciará a petición de parte cuando la queja o denuncia sea presentada por cualquier partido político o persona física o moral.
 
@@ -951,9 +915,9 @@ III. Los partidos políticos deberán presentar su queja o denuncia por escrito,
 
 IV. Las personas morales deberán presentar su queja o denuncia por escrito, por medio de sus representantes, en términos de la legislación aplicable.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 41], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 41
+Artículo 38
 
 1. El escrito inicial de queja o denuncia deberá cumplir con los requisitos siguientes:
 
@@ -975,9 +939,9 @@ g) Firma autógrafa o huella dactilar.
 
 3. Para la determinación descrita en el numeral que antecede, la Unidad de lo Contencioso, contará con un plazo de diez días hábiles contados a partir de la recepción de la queja o denuncia.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 42], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 42
+Artículo 39
 
 1. Ante la omisión de los requisitos establecidos en los incisos c), d), e) y f) del artículo anterior, la Unidad de lo Contencioso prevendrá a la o el denunciante para que en un plazo improrrogable de tres días hábiles, contados a partir de su notificación, los subsane o aclare las circunstancias de modo, tiempo y lugar. En caso de no hacerlo, se tendrá por no presentada la queja o denuncia.
 
@@ -985,9 +949,9 @@ Artículo 42
 
 3. Ante la omisión del requisito establecido en el inciso b) del artículo anterior, se prevendrá al quejoso o denunciante, para que en el mismo plazo de tres días hábiles, señale domicilio para oír y recibir notificaciones, con el apercibimiento que de no hacerlo, las subsecuentes notificaciones se harán por estrados, aún las de carácter personal.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 43], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 43
+Artículo 40
 
 1. La queja o denuncia será improcedente y se desechará, cuando:
 
@@ -1005,7 +969,9 @@ Cuando se determiné la frivolidad de una queja, analizado el caso concreto, se 
 
 III. Por actos o hechos imputados a una misma persona, que hayan sido materia de otra queja o denuncia ante el Instituto, y en cuyo caso exista una resolución definitiva;
 
-IV. Los actos, hechos u omisiones denunciados no constituyan alguna de las faltas previstas en el artículo 102 de la Ley General y 37, numeral 2 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+IV. Los actos, hechos u omisiones denunciados no constituyan alguna de las faltas previstas en el artículo 102 de la Ley General y 34, numeral 2 del presente Reglamento;
 
 V. Cuando se actualice la prescripción de los actos, hechos u omisiones materia de la denuncia;
 
@@ -1021,9 +987,9 @@ c) El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba 
 
 3. Cuando se actualice alguna causa de improcedencia o sobreseimiento de la queja, la Unidad de lo Contencioso, dentro de los diez días hábiles contados a partir de la recepción de la queja o de haberse agotado el plazo para subsanar los apercibimientos a que hubiere lugar, deberá elaborar el proyecto respectivo y someterlo a la consideración del Consejo General en la siguiente sesión que celebre.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 44], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 44
+Artículo 41
 
 1. El ejercicio de la acción respecto de los actos o hechos objeto del presente procedimiento prescribe en un plazo de cinco años, atendiendo a lo siguiente:
 
@@ -1031,9 +997,9 @@ a) Se computarán a partir de la fecha en que ocurrieron los hechos presuntament
 
 b) Se interrumpirá al iniciarse el procedimiento previsto en este ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 45], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 45
+Artículo 42
 
 1. Para el cómputo de plazos se estará a las reglas siguientes:
 
@@ -1045,9 +1011,9 @@ c) Si la emisión de un acto procesal entraña su cumplimiento en un plazo de d�
 
 d) Si la emisión de un acto procesal entraña su cumplimento en horas, el plazo comenzará a correr desde que se practique la notificación respectiva.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 46], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 46
+Artículo 43
 
 1. En el presente procedimiento serán admitidos como medios de prueba los siguientes:
 
@@ -1065,7 +1031,9 @@ f) La instrumental de actuaciones.
 
 2. La prueba testimonial únicamente será admitida cuando se ofrezca en acta levantada ante fedatario público o funcionario que cuente con esa atribución, que la haya recibido directamente de los declarantes, siempre que estos últimos queden debidamente identificados y se asiente la razón de su dicho.
 
-3. Tendrán valor probatorio pleno las diligencias realizadas por la Oficialía Electoral en las que sea necesario dar fe pública acerca de actos o hechos a fin de contar con elementos para mejor proveer o resolver, así como aquellas llevadas a cabo por la Unidad de lo Contencioso, derivadas de la instrucción de los procedimientos de sanción de Consejeros de un Organismo Público.
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+
+3. Tendrán valor probatorio pleno las diligencias realizadas por la Oficialía Electoral en las que sea necesario dar fe pública acerca de actos o hechos a fin de contar con elementos para mejor proveer o resolver, así como aquellas llevadas a cabo por la Unidad de lo Contencioso, derivadas de la instrucción de los procedimientos de remoción de Consejeros de un Organismo Público.
 
 4. Las pruebas técnicas deberán precisar las circunstancias de modo, tiempo y lugar; queda a cargo del oferente proporcionar los medios para su desahogo.
 
@@ -1077,9 +1045,9 @@ f) La instrumental de actuaciones.
 
 8. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 47], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 47
+Artículo 44
 
 1. La Secretaría Ejecutiva, a través de la Unidad de lo Contencioso, llevará a cabo la investigación de los hechos denunciados, con apego a los siguientes principios: legalidad, profesionalismo, congruencia, exhaustividad, concentración de actuaciones, idoneidad, eficacia, expeditez, mínima intervención y proporcionalidad.
 
@@ -1095,17 +1063,17 @@ b) Posterior a la audiencia de desahogo de pruebas si no se advierten elementos 
 
 5. Si con motivo de la investigación la Unidad de lo Contencioso advierte la Comisión de infracciones diversas ordenará la vista a la autoridad competente.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 48], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 48
+Artículo 45
 
 1. La queja o denuncia podrá ser presentada ante cualquier órgano del Instituto, quien la remitirá de inmediato sin trámite adicional alguno a la Secretaría Ejecutiva, con el objeto de que se examine junto con las pruebas aportadas a través de la Unidad de lo Contencioso.
 
 2. Recibida la queja o denuncia, el Secretario Ejecutivo por conducto de la Unidad de lo Contencioso le asignará número de expediente. Asimismo, se llevará un registro de las denuncias que reciba, informando de su presentación al Consejo General.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 49], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 49
+Artículo 46
 
 1. La Unidad de lo Contencioso contará con un plazo de diez días hábiles para emitir el acuerdo de admisión o propuesta de desechamiento, contados a partir del día en que se reciba la queja o denuncia.
 
@@ -1113,9 +1081,9 @@ Artículo 49
 
 3. Si del análisis a las constancias aportadas por el denunciante se advierte la necesidad de efectuar diligencias preliminares de investigación antes de resolver sobre su admisión o desechamiento, la Unidad de lo Contencioso, dictará a través de un acuerdo las medidas pertinentes para llevarlas a cabo, debiendo justificar su necesidad y oportunidad. En este caso, el plazo para la admisión o desechamiento se computará a partir de la conclusión de las diligencias mencionadas.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 50], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 50
+Artículo 47
 
 1. Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al que se dicten los acuerdos o resoluciones que las motiven, y surtirán efectos el día que se practiquen.
 
@@ -1123,23 +1091,23 @@ Artículo 50
 
 3. Las notificaciones se harán en días y horas hábiles. De toda notificación se levantará la razón correspondiente, la cual se glosará al expediente respectivo.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 51], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 51
+Artículo 48
 
 1. Admitida la denuncia, la Unidad de lo Contencioso, emplazará personalmente a la Consejera o Consejero Presidente, al Consejero o Consejera Electoral denunciado para que comparezca a una audiencia, notificándole mediante acuerdo el lugar, día y hora en que tendrá verificativo; los actos u omisiones que se le imputan, las consecuencias posibles y su derecho a comparecer asistido de un defensor. Para ello, deberá correr traslado con copia simple de la denuncia presentada en su contra, así como de todas las constancias del expediente integrado con motivo de la queja o denuncia.
 
 2. La Consejera o el Consejero Presidente o Consejero Electoral denunciado podrá dar contestación a la queja o denuncia por escrito, el cual deberá ser presentado a más tardar el día y hora señalada para la celebración de la audiencia.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 52 ], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 52
+Artículo 49
 
 1. El escrito de contestación a la queja o denuncia deberá contener nombre y firma autógrafa de la Consejera o el Consejero Presidente, o de la o el Consejero Electoral denunciado y referirse exclusivamente a los hechos motivo de la denuncia.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 53], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 53
+Artículo 50
 
 1. La audiencia se llevará a cabo de manera ininterrumpida, en forma oral, y será conducida por el titular de la Unidad de lo Contencioso o por el personal que éste previamente designe, debiéndose levantar constancia de su desarrollo, en la que firmarán los que en ella intervinieron. La inasistencia de la o el Consejero Presidente o de la o el Consejero Electoral denunciado no será obstáculo para su realización.
 
@@ -1147,9 +1115,9 @@ Artículo 53
 
 3. Abierta la audiencia se dará el uso de la voz a la Consejera o Consejero Electoral denunciado o a su defensor para que responda a la queja o denuncia refiriéndose a todos y cada uno de los hechos que se le imputan, afirmándolos o negándolos, expresando los que ignore por no ser propios, o narrándolos como crea que tuvieron lugar. Dicha contestación podrá realizarse por escrito o de forma verbal.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 54], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 54
+Artículo 51
 
 1. Al término de la audiencia, se abrirá el periodo de ofrecimiento de pruebas, para lo cual se otorgará al Consejero Electoral denunciado diez días hábiles para que ofrezca por escrito los medios de convicción que estime pertinentes y que tengan relación con los hechos que se le imputan.
 
@@ -1161,91 +1129,31 @@ Artículo 54
 
 5. Para el desahogo y valoración de las pruebas se observarán, en lo conducente, las reglas previstas en el Reglamento de Quejas.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 55], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 55
+Artículo 52
 
 1. Celebrada la audiencia de desahogo de pruebas que, en su caso se realice, o una vez desahogadas todas y cada una de las pruebas que fueron admitidas, la autoridad sustanciadora dará vista a las partes para que en el plazo de cinco días hábiles formulen por escrito los alegatos que consideren pertinentes. Hecho lo anterior, declarará cerrada la instrucción, y contará con diez días hábiles para elaborar el dictamen con proyecto de resolución, que será puesto a consideración del Consejo General a más tardar dentro de los diez días hábiles siguientes.
 
-2. De todas las actuaciones que se realicen en los procedimientos de sanción se dejará constancia, la que deberá contener invariablemente la firma del o los funcionarios que en ellas intervengan.
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+2. De todas las actuaciones que se realicen en los procedimientos de remoción se dejará constancia, la que deberá contener invariablemente la firma del o los funcionarios que en ellas intervengan.
 
-Artículo 56
+(ADICIONADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 60], D.O.F. 29 DE AGOSTO DE 2017)
 
-1. Cuando se acredite alguna infracción por parte de las o los Consejeros Electorales denunciados, el Consejo General deberá calificarla, dependiendo de las circunstancias particulares del caso, como levísima, leve o grave y, en caso del último supuesto, precisar si se trata de una gravedad ordinaria, especial o mayor.
-
-2. Para la calificación de la infracción, se tomarán en cuenta los elementos objetivos y subjetivos que concurrieron en la infracción, como:
-
-a) Tipo de infracción, es decir, si se trató de acción u omisión;
-
-b) Bien jurídico tutelado, entendiéndose como la trascendencia de la norma violada;
-
-c) Singularidad o pluralidad de la falta cometida;
-
-d) Circunstancias de tiempo, modo y lugar; y
-
-e) Las condiciones externas y los medios de ejecución.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 57
-
-1. Una vez determinada la calificación de la falta, se impondrá la sanción correspondiente, de entre las siguientes:
-
-a) Amonestación pública;
-
-b) Sanción económica;
-
-c) Suspensión del cargo por un periodo no menor de tres días ni mayor a noventa días naturales sin goce de sueldo; y
-
-d) Remoción.
-
-2. Procede la imposición de sanciones económicas cuando la acreditación de la falta produzca beneficios o lucro, o se causen daños o perjuicios, las cuales podrán ser de hasta tres tantos de los beneficios o lucro obtenidos o de los daños o perjuicios causados. En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios o lucro obtenidos o de los daños o perjuicios causados.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 58
-
-1. Para la imposición de la sanción correspondiente, se deberán tomar en cuenta, por lo menos, los siguientes elementos:
-
-a) La calificación de la falta;
-
-b) Los antecedentes del denunciado;
-
-c) Intencionalidad dolosa o culposa;
-
-d) La reincidencia; y,
-
-e) En su caso, las circunstancias socioeconómicas del denunciado, así como el monto del beneficio, daño o perjuicio causado.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 59
-
-1. Para que proceda la imposición de sanciones diversas a la remoción, se requerirá la mayoría simple de la votación de los integrantes del Consejo General con derecho a voto.
-
-2. Para que proceda la remoción de la o el Consejero Electoral denunciado, se requiere de al menos ocho votos de los integrantes del Consejo General con derecho a voto.
-
-3. Si se resolviera la remoción, el propio Consejo General deberá ejecutar la separación del cargo de Consejero Electoral y declarar la vacante en el Organismo Público correspondiente.
-
-4. En el supuesto anterior, se deberá proveer lo necesario para la debida integración del Organismo Público, atendiendo a lo dispuesto en el artículo 116, fracción IV, inciso c), párrafo segundo de la Constitución, 100 y 101 de la Ley General y el presente Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
-Artículo 60
+Artículo 54 (SIC)
 
 1. Si se resolviera rechazar el proyecto de resolución, en un plazo no mayor a diez días hábiles la Secretaría Ejecutiva, a través de la Unidad de lo Contencioso, elaborará y remitirá una nueva propuesta, debiendo considerar los razonamientos y argumentos que hubiese formulado el Consejo General en la sesión correspondiente. En caso de que sean requeridas nuevas diligencias, el plazo comenzará a correr a partir de que se hayan agotado las mismas.
 
 2. En un plazo no mayor a tres días, la Secretaría Ejecutiva procederá a notificar en forma personal la resolución respectiva a las partes y al Organismo Público correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
+(ADICIONADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 61], D.O.F. 29 DE AGOSTO DE 2017)
 
-Artículo 61
+Artículo 55
 
 1. Las determinaciones a que hace referencia el presente Reglamento podrán ser recurridas ante la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en términos de lo previsto por la Ley de Medios.
 
-VOTO CONCURRENTE…
+VOTO CONCURRENTE.
 
 ## TRANSITORIOS
 
@@ -1263,6 +1171,20 @@ QUINTO. En el caso de las quejas a que se refiere el Libro Segundo, Título Segu
 
 D.O.F. 22 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y LA REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES APROBADO MEDIANTE EL ACUERDO INE/CG86/2015".]
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y LA REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES APROBADO MEDIANTE EL ACUERDO INE/CG86/2015".]
 
 ÚNICO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a los criterios y normas vigentes al momento de su inicio.
+
+D.O.F. 29 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL ACUERDO INE/CG28/2017 POR EL QUE SE APROBÓ LA REFORMA AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y LA REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES, EN ACATAMIENTO A LOS EXPEDIENTES SUP-RAP-89/2017, SUP-RAP-90/2017, SUP-RAP-94/2017 y SUP-RAP-97/2017 ACUMULADOS, DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO".]</small>
+
+PRIMERO. Se aprueba el presente Acuerdo por el que se modifica el Reglamento del Instituto Nacional Electoral para la designación y sanción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales, en los términos del Anexo que forma parte integrante de éste.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales haga del conocimiento de los órganos máximos de dirección de los Organismos Públicos Locales el contenido del presente Acuerdo.
+
+TERCERO. Publíquese el presente Acuerdo y el Reglamento del Instituto Nacional Electoral para la Designación y la Remoción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales, en el Diario Oficial de la Federación.
+
+CUARTO. Se instruye al Secretario Ejecutivo a que haga del conocimiento de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento a las ejecutorias SUP-RAP-89/2017, SUP-RAP-90/2017, SUP-RAP-94/2017 y SUP-RAP-97/2017 Acumulados.
+
+QUINTO. El presente Reglamento entrará en vigor el día de su aprobación, modificándose el Reglamento del Instituto Nacional Electoral para la designación y sanción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales, publicado en el Diario Oficial de la Federación el 22 de marzo de 2017.
