@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2017-06-07"
+last_updated: "2017-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -231,7 +231,9 @@ A) EL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS:
 
 12. Abuso sexual, previsto en el último párrafo del artículo 242.
 
-13. Robo, previsto en los artículos 270, con relación al 274, 275 y 276, fracciones IV, VII, VIII, IX, X, XII, XIV, XV, XVI y XVII.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+13. Robo, previsto en los artículos 270, con relación al 274, 275 y fracciones IV, VII, VIII, IX, X, XII, XV, XVI, XVII; y fracciones I y II del penúltimo párrafo del 276.
 
 14. Delitos previstos y sancionados en los artículos 277, 278, 279, 281, con independencia de que sean ejecutados con violencia y/o agravados.
 
@@ -269,7 +271,9 @@ A) EL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS:
 
 31. Asociación delictuosa, prevista y sancionada en el artículo 370.
 
-32. Pandillerismo, previsto y sancionado en los artículos 371, 372, 373, 374 y 375.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+32. Pandillerismo, previsto y sancionado en los artículos 371, 372, 373, 374, 375 y 375 bis.
 
 33. Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383.
 
@@ -371,7 +375,7 @@ Se consideran como delitos contra la seguridad del Estado, los siguientes: a) De
 
 11. DELITOS GRAVES QUE DETERMINE LA LEY EN CONTRA DE LA SALUD.
 
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TECERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 SE CONSIDERAN COMO DELITOS CONTRA LA SALUD, LOS SIGUIENTES: CONTRA LA SALUD, PREVISTOS Y SANCIONADOS EN LOS ARTÍCULOS 475 Y 476, EN RELACIÓN A LA TABLA CONTEMPLADA EN EL ARTÍCULO 479 DE LA LEY GENERAL DE SALUD.
 
@@ -2885,7 +2889,7 @@ XII.- Cuando el objeto del delito equiparable al robo hayan sido expedientes o a
 
 XIII.- Para hacerse pasar como servidor público, el sujeto activo se valga de identificaciones falsas o para simular una orden de autoridad el sujeto activo se valga de documentos, sellos o cualquier otro instrumento que tienda a engañar al sujeto pasivo.
 
-XIV.- Se cometa el ilícito en edificio, vivienda o cualquier lugar que se encuentre habitado o destinado a casa habitación, comprendiéndose en esta denominación tanto los lugares fijos como los de carácter móvil, sea cual fuere la materia de que estén construidos.
+XIV.- (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
 XV.- El apoderamiento recaiga sobre cualquier vehículo automotor en cualquier lugar en que se encuentren.
 
@@ -2893,7 +2897,15 @@ XVI.- En contra de menor de edad, de persona con discapacidad o de persona mayor
 
 XVII.- Por quien haya sido o sea miembro de algún cuerpo de seguridad pública o privada aunque no se encuentre en servicio.
 
-XVIII.- En contra de un transeúnte.
+XVIII.- (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
+
+> <small>(ADICIONADO [N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN], P.O. 30 DE AGOSTO DE 2017)</small>
+
+Además de las penas establecidas, el robo se entenderá agravado y la pena que le corresponda se aumentara de cuatro a catorce años de prisión cuando el delito se realice en las siguientes circunstancias:
+
+XI (SIC). Se cometa el ilícito en edificio, vivienda o cualquier lugar que se encuentre habitado o destinado a casa habitación, comprendiéndose en esta denominación tanto los lugares fijos como los de carácter móvil, sea cual fuere la materia de que estén construidos.
+
+XII. En contra de un transeúnte.
 
 En todos los casos señalados en este artículo, si el delito de robo o su equiparable se realizaron con violencia, la pena correspondiente será la que resulte de aumentar la pena que corresponde al empleo de la violencia, más la pena que corresponda por la calificativa resultante.
 
@@ -3864,6 +3876,14 @@ Las penas señaladas en este artículo, se aplicarán siempre que haya sido la p
 ###### Artículo 375.
 
 Los que en grupo de dos o más personas, obstruyan la vía pública, entendiéndose con esto las calles, libramientos, boulevares, avenidas, camellones, carreteras, y en general todo espacio de dominio público y uso común, que por disposición de la autoridad o por razón del servicio, están destinadas al tránsito de personas, vehículos o cosas; exijan pago de peaje, para transitar sobre estas, a transeúntes o conductores de vehículos del servicio particular o público, serán sancionados con prisión de cinco a diez años.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+###### Artículo 375 Bis.
+
+El pandillerismo se entenderá como agravado y la pena que le corresponda se aumentara hasta en una mitad más, cuando el delito se realice por personas que pertenezca (sic) a una pandilla con presencia transnacional.
+
+Se entenderá que existe presencia transnacional cuando la pandilla haya sido señalada en los informes de organizaciones internacionales como la oficina de las Naciones Unidas contra la Droga y el Delito.
 
 #### Sección Tercera. Delincuencia Organizada
 
@@ -5752,3 +5772,11 @@ IV. En los procesos pendientes de dictarse sentencia en primera y segunda instan
 V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 
 Artículo Tercero.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 240 POR EL QUE SE REFORMAN, ADICIONA Y DEROGAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
