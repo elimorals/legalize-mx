@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-sobre-la-adquisicion-control-uso-mantenimiento-602
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-03-31"
-last_updated: "2009-03-19"
+last_updated: "2017-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60251&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-01-10"
 ---
 # LINEAMIENTOS SOBRE LA ADQUISICION, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-LINEAMIENTOS SOBRE LA ADQUISICION, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LOS LINEAMIENTOS SOBRE LA ADQUISICIÓN, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADOS EN LA G.O. DE 30 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MARZO DE 2009.
+LINEAMIENTOS SOBRE LA ADQUISICIÓN, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE AGOSTO DE 2017 (ABROGADOS).
 
 Lineamientos publicados en la Gaceta Oficial del Distrito Federal, el lunes 31 de marzo de 2008.
 
@@ -48,7 +50,7 @@ La Secretaría Administrativa vigilará el cumplimiento de los presentes Lineami
 
 Los presentes Lineamientos aplican para las áreas del Tribunal a las que se asigne temporal o definitivamente vehículos de servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -118,7 +120,7 @@ c) Datos de la licencia de manejo del resguardante; y
 
 d) Descripción del estado físico del vehículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -134,7 +136,7 @@ d) El documento que contenga el diagnóstico del estado físico del vehículo, e
 
 e) Copia de la tarjeta de circulación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 6.
 
@@ -246,7 +248,7 @@ La Secretaría Administrativa será la responsable de proporcionar a las áreas 
 
 Las cantidades anteriores podrán ser actualizadas periódicamente por la Secretaría Administrativa conforme al comportamiento del costo de los combustibles y las disponibilidades presupuestales.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE MARZO DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 19 DE MARZO DE 2009)</small>
 
 ###### Artículo 14.
 
@@ -304,7 +306,7 @@ Por ningún motivo los servidores públicos que tengan bajo su resguardo vehícu
 
 Los usuarios de vehículos del Tribunal tendrán la obligación de respetar el Reglamento de Tránsito vigente; de igual forma, si le fuese levantada una infracción, ésta deberá ser cubierta por el servidor.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -396,7 +398,7 @@ Lo que certifico en ejercicio de la facultad prevista en los artículos 188, inc
 
 México, Distrito Federal, a once de enero de dos mil ocho. DOY FE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.]</small>
 
 G.O. 25 DE FEBRERO DE 2009.
 
@@ -411,3 +413,13 @@ G.O. 19 DE MARZO DE 2009.
 PRIMERO.- La presente reforma a los Lineamientos sobre la Adquisición, Control, Uso, Mantenimiento y Resguardo del Parque Vehicular del Tribunal Electoral del Distrito Federal, entrará en vigor al día siguiente de su publicación en los estrados del organismo.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS "LINEAMIENTOS SOBRE LA ADQUISICIÓN, CONTROL, USO, MANTENIMIENTO Y RESGUARDO DEL PARQUE VEHICULAR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abrogan los Lineamientos sobre la Adquisición, Control, Uso, Mantenimiento y Resguardo del Parque Vehicular del Tribunal Electoral del Distrito Federal, aprobados por el Pleno mediante acuerdo 002/2008 de 10 de enero de 2008, así como todas aquellas disposiciones que se opongan al presente.
+
+TERCERO. Publíquese en la Gaceta Oficial de la Ciudad de México, así como en los estrados y en el sitio de Internet e Intranet del Tribunal.
