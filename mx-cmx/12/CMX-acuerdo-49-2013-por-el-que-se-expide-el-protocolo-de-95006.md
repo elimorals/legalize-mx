@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-49-2013-por-el-que-se-expide-el-protocolo-de-95006"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-07-04"
-last_updated: "2013-07-04"
+last_updated: "2017-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2013-07-02"
 ---
 # ACUERDO 49/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACION POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL, PARA EL CONTROL Y PREVENCION AL CONDUCIR VEHICULOS AUTOMOTORES BAJO LOS EFECTOS DEL ALCOHOL "PROGRAMA CONDUCE SIN ALCOHOL"
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL ACUERDO 59/2017 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO PARA LA APLICACIÓN DEL PROGRAMA "CONDUCE SIN ALCOHOL", PUBLICADO EN EL G.O. DE 30 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, PARA EL CONTROL Y PREVENCIÓN AL CONDUCIR VEHÍCULOS AUTOMOTORES BAJO LOS EFECTOS DEL ALCOHOL "PROGRAMA CONDUCE SIN ALCOHOL"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2017 (ABROGADO).
 
 Protocolo publicado en la Gaceta Oficial del Distrito Federal, el jueves 4 de julio de 2013.
 
@@ -379,3 +381,15 @@ Los rubros mencionados con anterioridad son enunciativos más no limitativos, ya
 La Policía del Distrito Federal mantendrá coordinación, comunicación y el apoyo con el C2, C4i4 y Centro de Control, en los supuestos necesarios para la ejecución y aplicación del presente protocolo.
 
 Lo anterior, con el fin de atender las emergencias o asistencias con la máxima prioridad, prontitud, eficiencia y profesionalismo, solicitadas por las diferentes frecuencias operativas o por cualquier otro medio.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 59/2017 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO PARA LA APLICACIÓN DEL PROGRAMA “CONDUCE SIN ALCOHOL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Acuerdo 49/2013 por el que se expide el Protocolo de Actuación Policial de la Secretaría de Seguridad Pública del Distrito Federal para el Control y Prevención al conducir Vehículos Automotores bajo los efectos del Alcohol “Programa Conduce Sin Alcohol”, publicado en la otrora Gaceta Oficial del Distrito Federal el 04 de julio del 2013.
+
+TERCERO. Se instruye a las Subsecretarías de esta Secretaría de Seguridad Pública, a la Jefatura del Estado Mayor Policial, y a la Oficialía Mayor, en coordinación con las Direcciones Generales de Asuntos Jurídicos y Asuntos Internos, para que en el ámbito de sus competencias provean lo necesario para la implementación y verificación del presente Acuerdo y de ser necesario la actualización de la normatividad institucional.
