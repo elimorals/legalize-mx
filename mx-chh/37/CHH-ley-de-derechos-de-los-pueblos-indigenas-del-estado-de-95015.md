@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2016-10-03"
+last_updated: "2017-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -353,7 +353,13 @@ XI. Apoyar y establecer los mecanismos financieros y de concertación para el di
 
 XII. Impulsar, promover y coordinar, a través de los Sistemas Estatal para la Igualdad entre Mujeres y Hombres y para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, los programas, proyectos y acciones que promuevan en las mujeres y hombres integrantes de los pueblos y las comunidades indígenas, el derecho a la igualdad y a una vida libre de violencia.
 
-XIII. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XIII. Apoyar la nutrición de los integrantes de los pueblos originarios mediante programas de alimentación, en especial para la población infantil.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XIV. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA COORDINACIÓN ESTATAL DE LA TARAHUMARA, SE ENTENDERÁN REFERIDAS A LA COMISIÓN ESTATAL PARA LOS PUEBLOS INDÍGENAS".]</small>
 
@@ -381,7 +387,13 @@ VI. Garantizar que las instituciones, dependencias y oficinas públicas cuenten 
 
 VII. Instrumentar las medidas necesarias para que en los municipios del Estado, las señales informativas de nomenclatura oficial, así como sus topónimos, sean inscritos en los idiomas originarios de uso en el territorio, así como en el español.
 
-VIII. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+VIII. Apoyar la nutrición de los integrantes de los pueblos originarios mediante programas de alimentación, en especial para la población infantil.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IX. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 32.
 
@@ -538,3 +550,13 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0355/2017 V P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 29 Y 31 DE LA LEY DE DERECHOS DE LOS PUEBLOS INDIGENAS DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En las Reglas de Operación de los Programas de Alimentación a que se refiere el presente Decreto, las Autoridades Estatales y Municipales incorporarán las formas y procedimientos para que los pueblos y comunidades indígenas participen en el ejercicio y vigilancia de los mismos, sujetándose para ello a las disposiciones de la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
+
+TERCERO.- Para el diseño y operación de los Programas de Alimentación a que se refiere el presente Decreto, las Autoridades Estatales y Municipales, para el ejercicio fiscal de 2018 y subsecuentes, deberán haber cumplido previamente con las disposiciones de la Ley de Derechos de los Pueblos Indígenas del Estado de Chihuahua, a fin de garantizar el derecho al consentimiento de los pueblos originarios y que sean estos quienes de común acuerdo determinen la forma en que deberán llevarse a cabo dichos programas.
