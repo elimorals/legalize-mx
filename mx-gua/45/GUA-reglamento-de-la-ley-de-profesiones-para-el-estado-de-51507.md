@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-profesiones-para-el-estado-de-51507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-22"
-last_updated: "2016-10-18"
+last_updated: "2017-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -59,9 +59,13 @@ II.- Dirección: La Dirección de Profesiones de la Secretaría;
 
 III.- Ley: La Ley de Profesiones para el Estado de Guanajuato; y
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-IV.- Dirección General: La Dirección General de Profesiones, Servicios Escolares e Incorporaciones de la Secretaría.
+IV.- Dirección General: La Dirección General de Profesiones, Servicios Escolares e Incorporaciones de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+V.- Cédula Profesional Estatal: Al documento que se obtiene como resultado del registro de un título profesional ante la Secretaría.
 
 ###### Artículo 3.
 
@@ -95,7 +99,7 @@ Los títulos profesionales se expedirán por las instituciones educativas oficia
 
 Las instituciones educativas oficiales y particulares que presten sus servicios en el Estado de los tipos de educación media superior y superior, verificarán, previa a la emisión del título profesional correspondiente, que quien lo vaya a obtener, acredite haber cursado sus estudios en todos los niveles necesarios para la expedición del mismo, en los términos de la Ley General de Educación y la Ley de Educación para el Estado de Guanajuato.
 
-La Secretaría, a través de la unidad administrativa que se establezca (sic) su reglamento interior, establecerá los procedimientos que permitan verificar el cumplimiento de esta obligación a cargo de las instituciones educativas.
+La Secretaría, a través de la unidad administrativa que se (sic) establezca su reglamento interior, establecerá los procedimientos que permitan verificar el cumplimiento de esta obligación a cargo de las instituciones educativas.
 
 ###### Artículo 9.
 
@@ -151,6 +155,14 @@ VI.- Coordinar el Plan Estatal de Servicio Profesional de índole Social de cada
 
 VII.- Revisar y en su caso, aprobar las disposiciones que proponga el Consejo de Profesionistas del Estado de Guanajuato en materia de vigilancia al ejercicio profesional y respecto a la solución de conflictos a que se refiere el artículo 47 de la Ley.
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+VIII.- Emitir la Cédula Profesional Estatal en términos de lo establecido en la Ley y en este Reglamento; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IX.- Supervisar el Registro Estatal de Profesionistas.
+
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
@@ -191,6 +203,14 @@ XVI.- Publicar en los periódicos de circulación en el Estado y en los medios e
 
 XVII.- Establecer acciones de coordinación con las instituciones educativas de los tipos medio superior y superior que formen parte del Sistema Educativo Estatal, para la agilización del registro de los títulos profesionales.
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XVIII.- Registrar los títulos profesionales y dictaminar el cumplimiento de requisitos para la emisión de la Cédula Profesional Estatal; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XIX.- Administrar el Registro Estatal de Profesionistas con Cédula Profesional Estatal.
+
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
@@ -203,15 +223,63 @@ En las comisiones de carácter técnico a las que se refiere la fracción II del
 
 La Dirección de Servicios Escolares verificará que las instituciones educativas con autorización, aprobación o reconocimiento de validez oficial de estudios de la Secretaría, expidan los títulos profesionales de conformidad con los procedimientos, características y requisitos de seguridad que ésta establezca.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
 
-### CAPÍTULO IV. DEL REGISTRO PROFESIONAL
+### CAPÍTULO IV. DEL REGISTRO DE TÍTULO PROFESIONAL Y EMISIÓN DE CÉDULA PROFESIONAL ESTATAL
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 17.
 
-Para obtener el registro de un título profesional, el interesado deberá presentar solicitud, en los formatos emitidos por la Dirección a la que deberá acompañar, en original y copia, los documentos referidos en los formatos que para tal efecto emita ésta.
+Para obtener el registro de un título profesional y la correspondiente emisión de la Cédula Profesional Estatal de nivel técnico, técnico superior universitario o profesional asociado o licenciatura, el interesado deberá presentar la solicitud correspondiente a través de los medios y formatos que establezca la Secretaría, a la que deberá acompañar, en original los siguientes documentos:
+
+I. Certificado de estudios del nivel inmediato anterior al título profesional materia de registro para la emisión de la Cédula Profesional Estatal;
+
+II. Certificado de estudios del nivel del título profesional a registrar;
+
+III. Acta de examen recepcional o constancia de no ser exigible la misma;
+
+IV. Constancia de liberación de servicio social profesional;
+
+V. Título Profesional;
+
+VI. Acta de nacimiento;
+
+VII. Clave Única del Registro de Población CURP; y
+
+VIII. Comprobante del pago de derechos estatales.
+
+En el caso de que el profesionista exhiba la patente o cédula profesional emitida por la Dirección General de Profesiones de la Secretaría de Educación Pública u otras entidades federativas, no será necesaria la presentación de los requisitos enlistados en las fracciones I a VII que anteceden.
+
+Tratándose de estudios realizados en el extranjero, deberá presentarse, además de lo mencionado en este artículo, la resolución de revalidación de estudios expedida por la autoridad educativa competente.
+
+Si el solicitante del registro de título y emisión de cédula profesional estatal es de nacionalidad extranjera, deberá presentar además original y copia del documento migratorio vigente respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+###### Artículo 17 Bis.
+
+Para los casos de registro de título profesional y emisión de la Cédula Profesional Estatal de nivel Maestría y Doctorado, el interesado deberá presentar la solicitud correspondiente en el formato establecido para tal efecto, copia de la cédula profesional estatal que le antecede, además en original los requisitos mencionados en las fracciones II, III, V, VII y VIII y los tres últimos párrafos del artículo 17.
+
+Los mismos requisitos aplican para el registro de Diploma o Título y emisión de la Cédula Profesional Estatal derivado de alguna especialidad.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+###### Artículo 17 Ter.
+
+Una vez cumplidos los requisitos establecidos en los artículos precedentes, la Secretaría otorgará al interesado la cédula profesional estatal correspondiente al documento que ampara los estudios materia del registro.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+###### Artículo 17 Quáter.
+
+Para obtener un duplicado de cédula profesional estatal de cualquier nivel, el interesado deberá presentar la solicitud correspondiente en el formato establecido para tal efecto, a la que deberá acompañar, los siguientes documentos:
+
+I.- Copia simple de Clave Única del Registro de Población CURP;
+
+II.- Copia simple de Cédula Profesional Estatal o bien copia legible del título profesional, diploma de especialidad o grado académico, según sea el caso, que contenga en su reverso el registro ante la Dirección General; y
+
+III.- Original del comprobante del pago de derechos estatales.
 
 ###### Artículo 18.
 
@@ -269,9 +337,11 @@ VI.- La leyenda “Profesionista Colegiado”, si se está en el supuesto.
 
 Los profesionistas podrán asociarse para ejercer, ajustándose a las prescripciones de las leyes relativas; sin embargo, la responsabilidad en que incurran, será siempre individual.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 25.
 
-Las autorizaciones provisionales para el ejercicio profesional se otorgarán por seis meses y serán renovadas por períodos iguales, mientras el solicitante se encuentre en cualquiera de los supuestos previstos por el artículo 14 de la Ley.
+La autorización provisional para el ejercicio profesional se otorgará de manera gratuita y estará vigente hasta en tanto no se obtenga el título o cédula profesional estatal, según corresponda, sin que la duración de aquella pueda exceder de dos años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
@@ -1402,5 +1472,11 @@ Artículo Tercero. La referencia que el artículo 4 de la Ley de Profesiones par
 P.O. 18 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 195, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
