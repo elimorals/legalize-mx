@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2017-02-22"
+last_updated: "2017-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHH"
 ---
 # LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -77,9 +81,19 @@ Para el desempeño de sus funciones las autoridades electorales establecidas por
 
 2) Los ciudadanos, los partidos políticos, las agrupaciones políticas y el gobierno son corresponsables en la preparación, desarrollo, vigilancia, observación y calificación del proceso electoral mediante las instituciones, procedimientos y normas que sancionan las leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+3) En el cumplimiento de estas obligaciones se promoverá la igualdad entre mujeres y hombres, la no discriminación y la eliminación de estereotipos y prácticas que desvaloricen a las personas por origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como la eliminación de la violencia política de género.
+
 Artículo 3
 
-La aplicación de las normas y procedimientos contenidos en esta Ley corresponde al Instituto Nacional Electoral, al Instituto Estatal Electoral, al Tribunal Estatal Electoral y al Congreso del Estado en sus respectivos ámbitos de competencia y su interpretación se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el cuarto párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+La aplicación de las normas y procedimientos contenidos en esta Ley corresponde al Instituto Nacional Electoral, al Instituto Estatal Electoral, al Tribunal Estatal Electoral y al Congreso del Estado en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local, favoreciendo en todo tiempo a las personas con la protección más amplia. A falta de disposición expresa, se aplicarán los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
@@ -89,7 +103,11 @@ Artículo 4
 
 Votar en las elecciones populares, constituye un derecho y una obligación del ciudadano para integrar los Poderes del Estado y los ayuntamientos, así como para participar en los medios de consulta popular y demás mecanismos de participación ciudadana sobre temas trascendentales en el Estado conforme a la Ley en la materia, además todo ciudadano gozará de:
 
-1) Derecho a la igualdad de oportunidades entre hombres y mujeres para obtener cargos de elección popular. Siempre que la naturaleza del cargo lo permita, la proporción atenderá a una relación de 50% máximo para cualquiera de los sexos.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) Derecho a la igualdad de oportunidades entre hombres y mujeres para obtener cargos de elección popular. Siempre que la naturaleza del cargo lo permita, la proporción atenderá a una relación de 50% máximo para cualquiera de los sexos y garantizar la paridad.
+
+En el ejercicio de este derecho se procurará erradicar la violencia política, por acción u omisión, en contra de las mujeres, en los términos establecidos por la Constitución, los tratados internacionales, esta Ley y demás leyes relativas de la materia.
 
 2) Inviolabilidad del voto, que será universal, libre, secreto, directo, personal e intransferible y expresa la voluntad de los ciudadanos chihuahuenses. Los actos que generen presión o coacción a los electores, serán sancionados conforme a lo dispuesto por esta Ley y en especial por la Ley General en Materia de Delitos Electorales.
 
@@ -147,9 +165,29 @@ VI. Lectura en voz alta de los resultados en el consejo distrital, y
 
 VII. Recepción de escritos de incidencias y protesta;
 
-6) Los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine la autoridad electoral. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-7) Las organizaciones a las que pertenezcan los observadores electorales, a más tardar treinta días después de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo Estatal del Instituto Estatal Electoral.
+j) Los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine dicha autoridad. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+6) Las organizaciones a las que pertenezcan los observadores electorales, a más tardar treinta días después de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo Estatal del Instituto Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+7) Solicitar la información pública a las autoridades electorales y a las agrupaciones políticas estatales de conformidad con la ley de la materia y a los candidatos con relación a sus compromisos de campaña.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+8) Solicitar el acceso, rectificación, cancelación y oposición de sus datos personales proporcionados a las autoridades electorales de conformidad con las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+9) Solicitar la realización de referéndums, plebiscitos, consultas ciudadanas y consultas populares.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+10) El ejercicio de los derechos y el cumplimento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
 
 Artículo 5
 
@@ -169,11 +207,17 @@ f) Conducirse con ética, de manera honesta, pacífica y dentro del marco de la 
 
 g) Desempeñar las funciones electorales para las que sean requeridos. En este caso, los patrones están obligados a otorgar el permiso correspondiente a sus trabajadores, en los términos de la legislación laboral.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+h) Los ciudadanos chihuahuenses que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernador del Estado, de conformidad con lo previsto en el artículo 21, numeral 1, de la Constitución y en el Libro Sexto de la Ley General de Instituciones y Procedimientos Electorales, así como en los lineamientos y acuerdos que emita el Instituto Nacional Electoral y el Instituto Estatal Electoral.
+
 2) Las excusas referidas en el numeral 1, inciso a), deberán acreditarse ante el órgano electoral que los designó.
 
 Artículo 6
 
-1) Para el ejercicio del voto los ciudadanos deberán satisfacer, además de los que fijan los artículos 34 de la Constitución Política de los Estados Unidos Mexicanos y 21 de la Local, los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) Para el ejercicio del voto la ciudadanía deberá satisfacer, además de los que fijan los artículos 34 de la Constitución Política de los Estados Unidos Mexicanos y 21 de la Local, los siguientes requisitos:
 
 a) Estar en pleno goce y ejercicio de sus derechos políticos;
 
@@ -182,6 +226,10 @@ b) Estar registrado en la lista nominal de electores y contar con la credencial 
 2) La lista nominal de electores federal, será el instrumento electoral que servirá de base para la celebración de las elecciones estatales, los procedimientos plebiscitarios y de referéndum. El Instituto Estatal Electoral deberá entregarla a los partidos políticos cuando menos con un mes de anticipación a la jornada electoral, proporcionándoles también dicha información en medios magnéticos.
 
 3) En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+4) El voto de los ciudadanos con residencia en el extranjero se sujetará a lo establecido en la Constitución Política del Estado, la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones secundarias.
 
 Artículo 7
 
@@ -209,11 +257,31 @@ b. No ser Magistrado del Tribunal Estatal Electoral, salvo que se separe del car
 
 c. No ser Presidente del Instituto Estatal Electoral o consejero electoral del referido órgano, salvo que se separe del cargo de conformidad con anticipación al plazo previsto por el artículo 100, numeral 4 de la Ley General de Instituciones y Procedimientos Electorales.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+d) Presentar ante el Instituto Estatal Electoral, la declaración patrimonial, fiscal y de conflicto de intereses, así como escrito de protesta de no contar con antecedentes penales.
+
 2) En relación con la exigencia de separación del cargo público, prevista en las normas constitucionales o legales correspondientes, se entenderá que es efectiva a partir de la formal presentación de la solicitud de licencia ante el órgano competente.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+En el caso de quienes ocupen los cargos de diputados que pretendan reelegirse podrán optar por separarse o no de su cargo.
+
+(NOTA: EL 27 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2017 Y SUS ACUMULADAS 132/2017, 133/2017 Y 136/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DEL NUMERAL 2) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+QUIENES PRETENDAN REELEGIRSE EN EL CARGO DE PRESIDENTE MUNICIPAL Y SÍNDICO DEBERÁN SEPARARSE DE SU CARGO EN LOS PLAZOS ESTABLECIDOS POR LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Por lo que respecta a quienes ocupen los cargos de regidores y pretendan reelegirse podrán optar por separarse o no de su cargo.
 
 3) Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular en el mismo proceso electoral; exceptuando el caso de que se registre a una misma persona como candidata al cargo de diputado por ambos principios de elección.
 
-4) Toda persona está impedida para participar a distintos cargos de elección popular en un proceso federal y local concurrente.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+4) Toda persona está impedida para participar a distintos cargos de elección popular en un proceso federal y local concurrente, en este supuesto, el primer registro que se haya realizado subsistirá y se procederá a la cancelación automática del segundo.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DEL GOBERNADOR, DE LOS DIPUTADOS, AYUNTAMIENTOS Y SÍNDICOS
 
@@ -239,6 +307,14 @@ Artículo 11
 
 4) El Congreso del Estado se renovará en su totalidad cada tres años.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+5) Los diputados podrán ser electos hasta por un periodo adicional, en los términos que señale la Constitución Política del Estado y observando lo siguiente:
+
+a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que los haya postulado previamente o bien, por cualquiera de los partidos de la coalición o candidatura común cuando así se hayan postulado previamente, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+b) Tratándose de diputados que hayan sido electos como candidatos independientes, solo podrán postularse para la reelección con la misma calidad con la que fueron electos.
+
 Artículo 12
 
 El ejercicio de las funciones que corresponden a los municipios se deposita en los ayuntamientos, de acuerdo a la división que establece el artículo 125 de la Constitución Política del Estado.
@@ -248,6 +324,18 @@ Artículo 13
 1) Los ayuntamientos serán electos popular y directamente según el principio de mayoría relativa, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la Ley.
 
 2) Los ayuntamientos se integrarán además, con el número de regidores electos según el principio de representación proporcional, de acuerdo a las normas y procedimientos que señala esta Ley. Por cada candidato propietario de los ayuntamientos, se elegirá un suplente.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+3) Los integrantes de los ayuntamientos podrán ser electos hasta por un periodo adicional, en los términos que señale la Constitución Política del Estado y observando lo siguiente:
+
+a) La postulación y solicitud del registro solo podrá ser realizada por el mismo partido que los haya postulado previamente o bien por cualquiera de los partidos de coalición o candidatura común que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+b) Tratándose de quienes hayan sido electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electos;
+
+c) Los presidentes municipales, síndicos y regidores que pretendan la reelección deberán ser registrados para el municipio en que fueron electos previamente;
+
+d) Quienes hayan ocupado los cargos de síndico o regidor podrán ser postulados en el periodo inmediato siguiente como candidato a presidente municipal, sin que ello suponga reelección, pero quienes hayan ocupado el cargo de presidente municipal no podrán postularse como candidato a síndico o regidor en el periodo inmediato siguiente.
 
 Artículo 14
 
@@ -293,9 +381,9 @@ Artículo 17
 
 El incumplimiento de este precepto dará lugar a la negativa del registro de la referida lista, la que, en su caso, podrá subsanarse dentro del lapso de registro señalado para ese efecto.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-2) Para garantizar la pluralidad representativa en el Congreso del Estado, se asignará en una primera ronda una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% de la votación. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
+2) Para garantizar la pluralidad representativa en el Congreso del Estado, se asignará en una primera ronda una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación estatal válida emitida. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
 3) Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por aquellos conforme a esta Ley, y, en segundo lugar, atendiendo a los más altos porcentajes obtenidos en su distrito por cada unos (sic) de los candidatos del mismo partido político, de la votación estatal válida emitida.
 
@@ -317,13 +405,21 @@ Artículo 19
 
 2) El Congreso del Estado será el órgano encargado de emitir la convocatoria para la elección extraordinaria que corresponda.
 
-3) Si una vez instalado el Congreso transcurren treinta días sin que uno o más diputados propietarios de mayoría relativa concurran sin mediar causa justificada, se llamará al suplente respectivo. Si éste no concurre dentro de los quince días siguientes al llamado, el Congreso del Estado convocará a nuevas elecciones del distrito o distritos electorales a que corresponda la ausencia. Si los ausentes hubieren sido electos según el principio de representación proporcional y no concurrieren al Congreso en los términos del párrafo anterior, se llamará a los respectivos suplentes y, en caso de no concurrir, al candidato propietario que siga en el orden de acreditación que corresponda al partido de que se trate, según el sistema de lista o el de más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido. El anterior procedimiento se observará cuando alguno de los diputados integrantes de la legislatura faltare por cualquier causa y el suplente estuviera imposibilitado para asumir el cargo.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+3) Si una vez instalado el Congreso transcurren treinta días sin que uno o más diputados propietarios de mayoría relativa concurran sin mediar causa justificada, se llamará al suplente respectivo. Si éste no concurre dentro de los quince días siguientes al llamado, el Congreso del Estado hará la declaratoria de la vacante y notificará al Instituto Estatal Electoral para que convoque a nuevas elecciones del distrito o distritos electorales a que corresponda la ausencia.
+
+En el caso de que el suplente no acuda a tomar la protesta de ley por muerte o incapacidad declarada por la autoridad competente y esto ocurra en el último año de ejercicio constitucional se le hará el llamado al candidato propietario siguiente en el orden de acreditación que corresponda a su partido en la lista de representación proporcional.
+
+Si los ausentes hubieren sido electos según el principio de representación proporcional y no concurrieren al Congreso en los términos del párrafo anterior, se llamará a los respectivos suplentes y, en caso de no concurrir, al candidato propietario que siga en el orden de acreditación que corresponda al partido de que se trate, según el sistema de lista o el de más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido. El anterior procedimiento se observará cuando alguno de los diputados integrantes de la legislatura faltare por cualquier causa y el suplente estuviera imposibilitado para asumir el cargo.
 
 Artículo 20
 
 1) Las convocatorias para la realización de elecciones extraordinarias no podrán restringir los derechos previstos en esta Ley, ni alterar los procedimientos y formalidades que establece.
 
-2) El Instituto Estatal Electoral podrá ajustar los plazos establecidos en esta Ley para adecuar el proceso electoral a la fecha de la convocatoria a que alude el numeral precedente.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) El Instituto Estatal Electoral podrá ajustar los plazos establecidos en esta Ley para adecuar el proceso electoral a la fecha de la convocatoria a que alude el artículo anterior.
 
 3) En ningún caso podrá participar en elecciones ordinarias o extraordinarias el partido político que hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el partido que hubiese perdido su registro, siempre y cuando hubiera participado con candidato en la elección ordinaria que fue anulada.
 
@@ -751,39 +847,39 @@ Artículo 42
 
 1) Los partidos políticos nacionales o estatales podrán aliarse o unirse con el fin de constituir frentes, en los términos de la Ley General de Partidos Políticos, legislación que será aplicable también para el caso de fusiones entre aquéllos.
 
-2) Sin perjuicio de lo dispuesto en el numeral anterior, los partidos políticos también podrán postular candidaturas comunes en términos de lo dispuesto por la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) Sin perjuicio de lo dispuesto en el numeral anterior, los partidos políticos también podrán postular candidaturas comunes, aprobando la candidatura de conformidad con su norma estatutaria, sin mediar transferencia de porcentajes de votación a través del convenio de candidatura común.
 
 ### CAPÍTULO SEGUNDO. DE LAS CANDIDATURAS COMUNES
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 Artículo 43
 
-1) Los partidos políticos, tendrán derecho a postular candidaturas comunes para la elección de Gobernador, diputados de mayoría y planillas de ayuntamientos. Los partidos políticos que postulen candidato común deberán suscribir un convenio firmado por sus dirigentes estatales, el que deberán presentar para su registro ante el Consejo Estatal, hasta cinco días antes del inicio del periodo de registro de candidatos de la elección de que se trate.
+1) La candidatura común es la unión de dos o más partidos políticos, sin mediar coalición.
 
-2) Los partidos políticos que postulen candidato a Gobernador en común deberán también suscribir convenio de candidatura común para los cargos a integrar los ayuntamientos en todos los municipios que conforman la geografía electoral del Estado.
+2) Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de Gobernador, diputados de mayoría y planillas de ayuntamientos. Los partidos políticos que postulen candidato común deberán suscribir un convenio de acuerdo a la normatividad interna de los partidos políticos que participen en el mismo, el que deberán presentar para su registro ante el Consejo Estatal, hasta antes del inicio de la precampaña de la elección de que se trate.
 
-a) El convenio de candidatura común deberá contener:
+3) El convenio de candidatura común deberá contener:
 
-b) Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
+a) Nombre de los partidos que la conforman.
 
-c) Emblema común de los partidos que lo conforman y el color o colores con que se participa;
+b) La candidatura o candidaturas que lo motivan.
 
-d) Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento por escrito del candidato;
+c) El procedimiento que se seguirá para la selección de la candidatura o candidaturas que serán postuladas de manera común.
 
-e) La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
+d) El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada una de las candidaturas comunes para efectos de la asignación de diputados de representación proporcional y el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos en el caso de resultar electos.
 
-f) La forma en que se acreditarán los votos a cada uno de los partidos políticos que postulan la candidatura común, para efectos de la conservación del registro y para el otorgamiento del financiamiento público, y
+e) Indicar la plataforma electoral que se asumirá.
 
-g) Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión y a los topes de gastos de campaña determinados por el Consejo General.
+f) Indicar los porcentajes de aportaciones de cada uno de los partidos para gastos de precampaña y campaña, sujetándose a los topes aprobados por la autoridad electoral.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 Artículo 44
 
-1) Al convenio de candidatura común deberá anexársele los siguientes documentos:
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
-
-a) Las actas que acrediten que los órganos internos de los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
-
-b) (DEROGADO, P.O. 27 DE ENERO DE 2016)
+Al convenio de candidatura común deberá anexársele las actas que acrediten que los órganos internos de los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
 
 Artículo 45
 
@@ -793,9 +889,17 @@ Artículo 45
 
 3) Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
 
-4) Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Consejo Estatal del Instituto Estatal Electoral.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-5) En la boleta deberá aparecer en un mismo espacio el emblema conjunto de los partidos.
+4) Cada uno de los partidos políticos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate. En ningún caso se podrá transferir o distribuir votación mediante el convenio.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+5) Los votos se computarán a favor del candidato común y cada Partido conserva su propia votación obtenida, para todos los efectos establecidos en la Ley.
+
+Los votos en los que se hubiesen marcados más de una opción de los partidos postulantes de la candidatura común, serán considerados válidos para el candidato postulado y contarán como un solo voto.
+
+En caso de que los votos hayan sido emitidos a favor de dos o más partidos que postulen candidatos en común y que por esta causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla, la suma de tales votos se distribuirá igualitariamente entre los partidos que hayan postulado la candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 Artículo 46
 
@@ -816,6 +920,10 @@ Los partidos políticos nacionales y locales de nuevo registro no podrán formar
 3) Todos los servidores del Instituto Estatal Electoral, que tengan funciones de dirección y atribuciones de mando, al momento de asumir su encargo, deberán rendir protesta de cumplir y hacer cumplir la Constitución Política del Estado, y las leyes que de ella emanen.
 
 4) El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+5) Los Consejeros Electorales, la persona que ocupe la Secretaría Ejecutiva y demás servidores del Instituto, estarán sujetos al régimen de responsabilidades de las y los servidores públicos previsto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y Título XII de la Constitución Política del Estado de Chihuahua.
 
 Artículo 48
 
@@ -839,6 +947,10 @@ h) Llevar a cabo la promoción del voto, de acuerdo con las reglas que para tal 
 
 i) Promover la cultura democrática con perspectiva de género.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+j) Convocar, organizar y vigilar las elecciones extraordinarias.
+
 Artículo 49
 
 En términos del artículo 30 numeral 3, de la Ley General de Instituciones y Procedimientos Electorales, el cuerpo de servidores públicos de los órganos ejecutivos y técnicos del Instituto Estatal Electoral, estarán integrados al Sistema de Organismos Públicos Locales del Servicio Profesional Electoral Nacional, que se regirá por el Estatuto que al efecto se expida, por lo que quedan sujetos a dichas normas los respectivos mecanismos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, así como el catálogo general de los cargos y puestos del personal ejecutivo y técnico. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio, y ejercerá su rectoría.
@@ -851,7 +963,9 @@ Artículo 50
 
 3) Los recursos presupuestarios destinados al financiamiento público de los partidos políticos no forman parte del patrimonio del Instituto, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten conforme a la presente Ley.
 
-4) Los Consejeros del Instituto Estatal Electoral se designarán por el Consejo General del Instituto Nacional Electoral, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+4) Los Consejeros del Instituto Estatal Electoral se designarán por el Consejo General del Instituto Nacional Electoral, atendiendo la igualdad de oportunidades en todo momento, garantizando así la paridad entre hombres y mujeres, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales.
 
 Artículo 51
 
@@ -861,7 +975,9 @@ a) Un Consejo Estatal;
 
 b) Una asamblea municipal en cada cabecera municipal, que funcionará durante el proceso electoral;
 
-c) Una asamblea distrital, cuyas funciones las desempeñará la asamblea municipal cabecera de distrito, y
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+c) Una asamblea distrital, cuyas funciones las desempeñará la asamblea municipal cabecera de distrito; en Chihuahua y Juárez podrán instalarse además, asambleas distritales para coadyuvar a las labores del proceso electoral, y
 
 d) Las mesas directivas de casilla para el día de la elección.
 
@@ -953,13 +1069,19 @@ Artículo 56
 
 1) El Secretario Ejecutivo del Instituto, deberá reunir los mismos requisitos que se exigen para ser consejero electoral local y, además, tener título de licenciado en derecho.
 
-2) El Secretario Ejecutivo será nombrado y removido por las dos terceras partes del Consejo Estatal a propuesta del Consejero Presidente.
+(NOTA: EL 27 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2017 Y SUS ACUMULADAS 132/2017, 133/2017 Y 136/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 2) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) El Secretario Ejecutivo será nombrado por las dos terceras partes del Consejo Estatal a propuesta del Consejero Presidente. ESTE PODRÁ HACER LA REMOCIÓN DEL SECRETARIO EJECUTIVO.
 
 3) La designación del Secretario Ejecutivo, se efectuará en la primera sesión a la que convoque el Consejero Presidente del Instituto Estatal Electoral, para llevar a cabo la instalación del Consejo Estatal.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
+(NOTA: EL 27 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2017 Y SUS ACUMULADAS 132/2017, 133/2017 Y 136/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 4) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-4) El cargo de Secretario Ejecutivo concluye junto con el del Consejero Presidente que lo propuso. El Secretario Ejecutivo podrá ser reelecto.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+4) El cargo de Secretario Ejecutivo concluye junto con el del Consejero Presidente que lo propuso, O ANTES, SI ASÍ LO DISPONE EL CONSEJERO PRESIDENTE.
 
 #### SECCIÓN CUARTA. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
 
@@ -1005,7 +1127,9 @@ j. Desarrollar las actividades que se requieran para garantizar el derecho de lo
 
 k. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional Electoral;
 
-l. Designar a los consejeros ciudadanos y secretarios, propietarios y suplentes, de las asambleas municipales y supervisar sus actividades;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+l) Designar a las personas consejeras ciudadanas, así mismo a quienes realicen funciones de secretaría, propietarias y suplentes, de las asambleas municipales y supervisar sus actividades, privilegiando en su integración, los principios de paridad de género.
 
 m. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
 
@@ -1053,11 +1177,17 @@ ff. Efectuar el cómputo estatal de la elección de Gobernador, expedir la const
 
 gg. Recibir de las asambleas distritales las actas de cómputo de la elección de diputados por el principio de mayoría relativa y con base en ellas, efectuar el cómputo estatal de la elección de diputados por el principio de representación proporcional, expedir la constancia de asignación a las fórmulas de representación proporcional triunfadoras y declarar la validez de dicha elección;
 
-hh. Conocer, discutir y, en su caso, aprobar los presupuestos de ingresos y egresos del Instituto Estatal Electoral, así como los correspondientes informes anuales de su ejercicio;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-ii. Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto Estatal Electoral;
+hh) A propuesta del Consejero Presidente, conocer, discutir y, en su caso, aprobar los presupuestos de ingreso y egresos del Instituto Estatal Electoral, así como los correspondientes informes anuales de su ejercicio;
 
-jj. Integrar las coordinaciones y comisiones que se requieran para el adecuado funcionamiento del Instituto Estatal Electoral, designando a sus titulares;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+ii) A propuesta del Consejero Presidente, aprobar las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto Estatal Electoral;
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+jj) Integrar las direcciones, comisiones y demás que se requiera para el adecuado funcionamiento del Instituto Estatal Electoral, designando a sus titulares;
 
 kk. Determinar los lugares de uso común en que podrá colocarse o fijarse la propaganda electoral, previo acuerdo con las autoridades correspondientes;
 
@@ -1067,17 +1197,23 @@ mm. Ejercer las facultades en materia de fiscalización de los recursos de los p
 
 nn. Las demás funciones que le otorgue esta Ley, las leyes generales y demás disposiciones aplicables.
 
-#### SECCIÓN SEGUNDA. DEL CONSEJERO PRESIDENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LA PRESIDENCIA
 
 Artículo 65
 
-1) Son facultades del Consejero Presidente del Instituto Estatal Electoral, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) Son facultades de la Presidencia del Instituto Estatal Electoral, las siguientes:
 
 a. Vigilar el cumplimiento de los acuerdos del Consejo General del Instituto Nacional Electoral y los del Consejo Estatal de (sic) Instituto Estatal Electoral;
 
 b. Convocar por escrito y con anticipación de cuando menos veinticuatro horas a los integrantes del Consejo Estatal;
 
-c. Ejercer el presupuesto de egresos del Instituto Estatal Electoral, bajo la aprobación y supervisión del Consejo Estatal;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+c) Ejercer el presupuesto de egresos del Instituto Estatal Electoral, rindiendo informe anual ante el Consejo Estatal.
 
 d. Proponer al Consejo Estatal los proyectos de resolución de los medios de impugnación y de los procedimientos administrativos sancionadores;
 
@@ -1085,7 +1221,9 @@ e. Dictar las medidas cautelares establecidas en la presente Ley;
 
 f. Presidir y conducir las sesiones del Consejo Estatal y, en su caso, hacer uso de las correcciones disciplinarias previstas en esta Ley para mantener el orden y el respeto debidos durante las sesiones públicas;
 
-g. Designar el personal del Instituto Estatal Electoral, distinto de los titulares de las coordinaciones, comisiones permanentes, consejeros y secretarios de las asambleas municipales y aquéllos no incluidos en el servicio profesional electoral;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+g) Designar el personal del Instituto Estatal Electoral, distinto a aquel cuyo nombramiento corresponde al Consejo Estatal según la presente ley y las demás normas aplicables;
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
@@ -1147,9 +1285,13 @@ a. Preparar el orden del día de las sesiones del Consejo Estatal; declarar el q
 
 b. Auxiliar al Consejero Presidente del Instituto Estatal Electoral en las funciones que le encomiende;
 
-c. Ejecutar los acuerdos del Consejo Estatal cuando se le instruya a ello por dicho órgano;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-d. Supervisar las funciones de las coordinaciones y comisiones del Instituto Estatal Electoral;
+c) Ejecutar los acuerdos del Consejo Estatal cuando se le instruya por dicho órgano; dando cuenta de ello al Consejero Presidente;
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+d) Supervisar bajo los lineamientos que emita el Consejero Presidente, las funciones de las direcciones y comisiones del Instituto Estatal Electoral;
 
 e. Sustanciar el procedimiento administrativo sancionador y elaborar el proyecto de resolución correspondiente;
 
@@ -1185,7 +1327,9 @@ Artículo 59
 
 Artículo 60
 
-1) El Consejo Estatal sesionará a partir del primero de diciembre del año previo al de la elección y hasta la terminación del proceso electoral.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) El Consejo Estatal sesionará a partir del primero de octubre del año previo al de la elección y hasta la terminación del proceso electoral.
 
 2) La periodicidad de las sesiones las decidirá el propio Consejo Estatal.
 
@@ -1219,33 +1363,71 @@ El Consejo Estatal deberá publicar en el Periódico Oficial del Estado los acue
 
 Artículo 69
 
-1. El Instituto Estatal Electoral contará con las coordinaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-a. De Administración, Prerrogativas y Financiamiento;
+1) El Instituto Estatal Electoral contará con las siguientes direcciones ejecutivas:
 
-b. De Capacitación Electoral y Educación Cívica, y
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-c. De Organización Electoral.
+a) Administración.
 
-2) El Instituto Estatal Electoral contará con las comisiones permanentes siguientes:
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-a. De Vinculación con el Instituto Nacional Electoral;
+b) Prerrogativas y partidos políticos.
 
-b. De Fiscalización Local, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2017)</small>
 
-c. De Prensa, Radio, Televisión y Otros Medios.
+c) Educación cívica.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+d) Participación ciudadana.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE AGOSTO DE 2017)</small>
+
+e) Organización electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) El Instituto Estatal Electoral contará además, con las comisiones siguientes:
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+a) Vinculación con el Instituto Nacional Electoral.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+b) Fiscalización local.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+c) Prensa, radio, televisión y otros medios.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+d) Transparencia, acceso a la información y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+e) Unidad de Igualdad de Género.
 
 Artículo 70
 
-1. Las coordinaciones y comisiones referidas tendrán las funciones que las Leyes Generales y esta Ley les concedan, así como las que les asigne el Consejo Estatal en acuerdo o en el Reglamento Interior del Instituto.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-2. Los titulares de las coordinaciones y comisiones a que este artículo se refiere, serán designados por el Consejo Estatal de entre las personas que concurran a la convocatoria pública que para tal efecto se expida, en la que se definirá el perfil que se requiera y los requisitos que deban cubrirse, además de aplicarse la normatividad que el Instituto Nacional Electoral defina conforme al Sistema de Organismos Públicos Locales del Servicio Profesional Electoral Nacional. El plazo por el que los titulares de tales órganos funcionarán será el mismo por el que fue nombrado el Consejero Presidente, sin perjuicio de que puedan ser removidos por determinación del Consejo Estatal. En el caso de la Comisión de Fiscalización Local, el aspirante además deberá comprobar la experiencia en tareas de auditoría y fiscalización, con al menos 5 años de antigüedad.
+1) Las direcciones ejecutivas y demás órganos de la estructura organizacional del Instituto tendrán las funciones que las Leyes Generales y esta Ley les concedan, así como las que les asigne el Consejo Estatal en acuerdo o en su Reglamento Interior.
 
-3. El Titular de la Comisión de Vinculación con el Instituto Nacional Electoral, lo será el que se designe como Titular de la Coordinación de Organización Electoral.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-4. Exclusivamente durante los procesos electorales, las comisiones señaladas en el numeral 2 del artículo anterior, se integrarán hasta con dos consejeros electorales, designados por el Consejo Estatal. En estos casos, la comisión de que se trate será presidida por el consejero electoral designado para tal efecto y el titular de la comisión fungirá como Secretario Técnico.
+2) Las personas titulares de las direcciones ejecutivas y órganos del Instituto serán designados por el Consejo Estatal una vez seguidos los procedimientos que se establezcan en las convocatorias respectivas o normativas correspondientes, en las que se definirá el perfil que se requiera y los requisitos que deban cubrirse, además de aplicarse la normatividad que el Instituto Nacional Electoral defina conforme al Sistema de Organismos Públicos Locales del Servicio Profesional Electoral Nacional. El plazo por el que las y los titulares de tales órganos funcionarán será el mismo por el que fue nombrado la Presidencia del Instituto, sin perjuicio de que puedan ser removidos por determinación del Consejo Estatal. En el caso del órgano de Fiscalización Local, el aspirante además deberá comprobar la experiencia en tareas de auditoría y fiscalización, con al menos 5 años de antigüedad.
 
-5. Además de las anteriores, el Consejo Estatal podrá integrar, con la composición que acuerde, las comisiones que sean necesarias para el desempeño de sus atribuciones, en las cuales participarán los consejeros electorales que sean designados.
+3) (DEROGADO, P.O. 30 DE AGOSTO DE 2017)
+
+4) (DEROGADO, P.O. 30 DE AGOSTO DE 2017)
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+5) El Consejo Estatal podrá integrar, con la composición que acuerde, las comisiones que sean necesarias para el desempeño de sus atribuciones, en las cuales participarán los consejeros electorales que sean designados.
 
 6. En los asuntos que les encomienden, las comisiones deberán presentar un proyecto de resolución o dictamen, con mención de los fundamentos legales, así como de las opiniones y las pruebas necesarias para motivar debidamente el proyecto.
 
@@ -1254,6 +1436,8 @@ Artículo 71
 1. Durante los procesos electorales, la Comisión de Vinculación con el Instituto Nacional Electoral, deberá dar especial y permanente seguimiento al avance y ejecución del convenio de coordinación que se celebre con el Registro Federal de Electores en términos de la Ley General de Instituciones y Procedimientos Electorales.
 
 2. Cada partido político o candidato independiente tendrán derecho a acreditar un representante propietario y un suplente para los trabajos que realice esta comisión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DE LOS INTEGRANTES DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -1403,9 +1587,15 @@ Artículo 218
 
 3) Si no se subsanan los requisitos omitidos, se tendrá por no presentada.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 Artículo 219
 
-Una vez hecho lo anterior, la Secretaría Ejecutiva del Instituto procederá a verificar que se haya reunido el porcentaje y proporción de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores, lo que deberá realizar en un plazo que no exceda de diez días.
+Una vez hecho lo anterior, la Secretaría Ejecutiva del Instituto procederá a verificar que se haya reunido el porcentaje y proporción de apoyo ciudadano, que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores, lo que deberá realizar en un plazo que no exceda de diez días contados a partir del día siguiente en que se reciba la información registral correspondiente.
+
+(NOTA: EL 27 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2017 Y SUS ACUMULADAS 132/2017, 133/2017 Y 136/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+LOS PARTIDOS POLÍTICOS Y QUIENES HAYAN PRESENTADO FIRMAS AL MISMO CARGO, PODRÁN OBTENER COPIA DE LAS MANIFESTACIONES DE RESPALDO CIUDADANO PRESENTADAS POR CADA UNO DE LOS ASPIRANTES PARA SU ANÁLISIS Y REVISIÓN.
 
 Artículo 220
 
@@ -1447,11 +1637,13 @@ Artículo 223
 
 3) En el caso de las listas de Candidatos Independientes de planillas de ayuntamientos, si por cualquier causa falta uno de los integrantes propietarios, deberá ocupar su lugar el suplente que corresponda. En caso de la falta de una fórmula completa se cancelará el registro de ésta. La ausencia de cualquiera de los suplentes no invalidará la planilla.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE ADMINISTRACIÓN, PRERROGATIVAS Y FINANCIAMIENTO
+### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES DE ADMINISTRACIÓN Y DE PRERROGATIVAS Y PARTIDOS POLÍTICOS
 
 Artículo 72
 
-1. La Coordinación de Administración, Prerrogativas y Financiamiento, tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) la Dirección de Administración, tendrá las atribuciones siguientes:
 
 a. Aplicar las normas y procedimientos para la administración de los recursos financieros y materiales del Instituto Estatal Electoral;
 
@@ -1466,6 +1658,22 @@ e. Llevar a cabo los trámites necesarios para que los partidos políticos y can
 f. Coadyuvar con la Comisión de Fiscalización Local cuando así se requiera; y
 
 g. Las demás funciones que le otorgue esta Ley, las leyes generales y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) La Dirección de Prerrogativas y Partidos Políticos, tendrá las atribuciones siguientes:
+
+a) Ministrar a los partidos políticos y candidatos independientes el financiamiento público estatal al que tengan derecho conforme a los lineamientos de esta Ley.
+
+b) Llevar a cabo los trámites necesarios para que los partidos políticos y candidatos independientes puedan acceder a las prerrogativas señaladas en esta Ley.
+
+c) Llevar a cabo los trámites necesarios para que los partidos políticos y candidatos independientes puedan acceder a las prerrogativas señaladas en esta Ley.
+
+d) Coadyuvar con la Comisión de Fiscalización Local cuando así se requiera.
+
+e) Las demás que le otorgue esta Ley, las leyes generales y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DEL FINANCIAMIENTO EN RELACIÓN A CANDIDATOS INDEPENDIENTES
 
@@ -1597,6 +1805,280 @@ Artículo 244
 
 3) Las infracciones a lo establecido en esta sección serán sancionadas en los términos establecidos en esta Ley y demás leyes generales aplicables.
 
+#### SECCIÓN PRIMERA
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 a
+
+1) Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto: la persona que ocupe la Presidencia del Instituto, las y los Consejeros Electorales del Consejo Estatal y de las asambleas municipales, la persona que ocupe la Secretaría Ejecutiva, la persona titular del Órgano Interno de Control, las y los directores ejecutivos, las y los titulares de las comisiones y coordinaciones, las y los jefes de unidades o áreas administrativas, las y los servidores públicos y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+2) El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y esta Ley confieren a las y los servidores públicos del Instituto.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 b
+
+1) Serán causas de responsabilidad para las y los servidores públicos del Instituto:
+
+a) Actuar con indisciplina en el ejercicio del cargo o empleo.
+
+b) Realizar conductas que atenten contra la independencia de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros.
+
+c) Revelar los asuntos de que se tenga conocimiento con motivo del ejercicio del cargo o empleo.
+
+d) Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto.
+
+e) Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar.
+
+f) Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos.
+
+g) Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones correspondientes.
+
+h) No poner en conocimiento del Consejo Estatal todo acto tendiente a vulnerar la independencia de la función electoral.
+
+i) Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento.
+
+j) Dejar de desempeñar las funciones o las labores que tenga a su cargo.
+
+k) Desobedecer reiterada o injustificadamente las órdenes que reciban de sus superiores.
+
+l) Incurrir en faltas de probidad y honradez en el desempeño del cargo o empleo.
+
+m) Realizar actos de discriminación, acciones u omisiones que generen cualquier tipo de violencia, acoso sexual y/o laboral, amagos, malos tratos o expresar críticas ofensivas o injuriosas contra las y los superiores e inferiores, compañeras y compañeros, familiares de unos u otros, dentro o fuera de las horas de servicio.
+
+n) Ocasionar daños o destruir intencionalmente o por descuido o negligencia a los edificios, maquinaria, equipamiento y demás propiedades y posesiones del Instituto o comprometer la seguridad de estos.
+
+o) Presentarse de manera reiterada al desempeño de sus labores bajo el influjo de alcohol, tóxicos, narcóticos o enervantes.
+
+p) Ocuparse de negocios extraños al desempeño de sus cargos o empleos durante las horas de servicio.
+
+q) No atender con la debida diligencia y respeto a las y los usuarios o público en general que acude al Instituto.
+
+r) Dar tratos preferenciales o discriminatorios sin causa justificada.
+
+s) Asentar hechos falsos en las actuaciones o alterarlas aunque no se cause perjuicio con ello a parte interesada.
+
+t) El incumplimiento, en lo conducente, de las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+
+u) Las demás que determine esta Ley o las leyes que resulten aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 c
+
+1) El procedimiento para determinar las responsabilidades de las y los servidores públicos del Instituto se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por la o el servidor público que tenga conocimiento de los hechos o, en su caso, por otras autoridades. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo, prescribirán en tres años.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 d
+
+1) El Órgano Interno de Control podrá determinar de oficio el inicio de investigaciones con la finalidad de esclarecer sobre la probable existencia de conductas que pudieran originar responsabilidades administrativas, pudiéndose auxiliar para tal efecto de los órganos del Instituto.
+
+2) El acuerdo que ordene la investigación deberá expresar las circunstancias que la justifiquen, la que no podrá extenderse a hechos distintos a los señalados, pero sí cuando se trate de circunstancias conexas. Si durante la investigación se descubren otros hechos probablemente constitutivos de responsabilidad, podrá ordenarse el inicio de una nueva investigación.
+
+3) El Organo Interno de Control deberá tomar las medidas necesarias para preservar la materia de la misma o evitar que se pierdan, oculten, destruyan o alteren los elementos relacionados con los hechos investigados.
+
+4) La investigación deberá llevarse a cabo en un plazo máximo de ciento veinte días, pero podrá prorrogarse una sola ocasión hasta por un lapso igual cuando exista resolución en ese sentido, debidamente fundada y motivada. Finalizada la investigación o vencido su plazo, el Órgano Interno de Control emitirá dictamen, que será la base para el inicio del procedimiento de responsabilidad.
+
+5) Si se dictamina que no existen elementos suficientes para advertir la probable existencia de alguna causa de responsabilidad administrativa, la información o documentos recabados en la investigación podrán valorarse en una posterior, siempre y cuando así se autorice y no haya prescrito la facultad sancionadora.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 e
+
+1) Las quejas o denuncias deberán presentarse dentro de los 30 días hábiles siguientes a que se tenga conocimiento de los hechos denunciados. Transcurrido el plazo, caducará el derecho de quien tuvo conocimiento de los hechos.
+
+2) Las denuncias que se presenten deberán acompañarse del material probatorio con que se cuente para establecer la existencia de la infracción y la probable responsabilidad de la o el servidor público denunciado, en caso contrario, se declarará sin materia la queja o denuncia.
+
+3) Las quejas o denuncias serán improcedentes:
+
+a) Cuando se trate de actos u omisiones imputados a una misma persona que ya hayan sido materia de otra queja o denuncia y que cuenten con resolución definitiva.
+
+b) Cuando se denuncien actos u omisiones de los que el Órgano de Control Interno del Instituto resulte incompetente para conocer.
+
+c) Cuando los actos u omisiones denunciados no constituyan causas de responsabilidad en los términos de este ordenamiento.
+
+4) Procederá el sobreseimiento del procedimiento:
+
+a) Cuando habiendo sido recibida la queja o denuncia, sobrevenga una causa de improcedencia.
+
+b) Cuando el denunciante presente escrito de desistimiento, siempre y cuando se exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves o que constituyan violación a normas de orden público.
+
+5) El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 f
+
+1) Las faltas serán valoradas y, en su caso sancionadas, considerando las circunstancias siguientes:
+
+a) La gravedad de la conducta en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley.
+
+b) Las condiciones socioeconómicas de la o el servidor público.
+
+c) El nivel jerárquico, los antecedentes y condiciones del infractor y la antigüedad en el servicio público.
+
+d) Las condiciones exteriores y los medios de ejecución del hecho.
+
+e) La existencia de dolo, negligencia o culpa en el acto u omisión.
+
+f) La reincidencia en el incumplimiento de obligaciones o comisión de infracciones.
+
+g) El monto del beneficio, daño o perjuicio económico derivado de la responsabilidad cometida.
+
+2) En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones IX, X, XI, XII, XIII y XIV del artículo 23 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, así como en los incisos b) al g) del artículo 272 b de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 g
+
+1) Con independencia del sentido de la resolución que se dicte al final del procedimiento, se dictarán las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de la queja.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 h
+
+1) Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través de los medios de defensa que establezcan los demás ordenamientos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2017)</small>
+
+#### SECCIÓN TERCERA. DE LA CONTRALORÍA
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 i
+
+1) El Órgano Interno de Control del Instituto estará a cargo de la Contraloría, que será un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+
+2) La Contraloría tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos del Instituto y de particulares vinculados con faltas graves; revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante las autoridades correspondientes; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
+
+3) La persona titular de la Contraloría será designada por el Congreso del Estado, con el voto de al menos las dos terceras partes de las y los diputados presentes, mediante el procedimiento y plazos que éste determine. La persona electa rendirá la protesta de ley ante el Consejo Estatal.
+
+4) La Contraloría contará con la estructura orgánica, personal y recursos que apruebe el Consejo a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+
+5) En su desempeño, la Contraloría se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, presunción de inocencia, congruencia, verdad material, objetividad y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 j
+
+1) La persona titular de la Contraloría deberá reunir los mismos requisitos que esta Ley establece para las y los directores ejecutivos del Instituto, y además, los siguientes:
+
+a) No ser consejera o consejero electoral de cualquiera de las asambleas del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación.
+
+b) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+c) Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos.
+
+d) Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público, u otro relacionado con las actividades de fiscalización y procedimientos administrativos, expedido por autoridad o institución legalmente facultada para ello.
+
+e) No pertenecer o haber pertenecido en los tres años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 k
+
+La persona titular del Órgano Interno de Control deberá rendir por escrito informe semestral y anual de actividades al Congreso del Estado del cual enviará copia al Consejo Estatal del Instituto.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 l
+
+1) El contralor general podrá ser sancionado conforme a los artículos 269 y 270 de esta Ley, por las siguientes causas graves de responsabilidad administrativa:
+
+a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia.
+
+b) Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado la o el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones.
+
+c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Contraloría, con motivo del ejercicio de sus atribuciones.
+
+d) Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta Ley.
+
+e) Incurrir en alguna de las infracciones mencionadas en el artículo 23 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+
+2) El Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de al menos las dos terceras partes de las y los miembros presentes en la sesión.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 m
+
+1) La Contraloría tendrá las facultades siguientes:
+
+a) Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto.
+
+b) Establecer las normas, procedimientos, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones.
+
+c) Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos.
+
+d) Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto.
+
+e) Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes.
+
+f) Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias.
+
+g) Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados.
+
+h) Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan.
+
+i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todas las personas que tienen carácter de servidores públicos de la propia Contraloría del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública.
+
+j) Instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de las y los servidores públicos del Instituto, y llevar el registro de las y los servidores públicos sancionados.
+
+k) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto.
+
+l) Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de las y los servidores públicos del mismo y desahogar los procedimientos a que haya lugar.
+
+m) Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas.
+
+n) Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que las y los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas.
+
+o) Formular pliegos de observaciones en materia administrativa.
+
+p) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a las y los responsables las indemnizaciones y sanciones pecuniarias correspondientes.
+
+q) Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos.
+
+r) Presentar a la aprobación del Consejo Estatal sus programas anuales de trabajo.
+
+s) Presentar al Consejo Estatal los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera la Presidencia.
+
+t) Participar, a través de su titular, con voz pero sin voto, en las reuniones del Consejo Estatal cuando por motivo del ejercicio de sus facultades, así lo considere necesario la Presidencia o alguno de los integrantes del Consejo Estatal.
+
+u) Recibir y resguardar las declaraciones patrimoniales que deban presentar las y los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia.
+
+v) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de las y los servidores públicos que corresponda.
+
+w) Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 n
+
+1) Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 o
+
+1) Si transcurrido el plazo establecido por la Contraloría, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+
+2) El afincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
+
+3) La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a treinta días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
+
+4) Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al afincamiento de responsabilidades, las y los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 272 p
+
+1) Las y los servidores públicos adscritos a la Contraloría del Instituto y, en su caso, las y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 Artículo 273
@@ -1723,115 +2205,97 @@ Artículo 354
 
 Podrán interponer el recurso de revisión los partidos políticos y las coaliciones, a través de sus representantes legítimos.
 
-#### SECCIÓN CUARTA. DE LA SUSTANCIACIÓN Y DE LA RESOLUCIÓN
-
-Artículo 355
-
-1) Una vez cumplidas las reglas de trámite a que se refiere el Capítulo VIII del Título Primero de este Libro, recibido un recurso de revisión por el Consejo Estatal, se aplicarán las reglas siguientes:
-
-a) El Consejero Presidente lo turnará al Secretario Ejecutivo para que verifique que el escrito fue presentado en tiempo y cumple con los requisitos señalados en esta Ley;
-
-b) El Consejero Presidente propondrá al Consejo Estatal el desechamiento de plano del medio de impugnación, cuando se actualice alguna de las causales de improcedencia establecidas en la presente Ley;
-
-c) Cuando el actor no acompañe los documentos necesarios para acreditar su personería, no identifique el acto o resolución impugnados, o a la autoridad responsable del mismo, y éstos no se puedan deducir de los elementos que obren en el expediente, el Consejero Presidente formulará requerimiento con el apercibimiento de tener por no presentado el recurso de revisión si no se cumple con el mismo, dentro del plazo que se señale;
-
-d) Si el tercero interesado omite acompañar el documento que acredite su personería, o bien, cuando el coadyuvante no acompañe la documentación que acredite su registro como candidato, y éstos no se puedan deducir de los elementos que obren en el expediente, se formulará requerimiento con el apercibimiento de que se tendrá por no presentado el escrito si no se cumple con el mismo dentro del plazo que se señale;
-
-e) En cuanto al informe circunstanciado, si el órgano inferior no lo envía en el plazo y cumpliendo con los requisitos que se señalan en esta Ley, se resolverá con los elementos que obren en autos, sin perjuicio de la sanción que deba ser impuesta de conformidad con este ordenamiento;
-
-f) Si se ha cumplido con todos los requisitos, el Secretario Ejecutivo procederá a formular el proyecto de resolución, mismo que será sometido por el Consejero Presidente al Consejo Estatal en un plazo no mayor de quince días contados a partir de su admisión;
-
-g) La resolución de los recursos de revisión se dictará en sesión pública y deberá aprobarse por el voto de la mayoría de los miembros presentes con derecho a ello; el Secretario Ejecutivo engrosará la resolución en los términos que determine el Consejo Estatal;
-
-h) En casos extraordinarios, el proyecto de resolución de un recurso de revisión que se presente en una sesión podrá retirarse para su análisis. En este supuesto, se resolverá en un plazo no mayor de siete días contados a partir del diferimiento, y
-
-i) Todos los recursos de revisión interpuestos dentro de los cinco días anteriores al de la elección, serán enviados al Tribunal Estatal Electoral para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere este inciso no guarden relación con algún juicio de inconformidad serán archivados como asuntos definitivamente concluidos; o en su caso, reenviados al Consejo Estatal para que dicte la resolución que corresponda, cuando controviertan la determinación, o la aplicación de alguna sanción.
-
-2) La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
-
-Artículo 356
-
-Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
-
-#### SECCIÓN QUINTA. DE LA NOTIFICACIÓN DE LAS RESOLUCIONES
-
-Artículo 357
-
-Las resoluciones que recaigan a los recursos de revisión serán notificadas de manera personal a las partes, dentro de las cuarenta y ocho horas siguientes a que se pronuncien.
-
-#### SECCIÓN PRIMERA. DE LA PROCEDENCIA
-
-Artículo 358
-
-1) En cualquier tiempo, el recurso de apelación será procedente para impugnar las siguientes determinaciones del Consejo Estatal:
-
-a) Las resoluciones recaídas a los recursos de revisión;
-
-b) La determinación y, en su caso, la aplicación de sanciones, y
-
-c) Cualquier acto o resolución que cause un perjuicio a quien teniendo interés jurídico lo interponga.
-
-2) Durante los procesos electorales, exclusivamente en la etapa de preparación de la elección, las determinaciones sobre el registro de candidatos.
-
 ## TÍTULO CUARTO. DE LAS ASAMBLEAS MUNICIPALES
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA
+### CAPÍTULO TERCERO. DE LAS DIRECCIONES DE EDUCACIÓN CÍVICA Y PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 Artículo 73
 
-1. La Coordinación de Capacitación Electoral y Educación Cívica, tendrá las atribuciones siguientes cuando exista delegación de facultades por parte del Instituto Nacional Electoral;
+1) La Dirección Ejecutiva del Instituto a la que correspondan las funciones de educación cívica, tendrá las atribuciones siguientes:
 
-a. Elaborar y proponer al Consejo Estatal el programa de capacitación electoral a ejecutarse en el proceso electoral que corresponda o en los procesos de consulta popular y participación ciudadana;
+a) Elaborar y proponer al Consejo Estatal el programa anual de educación cívica.
 
-b. Coordinar, vigilar y evaluar el desarrollo y cumplimiento de los programas a que se refiere el inciso anterior;
+b) Preparar el material didáctico y los instructivos electorales, conforme a los lineamientos que expida el Instituto Nacional Electoral.
 
-c. Reclutar y capacitar conforme a lo previsto en la Ley a los funcionarios de las mesas directivas de casilla a fin de que queden debidamente integradas;
+c) Coadyuvar en todo lo concerniente con los programas de capacitación que desarrolle el Instituto Nacional Electoral de manera directa en los procesos locales, cuando así se requiera.
 
-d. Realizar programas de exhortación a la ciudadanía para que cumplan con sus obligaciones de empadronamiento y de actualización del padrón electoral, cuando dicha facultad se encuentre delegada al Instituto Estatal Electoral por el Instituto Nacional Electoral, y
+d) Orientar a los ciudadanos para el ejercicio de sus derechos y el cumplimiento de sus obligaciones político-electorales.
 
-e. Difundir la ubicación de las casillas y de los funcionarios que las integren de acuerdo con esta Ley.
+e) Acordar con la Presidencia del Instituto los asuntos de su competencia.
 
-2. Además de las atribuciones delegadas en su caso, la Coordinación de Capacitación Electoral y Educación Cívica tendrá las siguientes atribuciones propias:
+f) Las demás que le otorgue esta Ley, las leyes generales y demás disposiciones aplicables.
 
-a. Elaborar y proponer al Consejo Estatal el programa anual de educación cívica.
+2) La Dirección Ejecutiva del Instituto a la que correspondan las funciones de participación ciudadana, tendrá las atribuciones siguientes:
 
-b. Preparar el material didáctico y los instructivos electorales, conforme a los lineamientos que expida el Instituto Nacional Electoral;
+a) Elaborar y proponer al Consejo Estatal el programa de promoción de la participación ciudadana en el Estado.
 
-c. Coadyuvar en todo lo concerniente con los programas de capacitación que desarrolle el Instituto Nacional Electoral de manera directa en los procesos locales, cuando así se requiera.
+b) Programar, dentro del ámbito de competencia del Instituto, la capacitación en materia de instrumentos o mecanismos de participación ciudadana y de consulta pública.
 
-d. Orientar a los ciudadanos para el ejercicio de sus derechos y el cumplimiento de sus obligaciones político-electorales;
+c) Coadyuvar con las autoridades que establezcan las leyes de la materia, para crear campañas institucionales que difundan los instrumentos de participación ciudadana de la entidad.
 
-e. Acordar con el Consejero Presidente los asuntos de su competencia; y
+d) Proponer estrategias de vinculación con instituciones públicas y privadas para promover los principios de la participación ciudadana.
 
-f. Las demás funciones que le otorgue esta Ley, las leyes generales y demás disposiciones aplicables.
+e) Las demás que le otorgue esta Ley, las leyes generales y demás disposiciones aplicables.
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE ORGANIZACIÓN ELECTORAL
+3) En caso de delegación de facultades por parte del Instituto Nacional Electoral, en materia de capacitación electoral; el Instituto proveerá lo conducente para cumplir las atribuciones siguientes:
+
+a) Elaborar y proponer al Consejo Estatal el programa de capacitación electoral a ejecutarse en el proceso electoral que corresponda o en los procesos de consulta popular y participación ciudadana.
+
+b) Coordinar, vigilar y evaluar el desarrollo y cumplimiento de los programas a que se refiere el inciso anterior.
+
+c) Reclutar y capacitar conforme a lo previsto en la Ley a las y los funcionarios de las mesas directivas de casilla a fin de que queden debidamente integradas.
+
+d) Realizar programas de exhortación a la ciudadanía para que cumplan con sus obligaciones de empadronamiento y de actualización del padrón electoral, cuando dicha facultad se encuentre delegada al Instituto Estatal Electoral por el Instituto Nacional Electoral.
+
+e) Difundir la ubicación de las casillas y de las y los funcionarios que las integren de acuerdo con esta Ley.
+
+f) Las demás que le confiera esta Ley y las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+###### Artículo 73 Bis.
+
+En el Instituto Estatal Electoral se conformará la Unidad de Igualdad de Género, que será un mecanismo de coordinación para la institucionalización de la perspectiva de género, misma que será la encargada de diseñar e implementar las estrategias para la transversalización de la misma; sus funciones serán las siguientes:
+
+a) Proponer acciones orientadas a la igualdad sustantiva en el Instituto.
+
+b) Coadyuvar con los diferentes órganos del Instituto para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual.
+
+c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional.
+
+d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva.
+
+e) Ser la responsable de la producción y sistematización de información con perspectiva de género.
+
+f) Generar el Programa anual de trabajo de la Unidad para calendarizar los objetivos y las acciones que tiendan a lograr la igualdad de derechos y oportunidades entre mujeres y hombres.
+
+g) Vigilar que se cumplan los objetivos y las acciones de sus programas de trabajo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE ORGANIZACIÓN ELECTORAL
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 Artículo 74
 
-1. La Coordinación de Organización Electoral, cuando exista delegación de facultades por parte del Instituto Nacional Electoral, tendrá las atribuciones siguientes:
+1) La Dirección Ejecutiva del Instituto a la que correspondan las funciones de organización electoral, tendrá las atribuciones siguientes:
 
-a. En apoyo de la Coordinación de Capacitación Electoral y Educación Cívica, proveer lo necesario para la instalación y funcionamiento de las mesas directivas de casilla; y
+a) Apoyar en la integración y proveer lo necesario para la instalación y funcionamiento de las asambleas municipales.
 
-b. Proyectar los formatos de la documentación electoral para someterlos, por conducto del Consejero Presidente, a la aprobación del Consejo Estatal, de conformidad con los lineamientos y manuales que expida el Instituto Nacional Electoral.
+b) Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada, conforme a los lineamientos que expida el Instituto Nacional Electoral.
 
-2. Además de las atribuciones delegadas en su caso, la Coordinación de Organización Electoral tendrá las siguientes atribuciones propias:
+c) Recabar de las asambleas municipales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral y llevar el seguimiento de las mismas, bajo los indicadores que emita la Secretaría Ejecutiva del Instituto.
 
-a. Apoyar en la integración y proveer lo necesario para la instalación y funcionamiento de las asambleas municipales;
+d) Llevar la estadística de las elecciones locales y de los procedimientos de consulta y participación ciudadana.
 
-b. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada, conforme a los lineamientos que expida el Instituto Nacional Electoral;
+e) Llevar el registro y lista de asistencia de los representantes de los partidos políticos acreditados ante el Consejo Estatal y las asambleas municipales.
 
-c. Recabar de las asambleas municipales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral y llevar el seguimiento de las mismas, bajo los indicadores que emita el Secretario Técnico del Consejo Estatal;
+f) Acordar con la Presidencia o la Secretaría Ejecutiva del Instituto, según corresponda, los asuntos de su competencia.
 
-d. Llevar la estadística de las elecciones locales y de los procedimientos de consulta y participación ciudadana;
-
-e. Llevar el registro y lista de asistencia de los representantes de los partidos políticos acreditados ante el Consejo Estatal y las asambleas municipales;
-
-f. Actuar como Titular de la Comisión de Vinculación con el Instituto Nacional Electoral;
-
-g. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-h. Las demás que le confiera esta Ley y las disposiciones aplicables.
+g) Las demás que le confiera esta Ley y las disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. DE LA COMISIÓN DE FISCALIZACIÓN LOCAL
 
@@ -1915,7 +2379,9 @@ Artículo 77
 
 2) Las asambleas municipales son los órganos que forman parte del Instituto Estatal Electoral y dependen administrativamente del Consejero Presidente del Instituto, encargados de la preparación, desarrollo y vigilancia del proceso electoral, dentro de sus respectivos ámbitos de competencia, bajo la observancia de los principios de certeza, legalidad, imparcialidad, objetividad, independencia y máxima publicidad.
 
-3) En aquellos municipios cuya cabecera sea además cabecera de distrito, el proceso electoral correspondiente a los diputados por el principio de mayoría relativa, será organizado y dirigido por la asamblea municipal respectiva, la que para este efecto tendrá el carácter de asamblea distrital.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+3) En aquellos municipios cuya cabecera sea además cabecera de distrito, el proceso electoral correspondiente a los diputados por el principio de mayoría relativa, será organizado y dirigido por la asamblea municipal respectiva, la que para este efecto tendrá el carácter de asamblea distrital. Para los municipios de Chihuahua y Juárez, el Consejo Estatal podrá instalar además, asambleas distritales con integración de asamblea municipal, para coadyuvar en las labores del proceso electoral.
 
 4) Las asambleas de los municipios que sean cabecera de distrito, se integrarán de la siguiente forma:
 
@@ -1965,41 +2431,61 @@ Artículo 79
 
 Los integrantes de las asambleas municipales del proceso electoral inmediato anterior, podrán ser ratificados por el Consejo Estatal del Instituto Estatal Electoral, al inicio del siguiente proceso electoral ordinario o extraordinario.
 
+#### SECCIÓN CUARTA. DE LA SUSTANCIACIÓN Y DE LA RESOLUCIÓN
+
+Artículo 355
+
+1) Una vez cumplidas las reglas de trámite a que se refiere el Capítulo VIII del Título Primero de este Libro, recibido un recurso de revisión por el Consejo Estatal, se aplicarán las reglas siguientes:
+
+a) El Consejero Presidente lo turnará al Secretario Ejecutivo para que verifique que el escrito fue presentado en tiempo y cumple con los requisitos señalados en esta Ley;
+
+b) El Consejero Presidente propondrá al Consejo Estatal el desechamiento de plano del medio de impugnación, cuando se actualice alguna de las causales de improcedencia establecidas en la presente Ley;
+
+c) Cuando el actor no acompañe los documentos necesarios para acreditar su personería, no identifique el acto o resolución impugnados, o a la autoridad responsable del mismo, y éstos no se puedan deducir de los elementos que obren en el expediente, el Consejero Presidente formulará requerimiento con el apercibimiento de tener por no presentado el recurso de revisión si no se cumple con el mismo, dentro del plazo que se señale;
+
+d) Si el tercero interesado omite acompañar el documento que acredite su personería, o bien, cuando el coadyuvante no acompañe la documentación que acredite su registro como candidato, y éstos no se puedan deducir de los elementos que obren en el expediente, se formulará requerimiento con el apercibimiento de que se tendrá por no presentado el escrito si no se cumple con el mismo dentro del plazo que se señale;
+
+e) En cuanto al informe circunstanciado, si el órgano inferior no lo envía en el plazo y cumpliendo con los requisitos que se señalan en esta Ley, se resolverá con los elementos que obren en autos, sin perjuicio de la sanción que deba ser impuesta de conformidad con este ordenamiento;
+
+f) Si se ha cumplido con todos los requisitos, el Secretario Ejecutivo procederá a formular el proyecto de resolución, mismo que será sometido por el Consejero Presidente al Consejo Estatal en un plazo no mayor de quince días contados a partir de su admisión;
+
+g) La resolución de los recursos de revisión se dictará en sesión pública y deberá aprobarse por el voto de la mayoría de los miembros presentes con derecho a ello; el Secretario Ejecutivo engrosará la resolución en los términos que determine el Consejo Estatal;
+
+h) En casos extraordinarios, el proyecto de resolución de un recurso de revisión que se presente en una sesión podrá retirarse para su análisis. En este supuesto, se resolverá en un plazo no mayor de siete días contados a partir del diferimiento, y
+
+i) Todos los recursos de revisión interpuestos dentro de los cinco días anteriores al de la elección, serán enviados al Tribunal Estatal Electoral para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere este inciso no guarden relación con algún juicio de inconformidad serán archivados como asuntos definitivamente concluidos; o en su caso, reenviados al Consejo Estatal para que dicte la resolución que corresponda, cuando controviertan la determinación, o la aplicación de alguna sanción.
+
+2) La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
+
+Artículo 356
+
+Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+
+#### SECCIÓN QUINTA. DE LA NOTIFICACIÓN DE LAS RESOLUCIONES
+
+Artículo 357
+
+Las resoluciones que recaigan a los recursos de revisión serán notificadas de manera personal a las partes, dentro de las cuarenta y ocho horas siguientes a que se pronuncien.
+
+#### SECCIÓN PRIMERA. DE LA PROCEDENCIA
+
+Artículo 358
+
+1) En cualquier tiempo, el recurso de apelación será procedente para impugnar las siguientes determinaciones del Consejo Estatal:
+
+a) Las resoluciones recaídas a los recursos de revisión;
+
+b) La determinación y, en su caso, la aplicación de sanciones, y
+
+c) Cualquier acto o resolución que cause un perjuicio a quien teniendo interés jurídico lo interponga.
+
+2) Durante los procesos electorales, exclusivamente en la etapa de preparación de la elección, las determinaciones sobre el registro de candidatos.
+
 #### SECCIÓN SEGUNDA. DE LA COMPETENCIA
 
 Artículo 359
 
 El Tribunal Estatal Electoral será competente para conocer y resolver el recurso de apelación.
-
-#### SECCIÓN TERCERA. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
-
-Artículo 360
-
-1) Los partidos políticos, coaliciones, aspirantes a candidatos independientes y candidatos independientes, podrán interponer el recurso de apelación, en cualquiera de las hipótesis señaladas en el artículo 378 de esta Ley.
-
-2) Los ciudadanos, candidatos, la agrupación política, cualquier persona física o moral y, en general, cualquiera que se vea afectado con motivo de la determinación y, en su caso, la aplicación de sanciones, podrán presentar el recurso de apelación, cumpliendo con los requisitos señalados en esta Ley.
-
-#### SECCIÓN CUARTA. DE LAS SENTENCIAS RECAÍDAS AL RECURSO DE APELACIÓN
-
-Artículo 361
-
-1) Los recursos de apelación que se interpongan en contra de las determinaciones a que se refiere el artículo 378, numeral 2, deberán resolverse dentro de los plazos previstos para el registro de candidatos, según sea el caso.
-
-2) En los demás casos, los recursos de apelación serán resueltos dentro de los quince días siguientes a aquél en que se admitan; salvo cuando la naturaleza del asunto o las pruebas que deban examinarse o perfeccionarse requieran de una prórroga, la cual deberá motivarse.
-
-Artículo 362
-
-Las resoluciones recaídas a los recursos de apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnados.
-
-Artículo 363
-
-Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán enviados al Tribunal Estatal Electoral para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar en este último la conexidad de la causa. Cuando los recursos de apelación no guarden relación con algún juicio de inconformidad serán archivados como asuntos definitivamente concluidos; salvo cuando se controvierta la determinación o la aplicación de alguna sanción.
-
-#### SECCIÓN QUINTA. DE LA NOTIFICACIÓN DE LAS SENTENCIAS
-
-Artículo 364
-
-Las sentencias recaídas a los recursos de apelación, serán notificadas personalmente a las partes dentro de los tres días siguientes a aquél en que se pronuncien.
 
 # LIBRO CUARTO. DEL PROCESO ELECTORAL
 
@@ -2043,9 +2529,11 @@ m. Militante de partido político, al ciudadano que formalmente pertenece a un p
 
 n. Simpatizante de partido político, a la persona que se adhiere espontáneamente a un partido, por afinidad con las ideas que éste postula, sin llegar a vincularse a él por el acto formal de la afiliación.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 Artículo 93
 
-El proceso electoral ordinario iniciará el día primero del mes de diciembre del año previo al de la elección, con la sesión de instalación del Consejo Estatal del Instituto Estatal Electoral, y concluye con la etapa de declaración de validez y la entrega de constancias de mayoría y validez; o en su caso, con la resolución que emita en última instancia el Tribunal Estatal Electoral o el Tribunal Electoral del Poder Judicial de la Federación.
+El proceso electoral ordinario iniciará el día primero del mes de octubre del año previo al de la elección, con la sesión de instalación del Consejo Estatal del Instituto Estatal Electoral, y concluye con la etapa de declaración de validez y la entrega de constancias de mayoría y validez; o en su caso, con la resolución que emita en última instancia el Tribunal Estatal Electoral o el Tribunal Electoral del Poder Judicial de la Federación.
 
 Artículo 94
 
@@ -2311,11 +2799,35 @@ Artículo 103
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 Artículo 104
 
-1) Corresponde a los partidos políticos y sus coaliciones, así como a quien o quienes hayan cumplido los requisitos de postulación como candidatos independientes, el derecho de solicitar el registro de candidatos a cargos de elección popular.
+1) Corresponde a los partidos políticos, candidaturas comunes y sus coaliciones, así como a quien o quienes hayan cumplido los requisitos de postulación como candidatos independientes, el derecho de solicitar el registro de candidatos a cargos de elección popular.
 
-2) Los partidos políticos promoverán en los términos del presente ordenamiento, la igualdad de oportunidades y garantizarán la paridad de género en la vida política del Estado, a través de la postulación a cargos de elección popular en el Congreso del Estado y ayuntamientos, tanto de mayoría relativa como de representación proporcional.
+2) Los partidos políticos promoverán en los términos del presente ordenamiento, la igualdad de oportunidades y garantizarán la paridad de género en la vida política del Estado, a través de la postulación a cargos de elección popular en el Congreso del Estado y ayuntamientos, tanto de mayoría relativa como de representación proporcional. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros les sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+Las candidaturas a diputados por el principio de mayoría relativa se registrarán por fórmulas integradas cada una por un propietario y un suplente del mismo género ante la asamblea distrital.
+
+3) En la elección de diputados de mayoría relativa, con la finalidad de evitar que a algún género le sean asignados distritos en los que el partido político haya obtenido los porcentajes de votación más bajos, considerando el proceso electoral local anterior, las postulaciones se sujetarán al siguiente procedimiento:
+
+a) Cada partido político enlistará los distritos existentes en el Estado en orden decreciente, a efecto de establecer bloques, conforme a la votación obtenidos por el partido en el distrito, respecto del total de votación emitida por el mismo partido en la elección de diputados locales en el Estado; en caso de que algún partido político no hubiese postulado candidaturas en algún distrito en el proceso electoral inmediato anterior, el porcentaje de votación se tomará como cero.
+
+b) Realizado el procedimiento anterior, se dividirán los distritos en tres bloques en orden decreciente de acuerdo al porcentaje de votación obtenido a fin de obtener un bloque de distritos con alto, medio y bajo porcentaje de votación.
+
+c) Para determinar la división de los tres bloques anteriores, cada partido dividirá el número total de distritos existentes en el Estado entre tres y asignará a los dos primeros bloques el entero par más próximo al resultado. Siendo este número la cantidad de distritos que conformarán cada uno de estos dos bloques. Para el último bloque se asignarán el resto de los distritos. En la asignación de candidaturas de cada bloque se debe respetar la paridad de género.
+
+d) En caso de que algún partido político participe en coalición o candidatura común en la postulación de candidaturas distritales, se respetarán los criterios adoptados en los convenios respectivos; siempre y cuando garanticen el cumplimiento general al principio de paridad de género.
+
+4) En la elección de Alcaldes y Síndicos, con la finalidad de evitar que a algún género le sean asignados los municipios en los que el partido político haya obtenido los porcentajes de votación más bajos considerando el proceso electoral local anterior, las postulaciones se sujetarán al siguiente procedimiento:
+
+a) Cada partido político enlistará los municipios existentes en el Estado, ordenándolos en forma decreciente, a efecto de establecer bloques, conforme al número de votos obtenido por el partido en el municipio para la elección de alcaldes y síndicos, respecto al total de votación del mismo partido en el Estado; en caso de que algún partido político no hubiese postulado candidaturas en los procesos electorales inmediatos anteriores, el porcentaje de votación se tomará como cero.
+
+b) Realizado el procedimiento anterior, se dividirán los municipios para alcaldes y síndicos en tres bloques en orden decreciente de acuerdo al porcentaje de votación obtenido a fin de obtener un bloque de municipios con alto, medio y bajo porcentaje de votación.
+
+c) Para determinar la división de los tres bloques anteriores cada partido dividirá el número total de municipios existentes en el Estado entre tres y asignará a los dos primeros bloques el entero par más próximo al resultado. Siendo este número la cantidad de municipios que conformarán cada uno de estos dos bloques. Para el último bloque se asignarán el resto de los municipios. En caso de que el número de municipios del último bloque sea impar, la última posición en la lista de ese bloque, la candidatura se podrá asignar de manera indistinta a cualquier género. En la asignación de candidaturas de cada bloque se debe respetar la paridad de género.
+
+d) En caso de que algún partido político participe en coalición o candidatura común en la postulación de candidaturas municipales se respetarán los criterios adoptados en los convenios respectivos; siempre y cuando garanticen el cumplimiento general al principio de paridad de género.
 
 Artículo 105
 
@@ -2325,13 +2837,19 @@ Artículo 106
 
 1) Las candidaturas a Gobernador y a diputados por el principio de representación proporcional se registrarán ante el Consejo Estatal del Instituto Estatal Electoral, éstos mediante una lista de seis fórmulas integradas cada una por un propietario y un suplente.
 
-2) Las candidaturas a diputados por el principio de mayoría relativa se registrarán por fórmulas integradas cada una por un propietario y un suplente ante la asamblea distrital que corresponda.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) Las candidaturas a diputados por el principio de mayoría relativa se registrarán por fórmulas integradas cada una por un propietario y un suplente del mismo género, ante la asamblea distrital que corresponda.
 
 3) El Consejo Estatal del Instituto Estatal Electoral podrá acordar el registro supletorio optativo de todas las candidaturas ante él, señalando los lineamientos para hacerlo, quien opte por esta vía, no podrá registrar, ni sustituir candidatos ante diverso órgano.
 
 4) En las solicitudes de registro de las candidaturas a diputados por ambos principios que se presenten por partidos políticos o coaliciones ante el Instituto Estatal Electoral, se deberá cumplir con lo previsto por los artículos 15, 16 y 17 de esta Ley en materia de paridad de género.
 
-5) Las candidaturas a miembros de los ayuntamientos se registrarán ante la asamblea municipal respectiva, por planillas integradas cada una por un presidente municipal, y el número de regidores que determine el Código Municipal, todos con su respectivo suplente, ante la asamblea municipal correspondiente. Las planillas no podrán contener más del 50% de un mismo género de candidatos propietarios, porcentaje que también aplica a los suplentes. En las listas de regidurías se aplicará un principio de alternancia de género en el registro de propietarios. Para los cargos de suplencia deberá guardarse el mismo porcentaje, género y orden.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+5) Las candidaturas a miembros de los ayuntamientos se registrarán ante la asamblea municipal respectiva, por planillas integradas cada una por un presidente municipal, y el número de regidurías que determine el Código Municipal, todos con su respectivo suplente, ante la asamblea municipal correspondiente. Las planillas no podrán contener más del 50% de un mismo género de candidatos propietarios, porcentaje que también aplica a los suplentes. En las planillas se aplicará el principio de alternancia de género en el registro de propietarios iniciando por quien encabece la candidatura a Presidente Municipal hasta agotar el número de regidurías que correspondan. Para los cargos de suplencia deberá guardarse el mismo porcentaje, género y orden.
+
+Las planillas que estén en los supuestos de reelección podrán integrarse con nuevos miembros.
 
 6) De los 67 ayuntamientos de la entidad, 33 candidatos a presidentes o presidentas deberán ser de un género y 34 del género distinto. Esta regla se aplicará a los suplentes, la fórmula debe ser del mismo género.
 
@@ -2399,6 +2917,10 @@ b. Copia del acta de nacimiento, y
 
 c. Copia del anverso y reverso de la credencial para votar.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+d) Solicitud de licencia o renuncia de la separación formal y real del cargo público, según sea el caso.
+
 3) En el caso de candidatos independientes, se deberá seguir el procedimiento previsto en esta Ley, para obtener el estado previo de registro.
 
 Artículo 112
@@ -2445,7 +2967,11 @@ Artículo 116
 
 3) Podrán permanecer en internet los portales de los entes públicos, siempre y cuando tengan carácter informativo o de medio para la realización de trámites o servicios y no se difundan en los mismos logros a su favor.
 
-4) Para los efectos de lo dispuesto por el párrafo séptimo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y el párrafo tercero del artículo 197 de la Constitución Política del Estado Libre y Soberano de Chihuahua, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda contraria a dichos preceptos, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
+(NOTA: EL 27 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2017 Y SUS ACUMULADAS 132/2017, 133/2017 Y 136/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 4) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+4) PARA LOS EFECTOS DE LO DISPUESTO POR EL PÁRRAFO OCTAVO DEL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y EL PÁRRAFO TERCERO DEL ARTÍCULO 197 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, EL INFORME ANUAL DE LABORES O GESTIÓN DE LOS SERVIDORES PÚBLICOS, ASÍ COMO LOS MENSAJES QUE PARA DARLOS A CONOCER SE DIFUNDAN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL, NO SERÁN CONSIDERADOS COMO PROPAGANDA CONTRARIA A DICHOS PRECEPTOS, SIEMPRE QUE LA DIFUSIÓN SE LIMITE A UNA VEZ AL AÑO EN ESTACIONES Y CANALES CON COBERTURA REGIONAL CORRESPONDIENTE AL ÁMBITO GEOGRÁFICO DE RESPONSABILIDAD DEL SERVIDOR PÚBLICO Y NO EXCEDA DE LOS SIETE DÍAS ANTERIORES Y CINCO POSTERIORES A LA FECHA EN QUE SE RINDA EL INFORME. EN NINGÚN CASO LA DIFUSIÓN DE TALES INFORMES PODRÁ TENER FINES ELECTORALES, NI REALIZARSE DENTRO DEL PERIODO DE CAMPAÑA ELECTORAL.
 
 Artículo 117
 
@@ -2515,7 +3041,9 @@ Los partidos políticos o candidatos que decidan, dentro de la campaña electora
 
 Artículo 122
 
-1) La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha registrado al candidato. En el caso de candidatos independientes, deberá incluirse su nombre completo, tal y como aparecerá en la boleta.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha registrado al candidato. En el caso de candidatos independientes, deberá incluirse su nombre completo, su sobrenombre, en su caso, tal y como aparecerá en la boleta.
 
 2) La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrán más límite, en los términos del artículo 7o. de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
 
@@ -2533,9 +3061,11 @@ Artículo 124
 
 La propaganda que los partidos políticos, las coaliciones y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones legales y administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 Artículo 125
 
-En las oficinas, edificios y locales ocupados por la administración y los poderes públicos no podrá fijarse ni distribuirse propaganda electoral de ningún tipo, excepto en los casos previstos en esta Ley.
+En las oficinas, edificios y locales ocupados por la administración, los poderes públicos, los órganos electorales, incluyendo las casillas electorales o edificios escolares, no podrá fijarse ni distribuirse propaganda electoral de ningún tipo, excepto en los casos previstos en esta Ley.
 
 Artículo 126
 
@@ -3229,6 +3759,10 @@ d) En casos especiales y cuando así lo determine el Consejo General, el plazo p
 
 4) La asamblea municipal hará constar en acta circunstanciada la recepción de los paquetes con los expedientes de casilla y, en su caso, las causas que se invoquen por el retraso en la entrega. Asimismo, los que hubieren sido recibidos sin reunir los requisitos que señala esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Bajo su más estricta responsabilidad la asamblea municipal o distrital que corresponda, debe resguardar en forma adecuada la paquetería electoral que recibe. Una vez cerrada la bodega o lugar de resguardo de la paquetería, sólo se puede volver a abrir con la presencia de la mayoría de la asamblea, previo aviso a los representantes de partidos y candidatos independientes.
+
 ## TÍTULO QUINTO. DEL REGISTRO DE ELECTORES
 
 ### CAPÍTULO PRIMERO. DISPOSICIÓN PRELIMINAR
@@ -3393,7 +3927,9 @@ c. Si existan (sic) errores o inconsistencias evidentes en los distintos element
 
 d. Cuando todos los votos válidos hayan sido depositados a favor de una misma candidatura, y
 
-e. Cuando el número de votos nulos sea mayor a la diferencia existente entre el candidato del partido político o en su caso del candidato independiente solicitante del nuevo escrutinio y cómputo y el primer lugar de la votación.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+e) Cuando el número de votos nulos sea mayor a la diferencia existente entre el primer y segundo lugar.
 
 Artículo 185
 
@@ -3424,6 +3960,10 @@ Artículo 185
 13. De la diligencia realizada por cada grupo de trabajo se levantará un acta circunstanciada, en la que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido, coalición o candidato común.
 
 14. El presidente del órgano electoral que corresponda, realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+15. En todo caso, para la práctica de los cómputos, recuentos totales y parciales, se seguirán las reglas establecidas en esta ley y las establecidas en los lineamientos correspondientes.
 
 Artículo 186
 
@@ -3471,11 +4011,17 @@ Artículo 191
 
 a) En los municipios que contempla el artículo 17, fracción I, del Código Municipal, los ayuntamientos podrán tener adicionalmente nueve regidores según el principio de representación proporcional; en los que refiere la fracción II del artículo citado, siete; en los que alude la fracción III, hasta cinco; y, hasta tres, en los restantes comprendidos en la fracción IV;
 
-b) Tendrán derecho a que les sean asignados regidores de representación proporcional los partidos o coaliciones, que hubiesen registrado planilla de candidatos en la elección respectiva, que no hayan obtenido el triunfo de mayoría relativa y hayan alcanzado por lo menos el 2% de la votación municipal válida emitida. La votación municipal válida emitida resultará de deducir de la votación municipal total emitida, los votos nulos y los votos a favor de candidatos independientes y candidatos no registrados. Para lo anterior, se entiende por votación municipal total emitida el total de votos depositados en las urnas de la elección municipal de ayuntamiento que corresponda;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-c) Para la asignación de regidores de representación proporcional, se le restará a la votación municipal válida emitida señalada en el inciso anterior, la votación obtenida por los partidos o coaliciones que no hayan alcanzado el 2% de la misma. La distribución se hará mediante rondas de asignación entre los partidos políticos o coaliciones con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos. En una primera ronda se asignará una regiduría a cada partido político o coalición que haya obtenido por lo menos el 2% de la votación municipal válida emitida, precisada en los términos del presente inciso.
+b) Tendrán derecho a que les sean asignados regidurías de representación proporcional a las planillas debidamente registradas, que no hayan obtenido el triunfo de mayoría relativa y hayan alcanzado por lo menos el 2% de la votación municipal válida emitida. La votación municipal válida emitida resultará de deducir de la votación municipal total emitida, los votos nulos y candidaturas no registradas. Para lo anterior, se entiende por votación municipal total emitida el total de votos depositados en las urnas de la elección municipal de ayuntamiento que corresponda.
 
-d) Si varios partidos políticos o coaliciones se colocaren en este supuesto, de manera que sobrepasen al número de regidurías de representación proporcional que al municipio correspondan, éstas se otorgarán atendiendo por riguroso orden, al número decreciente del porcentaje de votación obtenida por cada partido o coalición;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+c) Para la asignación de regidurías de representación proporcional, se le restará a la votación municipal válida emitida señalada en el inciso anterior, la votación obtenida por las planillas que no hayan alcanzado el 2% de la misma. La distribución se hará mediante rondas de asignación entre las planillas con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido. En una primera ronda se asignará una regiduría a cada planilla que haya obtenido por lo menos el 2% de la votación municipal válida emitida, precisada en los términos del presente inciso.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+d) Si varias planillas se colocaren en este supuesto, de manera que sobrepasen al número de regidurías de representación proporcional que al municipio correspondan, éstas se otorgarán atendiendo por riguroso orden, al número decreciente del porcentaje de votación obtenida por cada planilla.
 
 e) Si después de aplicado lo anterior, aún quedaren regidurías por repartir, la asignación por este principio se sujetará a una fórmula que aplicará los siguientes elementos:
 
@@ -3483,15 +4029,23 @@ I. Cociente de unidad, y
 
 II. Resto mayor.
 
-f) Cociente de unidad, es el resultado de dividir la votación válida emitida en cada municipio a favor de los partidos y coaliciones con derecho a participar en la distribución, entre el número de miembros del ayuntamiento de representación proporcional a asignar en cada municipio.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-g) Resto mayor de votos, es el remanente más alto entre los restos de las votaciones de cada partido político o coalición, una vez hecha la distribución de miembros de ayuntamiento mediante cociente de unidad. El resto mayor se utilizará cuando aún hubiese miembros por asignar;
+f) Cociente de unidad, es el resultado de dividir la votación válida emitida en cada municipio a favor de las planillas con derecho a participar en la distribución, entre el número de miembros del ayuntamiento de representación proporcional a asignar en cada municipio.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+g) Resto mayor de votos, es el remanente más alto entre los restos de las votaciones de cada planilla, una vez hecha la distribución de miembros de ayuntamiento mediante cociente de unidad. El resto mayor se utilizará cuando aún hubiese miembros por asignar.
 
 2) Para la aplicación de la formula anterior, se seguirá el procedimiento siguiente:
 
-a) Se determinarán los miembros que se le asignarán a cada partido político o coalición, conforme al número de veces que contenga su votación el cociente de unidad. Los regidores asignados a los partidos políticos o coaliciones, de conformidad con el supuesto contenido en el inciso c) del numeral 1 del presente artículo, corresponden al primer entero en los términos de este párrafo.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-b) La asignación de regidores de representación proporcional se hará conforme al orden de la lista de candidatos registrada por cada uno de los partidos políticos o coaliciones, empezando por el primer lugar de la lista de candidatos a regidores y, si después de aplicar el cociente de unidad quedaren cargos por asignar, se aplicará el resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos o coaliciones en la asignación de los cargos del ayuntamiento, y
+a) Se determinarán los miembros que se le asignarán a cada planilla, conforme al número de veces que contenga su votación el cociente de unidad. Las regidurías asignadas a las planillas, de conformidad con el supuesto contenido en el inciso c) del numeral 1 del presente artículo, corresponden al primer entero en los términos de este párrafo.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+b) La asignación de regidurías de representación proporcional se hará conforme al orden de la lista de candidaturas registradas por cada planilla, empezando por el primer lugar de la lista de candidatos a regidores y, si después de aplicar el cociente de unidad quedaren cargos por asignar, se aplicará el resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada una de las planillas en la asignación de los cargos del ayuntamiento.
 
 c) Serán regidores propietarios y suplentes, según el principio de representación proporcional, los que aparezcan en primer término con el carácter señalado en el registro que se autorice para la elección según el principio de votación de mayoría relativa.
 
@@ -3543,59 +4097,13 @@ f) Los topes de gastos que pueden erogar para la obtención del apoyo ciudadano 
 
 2) La convocatoria deberá publicarse en el Periódico Oficial del Estado de Chihuahua, y en dos medios de comunicación impresos de circulación en la Entidad, así como en el portal de internet del Instituto.
 
-#### SECCIÓN PRIMERA. DE LA PROCEDENCIA
+#### SECCIÓN TERCERA. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
 
-Artículo 365
+Artículo 360
 
-1) El juicio para la protección de los derechos político electorales del ciudadano tiene por objeto la tutela de estos derechos en el Estado, cuando el ciudadano haga valer presuntas violaciones a sus derechos de:
+1) Los partidos políticos, coaliciones, aspirantes a candidatos independientes y candidatos independientes, podrán interponer el recurso de apelación, en cualquiera de las hipótesis señaladas en el artículo 378 de esta Ley.
 
-a) Votar y ser votado; y
-
-b) Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos.
-
-Artículo 366
-
-1) El juicio será promovido por el ciudadano, por sí mismo y en forma individual, o a través de sus representantes legales, cuando:
-
-a) Habiendo cumplido con los requisitos y trámites correspondientes no hubiera obtenido oportunamente el documento que exija la ley de la materia para ejercer el voto;
-
-b) Habiendo obtenido oportunamente el documento a que se refiere la fracción anterior, no apareciera incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
-
-c) Considere haber sido indebidamente excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
-
-d) Considere que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político electorales de participar en el proceso interno de selección de candidatos o de ser postulados como candidatos a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición;
-
-e) Considere que se violó su derecho político electoral de ser votado cuando, habiendo sido propuesto por un partido político o coalición, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En este supuesto, si también se interpusiere recurso de revisión o apelación por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal Estatal Electoral, junto con el juicio promovido por el ciudadano;
-
-f) Asociado con otros ciudadanos para constituir un partido político estatal o agrupación política estatal, conforme a las leyes aplicables, considere que se les negó indebidamente su registro; y
-
-g) Considere que un acto o resolución de la autoridad electoral, es violatorio de cualquiera de sus derechos político electorales.
-
-Artículo 367
-
-1) El juicio para la protección de los derechos político electorales será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho presuntamente violado, en la forma y en los plazos que las normas respectivas establezcan para tal efecto.
-
-2) Se consideran como instancias previas, entre otras, las establecidas en los documentos internos de los partidos políticos.
-
-3) Agotar las instancias previas será obligatorio, siempre y cuando:
-
-a) Los órganos competentes estén establecidos, integrados e instalados con antelación a los hechos litigiosos;
-
-b) Se respeten todas las formalidades esenciales del procedimiento exigidas constitucionalmente; y
-
-c) Que formal y materialmente resulten eficaces para restituir a los promoventes en el goce de sus derechos transgredidos.
-
-4) El ciudadano podrá acudir directamente ante la autoridad jurisdiccional cuando falte algún requisito de los señalados con anterioridad o se corra el riesgo que la violación alegada se torne irreparable.
-
-5) Asimismo, el actor podrá acudir directamente al Tribunal Estatal Electoral reclamando una omisión, cuando los órganos partidistas competentes no resuelvan los medios de impugnación internos en los plazos previstos en la normativa del partido, o en un tiempo breve y razonable en el caso de que dicha normatividad no contemple plazos para resolver.
-
-Artículo 368
-
-En los casos previstos por el artículo 366, numeral 1, incisos a) al c), los ciudadanos agraviados deberán agotar previamente la instancia administrativa que establezca la ley. En estos supuestos, las autoridades responsables les proporcionarán orientación y pondrán a su disposición los formatos que sean necesarios para la presentación de la demanda respectiva.
-
-Artículo 369
-
-Cuando por causa de inelegibilidad de los candidatos, las autoridades electorales competentes determinen no otorgar o revocar la constancia de mayoría y validez o de asignación respectiva, se deberá atender a lo dispuesto en el artículo 376, numeral 1, inciso b), de esta Ley.
+2) Los ciudadanos, candidatos, la agrupación política, cualquier persona física o moral y, en general, cualquiera que se vea afectado con motivo de la determinación y, en su caso, la aplicación de sanciones, podrán presentar el recurso de apelación, cumpliendo con los requisitos señalados en esta Ley.
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES DE LOS CANDIDATOS INDEPENDIENTES
 
@@ -3619,7 +4127,9 @@ Artículo 202
 
 1) Con la manifestación de intención, el candidato independiente deberá exhibir la siguiente documentación:
 
-a) La que acredite la constitución de una asociación civil que tenga por objeto promover la candidatura independiente del ciudadano, a la que se le dará el mismo tratamiento que a un partido político en el régimen fiscal aplicable al proceso electoral;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+a) La que acredite la constitución de una asociación civil que tenga por objeto promover la candidatura independiente del ciudadano, a la que se le dará el mismo tratamiento que a un partido político en el régimen fiscal aplicable al proceso electoral; en el caso de los ciudadanos que pretendan reelegirse por la vía independiente, podrán utilizar la misma asociación civil utilizada en la elección anterior, siempre y cuando esté vigente.
 
 b) La que demuestre su alta ante el Sistema de Administración Tributaria; y
 
@@ -3637,13 +4147,13 @@ d) Escrito donde se manifieste bajo protesta de decir verdad, que no se encuentr
 
 Artículo 203
 
-1) A partir del día siguiente de haber adquirido la calidad de aspirante a candidato independiente, se podrán realizar los actos tendentes a recabar el apoyo ciudadano en los siguientes plazos:
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-a) Los aspirantes a candidato independiente para el cargo de Gobernador contarán con cuarenta y cinco días;
+1) Tratándose de la obtención del apoyo ciudadano de quienes hayan obtenido la calidad de aspirante a candidato independiente a Gobernador, Diputado, Planilla del Ayuntamiento y Síndico, el plazo será el mismo que los periodos de precampaña asignados para los partidos políticos previstos en el artículo 97 de esta ley.
 
-b) Los aspirantes a candidato independiente para el cargo de Diputado contarán con treinta días;
+En el caso de miembros del ayuntamiento que pretendan reelegirse deberán seguir el procedimiento de obtención del apoyo ciudadano por planilla que prevé esta Ley.
 
-c) Los aspirantes a candidatos independientes para el cargo de Miembro de Ayuntamiento y síndico, contarán con treinta días.
+El formato único diferenciado para cada elección, aprobado por la autoridad electoral, deberá ser entregado a los aspirantes a candidato independiente según sea el caso, un día antes del inicio de la precampaña asignada para los partidos políticos.
 
 2) El Consejo Estatal podrá realizar los ajustes a los plazos establecidos en este artículo a fin de armonizarlos con los plazos de registro de las candidaturas respectivas.
 
@@ -3703,19 +4213,27 @@ Artículo 212
 
 El aspirante a candidato independiente que no entregue el informe de ingresos y egresos, dentro de los 30 días siguientes a la conclusión del período para recabar el apoyo ciudadano, le será negado el registro como candidato independiente. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de esta Ley.
 
-#### SECCIÓN SEGUNDA. DE LA COMPETENCIA
+#### SECCIÓN CUARTA. DE LAS SENTENCIAS RECAÍDAS AL RECURSO DE APELACIÓN
 
-Artículo 370
+Artículo 361
 
-El Tribunal Estatal Electoral será competente para conocer y resolver el juicio para la protección de los derechos político electorales del ciudadano.
+1) Los recursos de apelación que se interpongan en contra de las determinaciones a que se refiere el artículo 378, numeral 2, deberán resolverse dentro de los plazos previstos para el registro de candidatos, según sea el caso.
 
-#### SECCIÓN TERCERA. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
+2) En los demás casos, los recursos de apelación serán resueltos dentro de los quince días siguientes a aquél en que se admitan; salvo cuando la naturaleza del asunto o las pruebas que deban examinarse o perfeccionarse requieran de una prórroga, la cual deberá motivarse.
 
-Artículo 371
+Artículo 362
 
-1) En todo tiempo, el ciudadano, por sí mismo y en forma individual, o a través de sus representantes legales, podrá interponer el juicio para la protección de los derechos político electorales del ciudadano.
+Las resoluciones recaídas a los recursos de apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnados.
 
-2) En el supuesto referido en el artículo 366, inciso f), el juicio para la protección de los derechos político electorales del ciudadano será interpuesto por quien ostente la representación de la organización o agrupación política agraviada.
+Artículo 363
+
+Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán enviados al Tribunal Estatal Electoral para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar en este último la conexidad de la causa. Cuando los recursos de apelación no guarden relación con algún juicio de inconformidad serán archivados como asuntos definitivamente concluidos; salvo cuando se controvierta la determinación o la aplicación de alguna sanción.
+
+#### SECCIÓN QUINTA. DE LA NOTIFICACIÓN DE LAS SENTENCIAS
+
+Artículo 364
+
+Las sentencias recaídas a los recursos de apelación, serán notificadas personalmente a las partes dentro de los tres días siguientes a aquél en que se pronuncien.
 
 ## TÍTULO CUARTO. DE LA PROPAGANDA ELECTORAL DE LOS CANDIDATOS INDEPENDIENTES
 
@@ -3893,6 +4411,86 @@ Artículo 252
 
 En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente, en su caso de los candidatos independientes integrantes de la fórmula o planilla.
 
+#### SECCIÓN PRIMERA. DE LA PROCEDENCIA
+
+Artículo 365
+
+1) El juicio para la protección de los derechos político electorales del ciudadano tiene por objeto la tutela de estos derechos en el Estado, cuando el ciudadano haga valer presuntas violaciones a sus derechos de:
+
+a) Votar y ser votado; y
+
+b) Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos.
+
+Artículo 366
+
+1) El juicio será promovido por el ciudadano, por sí mismo y en forma individual, o a través de sus representantes legales, cuando:
+
+a) Habiendo cumplido con los requisitos y trámites correspondientes no hubiera obtenido oportunamente el documento que exija la ley de la materia para ejercer el voto;
+
+b) Habiendo obtenido oportunamente el documento a que se refiere la fracción anterior, no apareciera incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
+
+c) Considere haber sido indebidamente excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
+
+d) Considere que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político electorales de participar en el proceso interno de selección de candidatos o de ser postulados como candidatos a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición;
+
+e) Considere que se violó su derecho político electoral de ser votado cuando, habiendo sido propuesto por un partido político o coalición, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En este supuesto, si también se interpusiere recurso de revisión o apelación por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal Estatal Electoral, junto con el juicio promovido por el ciudadano;
+
+f) Asociado con otros ciudadanos para constituir un partido político estatal o agrupación política estatal, conforme a las leyes aplicables, considere que se les negó indebidamente su registro; y
+
+g) Considere que un acto o resolución de la autoridad electoral, es violatorio de cualquiera de sus derechos político electorales.
+
+Artículo 367
+
+1) El juicio para la protección de los derechos político electorales será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho presuntamente violado, en la forma y en los plazos que las normas respectivas establezcan para tal efecto.
+
+2) Se consideran como instancias previas, entre otras, las establecidas en los documentos internos de los partidos políticos.
+
+3) Agotar las instancias previas será obligatorio, siempre y cuando:
+
+a) Los órganos competentes estén establecidos, integrados e instalados con antelación a los hechos litigiosos;
+
+b) Se respeten todas las formalidades esenciales del procedimiento exigidas constitucionalmente; y
+
+c) Que formal y materialmente resulten eficaces para restituir a los promoventes en el goce de sus derechos transgredidos.
+
+4) El ciudadano podrá acudir directamente ante la autoridad jurisdiccional cuando falte algún requisito de los señalados con anterioridad o se corra el riesgo que la violación alegada se torne irreparable.
+
+5) Asimismo, el actor podrá acudir directamente al Tribunal Estatal Electoral reclamando una omisión, cuando los órganos partidistas competentes no resuelvan los medios de impugnación internos en los plazos previstos en la normativa del partido, o en un tiempo breve y razonable en el caso de que dicha normatividad no contemple plazos para resolver.
+
+Artículo 368
+
+En los casos previstos por el artículo 366, numeral 1, incisos a) al c), los ciudadanos agraviados deberán agotar previamente la instancia administrativa que establezca la ley. En estos supuestos, las autoridades responsables les proporcionarán orientación y pondrán a su disposición los formatos que sean necesarios para la presentación de la demanda respectiva.
+
+Artículo 369
+
+Cuando por causa de inelegibilidad de los candidatos, las autoridades electorales competentes determinen no otorgar o revocar la constancia de mayoría y validez o de asignación respectiva, se deberá atender a lo dispuesto en el artículo 376, numeral 1, inciso b), de esta Ley.
+
+#### SECCIÓN SEGUNDA. DE LA COMPETENCIA
+
+Artículo 370
+
+El Tribunal Estatal Electoral será competente para conocer y resolver el juicio para la protección de los derechos político electorales del ciudadano.
+
+#### SECCIÓN TERCERA. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
+
+Artículo 371
+
+1) En todo tiempo, el ciudadano, por sí mismo y en forma individual, o a través de sus representantes legales, podrá interponer el juicio para la protección de los derechos político electorales del ciudadano.
+
+2) En el supuesto referido en el artículo 366, inciso f), el juicio para la protección de los derechos político electorales del ciudadano será interpuesto por quien ostente la representación de la organización o agrupación política agraviada.
+
+## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR EN MATERIA ELECTORAL
+
+### CAPÍTULO SEGUNDO. DEL CÓMPUTO DE LOS VOTOS DE LOS CANDIDATOS INDEPENDIENTES
+
+Artículo 253
+
+Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por esta Ley.
+
+Artículo 254
+
+Para determinar la votación emitida que servirá de base para la asignación de diputados por el principio de representación proporcional, no serán contabilizados los votos recibidos a favor de candidatos independientes.
+
 #### SECCIÓN CUARTA. DE LA SUSTANCIACIÓN Y DE LA RESOLUCIÓN
 
 Artículo 372
@@ -3912,60 +4510,6 @@ a) Confirmar el acto o resolución impugnado; o
 b) Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político electoral que le haya sido violado.
 
 2) En los casos a que se refieren los incisos a) al c) del artículo 366, cuando la sentencia que se dicte resulte favorable a los intereses del promovente, el único efecto será restituirlo en el uso y goce del derecho político electoral de votar que le haya sido violado. Para efecto de lo anterior, los funcionarios electorales permitirán que los ciudadanos respectivos ejerzan el derecho de voto el día de la jornada electoral, para lo cual bastará la exhibición de la copia certificada de los puntos resolutivos del fallo así como de una identificación.
-
-#### SECCIÓN PRIMERA. DE LA PROCEDENCIA
-
-Artículo 375
-
-1) El Juicio de Inconformidad será procedente para impugnar:
-
-a) Por nulidad de la votación recibida de una o varias casillas, los resultados consignados en las actas de cómputo y la declaración de validez de las elecciones de síndicos, ayuntamientos, diputados o Gobernador;
-
-b) Por las causales de nulidad establecidas en esta Ley, la declaración de validez de la elección de ayuntamientos, diputados o Gobernador;
-
-c) Por error aritmético, los cómputos de las elecciones de ayuntamientos, diputados o Gobernador;
-
-d) La negativa de la autoridad administrativa electoral de realizar recuentos totales o parciales de votación, y
-
-e) La asignación de diputados o regidores de representación proporcional.
-
-#### SECCIÓN SEGUNDA. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
-
-Artículo 376
-
-1) El juicio de inconformidad sólo podrá ser promovido por:
-
-a) Los partidos políticos, coaliciones y candidatos independientes, y
-
-b) Los candidatos postulados por partidos político (sic) o coaliciones, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación; o bien, cuando se vean afectados en la aplicación de la fórmula de asignación de diputados o regidores de representación proporcional. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en esta Ley.
-
-## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR EN MATERIA ELECTORAL
-
-### CAPÍTULO SEGUNDO. DEL CÓMPUTO DE LOS VOTOS DE LOS CANDIDATOS INDEPENDIENTES
-
-Artículo 253
-
-Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por esta Ley.
-
-Artículo 254
-
-Para determinar la votación emitida que servirá de base para la asignación de diputados por el principio de representación proporcional, no serán contabilizados los votos recibidos a favor de candidatos independientes.
-
-#### SECCIÓN TERCERA. DE LOS REQUISITOS ESPECIALES DE PROCEDIBILIDAD
-
-Artículo 377
-
-1) Además de los requisitos generales establecidos en esta Ley, la demanda de juicio de inconformidad, deberá precisar lo siguiente:
-
-a) La elección que se impugna, señalando expresamente si se objeta el cómputo, la declaración de validez de la elección y, por consecuencia, el otorgamiento de las constancias respectivas. En ningún caso podrá impugnarse más de una elección con el mismo escrito;
-
-b) La mención individualizada del acta de cómputo que se impugne;
-
-c) La mención individualizada de la o las casillas cuya votación se solicita que se anule en cada caso y la causal para cada una de ellas;
-
-d) El error aritmético cuando por este motivo se impugnen los resultados consignados en las actas de cómputo, y
-
-2) La falta de alguno o algunos de los requisitos a que se refiere el presente artículo, dará lugar a que se formule requerimiento al promovente, para que lo subsane en el plazo que se señale, apercibido que de no cumplirlo, se desechará el medio de impugnación.
 
 ### CAPÍTULO PRIMERO. DE LOS SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
 
@@ -4129,7 +4673,11 @@ c) El incumplimiento del principio de imparcialidad establecido por el artículo
 
 d) Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-e) La utilización de programas sociales y de sus recursos, del ámbito federal, estatal o municipal, con la finalidad de inducir o coaccionar a los Ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+e) La utilización de programas sociales y de sus recursos, del ámbito federal, estatal o municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato. Durante los treinta días anteriores al de la jornada electoral, las autoridades estatales y municipales así como los legisladores locales se abstendrán de establecer y operar programas de apoyo social o comunitario que impliquen la entrega a la población de materiales, alimentos o cualquier elemento que forme parte de sus programas asistenciales o de promoción y desarrollo social, salvo en los casos de extrema urgencia debido a enfermedades, desastres naturales, siniestros u otros eventos de igual naturaleza.
+
+Los recursos no ejercidos conforme al calendario mensual autorizado en el Presupuesto de Egresos, serán ejercidos el día siguiente de la elección.
 
 f) Condicionar la provisión de servicios o la realización de obras públicas a:
 
@@ -4303,6 +4851,8 @@ Artículo 272
 
 9) El superior jerárquico a que se refiere el numeral anterior, deberá comunicar al Instituto las medidas que haya adoptado en el caso.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ## TÍTULO PRIMERO. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL TRIBUNAL
 
 Artículo 293
@@ -4317,7 +4867,9 @@ Artículo 294
 
 1) El Tribunal Estatal Electoral funcionará en Pleno. Para que pueda sesionar válidamente se requiere la presencia de por lo menos tres de sus integrantes. Sus determinaciones serán válidas con el voto de la mayoría simple de los presentes. En caso de empate, el Magistrado Presidente tendrá voto de calidad, después de haber emitido su voto ordinario. El Secretario General sólo tendrá derecho a voz.
 
-2) El Tribunal Estatal Electoral se integra por cinco magistrados, que deberán satisfacer los requisitos de elegibilidad que establece la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+2) El Tribunal Estatal Electoral se integra por cinco magistrados, de los cuales dos deberán ser de distinto sexo a los otros tres y deberán satisfacer los requisitos de elegibilidad que establece la Ley General de Instituciones y Procedimientos Electorales.
 
 3) Los Magistrados serán designados de forma escalonada en los términos que establece la Constitución Local y de conformidad con lo señalado por el artículo 116, fracción IV, inciso c), de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
@@ -4576,6 +5128,10 @@ Artículo 304
 Las autoridades federales, estatales, municipales y del Distrito Federal, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el artículo anterior, no cumplan las disposiciones de esta Ley o desacaten las resoluciones que dicte el Tribunal Estatal Electoral, serán sancionados en los términos de ley, sin perjuicio de la aplicación de los medios de apremio dispuestos en el presente ordenamiento.
 
 ## TÍTULO SEGUNDO. DE LAS REGLAS COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACIÓN
+
+### CAPÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL ELECTORAL
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -5111,7 +5667,9 @@ Artículo 324
 
 Artículo 325
 
-1) La autoridad que reciba un medio de impugnación en contra de un acto o resolución que le es propio, lo hará de inmediato del conocimiento público mediante cédula que fijará en los estrados, durante un plazo de cuarenta y ocho horas. Asimismo, de manera inmediata, deberá dar aviso de su presentación, mediante oficio, al Consejo Estatal del Instituto Estatal Electoral o al Tribunal Estatal Electoral, según corresponda.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) La autoridad que reciba un medio de impugnación en contra de un acto o resolución que le es propio, lo hará de inmediato del conocimiento público mediante cédula que fijará en los estrados, durante un plazo de setenta y dos horas. Asimismo, de manera inmediata, deberá dar aviso de su presentación, mediante oficio, al Consejo Estatal del Instituto Estatal Electoral o al Tribunal Estatal Electoral, según corresponda.
 
 2) Cuando alguna autoridad electoral reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo remitirá de inmediato, sin trámite adicional alguno, a la autoridad responsable. El medio de impugnación se tendrá por presentado en la fecha en que lo reciba aquélla.
 
@@ -5119,7 +5677,9 @@ Artículo 325
 
 Artículo 326
 
-1) Dentro del plazo de las cuarenta y ocho horas en que se haga del conocimiento público la presentación de un medio de impugnación, los terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+1) Dentro del plazo de las setenta y dos horas en que se haga del conocimiento público la presentación de un medio de impugnación, los terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
 
 a) Presentarse ante la autoridad responsable del acto o resolución impugnado;
 
@@ -5275,6 +5835,8 @@ Artículo 335
 
 3) En las resoluciones y sentencias se podrán establecer los plazos y las bases para su ejecución.
 
+## TÍTULO TERCERO. DE LOS MEDIOS DE IMPUGNACIÓN
+
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS NOTIFICACIONES
 
 Artículo 336
@@ -5369,8 +5931,6 @@ Artículo 342
 
 Las partes o los interesados, en el primer escrito que presenten, o en la primera diligencia en que intervengan, designarán domicilio en la ciudad de Chihuahua o en el lugar en que tengan su sede el órgano del Instituto Estatal Electoral, el Tribunal Estatal Electoral o sus Salas Regionales para que, en él, se les hagan las notificaciones y se practiquen las demás diligencias que sean necesarias. Si las partes o los interesados no cumplen con lo aquí previsto, las notificaciones, aun las personales, se harán por medio de estrados.
 
-## TÍTULO TERCERO. DE LOS MEDIOS DE IMPUGNACIÓN
-
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA ACUMULACIÓN
 
 Artículo 343
@@ -5395,25 +5955,47 @@ Artículo 345
 
 3) El magistrado instructor que se encuentre sustanciando un expediente, podrá proponer al Pleno un acuerdo de escisión respecto del mismo, si en el escrito se impugna más de un acto, o bien, existe pluralidad de actores o demandados y, en consecuencia, se estime fundadamente que no es conveniente resolverlo en forma conjunta, por no presentarse alguna de las hipótesis de acumulación, y siempre que no se actualice alguna causal de improcedencia o sobreseimiento. Dictado el acuerdo de escisión, el magistrado instructor concluirá la sustanciación por separado de los expedientes que hubiesen resultado del referido acuerdo, formulando los correspondientes proyectos de sentencia.
 
-### CAPÍTULO DÉCIMO TERCERO. DE LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
+#### SECCIÓN PRIMERA. DE LA PROCEDENCIA
 
-Artículo 346
+Artículo 375
 
-1) El Tribunal Estatal Electoral, por conducto del Magistrado Presidente o del magistrado instructor, para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicte, así como para mantener el orden y exigir respeto, podrá aplicar indistintamente los medios de apremio y las correcciones disciplinarias siguientes:
+1) El Juicio de Inconformidad será procedente para impugnar:
 
-a) Amonestación;
+a) Por nulidad de la votación recibida de una o varias casillas, los resultados consignados en las actas de cómputo y la declaración de validez de las elecciones de síndicos, ayuntamientos, diputados o Gobernador;
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+b) Por las causales de nulidad establecidas en esta Ley, la declaración de validez de la elección de ayuntamientos, diputados o Gobernador;
 
-b) Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización vigente;
+c) Por error aritmético, los cómputos de las elecciones de ayuntamientos, diputados o Gobernador;
 
-c) Auxilio de la fuerza pública, y
+d) La negativa de la autoridad administrativa electoral de realizar recuentos totales o parciales de votación, y
 
-d) Arresto hasta por treinta y seis horas
+e) La asignación de diputados o regidores de representación proporcional.
 
-Artículo 347
+#### SECCIÓN SEGUNDA. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
 
-La persona a quien se le haya impuesto un medio de apremio o una corrección disciplinaria, podrá solicitar audiencia al Magistrado Presidente para comunicarle las razones que pudieren dar lugar a la revocación de la medida. El Magistrado Presidente, si estima que no hay necesidad de obtener mayor información turnará al Pleno, quien resolverá. En caso contrario, una vez recabados los datos que estime necesarios, u ordenados por el Pleno, los remitirá a éste, para que decida lo correspondiente.
+Artículo 376
+
+1) El juicio de inconformidad sólo podrá ser promovido por:
+
+a) Los partidos políticos, coaliciones y candidatos independientes, y
+
+b) Los candidatos postulados por partidos político (sic) o coaliciones, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación; o bien, cuando se vean afectados en la aplicación de la fórmula de asignación de diputados o regidores de representación proporcional. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en esta Ley.
+
+#### SECCIÓN TERCERA. DE LOS REQUISITOS ESPECIALES DE PROCEDIBILIDAD
+
+Artículo 377
+
+1) Además de los requisitos generales establecidos en esta Ley, la demanda de juicio de inconformidad, deberá precisar lo siguiente:
+
+a) La elección que se impugna, señalando expresamente si se objeta el cómputo, la declaración de validez de la elección y, por consecuencia, el otorgamiento de las constancias respectivas. En ningún caso podrá impugnarse más de una elección con el mismo escrito;
+
+b) La mención individualizada del acta de cómputo que se impugne;
+
+c) La mención individualizada de la o las casillas cuya votación se solicita que se anule en cada caso y la causal para cada una de ellas;
+
+d) El error aritmético cuando por este motivo se impugnen los resultados consignados en las actas de cómputo, y
+
+2) La falta de alguno o algunos de los requisitos a que se refiere el presente artículo, dará lugar a que se formule requerimiento al promovente, para que lo subsane en el plazo que se señale, apercibido que de no cumplirlo, se desechará el medio de impugnación.
 
 #### SECCIÓN CUARTA. DE LA COMPETENCIA
 
@@ -5450,6 +6032,26 @@ Artículo 380
 1) El Tribunal Estatal Electoral podrá modificar el acta o las actas de cómputo respectivas al resolver el último de los juicios que se hubiere (sic) promovido en contra de la misma elección.
 
 2) Cuando por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección previstos en esta Ley, el Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
+
+### CAPÍTULO DÉCIMO TERCERO. DE LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
+
+Artículo 346
+
+1) El Tribunal Estatal Electoral, por conducto del Magistrado Presidente o del magistrado instructor, para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicte, así como para mantener el orden y exigir respeto, podrá aplicar indistintamente los medios de apremio y las correcciones disciplinarias siguientes:
+
+a) Amonestación;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+b) Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+c) Auxilio de la fuerza pública, y
+
+d) Arresto hasta por treinta y seis horas
+
+Artículo 347
+
+La persona a quien se le haya impuesto un medio de apremio o una corrección disciplinaria, podrá solicitar audiencia al Magistrado Presidente para comunicarle las razones que pudieren dar lugar a la revocación de la medida. El Magistrado Presidente, si estima que no hay necesidad de obtener mayor información turnará al Pleno, quien resolverá. En caso contrario, una vez recabados los datos que estime necesarios, u ordenados por el Pleno, los remitirá a éste, para que decida lo correspondiente.
 
 #### SECCIÓN SEXTA. DE LA NOTIFICACIÓN DE LAS SENTENCIAS
 
@@ -5489,15 +6091,17 @@ Artículo 351
 
 En los medios de impugnación nadie podrá invocar en su favor causas de nulidad, hechos o circunstancias contrarias a la Ley provocadas por el promovente.
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
-
 ## TÍTULO CUARTO. DE LAS NULIDADES ELECTORALES
+
+### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
 ### CAPÍTULO TERCERO. DEL RECURSO DE APELACIÓN
 
 ### CAPÍTULO CUARTO. DEL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICO ELECTORALES DEL CIUDADANO
 
 ### CAPÍTULO QUINTO. DEL JUICIO DE INCONFORMIDAD
+
+## TÍTULO QUINTO. DE LOS INCIDENTES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -5509,7 +6113,7 @@ Artículo 382
 
 3) Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
-## TÍTULO QUINTO. DE LOS INCIDENTES
+## TITULO SEXTO
 
 ### CAPÍTULO SEGUNDO. DE LAS CAUSAS DE NULIDAD DE VOTACIÓN
 
@@ -5542,38 +6146,6 @@ k) Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 l) Cuando se cierre la casilla antes de la hora indicada, sin haber acudido a votar la totalidad de los ciudadanos inscritos en la lista nominal correspondiente, y
 
 m) Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
-
-## TITULO SEXTO
-
-### CAPÍTULO TERCERO. DE LAS CAUSAS DE NULIDAD DE UNA ELECCIÓN
-
-Artículo 384
-
-1) Son causas de nulidad de una elección de síndicos, ayuntamiento, diputados de mayoría relativa o Gobernador, las siguientes:
-
-a) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el 20% de las casillas electorales del municipio, distrito o Estado, según corresponda;
-
-b) Cuando no se instalen las casillas en el 20% de las secciones del municipio, distrito o Estado, según corresponda y consecuentemente la votación no hubiere sido recibida, y
-
-c) Cuando los candidatos sean inelegibles.
-
-Artículo 385
-
-1) Sólo podrá ser declarada nula la elección de un síndico, de un ayuntamiento, de un diputado de mayoría relativa o de Gobernador, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
-
-2) El Tribunal Estatal Electoral podrá declarar la nulidad de una elección cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral y se demuestre que las mismas son determinantes para el resultado de la elección, salvo que las irregularidades sean imputables al promovente.
-
-3) El Tribunal Estatal Electoral deberá declarar la nulidad de la elección por violaciones graves, dolosas y determinantes en los siguientes casos:
-
-a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
-
-b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley, y
-
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
-
-4) Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
-
-5) En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 # LIBRO NOVENO. DE LOS PROCESOS PLEBISCITARIOS Y DE REFERÉNDUM
 
@@ -5688,6 +6260,36 @@ Artículo 403
 2) Si el Congreso no se encontrare en sesiones ordinarias, la Diputación Permanente convocará a un periodo extraordinario de sesiones en un plazo no mayor de quince días hábiles contados a partir de la fecha de la notificación que le realice el Instituto Estatal Electoral, a fin de que el Congreso proceda a la derogación del ordenamiento que no haya sido ratificado.
 
 3) Si el Congreso del Estado no deroga y ordena la publicación del decreto correspondiente en el término a que se refiere el numeral 1 de este artículo, el Instituto Estatal Electoral ordenará la publicación del resultado del referéndum, mismo que surtirá efectos como si lo hubiere hecho el Congreso.
+
+### CAPÍTULO TERCERO. DE LAS CAUSAS DE NULIDAD DE UNA ELECCIÓN
+
+Artículo 384
+
+1) Son causas de nulidad de una elección de síndicos, ayuntamiento, diputados de mayoría relativa o Gobernador, las siguientes:
+
+a) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el 20% de las casillas electorales del municipio, distrito o Estado, según corresponda;
+
+b) Cuando no se instalen las casillas en el 20% de las secciones del municipio, distrito o Estado, según corresponda y consecuentemente la votación no hubiere sido recibida, y
+
+c) Cuando los candidatos sean inelegibles.
+
+Artículo 385
+
+1) Sólo podrá ser declarada nula la elección de un síndico, de un ayuntamiento, de un diputado de mayoría relativa o de Gobernador, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
+
+2) El Tribunal Estatal Electoral podrá declarar la nulidad de una elección cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral y se demuestre que las mismas son determinantes para el resultado de la elección, salvo que las irregularidades sean imputables al promovente.
+
+3) El Tribunal Estatal Electoral deberá declarar la nulidad de la elección por violaciones graves, dolosas y determinantes en los siguientes casos:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley, y
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+4) Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+5) En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 ### CAPÍTULO CUARTO. DE LOS EFECTOS DE LA INELEGIBILIDAD
 
@@ -5824,3 +6426,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0375/2017 VIII P.E.".]
+
+PRIMERO.- El presente Decreto entrará en vigor inmediatamente después de la entrada en vigor de las disposiciones constitucionales a que se refiere el Decreto No. LXV/RFCNT/0374/2017 VIII P.E.
+
+SEGUNDO.- El proceso electoral local 2017-2018 iniciará el 01 de diciembre de 2017 y la Jornada Electoral del mismo, se celebrará el 01 de julio de 2018. Por consiguiente, las reformas a los artículos 60 numeral 1 y 93 del presente decreto, entrarán en vigor una vez concluido el proceso electoral local 2017-2018.
