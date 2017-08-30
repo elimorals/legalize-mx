@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2016-11-30"
+last_updated: "2017-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -51,7 +51,9 @@ El presente Reglamento tiene por objeto establecer la estructura orgánica y las
 
 Para efectos de este Reglamento se entenderá por:
 
-a) Consejeros: Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+a) Comisionados: Comisionados del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 b) Ley: Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
@@ -59,9 +61,13 @@ c) Lineamientos Generales: Normas de carácter general y obligatorio que son exp
 
 d) Pleno: Órgano Supremo del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
-e) Órgano de Gobierno: Órgano colegiado integrado por los tres consejeros propietarios que ejerce las facultades administrativas del Instituto.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-f) Presidente: Consejero Presidente.
+e) Órgano de Gobierno: Órgano colegiado integrado por los tres Comisionados propietarios que ejerce las facultades administrativas del Instituto.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+f) Presidente: Comisionado Presidente.
 
 g) Reglamento: Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
@@ -81,15 +87,19 @@ Corresponde al Pleno ejercer directamente las facultades que tienen por objeto l
 
 Corresponde al Órgano de Gobierno ejercer la Dirección y Administración del Instituto, específicamente las funciones descritas en las fracciones XV, XVI, XVII, XIX y XXI, del artículo 23 de la Ley.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 5.
 
-El Pleno se integra por los tres Consejeros, quienes tomarán sus decisiones y desarrollarán sus funciones de manera colegiada, ajustándose para ello a los principios de igualdad entre sus integrantes, así como los de legalidad, honradez, lealtad: imparcialidad, eficiencia, autonomía, independencia, profesionalismo, objetividad y probidad.
+El Pleno se integra por los tres Comisionados, quienes tomarán sus decisiones y desarrollarán sus funciones de manera colegiada, ajustándose para ello a los principios de igualdad entre sus integrantes, así como los de legalidad, honradez, lealtad, imparcialidad, eficiencia, autonomía, independencia, profesionalismo, objetividad y probidad.
 
-Sus decisiones se tomarán por unanimidad o mayoría de votos; en caso de empate por ausencia de un Consejero deberá reservarse el asunto hasta que comparezca el Consejero ausente; si el empate se origina por impedimento o excusa de un Consejero, el Presidente resolverá con voto de calidad.
+Sus decisiones se tomarán por unanimidad o mayoría de votos; en caso de empate por ausencia de un Comisionado deberá reservarse el asunto hasta que comparezca el Comisionado ausente; si el empate se origina por impedimento o excusa de un Comisionado, el Presidente resolverá con voto de calidad.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 6.
 
-Para el funcionamiento legal del Pleno, se requiere la presencia de al menos dos Consejeros, quienes deberán sancionar con sus votos los acuerdos tomados en la sesión.
+Para el funcionamiento legal del Pleno, se requiere la presencia de al menos dos Comisionados, quienes deberán sancionar con sus votos los acuerdos tomados en la sesión.
 
 ###### Artículo 7.
 
@@ -99,59 +109,59 @@ El Pleno funcionará en sesiones que podrán tener el carácter de ordinarias o 
 
 Las sesiones del Pleno serán públicas, excepto cuando se analice un asunto relacionado con información reservada o confidencial, la remoción de los servidores públicos del Instituto o el Pleno así lo acuerde.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 9.
 
-Los Consejeros no podrán abstenerse de votar pero deberán excusarse de conocer aquellos asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que les pueda resultar un beneficio o interesen a su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Consejero o las personas antes referidas formen o hayan formado parte.
+Los Comisionados no podrán abstenerse de votar, pero deberán excusarse de conocer aquellos asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que les pueda resultar un beneficio o interesen a su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Comisionado o las personas antes referidas formen o hayan formado parte.
 
 ###### Artículo 10.
 
 Las sesiones ordinarias serán convocadas por el Presidente con al menos un día hábil de anticipación, señalando fecha y hora de la sesión, así como la propuesta del orden del día.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 11.
 
-Las sesiones extraordinarias serán convocadas por el Presidente o por los dos Consejeros restantes con al menos un día hábil de anticipación; señalando fecha y hora de la sesión, asuntos a tratar y razones que motiven la sesión.
+Las sesiones extraordinarias serán convocadas por el Presidente o por los dos Comisionados restantes con al menos un día hábil de anticipación, señalando fecha y hora de la sesión, asuntos a tratar y razones que motiven la sesión.
 
-Cuando se encuentren presentes los tres Consejeros, se trate de asuntos urgentes y estén de acuerdo en realizar una sesión extraordinaria, no se requerirá cumplir con la anticipación que establece el párrafo anterior.
+Cuando se encuentren presentes los tres Comisionados, se trate de asuntos urgentes y estén de acuerdo en realizar una sesión extraordinaria, no se requerirá cumplir con la anticipación que establece el párrafo anterior.
 
 ###### Artículo 12.
 
-Los recursos se sortearán entre los Consejeros, para que estos formulen proyecto de resolución, conforme a los siguientes criterios:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2017)
 
-I. Los sorteos se efectuarán por lo menos una vez al mes;
-
-II. Con la debida anticipación el Secretario Ejecutivo ordenará lo procedente a efecto de que se sorteen todos los expedientes que estén vistos para resolución;
-
-III. En los casos en que se otorgue amparo para efectos proyectará el asunto el Consejero Ponente de la resolución recurrida o quien lo sustituya, bien sea por licencia o renuncia;
-
-IV. Los expedientes para nueva resolución a que se refiere el párrafo anterior, se fallarán en lugar preferente a los sorteados;
-
-V. El Secretario Ejecutivo, antes de cada sorteo, formará una relación de expedientes en el orden en que fueron quedando listos para resolución;
-
-VI. La relación para sorteo deberá contener: número de expediente, nombre de las partes, tipo de recurso, nombre del Consejero que resuelve como ponente que se agregará después del sorteo y la fecha del sorteo. Posteriormente se agregará a esta relación la fecha de la resolución; y
-
-VII. La relación de expedientes sorteados y de los que se turnen para nueva resolución se publicarán en estrados.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 13.
 
-Únicamente podrán someterse a la consideración del Pleno la resolución de recursos cuyos proyectos se entreguen a los Consejeros en el horario establecido y al menos un día hábil antes de la sesión.
+Únicamente podrán someterse a la consideración del Pleno la resolución de recursos cuyos proyectos se entreguen a los Comisionados en el horario establecido y al menos un día hábil antes de la sesión.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 14.
 
-Los Consejeros deberán sesionar en la ciudad de Villahermosa, capital del Estado de Tabasco, en el domicilio que al efecto determinen, el cual podrá ser cambiado a otro inmueble de manera transitoria o definitiva.
+Los Comisionados deberán sesionar en la ciudad de Villahermosa, capital del Estado de Tabasco, en el domicilio que al efecto determinen, el cual podrá ser cambiado a otro inmueble de manera transitoria o definitiva.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 15.
 
 Las decisiones, recomendaciones, expedientes y resoluciones del Pleno se harán públicas, pero deberá asegurarse que la información reservada o confidencial se mantenga con tal carácter.
 
-Cuando el Presidente no asista a una sesión, los Consejeros presentes designarán de entre ellos a quien deberá conducir los trabajos de la misma.
+Cuando el Presidente no asista a una sesión, los Comisionados presentes designarán de entre ellos a quien deberá conducir los trabajos de la misma.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 16.
 
-Todas las decisiones y funciones del Instituto son competencia originaria del Pleno y del Órgano de Gobierno, quienes por disposición de la Ley, su Reglamento, este cuerpo normativo, otros ordenamientos aplicables y acuerdos subsiguientes, podrán delegar en los Consejeros, Secretario Ejecutivo, Directores o Encargados de Unidades, aquellas que no impliquen la resolución de los recursos que de acuerdo a la Ley se interpongan, ni la emisión de recomendaciones o normas de carácter general.
+Todas las decisiones y funciones del Instituto son competencia originaria del Pleno y del Órgano de Gobierno, quienes por disposición de la Ley, su Reglamento, éste cuerpo normativo, otros ordenamientos aplicables y acuerdos subsiguientes, podrán delegar en los Comisionados, Secretario Ejecutivo, Directores o Encargados de Unidades, aquellas que no impliquen la resolución de los recursos que de acuerdo a la Ley se interpongan, ni la emisión de recomendaciones o normas de carácter general.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 17.
 
-Las sesiones del Órgano de Gobierno serán convocadas por el Presidente o por los dos Consejeros restantes y se desarrollarán conforme a las disposiciones que rigen el funcionamiento del Pleno.
+Las sesiones del Órgano de Gobierno serán convocadas por el Presidente o por los dos Comisionados restantes y se desarrollarán conforme a las disposiciones que rigen el funcionamiento del Pleno.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
@@ -173,9 +183,11 @@ VI. No encontrarse inhabilitado para desempeñar un empleo, cargo o comisión en
 
 VII. No ser ministro de culto religioso alguno.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 19.
 
-El horario de labores del Instituto será de 8:00 a 16:00 horas todos los días hábiles, sin perjuicio de que los Consejeros para atender las necesidades del servicio podrán autorizar los horarios que estimen necesarios.
+El horario de labores del Instituto será de 8:00 a 16:00 horas todos los días hábiles, sin perjuicio de que los Comisionados para atender las necesidades del servicio podrán autorizar los horarios que estimen necesarios.
 
 La recepción de documentos en el Instituto se hará de las 08:00 a las 16:00 horas, incluyendo los que se presenten por el sistema INFOMEX.
 
@@ -197,9 +209,13 @@ I. Pleno;
 
 II. Órgano de Gobierno;
 
-III. Presidente;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-IV. Consejeros;
+III. Presidencia;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IV. Ponencias;
 
 V. Secretaría Ejecutiva;
 
@@ -209,17 +225,17 @@ VI. Dirección Jurídica Consultiva y Protección de Datos Personales;
 
 VII. Dirección de Administración y Finanzas;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-VIII. Dirección de Capacitación, Vinculación y Difusión;
+VIII. Dirección de Capacitación y Vinculación;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-IX. Dirección de Informática;
+IX. Órgano de Control Interno;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-X. Órgano de Control de (sic) Interno;
+X. Unidad de Tecnologías de la Información y Comunicación;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
@@ -229,19 +245,29 @@ XI. Unidad de Archivos;
 
 XII. Unidad de Comunicación Social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-XIII. Unidad de Planeación y Evaluación al Desempeño Institucional; y
+XIII. Unidad de Planeación y Evaluación al Desempeño Institucional;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-XIV. Las demás unidades, personal técnico o administrativo que, conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
+XIV. Unidad de Verificación de Obligaciones de Transparencia;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XV. Unidad de Transparencia; y,
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XVI. Las demás unidades, personal técnico o administrativo que, conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
 
 ### Capítulo III. Del Pleno
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 22.
 
-Corresponde al Pleno del instituto:
+Corresponde al Pleno del Instituto:
 
 I. Establecer los criterios de interpretación de la Ley y las demás normas o lineamientos que de ella deriven;
 
@@ -269,7 +295,9 @@ XI. Aprobar reformas y adiciones a este ordenamiento así como a las demás norm
 
 XII. Aprobar la política de comunicación social del Instituto;
 
-XIII. Resolver los asuntos que para ese propósito presenten los Consejeros;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XIII. Resolver los asuntos que para ese propósito presenten los Comisionados;
 
 XIV. Resolver respecto de las faltas, infracciones u omisiones que impliquen responsabilidad de los servidores públicos del Instituto, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco; y
 
@@ -287,7 +315,9 @@ II. Aprobar los salarios y prestaciones que deberán percibir los servidores pú
 
 III. Nombrar al personal del Instituto, a propuesta de su Presidente;
 
-IV. Resolver sobre las solicitudes de licencia de los Consejeros, Secretario Ejecutivo y Directores;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IV.- Resolver sobre las solicitudes de licencia de los Comisionados, Secretario Ejecutivo y Directores;
 
 V. Autorizar cuando exista disponibilidad presupuestaria, las plazas necesarias para el funcionamiento del Instituto;
 
@@ -309,13 +339,15 @@ XI. Autorizar al Presidente para realizar donaciones, encaminadas a la difusión
 
 XII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
 
-### Capítulo V. Del Presidente
+### Capítulo V. De la Presidencia
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 24.
 
-Son atribuciones del Presidente:
+Son atribuciones de la Presidencia:
 
 I. Representar legalmente al Instituto;
 
@@ -343,9 +375,13 @@ XII. Suscribir con la Secretaría Ejecutiva los acuerdos, correspondencia, circu
 
 XIII. Tramitar con el apoyo de la Secretaría Ejecutiva los asuntos competencia del Pleno hasta dejarlos en estado de resolución;
 
-XIV. Turnar a los Consejeros los asuntos de su competencia en estado de resolución;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-XV. Comunicar al Gobernador del Estado y a la Cámara de Diputados, las ausencias definitivas de los Consejeros;
+XIV. Turnar a los Comisionados los asuntos de su competencia.;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XV. Comunicar al Gobernador del Estado y a la Cámara de Diputados, las ausencias definitivas de los Comisionados;
 
 XVI. Cumplimentar los acuerdos del Pleno y del Órgano de Gobierno;
 
@@ -385,11 +421,15 @@ XXIX. Suscribir los contratos de adquisiciones, arrendamientos o prestación de 
 
 XXX. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
-### Capítulo VI. De los Consejeros
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
+
+### Capítulo VI. De las Ponencias
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 25.
 
-Los Consejeros tendrán las siguientes atribuciones:
+Las Ponencias tendrán las siguientes atribuciones:
 
 I. Asistir a las sesiones del Pleno y/o del Órgano de Gobierno, con voz y voto y dejar asentado en actas el sentido del mismo;
 
@@ -407,7 +447,7 @@ VII. Solicitar informes a las diversas áreas sobre actividades y ejecución de 
 
 VIII. Excusarse de conocer aquellos asuntos comprendidos en el artículo 10 de este Reglamento;
 
-IX. Solicitar licencia al Órgano de Gobierno para separarse temporalmente de su cargó con causa justificada;
+IX. Solicitar licencia al Órgano de Gobierno para separarse temporalmente de su cargo con causa justificada;
 
 X. Suplir al Presidente, previo acuerdo del Pleno, en sus faltas temporales;
 
@@ -423,11 +463,15 @@ La Secretaría Ejecutiva tendrá las siguientes atribuciones:
 
 I. Apoyar al Presidente en el trámite de los asuntos competencia del Pleno y/o del Órgano de Gobierno;
 
-II. Elaborar los proyectos de acuerdos, correspondencia, circulares, actas y demás documentos que el Pleno y/o el Órgano de Gobierno dispongan y recabar las firmas de los Consejeros cuando los aprueben;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+II. Elaborar los proyectos de acuerdos, correspondencia, circulares, actas y demás documentos que el Pleno y/o el Órgano de Gobierno dispongan y recabar las firmas de los Comisionados cuando los aprueben;
 
 III. Apoyar al Presidente en el cumplimiento de las resoluciones y acuerdos del Pleno y/o del Órgano de Gobierno;
 
-IV. Notificar a los Consejeros la fecha y hora de las sesiones junto con el orden del día y entregar a éstos oportunamente los proyectos y la documentación necesaria para la discusión correspondiente;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IV. Notificar a los Comisionados la fecha y hora de las sesiones junto con el orden del día y entregar a estos oportunamente los proyectos y la documentación necesaria para la discusión correspondiente;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -447,7 +491,9 @@ IX. Publicar las resoluciones del Pleno;
 
 X. Efectuar la notificación oportuna de los acuerdos y resoluciones que emita el Pleno, a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
 
-XI. Llevar el control del libro de actas del Pleno y/o del Órgano de Gobierno y suscribir éstas después de que las firmen los Consejeros;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XI. Llevar el control del libro de actas del Pleno y/o del Órgano de Gobierno y suscribir estas después de que las firmen los Comisionados;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -459,9 +505,7 @@ XIV. Coordinar la elaboración de proyectos para la capacitación del personal d
 
 XV. Proponer y supervisar la elaboración y ejecución de planes y programas de evaluación y vigilancia que deberán observar los sujetos obligados en las materias reguladas por la ley, así como los mecanismos de coordinación correspondientes;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-XVI. Elaborar los proyectos de acuerdos, convenios, contratos y demás instrumentos jurídicos, que deba suscribir el Instituto;
+XVI. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
 XVII. Instalar y operar la oficialía de partes del Instituto;
 
@@ -485,9 +529,7 @@ XXV. Llevar el control de la correspondencia que reciba y expida el Pleno y/o el
 
 XXVI. Las que le confiera el Pleno del Instituto; y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
-
-XXVII. Realizar las evaluaciones de los portales de transparencia de los Sujetos Obligados; y
+XXVII. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
@@ -535,17 +577,15 @@ XI. Las demás que le señale la Ley, su Reglamento o cualquier otra disposició
 
 #### SECCIÓN PRIMERA. De las Direcciones
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 28.
 
 La Dirección Jurídica Consultiva y Protección de Datos Personales tendrá las siguientes atribuciones específicas:
 
-I. Fungir corno unidades de acceso a la Información;
+I. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-II. Realizar los trámites y substanciación de los procedimientos de queja y recursos de revisión que en su caso, le sean turnados por la Secretaría Ejecutiva, a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
+II. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -557,9 +597,9 @@ IV. Realizar las opiniones, estudios y proyectos solicitados por la Secretaría 
 
 V. Representar legalmente al Instituto en los procedimientos administrativos jurisdiccionales y judiciales que no correspondan a otra área;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-VI. Asistir a la Secretaría Ejecutiva en la elaboración de los proyectos de acuerdos, convenios, contratos y demás instrumentos jurídicos, que deba suscribir el Instituto;
+VI. Elaborar los proyectos de convenios, contratos y demás instrumentos jurídicos que deba suscribir el instituto.
 
 VII. Realizar los trámites necesarios para que se publiquen en el Periódico Oficial del Estado, los acuerdos que el Instituto deba divulgar por ese medio;
 
@@ -633,9 +673,11 @@ XVI. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el President
 
 XVII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 30.
 
-La Dirección de Capacitación, Vinculación y Difusión tendrá las siguientes atribuciones específicas:
+La Dirección de Capacitación y Vinculación tendrá las siguientes atribuciones específicas:
 
 I. Elaborar y proponer al Secretario Ejecutivo, proyectos que tengan como finalidad propiciar una cultura de Transparencia y Acceso a la Información Pública, así como Protección de Datos Personales, mediante la realización de diplomados, seminarios, talleres, cursos, foros o conferencias, así como las acciones de difusión correspondientes;
 
@@ -713,41 +755,73 @@ XIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición leg
 
 #### SECCIÓN SEGUNDA. Del Órgano de Control Interno
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 32.
 
-El Órgano de Control Interno del Instituto tendrá las siguientes atribuciones específicas:
+La Unidad de Tecnologías de la Información y Comunicación tendrá las siguientes atribuciones específicas:
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación del Instituto e inspeccionar el ejercicio del gasto, y su congruencia con el presupuesto de egresos;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 II. Atender los requerimientos de información del Órgano Superior de Fiscalización, tales como autoevaluaciones financieras y presupuestales, acciones principales de evaluación y control;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 III. Vigilar la aplicación del gasto público para lograr el máximo rendimiento de los recursos del Instituto y el adecuado equilibrio presupuestal;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 IV. Supervisar que las adquisiciones que realice el Instituto sean favorables a su economía, procurando que la cantidad y calidad de los bienes adquiridos correspondan a sus necesidades reales, con apego a las normas de la materia;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 V. Informar al Presidente de manera cuatrimestral el resultado de las evaluaciones programáticas realizadas y proponer las medidas preventivas y correctivas que procedan;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 VI. Realizar y remitir al Órgano Superior de Fiscalización del Estado, los informes previstos en la Ley de Fiscalización Superior del Estado de Tabasco que le correspondan;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 VII. Conocer e investigar de oficio o a petición de parte, los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como iniciar e instaurar el procedimiento administrativo correspondiente y presentar al Pleno el proyecto de resolución;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 VIII. Vigilar el cumplimiento de las normas internas del Instituto;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 IX. Participar en los procesos de entrega-recepción de las áreas que integren el Instituto;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 X. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Instituto;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 XI. Diseñar y aplicar los programas, mecanismos y procedimientos de supervisión, auditoría, seguimiento y evaluación de las actividades que realicen las distintas unidades administrativas del Instituto, bajo la supervisión de la Secretaría Ejecutiva;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 XII. Integrar el padrón de los servidores públicos del Instituto obligados a presentar Declaración de su Situación Patrimonial, implementar mecanismos para su presentación, recibir éstas en los términos que prevé la legislación de la materia; verificar y practicar las investigaciones que fueren pertinentes e informar al Órgano de Gobierno su cumplimiento;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 XIII. Dar seguimiento a las observaciones y recomendaciones que resulten de las auditorías practicadas al Instituto y colaborar en la solventación de las mismas;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 XIV. Informar de manera mensual al Presidente de las actividades realizadas en el área y de forma cuatrimestral, lo relacionado con los Informes que las unidades administrativas realicen;
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
 XV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 XVI. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
@@ -781,13 +855,17 @@ VIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición leg
 
 Artículo 33 BIS.- La Unidad de Comunicación Social tendrá las siguientes atribuciones específicas:
 
-I. Proponer y ejecutar bajo la conducción del Consejero Presidente, la política general de comunicación social que apruebe el Pleno del Instituto;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+I. Proponer y ejecutar bajo la conducción del Comisionado Presidente, la política general de Comunicación Social que apruebe el Pleno del Instituto;
 
 II. Coordinar y atender las relaciones públicas del Instituto con los medios de comunicación estatal, nacional e internacional;
 
 III. Proponer y ejecutar instrumentos que permitan conocer la percepción de las actividades del Instituto entre el público en general;
 
-IV. Ejecutar las campañas de difusión institucionales que le sean instruidas por el Consejero Presidente;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IV. Ejecutar las campañas de difusión institucionales que le sean instruidas por el Comisionado Presidente;
 
 V. Promover la elaboración y difusión de materiales de divulgación en materia de acceso a la información, archivos, transparencia, protección de datos personales y rendición de cuentas en coordinación con la Dirección de Capacitación, Vinculación y Difusión;
 
@@ -827,6 +905,52 @@ XI. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente
 
 XII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 33 QUATER.- La Unidad de Verificación de Obligaciones de Transparencia tendrá las siguientes atribuciones:
+
+I. Realizar las evaluaciones a los Portales de Internet y/o a la Plataforma Nacional de Transparencia de los Sujetos Obligados de acuerdo a la metodología establecida en la normatividad aplicable;
+
+II.- Evaluar el cumplimiento de los Sujetos Obligados respecto de las Obligaciones de Transparencia establecidas en la Ley de la materia, en observancia con los criterios previstos en los Lineamientos Técnicos Generales y los Lineamientos Técnicos Estatales;
+
+III. Elaborar y remitir a la Ponencia que por cuestión de turno le corresponda, las Diligencias de Verificación de las Obligaciones de Transparencia que deriven de las Denuncias por Incumplimiento y las Verificaciones Oficiosas;
+
+IV. Asesorar a los Sujetos Obligados en el Estado de Tabasco, en materia de Obligaciones de Transparencia, Tabla de Aplicabilidad, los Lineamientos Técnicos Generales, los Lineamientos Técnicos Estatales y demás normatividad aplicable;
+
+V. Realizar las visitas de inspección a los Sujetos Obligados a efectos de verificar el cumplimiento de las Obligaciones de Transparencia;
+
+VI. Coadyuvar con el Pleno, el diseño de buenas prácticas que deberán adoptar los Sujetos Obligados en el Estado de Tabasco, para el cumplimiento de las Obligaciones de Transparencia contenidas en la Ley de la materia;
+
+VII. Proponer reformas a los criterios establecidos en los Lineamientos Técnicos Generales y los Lineamientos Estatales; y
+
+VIII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente, las Comisionadas y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+Artículo 33 QUINQUÉS.- La Unidad de Transparencia tendrá las siguientes atribuciones:
+
+I. Asesorar y orientar a quienes lo requieran, en lo referente a la elaboración y trámite de las solicitudes de acceso a la información; las solicitudes de acceso, rectificación, cancelación y oposición al tratamiento de los datos personales; sobre la competencia de los Sujetos Obligados conforme a la normatividad aplicable; así como la interposición y procedimiento de los recursos de revisión;
+
+II. Supervisar y validar la carga de la información relativa a las Obligaciones de Transparencia que deben realizar las áreas administrativas del Órgano Garante;
+
+III. Recibir y tramitar las solicitudes de acceso a la información pública hasta la entrega de la información en la modalidad requerida;
+
+IV. Recibir y tramitar las solicitudes de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, así como la portabilidad de los datos, en su caso;
+
+V. Elaborar los informes relativos a los recursos de revisión interpuestos en contra del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, así como el cumplimiento de las sentencias definitivas emitidas por el Pleno;
+
+VI. Elaborar los informes derivados de la interposición de las Denunicas (sic) por incumplimiento de las Obligaciones de Transparencia del Instituto;
+
+VII. Llevar registro de las solicitudes recibidas en el Instituto, las solicitudes atendidas, sus respuestas, así como costos de reproducción y gasto de envío;
+
+VIII. Dar seguimiento hasta la debida publicación de las Obligaciones de Transparencia en atención a las Denuncias presentadas por los ciudadanos cuando adviertan algún incumplimiento a estas obligaciones;
+
+IX. Verificar que la Información correspondiente a las Obligaciones de Transparencia del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública como Sujeto Obligado, estén debidamente actualizadas en su Portal de Transparencia;
+
+X. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, las de derechos ARCO y portabilidad de los datos; y
+
+XI. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente, las Comisionadas y las demás disposiciones aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO IX. De las Responsabilidades y suplencias
@@ -843,11 +967,11 @@ En el ejercicio de sus funciones, el personal del Instituto observará las oblig
 
 El Secretario Ejecutivo, Directores, Subdirectores, Coordinadores, Jefes de Departamento y demás mandos medios o superiores que laboren en el Instituto, no podrán desempeñar otro empleo, cargo o comisión en la administración pública federal, estatal o municipal, excepto las de carácter académico, como la docencia e investigación.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 36.
 
-Las solicitudes de licencia que presenten los Consejeros se formularán por escrito; las que no excedan de 30 días se considerarán temporales y las superiores a ese plazo, definitivas. Estas últimas serán cubiertas por el respectivo suplente, conforme lo dispuesto por el artículo 22 de la Ley.
+Las solicitudes de licencia que presenten los Comisionados se formularán por escrito; las que no excedan de 30 días se considerarán temporales y las superiores a ese plazo, definitivas. Estas últimas serán cubiertas por el respectivo suplente, conforme lo dispuesto por el artículo 22 de la Ley.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -917,8 +1041,16 @@ SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del Pleno,
 
 P.O. 30 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 21 Y, LA FRACCIÓN V DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCION XIV DEL ARTÍCULO 21 Y, EL ARTÍCULO 33 TRIS (SIC), TODOS DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 21 Y, LA FRACCIÓN V DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCION XIV DEL ARTÍCULO 21 Y, EL ARTÍCULO 33 TRIS (SIC), TODOS DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
 
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al momento de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del Pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL SE APRUEBAN “DIVERSAS REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO. Publíquese para su debida difusión en el Periódico Oficial del Estado de Tabasco, en la Página Principal de Internet de este Órgano Garante, su Portal de Transparencia y a través de las cuentas oficiales en redes sociales.
