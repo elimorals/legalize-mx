@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-de-datos-personales-en-posesion-de-122893"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-07-26"
+last_updated: "2017-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA -- ANTES LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE PUEBLA --
 
-LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA
+LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 26 de julio de 2017.
 
@@ -39,7 +39,9 @@ EXPOSICIÓN DE MOTIVOS
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 64, 67 y 84 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135, 136 y 158 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 93 fracción VII y 120 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente Minuta de:
 
-LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2017)</small>
+
+LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -133,7 +135,9 @@ XVII. Instituto Nacional: El Instituto Nacional de Transparencia, Acceso a la In
 
 XVIII. Instituto de Transparencia: El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Puebla;
 
-XIX. Ley: A la Ley de Protección de Datos Personales del Estado de Puebla;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+XIX. Ley: A la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Puebla;
 
 XX. Ley General: A la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
@@ -717,9 +721,11 @@ En el ejercicio de los Derechos ARCO de menores de edad o de personas que se enc
 
 Tratándose de Datos Personales concernientes a personas fallecidas, la persona que acredite tener un interés jurídico, de conformidad con las leyes aplicables, podrá ejercer los derechos que le confiere el presente Título, siempre que el Titular de los derechos hubiere expresado fehacientemente su voluntad en tal sentido o que exista un mandato judicial para dicho efecto.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 71.
 
-Para el ejercicio de los Derechos ARCO, será necesario que el Titular acredite ante el Responsable su identidad de manera previa al ejercicio de su derecho y, en su caso, la identidad y personalidad con la que actúe su representante.
+Para el ejercicio de los derechos ARCO será necesario acreditar la identidad del titular, y en su caso, la identidad y personalidad con la que actúe el representante.
 
 ###### ARTÍCULO 72.
 
@@ -1257,7 +1263,9 @@ La interposición de un recurso de revisión de Datos Personales concernientes a
 
 El recurso de revisión procederá en los siguientes supuestos:
 
-I. Se reserven los Datos Personales sin que se cumplan las formalidades señaladas en la Ley de Transparencia y normativa que resulte aplicable;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+I. Se clasifiquen como confidenciales los datos personales sin que se cumplan las características señaladas en las leyes que resulten aplicables;
 
 II. Se declare la inexistencia de los Datos Personales;
 
@@ -1341,11 +1349,15 @@ I. Los documentos que acrediten su identidad y la de su representante, en su cas
 
 II. El documento que acredite la personalidad de su representante, en su caso;
 
-III. La copia de la solicitud a través de la cual ejerció sus Derechos ARCO y que fue presentada ante el Responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
-IV. La copia de la respuesta del Responsable que se impugna y de la notificación correspondiente, en su caso, y
+III. La copia de la respuesta del Responsable que se impugna y de la notificación correspondiente, en su caso, y
 
-V. Las pruebas y demás elementos que considere el Titular someter a juicio del Instituto de Transparencia.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+IV. Las pruebas y demás elementos que considere el Titular someter a juicio del Instituto de Transparencia.
+
+V. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
 ###### ARTÍCULO 130.
 
@@ -1753,9 +1765,11 @@ Para tal efecto, el Instituto de Transparencia deberá considerar los elementos 
 
 El procedimiento de verificación deberá tener una duración máxima de cincuenta días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 168.
 
-Una vez transcurrido el plazo señalado en el artículo anterior, el Instituto de Transparencia deberá emitir la resolución que legalmente proceda, debidamente fundada y motivada, y notificarla al Responsable verificado y al denunciante.
+Una vez transcurrido el plazo señalado en el artículo anterior, el Instituto de Transparencia deberá emitir dentro del término que establece la Ley, la resolución que legalmente proceda, debidamente fundada y motivada, y notificarla al Responsable verificado y al denunciante.
 
 En la resolución el Instituto de Transparencia podrá ordenar medidas correctivas para que el Responsable las acate en la forma, términos y plazos fijados para tal efecto, así como señalar las medidas de apremio para asegurar el cumplimiento de ésta.
 
@@ -1893,9 +1907,11 @@ En caso de que el incumplimiento de las determinaciones de (sic) Instituto de Tr
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS Y SUS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 188.
 
-Serán causas de responsabilidad administrativa por incumplimiento de las obligaciones establecidas en la presente Ley, las siguientes:
+Serán causas de sanción por incumplimiento de las obligaciones establecidas en la materia de la presente Ley, las siguientes:
 
 I. Actuar con negligencia, dolo o mala fe durante la sustanciación de las solicitudes para el ejercicio de los Derechos ARCO;
 
@@ -1907,7 +1923,9 @@ IV. Dar Tratamiento, de manera intencional, a los Datos Personales en contravenc
 
 V. No contar con el Aviso de Privacidad, o bien, omitir en el mismo alguno de los elementos a que refieren los artículos 38 y 39 de la Ley, según sea el caso, y demás disposiciones que resulten aplicables en la materia;
 
-VI. Reservar, con dolo o negligencia, Datos Personales sin que se cumplan las características señaladas en (sic) Ley de Transparencia. La sanción sólo procederá cuando exista una resolución previa, que haya quedado firme, respecto del criterio de clasificación de los Datos Personales;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+
+VI. Clasificar como confidencial, con dolo o negligencia, datos personales sin que se cumplan las características señaladas en las leyes que resulten aplicables. La sanción sólo procederá cuando exista una resolución previa, que haya quedado firme, respecto del criterio de clasificación de los datos personales;
 
 VII. Incumplir el deber de confidencialidad establecido en el artículo 59 de la Ley;
 
@@ -1977,16 +1995,32 @@ SEGUNDO. La presente Ley entrará en vigor el día de su publicación en el Peri
 
 TERCERO. Se derogan todas aquellas disposiciones en materia de protección de Datos Personales que contravengan lo dispuesto por la presente Ley.
 
-CUARTO. Los Responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-QUINTO. Los Responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de esta Ley, a más tardar un año después de la entrada en vigor de ésta.
+CUARTO. El Instituto de Transparencia deberá expedir los lineamientos, parámetros, criterios y disposiciones de las diversas materias a que se refiere la presente Ley, dentro de los seis meses siguientes a la entrada en vigor de ésta.
 
-SEXTO. El Instituto de Transparencia deberá expedir los lineamientos, parámetros, criterios y disposiciones de las diversas materias a que se refiere la presente Ley, dentro del año siguiente a la entrada en vigor de ésta.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
-SÉPTIMO. Los procedimientos iniciados durante la vigencia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla se substanciarán hasta su conclusión, conforme al ordenamiento señalado.
+QUINTO. Los procedimientos iniciados durante la vigencia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla se substanciarán hasta su conclusión, conforme al ordenamiento señalado.
 
-OCTAVO. Se deberán hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos del Estado de Puebla para el siguiente ejercicio fiscal a su entrada en vigor.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+
+SEXTO. Se deberán hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos del Estado de Puebla para el siguiente ejercicio fiscal a su entrada en vigor.
+
+SÉPTIMO. (DEROGADO, P.O. 30 DE AGOSTO DE 2017)
+
+OCTAVO. (DEROGADO, P.O. 30 DE AGOSTO DE 2017)
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diecisiete. Diputado Presidente. C. JOSÉ GERMÁN JIMÉNEZ GARCÍA. Rúbrica. Diputado Vicepresidente. C. FRANCISCO JAVIER JIMÉNEZ HUERTA. Rúbrica. Diputado Secretario. C. MARCO ANTONIO RODRÍGUEZ ACOSTA. Rúbrica. Diputado Secretario. C. SERGIO MORENO VALLE GÉRMAN. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diecisiete. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de la Contraloría. C. JOSÉ VILLAGRANA ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA."]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
