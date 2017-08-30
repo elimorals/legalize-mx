@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-infraestructura-del-937
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2017-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
 MIGUEL ALEJANDRO ALONSO REYES, GOBERNADOR DEL ESTADO DE ZACATECAS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 82 FRACCIONES I, II, VI Y XXI, 84 Y 85 DE LA COSNTITUCIÓN (SIC) POLÍTICA DEL ESTADO; 2, 3, 5, 6, 22 FRACCIÓN VIII Y 31 DE LA LEY ORGÁNICA DE LA ADMINSITRACIÓN (SIC) PÚBLICA DE LA ENTIDAD; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anterior expuesto, tengo a bien emitir el siguiente:
 
@@ -1484,3 +1488,19 @@ SECRETARIO GENERAL DE GOBIERNO
 LUIS ALFONSO PESCHARD BUSTAMANTE
 
 SECRETARIO DE INFRAESTRUCTURA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA".]
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Obras Públicas (sic), publicado en el Suplemento del número 8 al 25 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 27 de marzo de 2013.
+
+Artículo Tercero. Se derogan las disposiciones administrativas que se opongan a este ordenamiento.
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite a cargo de Direcciones, Coordinaciones o Unidades Administrativas que se modifican o cambian de adscripción, los continuará y resolverá el área administrativa que el presente Reglamento señala como competente.
+
+Artículo Quinto. Dentro del término de ciento ochenta días naturales siguientes a la Publicación del presente Reglamento, se deberán expedir los Manuales de Organización y de Procedimientos para sus publicaciones en el Periódico Oficial, Órgano del Gobierno del Estado.
