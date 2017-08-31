@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-alumnos-de-la-universidad-estatal-del-valle-316
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-28"
-last_updated: "2003-05-28"
+last_updated: "2017-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA EL INGRESO, PERMANENCIA Y REINGRESO DE LOS ESTUDIANTES, PUBLICADO EN LA G.G. DE 31 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO PARA ALUMNOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, ESTADO DE MEXICO
+REGLAMENTO PARA ALUMNOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 28 de mayo del 2003.
 
@@ -630,3 +630,15 @@ MTRO. ISMAEL SAENZ VILLA
 Rector de la Universidad Estatal del Valle de Ecatepec, y Secretario del Consejo Directivo de la Universidad Estatal del Valle de Ecatepec
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EL INGRESO, PERMANENCIA Y REINGRESO DE LOS ESTUDIANTES DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC".]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno o en la página oficial.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial Gaceta del Gobierno o en la página oficial.
+
+TERCERO.- Se abroga el Reglamento para Alumnos publicado en la "Gaceta del Gobierno" el veintiocho de mayo de dos mil tres, así como todas aquellas disposiciones de menor o igual jerarquía que se opongan al presente ordenamiento.
