@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-salud-de-baja-50394"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-10"
-last_updated: "2006-04-10"
+last_updated: "2017-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 10 de abril de 2006.
 
-NARCISO AGÚNDEZ MONTAÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 79, FRACCIÓN XXIII DE LA CONSTITUCIÓN POLLTICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y CON FUNDAMENTO EN LOS ARTÍCULOS 3, 8, 16 Y 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+NARCISO AGÚNDEZ MONTAÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 79, FRACCIÓN XXIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y CON FUNDAMENTO EN LOS ARTÍCULOS 3, 8, 16 Y 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DE BAJA CALIFORNIA SUR
 
@@ -541,7 +543,7 @@ II.2. Una Unidad de Verificación Sanitaria; código de confianza operativa
 
 III. Una Subcomisión de Fomento Sanitario, con nivel de subdirector
 
-III.1.Un Departamento de Evidencias y Análisis de Riesgos
+III.1. Un Departamento de Evidencias y Análisis de Riesgos
 
 III.2. Una Unidad de Información, Capacitación y Promoción; código confianza operativa
 
@@ -630,3 +632,13 @@ C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE SALUD DEL ESTADO DE BAJA CALIFORNIA SUR
 
 C. DR. FRANCISCO CARDOZA MACIAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría, publicado en el Boletín Oficial del Gobierno de (sic) Estado número 17-Bis de fecha 10 de Abril del 2006.
