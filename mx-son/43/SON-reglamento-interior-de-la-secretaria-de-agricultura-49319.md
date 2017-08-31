@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-agricultura-49319"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-30"
-last_updated: "2017-04-20"
+last_updated: "2017-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, RECURSOS HIDRÁULICOS, PESCA Y ACUACULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Edición Especial del Periódico Oficial del Estado de Sonora, el miércoles 30 de junio de 2004.
 
@@ -89,7 +89,7 @@ La Secretaría por conducto de sus unidades administrativas, y órgano desconcen
 
 Corresponde al Secretario, la representación de la Secretaría y la resolución de los asuntos de la competencia de ésta. Las unidades administrativas ejercerán las facultades que les asigne el presente Reglamento y las que les delegue el Titular de la Secretaría, mediante acuerdos que deberán ser publicados en el Boletín Oficial del Gobierno del Estado, sin prejuicio de que el mismo Secretario pueda asumir el ejercicio directo de tales facultades, cuando lo juzgue conveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 6o.
 
@@ -697,9 +697,9 @@ V.- Organizar y coordinar, previo acuerdo con el Subsecretario, la realización 
 
 VI.- Implementar, coordinar y supervisar de manera permanente las acciones tendientes a preservar la sanidad de las actividades pecuarias y mantener al Estado de Sonora libre de garrapata y plagas que afecten al ganado;
 
-VlI.- Vigilar e inspeccionar que se aplique el baño garrapaticida al ganado de los predios limítrofes con otros estados así como todo aquel ganado que se interne al Estado de Sonora, aplicando las medidas sanitarias correspondientes a quienes las omitan;
+VII.- Vigilar e inspeccionar que se aplique el baño garrapaticida al ganado de los predios limítrofes con otros estados así como todo aquel ganado que se interne al Estado de Sonora, aplicando las medidas sanitarias correspondientes a quienes las omitan;
 
-VllI.- Participar en la ejecución de los acuerdos de coordinación y concertación con las Dependencias Federales, Estatales y Municipales, así como establecer convenios de concertación con las representaciones de grupos de productores o con los particulares, a fin de implementar y apoyar campañas de control de salud animal y tomar las medidas de emergencia necesarias;
+VIII.- Participar en la ejecución de los acuerdos de coordinación y concertación con las Dependencias Federales, Estatales y Municipales, así como establecer convenios de concertación con las representaciones de grupos de productores o con los particulares, a fin de implementar y apoyar campañas de control de salud animal y tomar las medidas de emergencia necesarias;
 
 IX.- Participar en comités o patronatos que se integren para realizar acciones de tipo sanitario, de inspección y de servicios que sean competencia de la Secretaría;
 
@@ -985,11 +985,17 @@ XX.- Tramitar ante la Subsecretaría de Recursos Humanos de la Secretaría de Ha
 
 XXI.- Implementar las medidas administrativas y de control, necesarias para vigilar el cumplimiento de la normatividad aplicable en las unidades administrativas de la Secretaría;
 
-XXII.- Implementar la sistematización de la administración de documentos que obran en poder de esta Dependencia, en coordinación con las diferentes unidades administrativas; y
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+XXII.- Implementar la sistematización de la administración de documentos que obran en poder de esta Dependencia, en coordinación con las diferentes unidades administrativas;
 
-XXIII.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2017)</small>
+
+XXIII.- Expedir copias certificadas de los documentos originales que tenga en su poder y obren en sus archivos, así como realizar el cotejo de las copias simples de documentos que disponga en sus archivos;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2017)</small>
+
+XXIV.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ### CAPÍTULO VII. DEL ORGANO ADMINISTRATIVO DESCONCENTRADO
 
@@ -1064,6 +1070,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, RECURSOS HIDRÁULICOS, PESCA Y ACUACULTURA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público, derivadas de este Decreto deberán expedirse dentro de los sesenta días posteriores a la publicación del mismo en el mencionado Boletín Oficial, quedando facultado el titular de la Dependencia para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
+
+B.O. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, RECURSOS HIDRÁULICOS, PESCA Y ACUACULTURA”.]
 
 ###### ARTÍCULO PRIMERO.
 
