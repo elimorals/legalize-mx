@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-estatal-del-valle-de-4520
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-02"
-last_updated: "2011-03-17"
+last_updated: "2017-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC DEL ESTADO DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, PUBLICADO EN LA G.G. DE 31 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2011.
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 2 de junio de 2005.
 
 EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, EN EJERCICIO DE LA ATRIBUCION QUE LE CONFIERE EL ARTICULO 12 FRACCION V DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC; Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -517,7 +521,7 @@ RECTOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC Y SECRETARIO DEL CONSEJO 
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.]</small>
 
 G.G. 23 DE DICIEMBRE DE 2008.
 
@@ -534,3 +538,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERERO (SIC).- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Las autoridades administrativas procederán a hacer explicita la igualdad de género cuando se refiera a personal y órganos de la institución.
+
+CUARTO.- Se abroga el Reglamento Interior de la Universidad Estatal del Valle de Ecatepec, publicado en la Gaceta de Gobierno el 17 de marzo de 2011 (sic).
