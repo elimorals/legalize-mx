@@ -4,7 +4,7 @@ identifier: "BCS-codigo-etico-de-conducta-al-que-deberan-sujetarse-los-100911"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-05-10"
-last_updated: "2014-05-10"
+last_updated: "2017-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO ÉTICO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2017 (ABROGADO).
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de mayo de 2014.
 
@@ -140,3 +140,17 @@ LIC. ARMANDO MARTÍNEZ VEGA
 LA CONTRALORA GENERAL DEL ESTADO
 
 LIC. MARITZA MUÑOZ VARGAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS "CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, PARA EL ESTABLECIMIENTO DE ACCIONES PERMANENTES QUE ASEGUREN LA INTEGRIDAD Y EL COMPORTAMIENTO ÉTICO DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR, SE EMITIRÁN LOS LINEAMIENTOS GENERALES EN UN PLAZO DE TREINTA DÍAS HÁBILES A LA ENTRADA EN VIGENCIA DEL PRESENTE ACUERDO DE LA CONTRALORÍA GENERAL".]</small>
+
+PRIMERO.- El presente Código entrará en vigor a (sic) día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Código Ético de Conducta al que deberán sujetarse los Servidores Públicos del Gobierno de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur Número 21 del día 10 de mayo de 2014.
+
+TERCERO.- Los Comités de Ética y de prevención de conflictos de interés deberán constituirse en un plazo de noventa días hábiles contados a partir de la entrada en vigor de (sic) presente acuerdo.
+
+CUARTO.- En un plazo de treinta días hábiles a la entrada en vigencia del presente acuerdo la Contraloría General emitirá los Lineamientos generales a los que hace referencia el presente documento.
