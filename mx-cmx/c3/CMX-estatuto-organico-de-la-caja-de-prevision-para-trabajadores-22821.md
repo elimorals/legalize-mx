@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-para-trabajadores-228
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-12-04"
-last_updated: "2006-07-05"
+last_updated: "2017-08-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22821&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2001-09-25"
 ---
 # ESTATUTO ORGANICO DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- ESTATUTO ORGANICO DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-ESTATUTO ORGANICO DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
+ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE AGOSTO DE 2017.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal el martes 4 de diciembre de 2001.
 
@@ -92,13 +92,17 @@ El gobierno del Organismo estará a cargo de un Consejo Directivo y la administr
 
 El Consejo será el Órgano de Gobierno del Organismo y estará integrado por los siguientes miembros propietarios:
 
-I. Un Presidente, que será el Oficial Mayor del Gobierno del Distrito Federal, con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2017)</small>
+
+I. Un Presidente, que será el Subsecretario de Administración y Capital Humano de la Secretaría de Finanzas del Gobierno de la Ciudad de México, con derecho a voz y voto;
 
 II. Dos representantes que designe el Comité Ejecutivo del Sindicato Único de Trabajadores del Gobierno del Distrito Federal, como miembros propietarios, con derecho a voz y voto;
 
 III. Un Secretario que será designado por el Presidente del Consejo, con derecho a voz, pero sin voto;
 
-IV. El Director General de Administración de Personal del Gobierno del Distrito Federal, como miembro propietario, con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2017)</small>
+
+IV. El Director General de Política Laboral de la Subsecretaria de Administración y Capital Humano de la Secretaría de Finanzas del Gobierno de la Ciudad de México, como miembro propietario, con derecho a voz y voto.
 
 V. Dos representantes de la Secretaría de Finanzas del Gobierno Distrito Federal (sic), designados por el Jefe del Gobierno del Distrito Federal, como miembros propietarios, con derecho a voz y voto, y
 
@@ -1060,10 +1064,16 @@ Aprobado por el Consejo Directivo del Organismo en su segunda Sesión Ordinaria,
 
 ING. OCTAVIO ROMERO OROPEZA.- OFICIAL MAYOR DEL G. D. F., CONSEJERO PRESIDENTE SUPLENTE. - ING. JORGE LUIS BASALDÚA RAMOS.- GERENTE GENERAL DE LA CAJA DE PREVISIÓN DE LA POLICÍA PREVENTIVA DEL DISTRITO FEDERAL, SECRETARIO TÉCNICO.- C. P. ISAÍAS TOMÁS CASTRO JIMÉNEZ.- DIRECTOR GENERAL DE ADMINISTRACIÓN DE PERSONAL, CONSEJERO PROPIETARIO.- LIC. REYNA BASILIO ORTIZ.- DIRECTORA GENERAL SECTORIAL PROGRAMÁTICO-PRESUPUESTAL DE PROGRESO CON JUSTICIA, GOBIERNO, SEGURIDAD PÚBLICA, ADMINISTRACIÓN Y FINANZAS, CONSEJERA SUPLENTE.- LIC. JUAN DAVID LÓPEZ MANRÍQUEZ.- DIERCTOR (SIC) GENERAL DE COMISARIOS DE LA CONTRALORÍA GENERAL DEL GOBIERNO DEL DISTRITO FEDERAL, COMISARIO PROPIETARIO.- LIC. CARLOS FELIPE LÓPEZ SUÁREZ.- DIRECTOR DE ADMINISTRACIÓN DE OPERACIÓN DE FONDOS Y VALORES, CONSEJERO SUPLENTE.- FIRMAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.]</small>
 
 G.O. 5 DE JULIO DE 2006.
 
 Primero. Publíquese las presentes reformas en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Las presentes reformas entrarán a partir de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LA REFORMA DEL ARTÍCULO 7° FRACCIONES I Y IV, DEL CAPÍTULO II, DEL ÓRGANO DE GOBIERNO DEL ESTATUTO ORGÁNICO DE LA CAPTRALIR”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos a que haya lugar.
