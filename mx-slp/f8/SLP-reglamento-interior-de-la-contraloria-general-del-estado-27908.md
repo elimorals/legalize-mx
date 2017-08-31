@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-contraloria-general-del-estado-27908"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-17"
-last_updated: "2007-01-16"
+last_updated: "2017-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de diciembre de 2002.
 
 FERNANDO SILVA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, CON FUNDAMENTO EN LOS ARTÍCULOS 72, 80 FRACCONES (SIC) I, II Y III, 83 Y 84, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; 2°, 11 Y 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; EXPIDO EL SIGUIENTE DECRETO ADMINISTRATIVO QUE CONTIENE EL REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL DEL ESTADO; DE ACUERDO AL SIGUIENTE,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anterior, he tenido a bien expedir el siguiente,
 
@@ -195,7 +199,7 @@ I.- Coordinar, operar y evaluar las actividades del Subcomité de Control y Eval
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-II.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestacion, ingresos, egresos, financiamiento, inversión, adquisiciones, deuda, sistemas de registro, contabilidad y de administración de personal; asignación, uso, transferencia, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales, fondos y valores de la propiedad o al cuidado del Estado.
+II.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, adquisiciones, deuda, sistemas de registro, contabilidad y de administración de personal; asignación, uso, transferencia, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales, fondos y valores de la propiedad o al cuidado del Estado.
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
@@ -223,7 +227,7 @@ II.- Participar en la coordinación, operación y evaluación de las actividades
 
 III.- Preparar los informes que deban presentarse a la Secretaria de la Función Pública, u otros órganos de control que lo requieran, relativos al ejercicio y aplicación de los recursos federales transferidos al estado para la ejecución de Obras Públicas convenidas.
 
-IV.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestacion, ingresos, egresos, financiamiento, inversión y adquisiciones relativos a obras públicas y servicios relacionados con las mismas.
+IV.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión y adquisiciones relativos a obras públicas y servicios relacionados con las mismas.
 
 V.- Coadyuvar con la Dirección General de Normatividad en la Substanciación de los procedimientos de responsabilidades administrativas, disciplinarios y resarcitorios de servidores públicos, terceros, derivados de las investigaciones, revisiones, auditorias, o fiscalización de obras públicas que se practiquen en la Dirección de Fiscalización de Obra.
 
@@ -379,7 +383,7 @@ IX.- Emitir los informes o dictámenes relativos a los resultados de la fiscaliz
 
 X.- Turnar a la Dirección de Responsabilidades e Inconformidades, previa autorización del Contralor General, los expedientes relativos a las investigaciones, revisiones, auditorias, o fiscalización de obras públicas y servicios relacionados con las mismas practicadas, en aquellos casos donde una vez que se haya dado vista con los informes o dictámenes a los responsables para solventar las observaciones y recomendaciones respectivas, no se haya obtenido dicha solventación ni el resarcimiento del daño patrimonial causado al Estado; o bien, cuando con la conducta desplegada se presuma responsabilidad administrativa, aún cuando estén solventadas las observaciones o restituido el daño patrimonial ocasionado.
 
-XI.- Llevar la estadística de los montos asignados a obra pública en dinero, fiscalizándolos en forma trimestral y anual; y (sic)
+XI.- Llevar la estadística de los montos asignados a obra pública en dinero, fiscalizándolos en forma trimestral y anual; y
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
@@ -517,7 +521,7 @@ XIII.- Las demás que le señalen las Leyes, Reglamentos, Decretos, Acuerdos y M
 
 Corresponde a la Dirección de Contraloría Social, las siguientes atribuciones:
 
-I.- Promover la participación de la población en el Sistema Estatal de Control y Evaluación Gubernamental, propiciando con ello que la actuación de los servidores públicos, el manejo de los recursos y la gestión pública se lleven al (sic) cabo dentro de un marco de legalidad, eficiencia y honradez.
+I.- Promover la participación de la población en el Sistema Estatal de Control y Evaluación Gubernamental, propiciando con ello que la actuación de los servidores públicos, el manejo de los recursos y la gestión pública se lleven al cabo dentro de un marco de legalidad, eficiencia y honradez.
 
 II.- Establecer los procedimientos e instrumentos para la recepción, atención y seguimiento de las consultas, sugerencias, quejas y denuncias relacionadas con el desempeño de los servidores públicos, y difundirlos entre la ciudadanía.
 
@@ -769,7 +773,7 @@ C.P.C. OSCAR ALARCÓN GUERRERO.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE ENERO DE 2007.
 
@@ -778,3 +782,25 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al entrar en vigor el presente Decreto.
 
 Artículo Tercero.- En tanto se actualizan los manuales referidos en el Reglamento Interior de la Contraloría General del Estado publicado el 17 de diciembre de 2002 en el Periódico Oficial del Estado, el titular del ramo queda facultado para resolver las cuestiones, que conforme a los mismos se deben regular.
+
+P.O. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL DEL ESTADO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Contraloría General del Estado, publicado en el Periódico Oficial del Estado el 17 de diciembre de 2002, y sus reformas, sin perjuicio de lo previsto en el párrafo siguiente.
+
+Asimismo, en un plazo de noventa días naturales quedarán derogadas las disposiciones administrativas previstas en los reglamentos internos de las dependencias y entidades de la Administración Pública Estatal en la parte relativa que determine atribuciones y competencias distintas a las aquí establecidas para los Órganos Internos de Control. Para el caso de que conforme a las necesidades o las funciones propias de las dependencias y entidades se requiera establecer una función específica a los Órganos Internos de Control, aquéllas deberán remitir al Contralor la propuesta de reformas o atribuciones para ser incluidas en el ordenamiento correspondiente, las cuales deberán observar que las reformas se vinculen al artículo 29 del presente Reglamento.
+
+TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Contraloría que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+CUARTO.- Continuarán en vigor los acuerdos, reglas, manuales y demás disposiciones administrativas que hayan sido expedidos por el Contralor, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente Reglamento, en tanto no se modifiquen o dejen sin efectos.
+
+QUINTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+SEXTO.- Salvo lo dispuesto en el artículo anterior, los procedimientos de investigación derivados de quejas y denuncias así como los procedimientos de responsabilidades administrativas recibidos, iniciados y tramitados con anterioridad a la entrada en vigor del presente Reglamento, serán tramitados, substanciados y resueltos por la ahora Dirección de Responsabilidades y Ética Pública, conforme a las disposiciones del reglamento vigente al momento de su inicio, lo anterior según lo previsto en el artículo Transitorio Cuarto de la vigente Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí
+
+SÉPTIMO. En tanto se expiden los manuales que este Reglamento menciona, el Contralor queda facultado para resolver las cuestiones que, conforme a los mismos, se deban regular.
+
+OCTAVO. Las referencias contenidas en éste Reglamento respecto de la Fiscalía General del Estado se entenderán hechas a la Procuraduría General del (sic) Justicia del Estado en tanto se emite la legislación correspondiente.
