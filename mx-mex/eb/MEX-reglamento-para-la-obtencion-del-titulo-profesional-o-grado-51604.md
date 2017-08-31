@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-obtencion-del-titulo-profesional-o-grado-516
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-21"
-last_updated: "2006-08-21"
+last_updated: "2017-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO PARA LA OBTENCION DEL TITULO PROFESIONAL O GRADO ACADEMICO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
-REGLAMENTO PARA LA OBTENCION DEL TITULO PROFESIONAL O GRADO ACADEMICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA LA OBTENCIÓN DEL TÍTULO PROFESIONAL, GRADO DE MAESTRÍA O DOCTORADO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, PUBLICADO EN LA G.G. DE 31 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA LA OBTENCIÓN DEL TÍTULO PROFESIONAL O GRADO ACADÉMICO DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 31 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 21 de agosto de 2006.
 
 EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE LA FRACCIÓN V DEL ARTÍCULO 12 DEL DECRETO QUE LE DA ORIGEN, PUBLICADO EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 11 DE ENERO DEL AÑO 2001, Y CONFORME A LA VIGÉSIMO SÉPTIMA SESIÓN ORDINARIA CELEBRADA EL DÍA SEIS DE JUNIO DEL DOS MIL SEIS, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En mérito de lo expuesto, tiene a bien expedir el presente:
 
@@ -346,3 +350,15 @@ M.C. ISMAEL SÁENZ VILLA
 RECTOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 31 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA OBTENCIÓN DEL TÍTULO PROFESIONAL, GRADO DE MAESTRÍA O DOCTORADO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno o en la página oficial.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial Gaceta del Gobierno o en la página oficial.
+
+TERCERO.- Se abroga el Reglamento para la obtención del Título Profesional o Grado Académico publicado en la Gaceta del Gobierno de fecha veintiuno de agosto de dos mil seis.
