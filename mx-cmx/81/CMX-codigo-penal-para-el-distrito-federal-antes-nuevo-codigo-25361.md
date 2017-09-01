@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-06-21"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 21 DE JUNIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1776,7 +1774,7 @@ ARTÍCULO 181 TER. Las penas previstas en el artículo anterior se aumentarán e
 
 I. Con la intervención directa o inmediata de dos o más personas.
 
-II. Al que tenga respecto de la victima:
+II. Al que tenga respecto de la víctima:
 
 a) Parentesco de afinidad o consaguinidad (sic);
 
@@ -2612,6 +2610,8 @@ Cuando el agente sea servidor público, se le impondrá, además, destitución e
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 220.
 
 Al que con ánimo de dominio y sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena, se le impondrán:
@@ -2742,7 +2742,7 @@ Para la aplicación de la sanción, se dará por consumado el robo desde el mome
 
 ### CAPÍTULO II. EJERCICIO ILEGAL Y ABANDONO DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 227.
 
@@ -3148,17 +3148,61 @@ Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que
 
 (DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
 
-## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+## TÍTULO DÉCIMO OCTAVO. DELITOS RELACIONADOS CON HECHOS DE CORRUPCIÓN CONTRA EL SERVICIO PÚBLICO COMETIDOS POR SERVIDORES PÚBLICOS
 
 ### CAPÍTULO I. PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
 
 ###### ARTÍCULO 256.
 
-Para los efectos de este Código, es servidor público del Distrito Federal toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Distrito Federal, en la Asamblea Legislativa del Distrito Federal y en los órganos que ejercen la función judicial del fuero común en el Distrito Federal.
+Para los efectos de este Código, es servidor público de la Ciudad de México toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública de la Ciudad de México, en el Poder Legislativo local, en los órganos que ejercen la función judicial del fuero común en la Ciudad de México y en los órganos constitucionales autónomos.
+
+(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+DE MANERA ADICIONAL A DICHAS SANCIONES, SE IMPONDRÁ A LOS RESPONSABLES DE SU COMISIÓN, LA PENA DE DESTITUCIÓN Y LA INHABILITACIÓN PARA DESEMPEÑAR EMPLEO, CARGO O COMISIÓN PÚBLICOS Y CARGO DE ELECCIÓN POPULAR, ASÍ COMO PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS, CONCESIONES DE PRESTACIÓN DE SERVICIO PÚBLICO O DE EXPLOTACIÓN, APROVECHAMIENTO Y USO DE BIENES DE DOMINIO DE LA CIUDAD DE MÉXICO POR UN PLAZO DE UNO A VEINTE AÑOS, ATENDIENDO A LOS SIGUIENTES CRITERIOS:
+
+I.- SERÁ POR UN PLAZO DE UNO HASTA DIEZ AÑOS CUANDO NO EXISTA DAÑO O PERJUICIO O CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO NO EXCEDA DE DOSCIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN VIGENTE, Y
+
+II.- SERÁ POR UN PLAZO DE DIEZ A VEINTE AÑOS SI DICHO MONTO EXCEDE EL LÍMITE SEÑALADO EN LA FRACCIÓN ANTERIOR.
+
+(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+PARA EFECTOS DE LO ANTERIOR, SE DEBERÁ CONSIDERAR, EN CASO DE QUE EL RESPONSABLE TENGA EL CARÁCTER DE SERVIDOR PÚBLICO, ADEMÁS DE LO PREVISTO EN EL ARTÍCULO 257 DE ESTE CÓDIGO, LOS ELEMENTOS DEL EMPLEO, CARGO O COMISIÓN QUE DESEMPEÑABA CUANDO INCURRIÓ EN EL DELITO.
+
+(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+CUANDO EL RESPONSABLE TENGA EL CARÁCTER DE PARTICULAR, EL JUEZ DARÁ VISTA A LA SECRETARIA DE LA CONTRALORÍA GENERAL DE LA CIUDAD Y A LA SECRETARÍA DE LA FUNCIÓN PÚBLICA FEDERAL, CON EL FIN DE HACER DE SU CONOCIMIENTO QUE EL PARTICULAR HA SIDO INHABILITADO PARA DESEMPEÑAR UN CARGO PÚBLICO O PUESTO DE ELECCIÓN POPULAR, ASÍ COMO PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, CONCESIONES, SERVICIOS U OBRAS PÚBLICAS, CONSIDERANDO, EN SU CASO, LO SIGUIENTE:
+
+I.- LOS DAÑOS Y PERJUICIOS PATRIMONIALES CAUSADOS POR LOS ACTOS U OMISIONES;
+
+II.- LAS CIRCUNSTANCIAS SOCIOECONÓMICAS DEL RESPONSABLE;
+
+III.- LAS CONDICIONES EXTERIORES Y LOS MEDIOS DE EJECUCIÓN, Y
+
+IV.- EL MONTO DEL BENEFICIO QUE HAYA OBTENIDO EL RESPONSABLE. SIN PERJUICIO DE LO ANTERIOR, LA CATEGORÍA DE FUNCIONARIO O EMPLEADO DE CONFIANZA SERÁ UNA CIRCUNSTANCIA QUE PODRÁ DAR LUGAR A UNA AGRAVACIÓN DE LA PENA.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando los delitos a que se refieren los artículos 259, 267, 271, 272, 273 y 275, del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Poder Legislativo local, las penas previstas serán aumentadas hasta en un tercio.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 257.
 
-Para la individualización de las sanciones previstas en este Título, el Juez tomará en cuenta además, en su caso, si el servidor público es trabajador de base o de confianza, su antigüedad en el empleo, cargo o comisión, nivel jerárquico, antecedentes de servicio, percepciones, situación socioeconómica, grado de instrucción, las circunstancias especiales de los hechos constitutivos del delito, así como el monto del beneficio obtenido o del daño causado.
+Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito.
+
+Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que agravará hasta en un tercio la sanción correspondiente.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 257 BIS. Cuando los delitos a que se refieren los artículos 262, 269 y 272 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
 
 ###### ARTÍCULO 258.
 
@@ -3176,7 +3220,7 @@ III. Decomiso de los productos del delito.
 
 ###### ARTÍCULO 259.
 
-Comete el delito de ejercicio ilegal del servicio público, el servidor público que:
+Comete el delito de ejercicio ilegal de servicio público, el servidor público que:
 
 I. Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o quien lo designe sin satisfacer todos los requisitos legales;
 
@@ -3198,7 +3242,9 @@ d) Licencia de construcción especial para demolición;
 
 e) Permisos para la ejecución de obras; o
 
-f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; En contravención con la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Distrito Federal.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; En contravención con la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 17 DE ENERO DE 2005)</small>
 
@@ -3208,19 +3254,23 @@ IV. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar,
 
 IV Bis. Teniendo la obligación de custodiar, vigilar y evitar el asentamiento humano en zonas dictaminadas como de alto riesgo, autorice, permita o tolere la existencia de los mismos.
 
-> <small>(ADICIONADA, G.O. 17 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión del Distrito Federal, facilite o fomente en los centros de readaptación social y penitenciarías la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
+V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión de la Ciudad de México, facilite o fomente en los centros de readaptación social y penitenciarías la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 1 DE SEPTIEMBRE DE 2017, PÁGINA 237 Y 239.]</small>
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de veinticinco a doscientos cincuenta días multa.
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Al que cometa alguno de los delitos a los que se refieren las fracciones III, III Bis, IV, IV Bis y V de este artículo, se le impondrán de dos a siete años de prisión y de veinticinco a doscientos cincuenta días multa.
+Al que cometa alguno de los delitos a los que se refieren las fracciones I, II III, III Bis, IV, IV Bis y V de este artículo, se le impondrán de dos a siete años de prisión y multa de veinticinco a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 260.
 
-Se impondrán de uno a cinco años de prisión y de cien a quinientos días multa, al servidor público que en el ejercicio de sus funciones o con motivo de ellas, otorgue o autorice el nombramiento de un empleo, cargo o comisión en el servicio público a persona que por resolución firme de autoridad competente se encuentre inhabilitada para desempeñarlo.
+Al servidor público que autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación se le impondrá de uno a cinco años de prisión y de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Las penas se aumentarán en dos terceras partes a quien otorgue cualquier identificación en la que se acredite como servidor público a persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
@@ -3266,7 +3316,7 @@ A los servidores públicos que, con el fin de impedir o suspender las funciones 
 
 > <small>(REFORMADO, G.O. 1 DE JUNIO DE 2012)</small>
 
-###### Artículo 267.
+###### ARTÍCULO 267.
 
 Comete el delito de uso ilegal de atribuciones y facultades:
 
@@ -3274,17 +3324,17 @@ Comete el delito de uso ilegal de atribuciones y facultades:
 
 I. Al (sic) servidor público que ilegalmente:
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 01 DE SEPTIEMBRE DE 2017)</small>
 
-a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Distrito Federal;
+a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio de la Ciudad México;
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 b) Otorgue permisos, licencias o autorizaciones de contenido económico;
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 01 DE SEPTIEMBRE DE 2017)</small>
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Distrito Federal; o
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública de la Ciudad de México;
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
 
@@ -3296,9 +3346,17 @@ e) Expida, otorgue o permita el otorgamiento o la expedición de certificados, a
 
 II. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 01 DE SEPTIEMBRE DE 2017)</small>
 
-Al que cometa el delito de uso ilegal de atribuciones y facultades, se le impondrán de tres meses a dos años de prisión y de quinientos a mil días multa.
+III. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la Ciudad de México, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+A.- Genere y utilice información falsa o alterada, respecto de los beneficios que obtenga, y
+
+B.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los beneficios que obtenga, la oculte.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y una multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, G.O. 8 DE JULIO DE 2011)</small>
 
@@ -3324,13 +3382,13 @@ Cuando el monto de los beneficios a que hace referencia este artículo exceda mi
 
 Se le impondrán de tres a diez años de prisión y de cien a mil días multa a:
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 01 DE SEPTIEMBRE DE 2017)</small>
 
-I. El servidor público que por sí o por interpósita persona, utilizando la violencia física o moral inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información, antecedentes, datos, medios de prueba o pruebas relativas a la presunta comisión de un delito o sobre la presunta comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley Federal de Responsabilidades de los Servidores Públicos;
+I. El servidor público que por sí o por interpósita persona, utilizando la violencia física o moral inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información, antecedentes, datos, medios de prueba o pruebas relativas a la presunta comisión de un delito o sobre la presunta comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Legislación aplicable en materia de responsabilidades de los servidores públicos;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 01 DE SEPTIEMBRE DE 2017)</small>
 
-II. Las mismas sanciones se impondrán al servidor público que por sí o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información, antecedentes, datos, medios de prueba o pruebas sobre la presunta comisión de un delito o sobre la presunta comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley Federal de Responsabilidades de los Servidores Públicos, o ejerza cualquier represalia contra persona ligada por vínculo afectivo o de negocios con el denunciante, querellante o informante;
+II. Las mismas sanciones se impondrán al servidor público que por sí o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información, antecedentes, datos, medios de prueba o pruebas sobre la presunta comisión de un delito o sobre la presunta comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Legislación aplicable en materia de responsabilidades de los servidores públicos, o ejerza cualquier represalia contra persona ligada por vínculo afectivo o de negocios con el denunciante, querellante o informante;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3372,6 +3430,8 @@ También se entiende por instituciones de seguridad pública, exclusivamente par
 
 Las sanciones previstas en este capítulo se impondrán, con independencia de las que correspondan por otros delitos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 271.
 
 Al servidor público que por sí o por interpósita persona, promueva o gestione la tramitación de negocios o resoluciones públicas ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrán de dos a seis años de prisión y de cien a quinientos días multa.
@@ -3393,6 +3453,8 @@ I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalen
 II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de trescientos a ochocientos días multa.
 
 ### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 273.
 
@@ -3436,11 +3498,13 @@ Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalent
 
 Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal, se le impondrán de uno a seis años de prisión y de cien a quinientos días multa.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
 ### CAPÍTULO VII. EVASIÓN DE PRESOS
 
-## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
+## TÍTULO DÉCIMO NOVENO. HECHOS DE CORRUPCIÓN Y DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
 ### CAPÍTULO I. FRAUDE PROCESAL
 
@@ -3556,7 +3620,7 @@ Al que cometa un delito en contra de un servidor o agente de la autoridad en el 
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-## TÍTULO VIGÉSIMO. DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
+## TÍTULO VIGÉSIMO. HECHOS DE CORRUPCIÓN Y DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
 ### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
@@ -3626,7 +3690,7 @@ RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTRO
 
 ###### ARTÍCULO 293.
 
-Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa, al servidor público que:
+Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos veces el valor diario de la Unidad de Medida y Actualización vigente, al servidor público que:
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3648,11 +3712,9 @@ IV. Realice una aprehensión sin poner al aprehendido a disposición del juez si
 
 V. Se abstenga indebidamente de hacer la consignación que corresponda o de poner a disposición del Juez de Control a una persona que se encuentre detenida a su disposición como probable responsable o imputado de algún delito, o de ejercitar en todo caso la acción penal, cuando sea procedente conforme a la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia;
 
-VI. No otorgue la libertad provisional bajo caución durante la averiguación previa, si procede legalmente;
+VI. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2007)</small>
-
-VII. Otorgue la libertad provisional bajo caución durante la averiguación previa cuando no se reúnan los requisitos previstos en el artículo 556 o se actualicen uno o varios supuestos del artículo 556 Bis, ambos del Código de Procedimientos Penales para el Distrito Federal;
+VII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3689,6 +3751,10 @@ II.- La dignidad de la persona;
 III.- El interés superior de las niñas o los niños, o
 
 IV.- El derecho a una vida libre de violencia hacia la mujer.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 293 TER. Al servidor público que estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo que, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente se le impondrá de dos a nueve años de prisión y una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 6 DE JUNIO DE 2012)</small>
 
@@ -4496,7 +4562,7 @@ Para los efectos de este Capítulo se entenderá por:
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
 
-l. Funcionarios electorales; quienes en los términos de la legislación electoral de la Ciudad México integren los órganos que cumplen funciones públicas electorales;
+I. Funcionarios electorales; quienes en los términos de la legislación electoral de la Ciudad México integren los órganos que cumplen funciones públicas electorales;
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
 
@@ -4898,7 +4964,7 @@ Se impondrán de uno a nueve años de prisión y de doscientos a seiscientos dí
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
 
-l. Obligue, coaccione o amenace a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor o en abstención de un partido político, candidaturas o planilla.
+I. Obligue, coaccione o amenace a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor o en abstención de un partido político, candidaturas o planilla.
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
 
@@ -4976,7 +5042,7 @@ III. Solicite votos por paga, promesa de dinero u otra recompensa para emitir su
 
 ARTÍCULO 360 TER. Se impondrá prisión de dos a nueve años y de doscientos a cuatrocientos días multa, al servidor público que durante el procedimiento de consulta popular:
 
-l. Coaccione, induzca o amenace a sus subordinados para que voten o se abstengan de votar por una opción dentro de la consulta popular;
+I. Coaccione, induzca o amenace a sus subordinados para que voten o se abstengan de votar por una opción dentro de la consulta popular;
 
 II. Condicione la prestación de un servicio público, el cumplimiento de programas gubernamentales, el otorgamiento de concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio a favor de una opción dentro de la consulta popular.
 
@@ -5082,7 +5148,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 G.O. 27 DE ENERO DE 2004.
 
-ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 G.O. 29 DE ENERO DE 2004.
 
@@ -5280,7 +5346,7 @@ G.O. 17 DE MAYO DE 2007.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de su compactación y reciclamiento se obtengan.
+SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de compactación y reciclamiento se obtengan.
 
 TERCERO. Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, no reclamados hasta diciembre de dos mil cinco, se pondrán también inmediatamente a la venta.
 
@@ -5697,3 +5763,25 @@ G.O. 21 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 7 DE JUNIO DE 2017, TOMO II”.]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del (sic) Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del nombramiento que el Poder Legislativo de la Ciudad de México realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, creada en atención al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 10 de Febrero de 2014.
+
+TERCERO. El Jefe de Gobierno tendrá ciento ochenta días hábiles a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones necesarias a los ordenamientos vinculados
+
+CUARTO. A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen (sic), se estará a lo siguiente:
+
+I. En los procesos iniciados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+QUINTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+SEXTO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
