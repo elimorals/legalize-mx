@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-08-29"
+last_updated: "2017-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -332,19 +332,25 @@ A) Subsecretaría de Egresos, a la que quedan adscritas:
 
 1. Dirección General de Política Presupuestal;
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-2. Dirección General de Contabilidad, Normatividad y Cuenta Pública;
+2. Dirección General de Contabilidad y Cuenta Pública;
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-3. Dirección General de Egresos A; y
+3. Dirección General de Egresos A;
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-4. Dirección General de Egresos B.
+4. Dirección General de Egresos B; y
 
-B) Tesorería del Distrito Federal, a la que quedan adscritas:
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+5. Dirección General de Egresos C.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+B) Tesorería de la Ciudad de México, a la que quedan adscritas:
 
 1. Subtesorería de Política Fiscal;
 
@@ -386,7 +392,9 @@ B) Tesorería del Distrito Federal, a la que quedan adscritas:
 
 4.1. (DEROGADO, G.O. 16 DE AGOSTO DE 2001)
 
-C) Procuraduría Fiscal del Distrito Federal, a la que quedan adscritas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+C) Procuraduría Fiscal de la Ciudad de México, a la que quedan adscritas:
 
 1. Subprocuraduría de Legislación y Consulta;
 
@@ -418,23 +426,25 @@ E) Dirección General de Informática.
 
 F) Subsecretaría de Planeación Financiera.
 
-1.- Dirección General de Enlace Interinstitucional.
+1.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 2.- Dirección General de Administración Financiera.
 
-3.- Unidad de Evaluación del Ingreso Gasto.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+3.- Dirección General de Evaluación de Proyectos.
 
-G) Unidad de Inteligencia Financiera del Distrito Federal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+G) Unidad de Inteligencia Financiera de la Ciudad de México:
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
 1. Coordinación Ejecutiva de Verificación de Comercio Exterior.
 
-> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-1.1. Dirección de Programación;
+1.1. Dirección de Investigación y Programación en Comercio Exterior;
 
 > <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
@@ -451,6 +461,10 @@ G) Unidad de Inteligencia Financiera del Distrito Federal.
 > <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
 
 H) Las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las dependencias de la Administración Pública Central.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I) Dirección General de Enlace, Coordinación Fiscal y Programas Federales.
 
 > <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -1938,81 +1952,125 @@ Corresponde al titular de la Subsecretaría de Egresos:
 
 I. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, para la elaboración del Programa Operativo de la Administración Pública del Distrito Federal, programa operativo anual, anteproyecto de Presupuesto de Egresos del Distrito Federal y de la Cuenta Pública del Distrito Federal;
+II. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública, para la elaboración del Programa Operativo Anual, Anteproyecto de Presupuesto de Egresos, Informes trimestrales y de la Cuenta Pública de la Ciudad de México;
 
 III. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Coordinar la formulación de los anteproyectos de presupuesto de egresos anuales de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, comunicándoles, en su caso, los ajustes que habrán de realizar en función de la cifra definitiva proyectada;
+IV. Coordinar la formulación de los anteproyectos de presupuesto de egresos anuales de las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, comunicándoles, en su caso, los ajustes que habrán de realizar en función de la cifra definitiva proyectada;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Presentar a la consideración del superior el Proyecto del Presupuesto de Egresos del Distrito Federal y el Programa Operativo de la Administración Pública del Distrito Federal;
+V. Presentar a la consideración de la persona titular de la Secretaría el Proyecto del Presupuesto de Egresos de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Autorizar y comunicar el calendario presupuestal de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública;
+VI. Autorizar y comunicar, atendiendo los términos establecidos en el Reglamento de la Ley de Presupuesto y Gasto Eficiente, los calendarios presupuestales a las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, conforme a los montos que a estas les establezca el correspondiente Decreto de Presupuesto de Egresos, los cuales estarán en función de la capacidad financiera de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Registrar el ejercicio presupuestal del Distrito Federal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados por las unidades responsables;
+VII. Registrar el ejercicio presupuestal de la Ciudad de México en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados por las unidades responsables;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Expedir las normas y lineamientos a que deba sujetarse la programación, el presupuesto, contabilidad y seguimiento del gasto público del Distrito Federal;
+VIII. Expedir las normas y lineamientos a que deba sujetarse la programación, presupuesto, contabilidad y seguimiento del gasto público de la Ciudad de México; así como las normas generales a que deban sujetarse la evaluación de resultados del ejercicio de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local, y el Sistema de Evaluación del Desempeño a que se refiere la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Autorizar de acuerdo a la normatividad aplicable, las solicitudes de adecuaciones programático-presupuestales que presenten las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, así como a los órganos a que se refiere el artículo 448 del Código Financiero del Distrito Federal;
+IX. Autorizar, de acuerdo a la normatividad aplicable, las solicitudes de adecuaciones programático-presupuestales que presenten las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, así como los Órganos Autónomos y de Gobierno a que se refiere la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México;
 
-X. Presentar a consideración del superior los programas de inversiones, elaborados conforme al presupuesto de egresos, de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Resolver sobre las solicitudes de autorización previa, para que las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública establezcan compromisos con el fin de garantizar la continuidad de las obras prioritarias y la prestación de los servicios públicos, así como aquellas que comprendan más de un ejercicio;
+X. Coordinar la integración de las fichas técnicas de los proyectos de inversión remitidas por las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades a través del Sistema Informático de Planeación de Recursos Gubernamentales;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Resolver sobre las solicitudes de autorización previa que, con base en los anteproyectos de presupuesto de egresos, presenten las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades para contraer compromisos que permitan iniciar o continuar, a partir del primero de enero del año siguiente, los proyectos, servicios y obras que por su importancia y características así lo requieran; los compromisos estarán condicionados a la aprobación del presupuesto de egresos correspondiente;
 
 XII. Coordinar la elaboración e integración de los informes de gestión y estados financieros de la Administración Pública Centralizada, así como la integración de los relativos a la Administración Pública Paraestatal;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Coordinar la integración de la información programático-presupuestal de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, y ordenar se efectúen las conciliaciones correspondientes;
+XIII. Coordinar la recopilación de la información derivada de los documentos de gestión presupuestal registrados en el Sistema Informático de Planeación de Recursos Gubernamentales, a fin de que las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública realicen las conciliaciones correspondientes;
 
 XIV. Someter a consideración del superior, los Informes de Avance sobre la ejecución y cumplimiento de los presupuestos y programas aprobados;
 
 XV. Conducir las relaciones con las Dependencias de la Administración Pública Federal, en materia de presupuesto, contabilidad y gasto público;
 
-XVI. Coordinar la evaluación del ejercicio del gasto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+XVI. Coordinar la implementación progresiva del Sistema de Evaluación del Desempeño, y de la evaluación de resultados del ejercicio de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local, emitiendo el respectivo programa anual de evaluación;
 
-XVII. Validar presupuestalmente los programas anuales de adquisiciones, arrendamientos y servicios de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, y en su caso, hacer observaciones;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+XVII. Emitir la validación presupuestal de los Programas Anuales de Adquisiciones, Arrendamientos y Prestaciones de Servicios que soliciten las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, con base en el Presupuesto de Egresos de la Ciudad de México aprobado por el Órgano Legislativo;
 
-XVIII. Participar en los órganos colegiados, y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Delegaciones de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos programáticos-presupuestales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+XVIII. Participar en los órganos colegiados y de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Órganos Político Administrativos de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
 
-XIX. Emitir opinión sobre el impacto presupuestal, cuando se creen o modifiquen las estructuras administrativas de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, así como también de proyectos de iniciativas de leyes o Decretos cuando éstos incidan en materia de gasto;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Presentar a consideración del superior la Cuenta Pública del Distrito Federal;
+XIX. Emitir la opinión que soliciten las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas; así como emitir las opiniones que le sean solicitadas sobre el impacto presupuestal de proyectos de iniciativas de leyes, decretos, acuerdos u otros instrumentos cuando éstos incidan en materia de gasto;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Presentar a consideración del superior la Cuenta Pública de la Ciudad de México;
 
 XXI. Someter a consideración del superior, las propuestas de organización, programas y presupuestos de la Subsecretaría de Egresos y de las Unidades Administrativas adscritas a ella;
 
 XXII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIII. Participar en la formulación de anteproyectos de reformas y adiciones a disposiciones legales en materia presupuestal;
+XXIII. Participar en la formulación de anteproyectos de reformas y adiciones a disposiciones legales que competan al ámbito de sus atribuciones;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIV. Asesorar a las unidades responsables cuando lo soliciten, respecto de las normas que emite la Subsecretaría, y
+XXIV. Asesorar a las Unidades Responsables de Gasto cuando lo soliciten, respecto de las normas que emite la Subsecretaría;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+XXV. Dirigir, en coordinación con la Subsecretaría de Administración y Capital Humano, el proceso de estimación, programación y asignación de los recursos presupuestales que destinarán al capítulo de servicios personales las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades en su correspondiente anteproyecto de presupuesto de egresos, mismos que se sujetarán a las previsiones de ingresos que comunique la Secretaría;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVI. Analizar y, en su caso, someter a consideración del superior la propuesta de respuesta a las solicitudes presentadas por las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades para comprometer recursos presupuestales en proyectos cuya ejecución comprenda más de un ejercicio fiscal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVII. Formular y presentar a consideración del titular de la Secretaria de Finanzas el techo presupuestal al que deberán sujetarse las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades en la formulación de su correspondiente anteproyecto de presupuesto de egresos;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVIII. Comunicar a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades el techo presupuestal que deberán atender para la formulación de su correspondiente anteproyecto de presupuesto de egresos; así como comunicar el techo presupuestal a las Unidades Responsables del Gasto, conforme a los montos que a estas les establezca el correspondiente Decreto de Presupuesto de Egresos;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIX. Autorizar, cuando así proceda y en casos excepcionales y debidamente justificados, las solicitudes que presenten las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades para convocar adquisiciones, arrendamientos y prestación de servicios u obra pública, sin contar con saldo disponible en su presupuesto, por lo que dichas Unidades Responsables del Gasto deberán de asegurar la suficiencia presupuestal previo al fallo o adjudicación que realicen;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXX. Emitir los lineamientos que deberán observar las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades, para efecto de la vinculación de sus presupuestos con los objetivos contenidos en el Programa General de Desarrollo de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXI. Determinar a las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, que corresponda atender, conforme al ámbito de su competencia, a cada Dirección General de Egresos;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXII. Someter a consideración del superior o, en su caso, publicar las propuestas de publicaciones en la Gaceta Oficial de la Ciudad de México, respecto al calendario de entrega, porcentaje, fórmulas y variables utilizadas, de los Fondos de Aportaciones y de las Participaciones de Ingresos Federales, así como las publicaciones trimestrales y de ajuste anual establecidas en la Ley de Coordinación Fiscal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIII. Coordinar la implementación del monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local; así como emitir las correspondientes normas, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
 
@@ -2020,9 +2078,9 @@ XXV. Las demás que le fijen expresamente las leyes y reglamentos, así como las
 
 Corresponde a la Subsecretaría de Planeación Financiera:
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. Vincular la presupuestación al Sistema de Planeación del Distrito Federal a través de los Programas Operativos Anuales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, asegurando la correspondencia del Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal:
+I. Vincular la presupuestación al Sistema de Planeación de la Ciudad de México a través de los Programas Operativos Anuales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública, asegurando la correspondencia del Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -2036,9 +2094,9 @@ III. Coordinar el análisis costo beneficio de los principales proyectos de inve
 
 IV. Participar en la supervisión de los programas especiales en materia de Planeación y Desarrollo Territorial, a fin de evaluar el impacto de los mismos en el Programa General de Desarrollo del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Elaborar diagnósticos, fijar prioridades y diseñar las estrategias que ordenen las acciones para la aplicación de los recursos presupuestales del Distrito Federal;
+V. Elaborar diagnósticos, fijar prioridades y diseñar las estrategias que ordenen las acciones para la aplicación de los recursos presupuestales de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -2048,25 +2106,21 @@ VI. Proponer políticas y estrategias para eficientar el manejo de las finanzas 
 
 VII. Colaborar en la elaboración de planes y programas Sectoriales, Delegacionales y Territoriales que emanen del Comité de Planeación del Desarrollo del Distrito Federal (COPLADE), dentro del marco de la Ley de Planeación del Desarrollo del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-VIII. Promover propuestas de coordinación con la federación, estados, municipios y delegaciones, en materia de planeación;
-
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
-
-IX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de colaboración admnistrativa (sic) en materia fiscal federal y local, en términos de las leyes y reglamentos aplicables; y
+IX. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 X. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia;
 
-> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Rendir cuentas, conjuntamente con la Tesorería del Distrito Federal, de las operaciones coordinadas a la Secretaria de Hacienda y Crédito Público, así como realizar las liquidaciones que, en su caso, corresponda, de conformidad con la Ley de Coordinación Fiscal; y
+XI. Rendir cuentas, conjuntamente con la Tesorería de la Ciudad de México, de las operaciones coordinadas a la Secretaría de Hacienda y Crédito Público, así como realizar las liquidaciones que, en su caso, correspondan, de conformidad con la Ley de Coordinación Fiscal, y
 
-> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Suscribir conjuntamente con el Secretario de Finanzas, los contratos y títulos de crédito, relativos al financiamiento del Distrito Federal.
+XII. Suscribir conjuntamente con el Secretario de Finanzas, los contratos y títulos de crédito, relativos al financiamiento de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -2220,47 +2274,77 @@ IX. Las demás que les atribuyan expresamente los demás ordenamientos jurídico
 
 (DEROGADO, G.O. 31 MARZO DE 2010)
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 35.
 
-Corresponde al titular de la Tesorería del Distrito Federal:
+Corresponde al titular de la Tesorería de la Ciudad de México:
 
-I. Someter a la consideración superior las bases a que habrá de sujetarse la política fiscal de la Hacienda Pública del Distrito Federal, acorde con el Programa General de Desarrollo del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Coordinar el proyecto y cálculo de los ingresos del Distrito Federal, elaborar el presupuesto de ingresos y formular el anteproyecto de iniciativa de Ley de Ingresos del Distrito Federal, con la participación de la Procuraduría Fiscal del Distrito Federal;
+I. Someter a la consideración superior las bases a que habrá de sujetarse la política fiscal de la Hacienda Pública de la Ciudad de México, acorde con el Programa General de Desarrollo del Distrito Federal;
 
-III. Participar en la formulación de los anteproyectos de iniciativas de leyes fiscales del Distrito Federal, sus reformas y adiciones, en coordinación con la Procuraduría Fiscal del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Interpretar y aplicar en el orden administrativo, las leyes y demás disposiciones fiscales del Distrito Federal, así como las de carácter federal cuya aplicación esté encomendada al propio Distrito Federal;
+II. Coordinar el proyecto y cálculo de los ingresos de la Ciudad de México, elaborar el presupuesto de ingresos y formular el anteproyecto de iniciativa de Ley de Ingresos de la Ciudad de México, con la participación de la Procuraduría Fiscal de la Ciudad de México;
 
-V. Proponer para aprobación superior, la política de bienes y servicios del Distrito Federal y, con base en ella, autorizar los precios y tarifas que se utilicen;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de colaboración administrativa en materia fiscal federal, en los términos de las leyes y reglamentos aplicables;
+III. Participar en la formulación de los anteproyectos de iniciativas de leyes fiscales de la Ciudad de México, sus reformas y adiciones, en coordinación con la Procuraduría Fiscal de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Interpretar y aplicar en el orden administrativo, las leyes y demás disposiciones fiscales de la Ciudad de México, así como las de carácter federal cuya aplicación esté encomendada a la propia Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Proponer para aprobación superior, la política de bienes y servicios de la Ciudad de México y, con base en ella, autorizar los precios y tarifas que se utilicen;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Intervenir en la evaluación, formulación, suscripción, vigilancia y cumplimiento de los convenios de colaboración administrativa y acuerdos de coordinación fiscal con las Entidades Federativas y el Ejecutivo Federal, en el ámbito de su competencia;
 
 VII. Realizar los estudios de mercado inmobiliario, a efecto de determinar los valores catastrales, así como de aquéllos orientados a definir y establecer la política tributaria, para determinar tasas y tarifas impositivas en materia de contribuciones relacionadas con bienes inmuebles;
 
 VIII. Llevar y mantener actualizados los padrones de contribuyentes;
 
-IX. Administrar, recaudar, comprobar, determinar, notificar y cobrar las contribuciones, los aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Administrar las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados, con base en los acuerdos del Ejecutivo Federal;
+IX. Administrar, recaudar, comprobar, determinar, notificar y cobrar las contribuciones, los aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Expedir las constancias o credenciales del personal que se autorice para llevar acabo visitas domiciliarias, auditorías, inspecciones o verificaciones, avalúos, liquidaciones de créditos fiscales, citatorios, notificaciones y todos los actos inherentes al procedimiento administrativo de ejecución, así como autorizar a las personas físicas y morales, como auxiliares de la Tesorería del Distrito Federal;
+X. Administrar las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados, con base en los acuerdos y convenios del Ejecutivo Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Expedir las constancias o credenciales del personal que se autorice para llevar a cabo visitas domiciliarias, auditorías, inspecciones o verificaciones, avalúos, liquidaciones de créditos fiscales, citatorios, notificaciones y todos los actos inherentes al procedimiento administrativo de ejecución, así como autorizar a las personas físicas y morales, como auxiliares de la Tesorería de la Ciudad de México;
 
 XII. Ordenar la práctica de visitas domiciliarias, auditorías, la revisión de dictámenes y declaraciones, así como visitas de inspección y verificación, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia fiscal;
 
-XIII. Ejercer la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales del Distrito Federal y los de carácter Federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Recibir y resolver las solicitudes de devolución o compensación, de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos del Ejecutivo Federal;
+XIII. Ejercer la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales de la Ciudad de México y los de carácter Federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos y convenios del Ejecutivo Federal;
 
-XV. Recibir, tramitar y resolver las solicitudes de los contribuyentes, en materia de pago a plazos de los créditos fiscales del Distrito Federal y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Aceptar, previa calificación, las garantías que otorguen los contribuyentes, para asegurar el interés fiscal respecto de los créditos fiscales del Distrito Federal, y los de carácter federal en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal, así como registrarlas, autorizar su sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
+XIV. Recibir, tramitar y resolver las solicitudes de devolución o compensación, de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos y convenios del Ejecutivo Federal;
 
-XVII. Calificar, aceptar, registrar, conservar en guarda y custodia, sustituir, cancelar, devolver y hacer efectivas las garantías que se otorguen en favor del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales del Distrito Federal y a las de carácter federal, cuya aplicación esté encomendada al propio Distrito Federal;
+XV. Recibir, tramitar y resolver las solicitudes de los contribuyentes, en materia de pago a plazos de los créditos fiscales de la Ciudad de México y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos y convenios del Ejecutivo Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Aceptar, previa calificación, las garantías que otorguen los contribuyentes, para asegurar el interés fiscal respecto de los créditos fiscales de la Ciudad de México, y los de carácter federal en los términos de las disposiciones fiscales aplicables y de los acuerdos y convenios del Ejecutivo Federal, así como registrarlas, autorizar su sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Calificar, aceptar, registrar, conservar en guarda y custodia, sustituir, cancelar, devolver y hacer efectivas las garantías que se otorguen en favor de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales de la Ciudad de México y a las de carácter federal, cuya aplicación esté encomendada a la propia Ciudad de México;
 
 XIX. Rendir conjuntamente con la Dirección General de Administración Financiera, las cuentas de las operaciones coordinadas a la Secretaría de Hacienda y Crédito Público;
 
@@ -2268,15 +2352,21 @@ XIX. Rendir conjuntamente con la Dirección General de Administración Financier
 
 XX. Recibir, tramitar y resolver las solicitudes de cancelación de créditos fiscales, así como de condonación de multas conforme a las disposiciones legales aplicables;
 
-XXI. Representar en toda clase de procedimientos judiciales o administrativos, los intereses de la Hacienda Pública del Distrito Federal y los que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal, en materia de ingresos federales coordinados;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Proponer a la consideración del superior, las normas jurídicas y administrativas, que tiendan al establecimiento de los procedimientos tributarios más adecuados, para el financiamiento del gasto del Distrito Federal;
+XXI. Representar en toda clase de procedimientos judiciales o administrativos, los intereses de la Hacienda Pública de la Ciudad de México y los que deriven de las funciones operativas inherentes a los acuerdos y convenios del Ejecutivo Federal, en materia de ingresos federales coordinados;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Proponer a la consideración del superior, las normas jurídicas y administrativas, que tiendan al establecimiento de los procedimientos tributarios más adecuados, para el financiamiento del gasto de la Ciudad de México;
 
 XXIII. Elaborar y someter a la consideración del superior, sus programas de descentralización y desconcentración administrativa;
 
 XXIV. Establecer el número, denominación, sede y circunscripción territorial, de las Administraciones Tributarias;
 
-XXV. Evaluar cuantitativa y cualitativamente, la eficiencia de la operación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Tesorería del Distrito Federal, estableciendo relación entre los resultados y avances y el costo de los programas respectivos;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Evaluar cuantitativa y cualitativamente, la eficiencia de la operación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Tesorería de la Ciudad de México, estableciendo relación entre los resultados y avances y el costo de los programas respectivos;
 
 XXVI. Coordinar la integración y análisis de la información de ingresos, para cumplimentar la obligación de informar a los órganos de control presupuestal;
 
@@ -2288,33 +2378,41 @@ XXVIII. Recibir, analizar y resolver las solicitudes de reconocimiento de entero
 
 XXIX. Las demás facultades que le señalen las disposiciones legales y reglamentarias; las que le sean conferidas por sus superiores jerárquicos, así como las que correspondan a las Unidades Administrativas que le sean adscritas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-Corresponde al titular de la Procuraduría Fiscal del Distrito Federal:
+Corresponde al titular de la Procuraduría Fiscal de la Ciudad de México:
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. Recibir, tramitar y resolver los recursos administrativos en materia fiscal del Distrito federal, que sean de su competencia y federal respecto de las contribuciones coordinadas a que se refieren las disposiciones jurídicas aplicables;
+I. Recibir, tramitar y resolver los recursos administrativos en materia fiscal de la Ciudad de México, que sean de su competencia y federal respecto de las contribuciones coordinadas a que se refieren las disposiciones jurídicas aplicables;
 
 II. Recibir, tramitar y resolver las solicitudes de cancelación y condonación de multas por infracción a las disposiciones fiscales y administrativas, de acuerdo con las disposiciones jurídicas aplicables;
 
 III. Recibir, tramitar y resolver las solicitudes de declaratoria de exención de las contribuciones que formulen los contribuyentes, de acuerdo con las disposiciones jurídicas aplicables;
 
-IV. Recibir, tramitar y resolver las solicitudes de caducidad y prescripción que formulen los contribuyentes, respecto de las facultades de comprobación y de créditos fiscales provenientes de la aplicación del Código Financiero del Distrito Federal, así como las que deriven de contribuciones federales coordinadas, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+IV. Recibir, tramitar y resolver las solicitudes de caducidad y prescripción que formulen los contribuyentes, respecto de las facultades de comprobación y de créditos fiscales provenientes de la aplicación del Código Fiscal de la Ciudad de México, así como las que deriven de contribuciones federales coordinadas, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia;
 
-V. Informar a la Secretaría de Finanzas y a la Tesorería del Distrito Federal, de las resoluciones de los tribunales administrativos o judiciales sobre asuntos de su competencia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+V. Informar a la Secretaría de Finanzas y a la Tesorería de la Ciudad de México, de las resoluciones de los tribunales administrativos o judiciales sobre asuntos de su competencia;
 
-VI. Apoyar al Secretario de Finanzas, al Tesorero del Distrito Federal y al Jefe de la Unidad de Inteligencia Financiera del Distrito Federal, en la interpretación, dentro del orden administrativo, de las leyes, acuerdos suscritos con el Ejecutivo Federal, acuerdos del Jefe de Gobierno y demás disposiciones fiscales de la Hacienda Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Formular los anteproyectos de leyes y disposiciones jurídicas fiscales del Distrito Federal;
+VI. Apoyar al Secretario de Finanzas, al Tesorero de la Ciudad de México y al Titular de la Unidad de Inteligencia Financiera de la Ciudad de México, en la interpretación, dentro del orden administrativo, de las leyes, acuerdos suscritos con el Ejecutivo Federal, acuerdos del Jefe de Gobierno y demás disposiciones fiscales de la Hacienda Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Formular los anteproyectos de leyes y disposiciones jurídicas fiscales de la Ciudad de México y opinar sobre los aspectos jurídicos de las iniciativas de leyes en las materias competencia de la Procuraduría Fiscal;
 
 VIII. Ser órgano de consulta en materia fiscal tanto de contribuyentes como de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-IX. Realizar estudios comparativos de los sistemas hacendarios, administrativos y de justicia administrativa en materia fiscal, de otros países, de la Federación y de las entidades federativas, para apoyar la modernización del marco jurídico hacendario del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Realizar estudios comparativos de los sistemas hacendarios, administrativos y de justicia administrativa en materia fiscal, de otros países, de la Federación y de las entidades federativas, para apoyar la modernización del marco jurídico hacendario de la Ciudad de México;
 
 X. Ser enlace en asuntos jurídicos de materia fiscal, con Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, de las entidades federativas y de la Secretaría de Hacienda y Crédito Público;
 
@@ -2328,95 +2426,89 @@ XIV. Emitir las opiniones jurídicas, los criterios e interpretaciones administr
 
 XV. Proponer medidas para la mejor aplicación de las disposiciones legales en el ámbito de competencia de la Secretaría de Finanzas y para la pronta y expedita administración de justicia en materia hacendaria;
 
-XVI. Opinar acerca de la publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, de las disposiciones de carácter general relativas al ámbito de competencia de la Secretaría de Finanzas y, en su caso, tramitar dicha publicación, así como compilar la legislación y la jurisprudencia en la materia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+XVI. Opinar acerca de la publicación en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación, de las disposiciones de carácter general relativas al ámbito de competencia de la Secretaría de Finanzas y, en su caso, tramitar dicha publicación, así como compilar la legislación y la jurisprudencia en la materia;
 
-XVII. Representar el interés de la Hacienda Pública del Distrito Federal en controversias fiscales y en los intereses que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal en materia de contribuciones federales coordinadas, incluyendo los actos relacionados en materia de comercio exterior, a la Secretaría de Finanzas y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos administrativos ante los tribunales del Distrito Federal y de la República, ante otras autoridades administrativas o judiciales competentes, ejercitar las acciones, excepciones y defensas de las que sean titulares, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra Unidad Administrativa de la propia Secretaría de Finanzas o al Ministerio Público del Distrito Federal y, en su caso, proporcionarle los elementos que sean necesarios;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal y con la representación señalada en la fracción anterior, recursos en contra de las resoluciones de las Salas del Tribunal que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento;
+XVII. Representar el interés de la Hacienda Pública de la Ciudad de México en controversias fiscales y en los intereses que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal en materia de contribuciones federales coordinadas, incluyendo los actos relacionados en materia de comercio exterior, a la Secretaría de Finanzas y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos administrativos ante los tribunales de la Ciudad de México y de la República, ante otras autoridades administrativas o judiciales competentes, ejercitar las acciones, excepciones y defensas de las que sean titulares, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra Unidad Administrativa de la propia Secretaría de Finanzas o al Ministerio Público de la Ciudad de México y, en su caso, proporcionarle los elementos que sean necesarios;
 
-XIX. Interponer, con la representación mencionada ante el Tribunal Colegiado de Circuito competente, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Elaborar y proponer los informes previos y justificados en materia de amparo y que deba rendir el Jefe de Gobierno y el Secretario de Finanzas cuando proceda, así como los servidores públicos de la misma Secretaría en los asuntos competencia de ésta; intervenir cuando la propia Secretaría tenga el carácter de tercero perjudicado en los juicios de amparo; elaborar y proponer los recursos que procedan, así como realizar, en general, todas las promociones que en dichos juicios se requieren;
+XVIII. Interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo de la Ciudad de México y con la representación señalada en la fracción anterior, recursos en contra de las resoluciones de las Salas del Tribunal que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento;
 
-XXI. Denunciar o querellarse, ante el Ministerio Público competente, de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría de Finanzas en el desempeño de sus funciones, allegándose los elementos probatorios del caso y dando la intervención que corresponda a la Contraloría General del Distrito Federal, así como formular querellas o denuncias en materia de delitos fiscales, haciendo la determinación del daño o perjuicio en la propia querella en que ésta sea necesaria, así como de contribuciones coordinadas; y denunciar o querellarse ante el Ministerio Público competente de otros hechos delictivos en que la Secretaría de Finanzas resulte ofendida o en aquellos en que tenga conocimiento o interés, y cuando proceda otorgar el perdón legal y pedir al Ministerio Público que solicite el sobreseimiento en los procesos penales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Ejercer en materia de delitos fiscales las atribuciones señaladas a la Secretaría de Finanzas en el Código Financiero del Distrito Federal;
+XIX. Interponer, con la representación mencionada ante el Tribunal Colegiado de Circuito competente, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de lo Contencioso Administrativo de la Ciudad de México;
 
-XXIII. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIV. Formular y someter a la consideración del Secretario de Finanzas los anteproyectos de acuerdos de carácter general del Jefe de Gobierno en los que se sustentará el otorgamiento de subsidios con cargo al Presupuesto de Egresos del Distrito Federal, así como los proyectos de resoluciones administrativas para el reconocimiento u otorgamiento de subsidios;
+XX. Elaborar y proponer los informes previos y justificados en materia de amparo y que deba rendir el Jefe de Gobierno y el Secretario de Finanzas cuando proceda, así como los servidores públicos de la misma Secretaría en los asuntos competencia de ésta; intervenir cuando la propia Secretaría tenga el carácter de tercero interesado en los juicios de amparo; elaborar y proponer los recursos que procedan, así como realizar, en general, todas las promociones que en dichos juicios se requieren;
 
-XXV. Solicitar en su carácter de autoridad fiscal, copias certificadas de las actuaciones, documentación o registros, a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública que tengan conocimiento de hechos delictuosos que ocasionen perjuicio a la Hacienda Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Denunciar o querellarse, ante el Ministerio Público competente, de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría de Finanzas en el desempeño de sus funciones, allegándose los elementos probatorios del caso y dando la intervención que corresponda a la Contraloría General de la Ciudad de México, así como formular las querellas, denuncias o equivalente en materia de delitos fiscales, señalando el daño o perjuicio en la propia querella en que ésta sea necesaria, así como de contribuciones coordinadas; y denunciar o querellarse ante el Ministerio Público competente de otros hechos delictivos en que la Secretaría de Finanzas resulte ofendida o en aquellos en que tenga conocimiento o interés, y cuando proceda otorgar el perdón legal y pedir al Ministerio Público que solicite el sobreseimiento en los procesos penales;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Ejercer en materia de delitos fiscales las atribuciones señaladas a la Secretaría de Finanzas en el Código Fiscal de la Ciudad de México;
+
+XXIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV. Formular y someter a consideración del Secretario de Finanzas los anteproyectos de acuerdos de carácter general del Jefe de Gobierno en los que se sustentará el otorgamiento de subsidios con cargo al Presupuesto de Egresos de la Ciudad de México, así como los proyectos de resoluciones administrativas para el reconocimiento u otorgamiento de subsidios;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Solicitar en su carácter de autoridad fiscal, copias certificadas de las actuaciones, documentación o registros, a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública que tengan conocimiento de hechos delictuosos que ocasionen perjuicio a la Hacienda Pública de la Ciudad de México;
 
 XXVI. Recibir, tramitar y resolver las solicitudes de autorización que presenten las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren;
 
-XXVII. Formalizar jurídicamente las funciones que corresponden a la Secretaría de Finanzas en su carácter de fideicomitente único de la Administración Pública, tener a su cargo la organización y funcionamiento del Registro de Fideicomisos Públicos de la Administración Pública del Distrito Federal, así como recibir, tramitar y resolver las solicitudes de inscripción en dicho Registro;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+XXVII. Formalizar jurídicamente las funciones que corresponden a la Secretaría de Finanzas en su carácter de fideicomitente único de la Administración Pública de la Ciudad de México; opinar jurídicamente respecto de los instrumentos jurídicos de los fideicomisos públicos de la Administración Pública de la Ciudad de México; tener a su cargo la organización y funcionamiento del Registro de Fideicomisos Públicos de la Administración Pública de la Ciudad de México y Asimilados a Públicos de la Ciudad de México, así como recibir, tramitar y resolver las solicitudes de inscripción en dicho Registro;
 
-XXVIII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación así como por cualquier otros actos u omisiones en que un Servidor Público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública del Distrito Federal o al patrimonio de las entidades, que descubra o tenga conocimiento la Secretaría de Finanzas, por sí o a través de sus unidades administrativas, así como en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVIII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado de la Ciudad de México, en las actividades de programación y presupuestación así como por cualquier otros actos u omisiones en que un Servidor Público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública de la Ciudad de México o al patrimonio de las entidades, que descubra o tenga conocimiento la Secretaría de Finanzas, por sí o a través de sus unidades administrativas, así como en aquellos casos en que la Auditoría Superior de la Ciudad de México de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
 
 XXIX. Registrar los órganos de gobierno de los fideicomisos públicos y de las sesiones de éstos;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXX. Comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones previstas en las leyes fiscales del Distrito Federal y de las coordinadas cuya aplicación compete a las autoridades hacendarias locales, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos por el Ejecutivo Federal, así como administrar y recaudar las contribuciones, aprovechamientos, productos, accesorios y su actualización, señalados en las disposiciones antes mencionadas;
+XXX. Vigilar las reuniones con las organizaciones de los particulares y los colegios de profesionistas, en las que se designen por parte de éstos, delegados con el fin de que se resuelva la problemática operativa e inmediata que se presenta en el cumplimiento de las obligaciones fiscales;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXI. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos, y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
+XXXI. Recibir, tramitar y resolver las solicitudes de mediación fiscal, de acuerdo con las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+XXXII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XXXII. Establecer los sistemas y procedimientos a que debe sujetarse la práctica de visitas domiciliarias, revisión de declaraciones y dictámenes, visitas de inspección y verificaciones en materia de comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes;
+XXXIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+XXXIV. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XXXIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que entrañen o que puedan entrañar el incumplimiento de las disposiciones fiscales que se conozcan, con motivo del ejercicio de las atribuciones de comprobación;
+XXXV. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+XXXVI. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XXXIV. Determinar en cantidad líquida las contribuciones y aprovechamientos omitidos y sus accesorios que se conozcan, con motivo del ejercicio de sus atribuciones, en los términos de las leyes fiscales del Distrito Federal o de las federales cuya aplicación competa a las autoridades hacendarias locales;
+XXXVII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+XXXVIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XXXV. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las atribuciones a que se refiere este artículo y con sujeción a las disposiciones aplicables;
+XXXIX. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+XL. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XXXVI. Notificar a los contribuyentes, responsables solidarios y demás obligados, los actos relacionados con el ejercicio de las atribuciones de comprobación;
+XLI. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+XLII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XXXVII. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazo de los créditos fiscales del Distrito Federal o federales coordinados, en los términos de los acuerdos del Ejecutivo Federal, determinados con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XXXVIII. Recibir y resolver las solicitudes de compensación que formulen los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables y los acuerdos del Ejecutivo Federal;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XXXIX. Ejercer la facultad económica coactiva mediante el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales locales y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal, siempre que dichos créditos se determinen con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XL. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XLI. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XLII. Aceptar previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente y resolver sobre su dispensa en los términos de las disposiciones fiscales;
-
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
-
-XLIII. Establecer los sistemas y procedimientos de control administrativo que coadyuven a combatir la evasión fiscal, sujetándose, para el efecto, a las normas establecidas por las disposiciones fiscales;
+XLIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
 
@@ -2426,25 +2518,27 @@ XLIV. Vigilar el cumplimiento de las normas y procedimientos inherentes al desar
 
 XLV. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 36 Bis.
 
-Corresponde a la Unidad de Inteligencia Financiera del Distrito Federal:
+Corresponde a la Unidad de Inteligencia Financiera de la Ciudad de México:
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
 I. Generar, obtener, analizar y consolidar información fiscal y patrimonial para la investigación de hechos posiblemente ilícitos que generen en las personas un beneficio o incremento económico injustificable, con la finalidad de aportar la información a las autoridades competentes;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que obtenga;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Coordinar y establecer enlaces permanentes, así como los temporales que en su caso se requieran entre las diversas dependencias y entidades Federales y de la Administración Pública del Distrito Federal, en los asuntos de su competencia, así como celebrar e implementar acuerdos con esas instancias, para el intercambio de información que sirvan como insumos para la elaboración de los reportes de inteligencia;
+III. Coordinar y establecer enlaces permanentes, así como los temporales que en su caso se requieran entre las diversas dependencias y entidades Federales y de la Administración Pública de la Ciudad de México, en los asuntos de su competencia, así como celebrar e implementar acuerdos con esas instancias, para el intercambio de información que sirvan como insumos para la elaboración de los reportes de inteligencia;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Requerir a las dependencias, órganos político-administrativos, órganos desconcentrados, unidades administrativas y entidades de la Administración Pública del Distrito Federal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
+IV. Requerir a las dependencias, órganos político-administrativos, órganos desconcentrados, unidades administrativas y entidades de la Administración Pública de la Ciudad de México, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
@@ -2458,25 +2552,37 @@ VI. Denunciar o querellarse ante el Ministerio Público competente de los hechos
 
 VII. Participar en los Comités Técnicos creados con el propósito de afectar la economía de la delincuencia y en aquellos otros que sean de su competencia por disposición expresa o invitación;
 
-VIII. Realizar, en el ámbito de su competencia el seguimiento y control de los procesos originados por las denuncias y querellas formuladas por la Unidad de Inteligencia Financiera, así como de aquellas en que ésta tenga interés;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Realizar, en el ámbito de su competencia el seguimiento y control de los procesos originados por las denuncias y querellas formuladas por la Unidad de Inteligencia Financiera de la Ciudad de México, así como de aquellas en que ésta tenga interés;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
 IX. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y, en su caso, de las unidades administrativas que les estén adscritas, así como los que deriven de la Ley de Extinción de Dominio para el Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 X. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
 
-XI. Informar a la Procuraduría Fiscal del Distrito Federal, de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 XII. Proponer el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 XIII. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 XIV. Participar en foros y eventos relacionados;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XV. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia Extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables; mismas que a continuación se señalan:
+XV. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia Extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio de la Ciudad de México, de conformidad con los instrumentos y disposiciones jurídicas aplicables; mismas que a continuación se señalan:
 
 > <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -2494,9 +2600,9 @@ c) Comprobar el correcto cumplimiento de regulaciones y restricciones no arancel
 
 d) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Ordenar la práctica de todos los actos inherentes a las facultades de comprobación en materia de comercio exterior, conferidas a la Administración Pública del Distrito Federal, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
+XVI. Ordenar la práctica de todos los actos inherentes a las facultades de comprobación en materia de comercio exterior, conferidas a la Administración Pública de la Ciudad de México, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
 
 > <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -2522,37 +2628,41 @@ XXI. Ejecutar la facultad económico coactiva, mediante el procedimiento adminis
 
 XXII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar su sustitución, cancelarlas, devolverlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Administración Pública del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+XXIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Administración Pública de la Ciudad de México, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2009)</small>
 
 XXIV. Determinar y cobrar los ingresos federales coordinados, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia, así como ejercer las facultades de comprobación que las mismas establezcan, en materia de comercio exterior;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXV. Compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública del Distrito Federal, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial;
+XXV. Compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública de la Ciudad de México, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXVI. Coadyuvar bajo los acuerdos que se establezcan con el Ministerio Público competente para el acopio de información en materia de prevención y combate a los delitos de Operaciones con Recursos de Procedencia Ilícita y Financiamiento de Ataques a la Paz Pública dentro del territorio del Distrito Federal;
+XXVI. Coadyuvar bajo los acuerdos que se establezcan con el Ministerio Público competente para el acopio de información en materia de prevención y combate a los delitos de Operaciones con Recursos de Procedencia Ilícita y Financiamiento de Ataques a la Paz Pública dentro del territorio de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
 
 XXVII. Acceder a la información almacenada en las bases de datos que alberga el Sistema Nacional de Información sobre Seguridad Pública, en atención a lo establecido en el Convenio de Coordinación en el marco del Sistema Nacional de Seguridad Pública, en su cláusula vigésima primera fracción III;
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXVIII. Impulsar los mecanismos normativos para que la Unidad de Inteligencia Financiera del Distrito Federal acceda a los beneficios de los bienes asegurados, de los cuales se decrete su abandono o decomiso en coordinación con la Procuraduría General de Justicia del Distrito Federal;
+XXVIII. Impulsar los mecanismos normativos para que la Unidad de Inteligencia Financiera de la Ciudad de México acceda a los beneficios de los bienes asegurados, de los cuales se decrete su abandono o decomiso en coordinación con la Procuraduría General de Justicia de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIX. Las reuniones, actas, documentos e información que se generen en la Unidad de Inteligencia Financiera del Distrito Federal, serán de carácter restringido y confidencial; y
+XXIX. Las reuniones, actas, documentos e información que se generen en la Unidad de Inteligencia Financiera de la Ciudad de México, serán de carácter restringido y confidencial;
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXX. Todas aquellas que sean necesarias para el ejercicio de sus funciones y las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas.
+XXX. Cancelar los créditos fiscales determinados, derivados de ingresos federales coordinados en materia de comercio exterior, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXI. Todas aquellas que sean necesarias para el ejercicio de sus funciones y las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -4946,139 +5056,217 @@ DE LA SECRETARIA DE FINANZAS.
 
 Corresponde a la Dirección General de Política Presupuestal:
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública para la formulación del Programa Operativo de la Administración Pública del Distrito Federal, los programas operativos anuales, así como para la elaboración del Proyecto del Presupuesto de Egresos de la Administración Pública del Distrito Federal;
+I. Emitir las normas, lineamientos y términos que deberán observar las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades, para la formulación y envío de los Programas Operativos Anuales y Anteproyectos de Presupuesto de Egresos;
 
-II. Integrar el Programa Operativo de la Administración Pública del Distrito Federal y el anteproyecto del Presupuesto de Egresos de la Administración Pública del Distrito Federal y someterlos a la consideración del superior;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Vincular el Presupuesto de Egresos con los objetivos contenidos en el Programa General de Desarrollo del Gobierno del Distrito Federal y en el Programa Operativo de la Administración Pública del Distrito Federal;
+II. Integrar el Anteproyecto de Presupuesto de Egresos y Programa Operativo Anual, conforme a los lineamientos que para tal efecto se emitan de acuerdo a la fracción anterior, y someterlos a consideración del superior;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Emitir los lineamientos que deberán observar las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades, para efecto de la vinculación de sus presupuestos con los objetivos contenidos en el Programa General de Desarrollo de la Ciudad de México;
 
 IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Analizar y en su caso, autorizar y registrar las adecuaciones programático presupuestales líquidas solicitadas por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública en los sistemas de control presupuestario;
+V. Analizar y, en su caso, autorizar y registrar las afectaciones programático presupuestarias líquidas que las Unidades Responsables del Gasto soliciten a través del Sistema Informático de Planeación de Recursos Gubernamentales;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Someter a consideración del superior, las autorizaciones del programa de inversión de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública; así como las autorizaciones previas y aquellas que comprendan más de un ejercicio;
+VI. Analizar y, en su caso, integrar las fichas técnicas de los proyectos de inversión que remitan las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades a través del Sistema Informático de Planeación de Recursos Gubernamentales;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Integrar y someter a consideración del superior el calendario presupuestal de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades, considerando la capacidad financiera de la Hacienda Pública del Distrito Federal;
+VII. Integrar, dentro de los términos establecidos en el Reglamento de la Ley de Presupuesto y Gasto Eficiente, los calendarios presupuestales que, conforme a los montos del Presupuesto de Egresos aprobado por el Órgano Legislativo, elaboren y remitan las Unidades Responsables del Gasto, los cuales estarán en función de la capacidad financiera de la Ciudad de México;
 
-VIII. Autorizar, en su caso, las previsiones de gasto de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VIII. Analizar y en su caso, emitir las autorizaciones previas que, con base en los anteproyectos de presupuesto de egresos, soliciten las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades para contraer compromisos que permitan iniciar o continuar a partir del primero de enero del año siguiente, los proyectos, servicios y obras que por su importancia y características así lo requieran; los compromisos estarán condicionados a la aprobación del presupuesto de egresos correspondiente;
 
-IX. Integrar la información programático-presupuestal para su envío a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, a fin de que se realicen las conciliaciones respectivas, previo a la elaboración de los informes de gestión que les sean requeridos;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+IX. Recopilar la información derivada de los documentos de gestión presupuestal registrados en el Sistema Informático de Planeación de Recursos Gubernamentales, para su envío a las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades, a fin de que estas realicen las conciliaciones respectivas;
 
-X. Emitir opinión sobre el impacto presupuestal de los proyectos de iniciativas de leyes o Decretos que formulen las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades, cuando éstos incidan en materia de gasto;
+X. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-XI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+XI. Formular y someter a consideración del superior jerárquico los techos presupuestales que las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades deberán atender para la formulación de su correspondiente anteproyecto de presupuesto de egresos; así como remitirle los techos presupuestales conforme a los montos establecidos en el Decreto de Presupuesto de Egresos de la Ciudad de México, a fin de que sean comunicados a las Unidades Responsables del Gasto;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Formular y someter a consideración del superior jerárquico las actualizaciones al Manual de Reglas y Procedimientos para el Ejercicio Presupuestario de la Administración Pública, Clasificador por Objeto del Gasto, así como las disposiciones que deberán observar las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública para el cierre del ejercicio del presupuesto;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Analizar y, en su caso, someter a consideración del superior la propuesta de respuesta a las solicitudes presentadas por las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades para comprometer recursos presupuestales en proyectos cuya ejecución comprenda más de un ejercicio fiscal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Analizar y, de ser procedente, autorizar, en casos excepcionales y debidamente justificados, las solicitudes que presenten las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades, para convocar adquisiciones, arrendamientos y prestación de servicios u obra pública, sin contar con saldo disponible en su presupuesto, por lo que dichas Unidades Responsables del Gasto deberán de asegurar la suficiencia presupuestal previo al fallo o adjudicación que en su caso realicen;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Analizar y en su caso, incorporar al Sistema Informático de Planeación de Recursos Gubernamentales, las solicitudes de adición de claves presupuestales que presenten las Unidades Responsables del Gasto, así como actualizar en el mismo sistema los catálogos de los elementos que conforman la clave presupuestal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Emitir la validación presupuestal de los Programas Anuales de Adquisiciones, Arrendamientos y Prestaciones de Servicios que soliciten las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades, con base en el Presupuesto de Egresos de la Ciudad de México aprobado por el Órgano Legislativo;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Formular y someter a consideración del superior, las propuestas de publicaciones en la Gaceta Oficial de la Ciudad de México, respecto al calendario de entrega, porcentaje, fórmulas y variables utilizadas, de los Fondos de Aportaciones y de las Participaciones de Ingresos Federales, así como las publicaciones trimestrales y de ajuste anual establecidas en la Ley de Coordinación Fiscal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Llevar a cabo las acciones que permitan, de manera progresiva, el diseño, implementación y operación del Sistema de Evaluación del Desempeño a que se refiere la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, así como la evaluación de resultados del ejercicio de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Someter a consideración del superior las normas generales a que deban sujetarse la evaluación de resultados del ejercicio de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local, así como el Sistema de Evaluación del Desempeño; y someter a consideración del superior jerárquico el respectivo programa anual de evaluación;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Expedir las disposiciones, lineamientos o metodologías específicas para la formulación de Programas Presupuestarios, la evaluación de resultados del ejercicio de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local, y la operación del Sistema de Evaluación del Desempeño, así como los términos de referencia para las evaluaciones contenidas en el programa anual de evaluación;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Capacitar y otorgar el apoyo técnico a las Dependencias, Órganos Desconcentrados y Entidades para la formulación de sus programas presupuestarios, así como analizar y emitir los comentarios respecto de las propuestas de programas presupuestarios que aquellas le presenten;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades realicen a efecto de solventar las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio del gasto público, emitiendo los comentarios u observaciones que al respecto considere;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Llevar a cabo acciones de capacitación de los servidores públicos de las Dependencias, Órganos Desconcentrados y Entidades, en las materias de monitoreo, Sistema de Evaluación del Desempeño, y demás vinculadas a la evaluación de los resultados de los programas presupuestarios;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local; someter a consideración del superior jerárquico las correspondientes normas generales, y; expedir las respectivas disposiciones, lineamientos o metodologías específicas, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 69.
 
-Corresponde a la Dirección General de Contabilidad, Normatividad y Cuenta Pública:
+Corresponde a la Dirección General de Contabilidad y Cuenta Pública:
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. Normar e integrar la información programático-presupuestal remitida por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, para la elaboración del Informe de Avance Trimestral, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados y someterlo a la consideración del superior;
+I. Normar y establecer los lineamientos para la captación de información programático-presupuestal de las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública local, así como integrar la información para la elaboración de los informes de avance trimestral que la normatividad señale sobre la ejecución y resultados obtenidos de los presupuestos y programas aprobados, y someter dichos informes a la consideración del superior jerárquico;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+II. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-II. Actualizar y difundir el Manual de Normas y Procedimientos Presupuestarios para la Administración Pública del Distrito Federal, así como el Clasificador por Objeto del Gasto;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+III. Efectuar, conforme a la normatividad en la materia, los registros contables de la administración pública central adicionalmente a los que incorporen los centros de registro al sistema electrónico que administra la Secretaría de Finanzas, así como los necesarios para la consolidación de la información para la emisión y presentación de informes financieros del Poder Ejecutivo;
 
-III. Efectuar el registro contable de la Administración Pública Centralizada de conformidad con la Normatividad Contable de la Administración Pública del Distrito Federal e integrar el relativo a la Administración Pública Paraestatal del Distrito Federal;
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+III. Bis. Revisar que los asientos contables que incorporen los centros de registro al sistema electrónico que administra la Secretaría de Finanzas, se realicen conforme a la normatividad en la materia;
 
-IV. Emitir, actualizar, difundir y aplicar la Normatividad Contable de la Administración Pública del Distrito Federal;
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+III. Ter. Consolidar la información financiera de la Administración Pública Centralizada, así como la emitida por las Entidades Paraestatales y los Órganos Autónomos y de Gobierno, para la presentación de los informes de la Entidad Federativa que establezca la normatividad aplicable en la materia;
 
-V. Instrumentar la normatividad e integrar la evaluación del ejercicio del gasto de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+IV. Emitir, actualizar, difundir y aplicar la Normatividad Contable de la Administración Pública de la Ciudad de México, y adoptar la que se derive de la Ley General de Contabilidad Gubernamental y demás normatividad aplicable;
 
-VI. Normar e integrar la información programático (sic), presupuestal, contable y financiera de las Dependencias, Delegaciones, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para efectos de la Cuenta Pública del Distrito Federal y someterla a consideración del superior;
+V. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Normar y establecer los lineamientos que deberán observar las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública Local, para el envío de la información programática, presupuestal, contable y financiera, para la formulación del informe de la Cuenta Pública de la Ciudad de México y someterlo a la consideración del superior jerárquico;
 
 VII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 VIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Integrar los Estados Financieros y demás información financiera, presupuestal y contable que emane de los registros de los órganos a los que se refiere el artículo 448 del Código Financiero, para efectos de la Integración de la Cuenta Pública del Distrito Federal y someterla a consideración del superior;
+IX. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, respecto de la información programática, presupuestal, contable y financiera que deberán remitir para efectos de la integración, conforme lo establezca la normatividad aplicable, de la Cuenta Pública de la Ciudad de México, y someter ésta a consideración del superior jerárquico;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Integrar la información sobre el avance programático-presupuestal que remitan los órganos a los que se refiere el artículo 448 del Código Financiero, para efectos de la Integración del Informe de Avance Trimestral y someterla a consideración del superior, y
+X. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, respecto de la información programático-presupuestal y de otra índole que deberán remitir para efectos de la integración de los informes trimestrales de la Ciudad de México que establezca la normatividad aplicable, y someter dichos informes a consideración del superior jerárquico;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+XI. Fungir como enlace de la Secretaría de Finanzas para recibir las solicitudes de información que realicen los Órganos de Fiscalización Externos, por si o en coordinación con los entes competentes de la Ciudad de México, como parte de los ejercicios de revisión y fiscalización que lleven a cabo, así como para realizar la integración y entrega de la documentación que generen en el ámbito de su competencia las Unidades Administrativas de la Secretaría de Finanzas, otorgando el correspondiente seguimiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Asesorar y dar seguimiento en el proceso de armonización contable a los entes públicos de la Ciudad de México, y apoyar en la operación del Consejo de Armonización Contable Local;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Comunicar los procedimientos que deberán observar las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos, Entidades, Órganos de Gobierno y los Órganos Autónomos, para la presentación de los informes sobre el ejercicio y resultados de los recursos federales transferidos a la Ciudad de México a los que hace referencia el artículo 85 de la Ley federal de Presupuesto y Responsabilidad Hacendaria; asimismo, solicitar e integrar la información financiera establecida en el artículo 56 de la Ley General de Contabilidad Gubernamental que en el ámbito de su competencia generen las Unidades Responsables del Gasto que corresponda; otorgando seguimiento a las acciones que al respecto realicen tales Unidades Responsables del Gasto, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 70.
 
-Corresponde a la Dirección General de Egresos A, en el ámbito de Desarrollo Urbano, Medio Ambiente, Desarrollo Rural, Obras, Transportes, Desarrollo Social, Salud y Servicios:
+Corresponde a la Dirección General de Egresos A:
 
-I. Asesorar y apoyar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública en la formulación e instrumentación de sus programas y presupuestos;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+I. Asesorar y apoyar a las Unidades Responsables del Gasto que le sean asignadas en la formulación e instrumentación de sus programas y presupuestos;
 
-II. Recabar e Integrar el Programa Operativo de la Administración Pública del Distrito Federal;
+II. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Recabar e Integrar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública sus programas operativos anuales y anteproyectos de presupuestos de egresos, de acuerdo con la normatividad aplicable;
+III. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para generar informes que coadyuven en la toma de decisiones;
+IV. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
 
-V. Vincular el Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+V. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Programa General de Desarrollo de la Ciudad de México;
 
-VI. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VI. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
 
-VII. Integrar los proyectos de calendarios presupuestales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, con apego a las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VII. Verificar que los proyectos de calendarios presupuestales remitidos por las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, atiendan la normatividad aplicable, y, en su caso, emitir los comentarios y solicitar las adecuaciones correspondientes;
 
-VIII. Registrar el ejercicio presupuestal del Distrito Federal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados y autorizados por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VIII. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
 
-IX. Evaluar los resultados del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, en función de los programas, objetivos y actividades institucionales previstas en el presupuesto de egresos;
+IX. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, dentro de los plazos que establece la normatividad aplicable;
+X. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública de acuerdo a la normatividad aplicable e incorporarlo al registro presupuestal;
+XI. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, de acuerdo a la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Participar en los órganos colegiados, y órganos de gobierno de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y entidades de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos programático-presupuestales;
+XII. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Órganos Político Administrativos de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos, y
+XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XVIII], G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -5088,137 +5276,211 @@ XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
 XVI. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
-XVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+XVII. Emitir las opiniones que le sean solicitadas sobre el impacto presupuestal de proyectos de iniciativas de leyes, decretos, acuerdos u otros instrumentos, cuando éstos incidan en materia de gasto;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Coadyuvar en el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Emitir la opinión que soliciten las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 71.
 
-Corresponde a la Dirección General de Egresos B, en el ámbito de Administración y Gobierno:
+Corresponde a la Dirección General de Egresos B:
 
-I. Asesorar y apoyar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública en la formulación e instrumentación de sus programas y presupuestos;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+I. Asesorar y apoyar a las Unidades Responsables del Gasto que le sean asignadas en la formulación e instrumentación de sus programas y presupuestos;
 
-II. Recabar e Integrar el Programa Operativo de la Administración Pública del Distrito Federal;
+II. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Recabar e Integrar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública sus programas operativos anuales y anteproyectos de presupuestos de egresos, de acuerdo con la normatividad aplicable;
+III. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, para generar informes que coadyuven en la toma de decisiones;
+IV. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
 
-V. Vincular el Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+V. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Programa General de Desarrollo de la Ciudad de México;
 
-VI. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VI. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
 
-VII. Integrar los proyectos de calendarios presupuestales de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, con apego a las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VII. Verificar que los proyectos de calendarios presupuestales remitidos por las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, atiendan la normatividad aplicable, y, en su caso, emitir los comentarios y solicitar las adecuaciones correspondientes;
 
-VIII. Registrar el ejercicio presupuestal del Distrito Federal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados y autorizados por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VIII. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
 
-IX. Evaluar los resultados del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, en función de los objetivos y actividades institucionales previstas en el presupuesto de egresos;
+IX. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, dentro de los plazos que establece la normatividad aplicable;
+X. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública de acuerdo a la normatividad aplicable e incorporarlo al registro presupuestal;
+XI. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, de acuerdo a la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Participar en los órganos colegiados, y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Delegaciones de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos programático-presupuestales;
+XII. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Órganos Político Administrativos de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos, y
+XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+XIV. Emitir las opiniones que le sean solicitadas sobre el impacto presupuestal de proyectos de iniciativas de leyes, decretos, acuerdos u otros instrumentos, cuando estos incidan en materia de gasto;
 
-XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>N. DE E. LA PRESENTE FRACCIÓN NO FUE CONSIDERADA EN LA REFORMA PUBLICADA EN LA G.O. DE 28 DE FEBRERO DE 2007, MOTIVO POR EL CUAL SE DEJA EL TEXTO DE LA MISMA.</small>
+XV. Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
 
-XVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Coadyuvar en el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Emitir la opinión que soliciten las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia;
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 71 Bis.
+
+Corresponde a la Dirección General de Egresos C:
+
+I. Asesorar y apoyar a las Unidades Responsables del Gasto que le sean asignadas en la formulación e instrumentación de sus programas y presupuestos;
+
+II. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas;
+
+III. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
+
+IV. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Programa General de Desarrollo de la Ciudad de México;
+
+V. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
+
+VI. Verificar que los proyectos de calendarios presupuestales remitidos por las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, atiendan la normatividad aplicable, y, en su caso, emitir los comentarios y solicitar las adecuaciones correspondientes;
+
+VII. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
+
+VIII. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
+
+IX. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, de acuerdo a la normatividad aplicable;
+
+X. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Órganos Político Administrativos de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
+
+XI. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
+
+XII. Emitir las opiniones que le sean solicitadas sobre el impacto presupuestal de proyectos de iniciativas de leyes, decretos, acuerdos u otros instrumentos, cuando estos incidan en materia de gasto;
+
+XIII. Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
+
+XIV. Coadyuvar en el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+
+XV. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras;
+
+XVI. Emitir la opinión que soliciten las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas, y
+
+XVII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
 Corresponde a la Subtesorería de Política Fiscal:
 
-I. Coadyuvar en el diseño e instrumentación de la política fiscal de la Hacienda Pública del Distrito Federal mediante el diagnóstico sobre niveles de tributación y potencial recaudatorio, considerando las condiciones generales de la economía y particulares de los diversos grupos de contribuyentes;
+I. Coadyuvar en el diseño e instrumentación de la política fiscal de la Ciudad de México;
 
-II. Elaborar el presupuesto de ingresos del Distrito Federal que servirá de base para la formulación de la iniciativa de Ley de Ingresos del Distrito Federal;
+II. Elaborar el presupuesto de ingresos de la Ciudad de México que servirá de base para la formulación de la iniciativa de Ley de Ingresos de la Ciudad de México;
 
-III. Participar en la elaboración de la iniciativa de Ley de Ingresos del Distrito Federal;
+III. Participar en la elaboración de la iniciativa de Ley de Ingresos de la Ciudad de México;
 
-IV. Colaborar en la definición de la política de precios y tarifas de los bienes y servicios del Distrito Federal;
+IV. Colaborar en la definición de la política de precios y tarifas de los bienes y servicios de la Ciudad de México;
 
-V. Integrar la estadística de ingresos de la Hacienda Pública del Distrito Federal;
+V. Integrar la estadística de ingresos de la Hacienda Pública de la Ciudad de México;
 
-VI. Elaborar las proyecciones cuantitativas de los ingresos del Distrito Federal que permitan contribuir al cumplimiento de las metas institucionales, para el correcto financiamiento del gasto;
+VI. Elaborar las proyecciones cuantitativas de los ingresos en general de la Ciudad de México que permitan contribuir al cumplimiento de las metas institucionales, para el correcto financiamiento del gasto;
 
-VII. Analizar y evaluar sistemáticamente el comportamiento y evolución de los ingresos del Distrito Federal, en congruencia con los programas establecidos, a efecto de identificar y proponer lineamientos y directrices de financiamiento del gasto o medidas correctivas, en su caso;
+VII. Analizar y evaluar sistemáticamente el comportamiento y evolución de los ingresos en general de la Ciudad de México, en congruencia con los programas establecidos, a efecto de en su caso, identificar y proponer lineamientos, directrices y medidas correctivas, para el correcto cumplimiento de la Ley de Ingresos de la Ciudad de México;
 
-VIII. Dar seguimiento y orientar, conjuntamente con las áreas generadoras de ingresos, el cumplimiento de la Ley de Ingresos del Distrito Federal;
+VIII. Dar seguimiento y orientar, conjuntamente con las áreas generadoras de ingresos, el cumplimiento de la Ley de Ingresos de la Ciudad de México y de los instrumentos que de ésta emanen;
 
-IX. Proponer planes y programas que propicien y consoliden la cultura fiscal entre la población del Distrito Federal;
+IX. Analizar y proponer planes y programas que propicien y consoliden la cultura fiscal entre la población de la Ciudad de México;
 
-X. Analizar la información de los padrones y las bases de datos fiscales;
+X. Analizar la información de los padrones y las bases de datos fiscales de la Ciudad de México;
 
-XI. Integrar y analizar la información de ingresos para cumplimentar las obligaciones de informar a los órganos de control presupuestal;
+XI. Integrar y analizar la información de los ingresos en general de la Ciudad de México para cumplimentar las obligaciones de informar a los órganos de control presupuestal;
 
-XII. (DEROGADA, G.O. 21 DE MAYO DE 2002)
+XII. Realizar el análisis del panorama económico local, nacional e internacional, tanto de coyuntura como de mediano y largo plazos, para evaluar y prever sus posibles efectos en las finanzas públicas de la Ciudad de México;
 
-XIII. Analizar la política de ingresos, a efecto de identificar y proponer lineamientos y directrices de financiamiento del gasto;
+XIII. Analizar el comportamiento de la captación de ingresos federales que corresponden a la Ciudad de México en cumplimiento a la Ley de Ingresos de la Ciudad de México;
 
-XIV. Elaborar estudios que muestren el panorama económico nacional y del Distrito Federal, tanto de coyuntura como de mediano y largo plazos, para evaluar y prever los posibles efectos en las finanzas públicas;
+XIV. Colaborar en la evaluación, formulación, seguimiento y cumplimiento de los convenios de colaboración administrativa y acuerdos de coordinación fiscal con las Entidades Federativas y el Ejecutivo Federal, en el ámbito de competencia de la Tesorería de la Ciudad de México;
 
-XV. Analizar el entero de las participaciones en ingresos federales, evaluando la aplicación de las disposiciones legales respectivas;
+XV. Analizar, dar seguimiento y emitir opinión respecto a la procedencia de cobro y captación de ingresos de aplicación automática, así como elaborar el proyecto de las reglas de carácter general que rigen a tales recursos, y
 
-XVI. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
-
-XVII. (DEROGADA, G.O. 11 DE JULIO DE 2002)
-
-XVIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
-
-XIX. Elaborar los estudios relativos a las participaciones en ingresos federales que corresponden al Distrito Federal;
-
-XX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
-
-XXI. Verificar y dar seguimiento al entero que por concepto de fondos de aportaciones federales le corresponde al Distrito Federal, en apego a las disposiciones legales aplicables; y
-
-XXII. Realizar estudios económicos y de política fiscal que coadyuven al fortalecimiento, regulación y supervisión de los ingresos locales, considerando el entorno económico nacional e internacional, así como los estudios que sobre la materia realicen los distintos organismos internacionales.
+XVI. Realizar la estimación de impacto económico que podría representar la entrada en vigor de Leyes, Decretos, Reglamentos, Acuerdos y Resoluciones de carácter general, cuando éstas impliquen afectaciones a la Hacienda Pública Local, así como evaluar que sean coincidentes con la política fiscal y de ingresos de la Ciudad de México.
 
 ###### Artículo 73.
 
 Corresponde a la Subtesorería de Administración Tributaria:
 
-I. Administrar, recaudar, determinar y cobrar las contribuciones y aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos del Distrito Federal, en los términos de las disposiciones fiscales aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Administrar, recaudar, determinar y cobrar las contribuciones y aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos de la Ciudad de México, en los términos de las disposiciones fiscales aplicables;
 
 II. Notificar los actos administrativos relacionados con las obligaciones fiscales de los contribuyentes;
 
-III. Administrar las funciones operativas inherentes a la determinación, recaudación y cobro de los ingresos federales coordinados, con base en las leyes fiscales federales aplicables y en los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Administrar las funciones operativas inherentes a la determinación, recaudación y cobro de los ingresos federales coordinados, con base en las leyes fiscales federales aplicables y en los acuerdos y convenios del Ejecutivo Federal;
 
 IV. Registrar los ingresos que se generen en el ejercicio de sus funciones y elaborar los informes y estadísticas que se requieran;
 
-V. Imponer sanciones por infracciones a las disposiciones fiscales del Distrito Federal y a las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales, en virtud de las leyes aplicables y los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Imponer sanciones por infracciones a las disposiciones fiscales de la Ciudad de México y a las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales, en virtud de las leyes aplicables y los acuerdos y convenios del Ejecutivo Federal;
 
 VI. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
-VII. Recibir, tramitar y resolver las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos del Ejecutivo Federal o del Jefe de Gobierno;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Recibir, tramitar y resolver las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos y convenios del Ejecutivo Federal o del Jefe de Gobierno;
 
 VIII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
@@ -5226,7 +5488,9 @@ VIII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 IX. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente, con excepción de las que por atribuciones le correspondan a la Subtesorería de Fiscalización;
 
-X. Coordinar las acciones permanentes de actualización de los padrones de contribuyentes, relativos a ingresos del Distrito Federal o federales coordinados;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Coordinar las acciones permanentes de actualización de los padrones de contribuyentes, relativos a ingresos de la Ciudad de México o federales coordinados;
 
 XI. Establecer y expedir las bases normativas inherentes a sus funciones;
 
@@ -5236,13 +5500,15 @@ XIII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desar
 
 XIV. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
-XV. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
 
 XVI. Informar a la Subtesorería de Fiscalización de las omisiones o diferencias detectadas en el pago de créditos fiscales, que conozca con motivo del ejercicio de sus atribuciones;
 
 XVII. Vigilar la aplicación de las normas y procedimientos para la recepción y revisión de los avisos y declaraciones que presentan los contribuyentes, para el cumplimiento de sus obligaciones fiscales relativas a ingresos locales y federales coordinados;
 
-XVIII. Establecer metas de recaudación congruentes con la política tributaria del Distrito Federal efectuando el seguimiento de los programas respectivos; y
+XVIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 XIX. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
@@ -5254,7 +5520,9 @@ XX. Recibir, analizar y resolver las solicitudes de reconocimiento de enteros re
 
 Corresponde a la Dirección de Registro:
 
-I. Mantener actualizados los padrones de contribuyentes de conformidad con lo señalado en las leyes fiscales del Distrito Federal y los correspondientes a los ingresos federales coordinados a que se refieren los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Mantener actualizados los padrones de contribuyentes de conformidad con lo señalado en las leyes fiscales de la Ciudad de México y los correspondientes a los ingresos federales coordinados a que se refieren los acuerdos y convenios del Ejecutivo Federal;
 
 II. Establecer programas para la identificación e incorporación a los padrones de nuevos contribuyentes;
 
@@ -5264,35 +5532,49 @@ IV. Recibir, revisar y tramitar en las materias de su competencia, las manifesta
 
 V. Coadyuvar en la determinación y registro de los consumos de agua; e
 
-VI. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones y puedan constituir delitos fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones y puedan constituir delitos fiscales.
 
 ###### Artículo 75.
 
 Corresponde a la Dirección de Servicios al Contribuyente:
 
-I. Recibir, tramitar, resolver y, en su caso, autorizar el pago de las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que se señalen en las leyes fiscales aplicables y en los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Recibir, tramitar, resolver y, en su caso, autorizar el pago de las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que se señalen en las leyes fiscales aplicables y en los acuerdos y convenios del Ejecutivo Federal;
 
 II. Expedir a los contribuyentes copias certificadas, constancias e informes de adeudo a que se refieren las leyes fiscales aplicables;
 
 III. Recibir, revisar y tramitar en materia de su competencia, las manifestaciones, declaraciones, avisos, documentos e informes que presenten o deban presentar los sujetos obligados, para el cumplimiento de sus obligaciones fiscales;
 
-IV. Determinar contribuciones y sus accesorios, en los términos y modalidades que señalen las leyes aplicables y los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Determinar contribuciones y sus accesorios, en los términos y modalidades que señalen las leyes aplicables y los acuerdos y convenios del Ejecutivo Federal;
 
 V. Brindar orientación y asesoría a los contribuyentes;
 
 VI. Planear, normar, coordinar, dirigir y evaluar la operación y aplicación de las normas y procedimientos, en la materia de su competencia; e
 
-VII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones y puedan constituir delitos fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones y puedan constituir delitos fiscales.
 
 ###### Artículo 76.
 
 Corresponde a la Dirección de Ingresos:
 
-I. Recaudar las contribuciones y aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Recaudar los ingresos federales coordinados en los términos de los acuerdos del Ejecutivo Federal;
+I. Recaudar las contribuciones y aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos de la Ciudad de México;
 
-III. Registrar, clasificar, validar y consolidar las operaciones de ingresos previstos en las leyes fiscales del Distrito Federal y en los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+II. Recaudar los ingresos federales coordinados en los términos de los acuerdos y convenios del Ejecutivo Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Registrar, clasificar, validar y consolidar las operaciones de ingresos previstos en las leyes fiscales de la Ciudad de México y en los acuerdos y convenios del Ejecutivo Federal;
 
 IV. Elaborar las pólizas diarias y mensuales de los ingresos referidos en las fracciones I y II de este artículo;
 
@@ -5302,7 +5584,9 @@ VI. Integrar la información necesaria para la rendición de la cuenta comprobad
 
 VII. Coordinar y validar el registro de los pagos de las contribuciones, aprovechamientos y sus accesorios, así como el descargo de obligaciones fiscales; e
 
-VIII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
 ###### Artículo 77.
 
@@ -5330,13 +5614,17 @@ VIII. Coadyuvar en los estudios sobre viabilidad de las propuestas de reestructu
 
 IX. Proponer al titular de la Subtesorería de Administración Tributaria las reformas y adiciones a las Leyes y demás disposiciones fiscales que sean necesarias;
 
-X. Participar en la formulación de las Políticas de la Tesorería del Distrito Federal en materia tributaria y proponer medidas necesarias para incrementar la recaudación de los ingresos locales y federales coordinados;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Participar en la formulación de las políticas de la Tesorería de la Ciudad de México en materia tributaria y proponer medidas necesarias para incrementar la recaudación de los ingresos locales y federales coordinados;
 
 XI. Coordinar las respuestas y el cumplimiento de las áreas operativas de la Subtesorería de Administración Tributaria, a las operaciones y recomendaciones de los órganos de control;
 
 XII. Verificar la aplicación de los manuales administrativos; e
 
-XIII. Informar a la Procuraduría Fiscal del Distrito Federal, los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Informar a la Procuraduría Fiscal de la Ciudad de México, los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -5344,19 +5632,29 @@ XIII. Informar a la Procuraduría Fiscal del Distrito Federal, los hechos que co
 
 Corresponde a la Dirección de Modernización Tributaria:
 
-I. Planear y dirigir la operación de los Centros de Servicios de Tesorería;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Evaluar los informes electrónicos o documentales de trámites realizados en los centros de servicio de Tesorería, a fin de llevar un control sobre la operación de los mismos;
+I. Planear y dirigir la operación de los Centros de Servicios de Tesorería, kioscos de la Tesorería y Tesorerías Express;
 
-III. Establecer los mecanismos de supervisión en los Centros de Servicios de Tesorería a efecto de asegurar la calidad del servicio al contribuyente;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Implementar sistemas de mejora continua en la prestación de los trámites efectuados en los Centros de Servicios de Tesorería;
+II. Evaluar los informes electrónicos o documentales de trámites realizados en los centros de servicio de Tesorería, kioscos de la Tesorería y Tesorerías Express, a fin de llevar un control sobre la operación de los mismos;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Establecer los mecanismos de supervisión en los Centros de Servicios de Tesorería, kioscos de la Tesorería y Tesorerías Express a efecto de asegurar la calidad del servicio al contribuyente;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Implementar sistemas de mejora continua en la prestación de los trámites efectuados en los Centros de Servicios de Tesorería, kioscos de la Tesorería y Tesorerías Express;
 
 V. Planear y desarrollar proyectos relacionados con la optimización y eficiencia tributaria.
 
 Coordinar estudios sobre los procesos recaudatorios;
 
-VI. Informar a la Procuraduría Fiscal del Distrito Federal o a cualquier otra que resulte competente de conformidad con los convenios que se suscriban en materia fiscal federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Informar a la Procuraduría Fiscal de la Ciudad de México o a cualquier otra que resulte competente de conformidad con los convenios que se suscriban en materia fiscal federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
 
 VII. Establecer mecanismos de atención a las quejas y sugerencia (sic) presentadas por los contribuyentes, y darles seguimiento hasta su resolución;
 
@@ -5378,23 +5676,31 @@ IV. Proponer, asesorar y apoyar nuevos anteproyectos de programas de trabajo apl
 
 V. Asistir y asesorar al contribuyente en el ámbito de su competencia; e
 
-VI. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
 ###### Artículo 80.
 
 Corresponde a las Administraciones Tributarias:
 
-I. Administrar, recaudar, determinar y cobrar las contribuciones y aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos del Distrito Federal, en los términos de las disposiciones fiscales del Distrito Federal, así como las contribuciones federales a que se refieren los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Administrar, recaudar, determinar y cobrar las contribuciones y aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos de la Ciudad de México, en los términos de las disposiciones fiscales de la Ciudad de México, así como las contribuciones federales a que se refieren los acuerdos y convenios del Ejecutivo Federal;
 
 II. Notificar los actos administrativos relacionados con las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
 
 III. Realizar las funciones operativas inherentes al registro, clasificación, validación y consolidación de las operaciones de ingresos, que se generen en el ejercicio de sus atribuciones;
 
-IV. Imponer sanciones por infracciones a las disposiciones fiscales del Distrito Federal y a las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales, en virtud de las leyes aplicables y los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Imponer sanciones por infracciones a las disposiciones fiscales de la Ciudad de México y a las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales, en virtud de las leyes aplicables y los acuerdos y convenios del Ejecutivo Federal;
 
 V. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
-VI. Recibir, tramitar, resolver y, en su caso, autorizar el pago de las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Recibir, tramitar, resolver y, en su caso, autorizar el pago de las solicitudes de devolución o compensación de créditos fiscales a favor de los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables, así como los acuerdos y convenios del Ejecutivo Federal;
 
 VII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
@@ -5404,7 +5710,9 @@ VIII. Recibir, revisar y tramitar las manifestaciones, declaraciones, avisos, do
 
 IX. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente, con excepción de las que por atribuciones le correspondan a la Subtesorería de Fiscalización;
 
-X. Mantener actualizados los padrones de contribuyentes, de las contribuciones señaladas en la Ley de Ingresos del Distrito Federal y los correspondientes a los ingresos federales coordinados a que se refieren los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Mantener actualizados los padrones de contribuyentes, de las contribuciones señaladas en la Ley de Ingresos de la Ciudad de México y los correspondientes a los ingresos federales coordinados a que se refieren los acuerdos y convenios del Ejecutivo Federal;
 
 XI. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
@@ -5418,7 +5726,9 @@ XV. Elaborar pólizas diarias y mensuales de los ingresos que se obtengan en el 
 
 XVI. Brindar orientación y asesoría al contribuyente;
 
-XVII. Informar a la Procuraduría Fiscal del Distrito Federal, de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
 
 XVIII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
@@ -5426,9 +5736,13 @@ XVIII. (DEROGADA, G.O. 29 DE FEBRERO DE 2008)
 
 Corresponde a la Subtesorería de Fiscalización:
 
-I. Comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones previstas en las leyes fiscales del Distrito Federal y de las coordinadas cuya aplicación compete a las autoridades hacendarías locales, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos por el Ejecutivo Federal, así como administrar y recaudar las contribuciones, aprovechamientos, productos accesorios y su actualización, señalados en las disposiciones antes mencionadas;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Elaborar programas de fiscalización en materia de las contribuciones previstas en la Ley de Ingresos del Distrito Federal y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal y, con base en dichos programas, ordenar y supervisar la práctica de visitas domiciliarias y avalúos, la revisión de dictámenes y declaraciones y las visitas de inspección y verificación, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia fiscal;
+I. Comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones previstas en las leyes fiscales de la Ciudad de México y de las coordinadas cuya aplicación compete a las autoridades hacendarías locales, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos por el Ejecutivo Federal, así como administrar y recaudar las contribuciones, aprovechamientos, productos, accesorios y su actualización, señalados en las disposiciones antes mencionadas;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+II. Elaborar programas de fiscalización en materia de las contribuciones previstas en la Ley de Ingresos de la Ciudad de México y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal y, con base en dichos programas, ordenar y supervisar la práctica de visitas domiciliarias y avalúos, la revisión de dictámenes y declaraciones y las visitas de inspección y verificación, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia fiscal;
 
 III. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos, y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
 
@@ -5436,9 +5750,9 @@ IV. Establecer los sistemas y procedimientos a que debe sujetarse la práctica d
 
 V. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que entrañen o que puedan entrañar el incumplimiento de las disposiciones fiscales que se conozcan, con motivo del ejercicio de las atribuciones de comprobación;
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Determinar en cantidad líquida las contribuciones, aprovechamientos y productos omitidos y sus accesorios que se conozcan, con motivo del ejercicio de sus atribuciones, en los términos de las leyes fiscales del Distrito Federal o de las federales cuya aplicación competa a las autoridades hacendarias locales, de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+VI. Determinar en cantidad líquida las contribuciones, aprovechamientos y productos omitidos y sus accesorios que se conozcan, con motivo del ejercicio de sus atribuciones, en los términos de las leyes fiscales de la Ciudad de México o de las federales cuya aplicación competa a las autoridades hacendarias locales, de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
 > <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5448,9 +5762,9 @@ VII. Imponer sanciones por infracciones a las disposiciones fiscales que se cono
 
 VIII. Notificar a los contribuyentes, responsables solidarios y demás obligados, los actos administrativos relacionados con el ejercicio de las atribuciones establecidas en este Artículo;
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazo de los créditos fiscales del Distrito Federal o Federales Coordinados, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+IX. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazo de los créditos fiscales de la Ciudad de México o Federales Coordinados, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren.
 
 X. Recibir y resolver las solicitudes de compensación que formulen los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables y los acuerdos del Ejecutivo Federal;
 
@@ -5458,13 +5772,13 @@ X. Recibir y resolver las solicitudes de compensación que formulen los contribu
 
 XI. Ejercer la facultad económica coactiva mediante el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales locales y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
-> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales;
+XII. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales de la Ciudad de México y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarías locales.
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de cumplimiento de obligaciones y de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+XIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales de la Ciudad de México, en materia del ejercicio de las atribuciones de cumplimiento de obligaciones y de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
 XIV. Aceptar previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente y resolver sobre su dispensa en los términos de las disposiciones fiscales;
 
@@ -5474,9 +5788,9 @@ XV. Establecer los sistemas y procedimientos de control administrativo que coady
 
 XVI. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales;
+XVII. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales;
 
 > <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5490,13 +5804,33 @@ XIX. Vigilar la consolidación en la información que le suministren las unidade
 
 XX. Planear y dirigir la operación y aplicación de las normas y procedimientos sobre notificación y cobranza, así como respecto a la interpretación y aplicación de las disposiciones legales, en la materia de su competencia;
 
-> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXI. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables, y
+XXI. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales de la Ciudad de México, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, G.O. 2 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Proporcionar a las Sociedades de Información Crediticia, debidamente autorizadas por la Secretaría de Hacienda y Crédito Público, información relativa a los créditos fiscales exigibles de los contribuyentes, derivados de contribuciones locales, así como de los Convenios de Colaboración Administrativa en materia Fiscal Federal, celebrados entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal, dentro del ámbito de su competencia.
+XXII. Proporcionar a las Sociedades de Información Crediticia, debidamente autorizadas por la Secretaría de Hacienda y Crédito Público, información relativa a los créditos fiscales exigibles de los contribuyentes, derivados de contribuciones locales, así como de los Convenios de Colaboración Administrativa en materia Fiscal Federal, celebrados entre la Secretaría de Hacienda y Crédito Público y el Gobierno de la Ciudad de México, dentro del ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV. Llevar a cabo todos los actos y procedimientos previstos en el Código Fiscal de la Federación relacionados con la emisión de comprobantes que amparen operaciones inexistentes respecto de los asuntos a que se refiere el citado Código;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Dejar sin efectos los certificados de sello digital, con sujeción a lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVI. Suscribir los acuerdos conclusivos y los de mediación en términos de lo dispuesto por el Código Fiscal de la Federación y de las leyes fiscales aplicables a la Ciudad de México, respectivamente, en relación con actos o resoluciones, emitidos en ejercicio de las facultades que le confiere, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5512,11 +5846,13 @@ III. Coordinar y evaluar la operación y aplicación de las normas y procedimien
 
 IV. Establecer directrices en relación con la autorización de las solicitudes de contribuyentes en materia de pago a plazos de los créditos fiscales;
 
-> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Efectuar en el ámbito de su competencia el seguimiento y vigilancia en la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+V. Efectuar en el ámbito de su competencia el seguimiento y vigilancia en la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales de la Ciudad de México y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales, en los términos de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
-VI. Verificar la practica y ejecución de todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Verificar la práctica y ejecución de todos los actos inherentes a las atribuciones de las autoridades fiscales de la Ciudad de México, en materia del ejercicio de las atribuciones, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
 VII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
 
@@ -5524,35 +5860,55 @@ VIII. Coordinar el enlace con la Secretaría de Hacienda y Crédito Público der
 
 IX. Difundir las reformas fiscales y prestar asesoría al personal de las diferentes áreas de la Subtesorería de Fiscalización, respecto a la interpretación y aplicación de las disposiciones legales;
 
-X. Vigilar la determinación en cantidad líquida de las contribuciones, aprovechamientos y productos omitidos y sus accesorios, señalados en la Ley de Ingresos del Distrito Federal, de los contribuyentes, responsables solidarios y demás obligados, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Vigilar la determinación en cantidad líquida de las contribuciones, aprovechamientos y productos omitidos y sus accesorios, señalados en la Ley de Ingresos de la Ciudad de México, de los contribuyentes, responsables solidarios y demás obligados, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
 XI. Supervisar la notificación de los actos administrativos, en los términos de las disposiciones fiscales aplicables y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
-XII. Vigilar la imposición de sanciones por infracciones a las leyes fiscales del Distrito Federal y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarias locales, con base en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren, así como aquellas que se conozcan con motivo del ejercicio de las facultades a que se refiere este artículo con sujeción a las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Vigilar la imposición de sanciones por infracciones a las leyes fiscales de la Ciudad de México y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarias locales, con base en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren, así como aquellas que se conozcan con motivo del ejercicio de las facultades a que se refiere este artículo con sujeción a las disposiciones aplicables;
 
 XIII. Coordinar la aceptación, previa calificación, de las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales citados en este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
 
-XIV. Coordinar el procedimiento para hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Coordinar el procedimiento para hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales de la Ciudad de México, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
 
 XV. Vigilar la integración de información que le suministren las áreas competentes, relativa a los créditos fiscales firmes de los contribuyentes, en los términos y alcances que señalen las disposiciones fiscales aplicables;
 
-XVI. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIX (SIC). Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
+XVI. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales de la Ciudad de México, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables.
 
 ###### Artículo 82.
 
 Corresponde a la Dirección de Programación y Control de Auditorías:
 
-I. Proponer para aprobación superior los programas de fiscalización en materia de las contribuciones previstas en la Ley de Ingresos del Distrito Federal y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Proponer para aprobación superior los programas de fiscalización en materia de las contribuciones previstas en la Ley de Ingresos de la Ciudad de México y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
 II. Desarrollar actos de fiscalización para mantener actualizado el padrón de contribuyentes, en términos de los programas que para tal efecto se acuerden en materia de contribuciones federales coordinadas;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+III. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales de la Ciudad de México, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
 > <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5570,53 +5926,109 @@ VI. Informar los avances en los programas de visitas domiciliarias, verificació
 
 Corresponde a la Dirección de Auditorías Directas:
 
-I. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales del Distrito Federal y de las contribuciones federales coordinadas, en términos de los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales de la Ciudad de México y de las contribuciones federales coordinadas, en términos de los acuerdos del Ejecutivo Federal;
 
 II. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos, y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
 
-III. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos y omisiones que conozca con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales a su cargo, en materia de las contribuciones previstas en la Ley de Ingresos del Distrito Federal y federales coordinados, en los términos de los acuerdos del Ejecutivo Federal, así como emitir los citatorios que sean procedentes, dentro de los procedimientos de comprobación correspondientes;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Determinar, liquidar y notificar en cantidad líquida las contribuciones, aprovechamientos, productos omitidos, sus accesorios y, en su caso, su actualización, que se conozcan con motivo del ejercicio de sus atribuciones de comprobación del cumplimiento de obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
+III. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos y omisiones que conozca con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales a su cargo, en materia de las contribuciones previstas en la Ley de Ingresos de la Ciudad de México y federales coordinados, en los términos de los acuerdos del Ejecutivo Federal, así como emitir los citatorios que sean procedentes, dentro de los procedimientos de comprobación correspondientes;
 
-V. Ordenar la práctica de los embargos precautorios que se deriven del ejercicio de sus atribuciones, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal cuya aplicación esté encomendada a la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+IV. Determinar, liquidar y notificar en cantidad líquida las contribuciones, aprovechamientos, productos omitidos, sus accesorios y, en su caso, su actualización, que se conozcan con motivo del ejercicio de sus atribuciones de comprobación del cumplimiento de obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados, en los términos de las leyes fiscales aplicables a la Ciudad de México o de las federales de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
 
-VI. Imponer sanciones por infracción a las disposiciones fiscales aplicables en materia de las contribuciones a que se refiere la fracción I de este artículo;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+V. Ordenar la práctica de los embargos precautorios que se deriven del ejercicio de sus atribuciones, en los términos de las disposiciones fiscales de la Ciudad de México y las de carácter federal cuya aplicación esté encomendada a la Administración Pública;
 
-VII. Expedir copias certificadas de la documentación que obre en sus archivos; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+VI. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de sus atribuciones y con sujeción a las disposiciones aplicables a la Ciudad de México y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
 
-VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Expedir copias certificadas de la documentación que obre en sus archivos;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales de la Ciudad de México, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Llevar a cabo todos los actos y procedimientos previstos en el Código Fiscal de la Federación relacionados con la emisión de comprobantes que amparen operaciones inexistentes respecto de los asuntos a que se refiere el citado Código;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Dejar sin efectos los certificados de sello digital, con sujeción a lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Suscribir los acuerdos conclusivos y los de mediación en términos de lo dispuesto por el Código Fiscal de la Federación y de las leyes fiscales aplicables a la Ciudad de México, respectivamente, en relación con actos o resoluciones, emitidos en ejercicio de las facultades que le confiere, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
 ###### Artículo 84.
 
 Corresponde a la Dirección de Revisiones Fiscales:
 
-I. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales del Distrito Federal y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales de la Ciudad de México y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal;
 
 II. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
 
-III. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que conozca con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales a su cargo, en materia de las contribuciones previstas en la Ley de Ingresos del Distrito Federal y federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal, así como emitir los citatorios que sean procedentes, dentro de los procedimientos de comprobación correspondientes;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Determinar, liquidar y notificar en cantidad líquida las contribuciones, aprovechamientos, productos omitidos, sus accesorios y, en su caso, su actualización, que se conozcan con motivo del ejercicio de sus atribuciones de comprobación del cumplimiento de obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
+III. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que conozca con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales a su cargo, en materia de las contribuciones previstas en la Ley de Ingresos de la Ciudad de México y federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal, así como emitir los citatorios que sean procedentes, dentro de los procedimientos de comprobación correspondientes;
 
-V. Ordenar la práctica de los embargos precautorios que se deriven del ejercicio de sus atribuciones, en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal cuya aplicación esté encomendada a la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+IV. Determinar, liquidar y notificar en cantidad líquida las contribuciones, aprovechamientos, productos omitidos, sus accesorios y, en su caso, su actualización, que se conozcan con motivo del ejercicio de sus atribuciones de comprobación del cumplimiento de obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados, en los términos de las leyes fiscales aplicables a la Ciudad de México o de las federales de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
 
-VI. Imponer sanciones por infracciones a las disposiciones fiscales aplicables en materia de las contribuciones a que se refiere la fracción I de este artículo;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+V. Ordenar la práctica de los embargos precautorios que se deriven del ejercicio de sus atribuciones, en los términos de las disposiciones fiscales de la Ciudad de México y las de carácter federal cuya aplicación esté encomendada a la Administración Pública;
 
-VII. Expedir copias certificadas de la documentación que abre en sus archivos; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+VI. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de sus atribuciones y con sujeción a las disposiciones aplicables a la Ciudad de México y de los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
 
-VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Expedir copias certificadas de la documentación que obre en sus archivos;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales de la Ciudad de México, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Llevar a cabo todos los actos y procedimientos previstos en el Código Fiscal de la Federación relacionados con la emisión de comprobantes que amparen operaciones inexistentes respecto de los asuntos a que se refiere el citado Código;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Dejar sin efectos los certificados de sello digital, con sujeción a lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Suscribir los acuerdos conclusivos y los de mediación en términos de lo dispuesto por el Código Fiscal de la Federación y de las leyes fiscales aplicables a la Ciudad de México, respectivamente, en relación con actos o resoluciones, emitidos en ejercicio de las facultades que le confiere, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5628,9 +6040,13 @@ I. Programar y controlar la vigilancia del cumplimiento de obligaciones fiscales
 
 II. Notificar los actos administrativos relacionados con las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
 
-III. Determinar, notificar y cobrar las contribuciones, aprovechamientos y productos, actualización y sus respectivos accesorios, señalados en la Ley de Ingresos del Distrito Federal, en los términos de las disposiciones fiscales aplicables y en los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Imponer sanciones por infracciones a las leyes fiscales del Distrito Federal y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarias locales, con base en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
+III. Determinar, notificar y cobrar las contribuciones, aprovechamientos y productos, actualización y sus respectivos accesorios, señalados en la Ley de Ingresos de la Ciudad de México, en los términos de las disposiciones fiscales aplicables y en los acuerdos del Ejecutivo Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Imponer sanciones por infracciones a las leyes fiscales de la Ciudad de México y a las de carácter federal cuya aplicación esté encomendada a las autoridades hacendarias locales, con base en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y demás que al efecto se celebren;
 
 V. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales citados en este Artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
 
@@ -5644,11 +6060,25 @@ IX. Difundir las reformas fiscales y prestar asesoría al personal de las difere
 
 X. Proporcionar información que le suministren las áreas competentes, relativa a los créditos fiscales firmes de los contribuyentes, en los términos y alcances que señalen las disposiciones fiscales aplicables;
 
-XI. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+XI. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales de la Ciudad de México y las de carácter federal aplicables;
 
-XIII. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en términos de lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales de la Ciudad de México, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5660,23 +6090,35 @@ I. Hacer efectivos a través del Procedimiento Administrativo de Ejecución, los
 
 II. Hacer efectivos a través del Procedimiento Administrativo de Ejecución, los requerimientos de saldo insoluto;
 
-III. Hacer efectivas a través del Procedimiento Administrativo de Ejecución las sanciones pecuniarias impuestas por las autoridades administrativas, fiscales y judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Hacer efectivas a través del Procedimiento Administrativo de Ejecución las sanciones pecuniarias impuestas por las autoridades administrativas, fiscales y judiciales de la Ciudad de México, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
 
 IV. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal cuando soliciten la suspensión del procedimiento administrativo de ejecución, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
 
-> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales del Distrito Federal, y las de carácter federal aplicables;
+V. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales de la Ciudad de México, y las de carácter federal aplicables;
 
 VI. Coordinar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
 
 VII. Notificar a los contribuyentes, responsables solidarios y demás obligados los actos administrativos emitidos dentro del procedimiento administrativo de ejecución;
 
-VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de ejecución y cobro coactivo, inclusive ordenar la suspensión y restricción del suministro de agua, en coordinación con las autoridades competentes, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Informar a la Procuraduría Fiscal del Distrito Federal, de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+VIII. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales de la Ciudad de México, en materia del ejercicio de las atribuciones de ejecución y cobro coactivo, inclusive ordenar la suspensión y restricción del suministro de agua, en coordinación con las autoridades competentes, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales;
 
-X. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Expedir copias certificadas de la documentación que obre en los expedientes de los asuntos de su competencia, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
 ###### Artículo 85.
 
@@ -5686,31 +6128,47 @@ X. Expedir copias certificadas de la documentación que obre en los expedientes 
 
 Corresponde a la Subtesorería de Catastro y Padrón Territorial:
 
-I. Realizar los estudios del mercado inmobiliario, de la dinámica y las características físicas y socioeconómicas del territorio del Distrito Federal para efectos de identificar, determinar y actualizar los valores catastrales de suelo y construcción;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Realizar los estudios del mercado inmobiliario, de la dinámica y las características físicas y socioeconómicas del territorio de la Ciudad de México para efectos de identificar, determinar y actualizar los valores catastrales de suelo y construcción;
 
 II. Definir y establecer la política tributaria para determinar tarifas y tasas impositivas en materia de los gravámenes ligados a la propiedad raíz;
 
 III. Definir y establecer los criterios e instrumentos que permitan el registro y el empadronamiento de inmuebles, así como la actualización de sus características físicas y de valor;
 
-IV. Establecer y mantener actualizado el padrón cartográfico catastral del Distrito Federal, así como el identificador único que relaciona todos los conceptos ligados a la propiedad raíz;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Actualizar y operar el Sistema Cartográfico Catastral del Distrito Federal;
+IV. Establecer y mantener actualizado el padrón cartográfico catastral de la Ciudad de México, así como el identificador único que relaciona todos los conceptos ligados a la propiedad raíz;
 
-VI. Captar, procesar y proporcionar información urbana, inmobiliaria y administrativa, para mantener actualizado el padrón catastral del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Actualizar y operar el Sistema Cartográfico Catastral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Captar, procesar y proporcionar información urbana, inmobiliaria y administrativa, para mantener actualizado el padrón catastral de la Ciudad de México;
 
 VII. Proporcionar servicios de información cartográfico y catastral a usuarios de las Dependencias, Unidades Administrativas y Órganos Desconcentrados de la Administración Pública y al público en general, para fines administrativos y fiscales;
 
-VIII. Participar en los convenios de colaboración técnica en materia de información geográfica, catastral, inmobiliaria y administrativa, con Dependencias y Entidades de la Administración Pública Federal, estatal y municipal, para fortalecer el Sistema Cartográfico Catastral del Distrito Federal y utilizarlo integralmente;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Formular y someter a la consideración superior los manuales de valuación, procedimientos y lineamientos técnicos a los que se sujetará la actividad valuatoria para efectos fiscales en el Distrito Federal;
+VIII. Participar en los convenios de colaboración técnica en materia de información geográfica, catastral, inmobiliaria y administrativa, con Dependencias y Entidades de la Administración Pública Federal, estatal y municipal, para fortalecer el Sistema Cartográfico Catastral de la Ciudad de México y utilizarlo integralmente;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Autorizar, registrar y llevar un padrón actualizado de las instituciones de crédito, sociedades civiles y mercantiles, los avalúos practicados por la Dirección General de Patrimonio Inmobiliario y los corredores públicos, cuyo objeto exclusivo específicos sea la realización de avalúos de inmuebles y de peritos valuadores que las auxilien en la práctica valuatoria, para efectos fiscales, en términos de lo que establece el Código Financiero del Distrito Federal;
+IX. Formular y someter a la consideración superior los manuales de valuación, procedimientos y lineamientos técnicos a los que se sujetará la actividad valuatoria para efectos fiscales en la Ciudad de México;
 
-XI. Requerir y sancionar a las personas autorizadas para la práctica valuatoria, cuando no se ajusten a los lineamientos y procedimientos técnicos que emita la autoridad fiscal, en términos de lo establecido en el Código Financiero del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Establecer los sistemas y normas para la revisión y control de las declaraciones, manifestaciones y avisos que presenten los contribuyentes en relación con las contribuciones que graven la propiedad, posesión o transmisión de inmuebles ubicados en el Distrito Federal, en términos de las disposiciones fiscales aplicables;
+X. Autorizar, registrar y llevar un padrón actualizado de las instituciones de crédito, sociedades civiles y mercantiles, los avalúos practicados por la Dirección General de Patrimonio Inmobiliario y los corredores públicos, cuyo objeto exclusivo específicos sea la realización de avalúos de inmuebles y de peritos valuadores que las auxilien en la práctica valuatoria, para efectos fiscales, en términos de lo que establece el Código Fiscal de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Requerir y sancionar a las personas autorizadas para la práctica valuatoria, cuando no se ajusten a los lineamientos y procedimientos técnicos que emita la autoridad fiscal, en términos de lo establecido en el Código Fiscal de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Establecer los sistemas y normas para la revisión y control de las declaraciones, manifestaciones y avisos que presenten los contribuyentes en relación con las contribuciones que graven la propiedad, posesión o transmisión de inmuebles ubicados en la Ciudad de México, en términos de las disposiciones fiscales aplicables;
 
 XIII. Ordenar la práctica de avalúos sobre bienes inmuebles para los casos no cubiertos por los métodos generales de valuación o que, a juicio de la autoridad fiscal, resulten necesarios para los efectos de la determinación de la base gravable del Impuesto Predial y del Impuesto sobre Adquisición de Inmuebles;
 
@@ -5718,13 +6176,19 @@ XIV. Determinar la base gravable de las contribuciones que tengan por objeto la 
 
 XV. Informar a la Subtesorería de Fiscalización y, en su caso, a la de Administración Tributaria, de la omisión o diferencias detectadas en el pago de créditos fiscales, como resultado de la revisión de las declaraciones del Impuesto Predial y del Impuesto Sobre Adquisición de Inmuebles y de los procesos de actualización catastral;
 
-XVI. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Informar a la Procuraduría Fiscal de la Ciudad de México de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
 
 XVII. Establecer y validar la aplicación de los criterios y procedimientos para la emisión periódica de las Propuestas de Declaración de Valor Catastral y Pago del Impuesto Predial;
 
-XVIII. Ordenar y practicar la verificación física de los inmuebles, a efecto de identificar sus características catastrales, para mantener actualizado el padrón cartográfico catastral del Distrito Federal; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIX. Realizar estudios técnicos a efecto de identificar y determinar las zonas de beneficio por obras públicas proporcionadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y determinar el monto de las contribuciones de mejoras, atendiendo a la ubicación de los inmuebles en dichas zonas, en términos de lo establecido en el Código Financiero del Distrito Federal.
+XVIII. Ordenar y practicar la verificación física de los inmuebles, a efecto de identificar sus características catastrales, para mantener actualizado el padrón cartográfico catastral de la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Realizar estudios técnicos a efecto de identificar y determinar las zonas de beneficio por obras públicas proporcionadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y determinar el monto de las contribuciones de mejoras, atendiendo a la ubicación de los inmuebles en dichas zonas, en términos de lo establecido en el Código Fiscal de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -5734,23 +6198,37 @@ Corresponde a la Dirección General de Informática:
 
 I. Elaborar programas y proyectos que permitan el desarrollo de Tecnologías y Sistemas de Información en la Secretaría de Finanzas;
 
-II. Establecer la normatividad que regule la función informática en la Secretaría de Finanzas, así como la referente al acceso a los servicios informáticos, a las políticas de respaldo y recuperación de la información, a la protección de los equipos de cómputo centrales, locales y a los sistemas de información e infraestructura informática;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Participar en la definición de criterios y estrategias de desarrollo de los sistemas de intercomunicación entre los diferentes puntos de intercambio de información de la Secretaría y los de la Administración Pública del Distrito Federal y Gobierno Federal;
+II. Establecer la normatividad que regule la función informática en la Secretaría de Finanzas, así como la referente al acceso a los servicios informáticos, a las políticas de respaldo y recuperación de la información, a la protección de los equipos de cómputo centrales, locales y a los sistemas de información e infraestructura informática y de comunicaciones;
 
-IV. Diseñar, establecer e implementar los criterios informáticos de los sistemas de información solicitados por las áreas de la Secretaría de Finanzas, así como efectuar el mantenimiento de los mismos conforme a los programas autorizados y en atención a los requerimientos de los usuarios;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Establecer las metodologías para el control de proyectos, la supervisión del avance de los mismos, así como la normatividad que regule el desarrollo e implantación de sistemas y tecnologías de información en la Secretaría de Finanzas;
+III. Participar en la definición de criterios y estrategias de desarrollo de los sistemas de intercomunicación entre los diferentes puntos de intercambio de información de la Secretaría y los de la Administración Pública de la Ciudad de México y Gobierno Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Diseñar, establecer e implementar los criterios informáticos de los sistemas de información solicitados por las áreas de la Secretaría de Finanzas, así como efectuar el mantenimiento y administración de los mismos conforme a los programas autorizados y en atención a los requerimientos de los usuarios;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Establecer las metodologías para el control de proyectos, la supervisión del avance de los mismos, así como la normatividad que regule el desarrollo e implantación de sistemas y tecnologías de la información y comunicaciones en la Secretaría de Finanzas;
 
 VI. Mantener actualizados los sistemas de información de la Secretaría de Finanzas para asegurar su integridad, uniformidad y auditabilidad;
 
 VII. Mantener un programa de modernización continua de la Secretaría de Finanzas, en el ámbito de la plataforma tecnológica, acorde a los avances tecnológicos;
 
-VIII. Proponer, asesorar y apoyar a las áreas de la Secretaría de Finanzas en el establecimiento de medidas que permitan impulsar la aplicación de tecnologías de la información;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Analizar y evaluar las propuestas de adquisición, arrendamiento y prestación de servicios que le sean turnadas por las diversas Unidades Administrativas y de Apoyo Técnico Operativo de la Secretaría, en materia de tecnología de información;
+VIII. Proponer, asesorar y apoyar a las áreas de la Secretaría de Finanzas en el establecimiento de medidas que permitan impulsar la aplicación de tecnologías de la información y comunicaciones;
 
-X. Representar a la Secretaría de Finanzas, en los Comités Centrales de Informática y de Telecomunicaciones del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Analizar y evaluar las propuestas de adquisición, arrendamiento y prestación de servicios que le sean turnadas por las diversas Unidades Administrativas y de Apoyo Técnico Operativo de la Secretaría, en materia de tecnología de la información y comunicaciones;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Representar a la Secretaría de Finanzas, en los Comités Centrales de Informática y de Telecomunicaciones del Gobierno de la Ciudad de México;
 
 XI. Acreditar a los enlaces informáticos y coordinar las actividades informáticas de los mismos en las diferentes áreas de la Secretaría de Finanzas;
 
@@ -5760,81 +6238,105 @@ XIII. Establecer los mecanismos que garanticen la disponibilidad e integridad de
 
 XIV. Planear y supervisar el Programa de Capacitación Informática para el personal de la Secretaría de Finanzas;
 
-XV. Revisar el cumplimiento de función informática de la Secretaría de Finanzas y definir e instrumentar los mecanismos de protección y seguridad de la infraestructura tecnológica y sistemas de información;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XV (sic). Definir y establecer los criterios de operación informática que garanticen la integridad, seguridad y uniformidad en los sistemas de información involucrados en los procesos de recaudación del Gobierno del Distrito Federal.
+XV. Revisar el cumplimiento de función informática de la Secretaría de Finanzas y definir e instrumentar los mecanismos de protección y seguridad de la infraestructura tecnológica, sistemas de información y comunicaciones, y
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Definir y establecer los criterios de operación informática que garanticen la integridad, seguridad y uniformidad en los sistemas de información involucrados en los procesos de recaudación del Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 88.
 
 Corresponde a la Subprocuraduría de Legislación y Consulta:
 
-I. Acordar con el Procurador Fiscal los asuntos de su competencia;
+I. Acordar con el Procurador Fiscal de la Ciudad de México los asuntos de su competencia;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+II. Emitir las opiniones jurídicas y desahogar las consultas de los contribuyentes y de la Administración Pública de la Ciudad de México en materia fiscal, y respecto de las reducciones fiscales competencia de la Procuraduría Fiscal de la Ciudad de México, así como recibir y tramitar las solicitudes de disminuciones de montos de créditos fiscales correspondientes;
 
-II. Emitir las opiniones jurídicas y desahogar las consultas de los contribuyentes y de la Administración Pública del Distrito Federal en materia fiscal, y respecto de las reducciones fiscales competencia de la Procuraduría Fiscal del Distrito Federal, así como recibir y tramitar las solicitudes de disminuciones de montos de créditos fiscales correspondientes;
+III. Estudiar y opinar sobre los aspectos jurídicos de los proyectos de acuerdo o convenios de coordinación en materia fiscal federal y sobre la legislación referente al Sistema Nacional de Coordinación Fiscal, así como de sus respectivos anexos, declaratorias y demás disposiciones relativas a esta materia;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+IV. Emitir resoluciones a peticiones y consultas que formulen los contribuyentes en materia fiscal;
 
-II BIS. Estudiar y opinar sobre los aspectos jurídicos de los proyectos de acuerdo o convenios de coordinación en materia fiscal federal y sobre la legislación referente al Sistema Nacional de Coordinación Fiscal, así como de sus respectivos anexos, declaratorias y demás disposiciones relativas a esta materia;
+V. Interpretar las leyes y disposiciones en las materias competencia de la Secretaría de Finanzas;
 
-III. Emitir resoluciones a peticiones y consultas que formulen los contribuyentes en materia fiscal;
+VI. Revisar, analizar y, en su caso, elaborar los anteproyectos de resoluciones, acuerdos, reglas y demás disposiciones jurídicas fiscales que establezca el Código Fiscal de la Ciudad de México;
 
-IV. Interpretar las leyes y disposiciones en las materias competencia de la Secretaría de Finanzas;
+VII. Emitir las opiniones jurídicas e interpretaciones administrativas sobre las leyes y demás disposiciones de carácter general en materia de programación, presupuestación y gasto público;
 
-V. Emitir las opiniones jurídicas e interpretaciones administrativas sobre las leyes y demás disposiciones de carácter general en materia de programación, presupuestación y gasto público;
+VIII. Proponer la formalización jurídica de las funciones que corresponden a la Secretaría de Finanzas en su carácter de fideicomitente único de la Administración Pública;
 
-VI. Proponer la formalización jurídica de las funciones que corresponden a la Secretaría de Finanzas en su carácter de fideicomitente único de la Administración Pública;
+IX. Emitir opinión jurídica respecto de los instrumentos jurídicos de los fideicomisos públicos de la Administración Pública de la Ciudad de México;
 
-VII. Conducir las actividades relativas al Registro de Fideicomisos Públicos de la Administración Pública del Distrito Federal, así como recibir y tramitar las solicitudes de inscripción en dicho registro;
+X. Integrar la relación de los Fideicomisos Públicos de la Administración Pública de la Ciudad de México y Asimilados a Públicos de la Ciudad de México; así como promover anualmente su publicación en la Gaceta Oficial de la Ciudad de México;
 
-VIII. Tramitar la publicación de las leyes fiscales y demás disposiciones, competencia de la Secretaría de Finanzas y difundirlas entre las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de esta Dependencia; así como compilar la legislación y jurisprudencia en la materia;
+XI. Conducir las actividades relativas al Registro de Fideicomisos Públicos de la Administración Pública de la Ciudad de México y Asimilados a Públicos de la Ciudad de México, así como recibir y tramitar las solicitudes de inscripción en dicho registro;
 
-IX. Realizar estudios jurídicos de carácter fiscal y llevar a cabo investigaciones y recopilaciones relativas a los sistemas hacendarios, administrativos y de justicia administrativa, locales y de otros países;
+XII. Tramitar la publicación de las resoluciones, acuerdos, reglas y demás disposiciones de carácter general, competencia de la Secretaría de Finanzas;
 
-X. Solicitar de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública, las proposiciones de reformas a las disposiciones legales en las materias competencia de la Secretaría de Finanzas, y analizar su procedencia;
+XIII. Compilar y difundir la legislación, resoluciones, acuerdos, reglas y demás disposiciones de carácter general, competencia de la Secretaría de Finanzas, así como la jurisprudencia o tesis definidas en la materia, entre las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de esta Dependencia.
 
-XI. Formular los anteproyectos de acuerdos de carácter general en materia de otorgamiento de subsidios con cargo al Presupuesto de Egresos del Distrito Federal; así como recibir y tramitar las solicitudes para el otorgamiento o reconocimiento de subsidios correspondientes;
+XIV. Realizar estudios jurídicos de carácter fiscal y llevar a cabo investigaciones y recopilaciones relativas a los sistemas hacendarios, administrativos y de justicia administrativa, locales y de otros países;
 
-XII. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados; y
+XV. Solicitar de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública, las proposiciones de reformas a las disposiciones legales en las materias competencia de la Secretaría de Finanzas, y analizar su procedencia;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+XVI. Formular los anteproyectos de acuerdos de carácter general en materia de otorgamiento de subsidios con cargo al Presupuesto de Egresos de la Ciudad de México; así como recibir y tramitar las solicitudes para el otorgamiento o reconocimiento de subsidios correspondientes;
 
-XIII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
+XVII. Opinar sobre los aspectos jurídicos de las iniciativas de leyes en las materias competencia de la Procuraduría Fiscal;
+
+XVIII. Realizar de manera bimestral las reuniones con las organizaciones de los particulares y los colegios de profesionistas con el fin de que se resuelva la problemática operativa e inmediata que se presenta en el cumplimiento de las obligaciones fiscales;
+
+XIX. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados;
+
+XX. Recibir, tramitar y resolver las solicitudes de mediación fiscal, de acuerdo con las disposiciones jurídicas aplicables, y
+
+XXI. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
 ###### Artículo 89.
 
 Corresponde a la Subprocuraduría de lo Contencioso:
 
-I. Acordar con el Procurador Fiscal los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+I. Acordar con el Procurador Fiscal de la Ciudad de México los asuntos de su competencia;
 
-II. Representar en toda clase de juicios, incluyendo el de amparo, los intereses de la Hacienda Pública del Distrito Federal en materia de contribuciones locales, formulando la contestación de las demandas que se tramiten en el Tribunal de lo Contencioso Administrativo del Distrito Federal, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, así como intervenir en los casos en que el crédito fiscal esté controvertido. Asimismo, formular y presentar las demandas para solicitar la nulidad de las resoluciones favorables a los particulares, actuar en los juicios de amparo relacionados, y realizar los demás actos procesales correspondientes;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+II. Representar en toda clase de juicios, incluyendo el de amparo, los intereses de la Hacienda Pública de la Ciudad de México en materia de contribuciones locales, formulando la contestación de las demandas que se tramiten en el Tribunal de lo Contencioso Administrativo de la Ciudad de México, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, así como intervenir en los casos en que el crédito fiscal esté controvertido. Asimismo, formular y presentar las demandas para solicitar la nulidad de las resoluciones favorables a los particulares, actuar en los juicios de amparo relacionados, y realizar los demás actos procesales correspondientes;
 
-III. Representar el interés de la Hacienda Pública del Distrito Federal en todos los juicios que se susciten con motivo de las atribuciones delegadas a la Administración Pública del Distrito Federal en los acuerdos o convenios de coordinación fiscal suscritos por el Ejecutivo Federal, incluyendo los actos relacionados en materia de comercio exterior, formular las contestaciones de demandas ante el Tribunal Federal de Justicia Fiscal y Administrativa, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, presentar promociones de trámite, autorizar delegados e incluso allanarse a las demandas, formular demandas para solicitar la nulidad de resoluciones favorables a los particulares y actuar en los juicios de amparo relacionados con aquéllas, así como realizar los demás actos procesales que correspondan, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público; así como, en general representar el interés de la Hacienda Pública del Distrito Federal en las controversias fiscales en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los Tribunales del Distrito Federal, Federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delegados, así como los demás actos procesales correspondientes, conforme a las leyes y ordenamientos aplicables, mismos que incluso pueden ser conferidos a los inferiores jerárquicos;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Intervenir cuando la Secretaría de Finanzas tenga el carácter de tercero perjudicado en los juicios de amparo;
+III. Representar el interés de la Hacienda Pública de la Ciudad de México en todos los juicios que se susciten con motivo de las atribuciones delegadas a la Administración Pública de la Ciudad de México en los acuerdos o convenios de coordinación fiscal suscritos por el Ejecutivo Federal, incluyendo los actos relacionados en materia de comercio exterior, formular las contestaciones de demandas ante el Tribunal Federal de Justicia Administrativa, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, presentar promociones de trámite, autorizar delegados e incluso allanarse a las demandas, formular demandas para solicitar la nulidad de resoluciones favorables a los particulares y actuar en los juicios de amparo relacionados con aquéllas, así como realizar los demás actos procesales que correspondan, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público; así como, en general representar el interés de la Hacienda Pública de la Ciudad de México en las controversias fiscales en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los Tribunales de la Ciudad de México, Federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delegados, así como los demás actos procesales correspondientes, conforme a las leyes y ordenamientos aplicables, mismos que incluso pueden ser conferidos a los inferiores jerárquicos;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Elaborar y proponer los informes previos y justificados, en materia de amparo, que deban rendir el Jefe de Gobierno, el Secretario de Finanzas, así como los servidores públicos que tengan el carácter de autoridades fiscales conforme al Código Financiero del Distrito Federal en los Juicios de Amparo presentados en contra de los actos de las autoridades fiscales del Distrito Federal relativos a la aplicación de leyes fiscales federales, en asuntos competencia de los mismos, de los recursos que procedan en los juicios de amparo, y realizar todas las promociones que en dichos juicios se requieran conforme a las leyes y ordenamientos aplicables, mismas que incluso pueden ser conferidas a los inferiores jerárquicos;
+IV. Intervenir cuando la Secretaría de Finanzas tenga el carácter de tercero interesado en los juicios de amparo;
 
-VI. Interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, recursos en contra de las resoluciones de sus Salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Interponer ante el Tribunal Colegiado de Circuito, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal;
+V. Elaborar y proponer los informes previos y justificados, en materia de amparo, que deban rendir el Jefe de Gobierno, el Secretario de Finanzas, así como los servidores públicos que tengan el carácter de autoridades fiscales conforme al Código Fiscal de la Ciudad de México en los Juicios de Amparo presentados en contra de los actos de las autoridades fiscales de la Ciudad de México relativos a la aplicación de leyes fiscales federales, en asuntos competencia de los mismos, de los recursos que procedan en los juicios de amparo, y realizar todas las promociones que en dichos juicios se requieran conforme a las leyes y ordenamientos aplicables, mismas que incluso pueden ser conferidas a los inferiores jerárquicos;
 
-VIII. Informar a la Secretaría de Finanzas y a la Tesorería del Distrito Federal, así como a las Unidades Administrativas de las mismas, respecto de las resoluciones de los tribunales administrativos y judiciales, locales y federales sobre los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VI. Interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo de la Ciudad de México, recursos en contra de las resoluciones de sus Salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento;
 
-IX. Vigilar el cumplimiento de las sentencias pronunciadas por los Tribunales Locales o Federales en relación con los juicios promovidos por los actos o resoluciones de las Unidades Administrativas y Unidades Administrativas de apoyo técnico-operativo del Distrito Federal en materia fiscal local y federal que le sean propias;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 10 DE JULIO DE 2009)</small>
+VII. Interponer ante el Tribunal Colegiado de Circuito, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de lo Contencioso Administrativo de la Ciudad de México;
 
-X. Conforme a las leyes y ordenamientos aplicables, solicitar a las Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Finanzas y de la Tesorería, los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal, incluyendo los actos relacionados en materia de comercio exterior;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Informar a la Secretaría de Finanzas y a la Tesorería de la Ciudad de México, así como a las Unidades Administrativas de las mismas, respecto de las resoluciones de los tribunales administrativos y judiciales, locales y federales sobre los asuntos de su competencia;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Vigilar el cumplimiento de las sentencias pronunciadas por los Tribunales Locales o Federales en relación con los juicios promovidos por los actos o resoluciones de las Unidades Administrativas y Unidades Administrativas de apoyo técnico-operativo de la Ciudad de México en materia fiscal local y federal que le sean propias;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Conforme a las leyes y ordenamientos aplicables, solicitar a las Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Finanzas y de la Tesorería de la Ciudad de México, los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal, incluyendo los actos relacionados en materia de comercio exterior;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -5852,21 +6354,31 @@ XIII Las demás que le atribuyan expresamente los Reglamentos y demás disposici
 
 Corresponde a la Subprocuraduría de Recursos Administrativos y Autorizaciones:
 
-I. Acordar con el Procurador Fiscal los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Recibir, tramitar y resolver los recursos administrativos que interpongan los particulares, respecto de contribuciones locales y federales coordinadas a que se refieren los acuerdos del Ejecutivo Federal;
+I. Acordar con el Procurador Fiscal de la Ciudad de México los asuntos de su competencia;
 
-III. Interponer los recursos administrativos que correspondan en materia fiscal, para la defensa del interés de la Hacienda Pública del Distrito Federal, ante las autoridades administrativas o fiscales de carácter federal o de otras entidades federativas;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+II. Recibir, tramitar y resolver los recursos administrativos que interpongan los particulares, respecto de contribuciones locales y federales coordinadas a que se refieren los acuerdos y convenios del Ejecutivo Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Interponer los recursos administrativos que correspondan en materia fiscal, para la defensa del interés de la Hacienda Pública de la Ciudad de México, ante las autoridades administrativas o fiscales de carácter federal o de otras entidades federativas;
 
 IV. Recibir, tramitar y resolver las solicitudes de declaratoria de exención de las contribuciones que formulen los contribuyentes, de acuerdo con las disposiciones jurídicas aplicables;
 
-V. Recibir, tramitar y resolver las solicitudes de caducidad y prescripción que formulen los interesados respecto de las facultades de comprobación y de créditos fiscales provenientes de la aplicación del Código Financiero del Distrito Federal, así como las que deriven de contribuciones federales coordinadas a que se refieren los convenios de coordinación y acuerdos que rijan la materia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Recibir, tramitar y resolver las solicitudes de caducidad y prescripción que formulen los interesados respecto de las facultades de comprobación y de créditos fiscales provenientes de la aplicación del Código Fiscal de la Ciudad de México, así como las que deriven de contribuciones federales coordinadas a que se refieren los convenios de coordinación y acuerdos que rijan la materia;
 
 VI. Recibir, tramitar y resolver las solicitudes de cancelación y condonación de multas por infracción a las disposiciones fiscales y administrativas, de acuerdo con las disposiciones jurídicas aplicables;
 
 VII. Ordenar la publicación de edictos que soliciten las autoridades, en los términos de las disposiciones jurídicas aplicables;
 
-VIII. Revisar la debida integración de los documentos legalmente necesarios para la formulación de resoluciones que permitan hacer efectivas las fianzas en favor de la Hacienda Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Revisar la debida integración de los documentos legalmente necesarios para la formulación de resoluciones que permitan hacer efectivas las fianzas en favor de la Hacienda Pública de la Ciudad de México;
 
 IX. Recibir, tramitar y resolver las solicitudes de autorización que presenten los contribuyentes, así como las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren;
 
@@ -5880,35 +6392,43 @@ XI. Las demás que le atribuyan expresamente los reglamentos y demás disposicio
 
 Corresponde a la Subprocuraduría de Asuntos Penales:
 
-I. Acordar con el Procurador Fiscal los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+I. Acordar con el Procurador Fiscal de la Ciudad de México los asuntos de su competencia;
 
-II. Representar el interés de la Hacienda Pública del Distrito Federal en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los tribunales del Distrito Federal, Federales o de otras entidades federativas; ejecutar las acciones, oponer excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista, así como autorizar delegados, y los demás actos procesales correspondientes conforme a las leyes y ordenamientos aplicables, a excepción de las controversias fiscales que se susciten con motivo de los ingresos federales coordinados, o que sean competencia de otra área;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+II. Representar el interés de la Hacienda Pública de la Ciudad de México, a la Secretaría de Finanzas siempre que dicha representación no corresponda a otra Unidad Administrativa de la propia Secretaría de Finanzas o al Ministerio Público de la Ciudad de México, en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los tribunales de la Ciudad de México, Federales o de otras entidades federativas; ejecutar las acciones, oponer excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista, así como autorizar delegados, y los demás actos procesales correspondientes conforme a las leyes y ordenamientos aplicables, a excepción de las controversias fiscales que se susciten con motivo de los ingresos federales coordinados, así como en materia laboral o que sean competencia de otra área;
 
 III. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-IV. Analizar la documentación, actuaciones y dictámenes que, en materia de ingresos federales coordinados, formulen las Unidades Administrativas competentes de la Secretaría de Hacienda y Crédito Público, a fin de que ésta determine la procedencia de la formulación de querella, declaratoria de perjuicio o denuncia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Formular y presentar denuncias o querellas, nombrar representantes ante el Ministerio Público competente de los hechos que puedan constituir delitos en materia fiscal del Distrito Federal y de los servidores públicos de la Secretaría de Finanzas dando la intervención que corresponde a la Contraloría General del Distrito Federal. Asimismo, determinar el daño causado en la propia querella, constituirse en coadyuvante del Ministerio Público, otorgar el perdón legal y pedir al Ministerio Público que solicite el sobreseimiento en los procesos penales y obtener de dicha autoridad las copias certificadas de las constancias y documentación que obren en las averiguaciones previas;
+IV. Analizar la documentación, actuaciones y dictámenes que, en materia de ingresos federales coordinados, formulen las Unidades Administrativas competentes de la Secretaría de Hacienda y Crédito Público, a fin de que ésta determine la procedencia de la formulación de denuncia, querella o su equivalente;
 
-VI. Ejercer en materia de delitos fiscales las atribuciones señaladas a la Secretaría de Finanzas en el Código Financiero del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Formular y presentar denuncias, querellas o su equivalente, nombrar representantes ante el Ministerio Público competente de los hechos que puedan constituir delitos en materia fiscal de la Ciudad de México y de los servidores públicos de la Secretaría de Finanzas dando la intervención que corresponde a la Contraloría General de la Ciudad de México. Asimismo, señalar el daño causado en la propia querella, constituirse en coadyuvante del Ministerio Público, otorgar el perdón legal y pedir al Ministerio Público que solicite el sobreseimiento en los procesos penales y obtener de dicha autoridad las copias certificadas de las constancias y documentación que obren en las averiguaciones previas;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Ejercer en materia de delitos fiscales las atribuciones señaladas a la Secretaría de Finanzas en el Código Fiscal de la Ciudad de México;
 
 VII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-VIII. Designar a los peritos que se requieran para la formulación de dictámenes técnicos relacionados con los asuntos de su competencia;
+VIII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 IX. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Solicitar a las Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Finanzas, de la Tesorería del Distrito Federal y de la Unidad de Inteligencia Financiera del Distrito Federal los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal;
+X. Solicitar a las Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Finanzas, de la Tesorería de la Ciudad de México y de la Unidad de Inteligencia Financiera de la Ciudad de México los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal, para el ejercicio de las facultades otorgadas a esta Subprocuraduría;
 
-XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
+XI. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación, así como por cualquier otros actos u omisiones en que un servidor público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública del Distrito Federal o al patrimonio de las entidades, que descubra o tenga conocimiento la Secretaría de Finanzas por si o a través de cualquiera de sus unidades administrativas, así como en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
+XII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado de la Ciudad de México, en las actividades de programación y presupuestación, así como por cualquier otros actos u omisiones en que un servidor público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública de la Ciudad de México o al patrimonio de las entidades, que descubra o tenga conocimiento la Secretaría de Finanzas por si o a través de cualquiera de sus unidades administrativas, así como en aquellos casos en que la Auditoría Superior de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
 
 XIII. Expedir copias certificadas de los documentos que en original o copia certificada obren en sus archivos sobre asuntos de su competencia y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados; y
 
@@ -5918,27 +6438,41 @@ XIV. Las demás que atribuyan expresamente los reglamentos, y demás disposicion
 
 Corresponde a la Dirección General de Administración Financiera:
 
-I. Concentrar, custodiar y administrar los ingresos provenientes de las contribuciones, productos, aprovechamientos, financiamientos, participaciones y transferencias federales y, en general, a todos los recursos financieros del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Concentrar, custodiar y administrar los ingresos provenientes de las contribuciones, productos, aprovechamientos, financiamientos, participaciones y transferencias federales y, en general, a todos los recursos financieros de la Ciudad de México;
 
 II. Participar en los trámites necesarios ante la Tesorería de la Federación y autoridades competentes, a fin de obtener los recursos financieros por transferencia de acuerdo a la calendarización establecida;
 
-III. Participar en la elaboración de los anteproyectos anuales de la ley de Ingresos y el Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Efectuar los pagos derivados del ejercicio del Presupuesto de Egresos del Distrito Federal, de conformidad con el calendario aprobado y de acuerdo al procedimiento autorizado;
+III. Participar en la elaboración de los anteproyectos anuales de la Ley de Ingresos y el Presupuesto de Egresos de la Ciudad de México;
 
-V. Proporcionar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo correspondientes, la información relativa de los ingresos y egresos obtenidos por el Distrito Federal y mantener actualizadas las estadísticas respectivas;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Efectuar los pagos derivados del ejercicio del Presupuesto de Egresos de la Ciudad de México, de conformidad con el calendario aprobado y de acuerdo al procedimiento autorizado;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Proporcionar a las Unidades Administrativas y Unidades Administrativas de apoyo técnico-operativo correspondientes, la información relativa de los ingresos y egresos obtenidos por la Ciudad de México y mantener actualizadas las estadísticas respectivas;
 
 VI. Proporcionar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo competentes de la Secretaría de Finanzas los elementos necesarios para el registro contable de los ingresos y pagos;
 
-VII. Elaborar los estudios de administración financiera e intervenir en la contratación de toda clase de créditos y financiamientos para el Distrito Federal aprobados en la Ley de Ingresos del Distrito Federal, de conformidad con lo dispuesto por el Estatuto de Gobierno;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Elaborar los estudios de Administración Financiera e intervenir en la contratación de toda clase de créditos y financiamientos para la Ciudad de México aprobados en la Ley de Ingresos de la Ciudad de México, de conformidad con lo dispuesto por el Estatuto de Gobierno;
 
 VIII. Participar en las negociaciones y gestiones de crédito ante las instituciones públicas y privadas correspondientes;
 
-IX. Participar en el control de la Deuda Pública del Distrito Federal, prever y efectuar las amortizaciones correspondientes, de conformidad con el Presupuesto de Egresos del Distrito Federal y lo dispuesto en el Estatuto de Gobierno;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Participar en el control de la deuda pública de la Ciudad de México, prever y efectuar las amortizaciones correspondientes, de conformidad con el Presupuesto de Egresos de la Ciudad de México y lo dispuesto en el Estatuto de Gobierno;
 
 X. Proponer la celebración de convenios, sobre los servicios bancarios y conexos que utilice la Administración Pública;
 
-XI. Participar en la regulación, coordinación e integración de la planeación financiera del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Participar en la Regulación, Coordinación e Integración de la Planeación Financiera de la Ciudad de México;
 
 XII. Proponer alternativas para la optimización en el manejo de fondos e implantar aquéllas que se consideren apropiadas;
 
@@ -5948,73 +6482,95 @@ XIV. Evaluar los servicios bancarios proporcionados por las instituciones de cr�
 
 XV. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
-XVI. Controlar y registrar las fianzas y depósitos a favor del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Operar y controlar las operaciones derivadas del sistema de compensación de adeudos;
+XVI. Controlar y registrar las fianzas y depósitos a favor del Gobierno de la Ciudad de México;
+
+XVII. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 XVIII. Evaluar alternativas de inversión y operar los fondos disponibles, de acuerdo a la normatividad establecida;
 
-XIX. Participar en las operaciones que se deriven de los permisos administrativos temporales revocables de inmuebles propiedad del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Participar en las operaciones que se deriven de los permisos administrativos temporales revocables de inmuebles Propiedad de la Ciudad de México;
 
 XX. Efectuar los pagos que por concepto de devoluciones a contribuyentes sean autorizados por autoridad competente, de acuerdo a la legislación aplicable;
 
 XXI. Efectuar la devolución de los ingresos federales coordinados que procedan, de conformidad con las leyes fiscales aplicables y los acuerdos del Ejecutivo Federal, del Jefe de Gobierno o de ambos;
 
-XXII. Atender en la esfera de su competencia los asuntos relacionados con los movimientos de Ingresos y Egresos del Distrito Federal; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Atender en la esfera de su competencia los asuntos relacionados con los movimientos de Ingresos y Egresos de la Ciudad de México, y
 
 XXIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 92 Bis.
 
-Corresponde a la Dirección General de Enlace Interinstitucional:
+Corresponde a la Dirección General de Enlace, Coordinación Fiscal y Programas Federales:
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. Realizar investigaciones interdisciplinarias, de campo y documentales, con la finalidad de formular líneas de acción que coadyuven en el mejoramiento del servicio en materia hacendaria que se ofrece a la población del Distrito Federal;
+I. Fungir como enlace ante los Órganos Legislativos Federales en materia de Ley de Ingresos y de Presupuesto de Egresos Federales, así como ante la Asamblea Legislativa;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Establecer vínculos con instituciones y organizaciones públicas y privadas, que realicen acciones encaminadas a la implantación de programas presupuestales y financieros;
+II. Coordinar la participación de las Dependencias, Unidades Administrativas, Órganos Político – Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en los distintos organismos del Sistema Nacional de Coordinación Fiscal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Promover acciones de colaboración e intercambio interinstitucional, tanto a nivel local como nacional en el desarrollo de modelos funcionales, factibles de adaptarse a las características propias de los programas presupuestales del Distrito Federal;
+III. Participar en la definición de propuestas de adecuaciones concernientes a las disposiciones legales que rigen la coordinación fiscal y la colaboración administrativa;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Diseñar e instrumentar las estrategias de información y difusión de la Secretaría que tengan como finalidad dar a conocer a la población de la Ciudad de México los servicios que ofrece a la comunidad, así como los avances de la institución en el cumplimiento de sus programas;
+IV. Coordinar el intercambio de información con la Secretaría de Hacienda y Crédito Público, con las entidades federativas y con los distintos entes públicos en materia de asignación de recursos federales;
 
-> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Coordinar la participación de las Dependencias, Unidades Administrativas, Órganos Político - Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en los distintos organismos del Sistema Nacional de
+V. Analizar y dar seguimiento al entero de los ingresos federales;
 
-Coordinación Fiscal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+VI. Elaborar estudios relativos a los ingresos de origen federal que corresponden a la Ciudad de México;
 
-VI. Participar en la definición de propuestas de adecuaciones concernientes a las disposiciones legales que rigen la coordinación fiscal y la colaboración administrativa; y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+VII. Colaborar en la elaboración de las proyecciones de los ingresos de origen federal de la Ciudad de México para la integración de su Iniciativa de Ley de Ingresos;
 
-VII. Coordinar el intercambio de información con la Secretaría de Hacienda y Crédito Público, con las entidades federativas y con organismos públicos y privados.
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2008)</small>
+VIII. Orientar a los Órganos Político-Administrativos, Órganos Desconcentrados, Entidades, Órganos Autónomos y de Gobierno de la Administración Pública de la Ciudad de México, en materia de proyectos financiables con recursos federales;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Fungir como enlace con las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados, Entidades, Órganos Autónomos y de Gobierno de la Administración Pública de la Ciudad de México, en la gestión para la suscripción de los instrumentos jurídicos requeridos por el Gobierno Federal, para formalizar los proyectos que se ejecuten en la Ciudad de México con recursos federales, que deriven del Presupuesto de Egresos de la Federación, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+X. Diseñar e instrumentar las estrategias de información y difusión de la Secretaría de Finanzas que tengan como finalidad de dar a conocer a la población de la Ciudad de México, las acciones y programas de relevancia coyuntural.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 92 Bis 1.
 
-Corresponde a la Unidad de Evaluación del Ingreso Gasto:
+Corresponde a la Dirección General de Evaluación de Proyectos:
 
-I. Formular los objetivos y estrategias para eficientar el manejo de las finanzas públicas en la elaboración del Programa General de Desarrollo del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Analizar y evaluar los movimientos de los fondos públicos, a fin de facilitar la determinación de la disponibilidad financiera del Gobierno del Distrito Federal;
+I. Coordinar permanentemente la recopilación y procesamiento de información económica y de la Hacienda Pública Local con el propósito de elaborar análisis sobre los resultados de las políticas públicas en materia de recaudación y gasto del Gobierno de la Ciudad de México;
 
-III. Evaluar el comportamiento y tendencias de los ingresos y egresos respecto a lo presupuestado;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Establecer mecanismos de control para la evaluación de los resultados y la elaboración de las conciliaciones bancarias; y
+II. Coordinar permanentemente los mecanismos para la revisión del análisis financiero de los proyectos con participación del capital privado;
 
-V. Evaluar los resultados sobre la administración del presupuesto de ingresos y egresos del Distrito Federal, presentando propuestas de simplificación y optimización de los procesos que involucran a sus usuarios.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Coordinar permanentemente los mecanismos para la revisión, evaluación y registro de los estudios de evaluación socioeconómica, presentados por las diferentes Unidades Responsables del Gasto;
+
+IV. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
+
+V. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -6022,7 +6578,9 @@ V. Evaluar los resultados sobre la administración del presupuesto de ingresos y
 
 Corresponde a la Coordinación Ejecutiva de Verificación de Comercio Exterior.
 
-I. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio de la Ciudad de México, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
 
 a) Comprobar el correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
 
@@ -6032,9 +6590,13 @@ c) Comprobar el correcto cumplimiento de regulaciones y restricciones no arancel
 
 d) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
 
-II. Ordenar y practicar todos los actos inherentes a las facultades de comprobación en materia de comercio exterior, conferidas a la Administración Pública del Distrito Federal, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones;
+II. Ordenar y practicar todos los actos inherentes a las facultades de comprobación en materia de comercio exterior, conferidas a la Administración Pública de la Ciudad de México, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades de la Ciudad de México, para el ejercicio de sus funciones;
 
 IV. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, así como tramitar y resolver los citados procedimientos hasta sus últimas consecuencias, de conformidad con la legislación federal aplicable; determinando en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
@@ -6062,9 +6624,13 @@ XII. Dar a conocer a los contribuyentes, responsables solidarios y demás obliga
 
 XIII. Tratándose de los créditos fiscales derivados de las acciones de verificación en materia de comercio exterior, cuenta con las atribuciones siguientes:
 
-a) Notificar al interesado los actos administrativos y las resoluciones dictadas por el Distrito Federal que determinen los créditos fiscales en materia de comercio exterior;
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-b) Llevar a cabo el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que el Distrito Federal determine en ejercicio de sus atribuciones;
+a) Notificar al interesado los actos administrativos y las resoluciones dictadas por la Ciudad de México que determinen los créditos fiscales en materia de comercio exterior;
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+b) Llevar a cabo el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que la Ciudad de México determine en ejercicio de sus atribuciones;
 
 c) Autorizar el pago de créditos fiscales a plazo, ya sea diferido o en parcialidades, con garantía del interés fiscal, cuando sea procedente otorgarse en términos del Código Fiscal de la Federación y su Reglamento, y
 
@@ -6080,11 +6646,17 @@ XVII. Acordar con su superior jerárquico la designación como depositarias de l
 
 XVIII. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
 
-XIX. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas al Distrito Federal; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Intercambiar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados al Distrito Federal, con otras entidades federativas de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
+XIX. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
 
-XXI. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados al Distrito Federal, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Intercambiar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, con otras entidades federativas de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público;
 
 XXII. Coordinarse con la Subtesorería de Fiscalización, a efecto de formular de manera conjunta el Programa Operativo Anual de las contribuciones federales coordinadas en materia de comercio exterior, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
 
@@ -6102,23 +6674,25 @@ XXVII. Ejecutar la facultad económico coactiva, mediante el procedimiento admin
 
 XXVIII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus (sic) sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
-> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada al Distrito Federal;
+XXIX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXX. Intercambiar información, con motivo del ejercicio de sus atribuciones en materia de comercio exterior, con la Tesorería del Distrito Federal o con cualquier otra autoridad municipal, local o federal; y
+XXX. Intercambiar información, con motivo del ejercicio de sus atribuciones en materia de comercio exterior, con la Tesorería de la Ciudad de México o con cualquier otra autoridad municipal, local o federal; y
 
-> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXI. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
+XXXI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera.
 
-> <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 92 Quáter.
 
-Corresponde a la Dirección de Programación, las siguientes atribuciones:
+Corresponde a la Dirección de Investigación y Programación en Comercio Exterior, las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
 I. Elaborar y proponer para su aprobación, el Programa Operativo Anual de las contribuciones federales coordinadas en materia de comercio exterior;
 
@@ -6126,13 +6700,17 @@ I. Elaborar y proponer para su aprobación, el Programa Operativo Anual de las c
 
 II. Realizar investigaciones de campo, para recopilar datos relacionados con la legal estancia en el país de mercancías y vehículos de procedencia extranjera; y
 
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+
 III. Conocer, sistematizar y coordinar la información correspondiente para la emisión de los actos de verificación y/o comprobación del correcto cumplimiento de las obligaciones fiscales en materia de comercio exterior.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
 Artículo 92 Quintus.- Corresponde a la Dirección de Comercio Exterior, las siguientes atribuciones:
 
-I. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal de conformidad con los instrumentos y disposiciones jurídicas aplicables;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio de la Ciudad de México de conformidad con los instrumentos y disposiciones jurídicas aplicables;
 
 a) Comprobar el correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
 
@@ -6146,7 +6724,9 @@ II. Practicar visitas domiciliarias y de verificación, auditorias y revisiones 
 
 III. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
-IV. Ordenar la notificación al interesado, de los actos administrativos y las resoluciones dictadas por el Distrito Federal, que determinen los créditos fiscales en materia de comercio exterior;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Ordenar la notificación al interesado, de los actos administrativos y las resoluciones dictadas por la Ciudad de México, que determinen los créditos fiscales en materia de comercio exterior;
 
 V. Ordenar el embargo precautorio de mercancías y vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya;
 
@@ -6168,9 +6748,13 @@ XII. Dar a conocer a los contribuyentes, responsables solidarios y demás obliga
 
 XIII. Acordar con su superior jerárquico la designación a cargo de terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera, embargadas precautoriamente, debiendo informar a la Subdirección del Recinto Fiscal dicha situación;
 
-XIV. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas al Distrito Federal; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia, y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones.
+XIV. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia, y
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades de la Ciudad de México, para el ejercicio de sus funciones.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -6186,11 +6770,15 @@ IV. Determinar los impuestos de carácter federal y sus accesorios, aplicar las 
 
 V. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo del ejercicio de sus atribuciones;
 
-VI. Notificar al interesado los actos administrativos y las resoluciones dictadas por el Distrito Federal que determinen los créditos fiscales en materia de comercio exterior;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Notificar al interesado los actos administrativos y las resoluciones dictadas por la Ciudad de México que determinen los créditos fiscales en materia de comercio exterior;
 
 VII. Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente o, cuando legalmente así proceda; verificar, determinar y cobrar las devoluciones improcedentes e imponer las multas correspondientes;
 
-VIII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades de la Ciudad de México, para el ejercicio de sus funciones;
 
 > <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
@@ -6206,11 +6794,15 @@ XII. Resolver, en los casos que proceda, el levantamiento del embargo precautori
 
 XIII. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras, y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
 
-XIV. Instrumentar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que el Distrito Federal determine en ejercicio de sus atribuciones;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Instrumentar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que la Ciudad de México determine en ejercicio de sus atribuciones;
 
 XV. Solicitar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos relativos a los trámites de devolución o de compensación de impuestos federales que se causen con motivo de la importación y la exportación de mercancías y vehículos de procedencia extranjera, en el ámbito de su competencia;
 
-XVI. Recibir y resolver las solicitudes de pago a plazo de créditos fiscales en materia de comercio exterior, determinados por el Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Recibir y resolver las solicitudes de pago a plazo de créditos fiscales en materia de comercio exterior, determinados por la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
@@ -6226,13 +6818,19 @@ XX. (DEROGADA, G.O. 5 DE AGOSTO DE 2008)
 
 XXI. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público; y
 
-> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables en materia de comercio exterior, para comprobar el correcto:
+XXII. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio de la Ciudad de México, de conformidad con los instrumentos y disposiciones jurídicas aplicables en materia de comercio exterior, para comprobar el correcto:
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 a) Cálculo y pago de los impuestos generales de importación y exportación, así como del derecho de trámite aduanero;
 
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
 b) Cálculo y Pago de los impuestos al valor agregado, especial sobre producción y servicios, sobre automóviles nuevos y sobre tenencia o uso de vehículos, causados por la importación a territorio nacional, así como el correcto cumplimiento de regulaciones y restricciones no arancelarias, inclusive de las normas oficiales mexicanas y el pago de cuotas compensatorias; y
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 c) Cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía.
 
@@ -6254,11 +6852,17 @@ V. Acordar con su superior jerárquico la designación a cargo de terceras perso
 
 VI. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
 
-VII. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas al Distrito Federal; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados al Distrito Federal, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público, y
+VII. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
 
-IX. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera.
 
 > <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
 
@@ -20023,3 +20627,21 @@ G.O. 29 DE AGOSTO DE 2017.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del 1° de septiembre de 2017, salvo por lo que en su caso establezcan los transitorios siguientes.
+
+TERCERO.- Las atribuciones que respecto de la Subsecretaría de Egresos y sus Direcciones Generales establece el presente Decreto entrarán en vigor a partir del 16 de septiembre de 2017.
+
+CUARTO.- Todas las referencias que se hagan a la Procuraduría Fiscal del Distrito Federal, a la Tesorería del Distrito Federal, así como a la Unidad de Inteligencia Financiera del Distrito Federal, deberán entenderse a la Ciudad de México.
+
+QUINTO.- Los procesos relativos al monitoreo de los indicadores de los programas presupuestarios y las evaluaciones de los resultados del ejercicio de los programas presupuestarios a que se refiere el presente Decreto, iniciarán a partir de la entrega de la cuenta pública correspondiente al ejercicio 2017.
+
+SEXTO.- Las menciones que otros ordenamientos y disposiciones hagan a las unidades administrativas que por virtud del presente Decreto se suprimen o modifican, se entenderán referidas a las unidades administrativas que asuman sus funciones.
+
+SÉPTIMO.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Finanzas y la Oficialía Mayor en el ámbito de su competencia.
