@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2017-07-13"
+last_updated: "2017-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1998-12-14"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -50,11 +52,15 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
 Las disposiciones contenidas en la presente Ley son de orden e interés público y tienen por objeto establecer la organización de la Administración Pública del Distrito Federal, distribuir los negocios del orden administrativo, y asignar las facultades para el despacho de los mismos a cargo del Jefe de Gobierno, de los órganos centrales, desconcentrados y paraestatales, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y en el Estatuto de Gobierno.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 2o.
 
-La Administración Pública del Distrito Federal será central, desconcentrada y paraestatal.
+La Administración Pública de la Ciudad de México será Central, Desconcentrada y Paraestatal.
 
-La Jefatura de Gobierno del Distrito Federal, las Secretarías, la Procuraduría General de Justicia del Distrito Federal, la Oficialía Mayor, la Contraloría General del Distrito Federal y la Consejería Jurídica y de Servicios Legales, son las dependencias que integran la Administración Pública Centralizada.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+La Jefatura de Gobierno de la Ciudad de México, las Secretarías, la Procuraduría General de Justicia de la Ciudad de México, la Oficialía Mayor y la Consejería Jurídica y de Servicios Legales son las dependencias que integran la Administración Pública Centralizada.
 
 En las demarcaciones territoriales en que se divida el Distrito Federal, la Administración Pública Central contará con órganos político administrativos desconcentrados con autonomía funcional en acciones de gobierno, a los que genéricamente se les denominará Delegación del Distrito Federal.
 
@@ -62,9 +68,11 @@ Para atender de manera eficiente el despacho de los asuntos de su competencia, l
 
 Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, son las entidades que componen la Administración Pública Paraestatal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 3o.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta ley se entiende por:
 
 I. Administración pública centralizada. Las dependencias y los órganos desconcentrados;
 
@@ -84,7 +92,9 @@ VI. Asamblea Legislativa. La Asamblea Legislativa del Distrito Federal;
 
 VII. Demarcación territorial. Cada una de las partes en que se divide el territorio del Distrito Federal para efectos de organización político administrativa;
 
-VIII. Dependencias. Las Secretarías, la Procuraduría General de Justicia del Distrito Federal, la Oficialía Mayor, la Contraloría General y la Consejería Jurídica y de Servicios Legales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Dependencias.- Las Secretarias, la Procuraduría General de Justicia de la Ciudad de México, la Oficialía Mayor y la Consejería Jurídica de Servicios Legales;
 
 IX. Entidades. Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
@@ -108,7 +118,9 @@ e) Se integra la figura de un Secretario Técnico del Gabinete, cuyas facultades
 
 XII. Jefe de Gobierno. El Jefe de Gobierno del Distrito Federal;
 
-XIII. Ley. La Ley Orgánica de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Ley.- La Ley Orgánica de la Administración Pública de la Ciudad de México;
 
 XIV. Reglamento. El Reglamento Interior de la Administración Pública del Distrito Federal; y
 
@@ -310,13 +322,15 @@ XI. Secretaría de Turismo;
 
 XII. Secretaría de Cultura;
 
-XIII. Procuraduría General de Justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Procuraduría General de Justicia de la Ciudad de México;
 
 XIV. Oficialía Mayor;
 
-> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XV. Contraloría General del Distrito Federal;
+XV. Secretaria de la Contraloría General de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -344,9 +358,11 @@ XXI. Secretaría de Ciencia, Tecnología e Innovación
 
 La Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Distrito Federal se ubican en el ámbito orgánico del Gobierno del Distrito Federal y se regirán por las leyes específicas correspondientes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 16.
 
-Los titulares de las Secretarías, de la Procuraduría General de Justicia del Distrito Federal, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales tendrán las siguientes atribuciones generales:
+Los titulares de las Secretarias, de la Procuraduría General de Justicia de la Ciudad de México, de la Oficialía Mayor y la Consejería Jurídica y de Servicios Legales tendrán las siguientes atribuciones generales:
 
 I. Acordar con el Jefe de Gobierno el despacho de los asuntos encomendados a las dependencias adscritas a su ámbito, así como recibir en acuerdo a los servidores públicos que les estén subordinados, conforme a los reglamentos interiores, manuales administrativos, circulares y demás disposiciones que expida el Jefe de Gobierno;
 
@@ -374,13 +390,25 @@ A efecto de mejorar la comunicación con los habitantes, podrán emplear cualqui
 
 Todos los servicios públicos y trámites administrativos deberán ser evaluados anualmente por la propia dependencia que podrá auxiliarse para ello de entes externos. Los resultados de dicha evaluación deberán publicarse sintéticamente en la Gaceta de Gobierno y en su totalidad en el portal del Internet de los entes públicos dentro de los cuatro meses siguientes a su realización.
 
-> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Colaborar y proporcionar toda la información que se requiera en términos de la legislación aplicable para la debida integración, operación y seguimiento del Sistema Anticorrupción de la Ciudad de México, y las demás que se requieran en términos de la legislación de la materia para el combate a la corrupción.
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Expedir los manuales de organización de procedimientos y servicios al público necesarios para su funcionamiento, previa autorización de la unidad administrativa competente de la administración pública, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de las unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan, mismos que deberán mantenerse permanentemente actualizados y publicados en la gaceta oficial de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Al frente de cada Secretaria, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales habrá un titular, quien para el despacho de los asuntos de su competencia se auxiliara en su caso por los subsecretarios, directores generales, directores de área, subdirectores y jefes de unidad departamental, así como por los demás servidores públicos que establezcan en el Reglamento Interior y los Manuales Administrativos.
+Al frente de cada Secretaria, de la Oficialía Mayor y de la Consejería Jurídica de Servicios Legales habrá un titular, quien para el despacho de los asuntos de su competencia se auxiliara en su caso por los subsecretarios, directores generales, directores de área, subdirectores y jefes de unidad departamental, así como por las demás personas servidoras públicas que establezcan en el reglamento interior y los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2014)</small>
 
 El Jefe de Gobierno coadyuvará a la promoción de la participación equitativa del 50% en cargos públicos de mujeres y hombres, de las dependencias mencionadas en el artículo 15 del presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2014)</small>
 
 De manera progresiva el Jefe de Gobierno verificará que ese proceso de participación se dé bajo los principios de equidad y paridad de género, incluyendo los cargos de nivel Subsecretaría y Direcciones Generales u Homólogos.
 
@@ -389,6 +417,30 @@ De manera progresiva el Jefe de Gobierno verificará que ese proceso de particip
 El titular de la Consejería Jurídica y de Servicios Legales dependerá directamente del Jefe de Gobierno, y será nombrado y removido libremente por éste.
 
 Para ser Consejero Jurídico se deben cumplir los mismos requisitos que establece el párrafo segundo del artículo 10 del Estatuto de Gobierno para ser Procurador General de Justicia del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 18 Bis.
+
+El titular de la Secretaria de la Contraloría General será designado por las dos terceras partes de las o los integrantes presentes del Pleno de la Asamblea Legislativa del Distrito Federal, a propuesta en terna de la o el Jefe de Gobierno y podrá ser removido por ésta o éste, de conformidad con las causas establecidas en la ley; la Asamblea Legislativa de la Ciudad de México, podrá objetar dicha determinación por las dos terceras partes de los integrantes presentes. El nombramiento del Secretario de la Contraloría General, quien durará en su encargo 7 años, con la posibilidad de ser ratificado por un periodo igual.
+
+Para ser Secretario de la Contraloría General se deben cumplir los requisitos siguientes:
+
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles;
+
+II. Acreditar experiencia en materias de transparencia, evaluación, fiscalización, rendición de cuentas, contabilidad gubernamental, control interno, responsabilidades administrativas o combate a la corrupción en la Administración Pública de la Ciudad de México;
+
+III. Tener más de treinta y cinco años de edad, al día del nombramiento;
+
+IV. Poseer al día del nombramiento, título profesional de nivel licenciatura, con antigüedad mínima de diez años;
+
+V. Gozar de buena reputación y no haber sido condenado por algún delito doloso o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
+
+VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de conformidad con la normatividad de la materia;
+
+VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores al nombramiento;
+
+VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores al nombramiento.
 
 ###### Artículo 19.
 
@@ -412,15 +464,15 @@ El Jefe de Gobierno resolverá, lo procedente, cuando exista duda sobre la compe
 
 Cuando alguna dependencia requiera informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos.
 
-### CAPITULO II. De la competencia de las Secretarías, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+### CAPITULO II. De la competencia de las Secretarías, de la Oficialía Mayor de la Ciudad de México, y de la Consejería Jurídica y de Servicios Legales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno; relaciones con estados y municipios, la coordinación metropolitana; seguimiento de funciones desconcentradas de las Delegaciones del Distrito Federal; Reclusorios y Centros de Readaptación y acción cívica.
+A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno; relaciones con estados y municipios, la coordinación metropolitana; seguimiento de funciones desconcentradas de las demarcaciones territoriales de la Ciudad de México; Reclusorios y Centros de Readaptación, regularización de la tenencia de la tierra y acción cívica.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -454,15 +506,11 @@ XII. Normar, operar y administrar los reclusorios, centros de readaptación soci
 
 XIII. Coadyuvar con el Órgano Judicial del Distrito Federal, en la ejecución de sentencias penales por delitos del fuero común, y ejecutar las medidas de protección, orientación y tratamiento impuestas a los adolescentes en términos de las normas aplicables.
 
-XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su cumplimiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
 
 XV. Sistematizar el padrón de establecimientos mercantiles que funcionen en el Distrito Federal, con base en los que para sus respectivas demarcaciones territoriales integren las delegaciones publicándolo en Internet de conformidad con las Leyes de Protección de Datos Personales y de Transparencia y Acceso a la Información Pública del Distrito Federal, sin perjuicio de que se pueda actualizar periódicamente cada uno de ellos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
 
@@ -470,15 +518,15 @@ XVI. Emitir lineamientos generales para la elaboración y actualización del pad
 
 XVII. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XVIII. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2016)
 
 XIX. Determinar los casos en que sea de utilidad pública la expropiación de bienes o la ocupación total o parcial de bienes de propiedad privada, y proponer al Jefe de Gobierno que emita la declaratoria correspondiente de expropiación u ocupación, en los términos de las disposiciones jurídicas aplicables;
 
 XX. Coordinar y supervisar el cumplimiento de las funciones desconcentradas de las Delegaciones del Distrito Federal;
 
-XXI. Conocer, substanciar y resolver los recursos administrativos interpuestos contra actos y resoluciones que emitan los Delegados en el ejercicio de sus funciones, con excepción de aquellos que sean competencia de la Contraloría General;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Conocer, substanciar y resolver los recursos administrativos interpuestos contra actos y resoluciones que emitan los delegados en el ejercicio de sus funciones, con excepción de aquellos que sean competencia de la Secretaría de la Contraloría General;
 
 XXII. Cumplir y hacer cumplir las leyes, reglamentos, acuerdos, circulares y demás disposiciones del Jefe de Gobierno;
 
@@ -489,8 +537,6 @@ XXIV. Estrechar y fortalecer la coordinación del Distrito Federal con los tres 
 XXV. Coordinar la planeación metropolitana con la participación que corresponda a los gobiernos estatales y municipales limítrofes, así como a las dependencias, órganos desconcentrados y entidades de la Administración Pública, en las materias señaladas en la Constitución y el Estatuto;
 
 XXVI. Impulsar la formulación de convenios, normas y reglamentos en los que se concerte la voluntad política de los gobiernos que inciden en la zona metropolitana;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXVI BIS. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2016)
 
@@ -608,9 +654,13 @@ XXVIII. Las demás que la presente Ley, así como otras disposiciones le asignen
 
 XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Artículo 23 ter.- A la Secretaría de Trabajo y Fomento al Empleo corresponde el despacho de las materias relativas al trabajo, previsión social y protección al empleo.
+###### Artículo 23 Ter.
+
+A la Secretaria de Trabajo y Fomento al Empleo corresponde el despacho de las materias relativas al trabajo, previsión social y protección al empleo.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -640,9 +690,9 @@ XI. Fomentar el servicio de empleo, capacitación y adiestramiento, así como au
 
 XII. Fomentar la implementación de programas internos para explicar en qué consiste el acoso laboral, y como prevenirlo en la administración pública del Distrito Federal así como en la iniciativa privada;
 
-> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Fomentar la denuncia de los actos de acoso laboral que en ejercicio de sus funciones llegara a cometer cualquier servidor público que pueda constituir responsabilidad administrativa en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables, ante la Contraloría General;
+XIII. Fomentar la denuncia de los actos de acoso laboral que en ejercicio de sus funciones llegara a cometer cualquiera persona servidora pública que pueda constituir responsabilidad administrativa en los términos de la legislación en materia de responsabilidades administrativas de las personas servidoras públicas y demás disposiciones aplicables, ante la Secretaría de la Contraloría General;
 
 XIV. Organizar las inspecciones de trabajo en los establecimientos de circunscripción local, en el ámbito de su competencia;
 
@@ -1582,9 +1632,9 @@ XXV. Determinar y conducir la política de atención ciudadana y normar, supervi
 
 XXVI. Determinar y conducir la política informática y de telecomunicaciones y normar la elaboración de los sistemas y la adquisición o arrendamiento de bienes y servicios relacionados;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXVII. Conducir las políticas de modernización, simplificación y desregulación administrativa así como de mejora regulatoria de la Administración Pública del Distrito Federal, vigilando que las acciones y programas que formulen y ejecuten en estas materias las dependencias, órganos desconcentrados y entidades se orienten a cumplir con esas políticas;
+XXVII. Conducir las políticas de modernización, simplificación y desregulación administrativa así como de mejorar (sic) regulatoria de la Administración Pública de la Ciudad de México, vigilando que las acciones y programas que formulen y ejecuten en estas materias las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades se orienten a cumplir con esas políticas; asimismo, deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emitan el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
 
@@ -1594,119 +1644,261 @@ XXVIII. Coadyuvar con las dependencias, órganos desconcentrados, delegaciones y
 
 XXIX. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, exceptuando lo relativo a la materia de Capital Humano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS INCISOS], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-A la Contraloría General le corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal.
+La Secretaria de la Contraloría General, encargada del control interno, será la responsable de prevenir, investigar y sancionar las faltas administrativas en el ámbito de la administración pública de acuerdo a la ley de la materia, le corresponde el despacho de las materias relativas al control interno, fiscalización, auditoría, responsabilidades administrativas de su competencia y evaluación de la gestión gubernamental de las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades que integran la Administración Pública de la Ciudad de México. La Secretaría de la Contraloría General gozará de autonomía técnica y de gestión, y contará con tres Subsecretarías, mediante las cuales ejercerá las atribuciones a su cargo y son las siguientes:
 
-Específicamente cuenta con las siguientes atribuciones:
+a) Subsecretarías de Prevención a la Corrupción y Auditoría;
 
-I. Planear, programar, establecer, organizar y coordinar el Sistema de Control y Evaluación del Gobierno del Distrito Federal, manteniendo permanentemente su actualización;
+b) Subsecretarías de Control y Evaluación; y
 
-II. Fiscalizar e inspeccionar los ingresos de la Administración Pública del Distrito Federal y su congruencia con el Código Financiero del Distrito Federal, procediendo en su caso, al fincamiento de la responsabilidad administrativa;
+c) Subsecretarías de Legalidad y Responsabilidades.
 
-III. Fiscalizar e inspeccionar el ejercicio del gasto público de la Administración Pública del Distrito Federal y su congruencia con el presupuesto de egresos, procediendo en su caso, al fincamiento de la responsabilidad administrativa;
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública del Distrito Federal. Discrecionalmente, podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de sus facultades de control;
+Los titulares de las Subsecretarías serán designados por la aprobación de dos terceras partes de los miembros presentes del Pleno de la Asamblea Legislativa del Distrito Federal a propuesta en terna del Jefe de Gobierno, los cuales durarán en su encargo siete años con posibilidad de reelección hasta por un periodo igual.
 
-V. Coordinar a las Contralorías internas que dependerán de la Contraloría General y que ejercerán funciones de control y fiscalización de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal, así como emitir los lineamientos para su actuación;
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Determinar los requisitos que debe reunir el personal de los órganos de control interno a que se refiere la fracción anterior, y designar a sus titulares y demás servidores públicos que los integren;
+Las funciones que desarrollará cada Subsecretarias (sic), se establecerán en el Reglamento.
 
-VII. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, asesorando y apoyando a los órganos de control interno de las dependencias, órganos desconcentrados y entidades paraestatales, los que le estarán adscritos jerárquica, técnica y funcionalmente;
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Establecer las bases generales para la realización de auditorías en las dependencias, órganos desconcentrados y entidades paraestatales, así como realizar a las mismas, las auditorías que se requieran en sustitución o apoyo de sus propios órganos de control;
+La Secretaría de la Contraloría General, específicamente cuenta con las siguientes atribuciones:
 
-IX. Verificar el cumplimiento, por parte de las dependencias, órganos desconcentrados y entidades paraestatales, de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Gobierno del Distrito Federal, procediendo en su caso, al fincamiento de responsabilidades administrativas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-X. Planear, establecer y coordinar, con la Secretaría de Finanzas y la Oficialía Mayor, los sistemas de autoevaluación integral de la información y de seguimiento de la gestión pública;
+I. Planear, programar, establecer, organizar y coordinar el sistema de control interno y evaluación de la gestión gubernamental de la Administración Pública de la Ciudad de México, manteniendo permanentemente su actualización, así como establecer los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
-XI. Realizar, dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones a las dependencias, órganos desconcentrados y entidades paraestatales, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y formular, con base en los resultados de las auditorías, las observaciones y recomendaciones necesarias, estableciendo un seguimiento sistemático de la aplicación de dichas recomendaciones; al efecto, verificará reuniones periódicas con los titulares de las dependencias, órganos desconcentrados y entidades paraestatales, los que deberán informar de las medidas adoptadas al respecto;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Inspeccionar y vigilar directamente o a través de los órganos internos de control, que las dependencias, órganos desconcentrados y entidades paraestatales, cumplan con las normas y disposiciones en materia de: información, estadística, organización, procedimientos, sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos de la Administración Pública del Distrito Federal, procediendo en su caso, al fincamiento de la responsabilidad administrativa;
+II. Fiscalizar e inspeccionar los ingresos de la Administración Pública de la Ciudad de México y su Congruencia con el Código Fiscal del Distrito Federal, procediendo en su caso, a la investigación y sustanciación del procedimiento correspondiente por sí, o por medio de los Órganos Internos de Control que le están adscritos, para lo cual podrán aplicar las sanciones que correspondan en los casos que sea competente conforme a la legislación aplicable en la materia;
 
-XIII. Fiscalizar el ejercicio de los recursos federales derivados de los acuerdos y convenios respectivos ejercidos por las dependencias, órganos desconcentrados y entidades paraestatales, en coordinación con las autoridades federales competentes;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Fiscalizar el ejercicio de los recursos del Distrito Federal comprometidos en los acuerdos y convenios con entidades federativas en coordinación con los órganos de control competentes;
+III. Fiscalizar e inspeccionar el ejercicio del gasto público de la Administración Pública de la Ciudad de México y su congruencia con el presupuesto de egresos, procediendo en su caso, a la investigación y sustanciación del procedimiento correspondiente por sí, o (sic) medio de los órganos internos de control que le están adscritos, para lo cual podrán aplicar las sanciones que correspondan en los casos que sea competente conforme a la legislación aplicable en la materia;
 
-XV. Verificar que se efectúen en los términos establecidos, la aplicación en entidades paraestatales de los subsidios que otorgue el Gobierno del Distrito Federal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Opinar, previamente a su expedición, sobre, la viabilidad y legalidad de los proyectos de normas de contabilidad gubernamental y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, que elaboren las dependencias correspondientes, así como en materia de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas;
+IV. Discrecionalmente, podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de sus facultades de control;
 
-XVII. Normar, controlar y contratar los servicios de auditores externos que resulten necesarios para cumplir las funciones de revisión y fiscalización;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Designar a los comisarios o sus equivalentes en los órganos de vigilancia, en los consejos o juntas de gobierno y administración de las entidades paraestatales;
+V. Expedir las normas, instrumentos y procedimientos de control interno de la Administración Pública de la Ciudad de México. Podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de sus facultades de control. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México;
 
-XIX. Aprobar, en caso de que se requiera conforme a las normas y objetivos que establezca, la contratación de profesionistas independientes, personas físicas o morales, para realizar trabajos en materia de control y evaluación de la gestión pública en las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Celebrar convenios de coordinación, previa autorización del Jefe de Gobierno, con la Contaduría Mayor de Hacienda de la Asamblea Legislativa, para el establecimiento de los procedimientos necesarios que permitan a ambos órganos el cumplimiento de sus respectivas funciones;
+VI. Coordinar a los Órganos Internos de Control que dependerán de ella, así como emitir los lineamientos para su actuación; los órganos internos de control ejercerán funciones de prevención, control interno y fiscalización de las dependencias, órganos desconcentrados, órganos políticos administrativos de las demarcaciones territoriales o alcaldías y entidades paraestatales de la Administración Pública de la Ciudad de México, podrán sancionar e imponer obligaciones resarcitorias distintas a las que son competencia del Tribunal de Justicia Administrativa, sustanciarán responsabilidades relativas a faltas administrativas graves turnándolas al mencionado Tribunal para su resolución;
 
-XXI. Verificar y dar seguimiento hasta su conclusión, al cumplimiento de las observaciones y recomendaciones que formule la Contaduría Mayor de Hacienda de la Asamblea Legislativa derivadas de la revisión de la cuenta pública, y en su caso, fincar las responsabilidades administrativas a que haya lugar;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Verificar y dar seguimiento hasta su conclusión, al cumplimiento de las observaciones que formule la Contaduría Mayor de Hacienda de la Cámara de Diputados derivadas de la revisión de la deuda pública del Gobierno del Distrito Federal, y en su caso, fincar las responsabilidades administrativas a que haya lugar;
+VII. Revisar y auditar directamente o a través de Los Órganos Internos de Control que le están adscritos el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, con especial atención a los contratos de obra pública, servicios, adquisiciones y la subrogación de funciones de los entes públicos en particulares, incluyendo sus términos contractuales y estableciendo un programa de auditorías especiales en los procesos electorales;
 
-XXIII. Informar semestralmente al Jefe de Gobierno (sic) Distrito Federal sobre el resultado de la evaluación de las dependencias, órganos desconcentrados y entidades paraestatales, que hayan sido objeto de fiscalización, e informar a las autoridades competentes, si así fuere requerido, el resultado de tales intervenciones;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIV. Llevar el registro de los servidores públicos sancionados en el ámbito de la Administración Pública del Distrito Federal, y celebrar convenios de colaboración en la materia, previa autorización del Jefe de Gobierno, con la Federación y las entidades federativas;
+VIII. Recibir directamente o a través de los órganos internos de control, dar curso e informar el trámite recaído a las denuncias presentadas por la ciudadanía o por los contralores ciudadanos en un plazo que no deberá exceder de 20 días hábiles y recurrir determinaciones de la fiscalía y del Tribunal de Justicia Administrativa, siempre que contravengan el interés público, en los términos que disponga la ley;
 
-XXV. Tramitar y resolver las inconformidades que presenten los proveedores o contratistas derivadas de los procedimientos de adquisición o arrendamiento de bienes muebles, prestación de servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXVI. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben de observar en el desempeño de su empleo, cargo o comisión, con motivo de quejas o denuncias de los particulares o servidores públicos o de auditorías practicadas por los órganos de control, para constituir responsabilidades administrativas, y determinar las sanciones que correspondan en los términos de ley, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida;
+IX. Nombrar conforme a la normatividad aplicable a los contralores ciudadanos que coadyuvarán en los procesos de fiscalización gozando de la facultad de impugnar las resoluciones suscritas por los titulares de órganos internos de control que afecten el interés público y emitir los lineamientos para su actuación;
 
-XXVII. Emitir, formular y notificar los pliegos de responsabilidades a los servidores públicos que estime presuntos responsables, a efecto de incoar el procedimiento administrativo correspondiente, así como a aquellos servidores públicos a los que, una vez valorados los expedientes que le remita la Contaduría Mayor de Hacienda de la Asamblea Legislativa, así lo determine;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXVIII. Intervenir en las actas de entrega-recepción de las unidades administrativas de las dependencias, órganos desconcentrados y de las entidades paraestatales, a fin de verificar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, proceder al fincamiento de la responsabilidad administrativa que proceda;
+X. Los titulares de dichos órganos internos de control serán formados a través de un sistema de profesionalización que al efecto establecerá la Secretaría de la Contraloría General, mismo que garantizará una adecuada y permanente capacitación y certificación, que tenga por objeto desarrollar una continua evaluación del desempeño. Contarán con personas servidoras públicas quienes dependerán jerárquica, técnica y funcionalmente de la Secretaría de la Contraloría General y rendirán cuentas ante el Sistema Anticorrupción de la Ciudad de México;
 
-XXIX. Intervenir en los procesos de licitación de adquisiciones de bienes y servicios y de obra pública, para vigilar que se cumpla con las normas y disposiciones aplicables;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXX. A través del Órgano de Control Interno de la Contraloría General, vigilar el cumplimiento de las normas internas de la Contraloría General, constituir las responsabilidades administrativas de su personal aplicándoles las sanciones que correspondan y, hacer al efecto, las denuncias a que hubiese lugar;
+XI. Vigilar y supervisar en colaboración con las autoridades competentes en materia de Anticorrupción de la Ciudad de México el cumplimiento de las normas de control interno y fiscalización, asesorando y apoyando a los órganos interno (sic) de control de las dependencias, órganos desconcentrados, órgano político administrativos en las demarcaciones territoriales o alcaldías y entidades paraestatales, los que le estarán adscritos jerárquica, técnica y funcionalmente a la Secretaría de la Contraloría General;
 
-XXXI. Establecer, en coordinación con la Oficialía Mayor y la Secretaría de Finanzas, políticas o lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública del Distrito Federal, a efecto de eficientar los recursos y transparentar el manejo de los mismos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y
+XII. Establecer las bases generales para la realización (sic) todo tipo de auditorías en las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales, así como realizar a las mismas, las auditorías que se requieran en sustitución a apoyo de sus propios órganos de control internos (sic);
 
-XXXIII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXIV. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+XIII. Verificar el cumplimiento, por parte de las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales, de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Gobierno de la Ciudad de México, procediendo en su caso, a la investigación y sustanciación del procedimiento correspondiente por sí, o por los órganos internos de control que le están adscritos, para lo cual podrán aplicar las sanciones que correspondan en los casos que sea competente conforme a la legislación aplicable en la materia;
 
-XXXV. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXVI. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+XIV. Planear, establecer y coordinar, con la Secretaría de Finanzas y la Oficialía Mayor, los sistemas de autoevaluación integral de la información y de seguimiento de la gestión pública;
 
-XXXVII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXVIII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+XV. Realizar, por si o a través de sus órganos internos de control o derivado de la solicitud de la Secretaría de Finanzas, de la autoridad fiscalizadora competente o por recomendación del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México, dentro del ámbito de su competencia y cuando lo estime conveniente, todo tipo de auditorías, revisiones y evaluaciones a las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo, así como promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y formular, con base en los resultados de las auditorías, las observaciones y recomendaciones necesarias, estableciendo un seguimiento sistemático de la aplicación de dichas recomendaciones, al efecto, verificará reuniones periódicas con los titulares de las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales, los que deberán informar de las medidas adoptadas al respecto; de ser el caso podrá establecer mecanismos internos para la Administración Pública de la Ciudad de México que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
-XXXIX. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XL. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+XVI. Inspeccionar, vigilar y en su caso, fiscalizar directamente o a través de los órganos internos de control, que las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales, cumplan con las normas y disposiciones en materia de: información, estadísticas, organización, procedimientos, sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, con independencia del origen de los recursos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos de la Administración Pública de la Ciudad de México y demás materias que regule (sic) los ordenamientos jurídicos aplicables a la Ciudad de México, procediendo en su caso a la investigación y sustanciación del procedimiento correspondiente por sí, o por las contralorías internas u órganos internos de control que le están adscritos, para lo cual podrán aplicar las sanciones que correspondan en los casos que sea competente conforme a la legislación aplicable en la materia;
 
-XLI. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XLII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+XVII. Fiscalizar el ejercicio de los recursos federales derivados de los acuerdos y convenios respectivos ejercidos por las dependencias, órganos desconcentrados, órganos político administrativos en las demarcaciones territoriales o alcaldías y entidades paraestatales, en coordinación con las autoridades federales competentes;
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XLIII. Establecer las normas y procedimientos de evaluación de las aptitudes y el desempeño de los servidores públicos de la Administración Pública, y así como quien desee incorporarse, para su implementación a través de la unidad administrativa que al efecto se establezca;
+XVIII. Fiscalizar el ejercicio de los recursos de la Ciudad de México comprometidos en los acuerdos y convenios con entidades federativas en coordinación con los órganos internos de control competentes;
 
-XLIV. (DEROGADA, G.O. 15 DE ENERO DE 2014)
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+XIX. Verificar que se efectúen en los términos establecidos, la aplicación en entidades paraestatales de los subsidios que otorgue el Gobierno de la Ciudad de México;
 
-XLV. Elaborar, ejecutar y dar seguimiento al programa de Contraloría Ciudadana, estableciendo las normas y procedimientos en la materia;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+XX. Designar y contratar los servicios de despachos externos de auditoría necesarios para cumplir las funciones de revisión y fiscalización previstas en otras disposiciones jurídicas, normar y controlar su desempeño, así como removerlos libremente cuando sobrevenga (sic) cuestiones de oportunidad, interés general y público.
 
-XLVI. Coordinar el funcionamiento y desarrollo de los Sistemas del Servicio Público de Carrera de la Administración Pública del Distrito Federal, de conformidad con las disposiciones aplicables;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+XXI. Aprobar, en caso de que se requiera conforme a las normas y objetivos que establezca, la contratación de profesionistas independientes, personas físicas o morales, para realizar trabajos en materia de control y evaluación de la gestión pública en las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales de la Administración Pública de la Ciudad de México;
 
-XLVII. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como dar seguimiento a las resoluciones y los acuerdos emitidos por estos órganos; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+XXII. Celebrar convenios de coordinación, con la Auditoría Superior de la Ciudad de México y con la Secretaría de la Función Pública, para el establecimiento de los procedimientos necesarios que permitan a ambos órganos el cumplimiento de sus respectivas funciones y fortalecer los trabajos del Sistema de Fiscalización de la Ciudad de México;
 
-XLVIII. Las demás que les atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Verificar y dar seguimiento hasta su conclusión, al cumplimiento de las observaciones y recomendaciones que formule la Auditoría Superior de la Ciudad de México, derivadas de la revisión de la cuenta pública, y en su caso, investigar y sustanciar el procedimiento correspondiente por sí, o por los órganos internos de control que le están adscritos, para lo cual podrán aplicar las sanciones que correspondan en los casos que sea competente conforme a la legislación aplicable en la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV. Verificar y dar seguimiento hasta su conclusión, al cumplimiento de las observaciones que formule la Auditoría Superior de la Federación derivadas de la revisión de la deuda pública del Gobierno de la Ciudad de México y las derivadas de las auditorías realizadas por la Secretaria de la Función Pública y en su caso, investigar sustanciar el procedimiento correspondiente por sí, o por las contralorías internas u órganos internos de control que le están adscritos, y aplicar las sanciones que correspondan en los casos que sea competente conforme a la legislación aplicable en la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Informar semestralmente al Jefe de Gobierno de la Ciudad de México sobre el resultado de la evaluación de las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades paraestatales, que hayan sido objeto de fiscalización, e informar a las autoridades competentes, si así fuere requerido, el resultado de tales intervenciones; así como informar y atender los requerimientos de información que conforme a su competencia requiera el Sistema Anticorrupción de la Ciudad de México o su Comité Coordinador en términos de la Ley de la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVI. Aportar toda la información en el ámbito de su competencia para la debida integración y operación de la Plataforma Digital del Sistema Anticorrupción de la Ciudad de México, en términos de la ley de la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVII. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México, en materia de combate a la corrupción en la Administración de la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXVIII. Tramitar y resolver las inconformidades que presenten los proveedores o contratistas derivadas de los procedimientos de adquisición o arrendamiento de bienes muebles, prestación de servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIX. Conocer e investigar los actos, omisiones o conductas de las personas servidores públicos que afectan la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben de observar en el desempeño de su empleo, cargo o comisión, con motivo de quejas o denuncias de los particulares o personas servidoras públicas o de auditorías practicadas por si o a través de los órganos de control interno, que puedan constituir responsabilidades administrativas, así como sustanciar los procedimientos correspondientes conforme a la legislación local aplicable, por si, o por conducto de los órganos internos de control que le están adscritos; para lo cual aplicarán las sanciones que correspondan para el ámbito de su competencia; denunciar los actos, omisiones o conductas a otras autoridades cuando sean de su competencia en término de las disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXX. La Secretaria y los órganos internos de control que dependan de ésta, sustanciarán el procedimiento de inicio de responsabilidades de las personas servidoras públicas conforme lo establezca la legislación aplicable de la materia y procederá conforme a ésta, a fin de combatir la corrupción;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXI. Emitir, formular y notificar los procedimientos disciplinarios a las personas servidoras públicas, de conformidad con la legislación aplicable de la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXII. Intervenir en las actas de entrega-recepción de las unidades administrativas de las dependencias, órganos desconcentrados, órganos políticos administrativos en las demarcaciones territoriales o alcaldías y de las entidades paraestatales, a fin de verificar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, investigará y calificará la falta administrativa y sustanciará el procedimiento de inicio de responsabilidades de las personas servidoras públicas conforme lo establezca la legislación aplicable de la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIII. Intervenir en los procesos de licitación de adquisiciones de bienes y servicios y de obra pública, para vigilar que se cumpla con las normas y disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIV. A través del Órgano Interno de Control de la Secretaría, vigilar el cumplimiento de sus normas internas, constituir las responsabilidades administrativas de su personal aplicándoles las sanciones que correspondan y, hacer al efecto, las denuncias a que hubiese lugar;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXV. Establecer, en coordinación con la Oficialía Mayor y la Secretaría de Finanzas, políticas o lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública de la Ciudad de México, a efecto de eficientar los recursos y transparentar el manejo de los mismos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXVI. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en los que la Secretaría de la Contraloría General sea parte, cuando tenga interés jurídico o se afecte al patrimonio del Gobierno de la Ciudad de México, y estos se encuentren relacionados con las facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXVII. Establecer las normas y procedimientos de evaluación y evaluar las aptitudes y el desempeño de las personas servidoras públicas de la Administración Pública así como de quien desee incorporarse a la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXVIII. Implementar y dar seguimiento el Servicio Profesional de Control Gubernamental de Carrera, conforme a la Ley de la materia, a fin de fortalecer las actividades de control interno, participación y seguimiento de todas las acciones y decisiones emprendidas en la Administración Pública de la Ciudad de México, en ejercicio de sus facultades y cumplimiento de sus obligaciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIX. Elaborar, ejecutar y dar seguimiento al programa de Contraloría Ciudadana, estableciendo las normas y procedimientos en la materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XL. Coordinar el funcionamiento y desarrollo de los Sistemas del Servicio Público de Carrera de la Administración Pública de la Ciudad de México, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLI. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Público de Carrera de la Administración Pública de la Ciudad de México, así como dar seguimiento a las resoluciones y los acuerdos emitidos por estos órganos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLII. Implementar y dar seguimiento el Servicio Profesional de Control Gubernamental de Carrera, conforme al estatuto que al efecto se expida, a fin de fortalecer las actividades de control interno, participación y seguimiento de todas las acciones y decisiones emprendidas en la Administración Pública de la Ciudad de México, en ejercicio de sus facultades y cumplimiento de sus obligaciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLIII. Participar activamente, colaborar y generar mecanismos de coordinación con las instancias de fiscalización y control competentes, así como las demás instancias que participan en el Sistema Anticorrupción de la Ciudad de México en términos de la legislación aplicable para la debida integración, operación y seguimiento de dicho Sistema, así como desarrollar todas las demás acciones que se requieran conforme a la legislación de la materia para el combate a la corrupción en la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLIV. Formar parte del Sistema Anticorrupción y el de Fiscalización ambos de la Ciudad de México, en términos de la Ley de la materia.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLV. Participar, en el ámbito de su competencia, en la definición, organización y evaluación del servicio profesional de carrera de los entes públicos, así como para establecer esquemas de colaboración y los indicadores que permitan rendir cuentas del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLVI. Colaborar en el marco del Sistema Anticorrupción de la Ciudad de México y de los Sistemas Nacional y Local de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLVII. Implementar las acciones que acuerde el Sistema Anticorrupción de la Ciudad de México, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLVIII. Establecer las normas de control interno sobre el ejercicio de los recursos y las contrataciones públicas reguladas por las leyes aplicables en la materia, que propicien las mejores condiciones de contratación conforme a los principios de austeridad, moderación, honradez, eficiencia, eficacia, economía, transparencia, racionalidad, imparcialidad y rendición de cuentas; proporcionar en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias, órganos desconcentrados, demarcaciones territoriales y entidades de la Administración Pública de la Ciudad de México, y promover, con la intervención que corresponda a otras dependencias la coordinación y la cooperación con los Órganos Legislativo y Judicial de la Ciudad de México, los órganos autónomos, y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativa y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel local;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLIX. En coordinación con la Oficialía Mayor definir el sistema de gobierno abierto atendiendo las directrices que para tal efecto establezca el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, que obligue a los entes públicos a informar a través de una plataforma de accesibilidad universal, de datos abiertos y apoyada en nuevas tecnologías que garanticen de forma completa y actualizada la política de gobierno digital, la transparencia, la rendición de cuentas y el acceso a la información. Así mismo, generar acciones y políticas públicas orientadas a la apertura gubernamental en el ámbito de las dependencias, órganos desconcentrados, demarcaciones territoriales, así como entidades paraestatales de la Administración Pública de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+L. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México, la política general de la Administración Pública de la Ciudad de México para establecer acciones que proporcionen la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquella genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LI. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México, en materia de combate a la corrupción en la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LII. Emitir el Código de Ética de los Servidores Públicos del gobierno local y las Reglas de Integridad para el ejercicio de la función pública;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LIII. Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación que emite el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México, establecer mecanismos y normas de control interno para el seguimiento y evaluación general de la gestión;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LIV. Diseñar, implementar, operar un sistema de certificación de los contralores internos que le están adscritos y demás personal que estime necesario;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LV. Desarrollar y ejecutar programas de evaluación preventiva en materias de ética e integridad pública en el servicio público;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LVI. Implementar, administrar y operar los sistemas de información que sean necesarios para el ejercicio de sus atribuciones y suministrar la información para la Plataforma Digital de la Ciudad de México y la Plataforma Nacional en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LVII. Coordinar a los contralores ciudadanos, así como emitir los lineamientos respecto a la emisión y terminación de sus nombramientos, actuación, derechos y obligaciones, quienes realizarán sus funciones de forma honorífica, por lo que no percibirán remuneración alguna, y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LVIII. Las demás que les atribuyan expresamente las leyes y reglamentos.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -1840,11 +2032,11 @@ b) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo den
 
 c) De no contar con lo señalado en los incisos anteriores deberá someterse y cumplir cabalmente con lo establecido en el procedimiento de capacidad comprobada que para tal fin determinen la Secretaría de Finanzas y la Escuela de Administración Pública, ambas del Gobierno del Distrito Federal, con base a los ordenamientos que regulan la Administración Pública del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
-Corresponde a las y los Titulares de los Órganos Político-Administrativos de cada demarcación territorial:
+Corresponde a las y los Titulares de los Órganos Político Administrativos de cada demarcación territorial:
 
 I. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la Delegación;
 
@@ -2046,9 +2238,21 @@ LXXXIII. Solicitar al Jefe de Gobierno del Distrito Federal, la emisión de la d
 
 LXXXIV. Elaborar su respectivo Atlas de Riesgo Delegacional y mantenerlo actualizado.
 
+> <small>(N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN LXXXVII)</small>
+
 > <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 LXXXV. Las demás que le atribuyan expresamente las Leyes y reglamentos.
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LXXXVI. Colaborar y proporcionar toda la información que se requiera en términos de la legislación aplicable para la debida integración, operación y seguimiento del Sistema Anticorrupción de la Ciudad de México, y las demás que se requieran en términos de la legislación de la materia para el combate a la corrupción;
+
+> <small>(N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN LXXXV)</small>
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+LXXXVII. Las demás que le atribuyan expresamente las Leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -2100,9 +2304,15 @@ Los órganos de gobierno de las entidades estarán a cargo de la administración
 
 En los fideicomisos en los que participen las delegaciones el Jefe de Gobierno podrá autorizar que la participación mayoritaria de servidores públicos de la Administración Pública Local, a que se refiere el párrafo anterior, se constituye a través de los servidores públicos de la delegación que corresponda.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 47.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objetivo, y de los objetivos y metas señalados en sus programas.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Las entidades paraestatales a través de sus órganos de gobierno y sus titulares, deberán colaborar y proporcionar toda la información que se requiera en términos de la legislación aplicable para la debida integración, operación y seguimiento del Sistema Anticorrupción de la Ciudad de México, y las demás que se requieran en términos de la legislación de la materia para el combate a la corrupción.
 
 ### CAPITULO II
 
@@ -2148,6 +2358,8 @@ Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el 
 
 El director general será designado por el Jefe de Gobierno o a indicación de éste a través del coordinador de sector por el órgano de gobierno, debiendo recaer tal nombramiento en la persona que reúna los requisitos que establece el artículo 103 del Estatuto de Gobierno.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 54.
 
 Los directores generales de los organismos descentralizados por lo que toca a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, estarán facultados expresamente para:
@@ -2167,6 +2379,10 @@ VI. Comprometer asuntos en arbitraje y celebrar transacciones;
 VII. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el director general, y
 
 VIII. Sustituir y revocar poderes generales o especiales.
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Colaborar y proporcionar toda la información que se requiera en términos de la legislación aplicable para la debida integración, operación y seguimiento del Sistema Anticorrupción de la Ciudad de México, y las demás que se requieran en términos de la legislación de la materia para el combate a la corrupción.
 
 Los directores generales ejercerán las facultades a que se refieren las fracciones II, III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el estatuto orgánico que autorice el órgano de gobierno o equivalente.
 
@@ -2282,7 +2498,9 @@ IV. Aprobar la concertación de los préstamos para el financiamiento de la enti
 
 V. Expedir las normas o bases generales sobre las que el Director General pueda disponer de los activos fijos de la entidad, las que deberán apegarse a las leyes aplicables;
 
-VI. Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros de la entidad;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Aprobar anualmente, previo informe de opinión de los comisarios y dictamen de los auditores externos, los estados financieros de la entidad;
 
 VII. Aprobar, de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
@@ -2324,17 +2542,21 @@ X. Suscribir, en su caso, los contratos colectivos e individuales que regulen la
 
 XI. Las que se señalen en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 72.
 
-El órgano de vigilancia de las entidades paraestatales estará integrado por un comisario público propietario y un suplente, designados por la Contraloría General del Distrito Federal, quienes evaluarán el desempeño general y por funciones de las entidades.
+El órgano de vigilancia de las entidades paraestatales estará integrado por un comisario público propietario y un suplente, propuestos por el Poder Ejecutivo a través del titular de la Secretaria de la Contraloría de la Ciudad de México, y ratificados por el Órgano Legislativo de la Ciudad de México; los cuales serán evaluados respecto al desempeño general y por funciones de las entidades mediante la emisión de un informe anual de desempeño general de la Secretaria de la Contraloría General.
 
 ###### Artículo 73.
 
 Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas. Deberán atender los informes que en materia de control y auditoría les sean turnados; y vigilarán las medidas correctivas que fueren necesarias.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 74.
 
-Los órganos internos de control de las entidades paraestatales estarán adscritos jerárquica, técnica y funcionalmente a la Contraloría General, y tendrán a su cargo las actividades relativas al control y evaluación de la gestión pública de la entidad, conforme al Reglamento correspondiente y a los lineamientos que emita la Contraloría General del Distrito Federal.
+Los órganos internos de control de las entidades paraestatales estarán adscritos jerárquica, técnica y funcionalmente a la Secretaría de la Contraloría General, y tendrán a su cargo las actividades relativas al control y evaluación de la gestión pública de la entidad, conforme a la normatividad aplicable.
 
 T R A N S I T O R I O S
 
@@ -2889,3 +3111,19 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La Asamblea Legislativa del Distrito Federal, en la aprobación el (sic) Presupuesto de Egresos de 2017, deberá asignar una partida presupuestal que contemple recursos suficientes para la implementación del Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- EL Jefe de Gobierno de la Ciudad de México deberá nombrar y someter a ratificación de la Asamblea Legislativa del Distrito Federal al Titular de la Secretaría de la Contraloría General y a partir de la ratificación iniciará el periodo de siete años en el cargo a que se refiere el presente Decreto. El nombramiento o en su caso, ratificación deberá realizarse en un plazo máximo de 60 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+En el nombramiento y ratificación señalados, el Jefe de Gobierno y la Asamblea Legislativa, podrán considerar al Titular de la Contraloría General que se encuentre en funciones a la entrada en vigor de éste Decreto.
+
+CUARTO.- El Jefe de Gobierno de la Ciudad de México, deberá de proponer al Pleno las ternas de quienes fungirán como titulares de las nuevas Subsecretarías de la Secretaría de la Contraloría General de la Ciudad de México, a fin de que sean ratificados por el Pleno en un plazo máximo de 60 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
