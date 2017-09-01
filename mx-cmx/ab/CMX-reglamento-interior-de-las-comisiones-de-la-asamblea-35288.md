@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2017-02-17"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -110,11 +110,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
-> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 4.
 
-Son comisiones de Análisis y Dictamen legislativo que se construyen con el carácter de definitivo y funcionan para toda la legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimento; Administración Pública local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblo y Barrios Originarios y Atención a Migrantes; Asuntos laborales y Previsión Social; Asuntos Políticos Electorales; Atención a Grupos Prioritarios y Vulnerables; Atención al Desarrollo de la Niñez; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Para la Igualdad de Género; Fomento Económico; Gestión Integral del Agua; Hacienda; Juventud y Deporte; La Diversidad Sexual; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana: Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Movilidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos y Vivienda.
+Son comisiones de Análisis y Dictamen legislativo que se construyen con el carácter de definitivo y funcionan para toda la legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimento; Administración Pública local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblo y Barrios Originarios y Atención a Migrantes; Asuntos laborales y Previsión Social; Asuntos Políticos Electorales; Atención a Grupos Vulnerables; Atención al Desarrollo de la Niñez; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Para la Igualdad de Género; Fomento Económico; Gestión Integral del Agua; Hacienda; Juventud y Deporte; La Diversidad Sexual; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México; Salud y Asistencia Social; Seguridad Pública; Movilidad; Transparencia y Combate a la Corrupción; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -877,3 +877,11 @@ G.O. 17 DE FEBRERO DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Artículo Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
