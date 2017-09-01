@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2016-12-29"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -5359,7 +5359,7 @@ El que paga el daño causado por sus sirvientes, empleados u operarios, puede re
 
 ###### Artículo 1095.
 
-El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les estén encomendadas. Esta responsabilidad será solidaria tratándose de hechos ilícitos dolosos, y subsidiaria en los demás casos, en los que sólo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 1096.
 
@@ -10854,3 +10854,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 385 POR EL QUE "SE DEROGA EL ARTÍCULO 1095 DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
