@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2017-06-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -156,7 +156,9 @@ b).- El servidor público que tenga a su cargo el mando directo de la fuerza pú
 
 c).- El Presidente de la Comisión de Derechos Humanos del Distrito Federal; y
 
-d).- El Contralor General de la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+d).- El titular de la Secretaria de la Contraloría General de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
 
@@ -248,9 +250,29 @@ XXXVII.- Otorgar la Medalla a las Defensoras y Defensores de Derechos Humanos en
 
 La Asamblea Legislativa tiene la atribución de Otorgar la Medalla al Mérito Periodístico "Miguel Ángel Granados Chapa" en reconocimiento a los profesionales de la comunicación de medios escritos y electrónicos de la Ciudad de México, que con su trabajo contribuyen al desarrollo de los principios democráticos, entendidos como "un sistema de vida fundado en el constante mejoramiento económico, social, y cultural"; y
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXXVIII.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
+XXXVIII.- Designar o en su caso ratificar por las dos terceras partes de sus integrantes presentes del Pleno, en un plazo no mayor de treinta días naturales a su recepción, a propuesta en terna de la o el Jefe de Gobierno de la Ciudad de México, el nombramiento de la persona titular de la Secretaría de la Contraloría General de la Ciudad de México, quien durará en su encargo siete años, con la posibilidad de ser ratificada por un periodo igual.
+
+En caso de no contar con la votación requerida para su designación o en su caso ratificación, la o el Jefe de Gobierno en un periodo de diez días naturales, enviará en terna a la Asamblea Legislativa una nueva propuesta, la cual deberá de someterse dentro de los diez días naturales a su presentación en sus términos. De no aprobarse la propuesta, el Ejecutivo hará la designación de manera directa.
+
+Una vez aprobada la propuesta, en su caso la ratificación, la Asamblea Legislativa tomará la protesta de ley.
+
+Este mismo procedimiento se aplicará para el caso del nombramiento de los titulares de las 3 Subsecretarías adscritas a la Secretaria de la Contraloría General de la Ciudad de México.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIX.- Ratificar a las personas titulares de los Órganos Internos de Control de todas las Dependencias, Órganos, Organismos e Instituciones de la Administración Pública de la Ciudad de México y Comisarios, propuestos por el Poder Ejecutivo a través del titular de la Secretaria de la Contraloría General de la Ciudad de México.
+
+Asimismo, nombrar a las personas titulares de los Órganos Internos de Control de los Órganos Autónomos de la Ciudad de México, de conformidad con la legislación aplicable de la materia y considerando el Sistema de Profesionalización que se establezca para ello.
+
+Todo proceso de ratificación, designación y selección de las personas servidoras públicas que integran el Sistema Anticorrupción de la Ciudad de México, deberá ser difundo (sic) en el Portal de Internet de la Asamblea Legislativa. De igual forma, se deberá publicar toda la información relacionada con el proceso, tales como dictámenes, calendario de reuniones con fecha, lugar y orden del día, versiones estenografías (sic) y/o videograbaciones de las reuniones, documentos técnicos de apoyo, evaluación de los expedientes y méritos de las y los candidatos, así como una explicación sobre el desarrollo de cada una de las etapas. En todos los casos se salvaguardarán los datos personales de acuerdo con las leyes en la materia.
+
+Asimismo, y con el propósito de fomentar el Derecho a la participación ciudadana la o las comisiones dictaminadoras organizarán comparecencias publicas, para que las y los habitantes de la Ciudad de México, puedan valorar y conocer los conocimientos técnicos, plan de trabajo, experiencia académica, compromiso, integridad e independencia política de cada candidata o candidato; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XL.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -1004,23 +1026,35 @@ Se considerará carga de trabajo cuando una Comisión haya emitido cuando menos 
 
 Lo anterior, será sin detrimento de lo que disponen los artículos 65 y 66 del presente ordenamiento.
 
-> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 62.
 
-Las Comisiones Ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
+Las Comisiones Ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta ley y con la estructura funcional de las dependencias de la Administración Pública de la Ciudad de México, las siguientes:
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 I.- Abasto y Distribución de Alimentos;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 II.- Administración Pública Local;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 III.- Administración y Procuración de Justicia;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 IV.- Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 V.- Asuntos Laborales y Previsión Social;
 
-VI.- Asuntos Político – Electorales;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VI.- Asuntos Político - Electorales;
 
 > <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
 
@@ -1030,27 +1064,51 @@ VII.- Atención a Grupos Prioritarios y Vulnerables;
 
 VIII.- Atención al Desarrollo de la Niñez;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 IX.- Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 X.- Cultura;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XI.- Derechos Humanos;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XII.- Desarrollo e Infraestructura Urbana;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XIII.- Desarrollo Metropolitano;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XIV.- Desarrollo Rural;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XV.- Desarrollo Social;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XVI.- Educación;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XVII.- Para la Igualdad de Género;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XVIII.- Fomento Económico;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XIX.- Gestión Integral del Agua;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XX.- Hacienda;
 
@@ -1058,37 +1116,71 @@ XX.- Hacienda;
 
 XXI.- Juventud y Deporte;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXII.- La Diversidad Sexual;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXIII.- Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXIV.- Registral y Notarial;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXV.- Participación Ciudadana;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXVI.- Población y Desarrollo;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXVII.- Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXVIII.- Presupuesto y Cuenta Pública;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXIX.- Protección Civil;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXX.- Salud y Asistencia Social;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXXI.- Seguridad Pública;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXXII.- Movilidad;
 
-XXXIII.- Transparencia a la Gestión;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIII.- Transparencia y Combate a la Corrupción;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXXIV.- Turismo;
 
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 XXXV.- Uso y Aprovechamiento de Bienes y Servicios Públicos;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXXVI.- Vivienda;
 
-XXXVII.- Vigilancia de la Auditoria Superior de la Ciudad de México, y
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXVII.- Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 XXXVIII.- Vigilancia y Evaluación de Políticas y Programas Sociales.
 
@@ -1130,11 +1222,11 @@ Las propuestas de modificación que, en su caso, se incluyan en las opiniones a 
 
 La comisión o comisiones dictaminadoras del Presupuesto de egresos del Distrito Federal, decidirán sobre la inclusión de las opiniones emitidas por las comisiones ordinarias, de acuerdo a la disponibilidad de recursos y en cumplimiento a lo establecido en la Ley de Presupuesto y Gasto Eficiente.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 65.
 
-La Comisión de Vigilancia de la Auditoria Superior de la Ciudad de México ejercerá sus funciones conforme a esta Ley y la Ley de Fiscalización Superior de la Ciudad de México, en lo que le corresponda.
+La Comisión de Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México ejercerá sus funciones conforme a esta Ley y la Ley de Fiscalización Superior de la Ciudad de México, en lo que corresponda.
 
 > <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2515,3 +2607,11 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el pleno de la Asamblea Legislativa.
 
 TERCERO.- Por única ocasión se entregará la Medalla al Mérito Docente "Jaime Torres Bodet" y el Diploma respectivo correspondiente al año 2017, dentro del primer periodo ordinario de sesiones del tercer año legislativo, en la fecha que acuerde la Comisión de Gobierno.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
