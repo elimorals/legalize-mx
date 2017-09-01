@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2017-07-28"
+last_updated: "2017-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1037,15 +1037,19 @@ IV.- Dictaminar respecto del establecimiento de sistemas, modalidades, rutas de 
 
 V.- En general todas aquellas que el Cabildo le encomiende.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 89.
 
-Comisión de Educación, Cultura y Bibliotecas.- La Comisión de Educación Cultura y Bibliotecas tendrá las siguientes atribuciones;
+Comisión de Educación, Cultura y Bibliotecas.- La Comisión de Educación, Cultura y Bibliotecas tendrá las siguientes atribuciones:
 
 I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de Ley disposiciones normativas de observancia general relacionadas con el sistema educativo municipal;
 
 II.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover lo (sic) recursos humanos, materiales y financieros del sistema educativo municipal;
 
-III.- Proponer al Cabildo la adopción de políticas y medidas para optimizar los recursos municipales e (sic) materia de desarrollo cultural y educativo supervisando el funcionamiento de las instalaciones vigilando el cumplimiento de los programas correspondientes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III.- Analizar las políticas y programas educativos de las dependencias y entidades municipales, proponiendo al Cabildo la adopción de medidas para optimizar los recursos municipales en materia de desarrollo cultural y educativo, así como supervisar el funcionamiento de las instalaciones educativas para asegurar que se apliquen estrategias y acciones de seguridad escolar, así como de prevención, atención y erradicación del acoso o violencia escolar, y vigilar el cumplimiento de los programas educativos correspondientes;
 
 IV.- Proponer políticas y estrategias de capacitación respecto de los servicios que preste l (sic) administración pública;
 
@@ -1654,3 +1658,15 @@ P.O. 28 DE JULIO DE 2017.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones normativas que se opongan a la presente reforma.
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN XXII-ECB-01/2017 RELATIVO A REFORMAS AL ARTÍCULO 27 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA; ARTÍCULO 12 DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA MUNICIPAL; ARTÍCULO 89 EL (SIC) REGLAMENTO INTERNO Y DE CABILDO PARA EL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA; ADICIONAR EL ARTÍCULO 96 BIS Y REFORMAR LOS ARTÍCULOS 191 Y 196 BIS AL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, A FIN DE ESTABLECER MEDIDAS Y ESTRATEGIAS MUNICIPALES PARA COMBATIR EL ACOSO Y LA VIOLENCIA ESCOLAR (BULLYING)".]
+
+PRIMERO.- Publíquense las presentes reformas en la Gaceta Municipal, órgano oficial de difusión del H. Ayuntamiento de Tijuana.
+
+SEGUNDO.- Túrnese para su publicación en el Periódico Oficial del Estrado (sic) de Baja California, órgano de difusión del Gobierno del Estado.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaría de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
