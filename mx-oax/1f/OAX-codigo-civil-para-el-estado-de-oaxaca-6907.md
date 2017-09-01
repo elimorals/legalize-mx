@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-05-12"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -479,6 +479,10 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 
 Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél, acompañando el certificado de nacimiento. El certificado de nacimiento se otorgará de forma gratuita y deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado. Dicho certificado hace prueba del día, hora, lugar de nacimiento, maternidad y sexo del nacido.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+La Dirección del Registro civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños dentro de los ciento ochenta días de ocurrido y la expedición de la primera copia certificada del acta de dicho registro.
+
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 ###### Artículo 67.
@@ -595,15 +599,15 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 68, se hará constar las particularidades que los distingan, según las noticias que proporcione el Médico, el Cirujano, la Matrona o las personas que hayan asistido al parto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPITULO III. De las actas de reconocimiento de hijos naturales
+### CAPITULO III. De las actas de reconocimiento
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 81.
 
-El Acta de Nacimiento surte efectos de reconocimiento de hijo en relación a los progenitores que aparezcan en el acta.
+En el acta de nacimiento original se harán las anotaciones correspondientes al reconocimiento, el cual quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -611,23 +615,25 @@ El Acta de Nacimiento surte efectos de reconocimiento de hijo en relación a los
 
 En el reconocimiento de un hijo hecho con posterioridad a su registro de nacimiento, es necesario recabar su consentimiento para ser reconocido si es mayor de edad, si es menor de edad pero mayor de catorce años, su consentimiento y el de su tutor, y si es menor de catorce años, el consentimiento de su tutor.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 83.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del término de quince días, al encargado del registro el original o copia certificada del documento que lo compruebe. En el Acta se insertará la parte relativa de dicho documento, observándose, en lo conducente las demás prescripciones contenidas en este Capítulo y en el Capítulo IV del Título Séptimo de este libro.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del término de quince días, al encargado del registro el original o copia certificada del documento que lo compruebe. Deberá procederse conforme a lo dispuesto por el artículo 84 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+En los casos de sentencia judicial de reconocimiento de paternidad bastará la presentación de la copia certificada de la sentencia ejecutoriada para que se dé cumplimiento.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 84.
 
-En el Acta de Reconocimiento que se extienda con posterioridad a la del nacimiento correspondiente, se hará mención de esta última poniendo en ella la anotación marginal respectiva.
+En el Acta de Reconocimiento que se extienda con posterioridad a la del nacimiento correspondiente, se harán las anotaciones correspondientes en el acta de nacimiento original y deberá levantarse nueva acta de nacimiento en términos de lo dispuesto por el artículo 81.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 85.
 
-Si el reconocimiento se hiciere en Oficialía diferente a aquella en que se levantó el Acta de Nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación marginal.
+Si el reconocimiento se hiciere en Oficialía diferente a aquella en que se levantó el Acta de Nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta respectiva.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1223,11 +1229,11 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquier condición contraria a la comunidad íntima de vida y a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 147.
 
-Para contraer matrimonio, tanto el hombre como la mujer necesitan haber cumplido dieciocho años.
+Para contraer matrimonio es necesario que los contrayentes hayan cumplido dieciocho años de edad.
 
 ###### Artículo 148.
 
@@ -2359,9 +2365,15 @@ Los hijos están obligados a dar alimentos a los padres. A falta o por imposibil
 
 A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 318.
 
-Los hermanos tienen obligación de dar alimentos a sus hermanos menores, mientras llegan a la edad de dieciocho años. También deben alimentar a los hermanos que fueren incapaces.
+Los hermanos y parientes colaterales a que se refiere el artículo anterior tienen obligación de dar alimentos a los niños, niñas y adolescentes. También deben alimentar a los que fueren incapaces
 
 ###### Artículo 319.
 
@@ -2370,6 +2382,10 @@ El adoptante y el adoptado tienen obligación de darse alimentos en los casos en
 ###### Artículo 320.
 
 Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentario y para proporcionarle un oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Por lo que hace a las personas adultas mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
 ###### Artículo 321.
 
@@ -3119,13 +3135,17 @@ I. Por el padre y la madre; y
 
 II. Por los abuelos que a juicio del Juez representen el mayor interés de los menores, oyendo en todo caso a éstos.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 429.
 
-Si el padre y la madre se separan o viven separados decidirán, de común acuerdo, quien atenderá la guarda y la custodia de los hijos. En caso de que no se pongan de acuerdo sobre éste punto, el Juez, teniendo siempre en cuenta los intereses de los hijos, designará a la persona que deba hacerlo. Los hijos habitarán con el ascendiente al que se encargue la custodia.
+Si el padre y la madre se separan o viven separados decidirán, de común acuerdo, quien atenderá la guarda y la custodia de los hijos.
 
-En todo caso, los hijos tienen derecho de convivir con el progenitor que esté separado, para lo cual, en caso de discenso (sic) entre el padre y la madre, el Juez regulará el régimen de visitas y convivencia que mejor atienda a los intereses de los hijos. Para tomar su decisión, deberá oír a los menores.
+En caso de desacuerdo, el Juez, con base en el interés superior de la niñez, a la opinión del Ministerio Público y al resultado de las pruebas periciales que oficiosamente habrán de practicárseles a ambos progenitores en materia de trabajo social y de psicología familiar así como las demás que se estimen pertinentes, resolverá lo conducente a la designación de la persona que deba tener la guarda y la custodia del menor, teniendo como objetivo primordial, el cuidar, educar y respetar al niño, niña o adolescente, sin infringir actos de fuerza que atenten contra su integridad física o psíquica.
+
+Los hijos habitarán con el ascendiente al que se encargue la custodia. Por lo que el otro progenitor estará obligado a colaborar en su alimentación y conservará los derechos de visita y convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
+
+En todos los asuntos del orden familiar, los jueces y tribunales estarán facultados para recabar y desahogar de oficio las pruebas necesarias para preservar el interés superior de la niñez, otorgando al ministerio público la intervención que corresponda.
 
 (NOTA: EL 24 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3485,6 +3505,8 @@ El juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 ### CAPITULO IV. De la tutela legítima de los mayores de edad incapaces
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 486.
 
 El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 428, tienen derecho, aunque fuere menor, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión del hijo póstumo.
@@ -3563,7 +3585,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 ###### Artículo 501.
 
-El marido es el tutor legítimo y forzoso de su mujer y ésta lo es de su marido.
+La tutela del cónyuge declarado incapaz corresponde legítima y forzosamente al otro cónyuge.
 
 ###### Artículo 502.
 
@@ -4843,7 +4865,9 @@ El valor máximo de los bienes afectos al patrimonio familiar, conforme al Artí
 
 El patrimonio de familia podrá constituirse:
 
-I. Por el padre, en su defecto por la madre; y en defecto de ambos por el ascendiente que ejerza la patria potestad;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Por un cónyuge, o en su defecto por el otro cónyuge; y en defecto de ambos por el ascendiente que ejerza la patria potestad.
 
 II. Por los cónyuges sobre sus bienes respectivos sin que, tratándose de la mujer, necesite ésta autorización del marido;
 
@@ -16140,3 +16164,9 @@ SEGUNDO. Los juicios iniciados previo a la publicación del presente Decreto deb
 TERCERO. La Dirección del Registro Civil, contará con un término de treinta días, a partir de la publicación del presente Decreto para realizar las adecuaciones necesarias a su Reglamento.
 
 CUARTO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 665.- MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
