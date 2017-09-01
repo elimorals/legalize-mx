@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1113
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-15"
-last_updated: "2016-11-10"
+last_updated: "2017-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-10-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de enero de 2016.
 
@@ -29,7 +29,9 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-ANTECEDENTES …
+ANTECEDENTES
+
+[...]
 
 En virtud de los considerandos anteriores, y con fundamento en los artículos 41, Párrafo Segundo, Base V, Apartados A y D, párrafos primero y segundo de la Constitución Política de los Estados Unidos Mexicanos; 29, párrafo 1; 30 párrafos 2, 3 y 4; 34, párrafo 1, incisos a), b), c) y d); 36, párrafo 1; 42, párrafo 2; 43, párrafo 1; 44, párrafo 1 inciso a); 57, párrafo 1, inciso a); 201, párrafos 1, 3, 4 y 5; 202, párrafos 1 y 2; 203, párrafos 1 y 2; 204, párrafos 1 y 2 y 206, párrafo 4 de la Ley General de Instituciones y Procedimientos Electorales, el Consejo General del Instituto Nacional Electoral emite el siguiente:
 
@@ -1011,17 +1013,19 @@ Las fracciones IV, V, VI, IX, X y XI, serán de exclusiva aplicación al Servici
 
 En caso de fallecimiento del Personal del Instituto, el familiar o la persona que compruebe haber cubierto los gastos de defunción recibirá el importe de dichos gastos, que no podrá exceder del monto equivalente a mil veces el salario mínimo general diario vigente, y al familiar que haya sido designado por este o a quien acredite ser causahabiente, en términos de los lineamientos en la materia que para tal efecto emita la DEA, le serán entregados hasta cuatro meses del salario integrado correspondiente al puesto que ocupaba a la fecha del deceso del funcionario.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 80.
 
-El Personal del Instituto podrá recibir el pago de una compensación por término de la relación laboral, de acuerdo con los lineamientos en la materia que para tal efecto apruebe la Junta.
+El Personal del Instituto podrá recibir el pago de una compensación por término de la relación laboral, de acuerdo con los Lineamientos en la materia que para tal efecto apruebe la Junta.
 
 No procederá el pago de la compensación prevista en el párrafo anterior al Personal del Instituto que:
 
-I. Haya sido sancionado con destitución impuesta mediante el Procedimiento Laboral Disciplinario regulado en el presente Estatuto o el procedimiento a cargo del Órgano Interno de Control del Instituto;
+I. Haya sido sancionado con destitución impuesta mediante el Procedimiento Laboral Disciplinario regulado en el presente Estatuto o el Procedimiento de la Ley General de Responsabilidades Administrativas, conforme lo informe el Órgano Interno de Control del Instituto;
 
-II. Esté sujeto a investigación o al Procedimiento Laboral Disciplinario regulado en el presente Estatuto, o al procedimiento a cargo del Órgano Interno de Control del Instituto, hasta en tanto se resuelva la causa iniciada en su contra y no concluya con la destitución o rescisión laboral, y
+II. Esté sujeto a investigación o al Procedimiento Laboral Disciplinario regulado en el presente Estatuto, o al Procedimiento de la Ley General de Responsabilidades Administrativas, conforme lo informe el Órgano Interno de Control del Instituto, hasta en tanto se resuelva la causa iniciada en su contra y no concluya con la destitución o rescisión laboral, y
 
-III. Presente su renuncia estando sujeto a un Procedimiento Laboral Disciplinario o administrativo en curso.
+III. Presente su renuncia estando sujeto a un Procedimiento Laboral Disciplinario o Administrativo de la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 81.
 
@@ -3307,9 +3311,11 @@ Las autoridades competentes para conocer, substanciar y resolver el Procedimient
 
 La autoridad resolutora conformará un Registro de Criterios que sistematicen los razonamientos lógico-jurídicos en que se haya sustentado la resolución de los procedimientos laborales disciplinarios, mismos que servirán de guía para la imposición de la medida disciplinaria que corresponda.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 410.
 
-En lo no previsto en las disposiciones del Estatuto y en los lineamientos en la materia, que apruebe la Junta, se podrá aplicar en forma supletoria y en el orden siguiente:
+En lo no previsto en las disposiciones del Estatuto y en los Lineamientos en la materia, que apruebe la Junta, se podrá aplicar en forma supletoria y en el orden siguiente:
 
 I. La Ley General del Sistema de Medios de Impugnación en Materia Electoral;
 
@@ -3317,7 +3323,7 @@ II. La Ley Federal de los Trabajadores al Servicio del Estado;
 
 III. La Ley Federal del Trabajo;
 
-IV. La Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+IV. La Ley General de Responsabilidades Administrativas;
 
 V. El Código Federal de Procedimientos Civiles;
 
@@ -3769,15 +3775,19 @@ La Junta a propuesta de la DESPEN, DEA y la Dirección Jurídica aprobará los l
 
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 468.
 
-Corresponde al Órgano Interno de Control del Instituto la aplicación respecto del Personal del Instituto, en lo que se refiere a las causas de responsabilidad previstas en el Libro Octavo, Título Segundo, de la Ley, así como las que deriven de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y de las normas, lineamientos y disposiciones administrativas que regulen el control y el ejercicio del gasto público y, el uso, administración, explotación y seguridad de la información de la infraestructura informática y de comunicaciones del Instituto, en cuanto a los procedimientos administrativos de responsabilidades e imposición de las sanciones correspondientes.
+Corresponde al Órgano Interno de Control del Instituto la aplicación respecto del Personal del Instituto, en lo que se refiere a las causas de responsabilidad previstas en el Libro Octavo, Título Segundo, de la Ley, así como las que deriven de la Ley General de Responsabilidades Administrativas y de las normas, Lineamientos y disposiciones administrativas que regulen el control y el ejercicio del gasto público y, el uso, administración, explotación y seguridad de la información de la infraestructura informática y de comunicaciones del Instituto, en cuanto al procedimiento administrativo de responsabilidades e imposición de las sanciones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 469.
 
-El Órgano Interno de Control del Instituto estará facultado para recibir denuncias y determinar si proceden, para lo cual investigará los hechos a fin de allegarse, en su caso, de elementos probatorios que acrediten presuntas conductas indebidas del personal del Instituto.
+El Órgano Interno de Control del Instituto estará facultado como autoridad investigadora en los términos establecidos en la Ley General de Responsabilidades Administrativas, para recibir denuncias y determinar si proceden, para lo cual investigará los hechos a fin de allegarse, en su caso, de elementos probatorios que acrediten presuntas conductas indebidas del personal del Instituto.
 
-En el supuesto que los hechos constituyan violaciones a las disposiciones previstas en el artículo anterior, el Órgano Interno de Control del Instituto substanciará, en su caso, el procedimiento administrativo de responsabilidades e impondrá la sanción que corresponda, de conformidad con lo dispuesto por Libro Octavo, Título Segundo de la Ley, informando en su oportunidad a la Junta. Salvo que se trate de faltas consideradas como graves, supuesto en el que en términos de la ley correspondiente deberá remitirse el expediente al Tribunal Federal de Justicia Administrativa para que resuelva lo conducente.
+En el supuesto que los hechos constituyan violaciones a las disposiciones previstas en el artículo anterior, que califique como faltas no graves, el Órgano Interno de Control del Instituto substanciará, en su caso, el procedimiento de responsabilidades administrativas e impondrá la sanción que corresponda, de conformidad con lo dispuesto por el Libro Octavo, Título Segundo de la Ley, y por la Ley General de Responsabilidades Administrativas, informando en su oportunidad a la Junta. Salvo que se trate de faltas consideradas como graves, supuesto en el que en términos de la Ley General de Responsabilidades Administrativas deberá remitirse el expediente a la autoridad competente para que resuelva lo conducente.
 
 En caso que los hechos constituyan violaciones a las disposiciones del Estatuto, el expediente será turnado a la autoridad instructora para que investigue y, en su caso, inicie el Procedimiento Laboral Disciplinario previsto en el Estatuto.
 
@@ -3785,13 +3795,13 @@ En caso que los hechos constituyan violaciones a las disposiciones del Estatuto,
 
 DEL RECURSO DE REVOCACIÓN PARA IMPUGNAR LAS RESOLUCIONES EMITIDAS POR EL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO, EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 470.
 
-Los servidores públicos que resulten responsables en los términos de las resoluciones administrativas que dicte el Órgano Interno de Control del Instituto conforme al procedimiento previsto en el Libro Octavo, Título Segundo de la Ley, podrán impugnar dichas resoluciones a través del recurso de revocación o directamente ante el Tribunal Federal de Justicia Administrativa en los términos que fije la ley correspondiente.
+Los servidores públicos que resulten responsables en los términos de las resoluciones administrativas que dicte el Órgano Interno de Control del Instituto conforme al procedimiento previsto en el Libro Octavo, Título Segundo de la Ley, y en la Ley General de Responsabilidades Administrativas, podrán impugnar dichas resoluciones a través del recurso de revocación ante el propio Órgano Interno de Control, de reclamación, o de apelación directamente ante el Tribunal Federal de Justicia Administrativa en los términos que fije la Ley General de Responsabilidades Administrativas.
 
 Las resoluciones del Órgano Interno de Control del Instituto son de naturaleza exclusivamente administrativa y en ningún caso laboral.
-
-El Órgano Interno de Control del Instituto, en el ámbito de su competencia, emitirá las disposiciones relativas a la regulación del recurso de revocación.
 
 # LIBRO TERCERO. DEL PERSONAL DE LOS OPLE
 
@@ -5033,9 +5043,11 @@ Las autoridades podrán auxiliarse con el personal que consideren pertinente par
 
 Las autoridades competentes para conocer, substanciar y resolver el Procedimiento Laboral Disciplinario respetarán las garantías de audiencia y legalidad.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 660.
 
-En lo no previsto en las disposiciones del Estatuto y en los lineamientos en la materia que apruebe la Junta, se podrá aplicar en forma supletoria y en el orden siguiente:
+En lo no previsto en las disposiciones del Estatuto y en los Lineamientos en la materia que apruebe la Junta, se podrá aplicar en forma supletoria y en el orden siguiente:
 
 I. La Ley General del Sistema de Medios de Impugnación en Materia Electoral;
 
@@ -5043,7 +5055,7 @@ II. La Ley Federal de los Trabajadores al Servicio del Estado;
 
 III. La Ley Federal del Trabajo;
 
-IV. La Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+IV. La Ley General de Responsabilidades Administrativas;
 
 V. El Código Federal de Procedimientos Civiles;
 
@@ -5820,3 +5832,9 @@ Segundo. Se ordena que las modificaciones aprobadas entren en vigor de manera in
 Tercero. Se instruye al Secretario Ejecutivo para que a través de la Dirección Jurídica, notifique el presente Acuerdo, por el que se acata la sentencia emitida en el expediente SUP-RAP-754/2015 y SUP-RAP-759/2015 acumulado, a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
 
 Cuarto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, PARA ARMONIZARLO CON LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES REFORMADA MEDIANTE DECRETO PUBLICADO EL 27 DE ENERO DEL 2017, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA".]
+
+ÚNICO. El titular del Órgano Interno de Control del Instituto Nacional Electoral, resolverá los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, conforme las normas vigentes al momento de su inicio.
