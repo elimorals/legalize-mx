@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge128-2016-de-la-junta-general-ejecutiva-del-11558
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-07-12"
-last_updated: "2016-07-12"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-05-23"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL CLASIFICADOR POR OBJETO Y TIPO DE GASTO PARA EL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de julio de 2016.
 
@@ -60,3 +60,5 @@ El presente Acuerdo fue aprobado en sesión ordinaria de la Junta General Ejecut
 El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Nacional Electoral, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE CLASIFICADOR POR OBJETO Y TIPO DE GASTO PARA EL INSTITUTO NACIONAL ELECTORAL, EN LA PRIMERA SECCIÓN DEL D.O.F. DE 12 DE JULIO DE 2016, PÁGINAS DE LA 51 A LA 108.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL CLASIFICADOR POR OBJETO Y TIPO DE GASTO PARA EL INSTITUTO NACIONAL ELECTORAL, D.O.F. 1 DE SEPTIEMBRE DE 2017, PÁGINA 98.]</small>
