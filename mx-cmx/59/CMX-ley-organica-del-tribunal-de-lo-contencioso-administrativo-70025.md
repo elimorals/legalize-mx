@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2017-03-24"
+last_updated: "2017-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2009-08-28"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 1 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 1 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -1913,3 +1917,49 @@ G.O. 24 DE MARZO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el diez de septiembre de 2009.
+
+TERCERO. Que el Jefe de Gobierno de la Ciudad de México y la Asamblea Legislativa del Distrito Federal deberán contemplar suficiencia presupuestal para el siguiente ejercicio fiscal a fin de cumplir con los objetivos de la presente ley en la implementación del Sistema Anticorrupción de la Ciudad de México.
+
+CUARTO. Los juicios iniciados con anterioridad a la entrada en vigor de la presente ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+QUINTO. La regulación referente a los Juicios Digitales entrara en vigor cuando el Pleno General lo determine mediante la emisión de un acuerdo general.
+
+SEXTO. La jurisprudencia establecida conforme a la Ley anterior continuara en vigor en lo que no se oponga a la presente Ley.
+
+SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el diez de septiembre de 2009.
+
+TERCERO. Que el Jefe de Gobierno de la Ciudad de México y la Asamblea Legislativa del Distrito Federal deberán contemplar suficiencia presupuestal para el siguiente ejercicio fiscal a fin de cumplir con los objetivos en la implementación del sistema.
+
+CUARTO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Distrito Federal que al entrar en vigor la presente ley no hayan sido ratificados en su encargo, podrán ser considerados para nuevos nombramientos en (sic) Tribunal de Justicia Administrativa de la Ciudad de México.
+
+Los Magistrados que fueron nombrados con anterioridad de la reforma que entró en vigor el primero de enero del año dos mil, se les respetaran sus derechos laborales.
+
+A partir de la entrada en vigor de la Ley de Responsabilidades Administrativas de la Ciudad de México, el Tribunal contará con las Salas Especializadas en materia de Responsabilidades Administrativas.
+
+El Jefe de Gobierno de la Ciudad de México deberá remitir a la Asamblea Legislativa del Distrito Federal las propuestas de nombramientos de los Magistrados en un plazo máximo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto a fin de que la Asamblea Legislativa del Distrito Federal dentro del plazo máximo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto apruebe los nombramientos que le sean enviados por el Jefe de Gobierno de la Ciudad de México.
+
+Todas las referencias que en las leyes se haga al Tribunal de lo Contencioso Administrativo del Distrito Federal, se entenderán referidas al Tribunal de Justicia Administrativa de la Ciudad de México.
+
+El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
+
+QUINTO. La Defensoría Jurídica y Orientación Ciudadana adscrita al Tribunal de lo Contencioso Administrativo del Distrito Federal, continuará en sus funciones de acuerdo a lo establecido por la presente Ley y su respectivo Reglamento hasta en tanto entre en funciones el Instituto de Defensoría Pública previsto en el artículo 51 de la Constitución Política de la Ciudad de México.
+
+SEXTO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SÉPTIMO. El Poder Legislativo de la Ciudad de México deberá adecuar la Ley del Servicio Publico de Carrera de la Administración Publica del Distrito Federal en un plazo de 90 días a partir de la entrada en vigor del presente decreto para incorporar el Sistema de Profesionalización del Sistema Anticorrupción de la Ciudad de México.
