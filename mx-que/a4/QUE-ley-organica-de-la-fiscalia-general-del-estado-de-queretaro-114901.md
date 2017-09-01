@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2017-04-18"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -163,11 +163,25 @@ XII. Implementar el Servicio Profesional, así como la responsabilidad administr
 
 XIII. Aplicar las evaluaciones en materia de control de confianza de conformidad con la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Certificar documentos, libros y registros que obren en sus archivos o expedientes, incluyendo los que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos e información que obre en su poder de acuerdo a la naturaleza de sus funciones o bien que se genere a través del SIU; y
+XIV. Certificar los documentos, libros y registros que obren en sus archivos o expedientes, incluyendo los que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos e información que obre en su poder, de acuerdo a la naturaleza de sus funciones o bien que se genere a través del SIU;
 
-XV. Las demás que le correspondan, conforme a la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Difundir la utilización de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Aplicar los Mecanismos Alternativos de Solución de Controversias en Materia Penal, en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Celebrar convenios para el cumplimiento de los fines de los Mecanismos Alternativos de Solución de Controversias en Materia Penal, de conformidad con las disposiciones legales aplicables; y
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Las demás que se establezcan en las disposiciones aplicables.
 
 ## Título Segundo. De la integración de la Fiscalía General del Estado de Querétaro
 
@@ -319,11 +333,17 @@ XXI. Comparecer ante la Legislatura del Estado para rendir informe anual de acti
 
 XXII. Desarrollar las actividades específicas que se le asignen como integrante de los Sistemas Nacional y Estatal de Seguridad Pública, para el cumplimiento de sus fines;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIII. Determinar el destino final de los bienes asegurados, abandonados y decomisados, conforme a las disposiciones legales aplicables; y
+XXIII. Determinar el destino final de los bienes asegurados, abandonados o decomisados, conforme a las disposiciones legales aplicables;
 
-XXIV. Las demás contenidas en las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV. Supervisar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal; y
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Las demás contenidas en las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -497,9 +517,17 @@ IV. Promover la acción de extinción de dominio;
 
 V. Expedir la certificación de antecedentes penales, así como la cancelación administrativa del registro de antecedentes penales;
 
-VI. Impulsar estrategias y acciones de coordinación que posibiliten a las víctimas y ofendidos del delito, el acceso a formas alternas de solución de los conflictos, dentro de la competencia de la Fiscalía General; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+VI. Impulsar estrategias y acciones de coordinación que posibiliten a las víctimas y ofendidos del delito, el acceso a los Mecanismos Alternativos de Solución de Controversias en Materia Penal, dentro de la competencia de la Fiscalía General;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Coordinar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Las demás contenidas en las disposiciones aplicables.
 
 ### Capítulo Primero. Disposiciones generales
 
@@ -621,13 +649,41 @@ X. Participar y ejercer las acciones y peticiones correspondientes en las formas
 
 XI. Solicitar la aplicación de medidas cautelares, la imposición de penas y medidas de seguridad, así como la reparación del daño a favor de la víctima u ofendido del delito, de conformidad con las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Intervenir en los procedimientos de ejecución de sanciones penales conforme a las disposiciones legales aplicables; y
+XII. Intervenir en los procedimientos de ejecución de sanciones penales, conforme a las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+XIII. Recibir, registrar y tramitar las solicitudes para participar en los Mecanismos Alternativos de Solución de Controversias en Materia Penal, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Orientar al denunciante o querellante en materia de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Determinar la procedencia de la resolución de la controversia, a través de los Mecanismos Alternativos de Solución de Controversias en Materia Penal, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Asignar a los facilitadores que intervengan en el desarrollo de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Validar e informar a las autoridades competentes, respecto a los acuerdos mediante los cuales concluyan los Mecanismos Alternativos de Solución de Controversias en Materia Penal, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Aprobar el cumplimiento de los acuerdos que concluyan los Mecanismos Alternativos de Solución de Controversias en Materia Penal y resolver de inmediato sobre la extinción de la acción penal o sobreseimiento del asunto;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Realizar las tareas de certificación del personal en materia de los Mecanismos Alternativos de Solución de Controversias en Materia Penal; y
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Las demás contenidas en las disposiciones aplicables.
 
 ### Capítulo Séptimo. De la Dirección de Derechos Humanos
 
@@ -1388,3 +1444,11 @@ d) Contemplará una etapa en la que los aspirantes acudirán a exponer su perfil
 e) El procedimiento incluirá la etapa de dictaminación, propuesta y elección del Fiscal Especializado en el Combate a la Corrupción.
 
 Artículo Sexto. El funcionamiento del Centro de Evaluación y Control de Confianza entrará en vigor el 1 de enero de 2018.
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
