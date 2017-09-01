@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2016-05-06"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -58,9 +58,11 @@ La presente Ley es de orden público y de observancia general en el territorio d
 
 Tiene por objeto establecer los principios, bases generales y procedimientos para garantizar a toda persona el Derecho de Acceso a la Información Pública en posesión de cualquier autoridad, entidad, órgano y organismo del poder Ejecutivo, Legislativo y Judicial, Órganos Autónomos, Órganos Político Administrativos, Alcaldías y/o Demarcaciones Territoriales, Organismos Paraestatales, Universidades Públicas, Partidos Políticos, Sindicatos, Fideicomisos y Fondos Públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos, realice actos de autoridad o de interés público en la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 2.
 
-Toda la información generada, administrada o en posesión de los sujetos obligados es pública, considerada un bien común de dominio público, accesible a cualquier persona en los términos y condiciones que establece esta Ley y demás normatividad aplicable.
+Toda la información generada o en posesión de los sujetos obligados es pública, considerada un bien común de dominio público, accesible a cualquier persona en los términos y condiciones que establece esta Ley y demás normatividad aplicable.
 
 ###### Artículo 3.
 
@@ -116,7 +118,9 @@ II. Áreas: A las instancias que cuentan o puedan contar con la información. Aq
 
 III. Colaborador: Aquella personas (sic) que desempeña un empleo, cargo, comisión o que presta un servicio personal subordinado en cualquier sujeto obligado;
 
-IV. Comisión: La Comisión de Transparencia a la Gestión de la Asamblea Legislativa.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Comisión: La Comisión de Transparencia y Combate a la Corrupción del Poder Legislativo de la Ciudad de México.
 
 V. Comisionado, Comisionada: A cada integrante del Pleno del Instituto.
 
@@ -152,9 +156,13 @@ i) Permanentes: Se conservan en el tiempo, para lo cual, las versiones históric
 
 j) Primarios: Provienen de la fuente de origen con el máximo nivel de desagregación posible;
 
-XII. Datos Personales: A la información numérica, alfabética, gráfica, acústica o de cualquier otro tipo concerniente a una persona física, identificada o identificable entre otros, la relativa a su origen racial o étnico, las características físicas, morales o emocionales a su vida afectiva y familiar, información genética, número de seguridad social, la huella digital, domicilio y teléfonos particulares, preferencias sexuales, estado de salud físico o mental, correos electrónicos personales, claves informáticas, cibernéticas, códigos personales; creencias o convicciones religiosas, filosóficas y morales u otras análogas que afecten su intimidad.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Derecho de Acceso a la Información Pública: A la prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder de los sujetos obligados, en los términos de la presente Ley;
+XII. Datos Personales: Cualquier información concerniente a una persona física, identificada o identificable;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Derecho de Acceso a la Información Pública: A la prerrogativa que tiene toda persona para acceder a la información generada o en poder de los sujetos obligados, en los términos de la presente Ley;
 
 XIV. Documento: A los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones, competencias y decisiones de los sujetos obligados, sus personas servidoras públicas e integrantes, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
@@ -172,9 +180,13 @@ XX. Igualdad Sustantiva: Al mismo trato y oportunidades para el reconocimiento, 
 
 XXI. Indicador de Resultados: A la información que permita evaluar el cumplimiento de las metas y objetivos institucionales, indicando los beneficios obtenidos, de acuerdo a los resultados de la gestión.
 
-XXII. Información Confidencial: A la información en poder de los sujetos obligados, protegida por el Derecho fundamental a la Protección de los Datos Personales y la privacidad;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XXIII. Información de Acceso Restringido: A la información en posesión de sujetos obligados, bajo las figuras de reservada o confidencial;
+XXII. Información Confidencial: A la contenida en el Capítulo III del Título Sexto de la presente Ley;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Información Clasificada: A la información en posesión de sujetos obligados, bajo las figuras de reservada o confidencial;
 
 XXIV. Información de interés público: A la información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
 
@@ -198,7 +210,9 @@ XXXIII. Pleno: Al Órgano Colegiado directivo del Instituto;
 
 XXXIV. Prueba de Daño: A la demostración que hacen los sujetos obligados en relación a que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que pueda producirse con la publicidad de la información es mayor que el interés de conocerla;
 
-XXXV. Prueba de Interés Público: A la faculta (sic) del Instituto de fundar y motivar con base en elementos de idoneidad, necesidad y proporcionalidad, que la publicación de la información de acceso restringido no lesiona el interés jurídicamente protegido por la Ley;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXXV. Prueba de Interés Público: A la facultad del Instituto de fundar y motivar con base en elementos de idoneidad, necesidad y proporcionalidad, que la publicación de la información clasificada no lesiona el interés jurídicamente protegido por la Ley;
 
 XXXVI. Plataforma Nacional: A la Plataforma Nacional de Transparencia;
 
@@ -338,11 +352,15 @@ XI. Fomentar el uso de tecnologías de la información para garantizar la transp
 
 XII. Cumplir cabalmente con las resoluciones emitidas por el Instituto y apoyarlo en el desempeños (sic) de sus funciones;
 
-XIII. Publicar y mantener actualizada la información pública de oficio para su disposición en internet relativa a las obligaciones de transparencia, así como tenerla disponible y en formatos abiertos, garantizando su acceso, atendiendo los principios y reglas establecidos en esta Ley;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Publicar y mantener actualizadas las obligaciones de transparencia para su disposición en internet, así como tenerlas disponibles y en formatos abiertos, garantizando su acceso, atendiendo los principios y reglas establecidos en esta Ley;
 
 XIV. Difundir proactivamente información de interés público; contar en sus respectivos sitios de internet con un portal de transparencia proactiva, que contenga información relevante para las personas de acuerdo con sus actividades y que atienda de manera anticipada la demanda de información;
 
-XV. Dar atención a las recomendaciones del Instituto y del Instituto Nacional;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Dar atención a las recomendaciones del Instituto;
 
 XVI. Capacitar y actualizar de forma permanente, en coordinación con el Instituto, a sus personas servidoras públicas en la cultura de accesibilidad y apertura informativa a través de cursos, talleres, seminarios y cualquier otra forma de enseñanza que considere pertinente el sujeto obligado;
 
@@ -366,13 +384,17 @@ XXIV. Las demás que resulten de la normatividad aplicable;
 
 Los sujetos obligados pondrán a disposición de las personas equipos de cómputo con acceso a internet, que les permita consultar la información o utilizar el sistema de solicitudes de acceso a la información en las oficinas de información pública. Lo anterior, sin perjuicio de que adicionalmente se utilicen medios alternativos de difusión de la información, cuando éstos resulten de más fácil acceso y comprensión.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 26.
 
-Los sujetos obligados no podrán retirar la información pública de oficio de sus portales de Internet o de las plataformas del Instituto por ningún motivo.
+Los sujetos obligados no podrán retirar las obligaciones de transparencia de sus portales de Internet o de las plataformas del Instituto por ningún motivo.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 27.
 
-La aplicación de esta ley, deberá de interpretarse bajo el principio de máxima publicidad y en caso de duda razonable entre la publicidad y la reserva de la información, deberá favorecerse el principio de máxima publicidad. Siempre que sea posible, se elaborarán versiones públicas de los documentos que contengan información clasificada como reservada o confidencial.
+La aplicación de esta ley, deberá de interpretarse bajo el principio de máxima publicidad y en caso de duda razonable entre la publicidad y la reserva de la información, deberá favorecerse el principio de máxima publicidad. Los sujetos obligados elaborarán versiones públicas de los documentos que contengan información clasificada como reservada o confidencial.
 
 ###### Artículo 28.
 
@@ -430,9 +452,11 @@ XI. Un máximo de dos Organizaciones de la Sociedad Civil y dos representantes d
 
 XII. Las demás instancias que por su función y competencia estén relacionadas con Transparencia, Acceso a Información, Protección de Datos Personales y Rendición de Cuentas.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-El Sistema Local contará con un Consejo Permanente, conformado por los integrantes del mismo, en el cual el Instituto hará las veces de una Secretaría Técnica. Sus decisiones serán tomadas por consenso, o cuando sea necesario por el voto de la mayoría de sus integrantes.
+El Sistema Local contará con un Consejo Permanente, conformado por los integrantes del mismo, en el cual el Instituto coordinará las acciones a través de la Secretaría Técnica. Sus decisiones serán tomadas por consenso, o cuando sea necesario por el voto de la mayoría de sus integrantes.
 
 ###### Artículo 35.
 
@@ -502,11 +526,15 @@ IV. Un Órgano Interno de Control.
 
 El Pleno del Instituto será la instancia directiva y la Presidencia la ejecutiva, por lo tanto tendrá las atribuciones suficientes para hacer cumplir la Ley General, la presente Ley y las que se deriven de las mismas, salvo aquellas que le estén expresamente conferidas al Pleno del Instituto.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-El Pleno tendrá las facultades que le confiere la presente Ley, su Reglamento Interior y demás disposiciones de la materia; estará integrado por siete Comisionados Ciudadanos, de los cuales uno de ellos será el Comisionado Presidente, quienes serán representantes de la sociedad civil, mismos que serán designados por el voto de las dos terceras partes de los miembros presentes del pleno del Poder Legislativo de la Ciudad de México, conforme a las bases siguientes:
+El Pleno tendrá las facultades que le confiere la presente Ley, su Reglamento Interior y demás disposiciones de la materia; estará integrado por siete Comisionados Ciudadanos, de los cuales uno de ellos será el Comisionado Presidente, quienes serán representantes de la sociedad civil, mismos que serán designados por el voto de la mayoría de los integrantes presentes del pleno del Poder Legislativo de la Ciudad de México, conforme a las bases siguientes:
 
-I. El Poder Legislativo de la Ciudad de México, a través de la Comisión de Transparencia a la Gestión, emitirá convocatoria pública abierta, en la que invitará a los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por esta Ley, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. El Poder Legislativo de la Ciudad de México, a través de la Comisión, emitirá convocatoria pública abierta, en la que invitará a los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por esta Ley, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
 
 II. En la convocatoria se establecerán:
 
@@ -704,7 +732,9 @@ XXI. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables;
 
 XXII. Verificar que los sujetos obligados cumplan con las obligaciones que se derivan de la Ley General, la presente Ley y demás disposiciones aplicables, para lo cual, además del monitoreo a los portales de transparencia, podrá practicar visitas, inspecciones y revisiones;
 
-XXIII. Emitir recomendaciones vinculatorias sobre las clasificaciones de información hechas por los sujetos obligados;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Emitir requerimientos sobre las clasificaciones de información hechas por los sujetos obligados;
 
 XXIV. Implementar mecanismos de observación que permitan a la población utilizar la transparencia para vigilar y evaluar el desempeño de los sujetos obligados, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -744,7 +774,9 @@ XLI. Dictar todas aquellas medidas para el mejor funcionamiento del Instituto;
 
 XLII. Mantener una efectiva colaboración y coordinación con los sujetos obligados, a fin de lograr el cumplimiento de esta Ley;
 
-XLIII. Conocer por denuncia las irregularidades en la publicación de la información pública de oficio, así como los hechos que sean o pudieran ser constitutivos de infracciones a la presente Ley y demás disposiciones de la materia, de acuerdo con los procedimientos que para tal efecto se emitan y, en su caso, denunciar a la autoridad competente los hechos;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XLIII. Conocer por denuncia las irregularidades en la publicación de las obligaciones de transparencia, así como los hechos que sean o pudieran ser constitutivos de infracciones a la presente Ley y demás disposiciones de la materia, de acuerdo con los procedimientos que para tal efecto se emitan y, en su caso, denunciar a la autoridad competente los hechos;
 
 XLIV. Generar metodologías e indicadores específicos para evaluar el desempeño institucional en materia de transparencia de los sujetos obligados;
 
@@ -856,9 +888,11 @@ El Pleno ejercerá las facultades que expresamente le confieren al Instituto, la
 
 El Pleno, integrado por seis Comisionados y su Presidente todos con derecho a voz y voto, es el órgano superior de dirección del Instituto. Tiene la responsabilidad de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de transparencia, acceso a la información y protección de datos personales en la Ciudad de México, y de los sujetos obligados por disposición de la Ley General, esta Ley y demás normatividad aplicable. Asimismo, está facultado para velar porque los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad guíen las actividades del Instituto.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 63.
 
-El Pleno actuará de manera colegiada. Sus resoluciones serán obligatorias para todos los Comisionados, aunque estuviesen ausentes o sean disidentes al momento de tomarlas. Las versiones estenográficas de todas las resoluciones que tome el Pleno son públicas; salvo que en el caso particular exista disposición contraria en la Ley.
+El Pleno actuará de manera colegiada. Sus resoluciones serán obligatorias para todos los Comisionados, aunque estuviesen ausentes o sean disidentes al momento de tomarlas. Las versiones estenográficas de todas las resoluciones que tome el Pleno son públicas.
 
 Las decisiones y resoluciones se adoptarán por mayoría simple. En caso de empate, el Comisionado Presidente resolverá con voto de calidad. Los Expedientes y las actas resolutivas se considerarán públicos, asegurando que la información reservada o confidencial se mantenga con tal carácter.
 
@@ -940,13 +974,17 @@ b) Recibir para su evaluación los informes anuales de los sujetos obligados res
 
 c) Celebrar sesiones públicas;
 
-d) Conocer, tramitar y dar seguimiento conforme lo establece la presente Ley, por sí o por denuncia las irregularidades en la publicación de la información pública de oficio, así como los hechos que sean o pudieran ser constitutivos de infracciones a la presente Ley y demás disposiciones de la materia, de acuerdo con los procedimientos que para tal efecto se emitan y, en su caso, denunciar a la autoridad competente los hechos;
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+d) Conocer, tramitar y dar seguimiento conforme lo establece la presente Ley, por sí o por denuncia las irregularidades en la publicación de las obligaciones de transparencia, así como los hechos que sean o pudieran ser constitutivos de infracciones a la presente Ley y demás disposiciones de la materia, de acuerdo con los procedimientos que para tal efecto se emitan y, en su caso, denunciar a la autoridad competente los hechos;
 
 e) Coadyuvar en su ámbito de competencia, para que el Sistema Nacional cumpla con sus objetivos;
 
 V. En materia de promoción y difusión de la rendición de cuentas, cultura de transparencia, acceso a la información, protección de datos personales y apertura gubernamental:
 
-a) Promover de manera permanente la cultura de rendición de cuentas, transparencia, el acceso a la información pública, apertura gubernamental, la rendición de cuentas, la participación ciudadana, la accesibilidad y la innovación tecnológica;
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+a) Promover de manera permanente la cultura de la transparencia, el acceso a la información pública, apertura gubernamental, la rendición de cuentas, la participación ciudadana, la accesibilidad y la innovación tecnológica;
 
 b) Promover la capacitación, actualización y habilitación de las personas servidoras públicas en materia de transparencia, acceso a la información pública, protección de los datos personales y apertura gubernamental;
 
@@ -994,9 +1032,11 @@ En el Reglamento Interior se establecerán las facultades que ejercerán las div
 
 En el ejercicio de sus atribuciones, el Pleno considerará las opiniones correspondientes que el Consejo Consultivo Ciudadano emita de conformidad con lo dispuesto por la presente Ley, el Reglamento Interior y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 70.
 
-El Comisionado Presidente presidirá el Instituto y el Pleno. En caso de ausencia temporal, le suplirá el Comisionado de mayor antigüedad y, a igualdad de antigüedad, quien temporalmente acuerde el Pleno por mayoría simple de votos, en tanto sea nombrado el nuevo Presidente por el Poder Legislativo de la Ciudad de México.
+El Comisionado Presidente presidirá el Instituto y el Pleno. En caso de ausencia temporal o definitiva, le suplirá el Comisionado de mayor antigüedad y, a igualdad de antigüedad, quien temporalmente acuerde el Pleno por mayoría simple de votos, en tanto sea nombrado el nuevo Presidente por el Poder Legislativo de la Ciudad de México.
 
 El nuevo Presidente tomará posesión inmediatamente después de su nombramiento y rendirá protesta de su cargo ante el Pleno del Poder Legislativo de la Ciudad de México que lo designó.
 
@@ -1004,7 +1044,13 @@ El nuevo Presidente tomará posesión inmediatamente después de su nombramiento
 
 El Comisionado Presidente tendrá las siguientes facultades y obligaciones:
 
-I. Representar legalmente al Instituto con facultades generales y especiales para actos de administración, dominio, pleitos y cobranzas; incluso las que requieran cláusula especial conforme a la ley aplicable;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. Representar legalmente al Instituto con facultades generales y especiales para actos de administración, dominio, pleitos y cobranzas; incluso las que requieran clausula especial conforme a la ley aplicable.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Comisionado Presidente representará al Instituto en el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México, y en su caso, nombrará de entre los Comisionados Ciudadanos quien lo represente, informando de todo momento al Pleno por sus actividades.
 
 II. Otorgar, sustituir y revocar poderes a nombre del Instituto para actos de dominio, de administración, pleitos y cobranzas y para ser representado ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares.
 
@@ -1214,7 +1260,9 @@ En caso de que el sujeto obligado no cuente con órgano interno de control, el t
 
 Todos los Comités de Transparencia deberán registrarse ante el Instituto. El Comité adoptará sus decisiones por mayoría de votos de sus integrantes. En caso de empate la Presidencia del Comité contará con el voto de calidad.
 
-La operación de los Comités de Transparencia y la participación de sus integrantes, se sujetará a la normatividad que resulte aplicable en cada caso.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Comité de Transparencia tendrá acceso a la información clasificada para confirmar, modificar o revocar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
 El Comité se reunirá en sesión ordinaria o extraordinaria las veces que estime necesario. El tipo de sesión se precisará en la convocatoria emitida.
 
@@ -1244,7 +1292,9 @@ VII. Recabar y enviar al Instituto, de conformidad con los lineamientos que ést
 
 VIII. Revisar la clasificación de información y resguardar la información, en los casos procedentes, elaborará la versión pública de dicha información;
 
-IX. Suscribir las declaraciones de inexistencia de la información o de acceso restringido;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Suscribir las declaraciones de inexistencia o de clasificación de la información;
 
 X. Elaborar y enviar al Instituto, de conformidad con los criterios que éste expida, la información señalada para la elaboración del informe del Instituto;
 
@@ -1276,7 +1326,9 @@ Son atribuciones de la Unidad de Transparencia:
 
 I. Capturar, ordenar, analizar y procesar las solicitudes de información presentadas ante el sujeto obligado;
 
-II. Recabar, publicar y actualizar la información pública de oficio y las obligaciones de transparencia a las que refiere la Ley;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+II. Recabar, publicar y actualizar las obligaciones de transparencia a las que refiere la Ley;
 
 III. Proponer al Comité de Transparencia del sujeto obligado, los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
 
@@ -1442,9 +1494,11 @@ El Instituto instrumentará los mecanismos para la difusión, eficacia y vigenci
 
 ### Capítulo II. De la Transparencia Proactiva
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 106.
 
-El Instituto emitirá políticas de transparencia proactiva, diseñadas para incentivar a los sujetos obligados a publicar información adicional a la que establece la presente Ley. Dichas políticas tendrán por objeto, entre otros, promover la reutilización de la información que generan los sujetos obligados, considerando la demanda e interés de la sociedad.
+El Instituto emitirá políticas de transparencia proactiva, en atención a los lineamientos generales definidos para ello por el Sistema Nacional, diseñadas para incentivar a los sujetos obligados a publicar información adicional a la que establece la presente Ley. Dichas políticas tendrán por objeto, entre otros, promover la reutilización de la información que generan los sujetos obligados, considerando la demanda e interés de la sociedad.
 
 ###### Artículo 107.
 
@@ -1496,7 +1550,9 @@ III. Promover una agenda de prioridades y acciones de acuerdo a las condiciones 
 
 IV. Procurar mecanismos de Gobierno Abierto que fortalezcan la participación y la colaboración en los asuntos públicos;
 
-V. Poner a disposición la información pública de oficio en formatos abiertos, útiles y reutilizables, para fomentar la transparencia, la colaboración y la participación ciudadana;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. Poner a disposición las obligaciones de transparencia en formatos abiertos, útiles y reutilizables, para fomentar la transparencia, la colaboración y la participación ciudadana;
 
 VI. Desarrollar herramientas digitales en servicios públicos o trámites;
 
@@ -1552,7 +1608,9 @@ Los sujetos obligados, deberán mantener impresa para consulta directa de los pa
 
 I. El marco normativo aplicable al sujeto obligado, en el que deberá incluirse la gaceta oficial, leyes, códigos, reglamentos, decretos de creación, reglas de procedimiento, manuales administrativos, reglas de operación, criterios, políticas emitidas aplicables al ámbito de su competencia, entre otros;
 
-II. Su estructura orgánica completa, en un formato que permita vincular cada parte de la estructura, las atribuciones y responsabilidades que le corresponden a cada servidor público, prestador de servicios profesionales o miembro de los sujetos obligados, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+II. Su estructura orgánica completa, en un formato que permita vincular cada parte de la estructura, las atribuciones y responsabilidades que le corresponden a cada persona servidora pública, prestador de servicios profesionales o miembro de los sujetos obligados, de conformidad con las disposiciones aplicables;
 
 III. Las facultades de cada Área y las relativas a las funciones;
 
@@ -2314,7 +2372,9 @@ XIII. El calendario del ciclo escolar.
 
 Además de lo señalado en las obligaciones de transparencia comunes, los Fideicomisos, Fondos Públicos, mandatos o cualquier contrato análogo, deberán poner a disposición del público de forma impresa para consulta directa y en los respectivos sitios de Internet, además de mantener actualizada y accesible, en lo que resulte aplicable a cada contrato, la siguiente información:
 
-I. El nombre del servidor público y de la persona física o moral que represente al fideicomitente, al fiduciario y al fideicomisario;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+I. El nombre de la persona servidora pública y de la persona física o moral que represente al fideicomitente, al fiduciario y al fideicomisario;
 
 II. La unidad administrativa responsable del fideicomiso;
 
@@ -2544,7 +2604,9 @@ VII. El Instituto publicará el listado de las resoluciones que han sido incumpl
 
 El Instituto podrá solicitar los informes complementarios al sujeto obligado que requiera para allegarse de los elementos de juicio que considere necesarios para llevar a cabo la verificación.
 
-Cuando el Instituto considere que existe un incumplimiento total o parcial de la determinación, le notificarán, por conducto de la Unidad de Transparencia, al superior jerárquico del servidor público responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a los requerimientos del dictamen.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando el Instituto considere que existe un incumplimiento total o parcial de la determinación, le notificarán, por conducto de la Unidad de Transparencia, al superior jerárquico de la persona servidora pública responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a los requerimientos del dictamen.
 
 En caso de que el Instituto considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días, se informará al Pleno para que, en su caso, imponga las medidas de apremio o sanciones, conforme a lo establecido por esta Ley.
 
@@ -2656,11 +2718,15 @@ Transcurrido el plazo señalado en el artículo anterior, el sujeto obligado deb
 
 El Instituto, verificará el cumplimiento a la resolución; si consideran que se dio cumplimiento a la resolución, se emitirá un acuerdo de cumplimiento y se ordenará el cierre del Expediente.
 
-Cuando exista un incumplimiento total o parcial de la resolución, el Instituto notificará, por conducto de la Unidad de Transparencia del sujeto obligado, al superior jerárquico del servidor público responsable, para el efecto de que, en un plazo no mayor a cinco días, dé cumplimiento a la resolución.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando exista un incumplimiento total o parcial de la resolución, el Instituto notificará, por conducto de la Unidad de Transparencia del sujeto obligado, al superior jerárquico de la persona servidora pública responsable, para el efecto de que, en un plazo no mayor a cinco días, dé cumplimiento a la resolución.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 168.
 
-En caso de que subsista el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten aplicables, independientemente de las responsabilidades que procedan.
+En caso de que subsista el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico de la persona servidora pública responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten aplicables, independientemente de las responsabilidades que procedan.
 
 ## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
 
@@ -2936,9 +3002,11 @@ Los términos de todas las notificaciones previstas en esta Ley, empezarán a co
 
 Cuando los plazos fijados por esta Ley sean en días, éstos se entenderán como hábiles.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 207.
 
-De manera excepcional, cuando, de forma fundada y motivada, así lo determine el sujeto obligado, en aquellos casos en que la información solicitada que ya se encuentre en su posesión implique análisis, estudio o procesamiento de documentos cuya entrega o reproducción sobrepase las capacidades técnicas del sujeto obligado para cumplir con la solicitud, en los plazos establecidos para dichos efectos, se podrán poner a disposición del solicitante la información en consulta directa, salvo aquella de acceso restringido.
+De manera excepcional, cuando, de forma fundada y motivada, así lo determine el sujeto obligado, en aquellos casos en que la información solicitada que ya se encuentre en su posesión implique análisis, estudio o procesamiento de documentos cuya entrega o reproducción sobrepase las capacidades técnicas del sujeto obligado para cumplir con la solicitud, en los plazos establecidos para dichos efectos, se podrán poner a disposición del solicitante la información en consulta directa, salvo aquella clasificada.
 
 En todo caso se facilitará copia simple o certificada de la información, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado o que, en su caso, aporte el solicitante.
 
@@ -2988,7 +3056,9 @@ En caso de que sea necesario cubrir costos para obtener la información en algun
 
 La Unidad de Transparencia tendrá disponible la información solicitada, durante un plazo mínimo de sesenta días, contado a partir de que el solicitante hubiere realizado, en su caso, el pago respectivo, el cual deberá efectuarse en un plazo no mayor a treinta días.
 
-Transcurrido el plazo operará la caducidad del trámite, por lo que los sujetos obligados darán por concluida la solicitud y la notificación del acuerdo correspondiente se efectuará por listas fijadas en los estrados de la Unidad de Transparencia que corresponda. Una vez ocurrido lo anterior, procederán, de ser el caso, a la destrucción del material en el que se reprodujo la información.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Transcurrido el plazo operará la caducidad del trámite, por lo que los sujetos obligados darán por concluida la solicitud y la notificación del acuerdo correspondiente se efectuará por el medio señalado para tal efecto. Una vez ocurrido lo anterior, procederán, de ser el caso, a la destrucción del material en el que se reprodujo la información.
 
 ###### Artículo 216.
 
@@ -3018,9 +3088,11 @@ III. Ordenará, siempre que sea materialmente posible, que se genere o se repong
 
 IV. Notificará al órgano interno de control o equivalente del sujeto obligado quien, en su caso, deberá iniciar el procedimiento de responsabilidad administrativa que corresponda.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 218.
 
-La resolución del Comité de Transparencia que confirme la inexistencia de la información solicitada contendrá los elementos mínimos que permitan al solicitante tener la certeza de que se utilizó un criterio de búsqueda exhaustivo, además de señalar las circunstancias de tiempo, modo y lugar que generaron la inexistencia en cuestión y señalará al servidor público responsable de contar con la misma.
+La resolución del Comité de Transparencia que confirme la inexistencia de la información solicitada contendrá los elementos mínimos que permitan al solicitante tener la certeza de que se utilizó un criterio de búsqueda exhaustivo, además de señalar las circunstancias de tiempo, modo y lugar que generaron la inexistencia en cuestión y señalará a la persona servidora pública responsable de contar con la misma.
 
 ###### Artículo 219.
 
@@ -3196,9 +3268,11 @@ El Instituto resolverá el recurso de revisión en un plazo que no podrá excede
 
 Durante el procedimiento deberá aplicarse la suplencia de la queja a favor del recurrente, sin cambiar los hechos expuestos, asegurándose de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 240.
 
-En todo momento, los Comisionados deberán tener acceso a la información de acceso restringido para determinar su naturaleza según se requiera. El acceso se dará de conformidad con la normatividad previamente establecida en la presente Ley, para el resguardo o salvaguarda de la información.
+En todo momento, los Comisionados deberán tener acceso a la información clasificada para determinar su naturaleza según se requiera. El acceso se dará de conformidad con la normatividad previamente establecida en la presente Ley, para el resguardo o salvaguarda de la información.
 
 ###### Artículo 241.
 
@@ -3366,9 +3440,11 @@ III. Determinará las medidas de apremio o sanciones, según corresponda, que de
 
 ### Capítulo I. De las Medidas de Apremio
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 260.
 
-El Instituto, en el ámbito de sus competencias, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+El Instituto, en el ámbito de sus competencias, podrá imponer a la persona servidora pública encargada de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones.
 
 I. Amonestación pública, o
 
@@ -3454,9 +3530,11 @@ Ante incumplimientos en materia de transparencia y acceso a la información por 
 
 En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, el Instituto dará vista al órgano interno de control del sujeto obligado, cuando sean personas servidoras públicas, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 268.
 
-En aquellos casos en que el presunto infractor tenga la calidad de Servidor Público, el Instituto deberá remitir a la autoridad competente, junto con la denuncia correspondiente, un expediente en que se contengan todos los elementos que sustenten la presunta responsabilidad administrativa.
+En aquellos casos en que el presunto infractor tenga la calidad de persona servidora pública, el Instituto deberá remitir a la autoridad competente, junto con la denuncia correspondiente, un expediente en que se contengan todos los elementos que sustenten la presunta responsabilidad administrativa.
 
 La autoridad que conozca del asunto deberá informar de la conclusión del procedimiento y en su caso, de la ejecución de la sanción al Instituto.
 
@@ -3474,9 +3552,11 @@ Una vez analizadas las pruebas y demás elementos de convicción, el Instituto r
 
 Cuando haya causa justificada por acuerdo indelegable del Pleno podrá ampliar por una sola vez y hasta por un periodo igual el plazo de resolución.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 271.
 
-Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados que no cuenten con la calidad de servidor público, serán sancionadas con:
+Las infracciones en lo previsto en la presente Ley por parte de sujetos obligados que no cuenten con la calidad de persona servidora pública, serán sancionadas con:
 
 I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 264 de esta Ley.
 
@@ -3563,3 +3643,19 @@ VIGÉSIMO. Túrnese al Jefe de Gobierno del Distrito Federal para su correspondi
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cinco días del mes de mayo del año dos mil dieciséis.- POR LA MESA DIRECTIVA.- DIP. JOSÉ MANUEL DELGADILLO MORENO, PRESIDENTE.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA.- DIP. CARLOS ALFONSO CANDELARIA LÓPEZ, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los seis días del mes de mayo del año dos mil dieciséis.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]</small>
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se deroga toda disposición que contravenga lo señalado en el presente Decreto.
+
+CUARTO.- De conformidad con lo que dispone el artículo Décimo Tercero transitorio de la Constitución Política de la Ciudad de México, y a fin de homologar en tiempo los nombramientos de las y los titulares de los organismos que integran el Sistema Anticorrupción, por única ocasión para efectos del nombramiento de los nuevos Comisionados Ciudadanos del Instituto, la Comisión de Transparencia y Combate a la Corrupción de la Asamblea Legislativa del Distrito Federal, deberá implementar los mecanismos que refiere la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, para que sean nombrados por el Pleno de la Asamblea en un plazo máximo de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Respecto a la entrada en funciones de los nuevos Comisionados Ciudadanos nombrados conforme al CUARTO TRANSITORIO, se estará a lo dispuesto en los transitorios DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO del Decreto por el que se expide la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 6 de mayo de 2016.
