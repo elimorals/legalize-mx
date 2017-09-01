@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2016-12-16"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -1433,8 +1433,32 @@ Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y t
 
 XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
 
-XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaría en vigor a partir del 1° de enero del 2015, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1º de enero del 2015;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Los derechos por el refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi, correspondiente al ejercicio fiscal 2017, previstos en el artículo 172 BIS, fracción I de la Ley de Hacienda del Estado de Querétaro, se causarán al 50% de su importe, siempre que el trámite de refrendo de dicha concesión, se lleve a cabo por los interesados, dentro del periodo del primero de septiembre al quince de diciembre del año dos mil diecisiete, cumpliendo con los requisitos que determine el Instituto Queretano del Transporte, y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Los derechos por la cesión de concesiones de servicio público de transporte colectivo en la zona metropolitana de Querétaro, así como los relativos a la expedición de los títulos de concesión que se emitan con motivo de dicha cesión, previstos en la fracción I del artículo 172 BIS de la Ley de Hacienda del Estado de Querétaro, se reducirán en un 100% para el ejercicio fiscal 2017, siempre que la cesión se realice a favor de una sociedad mercantil en la que participen como socios las personas titulares de las concesiones sujetas a dicha cesión, previa autorización que al efecto emita el Instituto Queretano del Transporte en términos de las disposiciones jurídicas aplicables.
 
 Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LAS FRACCIONES XVII Y XVIII, Y ADICIONA LAS FRACCIONES XIX Y XX AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
