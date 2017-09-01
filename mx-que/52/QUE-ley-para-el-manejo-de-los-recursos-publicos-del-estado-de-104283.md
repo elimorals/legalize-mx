@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2017-04-18"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -33,7 +35,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[…]
 
 Por lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -57,8 +61,6 @@ La interpretación de esta Ley corresponde a la Secretaría de Planeación y Fin
 
 La Ley de Procedimientos Administrativos del Estado de Querétaro y el Código Fiscal del Estado de Querétaro, serán supletorios de esta Ley, en lo conducente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 2.
@@ -80,8 +82,6 @@ V. Deuda pública: la señalada en la ley relativa;
 VI. Entidades: las entidades paraestatales y paramunicipales que tengan ese carácter en términos de las disposiciones respectivas;
 
 VII. Estado: el Estado de Querétaro;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -203,8 +203,6 @@ En el manejo de los recursos públicos, los sujetos de la Ley, en el ámbito de 
 
 El equilibrio presupuestal sólo podrá afectarse cuando se disponga de recursos adicionales a los establecidos en la Ley de Ingresos correspondiente, debiendo reflejarse en una ampliación del presupuesto aprobado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 Para efectos de lo anterior, el Poder Ejecutivo del Estado, deberá informar a la Legislatura, por rubro de ingreso, en términos de las disposiciones aplicables en materia de contabilidad gubernamental, dentro de los veinte días naturales siguientes al cierre del mes en que se registre la mencionada afectación.
@@ -215,13 +213,9 @@ En el caso de los municipios, el ayuntamiento deberá autorizar la afectación a
 
 Toda propuesta de incremento o creación de partidas de gasto en los Presupuestos de Egresos del Estado y de los municipios, según sea el caso, deberá incluir específicamente la correspondiente iniciativa de ingreso o indicar el origen del mismo, cuando éste provenga de reducciones en otros rubros de gasto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 Tratándose de iniciativa de ley o decreto, que implique un aumento o creación de una partida de gasto dentro del presupuesto de egresos que corresponda, deberá acompañarse del dictamen que emita la Secretaría o la dependencia encargada de las finanzas públicas de los municipios, en el que se refleje la viabilidad financiera de la misma.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -529,21 +523,13 @@ b) Situación de la deuda pública al término del último ejercicio fiscal pres
 
 c) Ingresos y gastos reales del primero de octubre del año anterior al treinta de septiembre del año en curso;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 II. La que señalen la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 III. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 V. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2016)
 
@@ -565,9 +551,7 @@ Sólo podrán crearse entidades, cuando se haya aprobado la partida correspondie
 
 ###### Artículo 42.
 
-Los Presupuestos de Egresos aprobados se publicarán dentro de los siguientes diez días hábiles contados a partir de su recepción, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Los Presupuestos de Egresos aprobados se publicarán dentro de los siguientes diez días hábiles contados a partir de su recepción, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -602,8 +586,6 @@ La Secretaría, en el ámbito de su competencia, podrá solicitar y obtener de l
 ###### Artículo 47.
 
 En el Presupuesto de Egresos del Estado, se considerará una partida para la promoción, difusión y proyección de la imagen y productos turísticos del Estado, que será una cantidad equivalente al setenta y cinco por ciento de los recursos recaudados por concepto del impuesto por la prestación de servicio de hospedaje, la cual será transferida al fideicomiso que para tal efecto se establezca, dentro de los treinta días naturales siguientes al mes en que se recaude.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 48.
 
@@ -645,8 +627,6 @@ Del Presupuesto de Egresos aprobado por los municipios, se remitirá una copia c
 
 ### Capítulo Segundo. De las adecuaciones presupuestales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 54.
@@ -658,6 +638,18 @@ Para efectos del párrafo anterior, se entenderá por titulares de las dependenc
 Los ejecutores de gasto son responsables directos e inmediatos del cumplimiento de las bases establecidas en el presente numeral y demás disposiciones jurídicas relacionadas con los recursos públicos federales, estatales y/o municipales; así como de la información a la que tengan acceso. Respecto de la información reservada están obligados a guardar estricta confidencialidad sobre la misma.
 
 Para los efectos de esta disposición, se consideran ejecutores del gasto, quienes por cualquier medio tengan a su cargo fondos públicos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando se realice la concertación y/o fijación de prestaciones o condiciones laborales en materia de pensiones y jubilaciones superiores a las establecidas en la legislación laboral respectiva, los titulares de las dependencias y ejecutores de gasto a que se hace mención en el presente artículo, deberán observar lo siguiente:
+
+I. Previo a dicha concertación y/o fijación, deberán contar con un estudio actuarial actualizado que muestre el impacto financiero, a valor presente, que representarán para la hacienda pública que corresponda, las prestaciones o condiciones propuestas; el estudio actuarial tendrá que ser elaborado por una firma de reconocido prestigio en la materia, contratada conforme a la normatividad aplicable.
+
+II. A efecto de garantizar a los trabajadores las prestaciones o condiciones que se pretendan pactar y/o fijar, así como asegurar la estabilidad de las finanzas públicas, el sujeto de la Ley de que se trate, previamente a la concertación y/o fijación de las nuevas prestaciones o condiciones, deberá constituir un fideicomiso irrevocable, con una aportación inicial equivalente de al menos el 50% del impacto financiero que represente la diferencia entre el estudio actuarial actualizado y el último estudio actuarial con que cuente el ente público respectivo.
+
+El contrato de fideicomiso que se constituya conforme al párrafo anterior, deberá contemplar que los recursos aportados a que se hace mención no podrán utilizarse en los cinco primeros años contados a partir de la fecha de su constitución.
+
+III. El incumplimiento a lo establecido en las fracciones anteriores por parte de los titulares de las dependencias y ejecutores de gasto, será sancionado en términos de lo que señalen las disposiciones jurídicas aplicables en materia de responsabilidades administrativas.
 
 ###### Artículo 55.
 
@@ -746,8 +738,6 @@ Tratándose de la ejecución de recursos provenientes de donativos y subsidios e
 ###### Artículo 69.
 
 Las dependencias del Poder Ejecutivo del Estado, sus órganos desconcentrados y fideicomisos en los que el Poder Ejecutivo del Estado y/o sus entidades paraestatales participen como fideicomitentes, deberán informar a la Secretaría cualquier modificación en el alcance o modalidades de sus programas, adquisiciones, arrendamientos, garantías de compra, venta o cualquier otra acción que implique adecuaciones presupuestales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -843,8 +833,6 @@ La publicación se realizará dentro de los 30 días naturales siguientes al cie
 
 ### Capítulo Segundo. De la cuenta pública
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
@@ -856,8 +844,6 @@ I. El pago o amortización total de los pasivos que haya adquirido la administra
 II. El pago del gasto corriente de la administración pública de que se trate; y
 
 III. El cumplimiento de los compromisos adquiridos, las obligaciones por servicios personales y el gasto administrativo hasta el término del año presupuestado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -914,8 +900,6 @@ El ejercicio de los recursos de la partida de gastos de transición se sujetará
 ## Título Séptimo. De la contabilidad gubernamental y la cuenta pública
 
 ### Capítulo Único. Disposiciones generales
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -993,8 +977,6 @@ La difusión de los resultados de las evaluaciones, se ajustará a lo dispuesto 
 
 ### Capítulo Segundo. Del Sistema de Alertas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
@@ -1019,13 +1001,9 @@ IV. Cuando por razón de la naturaleza de sus funciones, tengan conocimiento de 
 
 V. No guardar o no conservar, en los términos de la normatividad aplicable, la documentación comprobatoria del patrimonio, así como de los ingresos y egresos de los entes públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VI. Por el incumplimiento a lo establecido en el artículo 82 Bis de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1041,13 +1019,9 @@ Son solidariamente responsables los particulares, en todos los casos en que haya
 
 Las responsabilidades a que se refiere esta Ley, se exigirán con independencia de las sanciones de carácter civil, penal o de cualquier otra índole que, en su caso, lleguen a determinarse por la autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ## Título Décimo. De la Disciplina Financiera del Estado y Municipios
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1063,8 +1037,6 @@ El Estado, los municipios y sus entes públicos se sujetarán a las disposicione
 
 Adicionalmente a lo establecido en el artículo 40 de la presente ley, en el proyecto de Decreto de Presupuesto de Egresos del Estado y de los Municipios, deberá presentarse un anexo que contenga el balance presupuestario de recursos disponibles y demás información que contemple la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 106.
@@ -1076,8 +1048,6 @@ Circunstancialmente y debido a razones excepcionales, se podrá prever un balanc
 I. Las razones excepcionales que justifican el balance presupuestario de recursos disponibles negativo, y
 
 II. Las acciones necesarias que se llevarán a cabo para revertir el balance presupuestario de recursos disponibles negativo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1091,8 +1061,6 @@ II. Gasto en servicios personales.
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 108.
@@ -1101,8 +1069,6 @@ El presente capítulo regula el Sistema de Alertas que se establece como mecanis
 
 Dicho Sistema será administrado por la Entidad Superior de Fiscalización del Estado de Querétaro. Para tal efecto, dicho ente podrá emitir las disposiciones administrativas que correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 109.
@@ -1110,8 +1076,6 @@ Dicho Sistema será administrado por la Entidad Superior de Fiscalización del E
 El Sistema de Alertas deberá revelar, el saldo pendiente por pagar, así como los compromisos de pago de los siguientes tres ejercicios fiscales, derivados de créditos, financiamientos, arrendamientos puros o financieros, y de cualquier otro instrumento jurídico que contemple obligaciones plurianuales de pago y de contratos de asociaciones público privadas.
 
 De igual forma, el Sistema de Alertas deberá revelar la situación que guardan las observaciones emitidas por los entes fiscalizadores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1141,8 +1105,6 @@ La definición específica de cada indicador, su aplicación, periodicidad de me
 
 En caso de que, a consideración de la Entidad Superior de Fiscalización del Estado de Querétaro exista otro indicador que resulte relevante para el análisis del nivel de endeudamiento del Estado y de los municipios podrá publicarlo, sin que ello tenga incidencia en la clasificación de los Entes Públicos dentro del Sistema de Alertas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 111.
@@ -1167,8 +1129,6 @@ II. En observación; un endeudamiento el cual tendrá como Techo de Financiamien
 
 III. Elevado; un nivel de endeudamiento que tendrá un Techo de Financiamiento Neto igual a cero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 112.
@@ -1183,8 +1143,6 @@ El seguimiento de las acciones a que se refiere el párrafo anterior, estará a 
 
 El Sistema de Alertas será publicado en la página de Internet de la Entidad Superior de Fiscalización del Estado de Querétaro de manera permanente, debiendo actualizarse semestralmente, dentro de los 30 días naturales posteriores al vencimiento del plazo a que se refiere el segundo párrafo del artículo 117 de ésta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 114.
@@ -1197,15 +1155,11 @@ Asimismo, en un apartado específico se inscribirán las obligaciones que se der
 
 Para el trámite de inscripción de los financiamientos y obligaciones en el Registro Estatal de Deuda Pública, se deberá cumplir con lo que al efecto establece la legislación aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 115.
 
 Para la cancelación de la inscripción en el Registro Estatal de Deuda Pública de un financiamiento u obligación, se deberá presentar la documentación que acredite que el financiamiento u obligación ha sido liquidado o que no fue dispuesto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1283,7 +1237,7 @@ Procurador de Justicia
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2014.
 
@@ -1551,7 +1505,7 @@ Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o me
 
 P.O. 16 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2017, con excepción del ARTÍCULO DÉCIMO PRIMERO, así como la reforma al artículo 54, fracción XVII, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, los cuales iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
@@ -1661,9 +1615,21 @@ Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y t
 
 XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
 
-XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaría en vigor a partir del 1° de enero del 2015, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1º de enero del 2015;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Los derechos por el refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi, correspondiente al ejercicio fiscal 2017, previstos en el artículo 172 BIS, fracción I de la Ley de Hacienda del Estado de Querétaro, se causarán al 50% de su importe, siempre que el trámite de refrendo de dicha concesión, se lleve a cabo por los interesados, dentro del periodo del primero de septiembre al quince de diciembre del año dos mil diecisiete, cumpliendo con los requisitos que determine el Instituto Queretano del Transporte, y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Los derechos por la cesión de concesiones de servicio público de transporte colectivo en la zona metropolitana de Querétaro, así como los relativos a la expedición de los títulos de concesión que se emitan con motivo de dicha cesión, previstos en la fracción I del artículo 172 BIS de la Ley de Hacienda del Estado de Querétaro, se reducirán en un 100% para el ejercicio fiscal 2017, siempre que la cesión se realice a favor de una sociedad mercantil en la que participen como socios las personas titulares de las concesiones sujetas a dicha cesión, previa autorización que al efecto emita el Instituto Queretano del Transporte en términos de las disposiciones jurídicas aplicables.
 
 Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
@@ -1676,3 +1642,23 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 54 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LAS FRACCIONES XVII Y XVIII, Y ADICIONA LAS FRACCIONES XIX Y XX AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
