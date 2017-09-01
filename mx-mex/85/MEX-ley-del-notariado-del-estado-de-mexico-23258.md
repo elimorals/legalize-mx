@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2016-12-20"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -53,9 +53,9 @@ Son autoridades para la aplicación de esta Ley:
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. La Consejería Jurídica del Ejecutivo Estatal.
+II. La Consejería Jurídica del Ejecutivo Estatal, por sí o por conducto de la Dirección de Legalización y del Periódico Oficial "Gaceta del Gobierno".
 
 ###### Artículo 3.
 
@@ -99,7 +99,9 @@ II. Dar fe de los hechos que le consten;
 
 III. Tramitar procedimientos no contenciosos en los términos de esta Ley;
 
-IV. Tramitar procedimientos de arbitraje o mediación.
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Tramitar procedimientos de arbitraje, de conciliación y mediación en términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
@@ -225,11 +227,11 @@ Para el inicio de sus funciones el notario deberá cumplir con los requisitos si
 
 I. Rendir la protesta de ley dentro de los diez días hábiles siguientes, contados a partir de la fecha de la publicación del acuerdo respectivo en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en la entidad;
 
-> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Otorgar Depósito en efectivo ante el Colegio para integrarlo al Fondo de Garantía del Notariado y otorgar fianza expedida por una institución de crédito autorizada a favor del Gobierno del Estado de México, misma que deberá actualizar anualmente, por una cantidad equivalente a seis mil setecientos cincuenta veces el valor de la unidad de medida y actualización, la cual deberá exhibirse dentro de los primeros treinta días naturales de cada año.
+II. Otorgar fianza expedida por una institución de crédito autorizada a favor del Gobierno del Estado de México, misma que deberá actualizar anualmente, por una cantidad equivalente a doce mil veces el valor de la unidad de medida y actualización, la cual deberá exhibirse dentro de los primeros treinta días naturales de cada año.
 
-Los Notarios que se separen de la función notarial, de forma definitiva, por cualquier causa, deberán mantener vigente por un año posterior a su separación, la fianza referida, para en su caso, responder de las obligaciones económicas derivadas del ejercicio de su función.
+Los Notarios que se separen de la función notarial, de forma definitiva, por cualquier causa, deberán mantener vigente por tres años posterior (sic) a su separación, la fianza referida, para en su caso, responder de las obligaciones económicas derivadas del ejercicio de su función.
 
 III. Proveerse a su costa del protocolo y sello de autorizar;
 
@@ -267,7 +269,13 @@ a). En días festivos y horas que no sean de oficina, salvo que se trate de test
 
 b). Por causa justificada que le impida encargarse del asunto de que se trate, siempre que haya otra notaría en el mismo lugar de residencia.
 
-VIII. Los demás que le otorguen otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Patrocinar a los interesados en procedimientos judiciales o administrativos para obtener el registro de instrumentos otorgados ante su fe, con las excepciones previstas por esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Los demás que le otorguen otros ordenamientos.
 
 ###### Artículo 20.
 
@@ -283,9 +291,9 @@ III. Ejercer sus funciones cuando sean solicitados o requeridos, siempre que no 
 
 IV. Pertenecer al Colegio;
 
-> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Actualizar durante los primeros treinta días hábiles de cada año el depósito y la fianza a que se refiere la fracción II del artículo 18 de esta Ley, atendiendo a los criterios generales de incremento del valor de la Unidad de Medida y Actualización, debiendo mantenerla vigente durante todo el año siguiente a aquel en que haya dejado de ejercer la función en forma definitiva.
+V. Actualizar durante los primeros treinta días naturales de cada año la fianza a que se refiere la fracción II del artículo 18 de esta Ley, atendiendo a los criterios generales de incremento del valor de la Unidad de Medida y Actualización, debiendo mantenerla vigente durante los tres años siguientes a aquel en que haya dejado de ejercer la función en forma definitiva.
 
 VI. Sujetarse al arancel para el cobro de sus honorarios;
 
@@ -639,7 +647,7 @@ Tratándose del protocolo electrónico la autorización de su actuación debe ap
 
 ###### Artículo 55.
 
-Cuando con posterioridad a la iniciación de un libro haya cambio de notario, el que lo sustituya asentará a continuación de la clausura extraordinaria o bien, despues del último instrumento extendido, una razón en ese sentido con su nombre y apellidos, debiendo constar con su sello y su firma autógrafa o electrónica notarial. Igual requisito se observará cuando se inicie una asociación o cuando un notario suplente, provisional o interino empiece o termine de actuar.
+Cuando con posterioridad a la iniciación de un libro haya cambio de notario, el que lo sustituya asentará a continuación de la clausura extraordinaria o bien, después del último instrumento extendido, una razón en ese sentido con su nombre y apellidos, debiendo constar con su sello y su firma autógrafa o electrónica notarial. Igual requisito se observará cuando se inicie una asociación o cuando un notario suplente, provisional o interino empiece o termine de actuar.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -965,9 +973,35 @@ Si la escritura contiene varios actos jurídicos y dentro del término que para 
 
 Todas las razones y anotaciones complementarias de una escritura o acta serán rubricadas autógrafa o electrónicamente por el notario y numeradas ordinalmente.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 93.
 
-El notario ante quien se revoque o renuncie un poder que haya sido otorgado ante otro notario, aun cuando sea de otra entidad federativa, tendrá la obligación de comunicárselo por correo certificado o por cualquier otro medio indubitable de comunicación, en el que conste de manera fehaciente el acuse de recibo respectivo, dentro de los quince días hábiles siguientes, a fin de que haga la notación complementaria correspondiente en el protocolo en que se contenga y, en su caso, hará la misma comunicación al Archivo en que se encuentre depositado el protocolo. Cuando el poder revocado o renunciado haya sido otorgado ante su fe, lo hará constar en nota complementaria en el instrumento original.
+Tratándose de poderes el Notario observará lo siguiente:
+
+I. Siempre que el poder contenga facultades de dominio relacionadas o limitadas a un inmueble, deberá dar aviso del otorgamiento al Registro Nacional de Avisos de Poderes Notariales.
+
+II. Previo al otorgamiento de cualquier acto que implique la transmisión de dominio en el cual cada una de las partes comparezcan a través de apoderado, deberá verificar la autenticidad, legitimidad, vigencia y alcance del mismo por los medios que considere más eficaces.
+
+Si dicho poder es de los que deben darse aviso al Registro Nacional de Avisos de Poderes Notariales, deberá consultar la base de datos de dicho registro mediante los sistemas establecidos al efecto.
+
+III. El notario ante quien se revoque o renuncie un poder que haya sido otorgado ante otro notario, aun cuando sea de otra entidad federativa, tendrá la obligación de comunicárselo por correo certificado o por cualquier otro medio indubitable de comunicación, en el que conste de manera fehaciente el acuse de recibo respectivo, dentro de los quince días hábiles siguientes, a fin de que haga la anotación complementaria correspondiente en el protocolo en que se contenga y, en su caso, hará la misma comunicación al Archivo en que se encuentre depositado el protocolo. Cuando el poder revocado o renunciado haya sido otorgado ante su fe, lo hará constar en nota complementaria en el instrumento original.
+
+Adicionalmente, si el poder hubiese sido inscrito ante el Registro Nacional de Avisos de Poderes Notariales, el Notario deberá dar aviso a dicho registro de la revocación o renuncia, en igual plazo, mediante los sistemas establecidos al efecto.
+
+IV. Los avisos al Registro Nacional de Avisos de Poderes Notariales deberán contener:
+
+a) Nombre completo del Notario, carácter, número y lugar de residencia.
+
+b) Número de instrumento, la revocación o renuncia, en su caso, el volumen y la fecha.
+
+c) Nombre completo, nacionalidad y clave única de registro de población de los poderdantes y apoderados.
+
+d) Tratándose de personas jurídicas colectivas, su denominación o razón social.
+
+e) Tipo de poder y facultades conferidas.
+
+f) Vigencia.
 
 ###### Artículo 94.
 
@@ -1100,6 +1134,10 @@ El notario por cualquier medio de reproducción, tecnología de información o i
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
 Para que un testimonio expedido a través de cualquier tecnología de información sea válido, se requiere que contenga la firma electrónica notarial.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Expedido un testimonio no podrá testarse ni entrerrenglonarse, aunque se adviertan errores de copia o transcripción del instrumento original, asentado en el protocolo. De ser el caso, una vez constatado el error, el Notario hará mención en nota complementaria que consignará en el original y asentará certificación en el testimonio, haciendo constar la discrepancia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1245,13 +1283,17 @@ En caso de inconformidad de cualquiera de los presuntos herederos o de un tercer
 
 ### CAPITULO SEGUNDO. DEL ARBITRAJE Y LA MEDIACION NOTARIAL
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 129.
 
-Los notarios podrán desempeñar funciones de arbitro o de mediador y conocerán de los asuntos que les soliciten los interesados conforme a los compromisos respectivos, observando para su trámite las formas y restricciones que fije el Código de Procedimientos Civiles para el Estado de México, el Código de Comercio y otras leyes.
+Los notarios podrán desempeñar funciones de árbitro o de mediador y conocerán de los asuntos que les soliciten los interesados conforme a los compromisos respectivos, observando para su trámite las formas y restricciones que fije el Código de Procedimientos Civiles para el Estado de México, el Código de Comercio, Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 130.
 
-El Colegio coordinará a los notarios que desempeñen la función de arbitro o mediador en términos de las disposiciones del Reglamento.
+El Colegio coordinará a los notarios que desempeñen la función de árbitro, mediador o conciliador en términos de las disposiciones del Reglamento.
 
 ## TITULO QUINTO. DE LAS INSTITUCIONES DEL NOTARIADO
 
@@ -1361,13 +1403,19 @@ VIII. Expedir su Reglamento Interno, el cual deberá publicarse en el periódico
 
 IX. Proveer a los notarios de los folios para el protocolo ordinario, electrónico, especial, especial federal y para el libro de cotejos y de los elementos que se puedan utilizar como medidas de seguridad en los documentos notariales.
 
-X. Administrar y operar el Fondo de Garantía del Notariado del Estado;
+X. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 XI. Designar a los notarios que habrán de desempeñarse como árbitros o mediadores;
 
 XII. Designar en su representación a un notario para que asista a las inspecciones especiales;
 
-XIII. Las demás que le confieran esta Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Impartir el curso de formación de aspirantes a Notario a través del Instituto de Estudios Notariales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Las demás que le confieran esta Ley y su Reglamento.
 
 ###### Artículo 137.
 
@@ -1399,53 +1447,29 @@ IV. Promover y fomentar el conocimiento de la cultura notarial.
 
 El colegio emitirá el reglamento que regule la organización y funcionamiento del Instituto de Estudios Notariales.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ### CAPITULO TERCERO. DEL FONDO DE GARANTIA DEL NOTARIADO
 
 ###### Artículo 139.
 
-Se constituye el Fondo de Garantía del Notariado del Estado, como instrumento del Colegio para responder subsidiariamente de la actuación de los notarios del Estado, en los casos previstos en el artículo 143 de esta Ley.
-
-Para la operación de este fondo se estará a lo dispuesto en el Reglamento.
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 140.
 
-El Fondo de Garantía se integra con:
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-I. Los depósitos en efectivo que al efecto realicen los notarios para el inicio de sus funciones, por la cantidad que como garantía de su función, se determine en el acuerdo del nombramiento respectivo, que en ningún caso excederá la cantidad que resulte de multiplicar por quince mil el valor diario de la Unidad de Medida y Actualización vigente.
-
-II. Los depósitos en efectivo que al efecto realicen los notarios anualmente por concepto de actualización de la garantía de su función.
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 141.
 
-El Fondo de Garantía será administrado y operado por un Comité.
-
-El Presidente, el Secretario, el Tesorero y los vocales del Comité serán los del Consejo Directivo, todos con derechos a voz y voto, teniendo el primero, voto de calidad.
-
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
-
-La Consejería designará un representante para que funja como vocal ante el propio Comité.
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 142.
 
-Los depósitos que integran el Fondo de Garantía serán invertidos en valores de renta fija. El Colegio será el titular de los certificados y documentos que expidan las instituciones de crédito.
-
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2014)</small>
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 143.
 
-Las cantidades que integran el fondo se aplicarán en orden de prelación, para el pago de los conceptos siguientes:
-
-I. Impuestos y derechos que no hayan sido enterados;
-
-II. Daños y perjuicios causados por los notarios del Estado de México, con motivo del ejercicio de sus funciones;
-
-III. Multas que se les hayan impuesto;
-
-IV. Otros que señale el Reglamento.
-
-Los productos, rendimientos e intereses del fondo se destinarán al cumplimiento de las atribuciones del colegio, sobre todo a aquellas encaminadas a la superación profesional de sus miembros, previa aprobación de la Asamblea General de Colegiados.
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ## TITULO SEXTO. DE LA SUPERVISION NOTARIAL Y DE LA RESPONSABILIDAD DE LOS NOTARIOS
 
@@ -1681,9 +1705,9 @@ VII. Reincidir en las causales señaladas en las fracciones I, II, III y IV del 
 
 VIII. Reincidir en la causal señalada en el inciso d), fracción II del artículo 154.
 
-> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IX. No contar con certificado vigente sobre la existencia o inexistencia de gravámenes o anotaciones al otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible.
+IX. No haber solicitado certificado sobre la existencia o inexistencia de gravámenes o anotaciones al otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible.
 
 > <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1888,3 +1912,19 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 225.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+CUARTO. El Consejo Directivo del Colegio de Notarios del Estado de México en un plazo no mayor a treinta días naturales posteriores a la entrada en vigor del presente Decreto, ante la presencia de un representante de la Consejería Jurídica del Ejecutivo Estatal proveerá la liquidación del Fondo de Garantía del Notariado y efectuará la devolución de los montos respectivos a los notarios en funciones y a aquellos que han dejado de serio (sic), de los importes que hayan efectuado a la entrada en vigor del presente Decreto, siempre y cuando no tuviesen queja o procedimientos administrativos o judiciales pendientes de resolución.
+
+Los intereses que dichas cantidades hubieren generado a la fecha de entrada en vigor del presente Decreto, quedarán a disposición del Consejo Directivo del Colegio de Notarios del Estado de México que deberá destinarlo a los gastos propios del mismo.
+
+QUINTO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
