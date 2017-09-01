@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-administracion-de-bienes-vinculados-al-103966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-17"
-last_updated: "2015-12-21"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el miércoles 17 de diciembre de 2014.
 
@@ -65,7 +65,7 @@ III. Bienes: a los muebles e inmuebles sujetos a aseguramiento, embargo, abandon
 
 IV. Código de Procedimientos Penales: al Código de Procedimientos Penales vigente en el Estado de México;
 
-V. Comisión: a la Comisión Rectora de la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio;
+V. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 VI. Comité Directivo: al Comité Directivo para la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio del Estado de México;
 
@@ -81,9 +81,13 @@ XI. Instituto: al Instituto de Administración de Bienes Vinculados al Procedimi
 
 XII. Ley: a la Ley para la Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio para el Estado de México;
 
-XIII. Procurador: al Procurador General de Justicia del Estado de México, y
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Procuraduría: a la Procuraduría General de Justicia del Estado de México.
+XIII. Fiscal: al Fiscal General de Justicia del Estado de México, y
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Fiscalía: a la Fiscalía General de Justicia del Estado de México.
 
 Administrador de los bienes
 
@@ -93,71 +97,39 @@ Los bienes asegurados o embargados serán administrados por el Instituto, de con
 
 En el caso del aseguramiento de especies de flora y fauna de reserva ecológica, se atenderá lo dispuesto en los ordenamientos aplicables en la materia.
 
-### Capítulo Segundo. Comisión Rectora de la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Comisión
+### Capítulo Segundo. Comisión Rectora de la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio
 
 ###### Artículo 4.
 
-La Comisión tendrá por objeto supervisar las políticas, lineamientos y criterios para la administración, disposición y destino final de los bienes asegurados, embargados, abandonados, decomisados, en extinción de dominio o del producto de su enajenación.
-
-Integración de la Comisión
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 5.
 
-La Comisión se integrará por:
-
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
-
-I. El Secretario General de Gobierno del Estado de México, quien la presidirá;
-
-II. Un integrante del Consejo de la Judicatura del Poder Judicial que será designado por el Presidente del Tribunal Superior de Justicia del Estado de México;
-
-III. El Procurador;
-
-IV. El Secretario de Salud del Gobierno del Estado de México;
-
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
-
-V. El Comisionado Ejecutivo de Atención a Víctimas del Estado de México.
-
-VI. El Titular del Instituto, quien fungirá como Secretario Técnico y tendrá derecho a voz pero no a voto.
-
-Los integrantes de la Comisión desempeñarán su cargo de manera honorífica y podrán nombrar a sus respectivos suplentes, quienes deberán tener nivel inmediato inferior. El Secretario Técnico no tendrá suplente.
-
-Sesiones de la Comisión
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 6.
 
-La Comisión sesionará ordinariamente cada seis meses y extraordinariamente cuando se requiera. Sus reuniones serán válidas con la presencia de tres de sus integrantes con derecho a voto, entre los cuales deberá estar el Presidente o su suplente.
-
-Los acuerdos y decisiones de la Comisión se aprobarán por mayoría de votos de sus integrantes y en caso de empate, el Presidente tendrá el voto de calidad.
-
-Facultades y obligaciones de la Comisión
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 7.
 
-La Comisión tendrá las facultades y obligaciones siguientes:
-
-I. Supervisar que se cumplan las disposiciones de esta Ley y demás leyes aplicables;
-
-II. Dar seguimiento y supervisar el desempeño del Instituto, con independencia de los informes que en forma periódica deba rendir;
-
-III. Autorizar los criterios generales para la subasta o enajenación de los bienes en términos de lo establecido en el presente ordenamiento, y
-
-IV. Las demás que se señalen en esta Ley y otras disposiciones jurídicas aplicables.
+(DEROGADO, G.G. 1 DE SEPTIEMBRE DE 2017)
 
 ### Capítulo Tercero. Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México
 
-Objeto del Instituto
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+Objeto del Instituto
 
 ###### Artículo 8.
 
-Se crea el Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México, como un órgano administrativo desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y de gestión, cuyo objeto es la administración de los bienes asegurados, embargados, abandonados, decomisados o de extinción de dominio, así como la autorización de su destino legal y en su caso, la administración y entrega del producto de su enajenación, en los términos previstos en esta Ley y demás disposiciones aplicables.
+Se crea el Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México, como una unidad administrativa de la Fiscalía, con autonomía técnica y de gestión, cuyo objeto es la administración de los bienes asegurados, embargados, abandonados, decomisados o de extinción de dominio, así como la autorización de su destino legal y en su caso, la administración y entrega del producto de su enajenación, en los términos previstos en esta Ley y demás disposiciones aplicables.
 
-Al frente del Instituto habrá un Director General, quien será nombrado y removido por el Gobernador del Estado, de quien dependerán los directores, subdirectores, jefes de departamento y personal de apoyo administrativo que proceda conforme las necesidades del servicio y la disponibilidad presupuestal.
+Al frente del Instituto habrá un Director General, quien será nombrado y removido por el Fiscal, de quien dependerán los directores, subdirectores, jefes de departamento y personal de apoyo administrativo que proceda conforme (sic) las necesidades del servicio y la disponibilidad presupuestal.
+
+El Fiscal General, mediante Acuerdo, determinará la adscripción del Instituto.
 
 Facultades del Director General
 
@@ -171,7 +143,9 @@ II. Administrar los bienes objeto de esta Ley, en términos de las disposiciones
 
 III. Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable, así como promover lo conducente en representación del Instituto, e interponer los juicios de amparo que procedan en defensa del patrimonio del mismo;
 
-IV. Dirigir y coordinar las actividades del Instituto, de conformidad con lo dispuesto en esta Ley, y en los acuerdos que al efecto apruebe la Comisión y el Comité Directivo;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Dirigir y coordinar las actividades del Instituto, de conformidad con lo dispuesto en esta Ley, y en los acuerdos que al efecto apruebe el Comité Técnico;
 
 V. Nombrar o remover a los depositarios, interventores o administradores de los bienes, cuando no lo haya hecho el Ministerio Público o el Juez;
 
@@ -185,7 +159,9 @@ IX. Clasificar la información del Instituto y proporcionar información sobre b
 
 X. Cubrir previo avalúo, los daños causados por la pérdida, extravío o deterioro de los bienes, excepto los causados por el simple transcurso del tiempo;
 
-XI. Rendir en cada sesión ordinaria de la Comisión y del Comité Directivo, informe sobre el estado de los bienes objeto de esta Ley, así como en cada ocasión que se le requiera;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Rendir en cada sesión ordinaria del Comité Técnico, informe sobre el estado de los bienes objeto de esta Ley, así como en cada ocasión que se le requiera;
 
 XII. Integrar, actualizar y mejorar la base de datos con el registro de los bienes objeto de esta Ley, y
 
@@ -193,17 +169,23 @@ XII. Integrar, actualizar y mejorar la base de datos con el registro de los bien
 
 XIII. Se informara anualmente a la Legislatura sobre el destino de los bienes.
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Las demás que señalen otros ordenamientos, el Secretario General de Gobierno del Estado de México o que por acuerdo le otorgue el Comité Directivo o la Comisión.
+XIV. Contratar a terceros para resguardar, trasladar, subastar, chatarrizar, destruir y enajenar bienes, y
+
+> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Las demás que señalen otros ordenamientos, el Fiscal o que por acuerdo le otorgue el Comité Técnico.
 
 ### Capítulo Cuarto. Comité Directivo para la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio
 
-Comité Directivo
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Comité Técnico
 
 ###### Artículo 10.
 
-Se crea el Comité Directivo para la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio, como un órgano colegiado especializado del Gobierno del Estado de México, que operará y funcionará bajo un esquema interdisciplinario, el cual tiene por objeto definir y agilizar la administración, disposición y el procedimiento de enajenación de los bienes asegurados, embargados, abandonados, decomisados y de extinción de dominio.
+Se crea el Comité Técnico para la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio, como un órgano técnico de la Fiscalía, que operará y funcionará bajo un esquema interdisciplinario, el cual tiene por objeto definir y agilizar la administración, disposición y el procedimiento de enajenación de los bienes asegurados, embargados, abandonados, decomisados y de extinción de dominio.
 
 Integración del Comité Directivo
 
@@ -211,25 +193,37 @@ Integración del Comité Directivo
 
 El Comité Directivo, se integrará por los siguientes servidores públicos:
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. El Secretario General de Gobierno del Estado de México, quien fungirá como Presidente.
+I. El Vice Fiscal General, quien fungirá como Presidente.
 
 II. El Titular del Instituto, quien fungirá como Secretario Técnico;
 
-III. El Subsecretario de Administración de la Secretaría de Finanzas, quien fungirá como Tesorero;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. El Subprocurador General de la Procuraduría, quien fungirá como Primer Vocal;
+III. El Oficial Mayor, quien fungirá como Tesorero
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Un representante de la Comisión Ejecutiva de Atención a Víctimas del Estado de México.
+IV. El Fiscal Central de Atención Especializada, quien fungirá como Vocal;
 
-VI. El Titular de la Unidad Especializada de Inteligencia Patrimonial y Financiera, quien fungirá como Segundo Vocal.
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. El Fiscal Central Jurídico, quien fungirá como Vocal;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VI. El Coordinador General de Servicios Periciales, quien fungirá como Vocal, y
+
+> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+VII. El Contralor interno, quien fungirá como Vocal.
 
 Los integrantes del Comité Directivo designarán un suplente por escrito, quien deberá tener el nivel jerárquico inmediato inferior y podrá asistir a las sesiones del mismo en ausencia del titular, con las mismas facultades, obligaciones y responsabilidades de éste.
 
-Los integrantes del Comité Directivo contarán con voz y voto con excepción del Secretario Técnico, quien sólo tendrá voz y ejercerán su cargo en forma honorífica.
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los integrantes del Comité Técnico contarán con voz y voto con excepción del Secretario Técnico y el Contralor Interno, quienes sólo tendrán voz y ejercerán su cargo en forma honorífica.
 
 Atribuciones del Comité Directivo
 
@@ -263,11 +257,125 @@ Administración de los bienes
 
 La administración de los bienes comprende su recepción, revisión, registro, custodia, conservación, supervisión y autorización del destino final. Serán conservados en el estado en que se hayan asegurado para ser devueltos en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo. Podrán utilizarse o ser enajenados, previo acuerdo del Juez o del Ministerio Público, según corresponda, exclusivamente en los casos y cumpliendo los requisitos establecidos en esta Ley.
 
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los bienes que se encuentren asegurados no generarán pagos de impuestos, derechos o aprovechamientos estatales o municipales a cargo del Instituto o de la autoridad que ordenó o ratificó el aseguramiento mientras subsista el aseguramiento.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Respecto de los bienes que no son susceptibles de administración en los términos de esta Ley, el Ministerio Público, de conformidad con las disposiciones aplicables, así como de aquellos que tengan más de seis meses de haber sido asegurados, y no se haya solicitado su devolución, se procederá a ordenar su depositaría, asignación, destrucción, enajenación, de conformidad con los ordenamientos aplicables para cada tipo de bien, o donación a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades; o bien a determinar un fin específico que ofrezca la preservación del bien, y en su caso, la mayor utilidad para la Fiscalía.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+La administración de los bienes comprende su recepción, registro, custodia, conservación y supervisión. Serán conservados en el estado en que se hayan recibido por el Instituto, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo. Dichos bienes podrán ser utilizados, destruidos o enajenados en los casos y cumpliendo los requisitos establecidos en esta Ley y en el Reglamento, para lo cual, en su caso, el Instituto podrá llevar a cabo los actos conducentes para la regularización de dichos bienes, de conformidad con las disposiciones aplicables para tal efecto.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los depositarios, liquidadores, interventores o administradores, que reciban bienes en depósito, intervención, liquidación o administración, están obligados a rendir al Instituto un informe mensual sobre los mismos, y a darle todas las facilidades para su supervisión y vigilancia.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Las armas de fuego, municiones y explosivos serán administradas por la Secretaría de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose de narcóticos, flora y fauna protegidos, materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+A los frutos o rendimientos de los bienes durante el tiempo que dure la administración, se les dará el mismo tratamiento que a los bienes que los generen.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+En todo caso, los recursos que se obtengan de la administración de los bienes se destinarán a resarcir el costo de mantenimiento y administración de los mismos y el remanente, si lo hubiera, se depositará en el fondo a que se refiere el artículo 20 de esta Ley y se entregará a quien en su momento acredite tener derecho en términos las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Respecto de los bienes, el Instituto y en su caso los depositarios, interventores, liquidadores o administradores que haya designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil para el depositario.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Para la debida conservación y en su caso buen funcionamiento de los bienes, incluyendo el de los inmuebles destinados a actividades agropecuarias, empresas, negociaciones y establecimientos, el Instituto tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, para otorgar y suscribir títulos de crédito y, en los casos previstos en esta Ley, actos de dominio.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Las facultades a que se refiere este artículo se podrán ejercitar ante cualquier autoridad jurisdiccional, sea civil, penal, administrativa, laboral, militar, federal, estatal o municipal.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Las facultades previstas en este artículo se otorgarán a los depositarios, interventores, liquidadores o administradores, por parte del Instituto, de acuerdo a lo que éstos requieran para el adecuado ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los bienes serán custodiados y conservados en los lugares que determine el Instituto.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los depositarios, liquidadores, interventores y administradores designados por el Instituto no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos de terceros
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los inmuebles susceptibles de destinarse a actividades lícitas que sean entregados al Instituto, serán administrados a fin de mantenerlos productivos o, en su caso, hacerlos productivos.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Instituto nombrará un administrador para las empresas, negociaciones o establecimientos objeto de esta Ley.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El administrador de los bienes a que se refiere el párrafo anterior, tendrá las facultades necesarias, en términos de las disposiciones aplicables, para mantenerlos en operación y buena marcha, pero no podrá enajenar ni gravar los bienes que constituyan parte del activo fijo de la empresa, negociación o establecimiento.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Comité Técnico podrá autorizar al administrador que proceda a la suspensión o cierre definitivo de las empresas, negociaciones o establecimientos, cuando las actividades de éstos resulten incosteables y por consecuencia se procederá a la disolución, liquidación, concurso mercantil, quiebra, fusión, escisión o venta según sea el caso.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose de empresas, negociaciones o establecimientos que no cuenten con las licencias, autorizaciones, permisos, concesiones o cualquier otro tipo de requisito necesario para operar lícitamente, el administrador procederá a su regularización si procediere. Si ello no fuere posible, procederá a la suspensión, cancelación y liquidación de dichas actividades en cuyo caso tendrá, únicamente para tales efectos, las facultades necesarias para la enajenación de activos, la que realizará de acuerdo con los procedimientos previstos en esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El administrador tendrá independencia respecto del propietario, los órganos de administración, asambleas de accionistas, de socios o partícipes, así como de cualquier otro órgano de las empresas, negociaciones o establecimientos que se le otorguen en administración. El administrador responderá de su actuación únicamente ante el Instituto y, en el caso de que incurra en responsabilidad penal, se estará a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Comité Técnico podrá autorizar a los depositarios, administradores o interventores para que éstos utilicen los bienes que hayan recibido, lo que en su caso harán de conformidad con lo que al respecto establezca el Reglamento, así como los lineamientos que expida dicho Comité.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Comité fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los bienes. El uso de flora, fauna, piezas de arte, piezas arqueológicas e inmuebles con alguna limitación de dominio, que sea otorgado a depositarios, administradores o interventores, no generará el pago de contraprestación alguna.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Instituto podrá otorgar, previa autorización del Comité, los bienes en depósito a las dependencias, entidades paraestatales o a la Fiscalía, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien delegue esta función, y, en su caso, les autorizará mediante comodato la utilización de dichos bienes para el desarrollo de sus funciones, siempre que se hagan cargo de los gastos de preservación y garanticen la cobertura de siniestros.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando proceda la devolución de los bienes que se hayan utilizado conforme al artículo anterior, el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El seguro correspondiente a estos bienes deberá cubrir la pérdida y los daños que se originen por el uso de los mismos.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+En caso de que una empresa en liquidación tenga pasivos fiscales de carácter estatal, y el accionista único sea el Gobierno Estatal, operará de pleno derecho la cancelación de dichos créditos fiscales, sin necesidad de autorización alguna, siempre y cuando se cumplan los siguientes requisitos:
+
+I.- Que exista previo dictamen de auditor externo, y
+
+II.- Que sea la última actividad pendiente para concluir el proceso de liquidación.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+En estos casos se deberá remitir la documentación respectiva a la Secretaría de Finanzas, incluyendo el acta de la última sesión del órgano de gobierno de la empresa.
+
 Notificación al Instituto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-La autoridad competente que ordene el aseguramiento o el embargo de bienes, así como la que decrete el decomiso, abandono o la extinción de dominio, deberá notificarlo al Instituto dentro de las noventa y seis horas siguientes a la emisión de su determinación.
+La autoridad competente que ordene el aseguramiento o el embargo de bienes, así como la que decrete el decomiso, abandono o la extinción de dominio, deberá ponerlos a disposición del Instituto dentro de las setenta y dos horas siguientes a la emisión de su determinación. Tratándose de moneda nacional o extranjera el término será de 24 horas. Mientras ello sucede y el Instituto recibe el bien, la autoridad que aseguró o embargó es responsable de la preservación y custodia del bien.
 
 Las notificaciones a que se refiere esta Ley se practicarán como lo dispone el Código de Procedimientos Penales.
 
@@ -345,7 +453,9 @@ Bienes fungibles
 
 La moneda nacional o extranjera que se asegure, deberá depositarse en la institución bancaria que para tal efecto determine el Instituto, para que responda de ésta, ante la autoridad que haya ordenado el aseguramiento.
 
-Estos depósitos devengarán intereses a la tasa que la institución bancaria fije en el momento, los cuales deberán ser entregados a quien determine la autoridad que tenga los bienes a su disposición, conforme los lineamientos que emita la Comisión.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Estos depósitos devengarán intereses a la tasa que la institución bancaria fije en el momento, los cuales deberán ser entregados a quien determine la autoridad que tenga los bienes a su disposición, conforme (sic) los lineamientos que emita el Comité Técnico.
 
 En caso de billetes o piezas metálicas que por tener marcas, señas u otras características, sea necesario conservar para fines de la investigación o el proceso penal, el Juez o el Agente del Ministerio Público lo indicarán al Instituto para que los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
 
@@ -391,7 +501,9 @@ Facultades para el administrador
 
 El administrador tendrá las facultades necesarias establecidas en las normas aplicables, para mantener los negocios en operación y buena marcha, pero no podrá enajenar ni gravar los bienes que constituyan parte del activo fijo de la empresa, negociación o establecimiento.
 
-La Comisión podrá autorizar al Instituto, previa anuencia del Juez o del Agente del Ministerio Público que tenga a su disposición el bien, que realice los trámites respectivos de suspensión o liquidación, ante la autoridad judicial competente, cuando las actividades de la empresa, negociación o establecimiento resulten incosteables.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El Comité Técnico podrá autorizar al Instituto, previa anuencia del Juez o del Agente del Ministerio Público que tenga a su disposición el bien, que realice los trámites respectivos de enajenación, suspensión o liquidación, ante la autoridad judicial competente, cuando las actividades de la empresa, negociación o establecimiento resulten incosteables.
 
 Regularización de empresas, negociaciones o establecimientos
 
@@ -412,6 +524,30 @@ Destino final de los bienes
 ###### Artículo 34.
 
 El destino final de los bienes objeto de la presente Ley, se sujetará a las reglas que al efecto establezca el Código de Procedimientos Penales y la Ley de Extinción de Dominio del Estado de México.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Asimismo, aun cuando no haya concluido el procedimiento penal, el Ministerio público o el Juez que los tenga a su disposición, a petición de aquél, procederá a decretar anticipadamente el destino final de los bienes, que por el estado en que se encuentran puedan ocasionar daños a la salud pública o al medio ambiente; o bien, ya no sean funcionales.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+En el supuesto del párrafo anterior el Instituto deberá solicitar la intervención de los Servicios Periciales, del Instituto de Salud o de la Secretaría del Medio Ambiente, para que emitan opinión técnica, o en su caso dictamen pericial respecto del destino final y la forma en que se deberá proceder con los bienes asegurados que:
+
+I. Carezcan de valor económico, sean caducos o incosteables y en general aquellos que por las condiciones físicas o técnicas en las que se encuentran, ya no sean funcionales, o
+
+II. Por el deterioro normal de éstos, de sus partes o de sus componentes se conviertan en desechos tóxicos o peligrosos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Para el caso de que el destino final de los bienes sea su destrucción, se levantará acta circunstanciada que firmará el Titular del Instituto y demás personas que intervengan en el acto, debiendo observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+En casos excepcionales, de conformidad con lo que establezcan para tal efecto las disposiciones aplicables y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de bienes, éstos podrán ser donados o asignados, según corresponda, a favor de las dependencias y entidades paraestatales de la Administración Pública Estatal o Municipal, para que los utilicen en los servicios públicos, en fines educativos o de asistencia social, o a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Para la donación de los bienes, procederá previa autorización del Comité Técnico.
 
 Deberes del Instituto en la devolución del bien
 
@@ -439,9 +575,11 @@ Subasta
 
 La subasta a que se refiere el artículo 53 de la Ley de Extinción de Dominio del Estado de México, se realizará de la siguiente manera:
 
-I. Una vez que haya quedado firme la sentencia en la que el Juez declare la pérdida del dominio sobre los bienes, a favor del Gobierno del Estado, el Instituto solicitará el auxilio de peritos de la Procuraduría para realizar el avalúo correspondiente;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Valuados los bienes, el Instituto anunciará su venta en el Periódico Oficial “Gaceta del Gobierno” y en el Boletín Judicial por una sola vez, de conformidad con el Código de Procedimientos Civiles del Estado de México;
+I. Una vez que haya quedado firme la sentencia en la que el Juez declare la pérdida del dominio sobre los bienes, a favor del Gobierno del Estado, el Instituto solicitará el auxilio de peritos de la Fiscalía para realizar el avalúo correspondiente;
+
+II. Valuados los bienes, el Instituto anunciará su venta en el Periódico Oficial "Gaceta del Gobierno" y en el Boletín Judicial por una sola vez, de conformidad con el Código de Procedimientos Civiles del Estado de México;
 
 III. Las personas interesadas en los bienes objeto de subasta, podrán solicitar al Instituto, toda la información pormenorizada acerca del bien de su interés y los requisitos para la subasta;
 
@@ -473,9 +611,11 @@ En lo no previsto en este rubro, se aplicará supletoriamente las reglas del rem
 
 Enajenación de los bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
-Los bienes podrán enajenarse mediante adjudicación directa, subasta pública o ser sujetos a donación previa autorización de la Comisión, del Juez o el Ministerio Público, la cual deberá constar por escrito en los siguientes casos:
+Los bienes podrán enajenarse mediante adjudicación directa, subasta pública o ser sujetos a donación previa autorización del Comité Técnico, del Juez o el Ministerio Público, la cual deberá constar por escrito en los siguientes casos:
 
 I. Cuando se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, o no fungibles, siempre que no se puedan guardar o depositar en lugares apropiados para su conservación;
 
@@ -484,6 +624,10 @@ II. Cuando se trate de bienes cuya conservación resulte incosteable para el Ins
 III. Cuando se trate de bienes que habiendo salido a subasta pública o remate en primera almoneda, no se hayan vendido, o
 
 IV. Cuando se trate de bienes sobre los que exista oferta de compra presentada por alguna entidad de la administración pública o autoridad estatal o municipal.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Los recursos que se obtengan por la enajenación de los bienes, se destinarán al Fondo Auxiliar para la Procuración de Justicia, y de éste se pagará el reclamo fundado que pueda recibirse.
 
 Impedimentos para la enajenación
 
@@ -565,7 +709,7 @@ JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 21 DE DICIEMBRE DE 2015.
 
@@ -576,3 +720,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Ejecutivo del Estado emitirá las disposiciones reglamentarias necesarias para favorecer el cumplimiento del presente Decreto.
+
+G.G. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
