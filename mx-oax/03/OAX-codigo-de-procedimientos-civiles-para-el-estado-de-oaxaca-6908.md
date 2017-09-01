@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-05-12"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2841,9 +2841,9 @@ III. Las sentencias de que se interpuso recurso, pero no se expresaron agravios 
 
 En los casos a que se refiere la fracción I del tercer párrafo del artículo anterior el juez de oficio hará la declaración correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-En el caso de la fracción II del mismo párrafo la declaración se hará substanciando el artículo con un escrito de cada parte. Los plazos serán tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el Juez, en su caso.
+En el caso de la fracción II del mismo párrafo bastará la petición que realice la parte interesada para que el juez realice la declaración correspondiente la declaración se hará substanciando el artículo con un escrito de cada parte. Los plazos serán tres (sic) días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el Juez, en su caso.
 
 ###### Artículo 403.
 
@@ -4581,7 +4581,7 @@ Si los cónyuges no ratifican la solicitud o no se presentaren en la segunda opo
 
 ###### Artículo 660.
 
-Los cónyuges no pueden hacerse representar por apoderado o procurador en las juntas a que se refieren los artículos 657, (sic) debiendo comparecer personalmente y, en su caso, acompañados de su representante o tutor especial, y además identificarse con documento indubitable, cuya copia se agregará en autos.
+Los cónyuges no pueden hacerse representar por apoderado o procurador en las juntas a que se refieren los artículos 657, (sic), debiendo comparecer personalmente y, en su caso, acompañados de su representante o tutor especial, y además identificarse con documento indubitable, cuya copia se agregará en autos.
 
 Si los Cónyuges no presentan documento indubitable, se suspenderá la celebración de la junta de avenencia.
 
@@ -5016,6 +5016,12 @@ Si hubiere recurso ordinario contra la resolución reclamada, la queja será des
 ###### Artículo 701.
 
 El recurso de queja contra los jueces sólo procede en los juicios cuya sentencia sea apelable, a no ser que se intente para calificar el grado en la denegación de apelación o en los casos de denegación de justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 701 Bis.
+
+En los casos en los que se promueva un recurso en los que exista error en la denominación, la autoridad que conozca del caso requerirá al promovente para que dentro del plazo de cinco días hábiles haga la aclaración correspondiente.
 
 ### CAPITULO III. De la responsabilidad judicial
 
@@ -6691,27 +6697,31 @@ Cuando la solicitud se fundamenta en la existencia de violencia familiar, o para
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 963.
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de niños, niñas y adolescentes, de alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros. Para estos casos el juez deberá decretar las providencias inmediatas y eficaces para que cese la situación irregular, el plazo máximo para dictarlos será de cinco días.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 964.
 
-No se requieren formalidades especiales, para acudir ante el Juez competente cuando se trate de investigación de la paternidad a que se refiere el artículo 396 del Código Civil del Estado, así como cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio, oposición de maridos, padres y tutores o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos y en general todas las cuestiones familiares que reclamen la intervención judicial.
+No se requieren formalidades especiales, para acudir ante el Juez competente cuando se trate de investigación de la paternidad a que se refiere el artículo 396 del Código Civil del Estado, así como cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio, oposición de maridos, padres y tutores o de las diferencias que surjan entre cónyuges sobre administración de bienes comunes, todo lo relacionado a la educación de hijos y en general todas las cuestiones familiares que reclamen la intervención judicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 965.
 
 Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate, con las copias respectivas de esa comparecencia y de los documentos que en su caso se presenten se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma dentro del plazo de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva, tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento o por disposición de la Ley el Juez fijará a petición del acreedor, sin audiencia del deudor, y mediante la prueba que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El juez que conozca de un juicio en materia de alimentos para un niño, niña o adolescente, dictará la pensión alimenticia provisional, dentro del plazo de cinco días hábiles, una vez que haga la petición la parte promovente.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -7098,3 +7108,9 @@ P.O. 12 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 597.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OXACA (SIC)”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 665.- MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
