@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2017-05-30"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -799,13 +799,9 @@ XIV. El estado del medio ambiente en el que actuaba.
 
 Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el órgano jurisdiccional, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondería conforme a este Código.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Si el inculpado al rendir su declaración en la audiencia de juicio confiesa espontánea, lisa y llanamente los hechos que se le imputan, el juzgador reducirá en un tercio la pena que le correspondería conforme a este Código. Este beneficio no se aplicará a quien se sujete al procedimiento abreviado.
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-Si el inculpado de un delito patrimonial, paga espontáneamente la reparación del daño antes de que concluya la audiencia de juicio, el órgano jurisdiccional, atendiendo a las circunstancias especiales del hecho, podrá reducir hasta en una mitad la pena.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -2153,13 +2149,23 @@ DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO I. FALSIFICACION DE DOCUMENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 167.
 
-A quien falsifique documentos públicos o privados, ya sean físicos o electrónicos, se le impondrán de seis meses a cinco años de prisión y de treinta a trescientos cincuenta días multa.
+A quien falsifique documentos públicos o privados, ya sean físicos o electrónicos, se le impondrán de dos a ocho años de prisión y de cien a mil días multa.
 
-La penalidad será de dos a siete años de prisión y de cien a setecientos días multa, si el documento es una credencial o medio de identificación de los autorizados oficialmente para los miembros del Ministerio Público o de las corporaciones policiacas, así como de los integrantes del Poder Judicial.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+La penalidad será de tres a siete años de prisión y de trescientos a mil quinientos días multa, si el documento es una credencial o medio de identificación de los autorizados oficialmente para los miembros del Ministerio Público o de las corporaciones policiacas, así como de los integrantes del Poder Judicial.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+La pena a que se refiere el párrafo anterior se adicionará de un tercio a una mitad, a los particulares que falsifiquen documentos para obtener de un notario público la certificación de hechos, alguna escritura, acta notarial, testimonio, copia certificada o copia notarial.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Si en esta conducta participare algún empleado o gestor de una notaría pública o quien hubiese trabajado para alguna notaría pública, la pena señalada en el párrafo anterior se incrementará de un tercio a una mitad más.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -2168,6 +2174,10 @@ Al que para eludir responsabilidades fiscales o administrativas de cualquier ín
 > <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 Si quien realiza la falsificación es un servidor público, las penas de que se trate aumentarán hasta en una mitad y se inhabilitará de uno a diez años para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Este delito se perseguirá de oficio.
 
 ###### Artículo 168.
 
@@ -2227,19 +2237,35 @@ II. En ejercicio de funciones notariales, expida una certificación de hechos qu
 
 III. Para eximirse de un servicio debido legalmente o de una obligación impuesta por la ley, exhiba una certificación de enfermedad o impedimento que no tiene, como expedida por un médico o cirujano, sea que exista realmente la persona a quien la atribuya, o sea imaginaria; y
 
+> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+III. Bis. Permita por acción u omisión la prestación de servicios exclusivos de la función notarial a través de la utilización de sellos, marcas, protocolos o cualquier otro instrumento exclusivo de la función notarial que esté a su cargo, en oficina o establecimiento diverso al registrado ante la autoridad competente en materia notarial.
+
+Las sanciones previstas en la presente fracción se impondrán sin perjuicio de las demás responsabilidades administrativas, civiles o penales que se configuren.
+
 IV. Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exija la ley o de cumplir una obligación que ésta impone para adquirir algún derecho.
 
-> <small>(ADICIONADO, G.G. 21 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+V. A quien falsifique documentos o instrumentos propios de la Función Notarial.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Si quien realiza la falsificación es empleado o gestor de alguna notaria publica o servidor público las penas se incrementarán de un tercio hasta una mitad más.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 170 Bis.
 
-A quien por medio de la violencia física o moral obligue a un fedatario público a asentar en sus protocolos, actos o hechos que no correspondan a la realidad, con el propósito de obtener para sí o para otro, un provecho, beneficio o lucro indebido, se impondrá una pena de seis a doce años de prisión y de mil quinientos o tres mil días multa.
+A quien por medio de la violencia física o moral obligue a un fedatario público a asentar en sus protocolos, actos o hechos que no correspondan a la realidad, con el propósito de obtener para sí o para otro, un provecho, beneficio o lucro indebido, se impondrá una pena de ocho a quince años de prisión y de dos mil a cinco mil días multa.
 
 ### CAPITULO II. FALSIFICACION DE SELLOS, LLAVES O MARCAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 171.
 
-Se impondrán de uno a cinco años de prisión y de treinta a trescientos cincuenta días multa, al que con el propósito de obtener un provecho o causar un daño:
+Se impondrán de tres a ocho años de prisión y de trescientos a mil días multa, al que con el propósito de obtener un provecho o causar un daño:
 
 I. Falsifique llaves, sellos o marcas oficiales; y
 
@@ -2251,13 +2277,25 @@ Al que falsifique llaves, el sello de un particular, o un sello, marca, estampil
 
 ### CAPITULO III. USO DE OBJETO O DOCUMENTO FALSO O ALTERADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 173.
 
-Al que dolosamente haga uso de un objeto o documento falso o alterado, pretendiendo que produzca efectos legales, se le impondrá prisión de uno a cuatro años y de treinta a doscientos cincuenta días multa.
+Al que dolosamente haga uso de un objeto o documento falso o alterado, pretendiendo que produzca efectos legales, se le impondrá prisión de dos a siete años y de cien a quinientos días multa.
 
 Se impondrá la misma pena al que dolosamente haga uso de un documento verdadero expedido a favor de otro como si fuera expedido para sí.
 
-Se impondrán de dos a seis años de prisión y de treinta a trescientos cincuenta días multa, si los objetos o documentos fueren oficiales.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Se impondrán de tres a siete años de prisión y de trescientos a mil días multa, si los objetos o documentos fueren oficiales.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Al que para obtener de un notario público la certificación de hechos, alguna escritura, acta notarial, testimonio, copia certificada o certificación notarial, haga uso de un objeto o documento falso o alterado, pretendiendo que produzca efectos legales, se le aumentará la pena de un tercio hasta una mitad más.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Si en esta conducta participare algún empleado o gestor de una notaría pública o quien hubiese trabajado para alguna notaría pública, la pena señalada en el párrafo anterior se incrementará de un tercio a una mitad más.
 
 ### CAPITULO IV. FALSIFICACION Y UTILIZACION INDEBIDA DE TITULOS AL PORTADOR, DOCUMENTOS DE CREDITO PUBLICO Y DOCUMENTOS RELATIVOS AL CREDITO
 
@@ -2321,15 +2359,19 @@ I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna funci�
 
 II. Se atribuya o acepte por cualquier medio el carácter de profesionista o grado académico sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal;
 
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+Por las conductas contenidas en las fracciones I y II del presente artículo, se impondrán de dos a siete años de prisión y de quinientos a dos mil días multa.
+
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 III. Se equipara a la usurpación de funciones públicas la prestación u ostentación de servicios de seguridad privada, por parte de persona física, miembros o representantes legales de una persona jurídica o de una sociedad, corporación o empresa, sin la autorización otorgada por la autoridad estatal. Al responsable de este delito, se le impondrán de tres a ocho años de prisión y de cien a mil días multa.
 
-Al responsable de este delito, se le impondrán de uno a cuatro años de prisión y de treinta a doscientos cincuenta días multa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 Cuando el usurpador se atribuya en vías de hecho la condición de miembro de una corporación policíaca pública o privada sin serlo, la penalidad será de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
 
-Este delito se perseguirá de oficio.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 > <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
 
@@ -2337,7 +2379,9 @@ IV. Se equipara a la usurpación de funciones públicas la prestación de servic
 
 Si en este delito tuviere intervención cualquier servidor público del ámbito educativo, la pena aplicable se aumentará de una a dos terceras partes de las que correspondan por el delito cometido y se le impondrá además la destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos.
 
-Este delito se perseguirá de oficio.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+
+El delito contenido en el presente artículo se perseguirá de oficio.
 
 ### CAPITULO VII. USO INDEBIDO DE UNIFORMES, INSIGNIAS, DISTINTIVOS O CONDECORACIONES
 
@@ -4387,7 +4431,7 @@ XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativa
 
 > <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-XVIII. Cuando se corneta (sic) en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de ocho a once años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
+XVIII. Cuando se cometa en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de ocho a once años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
 
 > <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
@@ -6776,3 +6820,13 @@ VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en 
 VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
 
 VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
+
+G.G. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
