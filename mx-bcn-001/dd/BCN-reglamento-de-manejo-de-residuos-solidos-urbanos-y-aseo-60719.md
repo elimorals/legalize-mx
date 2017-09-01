@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-manejo-de-residuos-solidos-urbanos-y-aseo-60719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2008-04-11"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "BCN"
 ---
 # REGLAMENTO DE MANEJO DE RESIDUOS SOLIDOS URBANOS Y ASEO PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE MANEJO DE RESIDUOS SOLIDOS URBANOS Y ASEO PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE MANEJO DE RESIDUOS SÓLIDOS URBANOS Y ASEO PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
-EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO QUE AUTORIZA Y DA FE, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACClON II DE LA CONSTlTUCION POLlTlCA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA El ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA DE CARÁCTER PRIVADA, CELEBRADA EL DIA 17 DE NOVIEMBRE DEL AÑO 2007, SE TOMO EL SIGUIENTE:
+EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO QUE AUTORIZA Y DA FE, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA El ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA DE CARÁCTER PRIVADA, CELEBRADA EL DIA 17 DE NOVIEMBRE DEL AÑO 2007, SE TOMO EL SIGUIENTE:
 
 ACUERDO
 
@@ -225,6 +225,8 @@ XI.- Inspeccionar, vigilar y en su caso sancionar, a quienes incurran en faltas 
 
 XII.- Las demás que le confieren este reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 6.
 
 Corresponde a las Delegaciones el ejercicio de las siguientes facultades:
@@ -247,7 +249,7 @@ VIII.- Atender oportunamente las quejas del publico sobre la prestación del ser
 
 IX.- Solicitar autorización a la Dirección de Obras y Servicios Públicos Municipales para el otorgamiento de las declaraciones de apertura, licencias y autorizaciones de funcionamiento de los establecimientos mercantiles y de servicios relacionados con el manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos;
 
-X.- Solicitar a la Dirección de Obras y Servicios Públicos Municipales la realización de estudios con relación a las propuestas que estas envíen para otorgar concesiones para la prestación del servicio publico de limpia de competencia de la Delegación y, en su caso, aprobar dichas concesiones;
+X.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2017)
 
 XII.- Participar, bajo la coordinación de la Dirección de Obras y servicios Públicos municipales, en la atención de los asuntos de los efectos que genere la realización de los servicios;
 
@@ -735,7 +737,7 @@ IV.- Los sitios de almacenamiento deberán cumplir con los requisitos señalados
 
 V.- El generador llevará una bitácora mensual sobre la generación de residuos, la cual conservará en su domicilio para cualquier requerimiento de la autoridad competente;
 
-VI.- El generador deberá presentar al Ayuntamiento un reporte semestral sobre el destino de los residuos; (sic)
+VI.- El generador deberá presentar al Ayuntamiento un reporte semestral sobre el destino de los residuos;
 
 ###### ARTICULO 64.
 
@@ -745,7 +747,7 @@ I.- Obtener previamente al inicio de sus actividades, la autorización y el regi
 
 II.- Iniciada la presentación del servicio, deberá solicitar a los generadores cuyos residuos recolecte y transporte, copias de sus registros ante las autoridades componentes;
 
-III.- Sujetarse a las disposiciones sobre seguridad higiene (sic) en el trabajo que correspondan, así como las que resulten aplicables en materia de tránsito y de comunicaciones y transportes;
+III.- Sujetarse a las disposiciones sobre seguridad (sic) higiene en el trabajo que correspondan, así como las que resulten aplicables en materia de tránsito y de comunicaciones y transportes;
 
 IV.- Remitir al Ayuntamiento un informe semestral sobre los residuos especiales transportados durante el periodo correspondiente;
 
@@ -1067,13 +1069,13 @@ Las sanciones que se aplicarán por violación a las disposiciones de este Regla
 
 I.- Amonestación verbal o por escrito, según el caso;
 
-II.- Multa de 1 a 100 veces de salario mínimo general diario vigente para el Municipio en el momento de comisión (sic) de la infracción o la que establezca la Ley de Ingresos Municipales para el supuesto específico;
+II.- Multa de 1 a 100 veces de salario mínimo general diario vigente para el Municipio en el momento de comisión de la infracción o la que establezca la Ley de Ingresos Municipales para el supuesto específico;
 
 III.- Arresto administrativo hasta por 36 horas, que se podrá conmutar por trabajo comunitario;
 
 IV.- Suspensión temporal de actividades del establecimiento infractor; y
 
-V.- Clausura definitiva del establecimiento y revocación de su licencia o permiso; (sic)
+V.- Clausura definitiva del establecimiento y revocación de su licencia o permiso;
 
 ###### ARTICULO 111.
 
@@ -1156,3 +1158,11 @@ PRESIDENTE MUNICIPAL DEL XVIII AYUNTAMIENTO DE ENSENADA
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL H. AYUNTAMIENTO DE ENSENADA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 003/2017 RELATIVO A REFORMAR EL ARTÍCULO 6 DEL REGLAMENTO DE MANEJO DE RESIDUOS SÓLIDOS URBANOS Y ASEO PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
