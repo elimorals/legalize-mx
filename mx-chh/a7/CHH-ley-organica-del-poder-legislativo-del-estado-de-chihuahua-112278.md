@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-07-26"
+last_updated: "2017-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -997,7 +997,9 @@ VII.- Turnar a la Secretaría de Asuntos Legislativos los dictámenes, informes,
 
 VIII.- Garantizar el orden de las reuniones de la Comisión, pudiendo suspenderlas en caso de desobediencia o desorden.
 
-IX.- Presentar, por escrito, ante el Pleno un informe anual de actividades de la Comisión, a más tardar, el último día del mes de agosto de cada año.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+IX.- Presentar, por escrito ante la Presidencia del Congreso, un informe anual de actividades de la Comisión, a más tardar, el último día del mes de agosto de cada año.
 
 X.- Las demás que les confiere esta Ley, sus Reglamentos y otros ordenamientos legales aplicables.
 
@@ -1141,7 +1143,9 @@ Quienes integren los Comités serán designados por el Pleno, a propuesta de la 
 
 Los Comités se reunirán, para la atención y desahogo de sus asuntos, en la medida que su carga de trabajo así lo requiera, previa convocatoria emitida por quien presida, conjuntamente con su secretaría.
 
-Además, deberán presentar, a la Junta de Coordinación Política, un informe anual, a más tardar, el último día del mes de agosto de cada año.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+Además, deberán presentar, por escrito ante la Presidencia del Congreso, un informe anual, a más tardar, el último día del mes de agosto de cada año.
 
 ###### ARTÍCULO 121.
 
@@ -2390,3 +2394,9 @@ P.O. 26 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXV/RFLEY/0373/2017 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
