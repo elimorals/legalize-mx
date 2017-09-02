@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2017-07-26"
+last_updated: "2017-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -477,11 +477,15 @@ Las comisiones y comités elaborarán un programa de trabajo en el que se señal
 
 Dicho programa deberá ser entregado por escrito a la Presidencia de la Mesa Directiva, a más tardar el 30 de octubre del primer año de ejercicio constitucional.
 
-Además, rendirán un informe de labores a la Presidencia a más tardar el 31 de enero de cada año, que comprenderá los meses de enero a diciembre, mismo que contendrá los resultados de los objetivos y metas propuestas.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
-Tratándose del primer informe, este abarcará de la fecha en que se instale la comisión o comité, hasta el mes de diciembre del año siguiente.
+Además, rendirán un informe de labores por escrito ante la Presidencia de la Mesa Directiva, a más tardar el último día del mes de agosto de cada año, que comprenderá los meses de septiembre a agosto, mismo que contendrá los resultados de los objetivos y metas propuestas en sus programas de trabajo.
 
-El último año de la legislatura, el informe lo rendirán, a más tardar, el 31 de agosto.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose del primer informe, este abarcará de la fecha en que se instale la comisión o comité, hasta el último día del mes de agosto del siguiente año.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
@@ -738,6 +742,10 @@ I.- De viva voz en el Pleno o la Diputación Permanente, entregando el documento
 II.- Por escrito y en formato electrónico, en la Oficialía de Partes del Congreso.
 
 III.- Por escrito y en formato electrónico en la Secretaría de Asuntos Legislativos, cuando así lo acuerde la Presidencia de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose de las iniciativas que se presenten en los términos de las fracciones II y III deberán hacerse del conocimiento de las y los Diputados a más tardar al día siguiente hábil al de su recepción.
 
 ###### ARTÍCULO 78.
 
@@ -1077,13 +1085,19 @@ e. Agotadas las intervenciones, la Presidencia ordenará se abra el sistema de v
 
 f. La Secretaría que corresponda informará a la Presidencia el resultado de la votación y esta hará la declaratoria correspondiente.
 
-Si el dictamen no fuere aprobado en lo general, la Presidencia ordenará se devuelva a la comisión que lo formuló, a fin de que elabore uno diverso, y lo someta, en su oportunidad, a consideración del Pleno o Diputación Permanente.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+Si el dictamen no fuere aprobado en lo general, la Presidencia ordenará se devuelva a la comisión que lo formuló, a fin de que elabore uno diverso en un plazo que no exceda de quince días naturales y lo someta a consideración del Pleno o de la Diputación Permanente.
 
 Si de nueva cuenta el asunto no fuere aprobado en lo general, se tendrá por desechado, y se sujetará a lo dispuesto por los artículos de (sic) 179 y 180 de la Ley, salvo en los casos en que por disposición expresa deba emitirse una resolución.
 
-II.- Discusión y votación en lo particular.- Concluida la discusión y votación en lo general, la Presidencia someterá a discusión el dictamen en lo particular; es decir, respecto de preceptos o partes específicas del mismo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
-a. Las y los diputados podrán intervenir para expresar su desacuerdo respecto de partes específicas del dictamen referido en el párrafo anterior, señalando sus reservas acompañadas de propuestas alternas por escrito.
+II.- Discusión y votación en lo particular.- Concluida la discusión y votación en lo general, la Presidencia someterá a discusión el dictamen en lo particular, es decir, respecto de preceptos o partes específicas del mismo, lo que implica la reserva de artículos determinados para su análisis.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+a. Las y los diputados podrán intervenir para expresar su desacuerdo respecto de partes específicas del dictamen referido en el párrafo anterior, señalando sus reservas acompañadas de propuestas alternas por escrito y presentarlas antes del inicio de la votación del dictamen, en lo general.
 
 En caso de no presentar propuestas alternas, dicha reserva se tendrá por no formulada.
 
@@ -1095,17 +1109,27 @@ d. A partir de esta determinación, podrán enlistarse hasta seis oradores en ca
 
 Si quien haya solicitado la palabra no estuviere presente en el salón de sesiones cuando le corresponda intervenir, perderá su derecho a ello.
 
-e. Después de haber escuchado las reservas y sus propuestas, la Presidencia, a solicitud de la comisión que conoció del asunto, declarará un receso a fin de que se analicen.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
-Si la comisión no solicita el receso, la Presidencia le consultará a la comisión si acepta o rechaza la propuesta.
+e. Después de haber escuchado las reservas y sus propuestas, la Presidencia las someterá a votación y ordenará abrir el sistema electrónico de votación, a efecto de que las y los diputados presentes en el Pleno, registren su voto.
 
-f. La comisión hará del conocimiento de la Presidencia su resolución, para que someta a votación las propuestas aceptadas, ordenando abrir el sistema electrónico de votación, a efecto de que las y los integrantes presentes en el Pleno, registren su voto de esa manera y levantando la mano.
+Las votaciones sobre cada uno de los artículos reservados podrán realizarse al final de la discusión sobre la totalidad de los mismos.
 
-g. Una de las Secretarías informará a la Presidencia el resultado de la votación y esta hará la declaratoria correspondiente.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+f. Una de las Secretarías informará a la Presidencia el resultado de la votación y esta hará la declaratoria correspondiente.
 
 Las reservas aprobadas se incorporarán al dictamen o documento de que se trate, cuando se elabore la minuta correspondiente.
 
-h. Las partes del dictamen o documento sobre las que no se expresen reservas, se someterán a votación en su conjunto.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+g. Las partes del dictamen o documento sobre las que no se expresen reservas, se someterán a votación en su conjunto.
+
+h. (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+La Presidencia podrá permitir que un dictamen se vote en lo general y en lo particular en un solo acto, siempre que no se hayan presentado reservas respecto de partes específicas del mismo.
 
 ###### ARTÍCULO 117.
 
@@ -1466,3 +1490,9 @@ P.O. 26 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXV/RFLEY/0373/2017 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
