@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-03-22"
+last_updated: "2017-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -8531,7 +8531,9 @@ IV. Usar cinturón de seguridad y, en su caso, obligar a usarlo a quien lo acomp
 
 V. Cumplir con las disposiciones relativas a las señales preventivas y restrictivas, de estacionamiento, sobre contaminación ambiental y límites de velocidad;
 
-VI. Respetar el carril derecho de circulación, así como el carril de contra flujo exclusivo para vehículos de transporte público;
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Respetar los carriles, derecho de circulación y de contraflujo o confinado, para los vehículos de transporte público, masivo o de alta capacidad.
 
 VII. Ceder el paso a todo vehículo que se encuentre ostensiblemente dentro de una intersección, incluyendo las glorietas;
 
@@ -18527,7 +18529,7 @@ SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a
 
 G.G. 22 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 195.- POR EL QUE SE REFORMA LA FRACCIÓN III AL ARTÍCULO 2.21 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 195.- POR EL QUE SE REFORMA LA FRACCIÓN III AL ARTÍCULO 2.21 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -18552,3 +18554,15 @@ La Secretaría de Finanzas adoptará todas las medidas de racionalidad en el gas
 ###### ARTÍCULO SEXTO.
 
 La Legislatura del Estado, al aprobar el presupuesto de egresos de cada ejercicio fiscal dispondrá de los recursos necesarios para la aplicación de estas reformas.
+
+G.G. 4 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 229.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 8.16 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado, deberá realizar las adecuaciones reglamentarias en congruencia con el presente Decreto dentro de un plazo no mayor a sesenta días hábiles a partir de su entrada en vigor.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
