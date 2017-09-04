@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-electoral-109465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-19"
-last_updated: "2016-11-29"
+last_updated: "2017-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 19 de agosto de 2015.
 
@@ -131,7 +131,9 @@ i) Consejeros: Los Consejeros Electorales del Consejo General;
 
 j) Representantes: Los Representantes de los Partidos Políticos Nacionales, así como de los Candidatos Independientes acreditados ante el Consejo correspondiente;
 
-k) Contraloría: La Contraloría General;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+k) OIC: El Órgano Interno de Control;
 
 l) Comisiones: Las Comisiones del Consejo General;
 
@@ -277,7 +279,9 @@ A. La Unidad Técnica de Transparencia y Protección de Datos Personales.
 
 VI. De Control
 
-A. La Contraloría General.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+A. El Órgano Interno de Control.
 
 VII. Otros órganos colegiados
 
@@ -315,7 +319,9 @@ b) Dirigir las actividades, vigilar la oportuna integración y el adecuado funci
 
 c) Dictar las modalidades pertinentes para el óptimo aprovechamiento de los recursos del Instituto;
 
-d) Aprobar la estructura, personal y recursos de la Contraloría General, así como sus modificaciones;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+d) Aprobar la estructura, personal y recursos del OIC, así como sus modificaciones;
 
 e) Ejercer las facultades de asunción, atracción y delegación, así como en su caso, aprobar la suscripción de convenios, respecto de procesos electorales locales, conforme a las normas contenidas en la Ley Electoral;
 
@@ -325,7 +331,9 @@ g) Aprobar el Plan y Calendario Integrales de los procesos electorales federales
 
 h) Conocer y aprobar los informes que rinda la Comisión de Fiscalización; así como determinar los topes máximos de gastos de precampaña y campaña que puedan erogarse en las elecciones de Presidente de los Estados Unidos Mexicanos, Senadores y Diputados;
 
-i) Conocer los avances y resultados alcanzados por los órganos del Instituto en el marco de su planeación, a través de los informes trimestrales y anuales que rinda la Junta por conducto del Secretario Ejecutivo, los informes específicos que estime necesario solicitarles, los que en su caso, deba rendir la Contraloría General; así como el Informe Anual en materia de Transparencia que debe rendir el Instituto al Instituto Federal de Acceso a la Información y Protección de Datos;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+i) Conocer los avances y resultados alcanzados por los órganos del Instituto en el marco de su planeación, a través de los informes trimestrales y anuales que rinda la Junta por conducto del Secretario Ejecutivo, los informes específicos que estime necesario solicitarles, los que en su caso, deba rendir el OIC; así como el Informe Anual en materia de Transparencia que debe rendir el Instituto al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
 j) Integrar las Comisiones Permanentes y Temporales;
 
@@ -607,7 +615,7 @@ a) Velar por la observancia de las disposiciones de la Ley Electoral y del prese
 
 b) Solicitar y recibir oportunamente de las Juntas Locales y Distritales la información necesaria para el adecuado cumplimiento de sus atribuciones;
 
-c) Sustanciar los medios de impugnación que les competan en los términos de la Ley General del Sistemas (sic) de Medios de Impugnación en Materia Electoral;
+c) Sustanciar los medios de impugnación que les competan en los términos de la Ley General del (sic) Sistemas de Medios de Impugnación en Materia Electoral;
 
 d) Remitir a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos copia certificada del registro de Representantes de los Partidos Políticos y de los candidatos independientes ante el Consejo Local;
 
@@ -799,7 +807,9 @@ r) Supervisar la realización de las tareas de verificación en campo y gabinete
 
 s) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
-2. Los Consejeros Locales estarán sujetos en lo conducente al régimen de responsabilidades administrativas, previstas en el Libro Octavo, Título Segundo, Capítulos I, II y III de la Ley Electoral y podrán ser sancionados por el Consejo por la violación en que incurran a los principios rectores de la función electoral que establece la Constitución y disposiciones aplicables, así como por la Contraloría por las faltas administrativas en que incurran en el desempeño de sus funciones.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+2. Los Consejeros Locales estarán sujetos en lo conducente al régimen de responsabilidades administrativas, previstas en el Libro Octavo, Título Segundo, Capítulos I, II y III de la Ley Electoral y podrán ser sancionados por el Consejo por la violación en que incurran a los principios rectores de la función electoral que establece la Constitución y disposiciones aplicables, así como por el OIC por las faltas administrativas en que incurran en el desempeño de sus funciones.
 
 ###### ARTÍCULO 26.
 
@@ -1035,7 +1045,9 @@ r) Realizar verificaciones en campo y gabinete tendentes a lograr una adecuada u
 
 s) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
 
-2. Los Consejeros Distritales estarán sujetos en lo conducente al régimen de responsabilidades administrativas, previstas en el Libro Octavo de la Ley Electoral y podrán ser sancionados por el Consejo por la violación en que incurran a los principios rectores de la función electoral que establece la Constitución, y disposiciones aplicables, así como por la Contraloría por los actos u omisiones en que incurran en el desempeño de sus funciones.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+2. Los Consejeros Distritales estarán sujetos en lo conducente al régimen de responsabilidades administrativas, previstas en el Libro Octavo de la Ley Electoral y podrán ser sancionados por el Consejo por la violación en que incurran a los principios rectores de la función electoral que establece la Constitución, y disposiciones aplicables, así como por el OIC por los actos u omisiones en que incurran en el desempeño de sus funciones.
 
 #### SECCIÓN CUARTA. De los Representantes de los Partidos Políticos ante el Consejo Distrital
 
@@ -1119,7 +1131,9 @@ i) Las demás que les confiera el (sic) Ley Electoral y otras disposiciones apli
 
 1. La Junta es un órgano ejecutivo central de naturaleza colegiada, integrado de conformidad con lo establecido en el artículo 47, numeral 1, de la Ley Electoral.
 
-2. El Contralor General y los titulares de los Órganos Técnicos Centrales que no sean integrantes de la Junta podrán participar con derecho a voz en sus sesiones, a convocatoria del Consejero Presidente, para ilustrar la discusión de alguno de los puntos del orden del día relacionados con el área de su competencia.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+2. El Titular del OIC y los titulares de los Órganos Técnicos Centrales que no sean integrantes de la Junta podrán participar con derecho a voz en sus sesiones, a convocatoria del Consejero Presidente, para ilustrar la discusión de alguno de los puntos del orden del día relacionados con el área de su competencia.
 
 3. Las sesiones de la Junta se regirán por el Reglamento específico que expida el Consejo.
 
@@ -1191,7 +1205,9 @@ l) En su caso, coordinar y supervisar la integración de los archivos de las ses
 
 m) Actuar a nombre y representación del Consejo y de la Junta en los procedimientos administrativos y judiciales en los cuales sean parte;
 
-n) Coordinar y ejecutar las acciones necesarias para atender los requerimientos que le formule el Contralor General como coadyuvante en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores del Instituto;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+n) Coordinar y ejecutar las acciones necesarias para atender los requerimientos que le formule el Titular del OIC como coadyuvante en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores del Instituto;
 
 o) Analizar y, en su caso, aprobar la estructura de los órganos centrales y delegaciones, del Instituto, con excepción de aquellos que sean competencia exclusiva del Consejo, conforme a las necesidades del servicio que justifiquen los titulares de cada órgano y el dictamen de recursos presupuestales que formule la Dirección Ejecutiva de Administración;
 
@@ -2151,7 +2167,9 @@ s) Asignar a los Acuerdos y Resoluciones que emita el Consejo y la Junta, una cl
 
 t) Atender la (sic) solicitudes de información de los órganos centrales y desconcentrados del Instituto, así como las solicitudes de información en materia de transparencia y acceso a la información Pública vinculados con documentación aprobada por el Consejo y la Junta;
 
-u) Apoyar al Secretario Ejecutivo en las gestiones necesarias para la publicación de los Acuerdos y Resoluciones aprobados por el Consejo y la Junta en el Diario Oficial de la Federación; así como respecto de documentación generada por otros órganos del Instituto con excepción de la Contraloría General;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+u) Apoyar al Secretario Ejecutivo en las gestiones necesarias para la publicación de los Acuerdos y Resoluciones aprobados por el Consejo y la Junta en el Diario Oficial de la Federación; así como respecto de documentación generada por otros órganos del Instituto con excepción del OIC;
 
 v) Participar en el Comité de Gestión y Publicación Electrónica o a través de un representante, y
 
@@ -2645,15 +2663,25 @@ r) Las demás que le confiera la Ley Electoral, el Reglamento del Instituto Naci
 
 ## TÍTULO SÉPTIMO. DEL ÓRGANO DE CONTROL
 
-### CAPÍTULO ÚNICO. De la Contraloría General
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO ÚNICO. Del Órgano Interno de Control
 
 ###### ARTÍCULO 81.
 
-1. La Contraloría, de conformidad con lo dispuesto en los artículos 41, Base V, Apartado A de la Constitución; y 39, párrafo 4, 487 y 490 de la Ley Electoral, es el órgano encargado del control, fiscalización y vigilancia de las finanzas y recursos del Instituto. Para el ejercicio de sus atribuciones está dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; su titular estará adscrito administrativamente a la presidencia del Consejo y mantendrá la coordinación técnica con la entidad de fiscalización superior de la Federación.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+1. El OIC, de conformidad con lo dispuesto en los artículos 41, Base V, Apartado A de la Constitución; y 487 y 490 de la Ley Electoral, es el órgano encargado de prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales a cargo del Instituto; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción y la fiscalización de los ingresos y egresos del Instituto. Lo anterior, en aplicación de la Ley General de Responsabilidades Administrativas, Ley General del Sistema Nacional Anticorrupción, Ley General de Instituciones y Procedimientos Electorales y las demás leyes y normativa aplicable. Para el ejercicio de sus atribuciones está dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; su titular estará adscrito administrativamente a la presidencia del Consejo y mantendrá la coordinación técnica con la Auditoría Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+2. Para efectos del párrafo anterior, los particulares son aquellas personas físicas o morales privadas, que estén vinculados con faltas administrativas graves, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas.
 
 ###### ARTÍCULO 82.
 
-1. A la Contraloría corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+1. Al OIC corresponde el despacho de los siguientes asuntos:
 
 a) Presentar al Consejo su programa anual de trabajo;
 
@@ -2669,15 +2697,19 @@ f) Verificar que el ejercicio de gasto del Instituto se realice conforme a la no
 
 g) Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-h) Formular pliegos de observaciones en materia administrativa;
+h) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-i) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, previo procedimiento administrativo;
+i) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-j) Mantener la coordinación técnica necesaria con la entidad de fiscalización superior de la Federación a que se refiere el artículo 79 de la Constitución;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+j) Mantener la coordinación técnica necesaria con la Auditoria Superior de la Federación a que se refiere el artículo 79 de la Constitución;
 
 k) Dar seguimiento a las recomendaciones que, como resultado de las auditorías, se hayan formulado a las áreas y órganos del Instituto;
 
-l) Presentar al Consejo por conducto del Consejero Presidente, los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+l) Presentar al Consejo por conducto del Consejero Presidente, los informes previo y anual de resultados de su gestión, de los cuales marcará copia a la Cámara de Diputados;
 
 m) Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables, verificando su oportuno registro; la calidad de los controles administrativos para proteger el patrimonio, así como verificar que las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente, al logro de los objetivos y metas de los programas aprobados y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
 
@@ -2685,77 +2717,203 @@ n) Promover ante las instancias correspondientes, las acciones administrativas y
 
 o) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones;
 
-p) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-q) Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine la propia Contraloría;
+p) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto, así como en el caso de cualquier irregularidad en el ejercicio del empleo, cargo o comisión de los servidores públicos del Instituto;
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+q) Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el propio OIC;
 
 r) Evaluar el desempeño y el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
 
-s) Recibir, investigar, sustanciar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto, con motivo del incumplimiento de sus obligaciones en términos de lo dispuesto por la Ley Electoral y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, con excepción de los integrantes de las mesas directivas de casilla; así como el recurso de revocación que promuevan los servidores públicos en contra de las resoluciones emitidas por la Contraloría en materia de responsabilidades administrativas;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-t) Emitir los lineamientos para instruir, desahogar y resolver los procedimientos administrativos disciplinarios por la presunta existencia de actos u omisiones de servidores públicos del Instituto por incumplimiento a las obligaciones establecidas en la Ley Electoral;
+s) Recibir denuncias directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto, así como con el desempeño en sus funciones por parte de los servidores públicos del Instituto y realizar las investigaciones correspondientes;
 
-u) Instruir, desahogar y resolver los procedimientos administrativos disciplinarios respecto de las quejas y denuncias que se presenten en contra de servidores públicos por la presunta existencia de actos u omisiones que impliquen una falta a las obligaciones establecidas en la Ley Electoral y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y, en su caso, imponer las sanciones que corresponda; con excepción de las conductas graves y sistemáticas atribuibles al Consejero Presidente y Consejeros Electorales en cuyo caso, se remitirá el expediente debidamente fundado y motivado al presidente de la Mesa Directiva de la Cámara de Diputados para que resuelvan sobre la responsabilidad. En el caso de infracciones por conductas graves y sistemáticas atribuibles al Secretario Ejecutivo y a los Directores, será el Consejo quien resuelva sobre la procedencia de la sanción propuesta por el Contralor General;
+t) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-v) Dictar las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de las quejas y denuncias y, en los casos en que se compruebe la existencia de la infracción motivo de la queja o denuncia, dictar las medidas para su corrección o remedio inmediato;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-w) Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+u) Calificar las faltas administrativas y, en su caso, elaborar el Informe de Presunta Responsabilidad Administrativa, conforme a la Ley General de Responsabilidades Administrativas;
 
-x) Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en los términos de los Reglamentos del Instituto en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios; así como en Materia de Obras y Servicios Relacionados con las mismas;
+v) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-y) Integrar y mantener actualizado el registro de los servidores públicos del Instituto que hayan sido sancionados por el órgano de control;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-z) Participar en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normatividad aplicable;
+w) Iniciar, substanciar, resolver los procedimientos de responsabilidad administrativa y, en su caso, sancionar en los términos previstos en la Ley General de Responsabilidades Administrativas, así como resolver el recurso de revocación que promuevan los servidores públicos en contra de las resoluciones emitidas por el OIC en materia de responsabilidades administrativas, tratándose de actos u omisiones de los servidores públicos del Instituto;
 
-aa) Participar conforme a las disposiciones vigentes en los Comités y Subcomités de los que el órgano de control interno forme parte e intervenir en los actos que se deriven de los mismos;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-bb) Llevar el registro, seguimiento y evaluación de la situación patrimonial de los servidores públicos del Instituto desde el nivel de jefe de departamento u homólogos hasta el de Consejero Presidente; asimismo, emitir los procedimientos, formatos, medios magnéticos y electrónicos, conforme los cuales se presentarán las declaraciones de situación patrimonial, de conformidad con la Ley Electoral y el Título Tercero, Capítulo Único de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+x) Tratándose de actos u omisiones de los servidores públicos del Instituto, y de particulares que hayan sido calificados como faltas administrativas graves, iniciar, substanciar y remitir al Tribunal Federal de Justicia Administrativa en los términos previstos en la Ley General de Responsabilidades Administrativas;
 
-cc) Solicitar por conducto de su titular, a la Comisión Nacional Bancaria y de Valores, así como a las dependencias, entidades e instituciones públicas, la información bancaria, fiscal, inmobiliaria o de cualquier otro tipo relacionada con los servidores públicos, sus cónyuges, concubinas o concubinarios y dependientes económicos directos, con la finalidad de que el órgano de control verifique la evolución del patrimonio de aquéllos;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-dd) Solicitar en cualquier fase del procedimiento administrativo de responsabilidad por conducto de su titular, a la Tesorería de la Federación, que proceda al embargo precautorio de los bienes cuando los presuntos responsables desaparezcan o exista el riesgo inminente de que oculten, enajenen o dilapiden sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaran a imponerse;
+y) Emitir los Lineamientos para prevenir la comisión de faltas administrativas y hechos de corrupción, e implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Nacional Anticorrupción;
 
-ee) Integrar el registro de los bienes donados a servidores públicos del Instituto en los términos del artículo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, cuyo valor acumulado durante un año exceda de diez veces el salario mínimo general vigente en el Distrito Federal al momento de su recepción;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-ff) Tramitar y resolver los recursos que se promuevan en contra de las resoluciones que emita en ejercicio de sus facultades, en los términos establecidos en las leyes y ordenamientos aplicables;
+z) Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Nacional Anticorrupción;
 
-gg) Llevar a cabo la defensa jurídica en los juicios que se promuevan en contra de las resoluciones que emita el órgano de control en los procedimientos y recursos administrativos que sustancie, en los términos que las leyes aplicables señalen;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-hh) Atender las solicitudes de las diferentes instancias y órganos del Instituto en los asuntos de su competencia;
+aa) Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción o, en su caso, ante sus homólogos en el ámbito local;
 
-ii) Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-jj) Proponer, por conducto de su titular, al Consejo para su aprobación, los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+bb) Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
-kk) Formular por conducto de su titular el anteproyecto de presupuesto de la Contraloría, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas administrativas y de planeación que fije el Secretario Ejecutivo a través de la Dirección Ejecutiva de Administración y de la Unidad Técnica de Planeación, en el ámbito de sus respectivas atribuciones;
+cc) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-ll) Emitir, por conducto de su titular, los acuerdos y lineamientos que requiera para hacer efectiva su autonomía técnica y de gestión, informando al Consejo de dicha expedición;
+dd) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-mm) Presentar al Consejo los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
+ee) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
 
-nn) Presentar a la Junta los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones a los servidores públicos del Instituto;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-oo) Participar, a través de su titular, con voz pero sin voto en las sesiones de la Junta o del Consejo cuando, con motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
+ff) Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en los términos de los Reglamentos del Instituto en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios, así como en Materia de Obras y Servicios Relacionados con las mismas;
 
-pp) Solicitar al Secretario Ejecutivo que coadyuve en los procedimientos que el Contralor General acuerde para la vigilancia de los recursos y bienes de este organismo y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-qq) Llevar a cabo la investigación, tramitación, sustanciación y resolución de los procedimientos previstos en la Ley Federal Anticorrupción en Contrataciones Públicas;
+gg) Inscribir y mantener actualizada la información de servidores públicos del Instituto que hayan sido sancionados por el propio OIC, en el Sistema Nacional de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
 
-rr) Integrar y mantener actualizado el registro de los licitantes, proveedores o contratistas que hayan sido sancionados por el órgano de control, y
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-ss) Las demás que le confieran otros ordenamientos.
+hh) Participar en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normatividad aplicable;
 
-2. Cuando las quejas o denuncias se presenten en contra del titular de la Contraloría, a solicitud del Consejo, la Cámara de Diputados resolverá sobre la aplicación de las sanciones que correspondan, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia del afectado.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-3. Las sanciones que la Contraloría imponga a los funcionarios y servidores públicos del Instituto en los términos de los incisos s) y u), del numeral 1 del presente artículo, se ejecutarán, con excepción de la sanción económica, cuya ejecución concierne a la Tesorería de la Federación, conforme a lo siguiente:
+ii) Participar conforme a las disposiciones vigentes en los Comités y Subcomités de los que el OIC forme parte e intervenir en los actos que se deriven de los mismos;
 
-a) El apercibimiento, la amonestación pública o privada, la suspensión o destitución por el jefe inmediato, o
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, se ejecutará en los términos de la resolución dictada.
+jj) Inscribir y mantener actualizada en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, la información correspondiente a los declarantes del Instituto; asimismo, verificar la situación o posible actualización de algún conflicto de interés, según la información proporcionada, y llevar el seguimiento de la evolución y la verificación de la situación patrimonial de dichos Declarantes, en los términos de la Ley General de Responsabilidades Administrativas;
 
-4. En caso de ausencia o impedimento legal del Contralor General, el Subcontralor de Asuntos Jurídicos del propio órgano de control será quien podrá ejercer las facultades previstas en el apartado 1 del presente artículo, así como en los demás ordenamientos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-5. El Contralor General, para el buen despacho de los asuntos que tiene encomendados, podrá auxiliarse de los Subcontralores y los Directores de Área que integren el propio órgano de control, quienes podrán ejercer las atribuciones y funciones inherentes a las áreas a su cargo que se comprendan en los incisos f) al bb), del ee) al ii) y del pp) al rr) del párrafo 1 de este numeral, sin perjuicio de su ejercicio directo por parte de su titular.
+kk) Acceder, en términos de los artículos 38 y 95 de la Ley General de Responsabilidades Administrativas, a la información necesaria para el esclarecimiento de los hechos, con inclusión de aquélla que las disposiciones legales en la materia considere con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones a que se refiere la propia Ley, con la obligación de mantener la misma reserva o secrecía, conforme a lo que determinen las leyes;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+ll) Llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los Declarantes, en términos de los artículos 36, 37, 41 y 42 de la Ley General de Responsabilidades Administrativas;
+
+mm) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+nn) Decretar las medidas cautelares establecidas, en cualquier fase del procedimiento de responsabilidad administrativa, conforme a la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+oo) Atender los casos en que los servidores públicos del Instituto le informen que sin solicitarlo recibieron de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones y poner los bienes a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos;
+
+pp) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
+
+qq) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+rr) Tramitar y resolver los incidentes y recursos que se promuevan dentro de los procedimientos que lleve a cabo en ejercicio de sus facultades, en los términos establecidos en la Ley General de Responsabilidades Administrativas y demás leyes y ordenamientos aplicables;
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+ss) Llevar a cabo la defensa jurídica en los juicios que se promuevan en contra de las resoluciones que emita el OIC en los procedimientos y recursos administrativos que sustancie, en los términos que las leyes aplicables señalen;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+tt) Atender las solicitudes de las diferentes instancias y órganos del Instituto en los asuntos de su competencia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+uu) Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+vv) Proponer, por conducto de su titular, al Consejo para su aprobación, los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+ww) Formular por conducto de su titular el anteproyecto de presupuesto del OIC, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas administrativas y de planeación que fije el Secretario Ejecutivo a través de la Dirección Ejecutiva de Administración y de la Unidad Técnica de Planeación, en el ámbito de sus respectivas atribuciones;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+xx) Emitir, por conducto de su titular, los acuerdos, Lineamientos y demás normativa que requiera para hacer efectiva su autonomía técnica y de gestión, informando al Consejo de dicha expedición;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+yy) Presentar a la Junta los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones a los servidores públicos del Instituto;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+zz) Participar, a través de su titular, con voz pero sin voto en las sesiones de la Junta o del Consejo cuando, con motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+aaa) Integrar y mantener actualizado el registro de los licitantes, proveedores o contratistas que hayan sido sancionados por el OIC;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+bbb) Implementar el protocolo de actuación en contrataciones que expida el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+ccc) Emitir el Código de Ética que los servidores públicos del Instituto deberán observar, conforme a los Lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño, el cual deberá hacerse del conocimiento de los servidores públicos, así como darle la máxima publicidad;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+ddd) Evaluar anualmente el resultado de las acciones específicas que hayan implementado conforme a lo dispuesto en el Libro Primero, Título Segundo, Capítulo I de la Ley General de Responsabilidades Administrativas y proponer, en su caso, las modificaciones que resulten procedentes;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+eee) Valorar las recomendaciones que haga el Comité Coordinador del Sistema Nacional Anticorrupción, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción; asimismo, informar a dicho órgano de la atención que se dé a éstas y, en su caso, sus avances y resultados;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+fff) Colaborar en el marco del Sistema Nacional Anticorrupción implementando los principios, bases generales, políticas públicas y procedimientos en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, que emita dicho Sistema, así como en la fiscalización y control de recursos públicos;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+ggg) Facilitar la consulta expedita y oportuna a la información que resguarde relacionada con la investigación de faltas administrativas y hechos de corrupción en los que estén involucrados flujos de recursos económicos, en el marco del Sistema Nacional Anticorrupción aplicando los Lineamientos y convenios de cooperación que para tal efecto celebre su Comité Coordinador;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+hhh) Acceder, para el ejercicio de sus atribuciones, a la información necesaria contenida en los sistemas que se conecten con la Plataforma Digital del Sistema Nacional Anticorrupción e integrar la información que le competa al OIC, conforme sus facultades legales;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+iii) Asistir a través de su Titular o por conducto de la persona que designe para tal efecto, a las sesiones del Comité Coordinador del Sistema Nacional Anticorrupción, cuando sea invitado para tal efecto;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+jjj) Apoyar en todo momento al Sistema Nacional de Fiscalización para la implementación de mejoras para la fiscalización de los recursos federales y locales;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+kkk) Participar en actividades específicas del Sistema Nacional de Fiscalización, cuando el Comité Rector del propio Sistema lo invite;
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+lll) Presentar al Comité Coordinador del Sistema Nacional Anticorrupción, a solicitud de su Secretario Técnico, un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+mmm) Las demás que le confieran las Leyes General de Responsabilidades Administrativas, la General del Sistema Nacional Anticorrupción y demás leyes y ordenamientos o normativa aplicables.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+2. El Titular del OIC del Instituto será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+3. Las sanciones que el OIC imponga a los servidores públicos del Instituto por las faltas administrativas no graves en los términos de la Ley General de Responsabilidades Administrativas, serán ejecutadas por dicho órgano de control.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+4. En caso de ausencia o impedimento legal del Titular del OIC, el Titular de la Unidad de Asuntos Jurídicos del propio órgano de control será quien podrá ejercer las facultades que le corresponden a dicho órgano, previstas en la Ley General de Responsabilidades Administrativas, la Ley General del Sistema Nacional Anticorrupción, la Ley General de Instituciones y Procedimientos Electorales, el presente Reglamento y los demás ordenamientos aplicables.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+5. El Titular del OIC, para el buen despacho de los asuntos que tiene encomendados, podrá auxiliarse de los servidores públicos que integran la estructura que para tal efecto apruebe el Consejo General, y en términos de las competencias que se determinen en el Estatuto Orgánico que en ejercicio de su autonomía técnica y de gestión, emita el propio Titular del OIC.
 
 ## TÍTULO OCTAVO. DE LOS FLUJOS DE INFORMACIÓN
 
@@ -2789,9 +2947,13 @@ h) Los órganos de vigilancia podrán solicitar, en el ámbito de sus competenci
 
 ###### ARTÍCULO 84.
 
-1. La información que solicite la Contraloría General a los órganos, áreas y servidores públicos del Instituto, en uso de las atribuciones que le confiere la Ley Electoral, deberá sujetarse a las disposiciones que la misma establece.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
-2. Los órganos del Instituto que requieran información a la Contraloría General deberán solicitarla a su titular, quien de manera fundada y motivada resolverá sobre la procedencia de la misma, siempre y cuando la divulgación de dicha información no altere el buen desarrollo de las investigaciones o procedimientos que lleve a cabo o que pudiera incidir en el resultado de los mismos.
+1. La información que solicite el OIC a los órganos, áreas y servidores públicos del Instituto, en uso de las atribuciones que le confiere las leyes de la materia, deberá sujetarse a las disposiciones que la misma establece.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+2. Los órganos del Instituto que requieran información al OIC deberán solicitarla directamente al área de dicho órgano que corresponda, de conformidad a las competencias que se determinen en su Estatuto Orgánico, quienes de manera fundada y motivada resolverán sobre la procedencia de la misma, siempre y cuando la divulgación de dicha información no altere el buen desarrollo de las investigaciones o procedimientos que lleve a cabo o que pudiera incidir en el resultado de los mismos.
 
 ###### ARTÍCULO 85.
 
@@ -2829,7 +2991,9 @@ f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran
 
 ###### ARTÍCULO 87.
 
-1. El Secretario Ejecutivo, los Consejeros Electorales, los Consejeros del Poder Legislativo, los Representantes de los Partidos Políticos y de los Candidatos Independientes, ante el órgano superior de dirección y el Contralor General rendirán la protesta constitucional ante el Consejo General.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+1. El Secretario Ejecutivo, los Consejeros Electorales, los Consejeros del Poder Legislativo, los Representantes de los Partidos Políticos y de los Candidatos Independientes, ante el órgano superior de dirección y el Titular del OIC rendirán la protesta constitucional ante el Consejo General.
 
 2. Los Directores, Titulares de Unidad y los Presidentes de los Consejos Locales rendirán la protesta constitucional ante el Presidente y Secretario Ejecutivo del Instituto.
 
@@ -2863,7 +3027,9 @@ f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran
 
 a) Los integrantes del Consejo;
 
-b) La Contraloría General;
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+
+b) El OIC;
 
 c) Las Comisiones;
 
@@ -2924,3 +3090,17 @@ QUINTO. Publíquese en el Diario Oficial de la Federación y en la Gaceta Electo
 PRIMERO. Las actuales presidencias de todas las comisiones y su integración se extenderán a efecto de que su renovación se lleve a cabo durante la primera semana del mes de septiembre del año en curso y ajustarlo así con el inicio del Proceso Electoral correspondiente.
 
 SEGUNDO. Para la realización de las presentes disposiciones contenidas en la modificación del artículo 17 del Reglamento de Comisiones del Consejo General, el Secretario Ejecutivo, a través de la Unidad Técnica de Servicios de Informática y de la Dirección del Secretariado, acordará el diseño, instrumentalización y funcionamiento de un mecanismo informático que permita la organización, control y agenda de las convocatorias de las Comisiones.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO. Publíquese en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto Nacional Electoral.
+
+## TRANSITORIO
+
+PRIMERO.- El Titular del Órgano Interno de Control del Instituto Nacional Electoral, dispondrá de un plazo que no excederá del 31 de agosto de 2017, para expedir, en ejercicio de sus facultades, un nuevo Estatuto Orgánico y la actualización de la normativa interna para su organización y funcionamiento.
+
+SEGUNDO.- El Titular del Órgano Interno de Control del Instituto Nacional Electoral, resolverá los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, conforme las normas vigentes al momento de su inicio.
