@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-asamblea-consultiva-del-consejo-nacional-11080
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-12-22"
-last_updated: "2015-12-22"
+last_updated: "2017-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-21"
 
 ACUERDO POR EL QUE SE DIFUNDE EL REGLAMENTO DE LA JUNTA DE GOBIERNO, EL REGLAMENTO DE LA ASAMBLEA CONSULTIVA Y LA POLÍTICA DE INCLUSIÓN LABORAL DEL PERSONAL CON DISCAPACIDAD DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, Y SU UBICACIÓN PARA CONSULTA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -54,3 +54,9 @@ PRIMERO.- El Reglamento de la Junta de Gobierno del Consejo Nacional para Preven
 SEGUNDO.- El Reglamento de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación, el Reglamento de la Asamblea consultiva del CONAPRED, y la Política Interna de Inclusión Laboral para Personas con Discapacidad en el Consejo Nacional para Prevenir la Discriminación se encuentran disponibles para su consulta en el portal de internet www.conapred.org.mx
 
 México, D.F., a 21 de diciembre de 2015.- La Presidenta del Consejo Nacional para Prevenir la Discriminación, Alexandra Haas Paciuc.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. PARA CONSULTAR EL TEXTO DEL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN DE LOS ARTÍCULOS 3, 7, 11, 12, 19 Y 24, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 11 BIS DEL REGLAMENTO DE LA ASAMBLEA CONSULTIVA DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIDÓS DE DICIEMBRE DE DOS MIL QUINCE” Y SU REFORMA PUBLICADA EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2017, SE SUGIERE VISUALIZAR EL ARCHIVO PDF EN LA CRONOLOGIA DE ESTE ORDENAMIENTO.]</small>
