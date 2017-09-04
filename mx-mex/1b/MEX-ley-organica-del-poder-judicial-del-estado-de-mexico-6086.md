@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2017-02-03"
+last_updated: "2017-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -125,8 +127,6 @@ Los auxiliares del Poder Judicial cumplirán los mandamientos de la autoridad ju
 
 Los árbitros conocerán de los asuntos que les encomienden los interesados, conforme a los términos de los compromisos respectivos y observarán en su trámite las formas y restricciones que fijen las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
@@ -151,11 +151,11 @@ VII. Oír a los interesados en los asuntos de que conozcan cuando les sea solici
 
 > <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales;
+VIII. Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Implementar a través del Consejo de la Judicatura, las políticas de Gobierno Digital y de uso estratégico de tecnologías de la información que ayuden a que la impartición de justicia se realice de una manera más pronta y expedita. Los lineamientos en materia de Gobierno Digital tendrán que ser observados con base en las disposiciones de la materia, así como en los criterios que establezca el Consejo Estatal de Gobierno Digital para tal efecto.
+IX. Implementar a través del Consejo de la Judicatura el uso estratégico de tecnologías de la información que ayuden a que la impartición de justicia se realice de manera pronta y expedita.
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -823,13 +823,9 @@ Son facultades del Consejo de la Judicatura:
 
 I. Velar por la autonomía y la independencia de los miembros del Poder Judicial y evitar que se afecte su imparcialidad y libertad para juzgar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
 
 II. Designar a los jueces y al personal de los juzgados, mediante exámenes de oposición abiertos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -903,45 +899,33 @@ XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia
 
 XXIX. Practicar visitas de supervisión al Centro de Mediación y Conciliación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXX. Crear, organizar, dirigir y administrar a los juzgados ejecutores de sentencias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXI. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los Jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXII. Vigilar que los Jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXIII. Supervisar la vigilancia a que estarán sujetas las personas que gozan de los beneficios y tratamientos preliberatorios, con la colaboración en su caso, de la Dirección de General de Prevención y Readaptación Social del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXIV. Coordinarse con la Dirección General de Prevención y Readaptación Social, para establecer medidas eficaces dentro del marco legal que permitan reducir el índice de población penitenciaria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXV. Vigilar que los jueces ejecutores de sentencias revisen oficiosamente y de manera periódica los expedientes de los internos con sentencia ejecutoriada; y
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2017)</small>
 
-XXXVI. Establecer las acciones sobre las que se regirá la implementación de la política de Gobierno Digital y del uso estratégico de las tecnologías de la información, en los procesos jurisdiccionales que se realizan ante los juzgados y salas que componen el Tribunal Superior de Justicia.
+XXXVI. Establecer a través de acuerdos generales el uso estratégico de las tecnologías de la información en los procesos jurisdiccionales que se ventilan en los juzgados y salas que integran el Poder Judicial, así como en sus respectivas áreas administrativas.
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1833,9 +1817,9 @@ III. Los demás documentos que las leyes determinen.
 
 Los tribunales, al remitir los expedientes físicos para su resguardo al Archivo Judicial, además de hacer las anotaciones respectivas en el libro de gobierno, llevarán otro libro en el cual asentarán en forma de inventario, lo que contenga cada remisión. El jefe del archivo pondrá al calce de este inventario, una constancia de recibo, y dará cuenta inmediata por escrito al presidente del tribunal.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2017)</small>
 
-La remisión de los expedientes electrónicos se realizará a través de los medios que establezca el Consejo de la Judicatura y deberán estar resguardados en dispositivos electrónicos que permitan la conservación de los documentos y que cumplan con los estándares de seguridad informática emitidos por el Consejo Estatal de Gobierno Digital y por la Secretaría de Finanzas del Gobierno del Estado de México.
+La remisión de los expedientes electrónicos se realizará a través de los medios que establezca el Consejo de la Judicatura, deberán estar resguardados en dispositivos electrónicos que permitan la conservación de los documentos y, además, cumplir con los estándares de seguridad informática emitidos para tal efecto.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -3260,3 +3244,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 4 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230.- POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO NOVENO, EL PÁRRAFO PRIMERO DEL ARTÍCULO 44 Y SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 2, LAS FRACCIONES XV Y XVI DEL NUMERAL 5 DEL ARTÍCULO 7 Y DE LAS FRACCIONES III Y IV DEL ARTÍCULO 60 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS. SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 8, LA FRACCIÓN XXVI DEL ARTÍCULO 63 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 126 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
