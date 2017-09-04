@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-gobierno-digital-del-estado-de-mexico-y-municipios-11127
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2016-09-07"
+last_updated: "2017-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY DE GOBIERNO DIGITAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -79,9 +77,9 @@ I. Las dependencias y los organismos auxiliares del Poder Ejecutivo, a que se re
 
 II. Los ayuntamientos, las dependencias y entidades de la administración pública municipal, previstos en la Ley Orgánica Municipal del Estado de México y en los bandos y reglamentos municipales respectivos.
 
-III. El Poder Legislativo del Estado de México.
+III. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
 
-IV. El Poder Judicial del Estado de México.
+IV. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
 
 V. Los Notarios Públicos del Estado de México.
 
@@ -241,9 +239,9 @@ XIII. El titular de la Consejería Jurídica.
 
 XIV. El titular de la Procuraduría General de Justicia del Estado de México.
 
-XV. Un representante del Poder Legislativo del Estado de México.
+XV. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
 
-XVI. Un representante del Poder Judicial del Estado de México.
+XVI. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
 
 XVII. Cuatro presidentes municipales.
 
@@ -727,15 +725,15 @@ El titular de la unidad administrativa que no de aviso de la separación de un s
 
 ### CAPÍTULO NOVENO. DE LAS ATRIBUCIONES PARA EL DESARROLLO DEL GOBIERNO DIGITAL
 
-#### SECCIÓN PRIMERA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2017)</small>
 
-LAS DEPENDENCIAS Y LOS ORGANISMOS AUXILIARES DEL PODER EJECUTIVO, LOS ÓRGANOS AUTÓNOMOS, EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO, EL PODER JUDICIAL DEL ESTADO DE MÉXICO Y LOS NOTARIOS PÚBLICOS
+#### SECCIÓN PRIMERA. LAS DEPENDENCIAS Y LOS ORGANISMOS AUXILIARES DEL PODER EJECUTIVO, LOS ÓRGANOS AUTÓNOMOS Y LOS NOTARIOS PÚBLICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 44.
 
-Las dependencias y los organismos auxiliares del Poder Ejecutivo, los órganos autónomos, el Poder Legislativo, el Poder Judicial y los Notarios Públicos, tendrán las funciones siguientes:
+Las dependencias y los organismos auxiliares del Poder Ejecutivo, los órganos autónomos y los Notarios Públicos, tendrán las funciones siguientes:
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -995,9 +993,9 @@ I. Las dependencias y los organismos auxiliares del Poder Ejecutivo, a que se re
 
 II. Los ayuntamientos, las dependencias y entidades de la administración pública municipal, previstos en la Ley Orgánica Municipal del Estado de México y en los bandos municipales respectivos.
 
-III. El Poder Legislativo del Estado de México.
+III. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
 
-IV. El Poder Judicial del Estado de México.
+IV. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
 
 V. Los notarios públicos del Estado de México.
 
@@ -1284,3 +1282,13 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 4 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230.- POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO NOVENO, EL PÁRRAFO PRIMERO DEL ARTÍCULO 44 Y SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 2, LAS FRACCIONES XV Y XVI DEL NUMERAL 5 DEL ARTÍCULO 7 Y DE LAS FRACCIONES III Y IV DEL ARTÍCULO 60 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS. SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 8, LA FRACCIÓN XXVI DEL ARTÍCULO 63 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 126 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
