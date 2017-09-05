@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2016-08-10"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1757,7 +1757,9 @@ f) Abstenerse en todo momento de infligir o tolerar actos de tortura, aún cuand
 
 g) Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y en caso de tener conocimiento de alguno, deberán denunciarlo;
 
-h) Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+h) Utilizar los protocolos de investigación, de atención y demás que se establezcan para el desempeño de sus funciones, así como de cadena de custodia adoptados por las Instituciones de Seguridad Pública.
 
 i) Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
@@ -1795,13 +1797,17 @@ v) Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Min
 
 w) Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación, bajo la conducción y mando del Ministerio Público;
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
 x) En operativos, portar o utilizar únicamente los equipos de radiofrecuencia, de telefonía o cualquier otro dispositivo de comunicación que les hayan sido proporcionados por la Institución a la que pertenecen;
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-y) Las demás que establezca (sic) esta Ley y otras disposiciones aplicables.
+y) Realizar sus atribuciones con estricto apego a las disposiciones normativas con perspectiva de género.
+
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2015)</small>
+
+z) Las demás que establezca (sic) esta Ley y otras disposiciones aplicables.
 
 II. Aplicables sólo a los agentes del ministerio público:
 
@@ -2311,13 +2317,17 @@ XIV. Las demás que le confieran las disposiciones aplicables.
 
 Cuando para el cumplimiento de alguna de estas facultades se requiera una orden judicial, el elemento de la unidad de policía encargada de la investigación científica de los delitos informará al ministerio público, para que éste la solicite al juez de control, debiendo proveer la información en que se base para hacer la solicitud respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 139.
 
-El Procurador y el Secretario establecerán de común acuerdo los protocolos de actuación de las Instituciones Policiales para la debida investigación y persecución de los delitos. Estos protocolos serán de observancia obligatoria para las Instituciones Policiales de los Municipios una vez que sean aprobados por el Consejo Estatal.
+La o el Fiscal y la o el Comisionado establecerán de común acuerdo los protocolos de actuación de las Instituciones Policiales para la debida atención de las víctimas, así como para la investigación y persecución de los delitos. Estos protocolos serán de observancia obligatoria para las Instituciones Policiales de los Municipios una vez que sean aprobados por el Consejo Estatal.
 
 En el ejercicio de facultades de investigación preventiva, se aplicarán las técnicas especiales que establezcan las disposiciones aplicables conforme a los protocolos antes referidos.
 
-Los protocolos de actuación policial tendrán la calidad de información confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios; por tanto, no podrán ser difundidos o publicados bajo ningún concepto.
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+La información contenida en los protocolos de actuación policial será tratada conforme a las disposiciones jurídicas aplicables en materia de transparencia y acceso a la información pública.
 
 ### CAPÍTULO QUINTO. DE LA CONCLUSIÓN DEL SERVICIO DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
 
@@ -2957,23 +2967,39 @@ Si el responsable es o hubiera sido servidor público de las Instituciones de Se
 
 Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos días multa, a quien falsifique el Certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 207.
 
-Al servidor público de una institución de seguridad pública estatal o municipal, que extravíe por negligencia, dañe, altere, sustraiga o entregue a un tercero, fuera de los casos de revisión o de los previstos en las normas aplicables, los bienes, equipos y armas de fuego que les hayan asignado para el ejercicio de sus funciones, se le aplicarán las siguientes penas:
+Al servidor público de una institución de seguridad pública estatal o municipal, que a causa de su negligencia le roben, extravíe, dañe, altere, sustraiga o entregue a un tercero, oculte o desaparezca, fuera de los casos de revisión o de los previstos en las normas aplicables, los bienes, equipos y armas de fuego que les hayan asignado para el ejercicio de sus funciones, se le aplicarán las penas siguientes:
+
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2015)</small>
 
 I. De radios o aparatos de comunicación, fornituras o cualquier otro bien o equipo: de seis meses a un año de prisión y de cien a doscientos días multa;
 
-II. De arma corta: de uno a dos años de prisión y de doscientos a cuatrocientos días multa;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-III. De arma larga: de dos a tres años de prisión y de trescientos a quinientos días multa.
+II. De arma corta: de uno a cuatro años de prisión y de doscientos a cuatrocientos días multa.
 
-En todos los casos en que la conducta sea dolosa o reincidente, además de las penas señaladas se impondrá la destitución, cese o baja e inhabilitación para formar parte de una institución de seguridad pública.
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+III. De arma larga: de dos a seis años de prisión y de trescientos a quinientos días multa.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+IV. El pago de la reparación del daño en favor de la institución de seguridad pública que haya otorgado las asignaciones o resguardos correspondientes.
+
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+En los casos de robo, extravío, daño, alteración, sustracción o entrega a un tercero en que la conducta sea dolosa o reincidente, además de las penas señaladas se impondrá la destitución, cese o baja e inhabilitación por el mismo plazo que dure la pena de prisión para formar parte de una institución de seguridad pública.
+
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
 Si se trata de pluralidad de equipos o armas se impondrá un tanto más de la sanción.
 
-Se entiende por negligencia la falta de cuidado del sujeto activo sobre las armas, bienes o equipos puestos bajo su resguardo. El extravío por negligencia se sancionará en un rango de la pena mínima hasta la media de la señalada, pero si es reincidente será sancionada hasta con dos tercios de la máxima señalada.
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Se entiende por negligencia la falta de cuidado del sujeto activo sobre las armas, bienes o equipos puestos bajo su resguardo. El extravío o robo por negligencia se sancionará en un rango de la pena mínima hasta la media de la señalada, pero si es reincidente será sancionada hasta con dos tercios de la máxima señalada.
 
 ###### Artículo 208.
 
@@ -3226,3 +3252,21 @@ QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en t�
 Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 233.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DE LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL PÁRRAFO PRIMERO DEL ARTÍCULO 207 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
