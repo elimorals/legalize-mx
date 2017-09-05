@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-94749"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-18"
-last_updated: "2016-04-16"
+last_updated: "2017-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 18 de junio de 2013.
 
@@ -71,17 +71,21 @@ V. Fiscal General: El Fiscal General del Estado;
 
 VI. Fiscalía Central: La Fiscalía Central de la Fiscalía General;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Fiscalía Electoral: La Fiscalía Especializada en materia de Delitos Electorales;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Fiscalía Especializada: La Fiscalía Especializada en Personas Desaparecidas;
+
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VII. Fiscalía Electoral: La Fiscalía Especial en materia de Delitos Electorales;
+IX. Fiscalía General: La Fiscalía General del Estado; y
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Fiscalía General: La Fiscalía General del Estado; y
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2015)</small>
-
-IX. Fiscalías Regionales: Las Fiscalías Regionales de la Fiscalía Regional.
+X. Fiscalía Regional: La Fiscalía Regional.
 
 ###### Artículo 3°.
 
@@ -143,37 +147,39 @@ I. La Fiscalía General;
 
 II. La Fiscalía Central;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-III. La Fiscalía Especial en materia de Delitos Electorales;
+III. La Fiscalía Especializada en materia de Delitos Electorales;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-IV. El Comisionado de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
-
-V. La Fiscalía Regional;
+IV. La Fiscalía Especializada en Personas Desaparecidas.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VI. La Fiscalía de Derechos Humanos;
+V. El Comisionado de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VII. La Fiscalía de Reinserción Social; y
+VI. La Fiscalía Regional;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VII. La Fiscalía de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VIII. La Fiscalía de Reinserción Social; y
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VIII. Los Agentes del Ministerio Público.
+IX. Los Agentes del Ministerio Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 14.
 
-Los órganos previstos en las fracciones II, III, IV, V, VI y VII del artículo anterior, podrán contar con enlaces de la Unidad de Administración y Profesionalización, quienes estarán bajo las instrucciones de ésta, pero se encontrarán en la respectiva unidad o área para el cumplimiento de sus funciones.
-
-Para el mismo efecto, también podrán contar con enlaces respecto de la Dirección General Jurídica y de Control Interno.
+Los órganos previstos en las fracciones II, III, IV, V, VI, VII, VIII y IX del artículo anterior, podrán contar con enlaces de la Unidad de Administración y Profesionalización, quienes estarán bajo las instrucciones de ésta, pero se encontrarán en la respectiva unidad o área para el cumplimiento de sus funciones.
 
 ###### Artículo 15.
 
@@ -517,11 +523,11 @@ Para la atención de los delitos cuya investigación y persecución requiera de 
 
 ### CAPÍTULO IV BIS. DE LA FISCALÍA ELECTORAL
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 31-A.
 
-La Fiscalía Especial en materia de Delitos Electorales es la encargada de la investigación y persecución de delitos en materia electoral cometidos en el Estado y que no sean competencia de la Federación conforme a la Ley General en Materia de Delitos Electorales.
+La Fiscalía Especializada en materia de Delitos Electorales es la encargada de la investigación y persecución de delitos en materia electoral cometidos en el Estado y que no sean competencia de la Federación conforme a la Ley General en Materia de Delitos Electorales.
 
 Al frente de la Fiscalía Electoral habrá un titular denominado Fiscal Electoral, a quien originariamente le corresponde la representación, trámite y resolución de los asuntos encomendados a aquélla, y quien podrá, para la mejor distribución y desarrollo del trabajo, conferir sus facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo.
 
@@ -597,9 +603,129 @@ Para el cumplimiento de sus funciones, la Fiscalía Electoral coadyuvará para e
 
 El Fiscal Electoral y los agentes del Ministerio Público adscritos podrán proponer al Fiscal General, según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, el sobreseimiento de la causa, la suspensión del procedimiento a prueba, la utilización del procedimiento abreviado o cualquier otra vía alterna, la cual deberá ser aprobada en definitiva por el Fiscal General, de conformidad con el Código Nacional de Procedimientos Penales.
 
-### CAPÍTULO V. DEL COMISIONADO DE SEGURIDAD PÚBLICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPÍTULO VI. DE LA FISCALÍA REGIONAL
+### CAPÍTULO IV TER. DE LA FISCALÍA ESPECIALIZADA EN PERSONAS DESAPARECIDAS
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31-G.
+
+La Fiscalía Especializada en Personas Desaparecidas, será competente para dirigir, coordinar y supervisar las investigaciones para la búsqueda y localización de personas desaparecidas y, en su caso, su identificación forense, así como para perseguir y prevenir los delitos relacionados con la desaparición de personas.
+
+Al frente de la Fiscalía Especializada en Personas Desaparecidas habrá un titular denominado Fiscal Especializado originariamente le corresponde la representación, trámite y resolución de los asuntos encomendados a aquélla, y quien podrá, para la mejor distribución y desarrollo del trabajo, conferir sus facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31-H.
+
+Para ejercitar las atribuciones que la Ley Orgánica le confiere a la Fiscalía Especializada en Personas Desaparecidas, el Fiscal Especializado contará con las siguientes facultades y obligaciones:
+
+I. Coordinar la planeación, seguimiento y evaluación de la operación de las unidades bajo su responsabilidad, así como del desempeño del personal adscrito a la Fiscalía Especializada, según su función y responsabilidad;
+
+II. Proponer al Fiscal General para su autorización los manuales de organización de procesos y de trámites y servicios;
+
+III. Proponer al Fiscal General el número de agentes del Ministerio Público necesarios para atender las denuncias y los asuntos que son de su encomienda, así como su adscripción administrativa y distribución territorial;
+
+IV. Recibir las denuncias relacionadas con la desaparición de personas, así como realizar de manera eficaz y urgente todas las diligencias necesarias para la búsqueda y localización de las personas desaparecidas. Si de la información relativa a la desaparición de una persona se desprende la existencia de un delito cuya investigación sea competencia del fuero federal, la Fiscalía Especializada de Búsqueda de Personas Desaparecidas lo hará del conocimiento de la autoridad competente en forma inmediata y, cuando ésta lo solicite, coadyuvará en las investigaciones respectivas;
+
+V. Coadyuvar en el cumplimiento de las disposiciones que en materia de localización y búsqueda de desaparecidos así como de atención y protección a víctimas que establezcan las leyes;
+
+VI. Diseñar, instrumentar, supervisar y evaluar la ejecución de los protocolos relativos a la búsqueda y localización de personas desaparecidas e identificación forense, los cuales deberán ajustarse a los estándares científicos reconocidos internacionalmente;
+
+VII. Conformar grupos de trabajo para el impulso de la investigación en casos específicos de desaparición de personas;
+
+VIII. Solicitar a las autoridades competentes la autorización para la realización de exhumaciones en cementerios, fosas clandestinas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cuerpos u osamentas de víctimas;
+
+IX. Requerir con carácter urgente de las áreas de investigación policial, tecnológica, científica y pericial de la Fiscalía o de otras instancias, toda la información que sea necesaria para la búsqueda y localización de las personas desaparecidas;
+
+X. Coordinar a los agentes del Ministerio Público de la Fiscalía Especializada o de órganos, instancias o unidades administrativas de la Fiscalía General, en las investigaciones que se inicien para la búsqueda y localización de personas desaparecidas, pudiendo concentrar las investigaciones iniciadas por estos cuando así se requiera;
+
+XI. Coordinarse con las instituciones de procuración de justicia de las entidades federativas, en términos de los convenios de colaboración celebrados en el seno de la Conferencia Nacional de Procuración de Justicia, a fin de colaborar, auxiliar y en su caso, solicitar el apoyo de dichas autoridades en la búsqueda y localización de personas desaparecidas;
+
+XII. Atender e informar a los familiares de las personas desaparecidas de las líneas de investigación orientadas a la localización de las personas desaparecidas e incorporarlos en los procesos destinados a la búsqueda y localización de sus familiares;
+
+XIII. Coordinarse con la Fiscalía de Derechos Humanos, para brindar a los familiares de las personas desaparecidas, en los asuntos de su competencia, la protección de los derechos humanos que en su favor reconoce la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales suscritos por el Estado Mexicano, la Ley General de Víctimas y demás disposiciones aplicables;
+
+XIV. Consultar la información que sobre personas desaparecidas contengan las bases o registros de datos previstos en las disposiciones aplicables en la materia y, en su caso, cualquiera otro que se genere con la información contenida en las carpetas de investigación que apertura la Fiscalía Especializada;
+
+XV. Proponer al Fiscal General los lineamientos y criterios para normar y evaluar el desempeño de los agentes del Ministerio Público, las policías y demás personal administrativo y operativo de la Fiscalía Especializada;
+
+XVI. Vigilar la adecuada integración de las investigaciones, la observancia de los protocolos y el cumplimiento del debido proceso, en los asuntos bajo su responsabilidad;
+
+XVII. Supervisar las investigaciones de los agentes del Ministerio Público adscritos a la Fiscalía Especializada, con el fin de asegurar que éstas agotan sus etapas en tiempo y forma y reúnen las pruebas necesarias para sustentar sus conclusiones;
+
+XVIII. Someter al acuerdo del Fiscal General los asuntos encomendados a la Fiscalía Especializada e informarle sobre el estado de los mismos;
+
+XIXI (SIC). Desempeñar las comisiones y funciones específicas que el Fiscal General le confiera e informarle sobre el desarrollo de las mismas;
+
+XX. Proponer al Fiscal General los proyectos de leyes, reglamentos y decretos relacionados con el ámbito de competencia de la Fiscalía Especializada;
+
+XXI. Determinar la delegación y desconcentración de facultades en los servidores públicos de la Fiscalía Especializada;
+
+XXII. Resolver las dudas que se presenten entre las unidades administrativas de la Fiscalía Especializada respecto de la atribución para el conocimiento de los asuntos;
+
+XXIII. Encomendar a los agentes del Ministerio Público, independientemente de sus funciones, el estudio de los asuntos que estime pertinentes;
+
+XXIV. Requerir información, documentos o certificados relativos al sistema bancario o de telefonía, por medio de oficio dirigido a las autoridades federales competentes, previa autorización del Fiscal General;
+
+XXV. Diseñar e implementar cursos, estudios y programas permanentes de prevención, información y fomento de la cultura de la denuncia en materia de personas desaparecidas;
+
+XXVI. Proponer, en coordinación con los órganos y las instancias y unidades administrativas de la Fiscalía General, políticas, estrategias y líneas de acción para prevenir e investigar los delitos relacionados con la desaparición de personas, así como participar, en coordinación con las instancias competentes, en la elaboración y ejecución de los programas de prevención social;
+
+XXVII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la búsqueda de personas desaparecidas; y
+
+XVIII. Las demás que le confiera el Fiscal General y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31-I.
+
+Para la prevención, investigación y la persecución de los delitos relacionados con la búsqueda de personas, la Fiscalía Especializada contará con las siguientes unidades:
+
+I. Secretaría Particular;
+
+II. Coordinación de Atención Ciudadana.
+
+III. Dirección General de Búsqueda de Personas Desaparecidas:
+
+IV. Dirección General de Investigación de hechos de desaparición:
+
+V. Dirección General de Análisis y Contexto;
+
+VI. Unidad Policial de Investigación Especializada; y
+
+VII. Las demás que se establezcan en el reglamento interno o sean creadas por acuerdo del Fiscal General de conformidad con la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31-J.
+
+Las Direcciones o Unidades de la Fiscalía Especializada, cuando proceda deberán auxiliarse del Instituto Jalisciense de Ciencias Forenses, para la adecuada investigación y persecución de los delitos:
+
+Para la correcta integración de las investigaciones, el titular del área que corresponda podrá solicitar directamente la colaboración de otras dependencias o entidades del Poder Ejecutivo del Estado o de los Municipios.
+
+Para el caso de la Dirección de Mecanismos Alternativos de Solución de Controversias, los facilitadores adscritos a la misma deberán de reunir los requisitos que para tal efecto establece la Ley Nacional en la materia.
+
+La Unidad de Inteligencia, Análisis y Contexto, contará con personal que le sea asignado por la Dirección General del Centro de Inteligencia y Comunicaciones para la Seguridad.
+
+La Unidad Policial de Investigación Especializada contará con el personal calificado que le sea asignado por el Comisionado de Seguridad Pública.
+
+En caso necesario, el Ministerio Público encargado de las investigaciones podrá solicitar al Fiscal Especializado requerir información, documentos o certificados relativos al sistema bancario o de telecomunicaciones, por medio de oficio dirigido a las autoridades federales competentes, previa autorización del Fiscal General.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31-K.
+
+Para el cumplimiento de sus funciones, la Fiscalía Especializada coadyuvará para establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la búsqueda de personas desaparecidas.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31-L.
+
+El Fiscal Especializado y los agentes del Ministerio Público adscritos podrán proponer al Fiscal General, según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, el sobreseimiento de la causa, la suspensión del procedimiento a prueba, la utilización del procedimiento abreviado o cualquier otra vía alterna, la cual deberá ser aprobada en definitiva por el Fiscal General, de conformidad con el Código Nacional de Procedimientos Penales.
+
+### CAPÍTULO V. DEL COMISIONADO DE SEGURIDAD PÚBLICA
 
 ###### Artículo 32.
 
@@ -689,7 +815,7 @@ El Comisionado de Seguridad Pública se regirá bajo su propio reglamento intern
 
 En la reglamentación interna se establecerán las Comisiones de Honor y Justicia al seno de las respectivas fuerzas policiales en las que, además de los titulares, deberán contemplarse representantes de los propios elementos operativos que la integran.
 
-### CAPÍTULO VII. DE LA FISCALÍA DE DERECHOS HUMANOS
+### CAPÍTULO VI. DE LA FISCALÍA REGIONAL
 
 ###### Artículo 36.
 
@@ -793,7 +919,7 @@ e) Dirección Regional Sureste con sede en Tamazula de Gordiano; y
 
 f) Delegación Regional Sierra de Amula con sede en El Grullo.
 
-### CAPÍTULO VIII. DE LA FISCALÍA DE REINSERCIÓN SOCIAL
+### CAPÍTULO VII. DE LA FISCALÍA DE DERECHOS HUMANOS
 
 ###### Artículo 40.
 
@@ -903,7 +1029,7 @@ III. Dirección General del Centro de Atención y Protección a Ofendidos, Víct
 
 IV. Dirección General del Centro de Vinculación y Seguimiento a la Defensa de los Derechos Humanos.
 
-### CAPÍTULO IX. DE LOS AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO VIII. DE LA FISCALÍA DE REINSERCIÓN SOCIAL
 
 ###### Artículo 43.
 
@@ -975,7 +1101,7 @@ VIII. Comisaría del Reclusorio Metropolitano; y
 
 IX. Los demás que resulten necesarios de conformidad con la legislación aplicable.
 
-### CAPÍTULO X. DE LA PARTICIPACIÓN CIUDADANA
+### CAPÍTULO IX. DE LOS AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 46.
 
@@ -1099,7 +1225,7 @@ III. Promover acciones que mejoren la atención a la comunidad por parte de los 
 
 IV. Brindar información general sobre sus atribuciones y servicios, así como realizar foros públicos para optimizar los resultados de sus funciones y servicios en torno a la procuración de justicia.
 
-### CAPÍTULO XI. DE LAS SUPLENCIAS
+### CAPÍTULO X. DE LA PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 57.
 
@@ -1149,6 +1275,8 @@ VII. Promover el otorgamiento de reconocimientos a los servidores públicos y ci
 
 El Consejo Consultivo en Procuración de Justicia expedirá su reglamento, y podrá funcionar con apoyo de la organización administrativa del Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social.
 
+### CAPÍTULO XI. DE LAS SUPLENCIAS
+
 ###### Artículo 63.
 
 Durante las ausencias del Fiscal General hasta por treinta días, el despacho y la resolución de los asuntos correspondientes al mismo, así como la coordinación de las Fiscalías, en su orden, quedará a cargo del Fiscal Central, del Fiscal Regional, y en ausencia de éstos, del Comisionado de Seguridad Pública.
@@ -1161,9 +1289,11 @@ En caso de destitución, renuncia o ausencia absoluta del Fiscal General, la Fis
 
 En el caso de investigación o del proceso de responsabilidad a que se refiere el Título Octavo Capítulo IV de la Constitución Política del Estado de Jalisco, en contra del Fiscal General, corresponderá al Fiscal Central substanciar la investigación o el procedimiento administrativo que corresponda, con total autonomía e independencia.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 66.
 
-En las ausencias temporales del Fiscal Central, del Fiscal Regional, del Fiscal de Derechos Humanos, del Fiscal de Reinserción Social o del Comisionado de Seguridad Pública, así como de los Directores Generales y demás servidores públicos de primer nivel de la Fiscalía General, serán suplidos para el despacho de los asuntos de su correspondiente competencia, por el inferior jerárquico inmediato adscrito en el área de su responsabilidad, o bien por quien designe el Fiscal General mediante acuerdo que deberá ser publicado en el Periódico Oficial "El Estado de Jalisco".
+En las ausencias temporales del Fiscal Central, del Fiscal Electoral, del Fiscal Especializado, del Fiscal Regional, del Fiscal de Derechos Humanos, del Fiscal de Reinserción Social o del Comisionado de Seguridad Pública, así como de los Directores Generales y demás servidores públicos de primer nivel de la Fiscalía General, serán suplidos para el despacho de los asuntos de su correspondiente competencia, por el inferior jerárquico inmediato adscrito en el área de su responsabilidad, o bien por quien designe el Fiscal General mediante acuerdo que deberá ser publicado en el Periódico Oficial “El Estado de Jalisco”.
 
 ###### Artículo 67.
 
@@ -1250,3 +1380,21 @@ CUARTO. El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública se s
 QUINTO. Se instruye a la Fiscalía General a través de su Dirección General de Contraloría y Visitaduría, a la Secretaría General de Gobierno a través de la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública y la Oficialía Mayor, así como a la Secretaría de Planeación, Administración y Finanzas y a la Contraloría del Estado, ambas a través de sus áreas competentes, para que realicen dentro de los quince días posteriores el proceso de entrega-recepción para la ejecución del presente acuerdo y, consecuentemente, se transfieran el personal público, recursos financieros y materiales de la Fiscalía General del Estado asignados en la Dirección General de Prevención Social, Planeación y Vinculación, a la Secretaría General de Gobierno, para la creación del Centro de Prevención Social del Estado de Jalisco, con absoluto respeto a los derechos burocrático laborales adquiridos.
 
 Para el cumplimiento de la instrucción del párrafo precedente, la Contraloría del Estado y la Secretaría de Planeación, Administración y Finanzas aplicarán supletoriamente la Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios, y proveerán administrativamente la documentación, procesos y personal necesario para tal efecto.
+
+P.O. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 031/2017, DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, QUE MODIFICA EL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN PERSONAS DESAPARECIDAS”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. El Ejecutivo del Estado expedirá el Reglamento Interno de la Fiscalía Especializada en Personas Desaparecidas.
+
+Tercero. Todo el personal operativo y administrativo que realizaba las funciones materia de la Fiscalía Especializada en Personas Desaparecidas en los demás órganos, instancias y unidades administrativas de la Fiscalía General, pasarán a integrarse a dicha Fiscalía Especializada.
+
+Cuarto. Los recursos financieros, materiales y tecnológicos que estaban asignados a los demás órganos, instancias y unidades administrativas de la Fiscalía General, que hayan estado destinados a las funciones materia de la Fiscalía Especializada en Personas Desaparecidas, serán reasignados a dicha Fiscalía Especializada.
+
+Quinto. Los asuntos que a la entrada en vigor del presente reglamento se encuentran en trámite en los demás órganos, instancias y unidades administrativas de la Fiscalía General, que son materia de conocimiento de la Fiscalía Especializada en Personas Desaparecidas pasarán a esta última para que continúe con el trámite legal que corresponda.
+
+Sexto. Se instruye a la Secretaría de Planeación, Administración y Finanzas, para que realice las adecuaciones administrativas y presupuestales para el cumplimiento del presente Acuerdo.
+
+Séptimo. Queda sin efecto cualquier disposición normativa o administrativa que se oponga al presente Acuerdo.
