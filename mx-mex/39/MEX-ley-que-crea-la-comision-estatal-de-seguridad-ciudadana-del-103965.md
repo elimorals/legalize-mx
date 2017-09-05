@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-estatal-de-seguridad-ciudadana-del-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-17"
-last_updated: "2014-12-19"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 19 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de diciembre de 2014.
 
@@ -113,7 +111,11 @@ XXIII. Coordinar planes y operativos para la defensa y protección del medio amb
 
 XXIV. Retirar los vehículos abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano.
 
-XXV. Las demás que le señalen otros ordenamientos jurídicos.
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Actuar con estricto apego a las disposiciones normativas con perspectiva de género.
+
+XXVI. Las demás que le señalen otros ordenamientos jurídicos.
 
 ###### Artículo 4.
 
@@ -225,7 +227,11 @@ XXXIII. Establecer mecanismos y programas que permitan controlar y regular las t
 
 XXXIV. Emitir lineamientos, reglas, políticas, criterios y otras disposiciones jurídico administrativas que rijan el funcionamiento de las unidades administrativas de la Comisión.
 
-XXXV. Las demás que le confieren la Ley y otras disposiciones legales y administrativas, así como las que le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XXXV. Planear, coordinar, supervisar y evaluar, dentro del ámbito de su competencia, a las instancias administrativas que dependan de la Comisión, a efecto que sus actividades se realicen con perspectiva de género y respeto a los derechos humanos.
+
+XXXVI. Las demás que le confieren la Ley y otras disposiciones legales y administrativas, así como las que le encomiende el Gobernador del Estado.
 
 T R A N S I T O R I O S
 
@@ -266,3 +272,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
