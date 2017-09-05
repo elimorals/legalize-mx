@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-96299
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-17"
-last_updated: "2013-10-17"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de octubre de 2013.
 
@@ -1201,9 +1201,13 @@ Por los servicios extraordinarios de que habla el artículo anterior, los Oficia
 
 Por los siguientes servicios ordinarios, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los municipios, de conformidad con la Ley de Hacienda del Estado de Querétaro:
 
-I. Actas de nacimiento o reconocimiento de hijos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-II. Registro extemporáneo de nacimiento;
+I. Actas de reconocimiento de hijos;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+II. Registro extemporáneo;
 
 III. Legitimación o reconocimiento de personas;
 
@@ -1222,6 +1226,10 @@ IX. Anotaciones marginales;
 X. Corrección de actas; y
 
 XI. Búsqueda de archivos y/o certificaciones de inexistencia de documentos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+El Registro Civil competente expedirá, sin costo alguno, la primera copia certificada del acta de registro de nacimiento.
 
 ###### Artículo 123.
 
@@ -1764,3 +1772,13 @@ Ing. Germán Giordano Bonilla
 Secretario de Planeación y Finanzas
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 122 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, que resulten contrarias a la presente Ley.
