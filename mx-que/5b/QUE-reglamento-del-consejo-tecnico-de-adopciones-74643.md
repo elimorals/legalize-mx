@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-consejo-tecnico-de-adopciones-74643"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-16"
-last_updated: "2010-04-16"
+last_updated: "2017-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,17 @@ state: "QUE"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ADOPCIONES DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO DEL CONSEJO TECNICO DE ADOPCIONES
+REGLAMENTO DEL CONSEJO TÉCNICO DE ADOPCIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de abril de 2010.
 
 LA JUNTA DIRECTIVA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO, EN USO DE LAS FACULTADES QUE LE CONFIEREN LA FRACCIÓN IX DEL ARTÍCULO 54 DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, esta Junta Directiva ha tenido a bien expedir el siguiente:
 
@@ -862,3 +864,19 @@ LIC. ALFONSO GARCÍA ALCOCER
 REPRESENTANTE DEL SECTOR PRIVADO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE ADOPCIONES DEL ESTADO DE QUERÉTARO".]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo. Se abroga el Reglamento del Consejo Técnico de Adopciones publicado el 16 de abril del 2010, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Tercero. El Consejo Técnico deberá instalarse a más tardar dentro de los 30 días naturales siguientes a la entrada en vigor del presente Reglamento, para lo cual el Presidente directamente o por conducto del Secretario Técnico emitirá la convocatoria correspondiente.
+
+Cuarto. Los procedimientos de adopción que a la entrada en vigor del presente Reglamento se encuentren en trámite, serán sustanciados y resueltos hasta su total culminación de conformidad con los ordenamientos jurídicos aplicables al momento de ser iniciados.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a las del presente Reglamento.
