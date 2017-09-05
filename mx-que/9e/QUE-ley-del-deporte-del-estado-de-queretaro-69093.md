@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2017-02-03"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DEL DEPORTE DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 5 DE SEPTIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -327,7 +327,9 @@ VIII. Organizar y coordinar las actividades deportivas en las colonias, barrios,
 
 IX. Vigilar, en su caso, el cumplimiento de las normas de seguridad establecidas en esta Ley y su reglamento, para las personas que presten el servicio de guía e instrucción en deportes de alto riesgo; y
 
-XIII (SIC). Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+X. Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
 
 Los objetivos se concertarán a través de la firma de convenios con las características propias de cada entidad municipal, para la consecución de los fines de la presente Ley.
 
