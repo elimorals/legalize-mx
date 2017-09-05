@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2017-04-18"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -229,13 +229,9 @@ IV. Supresión de municipios cuando por insuficiencia de sus medios económicos 
 
 En la resolución del caso derivado de la fracción II del presente artículo, se requiere la aprobación de las dos terceras partes de los diputados integrantes de la Legislatura.
 
-(NOTA: EL 16 DE ABRIL DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2009, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
-
-EN LA RESOLUCIÓN DE LOS CASOS DERIVADOS DE LAS FRACCIONES I, III Y IV, EL PROCEDIMIENTO RESPECTIVO SE AJUSTARÁ A LO QUE ESTABLECE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.
+En la resolución de los casos derivados de las fracciones I, III y IV, el procedimiento respectivo se ajustará a lo que establece el inciso a), de la fracción VI, del artículo 19 de la Constitución Política del Estado de Querétaro.
 
 ### CAPÍTULO SEGUNDO. DE LA CREACIÓN DE LOS MUNICIPIOS
 
@@ -927,7 +923,9 @@ Si llegada la fecha de su renovación, no existiera Ayuntamiento electo por cual
 
 Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento, una Dependencia Encargada de las Finanzas Públicas Municipales; una Dependencia Encargada de la Administración de Servicios Internos, Recursos Humanos, Materiales y Técnicos del Municipio; una Dependencia Encargada de la Prestación de Servicios Públicos Municipales y otra de la Ejecución y Administración de Obras Públicas; así mismo habrá una Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal y un Órgano Interno de Control.
 
-La Dependencia Encargada de la Prestación de los Servicios Públicos Municipales así como la de Ejecución y Administración de Obras Públicas, tendrán las competencias que establecen el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; el Artículo 85 de la Constitución Local, esta Ley, así como las que señalen los reglamentos que de ella deriven.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+La Dependencia Encargada de la Prestación de los Servicios Públicos Municipales, así como la de Ejecución y Administración de Obras Públicas, tendrán las competencias que establecen el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley, así como las que señalen los reglamentos que de ella deriven.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1155,7 +1153,9 @@ I. No ser integrante del Ayuntamiento;
 
 II. Tener residencia efectiva de 3 años anteriores en la demarcación territorial de que se trate; y
 
-III. Cumplir con los demás requisitos establecidos para ser miembro del ayuntamiento de conformidad con lo establecido en el Artículo 81 de la Constitución del Estado.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+III. Cumplir con los demás requisitos establecidos para ser miembro del ayuntamiento de conformidad con lo establecido en el Artículo 8 de la Constitución Política del Estado de Querétaro.
 
 ###### ARTICULO 54.
 
@@ -2864,3 +2864,11 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. En tanto entra en vigor la Ley a que se refiere el Artículo Primero Transitorio, continuará aplicándose la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 26 de junio de 2009.
 
 Artículo Cuarto. Los Ayuntamientos, en el ámbito de su competencia, deberán expedir las disposiciones jurídicas y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en la presente Ley.
+
+P.O. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
