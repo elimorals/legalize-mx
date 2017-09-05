@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2017-09-01"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3919,9 +3919,9 @@ DELITOS CONTRA LA LIBERTAD SEXUAL
 
 Comete el delito de hostigamiento sexual, quien con fines de lujuria asedie a persona de cualquier sexo que le sea subordinada, valiéndose de su posición derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique jerarquía; y se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
 
-> <small>(REFORMADO, G.G. 31 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo.
+Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -3935,21 +3935,23 @@ De igual forma incurre en acoso sexual quien, sin consentimiento del sujeto pasi
 
 Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-Comete también el delito de acoso sexual quien con fines de lujuria asedie reiteradamente a cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
+Comete también el delito de acoso sexual quien con fines de lujuria asedie reiteradamente a cualquier persona, sin su consentimiento, en lugares públicos, en instalaciones o vehículos destinados al transporte público de pasajeros.
 
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
 En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
 
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Si el sujeto activo del delito es servidor público, además de las penas previstas se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO V. FEMINICIDIO
+### CAPITULO IV BIS. VIOLENCIA POLÍTICA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 270.
 
@@ -3963,7 +3965,7 @@ I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento 
 
 II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días multa.
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+### CAPITULO V. FEMINICIDIO
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -3979,7 +3981,11 @@ Comete delito de estupro quien tenga cópula con una persona mayor de quince añ
 
 No se procederá contra el inculpado del estupro, si no es por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
 
-### CAPITULO I. ROBO
+### CAPITULO VI. DISPOSICIONES GENERALES
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 273.
 
@@ -4059,7 +4065,7 @@ DELITOS DE VIOLENCIA DE GÉNERO
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### Artículo 275.
 
@@ -4069,7 +4075,7 @@ A quien en el ejercicio de la función pública dilate, obstaculice, niegue la d
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### Artículo 276.
 
@@ -4115,7 +4121,7 @@ Además de las penas señaladas en el párrafo anterior, se impondrá al respons
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 279.
 
@@ -4141,11 +4147,7 @@ VII. Permita o tolere actos de hostigamiento y/o acoso sexual en contra de algun
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV BIS. FRAUDE FAMILIAR
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+### CAPITULO IV. FRAUDE
 
 ###### Artículo 280.
 
@@ -4167,13 +4169,23 @@ VII. Controle el ingreso de sus percepciones económicas.
 
 Se impondrán de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPITULO IV BIS. FRAUDE FAMILIAR
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 280 Bis.
+
+A quien por cualquier medio impida u obstaculice a una mujer el acceso a los cargos de elección popular su debido desempeño o la induzca a la toma de decisiones en contra de su voluntad, se le impondrá de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ### CAPITULO V. DESPOJO
-
-### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### Artículo 281.
 
@@ -4213,9 +4225,9 @@ Se entenderá como homicidio doloso, la privación de la vida de una mujer por r
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO VI. DAÑO EN LOS BIENES
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 282.
 
@@ -4283,9 +4295,7 @@ II. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones 
 
 ## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 287.
 
@@ -4513,9 +4523,9 @@ III. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el 
 
 IV. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 296.
 
@@ -4571,7 +4581,7 @@ I. Cuando se cometa por el suegro o suegra contra el yerno o nuera o por éstos 
 
 II. Respecto a la persona que intervenga en el abigeato cometido por un ascendiente en contra de su descendiente o por éste contra aquél, por un cónyuge contra el otro, por el concubinario contra la concubina o por ésta contra aquél o por el adoptante contra el adoptado o por éste contra aquél y sea ajena a ellos.
 
-### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4619,7 +4629,7 @@ VI. Si por alguna circunstancia la cuantía del abuso de confianza no pudiere se
 
 El delito de abuso de confianza sólo se perseguirá por querella de la parte ofendida.
 
-### CAPITULO III. COALICION
+### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4717,7 +4727,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. COALICION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4725,11 +4735,11 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 A la o el cónyuge o concubino, que sin causa justificada y en detrimento de la sociedad conyugal o del patrimonio común, generado durante el matrimonio o concubinato, oculte o transfiera por cualquier medio, o adquiera a nombre de terceros, los bienes de éstos, se le aplicará sanción de uno a cinco años de prisión, hasta trescientos días de multa y la reparación de daño.
 
-### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4751,7 +4761,7 @@ A los autores intelectuales, a quienes dirijan la invasión y a quienes instigue
 
 Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a todos éstos, inculpados de los delitos cometidos.
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. CONCUSION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4809,7 +4819,7 @@ II. De dos a siete años de prisión y de cincuenta a ciento setenta y cinco dí
 
 III. De tres a ocho años de prisión y de setenta y cinco a doscientos días multa, cuando se ocasione a bienes muebles o inmuebles, o documentos afectos a él, de manera que interrumpa el servicio público.
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VII. INTIMIDACION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4833,7 +4843,7 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, invada con án
 
 A los autores intelectuales, a quienes dirijan la invasión, y a quienes instiguen a la ocupación del inmueble, cuando la invasión se realice por dos o más personas se les impondrá de seis a doce años de prisión y de trescientos a mil días multa.
 
-### CAPITULO IX. TRAFICO DE INFLUENCIA
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4847,7 +4857,7 @@ A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmen
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO X. COHECHO
+### CAPITULO IX. TRAFICO DE INFLUENCIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4943,7 +4953,7 @@ Cuando la persona que realiza los actos jurídicos descritos en este delito, rev
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XI. PECULADO
+### CAPITULO X. COHECHO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4989,7 +4999,7 @@ Cuando los delitos a que se refieren los artículos 332, 340, 341, 345, 346, 347
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. PECULADO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5037,7 +5047,7 @@ Al servidor público, que sin causa justificada abandone sus funciones sin haber
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5049,7 +5059,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIV. DISPOSICIONES COMUNES
+### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5140,6 +5150,10 @@ I. De uno a cinco años de prisión y de treinta a quinientos días multa, desti
 II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO XIV. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 340.
 
@@ -6823,10 +6837,18 @@ VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestale
 
 G.G. 1 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
