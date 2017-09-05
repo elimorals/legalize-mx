@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-95214"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-18"
-last_updated: "2016-04-18"
+last_updated: "2017-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el jueves 18 de julio de 2013.
 
@@ -53,7 +53,13 @@ La Inspección General de las Instituciones de Seguridad Pública del Estado de 
 
 I. Vigilar, supervisar, inspeccionar e investigar que la prestación del servicio público se rija por los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y el respeto a los derechos humanos que deben observar en el desempeño de sus empleos, funciones, cargos o comisiones los servidores públicos de las instituciones de seguridad pública;
 
-II. Llevar a cabo los procedimientos y determinar las sanciones administrativas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, cuando incurran en su inobservancia;
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+I Bis. Planear y ejecutar los procedimientos de inspección, vigilancia y técnicas de verificación, para comprobar el cumplimiento del marco de actuación de las y los servidores públicos con perspectiva de género.
+
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+II. Llevar a cabo los procedimientos y determinar las sanciones administrativas que se establecen en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás ordenamientos jurídicos que incidan en el ámbito de su competencia, cuando incurran en su inobservancia.
 
 III. Planear, emplear y ejecutar las técnicas de verificación, con la finalidad de comprobar que en la prestación del servicio público se observan los principios establecidos en la fracción I de este artículo. Siendo éstas las acciones encubiertas y las utilizadas por los usuarios simulados.
 
@@ -95,7 +101,13 @@ I. Vigilar, supervisar e inspeccionar que la actuación de los servidores públi
 
 II. Conocer e investigar las quejas que con motivo del incumplimiento de las obligaciones de los servidores públicos presente cualquier interesado, así como de las denuncias que se interpongan por cualquier medio e incluso anónimas, preservando la confidencialidad de las actuaciones;
 
-III. Planear e implementar procedimientos de inspección, vigilancia, así como de técnicas de verificación para comprobar el cumplimiento de las obligaciones de los servidores públicos;
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+II Bis. Recibir denuncias o quejas en el ámbito de su competencia y por cualquier medio, e iniciar el procedimiento que corresponda de manera oficiosa, tratándose de acciones u omisiones de las y los servidores públicos, en las que se contravengan las disposiciones jurídicas con perspectiva de género.
+
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+III. Planear e implementar procedimientos de inspección, vigilancia, así como de técnicas de verificación para comprobar el cumplimiento de las obligaciones de las y los servidores públicos y que en su actuación se observe la perspectiva de género.
 
 IV. Dictar las medidas precautorias necesarias con el objetivo de salvaguardar el interés social, el interés público o el orden público, derivado de las funciones que realiza, de así convenir para el mejor cumplimiento del servicio de instituciones de seguridad pública;
 
@@ -169,15 +181,21 @@ El Consejo Directivo tendrá, además de las atribuciones previstas en la Ley pa
 
 I. Imponer las sanciones administrativas a los servidores públicos de las Instituciones de Seguridad Pública a que hace referencia la presente Ley, derivado del procedimiento que realice el Inspector General;
 
-II. Ordenar la práctica de inspecciones e investigaciones para verificar el cumplimiento de las obligaciones de los servidores públicos de las Instituciones de Seguridad Pública a que hace referencia la presente Ley que puedan implicar inobservancia de sus deberes;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+II. Ordenar la práctica de inspecciones e investigaciones para verificar el cumplimiento de las obligaciones de las y los servidores públicos de las Instituciones de Seguridad Pública a que hace referencia la presente Ley, así como el estricto cumplimiento de los protocolos de actuación policial y demás disposiciones normativas en materia de género, que puedan implicar inobservancia de sus deberes.
 
 III. Elaborar y dar seguimiento del calendario de operativos y de las técnicas de verificación;
 
-IV. Expedir los reglamentos, lineamientos, manuales, normas, ordenamientos, políticas, criterios, estrategias, programas, disposiciones y procedimientos, incluyendo lo relativo a las técnicas de verificación para el cumplimiento del objeto, de la Inspección General;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Expedir los reglamentos, lineamientos, manuales, normas, ordenamientos, políticas, criterios, estrategias, programas, disposiciones y procedimientos, incluyendo lo relativo a las técnicas de verificación para el cumplimiento del objeto, de la Inspección General, que deberán incluir la perspectiva de género.
 
 V. Emitir las observaciones y recomendaciones a la Secretaría de Seguridad Ciudadana, a la Procuraduría General de Justicia del Estado de México y, en los casos previstos en esta Ley, a los municipios, como resultado de los procedimientos realizados por la Inspección General;
 
-VI. Implementar campañas para motivar la denuncia ciudadana en contra de conductas ilícitas de los servidores públicos;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Implementar campañas para motivar la denuncia ciudadana en contra de conductas ilícitas y de la inobservancia de las disposiciones normativas en materia de género, de las y los servidores públicos.
 
 VII. Conocer de las acciones encubiertas que ordene el Inspector General;
 
@@ -247,7 +265,9 @@ IX. Proponer al Consejo Directivo reformas jurídicas y administrativas que perm
 
 X. Establecer un sistema de registro y control que permita preservar la confidencialidad, la protección de datos personales y el resguardo de expedientes de los servidores públicos sujetos a los procedimientos;
 
-XI. Dirigir e impulsar las acciones de capacitación, actualización y profesionalización que permitan el desarrollo del potencial intelectual, ético y humano de los servidores públicos adscritos a la Inspección General;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Dirigir e impulsar las acciones de capacitación, actualización y profesionalización, en las que se deberá incluir la perspectiva de género, que permita el desarrollo del potencial intelectual, ético y humano de las y los servidores públicos adscritos a la Inspección General.
 
 XII. Presentar al Consejo Directivo un informe escrito, en el mes de marzo, que corresponda al año anterior, sobre las acciones llevadas a cabo, así como los procedimientos iniciados, en proceso y concluidos;
 
@@ -258,6 +278,10 @@ XIII. Proporcionar a las autoridades los informes que le sean requeridos;
 XIV. Ordenar la práctica de inspecciones e investigaciones para verificar el cumplimiento de las obligaciones de los servidores públicos que puedan implicar inobservancia de sus deberes y derivado de los resultados que se generen emitir recomendaciones a la Comisión Estatal de Seguridad Ciudadana y a la Procuraduría General de Justicia del Estado de México, con motivo de las conductas irregulares que se detecten.
 
 XV. Recibir, tramitar, dar seguimiento y substanciar las quejas y denuncias, incluso las anónimas, con motivo del incumplimiento de las obligaciones de los servidores públicos;
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose de denuncias y quejas relacionadas con la inobservancia de las disposiciones en materia de género, el inicio y la tramitación del procedimiento deberán realizarse de manera oficiosa.
 
 XVI. Dictar las medidas precautorias necesarias e informar, por escrito, al superior inmediato del servidor público para su cumplimiento;
 
@@ -426,3 +450,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
