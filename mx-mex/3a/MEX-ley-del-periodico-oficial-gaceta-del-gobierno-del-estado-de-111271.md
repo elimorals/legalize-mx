@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-periodico-oficial-gaceta-del-gobierno-del-estado-de-111
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2016-02-03"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -119,11 +117,13 @@ VIII. Dirección electrónica del periódico oficial.
 
 IX. La leyenda oficial del año que corresponda.
 
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 8.
 
-El Periódico Oficial se editará de forma impresa y en forma digital, la cual se publicará en el Portal del Gobierno del Estado de México.
+El Periódico Oficial se editará de forma impresa y en forma digital, la cual se publicará en el portal informativo del Gobierno del Estado y del diverso de la Dirección, ambas ediciones tendrán idénticas características y contenido.
 
-La versión electrónica del periódico oficial tendrá validez legal y el carácter de documental pública cuando se emita por la Dirección a través del Departamento y previo pago de la contribución respectiva.
+La versión digital del periódico oficial tendrá validez legal y el carácter de documental pública cuando se emita por la Dirección a través del Departamento, asegurando la integridad y autenticidad de su contenido a través de la firma y sello electrónico y previo pago de la contribución respectiva.
 
 ###### Artículo 9.
 
@@ -173,7 +173,9 @@ VII. Expedir certificaciones de los ejemplares del periódico oficial.
 
 VIII. Administrar y vigilar la página electrónica del periódico oficial.
 
-IX. Emitir ejemplares del periódico oficial con sello electrónico.
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Emitir ejemplares del periódico oficial con firma y sello electrónico, garantizando la integridad y autenticidad.
 
 X. Las demás que establezcan otras disposiciones jurídicas aplicables y las que le instruya la o el titular de la Consejería.
 
@@ -263,17 +265,21 @@ Para los efectos del presente artículo se entiende que el periódico oficial se
 
 ### CAPÍTULO VI. DIFUSIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
 
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Para su consulta gratuita en internet, el periódico oficial será difundido en el Portal del Gobierno del Estado de México.
+Para su consulta gratuita en internet, el periódico oficial será difundido en el portal informativo del Gobierno del Estado y del diverso de la Dirección.
 
 ###### Artículo 28.
 
 La publicación electrónica tiene la finalidad de divulgar mediante el libre acceso, el contenido de las ediciones del periódico oficial.
 
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-La alteración de la información contenida en el Portal del Gobierno del Estado de México será sancionada por las disposiciones jurídicas aplicables.
+La alteración de la información contenida en el portal informativo del Gobierno del Estado y del diverso de la Dirección será sancionada por las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. DE LA FE DE ERRATAS Y LA NOTA ACLARATORIA
 
@@ -358,3 +364,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234.- POR EL QUE SE REFORMA EL ARTÍCULO 8 DE (SIC) LA FRACCIÓN IX DEL ARTÍCULO 12 Y LOS ARTÍCULOS 27 Y 29 DE LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno” del Estado de México”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno” del Estado de México.
