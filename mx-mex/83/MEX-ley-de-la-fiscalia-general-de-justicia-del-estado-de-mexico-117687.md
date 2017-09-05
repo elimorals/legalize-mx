@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2017-05-30"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -167,7 +167,17 @@ XVI. Promover la participación responsable de la sociedad civil y los medios de
 
 XVII. Establecer medios de información sistemática y directa con la sociedad, de sus actividades, garantizando el acceso a la información de la Fiscalía, en los términos y con las limitantes establecidas en la Constitución Federal, la Constitución del Estado y en las demás disposiciones jurídicas aplicables.
 
-XVIII. Las demás previstas en las disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Crear los mecanismos de supervisión, control y seguimiento de las actuaciones que realice el personal que la integran, en relación a las disposiciones jurídicas con perspectiva de género.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Atender de manera oficiosa las denuncias que se presenten por hechos que puedan ser constitutivos de delitos relacionados con la violencia de género.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Las demás previstas en las disposiciones jurídicas aplicables.
 
 #### SECCIÓN TERCERA. DEL INGRESO Y PERMANENCIA DEL PERSONAL OPERATIVO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
@@ -685,6 +695,10 @@ La noticia de hechos que inicie el Ministerio Público será a partir de una den
 
 II. Iniciar la noticia de hechos, sin demora, en todos los casos en que tenga conocimiento de la desaparición o extravío de alguna persona y elevarla inmediatamente a carpeta de investigación cuando se identifiquen elementos que presuman la comisión de un hecho delictivo. Asimismo, se actualizará la base de datos con la información de los reportes de personas desaparecidas o extraviadas, solicitar informes y enviar alertas a dependencias y entidades de la Federación, de los Estados y Municipios para su búsqueda y localización.
 
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+II Bis. Iniciar la carpeta de investigación, de oficio y sin demora, en todos los casos en que tenga conocimiento de delitos relacionados con violencia de género y determinar de manera inmediata las medidas de protección que correspondan.
+
 III. Registrar sus actuaciones en el sistema informático de la Fiscalía, bajo el número interno de control o el número único de causa que genere el Ministerio Público y alimentarlo con la información requerida, de conformidad con las disposiciones jurídicas aplicables y la normatividad que emita la o el Fiscal General.
 
 IV. Iniciar la carpeta de investigación si de los datos aportados por la o el denunciante o querellante y los recabados por éste, se desprende la probable comisión de un hecho delictivo.
@@ -902,6 +916,10 @@ I. Realizar la investigación de los hechos con metodología basada en conocimie
 II. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de éstas y de las diligencias urgentes.
 
 III. Recibir denuncias anónimas e inmediatamente hacerlas del conocimiento del Ministerio Público, a efecto de que éste autorice cerciorarse, conforme a derecho, de la veracidad de los datos aportados.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+III Bis. Realizar sin demora los actos de investigación urgentes cuando se tenga conocimiento por cualquier medio de algún hecho que pueda ser constitutivo de delito relacionado con la violencia de género, para salvaguardar la integridad de la víctima y hacerlo del conocimiento de manera inmediata a la o el agente del Ministerio Público, a fin de iniciar la carpeta de investigación y determinar las medidas de protección que correspondan.
 
 IV. Registrar sus actuaciones en el sistema informático de la Fiscalía, bajo el número interno de control o el número único de causa que genere el Ministerio Público y alimentarlo con la información requerida, de conformidad con las disposiciones jurídicas aplicables y la normatividad que emita el Fiscal General.
 
@@ -1658,3 +1676,11 @@ VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en 
 VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
 
 VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
