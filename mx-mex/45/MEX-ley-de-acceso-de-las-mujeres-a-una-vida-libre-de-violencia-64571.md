@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2016-12-21"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -113,7 +113,9 @@ XIII. Tipos de Violencia: Son los actos u omisiones que constituyen delito y da�
 
 XIV. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia de género contra las mujeres y las niñas.
 
-Las modalidades son violencia familiar, laboral y docente, violencia en la comunidad, violencia institucional y feminicida;
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Las modalidades son: violencia familiar, laboral y docente, violencia en la comunidad, violencia institucional, obstétrica, en el noviazgo, política y feminicida;
 
 XV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
@@ -207,9 +209,9 @@ Con el objeto de contribuir a la erradicación de la violencia contra las mujere
 
 I. Establecer la violencia familiar como restricción para el régimen de convivencia así como impedimento para la guarda y custodia de niñas y niños; y
 
-> <small>(ADICIONADA, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-II. Modificar los ordenamientos penales para establecer que cualquier persona que tenga conocimiento de hechos que constituyan delitos de violencia familiar puedan denunciar y posteriormente la víctima la ratifique en el término de 10 días.
+II. Modificar los ordenamientos penales para establecer que cualquier persona que tenga conocimiento de hechos que constituyan delitos de violencia familiar puedan denunciar.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -417,7 +419,9 @@ b) La verificación de los hechos y la publicidad de la verdad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE JUNIO DE 2015)</small>
 
-### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPITULO V TER. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 27 Bis.
 
@@ -453,15 +457,71 @@ IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dig
 
 El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, e instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+
+###### Artículo 27 Quinquies.
+
+la violencia política contra las mujeres son las acciones u omisiones o bien la tolerancia de las autoridades, basadas en elementos de género que tengan como finalidad menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos en cualquier ámbito de participación o de las prerrogativas inherentes a un cargo público.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 27 Sexies.
+
+Son actos u omisiones que pueden constituir violencia política contra las mujeres, de manera enunciativa, las siguientes:
+
+I. Registrar candidatas con el fin de renunciar a su cargo para que lo asuman suplentes varones.
+
+II. Registrar a mujeres mayoritariamente en distritos electorales o municipios donde los partidos políticos que las postulen registren baja votación.
+
+III. Amenazas a las mujeres que han sido electas.
+
+IV. Inequidad en la distribución de los recursos para las campañas.
+
+V. Represalias o difusión diferenciada por vincularse y defender temas de género y derechos humanos de las mujeres.
+
+VI. Desestimación y descalificación de las propuestas que presentan las mujeres.
+
+VII. Agresiones verbales basadas en estereotipos y visiones discriminatorias sobre las mujeres.
+
+VIII. Acoso, ataques físicos, violencia sexual en el ámbito del ejercicio político.
+
+IX. Amenazas, o presión para asistir a eventos proselitistas.
+
+X. Presionar, mediante amenazas o violencia, para votar o abstenerse de votar por un candidato o candidata, partido político o coalición, durante la campaña electoral, el día de la jornada electoral o en los 3 días previos a la misma.
+
+XI. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función política.
+
+XII. Ocultar información o bien, proporcionar a las mujeres candidatas o autoridades electas o designadas información falsa, errada o imprecisa que induzca al inadecuado ejercicio de sus funciones públicas.
+
+XIII. Restringir el uso de la palabra, en las sesiones u otras reuniones políticas en el ejercicio del derecho de petición o en órganos deliberantes.
+
+XIV. Restringir la participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida.
+
+XV. Imponer sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos.
+
+XVI. Discriminar a la autoridad designada o en el ejercicio de la función pública, por encontrarse en estado de embarazo, parto o puerperio, impidiendo o negando el ejercicio de su función o el goce de sus derechos.
+
+XVII. Divulgar o revelar información personal y privada, de las mujeres que ejerzan una función pública o que aspiren a ella, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan.
+
+XVIII. Presionar o inducir a las autoridades electas mujeres o designadas a presentar renuncia al cargo.
+
+XIX. Obstaculizar la participación de las mujeres en las elecciones regidas por sistemas normativos internos o por usos y costumbres de las comunidades indígenas.
+
+XX. Usar inadecuadamente el presupuesto destinado a la capacitación, promoción y desarrollo del liderazgo político de las mujeres.
+
+XXI. Cualquier otra conducta análoga que se realice conculcando la libertad de derechos político-electorales de las mujeres.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 27 Septies.
+
+El Instituto Electoral del Estado de México, el Tribunal Electoral del Estado de México, la Comisión de Derechos Humanos del Estado de México, el Poder Judicial del Estado de México, los gobiernos estatal y municipal, en sus respectivas competencias, tienen la obligación de organizar y dirigir las funciones públicas que garanticen el derecho de las mujeres a una vida libre de violencia política.
+
 ### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
-
-### CAPÍTULO I BIS
-
-DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
-
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 28.
 
@@ -547,11 +607,11 @@ DE LAS POLÍTICAS DE GOBIERNO, DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y O
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO I TER
+### CAPÍTULO I BIS
 
-DEL MECANISMO DE SEGUIMIENTO DE LAS MEDIDAS DE SEGURIDAD, PREVENCIÓN Y JUSTICIA PARA ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
+DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 33.
 
@@ -559,11 +619,11 @@ Las políticas de Gobierno que las dependencias y organismos auxiliares del Esta
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO II
+### CAPÍTULO I TER
 
-DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+DEL MECANISMO DE SEGUIMIENTO DE LAS MEDIDAS DE SEGURIDAD, PREVENCIÓN Y JUSTICIA PARA ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
@@ -631,7 +691,11 @@ VI. Las relacionadas con las anteriores que sean necesarias para incrementar la 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II
+
+DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 36 Bis.
 
@@ -663,11 +727,15 @@ Las dependencias y organismos de los tres poderes, los organismos autónomos, as
 
 Para el caso de los municipios, será el enlace designado, el que acuda en representación de la o el presidente municipal, quien únicamente acudirá una vez al mes, previa convocatoria.
 
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+La o el enlace designado por el municipio lo representará en todas las acciones que deban efectuarse derivado de la Declaratoria de Alerta de Género contra las Mujeres, por lo que las y los demás integrantes del Mecanismo se coordinarán con éste para la implementación, ejecución y seguimiento de las acciones afirmativas.
+
 La implementación del mecanismo culminará hasta que la o el titular del Poder Ejecutivo Estatal lo decrete, o bien, cuando la Secretaría de Gobernación lo notifique a la Entidad.
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### Artículo 37.
 
@@ -709,7 +777,7 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos del Estado, asignar
 
 DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
 
-### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
+### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
 
 ###### Artículo 39.
 
@@ -1085,9 +1153,11 @@ XVIII. Celebrar convenios de cooperación, coordinación y concertación en la m
 
 XIX. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-Corresponde a la Procuraduría General de Justicia del Estado de México:
+Corresponde a la Fiscalía General de Justicia del Estado de México:
 
 I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
 
@@ -1153,7 +1223,7 @@ XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2014)</small>
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### Artículo 52.
 
@@ -1179,9 +1249,7 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 X. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 53.
 
@@ -1200,6 +1268,10 @@ III. Informar sobre los procedimientos judiciales en materia de Violencia de Gé
 IV. Coordinar, dirigir y administrar las órdenes y medidas de protección y los informes sobre las circunstancias en que se da la ejecución de éstas, para efectos de rendir informes al Banco Estatal de Información de la Violencia contra las Mujeres; y
 
 V. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 54.
 
@@ -1249,9 +1321,13 @@ XV. Establecer programas de capacitación dirigidos a las y los servidores públ
 
 XVI. Crear, operar y mantener actualizada una página web de acceso público, donde se brinde información sobre los servicios que se ofrecen por parte del municipio en materia de violencia de género y atención a víctimas.
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
+XVII. Proporcionar a la Comisión Estatal de Seguridad Ciudadana información actualizada sobre las zonas delictivas consideradas como de alto riesgo y datos verídicos en el llenado del Banco de Datos e Información del Estado de México sobre Casos de Violencia contra las Mujeres (BADAEMVIM).
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
@@ -1383,11 +1459,15 @@ Es competencia del Órgano Superior de Fiscalización del Estado de México, fis
 
 Corresponde a la Secretaría de la Contraloría del Gobierno del Estado de México, a las contralorías de los poderes legislativo y judicial, así como a las contralorías de las dependencias de la administración pública estatal y municipal, en el marco del cumplimiento del mecanismo, el llevar a cabo el control y evaluación sobre las acciones que realizan tanto sus respectivas dependencias, como los organismos auxiliares de la administración pública estatal, de igual manera la vigilancia de la actuación de las y los servidores públicos que la integran, para que ésta se realice conforme a la normatividad vigente, sancionando, en su caso, a todos aquéllos que la incumplan en el desempeño de sus funciones.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 67.
 
-Es competencia de la Inspección General de las Instituciones de Seguridad Pública del Estado de México, la planeación y ejecución de procedimientos de inspección, vigilancia y técnicas de verificación, para comprobar el cumplimiento de las obligaciones de las y los servidores públicos en torno al mecanismo, así como la estricta observancia en la ejecución de los protocolos de actuación policial.
+Es competencia de la Inspección General de las Instituciones de Seguridad Pública del Estado de México, la planeación y ejecución de procedimientos de inspección, vigilancia y técnicas de verificación, para comprobar el cumplimiento de las obligaciones de las y los servidores públicos que integran las instituciones policiales en torno al Mecanismo, así como la estricta observancia en la ejecución de los protocolos de actuación policial con perspectiva de género.
+
+La Fiscalía General de Justicia del Estado de México y la Comisión Estatal de Seguridad Ciudadana establecerán los mecanismos de supervisión, control y seguimiento de las actuaciones que realicen las y los servidores públicos a su cargo, en relación a las disposiciones jurídicas en materia de género.
+
+Las instituciones antes referidas, deberán atender de manera oficiosa las denuncias y quejas que se realicen en materia de género, en sus respectivos ámbitos de competencia.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1550,3 +1630,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Titular del Ejecutivo del Estado contará con un plazo no mayor de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las disposiciones reglamentarias.
 
 CUARTO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
