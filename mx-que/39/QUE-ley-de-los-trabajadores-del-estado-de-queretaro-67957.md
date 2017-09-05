@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2017-09-01"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -33,7 +33,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 II Y 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 
@@ -1121,7 +1123,7 @@ Tienen derecho a la jubilación los trabajadores con treinta años de servicios,
 
 La jubilación dará derecho al pago de una cantidad equivalente al promedio de la cantidad percibida como sueldo en los sesenta meses anteriores a la fecha que ésta se conceda y su percepción comenzará a partir del día siguiente a aquel en que el trabajador haya disfrutado el último sueldo por haber solicitado su baja en el servicio.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 El monto máximo de la jubilación posible será el equivalente a cuarenta y dos mil pesos mensuales.
 
@@ -1637,13 +1639,15 @@ El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujeta
 
 Cualquier incidente que se suscite sobre personalidad, competencia, nulidad de actuación y otros motivos semejantes, se tramitará en la vía incidental y serán resueltos por el Pleno de la Sala respectiva, con citación de sus integrantes, de cuerdo (sic) con los principios a que se refiere la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 180.
 
-El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa; ésta no excederá de ocho días de salario mínimo vigente diario general de la zona.
+El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa; ésta no excederá de 8 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-También sancionará a los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral; se les impondrá una multa de 100 a 1000 veces el Salario Mínimo General Diario Vigente en la Zona.
+También sancionará a los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral; se les impondrá una multa de 100 a 1000 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
@@ -1733,9 +1737,11 @@ En materia procesal, para la resolución de los conflictos que se planteen, se a
 
 ### Capítulo Único. De los medios de apremio y de la ejecución de los laudos
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 192.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de ocho días de salario mínimo general vigente en la zona y fecha en donde ocurran los hechos; en caso de resistencia o reincidencia, se duplicarán las sanciones impuestas y si ni aún así son acatadas sus disposiciones, se dará vista a la Secretaría de la Contraloría del Estado para que inicie el procedimiento de responsabilidad correspondiente; en su caso se dará vista a la Legislatura del Estado y al Ministerio Público, o en su caso utilizará la fuerza pública.
+El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de 8 veces el valor diario de la Unidad de Medida y Actualización vigente; en caso de resistencia o reincidencia, se duplicarán las sanciones impuestas y si así no son acatadas sus disposiciones, se dará vista a la Secretaría de la Contraloría del Estado para que inicie el procedimiento de responsabilidad correspondiente; en su caso se dará vista a la Legislatura del Estado y a la Fiscalía General del Estado, o en su caso utilizará la fuerza pública.
 
 ###### Artículo 193.
 
@@ -1849,9 +1855,9 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 16 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
 
-Artículo Primero. La presente Ley entrará en vigor el 1º de enero de 2017, con excepción del ARTÍCULO DÉCIMO PRIMERO, así como la reforma al artículo 54, fracción XVII, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, los cuales iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Primero. La presente Ley entrará en vigor el 1º de enero de 2017, con excepción del ARTÍCULO DÉCIMO PRIMERO, así como la reforma al artículo 54, fracción XVII, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, los cuales iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
@@ -1947,7 +1953,7 @@ El recurso que se obtenga por concepto de esta contribución, se destinará para
 
 XIV. Por la prestación de los servicios previstos en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 UMA.
 
-Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía;
 
@@ -1959,28 +1965,16 @@ Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y t
 
 XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1º de enero del 2015, y
 
-XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1° de enero del 2015;
+XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+P.O. 5 DE SEPTIEMBRE DE 2017.
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 180 Y 192 DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
 
-XIX. Los derechos por el refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi, correspondiente al ejercicio fiscal 2017, previstos en el artículo 172 BIS, fracción I de la Ley de Hacienda del Estado de Querétaro, se causarán al 50% de su importe, siempre que el trámite de refrendo de dicha concesión, se lleve a cabo por los interesados, dentro del periodo del primero de septiembre al quince de diciembre del año dos mil diecisiete, cumpliendo con los requisitos que determine el Instituto Queretano del Transporte, y
+Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-XX. Los derechos por la cesión de concesiones de servicio público de transporte colectivo en la zona metropolitana de Querétaro, así como los relativos a la expedición de los títulos de concesión que se emitan con motivo de dicha cesión, previstos en la fracción I del artículo 172 BIS de la Ley de Hacienda del Estado de Querétaro, se reducirán en un 100% para el ejercicio fiscal 2017, siempre que la cesión se realice a favor de una sociedad mercantil en la que participen como socios las personas titulares de las concesiones sujetas a dicha cesión, previa autorización que al efecto emita el Instituto Queretano del Transporte en términos de las disposiciones jurídicas aplicables.
-
-Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-P.O. 1 DE SEPTIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LAS FRACCIONES XVII Y XVIII, Y ADICIONA LAS FRACCIONES XIX Y XX AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
-
-Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
