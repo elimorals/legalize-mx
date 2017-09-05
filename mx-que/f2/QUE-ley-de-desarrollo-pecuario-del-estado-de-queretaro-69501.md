@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-pecuario-del-estado-de-queretaro-69501"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERETARO
 
-LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERETARO
+LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -31,7 +31,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -829,7 +831,9 @@ V. Suspensión temporal; y
 
 VI. Clausura parcial o total.
 
-El monto de las multas se expresará en veces el salario mínimo general diario vigente en la zona económica a la que pertenezca Querétaro al momento de ocurrir la infracción.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+El monto de las multas se expresará en veces la Unidad de Medida y Actualización o (UMA), vigente, al momento de ocurrir la infracción.
 
 ###### Artículo 89.
 
@@ -837,25 +841,45 @@ De manera particular, se sancionará con:
 
 I. Amonestación con apercibimiento, a quienes, de manera involuntaria, omitan la adopción de alguna medida decretada durante la implementación de alguna campaña zoosanitaria;
 
-II. Multa de diez a cien VSMGZ, por incurrir en la conducta señalada en la fracción XV del artículo 86. De persistir la conducta omisa, la autoridad municipal de la jurisdicción podrá gestionar la construcción del cercado de las atarjeas o la liberación de obstáculos al abrevadero, a costa del infractor;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-III. Multa de treinta a cien VSMGZ, por incurrir en las conductas señaladas en la fracciones I y XI del artículo 86;
+II. Multa de diez a cien veces la UMA, por incurrir en la conducta señalada en la fracción XV del artículo 86. De persistir la conducta omisa, la autoridad municipal de la jurisdicción podrá gestionar la construcción del cercado de las atarjeas o la liberación de obstáculos al abrevadero, a costa del infractor;
 
-IV. Multa de cincuenta a cien VSMGZ, por incurrir en las conductas señaladas en las fracciones VII y IX del artículo 86;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-V. Multa de cien a doscientas VSMGZ, por incurrir en las conductas señaladas en la fracciones V y X del artículo 86;
+III. Multa de treinta a cien veces la UMA, por incurrir en las conductas señaladas en las fracciones I y XI del artículo 86;
 
-VI. Multa de cien a trescientas VSMGZ, por incurrir en las conductas señaladas en la fracciones II y XIV del artículo 86. Tratándose de personas que se ostenten con el carácter de inspector o verificador zoosanitario, además de la multa, se le pondrá a disposición de las autoridades competentes para que se le impongan las penas a que haya lugar;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Multa de cien a cuatrocientas VSMGZ, por incurrir en las conductas señaladas en la fracción XIII del artículo 86;
+IV. Multa de cincuenta a cien veces la UMA, por incurrir en las conductas señaladas en las fracciones VII y IX del artículo 86;
 
-VIII. Multa de doscientas a cuatrocientas VSMGZ, por incurrir en las conductas señaladas en la fracción VIII del artículo 86;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Multa de doscientos a quinientas VSMGZ, por incurrir en las conductas señaladas en las fracciones III, IV y VI del artículo 86;
+V. Multa de cien a doscientas veces la UMA, por incurrir en las conductas señaladas en las fracciones V y X del artículo 86;
 
-X. Multa de cuatrocientas a mil VSMGZ, por incurrir en las conductas señaladas en la fracción XII del artículo 86;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Revocación de las guías sanitarias expedidas por las asociaciones ganaderas, sin cumplir los requisitos necesarios para ello; amén de multa de cuatrocientas a mil VSMGZ a cargo de la asociación infractora;
+VI. Multa de cien a trescientas veces la UMA, por incurrir en las conductas señaladas en las fracciones II y XIV del artículo 86. Tratándose de personas que se ostenten con el carácter de inspector o verificador zoosanitario, además de la multa, se le pondrá a disposición de las autoridades competentes para que se le impongan las penas a que haya lugar;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Multa de cien a cuatrocientas veces la UMA, por incurrir en las conductas señaladas en la fracción XIII del artículo 86;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Multa de doscientas a cuatrocientas veces la UMA, por incurrir en las conductas señaladas en la fracción VIII del artículo 86;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Multa de doscientas a quinientas veces la UMA, por incurrir en las conductas señaladas en las fracciones III, IV y VI del artículo 86;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+X. Multa de cuatrocientas a mil veces la UMA, por incurrir en las conductas señaladas en la fracción XII del artículo 86;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Revocación de las guías sanitarias expedidas por las asociaciones ganaderas, sin cumplir los requisitos necesarios para ello; amén de multa de cuatrocientas a mil veces la UMA a cargo de la asociación infractora;
 
 XII. Cancelación del registro de identificación pecuaria, cuando para la identificación del ganado se realicen las acciones prohibidas en los artículos 22 y 23;
 
@@ -867,7 +891,9 @@ XV. Clausura parcial de los rastros, casas de matanza y lugares autorizados para
 
 XVI. Clausura total de los rastros, casas de matanza y lugares autorizados para el sacrificio de ganado, cuando en ellos se contravenga lo dispuesto por los artículos 71, párrafo segundo, 72, 73 y 74.
 
-En caso de reincidencia, las sanciones pecuniarias podrán ser duplicadas en su monto, según sea el caso, sin exceder de un máximo de mil VSMGZ.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+En caso de reincidencia, las sanciones pecuniarias podrán ser duplicadas en su monto, según sea el caso, sin exceder de un máximo de mil veces la UMA.
 
 > <small>(F. DE E., P.O. 30 DE OCTUBRE DE 2009)</small>
 
@@ -942,3 +968,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
