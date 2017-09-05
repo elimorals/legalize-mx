@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2016-09-15"
+last_updated: "2017-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -195,6 +195,14 @@ XXXII. Proyecto de Prestación de Servicios a Largo Plazo: Las acciones que se r
 > <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 XXXIII. Proveedores Salarialmente Responsables: Los proveedores que hayan comprobado fehacientemente, a través de mecanismos y/o la documentación idónea, que sus trabajadores y trabajadores de terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta de la Ciudad de México o en su caso el salario mínimo vigente, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
+
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIV. Proveedor Alimentario Social: la persona física o moral legalmente constituida, como organización de la sociedad civil, cooperativa o en cualquier otra forma de asociación reconocida por la ley, que al participar en procesos de contratación de bienes y/o servicios para abastecer los programas del Sistema de Seguridad Alimentaria y Nutricional u otros a fines, que instrumente el Gobierno de la Ciudad de México; presenten carta compromiso donde se comprometan a privilegiar la compra de alimentos, productos, subproductos e insumos alimenticios, cultivados y/o producidos en todo el territorio que comprende el Distrito Federal, a productores locales registrados ante las instancias que conocen y promueven el desarrollo agropecuario en la Ciudad de México, así como aquellos que acrediten su residencia y actividad en la Ciudad de México, calidad que podrá verificar la Contraloría en cualquier etapa del procedimiento de compra, o bien, durante la ejecución del contrato correspondiente.
+
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+XXXV. Programas del Sistema de Seguridad Alimentaria y Nutricional: Los programas sociales denominados Comedores Públicos, Comedores Populares, Comedores Comunitarios, Aliméntate y Desayunos Escolares; así como cualquier otro programa que en materia alimentaria se instrumente.
 
 ###### ARTICULO 3o.
 
@@ -788,77 +796,81 @@ V.- Requisitos legales y administrativos que deberán cumplir los participantes;
 
 Se deberá señalar que la autoridad convocante podrá realizar las consultas que considere necesarias ante las instancias competentes para corroborar si las personas físicas o morales cuentan con la anotación vigente como proveedor salarialmente responsable, en el padrón de proveedores.
 
-VI.- Descripción completa de los bienes o Servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y periodo de garantía y, en su caso, otras opciones de cotización;
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+VI.- En el caso de los interesados en participar como proveedor alimentario social, deberán presentar carta compromiso en donde señalen que privilegiarán o priorizarán la compra de alimentos y/o subproductos alimenticios producidos en el Distrito Federal, para abastecer los Programas del Sistema de Seguridad Alimentaria y Nutricional a cargo del Gobierno del Distrito Federal.
+
+VII.- Descripción completa de los bienes o Servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y periodo de garantía y, en su caso, otras opciones de cotización;
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-VII.- La indicación de sí la totalidad de los bienes o servicios objeto de la licitación o bien de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor en su totalidad, a un proveedor por partida o sí la adjudicación se hará mediante la figura del abastecimiento simultáneo a que se refiere esta Ley, en cuyo caso, deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una y el porcentaje diferencial en precio que no podrá ser superior al 10% con relación al precio más bajo que se haya ofrecido;
+VIII.- La indicación de sí la totalidad de los bienes o servicios objeto de la licitación o bien de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor en su totalidad, a un proveedor por partida o sí la adjudicación se hará mediante la figura del abastecimiento simultáneo a que se refiere esta Ley, en cuyo caso, deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una y el porcentaje diferencial en precio que no podrá ser superior al 10% con relación al precio más bajo que se haya ofrecido;
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-VIII.- En el caso de los contratos abiertos, la información que se estime necesaria conforme a esta Ley;
+IX.- En el caso de los contratos abiertos, la información que se estime necesaria conforme a esta Ley;
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-IX.- Plazo, lugar y condiciones de entrega de los bienes o prestación de los servicios;
+X.- Plazo, lugar y condiciones de entrega de los bienes o prestación de los servicios;
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-X.- Pliego de cláusulas no negociables que contendrá el contrato en las que se incluirán las penas convencionales por incumplimiento del mismo;
+XI.- Pliego de cláusulas no negociables que contendrá el contrato en las que se incluirán las penas convencionales por incumplimiento del mismo;
 
-XI.- Condiciones de precio y fecha o fechas de pago;
-
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
-
-XII.- La indicación de sí se otorgará anticipo, en cuyo caso deberá señalarse expresamente el porcentaje respectivo, de conformidad con lo dispuesto en la ley;
-
-XIII.- En los casos de Licitación internacional la convocante establecerá que las cotizaciones de las ofertas económicas se realicen en moneda nacional; sin embargo, cuando el caso lo amerite, se solicitarán cotizaciones en moneda extranjera; invariablemente el pago se efectuará en moneda nacional al tipo de cambio vigente en la fecha fijada en el contrato;
-
-XIV.- Instrucciones para elaborar y entregar las propuestas y garantías;
+XII.- Condiciones de precio y fecha o fechas de pago;
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XV.- La indicación de que en la evaluación de las propuestas en ningún caso podrán utilizarse mecanismos de puntos o porcentajes;
+XIII.- La indicación de sí se otorgará anticipo, en cuyo caso deberá señalarse expresamente el porcentaje respectivo, de conformidad con lo dispuesto en la ley;
+
+XIV.- En los casos de Licitación internacional la convocante establecerá que las cotizaciones de las ofertas económicas se realicen en moneda nacional; sin embargo, cuando el caso lo amerite, se solicitarán cotizaciones en moneda extranjera; invariablemente el pago se efectuará en moneda nacional al tipo de cambio vigente en la fecha fijada en el contrato;
+
+XV.- Instrucciones para elaborar y entregar las propuestas y garantías;
+
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
+
+XVI.- La indicación de que en la evaluación de las propuestas en ningún caso podrán utilizarse mecanismos de puntos o porcentajes;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XVI.- Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos de los establecidos en las bases de la Licitación;
+XVII.- Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos de los establecidos en las bases de la Licitación;
 
-XVII.- Criterios claros y detallados para la adjudicación de los contratos;
+XVIII.- Criterios claros y detallados para la adjudicación de los contratos;
 
-XVIII.- La indicación de que ninguna de las condiciones contenidas en las bases de la Licitación, así como las propuestas presentadas por los Proveedores podrán ser negociadas;
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
-
-XIX.- Señalamiento de que será causa de descalificación la comprobación de que algún Proveedor haya acordado con otro u otros elevar los precios de los bienes o servicios;
+XIX.- La indicación de que ninguna de las condiciones contenidas en las bases de la Licitación, así como las propuestas presentadas por los Proveedores podrán ser negociadas;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XX.- La manifestación del proveedor, bajo protesta de decir verdad, que tiene la plena capacidad para proporcionar capacitación a operadores; la existencia necesaria de refacciones; instalaciones y equipo adecuados y personal competente para brindar el servicio de mantenimiento preventivo y correctivo a los bienes adquiridos, y
+XX.- Señalamiento de que será causa de descalificación la comprobación de que algún Proveedor haya acordado con otro u otros elevar los precios de los bienes o servicios;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XXI.- La manifestación del proveedor, bajo protesta de decir verdad, que tiene la plena capacidad para proporcionar capacitación a operadores; la existencia necesaria de refacciones; instalaciones y equipo adecuados y personal competente para brindar el servicio de mantenimiento preventivo y correctivo a los bienes adquiridos, y
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XXI.- La manifestación por escrito, bajo protesta de decir verdad por parte del licitante, de no encontrarse en ninguno de los supuestos de impedimento establecidos en la presente ley para participar o celebrar contratos.
+XXII.- La manifestación por escrito, bajo protesta de decir verdad por parte del licitante, de no encontrarse en ninguno de los supuestos de impedimento establecidos en la presente ley para participar o celebrar contratos.
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XXII.- El grado de integración que deberán contener los bienes, de conformidad con lo que establezca la Secretaría de Desarrollo Económico;
+XXIII.- El grado de integración que deberán contener los bienes, de conformidad con lo que establezca la Secretaría de Desarrollo Económico;
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XXIII.- Indicación, en caso de que la convocante lleve a cabo visitas a las instalaciones de los participantes, del método para ejecutarlas y los requisitos que se solicitarán durante la misma, las cuales deberán practicarse obligatoriamente a todos los participantes en igualdad de circunstancias; y
+XXIV.- Indicación, en caso de que la convocante lleve a cabo visitas a las instalaciones de los participantes, del método para ejecutarlas y los requisitos que se solicitarán durante la misma, las cuales deberán practicarse obligatoriamente a todos los participantes en igualdad de circunstancias; y
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XXIV.- Nombre y cargo del servidor publico responsable del procedimiento de licitación pública, quien firmara las actas de los eventos, dictámenes y el fallo correspondiente.
+XXV.- Nombre y cargo del servidor publico responsable del procedimiento de licitación pública, quien firmara las actas de los eventos, dictámenes y el fallo correspondiente.
 
 > <small>(ADICIONADA, G.O. 17 DE MAYO DE 2004)</small>
 
-XXV.- El formato en el cual los participantes podrán presentar precios más bajos para los bienes o servicios objeto de procedimiento licitatorio; y
+XXVI.- El formato en el cual los participantes podrán presentar precios más bajos para los bienes o servicios objeto de procedimiento licitatorio; y
 
 > <small>(ADICIONADA, G.O. 17 DE MAYO DE 2004)</small>
 
-XXVI.- La indicación de que los proveedores afectados por cualquier acto o resolución emitida en los procedimientos de licitación pública o invitación restringida, podrá interponer ante la Contraloría, dentro de un término de 5 días hábiles contados a partir de que se notifique el acto o resolución recurrido, el recurso de inconformidad, el cual se sujetará a las formalidades de la Ley de Procedimiento Administrativo del Distrito Federal.
+XXVII.- La indicación de que los proveedores afectados por cualquier acto o resolución emitida en los procedimientos de licitación pública o invitación restringida, podrá interponer ante la Contraloría, dentro de un término de 5 días hábiles contados a partir de que se notifique el acto o resolución recurrido, el recurso de inconformidad, el cual se sujetará a las formalidades de la Ley de Procedimiento Administrativo del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1086,9 +1098,9 @@ Se comunicara a los licitantes que en ese mismo acto, podrán ofertar un precio 
 
 Los participantes estarán en posibilidades de proponer precios más bajos en diversas ocasiones, mediante el formato que para tal efecto establezca la convocante en las bases licitatorias, hasta que no sea presentada una mejor propuesta por algún otro participante.
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-Si como resultado de la evaluación a las propuestas a que se refiere el párrafo anterior, existieran dos o más propuestas en igualdad de precio, la convocante aplicará los siguientes criterios para el desempate:
+Si como resultado de la evaluación a las propuestas a que se refiere el párrafo anterior, existieran dos o más propuestas en igualdad de precio, la convocante, de manera puntual y con la supervisión de la Contraloría, aplicará y constatará de manera fehaciente los siguientes criterios para el desempate:
 
 > <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1097,6 +1109,10 @@ a) Se adjudicará al licitante que hubiere ofrecido mejores condiciones en su pr
 > <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 b) Se adjudicará proporcionalmente en partes iguales, a las propuestas que reúnan las mismas condiciones y en igualdad de precio, y en su caso, se encuentre inscrito en el padrón de Proveedores con la anotación que lo identifique como Proveedor Salarialmente Responsable.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+c) En cuanto a las propuestas de adquisición para abastecer los Programas del Sistema de Seguridad Alimentaria y Nutricional a cargo del Gobierno del Distrito Federal, se adjudicará al licitante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las establecidas en las bases de la licitación y que además, haya presentado carta compromiso en donde señale que privilegiará o priorizará la compra de alimentos y/o subproductos alimenticios producidos en el Distrito Federal; o en su caso, se adjudicará proporcionalmente en partes iguales, a las propuestas que reúnan las mismas condiciones y en igualdad de precio, y que además, presenten la carta compromiso referida.
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
 
@@ -1188,9 +1204,9 @@ Una vez que se declare desierta la licitación o alguna de sus partidas, la conv
 
 En los supuestos y con sujeción a las formalidades que prevén los artículos 54 y 55 de esta Ley, las dependencias, órganos desconcentrados, delegaciones y entidades, bajo su responsabilidad, tendrán preferencia para no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamiento y prestación de servicios, a través de optar por un procedimiento de invitación restringida a cuando menos tres proveedores o de adjudicación directa.
 
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-La facultad preferente que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de eficacia, eficiencia, economía, imparcialidad y honradez que aseguren para la Administración Pública del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento, promoción de Proveedores Salarialmente Responsables, y demás circunstancias pertinentes.
+La facultad preferente que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de eficacia, eficiencia, economía, imparcialidad y honradez que aseguren para la Administración Pública del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento, promoción de Proveedores Salarialmente Responsables, Proveedores Alimentarios Sociales y demás circunstancias pertinentes.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1234,17 +1250,17 @@ IV BIS.- Se trate de adquisiciones, arrendamientos o prestación de servicios cu
 
 V.- Existan razones justificadas para la Adquisición y Arrendamiento o Prestación de Servicios de una marca determinada;
 
-> <small>(REFORMADA, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-VI.- Se trate de Adquisiciones de bienes perecederos, alimentos preparados, granos y productos alimenticios básicos o semiprocesados, para uso o consumo inmediato;
+VI.- Se trate de Adquisiciones de bienes perecederos, alimentos preparados, granos y productos alimenticios básicos o semiprocesados, para uso o consumo inmediato, priorizando a aquellos que son producidos en el Distrito Federal;
 
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
 VII.- Se trate de servicios de consultoría, asesoría, estudios e investigaciones, auditorias y servicios de naturaleza similar, cuya contratación bajo el procedimiento de licitación pública pudiera afectar el interés público o comprometer, difundir, o dar a conocer información reservada o confidencial de la Administración Pública del Distrito Federal, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
-VIII.- Se trate de adquisiciones, arrendamientos o prestación de servicios, cuya contratación se realice con campesinos o grupos rurales o urbanos marginados y sociedades cooperativas legalmente constituidas que se funden y residan en el Distrito Federal y que la dependencia, órgano desconcentrado, delegación o entidad contrate directamente con los mismos o con las personas morales constituidas por ellos;
+VIII.- Se trate de adquisiciones, arrendamientos o prestación de servicios, cuya contratación se realice con campesinos o grupos rurales o urbanos marginados y sociedades cooperativas legalmente constituidas que se funden y residan en el Distrito Federal y que la dependencia, órgano desconcentrado, delegación o entidad contrate directamente con los mismos o con las personas morales constituidas por ellos, o bien, con Proveedores Alimentarios Sociales, que en sus propuestas de adquisición para abastecer los Programas del Sistema de Seguridad Alimentaria y Nutricional a cargo del Gobierno del Distrito Federal, presenten carta compromiso en donde señalen que privilegiarán o priorizarán la compra de alimentos y subproductos alimenticios producidos en el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1334,11 +1350,27 @@ V.- En el procedimiento de invitación a cuando menos tres proveedores se aplica
 
 En el supuesto de que un procedimiento de invitación restringida a cuando menos tres proveedores haya sido declarado desierto, el titular del área responsable de la contratación podrá optar por adjudicar directamente el contrato, prefiriendo a aquellas personas físicas o morales que además de no haber tenido incumplimientos durante el ejercicio fiscal en curso en la Administración Pública del Distrito Federal, conforme a la información publicada por las áreas mencionadas, se encuentren identificadas en el padrón de proveedores como Proveedores Salarialmente Responsables.
 
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Para el caso de adquisición de alimentos y/o subproductos alimenticios para abastecer los Programas del Sistema de Seguridad Alimentaria y Nutricional a cargo del Gobierno de la Ciudad de México, el titular del área responsable de la contratación podrá optar por adjudicar directamente el contrato, a quien además de cumplir con lo establecido en el párrafo anterior, haya presentado carta compromiso en donde señale que privilegiará o priorizará la compra de alimentos y/o subproductos alimenticios producidos en el Distrito Federal, acto que será corroborado, debidamente, por la Contraloría.
+
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 57.
 
 El Jefe de Gobierno del Distrito Federal y los titulares de las dependencias, órganos desconcentrados, delegaciones y entidades podrán autorizar en casos de extrema urgencia, la contratación directa de las adquisiciones, arrendamientos y prestación de servicios, cuando se trate de caso fortuito, fuerza mayor, desastre o peligre la seguridad e integridad de los habitantes del Distrito Federal, para lo cual deberán dar aviso por escrito, en cuanto le sea posible a la contraloría y en términos del artículo 53 en cuanto las circunstancias lo permitan.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Solamente en los casos siguientes, se podrá preferir alimentos cultivados o producidos fuera del Distrito Federal:
+
+I. Cuando se ponga en peligro la operación, abasto y funcionamiento de los Programas Sociales en materia alimentaria;
+
+II. Cuando existan condiciones ajenas a los Proveedores Alimentarios Sociales, que aumenten el valor de los alimentos y subproductos alimenticios que distribuyen y comercializan, haciendo más onerosa la compra de estos que de otros que cumplen con las condiciones necesarias;
+
+III. Que los precios aumenten de forma tal que no sea posible la adquisición de alimentos y subproductos alimenticios producidos en el Distrito Federal y existan otros disponibles y en mejor circunstancias, en cuanto a precio, calidad, financiamiento y oportunidad, y
+
+IV. Que por circunstancias naturales o antrópicas, se pierda la producción de alimentos y subproductos alimenticios producidos en (sic) Distrito Federal.
 
 ### Capítulo VI. Del otorgamiento de los contratos
 
@@ -1809,3 +1841,11 @@ G.O. 15 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
+
+G.O. 5 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
