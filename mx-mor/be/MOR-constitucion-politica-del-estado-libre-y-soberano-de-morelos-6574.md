@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2017-04-27"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2384,7 +2384,9 @@ VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intenc
 
 VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de gestión y aprobar la evaluación que en su caso se realice.
 
-Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados, procurando alcanzar una efectiva paridad de género en las designaciones, y
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -2624,7 +2626,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 El Tribunal de Justicia Administrativa estará integrado por cinco magistrados; funcionará en términos de lo dispuesto en las normas aplicables.
 
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada, procurando alcanzar una efectiva paridad de género en las designaciones. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
@@ -5225,3 +5229,13 @@ SEXTA. El Congreso del Estado, contará con 30 días naturales a partir de la pu
 SÉPTIMA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial "Tierra y Libertad" para realizar las reformas necesarias que sienten las bases y reglas que deberán acatar las personas que pretendan la reelección y opten por no separarse del cargo, las cuales, deberán salvaguardar como mínimo, la no utilización de recursos humanos, materiales o económicos propios de su encargo público para su precampaña o campaña electoral.
 
 OCTAVA. Se Abroga la Ley de Participación Ciudadana del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Liberad" número 5167 y se derogan las demás disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS TRECE.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VII DEL ARTÍCULO 90 Y EL QUINTO PÁRRAFO DEL ARTÍCULO 109-BIS, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
