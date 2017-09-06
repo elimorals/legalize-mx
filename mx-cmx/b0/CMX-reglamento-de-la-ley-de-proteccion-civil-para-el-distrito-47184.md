@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-proteccion-civil-para-el-distrito-47184
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-23"
-last_updated: "2014-11-27"
+last_updated: "2017-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2005-12-15"
 ---
 # REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL VIGÉSIMO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 27 DE NOVIEMBRE DE 2014 Y CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 6 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL VIGÉSIMO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 27 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 23 de diciembre de 2005.
 
@@ -1165,3 +1165,17 @@ VIGÉSIMO PRIMERO. La Secretaría de Finanzas en la medida de sus atribuciones, 
 VIGÉSIMO SEGUNDO. Se abroga la Ley del Sistema de Protección Civil del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 08 de julio de 2011, el Reglamento de la Ley de Protección Civil para el Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 23 de diciembre de 2005; debiendo observarse respecto a este último lo señalado en el Transitorio Noveno de esta Ley; asimismo se deroga cualquier disposición que contravenga lo dispuesto por esta Ley.
 
 VIGÉSIMO TERCERO. Se abrogan los términos de Referencia y las Normas Técnicas Complementarias que se opongan a la presente Ley.
+
+G.O. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abroga el Reglamento de la Ley de Protección Civil para el Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 23 de diciembre de 2005.
+
+CUARTO.- En cuanto a las atribuciones conferidas en este Reglamento al Centro de Evaluación, Formación y Capacitación de Protección Civil, la Secretaría será quien se encargue de atenderlas conforme a sus capacidades hasta que se encuentre en operación dicho Centro.
+
+QUINTO.- Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los Términos de Referencia actualizados con base a lo estipulado en este Reglamento, estarán vigentes en los términos y con la temporalidad autorizada.
