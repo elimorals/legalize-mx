@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-5277"
 country: "mx"
 rank: "ley"
 publication_date: "1960-11-19"
-last_updated: "2010-07-17"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
 
-LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
+LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 1960.
 
@@ -51,11 +51,9 @@ I.- Preferencia para ocupar empleos en los Gobiernos del Estado y Municipales, s
 
 Los veteranos burócratas tendrán también prioridad en los ascensos de la unidad donde presten sus servicios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
-
-II.- Pensión mensual vitalicia por el equivalente a 25 veces el salario mínimo general diario vigente en la capital del Estado.
+II.- Pensión mensual vitalicia por el equivalente a 30 veces el Salario Mínimo General Diario vigente en la capital del Estado.
 
 Este beneficio sólo se otorgará por cabeza a cada veterano de la Revolución Mexicana debidamente reconocido y, en caso de sus descendientes consanguíneos en línea recta, hasta el segundo grado. Por estirpe se deberá distribuir de conformidad a las reglas que en materia de sucesión establecen los artículos 1499 al 1502 del Código Civil del Estado.
 
@@ -152,3 +150,13 @@ El presente Decreto entrará en vigor a partir del 1o. de enero de 2011.
 ###### ARTÍCULO SEGUNDO.
 
 Se previene al Ejecutivo del Estado, para que contemple en el Presupuesto de Egresos del Estado, para el ejercicio fiscal del año 2011, la partida correspondiente que le permita realizar las erogaciones necesarias a fin de otorgar los beneficios contemplados en este Decreto, a los beneficiarios indicados
+
+P.O. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXV/RFLEY/0354/2017 V P.E., POR EL QUE SE REFORMA EL ARTÍCULO 2 FRACCIÓN II DE LA LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCIÓN MEXICANA.”]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se autoriza al Ejecutivo del Estado para que realice las transferencias entre partidas que se requieran para dar suficiencia presupuestal a la reforma que se contiene en el presente Decreto.
+
+TERCERO.- Se autoriza al Ejecutivo del Estado para que entregue el pago de manera retroactiva de los meses que hayan pasado del primero de enero del año dos mil diecisiete a la fecha en que entre en vigor el presente Decreto.
