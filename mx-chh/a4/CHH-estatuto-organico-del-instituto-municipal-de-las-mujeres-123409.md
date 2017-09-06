@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-del-instituto-municipal-de-las-mujeres-123409
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-12"
-last_updated: "2009-12-12"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MUNICIPAL DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017.
 
 Estatuto publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 12 de diciembre de 2009.
 
@@ -109,11 +109,11 @@ XIV.- Promover de manera conjunta con los sectores productivos del Municipio, la
 
 XV.- Colaborar con instituciones gubernamentales y organismos de la sociedad civil, en programas y gestiones a favor de madres trabajadoras para el cuidado y atención de sus hijos.
 
-XVI.- Promover acciones para prevenir y erradicar la violencia contra las mujeres y la familia en todas sus modalidades, otorgando prioridad a la prevención y atención pertinente a las víctimas.
+XVI.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2017)
 
 XVII.- Establecer y operar refugios para la atención de mujeres, niñas y niños que viven violencia extrema.
 
-XVIII.- Establecer y operar Unidades de Atención a Víctimas de Violencia Intrafamiliar.
+XVIII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2017)
 
 XIX.- Promover la elaboración de programas que fortalezcan la familia como ámbito de promoción de la igualdad de derechos, oportunidades y responsabilidades.
 
@@ -145,7 +145,7 @@ II.- Dirección del Instituto;
 
 III.- Unidad de capacitación y difusión.
 
-IV.- Unidades de atención a la violencia intrafamiliar.
+IV.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2017)
 
 V.- Unidad para la administración del refugio para mujeres, niños y niñas que sufren violencia familiar.
 
@@ -311,7 +311,7 @@ XIII.- Llevar a cabo acciones encaminadas a fortalecer las finanzas del Institut
 
 XIV.- Establecer comunicación con el Centro de Atención y Prevención Psicológica, para la debida y eficaz coordinación entre ambas instancias, para la atención de las víctimas de violencia familiar.
 
-XV.- Establecer la coordinación necesaria con la Dirección de Seguridad Pública Municipal para que en todo momento se garantice el apoyo suficiente de vehículos y/o policías a las Unidades de Atención a la Violencia Intrafamiliar para la operación de las mismas.
+XV.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 19.
 
@@ -331,23 +331,7 @@ VI.- Cooperar e intercambiar información con organizaciones de la sociedad civi
 
 ###### Artículo 20.
 
-Son facultades y obligaciones de las Unidades de Atención a la Violencia Intrafamiliar:
-
-I.- Proporcionar atención integral e inmediata en lo social, psicológico y legal a personas en situación de violencia familiar.
-
-II.- Realizar un procedimiento de sistematización e investigaciones sobre la violencia familiar.
-
-III.- Proporcionar atención inmediata a personas en situaciones de crisis emocional relacionada con violencia familiar.
-
-IV.- Favorecer la separación física y alejamiento del agresor con respecto a la víctima, cuando la situación de violencia así lo amerite.
-
-V.- Acompañar a la víctima o receptora de violencia en las diligencias que requiere (sic) de su intervención y en caso de ser necesario, acudir directamente a su domicilio.
-
-VI.- Canalizar a instituciones de apoyo tanto a receptoras como generadores de violencia familiar para lograr su integral atención.
-
-VII.- Dar seguimiento a los casos que se atiendan hasta su conclusión a efectos (sic) de evitar la deserción del tratamiento.
-
-VIII.- Solicitar el apoyo necesario para el cumplimiento de su objetivo a la Dirección de Seguridad Pública Municipal.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 21.
 
@@ -432,3 +416,17 @@ CUARTO.- Túrnese el presente decreto, con el anexo correspondiente a la Secreta
 Se autoriza y firma la presente certificación, en la ciudad de Chihuahua, Chihuahua, a los veinticuatro días del mes de noviembre del año dos mil nueve.
 
 El Secretario. LIC. GUILLERMO ALBERTO VILLALOBOS MADERO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO N° 135/2017 DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA POR EL QUE SE ORDENA LA PUBLICACIÓN DEL SIMILAR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE CHIHUAHUA MEDIANTE EL CUAL SE APROBÓ LA CREACIÓN DE LA SUBDIRECCIÓN DE ATENCIÓN A LA VIOLENCIA FAMILIAR Y DE GÉNERO, CON LA CONSECUENTE REFORMA Y ADICIÓN A DIVERSOS PRECEPTOS DEL REGLAMENTO INTERIOR, ASÍ COMO LA DEROGACIÓN DE DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO MUNICIPAL DE LAS MUJERES.”]
+
+PRIMERO. Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Estado o en la Gaceta Municipal.
+
+SEGUNDO. La presente reforma quedará sujeta a la suficiencia presupuestal y al análisis que se realice de conformidad con los Artículos 36, 41, 42 y 46 del Reglamento Interior del Municipio de Chihuahua.
+
+TERCERO. Túrnese el presente Acuerdo a la Secretaria General de Gobierno y a la Secretaria del Ayuntamiento para los efectos que corresponda.
+
+CUARTO. Los trabajos de las Unidades de Atención a la Violencia Familiar (UAVI) continuarán desarrollándose en los términos actuales.
