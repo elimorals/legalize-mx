@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2017-04-24"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -235,8 +237,6 @@ IX. La inobservancia de las disposiciones en materia de acceso a la información
 
 Toda persona tiene derecho a una alimentación adecuada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
 
 En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada, la promoción de la activación física y deportiva de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
@@ -292,8 +292,6 @@ Las leyes del Estado no podrán establecer sanciones que priven de la vida a las
 > <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
 
 No se considerará confiscación la aplicación, el decomiso o la extinción del dominio de bienes que se haga de conformidad con el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -743,8 +741,6 @@ IX. Acceder a la gestión pública de forma alternativa más no limitativa, a tr
 
 Tienen suspendidos los derechos y prerrogativas de ciudadanos del Estado:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 I. Los que estén sujetos a un proceso penal por delito que merezca pena privativa de libertad, a contar desde la fecha del auto de vinculación a proceso hasta que cause ejecutoria la sentencia que los absuelva o se extinga la pena;
@@ -921,7 +917,7 @@ Los presidentes de la Legislatura y de la Diputación Permanente velarán por el
 
 El ejercicio del cargo de diputado es incompatible con cualquier comisión o empleo del Gobierno Federal, del Estado o de los municipios y de sus organismos auxiliares por el que se disfrute sueldo. La Legislatura podrá conceder licencia a sus miembros, según los casos, para desempeñar otras funciones que les hayan sido encomendadas.
 
-> <small>N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.</small>
+> <small>[N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.]</small>
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -1105,17 +1101,13 @@ Por tanto, mando se publique, circule, observe y se le dé el debido cumplimient
 
 (La exposición de motivos que originó su expedición y el dictamen legislativo correspondiente).
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 59.
 
-El Gobernador del Estado, podrá formular observaciones a las leyes o decretos que expida la Legislatura y remitirlas para su discusión y, en su caso, aprobación durante un mismo período de sesiones.
+El Gobernador del Estado podrá formular observaciones a las leyes o decretos que expida la Legislatura y remitirlas para su discusión y, en su caso, aprobación dentro de los treinta días naturales siguientes a su recepción.
 
-La nueva votación de la Legislatura deberá realizarse durante el mismo período en que se reciban las observaciones. Si concluye el período ordinario, la Diputación Permanente convocará a período extraordinario de sesiones.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
-
-Para la aprobación de las observaciones enviadas serán necesarios los votos de al menos las dos terceras partes de los diputados presentes.
+Las leyes o decretos desechados en todo o en parte por el Ejecutivo, serán devueltos, con sus observaciones a la Legislatura. Deberán ser discutidos de nuevo por ésta, y si fuesen confirmados por las dos terceras partes del número total de sus integrantes serán ley o decreto y volverán al Ejecutivo para su promulgación.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1397,8 +1389,6 @@ XLIX. Convocar a consultas populares en los términos de esta Constitución y de
 
 L. Nombrar a los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
 
 LI. Ratificar los nombramientos que el Gobernador haga de los servidores públicos que integren su gabinete, cuando opte por un gobierno de coalición, con excepción del titular en el ramo de seguridad pública.
@@ -1617,7 +1607,9 @@ IX. Conservar el orden público en todo el territorio del Estado; mandar persona
 
 X. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a las leyes y reglamentos federales y mandarla como jefe;
 
-XI. Objetar por una sola vez, en el improrrogable término de 10 días hábiles, las leyes y decretos aprobados por la Legislatura; si ésta después de haberlos discutido nuevamente los ratifica, serán promulgados;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Formular observaciones, dentro de los treinta días naturales siguientes a su recepción, a las leyes o decretos aprobados por la Legislatura, en términos de lo dispuesto por el artículo 59 de esta Constitución.
 
 > <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -1666,8 +1658,6 @@ XXIV. Fomentar la organización de instituciones para difundir o inculcar entre 
 XXV. Dictar las disposiciones necesarias para la instalación y funcionamiento de la Junta de Conciliación y Arbitraje y nombrar al representante que le concierne;
 
 XXVI. Prestar apoyo a los poderes Legislativo y Judicial y a los ayuntamientos, cuando le sea solicitado, para el ejercicio de sus funciones;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 XXVII. (DEROGADA, G.G. 28 DE JULIO DE 2016)
 
@@ -1737,8 +1727,6 @@ XLVI. Solicitar a la Legislatura las consultas populares sobre los temas de tras
 
 XLVII. Objetar los nombramientos de los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales hechos por la Legislatura, en los términos establecidos en esta Constitución y en la Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
 
 XLVIII. Optar en cualquier momento por un gobierno de coalición con uno o varios de los partidos políticos representados en la Legislatura del Estado.
@@ -1769,21 +1757,23 @@ Para el despacho de los asuntos que la presente Constitución le encomienda, el 
 
 Para ser Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernador del Estado.
 
-Para ser secretario del despacho del Ejecutivo, se requiere ser ciudadano en pleno ejercicio de sus derechos, mexiquense o vecino con tres años de residencia efectiva en la entidad y tener 30 años cumplidos.
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+Para ser secretario del despacho del Ejecutivo, se requiere ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos, y tener como mínimo 30 años cumplidos.
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 80.
 
-Todas las leyes, decretos, reglamentos, circulares, acuerdos y, en general, los documentos que suscriba el Gobernador en ejercicio de sus atribuciones deberán ser refrendados por el Secretario General de Gobierno; sin este requisito no surtirán efectos legales.
+Los reglamentos, decretos, circulares y acuerdos expedidos por el Gobernador deberán, para su validez y observancia, ir firmados por el Secretario del Despacho respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
+
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por la Legislatura, sólo se requerirá el refrendo del titular de la Secretaría General de Gobierno.
 
 El Secretario General de Gobierno y los demás titulares de las dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y las leyes del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE FEBRERO DE 2011)</small>
 
 #### SECCION TERCERA. Del Ministerio Público y de la Seguridad Pública
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -1801,15 +1791,11 @@ El Ministerio Público solicitará las medidas cautelares contra los imputados y
 
 Asimismo, podrá aplicar mecanismos alternativos de solución de controversias, criterios de oportunidad para el ejercicio de la acción penal y formas anticipadas de terminación del procedimiento, en los supuestos y condiciones que establezcan las leyes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 82.
 
 El Ministerio Público hará efectivos los derechos del Estado en los casos que incidan en el ámbito de su competencia y en los casos previstos por la ley intervendrá en los juicios que afecten a quienes se otorgue especial protección, así como también en los procedimientos de ejecución de sentencias penales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -1820,8 +1806,6 @@ El Ministerio Público se integra en una Fiscalía General de Justicia, órgano 
 La ley establecerá las bases para la formación y profesionalización de los servidores públicos de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 Los servidores públicos de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -1842,8 +1826,6 @@ El nombramiento y la remoción referidos podrán ser objetados por el voto de la
 Si la Legislatura se encontrará en receso, la Diputación Permanente convocará de inmediato a la Legislatura del Estado, a un periodo extraordinario, para objetar la designación o remoción, de conformidad con el procedimiento establecido.
 
 Si la Legislatura del Estado no se pronunciare y notificare su decisión durante el plazo referido, se entenderá que no tiene objeción.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -1869,8 +1851,6 @@ El Fiscal General presentará de manera directa a la Legislatura su proyecto de 
 
 El Fiscal General y sus agentes serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 84.
@@ -1895,8 +1875,6 @@ En los recesos de la Legislatura del Estado, su Diputación Permanente la convoc
 
 Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 85.
@@ -1906,8 +1884,6 @@ La ley determinará los requisitos necesarios para ser agente del Ministerio Pú
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempeño de iguales o similares empleos en ésta o en cualquiera otra entidad federativa o en la administración pública federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1963,13 +1939,9 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Salas Colegiadas y Unitarias Regionales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 b) En tribunales y juzgados de primera instancia y juzgados de cuantía menor; organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -2069,8 +2041,6 @@ IV. Poseer título profesional de licenciado en derecho expedido por las institu
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 28 DE JULIO DE 2016)</small>
 
 VI. No haber ocupado el cargo de Secretario del despacho, Fiscal General de Justicia, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
@@ -2163,8 +2133,6 @@ Los jueces de primera instancia, durarán en su encargo seis años y podrán ser
 
 Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 102.
@@ -2183,51 +2151,35 @@ Los jueces de cuantía menor durarán en su encargo tres años y podrán ser rat
 
 Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 104
 
 Bis.- El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación, así como los principios señalados en la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán los mecanismos de ratificación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 Los jueces de ejecución de sentencias deberán reunir los mismos requisitos que por ley se establecen para los jueces de cuantía menor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 El juez de ejecución controlará y vigilará la exacta ejecución de la pena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 La ley establecerá los medios necesarios para que se garantice la independencia de los órganos jurisdiccionales y la plena ejecución de sus resoluciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
 El imputado, la víctima o el ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, el Código Penal del Estado de México y el Código Nacional de Procedimientos Penales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2357,7 +2309,7 @@ El cargo de miembro del ayuntamiento no es renunciable, sino por justa causa que
 
 En ningún caso los ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del presidente municipal, ni éste por sí solo las de los ayuntamientos, ni el ayuntamiento o el presidente municipal, funciones judiciales.
 
-> <small>N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.</small>
+> <small>[N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.]</small>
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -3581,7 +3533,7 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", o se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
+TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
 
 G.G. 12 DE JULIO DE 2004.
 
@@ -4584,3 +4536,29 @@ NOVENO. Los titulares de los Órganos Internos de Control de los Órganos consti
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
 
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo del Estado de México dispondrá de lo necesario para el cumplimiento del presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 59 Y 77, FRACCIÓN XI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 238.- POR EL QUE SE REFORMA EL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
