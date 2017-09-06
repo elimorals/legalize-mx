@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-de-datos-personales-del-estado-de-94960"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-26"
-last_updated: "2017-02-22"
+last_updated: "2017-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de junio de 2013.
 
@@ -968,3 +970,29 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0368/2017 VII P.E. LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección de Datos Personales del Estado de Chihuahua, publicada en el Periódico Oficial del Estado, el día 26 de junio del 2013.
+
+Los procedimientos iniciados durante la vigencia de la Ley de Protección de Datos Personales del Estado de Chihuahua, que se abroga, se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos harán las previsiones necesarias en sus respectivos Presupuestos de Egresos, para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Organismo Garante, en el ejercicio de sus atribuciones, realizará las acciones necesarias para capacitar o los responsables, sobre las disposiciones contenidas en la presente Ley, a efecto de establecer los procedimientos y llevar a cabo todas aquellas actividades tendientes a dar cabal cumplimiento a la misma.
+
+###### ARTÍCULO QUINTO.
+
+El Organismo Garante deberá emitir los lineamientos a que se refiere esta Ley y publicarlos en el Periódico Oficial del Estado, a más tardar el 27 de enero de 2018.
