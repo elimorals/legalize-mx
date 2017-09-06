@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-para-el-estado-de-1220
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2017-06-20"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 19 DE JULIO DE 2017, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO DE GUANAJUATO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2017.]</small>
 
 Ley publicada en la Cuarta Parte al Número 98 del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -1665,13 +1665,17 @@ La autoridad deberá de acordar en un plazo no mayor de veinticuatro horas respe
 
 El recurso de reclamación procederá en contra de las resoluciones de las autoridades substanciadoras o resolutoras que admitan, desechen o tengan por no presentado el Informe de Presunta Responsabilidad Administrativa, la contestación o alguna prueba; las que decreten o nieguen el sobreseimiento del procedimiento de responsabilidad administrativa antes del cierre de instrucción; y aquéllas que admitan o rechacen la intervención del tercero interesado.
 
+> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 214.
 
-La reclamación se interpondrá ante el Tribunal, que haya dictado el auto recurrido, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
+La reclamación se interpondrá ante la Autoridad substanciadora o resolutora, según corresponda, que haya dictado el auto recurrido, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
 
 Interpuesto el recurso, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga, sin más trámite, se dará cuenta al Tribunal para que resuelva en el término de cinco días hábiles.
 
-De la reclamación conocerá el Tribunal que haya emitido el auto recurrido.
+> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+
+De la reclamación conocerá la Autoridad substanciadora o resolutora que haya emitido el auto recurrido.
 
 La resolución de la reclamación no admitirá recurso legal alguno.
 
