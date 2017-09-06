@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2017-06-30"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -91,215 +91,223 @@ El territorio del Estado de Chiapas es el que posee desde que forma parte de los
 
 17. Cacahoatán.
 
-18. Catazajá.
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
 
-19. Chalchihuitán.
+18. Capitán Luis Ángel Vidal
 
-20. Chamula.
+19. Catazajá.
 
-21. Chanal.
+20. Chalchihuitán.
 
-22. Chapultenango.
+21. Chamula.
 
-23. Chenalhó.
+22. Chanal.
 
-24. Chiapa de Corzo.
+23. Chapultenango.
 
-25. Chiapilla.
+24. Chenalhó.
 
-26. Chicoasén.
+25. Chiapa de Corzo.
 
-27. Chicomuselo.
+26. Chiapilla.
 
-28. Chilón.
+27. Chicoasén.
 
-29. Cintalapa.
+28. Chicomuselo.
 
-30. Coapilla.
+29. Chilón.
 
-31. Comitán de Domínguez.
+30. Cintalapa.
 
-32. Copainalá.
+31. Coapilla.
 
-33. El Bosque.
+32. Comitán de Domínguez.
 
-34. El Parral.
+33. Copainalá.
 
-35. El Porvenir.
+34. El Bosque.
 
-36. Emiliano Zapata.
+35. El Parral.
 
-37. Escuintla.
+36. El Porvenir.
 
-38. Francisco León.
+37. Emiliano Zapata.
 
-39. Frontera Comalapa.
+38. Escuintla.
 
-40. Frontera Hidalgo.
+39. Francisco León.
 
-41. Huehuetán.
+40. Frontera Comalapa.
 
-42. Huitiupán.
+41. Frontera Hidalgo.
 
-43. Huixtán.
+42. Huehuetán.
 
-44. Huixtla.
+43. Huitiupán.
 
-45. Ixhuatán.
+44. Huixtán.
 
-46. Ixtacomitán.
+45. Huixtla.
 
-47. Ixtapa.
+46. Ixhuatán.
 
-48. Ixtapangajoya.
+47. Ixtacomitán.
 
-49. Jiquipilas.
+48. Ixtapa.
 
-50. Jitotol.
+49. Ixtapangajoya.
 
-51. Juárez.
+50. Jiquipilas.
 
-52. La Concordia.
+51. Jitotol.
 
-53. La Grandeza.
+52. Juárez.
 
-54. La Independencia.
+53. La Concordia.
 
-55. La Libertad.
+54. La Grandeza.
 
-56. La Trinitaria.
+55: La Independencia.
 
-57. Larrainzar.
+56. La Libertad.
 
-58. Las Margaritas.
+57. La Trinitaria.
 
-59. Las Rosas.
+58. Larráinzar.
 
-60. Mapastepec.
+59. Las Margaritas.
 
-61. Maravilla Tenejapa.
+60. Las Rosas.
 
-62. Marqués de Comillas.
+61. Mapastepec.
 
-63. Mazapa de Madero.
+62. Maravilla Tenejapa.
 
-64. Mazatán.
+63. Marqués de Comillas.
 
-65. Metapa.
+64. Mazapa de Madero.
 
-66. Mezcalapa.
+65. Mazatán.
 
-67. Mitontic.
+66. Metapa.
 
-68. Montecristo de Guerrero
+67. Mezcalapa.
 
-69. Motozintla.
+68. Mitontic.
 
-70. Nicolás Ruiz.
+69. Montecristo de Guerrero
 
-71. Ocosingo.
+70. Motozintla.
 
-72. Ocotepec.
+71. Nicolás Ruiz.
 
-73. Ocozocoautla de Espinosa.
+72. Ocosingo.
 
-74. Ostuacán.
+73. Ocotepec.
 
-75. Osumacinta.
+74. Ocozocoautla de Espinosa.
 
-76. Oxchuc.
+75. Ostuacán.
 
-77. Palenque.
+76. Osumacinta.
 
-78. Pantelhó.
+77. Oxchuc.
 
-79. Pantepec.
+78. Palenque.
 
-80. Pichucalco.
+79. Pantelhó.
 
-81. Pijijiapan.
+80. Pantepec.
 
-82. Pueblo Nuevo Solistahuacán.
+81. Pichucalco.
 
-83. Rayón.
+82. Pijijiapan.
 
-84. Reforma.
+83. Pueblo Nuevo Solistahuacán.
 
-85. Sabanilla.
+84. Rayón.
 
-86. Salto de Agua.
+85. Reforma.
 
-87. San Andrés Duraznal.
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
 
-88. San Cristóbal de Las Casas.
+86. Rincón Chamula San Pedro
 
-89. San Fernando.
+87. Sabanilla.
 
-90. San Juan Cancuc.
+88. Salto de Agua.
 
-91. San Lucas.
+89. San Andrés Duraznal.
 
-92. Santiago El Pinar.
+90. San Cristóbal de Las Casas.
 
-93. Siltepec.
+91. San Fernando.
 
-94. Simojovel.
+92. San Juan Cancuc.
 
-95. Sitalá.
+93. San Lucas.
 
-96. Socoltenango.
+94. Santiago El Pinar.
 
-97. Solosuchiapa.
+95. Siltepec.
 
-98. Soyaló.
+96. Simojovel.
 
-99. Suchiapa.
+97. Sitalá.
 
-100. Suchiate.
+98. Socoltenango.
 
-101. Sunuapa.
+99. Solosuchiapa.
 
-102. Tapachula.
+100. Soyaló.
 
-103. Tapalapa.
+101. Suchiapa.
 
-104. Tapilula.
+102. Suchiate.
 
-105. Tecpatán.
+103. Sunuapa.
 
-106. Tenejapa.
+104. Tapachula.
 
-107. Teopisca.
+105. Tapalapa.
 
-108. Tila.
+106. Tapilula.
 
-109. Tonalá.
+107. Tecpatán.
 
-110. Totolapa.
+108. Tenejapa.
 
-111. Tumbalá.
+109. Teopisca.
 
-112. Tuxtla Chico.
+110. Tila.
 
-113. Tuxtla Gutiérrez.
+111. Tonalá.
 
-114. Tuzantán.
+112. Totolapa.
 
-115. Tzimol.
+113. Tumbalá.
 
-116. Unión Juárez.
+114. Tuxtla Chico.
 
-117. Venustiano Carranza.
+115. Tuxtla Gutiérrez:
 
-118. Villa Comaltitlán.
+116. Tuzantán.
 
-119. Villa Corzo.
+117. Tzimol.
 
-120. Villaflores.
+118. Unión Juárez.
 
-121. Yajalón.
+119. Venustiano Carranza.
 
-122. Zinacantán.
+120. Villa Comaltitlán.
+
+121. Villa Corzo.
+
+122. Villaflores.
+
+123. Yajalón.
+
+124. Zinacantán.
 
 Los asuntos inherentes a los límites territoriales del Estado y sus Municipios, se resolverán por acuerdo del titular del Poder Ejecutivo, con la aprobación del Congreso del Estado y de cuando menos la mitad más uno de los Ayuntamientos.
 
@@ -4264,3 +4272,143 @@ Se Derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los actuales Magistrados del Tribunal Electoral que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta concluir el periodo por el que fueron designados.
+
+P.O. 6 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248 POR EL QUE SE REFORMA EL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, POR EL QUE SE CREAN LOS MUNICIPIOS DE CAPITÁN LUIS ÁNGEL VIDAL Y RINCÓN CHAMULA SAN PEDRO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El municipio Capitán Luis Ángel Vidal, tendrá su cabecera municipal en la localidad de Capitán Luis Ángel Vidal.
+
+###### ARTÍCULO CUARTO.
+
+El municipio de Rincón Chamula San Pedro, tendrá su cabecera municipal en la localidad de Rincón Chamula.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, tendrán los siguientes datos de población, extensión territorial y colindancias:
+
+El Municipio de Capitán Luis Ángel Vidal tiene una población aproximada de 3,588 habitantes según estimaciones del Censo de Población y Vivienda 2010 y el conteo 2015, una extensión territorial de 22,524.03 hectáreas y los límites y colindancias siguientes: al Norte, Oeste y Sur se toma el límite del municipio de Siltepec y al Este el limite occidental del ejido Pablo Galeana. De conformidad con la siguiente tabla de construcción de la poligonal resultante, estructurada de la siguiente forma:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 8 A LA 11.]</small>
+
+El Municipio de Capitán Luis Ángel Vidal, estará conformado por las localidades siguientes:
+
+1. Capitán Luis A. Vidal 20. El Ciprés
+
+2. Matasano 21. Rancho Bonito
+
+3. Santa Isabel Siján (La Fraislesca) 22. El Palmar
+
+4. Santa María 23. Bejucal
+
+5. Concepción Pinada 24. Agua Tibia
+
+6. Nueva Reforma las Pilas 25. La Bandera
+
+7. El Canacal (Tocanaque) 26. Las Cruces
+
+8. El Encanto 27. Matasano Dos
+
+9. La Lucha 28. San Pedro
+
+10. Maravilla 29. Tres Estrellas
+
+11. Peña Blanca 30. Los Girasoles
+
+12. Las Salinas 31. El Recuerdo
+
+13. La Lagunita 32. Sabinalito
+
+14. La Aurorita 33. Santa Emilia
+
+15. Piedra Parada 34. El Tumbador
+
+16. La Soledad 35. La Herencia
+
+17. Piedra Blanca 36. El Roble
+
+18. Nuevo Guayabal 37. Nueva Esperanza
+
+19. Buenos Aires
+
+El Municipio de Rincón Chamula San Pedro tiene una población aproximada de 7,157 habitantes según estimaciones del Censo de Población y Vivienda 2010 y el conteo 2015, una extensión territorial de 7,792.535 hectáreas, y los límites y colindancias siguientes: Al norte con el municipio de Ixhuatán; al oeste con los municipios de Tapilula y Rayón; al Sur con Jitotol y al este con el municipio de Pueblo Nuevo Solistahuacán.
+
+De conformidad con la siguiente tabla de construcción de la poligonal resultante, estructurada de la siguiente forma:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2017, PAGINAS DE LA 12 A LA 17.]</small>
+
+El Municipio de Rincón Chamula San Pedro, estará conformado por las localidades siguientes:
+
+1. Rincón Chamula
+
+2. La Florida
+
+3. Vista Hermosa
+
+4. San Isidro Cieneguilla
+
+5. San Felipe
+
+6. Rinconcito
+
+7. Rinconcito Uno
+
+8. San Antonio Los Pinos
+
+9. El Sauz
+
+###### ARTÍCULO SEXTO.
+
+El Poder Legislativo del Estado, dentro del término de 90 días contados a partir de la entrada en vigor del presente decreto, deberá adecuar la legislación correspondiente.
+
+###### ARTÍCULO SEPTIMO.
+
+Dentro del término de 120 días siguientes contados a partir a la entrada en vigor del presente Decreto, el Congreso del Estado o la Comisión Permanente en su caso, designará a los ciudadanos integrantes de los Concejos Municipales de los municipios de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, los cuales se conformarán con la estructura prevista por los artículos 80 y 81, de la Constitución Política del Estado Libre y Soberano de Chiapas vigente; así mismo debiendo integrarse con equidad de género y la inclusión de los diferentes grupos representativos.
+
+###### ARTÍCULO OCTAVO.
+
+Los Concejos Municipales de los municipios Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, a que se refiere el artículo anterior, concluirán sus funciones el día 30 de septiembre del año 2018.
+
+Los Ayuntamientos de los Municipios de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, cuyo ejercicio iniciaran el primero de octubre de dos mil dieciocho, serán electos a través de comicios ordinarios que para ese periodo se celebren, conforme a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Chiapas y el Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+###### ARTÍCULO NOVENO.
+
+Los Concejos Municipales de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, quedan facultados para que se coordinen con los gobiernos municipales de Siltepec y Pueblo Nuevo Solistahuacán respectivamente, en la realización de los procesos de transferencia de los servicios públicos e infraestructura, así como en lo relativo al catastro, registros fiscales y contables y demás información necesaria que permitan la continuidad en la prestación de los servicios públicos y el ejercicio de las atribuciones de los Municipios que se crean mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las transferencias que con motivo del artículo anterior se realicen deberán ser aprobadas mediante el Acuerdo de los Cabildos de los municipios de Siltepec y Pueblo Nuevo Solistahuacán dentro del ámbito de su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En lo que comprende a los procesos de entrega-recepción se observará lo dispuesto por la ley de Entrega-Recepción del Estado de Chiapas.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Ejecutivo del Estado, para que a través de la Secretaría de Hacienda del Estado, a redistribuir las participaciones y aportaciones que le correspondan a los municipios de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, ajustando las participaciones y aportaciones de los demás Municipios del Estado. Lo anterior de acuerdo a lo establecido en la Ley de Coordinación Fiscal Federal y demás disposiciones legales aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los Concejos Municipales de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, deberán expedir su propia reglamentación y disposiciones municipales, hasta en tanto, continuarán aplicándose los reglamentos y disposiciones del Municipio de Siltepec y Pueblo Nuevo Solistahuacán, Chiapas, respectivamente.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicables a los Municipios de Siltepec y Pueblo Nuevo Solistahuacán, lo serán en lo conducente a los Municipio de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, hasta en tanto la Legislatura del Estado expida las leyes o realice las adecuaciones correspondientes.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los Órganos Jurisdiccionales Locales con competencia en los Municipios de Siltepec y Pueblo Nuevo Solistahuacán, conservarán su jurisdicción territorial que hasta ahora han tenido, hasta en tanto se adecúan, en su caso, las leyes o disposiciones correspondientes.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, la Secretaría de Planeación, Gestión Pública y Programa de Gobierno deberá gestionar ante el Instituto Nacional de Estadística y Geografía el registro de los nombres y la georeferenciación de los nuevos municipios de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, conforme al Marco Geoestadístico Nacional a fin de obtener las claves municipal correspondientes.
