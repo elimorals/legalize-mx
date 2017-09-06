@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-tribunal-de-lo-contencioso-administrativo-del-16295"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-01"
-last_updated: "2017-07-15"
+last_updated: "2017-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "ZAC"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SÉPTIMO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017 (ABROGADA).
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL SUPLEMENTO DEL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2017.]
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 1 de Abril de 2000.
 
@@ -927,7 +927,9 @@ Artículo cuarto. Los procedimientos iniciados con anterioridad a la entrada en 
 
 Los expedientes radicados ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas serán transferidos al Tribunal dentro del plazo de quince días naturales posteriores a la entrada en vigor del presente Decreto, quien continuará con el desahogo de los mismos en los términos de la presente Ley y otros ordenamientos legales.
 
-Artículo quinto. Sin perjuicio de lo establecido en el artículo anterior, a partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se derogan los Títulos Primero, Tercero, Cuarto y Quinto de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado y Municipios de Zacatecas, así como todas aquellas disposiciones que se opongan a lo previsto en dicha Ley General.
+> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+
+Artículo quinto. Sin perjuicio de lo establecido en el artículo anterior, a partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se derogan los Titulos Primero, Tercero, Cuarto y Quinto de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, así como todas aquellas disposiciones que se opongan a lo previsto en dicha Ley General.
 
 Artículo sexto. El Pleno del Tribunal dentro de los noventa días posteriores a su instalación, deberá expedir la reglamentación y normatividad administrativa interna y publicarla en el Periódico Oficial, Órgano de Gobierno del Estado.
 
