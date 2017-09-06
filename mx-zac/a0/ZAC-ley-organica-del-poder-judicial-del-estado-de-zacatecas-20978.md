@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2017-07-15"
+last_updated: "2017-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 260, SE PRECISA QUE EN LAS CAUSAS PENALES INICIADAS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, CONTINUARÁN SU SUBSTANCIACIÓN, CONFORME DISPONE EL ARTÍCULO TRANSITORIO TERCERO DE DICHO ORDENAMIENTO, ES DECIR, DE ACUERDO A LAS REGLAS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS; LAS ALUSIONES A JUEZ DE GARANTÍA Y TRIBUNAL DE JUICIO ORAL SUPRIMIDAS DE ESTA LEY, POR CONGRUENCIA A ESTE ÚLTIMO ORDENAMIENTO LEGAL, DEBERÁN SEGUIR VIGENTES, P.O. 31 DE DICIEMBRE DE 2014.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2017.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -1997,7 +1995,9 @@ Artículo cuarto. Los procedimientos iniciados con anterioridad a la entrada en 
 
 Los expedientes radicados ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas serán transferidos al Tribunal dentro del plazo de quince días naturales posteriores a la entrada en vigor del presente Decreto, quien continuará con el desahogo de los mismos en los términos de la presente Ley y otros ordenamientos legales.
 
-Artículo quinto. Sin perjuicio de lo establecido en el artículo anterior, a partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se derogan los Títulos Primero, Tercero, Cuarto y Quinto de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado y Municipios de Zacatecas, así como todas aquellas disposiciones que se opongan a lo previsto en dicha Ley General.
+> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+
+Artículo quinto. Sin perjuicio de lo establecido en el artículo anterior, a partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se derogan los Títulos Primero, Tercero, Cuarto y Quinto de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, así como todas aquellas disposiciones que se opongan a lo previsto en dicha Ley General.
 
 Artículo sexto. El Pleno del Tribunal dentro de los noventa días posteriores a su instalación, deberá expedir la reglamentación y normatividad administrativa interna y publicarla en el Periódico Oficial, Órgano de Gobierno del Estado.
 
