@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2013-del-tribunal-pleno-de-la-94228"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-05-21"
-last_updated: "2015-10-02"
+last_updated: "2017-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94228&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-05-16"
 
 ACUERDO GENERAL NÚMERO 5/2013, DE TRECE DE MAYO DE DOS MIL TRECE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE EL PLENO CONSERVARÁ PARA SU RESOLUCIÓN, Y EL ENVÍO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de mayo de 2013.
 
@@ -81,7 +81,11 @@ B) La separación del cargo y/o consignación de los servidores públicos contum
 
 C) La separación de la autoridad que haya incurrido en la repetición del acto reclamado y la vista correspondiente al Ministerio Público Federal, incluso cuando se haya revocado el acto repetitivo, si al conocer de un incidente de inejecución o de una inconformidad de las previstas en el artículo 201, fracción III, de la Ley de Amparo, así lo acuerda la Sala respectiva y el Pleno lo estima justificado, y
 
-D) La procedencia del cumplimiento sustituto de una sentencia de amparo que se pretenda decretar de oficio, previo desahogo del incidente previsto en el párrafo tercero del artículo 205 de la Ley de Amparo, substanciado por el Presidente de este Alto Tribunal; así como de la procedencia del cumplimiento sustituto de una sentencia de amparo solicitado por cualquiera de las partes, cuando el tribunal de amparo que conoció del incidente previsto en el párrafo tercero del artículo 205 de la Ley de Amparo haya emitido opinión favorable;
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
+
+D) De las solicitudes de cumplimiento sustituto de una sentencia de amparo formulada por alguna de las partes en los incidentes de inejecución radicados ante ella, para el único propósito de que el Pleno o las Salas dejen sin efecto el dictamen por virtud del cual se les remitió el expediente respectivo, y ordenen la devolución de los autos al órgano jurisdiccional que conoció del juicio a fin de que incidentalmente proceda a determinar si ha lugar o no al cumplimiento sustituto, y de resultar favorecida la petición, en la propia interlocutoria también se cuantifiquen los correspondientes daños y perjuicios, decisión que cualquiera que sea su sentido será impugnable a través del recurso de queja previsto en el artículo 97, fracción I, inciso h), de la Ley de Amparo, del cual habrán de hacerse cargo los Tribunales Colegiados de Circuito en ejercicio de la competencia delegada por este Alto Tribunal.
+
+Las mismas reglas se observarán tratándose de la procedencia oficiosa del cumplimiento sustituto, caso en el cual, sin pronunciarse en definitiva, el Pleno o las Salas también ordenarán la devolución de los autos para los efectos antes precisados cuando, en principio, adviertan la posibilidad de la sustitución de la ejecutoria de amparo.
 
 VII. Las contradicciones entre tesis sustentadas por las Salas de la Suprema Corte de Justicia de la Nación, así como las diversas que se susciten entre el Pleno o las Salas de este Alto Tribunal y alguna de las Salas del Tribunal Electoral del Poder Judicial de la Federación, en términos del párrafo séptimo del artículo 99 constitucional, así como las suscitadas entre los Plenos de Circuito y/o los Tribunales Colegiados de un diverso Circuito, cuando así lo acuerde la Sala en la que esté radicada y el Pleno lo estime justificado;
 
@@ -97,13 +101,13 @@ XII. La revisión de oficio de los decretos expedidos por el Ejecutivo durante l
 
 XIII. Para conocer sobre la constitucionalidad de la materia de las consultas populares convocadas por el Congreso de la Unión, en términos de lo establecido en el numeral 3o de la fracción VIII del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIV. Para conocer del recurso de queja interpuesto en términos de lo previsto en el artículo 97, fracción I, inciso h), de la Ley de Amparo, contra la resolución dictada por el órgano jurisdiccional que haya conocido de la primera instancia del juicio de amparo, en la que una vez desahogado el incidente previsto en el párrafo tercero del artículo 205 de dicha Ley, estime improcedente el cumplimiento sustituto solicitado por cualquiera de las partes;
+XIV. (DEROGADA, D.O.F. 7 DE SEPTIEMBRE DE 2017)
 
 XV. Los asuntos en los que se recepcionen las sentencias de la Corte Interamericana de Derechos Humanos, en los casos en los que el Estado Mexicano sea parte;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones II y IV del artículo 201 de la Ley de Amparo, cuando así lo requiera la Sala en la que esté radicado el asunto respectivo y el Pleno lo estime justificado, y
+XVI. Los recursos de inconformidad interpuestos en términos de lo previsto en la fracción IV del artículo 201 de la Ley de Amparo, cuando así lo requiera la Sala en la que esté radicado el asunto respectivo y el Pleno lo estime justificado, y
 
 XVII. Cualquier otro asunto de la competencia de la Suprema Corte de Justicia de la Nación cuyo conocimiento no corresponda a las Salas.
 
@@ -131,9 +135,13 @@ Tampoco se delega a los Tribunales Colegiados de Circuito la competencia para re
 
 III. Los reconocimientos de inocencia, y
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Los incidentes de inejecución derivados del incumplimiento de una sentencia de amparo, del incidente de repetición del acto reclamado y del incidente de inejecución derivado de la falta de acatamiento de lo resuelto en un incidente para la determinación de la forma y cuantía de la restitución correspondiente al cumplimiento sustituto de una sentencia de amparo, conforme a lo dispuesto en el Acuerdo General Plenario respectivo, así como los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones I y III del artículo 201 de la Ley de Amparo.
+IV. Los incidentes de inejecución derivados del incumplimiento de una sentencia de amparo, del incidente de repetición del acto reclamado y del incidente de inejecución derivado de la falta de acatamiento de lo resuelto en un incidente para la determinación de la forma y cuantía de la restitución correspondiente al cumplimiento sustituto de una sentencia de amparo, conforme a lo dispuesto en el Acuerdo General Plenario respectivo, así como los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones I, II y III del artículo 201 de la Ley de Amparo, derivados de sentencias concesorias dictadas tanto en amparo directo como en indirecto, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
+
+V. Para conocer del recurso de queja interpuesto en términos de lo previsto en el artículo 97, fracción I, inciso h), de la Ley de Amparo, contra la resolución dictada por el órgano jurisdiccional que haya conocido de la primera instancia del juicio de amparo, en la que una vez desahogado el incidente previsto en el párrafo tercero del artículo 205 de dicha Ley, se pronuncie sobre el cumplimiento sustituto solicitado por cualquiera de las partes.
 
 QUINTO. Los asuntos de la competencia originaria del Pleno referidos en el Punto Tercero del presente Acuerdo General se turnarán y radicarán en el Pleno o en una Sala en términos de lo previsto en el Reglamento Interior de esta Suprema Corte de Justicia de la Nación. Los radicados de origen en el Pleno podrán remitirse a las Salas en términos de lo establecido en el Punto Sexto de este instrumento normativo.
 
@@ -155,9 +163,9 @@ SÉPTIMO. Si alguna de las Salas estima que el asunto remitido debe resolverlo e
 
 OCTAVO. La remisión de los expedientes a los Tribunales Colegiados de Circuito se sujetará, con independencia de los acuerdos administrativos que pudieran existir, a las reglas siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
 
-I. Los amparos en revisión y los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones I y III del artículo 201 de la Ley de Amparo, se enviarán directamente al Tribunal Colegiado de Circuito que tenga jurisdicción sobre el Juez de Distrito o el Tribunal Unitario de Circuito que hubiese dictado la sentencia respectiva.
+I. Los amparos en revisión, los recursos de queja y los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones I, II y III del artículo 201 de la Ley de Amparo, derivados de sentencias dictadas en amparo indirecto, se enviarán directamente al Tribunal Colegiado de Circuito que tenga jurisdicción sobre el Juez de Distrito o el Tribunal Unitario de Circuito que hubiese dictado la resolución respectiva.
 
 Cuando en el Circuito correspondiente existan dos o más Tribunales Colegiados se remitirá al especializado en la materia del juicio, al que hubiese prevenido en el conocimiento de la revisión o, en su caso, al que se encuentre en turno.
 
@@ -171,6 +179,10 @@ En este caso, en virtud de que la existencia del proyecto no será obstáculo pa
 
 Los Tribunales Colegiados de Circuito no podrán objetar su competencia e informarán a la Secretaría General de Acuerdos cuando resuelvan los asuntos que les hayan correspondido, en términos del Punto Décimo Tercero de este Acuerdo General.
 
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Los recursos de inconformidad interpuestos en contra de las determinaciones de los Presidentes de los Tribunales Colegiados de Circuito que tengan por cumplida una sentencia de amparo directo, que declaren que existe imposibilidad material o jurídica para cumplir una sentencia de esa naturaleza u ordenen el archivo definitivo del asunto, así como las que declaren sin materia o infundada la denuncia de repetición del acto reclamado en amparo directo, serán del conocimiento de ese mismo órgano colegiado.
+
 NOVENO. En los supuestos a que se refiere el inciso A) de la fracción I del Punto Cuarto del presente Acuerdo General, el Tribunal Colegiado de Circuito procederá en los términos siguientes:
 
 I. Verificará la procedencia de los recursos de revisión, así como de la vía y resolverá, en su caso, sobre el desistimiento o la reposición del procedimiento;
@@ -183,19 +195,29 @@ IV. Si el problema de fondo es de la competencia del Tribunal Colegiado conforme
 
 V. Si al conocer de un amparo indirecto en revisión algún Tribunal Colegiado de Circuito establece jurisprudencia sobre la inconstitucionalidad de una norma general no tributaria, en ejercicio de la competencia delegada por este Alto Tribunal, lo comunicará por escrito al Ministro Presidente de la Suprema Corte de Justicia de la Nación.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
 
-En el caso de las inconformidades interpuestas en términos de lo previsto en el artículo 201, fracción III, de la Ley de Amparo, los Tribunales Colegiados de Circuito, en ejercicio de la competencia delegada, podrán:
+En el caso de los recursos de inconformidad interpuestos en términos de lo previsto en el artículo 201, fracción III, de la Ley de Amparo, los Tribunales Colegiados de Circuito, en ejercicio de la competencia delegada, podrán:
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
 
 I. Desecharlas, declararlas improcedentes o sin materia;
 
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
+
 II. Ordenar la reposición del procedimiento respectivo;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
 
 III. Declararlas infundadas, o
 
-IV. Emitir dictamen en el que se consideren fundadas y, por ende, se remitan a la Suprema Corte de Justicia de la Nación para que se resuelva lo conducente. Previamente a la remisión, se ordenará la notificación del dictamen a las partes por conducto del Juzgado de Distrito o del Tribunal Unitario de Circuito, según corresponda, recabando las constancias que lo acrediten.
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
 
-DÉCIMO. En los casos previstos en los incisos B), C) y D) de la fracción I, así como en las fracciones II y III del Punto Cuarto del presente Acuerdo General, los Tribunales Colegiados de Circuito resolverán en su integridad las cuestiones de improcedencia, de fondo y de cualquier naturaleza que, en su caso, se presenten.
+IV. Emitir dictamen en el que se consideren fundados y, por ende, se remitan a la Suprema Corte de Justicia de la Nación para que se resuelva lo conducente. Previamente a la remisión, se ordenará la notificación del dictamen a las partes por conducto del Presidente del mismo Tribunal Colegiado de Circuito, del Juzgado de Distrito o del Tribunal Unitario de Circuito, según corresponda, recabando las constancias que lo acrediten.
+
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
+
+DÉCIMO. En los casos previstos en los incisos B), C) y D) de la fracción I, así como en las fracciones II, III y V del Punto Cuarto del presente Acuerdo General, los Tribunales Colegiados de Circuito resolverán en su integridad las cuestiones de improcedencia, de fondo y de cualquier naturaleza que, en su caso, se presenten.
 
 DÉCIMO PRIMERO. El Presidente de la Suprema Corte de Justicia de la Nación y los de las Salas enviarán los asuntos a que se refiere el Punto Cuarto del presente Acuerdo General cuando adviertan que así proceda, o bien a solicitud de los Ministros designados como ponentes, en el caso de que los expedientes de nuevo ingreso hubiesen sido turnados para elaborar el proyecto de resolución.
 
@@ -207,9 +229,9 @@ Tratándose de conflictos competenciales y de reconocimientos de inocencia, el a
 
 DÉCIMO TERCERO. Los Presidentes de los Tribunales Colegiados de Circuito comunicarán a la Suprema Corte de Justicia de la Nación, por conducto de la Secretaría General de Acuerdos, a más tardar dentro de los primeros diez días hábiles de cada mes, los ingresos, egresos y existencia de asuntos de la competencia originaria de este Alto Tribunal, incluyendo aquellos que con anterioridad se les hubiesen enviado, así como copia electrónica de las sentencias dictadas y engrosadas en el mes inmediato anterior.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL NUEVE DE SEPTIEMBRE DE DOS MIL TRECE, D.O.F. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2017)</small>
 
-El informe estadístico relativo a los incidentes de inejecución derivados del incumplimiento de una sentencia de amparo, del incidente de repetición del acto reclamado, del incidente de inejecución derivado de la falta de acatamiento de lo resuelto en un incidente para la determinación de la forma y cuantía de la restitución correspondiente al cumplimiento sustituto de una sentencia de amparo, así como a los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones I y III del artículo 201 de la Ley de Amparo, se rendirá por separado detallando el concepto de cada rubro.
+El informe estadístico relativo a los recursos de inconformidad interpuestos en términos de lo previsto en las fracciones I, II y III del artículo 201 de la Ley de Amparo, distinguiendo entre los derivados de sentencias dictadas en amparo directo e indirecto, se rendirá por separado detallando el concepto de cada rubro.
 
 La Secretaría General de Acuerdos rendirá trimestralmente al Pleno de la Suprema Corte de Justicia de la Nación, un informe estadístico sobre los asuntos resueltos por los Tribunales Colegiados de Circuito en ejercicio de su competencia delegada, el cual se difundirá en medios electrónicos de consulta pública.
 
@@ -250,3 +272,17 @@ D.O.F. 2 DE OCTUBRE DE 2015.
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su momento, en el diverso 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2013 en dichos medios electrónicos.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CINCO DE SEPTIEMBRE DE DOS MIL DIECISIETE, POR EL QUE SE MODIFICAN EL INCISO D) DE LA FRACCIÓN VI Y LA FRACCIÓN XVI, Y SE DEROGA LA FRACCIÓN XIV, DEL PUNTO SEGUNDO; SE MODIFICA LA FRACCIÓN IV, Y SE ADICIONA UNA FRACCIÓN V, RESPECTO DEL PUNTO CUARTO; SE MODIFICA LA FRACCIÓN I, PÁRRAFO PRIMERO, Y SE ADICIONA UNA FRACCIÓN IV, RESPECTO DEL PUNTO OCTAVO; SE MODIFICAN EL PÁRRAFO SEGUNDO Y LA FRACCIÓN IV, DEL PUNTO NOVENO, Y SE MODIFICAN LOS PUNTOS DÉCIMO Y DÉCIMO TERCERO, PÁRRAFO SEGUNDO, DEL ACUERDO GENERAL NÚMERO 5/2013, DE TRECE DE MAYO DE DOS MIL TRECE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE EL PLENO CONSERVARÁ PARA SU RESOLUCIÓN, Y EL ENVÍO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO".]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abrogan todas las disposiciones generales que se opongan a lo previsto en el presente Instrumento Normativo.
+
+TERCERO. Los incidentes de cumplimiento sustituto, los recursos de queja y los recursos de inconformidad que a la fecha de entrada en vigor del presente Acuerdo se encuentren radicados en la Suprema Corte de Justicia de la Nación, se resolverán en los términos de las disposiciones aplicables al momento de su inicio.
+
+CUARTO. Lo previsto en este Instrumento Normativo será aplicable respecto de los recursos de inconformidad interpuestos contra las resoluciones emitidas por los Presidentes de los Tribunales Colegiados de Circuito, en las que declaren cumplida una sentencia de amparo directo, declaren que existe imposibilidad material o jurídica para cumplir una sentencia de esa naturaleza u ordenen el archivo definitivo del asunto, así como las que declaren sin materia o infundada la denuncia de repetición del acto reclamado en amparo directo; y respecto de las determinaciones que se adopten sobre la procedencia del cumplimiento sustituto, que se dicten al día siguiente de la aprobación de este Instrumento Normativo.
+
+QUINTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2013 en dichos medios electrónicos.
