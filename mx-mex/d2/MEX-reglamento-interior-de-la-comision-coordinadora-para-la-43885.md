@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-coordinadora-para-la-43885"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-10"
-last_updated: "2009-01-29"
+last_updated: "2017-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION COORDINADORA PARA LA RECUPERACION ECOLOGICA DE LA CUENCA DEL RIO LERMA
 
-REGLAMENTO INTERIOR DE LA COMISION COORDINADORA PARA LA RECUPERACION ECOLOGICA DE LA CUENCA DEL RIO LERMA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE LA CUENCA DEL RÍO LERMA, PUBLICADO EN LA G.G. DE 7 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 2009.
+REGLAMENTO INTERIOR DE LA COMISIÓN COORDINADORA PARA LA RECUPERACIÓN ECOLÓGICA DE LA CUENCA DEL RÍO LERMA
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 19 de febrero de 2005.
 
 ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 77 FRACIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -356,3 +360,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 7 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN DE LA CUENCA DEL RÍO LERMA”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO. Se abroga el Reglamento interior de la Comisión Coordinadora para la Recuperación Ecológica de la Cuenca del Río Lerma, publicado en el Periódico Oficial "Gaceta de Gobierno" el 10 de Febrero de 2005.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Reglamento.
