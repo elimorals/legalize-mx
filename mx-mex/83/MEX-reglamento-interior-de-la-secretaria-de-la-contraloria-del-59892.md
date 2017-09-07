@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-la-contraloria-del-5989
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2016-03-10"
+last_updated: "2017-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA, PUBLICADO EN LA G.G. DE 7 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno, el martes 12 de febrero de 2008.
 
@@ -832,3 +834,29 @@ PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Go
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO. La Secretaría de la Contraloría implementará lo necesario para el cumplimiento del presente Acuerdo.
+
+G.G. 7 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA”.]
+
+PRIMERO. Publíquese el presente Reglamento Interior en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría de la Contraloría, publicado en el Periódico Oficial “Gaceta del Gobierno” el 12 de febrero de 2008.
+
+CUARTO. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de la Contraloría que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+QUINTO. Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos o resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+SEXTO. Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente Reglamento, en tanto no se modifiquen o dejen sin efectos.
+
+SÉPTIMO. Las disposiciones del Reglamento Interior de la Secretaría de la Contraloría que se abroga con el presente ordenamiento, seguirán aplicándose en la tramitación de los procedimientos de responsabilidad administrativa de los servidores públicos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+OCTAVO. La Dirección General de Investigación gestionará ante el Secretario de la Contraloría y demás autoridades competentes la transferencia electrónica y mediante su publicación en el periódico oficial “Gaceta del Gobierno” de los sistemas que le correspondan administrar y operar en el cumplimiento de su objeto, atribuciones y funciones, que se encuentren bajo la administración de la Dirección General de Responsabilidades Administrativas, así como de aquellos que sólo se compartan con ésta, en un plazo de treinta días naturales contados a partir de la publicación del presente Reglamento Interior.
+
+NOVENO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Reglamento, la Secretaría de la Contraloría deberá realizar las adecuaciones normativas y administrativas correspondientes.
+
+DÉCIMO. El personal de la Dirección General de Responsabilidades Administrativas como el de la Dirección General de Investigación, sin excepción, están obligados a presentar la evaluación de certificación de confianza, en la Unidad Estatal de Certificación de Confianza, a partir de la entrada en vigor del presente Reglamento Interior.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
