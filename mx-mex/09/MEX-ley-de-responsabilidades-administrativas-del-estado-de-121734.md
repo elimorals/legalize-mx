@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-administrativas-del-estado-de-121734"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2017-05-30"
+last_updated: "2017-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO SEGUNDO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 19 DE JULIO DE 2017.]</small>
-
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el martes 30 de mayo de 2017.
 
@@ -1891,6 +1889,8 @@ V. La resolución, deberá notificarse personalmente al servidor público o part
 
 #### SECCIÓN TERCERA. DE LA APELACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 196.
 
 Los Servidores Públicos que resulten responsables por la comisión de Faltas administrativas no graves, en los términos que se establezcan en las resoluciones administrativas que se dicten por la Secretaría de la Contraloría o los órganos internos de control, conforme a lo previsto en el presente Título, podrán interponer el recurso de revocación ante la propia autoridad que emitió la resolución, dentro del término de quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
@@ -1957,7 +1957,7 @@ La resolución del recurso de reclamación no admitirá recurso en contra.
 
 ###### Artículo 201.
 
-Las resoluciones emitidas por el Tribunal de Justicia Administrativa, podrán ser impugnadas por los responsables o los terceros, a través del recurso de apelación, ante la instancia competente y conforme a los medios que determine la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
+Las resoluciones emitidas por el Tribunal de Justicia Administrativa, podrán ser impugnadas por los responsables, las autoridades investigadoras o los terceros, a través del recurso de apelación, ante la instancia competente y conforme a los medios que determine la presente Ley y la Ley General de Responsabilidades Administrativas.
 
 El recurso de apelación se promoverá por escrito ante el Tribunal de Justicia Administrativa que emitió la resolución, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación correspondiente.
 
@@ -2388,3 +2388,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 239.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Dentro del plazo que no deberá exceder de un año a partir del inicio de la vigencia del presente Decreto, el Tribunal de Justicia Administrativa del Estado de México, deberá instituir en su estructura orgánica el órgano interno de control respectivo con base en la suficiencia presupuestal y en las disposiciones jurídicas aplicables.
+
+CUARTO. La declaración de situación patrimonial y de intereses, deberán ser presentadas conforme a los formatos aprobados para tal efecto, hasta en tanto, el Comité Coordinador del Sistema Estatal Anticorrupción del Estado de México emita las normas y formatos impresos de medios magnéticos y electrónicos, bajo los cuales se deberán presentar dichas declaraciones.
+
+QUINTO. El Tribunal de Justicia Administrativa proveerá las adecuaciones necesarias a su reglamento interior en un plazo que no deberá exceder de ciento veinte días hábiles.
