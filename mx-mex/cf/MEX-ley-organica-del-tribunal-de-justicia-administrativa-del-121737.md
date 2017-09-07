@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-tribunal-de-justicia-administrativa-del-121737
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-05-30"
-last_updated: "2017-05-30"
+last_updated: "2017-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta de Gobierno del Estado Libre y Soberano de México, el martes 30 de mayo de 2017.
 
@@ -253,11 +253,15 @@ V. Designar o remover, previo acuerdo con el Vicepresidente del Tribunal, al per
 
 VI. Conceder o negar licencias al personal jurídico y administrativo del Tribunal.
 
-VII. Realizar visitas reglamentarias a las secciones de la Sala Superior y salas regionales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Realizar y ordenar visitas reglamentarias, ordinarias y extraordinarias, sean físicas o virtuales a las secciones de la Sala Superior, salas regionales, Cuarta Sección, Salas Especializadas y Unidades del Tribunal.
 
 VIII. Evaluar la actuación de los servidores públicos del Tribunal.
 
-IX. Imponer las sanciones administrativas que procedan a los integrantes del personal jurídico y administrativo, conforme a las disposiciones legales aplicables.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Ejecutar las sanciones administrativas que procedan a los integrantes del personal jurídico y administrativo, conforme a las disposiciones legales aplicables.
 
 X. Administrar el presupuesto del Tribunal.
 
@@ -267,7 +271,9 @@ XII. Rendir al Tribunal, en el último mes de cada año, un informe de las activ
 
 XIII. Publicar la jurisprudencia del Tribunal, así como aquellas sentencias que considere que deban darse a conocer por ser de interés general.
 
-XIV. Admitir cuando proceda los recursos de inconformidad que se interpongan en contra de las resoluciones del Consejo, en los asuntos sobre responsabilidad administrativa.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Admitir y/o remitir cuando proceda los recursos de inconformidad que se interpongan en contra de las resoluciones del Consejo, en los asuntos sobre responsabilidad administrativa.
 
 XV. Integrar el Comité Coordinador del Sistema Estatal Anticorrupción.
 
@@ -275,13 +281,21 @@ XVI. Otorgar, sustituir y revocar poderes generales o especiales a favor de serv
 
 XVII. Convocar a los Magistrados de la Sala Superior a reuniones ordinarias o extraordinarias del Pleno, así como a reuniones periódicas con Magistrados de las Salas Regionales y demás integrantes del personal jurídico, en forma conjunta o separada, para tratar asuntos relacionados con la función jurisdiccional.
 
-XVIII. Obtener semanalmente de las Secciones de la Sala Superior, de las Salas Regionales y de la Unidad de Asesoría Comisionada, los datos estadísticos de los asuntos de su competencia.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Obtener semanalmente de las Secciones de la Sala Superior, de las Salas Regionales, de la Cuarta Sección, de las Salas Especializadas y de la Unidad de Asesoría Comisionada, los datos estadísticos de los asuntos de su competencia.
 
 XIX. Comunicar al Ejecutivo Estatal las ausencias definitivas de los Magistrados y las temporales que deban ser suplidas a través de su nombramiento en términos de la Constitución.
 
 XX. Comunicar a quien corresponda las opiniones derivadas de la jurisdicción consultiva.
 
-XXI. Las demás que establezca esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Atraer oficiosamente un juicio administrativo, cuando por sus características especiales, interés o trascendencia haya que fijar criterio por parte del Tribunal, para lo cual deberá sujetarse al procedimiento previsto en el reglamento y/o acuerdo general aprobado por el pleno de la sala superior.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Las demás que establezca esta Ley.
 
 ###### Artículo 17.
 
@@ -303,7 +317,9 @@ El Vicepresidente auxiliará en sus funciones al Presidente y tiene como atribuc
 
 I. Coordinar y supervisar las acciones en materia de capacitación y profesionalización que se realizan en el Tribunal, debiendo acordar con el Director del Instituto de Formación Profesional las gestiones y labores indispensables para la preparación y desarrollo del personal jurídico y administrativo.
 
-II. Realizar visitas ordinarias y extraordinarias a las secciones de la Sala Superior y Salas Regionales e informar al Presidente del Tribunal.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+II. Realizar u ordenar visitas ordinarias y extraordinarias, sean de manera física y/o virtual a las secciones de la Sala Superior, a las Salas Regionales, a la Cuarta Sección, a las Salas Especializadas e informar al Presidente del Tribunal.
 
 III. Analizar y formular proyectos de resolución que por la relevancia o trascendencia de criterio le sean encomendados por el Presidente.
 
@@ -318,6 +334,10 @@ VI. Las demás que establezca la presente Ley, el Reglamento y otros ordenamient
 ###### Artículo 21.
 
 Las secciones de la Sala Superior se integrarán con tres magistrados cada una, de entre los cuales se elegirá a su Presidente. Para que puedan sesionar será indispensable la presencia de sus tres integrantes. El Presidente del Tribunal no integrará sección. El Vicepresidente se excluye de la rotación de la presidencia de la sección que corresponda.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+La organización interna de la Cuarta Sección de la Sala Superior especializada, así como la distribución de los asuntos, suplencias y excusas de las Magistradas y de los Magistrados, celebración de las sesiones, elección de la Magistrada o del Magistrado Presidente y demás trámites necesarios, serán aplicables, en lo conducente, las disposiciones establecidas en el reglamento interno, en los mismos términos que el resto de las Secciones de la Sala Superior, con excepción de la Presidencia, la cual no podrá alternarse.
 
 ###### Artículo 22.
 
@@ -475,7 +495,9 @@ El Consejo, es un órgano que tiene por objeto la administración del fondo auxi
 
 Para el cumplimiento de su objeto, el Consejo se integrará por la o el titular de la Vicepresidencia del Tribunal, quien lo presidirá, un Magistrado de Sala Superior y un Magistrado de Sala Regional quienes tomarán sus determinaciones colegiadamente.
 
-Los magistrados de la Sala Superior y Regional que lo integren deben tener una antigüedad mínima de tres años en el cargo, serán designados por el Pleno de la Sala Superior y durarán en este encargo tres años, al término del cual serán sustituidos de manera escalonada.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+Los magistrados de la Sala Superior y Regional que lo integren deben tener una antigüedad mínima de dos años en el cargo, serán designados por el Pleno de la Sala Superior y durarán en este encargo dos años, al término del cual serán sustituidos de manera escalonada.
 
 ###### Artículo 35.
 
@@ -495,7 +517,11 @@ III. Adoptar las providencias administrativas necesarias para eficientar la func
 
 IV. Expedir acuerdos, circulares, manuales y cualquier tipo de instrumentos normativos indispensables para lograr eficiencia, eficacia y calidad en el desempeño jurisdiccional y administrativo del Tribunal.
 
-V. Supervisar y vigilar las actividades de las Salas y unidades administrativas que integran el Tribunal, para tales efectos podrá llevar a cabo visitas a las Secciones y Salas Regionales, Salas Supernumerarias, así como unidades administrativas y en su caso, dictar las medidas correspondientes para el mejor despacho de los asuntos.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+V. Supervisar y vigilar las actividades de las Salas y unidades administrativas que integran el Tribunal, para tales efectos podrá llevar a cabo visitas físicas o virtuales a las Secciones, a las Salas Regionales, a la Cuarta Sección, a las Salas Especializadas y a las Salas Supernumerarias, así como unidades administrativas y en su caso, dictar las medidas correspondientes para el mejor despacho de los asuntos.
+
+El Consejo de la Justicia Administrativa recabará la declaración de situación patrimonial y de intereses del personal y de los Magistrados, hasta en tanto el Tribunal cuente con el órgano de control interno respectivo.
 
 VI. Administrar y controlar el manejo del fondo auxiliar, a través de un Comité de Transparencia, integrado por los titulares de la dirección administrativa y las unidades de informática y de documentación, difusión e información. El director administrativo será el coordinador administrativo del fondo auxiliar.
 
@@ -953,6 +979,10 @@ IX. Los Magistrados Supernumerarios de Sala Regional, no podrán ser nombrados n
 
 Las faltas temporales de los magistrados de la Sala Superior serán cubiertas por los magistrados de las salas regionales o supernumerarios que aquélla designe, las definitivas se comunicarán al Gobernador del Estado de México por el Presidente del Tribunal, para que proceda al nombramiento de los magistrados que las cubrirán, por el tiempo que falte para concluir el período. Las faltas temporales de los magistrados de las salas regionales o especializadas, se suplirán por los magistrados supernumerarios que señale la Sala Superior o, en su caso, por un secretario de acuerdos que ésta designe; las definitivas se cubrirán con nueva designación, por el período faltante.
 
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+Las faltas de los magistrados de la Cuarta Sección, serán suplidas por los magistrados de las Salas Especializadas o el secretario que se designe; las de los magistrados de las Salas Especializadas, por el secretario de la sala que se designe.
+
 ###### Artículo 63.
 
 Las licencias a los magistrados serán concedidas por la Sala Superior hasta por quince días. Las que excedan del plazo anterior, pero no de sesenta días, sólo podrá concederlas el Gobernador del Estado de México, con la aprobación de la Legislatura del Estado de México o la Diputación Permanente, en los términos previstos por la Constitución Política del Estado Libre y Soberano de México.
@@ -1252,3 +1282,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 239.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Dentro del plazo que no deberá exceder de un año a partir del inicio de la vigencia del presente Decreto, el Tribunal de Justicia Administrativa del Estado de México, deberá instituir en su estructura orgánica el órgano interno de control respectivo con base en la suficiencia presupuestal y en las disposiciones jurídicas aplicables.
+
+CUARTO. La declaración de situación patrimonial y de intereses, deberán ser presentadas conforme a los formatos aprobados para tal efecto, hasta en tanto, el Comité Coordinador del Sistema Estatal Anticorrupción del Estado de México emita las normas y formatos impresos de medios magnéticos y electrónicos, bajo los cuales se deberán presentar dichas declaraciones.
+
+QUINTO.- El Tribunal de Justicia Administrativa proveerá las adecuaciones necesarias a su reglamento interior en un plazo que no deberá exceder de ciento veinte días hábiles.
