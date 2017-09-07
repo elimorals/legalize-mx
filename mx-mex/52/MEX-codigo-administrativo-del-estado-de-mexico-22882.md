@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-09-04"
+last_updated: "2017-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -13169,6 +13169,10 @@ III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de 
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+
+IV Bis. Propuesta no Solicitada. A la propuesta, presentada por una sociedad mercantil constituida conforme a las leyes mexicanas, para el desarrollo de un proyecto sobre las comunicaciones de jurisdicción local que incluya el proyecto ejecutivo respectivo.
+
 V. Infraestructura de Jurisdicción Local.- Conjunto de vías jerarquizadas que facilitan la comunicación entre las diferentes áreas de la actividad económica y se clasifican en:
 
 a) Infraestructura Vial Primaria.- La integrada por carreteras, pasos vehiculares, avenidas, calzadas y calles que comunican a dos o más municipios de la entidad, permitiendo los viajes de largo recorrido y aquellas que por sus características de ubicación, operación y vocación de servicio permitan la integración de la red vial primaria, así como las que comuniquen a instalaciones estratégicas estatales;
@@ -13623,7 +13627,7 @@ La violación al presente artículo será sancionada en los términos del artíc
 
 Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
 
 ## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
@@ -13636,6 +13640,8 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 ###### Artículo 17.
 
 39.- Las concesiones se otorgarán mediante concurso público, en el que se establezcan los mismos requisitos y condiciones para todos los participantes, a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos.
+
+En el caso de la Propuesta no Solicitada, los requisitos y los procedimientos para su otorgamiento, se establecerán en el presente código y en el reglamento correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
 
@@ -18564,5 +18570,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Ejecutivo del Estado, deberá realizar las adecuaciones reglamentarias en congruencia con el presente Decreto dentro de un plazo no mayor a sesenta días hábiles a partir de su entrada en vigor.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 7 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 240.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo deberá expedir las disposiciones reglamentarias en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
