@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-civil-del-estado-de-baja-california-21684"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-16"
-last_updated: "2013-08-23"
+last_updated: "2017-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 8 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 16 de enero de 1998.
 
@@ -1180,3 +1182,17 @@ SEGUNDO.- El Ejecutivo estatal deberá realizar las adecuaciones reglamentarias 
 TERCERO.- Los Ayuntamientos deberán adecuar su normatividad interna, a efecto de ajustar la denominación de sus unidades municipales de protección civil y precisar la dependencia jerárquica de las mismas, en los términos que la Ley General de Protección Civil y la Ley de Protección Civil del Estado prevén.
 
 CUARTO.- Hasta en tanto no se realicen las modificaciones a la legislación y a la normatividad interna del Estado y sus Municipios, los ordenamientos que hagan alusión a la Dirección Estatal de Protección Civil, Dirección o Director de Protección Civil del Estado, así como a los órganos municipales de protección civil o a cualquier otra denominación similar, se entenderá que se refieren, respectivamente y según sea el caso, a la Coordinación de Protección Civil del Estado y a las Coordinaciones Municipales de Protección Civil previstas en el presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 122 MEDIANTE EL CUAL SE ABROGA LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE BAJA CALIFORNIA PUBLICADA EN EL PERIÓDICO OFICIAL NO. 3, DE FECHA 16 DE ENERO DE 1998, TOMO CV, Y SE EXPIDE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Protección Civil del Estado de Baja California, publicada en el Periódico Oficial de fecha 16 de enero de 1998.
+
+TERCERO.- El Ejecutivo Estatal emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a partir de su publicación.
+
+CUARTO.- Los sujetos obligados por esta ley tendrán un plazo de 180 días a partir de la vigencia del presente ordenamiento para elaborar o actualizar su programa interno de protección civil.
+
+QUINTO.- Para efectos de lo previsto en el artículo 148, fracción II, el valor de la unidad de medida y actualización será conforme a la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
