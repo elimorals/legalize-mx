@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bibliotecas-del-distrito-federal-65481"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-22"
-last_updated: "2009-01-22"
+last_updated: "2017-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65481&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-01-20"
 
 LEY DE BIBLIOTECAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 22 de enero de 2009.
 
@@ -110,9 +110,11 @@ Las bibliotecas públicas operarán por personal especializado de acuerdo a las 
 
 Las (sic) Secretaría y las Delegaciones, en su ámbito de competencia, deberán garantizar que las bibliotecas serán accesibles a personas con discapacidad, tanto en sus instalaciones como en el acervo que pudiesen utilizar.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-Las bibliotecas enriquecerán su acervo mediante la participación de los usuarios, atendiendo a sus propuestas, en función de las particularidades de su ubicación, su diversidad cultural y lingüística, y con base en los intereses de la comunidad.
+Todas las Bibliotecas Públicas, deberán contar con material bibliográfico suficiente, ya sea de manera impresa o electrónica y de manera accesible para personas con discapacidad auditiva, ceguera o debilidad visual y enriquecerán su acervo mediante la participación de los usuarios, atendiendo a sus propuestas, en función de las particularidades de su ubicación, su diversidad cultural y lingüística, y con base en los intereses de la comunidad.
 
 ###### ARTÍCULO 8.
 
@@ -133,6 +135,10 @@ VI. Actividades interactivas periódicas permanentes de tipo cultural o de promo
 VII. Bebeteca.
 
 VIII. Ludoteca.
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Acceso a material para personas con discapacidad.
 
 ###### ARTÍCULO 9.
 
@@ -249,3 +255,15 @@ SÉPTIMO. El Jefe de Gobierno contará con un máximo de 60 días a partir de la
 Recinto de la Asamblea Legislativa del Distrito Federal, a los once días del mes de diciembre del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. HUMBERTO MORGAN COLÓN, PRESIDENTE.- DIP. DANIEL ORDÓÑEZ HERNÁNDEZ, SECRETARIO.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA, SECRETARIA.- (Firmas)
 
 En cumplimiento con lo dispuesto por los artículos 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49, 52 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, firmado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veinte días del mes de enero del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKANAYAGUI.-FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BIBLIOTECAS DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Jefe de Gobierno y la Asamblea Legislativa deben destinar recursos suficientes para la implementación de la presente reforma.
