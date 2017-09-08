@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-12-04"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -880,6 +880,10 @@ XIX.- Conducir peligrosa y temerariamente. Incurre en esta falta a (sic) todo aq
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
 XX.- Conducir utilizando teléfonos celulares y/o sistemas de comunicación de operación manual continua, en cualquiera de sus formas verbales o escritas, diversas a la modalidad manos libres.
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+XXI.- Circular con residuos sólidos urbanos en vehículos con caja o plataforma, de redila, tracto camiones, camionetas o cualquier otro medio de transporte de carga, sin contar con autorización vigente emitida por la Dirección de Protección al Ambiente del Municipio de Mexicali, o que transporten residuos competencia de la autoridad federal o estatal, sin contar con autorización vigente de estas últimas.
 
 ###### ARTÍCULO 55.
 
@@ -2183,11 +2187,11 @@ b) Media: Aquellas que se comprenden de 6 a 10 salarios.
 
 c) Graves: Aquellas que se comprenden de 11 a 50 salarios.
 
-> <small>N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO DE 4 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.]</small>
 
 > <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83; P.O. 4 DE DICIEMBRE DE 2015, PÁGINA 10.]</small>
+
+> <small>[N. DE E. VÉASE ADICIÓN A LA TABLA DE SANCIONES EN EL P.O. DE 8 DE SEPTIEMBRE DE 2017, PÁGINA 17.]</small>
 
 ###### ARTÍCULO 148.
 
@@ -2352,3 +2356,23 @@ P.O. 4 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 51 SEGUNDO PÁRRAFO Y PRIMER PÁRRAFO DEL ARTÍCULO 137, LA ADICIÓN DEL ARTÍCULO 51 BIS Y LA DEROGACIÓN DEL CONCEPTO 37 DE LA TABLA DE SANCIONES DEL ARTÍCULO 147 DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor, solo si es aprobado el Decreto del Programa de Verificación Vehicular para el Estado de Baja California para el ejercicio fiscal 2016, al día siguiente de que surta efectos la publicación en el Periódico Oficial del Estado del mismo, en su caso.
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA Y REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas a que se refieren los Acuerdos Primero, Segundo, Tercero y Cuarto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Dirección de Protección al Ambiente deberá coordinarse con la Dirección de Seguridad Pública y Secretaría del Ayuntamiento, para que se hagan del conocimiento de los Agentes Policiacos, así como de la Coordinación de jueces calificadores, las características de las autorizaciones ambientales con los que deberán contar los transportistas, en relación al Artículo 54, Fracción XXI del Reglamento de Tránsito para el Municipio de Mexicali, Baja California.
+
+TERCERO.- Por conducto de las dependencias municipales competentes, deberá programarse a las oficinas de las delegaciones o comandancias para habilitar el pago del permiso de la Dirección de Protección al Ambiente del Municipio de Mexicali, Baja California.
+
+CUARTO.- Se exhorta al Presidente Municipal, para que instruya a la Dirección de Seguridad Pública Municipal de Mexicali, a fin de que entregue mensualmente una relación de las multas en materia de circulación y disposición ilegal de residuos sólidos urbanos y de manejo especial, a la Dirección de Protección al Ambiente de Mexicali, Baja California.
+
+QUINTO.- La Dirección de Servicios Públicos, de acuerdo a lo estipulado en el Artículo 4, Fracción VII, Inciso F, del Reglamento de Protección al Ambiente del Municipio de Mexicali, Baja California, que se refiere a los desechos sólidos, deberá promover la habilitación o adaptación de Centros de Acopio y/o Unidades de Transferencia, para que tanto la ciudadanía, como los terceros autorizados por el Ayuntamiento, cuenten con el lugar adecuado y debidamente acondicionado para la disposición de este tipo de materiales, y de esta manera además limpiar en entorno y las periferias de la ciudad.
+
+SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protección al Ambiente del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
