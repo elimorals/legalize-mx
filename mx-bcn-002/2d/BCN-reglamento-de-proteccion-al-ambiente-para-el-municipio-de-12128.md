@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-proteccion-al-ambiente-para-el-municipio-de-12128
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-08"
-last_updated: "2004-11-19"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 8 de diciembre de 1997.
 
@@ -48,6 +48,8 @@ SECRETARIO DEL H. XV AYUNTAMIENTO
 El H. XV Ayuntamiento de Mexicali, Baja California, en ejercicio de la facultad que le confiere el artículo 43 fracción III de la Ley Orgánica de la Administración Pública Municipal del Estado, y:
 
 C O N S I D E R A N D O.
+
+[...]
 
 Con base en lo anteriormente expuesto y fundado, se ha tenido a bien dictar el siguiente:
 
@@ -238,6 +240,32 @@ VII.- En materia de Control y Prevención de la Contaminación Generada por Resi
 a) Aplicar las Normas y demás disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos no peligrosos de conformidad con la legislación ambiental vigente;
 
 b) Autorizar, condicionar o negar el funcionamiento de los sistemas o actividades de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos no peligrosos, conforme a la normatividad ambiental vigente; así como inspeccionar y vigilar el cumplimiento de las condiciones establecidas en las autorizaciones que expida;
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+Las personas que recolecten y trasladen residuos de los señalados en el párrafo anterior, con fines de lucro, deberán obtener la autorización correspondiente ante la Dirección de Protección al Ambiente, cuya expedición y uso se sujetarán a lo siguiente:
+
+1.- Los interesados deberán llenar el formato de solicitud de autorización, que contendrá el nombre completo y domicilio del solicitante o de su representante legal, los datos de identificación del vehículo que será destinado a las actividades de recolección y traslado de residuos sólidos urbanos o de competencia estatal, el tipo de carga, el lugar o lugares de depósito de los residuos, la indicación del tipo de actividad con fines de lucro o sin fines de (sic)
+
+2.- Los solicitantes deberán acreditar la propiedad del vehículo y la legal estancia del mismo en el país, exhibiendo la tarjeta de circulación vigente.
+
+3.- Los solicitantes o sus representantes legales, deberán exhibir identificación oficial vigente con fotografía, expedida por autoridad pública competente.
+
+4.- Las autorizaciones se expedirán de forma individual por vehículo y contendrán los datos de identificación de este último, el tipo de actividad y carga autorizada, además del nombre de la persona autorizada, el lugar o lugares autorizados para el depósito de los residuos sólidos urbanos o de competencia estatal y las fechas de expedición y de expiración de la autorización.
+
+5.- La Dirección de Protección al Ambiente mantendrá una base de datos en línea, que contendrá la información actualizada de las autorizaciones que expida.
+
+6.- Los conductores de los vehículos autorizados, no deberán recolectar o trasladar residuos distintos a los aprobados o cuyo peso o volumen excedan la capacidad de carga del vehículo.
+
+7.- No deberán utilizarse las autorizaciones para ningún vehículo distinto al que se encuentre descrito en las mismas.
+
+8.- Los residuos no deberán descargarse o depositarse en lugares distintos a los autorizados.
+
+9.- Las autorizaciones deberán portarse dentro del vehículo en todo momento mientras se recolecten, trasladen o depositen los residuos sólidos urbanos o de competencia estatal.
+
+10.- Las autorizaciones serán canceladas en caso de incumplirse cualquiera de las condiciones señaladas en los numerales 6, 7, 8, y 9 anteriores.
+
+11.- Para los fines previstos en el numeral 10, en lo referente a las autorizaciones ambientales, la Dirección de Protección al Ambiente solicitará mensualmente a la Dirección de Seguridad Pública Municipal un informe sobre las infracciones de tránsito relacionadas con la recolección, traslado o depósito no autorizado de residuos sólidos urbanos o de competencia estatal.
 
 c) Dictaminar con base en la normatividad aplicable, la procedencia de realizar cualquier disposición de residuos sólidos en los sitios que para tal fin haya autorizado;
 
@@ -485,7 +513,9 @@ Para los efectos de integrar el Registro Municipal de Descargas de Aguas Residua
 
 Quedan exentas del Registro de Aguas Residuales las descargas de aguas residuales provenientes de actividades domésticas, de conformidad con la definición del Artículo 6 de este Reglamento.
 
-Atículo (sic) 34.- En caso de que no exista una normatividad específica para reglamentar una descarga, o un parámetro en particular de ésta que sea relevante, la Oficina Municipal de Ecología con base en las Normas o criterios expedidos por las autoridades competentes, establecerá la Condición Particular de Descarga al responsable del vertimiento de ésta al sistema de drenaje y alcantarillado, otorgando un plazo máximo de noventa días naturales para el cumplimiento de la misma.
+###### Artículo 34.
+
+En caso de que no exista una normatividad específica para reglamentar una descarga, o un parámetro en particular de ésta que sea relevante, la Oficina Municipal de Ecología con base en las Normas o criterios expedidos por las autoridades competentes, establecerá la Condición Particular de Descarga al responsable del vertimiento de ésta al sistema de drenaje y alcantarillado, otorgando un plazo máximo de noventa días naturales para el cumplimiento de la misma.
 
 ###### Artículo 35.
 
@@ -1471,8 +1501,28 @@ Tercero.- Las actividades o establecimientos, cuya regulación en materia de pro
 
 Cuarto.- Los establecimientos y actividades que se encuentren funcionando a la entrada en vigor del presente Reglamento, que no hubieran tramitado la autorización en materia de impacto ambiental con dependencia alguna y cuya regulación en materia de protección ambiental sea de competencia municipal, tendrán la oportunidad de regularizar su situación por cuenta propia o en los términos y plazos que la Oficina Municipal de Ecología se los solicite.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 19 DE NOVIEMBRE DE 2004.
 
 ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA Y REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas a que se refieren los Acuerdos Primero, Segundo, Tercero y Cuarto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Dirección de Protección al Ambiente deberá coordinarse con la Dirección de Seguridad Pública y Secretaría del Ayuntamiento, para que se hagan del conocimiento de los Agentes Policiacos, así como de la Coordinación de jueces calificadores, las características de las autorizaciones ambientales con los que deberán contar los transportistas, en relación al Artículo 54, Fracción XXI del Reglamento de Tránsito para el Municipio de Mexicali, Baja California.
+
+TERCERO.- Por conducto de las dependencias municipales competentes, deberá programarse a las oficinas de las delegaciones o comandancias para habilitar el pago del permiso de la Dirección de Protección al Ambiente del Municipio de Mexicali, Baja California.
+
+CUARTO.- Se exhorta al Presidente Municipal, para que instruya a la Dirección de Seguridad Pública Municipal de Mexicali, a fin de que entregue mensualmente una relación de las multas en materia de circulación y disposición ilegal de residuos sólidos urbanos y de manejo especial, a la Dirección de Protección al Ambiente de Mexicali, Baja California.
+
+QUINTO.- La Dirección de Servicios Públicos, de acuerdo a lo estipulado en el Artículo 4, Fracción VII, Inciso F, del Reglamento de Protección al Ambiente del Municipio de Mexicali, Baja California, que se refiere a los desechos sólidos, deberá promover la habilitación o adaptación de Centros de Acopio y/o Unidades de Transferencia, para que tanto la ciudadanía, como los terceros autorizados por el Ayuntamiento, cuenten con el lugar adecuado y debidamente acondicionado para la disposición de este tipo de materiales, y de esta manera además limpiar en (sic) entorno y las periferias de la ciudad.
+
+SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protección al Ambiente del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
