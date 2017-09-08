@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-verificacion-administrativa-117778
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-19"
-last_updated: "2016-12-19"
+last_updated: "2017-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el lunes 19 de diciembre de 2016.
 
@@ -65,13 +65,17 @@ IV. Registro: Al registro Estatal de Verificadores del Instituto.
 
 V. Reglamento: Al Reglamento de la Ley que crea el Instituto de Verificación Administrativa del Estado de México.
 
-VI. Verificación: Al acto administrativo a través del cual el Instituto, por conducto de los servidores públicos autorizados, inspecciona el desarrollo y cumplimiento de las actividades, de las condiciones y de los requerimientos, estipulados en la normativa de la materia.
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Verificación: Al acto administrativo a través del cual el Instituto, por conducto de los servidores públicos autorizados, supervisa e inspecciona el desarrollo y cumplimiento de las condiciones, los requerimientos y obligaciones para una actividad, estipuladas en la normatividad de la materia.
 
 VII. Verificador: Al servidor público autorizado para llevar a cabo visitas tendientes a constatar el cumplimiento de las especificaciones, actividades, requerimientos y condiciones contempladas en la Ley o las ordenadas por la autoridad competente, de conformidad con la normativa aplicable.
 
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
-El Instituto tiene por objeto operar, instruir, coordinar y controlar el acto administrativo de la verificación en el territorio del Estado de México, en términos de lo contemplado en esta Ley y demás normativa aplicable, velando por la realización de las verificaciones bajo los principios de legalidad, honradez, lealtad, prontitud, imparcialidad y transparencia.
+El Instituto tiene por objeto, instruir, autorizar, coordinar y controlar el acto administrativo de la verificación, supervisión e inspección en el territorio del Estado de México, en términos de lo contemplado en esta Ley y demás normatividad aplicable, velando por la realización de las verificaciones, supervisiones e inspecciones bajo los principios de legalidad, honradez, lealtad, prontitud, imparcialidad y transparencia.
 
 ### Capítulo II. Atribuciones del Instituto
 
@@ -79,7 +83,9 @@ El Instituto tiene por objeto operar, instruir, coordinar y controlar el acto ad
 
 En materia de verificación administrativa el Instituto tendrá las atribuciones siguientes:
 
-I. Coordinar, ordenar, instrumentar y llevar a cabo las visitas de verificación administrativa en materias de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+I. Coordinar, instruir y vigilar las visitas de verificación administrativa, supervisiones e inspecciones en materias de:
 
 a) Protección Civil.
 
@@ -103,13 +109,27 @@ III. Velar en la esfera de su competencia, por el cumplimiento de las leyes, reg
 
 IV. Remitir a la Secretaría de la Contraloría, los datos de las órdenes de verificación que emita, para efectos del Registro Estatal de Inspectores, en términos de lo establecido en el Código Administrativo del Estado de México.
 
-V. Informar a la Comisión Estatal de Factibilidad o a la autoridad competente, de las solicitudes de visitas de verificación que le presente la ciudadanía.
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Atender y valorar las solicitudes de verificación que le presenten las autoridades Estatales y municipales.
+V. Informar a la Comisión Estatal de Factibilidad o a la autoridad competente, de las solicitudes de visitas de verificación que le presente la ciudadanía y las autoridades, cuando el instituto estime necesaria su intervención. Para dicho efecto, podrá solicitar la información que estime indispensable.
+
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Valorar y atender en el ámbito de sus atribuciones las solicitudes de verificación que le presenten las autoridades y los particulares.
+
+> <small>(ADICIONADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Bis. Coordinar, autorizar e instruir a las unidades administrativas competentes, previa solicitud de la Comisión Estatal de Factibilidad, la práctica de las visitas para constatar el cumplimiento de las condicionantes en los plazos y términos establecidos en la resolución del Dictamen Único de Factibilidad.
 
 VII. Las demás que establezca el Reglamento y los ordenamientos jurídicos aplicables.
 
-El Instituto se abstendrá de realizar visitas administrativas cuando éstas sean competencia de la Federación o de los municipios del Estado de México.
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+El Instituto se abstendrá de realizar visitas de verificación administrativa cuando éstas sean de competencia exclusiva de la Federación o de los municipios del Estado de México.
+
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+Para dar cumplimiento a su objeto, el Instituto podrá hacer uso de los medios de comunicación y tecnológicos que estime pertinentes, con la finalidad de instruir, coordinar y autorizar las visitas correspondientes a las autoridades involucradas en su ejecución.
 
 ###### Artículo 5.
 
@@ -308,3 +328,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
