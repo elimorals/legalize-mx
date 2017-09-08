@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2016-09-30"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2351,9 +2353,7 @@ VI.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 ARTICULO 197 BIS-5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Control y Tribunales Unitarios de Enjuiciamiento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 246 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015 SE ADICIONO EL CAPÍTULO XIV, QUE SE INTEGRA CON LOS NÚMERALES 197 BIS-2 AL 197 BIS-5.</small>
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 190.
 
@@ -2399,21 +2399,19 @@ El acta levantada por el visitador será entregada al Titular del Organo Visitad
 
 El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
 
-### CAPÍTULO XIV. DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA
+### CAPITULO XIV (SIC). DE LOS CENTROS E INSTALACIONES DE CONVIVENCIA FAMILIAR SUPERVISADA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2013)</small>
+ARTICULO 197 TER.- Los Centros de Convivencia Familiar Supervisada son órganos administrativos del Poder Judicial del Estado de Baja California, con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno filial en aquellos casos que, a juicio de los titulares de los Juzgados de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
 
-ARTICULO 197 TER.- El Centro de Convivencia Familiar Supervisada es un órgano administrativo del Poder Judicial del Estado de Baja California con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno-filial en aquellos casos que, a juicio de los titulares de los Juzgados de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
+Los servicios de los Centros de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones ó en aquellas que se designen para tales efectos.
 
-Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones, tendrá su sede en la capital del Estado y contará con unidades de apoyo en los municipios que lo requieran.
+Los Centros de Convivencia Familiar Supervisada propios del Poder Judicial serán administrados y vigilados por el Consejo de la Judicatura de Baja California, el cual expedirá las bases para su organización y funcionamiento, incluyendo aquellos que por diversas asociaciones o patronatos presten sus instalaciones para tales efectos.
 
-El Centro de Convivencia Familiar Supervisada será administrado y vigilado por el Consejo de la Judicatura de Baja California, el cual expedirá las bases para su organización y funcionamiento.
+Los Centros de Convivencia Familiar Supervisada contarán con un Titular y el personal necesario para el cumplimiento de sus funciones, ya sea propio del Poder Judicial o aquellos que éste acreditaré para tales efectos. Deberá igualmente, contar con Secretarios Auxiliares que sean necesarios para dar fe de actos.
 
-El Centro de Convivencia Familiar Supervisada estará integrado por un Titular y el personal necesario para el cumplimiento de sus funciones. Deberá igualmente, contar con los Secretarios Auxiliares que sean necesarios para dar fe.
-
-Para ser Titular del Centro de Convivencia Familiar deberá reunir los requisitos señalados por las fracciones I, III, IV y V del artículo 65 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
+Para ser Titular del Centro de Convivencia Familiar Supervisada se deberán reunir los requisitos señalados por las fracciones I, III, IV y V del artículo 65 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel de licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3598,3 +3596,19 @@ P.O. 30 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 577 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 162 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 120 MEDIANTE EL CUAL SE REFORMA EL DECRETO 590 PUBLICADO CON EL NÚMERO 47 TOMO CXX SECCIÓN I, DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE FECHA 25 DE OCTUBRE DE 2013, MEDIANTE EL CUAL SE ADECUA LA DENOMINACIÓN DEL CAPÍTULO XIV AL TÍTULO UNDÉCIMO PARA NOMBRARSE "DE LOS CENTROS E INSTALACIONES DE CONVIVENCIA FAMILIAR SUPERVISADA", ASÍ COMO REFORMA EL ARTÍCULO 197 TER, TODO ELLO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Poder Judicial a través del Consejo de la Judicatura de Baja California, deberá contemplar en su presupuesto anual, los recursos necesarios para la creación o en su caso mantenimiento de los Centros de Convivencia Familiar Supervisada.
+
+TERCERO.- El Poder Judicial podrá llevar a cabo convivencias paterno filial autorizadas por los Jueces de lo Familiar, ponderando el interés superior del menor, en instalaciones diversas a los Centros de Convivencia Familiar Supervisada que le proporcionen particulares, asociaciones o patronatos, debiendo observar las bases de organización y funcionamiento y, solicitar si así se requiere de la ampliación presupuestal correspondiente.
+
+CUARTO.- El Poder Judicial podrá acreditar al personal que preste sus servicios en los Centros de Convivencia Familiar Supervisada que no sean propios del Poder Judicial.
+
+QUINTO.- Se autoriza al Poder Judicial para que a través de los Jueces de lo Familiar del Partido Judicial de Mexicali, se acuerden convivencias familiares supervisadas dentro de las instalaciones especializadas del Centro de Atención a la Violencia Intrafamiliar en Mexicali, Asociación Civil, una vez que ésta cuente con la Sala de Convivencia Familiar Supervisada que al efecto se establezca conforme a las bases del presente Decreto, debiendo acreditar a su personal para el cumplimiento del mismo.
+
+SEXTO.- Los gastos de operación y funcionamiento de la Sala de Convivencia Familiar Supervisada del Centro de Atención a la Violencia Intrafamiliar en Mexicali, Asociación Civil, se programarán anualmente en el Presupuesto de Egresos del Estado.
