@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-edificaciones-para-el-municipio-de-mexicali-35218
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-18"
-last_updated: "2006-03-17"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 18 de diciembre de 1998.
 
@@ -227,7 +227,7 @@ El diseño y características de las edificaciones deberán integrarse al contex
 
 La altura de cualquier edificio, no deberá ser superior a la que resulte de calcular 1.75 veces su distancia al paramento vertical del alineamiento opuesto de la calle.
 
-En plazas y jardines, el alineamiento opuesto deberá localizarse a 5 mts.de la guarnición, o del límite interior de la acera, si ésta cuenta con más de 5 mts. de anchura.
+En plazas y jardines, el alineamiento opuesto deberá localizarse a 5 mts. de la guarnición, o del límite interior de la acera, si ésta cuenta con más de 5 mts. de anchura.
 
 ###### ARTICULO 23.
 
@@ -1703,9 +1703,11 @@ El Responsable Propietario y Responsable Director de Obra, en forma conjunta, de
 
 El cumplimiento de los requerimientos señalados por otras autoridades competentes, deberá acreditarse en su caso mediante la documentación que corresponda.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 239.
 
-La Dirección deberá resolver en un plazo de 10 días hábiles, sobre la procedencia de autorización de ocupación de edificaciones o instalaciones, sobre las cuales haya recibido aviso de terminación.
+La Dirección deberá resolver en un plazo de 10 días hábiles, sobre la procedencia de la autorización de ocupación de edificaciones o instalaciones, sobre las cuales haya recibido aviso de terminación, para lo cual el interesado deberá exhibir documento probatorio, expedido por la autoridad ambiental competente.
 
 La autorización de ocupación perderá su vigencia cuando en una edificación o instalación se presente alguno de los siguientes supuestos:
 
@@ -1964,3 +1966,23 @@ P.O. 17 DE MARZO DE 2006.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO QUE APRUEBA LA MODIFICACIÓN AL ARTÍCULO 125 DEL REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, B.C.".]
 
 ÚNICO: LA PRESENTE MODIFICACIÓN ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, ÓRGANO DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA Y REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas a que se refieren los Acuerdos Primero, Segundo, Tercero y Cuarto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Dirección de Protección al Ambiente deberá coordinarse con la Dirección de Seguridad Pública y Secretaría del Ayuntamiento, para que se hagan del conocimiento de los Agentes Policiacos, así como de la Coordinación de jueces calificadores, las características de las autorizaciones ambientales con los que deberán contar los transportistas, en relación al Artículo 54, Fracción XXI del Reglamento de Tránsito para el Municipio de Mexicali, Baja California.
+
+TERCERO.- Por conducto de las dependencias municipales competentes, deberá programarse a las oficinas de las delegaciones o comandancias para habilitar el pago del permiso de la Dirección de Protección al Ambiente del Municipio de Mexicali, Baja California.
+
+CUARTO.- Se exhorta al Presidente Municipal, para que instruya a la Dirección de Seguridad Pública Municipal de Mexicali, a fin de que entregue mensualmente una relación de las multas en materia de circulación y disposición ilegal de residuos sólidos urbanos y de manejo especial, a la Dirección de Protección al Ambiente de Mexicali, Baja California.
+
+QUINTO.- La Dirección de Servicios Públicos, de acuerdo a lo estipulado en el Artículo 4, Fracción VII, Inciso F, del Reglamento de Protección al Ambiente del Municipio de Mexicali, Baja California, que se refiere a los desechos sólidos, deberá promover la habilitación o adaptación de Centros de Acopio y/o Unidades de Transferencia, para que tanto la ciudadanía, como los terceros autorizados por el Ayuntamiento, cuenten con el lugar adecuado y debidamente acondicionado para la disposición de este tipo de materiales, y de esta manera además limpiar en (sic) entorno y las periferias de la ciudad.
+
+SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protección al Ambiente del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
