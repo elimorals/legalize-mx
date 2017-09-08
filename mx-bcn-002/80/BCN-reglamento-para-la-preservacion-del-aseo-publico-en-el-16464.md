@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-preservacion-del-aseo-publico-en-el-16464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-31"
-last_updated: "2009-07-03"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA PRESERVACION DEL ASEO PUBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA PRESERVACION DEL ASEO PUBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de marzo del 2000.
 
@@ -399,9 +399,9 @@ La infracción a las disposiciones previstas por este Reglamento, será sanciona
 
 A quien cometa cualquiera de las infracciones que se describen en la tabla contenida en este artículo, se le sancionará con el pago de multa de tres a diez, once a veinte, veintiuno a cuarenta, y cuarenta y uno a cien días de salario mínimo general vigente en el Municipio en el momento de cometerse la infracción, según se indica a continuación:
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 31 DE MARZO DEL 2000, PAGS. 36-41.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE MARZO DEL 2000, PÁGINAS DE LA 36 A LA 41.]</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA , P.O. 10 DE DICIEMBRE DE 2004, PAGS. 6-7.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 10 DE DICIEMBRE DE 2004, PÁGINAS DE LA 6 A LA 7; P.O. 8 DE SEPTIEMBRE DE 2017, PÁGINA 19.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -429,7 +429,7 @@ Adicionalmente a la sanción pecuniaria, el infractor de las disposiciones del p
 
 Los Inspectores de Aseo Público, estarán facultados para realizar inspecciones para verificar el cumplimiento de las disposiciones del presente Reglamento, asentando en actas las infracciones que observen que no sean de las que deben sancionarse mediante boleta de infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 41.
 
@@ -439,7 +439,7 @@ En caso de que no se atienda el requerimiento de la autoridad en el plazo conced
 
 El procedimiento a que se refiere este artículo se seguirá también cuando los responsables de establecimientos industriales, comerciales o de servicios públicos o privados, incumplan con lo previsto en la primera parte de la fracción IV del artículo 22 de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 42.
 
@@ -523,7 +523,7 @@ MEXICALI, BAJA CALIFORNIA
 
 RUBRICA
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]
 
 P.O. 19 DE NOVIEMBRE DE 2004.
 
@@ -538,3 +538,23 @@ P.O. 10 DE DICIEMBRE DE 2004.
 P.O. 3 DE JULIO DE 2009.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA Y REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas a que se refieren los Acuerdos Primero, Segundo, Tercero y Cuarto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Dirección de Protección al Ambiente deberá coordinarse con la Dirección de Seguridad Pública y Secretaría del Ayuntamiento, para que se hagan del conocimiento de los Agentes Policiacos, así como de la Coordinación de jueces calificadores, las características de las autorizaciones ambientales con los que deberán contar los transportistas, en relación al Artículo 54, Fracción XXI del Reglamento de Tránsito para el Municipio de Mexicali, Baja California.
+
+TERCERO.- Por conducto de las dependencias municipales competentes, deberá programarse a las oficinas de las delegaciones o comandancias para habilitar el pago del permiso de la Dirección de Protección al Ambiente del Municipio de Mexicali, Baja California.
+
+CUARTO.- Se exhorta al Presidente Municipal, para que instruya a la Dirección de Seguridad Pública Municipal de Mexicali, a fin de que entregue mensualmente una relación de las multas en materia de circulación y disposición ilegal de residuos sólidos urbanos y de manejo especial, a la Dirección de Protección al Ambiente de Mexicali, Baja California.
+
+QUINTO.- La Dirección de Servicios Públicos, de acuerdo a lo estipulado en el Artículo 4, Fracción VII, Inciso F, del Reglamento de Protección al Ambiente del Municipio de Mexicali, Baja California, que se refiere a los desechos sólidos, deberá promover la habilitación o adaptación de Centros de Acopio y/o Unidades de Transferencia, para que tanto la ciudadanía, como los terceros autorizados por el Ayuntamiento, cuenten con el lugar adecuado y debidamente acondicionado para la disposición de este tipo de materiales, y de esta manera además limpiar en (sic) entorno y las periferias de la ciudad.
+
+SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protección al Ambiente del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
+
+OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
