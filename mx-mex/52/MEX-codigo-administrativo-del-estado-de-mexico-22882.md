@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-09-07"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -217,9 +217,9 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 10.- Todo acto administrativo se presumirá válido mientras no haya sido declarada su invalidez, y será eficaz y exigible desde el momento en que la notificación del mismo surta sus efectos, salvo cuando el acto tenga señalada una fecha de vigencia, en cuyo supuesto se estará a la fecha de inicio de dicha vigencia, siempre y cuando haya surtido efectos la notificación respectiva, o cuando haya operado la afirmativa o negativa ficta. Tratándose de actos administrativos por los que se otorguen beneficios a los particulares, éstos podrán exigir su cumplimiento desde la fecha en que se haya emitido el acto o desde aquélla que tenga señalada para iniciar su vigencia.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas, en ningún caso estará condicionado al pago de contribuciones ni a donación alguna y requerirá, únicamente, los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios. La exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas, en ningún caso estará condicionado al pago de contribuciones ni a donación alguna que no se encuentren contempladas en la ley, por lo que únicamente requerirá los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios. La exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
@@ -289,11 +289,11 @@ La tramitación de esta declaratoria de extinción de los efectos del acto admin
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 1.
 
-17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Consejería Jurídica, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica.
+17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Consejería Jurídica, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, incluidos los proyectos de vivienda, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica o inversión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2679,7 +2679,7 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 49 Quinquies.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2811,7 +2811,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Sexies.- Se negará el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, cuando se incumpla con cualquiera de los requisitos establecidos en Reglamento de la Comisión Estatal de Factibilidad.
+49 Sexies.- Se negará el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, cuando se incumpla con cualquiera de los requisitos establecidos en el Reglamento Interior de la Comisión Estatal de Factibilidad, o cuando en su tramitación se lleven a cabo actividades ilícitas imputables al titular del dictamen o a su representante.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -3225,7 +3225,7 @@ VI. Reincidencia por tercera ocasión.
 
 VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADA ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -4771,7 +4771,7 @@ XVI. Condominio Mixto: A la combinación en un mismo predio de las modalidades s
 
 XVII. Conjunto Urbano: A la modalidad que se adopta en la ejecución del desarrollo urbano que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo, las obras de infraestructura, urbanización y equipamiento urbano, la ubicación de edificios y la imagen urbana de un predio ubicado en áreas urbanas o urbanizables;
 
-XVIII. Constancia de Viabilidad: Al acto administrativo por el que se hace constar la aptitud de un determinado predio para el desarrollo de un conjunto urbano, subdivisión o condominio, con base en las opiniones técnicas de las instancias gubernamentales que intervienen en la Comisión;
+XVIII. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 XIX. Conurbación: A la continuidad física y demográfica que formen o tiendan a formar dos o más centros de población ubicados en el territorio de dos o varios municipios del Estado de México y parte del Distrito Federal;
 
@@ -4781,9 +4781,9 @@ XXI. Destinos: A los fines públicos a que podrá destinarse el suelo;
 
 XXII. Dictamen de Congruencia: Al acto administrativo en el que se determina la congruencia de un plan municipal de desarrollo urbano o de los parciales que deriven de éste, con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano y, en su caso, en el plan regional de desarrollo urbano aplicable y en los parciales de competencia estatal;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-XXIII. Evaluación Técnica de Impacto Urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble, que se emitirá al seno de la Comisión Estatal de Factibilidad.
+XXIII. Evaluación Técnica de Impacto Urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble, que será emitida por la Dirección General de Operación Urbana al seno de la Comisión Estatal de Factibilidad.
 
 XXIV. Fusión: A la unión de dos o más predios o lotes contiguos, con el fin de constituir una unidad de propiedad;
 
@@ -4797,7 +4797,9 @@ XXVIII. Libro: Al Libro Quinto del Código;
 
 XXIX. Lote: A la fracción de terreno que constituirá una unidad de propiedad, resultante de una autorización de fusión, subdivisión o conjunto urbano;
 
-XXX. Opinión técnica: A la que conforme a su competencia u objeto, emitan de manera preliminar cada una de las instancias gubernamentales que concurren en el seno de la Comisión, para sustentar la constancia de viabilidad de un conjunto urbano, subdivisión o condominio en un predio determinado;
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+XXX. Opinión técnica: A la que conforme a su competencia u objeto, emitan al seno de la Comisión Estatal de Factibilidad, cada una de las instancias gubernamentales de carácter federal, estatal o municipal, a los que ésta solicite su colaboración para determinar la procedencia del Dictamen Único de Factibilidad.
 
 XXXI. Planes de desarrollo urbano: Al conjunto de disposiciones jurídicas que planean y regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población;
 
@@ -4913,11 +4915,19 @@ I. Formular y presentar a consideración del Gobernador del Estado, los proyecto
 
 II. Expedir dictámenes de congruencia de los planes municipales de desarrollo urbano y de los planes parciales derivados de éstos, con el Plan Estatal de Desarrollo Urbano, el plan regional y los planes parciales de desarrollo urbano de competencia estatal aplicables;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-III. Expedir constancias de viabilidad y evaluaciones técnicas de impacto regional al seno de la Comisión Estatal de Factibilidad, en los casos y con las formalidades previstas en este Libro y su Reglamento.
+III. Expedir evaluaciones técnicas de impacto urbano, al seno de la Comisión Estatal de Factibilidad, en los casos y con las formalidades previstas en este Libro y la reglamentación correspondiente.
 
-IV. Autorizar conjuntos urbanos, condominios, subdivisiones, relotificaciones y fusiones; y, en los casos previstos en este Libro y su reglamentación:
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Emitir las autorizaciones de conjuntos urbanos, condominios, subdivisiones, al seno de la Comisión Estatal de Factibilidad y en los casos previstos en este Libro y la reglamentación correspondiente.
+
+Podrá emitir la autorización para relotificaciones y fusiones en términos de lo dispuesto en el Reglamento del presente Libro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+Así también, podrá autorizar, en términos de la legislación correspondiente, lo siguiente:
 
 a) Los proyectos arquitectónicos de las obras de equipamiento urbano;
 
@@ -4937,11 +4947,15 @@ h) La extinción por renuncia de autorizaciones; y
 
 i) Cualquier otra que requiera autorización.
 
-V. Establecer políticas específicas para la autorización de conjuntos urbanos de carácter habitacional, en función de la demanda y de las políticas de ordenamiento territorial señaladas en los planes de desarrollo urbano;
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+V. Proponer, al seno de la Comisión Estatal de Factibilidad, políticas específicas para la autorización de conjuntos urbanos de carácter habitacional, en función de la demanda y de las políticas de ordenamiento territorial señaladas en los planes de desarrollo urbano;
 
 VI. Supervisar la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de conjuntos urbanos, subdivisiones y condominios, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y demás ordenamientos jurídicos aplicables, en aquellos casos en que dicha facultad no esté específicamente atribuida a otra dependencia u organismos auxiliar del ámbito federal, estatal o municipal;
 
-VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes, de las áreas de donación y de las obras de urbanización, infraestructura primaria y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios;
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes, de las áreas de donación y de las obras de urbanización, infraestructura primaria y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios, con el visto bueno (sic) la Comisión Estatal de Factibilidad.
 
 VIII. Autorizar la apertura, prolongación, ampliación o modificación de vías públicas de competencia municipal, no previstas en los planes municipales de desarrollo urbano;
 
@@ -4959,7 +4973,7 @@ XIV. Intervenir en las instancias de coordinación, consulta, seguimiento y eval
 
 XV. Promover la participación social en la planeación, gestión y control urbano;
 
-XVI. Ordenar la publicación de los planes de desarrollo urbano del ámbito estatal y municipal, en el Periódico Oficial “Gaceta del Gobierno”, así como su inscripción en el Instituto de la Función Registral;
+XVI. Ordenar la publicación de los planes de desarrollo urbano del ámbito estatal y municipal, en el Periódico Oficial "Gaceta del Gobierno", así como su inscripción en el Instituto de la Función Registral;
 
 XVII. Suscribir acuerdos, convenios y contratos en la materia;
 
@@ -5113,7 +5127,7 @@ b) Los programas, acciones, inversiones y obras públicas de interés estratégi
 
 c) Programas y acciones de desregulación, homologación normativa, desgravación, simplificación, mejora y agilización de la gestión urbana.
 
-III. Integrar las constancias de viabilidad que incluirán las opiniones técnicas o dictámenes que, en el ámbito de su competencia, expidan las instancias gubernamentales integrantes y participantes en la misma, en relación con un predio o proyecto determinado;
+III. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 IV. A petición de la Secretaría, dar seguimiento a la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios, a efecto de que los integrantes y participantes de la misma, rindan informes respecto del avance físico de las obras que correspondan al ámbito de su competencia;
 
@@ -5419,8 +5433,6 @@ XI. Los ayuntamientos informarán a la autoridad federal competente sobre las au
 
 #### SECCIÓN SEGUNDA. De la Constancia de Viabilidad
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 5.
 
 27.- El Estado y los municipios correspondientes, deberán planear y regular de manera conjunta y coordinada el desarrollo urbano de las conurbaciones o zonas metropolitanas que se presenten al interior del territorio estatal.
@@ -5481,7 +5493,7 @@ La Secretaría podrá solicitar en su caso, la opinión técnica de los integran
 
 32.- Los planes municipales de desarrollo urbano o los parciales que deriven de éstos que carezcan del dictamen de congruencia, serán nulos y no surtirán efecto legal alguno.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ## TÍTULO TERCERO. De la Administración del Desarrollo Urbano
 
@@ -5493,37 +5505,21 @@ La Secretaría podrá solicitar en su caso, la opinión técnica de los integran
 
 #### SECCIÓN CUARTA. De los Conjuntos Urbanos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
-33.- Los interesados deberán obtener constancia de viabilidad favorable expedida por la Secretaría, sobre los proyectos de:
-
-I. Conjuntos urbanos;
-
-II. Subdivisiones y Condominios habitacionales que prevean el desarrollo de diez o más viviendas, así como en otros tipos, un coeficiente de utilización de tres mil metros cuadrados o más, situados en áreas urbanas o urbanizables;
-
-III. Localización, deslinde y fraccionamiento de las zonas de urbanización ejidal o comunal y su área de crecimiento; y
-
-IV. Diez o más viviendas en un predio o lote.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+33.- (DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 5.
 
-34.- La Secretaría sólo expedirá la constancia de viabilidad, cuando cada una de las instancias gubernamentales participantes en la Comisión otorgue opinión técnica favorable, en el ámbito de su respectiva competencia, sobre el proyecto de que se trate.
-
-La constancia de viabilidad a que se refiere este artículo, tendrá vigencia de un año, pudiendo prorrogarse por un año más, solamente tendrá efectos informativos y no constituirá autorización del desarrollo.
-
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
-
-La Secretaría, de ser el caso, comunicará al interesado por medio de sus oficinas, estrados o correo electrónico que otorgue para efecto de recibir notificaciones y documentos, que no se le entregará dicha constancia de viabilidad.
+34.- (DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 #### SECCIÓN QUINTA. De la Subdivisión y Fusión
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
@@ -5567,7 +5563,11 @@ En aquellos casos en que el uso y aprovechamiento específico de los lotes de te
 
 ###### Artículo 5.
 
-37.- Los conjuntos urbanos requieren autorización de la Secretaría de conformidad con lo que establezca el presente Libro, su reglamentación y demás disposiciones aplicables, serán de los tipos siguientes:
+37.- Previo a la autorización de los conjuntos urbanos que emita la secretaria, se requiere obtener de la CEF el DUF, en términos de lo dispuesto en el presente libro, su reglamentación y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+Los conjuntos urbanos serán de los tipos siguientes:
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5617,23 +5617,25 @@ Los conjuntos urbanos mixtos serán aquellos que comprendan a dos o más tipos.
 
 Los conjuntos urbanos de Unidades Económicas de Alto Impacto no podrán formar parte de un conjunto urbano mixto.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+La autorización a que hace referencia el presente artículo, deberá ser remitida a la Comisión Estatal de Factibilidad, para la obtención del Dictamen Único de Factibilidad correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
-38.- La autorización de conjuntos urbanos se sujetará a los lineamientos siguientes:
+38.- El Dictamen Único de Factibilidad y autorización de conjuntos urbanos se sujetarán a los lineamientos siguientes:
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-I. Deberá ser solicitada ante la Secretaría de manera física o electrónica, acompañada de la documentación que establezca la reglamentación del presente Libro;
+I. Deberá ser solicitada ante la Comisión Estatal de Factibilidad en términos de su Reglamento Interior y demás disposiciones legales aplicables.
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
 II. El número de viviendas y de usos del suelo dependerá de lo que establezca el Plan Municipal de Desarrollo Urbano y se determinará principalmente en función de la factibilidad de agua potable y energía eléctrica que emitan las autoridades competentes. Asimismo, se deberá cumplir con todas las condicionantes que se determinan en el presente Libro y su reglamentación correspondiente;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-III. Requerirán de constancia de viabilidad, cuando se trate de Unidades Económicas de Alto Impacto, además deberán contar con el dictamen técnico de la Secretaría Desarrollo Económico;
+III. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -5643,21 +5645,29 @@ IV. Su trámite y resolución se sujetará a lo dispuesto en este Libro, su regl
 
 V. Podrán comprender inmuebles de propiedad pública o privada, a excepción de los conjuntos urbanos de Unidades Económicas de Alto Impacto, que únicamente será en inmuebles de propiedad privada;
 
-VI. No procederá su autorización en áreas no urbanizables;
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-VII. El solicitante o los socios de la solicitante, en el caso de personas jurídicas colectivas, deberán acreditar que han cumplido con las obligaciones derivadas de autorizaciones urbanas que les hayan sido otorgadas con anterioridad, ya sea en forma personal o a través de personas jurídicas colectivas de las que también sean socios;
+VI. No procederá la emisión del Dictamen Único de Factibilidad y autorización para vivienda en áreas no urbanizables, con excepción de lo dispuesto en el Reglamento del presente Libro.
+
+VII. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
 VIII. Comprenderán, según el caso, las autorizaciones relativas a condominios, subdivisiones, fusiones y apertura, ampliación o modificación de vías públicas, usos específicos del suelo y sus normas de aprovechamiento, cambios de uso del suelo, de densidad de vivienda, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones;
 
-IX. Emitida la autorización, no se podrá incrementar la superficie enajenable ni excederse el número de lotes y/o viviendas aprobadas;
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Emitida la autorización al seno de la Comisión Estatal de Factibilidad, no se podrá incrementar la superficie enajenable ni excederse el número de lotes y/o viviendas aprobadas.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 X. Su titular tendrá, en los términos y condiciones previstos en la reglamentación de este Libro, las obligaciones siguientes:
 
 a) Ceder a título gratuito al Estado y al municipio la propiedad de las superficies de terreno para vías públicas y áreas de donación para equipamiento urbano, que establezcan los acuerdos de autorización.
 
-A excepción de las áreas de donación a favor de los municipios tratándose de conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado, podrán cumplirse previa determinación de la Secretaría, mediante el depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+A excepción de las áreas de donación a favor de los municipios, tratándose de conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado, podrán cumplirse previa determinación de la Secretaría al seno de la Comisión Estatal de Factibilidad, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
 
 b) Construir las obras de infraestructura, urbanización y equipamiento urbano, de conformidad con lo que establezca el presente Libro y su reglamentación.
 
@@ -5671,7 +5681,7 @@ d) Presentar a la Secretaría los proyectos ejecutivos, memorias de cálculo y e
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-e) Iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de seis meses contados a partir de la publicación de la autorización en el Periódico Oficial “Gaceta del Gobierno”;
+e) Iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de seis meses contados a partir de la publicación de la autorización en el Periódico Oficial "Gaceta del Gobierno";
 
 f) Dedicar definitivamente al uso para el que fueron hechas, las instalaciones del conjunto urbano, tales como clubes, construcciones para actividades deportivas, culturales o recreativas y otras que se utilicen como promoción para la venta de lotes;
 
@@ -5681,9 +5691,9 @@ h) Garantizar los defectos y vicios ocultos de las obras de infraestructura, urb
 
 La realización de estas obras se hará del conocimiento público de conformidad con lo que establezca el reglamento;
 
-i) Efectuar el pago de la publicación en el Periódico Oficial “Gaceta del Gobierno” de la autorización correspondiente;
+i) Efectuar el pago de la publicación en el Periódico Oficial "Gaceta del Gobierno" de la autorización correspondiente;
 
-j) Inscribir en el Instituto de la Función Registral el acuerdo de autorización respectivo y sus planos correspondientes, así como comprobar ante la Secretaría el haber realizado dicha inscripción, dentro de los 90 días hábiles siguientes a la fecha de publicación de la autorización en el Periódico Oficial “Gaceta del Gobierno”;
+j) Inscribir en el Instituto de la Función Registral el acuerdo de autorización respectivo y sus planos correspondientes, así como comprobar ante la Secretaría el haber realizado dicha inscripción, dentro de los 90 días hábiles siguientes a la fecha de publicación de la autorización en el Periódico Oficial "Gaceta del Gobierno";
 
 k) Abstenerse de enajenar los lotes de terreno hipotecados a favor del Estado o del respectivo municipio;
 
@@ -5697,6 +5707,8 @@ o) Prestar gratuitamente los servicios de suministro de agua potable y drenaje a
 
 p) Las demás que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 XI. Serán solidariamente responsables del cumplimiento de las obligaciones previstas en este Libro, su reglamentación y en la autorización:
 
 a) El titular de la autorización del conjunto urbano y el propietario del terreno, cuando sean personas distintas, así como sus causahabientes; y
@@ -5706,6 +5718,8 @@ b) En el caso de fideicomisos, el fideicomitente y la fiduciaria en lo que corre
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
 c) Compradores de lotes en bloque.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XII. La promoción y publicidad sobre lotes de un conjunto urbano deberá apegarse a la autorización respectiva y será de tal naturaleza, que permita una adecuada orientación al adquirente. Queda prohibida la propaganda engañosa que ofrezca condiciones, situaciones o bienes que no estén contemplados en la autorización; y
 
@@ -5719,17 +5733,23 @@ Para la venta de lotes o vivienda nueva en que intervenga una desarrolladora de 
 
 #### SECCIÓN SÉPTIMA. De los Condominios
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
 39.- Los recursos económicos que se obtengan con motivo de la ejecución de las garantías que aseguran la construcción y los defectos o vicios ocultos de las obras de infraestructura, urbanización y equipamiento urbano, serán destinados por la Secretaría o el Ayuntamiento correspondiente, a la ejecución de las obras que hayan quedado pendientes de ejecutar por parte del titular de la autorización respectiva o a la reparación de las mismas.
 
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+La Secretaría deberá informar a la Comisión Estatal de Factibilidad la forma y términos de aplicación de los recursos obtenidos como ejecución de garantías a que hace referencia el presente artículo.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-40.- La subdivisión y fusión de un predio requiere autorización de la Secretaría, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro.
+40.- La subdivisión y fusión de un predio requiere del Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, previa autorización de la Secretaría, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y las demás aplicables.
+
+La autorización a que hace referencia el presente artículo, deberá ser remitida a la Comisión Estatal de Factibilidad, para la obtención del dictamen correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -5741,7 +5761,7 @@ Para la venta de lotes o vivienda nueva en que intervenga una desarrolladora de 
 
 La autorización de las subdivisiones a que se refiere el presente artículo, quedará sujeta a los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación de ceder superficies de terreno para vías públicas.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN OCTAVA. Del Plano de Lotificación de las Zonas de Urbanización Ejidal o Comunal
 
@@ -5749,7 +5769,9 @@ La autorización de las subdivisiones a que se refiere el presente artículo, qu
 
 ###### Artículo 5.
 
-42.- La autorización de subdivisiones, se sujetará a lo siguiente:
+42.- La emisión del Dictamen único de Factibilidad y autorización correspondiente de subdivisiones, se sujetará a lo siguiente:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Solo procederá en los casos siguientes:
 
@@ -5763,9 +5785,15 @@ d) Cuando provengan de decretos expropiatorios, inmatriculaciones administrativa
 
 e) Las resultantes de predios afectados por la determinación de límites estatales o municipales.
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 II. La dimensión mínima de los lotes resultantes de una subdivisión, será la que determine el plan municipal de desarrollo urbano respectivo. Cuando no exista plan o habiéndolo éste no determine la normatividad aplicable, la Secretaría en coordinación con el municipio respectivo, la establecerá;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 III. Los titulares de subdivisiones de predios o inmuebles con tres mil metros cuadrados o más de superficie, ubicados en áreas urbanas o urbanizables, quedarán obligados a ceder áreas de donación para equipamiento urbano, de acuerdo con el uso que se autorice, de conformidad con lo que establezca la reglamentación del presente Libro;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IV. La Reglamentación de este Libro, establecerá facilidades administrativas y/o exención de obligaciones para la autorización de subdivisiones en los casos siguientes:
 
@@ -5841,7 +5869,9 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 ###### Artículo 5.
 
-49.- Los condominios horizontales, verticales y mixtos, requerirán autorización de la Secretaría, de manera previa a la constitución de dicho régimen de propiedad, de conformidad con lo que establece este Libro y su reglamentación.
+49.- Los condominios horizontales, verticales y mixtos, requerirán del Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, previa autorización de la Secretaría, con antelación a la constitución de dicho régimen de propiedad, de conformidad con lo que establece este Libro y la reglamentación aplicable.
+
+La autorización a que hace referencia el presente artículo, deberá ser remitida a la Comisión Estatal de Factibilidad, para la obtención del dictamen correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -5869,11 +5899,11 @@ Los titulares de los condominios que se proyecte realizar en lotes provenientes 
 
 En condominios verticales habitacionales de tipo medio, residencial y residencial alto, el número máximo de viviendas será de ciento veinte por cada predio o lote resultante de la subdivisión o conjunto urbano.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
-52.- El trámite y resolución de las autorizaciones de condominios se sujetará a lo dispuesto en la reglamentación de este Libro.
+52.- El trámite y emisión del Dictamen Único de Factibilidad para condominios se sujetará a lo dispuesto en la reglamentación aplicable.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5945,13 +5975,13 @@ III. Se recabe previamente la opinión favorable de la Comisión de Planeación 
 
 En caso de no estar instalada tal Comisión, la autoridad encargada del desarrollo urbano municipal y previo dictamen técnico que elabore, emitirá su opinión; y
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Tratándose de cambios a usos del suelo de impacto regional, se requerirá el Dictamen Único de Factibilidad y demás requisitos que establezca la reglamentación.
+IV. Tratándose de cambios a usos del suelo de impacto urbano, se requerirá el Dictamen Único de Factibilidad y demás requisitos que establezca la reglamentación.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-Cuando se trate de cambios a usos de suelo de impacto regional, los municipios deberán remitir mensualmente de manera física o electrónica al sistema estatal, copia certificada signada con firma autógrafa, electrónica avanzada o sello electrónico en su caso, de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
+Cuando se trate de cambios a usos de suelo de impacto urbano, los municipios deberán remitir mensualmente de manera física o electrónica al sistema estatal, copia certificada signada con firma autógrafa, electrónica avanzada o sello electrónico en su caso, de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5983,7 +6013,9 @@ II. Las autorizaciones de:
 
 a) Conjuntos urbanos, condominios, fusiones, subdivisiones y relotificaciones;
 
-b) Cambios de uso del suelo, densidad, coeficiente de ocupación, coeficiente de utilización y altura que impliquen impacto regional; y
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+b) Cambios de uso del suelo, densidad, coeficiente de ocupación, coeficiente de utilización y altura que impliquen impacto urbano; y
 
 c) Apertura, prolongación o ampliación de vías públicas.
 
@@ -6055,9 +6087,9 @@ III. Revocación de las autorizaciones, licencias o permisos otorgados;
 
 IV. Multa, atendiendo a la gravedad de la infracción:
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos y los usos que generan impacto regional.
+a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos y los usos que generan impacto urbano.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -6571,7 +6603,9 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 14.- Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos sistemas y consejos municipales.
 
-Los ayuntamientos promoverán la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos; debiendo difundirlos cuando menos tres veces al año; dichos instrumentos deberán ser tomados por las autoridades competentes como base en la definición de los usos de suelo que produzcan un impacto regional, así como para la autorización y construcción de obras de infraestructura o asentamientos humanos.
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+Los ayuntamientos promoverán la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos; debiendo difundirlos cuando menos tres veces al año; dichos instrumentos deberán ser tomados por las autoridades competentes como base en la definición de los usos de suelo que produzcan un impacto urbano, así como para la autorización y construcción de obras de infraestructura o asentamientos humanos.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -6701,7 +6735,7 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 ###### Artículo 6.
 
-24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá evaluación técnica de protección civil al seno de la Comisión Estatal de Factibilidad, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
+24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá evaluación técnica de protección civil al seno de la Comisión Estatal de Factibilidad, en los usos de suelo que produzcan un impacto urbano sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
 
 > <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -6799,7 +6833,7 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 6.
 
@@ -8427,7 +8461,7 @@ IV. Implementar y ejecutar medidas y programas permanentes, con fines de prevenc
 
 Las autoridades deberán presentar a los conductores ante el Oficial Calificador respectivo, cuando los hechos constituyan una falta administrativa; y al Ministerio Público, cuando el hecho sea constitutivo de delito, según corresponda.
 
-Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial “Gaceta del Gobierno”, en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
+Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial "Gaceta del Gobierno", en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -11745,9 +11779,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -13163,9 +13197,9 @@ I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en 
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de la Secretaría de Infraestructura emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de Impacto regional, así corno (sic) las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto.
+III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de la Secretaría de Infraestructura emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de Impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto.
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -13407,7 +13441,7 @@ Si dentro de este plazo no fuere reclamado dicho material, la autoridad queda fa
 
 ### CAPITULO QUINTO. De los dictámenes
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
@@ -14049,7 +14083,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 ###### Artículo 17.
 
-58.- Se emitirán al seno de la Comisión Estatal de Factibilidad las evaluaciones técnicas de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
+58.- Se emitirán al seno de la Comisión Estatal de Factibilidad las evaluaciones técnicas de incorporación e impacto vial, tratándose de las autorizaciones de impacto urbano a que se refiere el Libro Quinto de este Código.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -15201,7 +15235,9 @@ G). Para modificación del proyecto de una obra autorizada:
 
 2. Planos de las modificaciones arquitectónicas, estructurales y de instalaciones, según el caso, firmados por el Director Responsable de Obra y/o por Corresponsable de Obra.
 
-3. Tratándose de usos de impacto regional, la correspondiente memoria de cálculo.
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+3. Tratándose de usos de impacto urbano, la correspondiente memoria de cálculo.
 
 H). Para la construcción e instalación de estaciones repetidoras y antenas para radiotelecomunicaciones; anuncios publicitarios que requieran de elementos estructurales; así como instalaciones o modificaciones de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico:
 
@@ -18563,7 +18599,7 @@ La Legislatura del Estado, al aprobar el presupuesto de egresos de cada ejercici
 
 G.G. 4 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 229.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 8.16 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 8.16 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18575,7 +18611,7 @@ CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan 
 
 G.G. 7 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 240.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18584,3 +18620,15 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Ejecutivo deberá expedir las disposiciones reglamentarias en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 8 DE SEPTIEMBRE DE 2017
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
