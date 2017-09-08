@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2016-12-20"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -667,8 +669,6 @@ I Bis. Aprobar e implementar programas y acciones que promuevan un proceso const
 
 I Ter. Aprobar y promover un programa para el otorgamiento de la licencia provisional de funcionamiento para negocios de bajo riesgo que no impliquen riesgos sanitarios, ambientales o de protección civil, conforme al Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, consignado en la Ley de la materia, mismo que deberá publicarse dentro de los primeros 30 días naturales de cada Ejercicio Fiscal y será aplicable hasta la publicación del siguiente catálogo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
 El otorgamiento de la licencia a que hace referencia el párrafo anterior, en ningún caso estará sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
@@ -781,8 +781,6 @@ XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las
 
 Además, podrán fomentar una mayor asignación presupuestal para mantenimiento de parques, jardines e infraestructura municipal procurando que éste sea destinado a la generación de empleos para los adultos mayores en trabajos de conservación y mantenimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
@@ -795,11 +793,13 @@ XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios par
 
 XXIV Ter. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 XXIV Quáter. Otorgar licencias y permisos para construcciones privadas y para el funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
+
+> <small>(ADICIONADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV Quinquies. Para las unidades económicas que tengan como actividad complementaria o principal la venta de bebidas alcohólicas, se otorgará licencia con vigencia de cinco años que deberá ser refrendada de manera anual, con independencia de que puedan ser sujetos de visitas de verificación para constatar el cumplimiento de las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -867,19 +867,13 @@ XLII. Convocar al procedimiento de designación de los Defensores Municipales de
 
 XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temporales o definitivas, así como los permisos para viajar al extranjero en misión oficial, que soliciten sus integrantes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XLIV. Crear el Registro Municipal de Unidades Económicas, donde se especifique la licencia de funcionamiento con la actividad de la unidad económica e impacto que generen, así como las demás características que se determinen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a unidades económicas de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1155,13 +1149,9 @@ XIII Bis. Desarrollar un programa permanente de mejora regulatoria, en coordinac
 
 XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
 Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1170,8 +1160,6 @@ XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acu
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
 XIII Quinquies. Desarrollar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, impulsando el uso estratégico de las tecnologías de la información en los trámites y servicios que se otorgan por parte del Ayuntamiento, conforme a lo establecido en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento y conforme a las disposiciones jurídicas de la materia;
-
-> <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARÁN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
 
 XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
 
@@ -1186,8 +1174,6 @@ XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones conteni
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 XVI Bis. Vigilar que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, cuenten con la correspondiente licencia de funcionamiento y con las disposiciones legales y reglamentarias correspondientes, instaurar los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1547,7 +1533,7 @@ n). De empleo;
 
 o). De población;
 
-> <small>N. DE E. MEDIANTE REFORMA EN LA G.G. DE 18 DE JULIO DE 2013, SE ADICIONA EL INCISO J) A LA FRACCIÓN I, RECORRIÉNDOSE Y ADECUÁNDOSE EN SU ORDEN LOS SUBSECUENTES INCISOS, POR LO QUE EL ANTERIOR INCISO Ñ) BIS PASÓ A FORMAR EL ACTUAL INCISO P).</small>
+> <small>[N. DE E. MEDIANTE REFORMA EN LA G.G. DE 18 DE JULIO DE 2013, SE ADICIONA EL INCISO J) A LA FRACCIÓN I, RECORRIÉNDOSE Y ADECUÁNDOSE EN SU ORDEN LOS SUBSECUENTES INCISOS, POR LO QUE EL ANTERIOR INCISO Ñ) BIS PASÓ A FORMAR EL ACTUAL INCISO P).]</small>
 
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1574,8 +1560,6 @@ u) De Protección e Inclusión a Personas con Discapacidad;
 > <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
 
 v) De prevención social de la violencia y la delincuencia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -2033,8 +2017,6 @@ IV. Desarrollar e implementar las acciones de coordinación que permitan la adec
 
 V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de México en coordinación con los distintos órdenes de Gobierno en los términos que establece la Ley de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 En los casos en que no se haya celebrado convenio de coordinación para la unidad económica del Sistema de Apertura Rápida de Empresas del Estado de México en el municipio, se deberá establecer y operar una ventanilla única que brinde orientación, asesoría y gestión a los particulares respecto de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generen impacto regional;
@@ -2065,19 +2047,13 @@ XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias 
 
 XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
 Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XIX. Operar y actualizar el Registro Municipal de Unidades Económicas de los permisos o licencias de funcionamiento otorgadas a las unidades económicas respectivas, así como remitir dentro de los cinco días hábiles siguientes los datos generados al Sistema que al efecto integre la Secretaría de Desarrollo Económico, a la Secretaría de Seguridad Ciudadana y a la Procuraduría General de Justicia del Estado de México, la información respectiva;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -2549,27 +2525,19 @@ III. La convocatoria abierta también se difundirá y se hará del conocimiento 
 
 IV. De no ocurrir a la convocatoria más de tres aspirantes, el ayuntamiento deberá emitir una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera convocatoria;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
 
 V. En caso de no presentarse suficientes aspirantes a la segunda convocatoria para integrar la terna, los miembros del ayuntamiento podrán proponer como aspirantes a personas que se distingan por su honorabilidad o reconocida autoridad moral, respetabilidad y disposición de servicio con sentido humanista a los más desprotegidos. La emisión de la terna corresponderá a la Comisión de Derechos Humanos del Estado de México, en base a la propuesta de la Comisión Municipal de Derechos Humanos, quien deberá previamente escuchar la opinión de la sociedad civil, organismos públicos y privados que tengan por objeto la defensa y protección de los derechos humanos, terna que será sometida a la consideración del cabildo para la designación del Defensor Municipal de Derechos Humanos.
 
 VI. Si al inicio de la administración municipal no se cuenta con un Defensor Municipal de Derechos Humanos, el ayuntamiento deberá emitir la convocatoria respectiva a más tardar dentro de los quince días naturales siguientes a que se le haya tomado la protesta de ley; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 VII. (DEROGADA, G.G. 15 DE JUNIO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 Artículo 147 B.- El incumplimiento en la emisión de la convocatoria, de quien no la ordene o no la ejecute, será motivo de responsabilidad administrativa, existiendo acción pública para tal efecto, la cual podrá ser informada al Órgano de Control Interno de la Legislatura Estatal.
 
 Artículo 147 B Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -2595,21 +2563,15 @@ VII. Publicación de resultados.
 
 Artículo 147 D Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 Artículo 147 E.- La Secretaría del ayuntamiento recibirá las solicitudes y documentación de los aspirantes, acusándolo de recibido y con el folio respectivo y lo hará del conocimiento del ayuntamiento en la sesión de cabildo ordinaria siguiente, a fin de acordar su remisión a la Comisión Municipal de Derechos Humanos, para la declaratoria de terna, en no más de cinco días hábiles, acompañando copia certificada del punto de acuerdo respectivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 Artículo 147 F.- Una vez recibida la documentación de los aspirantes en la Comisión Municipal de Derechos Humanos, previo estudio y consulta con la sociedad civil organizada, organismos públicos y privados, se emitirá la declaratoria de terna, en un término no mayor a diez días hábiles.
 
 Los puntos no previstos en la convocatoria respectiva serán resueltos por el Ayuntamiento.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -2638,8 +2600,6 @@ II. Tener residencia efectiva en el municipio no menor a tres años;
 III. Tener preferentemente licenciatura, así como experiencia o estudios en derechos humanos;
 
 IV. Tener más de 23 años al momento de su designación;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -3018,8 +2978,6 @@ j) Atender a los vecinos de su adscripción en los conflictos que no sean consti
 II. De los Oficiales Calificadores:
 
 a) (DEROGADO, G.G. 24 DE AGOSTO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -4536,3 +4494,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
