@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2017-09-05"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1855,11 +1855,9 @@ Este delito se perseguirá por querella de la dependencia u órgano estatal del 
 
 ### CAPITULO XIX. VENTA ILICITA DE BEBIDAS ALCOHOLICAS
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
 ###### Artículo 148 Bis.
 
-Al que venda o suministre bebidas alcohólicas, sin contar con la licencia de funcionamiento, se le impondrán de tres a seis años de prisión y de quinientos a dos mil días multa.
+(DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 17 DE JULIO DE 2013)</small>
 
@@ -2729,6 +2727,10 @@ ll. Exija o solicite más requisitos de los señalados en las leyes u ordenamien
 
 III. Solicite pagos no contemplados en la ley u ordenamientos en la materia para continuar los trámites, servicios, actos, procesos o Procedimientos que la ley le obliga a realizar, que obstruya una inversión económica.
 
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+También comete este delito la persona que dolosamente obstruya por cualquier medio ilícito, el desarrollo de proyectos de unidades económicas e inversiones que hayan cumplido con los requisitos y trámites legales correspondientes para su ejecución.
+
 Al responsable de este delito se le impondrá una pena de tres a seis años de prisión y de quinientos a mil días multa y la destitución del cargo e inhabilitación de dos a ocho años para desempeñar empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
@@ -2751,13 +2753,11 @@ Comete el delito contra las personas menores de edad y quienes no tienen la capa
 
 I. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le impondrá pena de tres a seis años de prisión y de doscientos a dos mil días multa.
 
-> <small>(F. DE E., G.G. 28 DE FEBRERO DE 2013)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-La pena señalada en el párrafo anterior, se aumentará hasta en una mitad a quien venda alguna bebida alcohólica a menores de edad, ya sea en envase cerrado, abierto o para consumo por copeo;
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2014)</small>
-
-Se impondrá la pena señalada en el párrafo primero, al que organice o realice eventos, reuniones, fiestas o convivios al interior de inmuebles particulares con la finalidad de obtener una ganancia derivada de la venta y consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
+Se impondrá la pena señalada en el párrafo primero, al que organice o realice eventos, reuniones, fiestas o convivios al interior de inmuebles particulares, vendiendo o facilitando para el consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
 
 II. A formar parte de una asociación delictuosa o de delincuencia organizada, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
@@ -2777,9 +2777,7 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 Las penas a que se refiere este artículo se incrementarán hasta en una mitad, cuando la conducta se realice en un radio menor o igual a quinientos metros de alguna estancia infantil, institución educativa, parques públicos o centros deportivos.
 
-> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2014)</small>
-
-A quien permita directa o indirectamente el acceso a personas menores de edad a establecimientos dedicados a la venta de bebidas alcohólicas como discotecas, bares, cantinas, pulquerías, centros nocturnos, centros de espectáculos, billares, centros de venta de cervezas o similares, así como a eventos, reuniones, fiestas o convivios al interior de inmuebles particulares, se le aplicará de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+> <small>(DEROGADO OCTAVO PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -4142,8 +4140,6 @@ V. Imponga labores insalubres o peligrosas y trabajos nocturnos injustificados a
 VI. Impida a una mujer ejercer su periodo de lactancia o a quien no le otorgue la licencia respectiva.
 
 VII. Permita o tolere actos de hostigamiento y/o acoso sexual en contra de alguna mujer en el centro de trabajo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -6837,7 +6833,7 @@ VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestale
 
 G.G. 1 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
 
@@ -6852,3 +6848,15 @@ G.G. 5 DE SEPTIEMBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
