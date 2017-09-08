@@ -4,7 +4,7 @@ identifier: "SIN-ley-estatal-para-combatir-prevenir-y-sancionar-la-trata-de-8218
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2011-07-13"
+last_updated: "2017-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ESTATAL PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 8 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de julio de 2011.
 
@@ -482,3 +484,35 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 172 POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley Estatal para Combatir, Prevenir y Sancionar la Trata de Personas, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 083, de fecha 13 de julio de 2011.
+
+TERCERO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 60 días a partir de la entrada en vigor de la presente Ley.
+
+La Comisión Interinstitucional deberá aprobar en un plazo máximo de 90 días, a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir al Titular del Poder Ejecutivo del Estado para su aprobación y posterior publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Todas las referencias realizadas a la Comisión Interinstitucional para el Combate de la Trata de Personas en el Estado de Sinaloa, en Leyes, Decretos, Reglamentos, Circulares y demás disposiciones jurídicas, se entenderán realizadas a la Comisión Interinstitucional que se crea mediante el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado dentro del término de 90 días posteriores al inicio de vigencia del presente Decreto, deberá elaborar y publicar en el Periódico Oficial "El Estado de Sinaloa" el Reglamento correspondiente.
+
+QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa o investigación, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente Decreto, seguirán rigiéndose en lo procedente por las normas vigentes anteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. La Fiscalía deberá crear y operar fiscalías especializadas para la investigación de las conductas previstas en la Ley General y esta Ley, que contarán con Ministerios Públicos y policías especializados y recursos humanos, financieros y materiales que requieran para su efectiva operación. Estas unidades se integrarán con servicios periciales y técnicos especializados para el ejercicio de su función.
+
+Asimismo, deberá capacitar a su personal en materia de planeación de investigación.
+
+Para ingresar y permanecer en las fiscalías especializadas en la investigación y persecución de los delitos previstos en la Ley General, será necesario cumplir con los requisitos previstos en los lineamientos establecidos para tal efecto por el Sistema Nacional de Seguridad Pública de conformidad con el artículo tercero transitorio de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+SÉPTIMO. El Fondo Estatal que se crea mediante la presente Ley se constituirá cuando el Congreso del Estado asigne recursos para tal efecto.
+
+Hasta en tanto no se constituya el Fondo Estatal se seguirá aplicando el Fondo de Ayuda, Asistencia y Reparación Integral previsto en el artículo 137 de la Ley de Atención y Protección a Víctimas del Estado de Sinaloa, debiéndose llevar a cabo los procedimientos descritos para el ingreso de las víctimas al Registro Estatal de Víctimas, así como de acceso previstos en el Título Décimo de la Ley antes referida.
+
+OCTAVO. El Ejecutivo del Estado y los municipios deberán incluir a partir del ejercicio fiscal 2018 y en los subsecuentes, dentro de sus presupuestos anuales, recursos suficientes para la implementación de programas y acciones para prevenir, atender, combatir y erradicar dichos delitos conforme las facultades previstas en la Ley General y la presente Ley.
