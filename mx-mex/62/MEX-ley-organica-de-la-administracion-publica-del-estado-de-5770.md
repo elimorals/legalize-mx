@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2017-05-30"
+last_updated: "2017-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -331,13 +331,9 @@ XXX. Coordinar los servicios de seguridad, vigilancia y protección regional en 
 
 XXXI. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
 
 XXXII. Organizar, controlar y dirigir a la Comisión Ejecutiva Estatal de Atención a Víctimas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE AGOSTO DE 2015)</small>
 
@@ -419,8 +415,6 @@ I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás d
 
 II. Recaudar los impuestos, derechos, aportaciones de mejoras, productos y aprovechamientos, que correspondan al Estado; y las contribuciones federales y municipales en los términos de los convenios suscritos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 En cuanto a las contribuciones federales en términos de los convenios suscritos señalados en el párrafo anterior, para la mejor organización del trabajo se establece que el Secretario de Finanzas encomiende a los funcionarios a que se refiere el último y penúltimo párrafos del presente artículo, cualesquiera de sus facultades otorgadas por los propios convenios suscritos, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por el propio Secretario.
@@ -486,8 +480,6 @@ Difundir permanentemente y publicar anualmente las disposiciones fiscales estata
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
 
 XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la hacienda pública del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -661,8 +653,6 @@ LI. Emitir normas, políticas y procedimientos para el establecimiento y la oper
 
 LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 LIII. Autorizar la constitución de fideicomisos y verificar el debido cumplimiento de sus fines en aquellos en los que las Dependencias y Entidades Públicas del Gobierno del Estado de México sean parte, así como registrar, supervisar y evaluar su funcionamiento en cualquier tiempo;
@@ -672,8 +662,6 @@ LIII. Autorizar la constitución de fideicomisos y verificar el debido cumplimie
 LIV. Comparecer ante terceros con facultades para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos en los que participe como fideicomitente un organismo público descentralizado, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado y siempre y cuando no se garanticen obligaciones a favor de terceros. En los convenios a que se refiere esta fracción, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
 
 En los convenios antes mencionados que celebre el Estado se podrán estipular las cláusulas que se requieran incluyendo, entre otras, las aplicables a la jurisdicción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -715,13 +703,9 @@ LXIII. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las
 
 LXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 El Secretario de Finanzas, para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Procurador Fiscal, Contador General, Directores Generales, Directores de Área, Titulares de Área, Subdirectores, Jefes de Departamento, Coordinadores, Delegados, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones legales, salvo aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas únicamente por el Secretario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -995,17 +979,19 @@ XXVI. Promover la transformación de las guarderías y de las escuelas del siste
 
 XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Urbano y Metropolitano es la dependencia encargada del ordenamiento territorial de los asentamientos humanos y de regular el desarrollo urbano de los centros de población y la vivienda, así como promover, coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
+La Secretaría de Desarrollo Urbano y Metropolitano es la dependencia encargada del ordenamiento territorial de los asentamientos humanos, de regular el desarrollo urbano de los centros de población, la vivienda al seno de la Comisión Estatal de Factibilidad, así como coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir las políticas estatales de asentamientos humanos, urbanismo y vivienda.
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+I.- Formular y conducir las políticas estatales de asentamientos humanos, urbanismo y por cuanto hace a vivienda, participar al seno de la Comisión Estatal de Factibilidad.
 
 II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ordenamiento territorial de los asentamientos humanos, del desarrollo urbano y vivienda;
 
@@ -1029,7 +1015,11 @@ XI.- Establecer los lineamientos para la regulación de la tenencia de la tierra
 
 XII.- Promover, apoyar y ejecutar programas de regularización de la tenencia de la tierra, con la participación que corresponda a los municipios;
 
-XIII.- Otorgar autorizaciones para subdivisiones, fusiones y relotificaciones de predios y conjuntos urbanos, en los términos previstos por la legislación aplicable y su reglamentación;
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+XIII.- Emitir autorizaciones al seno de la Comisión Estatal de Factibilidad para subdivisiones, en los términos de la legislación aplicable y su reglamentación.
+
+Así también las autorizaciones para fusiones y relotificaciones de predios y conjuntos urbanos en los términos de la legislación aplicable y su reglamentación.
 
 XIV.- Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades;
 
@@ -1041,11 +1031,7 @@ XVII.- Determinar la apertura o modificación de vías públicas;
 
 XVIII.- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
-
-XIX.- Determinar el uso de suelo para las zonas especiales donde se establecerán los conjuntos urbanos de unidades económicas que su actividad principal sea la venta de vehículos usados en tianguis de autos y de aprovechamiento de autopartes de vehículos usados que han concluido su vida útil o siniestrados;
+XIX.- (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 (REFORMADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
@@ -1094,6 +1080,8 @@ XXX.- Fomentar la participación ciudadana en la planeación y evaluación de ac
 (ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
 XXXI.- Las demás que le señalen otras disposiciones legales.
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 241, PUBLICADO EN LA G.G. 8 DE SEPTIEMBRE DE 2017, CUANDO EN OTROS ORDENAMIENTOS SE HAGA REFERENCIA AL IMPACTO REGIONAL, SE TENDRÁ POR ENTENDIDO QUE SERÁ SUPLIDO POR IMPACTO URBANO, POR LO CUAL LAS AUTORIDADES ESTATALES Y MUNICIPALES DEBERÁN LLEVAR A CABO LAS ADECUACIONES A SU NORMATIVIDAD.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
 
@@ -1487,8 +1475,6 @@ XX. Las demás que señalen el Reglamento y otras disposiciones jurídicas relat
 
 (DEROGADO, G.G. 27 DE JULIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
@@ -1547,55 +1533,37 @@ IX. Formular y promover el establecimiento de medidas para el fomento y protecci
 
 X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial y comercial contengan los convenios firmados entre el mismo y la administración pública federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 XI. Crear, operar y mantener actualizado en coordinación con los ayuntamientos, el Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
 
 XII. Difundir la información relativa a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
 
 XIII. Expedir Normas Técnicas en las materias de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
 
 XIV. Vigilar el debido cumplimiento del Dictamen de Factibilidad Comercial Automotriz, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XV. Crear, operar y mantener actualizado el Sistema de Unidades Económicas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XVI. Crear y operar el Registro Estatal de Unidades Económicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XVII. Instalar y operar las ventanillas de gestión y mantener actualizada la información del Sistema en coordinación con los ayuntamientos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XVIII. Emitir dictamen técnico para la ubicación de las zonas especiales de unidades económicas que su actividad principal sea la venta de vehículos usados de tianguis de autos o aprovechamiento de autopartes de los vehículos usados que han concluido su vida útil o siniestrados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1801,25 +1769,19 @@ XXVIII. Las demás que le señalen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 38 Ter.
 
-La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del periódico oficial “Gaceta del Gobierno”, las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de proporcionar información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias y demás disposiciones de observancia general en el Estado.
+La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del periódico oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de proporcionar información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias y demás disposiciones de observancia general en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], 24 DE NOVIEMBRE DE 2016)</small>
 
 A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
 
 I. Representar al Gobernador y al Secretario General de Gobierno en los juicios en los que sean parte, pudiendo delegar ésta, en terceros o subalternos, de conformidad a las disposiciones reglamentarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 II. Proporcionar y coordinar la asesoría en materia jurídica y consultiva a las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, a excepción de la materia fiscal, con apego a las leyes, reglamentos y demás disposiciones aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -1833,8 +1795,6 @@ IV. Revisar o elaborar los proyectos de reglamentos, decretos o acuerdos y demá
 
 V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 VI. Coordinar la función jurídica de la Administración Pública del Gobierno del Estado de México, con excepción de la materia fiscal;
@@ -1846,8 +1806,6 @@ VII. Asesorar jurídicamente al Gobernador en los asuntos que le encomiende;
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 VIII. Elaborar el proyecto de agenda legislativa del Gobernador, atendiendo las propuestas dé las dependencias y organismos, y someterla a la consideración del mismo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -1913,8 +1871,6 @@ XXIII. Coordinar y vigilar la Función Registral del Estado de México conforme 
 
 XXIV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
 
 XXV. Organizar y controlar a la defensoría pública.
@@ -1965,13 +1921,9 @@ Para efectos de lo establecido en esta fracción se considerará la opinión de 
 
 XXXV. Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 XXXVI. Presidir, dirigir, coordinar y organizar a la Comisión Estatal de Factibilidad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2077,13 +2029,9 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 El Gobernador, a través de sus dependencias y entidades podrá constituir fideicomisos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 Asimismo el Gobernador, a través de la Secretaría de Finanzas, podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -3286,3 +3234,15 @@ VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en 
 VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
 
 VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
+
+G.G. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
