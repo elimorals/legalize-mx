@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-07-07"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -395,7 +395,9 @@ El Instituto Nacional Electoral ejercerá en la forma que disponga la ley, las f
 
 La ley fijará los topes, montos, tiempos y las modalidades que tendrán las precampañas y las campañas electorales, las cuales deberán ser respetuosas y propositivas; de igual manera determinará las reglas que deberán observar los partidos, sus militantes y simpatizantes, así como los candidatos independientes durante las mismas, y las sanciones a las que se harán acreedores en caso de su inobservancia.
 
-En los procesos electorales en que se verifique la elección de Gobernador del Estado, la duración de las campañas será de sesenta días. En aquellos procesos en que únicamente se elijan Diputados al Congreso del Estado y Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, las campañas durarán cuarenta y cinco días. En cualquier caso, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+En los procesos electorales en que se verifique la elección de Gobernador del Estado, la duración de las campañas será de sesenta días. En aquellos procesos en que únicamente se elijan Diputados al Congreso del Estado y Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, las campañas durarán treinta y cinco días. En cualquier caso, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 Los partidos políticos y candidatos tendrán acceso equitativo a los medios masivos de comunicación social, conforme a las normas establecidas en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las que fije la ley. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas. Los partidos políticos y los candidatos no podrán contratar o adquirir en ningún momento, por sí o mediante terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
@@ -711,13 +713,9 @@ En el segundo período ordinario de sesiones recibirá la cuenta pública del Go
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y, de proceder, expedirá el finiquito respectivo, por cada ejercicio fiscal en los casos de las cuentas públicas del Estado y de los Municipios.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
-
-Cuando se decrete la suspensión de la aprobación de una cuenta pública, ésta deberá ser nuevamente discutida en el siguiente período ordinario de sesiones, previa a la revisión y aprobación en su caso, de la que corresponda al mismo.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -879,21 +877,29 @@ a) Establecer, mediante la expedición de una ley, las bases conforme a las cual
 
 b) Autorizar al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal y Paramunicipal; conforme a las bases que se establezcan en la ley y en los casos que impliquen obligaciones que constituyan deuda pública, mediante el voto de la mayoría de sus miembros, la celebración de contratos de colaboración público privada, la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y para la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Revisar y fiscalizar la Cuenta Pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones de los Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de las entidades estatales de fiscalización tendrán carácter público.
+XXII. Revisar y fiscalizar la Cuenta Pública del año anterior, discutiendo, aprobando o rechazando, en su caso, un dictamen del Informe General del Resultado, así como de los Informes Individuales de la Revisión y Fiscalización de la Cuenta Pública del Gobierno del Estado y de los Gobiernos Municipales, elaborados por la Auditoría Superior del Estado, con el objeto de someterlo a votación del Pleno, evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones de los Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de las entidades estatales de fiscalización tendrán carácter público.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 La revisión de la Cuenta Pública se realizará a través de la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura, la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoria Superior del Estado contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la Fiscalización Superior de la Cuenta Pública.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 El Congreso del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere la Sección V, del Capítulo II, del Título IV de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo dispuesto en dicha Sección.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 El Congreso del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-XXII Bis. Revisar y fiscalizar el informe que rinda la Auditoría Superior del Estado sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados o de participación estatal o municipal, en los términos previstos en las leyes;
+XXII BIS. Revisar, discutir, aprobar o rechazar, en su caso, un dictamen del informe que rinda la Auditoría Superior del Estado sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados o de participación estatal o municipal, en los términos previstos en las leyes. La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior del Estado, mismas que seguirán el procedimiento previsto en la Ley;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2004)</small>
 
@@ -4239,25 +4245,31 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO. Una vez que la autoridad federal establezca los lineamientos a que se refiere el artículo Sexto Transitorio de la reforma a la Constitución Federal en materia de Disciplina Financiera publicada en el Diario Oficial de la Federación el día 26 de mayo de 2015, el Estado y los Municipios enviarán al Ejecutivo Federal y al Congreso de la Unión un informe sobre los empréstitos y obligaciones de pago vigentes.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+P.O. 8 DE SEPTIEMBRE DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 189 QUE REFORMA LAS FRACCIONES XXII, PÁRRAFO PRIMERO Y XXII BIS DEL ARTÍCULO 43 Y DEROGA LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 37, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+SEGUNDO. Las funciones de fiscalización y revisión del Congreso del Estado y de la Auditoría Superior del Estado derivadas del presente Decreto entrarán en vigor a partir de la revisión respectiva de las cuentas públicas del ejercicio fiscal del año 2017, conforme a sus tiempos de presentación y revisión ya establecidos en la Constitución Política del Estado.
 
-CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+Precisándose que los ejercicios fiscales cuya revisión fue semestral seguirán siendo analizados bajo la regulación vigente al momento del inicio de su fiscalización.
 
-G.G. 29 DE NOVIEMBRE DE 2017.
+TERCERO. El Congreso del Estado deberá expedir las modificaciones necesarias para la aplicación del presente Decreto a la Ley de la Auditoría Superior del Estado y demás ordenamientos aplicables dentro de los 60 días posteriores a su inicio de vigencia.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257.- POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XIX DEL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+CUARTO. La Auditoría Superior del Estado deberá adecuar su Reglamento Interior dentro de los 90 días posteriores al inicio de vigencia del presente Decreto.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+P.O. 8 DE SEPTIEMBRE DE 2017.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 190 QUE REFORMA EL PÁRRAFO DÉCIMO SEXTO DEL ARTÍCULO 14 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-G.G. 5 DE DICIEMBRE DE 2017.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de la publicación de la Declaratoria que emita el Tribunal Electoral del Estado de Sinaloa, de conclusión del proceso electoral 2017-2018 en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Congreso del Estado en un plazo de 30 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral del Estado conforme al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
