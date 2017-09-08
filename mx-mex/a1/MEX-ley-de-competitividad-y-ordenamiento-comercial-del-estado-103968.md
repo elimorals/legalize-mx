@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2016-12-20"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -73,13 +75,9 @@ VII. Código Financiero: Al Código Financiero del Estado de México y Municipio
 
 VIII. Comercializadora: A la unidad económica donde se ejerce la compra y/o venta de oro y/o plata.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 VIII Bis. Comisión: A la Comisión Estatal de Factibilidad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -89,13 +87,9 @@ X. COPRISEM: A la Comisión para la Protección contra Riesgos Sanitarios del Es
 
 XI. Dependiente: A toda persona que desempeñe, constantemente, las gestiones propias del funcionamiento de la unidad económica en ausencia, a nombre y cuenta del titular.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 XIII. Enseres en vía pública: A aquellos objetos como sombrillas, mesas, sillas o cualquier instalación desmontable, colocados en la vía pública para la prestación del servicio que otorga la unidad económica.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -139,8 +133,6 @@ XXXI. Traspaso: A la transmisión que realiza el titular de un permiso o una lic
 
 XXXII. Unidad económica: A la productora de bienes y servicios.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 XXXIII. Unidad económica de alto impacto: A la que tiene como actividad principal la venta de bebidas alcohólicas para su consumo inmediato, y las demás que requieran de dictamen único de factibilidad.
@@ -159,7 +151,7 @@ XXXIX. Verificación: Al acto administrativo por el que se realiza la evaluació
 
 XL. Verificadores: A los servidores públicos autorizados que inspeccionan las actividades que se realizan en las unidades económicas y comprueban el cumplimiento de las disposiciones jurídicas aplicables.
 
-XLI. Zona especial: A los conjuntos urbanos de unidades económicas de Alto Impacto donde se establecerán las unidades que sus actividades principales sean la de tianguis de autos y la de aprovechamiento de autopartes.
+XLI. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 3.
 
@@ -215,17 +207,13 @@ VIII. Determinar acciones de simplificación.
 
 IX. Instruir la realización y el trámite de visitas de verificación.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 X. Dar respuesta, en un término de tres días hábiles, a las solicitudes que le realice la ventanilla única.
 
 Por cuanto hace a la ventanilla de gestión, la Comisión dará respuesta en los términos contemplados en su reglamento.
 
-> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
-
-XI. Establecer y/o en su caso autorizar las zonas especiales a que hace referencia esta Ley.
+XI. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 XII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
@@ -259,8 +247,6 @@ II. Integrar y operar la ventanilla única.
 
 III. Operar, digitalizar y mantener, semanalmente actualizado, el registro municipal, a través de la Dirección de Desarrollo Económico o su equivalente, que opere en su demarcación, el cual deberá publicarse en el portal de Internet del municipio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 IV. Enviar, dentro de los cinco días hábiles siguientes de cada mes calendario la actualización de su registro municipal, el informe correspondiente a las autoridades estatales y a la Comisión, para actualizar el registro estatal.
@@ -278,8 +264,6 @@ IX. Prevenir las adicciones, restringiendo el expendio, consumo de bebidas alcoh
 X. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. DEL SISTEMA DE UNIDADES ECONÓMICAS
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -377,8 +361,6 @@ V. Las demás que sean necesarias para la apertura de las unidades económicas.
 
 La ventanilla única entregará al solicitante o representante legal la respuesta de su trámite en un término no mayor a cinco días hábiles, a partir de la fecha del acuse de recibo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en los términos contemplados en el Reglamento de la Comisión.
@@ -401,6 +383,8 @@ La operación y debido funcionamiento de la ventanilla de gestión estará a car
 
 #### SECCIÓN I. DE LAS UNIDADES ECONÓMICAS DE MEDIANO IMPACTO
 
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ## TÍTULO SEGUNDO. DE LAS UNIDADES ECONÓMICAS
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES Y/O DEPENDIENTES
@@ -409,15 +393,11 @@ La operación y debido funcionamiento de la ventanilla de gestión estará a car
 
 Los titulares de las unidades económicas tienen las obligaciones siguientes:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 I. Destinar el local exclusivamente para la actividad autorizada en el Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según sea el caso.
 
 II. Adoptar todas las medidas que sean necesarias para evitar la comisión de conductas ilícitas o lesivas a la persona humana o se incite a estas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -513,9 +493,9 @@ IX. Introducir o permitir el ingreso a las unidades económicas de cualquier tip
 
 X. El baile con contenido sexual en unidades económicas.
 
-XI. El aprovechamiento de vehículos usados que han concluido su vida útil o siniestrado, si su unidad económica no se encuentra en la zona especial para éste.
+XI. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
-XII. La enajenación y comercialización de vehículos automotores usados y autopartes usadas, en las unidades económicas denominadas tianguis de autos, fuera de la zona especial.
+XII. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 XIII. De igual manera queda prohibida la colocación de regaderas en las instalaciones de las unidades económicas dedicadas a la venta y/o distribución de bebidas alcohólicas.
 
@@ -803,7 +783,11 @@ Los titulares de aquellas unidades económicas en donde se preste al público el
 
 ###### Artículo 46.
 
-Los salones de fiesta tendrán como actividad única la renta de espacio a particulares para la celebración de eventos y fiestas privadas, sin que en ningún caso se pueda llevar a cabo la venta al menudeo de alimentos o bebidas, incluidas las alcohólicas, o el cobro de una cantidad por admisión individual. Esta disposición aplica a los jardines que sean utilizados para los mismos fines.
+Los salones de fiesta tendrán como actividad, la renta de espacio a particulares para la celebración de eventos y fiestas privadas y podrán llevar a cabo la venta de alimentos o bebidas, incluidas las alcohólicas, sin que en ningún caso se pueda llevar a cabo el cobro de una cantidad por admisión individual. Esta disposición aplica a los jardines que sean utilizados para los mismos fines.
+
+Los salones, jardines y/o análogos que lleven a cabo la venta de bebidas alcohólicas deberán contar con el Dictamen Único de Factibilidad, en términos de lo dispuesto en esta Ley.
+
+Los salones de fiesta, jardines y/o análogos que no lleven a cabo la venta de bebidas alcohólicas sino únicamente presten el servicio de renta para la celebración de eventos y fiestas privadas no requerirán de dicho Dictamen, sin embargo, deberán dar cumplimiento a las disposiciones de la materia aplicables.
 
 ###### Artículo 47.
 
@@ -869,7 +853,9 @@ VIII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 Las unidades económicas de mediano impacto tendrán los siguientes horarios de prestación de servicios y de venta, consumo o distribución de bebidas alcohólicas:
 
-> <small>N. DE E. VÉASE TABLA EN LA G. G. DE 18 DE DICIEMBRE DE 2014, PÁGINA 22.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G. G. DE 18 DE DICIEMBRE DE 2014, PÁGINA 22.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.G. DE 8 DE SEPTIEMBRE DE 2017, PÁGINA 3.]</small>
 
 ###### Artículo 52.
 
@@ -878,6 +864,12 @@ Las unidades económicas que opten por la modalidad de condicionar la prestació
 En la solicitud de permiso correspondiente se manifestará que el objeto social del mismo no contiene criterios discriminatorios de ninguna naturaleza para la admisión de miembros. Estas unidades económicas no prestarán el servicio al público en general, solo a aquellas personas que acrediten con un documento expedido por la unidad económica la membresía de pertenencia.
 
 Las unidades económicas de alto impacto no podrán tener la modalidad de club privado.
+
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 52 Bis.
+
+Para unidades económicas de mediano impacto, la Comisión Estatal de Factibilidad, por conducto de su presidenta o presidente, en términos de lo dispuesto en su Reglamento Interior, en caso de estimarlo indispensable, podrá definir los requisitos para la apertura, instalación, funcionamiento, operación y ampliación de éstas, con la finalidad de prevenir que el costo que generan los requisitos aplicables, sea mayor a la inversión del proyecto económico y no se cause un perjuicio a la o al titular del proyecto.
 
 #### SECCIÓN III. DE LOS REQUISITOS PARA OBTENER PERMISO O LICENCIA DE FUNCIONAMIENTO PARA LAS UNIDADES ECONÓMICAS DE MEDIANO Y ALTO IMPACTO
 
@@ -899,7 +891,7 @@ Las unidades económicas de alto impacto no podrán ubicarse a menos de 500 metr
 
 Las unidades económicas de alto impacto tendrán los siguientes horarios de prestación de sus servicios y de venta, consumo o distribución de bebidas alcohólicas:
 
-> <small>N. DE E. VÉASE TABLA EN LA G. G. DE 18 DE DICIEMBRE DE 2014, DE LA PÁGINA 22 A LA 23.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G. G. DE 18 DE DICIEMBRE DE 2014, DE LA PÁGINA 22 A LA 23.]</small>
 
 Estos horarios por ningún motivo podrán ser ampliados.
 
@@ -973,8 +965,6 @@ V. La capacidad de aforo respectiva.
 
 VI. Dar cuenta del programa interno de protección civil.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 VII. Dictamen Único de Factibilidad o permiso, en su caso, emitido por la autoridad Estatal.
@@ -990,8 +980,6 @@ La licencia de funcionamiento se revalidará cada año, el titular o la autorida
 I. Que las condiciones originales para el funcionamiento de las unidades económicas no han variado.
 
 II. Monto del pago de derechos efectuado y datos de la tesorería.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1015,15 +1003,11 @@ Una vez cubiertos los requisitos señalados en el presente artículo, la autorid
 
 #### SECCIÓN II. DE LOS REQUISITOS PARA LA OPERACIÓN DE LAS UNIDADES ECONÓMICAS DEDICADAS A LA VENTA Y/O DISTRIBUCIÓN DE BEBIDAS ALCOHÓLICAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 69.
 
 Las disposiciones de este Título establecen los mecanismos de participación de las autoridades en la regulación del funcionamiento de las unidades económicas cuya actividad económica permita la venta y/o distribución de bebidas alcohólicas en la Entidad, con el objeto de implementar medidas y acciones que tiendan a prevenir, concientizar, reducir y medir el consumo de bebidas alcohólicas que dañen, deterioren o pongan en riesgo la salud, la calidad y las expectativas de vida de la persona.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1065,19 +1049,23 @@ IV. Cumplir con los horarios autorizados para la venta, expendio o consumo de be
 
 V. Informar a sus clientes sobre los efectos nocivos del abuso en el consumo del alcohol.
 
-VI. Contar con instrumentos que permitan a los clientes que así lo soliciten cuantificar la concentración de alcohol en la sangre a través del aliento, con el objeto de contribuir al consumo moderado y la prevención de accidentes.
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Contar con al menos un instrumento que permita a los clientes que así lo soliciten cuantificar la concentración de alcohol en la sangre a través del aliento, con el objeto de contribuir al consumo moderado y la prevención de accidentes.
 
 VII. Cuando el titular o dependiente observe notoriamente alcoholizados a los clientes, les ofrezca llamar a un taxi, exhortándoles a no conducir.
 
-VIII. Contar con publicidad escrita visible que indique: “El abuso en el consumo de bebidas alcohólicas es dañino para la salud”. “El consumo de bebidas alcohólicas está prohibido a menores de edad”. “Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito”. “Esta unidad económica cuenta con la licencia de funcionamiento y el dictamen de factibilidad de impacto sanitario vigentes, que autorizan la venta de bebidas alcohólicas". “La venta de bebidas alcohólicas sin licencia es un delito”. "Por tu seguridad propón un conductor designado”. "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de esta unidad económica".
+> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+VIII. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud". "El consumo de bebidas alcohólicas está prohibido a menores de edad". "Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito". “Por tu seguridad propón un conductor designado”. "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de esta unidad económica”. Asimismo, deberá contar con una placa en la entrada del establecimiento con la leyenda:
+
+“Esta unidad económica cuenta con la licencia de funcionamiento y el dictamen de factibilidad de impacto sanitario o Dictamen Único de Factibilidad vigentes, según el caso, que autorizan la venta de bebidas alcohólicas".
+
+Esta placa será autorizada por la Comisión Estatal de Factibilidad y a la misma le será asignado un folio, el cual se encontrará publicado en la página electrónica oficial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 #### SECCIÓN IV. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1085,15 +1073,11 @@ VIII. Contar con publicidad escrita visible que indique: “El abuso en el consu
 
 La unidad económica donde se vendan o suministren bebidas alcohólicas deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro de la propia unidad económica.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 76.
 
 Para la solicitud o refrendo de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen Único de Factibilidad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1101,21 +1085,21 @@ Para la solicitud o refrendo de la licencia de funcionamiento de una unidad econ
 
 El Dictamen Único de Factibilidad, es un requisito obligatorio para que las autoridades expidan o refrenden las licencias de funcionamiento.
 
-Este documento tendrá vigencia de un año y será de carácter personal e intransferible, por ende, todo acto contrario a lo señalado será nulo de pleno derecho.
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Este documento tendrá vigencia de cinco años y será de carácter personal e intransferible, por ende, todo lo contrario a lo señalado será nulo de pleno derecho.
+
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+De igual forma, tratándose de trámites de nuevo ingreso ante la Comisión Estatal de Factibilidad que hayan cumplido con las disposiciones de la materia y siempre y cuando se encuentren afiliados a alguna Cámara, de las acreditadas ante la Comisión, podrá solicitar la autorización de elaboración de placa a que hace referencia el artículo 74 de esta Ley.
 
 ###### Artículo 78.
 
 (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 79.
 
 (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1197,8 +1181,6 @@ Las determinaciones del Consejo Rector de Impacto Sanitario se tomarán por mayo
 
 Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 I. Emitir la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, para que en su caso, se emita el Dictamen Único de Factibilidad, necesario para que los ayuntamientos de la Entidad expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo.
@@ -1213,13 +1195,9 @@ V. Proponer la actualización del marco jurídico de la materia.
 
 VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de la población a los servicios que brinda.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 VII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1259,15 +1237,11 @@ Por su propia naturaleza las agencias en venta de autos nuevos estarán exentas 
 
 #### SECCIÓN III. DEL CONSEJO RECTOR DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 85.
 
 Las unidades económicas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas deberán:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1299,8 +1273,6 @@ b) Elaborar un registro interno de las personas y de los vehículos objeto de en
 
 c) Contratar, en la Procuraduría General de Justicia del Estado, módulos para la expedición gratuita de la constancia o certificación electrónica de que el vehículo no aparece en las bases de datos de autos robados.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 86.
@@ -1316,8 +1288,6 @@ Los usuarios deberán acreditar ante la autoridad competente, cuando ésta se lo
 Queda estrictamente prohibido ocupar las vías públicas para realizar actos relacionados con la enajenación de los bienes mencionados en este Capítulo, con excepción de los particulares que oferten hasta dos vehículos de su propiedad frente a su domicilio, supuesto en el cual deberán contar con los documentos que acrediten la propiedad de los bienes respectivos y que no se afecte el tránsito vehicular.
 
 #### SECCIÓN IV. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1349,27 +1319,19 @@ Los cargos de los integrantes del Consejo son honoríficos.
 
 Para el cumplimiento de sus fines, el Consejo Rector de Factibilidad Comercial Automotriz tendrá las funciones siguientes:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 I. Atender y resolver, de manera permanente, colegiada e integral, las solicitudes de los particulares presentadas ante la Comisión Estatal de Factibilidad o la Ventanilla de Gestión referentes a las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, para la emisión de la evaluación de factibilidad comercial automotriz al seno de la Comisión.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 II. Emitir la evaluación de factibilidad comercial automotriz al seno de la Comisión.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 III. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 IV. Sesionar, en términos del Reglamento Interior que al efecto expida el Ejecutivo del Estado.
 
 V. Las demás que le confieran otras disposiciones legales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1379,19 +1341,13 @@ V. Las demás que le confieran otras disposiciones legales.
 
 La evaluación técnica de factibilidad comercial automotriz emitida al seno de la Comisión, es el documento que consiste en la valoración de la procedencia comercial de la unidad económica, de acuerdo con la naturaleza de la actividad económica, constituye un requisito obligatorio para la emisión de la licencia de funcionamiento y su refrendo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 93.
 
 (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 94.
 
 (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1415,15 +1371,11 @@ VII. Nombre, cargo y firma de la autoridad que emita el dictamen.
 
 #### SECCIÓN VI. DE LAS ZONAS ESPECIALES PARA TIANGUIS DE AUTOS Y DE APROVECHAMIENTO DE AUTOPARTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
-
 ###### Artículo 96.
 
 Las disposiciones de esta Sección tienen como finalidad establecer y regular la operación, funcionamiento y administración de las unidades económicas que su actividad principal es el aprovechamiento de vehículos usados o siniestrados.
 
-> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
-
-Estas unidades económicas se ubicarán en las zonas especiales que para tal efecto se autorice, de conformidad a lo establecido en esta Ley y en el Código Administrativo del Estado de México.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 97.
 
@@ -1521,53 +1473,17 @@ El titular o dependiente de la unidad económica deberá alimentar su registro i
 
 El proceso de desmantelamiento, así como el registro interno también se sujetarán a las disposiciones reglamentarias y a las Normas Técnicas que al efecto se expidan.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
 #### SECCIÓN I. DE LA FINALIDAD Y AUTORIDADES
 
 ###### Artículo 112.
 
-La Secretaría de Desarrollo Urbano y Metropolitano, en ejercicio de sus atribuciones, previa opinión del Ayuntamiento, autorizará las zonas especiales para las unidades económicas, donde se realicen actos relacionados con la enajenación y comercialización de vehículos automotores usados en tianguis de autos y que tengan como actividad principal el aprovechamiento de autopartes de vehículos usados que han concluido su vida útil o siniestrados.
-
-Los planes municipales de desarrollo urbano deberán contemplar el uso de suelo que permita estas zonas.
-
-> <small>(ADICIONADO, G.G. 18 DE ABRIL DE 2016)</small>
-
-Será de interés público el retiro de tianguis de autos cuya instalación contravenga las disposiciones de esta ley.
+(DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 113.
 
-Las zonas especiales para el establecimiento de las unidades económicas a que se refiere el artículo anterior, deberán reunir los requisitos siguientes:
-
-I. Tener una superficie mínima de 30,000 metros cuadrados.
-
-II. Estar ubicada a una distancia no menor de 3 kilómetros de la zona urbana.
-
-III. Contar con el equipamiento e infraestructura urbana necesarios.
-
-IV. Contar con el dictamen técnico para la ubicación de la zona especial que emita la Secretaría de Desarrollo Económico.
-
-V. Contar con los dictámenes siguientes:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-a) Dictamen Único de Factibilidad
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-b) Dictamen de Servicios de Agua Potable, Drenaje y Saneamiento.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-c) (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-d) (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
-
-VI. Los demás que establezcan otras disposiciones aplicables.
+(DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO VIII. DE LOS ASERRADEROS
 
@@ -2201,8 +2117,6 @@ IV. Destitución del empleo, cargo o comisión.
 
 V. Inhabilitación de uno a diez años en el servicio público estatal y municipal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 183.
@@ -2237,8 +2151,6 @@ II. Multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Me
 
 Además se impondrá clausura temporal cuando se infrinja lo dispuesto en los artículos 107 y 108.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 III. Clausura temporal o permanente, por incumplir las disposiciones señaladas en los artículos 97 y 98, así como no contar (sic) Dictamen Único de Factibilidad.
@@ -2262,8 +2174,6 @@ Además de lo señalado en los artículos 184 y 185 la Secretaría de Desarrollo
 ###### Artículo 187.
 
 Cuando se trate de unidades económicas que se dediquen a la venta o suministro de bebidas alcohólicas, corresponderá a los municipios en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2314,8 +2224,6 @@ III. Clausura temporal o permanente, cuando después de la reapertura de una uni
 IV. Clausura temporal o permanente, cuando se compruebe que las actividades que se realizan en una unidad económica violan las disposiciones sanitarias y constituyen un peligro grave para la salud.
 
 V. Clausura temporal o permanente, cuando reincida por tercera ocasión.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2569,7 +2477,7 @@ JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 10 DE JULIO DE 2015.
 
@@ -2640,3 +2548,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
