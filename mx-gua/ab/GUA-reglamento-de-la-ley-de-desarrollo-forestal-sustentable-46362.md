@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-desarrollo-forestal-sustentable-46362"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-16"
-last_updated: "2005-09-16"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 16 de septiembre de 2005.
 
@@ -55,11 +55,33 @@ II.- Inventario: Inventario Estatal Forestal y de Suelos;
 
 III.- Ley: Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato;
 
-IV.- Secretaría: Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-V.- Servicio: Servicio Estatal Forestal; y
+IV.- PAOT: Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato;
 
-VI.- Sistema: Sistema Estatal de Información Forestal.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+V.- Protección Civil: Coordinación Estatal de Protección Civil;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VI.- Secretaría: Secretaría de Desarrollo Agroalimentario y Rural;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VII.- SEMARNAT: Secretaria de Medio Ambiente y Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VIII.- Servicio: Servicio Estatal Forestal;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IX.- Sistema: Sistema Estatal de Información Forestal; y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+X.- Suelo forestal: Es una porción de la superficie de la tierra, formada por material mineral y orgánico, penetrado por cantidades variables de agua y aire y que sirve de medio para la mantención de la vegetación forestal.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN, COORDINACIÓN Y FUNCIONAMIENTO DEL SERVICIO ESTATAL FORESTAL
 
@@ -71,7 +93,9 @@ I.- La Secretaría;
 
 II.- El Instituto;
 
-III.- La Procuraduría de Protección al Ambiente del Estado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+III.- PAOT;
 
 IV.- La Universidad de Guanajuato; y
 
@@ -139,21 +163,15 @@ La Dirección de Planeación, Informática y Calidad establecerá la periodicida
 
 ###### Artículo 10.
 
-La Secretaría integrará el Inventario atendiendo en su caso a los criterios, procedimientos y metodologías que al respecto promuevan las autoridades federales competentes.
+(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 11.
 
-Además de lo dispuesto por el artículo 29 de la Ley, el Inventario deberá contener la información siguiente:
-
-I.- Áreas afectadas por incendios, plagas, enfermedades o por cualquier siniestro;
-
-II.- Áreas de recarga de acuíferos; y
-
-III.- La (sic) demás que se considere necesaria.
+(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 12.
 
-La organización, actualización y monitoreo de los datos contenidos en el Inventario se llevarán a cabo bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos.
+(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO QUINTO. DE LA ORDENACIÓN FORESTAL
 
@@ -161,9 +179,13 @@ La organización, actualización y monitoreo de los datos contenidos en el Inven
 
 La Secretaría y el Instituto de manera conjunta elaborarán los Programas de Ordenamiento Forestal, tomando en consideración los siguientes instrumentos:
 
-I.- El Inventario; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-II.- Los Ordenamientos Ecológicos del Territorio a nivel estatal, regional y municipal.
+I.- El Inventario Estatal Forestal y de Suelos; y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+II.- El Programa Estatal de Desarrollo Urbano y Ordenamiento Ecológico Territorial.
 
 El contenido, expedición y publicación de los Programas se hará en observancia a las disposiciones contenidas en la Ley de Planeación para el Estado de Guanajuato y su Reglamento.
 
@@ -173,7 +195,9 @@ En la integración, organización y actualización de la ordenación forestal, s
 
 I.- La delimitación de las cuencas, subcuencas y microcuencas hidrológicas;
 
-II.- La delimitación de las Áreas Naturales Protegidas de carácter estatal y en su caso federal;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+II.- La delimitación de las Áreas Naturales Protegidas de carácter estatal y en su caso federal, así como de las zonas de conservación;
 
 III.- Las características, grado de conservación y diversidad de los ecosistemas o tipos de vegetación;
 
@@ -377,11 +401,15 @@ Los vocales que integrarán el Consejo serán los siguientes:
 
 I.- El Titular de la Comisión Estatal del Agua de Guanajuato;
 
-II.- El Titular de la Procuraduría de Protección al Ambiente del Estado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+II.- El Titular de la PAOT;
 
 III.- El Delegado de la Procuraduría Federal de Protección al Ambiente;
 
-IV.- El Rector de la Universidad de Guanajuato;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IV.- El Rector General de la Universidad de Guanajuato;
 
 V.- El Director del Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias;
 
@@ -390,6 +418,14 @@ VI.- El Director del Centro de Investigaciones y Estudios Avanzados del Institut
 VII.- Un representante municipal y uno de los ejidos de cada una de las Unidades de Manejo Forestal del Estado; y
 
 VIII.- Un representante de los prestadores de servicios técnicos forestales, designado por su Asociación Estatal.
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IX.- El Titular de la Comisión Nacional Forestal en el Estado; y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+X.- El Delegado de la Secretaría de Medio Ambiente y Recursos Naturales en el Estado.
 
 ###### Artículo 36.
 
@@ -442,3 +478,11 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 EDUARDO NIETO ALMEIDA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 196, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
