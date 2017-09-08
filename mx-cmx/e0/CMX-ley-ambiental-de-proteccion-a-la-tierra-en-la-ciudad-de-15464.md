@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2017-07-20"
+last_updated: "2017-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -198,11 +198,11 @@ IX. La celebración de convenios o acuerdos de coordinación entre autoridades a
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 5º.
 
-Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
+Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -240,13 +240,9 @@ APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de 
 
 ÁREA VERDE: Toda superficie cubierta de vegetación, natural o inducida que se localice en el Distrito Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 ARMONÍA: Las actividades humanas, que en el marco de la pluralidad y la diversidad, deben lograr equilibrios dinámicos con los ciclos y procesos inherentes a la Tierra;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -286,8 +282,6 @@ CONTINGENCIA AMBIENTAL O EMERGENCIA ECOLÓGICA: situación eventual y transitori
 
 CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 COSMOVISIÓN DE LOS GRUPOS INDÍGENAS: Es la manera de ver e interpretar a la Tierra. Se trata del conjunto de creencias que permiten analizar y reconocer la realidad a partir de la propia existencia.
@@ -306,13 +300,9 @@ DEMARCACIÓN TERRITORIAL: Cada una de las partes en que se divide el territorio 
 
 DELEGACIONES: Los Órganos Político Administrativos establecidos en cada una de las Demarcaciones Territoriales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 DAÑO AL AMBIENTE: Perdida, daño, deterioro, menoscabo, afectación o modificación adversos y mensurables de los hábitat, de los ecosistemas, de los recursos naturales, de sus condiciones químicas, físicas o biológicas de las relaciones de interacción que se dan entre estos, así como de los servicios ambientales que proporcionan, de conformidad con lo que establece la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -352,8 +342,6 @@ FUENTES MÓVILES: los vehículos automotores que emitan contaminantes al ambient
 
 FUENTES NATURALES DE CONTAMINACIÓN: las de origen biogénico, de fenómenos naturales y erosivos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 GARANTÍA DE REGENERACIÓN DE LA TIERRA: Responsabilidad a cargo de las autoridades competentes en la materia y de la sociedad, en armonía consistente en garantizar las condiciones necesarias para que los diversos sistemas de vida de la Tierra puedan absorber, daños, adaptarse a las perturbaciones y regenerarse sin alterar significativamente sus características de estructura y funcionalidad, reconociendo que los sistemas de vida tienen límites en su capacidad de regenerarse, y que la humanidad tienen límites en su capacidad de revertir sus acciones;
@@ -367,8 +355,6 @@ HUELLA ECOLÓGICA: Es el indicador de sustentabilidad que mide el grado de impac
 IMPACTO AMBIENTAL: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
 
 INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -411,8 +397,6 @@ PARQUES URBANOS: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 PLAN RECTOR DE LAS ÁREAS NATURALES PROTEGIDAS DEL DISTRITO FEDERAL: Instrumento de planeación y normatividad que establece lineamientos, criterios y políticas para la administración y manejo de las Áreas Naturales Protegidas;
 
 PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y medición de las descargas de contaminantes o materiales de una fuente fija a la atmósfera, agua, suelo o subsuelo, de acuerdo con las Normas Oficiales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -460,7 +444,9 @@ RESIDUOS INDUSTRIALES NO PELIGROSOS: Todos aquéllos residuos en cualquier estad
 
 RESIDUOS SÓLIDOS: Todos aquellos residuos en estado sólido que provengan de actividades domésticas o de establecimientos industriales, mercantiles y de servicios, que no posean las características que los hagan peligrosos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+RESILIENCIA. La capacidad de las personas, asentamientos humanos, comunidades, empresas y sistemas que se encuentran dentro de una ciudad para sobrevivir, resistir, recuperarse rápidamente, adaptarse y crecer ante cualquier peligro factible, independientemente de los tipos de tensiones crónicas, impactos agudos o amenazas múltiples que experimente;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -562,11 +548,11 @@ XI. Expedir los ordenamientos y demás disposiciones necesarias para proveer el 
 
 XII. Las demás que conforme a esta Ley le correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 9°.
+###### ARTÍCULO 9º.
 
-Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública Local del Distrito Federal, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública del Distrito Federal, el ejercicio de las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los planes y programas que de esta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
@@ -578,7 +564,9 @@ III. Formular y ejecutar el Programa General de Ordenamiento Ecológico del Dist
 
 La Secretaría evaluará las propuestas de adecuaciones al Programa General de Ordenamiento Ecológico que formulen la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades, las que se efectuarán en el ámbito de sus atribuciones;
 
-IV. Aplicar los instrumentos de política ambiental previstos en esta Ley, para conservar y restaurar el equilibrio ecológico y proteger al ambiente en materias de su competencia;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Aplicar los instrumentos de política ambiental previstos en esta Ley, para conservar y restaurar el equilibrio ecológico, proteger al ambiente e impulsar la construir resiliencia en materias de su competencia;
 
 V. Evaluar las manifestaciones de impacto ambiental de su competencia, y en su caso, autorizar condicionadamente o negar la realización de proyectos, obras y actividades;
 
@@ -760,9 +748,11 @@ LII. Solicitar a las Delegaciones el Inventario de áreas verdes de su competenc
 
 LIII. Las demás que le confieren esta y otras Leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde a cada una de las delegaciones del Distrito Federal:
+Corresponde a cada una de las demarcaciones territoriales de la Ciudad de México:
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -776,9 +766,9 @@ II. Celebrar convenios con el Gobierno del Distrito Federal para la administraci
 
 III. Promover la participación ciudadana en materia ambiental individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana.
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Implementar acciones de conservación, restauración y vigilancia del equilibrio ecológico, así como la protección al ambiente desde las delegaciones;
+IV. Implementar acciones de conservación, restauración y vigilancia del equilibrio ecológico, así como la protección al ambiente e impulsar acciones orientadas a la construcción de resiliencia desde las demarcaciones territoriales;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -828,17 +818,23 @@ La Ley Orgánica respectiva, dispondrá las atribuciones y estructura de dicha P
 
 La Procuraduría estará a cargo de un Procurador, que será nombrado por el Jefe de Gobierno del Distrito Federal y ratificado por la Asamblea Legislativa del Distrito Federal por mayoría calificada de votos. Durará en su encargo tres años y podrá ser ratificado por un período adicional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-Las autoridades del Distrito Federal están obligadas a:
+Las autoridades de la Ciudad de México están obligadas a:
 
 I. Promover la participación ciudadana en la gestión ambiental;
 
 II. Fomentar la protección al ambiente y la salud;
 
-III. Fomentar y hacer un uso eficiente de los recursos naturales; y
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-IV. En caso de inducir cualquier actividad que afecte el ambiente y la disponibilidad futura de los recursos naturales, reparar los daños causados.
+III. Coordinar acciones que impulsen la construcción de resiliencia en materia de la presente Ley;
+
+IV. Fomentar y hacer un uso eficiente de los recursos naturales; y
+
+V. En caso de inducir cualquier actividad que afecte el ambiente y la disponibilidad futura de los recursos naturales, reparar los daños causados.
 
 ###### ARTÍCULO 14.
 
@@ -892,9 +888,11 @@ IX. Se deberá propiciar la continuidad de los procesos ecológicos en el Distri
 
 X. Es responsabilidad de la Secretaría fomentar e incentivar el mantenimiento y mejoramiento de la calidad de los recursos naturales y servicios ambientales que proporcionan a la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-La política de desarrollo sustentable del Distrito Federal será elaborada y ejecutada conforme a los siguientes instrumentos:
+La política de desarrollo sustentable de la Ciudad de México será elaborada y ejecutada conforme a los siguientes instrumentos:
 
 I. La participación ciudadana;
 
@@ -919,6 +917,10 @@ IX. El sistema de certificación y el certificado de reducción de emisiones con
 X. Los convenios de concertación;
 
 XI. Los estímulos establecidos por esta u otras leyes;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+XI Bis. Todos aquellos instrumentos de planeación que hacen referencia a la construcción de resiliencia para la Ciudad de México, que promuevan la prevención y reducción de riesgos de cualquier tipo;
 
 XII. La educación y la investigación ambiental;
 
@@ -952,15 +954,17 @@ La Secretaría deberá promover y garantizar la participación corresponsable de
 
 La política ambiental deberá garantizar los mecanismos de participación social más efectivos en la toma de decisiones y en la elaboración de los programas de protección ambiental y de educación en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-Para los efectos del artículo anterior, el Jefe de Gobierno del Distrito Federal y la Secretaría:
+Para los efectos del artículo anterior, el Jefe de Gobierno de la Ciudad de México y la Secretaría:
 
 I. Convocarán, en el ámbito del sistema local de planeación democrática, a todos los sectores interesados en la materia ambiental, para que manifiesten su opinión y propuestas;
 
-> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-II. Celebrarán convenios con personas interesadas, ejidos y comunidades agrarias, organizaciones sociales e instituciones, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción del Distrito Federal, el aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente; la realización de estudios e investigación en la materia; y la retribución por la conservación de servicios ambientales;
+II. Celebrarán convenios con personas interesadas, ejidos y comunidades agrarias, organizaciones sociales e instituciones, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción de la Ciudad de México, el aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente; la realización de estudios e investigación en la materia; el impulso a la construcción de resiliencia; y la retribución por la conservación de servicios ambientales;
 
 III. Celebrarán convenios con los medios de comunicación masiva para la difusión, divulgación, Información y promoción de acciones de conservación del equilibrio ecológico, de protección al ambiente y de educación;
 
@@ -972,31 +976,53 @@ VI. Fomentar, desarrollar y difundir las experiencias y prácticas de ciudadanos
 
 VII. Coordinarán y promoverán acciones e inversiones con los sectores sociales y privados, con instituciones académicas, grupos, organizaciones sociales, y demás personas interesadas, para la conservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+###### ARTÍCULO 23.
 
-###### Artículo 23.
+Son obligaciones de las personas que se encuentran en la Ciudad de México:
 
-Son obligaciones de las personas que se encuentran en el Distrito Federal:
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 I. Defender y respetar los recursos naturales que componen a la Tierra;
 
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
 II. Prevenir y evitar daños al ambiente y, en su caso, reparar los daños que hubieran causado;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 III. Promover la armonía en la Tierra en todos los ámbitos de su relación con las personas y el resto de la naturaleza en los sistemas de vida;
 
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
 IV. Participar de forma activa, personal o colectivamente, en la generación de propuestas orientadas al respeto y la defensa de los recursos naturales de la Tierra;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 V. Asumir prácticas de producción y hábitos de consumo en armonía con los recursos naturales de la Tierra;
 
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
 VI. Minimizar los daños al ambiente que no puedan prevenir o evitar, en cuyo caso estarán obligadas a reparar los daños causados;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 VII. Ayudar en la medida de lo posible a establecer las condiciones que permitan garantizar la subsistencia y regeneración del ambiente y los recursos naturales;
 
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
 VIII. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y reuso de agua, conservación del ambiente rural y urbano, prevención y control de la contaminación de aire, agua y suelo, y protección de la flora y fauna en el Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+VIII BIS. Coadyuvar con las autoridades ambientales en las acciones de construcción de resiliencia que implementen;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
 IX. Asegurar el uso y aprovechamiento sustentable de los componentes de la Tierra; y
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 X. Denunciar todo acto que atente contra los recursos naturales de la Tierra, sus sistemas de vida y/o sus componentes.
 
@@ -2890,9 +2916,13 @@ IV. La operación y administración de los sistemas de agua potable y alcantaril
 
 V. Los programas parciales y delegacionales de desarrollo urbano;
 
-VI. El diseño y ubicación de proyectos urbanos; y
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-VII. La ejecución de proyectos de estructuras que permitan el almacenamiento, la utilización, la infiltración y el consumo del agua de lluvia.
+VI. La construcción de resiliencia para una gestión integrada de los recursos hídricos;
+
+VII. El diseño y ubicación de proyectos urbanos; y
+
+VIII. La ejecución de proyectos de estructuras que permitan el almacenamiento, la utilización, la infiltración y el consumo del agua de lluvia.
 
 ###### ARTÍCULO 107.
 
@@ -4641,3 +4671,11 @@ G.O. 20 DE JULIO DE 2017.
 [TRANSITORIO DEL “DECRETO POR EL QUE SE CAMBIA EL NOMBRE DE LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL, POR EL DE LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO Y DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
 
 PRIMERO (SIC). El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Jefe de Gobierno de la Ciudad de México deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
