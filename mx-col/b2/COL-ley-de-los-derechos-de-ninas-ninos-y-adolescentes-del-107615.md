@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2016-09-10"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -39,7 +39,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN XLII, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O: …
+C O N S I D E R A N D O:
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -663,9 +665,17 @@ IV. El tráfico de personas menores de edad;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. La exposición a contenidos artísticos, audiovisuales, gráficos, sonoros o electrónicos de todo tipo que contengan contenido violento, explícito o impropio para la edad de la niña, niño o adolescente en cuestión.
 
 Las autoridades del Estado, con relación a lo dispuesto por el presente artículo deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -1235,9 +1245,17 @@ XI. Proveer a las niñas, los niños y los adolescentes de la información perti
 
 XII. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
-XIII. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+XIII. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Tomar las medidas necesarias para prevenir, atender y proteger la exposición de las niñas, niños o adolescentes a contenidos artísticos, audiovisuales, gráficos, sonoros o electrónicos de todo tipo que incluyan contenido violento, explícito o impropio para la edad de niñas, niños y adolescentes.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1766,3 +1784,9 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 154 SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LOS CÓDIGOS CIVIL Y DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 339 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Colima".
