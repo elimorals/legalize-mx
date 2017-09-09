@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2016-12-31"
+last_updated: "2017-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -2162,6 +2162,24 @@ e) Fábricas, talleres, bodegas, o polvorines de elementos y artificios pirotéc
 f) Obras de ingeniería civil: 60.00
 
 g) Transporte especializado de explosivos: 60.00
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+XIV Supervisión anual de riesgo y vulnerabilidad por aerogenerador con potencia nominal de:
+
+a) 0 a 1 Megawatt 119.00
+
+b) 1.1 a 1.5 Megawatt 185.00
+
+c) 1.6 a 2 Megawatt 252.00
+
+d) 2.1 a 2.5 Megawatt 318.00
+
+e) mayor a 2.6 Megawatt 384.00
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+XV Emisión de dictamen anual de riesgo y vulnerabilidad por cada aerogenerador supervisado. 14.00
 
 #### Sección Séptima. De los Servicios que se presten en materia de Regularización de la Tenencia de la Tierra Urbana
 
@@ -6860,3 +6878,17 @@ P.O. 31 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 15.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 698.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA; Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 31, DE LA LEY ESTATAL DE DERECHOS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+TERCERO. Únicamente por el Ejercicio Fiscal 2017, los contribuyentes que utilicen los servicios contemplados en la fracción XIV y XV del artículo 31 de la Ley Estatal de Derechos, podrán pagar los servicios hasta el treinta de septiembre de dos mil diecisiete.
+
+CUARTO. El Estado transferirá a los Municipios el total de los recursos provenientes del cobro de la prestación de los servicios prestados por el Estado, en términos de lo dispuesto por la fracción XIII del artículo 25 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, y de las fracciones XIV y XV del artículo 31 de la Ley Estatal de Derechos, en el marco de los Convenios de Coordinación y Colaboración Administrativa que sean celebrados entre el Estado y los Municipios.
+
+Los recursos a que se refiere el párrafo anterior serán destinados por los Municipios preferentemente a obras y acciones de infraestructura básica y desarrollo social.
