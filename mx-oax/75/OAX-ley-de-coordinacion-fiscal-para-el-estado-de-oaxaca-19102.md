@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2015-12-31"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -507,9 +507,11 @@ La comprobación del ejercicio de los recursos, se hará ante el órgano de fisc
 
 ### CAPITULO TERCERO. DE LA COLABORACIÓN ADMINISTRATIVA ENTRE LOS MUNICIPIOS Y EL ESTADO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-El Estado por conducto de la Secretaría, y los Municipios de la entidad, cuando estos así lo consideren, podrán celebrar convenios de coordinación y colaboración administrativa respecto a gravámenes municipales, en las siguientes materias:
+El Estado por conducto de la Secretaría y los Municipios de la Entidad, podrán celebrar Convenios de Coordinación y Colaboración Administrativa respecto de las siguientes materias:
 
 I. Registro de contribuyentes.
 
@@ -533,13 +535,27 @@ X. Intervención en juicios.
 
 XI. Administración de impuestos municipales.
 
-XII. Por la prestación de servicios catastrales.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
-El Gobierno del Estado por conducto de la Secretaría, y los Municipios podrán celebrar Convenios de Colaboración Administrativa, a fin de que estos participen y coadyuven en algunas funciones en materia fiscal federal, que por convenio con la Federación ésta le haya transferido al Estado.
+XII. Prestación de servicios catastrales, y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Prestación de servicios en materia de protección civil.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+El Gobierno del Estado por conducto de la Secretaría de Finanzas podrá celebrar Convenios de Coordinación y Colaboración Administrativa con los Municipios de la Entidad, para realizar las funciones antes señaladas, con el propósito de incrementar los ingresos de libre disposición de los Municipios o del Estado; así como participar y coadyuvar en algunas funciones en materia fiscal federal, que por convenio con la Federación ésta le haya transferido al Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+El ejercicio de las atribuciones del Estado y Municipios se sujetarán a lo establecido en los Convenios de Coordinación y Colaboración Administrativa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-Los Convenios de Colaboración Administrativa entre el Estado y los Municipios deberán contemplar:
+Los Convenios de Coordinación y Colaboración Administrativa entre el Estado y los Municipios deberán contemplar:
 
 I. Las partes que intervienen en la celebración del convenio;
 
@@ -560,6 +576,10 @@ En aquellos impuestos en que concurran Estado y Municipios, ambas autoridades co
 ###### ARTÍCULO 27.
 
 Cuando las autoridades fiscales municipales actúen con base en los convenios respectivos como autoridades fiscales estatales, deberán ajustar su actuación conforme a lo dispuesto por el Código Fiscal del Estado de Oaxaca y demás ordenamientos fiscales estatales aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+Las autoridades fiscales estatales cuando actúen con base en los Convenios de Coordinación y Colaboración Administrativa ajustarán su actuación conforme a lo dispuesto en las disposiciones fiscales municipales vigentes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -834,3 +854,17 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1664.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 698.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA; Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 31, DE LA LEY ESTATAL DE DERECHOS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+TERCERO. Únicamente por el Ejercicio Fiscal 2017, los contribuyentes que utilicen los servicios contemplados en la fracción XIV y XV del artículo 31 de la Ley Estatal de Derechos, podrán pagar los servicios hasta el treinta de septiembre de dos mil diecisiete.
+
+CUARTO. El Estado transferirá a los Municipios el total de los recursos provenientes del cobro de la prestación de los servicios prestados por el Estado, en términos de lo dispuesto por la fracción XIII del artículo 25 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, y de las fracciones XIV y XV del artículo 31 de la Ley Estatal de Derechos, en el marco de los Convenios de Coordinación y Colaboración Administrativa que sean celebrados entre el Estado y los Municipios.
+
+Los recursos a que se refiere el párrafo anterior serán destinados por los Municipios preferentemente a obras y acciones de infraestructura básica y desarrollo social.
