@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-de-datos-personales-en-posesion-de-122638"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-07-26"
+last_updated: "2017-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Edición Especial Extraordinaria Número 48 del Periódico Oficial del Estado de Colima, el miércoles 26 de julio de 2017.
 
@@ -2021,9 +2021,9 @@ Se derogan todas aquellas disposiciones en materia de protección de datos perso
 
 Los procedimientos en materia de protección de datos personales que hayan iniciado bajo la vigencia de la abrogada Ley de Protección de Datos Personales del Estado de Colima, continuarán y culminarán conforme a las disposiciones de la misma.
 
-TERCERO. Los responsables expedirán sus avisos de privacidad en los términos previstos en el presente Decreto y demás disposiciones aplicables, a más tardar tres meses después de su entrada en vigor.
+TERCERO. (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2017)
 
-CUARTO. Los responsables deberán observar lo dispuesto en el Capítulo II del Título Segundo del presente Decreto, en un plazo de un año, contado a partir de su entrada en vigor.
+CUARTO. (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2017)
 
 QUINTO. El Organismo Garante deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere el presente Decreto, dentro del plazo de 180 días contados a partir a su entrada en vigor.
 
@@ -2042,3 +2042,11 @@ Por lo tanto, mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 26 veintiséis del mes de Julio del año 2017 dos mil diecisiete.
 
 Atentamente. “SUFRAGIO EFECTIVO. NO REELECCIÓN”. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, JOSÉ IGNACIO PERALTA SÁNCHEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 351 POR EL QUE SE DEROGAN EL TERCERO Y CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
