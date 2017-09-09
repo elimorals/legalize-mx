@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2017-08-26"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-LEY DE LA JUVENTUD DEL ESTADO DE COLIMA.
+LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -203,7 +203,9 @@ XVII. Las demás que le otorguen la presente Ley y otros ordenamientos legales y
 
 Corresponde a los Ayuntamientos de la entidad, las atribuciones siguientes:
 
-I. Considerar la creación de instancias municipales de atención a la juventud o sus equivalentes;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+I. Crear las instancias municipales de atención a la juventud o sus equivalentes;
 
 II. Establecer en el Plan Municipal de Desarrollo, las metas, estrategias y acciones con una perspectiva integral, de conformidad a las características propias de cada Municipio, en congruencia con las políticas contenidas en el Programa;
 
@@ -996,3 +998,9 @@ P.O. 26 DE AGOSTO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 346 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
