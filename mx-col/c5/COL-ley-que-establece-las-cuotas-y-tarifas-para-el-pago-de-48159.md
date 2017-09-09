@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2017-01-24"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -37,7 +37,7 @@ D E C R E T O
 
 HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-...
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -69,213 +69,57 @@ Tratándose de los derechos de alcantarillado a que se refiere el artículo ante
 
 ### CAPITULO II. DE LAS CUOTAS Y TARIFAS DE LOS DERECHOS DEL AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 3.
 
 Por los servicios de agua potable, alcantarillado y saneamiento para uso doméstico:
 
-I.- Por los servicios de agua potable en servicio “sin medidor”, alcantarillado y saneamiento se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
+I.- Por los servicios de agua potable en servicio "sin medidor", alcantarillado y saneamiento se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
 
 Los usuarios cuyos servicios se ubiquen en estos incisos pagarán la siguiente cuota fija mensual:
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
-
-CUOTA
-
-AGUA ALCANTA SANEA
-
-POTABLE RILLADO MIENTO
-
-a).-Popular uno. Comprende:
-
-Casas de materiales económicos,
-
-no duraderos. 1.205 UMA .2410 .65126
-
-b).- Popular dos. Comprende:
-
-Casas de ladrillo con teja de barro,
-
-cemento o asbesto. 1.724 .3448 .65126
-
-2
-
-c).- Popular tres. Comprende:
-
-Pie de casa, con habitación
-
-de vaciado y acabados
-
-económicos. 1.842 .3684 .65126
-
-d).- Popular cuatro. Comprende:
-
-Casa habitación de vaciado,
-
-bóveda y concreto con acabado
-
-económico. 2.244 .4488 .94538
-
-e).- Popular cinco. Comprende:
-
-Casa habitación con bóveda y
-
-vaciado de concreto, de dos
-
-plantas de interés social,
-
-acabados económicos 2.480 .496 .94538
-
-f).- Popular seis. Comprende:
-
-Casa Habitación con bóveda y
-
-vaciado de concreto, de dos
-
-plantas, con acabados de primera. 3.047 .6094 1.19748
-
-g).- Servicio mixto popular:
-
-Comprende casas habitación de
-
-popular a cuatro con tendajón. 2.267 .4534 1.8965
-
-h).-Residencial. Comprende:
-
-Todas aquellas casas habitación
-
-que por su tipo de construcción se
-
-consideren como residenciales,
-
-teniendo un frente mínimo de terreno
-
-de 10 metros y una superficie
-
-mínima de 300 metros cuadrados;
-
-así mismo encuadran en esta
-
-categoría las casas habitación de
-
-más de dos pisos y casas habitación
-
-de vaciado, bóveda y concreto con
-
-acabados de primera calidad. 4.535 .907 3.03508
-
-i).- Instituciones de Beneficencia Pública y Social; comprende: Los usuarios cuyo servicio se ubique en estos puntos, pagarán la siguiente cuota fija mensual:
-
-CUOTA
-
-AGUA
-
-POTABLE ALCANTARILLADO SANEAMIENTO
-
-1).- Consumo Bajo 1.323 .2646 1.1907
-
-2).- Consumo Alto 2.669 .5338 2.4221
-
-j).- En Playa, comprende: Los usuarios cuyo servicio se ubique en estos puntos, pagarán la siguiente cuota fija mensual:
-
-CUOTA
-
-TIPO DE SERVICIO AGUA
-
-POTABLE ALCANTARILLADO SANEAMIENTO
-
-1).- Enramadas 2.386 .4772 1.4316
-
-2).-Construcción
-
-pequeña 2.669 .5338 1.6014
-
-3).- Construcción
-
-grande 3.826 .7652 2.2956
+> <small>[N. DE E. VÉASE TABLAS EN EL SUPLEMENTO DEL P.O. DE 9 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 7 A LA 8.]</small>
 
 No estarán obligados al pago de derechos por servicio de saneamiento aquellos usuarios de este inciso, que aun cuando cuenten con el servicio de alcantarillado, no sea factible proporcionar el servicio de saneamiento.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 228 PUBLICADO EN EL P.O. 24 DE ENERO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE LOS INCISOS 1.1. AL 1.10. ES SIMILAR AL QUE TUVO EN SU FRACCIÓN I HASTA ANTES DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2010. VÉASE LA CRONOLOGÍA DE ESTE ARTÍCULO]</small>
+II.- Por los servicios de agua potable en «servicio medido», alcantarillado y saneamiento para uso doméstico se pagarán los derechos de conformidad con la siguiente tarifa:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+a).- DOMÉSTICO.- Comprende las señaladas en la fracción anterior y pagarán la siguiente tarifa mensual que resulte de conformidad con aplicar la siguiente tabla:
 
-1.1. (…) (SIC)
+TARIFAS DOMESTICAS
 
-Casas de materiales económicos,
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 9 DE SEPTIEMBRE DE 2017, PÁGINA 9.]</small>
 
-no duraderos. 1.205 UMA
+Comprende:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+1.1. Popular uno
 
-1.2. (…) (SIC)
+Casas de materiales económicos, no duraderos, casas de Ladrillo con teja de barro, cemento o asbesto. 1.205 UMA
 
-Casas de Ladrillo con teja de barro,
+1.2. Popular dos
 
-cemento o asbesto. 1.724 UMA
+Pie de casa, con habitación de vaciado y acabados económicos, y casa habitación, de vaciado, bóveda y concreto con acabado económico. 1.724 UMA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+1.3. Popular tres
 
-1.3. (…) (SIC)
+Casa habitación con bóveda y vaciado de concreto, de dos plantas, de interés social, acabados económicos, y casa habitación con bóveda y vaciado de concreto, de dos plantas, con acabados de primera. 1.842 UMA
 
-Pie de casa, con habitación de vaciado
+1.4. Servicio Mixto popular:
 
-y acabados económicos. 1.842 UMA
+Comprende casas habitación de popular uno a popular dos con tendajón. 2.267 UMA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.4. (…) (SIC)
-
-Casa habitación, de vaciado, bóveda y
-
-concreto con acabado económico. 2.244 UMA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.5. (…) (SIC)
-
-Casa habitación con bóveda y vaciado de
-
-concreto, de dos plantas, de interés social,
-
-acabados económicos 2.480UMA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.6. (…) (SIC)
-
-Casa habitación con bóveda y vaciado de
-
-concreto, de dos plantas, con acabados de
-
-primera 3.047UMA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.7. (…) (SIC)
-
-Comprende casas habitación de popular
-
-uno a popular cuatro con tendajón 2.267 UMA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.8. (…) (SIC)
+1.5. Residencial:
 
 Comprende: Todas aquellas casas habitación que por su tipo de construcción se consideren como residenciales, teniendo un frente mínimo de terreno de 10 metros y una superficie mínima de 300 metros cuadrados; así mismo encuadran en esta categoría las casas habitación de más de dos pisos y casas habitación de vaciado, bóveda y concreto con acabados de primera calidad. 4.535 UMA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.9. (…) (SIC)
+1.6. Instituciones de Beneficencia Pública y Social:
 
 a) Consumo Bajo. 1.323 UMA
 
 b) Consumo Alto. 2.669 UMA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
-
-1.10. (…) (SIC)
+1.7. En playa:
 
 a).- Enramadas. 2.386 UMA
 
@@ -283,45 +127,11 @@ b).- Construcción pequeña. 2.669 UMA
 
 c).- Construcción grande. 3.826 UMA
 
-II.- Por los servicios de agua potable en “servicio medido”, alcantarillado y saneamiento para uso doméstico se pagarán los derechos de conformidad con la siguiente tarifa:
+II) (SIC) SERVICIO MEDIDO:
 
-a).- DOMÉSTICO.- Comprende las señaladas en la fracción anterior y pagarán la siguiente tarifa mensual que resulte de conformidad con aplicar la siguiente tabla:
+DOMESTICO.- Comprende las señaladas en la fracción anterior y pagarán las cuotas que resulten de conformidad con la siguiente:
 
-TARIFAS DOMESTICAS
-
-RANGOS DE CONSUMO
-
-POR METROS CUBICOS AGUA DRENAJE SANEAMIENTO
-
-CUOTA FIJA
-
-DE HASTA
-
-00 a 10 0.8662 0.1732 0.61963
-
-10.01 a 20.00 0.055 0.0110 0.61963
-
-20.01 a 30.00 0.061 0.0122 0.61963
-
-30.01 a 45.00 0.077 0.0154 0.61963
-
-45.01 a 60.00 0.08 0.0160 0.61963
-
-60.01 a 90.00 0.114 0.0228 0.61963
-
-90.01 a 110.00 0.147 0.0294 0.61963
-
-110.01 en adelante 0.183 0.0366 0.61963
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 228 PUBLICADO EN EL P.O. 24 DE ENERO DE 2017 SE ADVIERTE QUE EL CONTENIDO DEL CUADRO DE LA FRACCIÓN II “SERVICIO MEDIDO” ES SIMILAR AL QUE TUVO EN SU FRACCIÓN II HASTA ANTES DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2010. VÉASE LA CRONOLOGÍA DE ESTE ARTÍCULO]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2017)</small>
-
-II) SERVICIO MEDIDO:
-
-DOMÉSTICO.- […] (SIC)
-
-[N. DE E. VÉASE CUADRO EN EL P.O. DE 24 DE ENERO DE 2017, PÁGINA 181.
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 9 DE SEPTIEMBRE DE 2017, PÁGINA 10.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -927,21 +737,21 @@ DISPOSICIONES COMPLEMENTARIAS
 
 La COMAPAT, determinará la clasificación de los negocios no considerados en los artículos 3, 5, 7, 9 y 10 de este ordenamiento, en base a la información que disponga, en tanto se incorpora a la que le corresponda en la presente ley.
 
-Se presume que las viviendas ubicadas en cada una de las clasificaciones sirven de referencia para las distintas tarifas o cuotas, corresponden al tipo en el que se ubican, salvo que tomando en cuenta las definiciones se ubiquen en uno diferente, caso éste en el que “LA COMPAT”, a través de su área de comercialización, previa verificación de tal circunstancia, ubicará al usuario, mediante resolución debidamente fundada y motivada, en la tarifa o cuota que corresponda, a partir de la fecha de la resolución o la que determine “LA COMAPAT”.
+Se presume que las viviendas ubicadas en cada una de las clasificaciones sirven de referencia para las distintas tarifas o cuotas, corresponden al tipo en el que se ubican, salvo que tomando en cuenta las definiciones se ubiquen en uno diferente, caso éste en el que "LA COMPAT" (sic), a través de su área de comercialización, previa verificación de tal circunstancia, ubicará al usuario, mediante resolución debidamente fundada y motivada, en la tarifa o cuota que corresponda, a partir de la fecha de la resolución o la que determine "LA COMAPAT".
 
-Asimismo, el usuario que por su clasificación no esté conforme con la tarifa o cuota que esté pagando, podrá solicitar por escrito al área de comercialización de “LA COMAPAT”, para que previa verificación que se lleve a cabo y mediante resolución debidamente fundada y motivada, se le ubique en la tarifa o cuota que le corresponda a partir de la fecha de trámite.
+Asimismo, el usuario que por su clasificación no esté conforme con la tarifa o cuota que esté pagando, podrá solicitar por escrito al área de comercialización de "LA COMAPAT", para que previa verificación que se lleve a cabo y mediante resolución debidamente fundada y motivada, se le ubique en la tarifa o cuota que le corresponda a partir de la fecha de trámite.
 
-Los actos de verificación que lleve a cabo “LA COMAPAT” a través de su área de comercialización y la emisión de resoluciones que de los mismos deriven de conformidad con lo dispuesto en esta Ley, deberán apegarse a los procedimientos y formalidades previstos en el Titulo III del Código Fiscal Municipal del Estado de Colima .
+Los actos de verificación que lleve a cabo "LA COMAPAT" a través de su área de comercialización y la emisión de resoluciones que de los mismos deriven de conformidad con lo dispuesto en esta Ley, deberán apegarse a los procedimientos y formalidades previstos en el Titulo III del Código Fiscal Municipal del Estado de Colima .
 
-El usuario, que no esté conforme con la resolución, en el improrrogable plazo de 5 días hábiles contados a partir del día siguiente al que se notifique la misma, deberá acudir por escrito, en inconformidad ante el Director General de “LA COMAPAT”, el cual deberá ser presentado dentro del horario de labores del organismo operador de agua, que son de las 8:00 a las 15:00 horas.
+El usuario, que no esté conforme con la resolución, en el improrrogable plazo de 5 días hábiles contados a partir del día siguiente al que se notifique la misma, deberá acudir por escrito, en inconformidad ante el Director General de "LA COMAPAT", el cual deberá ser presentado dentro del horario de labores del organismo operador de agua, que son de las 8:00 a las 15:00 horas.
 
 Se consideran días hábiles para los efectos de los plazos previstos en el presente artículo, de lunes a viernes, exceptuando aquellos días que por disposición del Código Fiscal Municipal del Estado de Colima se consideren como inhábiles.
 
-El escrito que contenga la inconformidad, deberá ser firmado en forma autógrafa por el interesado o su representante legal, además en el mismo se ofrecerán y exhibirán las pruebas que ofrezca en sustento de su inconformidad, expresando los agravios que considere le cause el acto impugnado. Dicho escrito no estará sujeto a formalidad alguna, asimismo podrá ofrecerse cualquier medio de prueba permitido por la Ley y no sea contrario a la moral o al derecho, excepto tratándose de la prueba testimonial o a la confesional de los servidores públicos de “LA COMAPAT”, pero si puede ofrecerse la de informes de los titulares de las diversas dependencias del organismo operador del agua que estén relacionados con los hechos mencionados en su inconformidad.
+El escrito que contenga la inconformidad, deberá ser firmado en forma autógrafa por el interesado o su representante legal, además en el mismo se ofrecerán y exhibirán las pruebas que ofrezca en sustento de su inconformidad, expresando los agravios que considere le cause el acto impugnado. Dicho escrito no estará sujeto a formalidad alguna, asimismo podrá ofrecerse cualquier medio de prueba permitido por la Ley y no sea contrario a la moral o al derecho, excepto tratándose de la prueba testimonial o a la confesional de los servidores públicos de "LA COMAPAT", pero si puede ofrecerse la de informes de los titulares de las diversas dependencias del organismo operador del agua que estén relacionados con los hechos mencionados en su inconformidad.
 
 En caso de que el escrito que contenga la inconformidad no esté firmado en forma autógrafa, se tendrá por no presentada la misma y en el supuesto que no acompañe las pruebas o no exprese agravios, no es motivo para desechar la inconformidad, pero no podrá hacerlo si transcurrió el plazo para inconformarse.
 
-Cuando el escrito de informidad (sic) no contenga domicilio para oír y recibir notificaciones, se tendrá como tal el que tenga registrado en el padrón de usuarios de “LA COMAPAT”.
+Cuando el escrito de informidad (sic) no contenga domicilio para oír y recibir notificaciones, se tendrá como tal el que tenga registrado en el padrón de usuarios de "LA COMAPAT".
 
 Cuando se promueva a nombre y representación del interesado se deberá acompañar el documento que justifique la personería del promovente; en el caso de que no se acompañe dicho documento, por una sola vez se requerirá a éste para que en el término de 3 días hábiles siguientes al de su notificación, exhiba el documento idóneo; concluido el plazo sin que se exhiba el documento en el que conste la personalidad del promovente o el documento no sea idóneo, se tendrá por no interpuesta la inconformidad.
 
@@ -949,7 +759,7 @@ En materia de inconformidad se prohíbe la gestión de negocios por lo que deber
 
 Una vez desahogada la totalidad de las pruebas, el expediente se considera que se encuentra totalmente integrado.
 
-El Director General de “LA COMAPAT”, una vez integrado el expediente respectivo, deberá emitir resolución debidamente fundada y motivada en un plazo no mayor a 30 días hábiles, transcurrido dicho plazo, se considera que existe resolución negativa, caso éste que será optativo para el particular de acudir al Tribunal Contencioso Administrativo o esperar a que se le notifique resolución expresa.
+El Director General de "LA COMAPAT", una vez integrado el expediente respectivo, deberá emitir resolución debidamente fundada y motivada en un plazo no mayor a 30 días hábiles, transcurrido dicho plazo, se considera que existe resolución negativa, caso éste que será optativo para el particular de acudir al Tribunal Contencioso Administrativo o esperar a que se le notifique resolución expresa.
 
 ###### ARTICULO 12.
 
@@ -1882,3 +1692,9 @@ P.O. 24 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 348 POR EL QUE SE REFORMA EL ARTÍCULO 3º DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del 1º de enero de 2018. Previa su publicación en el Periódico Oficial "El Estado de Colima".
