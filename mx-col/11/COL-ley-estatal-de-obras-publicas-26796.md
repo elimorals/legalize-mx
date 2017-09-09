@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2016-11-22"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE OBRAS PÚBLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -151,13 +151,21 @@ Las obras públicas y servicios que se realicen con cargo total o parcial a fond
 
 Será responsabilidad de las Dependencias y Entidades mantener adecuada y satisfactoriamente aseguradas las obras públicas a partir del momento de su recepción.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
-ARTÍCULO 6° BIS.- Se prohíbe que en las placas inaugurales o de identificación de las obras públicas y los servicios relacionados con las mismas, que realicen las dependencias estatales, las dependencias municipales, los organismos descentralizados o las empresas de participación estatal, se incluyan los nombres de funcionarios públicos que participen directamente en la ejecución de la obra o el servicio de que se trate.
+###### Artículo 6º Bis.
+
+Se prohíbe que en las placas inaugurales o de identificación de las obras públicas y los servicios relacionados con las mismas, que realicen las dependencias estatales, municipales, los organismos descentralizados o las empresas de participación estatal, se incluyan los nombres de políticos, familiares o servidores públicos que se encuentren en ejercicio de sus funciones hasta después de 5 años de concluir la misma y no haber sido sancionado por actos de corrupción.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2015)</small>
 
 En dichas placas, deberá asentarse únicamente que las obras públicas y los servicios relacionados con las mismas fueron realizados por el gobierno estatal o municipal, con el esfuerzo del pueblo, y que se entregan para beneficio de éste.
 
-A ninguna obra pública o servicios relacionados, podrá imponérsele el nombre de algún funcionario público que participen (sic) directamente en la ejecución de la obra o el servicio de que se trate. Tampoco podrán emplearse signos, eslogan, emblemas y colores alusivos a los partidos políticos o característicos de la administración en turno en las obras realizadas.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+A ninguna obra pública o servicios relacionados, podrá imponérsele el nombre de algún político que participen directa o indirectamente en la ejecución, la dotación o la gestión de recursos de la obra o el servicio de que se trate. Tampoco podrán emplearse signos, eslogan, emblemas y colores alusivos a los partidos políticos o característicos de la administración en turno en las obras realizadas. Se privilegiará ante todo los escudos del Estado o de los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2015)</small>
 
 Es obligación de los funcionarios públicos adoptar y vigilar el cumplimiento de lo dispuesto en el presente artículo; en caso contrario, se aplicará lo establecido por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -1186,3 +1194,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 347 POR EL QUE SE REFORMAN LOS PARRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 6 BIS DE LA LEY ESTATAL DE OBRAS PÚBLICAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
