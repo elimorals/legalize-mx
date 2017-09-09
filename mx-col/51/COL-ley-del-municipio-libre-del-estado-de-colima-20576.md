@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2017-06-29"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1151,9 +1151,17 @@ Para ser secretario de un ayuntamiento se requiere:
 
 I. Ser ciudadano colimense en pleno uso de sus derechos políticos y civiles y tener la capacidad para desempeñar el cargo;
 
-II. Tener como mínimo 21 años cumplidos; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
-III. No haber sido sentenciado en proceso penal, por delito intencional, ni declarado en quiebra, suspensión de pagos o concurso de acreedores.
+II. Tener como mínimo 21 años cumplidos;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+III. No haber sido sentenciado en proceso penal, por delito intencional, ni declarado en quiebra, suspensión de pagos o concurso de acreedores; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Contar con título y cédula profesional debidamente registrados en áreas afines al cargo y con ejercicio profesional mínimo de dos años.
 
 ###### ARTICULO 69.
 
@@ -1187,9 +1195,21 @@ Las faltas del secretario del ayuntamiento que no excedan de quince días, será
 
 ### CAPÍTULO IV. DE LA TESORERÍA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 71.
 
-La hacienda pública municipal estará a cargo de la tesorería municipal, cuyo titular deberá cumplir con los requisitos establecidos en el artículo 68 de esta Ley, que será nombrado por el cabildo a propuesta del presidente municipal.
+La hacienda pública municipal estará a cargo de la tesorería municipal, cuyo titular deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. No haber sido declarado en concurso mercantil o quiebra fraudulenta, ni haber sido condenado por delito intencional grave o inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por sentencia o resolución administrativa firme;
+
+III. Contar con título y cédula profesional de Contador Público o carrera afín y acreditar experiencia mínima de tres años relacionada con la administración de recursos públicos; así como haber cursado y concluido satisfactoriamente estudios en materia de contabilidad gubernamental; y
+
+IV. Las demás que establezcan las disposiciones aplicables.
+
+El titular de la tesorería municipal será nombrado por el cabildo a propuesta del presidente municipal.
 
 El tesorero y los empleados que manejen fondos o recursos económicos municipales, estarán obligados a caucionar su manejo en la forma y términos previstos por el cabildo.
 
@@ -2263,6 +2283,16 @@ TERCERO.- Los titulares de las administraciones de los Ayuntamientos que actualm
 
 P.O. 29 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 320 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; A LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 320 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; A LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 345 POR EL QUE SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 68 Y SE REFORMA EL ARTÍCULO 71 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los nombramientos de Secretario del Ayuntamiento y Tesorero Municipal que con anterioridad a la entrada en vigor del presente Decreto hayan sido emitidos, continuarán surtiendo sus efectos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
