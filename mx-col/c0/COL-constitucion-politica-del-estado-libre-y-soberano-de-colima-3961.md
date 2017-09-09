@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2017-07-22"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -3673,6 +3673,12 @@ QUINTO. En observancia al artículo transitorio octavo del Decreto por el que se
 
 SEXTO. El Sistema Estatal Anticorrupción deberá conformarse de acuerdo con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las leyes generales que resulten aplicables, la Constitución Política del Estado Libre y Soberano de Colima y la legislación local en la materia.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+
+SÉPTIMO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen en lo relativo al régimen de responsabilidades de los servidores públicos, así como de fiscalización y control de los recursos públicos, entrarán en vigor hasta que se expidan y entren en vigor los ordenamientos legislativos a que se refieren los artículos 33 fracciones X Bis, XI, XI Bis y XLI Bis, 77, 81, 116, 117, 118, 120 y 128 de esta Constitución.
+
+Los procedimientos legales, administrativos, de fiscalización superior, de responsabilidades administrativas y económicas de los servidores públicos que se encuentren en trámite, los continuarán conociendo las comisiones de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, la de Responsabilidades y el Pleno del H. Congreso del Estado, así como el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y los órganos internos de control de los Entes públicos, hasta su total resolución de conformidad con las disposiciones vigentes al momento de su inicio.
+
 P.O. 3 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 288 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE DERECHOS HUMANOS”.]
@@ -3700,6 +3706,12 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
 
 TERCERO.- Una vez aprobado el presente decreto, en un término de 30 días hábiles, se deberá armonizar lo relativo a reformar el artículo 20 de la Ley de Participación Ciudadana del Estado de Colima.
+
+P.O. 9 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 344 POR EL QUE SE ADICIONA EL ARTÍCULO SÉPTIMO TRANSITORIO AL DECRETO 287, POR EL QUE SE REFORMARON, ADICIONARON Y DEROGARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", NÚMERO 31, SUPLEMENTO 1, EL DÍA 13 DE MAYO DE 2017”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
 
 ###### ARTÍCULO ÚNICO.
 
