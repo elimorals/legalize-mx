@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-contraloria-y-92280"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-29"
-last_updated: "2012-11-29"
+last_updated: "2017-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA Y MODERNIZACION ADMINISTRATIVA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de noviembre de 2012.
 
@@ -806,3 +808,21 @@ PROFR. JAIME FERNÁNDEZ SARACHO
 EL SECRETARIO DE CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 
 C.P.C. OSCAR ERASMO NÁVAR GARCÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA SECRETARÍA DE CONTRALORÍA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Contraloría y Modernización Administrativa del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango el día 29 de noviembre de 2012.
+
+TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de la Contraloría del Estado que desaparecen o cambien de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+CUARTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+QUINTO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente Reglamento, en tanto no se modifiquen o dejen sin efectos.
+
+SEXTO.- Las disposiciones del Reglamento Interno que se abroga con el presente ordenamiento, seguirán aplicándose en la tramitación de los procedimientos de responsabilidad administrativa de los servidores públicos iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, en términos del párrafo cuarto del artículo tercero transitorio del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación.
