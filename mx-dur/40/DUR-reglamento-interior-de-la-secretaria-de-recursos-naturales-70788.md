@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-recursos-naturales-7078
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-04"
-last_updated: "2013-03-31"
+last_updated: "2017-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 4 de octubre de 2009.
 
 ISMAEL ALFREDO HERNÁNDEZ DERAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, en ejercicio de las facultades que me confieren los Artículos 70 fracción II de la Constitución Política del Estado, 15 y 16 de la Ley Orgánica de la Administración Pública, tengo a bien expedir el REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE, con base en los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -560,3 +564,15 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los asuntos que hasta antes de la entrada en vigor del presente reglamento, se estuvieren substanciado en se turnará (sic) de inmediato a la unidad administrativa que resulte competente para la continuación del mismo.
+
+P.O. 10 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO.- DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Recursos Naturales y Medio Ambiente publicado en el Periódico Oficial del Gobierno del Estado el día 4 de octubre de 2009 y sus reformas.
+
+TERCERO.- Los asuntos que hasta antes de la entrada en vigor de este reglamento, se estuvieren substanciando en las Unidades Administrativas que en virtud de este ordenamiento se suprimen o modifican en la estructura de la Secretaría, se turnaran de inmediato a las Unidades Administrativas que por efecto del mismo resulten competentes para la continuación de su trámite.
+
+CUARTO.- Quedan sin efecto las disposiciones que se opongan.
