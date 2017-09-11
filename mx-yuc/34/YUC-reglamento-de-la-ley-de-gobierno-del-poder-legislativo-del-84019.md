@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2012-08-23"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:.
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política, y 18 y 43 fracción I de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del
 
@@ -399,9 +401,11 @@ El Congreso, a través de la Mesa Directiva, podrá hacer público (sic) los doc
 
 ### CAPÍTULO II. De la Diputación Permanente
 
+> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-La Diputación permanente estará compuesta por un Presidente, un Secretario y un Vocal y por cada uno de éstos un suplente.
+La Diputación permanente estará compuesta por un Presidente y dos secretarios, con sus respectivos suplentes.
 
 ###### Artículo 40.
 
@@ -643,6 +647,12 @@ XI. Nombre y rúbrica del iniciador.
 
 En caso de que se omita alguno de los requisitos antes señalados, el Presidente de la Mesa Directiva, prevendrá por un término de cinco días hábiles al autor de la iniciativa que haya presentado la propuesta, a fin de que subsane las omisiones. En caso de no dar el debido cumplimiento, la propuesta será desechada.
 
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 69 Bis.
+
+De toda Iniciativa que se reciba, se deberá informar a más tardar a los dos días hábiles siguientes al de su recepción, a todos los Diputados que integran el Congreso del estado, por medio de sus correos electrónicos oficiales, señalando la denominación, materia de la iniciativa y nombre de quien la presenta, sin perjuicio de lo dispuesto en el artículo anterior.
+
 ### CAPÍTULO III. De los Acuerdos
 
 ###### Artículo 70.
@@ -697,7 +707,13 @@ Cuando se dictamine parcialmente un asunto, el resto se tendrá por resuelto y t
 
 El dictamen será válido sólo cuando la comisión o comisiones discutan un asunto en sesión y éste se apruebe, por lo menos por mayoría.
 
-La comisión o comisiones que tengan a su cargo dictaminar de algún asunto, tendrán un plazo de 45 días naturales para emitir su resolución, contados a partir del día siguiente de que se distribuya de manera oficial en sesión de comisiones. De no ser posible emitir el dictamen dentro del término antes señalado, el Presidente de la Comisión podrá solicitar una prórroga al Congreso hasta por un término igual.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+La comisión o comisiones que tengan a su cargo dictaminar de algún asunto, tendrán un plazo de 45 días hábiles para emitir su resolución, contados a partir del día siguiente de que se distribuya de manera oficial en sesión de comisiones. De no ser posible emitir el dictamen dentro del término antes señalado, el Presidente de la Comisión podrá solicitar una prórroga al Congreso hasta por un término igual.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+Las iniciativas turnadas a una Comisión Permanente deberán ser distribuidas a sus integrantes en un plazo no mayor a 60 días hábiles, contados a partir de su recepción.
 
 La comisión o comisiones que emitan dictamen, deberán enviarlo de inmediato a la Mesa Directiva, para los efectos de la programación legislativa.
 
@@ -764,6 +780,10 @@ IV.- Las iniciativas presentadas por los diputados, el Gobernador del Estado, el
 V.- Las propuestas de acuerdo que presenten la Mesa Directiva o la Junta, se les dará lectura y se someterán de inmediato al Pleno para su discusión y votación;
 
 VI.- Las demás propuestas de acuerdo que presenten las comisiones, los comités, los diputados y las fracciones o representaciones legislativas, se les dará lectura e inmediatamente se someterá a votación si se admite o no, en el primer caso, se turnará a la Secretaría para una segunda lectura en la que podrán hablar una sola vez dos diputados: uno en favor y otro en contra, prefiriéndose al autor de la proposición o se turnará a la Comisión o comisiones respectivas y en el segundo caso, quedará desechada;
+
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+Las propuestas de acuerdo a las que no se le haya dado el trámite dentro del período ordinario de sesiones en que fueron presentadas, se tendrán por desechadas, procediendo a su archivo como asuntos total y definitivamente concluidos;
 
 VII.- Las propuestas de modificaciones a proyectos de Ley, Decreto o Acuerdo se discutirán y votarán sin más trámites que su lectura y si son aprobadas, se agregarán a la minuta respectiva;
 
@@ -1632,3 +1652,15 @@ P.O. 23 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 522/2017 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma, entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Legislativo del Estado de Yucatán, tomara todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de la reforma de este artículo a partir de su publicación.
