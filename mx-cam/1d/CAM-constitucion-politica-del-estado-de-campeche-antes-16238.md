@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2017-06-27"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -707,9 +707,9 @@ El desempeño del cargo de diputado es incompatible con cualquier otra comisión
 
 Los diputados sólo podrán desempeñar cualquier otro empleo, cargo o comisión con licencia de la Legislatura y en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros, pero entonces cesarán en sus funciones legislativas mientras dure este nuevo cargo, empleo o comisión.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-Cada diputado será gestor de las demandas sociales de los habitantes que representan en el Congreso del Estado, tienen el deber de promover las soluciones de los problemas que afecten a los habitantes de sus distritos o a sus representaciones proporcionales minoritarias. Los diputados de mayoría relativa tienen además la obligación de visitar sus respectivos distritos durante los períodos de receso del Congreso. Se exceptúan de esta obligación los diputados que integran la Diputación Permanente.
+Cada diputado será gestor de las demandas sociales de los habitantes del Estado de Campeche, tienen la obligación de visitar de forma permanente sus respectivos distritos o sus circunscripciones plurinominales y, el deber de promover las soluciones de los problemas que afecten a sus representados. Asimismo, deberán presentar por escrito al Congreso un informe de las actividades realizadas durante el correspondiente ejercicio anual, con antelación de treinta días para su integración al informe a que se refiere el artículo 56 de esta Constitución. Este informe deberá publicarse en la página electrónica oficial del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -727,11 +727,11 @@ Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones 
 
 El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 41.
 
-El Congreso tendrá dos períodos ordinarios de sesiones: el primero comenzará el día 1o. de Octubre y concluirá el día 20 de Diciembre; el segundo se iniciará el día 1o. de Abril y concluirá el día 30 de Junio. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
+El Congreso tendrá tres periodos ordinarios de sesiones; el primero comenzará el 1° de octubre y concluirá el 20 de diciembre del mismo año; el segundo periodo iniciará el día 1° de febrero y concluirá el 31 de marzo y, el tercer periodo iniciará el día 1° de mayo y concluirá el 31 de julio. Periodos que podrán prorrogarse hasta por quince días cada uno.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -739,11 +739,11 @@ El Congreso tendrá dos períodos ordinarios de sesiones: el primero comenzará 
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por el Ejecutivo del Estado o por la Diputación Permanente; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueren sometidos a su conocimiento, y los cuales se expresarán en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 43.
 
-A la apertura de sesiones ordinarias al Congreso podrá asistir el Gobernador del Estado. También asistirá el Gobernador si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado en la sesión extraordinaria que fije el Congreso previa convocatoria al efecto de la Diputación Permanente, o dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
+A la apertura de sesiones ordinarias al Congreso podrá asistir el Gobernador del Estado. También asistirá el Gobernador si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado en la sesión extraordinaria que fije el Congreso previa convocatoria al efecto de la Diputación Permanente o que acuerde el Pleno, o dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1003,11 +1003,17 @@ XXVIII. Determinar en la ley las formalidades y requisitos a los que deban sujet
 
 XXIX.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya violación alguna a la soberanía del Estado o a la Constitución General de la República;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XXX.- Citar por conducto del Gobernador o del Pleno del H. Tribunal Superior de Justicia del Estado, a los titulares de las dependencias y entidades de la administración pública estatal, centralizada y descentralizada, a los Magistrados y a los demás miembros y servidores públicos del Poder Judicial, respectivamente, para que informen bajo protesta de decir verdad, cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad, cargo o comisión.
+
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-XXX.- Citar por conducto del Gobernador o del Pleno del H. Tribunal Superior de Justicia del Estado, a los titulares de las dependencias y entidades de la administración pública estatal, centralizada y descentralizada, a los Magistrados y a los demás miembros y servidores públicos del Poder Judicial, respectivamente, para que informen cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad, cargo o comisión.
-
 Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitar al presidente municipal, que concurra él u otro integrante del ayuntamiento para responder a los cuestionamientos que se les formulen;
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+El Congreso del Estado podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno estatal, mediante pregunta por escrito, la cual deberá ser rendida en un término no mayor a 15 días naturales a partir de su recepción.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1075,11 +1081,11 @@ Cuando, por cualquier circunstancia, no se aprueben las Leyes de Ingresos del Es
 
 Durante los períodos de receso del Congreso habrá una Diputación Permanente. La integración, funcionamiento y competencia de la Diputación Permanente se regirá por lo que disponen la presente Constitución y la Ley Orgánica del Poder Legislativo del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 56.
 
-Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas, en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
+Diez días antes de concluir el tercer período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el párrafo tercero del artículo 38 de esta Constitución.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3076,3 +3082,21 @@ II. Los Jueces de primera instancia que tengan más de 6 años en el ejercicio d
 Noveno. En tanto entran en vigor las Leyes que derivan del presente decreto se seguirán aplicando las Leyes vigentes respectivas.
 
 Décimo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 202 “POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 43 Y SE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 54 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 203 POR EL QUE "SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 38, LOS ARTÍCULOS 41, 43 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado tendrá un plazo que no excederá de 60 días hábiles a la entrada en vigor del presente decreto para modificar, en lo conducente, la Ley Orgánica del Poder Legislativo del Estado de Campeche.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
