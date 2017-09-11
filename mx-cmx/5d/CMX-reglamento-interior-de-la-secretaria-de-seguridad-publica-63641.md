@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2017-04-28"
+last_updated: "2017-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -158,7 +158,9 @@ c) Dirección General del Consejo de Honor y Justicia.
 
 II. Órgano Desconcentrado:
 
-a) Instituto Técnico de Formación Policial.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+a) Instituto Técnico de Formación Policial, denominado Universidad de la Policía de la Ciudad de México.
 
 6. Subsecretaría de Información e Inteligencia Policial:
 
@@ -1206,7 +1208,9 @@ I. Promover, implantar y dirigir acciones tendientes a la profesionalización de
 
 II. Implantar, supervisar y evaluar el sistema de ingreso a la Carrera Policial;
 
-III. Coadyuvar en la planeación de los programas de instrucción física y académica implementados por el Instituto Técnico de Formación Policial;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+III. Coadyuvar en la planeación de los programas de instrucción física y académica implementados por el Instituto Técnico de Formación Policial, denominado Universidad de la Policía de la Ciudad de México;
 
 IV. Implantar y validar los perfiles y descripciones de grados que sirvan de base para el reclutamiento, selección y promoción de ascensos;
 
@@ -1300,21 +1304,99 @@ XIII. Informar a las autoridades administrativas o judiciales correspondientes s
 
 XIV. Las demás que le atribuya la normativa vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 37.
 
-Son atribuciones de la Dirección General del Instituto Técnico de Formación Policial, como órgano desconcentrado de la Secretaría:
+Son atribuciones de la Dirección General del Instituto Técnico de Formación Policial, denominado Universidad de la Policía de la Ciudad de México, como órgano desconcentrado adscrito a la Secretaría:
 
-I. Representar al Instituto en los actos y ceremonias oficiales, así como ante instituciones educativas nacionales y extranjeras;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-II. Formular y proponer los programas específicos que se deriven del Programa General de Formación Policial;
+I. Representar al Instituto Técnico de Formación Policial, denominado Universidad de la Policía de la Ciudad de México;
 
-III. Formular los planes y programas de estudio, así como manuales de disciplina y de operación internos y demás documentos académicos necesarios para la formación policial;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Implantar las reglas para el establecimiento y operación del Sistema de Carrera Policial y las disposiciones que emita la Comisión Técnica de Selección y Promoción, en materia de formación policial;
+II. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública;
 
-V. Elaborar el Proyecto del Presupuesto Anual del Instituto; y
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Las demás que le atribuya la normativa vigente.
+III. Capacitar en materia de investigación científica y técnica a la Policía de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Proponer y desarrollar los programas de investigación académica en materia policial, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+V. Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Promover y prestar servicios educativos a la Policía de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Aplicar las estrategias para la profesionalización de los aspirantes e integrantes de la Policía de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Proponer y ejecutar los contenidos de los planes y programas para la formación de la Policía de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+X. Realizar equivalencias de estudios de la Profesionalización;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Realizar los estudios para detectar las necesidades de capacitación de la Policía de la Ciudad de México y proponer los cursos correspondientes;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Proponer y, en su caso, publicar las convocatorias para el ingreso a la Universidad de la Policía de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Expedir constancias de las actividades para la profesionalización que impartan;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a la Policía de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Emitir los programas específicos que se deriven del Programa General de Formación Policial;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Emitir los planes y programas de estudio, así como manuales de disciplina y de operación internos y demás documentos académicos necesarios para la Profesionalización;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Supervisar que los estudiantes de la Universidad de la Policía de la Ciudad de México se sujeten a los manuales y normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Observar las Reglas para el Establecimiento de la Carrera Policial de la Policía del Distrito Federal y las disposiciones que emitan la Comisión Técnica de Selección y Promoción y la Comisión Técnica de Profesionalización;
+
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Elaborar el Proyecto del Presupuesto Anual del Instituto Técnico de Formación policial, denominado Universidad de la Policía de la Ciudad de México; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 38.
 
@@ -2127,3 +2209,17 @@ PRIMERO.- Publíquese en la Gaceta oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, en todas las referencias que los ordenamientos jurídicos hagan al Instituto Técnico de Formación Policial, deberán entenderse hechas a la Universidad de la Policía de la Ciudad de México.
+
+CUARTO.- El Instituto Técnico de Formación Policial, denominado Universidad de la Policía de la Ciudad de México y la Secretaría de Seguridad Pública, en el ámbito de sus respectivas competencias, realizarán las acciones conducentes para la implementación del presente Decreto, en un término no mayor a seis meses, contados a partir de su vigencia.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
