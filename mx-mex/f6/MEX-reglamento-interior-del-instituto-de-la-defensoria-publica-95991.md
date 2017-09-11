@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-la-defensoria-publica-9599
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-19"
-last_updated: "2015-11-04"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el día jueves 19 de septiembre de 2013.
 
@@ -117,7 +117,9 @@ La dirección y administración del Instituto estarán a cargo de un Director Ge
 
 I. Dirigir técnica y administrativamente al Instituto.
 
-II. Representar legalmente al Instituto en los asuntos en los que sea parte, previo acuerdo del Consejero/a jurídica.
+> <small>(REFORMADA, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+II. Representar legalmente al Instituto en los asuntos en los que sea parte con las facultades de apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades que requieran cláusula especial, conforme a las disposiciones de la materia, ante toda clase de autoridades civiles, penales, administrativas, del trabajo, municipales, estatales y federales, juntas de conciliación y arbitraje, ministerio público de la federación, locales y de la Ciudad de México, empresas públicas, privadas y particulares, organismos públicos desconcentrados y descentralizados, presentar y contestar demandas, hacer denuncias, acusaciones y querellas, continuando el procedimiento en todas sus etapas, instancias, trámites e incidentes, hasta su total conclusión, reconocer firmas y documentos, desistirse, transigir, conciliar, convenir, recibir pagos, comprometer en árbitro, articular o absolver posiciones, otorgar perdón, recusar, interponer recursos, promover el juicio de amparo y desistirse de él y en general, ejercitar todas las acciones civiles penales, mercantiles, administrativas y laborales que le correspondan, previo acuerdo del Consejero/a Jurídica.
 
 III. Promover y fortalecer las relaciones del Instituto, con otras instituciones públicas, privadas y sociales que por la naturaleza de sus funciones puedan colaborar con los objetivos del Instituto.
 
@@ -504,5 +506,15 @@ G.G. 4 DE NOVIEMBRE DE 2015.
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA, DEL REGLAMENTO INTERIOR DEL REGISTRO CIVIL DEL ESTADO DE MÉXICO Y DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno."
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
