@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-consejeria-juridica-en-el-estado-9251
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2017-03-09"
+last_updated: "2017-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
 DOCTOR ERUVIEL ÁVILA VILLEGAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 77, FRACCIONES IV, XXVIII, XXXVIII Y XLVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -131,7 +133,11 @@ XVIII. Comparecer ante la Legislatura del Estado, en términos de la Constituci�
 
 XIX. Fijar, dirigir y controlar la política general de la Consejería.
 
-XX. Representar legalmente a la Consejería con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia, y sustituir y delegar esta representación en uno o más apoderados o subalternos para que la ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación en la materia.
+> <small>(REFORMADA, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Representar legalmente a la Consejería con las facultades de un apoderado general para pleitos y cobranzas, actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial, conforme a las disposiciones de la materia a la o el Gobernador, a la o el Secretario General de Gobierno, a la o el Subsecretario General de Gobierno, ante toda clase de autoridades civiles, penales, administrativas, del trabajo, municipales, estatales y federales, juntas de conciliación y arbitraje, ministerio público de la federación, locales y de la Ciudad de México, empresas públicas, privadas y particulares, organismos públicos desconcentrados y descentralizados, presentar y contestar demandas, hacer denuncias, acusaciones y querellas, continuando el procedimiento en todas sus etapas, instancias, trámites e incidentes, hasta su total conclusión, reconocer firmas y documentos, desistirse, transigir, conciliar, convenir, recibir pagos, comprometer en árbitro, articular o absolver posiciones, otorgar perdón, recusar, interponer recursos, promover el juicio de amparo y desistirse de él y en general, ejercitar todas las acciones civiles, penales, mercantiles, administrativas, laborales y electorales que le correspondan así como sustituir y delegar esta representación en uno o más apoderados o subalternos para que la ejerzan individual o conjuntamente.
+
+Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación en la materia.
 
 XXI. Planear, coordinar, supervisar y evaluar, en términos de la legislación aplicable, a los organismos auxiliares que coordine sectorial mente la Consejería, a efecto de que sus actividades se vinculen con la planeación del desarrollo estatal.
 
@@ -592,3 +598,13 @@ G.G. 9 DE MARZO DE 2017.
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA, DEL REGLAMENTO INTERIOR DEL REGISTRO CIVIL DEL ESTADO DE MÉXICO Y DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno."
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
