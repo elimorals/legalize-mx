@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2017-04-17"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -1705,7 +1705,7 @@ Los infractores, serán sancionados de acuerdo a la falta cometida, conforme a l
 
 > <small>N. DE E. VÉASE TABLA DE INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD EN LA G.G. DE 21 DE SEPTIEMBRE DE 1992, PÁGINAS DE LA 50 A LA 67.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4; G.G. 20 DE SEPTIEMBRE DE 2012, PÁGINAS DE LA 4 A LA 25; G.G. 24 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 5 A LA 7.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4; G.G. 20 DE SEPTIEMBRE DE 2012, PÁGINAS DE LA 4 A LA 25; G.G. 24 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 5 A LA 7; G.G. 11 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 4 A LA 6.</small>
 
 ###### Artículo 123.
 
@@ -1751,17 +1751,43 @@ La información obtenida con equipos y sistemas tecnológicos, con base en la cu
 
 Se entenderá por equipos o sistemas tecnológicos todos los dispositivos electromecánicos, fotográficos y de video que sirvan para regular, controlar y dirigir el tránsito de vehículos; así como para la captación y generación de infracciones.
 
-> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 125 Ter.
 
-Atendiendo al equipo o sistemas tecnológicos utilizados para captar la comisión de la infracción, la boleta señalada en el artículo 125 deberá contener además el lugar en que se encontraba al momento de ser detectada y copia de la imagen del número de placa o matrícula del vehículo, con la confirmación de que dichos elementos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado así como el sello o firma electrónica respectiva de la autoridad que valida la infracción.
+Atendiendo al equipo o sistemas tecnológicos utilizados para captar la comisión de la infracción, la boleta deberá contener:
 
-> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+I. Nombre y domicilio del propietario del vehículo.
+
+II. Número de placas de matrícula del vehículo y entidad en que se expidió.
+
+III. Actos o hechos constitutivos de la infracción, así como el lugar, fecha y hora en que se haya cometido.
+
+IV. Disposiciones legales que las sustentan.
+
+V. Copia de la imagen del número de placa o matrícula del vehículo, con la confirmación de que dichos elementos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado.
+
+VI. Sello o firma electrónica respectiva de la autoridad que valida la infracción.
+
+La información obtenida con equipos y sistemas tecnológicos, con base en la cual se determine la imposición de la sanción, misma que hará prueba plena.
+
+> <small>(REFORMADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 125 Quáter.
 
-Las infracciones a este reglamento captadas por equipos o sistemas tecnológicos, deberán ser notificadas al propietario del vehículo.
+Las infracciones a este reglamento captadas por equipos o sistemas tecnológicos, deberán ser notificadas al propietario del vehículo, quien será en todo caso responsable solidario para efectos del cobro de la infracción.
+
+En caso de notificaciones por correo certificado, cuando no sea posible notificar al propietario del vehículo en el domicilio señalado, se realizará una segunda visita por parte del servicio de correspondencia, no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre lo reciba o si estos no se encuentran en el domicilio, se levantará constancia de ello.
+
+Para las notificaciones mencionadas en este artículo se aplicara de manera supletoria el Código de Procedimientos Administrativos del Estado de México.
+
+Para los vehículos registrados en otra Entidad Federativa, según las prevenciones que existan con relación a la coordinación fiscal, las infracciones podrán ser impuestas a disposición y aplicación de la Entidad Federativa correspondiente.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 125 Quinquies.
+
+Cuando un vehículo matriculado fuera del Estado de México, sea detectado en la vía pública con adeudos por infracciones al presente reglamento, el agente de tránsito que lo detecte podrá retener la tarjeta de circulación, la licencia del conductor o la placa de matrícula del vehículo como medida para garantizar el pago de las multas cuando no sea posible realizar el pago inmediato. El agente deberá remitir el documento retenido o la placa a la oficina correspondiente, debiendo así mismo informar al infractor de los beneficios a que tiene derecho en términos del presente artículo, así como el lugar en que podrá recoger el documento o la placa retenidos.
 
 > <small>(REFORMADO, G.G. 29 DE ABRIL DE 2013)</small>
 
@@ -1771,11 +1797,11 @@ Una vez que la agente de tránsito expida el documento en el que conste la infra
 
 Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del Estado de México, el agente de tránsito que levante la infracción podrá retener la tarjeta de circulación, la licencia del conductor o la placa de matrícula del vehículo como medida para garantizar el pago de la multa, cuando no sea posible realizar el pago inmediato. El agente deberá remitir el documento retenido o la placa a la oficina correspondiente debiendo, asimismo, informar al infractor de los beneficios a que tiene derecho en términos del presente artículo, así como el lugar en que podrá recoger el documento o la placa retenidos.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 127.
 
-Si el infractor realiza el pago de la infracción el mismo día, obtendrá un descuento del 70% y cuando pague la multa dentro de los quince días hábiles siguientes, tendrá derecho a un descuento del 50%.
+Cuando el infractor realice el pago de la infracción dentro de los quince días hábiles siguientes, tendrá derecho a un descuento del 50%.
 
 > <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
 
@@ -1928,5 +1954,15 @@ G.G. 17 DE ABRIL DE 2017.
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno."
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
