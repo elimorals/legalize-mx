@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-comunicaciones-del-estado-de-mexico-33024"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-01"
-last_updated: "2014-10-16"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 1 de julio de 2003.
 
 ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCION IV DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTICULOS 2, 7 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Que en mérito de lo anterior, he tenido a bien expedir el siguiente:
 
@@ -56,6 +58,10 @@ III. Camino o carretera: a todo inmueble del dominio público y uso común desti
 IV. Cobertizo: estructura instalada dentro del derecho de vía en los lugares autorizados, que permite resguardar a los usuarios del transporte público de la intemperie.
 
 V. Código: al Código Administrativo del Estado de México.
+
+> <small>(ADICIONADA, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+V Bis. Comité: Al Comité integrado por las Secretarías de Comunicaciones, Finanzas, Contraloría y la Subsecretaría de Agua, que se encargará de dictaminar la procedencia de una Propuesta no Solicitada así como la modalidad bajo la cual deberá desarrollarse el procedimiento para el otorgamiento de la Concesión correspondiente.
 
 VI. Cruzamiento: obra o instalación, subterránea, a nivel o elevada, que cruza el camino o la vialidad.
 
@@ -331,13 +337,37 @@ Las concesiones en materia de infraestructura vial, comprenderán la construcci�
 
 Atendiendo a las características de la obra, y la obtención de las mejores condiciones técnicas y económicas para su realización, la Secretaría podrá concesionar a una o varias sociedades mercantiles, constituidas conforme a las leyes mexicanas, uno, varios o todos los rubros antes señalados.
 
+> <small>(REFORMADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 26.
 
-Los interesados en obtener una concesión podrán solicitar, por escrito, a la autoridad de comunicaciones el inicio del procedimiento de licitación pública.
+Los interesados en obtener una concesión podrán solicitar, por escrito, a la autoridad de comunicaciones el inicio del procedimiento de licitación pública. De igual forma podrán presentar una Propuesta no Solicitada en términos del presente Reglamento.
 
 ###### Artículo 27.
 
 Previa al procedimiento de licitación, la autoridad de comunicaciones deberá realizar, directamente o a través de terceros, estudios técnicos y financieros que demuestren la viabilidad del proyecto. Para tal efecto, la autoridad podrá celebrar los convenios respectivos, con cargo al proyecto de la concesión o suscribir contratos conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+En el caso de la Propuesta no Solicitada, está deberá acompañarse de dichos estudios, a costa del solicitante, mismos que deberá presentar dentro del término de ciento ochenta días posteriores al ingreso de su solicitud de interés.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+El estudio deberá incluir, por lo menos:
+
+I. Descripción y características (sic) viabilidad técnicas.
+
+II. Las autorizaciones para su ejecución.
+
+III. Viabilidad jurídica.
+
+IV. Rentabilidad social.
+
+V. Estimaciones de Inversión y aportaciones del Estado de México y de los particulares.
+
+VI. Viabilidad económica financiera.
+
+VII. Características de la concesión, responsabilidades de los participantes.
 
 #### SECCION SEGUNDA. DEL PROCEDIMIENTO DE LICITACION
 
@@ -564,6 +594,102 @@ En todo caso, el concesionario tendrá derecho al pago de una indemnización, at
 La autoridad concedente dispondrá las medidas conducentes para que el servicio no se interrumpa.
 
 El concesionario podrá retirar y disponer de los bienes, equipo e instalaciones de su propiedad que no estén afectos a la concesión, en cuyo caso, su valor no se incluirá en el monto de la indemnización.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+#### SECCION QUINTA. DE LAS PROPUESTAS NO SOLICITADAS
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Bis.
+
+Cualquier sociedad mercantil constituida conforme a las leyes mexicanas, podrá presentar ante la Secretaría una Propuesta no Solicitada para el desarrollo de un proyecto de infraestructura sujeto a concesión, misma que deberá entregar el anteproyecto y los estudios dentro de los siguientes ciento ochenta días, término que podrá ser prorrogado por una sola ocasión a petición del interesado con la autorización de la Secretaría.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Ter.
+
+Recibida la Propuesta No Solicitada, la Secretaría convocará por conducto del Sistema, al Comité para que analice y dictamine sobre su viabilidad y determine la modalidad bajo la cual deberá desarrollarse el procedimiento para su otorgamiento.
+
+Contra el dictamen de no viabilidad de una Propuesta no Solicitada no procederá instancia ni medio de defensa alguno.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Quáter.
+
+El solicitante podrá requerir a la Secretaría para que, previo al inicio del procedimiento de análisis y dictaminación, le expida una manifestación de interés respecto del proyecto propuesto. Lo anterior no obliga a la Secretaría y al Comité a evaluar ni autorizar una Propuesta no Solicitada, pero otorgará al solicitante elementos que le permitan, bajo su responsabilidad, realizar los estudios y análisis a que se alude en el artículo siguiente. La solicitud mencionada en el presente artículo y la documentación que se acompaña a la misma tendrán el carácter de confidencial para la Secretaría y el Comité, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Quinquies.
+
+La Secretaría deberá emitir los lineamientos que determinen el contenido y requisitos que debe cubrir el anteproyecto que acompaña a la Propuesta no Solicitada, los cuales serán públicos.
+
+Si el proyecto incumple alguno de los requisitos o los estudios se encuentran incompletos, la Secretaría le indicará al solicitante dicha situación, para que subsane las omisiones que se detecten en el plazo que le señale, si transcurrido el mismo no se subsana, la Propuesta no Solicitada no será analizada.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Sexies.
+
+La Secretaría, con base en el dictamen del Comité, deberá dar respuesta al solicitante sobre la procedencia del proyecto y la modalidad bajo la cual se desarrollará el procedimiento para el otorgamiento de la concesión, cuyo desahogo se realizará una vez presentado y aprobado el proyecto por parte del propio Comité, dentro del término de ciento ochenta días, mismo que se computará a partir de su entrega total.
+
+En este caso, el solicitante deberá transmitir a la Secretaría la propiedad de los estudios correspondientes y demás elementos técnicos necesarios.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Septies.
+
+El solicitante al que se dictamine como procedente la Propuesta no Solicitada, adquiere los siguientes derechos:
+
+I. El reembolso del costo de los estudios previa comprobación y valuación, el cual se cubrirá con cargo al proyecto una vez adjudicado.
+
+II. diez puntos adicionales en la evaluación de su propuesta en caso de que se dictamine que la modalidad del procedimiento para el otorgamiento de la concesión sea por concurso o bien invitación restringida.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Octies.
+
+Las modalidades del procedimiento bajo el cual se otorgará una Concesión resultado de una Propuesta no Solicitada serán las siguientes:
+
+I. Licitación que se desarrollará por concurso con base en las disposiciones contenidas en las secciones segunda y tercera del presente Reglamento, otorgando diez puntos adicionales al solicitante.
+
+II. Invitación restringida.
+
+III. Adjudicación directa.
+
+La modalidad del procedimiento bajo el cual se otorgará una concesión, se determinará por el Comité con base en las condiciones de interés público que lo justifiquen, debiendo fundar y motivar su determinación en el dictamen correspondiente.
+
+La invitación restringida se desarrollará en los términos de la Licitación, a excepción de la publicación de la convocatoria.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Nonies.
+
+El Comité dictaminará la procedencia del desarrollo de los procedimientos de invitación restringida o adjudicación directa cuando:
+
+I. No existan opciones suficientes para llevar a cabo la prestación del servicio público o el desarrollo de infraestructura o del equipamiento, o que en el mercado sólo exista un posible oferente, o se trate de una persona que posea la titularidad exclusiva de patentes, derechos de autor, u otros derechos exclusivos.
+
+II. El proyecto tenga continuidad material y geográfica con obras ya existentes lo que optimice la construcción y operación de la infraestructura.
+
+III. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado de México, como consecuencia de desastres producidos por fenómenos naturales.
+
+IV. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificables y comprobables.
+
+V. Se haya revocado una concesión adjudicada a través de concurso, antes de iniciar su ejecución, en cuyo caso el proyecto podrá adjudicarse al concursante que hubiese obtenido el segundo lugar. De no aceptar éste, por escrito se adjudicará al tercer lugar y así sucesivamente.
+
+VI. Se trate de la sustitución de una Concesionaria por causas de terminación anticipada o revocación del Título de Concesión.
+
+VII. En caso que el concurso se haya declarado desierto.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 48 Decies.
+
+Para efectos de la evaluación de las propuestas no solicitadas, la Secretaría podrá requerir por escrito aclaraciones o información adicional al solicitante, o podrá ella misma realizar los estudios complementarios que considere pertinentes.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+Artículo 48 Undecies.- Cuando se presenten dos o más Propuestas no Solicitadas en relación con un mismo proyecto y más de una se dictamine viable, la Comisión resolverá en favor de la que represente mayores beneficios esperados en los términos del Reglamento y en igualdad de condiciones, en favor de la primera presentada.
 
 ### CAPITULO QUINTO. DEL DICTAMEN DE INCORPORACION E IMPACTO VIAL
 
@@ -1003,7 +1129,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 14 DE JULIO DE 2005.
 
@@ -1028,3 +1154,13 @@ PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor rango que se opongan a los preceptos del presente Reglamento.
+
+G.G. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
