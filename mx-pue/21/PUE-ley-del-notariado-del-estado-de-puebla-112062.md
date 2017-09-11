@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-112062"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2017-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Vigésima Novena Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 56, 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135 y 136 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 90 y 120 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide el siguiente:
 
@@ -355,7 +357,7 @@ IV. El practicante deberá realizar una monografía sobre algún tema que le asi
 
 Cumplidos los requisitos señalados en las fracciones anteriores, el Consejo de Notarios expedirá la constancia correspondiente.
 
-No será necesario desarrollar la práctica a que se refiere los artículos 31 y 32, si el aspirante acredita tener suficiente experiencia para desarrollar la función.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
@@ -369,7 +371,9 @@ I. Ser vecino del Estado, con residencia no menor de cinco años ininterrumpidos
 
 II. Acreditar su asistencia a eventos académicos organizados por el Consejo de Notarios durante el último año previo a su solicitud de examen o participar en actividades extracurriculares, profesionales y académicas, avaladas por otras instituciones oficialmente reconocidas;
 
-III. Comprobar que durante un año natural ininterrumpido ha practicado, por lo menos, cuatro horas diarias, bajo la dirección de algún Notario; o bien acreditar suficiente experiencia, en términos del último párrafo del artículo 32; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+III. Comprobar que durante un año natural ininterrumpido ha practicado, por lo menos, cuatro horas diarias, bajo la dirección de algún Notario; y
 
 IV. Ser aprobado en el examen correspondiente con una calificación mínima de ocho puntos de un total de diez.
 
@@ -421,9 +425,11 @@ Si el expediente cumple los requisitos, la Dirección General de Archivos y Nota
 
 Si el expediente no cumple con los requisitos establecidos, se le notificará al interesado, indicándole el motivo del incumplimiento y se le dejarán a salvo sus derechos para que, pueda presentar una nueva solicitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 37.
 
-El examen a que se refiere la fracción IV del artículo 34 de esta Ley, se efectuará en la sede del Colegio de Notarios, el día y hora designados, ante un Jurado integrado por cinco miembros: tres abogados o licenciados en derecho, en su carácter de servidores públicos del Gobierno del Estado, con conocimientos en materia notarial, nombrados por la Secretaría General de Gobierno; y dos Notarios nombrados por el Consejo de Notarios.
+El examen a que se refieren los articulos 34 fracción IV y 63 de esta Ley, será público, se efectuará en la sede del Colegio de Notarios, el día y hora designados, ante un Jurado integrado por cinco miembros: tres abogados o licenciados en derecho, en su carácter de servidores públicos del Gobierno del Estado, con conocimientos en materia notarial, nombrados por la Secretaría General de Gobierno; y dos Notarios nombrados por el Consejo de Notarios.
 
 El Presidente del Jurado será designado por la Secretaría General de Gobierno, de entre los tres servidores públicos nombrados por él; y el Secretario del Jurado será designado por el Consejo de Notarios, de entre los dos Notarios nombrados.
 
@@ -453,13 +459,25 @@ Contra la decisión del Jurado no procederá recurso alguno.
 
 El Secretario del Jurado redactará el acta relativa al examen, la que deberá ser firmada por triplicado por todos los integrantes del mismo y por el sustentante.
 
-El Secretario del Jurado enviará un ejemplar del acta del examen a la Dirección General de Archivos y Notarías, para que se integre al expediente formado con motivo de la solicitud del aspirante al ejercicio del Notariado. El sustentante conservará un ejemplar de esa acta y el otro quedará en el Colegio de Notarios.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+El Secretario del Jurado enviará un ejemplar del acta del examen a la Dirección General de Archivos y Notarías, para que se integre al expediente formado con motivo de la solicitud del aspirante al ejercicio del Notariado.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+En caso de los artículos 63 y 67 de esta Ley, el Secretario del Jurado enviará un ejemplar del acta del examen al Director General de Archivos y Notarías para su archivo.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+En todos los casos, el sustentante conservará un ejemplar de esa acta y el otro quedará en el Colegio de Notarios.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 41.
 
-En caso de resultar aprobado el sustentante, el Titular del Poder Ejecutivo del Estado expedirá a su favor la patente de aspirante al ejercicio del Notariado.
+En caso de resultar aprobado el sustentante, el Titular del Poder Ejecutivo del Estado expedirá a su favor la patente respectiva.
 
-La patente de aspirante al ejercicio del Notariado deberá ser registrada en la Dirección General de Archivos y Notarías, y en el Consejo de Notarios.
+La patente deberá ser registrada en la Dirección General de Archivos y Notarías, y en el Consejo de Notarios.
 
 ### CAPÍTULO V. DE LA PATENTE DE NOTARIO
 
@@ -487,15 +505,21 @@ III. El de la fracción III, con el acta de examen correspondiente.
 
 Es indispensable el cumplimiento de los requisitos señalados en los artículos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 45.
 
-Cuando esté vacante alguna Notaría Pública o, sea creada por el Titular del Poder Ejecutivo del Estado en términos de los artículos 23 y 24 de esta Ley, la Secretaría General de Gobierno convocará por una sola vez mediante publicación simultánea en el Periódico Oficial del Estado, en dos de los diarios de mayor circulación en la Entidad y en el sitio oficial que tiene el Colegio de Notarios en la red informática de Internet, a los aspirantes al ejercicio del Notariado que pretendan obtener por oposición la patente de Titular de Notaría Pública vacante o creada.
+Cuando esté vacante alguna Notaría Pública o, sea creada por el Titular del Poder Ejecutivo del Estado en términos de los artículos 23 y 24 de esta Ley, la Secretaría General de Gobierno convocará con anticipación de treinta días naturales previos a la celebración de los exámenes de oposición correspondientes, por una sola vez mediante publicación simultánea en el Periódico Oficial del Estado, en dos de los diarios de mayor circulación en la Entidad y en el sitio oficial que tiene el Colegio de Notarios en la red informática de Internet, a los aspirantes al ejercicio del Notariado que pretendan obtener por oposición la patente de Titular de Notaría Pública vacante o creada.
 
 En la convocatoria se señalarán las fechas y horarios relativos al inicio y término del periodo de inscripción al procedimiento, de la presentación de documentación, así como del examen.
 
 ###### ARTÍCULO 46.
 
 El examen de oposición tendrá verificativo en la sede del Colegio de Notarios.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+Para que haya oposición se requiere un mínimo de tres sustentantes; si no se cumple con este requisito se declarará desierto el examen.
 
 ###### ARTÍCULO 47.
 
@@ -641,9 +665,11 @@ IV. Asociados. Se denominan así a dos Notarios Titulares del mismo distrito jud
 
 El Notario Titular que tenga Auxiliar, no podrá en ningún caso contar con un Suplente, celebrar convenio de suplencia o asociarse. Lo mismo sucederá cuando tenga Suplente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 62.
 
-Todo Notario Titular podrá proponer al Titular del Poder Ejecutivo del Estado, la designación de su Auxiliar de entre los que cuenten con patente de aspirante al ejercicio del Notariado. El Titular del Poder Ejecutivo del Estado, en su caso, podrá expedir la patente respectiva al propuesto, o requerirle al Notario Titular que proponga a otro aspirante.
+Cuando un Notario Titular hubiere cumplido más de cinco años de haber iniciado su actividad en el Estado, podrá proponer al Titular del Poder Ejecutivo del Estado la designación de su Auxiliar de entre los que cuenten con patente de aspirante al ejercicio del Notariado. Dicho plazo se computará a partir del inicio de la actividad del Titular, ya sea con ese carácter o con el de Auxiliar. El Titular del Poder Ejecutivo del Estado, en su caso, podrá expedir la patente respectiva al propuesto, o requerirle al Notario Titular que proponga a otro aspirante.
 
 El Notario Auxiliar tendrá las mismas facultades para ejercer las funciones que el Titular, actuando indistintamente en el mismo protocolo y con el sello del Titular, pero el Auxiliar deberá hacer constar en los instrumentos el carácter con el que actúa.
 
@@ -651,9 +677,11 @@ El Titular del Poder Ejecutivo del Estado podrá revocar la patente de un Notari
 
 El Notario Auxiliar será, en caso de ausencia, fallecimiento, separación voluntaria o falta definitiva del Titular, el sucesor de éste con igual capacidad de actuar. De este hecho se dará conocimiento a la Secretaría General de Gobierno para que el nombramiento del Auxiliar como Titular se someta a la potestad del Titular del Poder Ejecutivo del Estado, y en caso de no existir impedimento en términos de esta Ley, expida la sustitución de la patente correspondiente. Mientras tanto, el Auxiliar podrá actuar en el protocolo y con el sello del entonces Titular.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 63.
 
-Para obtener la patente de Notario Auxiliar, el propuesto deberá acreditar los requisitos a que se refieren los artículos 31, fracciones II, III, IV, V, VI, VII, VIII, IX, X y XI; 34, fracción I y 42, fracciones I y II, de esta Ley.
+Para obtener la patente de Notario Auxiliar, el propuesto deberá acreditar los requisitos a que se refieren los artículos 31, fracciones II, III, IV, V, VI, VII, VIII, IX, X y XI; 34, fracción I y 42, fracciones I y II, de esta Ley, así como ser aprobado en el examen que para dicho efecto se celebre.
 
 ###### ARTÍCULO 64.
 
@@ -751,11 +779,13 @@ II. Se les dejará márgenes de tres punto cinco centímetros de ancho en su mar
 
 III. Se asentará en ellos las escrituras, actas, firmas y autorizaciones preventiva y definitiva correspondientes y a continuación las notas complementarias en tanto exista espacio para ello. De no haber espacio en el folio, se asentará la mención correspondiente al final de éste y, en hojas de papel común, las notas complementarias que se agregarán al apéndice;
 
-IV. Llevarán impreso en el anverso en la parte superior izquierda el escudo del Estado de Puebla, en la parte central superior la leyenda “Colegio de Notarios del Estado de Puebla” debajo de ésta, del lado izquierdo, el número de Notaría Pública y distrito judicial correspondiente y en el mismo renglón, alineado al margen derecho, el número de folio que será progresivo;
+IV. Llevarán impreso en el anverso en la parte superior izquierda el escudo del Estado de Puebla, en la parte central superior la leyenda "Colegio de Notarios del Estado de Puebla" debajo de ésta, del lado izquierdo, el número de Notaría Pública y distrito judicial correspondiente y en el mismo renglón, alineado al margen derecho, el número de folio que será progresivo;
 
-V. Al hacer uso de un folio, el Notario estampará su sello en la parte superior izquierda de su anverso;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Los folios que vayan integrando el protocolo deberán estar numerados y ser usados en forma progresiva sin interrupción, por riguroso orden cronológico, incluyendo los instrumentos que tengan la razón “No pasó” y los inutilizados;
+V.- Al hacer uso de un folio, el Notario estampará su sello en la parte superior derecha de su anverso;
+
+VI. Los folios que vayan integrando el protocolo deberán estar numerados y ser usados en forma progresiva sin interrupción, por riguroso orden cronológico, incluyendo los instrumentos que tengan la razón "No pasó" y los inutilizados;
 
 VII. Todo instrumento se iniciará en la parte superior del anverso de un folio y los espacios en blanco que queden entre uno y otro, después de las autorizaciones y razones que asiente el Notario, serán inutilizados;
 
@@ -1469,7 +1499,9 @@ Para vigilar, supervisar y verificar el cumplimiento de la función notarial, la
 
 Las visitas podrán ser ordinarias o extraordinarias. Las ordinarias se notificarán con cinco días de anticipación, salvo aquellos casos en que la Dirección de Notarías estime que deba notificarse en el momento de la diligencia. Las extraordinarias procederán sólo en caso de queja y se notificarán con un día de anticipación.
 
-En las visitas ordinarias, la Dirección de Notarías podrá revisar instrumentos, volúmenes, apéndices, sellos, documentos, archivos digitales e instalaciones relativos al ejercicio de la función notarial; incluso, aquello que ya hubiere sido objeto de revisión, esto cuando sobrevenga evidencia de que se cometió una falta o infracción. En estas visitas, la Dirección de Notarías podrá revisar, a su consideración, los instrumentos y apéndices de manera aleatoria o la totalidad de los mismos.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+En las visitas ordinarias, la Dirección de Notarías podrá revisar instrumentos, volúmenes, apéndices, sellos, documentos, archivos digitales e instalaciones relativos al ejercicio de la función notarial. En estas visitas, la Dirección de Notarías podrá revisar, a su consideración, los instrumentos y apéndices de manera aleatoria o la totalidad de los mismos.
 
 En las visitas extraordinarias, la Dirección de Notarías podrá revisar el instrumento, apéndice y documentos relacionados con la queja.
 
@@ -1903,9 +1935,11 @@ El patrimonio del Colegio se formará con las cuotas de sus miembros y los demá
 
 Todos los Notarios Públicos están obligados a contribuir para los gastos de sostenimiento del Colegio de Notarios y al efecto cubrirán puntualmente las cuotas que el Colegio acuerde. Si no cubren dos o más cuotas consecutivas, el Consejo de Notarios determinará las sanciones en cada caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 199.
 
-La Asamblea del Colegio de Notarios será el órgano supremo del mismo, estará conformada por los Notarios Titulares, o por quien concurra en su representación a la Asamblea, ya sea su Auxiliar o Suplente. Sus resoluciones se tomarán siempre por votación personal y abierta, y por mayoría relativa de votos de los asistentes.
+La Asamblea del Colegio de Notarios será el órgano supremo del mismo, estará conformada por los Notarios Titulares, o por quien concurra en su representación a la Asamblea, ya sea su Auxiliar o Suplente. Sus resoluciones se aprobarán siempre por votación personal y secreta, y por mayoría relativa de votos de los asistentes.
 
 Corresponderá un voto por Notaría.
 
@@ -2056,3 +2090,13 @@ DÉCIMO. Todos los asuntos pendientes de trámite, se concluirán con la Ley del
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil quince. Diputado Presidente. SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. Diputado Vicepresidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Secretario. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Secretaria. MA. EVELIA RODRÍGUEZ GARCÍA. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
