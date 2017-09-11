@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2017-07-18"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -271,6 +271,18 @@ El derecho de iniciar leyes y decretos, corresponde a los sujetos relacionados e
 
 Las iniciativas provenientes de los diputados, del Gobernador, del Tribunal Superior de Justicia y de los ayuntamientos o de los concejos municipales del Estado, se tramitarán conforme al artículo 36 de la Constitución Política del Estado de Yucatán. Las iniciativas derivadas mediante acción popular, deberán cumplir con los términos y condiciones previstos en la Ley de Participación Ciudadana que regula el Plebiscito, Referéndum y la Iniciativa Popular del Estado.
 
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 17 Bis.
+
+Las iniciativas de Ley o Decreto que hayan sido presentadas en una Legislatura, serán desahogadas en la misma, a excepción de los siguientes supuestos:
+
+I. Que haya sido aprobado el dictamen correspondiente como establece el Artículo 52 de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán;
+
+II. Que por mandato Constitucional o Estatutario se deba expedir la Ley o el Decreto en un plazo determinado, o
+
+III. Por acuerdo de la Junta de Gobierno y Coordinación Política, considerando las iniciativas seleccionadas por las Fracciones y Representaciones Legislativas, así como las Comisiones y con la posterior aprobación del Pleno del Congreso y en sus recesos la Diputación Permanente.
+
 ###### Artículo 18.
 
 Las resoluciones del Congreso tendrán el carácter de leyes y decretos.
@@ -451,7 +463,9 @@ VI.- Salvaguardar el orden en el Recinto y la institucionalidad del Poder Legisl
 
 VII.- Ordenar el trámite que corresponda a los asuntos presentados y dar cuenta a la Legislatura a más tardar dentro de 15 días hábiles;
 
-VIII.- Turnar a las Comisiones los asuntos de su competencia, y los que a su juicio deban dictaminarse en forma conjunta con otras Comisiones;
+> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+VIII.- Turnar a las Comisiones las iniciativas y los asuntos de su competencia, y los que a su juicio deban dictaminarse en forma conjunta con otras Comisiones, dentro de los 15 días hábiles siguientes, una vez vencido el termino referido en el artículo 69 del Reglamento de esta Ley;
 
 IX.- Requerir a las Comisiones la elaboración de los dictámenes de los asuntos turnados;
 
@@ -813,7 +827,9 @@ VI.- Recabar la información y documentación relativa a los asuntos en estudio 
 
 VII.- Solicitar la presencia de los titulares señalados en la fracción anterior, cuando el asunto en estudio lo requiera, en términos de la Constitución Política del Estado;
 
-VIII.- Dictaminar los asuntos que les sean turnados en los siguientes 45 días, de no ser esto posible, el Presidente de la Comisión podrá solicitar una prórroga al Congreso hasta por un término igual;
+> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+VIII.- Dictaminar los asuntos que les sean turnados en los siguientes 45 días hábiles, de no ser esto posible, el Presidente de la Comisión podrá solicitar una prórroga al Congreso hasta por un término igual;
 
 IX.- Informar a la Mesa Directiva sobre los asuntos que por su naturaleza sean considerados sin materia e inviables para dictaminar;
 
@@ -832,6 +848,12 @@ Las Comisiones Especiales, tendrán las atribuciones generales que señale esta 
 ###### Artículo 47.
 
 Las Comisiones, posteriormente a su integración, deberán instalarse formalmente, previo al inicio de sus trabajos.
+
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 47 Bis.
+
+Una vez instaladas las Comisiones e iniciados sus trabajos harán una revisión de los temas que le fueron turnados por todas las Legislaturas anteriores con la finalidad de verificar si quedaron asuntos pendientes por tramitar, estudiar, informar y en especial dictaminar, siendo que en caso de existir algún asunto rezagado, citará a sus integrantes a sesionar en un plazo no mayor de cinco días con la finalidad de cumplir con lo establecido en esta Ley y su Reglamento.
 
 ###### Artículo 48.
 
@@ -1510,3 +1532,15 @@ El Congreso deberá expedir la convocatoria para la designación de los titulare
 Tercero. Titular del Órgano de Control Interno del Instituto
 
 El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
+
+D.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 522/2017 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma, entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Legislativo del Estado de Yucatán, tomara todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de la reforma de este artículo a partir de su publicación.
