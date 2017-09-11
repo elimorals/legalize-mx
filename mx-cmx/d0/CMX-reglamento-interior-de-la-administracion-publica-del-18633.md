@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-09-01"
+last_updated: "2017-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -246,7 +246,9 @@ IV. A la Secretaría del Medio Ambiente:
 
 7.- Dirección General de Vigilancia Ambiental.
 
-Asimismo, se le adscribe el Órgano Desconcentrado Sistema de Aguas de la Ciudad de México.
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+Asimismo, se le adscriben los Órganos Desconcentrados Sistema de Aguas y Agencia de Resiliencia, ambos de la Ciudad de México.
 
 V. A la Secretaría de Obras y Servicios:
 
@@ -256,9 +258,9 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
 
-1. Dirección General de Obras Públicas;
+1.- Dirección General de Obras Públicas;
 
-2. (DEROGADO, G.O. 21 DE FEBRERO DE 2017)
+2.- (DEROGADO, G.O. 21 DE FEBRERO DE 2017)
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2017)</small>
 
@@ -274,9 +276,9 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
-6. Dirección General de Obras Concesionadas.
+6.- Dirección General de Obras Concesionadas.
 
-7. (DEROGADO, G.O. 16 DE JULIO DE 2009)
+7.- (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
 > <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2017)</small>
 
@@ -18864,9 +18866,53 @@ XIII. Expedir copias cerificadas (sic), previo cotejo de los originales de los d
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Director General.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 204 Bis.
 
-(DEROGADO, G.O. 1 DE FEBRERO DE 2017)
+La Agencia de Resiliencia de la Ciudad de México es un órgano desconcentrado adscrito a la Secretaría del Medio Ambiente, con autonomía de gestión, que tiene por objeto llevar a cabo la coordinación y colaboración eficiente entre las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública de la Ciudad de México, que tengan a su cargo el diseño y ejecución de políticas, programas y acciones que contribuyan a la construcción de resiliencia; para lo cual contará con las siguientes atribuciones:
+
+I. Diseñar, implementar y coordinar las políticas públicas, programas y acciones que incidan en mejorar la capacidad de la Ciudad de México, para sobrevivir, resistir, recuperarse, adaptarse y crecer ante cualquier riesgo, peligro factible, tensiones crónicas, impactos agudos o amenazas múltiples que experimente en el presente y futuro;
+
+II. Elaborar, emitir y actualizar la Estrategia de Resiliencia de la Ciudad de México, así como las políticas públicas, programas y acciones relacionadas con la materia;
+
+III. Monitorear, reportar, verificar y evaluar los ejes, las metas, las acciones y demás actividades de la Estrategia de Resiliencia de la Ciudad de México, así como de las políticas públicas, programas y acciones relacionadas con la materia;
+
+IV. Solicitar a los Órganos de la Administración Pública Local, Federal, Estatal, Municipal, sector académico, social y privado, la información que contribuya a generar diagnósticos y soluciones para la construcción de resiliencia;
+
+V. Requerir la información necesaria de las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública de la Ciudad de México, para la construcción de resiliencia;
+
+VI. Establecer mecanismos de coordinación con los Órganos Político-Administrativos en el ámbito de su competencia, para el diseño y ejecución de acciones relacionadas con la construcción de resiliencia en las demarcaciones territoriales;
+
+VII. Identificar mejores prácticas globales e impulsar proyectos de innovación en materia de resiliencia, para su implementación en la Ciudad de México;
+
+VIII. Promover la asistencia técnica y colaboración en materia de resiliencia con las instancias competentes de la Ciudad de México;
+
+IX. Diseñar procesos de continuo aprendizaje en materia de resiliencia para las instancias competentes de la Ciudad de México;
+
+X. Emitir opinión respecto de las políticas, programas y acciones públicas que contribuyan a la construcción de resiliencia en la Ciudad de México;
+
+XI. Promover la colaboración entre los sectores, la Administración Pública, la ciudadanía y la comunidad científica, con la finalidad de implementar y dar seguimiento a las acciones, para reducir las tensiones crónicas y mejorar la respuesta ante impactos;
+
+XII. Opinar, en el ámbito de su competencia, respecto de los actos administrativos que tengan impacto en materia de resiliencia;
+
+XIII. Proponer normas y demás disposiciones administrativas que se consideren convenientes para la realización de acciones en materia de resiliencia;
+
+XIV. Promover y suscribir los instrumentos necesarios con los sectores público, social y/o privado en materia de resiliencia;
+
+XV. Participar en el proceso de diseño y elaboración de los programas relacionados con la planeación urbana y territorial;
+
+XVI. Realizar estudios y proyectos en materia de resiliencia;
+
+XVII. Promover el posicionamiento de la Ciudad de México en materia de resiliencia;
+
+XVIII. Realizar y dar el seguimiento a las denuncias, querellas y quejas ante las autoridades competentes en las que sea parte la Agencia de Resiliencia de la Ciudad de México, para la defensa de sus intereses;
+
+XIX. Llevar a cabo los procedimientos de contratación para el ejercicio de sus facultades, así como determinar la terminación anticipada y/o rescisión de los mismos;
+
+XX. Suscribir los instrumentos jurídico administrativos necesarios para el ejercicio de sus atribuciones.
+
+XXI. Las demás que se establezcan a través de otros ordenamientos aplicables.
 
 > <small>N. DE E. LOS ARTÍCULOS QUE INTEGRABAN ESTA SECCIÓN FUERON REUBICADOS A LA SECCIÓN VI, G.O. 16 DE JULIO DE 2009.</small>
 
@@ -20645,3 +20691,11 @@ QUINTO.- Los procesos relativos al monitoreo de los indicadores de los programas
 SEXTO.- Las menciones que otros ordenamientos y disposiciones hagan a las unidades administrativas que por virtud del presente Decreto se suprimen o modifican, se entenderán referidas a las unidades administrativas que asuman sus funciones.
 
 SÉPTIMO.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Finanzas y la Oficialía Mayor en el ámbito de su competencia.
+
+G.O. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1° de octubre de 2017.
