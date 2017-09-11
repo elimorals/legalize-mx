@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2016-12-20"
+last_updated: "2017-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -89,7 +89,7 @@ VIII. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
 IX. Código Financiero del Estado de México y Municipios;
 
-X. Código de procedimientos Administrativos del Estado de México; y (sic)
+X. Código de procedimientos Administrativos del Estado de México; y
 
 XI. Código Civil del Estado de México.
 
@@ -403,13 +403,19 @@ II. Permuta, con entidades públicas o con particulares, por otros que por su ub
 
 III. Enajenación a título oneroso para la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de los poderes del Estado y municipios, o para el pago de pasivos;
 
-IV. Donación en favor de la federación, de los estados o de los municipios, para que utilicen los inmuebles en la prestación de servicios públicos;
+> <small>(REFORMADA, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Donación en favor de asociaciones e instituciones privadas que realicen actividades de interés social y no persigan fines de lucro.
 
 V. Donación o comodato en favor de asociaciones e instituciones privadas que realicen actividades de interés social y no persigan fines de lucro;
 
 VI. Enajenación a título oneroso en favor de personas físicas o morales que requieran disponer de estos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad; y
 
 VII. Dación en pago por concepto de indemnización, en los términos previstos por la Ley de Expropiación para el Estado de México.
+
+> <small>(ADICIONADO, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
+
+Para efectos de los contratos de comodato sobre bienes del dominio privado, no deberá efectuarse la desincorporación de los mismos, respecto del patrimonio inmobiliario del Gobierno del Estado de México.
 
 ###### Artículo 32.
 
@@ -521,9 +527,9 @@ V. Cambio de uso o destino, acto por el que se modifica el uso o destino de un b
 
 VI. Cambio de usuario, acto por el que se cambia de usuario un bien del dominio público; y
 
-> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 11 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Destino final, acto por medio del cual la autoridad administrativa competente, determina la aplicación última de bienes desincorporados del patrimonio estatal o municipal.
+VII. Destino final, acto por medio del cual la autoridad administrativa competente, determina la aplicación última de bienes sujetos a desincorporación del patrimonio estatal o municipal.
 
 ###### Artículo 49.
 
@@ -796,3 +802,11 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 11 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 242.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 31, FRACCIÓN V Y 48, FRACCIÓN VII Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 31 DE LA LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
