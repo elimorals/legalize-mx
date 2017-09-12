@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-mejora-regulatoria-y-la-simplificacion-118215"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-18"
-last_updated: "2017-01-18"
+last_updated: "2017-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 18 de enero de 2017.
 
@@ -41,9 +41,11 @@ LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES, OBJETO, ÁMBITO DE APLICACIÓN Y SUJETOS OBLIGADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene como objetivo crear el Sistema Estatal de Mejora Regulatoria, estableciendo los principios, bases generales, procedimientos así como los instrumentos necesarios para que las Leyes emitidas por el Congreso del Estado de Nuevo León y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos autónomos del ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad.
+La presente Ley tiene como objetivo crear el Sistema Estatal de Mejora Regulatoria, así como establecer las disposiciones y los principios rectores de mejora regulatoria y simplificación administrativa a las que deben de sujetarse la Administración Pública Estatal, así como las bases generales concernientes a la Administración Pública Municipal, a través de la coordinación de acciones entre las autoridades y los sectores social y privado, procurando el uso de las tecnologías de la información, a fin de permitir el desarrollo económico del Estado, con base en principios de máxima eficacia y transparencia gubernamental.
 
 Al efecto, esta Ley ordena la creación de un Catálogo Estatal de Trámites y Servicios que incluya todos los trámites y servicios estatales y municipales, sus requisitos, costos y términos de duración, con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información. La inscripción en el Catálogo y su actualización será obligatoria.
 
@@ -54,6 +56,10 @@ Las disposiciones de esta Ley son de orden público y de observancia general en 
 Dichas disposiciones deberán ser publicadas por los sujetos obligados en el Periódico Oficial del Estado.
 
 El seguimiento e implementación de la Ley corresponde al Consejo Estatal de Mejora Regulatoria, a la Comisión Estatal de Mejora Regulatoria, Poder Judicial, Poder Legislativo y a las Comisiones Municipales de Mejora Regulatoria, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+Se exceptúa la aplicación de esta Ley a las materias fiscales, en lo correspondiente al monto o tasas de los gravámenes, laboral, de responsabilidad de los servidores públicos, de justicia administrativa, de seguridad pública, el Sistema Estatal Anticorrupción, las Leyes establecidas en el artículo 152 de la Constitución Política del Estado Libre y Soberano de Nuevo León, el cumplimiento a sentencias dictadas por autoridades judiciales, las obligaciones que deriven de leyes federales, y al Ministerio Público en ejercicio de sus atribuciones constitucionales; así como a los trámites, servicios y actos administrativos que deriven de Programas Federales, en cuyo caso, se deberá aplicar la normatividad correspondiente.
 
 La presente Ley, no será aplicable en los procedimientos administrativos que se llevan en forma de juicio, Tribunal de Justicia Administrativa, Juicios Laborales ante la Junta de Conciliación y Arbitraje, Procedimientos de Responsabilidad de Servidores Públicos ante la Contraloría y Transparencia Gubernamental, Procedimiento de Arbitraje Médico ante la Comisión Estatal de Arbitraje Médico, Ministerio Público en ejercicio de sus atribuciones constitucionales.
 
@@ -85,7 +91,9 @@ XI. Dependencias: Las mencionadas en la Ley Orgánica de la Administración Púb
 
 XII. Director: El Director General de la Comisión o puesto equivalente en el estado;
 
-XIII. Disposiciones de Carácter General: Los Reglamentos, decretos, acuerdos, normas, circulares y formatos, así como los lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales, disposiciones que tengan por objeto establecer obligaciones específicas y cualesquiera de naturaleza análoga a los actos anteriores, que expidan los Sujetos Obligados;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Disposiciones de Carácter General: Los Reglamentos, Decretos, Acuerdos, normas, circulares y formatos, así como los lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y disposiciones que tengan por objeto establecer obligaciones específicas que impliquen costos de cumplimiento para los particulares, que expidan los Sujetos Obligados; con excepción de las que expida el Poder Legislativo;
 
 XIV. Enlace Oficial: Es el servidor público designado por los Titulares de los Sujetos Obligados con nivel jerárquico de Director o superior;
 
@@ -111,7 +119,9 @@ XXIV. Registro: El Registro de Expediente Electrónico;
 
 XXV. Reglamento: El Reglamento de la Ley;
 
-XXVI. Regulación: Las Leyes y cualesquier disposiciones de carácter general que emita cualquier Sujeto Obligado;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+XXVI. Regulación: Las iniciativas de Ley que se presenten en el Congreso del Estado por parte del Poder Ejecutivo y cualesquier disposición de carácter general que emita el Ejecutivo del Estado;
 
 XXVII. SARE: El Sistema de Apertura Rápida de Empresas;
 
@@ -273,7 +283,9 @@ X. El Titular de la Comisión, quien fungirá como Secretario Técnico;
 
 XI. Un Representante del Poder Judicial;
 
-XII. Un Representante del Congreso del Estado quien deberá formar parte de la Comisión de Fomento Económico;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Tres representantes del Congreso del Estado;
 
 XIII. Presidente de la Comisión de Transparencia y Acceso a la Información Pública; y
 
@@ -321,7 +333,13 @@ Mediante el Consejo se fijarán prioridades, objetivos, estrategias, indicadores
 
 El Consejo sesionará de forma ordinaria cuando menos tres veces al año y de forma extraordinaria las veces que sean necesarias a juicio del Presidente o del Secretario suplente responsable del tema, previa convocatoria del Secretario Técnico con una anticipación de cinco días hábiles en el caso de las ordinarias y de dos días hábiles en el caso de las extraordinarias, misma que deberá de realizarse por escrito y entregarse en el domicilio y/o correo electrónico registrado de los miembros en términos de la legislación aplicable en la entidad.
 
-El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por medio de mayoría simple. Quien presida la sesión tendrá voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por medio de las dos terceras partes de los miembros asistentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+De cada sesión se levantará un acta en la cual se asentará una síntesis de las discusiones y de los acuerdos tomados por el Consejo. Las actas deberán ser firmadas por los miembros del Consejo que hayan asistido a la sesión correspondiente.
 
 ###### Artículo 12.
 
@@ -499,6 +517,8 @@ En ningún caso los sujetos obligados aplicarán regulaciones, trámites, costos
 
 ### CAPÍTULO SEGUNDO. DEL ANÁLISIS DE IMPACTO REGULATORIO
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 25.
 
 El análisis es una herramienta que tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que éstas representen la mejor alternativa para atender una problemática específica. Esta herramienta permite analizar sistemáticamente los impactos potenciales de las regulaciones para la toma de decisiones gubernamentales, fomentando que éstas sean más transparentes y racionales, además de que brinda a la ciudadanía la oportunidad de participar en su elaboración.
@@ -507,9 +527,11 @@ El análisis es una herramienta que tiene por objeto garantizar que los benefici
 
 Para asegurar la consecución de los objetivos de esta Ley, los sujetos obligados adoptarán esquemas de revisión de regulaciones existentes contenidos en el inventario y de propuestas regulatorias, mediante la utilización del Análisis.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Los análisis deben contribuir a que las regulaciones se diseñen sobre bases económicas, jurídicas y empíricas sólidas, así como promover la selección de alternativas regulatorias cuyos beneficios justifiquen los costos que imponen y que generen el máximo beneficio neto para la sociedad. La Comisión y las Comisiones Municipales, en colaboración con las autoridades encargadas de la elaboración de los Análisis, desarrollarán las capacidades necesarias para ello.
+Los análisis deben contribuir a que las regulaciones se diseñen sobre bases económicas, jurídicas y empíricas sólidas; así como promover la selección de alternativas regulatorias cuyos beneficios justifiquen los costos que imponen y que generen el máximo beneficio neto para la sociedad. La Comisión y las Comisiones Municipales, en colaboración con las autoridades encargadas de la elaboración de los Análisis, desarrollarán las capacidades necesarias para ello.
 
 ###### Artículo 28.
 
@@ -529,15 +551,17 @@ VI. Establezcan medidas que resulten coherentes con la aplicación de los Derech
 
 VII. Busque la armonización de las regulaciones Estatales y Municipales.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
 La Comisión establecerá el mecanismo para que los análisis se lleven a cabo bajo un marco estructurado para asistir a los sujetos obligados en el estudio de los efectos de las regulaciones y propuestas regulatorias, y en la realización de los ejercicios de consulta pública correspondientes. Las cuales deberán contener cuando menos:
 
-l. La explicación de la problemática que da origen a la necesidad de la regulación y los objetivos que ésta persigue;
+I. La explicación de la problemática que da origen a la necesidad de la regulación y los objetivos que ésta persigue;
 
-II. El análisis de las alternativas regulatorias y no regulatorias que son consideradas para solucionar la problemática, incluyendo la explicación de porqué la regulación propuesta es preferible al resto de las alternativas;
+II. El análisis de las alternativas regulatorias y no regulatorias que son consideradas para solucionar la problemática, incluyendo la explicación de por qué la regulación propuesta es preferible al resto de las alternativas;
 
-III. La evaluación de los costos y beneficios de la propuesta regulatoria, así como de otros impactos incluyendo, cuando sea posible, el Análisis para todos los grupos afectados;
+III. La evaluación de los costos y beneficios de la propuesta regulatoria, así como de otros impactos incluyendo, cuando sea posible, el análisis para todos los grupos afectados;
 
 IV. El análisis de los mecanismos y capacidades de implementación, verificación e inspección;
 
@@ -545,11 +569,15 @@ V. La identificación y descripción de los mecanismos, metodologías e indicado
 
 VI. La descripción de los esfuerzos de consulta llevados a cabo para generar la propuesta regulatoria y sus resultados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
-Cuando los sujetos obligados elaboren propuestas regulatorias, los presentarán a la Comisión o a la Comisión Municipal, según corresponda, junto con un análisis que contenga los elementos que ésta determine, atendiendo a lo dispuesto en el artículo 42 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el Periódico Oficial o someterse a la consideración del titular del Ejecutivo Estatal o el municipio, según corresponda.
+Cuando los sujetos obligados elaboren propuestas regulatorias, los presentarán a la Comisión o a la Comisión Municipal, según corresponda, junto con un análisis que contenga los elementos que ésta determine, atendiendo a lo dispuesto en el artículo 42 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el periódico Oficial o someterse a la consideración del titular del Ejecutivo Estatal o el municipio, según corresponda.
 
-En caso que ésta requiera de la aprobación del Congreso, el Ejecutivo Estatal deberá remitir para conocimiento y valoración de los legisladores, dicho análisis junto con la iniciativa de ley o decreto que corresponda.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+Los proyectos de Ley que se presenten en el Congreso del Estado, por parte del Ejecutivo Estatal o cualquier ente gubernamental que se trate de los 3 niveles al que se hace referencia en el artículo 26 de la presente legislación.
 
 Se podrá autorizar que el análisis se presente hasta en la misma fecha en que se someta la propuesta regulatoria al titular del Ejecutivo Estatal, el municipio o se expida la disposición, según corresponda, cuando ésta pretenda resolver o prevenir una situación de emergencia. En estos casos deberá solicitarse la autorización para el trato de emergencia ante la Comisión o a la Comisión Municipal, para lo cual deberá acreditarse que la disposición:
 
@@ -566,6 +594,8 @@ Se podrá eximir la obligación de elaborar el análisis cuando la propuesta reg
 ###### Artículo 31.
 
 Cuando la Comisión o la Comisión Municipal respectiva, reciba un análisis que a su juicio no sea satisfactorio, podrá solicitar al sujeto obligado correspondiente, dentro de los diez días hábiles siguientes a que reciba dicho análisis, que realice las ampliaciones o correcciones a que haya lugar. Cuando a criterio de la Comisión la manifestación siga siendo defectuosa y la disposición de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar a la dependencia o entidad respectiva que con cargo a su presupuesto efectúe la designación de un experto, quien deberá ser aprobado por la Comisión. El experto deberá revisar el análisis y entregar comentarios a la Comisión y a la propia dependencia o entidad dentro de los cuarenta días hábiles siguientes a su contratación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 32.
 
@@ -591,9 +621,11 @@ Cuando el dictamen final contenga opiniones relacionadas con la creación, modif
 
 Los municipios establecerán los procedimientos para la revisión y opinión de los análisis y señalarán a las autoridades responsables de su elaboración atendiendo a lo previsto en la presente Ley, a través del Reglamento correspondiente publicado en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-Los sujetos obligados deberán abstenerse de solicitar la publicación de Disposiciones de Carácter General que no hayan sido dictaminadas favorablemente por la Comisión respectiva o hayan sido sujetas de autorización o exenciones a que se refiere este Capítulo.
+El Poder Ejecutivo y los Municipios deberán abstenerse de solicitar la publicación de Disposiciones de Carácter General que no hayan sido dictaminadas favorablemente por la Comisión respectiva o hayan sido sujetas de autorización o exenciones a que se refiere este Capítulo.
 
 ###### Artículo 37.
 
@@ -681,7 +713,9 @@ IX. En caso de requerir inspección o verificación, señalar el objetivo, datos
 
 X. Datos que deben asentarse y documentos que deben adjuntarse al trámite;
 
-XI. Plazo máximo de el Sujeto Obligado para resolver el trámite, en su caso, y si aplica la afirmativa o negativa ficta;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Plazo máximo de el Sujeto Obligado para resolver el trámite, en su caso, y si aplica o no la afirmativa o negativa ficta;
 
 XII. Monto y fundamento de la carga tributaria, en su caso, o la forma en que deberá determinarse el monto a pagar, así como el lugar y la forma en que se deben cubrir, y las alternativas para hacerlo si las hay;
 
@@ -741,7 +775,9 @@ Para la inscripción de trámites en el Catálogo se fomentará que las resoluci
 
 Tomando en consideración las justificaciones descritas en el párrafo anterior, la Comisión o las Comisiones Municipales resolverán en definitiva sobre el particular, y esta decisión sólo podrá ser revocada por el titular del Ejecutivo Estatal o Municipal, según corresponda.
 
-A petición del interesado, se deberá expedir constancia de la resolución afirmativa por falta de respuesta de la autoridad respectiva dentro de los dos días hábiles siguientes a la presentación de la solicitud de la misma. Para tal efecto, las autoridades estatales y municipales, en colaboración con la Comisión y las Comisiones Municipales establecerán mecanismos que permitan obtener dicha constancia por medios electrónicos. Lo anterior es aplicable siempre y cuando no se contravenga una disposición jurídica vigente.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+A petición del interesado, se deberá expedir constancia de la resolución afirmativa por falta de respuesta de la autoridad respectiva dentro de los cinco días hábiles siguientes a la presentación de la solicitud de la misma, sólo cuando así lo establezca el trámite inscrito en el Catálogo. Para tal efecto, las autoridades estatales y municipales, en colaboración con la Comisión y las Comisiones Municipales establecerán mecanismos que permitan obtener dicha constancia por medios electrónicos. Lo anterior es aplicable siempre y cuando no se contravenga una disposición jurídica vigente.
 
 ###### Artículo 53.
 
@@ -785,9 +821,11 @@ En los procedimientos administrativos, los sujetos obligados recibirán las prom
 
 Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las Leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos, de conformidad a lo estipulado en la legislación correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-Los sujetos obligados, fomentarán el uso de afirmativa ficta para aquellos trámites cuya resolución no implique un riesgo para la economía, vida humana, vegetal, animal o del medio ambiente, o que no contravenga a una disposición jurídica vigente.
+Los sujetos obligados, procurarán el uso de afirmativa ficta para aquellos trámites cuya resolución no implique un riesgo para la economía, vida humana, vegetal, animal o del medio ambiente, la seguridad pública o ciudadana, o que no contravenga a una disposición jurídica vigente.
 
 ### CAPÍTULO SEXTO. DE LA FACILIDAD PARA HACER NEGOCIOS
 
@@ -835,7 +873,9 @@ III. Formato único de construcción que contemple toda la información y requis
 
 IV. Manual de operación de la VUC en el que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el usuario;
 
-V. Resolución máxima en menos de 30 días de todos los trámites municipales necesarios para construir una obra;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+V. Resolución máxima en un término no mayor de 45 días hábiles de todos los trámites municipales necesarios para construir una obra;
 
 VI. Padrón Único de Directores o Peritos Responsables de Obra certificados por el Municipio; y
 
@@ -847,7 +887,9 @@ El Ayuntamiento Municipal aprobará las condicionantes de Uso de Suelo como inst
 
 Las obras que por sus características se encuentren reguladas en las condicionantes de Uso de Suelo solicitarán únicamente el trámite de Licencia de Construcción, sin necesidad de presentar algún otro trámite relacionado con la construcción de la obra.
 
-La VUC deberá solicitar visto bueno a las autoridades de desarrollo urbano, medio ambiente, protección civil y vialidad y la que previamente determine el Municipio y sea plasmado en el manual de operación descrito en el párrafo IV del artículo 63 de esta Ley, según sea el caso, para la resolución de la Licencia de Construcción. Previendo como plazo máximo para la respuesta por parte de las autoridades competentes, 30 días hábiles, de lo contrario se elaborará un informe para conocimiento del solicitante y de la Comisión del Ayuntamiento respectivo para su atención y seguimiento.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+La VUC deberá solicitar visto bueno a las autoridades de desarrollo urbano, medio ambiente, protección civil y vialidad y la que previamente determine el Municipio y sea plasmado en el manual de operación descrito en el párrafo IV del Artículo 63 de esta Ley, según sea el caso, para la resolución de la Licencia de Construcción. Previendo como plazo máximo para la respuesta por parte de las autoridades competentes, 45 días hábiles, de lo contrario se elaborará un informe para conocimiento del solicitante y de la Comisión del Ayuntamiento respectivo para su atención y seguimiento.
 
 ###### Artículo 65.
 
@@ -867,9 +909,11 @@ VI. Brindar la documentación necesaria para dar el resolutivo final por parte d
 
 VII. Las demás que le sean encomendadas.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 66.
 
-La VUC se someterá a certificación y evaluación al menos cada 2 años a través del Programa de Reconocimiento y Operación de la VUC operado por la COFEMER.
+La VUC se someterá a certificación y evaluación al menos cada 3 años a través del Programa de Reconocimiento y Operación de la VUC operado por la COFEMER.
 
 #### SECCIÓN TERCERA. DE LA VENTANILLA ÚNICA MUNICIPAL DE ATENCION A TRAMITES CIUDADANOS (VUMAT)
 
@@ -883,7 +927,9 @@ l. Un espacio físico o electrónico y único donde se gestionarán todos los tr
 
 II. Manual de operación de la VUMAT en el que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el usuario; y
 
-III. Resolución máxima en menos de 30 días de todos los trámites municipales que no involucren una atención personalizada especializada.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+III. Resolución máxima en un plazo no mayor de 45 días hábiles de todos los trámites municipales que no involucren una atención personalizada especializada.
 
 ###### Artículo 68.
 
@@ -931,11 +977,21 @@ Son objeto de la verificación o inspección los documentos, bienes, lugares o e
 
 Todas las verificaciones e inspecciones deberán estar normadas por una disposición de carácter administrativo y deberán de estar inscritas en el Catálogo o el Catálogo Municipal, según corresponda. Los sujetos obligados no podrán aplicar inspecciones o verificaciones adicionales a los inscritos en el Catálogo, ni aplicarlos en forma distinta a como se establezcan en el mismo. Salvo acuerdo expreso autorizado por el Ayuntamiento en caso Municipal o del Titular del Ejecutivo en caso de sujetos obligados del Estado determinando y justificando la temporalidad de la inspección. Todas las inspecciones o verificaciones deberán cumplir con los siguientes principios:
 
-l. Previo a la ejecución de la vista de verificación o inspección, los servidores públicos que tengan a su cargo el desarrollo de la misma se identificarán con documento oficial, con fotografía que los acredite como tales, y dejarán un tanto en original de la orden de visita dictada para ese efecto a los titulares de los bienes muebles o lugares a verificar, o a sus representantes legales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
 
-II. Durante la inspección o verificación no podrá solicitarse a los usuarios ningún requisito, formato o trámite adicional, siempre y cuando no se trate de un caso especial o extraordinario, para cuyo caso se dispondrá a los ordenamientos aplicables; y
+I. Previo a la ejecución de la visita de verificación o inspección, los servidores públicos que tengan a su cargo el desarrollo de la misma se identificarán con documento oficial, con fotografía que los acredite como tales;
 
-III. No se realizará ningún cobro, pago o contraprestación durante la inspección o verificación.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+II. Durante la inspección o verificación no podrá solicitarse a los usuarios ningún requisito, formato o trámite adicional, siempre y cuando no se trate de un caso especial o extraordinario, para cuyo caso se dispondrá a los ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+III. No se realizará ningún cobro, pago o contraprestación durante la inspección o verificación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+IV. De toda visita de verificación o inspección se levantará un acta circunstanciada de conformidad con las disposiciones legales aplicables, de la cual se dejará copia legible a la persona con la que se atienda la diligencia.
 
 ###### Artículo 71.
 
@@ -1085,13 +1141,11 @@ El Poder Judicial del Estado deberá contar con un sistema de gestión de inform
 
 ### CAPÍTULO SEGUNDO. DE LA MEJORA REGULATORIA EN EL PODER LEGISLATIVO
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 90.
 
-Los proyectos de Ley que se presenten en el Congreso del Estado por parte del Ejecutivo Estatal o cualquier ente gubernamental que se trate de los 3 niveles de gobierno deberán estar acompañados del análisis al que se hace referencia en el artículo 26 de la presente legislación.
-
-En el caso de las iniciativas ciudadanas se procesarán las mismas sin el análisis anterior, no obstante a la Comisión Legislativa que sean turnadas y como parte del dictamen que elabore de la misma se requerirá en aquellos casos que sean aprobatorias se acompañe a dicho documento del análisis referido en el párrafo anterior. Siempre que dicha disposición pueda implicar un costo de cumplimiento para los particulares. Igualmente se exceptúa (sic) los asuntos mencionados en el artículo 30, de la presente Ley. De igual forma las disposiciones de carácter general presentadas en los Ayuntamientos, deberán acompañarse de un análisis que considere como mínimo los elementos descritos en el artículo 29 de esta Ley.
-
-Para este efecto las Leyes y reglamentos que rigen el funcionamiento del Congreso del Estado y los municipios adecuarán en la medida que resulte necesario, las disposiciones que resulten aplicables para permitir la aplicación del análisis.
+El Poder Legislativo del Estado, contribuirá en el ámbito de su competencia, a la mejora regulatoria y simplificación administrativa en el Estado a través del diseño y ejecución de planes, programas y acciones, al interior de sus instituciones, las que se apegarán, en lo conducente, a las disposiciones y principios de la presente Ley y su Reglamento.
 
 ###### Artículo 91.
 
@@ -1235,7 +1289,7 @@ Cuarto.- El Ejecutivo Estatal expedirá el Reglamento de la presente Ley en un p
 
 Quinto.- El Consejo Estatal de Mejora Regulatoria se instalará dentro del mes siguiente a la entrada en vigor de la presente Ley, y propondrá al Ejecutivo Estatal su Reglamento Interior, en un plazo no mayor a 180 días naturales, contados a partir de la fecha de su instalación.
 
-Sexto.- Se deberá adecuar la legislación en materia de mejora regulatoria de los municipios, en atención a lo dispuesto en el artículo 17 de esta Ley, en un plazo no mayor de 180 días naturales contado a partir de la entrada en vigor de la misma.
+Sexto.- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2017)
 
 Séptimo.- Los sujetos obligados deberán informar a la Comisión Estatal, en un lapso de un mes a la instalación formal de ésta, del nombramiento de su Enlace Oficial de mejora regulatoria.
 
@@ -1243,7 +1297,7 @@ Octavo.- El Catálogo Estatal de Trámites y Servicios deberá estar integrado e
 
 Noveno.- Los municipios expedirán su propio reglamento en la materia en un plazo de 6 meses, contado a partir de la entrada en vigor de la Ley, el cual será publicado en el Periódico Oficial del Estado. Concluido este plazo, las Comisiones Municipales de Mejora Regulatoria deberán integrarse e instalarse en un plazo de un mes.
 
-Décimo.- La VUMAT y VUC deberán estar integradas y operando en un término de un año a partir de la entrada en vigor de esta Ley, y las disposiciones aplicables entrarán en vigor una vez que el R. Ayuntamiento publique en su gaceta municipal los tramites a operar y los mecanismos de cada una.
+Décimo.- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2017)
 
 Décimo Primero.- Todos los asuntos pendientes de resolución en materia de Mejora Regulatoria, pasarán a la Comisión Estatal o Comisiones Municipales, según corresponda, instalada en los términos de la presente Ley.
 
@@ -1352,3 +1406,19 @@ EL C. SECRETARIO DE DESARROLLO AGROPECUARIO
 JOSÉ RODOLFO FARÍAS ARIZPE
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 290. SE REFORMAN LOS ARTÍCULOS 1, 2, 3 FRACCIONES XIII Y XXVI, 9, 11, 25, 27, 29, 30, 32, 36, 45, 52, 58, 63, 64, 66, 67, 70 Y 90 DE LA LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN, Y SE DEROGA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO 216 PUBLICADO EL 18 DE ENERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga el Artículo Décimo Transitorio del Decreto 216 que contiene la Ley para la Mejora Regulatoria y la Simplificación Administrativa del Estado de Nuevo León, publicado el 18 de enero de 2017 en el Periódico Oficial del Estado.
+
+Tercero.- La VUMAT y VUC deberán estar integradas y operando en un término de un año a partir de la entrada en vigor de este Decreto, y las disposiciones aplicables entrarán en vigor una vez que el R. Ayuntamiento publique en su gaceta municipal los tramites a operar y los mecanismos de cada una.
+
+Cuarto.- Se deroga el Artículo Sexto Transitorio del Decreto Número 216.
+
+Quinto.- Se deberá adecuar la legislación en materia de mejora regulatoria de los municipios, en atención a lo dispuesto en el artículo 17 de esta Ley, en un plazo no mayor de 180 días naturales contado a partir de la entrada en vigor de la misma.
