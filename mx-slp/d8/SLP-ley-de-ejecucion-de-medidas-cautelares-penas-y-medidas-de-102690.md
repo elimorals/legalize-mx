@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ejecucion-de-medidas-cautelares-penas-y-medidas-de-10269
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-29"
-last_updated: "2014-09-29"
+last_updated: "2017-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE EJECUCION DE MEDIDAS CAUTELARES; PENAS, Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO DEL DECRETO 0694 DE LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EJECUCIÓN DE MEDIDAS CAUTELARES; PENAS, Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1252,3 +1254,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0694.- SE ABROGA LA LEY DE EJECUCIÓN DE MEDIDAS CAUTELARES; PENAS, Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSÍ Y SE DEROGA DE LA PARTE GENERAL EN EL TÍTULO QUINTO SU CAPÍTULO VIII Y LOS ARTÍCULOS, 91 A 94 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
