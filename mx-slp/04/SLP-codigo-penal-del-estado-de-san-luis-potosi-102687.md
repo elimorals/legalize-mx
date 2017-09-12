@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-07-19"
+last_updated: "2017-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1045,61 +1045,23 @@ No se aplicará esta disposición en los casos en que este ordenamiento, al esta
 
 En los delitos que por las razones previstas en este artículo consagren agravante en monto superior a la cuarta parte de la pena, se aplicará la correspondiente a la mayor penalidad.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ### CAPÍTULO VIII. Sustitución de Penas
 
 ###### ARTÍCULO 91.
 
-Sustitución de la pena de prisión
-
-La pena de prisión impuesta podrá ser sustituida, a juicio del juzgador, considerando lo dispuesto en el artículo 74 de este Código en los siguientes términos:
-
-I. Por tratamiento en libertad; o semilibertad, si la prisión no excede de cinco años;
-
-II. Por trabajo en favor de la comunidad, cuando la pena impuesta no exceda de tres años, o
-
-III. Por sanción pecuniaria, si la prisión no excede de un año.
-
-La pena de prisión no podrá sustituirse tratándose de los delitos que señala el artículo 167 del Código Nacional de Procedimientos Penales.
-
-La equivalencia de la sanción pecuniaria sustitutiva de la pena de prisión, será en razón de un día de aquella por un día de prisión, de acuerdo con las posibilidades económicas del sentenciado.
-
-La sanción pecuniaria podrá ser sustituida por trabajo en favor de la comunidad.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 92.
 
-Requisitos para la sustitución de la pena.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2017)
 
-Para efectos de la sustitución se requerirá, además que el sentenciado satisfaga los siguientes requisitos:
-
-I. Que haya delinquido por primera vez, tratándose de delito doloso;
-
-II. Pague o garantice la reparación del daño y la multa a satisfacción del juez, pudiendo éste fijar plazos para ello, de acuerdo a la situación económica del sentenciado;
-
-III. Que la pena sustitutiva sea más adecuada que la prisión, en atención a las condiciones personales del sujeto y a los fines que con ella se persiguen, y
-
-IV. Que no se haya sustraído a la acción judicial durante el procedimiento.
-
-El beneficiado quedará sujeto a la vigilancia de la autoridad judicial.
-
-###### ARTÍCULO 93.
-
-Causas para dejar sin efecto la sustitución.
-
-La autoridad judicial podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta, cuando:
-
-I. El sentenciado no cumpla con las condiciones que le fueran señaladas por la autoridad, o
-
-II. El sentenciado sea condenado en otro proceso por delito doloso; si el nuevo delito carece de trascendencia social o es imprudencial, la autoridad judicial resolverá si debe aplicarse la pena sustituida.
-
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la pena sustitutiva.
+ARTÍCULO 93 (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 94.
 
-Trámite para la sustitución
-
-Quien, al dictarse la sentencia, considere que reunía los requisitos para el disfrute de la sustitución de la pena y que, por inadvertencia del juzgador, no le hubiese sido otorgada, podrá solicitarla en los términos del Código Nacional de Procedimientos Penales.
-
-En todo caso en que proceda la sustitución de la pena, al hacerse el cálculo de la pena sustitutiva, se descontará el tiempo durante el cual el sentenciado estuvo sujeto a prisión preventiva.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO IX. Suspensión Condicional de la Pena de Prisión
 
@@ -2245,7 +2207,7 @@ Reglas generales para los anteriores delitos a los que se refiere este Título:
 
 I. Además de las penas previstas en los artículos anteriores, se impondrá suspensión para ejercer la profesión y, en caso de servidores públicos, además inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución;
 
-II. Tratándose de menor de dieciocho años, o persona incapaz para comprender el significado del hecho o para resistirlo, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima la pena se aumentará hasta en dos terceras partes del delito básico;
+II. Tratándose de menor de dieciocho años, o persona incapaz para comprender el significado del hecho o para resistirlo, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima, la pena se aumentará hasta en dos terceras partes del delito básico;
 
 III. Cuando el delito se realice valiéndose de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, profesión, ministerio religioso o cualquier otra que implique subordinación por parte de la víctima, la pena se aumentará en una mitad de la señalada para el delito básico, y
 
@@ -4756,6 +4718,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMAN DIVERSOS ARTÍCULOS DE LOS CÓDIGOS CIVIL, DE PROCEDIMIENTOS CIVILES, FAMILIAR Y PENAL TODOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0694.- SE ABROGA LA LEY DE EJECUCIÓN DE MEDIDAS CAUTELARES; PENAS, Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSÍ Y SE DEROGA DE LA PARTE GENERAL EN EL TÍTULO QUINTO SU CAPÍTULO VIII Y LOS ARTÍCULOS, 91 A 94 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
