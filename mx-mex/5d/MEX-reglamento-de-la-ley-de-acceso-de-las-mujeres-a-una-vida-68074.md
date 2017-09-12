@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-acceso-de-las-mujeres-a-una-vida-68074"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-18"
-last_updated: "2009-02-18"
+last_updated: "2017-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MEXICO
+REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 18 de febrero de 2009.
 
 LICENCIADO ENRIQUE PEÑA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 2 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 En atención a las consideraciones anteriores, he tenido a bien expedir el siguiente:
 
@@ -71,6 +73,10 @@ VIII.- Política Estatal Integral: Acciones con perspectiva de género y de coor
 
 IX.- Programa: Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
+> <small>(ADICIONADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+X.- Mecanismo: al Mecanismo de Seguimiento de las Medidas de Seguridad, Prevención y Justicia, para Atender y Erradicar la Violencia contra las Niñas, Adolescentes y Mujeres.
+
 ###### ARTÍCULO 3.
 
 Corresponde al Estado y los municipios en el ámbito de sus respectivas competencias, la articulación y cumplimiento de la Política Estatal Integral en contra de la violencia ejercida hacia las mujeres, a través de instrumentos de coordinación.
@@ -101,9 +107,11 @@ III. El impacto del Programa.
 
 El Consejo Estatal de la Mujer y Bienestar Social, a través de su Titular, en su carácter de Secretaria Ejecutiva del Sistema Estatal, realizará en colaboración con las instituciones integrantes del mismo, la evaluación de los diferentes Modelos.
 
+> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 9.
 
-Los servidores públicos del Estado y los municipios deberán recibir capacitación permanente sobre derechos humanos de las mujeres y perspectiva de género.
+Las servidoras y los servidores públicos del Estado y los municipios recibirán capacitación permanente en materia de derechos humanos de las mujeres y perspectiva de género.
 
 ###### ARTÍCULO 10.
 
@@ -373,19 +381,33 @@ Para asegurar el óptimo funcionamiento del Sistema Estatal y de conformidad con
 
 La estructura orgánica de los Sistemas Municipales para Prevenir, Atender, Sancionar, y Erradicar la Violencia contra las Mujeres y las Niñas, se conformarán por:
 
-I.- El Presidente Municipal, quien fungirá como Presidente.
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
 
-II.- El Secretario del Ayuntamiento.
+I.- La o el Titular de la Presidencia Municipal, quien lo presidirá.
 
-III.- Cuatro regidores.
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
 
-IV.- La Titular del Sistema para el Desarrollo Integral de la Familia del municipio.
+II.- La o el Titular de la Secretaría del Ayuntamiento.
 
-V.- El Titular de la Dirección de Seguridad Pública Municipal.
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
 
-VI.- El Titular de la Dirección de Desarrollo Social Municipal.
+III.- Las o los titulares de cuatro Regidurías del Ayuntamiento.
 
-VII.- La Titular del Mecanismo para el Adelanto de las Mujeres Municipal, quien fungirá como Secretario Ejecutivo.
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+IV.- La o el Titular del Sistema para el Desarrollo integral de la Familia del municipio.
+
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+V.- La o el Titular de la Dirección de Seguridad Pública Municipal.
+
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+VI.- La o el Titular de la Dirección de Desarrollo Social Municipal.
+
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+VII.- La o el Titular del Mecanismo para el Adelanto de las Mujeres Municipal, quien fungirá como Secretaria o Secretario Ejecutivo.
 
 ###### ARTÍCULO 42.
 
@@ -479,17 +501,25 @@ IV. Administrar y operar el Banco de Datos; y
 
 V. Emitir los lineamientos necesarios para determinar, integrar y administrar la información que contendrá el Banco de Datos.
 
-#### SECCIÓN QUINTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
-La Procuraduría General de Justicia participará, en su calidad de Integrante del Sistema Estatal, de conformidad a lo marcado en las leyes y disposiciones jurídicas aplicables, debiendo observar en todo momento la perspectiva de género y el estricto respeto a los derechos humanos de las mujeres.
+La Fiscalía General de Justicia del Estado de México participará, en su calidad de Integrante del Sistema Estatal, de conformidad a lo marcado en las leyes y disposiciones jurídicas aplicables, debiendo observar en todo momento la perspectiva de género y el estricto respeto a los derechos humanos de las mujeres.
 
-La Procuraduría General de la Justicia tendrá, entre otras, las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+La Fiscalía General de la (sic) Justicia del Estado de México tendrá, entre otras, las atribuciones siguientes:
 
 I. Promover la formación y especialización de Agentes de la Policía Ministerial, Agentes del Ministerio Público y de todos los servidores públicos encargados de la procuración de justicia;
 
-II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica de la Procuraduría General de Justicia, su Reglamento y demás ordenamientos aplicables;
+> <small>(REFORMADA, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección a sus derechos humanos, de conformidad con la Ley de la Fiscalía General de Justicia del Estado de México, su reglamento y demás ordenamientos aplicables.
 
 III. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia;
 
@@ -587,7 +617,9 @@ IX. Incluir en los centros de atención de asistencia social, los servicios de r
 
 El Sistema Estatal promoverá, por conducto de los Mecanismos Municipales para el adelanto de las mujeres, y mediante instrumentos, que los municipios establezcan políticas públicas en materia de violencia contra las mujeres, acordes con el Programa y la Política Estatal Integral.
 
-## TÍTULO SEXTO (SIC)
+> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+## TÍTULO CUARTO
 
 ### CAPÍTULO I. DE LOS REFUGIOS PARA LAS MUJERES EN SITUACIÓN DE VIOLENCIA
 
@@ -596,6 +628,216 @@ El Sistema Estatal promoverá, por conducto de los Mecanismos Municipales para e
 Los refugios para mujeres en situación de violencia familiar serán creados de acuerdo a un Modelo establecido por el Consejo Estatal de la Mujer y Bienestar Social en su carácter de Secretaría Ejecutiva del Sistema Estatal y de conformidad con la Ley.
 
 Los Modelos para el funcionamiento y operación de los refugios, establecerán un marco de referencia para la operación, diseño, implementación, seguimiento y evaluación de los refugios para mujeres, sus hijos e hijas en situación de violencia familiar extrema, con una perspectiva de género que garantice el acceso a un servicio de atención integral, en términos de los artículos 8 fracción VI, 50 fracción IV, 55 fracción IV, 56 fracción VII y VIII, 58, 59, 60, 61, 62, 63 y 64 de la Ley.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+## TÍTULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO I
+
+DEL PROCEDIMIENTO DEL MECANISMO DE SEGUIMIENTO DE LAS MEDIDAS DE SEGURIDAD, PREVENCIÓN Y JUSTICIA PARA ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 56.
+
+La mesa de trabajo que conforma el Mecanismo, se integrará por las y los titulares o enlaces de las dependencias y organismos siguientes:
+
+I. Por el Poder Ejecutivo del Estado de México:
+
+a) La Consejería Jurídica del Ejecutivo Estatal.
+
+b) La Secretaría de Salud del Estado de México.
+
+c) La Secretaría de Educación del Estado de México.
+
+d) La Secretaría de Finanzas del Estado de México.
+
+e) La Secretaría de Infraestructura del Estado de México.
+
+f) La Secretaría de la Contraloría del Estado de México.
+
+g) La Subsecretaría General de Gobierno del Estado de México.
+
+h) La Coordinación General de Comunicación Social del Estado de México.
+
+i) La Comisión Estatal de Seguridad Ciudadana del Estado de México.
+
+j) La Comisión Ejecutiva de Atención a Víctimas del Estado de México.
+
+k) El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+l) El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México.
+
+m) El Consejo Estatal de la Mujer y Bienestar Social (CEMYBS).
+
+n) El Instituto Mexiquense de la Juventud del Estado de México.
+
+II. Por el Poder Judicial del Estado de México:
+
+a) El Tribunal Superior de Justicia del Estado de México.
+
+III. Por el Poder Legislativo del Estado de México:
+
+a) La Comisión Legislativa para la Atención de Grupos Vulnerables.
+
+b) La Comisión Legislativa de Derechos Humanos.
+
+c) La Comisión Legislativa para la Igualdad de Género.
+
+IV. Por los Organismos Constitucionales Autónomos:
+
+a) La Fiscalía General de Justicia del Estado de México.
+
+b) La Comisión de Derechos Humanos del Estado de México.
+
+c) La Universidad Autónoma del Estado de México.
+
+V. Los municipios del Estado de México que hayan sido declarados en Alerta de Violencia de Género contra las Mujeres.
+
+VI. Las demás que resulten necesarias para el cumplimiento del objeto del Mecanismo.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 57.
+
+La o el titular de la Consejería Jurídica del Ejecutivo Estatal, a través de la Secretaría Técnica, convocará con tres días hábiles de anticipación a las reuniones de la mesa de trabajo a las y los titulares o enlaces de las dependencias y organismos a que se hace referencia en el artículo anterior con excepción de las y los enlaces municipales, quienes serán citados por la o el titular de la Subsecretaría General de Gobierno, previa convocatoria en la que se especificará el día, lugar y hora donde se llevará a cabo la sesión.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 58.
+
+Las y los integrantes o enlaces del Mecanismo, previa convocatoria sesionarán de manera ordinaria, una vez por semana y de manera extraordinaria, en caso de requerirse, hasta en tanto subsista la declaratoria.
+
+La sesión ordinaria se llevara a cabo con un quorum de por lo menos las tres cuartas partes de los integrantes del Mecanismo.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 59.
+
+La o el titular de la Consejería Jurídica del Ejecutivo Estatal presidirá las sesiones del Mecanismo.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 60.
+
+La o el Presidente del Mecanismo, tendrá las funciones siguientes:
+
+I. Presidir las sesiones del Mecanismo.
+
+II. Convocar a sesiones por conducto del Secretario Técnico.
+
+III. Acordar con el Secretario Técnico, el orden del día para cada sesión.
+
+IV. Declarar la legal existencia de quórum para sesionar.
+
+V. Declarar el inicio y término de cada sesión.
+
+VI. Conducir las sesiones del Mecanismo.
+
+VII. Emitir voto de calidad cuando haya empate en las votaciones.
+
+VIII. Analizar los asuntos que se traten en cada sesión y en su caso, girar las instrucciones necesarias o convenientes.
+
+IX. Dar vista a la Secretaría de la Contraloría, de las instancias que retrasen o no den cumplimiento a los puntos de acuerdo, a fin de realizar el seguimiento de los mismos, o en su caso determinar la sanción correspondiente.
+
+X. Las demás necesarias para el cumplimiento de sus fines.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 61.
+
+La o el titular de la Consejería Jurídica del Ejecutivo Estatal designará como Secretaria o Secretario Técnico a la o el titular de la Unidad de Derechos Humanos y Equidad de Género de la Consejería Jurídica.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 62.
+
+La o el Secretario Técnico, tendrá las funciones siguientes:
+
+I. Convocar por acuerdo de la o el Presidente a los integrantes del Mecanismo e invitados a las sesiones, enviándoles los documentos y anexos que se requieran.
+
+II. Pasar lista de asistencia y llevar el registro de la misma.
+
+III. Informar a la o el Presiente la existencia de quórum para sesionar.
+
+IV. Elaborar las minutas de trabajo correspondientes a las sesiones del Mecanismo y someterlas a consideración de los integrantes del mismo.
+
+V. Tomar la votación de los integrantes del Mecanismo en los asuntos deliberativos.
+
+VI. Elaborar el reporte de seguimiento de acuerdos y enviarlo al día hábil siguiente de celebrada la sesión a las y los enlaces del Mecanismo.
+
+VII. Integrar los expedientes de los asuntos desahogados por el Mecanismo.
+
+VIII. Resguardar la documentación derivada de las acciones del Mecanismo.
+
+IX. Integrar y distribuir las carpetas de trabajo de cada sesión a las y los integrantes del Mecanismo, mismas que contendrán el orden del día, así como toda la documentación que se requiera.
+
+X. Vigilar y dar seguimiento a los acuerdos tomados por el Mecanismo.
+
+XI. Promover lo necesario para la ejecución de los acuerdos del Mecanismo, en el ámbito de su competencia.
+
+XII. Las demás que en su caso determine la o el Presidente del Mecanismo.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 63.
+
+La minuta de trabajo de las sesiones contendrá la información siguiente:
+
+I. El nombre completo, cargo y firma de las y los integrantes del Mecanismo que asistieron a la sesión.
+
+II. El orden del día desahogado.
+
+III. El desarrollo de la sesión con los puntos relevantes.
+
+IV. Los acuerdos derivados de la sesión.
+
+La minuta de trabajo de cada sesión será entregada a las y los integrantes o enlaces del Mecanismo por la o el Secretario Técnico, en la sesión siguiente para recabar su firma correspondiente.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 64.
+
+El reporte de seguimiento de los acuerdos del Mecanismo contendrá lo siguiente:
+
+I. Nombre de la autoridad o área responsable de su cumplimiento.
+
+II. Estatus de:
+
+a) Cumplido.
+
+b) En Proceso de atención.
+
+c) Pendiente.
+
+III. La manera en que se atendió el acuerdo.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 65.
+
+La o el Secretario Técnico integrará las carpetas de trabajo con la información siguiente:
+
+I. El orden del día.
+
+II. El reporte de seguimiento de acuerdos.
+
+III. Los anexos necesarios.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 66.
+
+Las y los integrantes o enlaces del Mecanismo dispondrán de cuatro días hábiles contados a partir de la fecha que fue notificado el reporte de seguimiento de los acuerdos para informar a la Secretaría Técnica el cumplimiento o avance de los mismos.
+
+> <small>(ADICIONADO, G.G. 12 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 67.
+
+Las y los integrantes o enlaces del Mecanismo que atrasen, obstruyan o no den el debido cumplimiento en tiempo y forma al desahogo de acuerdos o acatamiento de las acciones que sean de su competencia serán sancionadas (sic) de conformidad con el artículo 68 de la Ley.
 
 ## TRANSITORIOS
 
@@ -620,3 +862,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
