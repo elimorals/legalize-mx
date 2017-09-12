@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-electoral-109465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-19"
-last_updated: "2017-09-04"
+last_updated: "2017-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 19 de agosto de 2015.
 
@@ -517,7 +517,9 @@ h) Remitir la documentación de los puntos a tratar a los Consejeros que no form
 
 i) Las demás que les confiera la Ley Electoral, el Reglamento de Comisiones, el presente Reglamento y las disposiciones que emita el Consejo.
 
-#### SECCIÓN TERCERA. De los Consejeros del Poder Legislativo y de los Representantes de los Partidos Políticos ante el Consejo General
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+#### SECCIÓN TERCERA. De los Consejeros del Poder Legislativo y de los Representantes de los Partidos Políticos y Candidatos Independientes, ante el Consejo General
 
 ###### ARTÍCULO 14.
 
@@ -549,7 +551,9 @@ De los candidatos independientes ante el Consejo General
 
 1. Los candidatos independientes que hayan obtenido su registro contarán con los derechos siguientes:
 
-a) Nombrar un representante para asistir a las sesiones del Consejo. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+a) Nombrar un representante propietario y un suplente para asistir a las sesiones del Consejo. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral;
 
 b) Ser convocados a las sesiones con las formalidades y documentación correspondiente;
 
@@ -821,7 +825,9 @@ s) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 1. Los Consejeros Locales suplentes podrán asistir a los cursos de capacitación, recibir la información del desarrollo de las actividades del proceso electoral y asistir como invitados a las sesiones del Consejo Local.
 
-#### SECCIÓN CUARTA. De los Representantes de los Partidos Políticos ante el Consejo Local
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+#### SECCIÓN CUARTA. De los Representantes de los Partidos Políticos y Candidatos Independientes ante el Consejo Local
 
 ###### ARTÍCULO 28.
 
@@ -853,7 +859,9 @@ De los candidatos independientes ante el Consejo Local
 
 1. Los candidatos independientes que hayan obtenido su registro contarán con los derechos siguientes:
 
-a) Nombrar un representante para asistir a las sesiones del Consejo Local. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+a) Nombrar un representante propietario y un suplente para asistir a las sesiones del Consejo Local. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral;
 
 b) Ser convocados a las sesiones con las formalidades y documentación correspondiente;
 
@@ -1039,7 +1047,9 @@ o) Ser convocados a las sesiones de las Comisiones de que formen parte y recibir
 
 p) Presentar propuestas por escrito a las Comisiones del Consejo Distrital de las que no formen parte;
 
-q) Integrar los Grupos de Trabajo que determine el Presidente para la realización del recuento total de votos respecto de una elección determinada, en términos de lo dispuesto por la Ley Electoral y los Lineamientos correspondientes;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+q) Integrar los Grupos de Trabajo que determine el Presidente para la realización del recuento parcial o total de votos respecto de una elección determinada, en términos de lo dispuesto por la Ley Electoral y los Lineamientos correspondientes.
 
 r) Realizar verificaciones en campo y gabinete tendentes a lograr una adecuada ubicación e integración de las mesas directivas de casilla, e informar con oportunidad los resultados a sus respectivos Consejos y/o Comisiones, y
 
@@ -1049,7 +1059,9 @@ s) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables
 
 2. Los Consejeros Distritales estarán sujetos en lo conducente al régimen de responsabilidades administrativas, previstas en el Libro Octavo de la Ley Electoral y podrán ser sancionados por el Consejo por la violación en que incurran a los principios rectores de la función electoral que establece la Constitución, y disposiciones aplicables, así como por el OIC por los actos u omisiones en que incurran en el desempeño de sus funciones.
 
-#### SECCIÓN CUARTA. De los Representantes de los Partidos Políticos ante el Consejo Distrital
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+#### SECCIÓN CUARTA. De los Representantes de los Partidos Políticos y Candidatos Independientes ante el Consejo Distrital
 
 ###### ARTÍCULO 36.
 
@@ -1085,7 +1097,9 @@ De los candidatos independientes ante el Consejo Distrital
 
 1. Los candidatos independientes que hayan obtenido su registro contarán con los derechos siguientes:
 
-a) Nombrar un representante para asistir a las sesiones del Consejo Distrital. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+a) Nombrar un representante propietario y un suplente para asistir a las sesiones del Consejo Local. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral;
 
 b) Ser convocados a las sesiones con las formalidades y documentación correspondiente;
 
@@ -1233,13 +1247,21 @@ y) Recibir los avisos de recuento de votos en la totalidad de las casillas en lo
 
 z) Acordar sobre las franquicias postales y telegráficas, así como los descuentos en las tarifas de los transportes otorgados a las dependencias oficiales de las que gozarán los funcionarios electorales y representantes de los Partidos Políticos nacionales debidamente acreditados ante los órganos del Instituto, en términos de lo previsto por el artículo 95 de la Ley Electoral y el reglamento correspondiente;
 
-aa) Solicitar el apoyo de los titulares de las Direcciones Ejecutivas y de las Unidades Técnicas adscritas a la Secretaría Ejecutiva, para la atención de asuntos y suscripción de documentos relacionados con éstos, siempre y cuando la naturaleza de los mismos así lo permita y exista la debida motivación y fundamentación para ello, sin que implique la delegación de facultades;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+aa) Instruir a los titulares de las Direcciones Ejecutivas y de las Unidades Técnicas adscritas a la Secretaría Ejecutiva, la atención de asuntos y suscripción de documentos para el adecuado ejercicio de sus funciones;
 
 bb) Presidir y coordinar el Comité de Gestión y Publicación Electrónica y supervisar las actividades del Gestor de Contenidos;
 
 cc) Presentar al Consejo General el informe operativo funcional de los organismos públicos locales, respecto de las solicitudes para ejercer la delegación de facultades competenciales, y
 
 dd) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE INCISO ES IDÉNTICO AL CONTENIDO DEL INCISO dd), VÉASE PUBLICACIÓN OFICIAL DE FECHA 12 DE SEPTIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+ee) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. De las Direcciones Ejecutivas
 
@@ -1383,7 +1405,21 @@ w) Coordinar las actividades del INETEL y presentar los informes correspondiente
 
 x) Proporcionar a través del INETEL la información relativa a la ubicación de las oficinas del Instituto, los módulos de atención ciudadana y las casillas para votar; los requisitos para tramitar o actualizar la Credencial para Votar; la asistencia a los ciudadanos en el ejercicio de sus derechos político-electorales y la protección de sus datos personales en poder del Registro Federal de Electores, entre otros servicios de consulta telefónica, en términos de lo previsto en la Ley Electoral, el presente Reglamento y el Manual que al efecto emita la Unidad Técnica de Transparencia y Protección de Datos Personales, y
 
-y) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+y) Coordinar con las direcciones ejecutivas y unidades técnicas del Instituto la implementación de las actividades de organización y emisión del Voto de las y los Mexicanos Residentes en el Extranjero, relativas al seguimiento y evaluación del proyecto institucional; la difusión y promoción para registro, emisión del voto y resultados; registro y conformación de la Lista Nominal de Electores Residentes en el Extranjero; organización para la emisión del voto; capacitación electoral e integración de mesas de escrutinio y cómputo, y escrutinio, cómputo y resultados;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+z) Apoyar los programas y acciones del Instituto que permitan dar cumplimiento a las disposiciones legales y a los acuerdos interinstitucionales relacionados con el registro, la promoción y la emisión del voto de las y los ciudadanos mexicanos residentes en el extranjero tanto para las elecciones federales como para las locales;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+aa) Proponer e instrumentar programas y acciones permanentes de vinculación con los grupos y comunidades de mexicanos residentes en el extranjero orientados a la promoción y ejercicio de su derecho al voto, y
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+bb) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 ###### ARTÍCULO 46.
 
@@ -1595,7 +1631,7 @@ o) Administrar, operar y mantener los sistemas informáticos relacionados con la
 
 p) Proponer y aplicar las políticas y lineamientos de racionalidad, austeridad y disciplina presupuestaria que determine en conjunto con la Unidad Técnica de Planeación, en el marco de las disposiciones Constitucionales y legales aplicables;
 
-q) Administrar el funcionamiento y operación de la Norma INE;
+q) (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
 r) Desarrollar y dirigir los programas, sistemas y mecanismos en materia de seguridad y protección civil en el Instituto;
 
@@ -1813,7 +1849,13 @@ m) Ordenar al Vocal Secretario para que en cumplimiento a lo señalado en el art
 
 n) Ejecutar los programas en materia de organización electoral y capacitación electoral y educación cívica, y
 
-o) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+o) Coordinarse con los Consejeros Presidentes Distritales y/o Municipales de los Organismos Públicos Locales de su Entidad Federativa, para el mejor desempeño de sus atribuciones,
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+p) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 2. A efecto de formalizar lo señalado en el inciso l) del numeral precedente, el Vocal Ejecutivo que corresponda deberá instruir mediante oficio al Vocal Secretario, y éste tendrá que asentar en el acta correspondiente tanto la instrucción como la clave que identifique la comunicación por la cual se le ordena conducir la audiencia de pruebas y alegatos.
 
@@ -1825,7 +1867,9 @@ o) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables
 
 1. El Instituto podrá contar con oficinas municipales en los lugares en que el Consejo determine su instalación, de acuerdo con los estudios que se realicen para el efecto y a la disponibilidad presupuestal.
 
-2. Al determinarse la instalación de oficinas municipales la Junta determinará su estructura, funciones, temporalidad y ámbito territorial de competencia.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+2. Al determinarse la instalación de oficinas municipales la Junta determinará su estructura, funciones, temporalidad, ámbito territorial de competencia, así como, los recursos financieros, humanos y materiales necesarios para el adecuado desarrollo de las actividades encomendadas, considerando las distancias a recorrer al interior de su ámbito territorial y a la cabecera distrital.
 
 ## TÍTULO CUARTO. DE LOS ÓRGANOS TÉCNICOS
 
@@ -1895,7 +1939,13 @@ r) Formular propuestas de información socialmente útil;
 
 s) Designar al servidor público, que en caso de su ausencia de manera excepcional lo suplirá en asuntos que requieran urgente atención o desahogo, y
 
-t) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+t) Proporcionar insumos necesarios para rendir los informes circunstanciados de las impugnaciones que se promuevan en los asuntos que sean de su competencia, así como remitirlos en tiempo y forma junto con la documentación respectiva a la Dirección Jurídica.
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+u) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 2. Las Unidades Técnicas dependerán del órgano central del Instituto que señale el acuerdo de creación correspondiente.
 
@@ -1905,13 +1955,17 @@ t) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 a) Proponer al Presidente del Consejo la estrategia de comunicación social necesaria, para difundir las actividades y funciones que desarrolla el Instituto para que, una vez que sea aprobada por el mismo, se incorpore a la propuesta de Políticas y Programas Generales del Instituto que la Junta debe poner a consideración del Consejo;
 
-b) Coadyuvar con las demás instancias institucionales en su caso, con los organismos públicos locales, en la difusión de los asuntos de sus respectivas competencias;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+b) Coadyuvar y brindar apoyo en materia de comunicación social, en el ámbito de sus respectivas competencias, a las demás instancias institucionales, y en su caso a los organismos públicos locales, siempre que lo soliciten;
 
 c) Establecer la estrategia informativa del Instituto y vigilar su cumplimiento;
 
 d) Mantener informado al personal directivo del Instituto sobre la información que generan los diferentes medios de comunicación, impresos, electrónicos y medios alternativos relativos a las actividades y funciones que desarrolla el Instituto;
 
-e) Mantener estrecha comunicación con los representantes y directivos de los medios de comunicación masiva y con los corresponsales extranjeros;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+e) Mantener estrecha comunicación con los representantes y directivos de los medios de comunicación nacionales y extranjeros;
 
 f) Planear, programar, dirigir y supervisar los mecanismos que permitan un permanente flujo de información y atención a los periodistas responsables de los medios de comunicación nacionales, corresponsales extranjeros y líderes de opinión en los ámbitos público, privado y académico;
 
@@ -1919,9 +1973,13 @@ g) Autorizar la publicación de los contenidos informativos institucionales;
 
 h) Coordinar con las autoridades del Instituto las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades institucionales;
 
-i) Vigilar el cumplimiento del Programa de Comunicación Social del Instituto;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-j) Supervisar, evaluar y contratar los diferentes espacios en los medios de comunicación, de las diversas campañas de difusión que realicen los órganos institucionales en el ámbito de sus respectivas competencias; elaborar los documentos normativos para la coordinación de esta actividad con los órganos institucionales y, en su caso, con los organismos públicos locales;
+i) Diseñar e instrumentar la política de comunicación organizacional del Instituto;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+j) Supervisar, evaluar y contratar los diferentes espacios en los medios de comunicación, de las diversas campañas de difusión que realicen los órganos institucionales en el ámbito de sus respectivas competencias; coordinar esta actividad con los órganos institucionales y, en su caso, con los organismos públicos locales; diseñar y vigilar el cumplimiento de los Lineamientos en materia de difusión;
 
 k) Informar al Consejero Presidente el avance de la ejecución del programa de trabajo;
 
@@ -1931,7 +1989,7 @@ m) Identificar y establecer los vínculos necesarios con instituciones, dependen
 
 n) Acordar con el Consejero Presidente los asuntos de su competencia;
 
-o) Atender las solicitudes de las diferentes instancias institucionales en los asuntos de su competencia, así como brindar apoyo a los órganos institucionales en materia de comunicación social siempre que se lo soliciten;
+o) (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
 p) Coadyuvar con la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica en el diseño de la estrategia de las campañas de información institucional;
 
@@ -1951,11 +2009,23 @@ w) Realizar el monitoreo de encuestas y propaganda publicadas en medios impresos
 
 x) Instrumentar la difusión de las actividades institucionales a través de medios alternativos y a partir de las nuevas herramientas tecnológicas;
 
-y) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+y) Diseñar, instrumentar y vigilar el cumplimiento de la política de comunicación en medios alternativos;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+z) Administrar, vigilar y controlar las cuentas institucionales de redes sociales, así como proporcionar los elementos necesarios para la imagen gráfica en la publicación de contenidos;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+aa) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 ###### ARTÍCULO 65.
 
-1. La Coordinación de Asuntos Internacionales estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+1. La Coordinación de Asuntos Internacionales estará adscrita a la Presidencia del Consejo y tendrá las siguientes atribuciones:
 
 a) Proponer al Presidente del Consejo e instrumentar las políticas y acciones institucionales de vinculación, información, intercambio y cooperación con la comunidad internacional;
 
@@ -1965,9 +2035,9 @@ c) Atender o, de ser el caso, gestionar las acciones institucionales que permita
 
 d) Colaborar en la formulación de los criterios y lineamientos que le corresponde determinar al Consejo para el registro y atención a visitantes extranjeros en ocasión de cada proceso electoral federal y encargarse de su debida aplicación;
 
-e) Apoyar los programas y acciones del Instituto que permitan dar cumplimiento a las disposiciones legales y a los acuerdos interinstitucionales relacionados con el registro, la promoción y la emisión del voto de los ciudadanos mexicanos residentes en el extranjero tanto para las elecciones federales como para las locales;
+e) (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
-f) Proponer e instrumentar programas y acciones permanentes de vinculación con los grupos y comunidades de mexicanos residentes en el extranjero orientados a la promoción y ejercicio de su derecho al voto;
+f) (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
 g) Recibir y, conforme a las indicaciones del Presidente del Consejo, dar respuesta a las invitaciones o solicitudes de participación de funcionarios, especialistas o representantes del Instituto tanto en misiones de observación, cooperación, asesoría o asistencia técnica internacional, como en foros o programas que se realicen en el extranjero, y gestionar los acuerdos o arreglos conducentes;
 
@@ -2071,25 +2141,39 @@ y) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
 
 a) Coadyuvar con el Secretario Ejecutivo en el ejercicio de la representación legal del Instituto;
 
-b) Brindar servicios de asesoría jurídica en general y electoral en particular a todos los órganos e instancias del Instituto;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+b) Brindar servicios de asesoría jurídica en general y electoral en particular a todos los órganos e instancias del Instituto, incluyendo aquella necesaria para la atención de los escritos que cualquier ciudadano formule en ejercicio del derecho de petición;
 
 c) Colaborar con el Secretario Ejecutivo en los asuntos derivados de la regulación del Estatuto;
 
-d) Atender y resolver las consultas sobre la aplicación de la Ley Electoral, del Estatuto y demás dispositivos legales que le formulen los diversos órganos del Instituto con el objeto de conformar criterios de interpretación legal y, en su caso, precedentes a observar;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+d) Atender las consultas sobre la aplicación de la Ley Electoral, del Estatuto y demás dispositivos normativos del Instituto que le sean formulados.
+
+La respuesta que se otorgue, de la cual se enviará copia a los integrantes del Consejo General, no comprometerá en modo alguno la postura institucional, ni tendrá carácter vinculante;
 
 e) Preparar y/o revisar proyectos de reglamentos interiores y demás dispositivos jurídicos necesarios para el buen funcionamiento del Instituto;
 
 f) Preparar o, en su caso, revisar los proyectos de los diversos acuerdos y lineamientos que deban ser expedidos por los órganos del Instituto;
 
-g) Dirigir, coordinar, supervisar y evaluar las actividades de normatividad y consulta que se presten a los órganos centrales, locales y distritales del Instituto;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-h) Brindar servicios legales a los órganos centrales, locales y distritales del Instituto, así como de orientación a los partidos políticos, agrupaciones políticas y a la ciudadanía;
+g) Sistematizar la emisión y adecuación de la normatividad en términos de los lineamientos que al efecto emita el Instituto;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+h) Brindar servicios legales a los órganos centrales, locales y distritales del Instituto, así como de orientación a los partidos políticos, candidatos independientes, agrupaciones políticas y a la ciudadanía, en el ámbito de sus atribuciones;
 
 i) Participar en calidad de asesor en los Comités de Adquisiciones, Arrendamientos y Servicios del Instituto, Central de Obra Pública y de Bienes Muebles, y realizar las actividades administrativas conducentes con la Dirección Ejecutiva de Administración;
 
-j) Tener acceso, en los términos de la normatividad aplicable, mediante el personal que designe su titular, al Sistema Integral de Información del Registro Federal Electoral, con el fin de dar contestación a los requerimientos realizados por mandato de juez competente, así como coadyuvar con la Unidad de lo Contencioso Electoral respecto a las solicitudes de los órganos del Instituto que tengan relación con la sustanciación de procedimientos administrativos sancionadores, referente a datos e informes de los ciudadanos proporcionados al citado Registro de conformidad con lo establecido por el artículo 126 numeral 3 de la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-k) Coadyuvar con el Secretario Ejecutivo en el trámite y sustanciación de los medios de impugnación que sean de su competencia;
+j) Tener acceso, en términos de los lineamientos que para tal efecto apruebe el Consejo General, al Sistema Integral de Información del Registro Federal Electoral, en coordinación con la Dirección Ejecutiva del Registro Federal de Electores;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+k) Coadyuvar con el Secretario Ejecutivo en el trámite y sustanciación de los medios de impugnación que sean de su competencia; así como para auxiliarlo en la realización y presentación al Tribunal Electoral, de los documentos relativos a la publicación, trámite y desahogo de requerimientos;
 
 l) Coadyuvar con el Secretario Ejecutivo en la formulación de los proyectos de Resolución de los Recursos de Revisión que se presenten en Proceso el (sic) Electoral en contra de las Resoluciones que emitan los Consejos Locales, para su presentación ante el Consejo;
 
@@ -2101,11 +2185,17 @@ o) Colaborar con la Dirección Ejecutiva del Servicio Profesional Electoral Naci
 
 p) Opinar en asuntos relacionados con procedimientos del Servicio Profesional Electoral Nacional que involucren al personal de los Organismos Públicos Locales, a fin de preservar o dar certeza a los intereses del Instituto;
 
-q) Atender y resolver las consultas sobre cuestiones jurídicas surgidas de la relación entre el Instituto y los Organismos Públicos Locales;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-r) Auxiliar al Secretario Ejecutivo en la sustanciación de los recursos de inconformidad que deban ser resueltos por la Junta General Ejecutiva; en la tramitación de los que se interpongan contra los actos o resoluciones de ésta y en la resolución de los interpuestos en contra de resoluciones recaídas en el procedimiento administrativo previsto en el Estatuto;
+q) Atender las consultas sobre cuestiones jurídicas surgidas de la relación entre el Instituto y los Organismos Públicos Locales, en términos de lo previsto en el Reglamento de Elecciones;
 
-s) Llevar a cabo las notificaciones personales derivadas de las Resoluciones que se dicten en los procedimientos disciplinarios en contra del personal del Servicio Profesional Electoral Nacional, así como de las resoluciones dictadas en los recursos de inconformidad que se interpongan en contra de las emitidas en los procedimientos disciplinarios y administrativos previstos en el Estatuto. Si fuere necesario, se podrá solicitar el apoyo de los órganos desconcentrados del Instituto y de los Organismos Públicos Locales para llevar a cabo las citadas notificaciones;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+r) Auxiliar al Secretario Ejecutivo en la sustanciación de los recursos de inconformidad que deban ser resueltos por la Junta General Ejecutiva, en términos del Estatuto; así como en la tramitación de los que se interpongan contra los actos o resoluciones de ésta;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+s) Llevar a cabo las notificaciones personales derivadas de las Resoluciones que se dicten en los procedimientos laborales disciplinarios en contra del personal del Instituto, así como de las resoluciones dictadas en los recursos de inconformidad que se interpongan en contra de las emitidas en dichos procedimientos disciplinarios. Si fuere necesario, se podrá solicitar el apoyo de los órganos desconcentrados del Instituto y de los Organismos Públicos Locales para llevar a cabo las citadas notificaciones;
 
 t) Elaborar los dictámenes para el nombramiento de los Directores Ejecutivos y titulares de Unidades Técnicas del Instituto;
 
@@ -2113,13 +2203,31 @@ u) Revisar, y en su caso validar, los proyectos de los convenios que en materia 
 
 v) Implantar los mecanismos de coordinación con las dependencias, entidades o instancias con las que por necesidades del servicio y sus programas específicos, obliguen a relacionarse, previo Acuerdo del Secretario Ejecutivo;
 
-w) Desarrollar todas las funciones implícitas en el puesto;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-x) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competencia, y
+w) Administrar el funcionamiento y operación del sistema informático donde se aloje la normativa del Instituto;
 
-y) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-2. Fungir con el carácter de Secretario Técnico en la integración del Órgano Garante de la Transparencia.
+x) Administrar y dar seguimiento a la información relacionada con los remanentes de los gastos de campaña de los partidos políticos, así como a las sanciones impuestas por el Instituto y autoridades jurisdiccionales electorales, del ámbito federal y local, y llevar en su caso a cabo los trámites administrativos ante el Servicio de Administración Tributaria para su ejecución en términos de la normatividad aplicable.
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+y) Auxiliar al Secretario Ejecutivo en el estudio y resolución de los procedimientos laborales disciplinarios iniciados en contra del personal del Instituto;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+z) Desarrollar todas las funciones implícitas en el puesto;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+aa) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competencia y,
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+bb) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+
+2. (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 68.
 
@@ -2303,7 +2411,9 @@ l) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### ARTÍCULO 72.
 
-1. La Unidad de Fiscalización es el órgano técnico de la Comisión de Fiscalización del Instituto que tiene a su cargo la recepción y revisión integral de los informes de ingresos y gastos que presenten los partidos políticos, los precandidatos, los aspirantes a candidatos independientes, los candidatos independientes y de partidos políticos, las agrupaciones políticas nacionales, las organizaciones de observadores electorales que realicen actividades en el ámbito federal, y las organizaciones de ciudadanos que pretendan obtener registro como partido político nacional; así como la sustanciación de los procedimientos administrativos oficiosos y de queja en materia de origen y aplicación de los recursos de los partidos, precandidatos y candidatos, aspirantes a candidatos independientes, agrupaciones políticas y candidatos independientes, y las demás tareas que le confiera la Ley Electoral.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+1. La Unidad de Fiscalización es el órgano técnico de la Comisión de Fiscalización del Instituto que tiene a su cargo la recepción y revisión integral de los informes de ingresos y gastos que presenten los partidos políticos, los precandidatos, los aspirantes a candidatos independientes, los candidatos independientes y de partidos políticos, en el ámbito federal y local; de las agrupaciones políticas nacionales, las organizaciones de observadores electorales a nivel federal y las organizaciones de ciudadanos que pretendan obtener registro como partido político nacional; así como la sustanciación de los procedimientos administrativos oficiosos y de queja en materia de origen y aplicación de los recursos de los partidos, precandidatos y candidatos, aspirantes a candidatos independientes y candidatos independientes en el ámbito federal y local, y las demás tareas que le confiera la Ley Electoral.
 
 2. En el ejercicio de sus atribuciones, la Unidad de Fiscalización tendrá un nivel jerárquico equivalente al de Dirección Ejecutiva.
 
@@ -2495,7 +2605,9 @@ a) Solicitar a la Dirección Ejecutiva del Registro Federal de Electores o a las
 
 b) Conocer, opinar y vigilar los operativos de campo de la Dirección Ejecutiva del Registro Federal de Electores, incluidos aquellos para la aplicación de las técnicas censales;
 
-c) Recibir las relaciones de los nombres de los ciudadanos cuyas solicitudes de trámite ante el Registro Federal de Electores hubiesen sido canceladas por no haber recogido la Credencial para Votar, para su conocimiento y observaciones, así como vigilar el retiro, resguardo y la posterior destrucción de dichos formatos, atendiendo a la normatividad de la materia que se emita para tales efectos;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+c) Recibir y devolver, en los términos que señala la Ley y normatividad vigente, las relaciones de los nombres de los ciudadanos cuyas solicitudes de trámite ante el Registro Federal de Electores hubiesen sido canceladas por no haber recogido la Credencial para Votar, para su conocimiento y observaciones, así como vigilar el retiro, resguardo y la posterior destrucción de dichos formatos, atendiendo a la normatividad de la materia que se emita para tales efectos;
 
 d) Recibir para su conocimiento, las relaciones en medio magnético con los nombres de los ciudadanos que hayan causado baja del Padrón Electoral y hayan sido suspendidos o rehabilitados de sus derechos políticos por resolución judicial y que serán excluidos o reincorporados al Padrón Electoral;
 
@@ -3104,3 +3216,11 @@ TERCERO. Publíquese en el Diario Oficial de la Federación y en la Gaceta Elect
 PRIMERO.- El Titular del Órgano Interno de Control del Instituto Nacional Electoral, dispondrá de un plazo que no excederá del 31 de agosto de 2017, para expedir, en ejercicio de sus facultades, un nuevo Estatuto Orgánico y la actualización de la normativa interna para su organización y funcionamiento.
 
 SEGUNDO.- El Titular del Órgano Interno de Control del Instituto Nacional Electoral, resolverá los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, conforme las normas vigentes al momento de su inicio.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL”.]
+
+ÚNICO.- A más tardar el 31 de diciembre de 2017, el Consejo General del Instituto, deberá aprobar los Lineamientos para el acceso al Sistema Integral de Información del Registro Federal de Electores, para la atención de solicitudes de información por parte de las autoridades jurisdiccionales y administrativas.
+
+Segundo.- Las reformas aprobadas por el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, por ende, se ordena la misma en forma inmediata. Asimismo, publíquese en la Gaceta y el portal de internet www.ine.mx.
