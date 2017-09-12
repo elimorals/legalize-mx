@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-109369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-14"
-last_updated: "2016-09-13"
+last_updated: "2017-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-07"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 2015.
 
@@ -159,7 +159,9 @@ d) Ser formalmente notificados de los acuerdos emitidos, con la documentación c
 
 Cómputo de plazos.
 
-1. Para efectos del presente Reglamento, todos los días y horas se considerarán hábiles. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Esta disposición será aplicable durante Procesos Electorales Federales Ordinarios y Extraordinarios.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+1. Para efectos del presente Reglamento, todos los días y horas se considerarán hábiles. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Esta disposición será aplicable durante Procesos Electorales Federales Ordinarios y Extraordinarios, así como en todo proceso electoral local en que el Instituto participe en alguna de sus etapas.
 
 II. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DE LOS CONSEJOS
 
@@ -199,7 +201,9 @@ n) Tomar las previsiones necesarias y dar seguimiento al cumplimiento de los Acu
 
 o (sic) Someter a consideración del Consejo la ampliación del tiempo de duración de la sesión, señalado en el artículo 11, párrafo 2 de este Reglamento;
 
-o) Ordenar al Secretario que expida las certificaciones que soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Locales;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+o) Ordenar al Secretario que expida las certificaciones que soliciten los partidos políticos, candidatos independientes, ciudadanos y autoridades competentes, en el ámbito de su competencia;
 
 p) Expedir las certificaciones que le soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Distritales;
 
@@ -283,7 +287,9 @@ l) Dar fe de lo actuado en las sesiones;
 
 m) Entregar a las instancias de enlace en materia de transparencia las actas, Acuerdos y Resoluciones aprobados; votos particulares; así como los informes rendidos en la sesión del Consejo correspondiente, en términos de lo dispuesto en el Reglamento de la materia;
 
-n) Expedir las certificaciones que le soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Locales. Los Secretarios de los Consejos Distritales podrán expedir certificaciones de documentos en auxilio del Presidente, en casos excepcionales y siempre y cuando medie autorización de este último por escrito; y
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+n) Expedir las certificaciones que le soliciten los partidos políticos, candidatos independientes, ciudadanos y autoridades competentes, haciéndolo del conocimiento de la Presidencia del Consejo, en el ámbito de su competencia.
 
 o) Las demás que le otorgue la Ley Electoral, este Reglamento, el Consejo o su Presidente.
 
@@ -321,7 +327,9 @@ IV. DE LA CONVOCATORIA DE LAS SESIONES
 
 Convocatoria a sesión ordinaria o especial.
 
-1. Para la celebración de las sesiones ordinarias o especiales del Consejo, el Presidente deberá convocar por escrito a cada uno de los integrantes del Consejo, por lo menos con seis días previos a la fecha y hora que se fije para la celebración de la sesión.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+1. Para la celebración de las sesiones ordinarias o especiales del Consejo, el Presidente deberá convocar por escrito y por medios electrónicos y haciendo uso de las Tecnologías de Información y Comunicación (TIC), a cada uno de los integrantes del Consejo por lo menos con seis días previos a la fecha y hora que se fije para la celebración de la sesión.
 
 Convocatoria a sesión extraordinaria.
 
@@ -331,9 +339,11 @@ Convocatoria a sesión extraordinaria.
 
 Notificación de la convocatoria.
 
-4. Los integrantes del Consejo deberán designar un domicilio para las notificaciones dentro de la cabecera de distrito o la capital de la entidad, según corresponda.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-La notificación de la convocatoria se realizará en el domicilio señalado y, adicionalmente, se publicará en los Estrados.
+4. Los integrantes del Consejo deberán designar un domicilio para las notificaciones dentro de la cabecera de distrito o la capital de la entidad, según corresponda y, proporcionarán un correo electrónico.
+
+La notificación de la convocatoria se realizará en el correo electrónico proporcionado y en el domicilio señalado y, adicionalmente, se publicará en los Estrados. En caso de no designar un domicilio dentro de la cabecera del distrito o de la entidad, pese al requerimiento del Presidente del Consejo, las subsecuentes notificaciones se realizarán por estrados, así como por correo electrónico.
 
 ###### ARTÍCULO 13.
 
@@ -637,7 +647,9 @@ Voto particular
 
 Devolución
 
-6. En el supuesto de que el Consejo rechazara un Proyecto de Resolución relativo a un proyecto administrativo sancionador ordinario, o sobre financiamiento y gasto, o en materia de fiscalización de los recursos de los partidos políticos y considerara necesario la elaboración de un nuevo proyecto, se estará a lo dispuesto por la Ley Electoral y los Reglamentos respectivos de la materia.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+6. En el supuesto que el Consejo rechace un Proyecto de Resolución y considere necesario la elaboración de uno nuevo, en la misma sesión se instruirá de manera fundada y motivada al área correspondiente para que reformule el proyecto en un plazo máximo de tres días.
 
 VIII. DEL ENVÍO DE LOS ACUERDOS Y RESOLUCIONES
 
@@ -645,7 +657,9 @@ VIII. DEL ENVÍO DE LOS ACUERDOS Y RESOLUCIONES
 
 Envío de los Acuerdos y Resoluciones.
 
-1. Dentro de las setenta y dos horas siguientes a la terminación de la sesión en que fueron aprobados, el Secretario deberá remitir copia simple o en medio electrónico de los Acuerdos y Resoluciones a los integrantes del Consejo, y a los órganos locales o distritales de dirección y ejecutivos del Instituto cuando así corresponda para su debido cumplimiento en el ámbito de sus respectivas atribuciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+1. Dentro de las setenta y dos horas siguientes a la terminación de la sesión en que fueron aprobados, el Secretario deberá remitir, preferentemente en medio electrónico, copia de los Acuerdos y Resoluciones a los integrantes del Consejo, y a los órganos locales o distritales de dirección y ejecutivos del Instituto cuando así corresponda para su debido cumplimiento en el ámbito de sus respectivas atribuciones.
 
 El Consejo podrá determinar, cuando así lo estime necesario, que el Secretario realice la remisión de los Acuerdos y Resoluciones en un plazo más breve.
 
@@ -663,7 +677,9 @@ Integración del acta de la sesión.
 
 Entrega del acta de la sesión.
 
-3. El Secretario deberá poner a disposición de los miembros del Consejo, en la sede del mismo, el proyecto de acta dentro de las setenta y dos horas después de haberse celebrado la sesión. Adicionalmente, el Secretario entregará a los miembros del Consejo, en el domicilio que hayan fijado para tal efecto, el proyecto de acta de cada sesión en un plazo que no excederá los cuatro días siguientes a su celebración. En el caso de que así lo autoricen los integrantes del Consejo, el proyecto de acta podrá enviarse por fax o por correo electrónico, recabándose el recibo correspondiente por el mismo medio.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+3. El Secretario deberá poner a disposición de los miembros del Consejo, en la sede del mismo, el proyecto de acta dentro de las setenta y dos horas después de haberse celebrado la sesión. Adicionalmente, el Secretario entregará a los miembros del Consejo, preferentemente por correo electrónico o cualquier otro medio tecnológico, el proyecto de acta de cada sesión en un plazo que no excederá los cuatro días siguientes a su celebración, recabándose el recibo correspondiente por el mismo medio.
 
 Aprobación de la última acta del Proceso Electoral.
 
@@ -894,3 +910,13 @@ DÉCIMO SEGUNDO. A más tardar en el mes de octubre de 2016, la Comisión de Org
 DÉCIMO TERCERO. A más tardar el treinta y uno de agosto de 2017, la Comisión de Organización Electoral, a propuesta de la Dirección Ejecutiva de Organización Electoral, deberá presentar al Consejo General para su aprobación, los lineamientos generales a través de los cuales se regule el desarrollo de sesiones especiales de cómputo correspondientes a las elecciones federales. En la señalada temporalidad, todos los Organismos Públicos Locales en cuyas entidades federativas se celebren elecciones en 2018, deberán emitir o ajustar, según corresponda, los lineamientos a través de los cuales se regule el desarrollo de las sesiones especiales de cómputo de sus elecciones.
 
 DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al inicio de vigencia de este Reglamento, por las distintas áreas y direcciones del Instituto y de los Organismos Públicos Locales, en el ámbito de sus competencias, así como aquéllas cuya ejecución se contemple antes del inicio de los procesos electorales locales 2016-2017, deberán ajustarse, en lo conducente, a las reglas y disposiciones previstas en este Reglamento.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL PUNTO SEGUNDO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y EL REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL".]
+
+ÚNICO.- Para efecto de dar cumplimiento a lo establecido en los artículos 12, párrafos 2 y 5; 26 y 27 párrafo 3 del presente Reglamento, los Secretarios de los Consejos Locales y Distritales deberán requerir inmediatamente a todos los integrantes del órgano colegiado al que pertenezcan, para que en el plazo de cinco días hábiles señalen una dirección de correo electrónico donde puedan ser informados y notificados. Acto seguido, el Secretario deberá certificar dicho directorio y ponerlo a disposición del Presidente del cuerpo colegiado correspondiente.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO TERCERO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO. Las reformas aprobadas por el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, por ende, se ordena la misma en forma inmediata. Asimismo, publíquese en la Gaceta y el portal de internet www.ine.mx.
