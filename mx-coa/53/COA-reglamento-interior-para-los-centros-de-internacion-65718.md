@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-para-los-centros-de-internacion-65718"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2017-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR PARA LOS CENTROS DE INTERNACION, TRATAMIENTO Y ADAPTACION DE ADOLESCENTES Y AREAS ESPECIALES DEL ESTADO DE COAHUILA
 
-REGLAMENTO INTERIOR PARA LOS CENTROS DE INTERNACION, TRATAMIENTO Y ADAPTACION DE ADOLESCENTES Y AREAS ESPECIALES DEL ESTADO DE COAHUILA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR PARA LOS CENTROS DE INTERNAMIENTO ESPECIALIZADOS EN ADOLESCENTES DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR PARA LOS CENTROS DE INTERNACIÓN, TRATAMIENTO Y ADAPTACIÓN DE ADOLESCENTES Y ÁREAS ESPECIALES DEL ESTADO DE COAHUILA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 12 de diciembre de 2008.
 
@@ -1490,3 +1492,15 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR PARA LOS CENTROS DE INTERNAMIENTO ESPECIALIZADOS EN ADOLESCENTES DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente reglamento interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior para los Centros de Internación, Tratamiento y Adaptación de Adolescentes y Áreas Especiales del Estado de Coahuila, publicado en la Primera Sección del Periódico Oficial del Gobierno del Estado, el viernes 12 de diciembre de 2008.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente reglamento.
