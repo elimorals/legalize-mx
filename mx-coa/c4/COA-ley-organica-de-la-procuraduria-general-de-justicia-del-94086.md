@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-procuraduria-general-de-justicia-del-94086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-05-03"
-last_updated: "2016-01-22"
+last_updated: "2017-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 3 de mayo de 2013.
 
@@ -34,24 +38,6 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NÚMERO 218.-
-
-[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 338, PUBLICADO EN EL P.O. 22 DE ENERO DE 2016, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LO SIGUIENTE:
-
-A) SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, Y SUBPROCURADURÍA DE INVESTIGACIÓN Y BÚSQUEDA DE PERSONAS NO LOCALIZADAS Y ATENCIÓN A VÍCTIMAS, OFENDIDOS Y TESTIGOS (ÉSTA ÚLTIMA POR LO QUE HACE A LA ATENCIÓN Y PROTECCIÓN DE VÍCTIMAS Y TESTIGOS): SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALIZADAS, ATENCIÓN Y PROTECCIÓN DE VÍCTIMAS Y TESTIGOS.
-
-B) SUBPROCURADURÍA DE INVESTIGACIÓN Y BÚSQUEDA DE PERSONAS NO LOCALIZADAS Y ATENCIÓN A VÍCTIMAS, OFENDIDOS Y TESTIGOS: SUBPROCURADURÍA DE PERSONAS DESAPARECIDAS.
-
-C) SUBPROCURADURÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES: FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES.
-
-D) DIRECCIÓN GENERAL DE INVESTIGACIÓN Y BÚSQUEDA DE PERSONAS NO LOCALIZADAS: DIRECCIÓN GENERAL DE PERSONAS DESAPARECIDAS.
-
-E) DIRECCIÓN DE ATENCIÓN Y SEGUIMIENTO A COLABORACIONES Y DERECHOS HUMANOS: UNIDAD DE ATENCIÓN DE ACUERDOS Y COLABORACIONES.
-
-F) DIRECCIÓN GENERAL DE OPERACIÓN Y ESTRATEGIA: DIRECCIÓN GENERAL DE INVESTIGACIONES ESPECIALIZADAS.
-
-G) DIRECCIÓN GENERAL DE INVESTIGACIONES ESPECIALES Y LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN (SIC) DELITOS COMETIDOS EN AGRAVIO DE MIGRANTES: DIRECCIÓN GENERAL DE DELITOS DE ALTO IMPACTO Y COMETIDOS EN AGRAVIO DE MIGRANTES.
-
-H) DIRECCIÓN DE POLÍTICA CRIMINAL: COORDINACIÓN GENERAL DE ANÁLISIS DE INFORMACIÓN Y DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA Y SUBPROCURADURÍAS EN EL ÁMBITO DE SUS COMPETENCIAS.]
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -141,8 +127,6 @@ Del objeto de la ley
 
 La presente Ley es de orden público, interés social, observancia general y tiene por objeto establecer la organización, funcionamiento y atribuciones de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, para el despacho de los asuntos que al Ministerio Público le competen, otorgadas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, esta Ley, y demás ordenamientos legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 2.
@@ -180,8 +164,6 @@ XIV. Ministerio Público: La institución encargada de la investigación y perse
 XV. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
 
 XVI. Procurador: El Titular de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -347,8 +329,6 @@ XXXVIII. Solicitar y recabar de las autoridades, instituciones públicas o priva
 
 XXXIX. Ser responsable por la actuación de la Procuraduría ante las demás instituciones del estado y de la sociedad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
 
 XL. Representar a la Institución en todos los negocios en que ésta sea parte o tenga interés jurídico, que podrá ejercer directamente o a través de la persona titular de la Dirección General Jurídica, de Derechos Humanos y Consultiva;
@@ -360,8 +340,6 @@ XLII. Atender las obligaciones y relaciones con los Poderes Públicos y las depe
 XLIII. Celebrar convenios de colaboración en materia de procuración de justicia, así como respecto a la extradición de imputados, procesados y sentenciados y las formas en que deban desarrollarse las funciones de auxilio en estos casos;
 
 XLIV. Presentar anualmente, por escrito, el informe de actividades de la Procuraduría, ante el Gobernador del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -460,8 +438,6 @@ El ejercicio Constitucional del Procurador será de seis años.
 Incompatibilidades
 
 El cargo de Procurador, será incompatible con cualquier otro empleo o comisión al servicio del gobierno federal, estatal y municipal, organismos desconcentrados o descentralizados o de personas físicas, así como con el ejercicio libre de la profesión de abogado. Sin embargo podrá realizar labores docentes y actividades de investigación académica.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -693,8 +669,6 @@ XXI. Dirigir las delegaciones regionales en las áreas de sus competencias.
 
 XXII. Las demás que les confieran esta ley y los demás ordenamientos aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 25.
@@ -751,8 +725,6 @@ VIII. Presentar y aprobar las evaluaciones de control de confianza previstas en 
 
 Deberes y atribuciones de la Subprocuraduría Ministerial.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
 El subprocurador ministerial, tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, la investigación de los delitos y el análisis de la incidencia delictiva y la implementación en su caso, de acciones para prevenir y combatir el delito, que le sean conferidas en la Constitución General, en la Constitución del Estado, en esta ley y demás ordenamientos aplicables.
@@ -766,8 +738,6 @@ II. La investigación de las conductas tipificadas como tales, cometidas por men
 III. La emisión, formalización y desahogo de vistas.
 
 IV. La revisión cuando lo juzgue conveniente de las determinaciones de no ejercicio de la acción penal.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -799,8 +769,6 @@ VI. Emitir los lineamientos y directrices necesarios para que las actuaciones de
 
 VII. Resolver el recurso de inconformidad con respecto al acuerdo de abstención de investigar, el archivo temporal y la aplicación de los criterios de oportunidad decretados por los Agentes del Ministerio Público.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 29.
@@ -823,8 +791,6 @@ VI. La atención y protección de víctimas, ofendidos, testigos y demás tercer
 
 VII. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 30.
@@ -833,21 +799,15 @@ Deberes y atribuciones de la Subprocuraduría de Personas Desaparecidas.
 
 Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, la investigación de los delitos y el análisis de la incidencia delictiva y la implementación en su caso, de acciones para prevenir y combatir el delito, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a la investigación y persecución de los delitos relacionados con la desaparición y ausencia de personas, además de la investigación de los hechos posiblemente constitutivos del delito de trata de personas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 31.
 
 Deberes y Atribuciones de la Fiscalía Especializada para la Atención de Delitos Electorales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
 Al frente de la Fiscalía habrá un Fiscal Especializado, que gozará de plena autonomía jurídica, técnica y funcional, a quien le corresponderá la investigación de delitos de naturaleza electoral, a fin de resolver sobre el ejercicio de la acción penal y tendrá todos los deberes que sean conferidas (sic) al Ministerio Público en la Constitución General, en la Constitución del Estado, en la Ley General en Materia de Delitos Electorales, en esta ley y demás ordenamientos aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -872,8 +832,6 @@ IV. Mando directo e inmediato de los Agentes del Ministerio Público y sus auxil
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
 V. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2016)</small>
 
@@ -1241,15 +1199,11 @@ XX. Las demás que sean necesarias
 
 ### CAPÍTULO II. De la Dirección General de los Servicios Periciales
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO SU EPÍGRAFE [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 52.
 
 Atribuciones de la Dirección General de Servicios Periciales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -1681,23 +1635,17 @@ XII. Los niveles y el personal a quienes será aplicable el Servicio Profesional
 
 ### CAPÍTULO ÚNICO. Naturaleza de la Dirección General de Responsabilidades
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO SU EPÍGRAFE [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 66.
 
 Competencia de la Dirección General de Responsabilidades.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
 La Dirección General de Responsabilidades, como órgano desconcentrado de la Procuraduría, con autonomía de gestión y criterio, tendrá las siguientes competencias:
 
 I. Es un órgano de investigación, supervisión, inspección y auditoria, mediante el cual se controla y evalúa el ejercicio del presupuesto, derechos, fondos e ingresos, conservación y uso de bienes de la Institución.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -1978,3 +1926,51 @@ CUARTO.- Las facultades que anteriormente estuvieren conferidas a la extinta Sub
 QUINTO.- Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
 
 SEXTO.- La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza deberá realizar, en un plazo de 30 días contados a partir de la entrada en vigor del presente decreto, las modificaciones al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+P.O. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 942.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia del Estado, de su Titular en cualquier ordenamiento legal, así como en Contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado o el Fiscal General, de acuerdo con las atribuciones que mediante la presente Ley se les otorga.
+
+TERCERO. Los recursos financieros, materiales y humanos de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General al iniciar la vigencia de la presente ley. Entretanto se adquieren los recursos materiales necesarios, se seguirá usando la papelería, sellos y demás materiales de trabajo que tengan el nombre y escudos de la Procuraduría General de Justicia del Estado.
+
+CUARTO. La Fiscalía General, podrá celebrar convenios con la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, así como con las demás instancias competentes, relacionados con la administración de sus recursos humanos, materiales, su patrimonio y presupuesto, el fondo para el mejoramiento de la procuración de justicia, la adquisición, arrendamiento y contratación de bienes y servicios, así como de obra pública, entre otras acciones inherentes a su autonomía, hasta en tanto, implemente las herramientas y los mecanismos necesarios para su adecuado funcionamiento administrativo y financiero.
+
+QUINTO. Se instruye a la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, para que realice las adecuaciones presupuestarias que sean necesarias para la implementación de la presente Ley.
+
+SEXTO. Los Subprocuradores y Fiscales Especializados y los demás servidores públicos de la Procuraduría General de Justicia del Estado pasarán a ocupar los cargos equivalentes de la Fiscalía General señalados en la presente Ley, a partir de que se emita la declaratoria de autonomía constitucional de la Fiscalía General, con todas sus atribuciones, en tanto se expiden los nuevos nombramientos.
+
+SÉPTIMO. Dentro del término de ciento veinte días siguientes al inicio de la vigencia de la presente Ley, deberán expedirse los reglamentos que se requieran para su pleno cumplimiento.
+
+En tanto no se emita la normatividad indispensable para el correcto funcionamiento de la Fiscalía General, se seguirán aplicando las disposiciones vigentes legales y administrativas de la Procuraduría General de Justicia del Estado al momento de la entrada en vigor de la presente Ley, en lo que no se opongan a la misma.
+
+OCTAVO. Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios de trabajadores o empleados al servicio de la Procuraduría General de Justicia que estuviesen en trámite a la entrada en vigor de este Decreto, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate. Los procedimientos iniciados después de la entrada en vigor de este Decreto y los ordenamientos administrativos correspondientes, se tramitarán conforme a ellos.
+
+Los procedimientos administrativos de responsabilidad o disciplinarios iniciados a la fecha a los servidores públicos de la Procuraduría General de Justicia del Estado que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este decreto continuarán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+NOVENO. Cualquier mención que se haga de la Procuraduría General de Justicia del Estado en otras disposiciones, se entenderán hechas a la Fiscalía General, y cualquier mención que se haga al Procurador General del Estado, se entenderá hecha al Fiscal General a partir de la vigencia de la presente Ley.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las Fiscalías y a los Fiscales, conforme a las siguientes denominaciones:
+
+a) Dirección General de Responsabilidades: Dirección General de Contraloría y Visitaudría (sic).
+
+b) Subprocuraduría Ministerial: Fiscal Ministerial.
+
+c) Subprocuraduría de Control de Juicios y Constitucionalidad: Fiscalía de Control de Juicios y Constitucionalidad.
+
+d) Subprocuraduría de Investigaciones Especializadas, Atención y Protección a Víctimas y Testigos: Fiscalía de Investigaciones Especializadas, Atención y Protección a Víctimas y Testigos.
+
+e) Subprocuraduría de Personas Desaparecidas: Fiscalía de Personas Desaparecidas.
+
+f) Dirección General de la Policía Investigadora: Agencia de Investigación Criminal de la Fiscalía General.
+
+g) Policía Investigadora: Policía de Investigación.
+
+DÉCIMO. La designación del titular de la Dirección General de Contraloría y Visitaduría, deberá llevarse a cabo dentro de los noventa días hábiles siguientes a que se emita la declaratoria de la autonomía constitucional de la Fiscalía General.
+
+DÉCIMO PRIMERO. El Procurador General de Justicia del Estado que se encuentre en funciones antes de la Declaratoria de la Autonomía de la Fiscalía General del Estado, continuará en funciones durante el proceso de selección hasta la toma de protesta del Fiscal General.
+
+DÉCIMO SEGUNDO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, publicada en la (sic) Periódico Oficial del Gobierno del Estado número 36, en fecha 3 de mayo de 2013.
