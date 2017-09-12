@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-consejo-general-del-instituto-109050
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-16"
-last_updated: "2015-07-16"
+last_updated: "2017-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109050&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-06-20"
 ---
 # REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 16 de julio de 2015.
 
@@ -65,39 +67,91 @@ b) Ley Electoral: Ley General de Instituciones y Procedimientos Electorales;
 
 c) Reglamento: El Reglamento de Sesiones del Consejo General;
 
-d) Instituto: El Instituto Nacional Electoral;
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-e) Consejo: El Consejo General;
+d) Reglamento en Materia de Transparencia: Reglamento del Instituto Nacional Electoral en Materia de Transparencia y Acceso a la Información Pública;
 
-f) Presidente: El Consejero Presidente del Consejo General;
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
 
-g) Consejeros Electorales: Los Consejeros Electorales designados por la Cámara de Diputados conforme al procedimiento previsto por la Constitución Política;
+e) Instituto: El Instituto Nacional Electoral;
 
-h) Consejeros del Poder Legislativo: Los Senadores o Diputados propuestos en la Cámara de Diputados por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras, no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión; designados conforme al procedimiento previsto por la Constitución Política;
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
 
-i) Representantes de Partidos: Los Representantes de los Partidos Políticos Nacionales acreditados ante el Consejo General;
+f) Consejo: El Consejo General;
 
-j) Secretario: El Secretario Ejecutivo que actúa como Secretario del Consejo General;
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-k) Integrantes del Consejo: El Consejero Presidente, los Consejeros Electorales, el Secretario del Consejo, los Consejeros del Poder Legislativo y los Representantes de los Partidos Políticos;
+g) Gaceta: La Gaceta Electoral del Instituto Nacional Electoral que es el medio oficial de publicación de los acuerdos y resoluciones del Instituto;
 
-l) Candidato Independiente: El ciudadano que obtenga por parte de la autoridad electoral el Acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la Ley Electoral;
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
 
-m) Organismos Públicos Locales: Los organismos públicos electorales de las entidades federativas;
+h) Presidente: El Consejero Presidente del Consejo General;
 
-n) Medio digital: Dispositivos externos para almacenar o distribuir información, como son: disco compacto CD, DVD y memoria USB o similar;
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
 
-ñ) Medio Electrónico: Servicios y/o sistemas disponibles a través de la Red INE y/o internet, por medio de los cuales se puede distribuir, almacenar o compartir información; y
+i) Consejeros Electorales: Los Consejeros Electorales designados por la Cámara de Diputados conforme al procedimiento previsto por la Constitución Política;
 
-o) Firma Electrónica: El conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa en los sistemas y servicios informáticos en los que se considere su uso.
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+j) Consejeros del Poder Legislativo: Los Senadores o Diputados propuestos en la Cámara de Diputados por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras, no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión; designados conforme al procedimiento previsto por la Constitución Política;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+k) Órgano Interno de Control: Órgano Interno de Control del Instituto Nacional Electoral.
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+l) Representantes de Partidos: Los Representantes de los Partidos Políticos Nacionales acreditados ante el Consejo General;
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+m) Representantes de Candidaturas Independientes: Representantes de las Candidaturas Independientes a la Presidencia de la República con registro ante el Consejo General;
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+n) Secretario: El Secretario Ejecutivo que actúa como Secretario del Consejo General;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+ñ) Integrantes del Consejo: El Consejero Presidente, los Consejeros Electorales, el Secretario del Consejo, los Consejeros del Poder Legislativo, Representantes de los Partidos Políticos y en su caso, Representantes de Candidaturas Independientes;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+o) Candidato Independiente: El ciudadano que obtenga por parte de la autoridad electoral el Acuerdo de registro de candidatura a la presidencia de la República, habiendo cumplido los requisitos que para tal efecto establece la Ley Electoral;
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+p) Organismos Públicos Locales: Los organismos públicos electorales de las entidades federativas;
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+q) Medio digital: Dispositivos externos para almacenar o distribuir información, como son: disco compacto CD, DVD y memoria USB o similar;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+r) Medio Electrónico: Servicios y/o sistemas disponibles a través de la Red INE (intranet, portal de colaboración, etc.) y/o internet, por medio de los cuales se puede distribuir, almacenar o compartir información;
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+s) Firma Electrónica: El conjunto de datos y caracteres que permite la identificación del signante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa en los sistemas y servicios informáticos en los que se considere su uso; y
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+t) Portal de Colaboración: Sitio electrónico de acervo documental interno del Instituto al que tendrán acceso los integrantes del Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+u) Portal Electrónico Institucional: Sitio web del Instituto de acceso público en el que se publicarán los documentos aprobados por el Consejo General.
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 4.
 
-Integración del Consejo.
+Integración del Consejo
 
-1. El Consejo se integra por un Presidente, diez Consejeros Electorales, un Consejero del Poder Legislativo por cada fracción parlamentaria ante el Congreso de la Unión; un Representante por cada Partido Político Nacional con registro y el Secretario.
+1. El Consejo se integra por un Presidente, diez Consejeros Electorales, un Consejero del Poder Legislativo por cada fracción parlamentaria ante el Congreso de la Unión; un Representante por cada Partido Político Nacional con registro, así como el Secretario.
 
-2. El Presidente y los Consejeros Electorales tendrán derecho a voz y voto, mientras que los Consejeros del Poder Legislativo, los Representantes de Partidos y el Secretario, sólo tendrán derecho a voz.
+El Presidente y los Consejeros Electorales tendrán derecho a voz y voto, mientras que los Consejeros del Poder Legislativo; los Representantes de Partidos; en su caso, los Representantes de las Candidaturas Independientes, quienes integrarán el órgano hasta en tanto finalice el proceso electoral respectivo y el Secretario, sólo tendrán derecho a voz.
 
 ###### Artículo 5.
 
@@ -151,7 +205,9 @@ e) Presidir y participar en las sesiones del Consejo, así como votar los Proyec
 
 f) Iniciar y levantar la sesión, además de decretar los recesos que fueren necesarios;
 
-g) Tomar la Protesta cuando se integre un nuevo miembro en el Consejo General del Instituto, al Contralor General designado por la Cámara de Diputados, así como a los presidentes de los Consejos Locales del Instituto designados por el propio Consejo;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+g) Tomar la Protesta cuando se integre un nuevo miembro en el Consejo General del Instituto, al Titular del Órgano Interno de Control del Instituto designado por la Cámara de Diputados, así como a los presidentes de los Consejos Locales del Instituto designados por el propio Consejo;
 
 h) Conducir los trabajos y tomar las medidas necesarias para el adecuado funcionamiento del Consejo;
 
@@ -199,7 +255,13 @@ c) Solicitar al Secretario, de conformidad con las reglas establecidas en este R
 
 d) Por mayoría, solicitar se convoque a sesión extraordinaria en los términos previstos en el presente Reglamento; y
 
-e) Las demás que les sean conferidas por la Ley Electoral y este Reglamento.
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+e) Contar con cuenta de correo electrónico institucional oficial para todos los asuntos relacionados con el presente ordenamiento, y
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+f) Las demás que les sean conferidas por la Ley Electoral y este Reglamento.
 
 ###### Artículo 10.
 
@@ -215,7 +277,17 @@ c) Solicitar al Secretario, de conformidad con las reglas establecidas en este R
 
 d) Por mayoría, solicitar se convoque a sesión extraordinaria, en los términos previstos en el presente Reglamento; y
 
-e) Las demás que les otorguen la Ley Electoral y este Reglamento.
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+e) Contar con cuenta de correo electrónico institucional oficial para todos los asuntos relacionados con el presente ordenamiento, y
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+f) Las demás que les otorguen la Ley Electoral y este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+2. Los Representantes de los candidatos independientes tendrán, además de las atribuciones reconocidas en el numeral 1, los derechos establecidos en el artículo 5, numeral 2, párrafo 2 del presente Reglamento.
 
 ###### Artículo 11.
 
@@ -225,7 +297,15 @@ Atribuciones del Secretario.
 
 a) Preparar el orden del día de las sesiones;
 
-b) Entregar, dentro de los plazos establecidos en el presente Reglamento, a los integrantes del Consejo, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día, recabando los acuses de recibo correspondientes;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+b) Notificar por correo electrónico institucional y por escrito a los integrantes del Consejo, dentro de los plazos establecidos en el presente Reglamento, que la convocatoria, orden del día o inclusión de puntos, así como los anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día, incluidas las versiones actualizadas, se encuentran en el Portal de Colaboración previo a la celebración de la sesión del Consejo correspondiente, recabando los acuses de recibo respectivos.
+
+Para lo anterior, todos los integrantes deberán contar con una cuenta de correo institucional y acceso al referido portal a través de la liga electrónica que se les haga llegar al momento de la notificación.
+
+Los integrantes podrán solicitar que se les remita copia de las notificaciones correspondientes a los correos personales que previamente y por escrito hayan comunicado.
+
+La Dirección del Secretariado será la instancia encargada de subir los documentos al Portal de Colaboración, para su consulta y disposición desde el momento de su notificación; y de su actualización.
 
 c) Remitir a los integrantes de la Junta General Ejecutiva, por conducto de la Dirección del Secretariado, a través de los medios electrónicos del Instituto, los documentos que se discutirán en la sesión del Consejo;
 
@@ -247,17 +327,27 @@ k) Dar fe de lo actuado en las sesiones;
 
 l) Legalizar los documentos del Consejo y expedir las copias certificadas de los mismos que le sean solicitadas;
 
-m) Difundir las Actas, Acuerdos y Resoluciones aprobados; incluyendo en su caso, los votos particulares, votos razonados o votos concurrentes que presenten los Consejeros Electorales, así como los informes rendidos en la sesión del Consejo correspondiente en el portal electrónico institucional, en términos de lo dispuesto en el presente Reglamento, así como en el Reglamento del Instituto Nacional Electoral en Materia de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+m) Difundir las Actas, Acuerdos y Resoluciones aprobados; incluyendo en su caso, los votos particulares, votos razonados o votos concurrentes que presenten los Consejeros Electorales, así como los informes rendidos en la sesión del Consejo correspondiente en el portal electrónico institucional, en términos de lo dispuesto en el presente Reglamento, así como en el Reglamento en Materia de Transparencia;
 
 n) Realizar las acciones conducentes para la publicación de los Acuerdos y Resoluciones aprobados por el Consejo cuando así se determine, en el Diario Oficial de la Federación, en la Gaceta del Instituto, en los Estrados del Instituto o, en su caso, en el periódico oficial de las entidades federativas a través de los órganos desconcentrados del Instituto, según corresponda;
 
 ñ) Elaborar el Acta de las sesiones y someterla a la aprobación de los integrantes del Consejo en las sesiones ordinarias o extraordinarias que para tal efecto determine el Secretario. El Acta será elaborada con base en la versión estenográfica de la sesión correspondiente, tomando en cuenta, en su caso, las observaciones realizadas a la misma por los integrantes del Consejo;
 
-o) Expedir los documentos que acrediten la personalidad de los Consejeros y los Representantes de los Partidos Políticos;
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+o) Expedir los documentos que acrediten la personalidad de los Consejeros y los Representantes de los Partidos Políticos, y en su caso, de los Representantes de los Candidatos Independientes;
 
 p) Cumplir las instrucciones del Consejero Presidente y auxiliarlo en sus tareas; y
 
-q) Las demás que le sean conferidas por la Ley Electoral, este Reglamento, el Consejo o el Presidente.
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+q) Incorporar en el portal de colaboración todos los documentos que deban ser circulados para la discusión y, en su caso, aprobación de los asuntos, y
+
+> <small>[N. DE E. REUBICADO, D.O.F. 12 DE SEPTIEMBRE DE 2017]</small>
+
+r) Las demás que le sean conferidas por la Ley Electoral, este Reglamento, el Consejo o el Presidente.
 
 ### CAPÍTULO III. DE LOS TIPOS DE SESIONES, SU DURACIÓN Y LUGAR
 
@@ -307,17 +397,27 @@ DE LA CONVOCATORIA DE LAS SESIONES.
 
 Convocatoria a sesión ordinaria.
 
-1. Para la celebración de las sesiones ordinarias del Consejo, el Presidente deberá convocar por escrito a cada uno de los Integrantes del Consejo, con una antelación de por lo menos seis días previos al de la fecha y hora que se fije para la celebración de la sesión.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+1. Para la celebración de las sesiones ordinarias del Consejo, el Presidente deberá convocar vía correo electrónico y por escrito, a cada uno de los Integrantes del Consejo, con una antelación de por lo menos seis días previos al de la fecha y hora que se fije para la celebración de la sesión. A partir de dicha notificación, la documentación y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, estará disponible en el Portal de Colaboración, lo que se señalará en la convocatoria respectiva.
 
 Convocatoria a sesión extraordinaria.
 
-2. Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el párrafo anterior deberá realizarse por lo menos con cuarenta y ocho horas de anticipación. Sin embargo, en aquellos casos que el Presidente considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria convocatoria escrita cuando se encuentren presentes en un mismo local todos los integrantes del Consejo.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-3. La mayoría de los Consejeros Electorales, Consejeros del Poder Legislativo o Representantes de Partidos, que soliciten la celebración de una sesión extraordinaria, deberán hacerlo mediante escrito debidamente signado y dirigido al Presidente, en el cual se especifique puntualmente el asunto que desean sea desahogado y se adjunten los documentos para su análisis y discusión.
+2. Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el párrafo anterior deberá realizarse por lo menos con cuarenta y ocho horas de anticipación. A partir de dicha notificación, la documentación y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, estará disponible en el Portal de Colaboración, lo que se señalará en la convocatoria respectiva.
 
-4. Una vez recibida la solicitud debidamente integrada en los términos previstos en el párrafo 3 del presente artículo, el Presidente deberá circular la convocatoria a la sesión extraordinaria solicitada, dentro de las cuarenta y ocho horas siguientes a aquella en que se haya presentado la petición.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-5. En aquellos casos que el Presidente considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria urgente fuera del plazo señalado en el párrafo 2 del presente artículo, e incluso no será necesaria convocatoria escrita cuando se encuentren presentes en un mismo local todos los integrantes del Consejo.
+3. De forma excepcional, en aquellos casos en que se considere de extrema urgencia o gravedad, el Presidente podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria convocatoria escrita cuando se encuentren presentes en un mismo recinto todos los integrantes del Consejo, para lo cual deberá circular la documentación correspondiente para la discusión con al menos seis horas de anticipación y se entregará en forma física, además de estar disponible en el Portal de Colaboración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+4. La mayoría de los Consejeros Electorales, Consejeros del Poder Legislativo o Representantes de Partidos, que soliciten la celebración de una sesión extraordinaria, deberán hacerlo mediante escrito debidamente signado y dirigido al Presidente, en el cual se especifique puntualmente el asunto que desean sea desahogado y se adjunten los documentos para su análisis y discusión.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+5. Una vez recibida la solicitud debidamente integrada en los términos previstos en el párrafo 3 del presente artículo, el Presidente deberá circular la convocatoria a la sesión extraordinaria solicitada, dentro de las cuarenta y ocho horas siguientes a aquella en que se haya presentado la petición.
 
 6. El Presidente convocará por lo menos con tres días de anticipación al día en que deba celebrarse la sesión correspondiente, cuando los asuntos a tratar versen sobre Proyectos de Resolución de procedimientos sancionadores ordinarios, en cumplimiento a lo dispuesto en el artículo 469, párrafo 4 de la Ley Electoral.
 
@@ -331,11 +431,17 @@ Convocatoria sesión especial.
 
 Convocatoria.
 
-1. La convocatoria a sesión deberá contener el día, la hora y lugar en que la misma se deba celebrar, la mención de ser ordinaria, extraordinaria, extraordinaria urgente o especial, así como adjuntar el orden del día formulado por el Secretario. A dicha convocatoria se acompañarán íntegramente los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que los integrantes del Consejo cuenten con información suficiente y oportuna.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-2. Con el objeto que la convocatoria y el orden del día puedan ser difundidos a los integrantes del Consejo, con todos y cada uno de los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, las diversas instancias técnicas o ejecutivas del Instituto responsables de los asuntos agendados, deberán remitirlos al Secretario preferentemente en medios digitales o electrónicos, por lo menos con veinticuatro horas de anticipación a la expedición de la convocatoria tratándose de sesiones ordinarias y extraordinarias. En el caso de las sesiones especiales y extraordinarias urgentes la documentación deberá ser proporcionada a la brevedad posible al Secretario a fin de preparar su distribución a los integrantes del Consejo.
+1. La convocatoria a sesión deberá contener el día, la hora y lugar en que la misma se deba celebrar, la mención de ser ordinaria, extraordinaria, extraordinaria urgente o especial, así como adjuntar el orden del día formulado por el Secretario. A partir de dicha notificación, la documentación y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, estará disponible en el Portal de Colaboración, lo que se señalará en la convocatoria respectiva.
 
-3. Los documentos y anexos se distribuirán preferentemente en medios digitales, no obstante podrán distribuirse, en medio electrónico a través de la dirección electrónica que de manera previa y por escrito se proporcione al Secretario, o en su caso, mediante el Sistema de Firma Electrónica que para tal efecto se instrumente; excepto en todo caso, cuando ello sea materialmente imposible. Adicionalmente, la entrega podrá ser solicitada en forma impresa mediante escrito o medio electrónico, dirigido al Director del Secretariado.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+2. Con el objeto que la convocatoria y el orden del día puedan ser difundidos a los integrantes del Consejo, con todos y cada uno de los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, las diversas instancias técnicas o ejecutivas del Instituto responsables de los asuntos agendados, deberán remitirlos al Secretario preferentemente en medios digitales o electrónicos, por lo menos con veinticuatro horas de anticipación a la expedición de la convocatoria tratándose de sesiones ordinarias y extraordinarias. En el caso de las sesiones especiales y extraordinarias urgentes la documentación deberá ser proporcionada a la brevedad posible al Secretario a fin de preparar su distribución a los integrantes del Consejo a través del Portal de Colaboración.
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+3. De manera excepcional, cuando materialmente sea imposible distribuir los documentos a través del Portal de Colaboración, se realizará de forma impresa.
 
 Disponibilidad de la documentación relacionada.
 
@@ -349,11 +455,15 @@ Orden del día.
 
 Inclusión de asuntos al orden del día.
 
-7. Recibida la convocatoria a una sesión ordinaria, el Presidente, cualquier Consejero Electoral, Consejero del Poder Legislativo o Representante podrá solicitar al Secretario la inclusión de asuntos en el orden del día de la sesión con cuarenta y ocho horas de anticipación a la hora señalada para su celebración, acompañando a su solicitud, cuando así corresponda, los documentos necesarios para su análisis y discusión. El Secretario estará obligado a incorporar dichos asuntos en el orden del día con la mención de la instancia o el nombre de quien lo solicite. En tal caso, el Secretario remitirá a los integrantes del Consejo un nuevo orden del día que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión en el orden en que se presenten, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al orden del día de la sesión de que se trate.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+7. Recibida la convocatoria a una sesión ordinaria, el Presidente, cualquier Consejero Electoral, Consejero del Poder Legislativo o Representante podrá solicitar al Secretario la inclusión de asuntos en el orden del día de la sesión con veinticuatro horas de anticipación a la hora señalada para su celebración, acompañando a su solicitud, cuando así corresponda, los documentos necesarios para su análisis y discusión. El Secretario estará obligado a incorporar dichos asuntos en el orden del día con la mención de la instancia o el nombre de quien lo solicite. En tal caso, a la brevedad posible, el Secretario remitirá a los integrantes del Consejo un nuevo orden del día que contenga los asuntos que se vayan agregando al original, señalando que los documentos para la discusión, están disponibles en el Portal de Colaboración para su discusión en el orden en que se presenten. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo o sin el acompañamiento de los documentos pertinentes, podrá ser incorporada al orden del día de la sesión de que se trate.
 
 8. Recibida la convocatoria a una sesión extraordinaria, el Presidente, cualquier Consejero Electoral, Consejero del Poder Legislativo o Representante podrá solicitar al Secretario la inclusión de asuntos en el orden del día de la sesión con veinticuatro horas de anticipación a la hora señalada para su celebración, acompañando a su solicitud, cuando así corresponda, los documentos necesarios para su análisis y discusión. El Secretario estará obligado a incorporar dichos asuntos en el orden del día con la mención de la instancia o el nombre de la persona que lo solicite. En tal caso, el Secretario hará del conocimiento de los integrantes del Consejo inmediatamente el nuevo orden del día que contenga los asuntos a tratar, adjuntando los documentos necesarios para su discusión en el orden en que se presenten. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al orden del día de la sesión de que se trate.
 
-9. En ningún caso, el Secretario podrá incluir en el orden del día de la sesión de que se trate, el Proyecto de Acuerdo o Resolución si no se adjunta la documentación respectiva para su análisis.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+9. En ningún caso, el Secretario podrá incluir en el orden del día de la sesión de que se trate, el Proyecto de Acuerdo, Resolución o Informe si no se adjunta la documentación respectiva y/o los anexos correspondientes para su adecuado análisis.
 
 10. En el caso de las sesiones extraordinarias urgentes y especiales, solamente podrán ventilarse aquellos asuntos para las que fueron convocadas, por lo que después de circulada la convocatoria no se podrán incluir asuntos en el orden del día respectivo.
 
@@ -421,7 +531,9 @@ Toma de protesta.
 
 10. Los Representantes de los Partidos rendirán la protesta de ley ante el Consejo, ya sea en su carácter de propietario o suplente. Sin embargo, no será necesario que vuelvan a rendirla en caso que se invierta el carácter de propietario o suplente, respectivamente.
 
-11. El Contralor General del Instituto, rendirá la protesta de ley ante el Consejo, en la sesión inmediata posterior que se celebre, después de la fecha en que sea designado por la Cámara de Diputados del H. Congreso de la Unión.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+11. El Titular del Órgano Interno de Control del Instituto, rendirá la protesta de ley ante el Consejo, en la sesión inmediata posterior que se celebre, después de la fecha en que sea designado por la Cámara de Diputados del H. Congreso de la Unión.
 
 12. Los Presidentes de los Consejos Locales del Instituto, rendirán la protesta de ley en la sesión del Consejo en la que sean designados.
 
@@ -433,9 +545,13 @@ Publicidad y orden de las sesiones.
 
 1. Las sesiones del Consejo serán públicas.
 
-2. En las sesiones sólo podrán participar y hacer uso de la palabra el Presidente, los Consejeros Electorales, los Consejeros del Poder Legislativo, los Representantes y el Secretario.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-3. El Presidente podrá requerir al Contralor General para que acuda ante el Consejo, sin que ello implique su participación en las deliberaciones del Órgano, exclusivamente para hacer uso de la palabra con el propósito de aclarar aspectos técnicos relacionados con los informes previo y anual de resultados de su gestión. Su intervención no excederá el tiempo establecido a los oradores para su primera ronda, sin perjuicio de que el Consejo pueda, en votación económica, prorrogar dicha intervención hasta agotar definitivamente el punto y, de manera extraordinaria, podrá concedérsele el uso de la palabra en una segunda ronda, cuando persistan las dudas o cuestionamientos por parte de cualquiera de los integrantes del Consejo.
+2. En concordancia con el numeral 4, párrafo 2 del presente reglamento, en las sesiones sólo podrán participar y hacer uso de la palabra el Presidente, los Consejeros Electorales, los Consejeros del Poder Legislativo, los Representantes de Partido, en su caso, los Representantes de los Candidatos Independientes y el Secretario.
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+3. El Presidente podrá requerir al Titular del Órgano Interno de Control del Instituto para que acuda ante el Consejo, sin que ello implique su participación en las deliberaciones del Órgano, exclusivamente para hacer uso de la palabra con el propósito de aclarar aspectos técnicos relacionados con los informes previo y anual de resultados de su gestión. Su intervención no excederá el tiempo establecido a los oradores para su primera ronda, sin perjuicio de que el Consejo pueda, en votación económica, prorrogar dicha intervención hasta agotar definitivamente el punto y, de manera extraordinaria, podrá concedérsele el uso de la palabra en una segunda ronda, cuando persistan las dudas o cuestionamientos por parte de cualquiera de los integrantes del Consejo.
 
 4. Los integrantes del Consejo, al hacer uso de la palabra, deberán conducirse en todo momento con respeto y tolerancia hacia los demás integrantes.
 
@@ -459,7 +575,9 @@ Aprobación del orden del día.
 
 2. El Consejo, a solicitud de alguno de sus integrantes, podrá modificar el orden de los asuntos agendados. En tal caso el integrante del Consejo que proponga la modificación deberá especificar puntualmente el nuevo orden en que quedarán listados los asuntos agendados.
 
-3. El Presidente, los Consejeros Electorales, los Consejeros del Poder Legislativo y los Representantes de Partido, podrán solicitar, cuando se ponga a consideración el orden del día que se retire algún punto agendado, siempre y cuando sean ellos quienes hayan solicitado su inclusión; conforme a lo previsto en los párrafos 11, 12 y 13 del artículo 14 del presente Reglamento, para tal efecto deberán exponer las consideraciones de hecho y de derecho que funden y motiven su petición, a fin de que, sin entrar al debate de fondo del asunto, el Consejo resuelva sobre su exclusión. En todos los casos se deberá considerar que no implique el incumplimiento de disposiciones normativas y que por su naturaleza se garantice la adecuada toma de decisiones para su presentación en una sesión posterior en la que inclusive el Proyecto originalmente planteado pueda ser modificado para mejor proveer.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+3. El Presidente, los Consejeros Electorales, los Consejeros del Poder Legislativo, los Representantes de Partido, en su caso, los Representantes de los Candidatos Independientes, podrán solicitar, cuando se ponga a consideración el orden del día que se retire algún punto agendado, siempre y cuando sean ellos quienes hayan solicitado su inclusión; conforme a lo previsto en los párrafos 11, 12 y 13 del artículo 14 del presente Reglamento, para tal efecto deberán exponer las consideraciones de hecho y de derecho que funden y motiven su petición, a fin de que, sin entrar al debate de fondo del asunto, el Consejo resuelva sobre su exclusión. En todos los casos se deberá considerar que no implique el incumplimiento de disposiciones normativas y que por su naturaleza se garantice la adecuada toma de decisiones para su presentación en una sesión posterior en la que inclusive el Proyecto originalmente planteado pueda ser modificado para mejor proveer.
 
 4. Para el caso de Procedimientos Ordinarios Sancionadores, de fiscalización, así como Recursos de Revisión, se estará a lo previsto en las disposiciones legales y reglamentarias establecidas para tal efecto.
 
@@ -534,6 +652,12 @@ Intervención del Secretario en el debate.
 Procedimiento cuando nadie solicite la palabra.
 
 9. Cuando nadie solicite el uso de la palabra, se procederá de inmediato a la votación, en los asuntos que así corresponda o a la simple conclusión del punto, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+Procedimiento para discusión de asuntos agrupados
+
+10. Para el caso de asuntos del orden del día que se encuentren agrupados en un solo punto, el Consejo, a solicitud de alguno de sus integrantes, podrá acordar mediante votación económica, abrir una ronda de discusión para exponer planteamientos en lo general, cuyas intervenciones no podrán exceder de ocho minutos. En caso de no existir acuerdo se seguirán las reglas generales para la discusión de los asuntos.
 
 ###### Artículo 20.
 
@@ -663,7 +787,9 @@ Modificación.
 
 2. Se entiende que un Acuerdo o Resolución es objeto de modificación si durante el desarrollo de la sesión del Consejo, es aprobado con modificaciones específicas y puntuales que claramente se señala su incorporación en el Proyecto original y se dan a conocer en el pleno del Consejo.
 
-3. El Secretario realizará el engrose del Acuerdo o Resolución correspondiente, el cual deberá notificarlo personalmente por conducto de la Dirección del Secretariado, a cada uno de los miembros del Consejo en un plazo que no exceda de tres días siguientes a la fecha en que éste hubiera sido votado, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+3. El Secretario realizará el engrose del Acuerdo o Resolución correspondiente, el cual deberá notificarlo personalmente por conducto de la Dirección del Secretariado, dentro de los plazos establecidos en el numeral 5 del presente artículo, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
 
 4. El Secretario una vez realizada la votación deberá manifestar en forma precisa si los agregados que se aprobaron, en su caso, corresponden a un engrose o se consideran como una simple modificación, según lo previsto en los párrafos primero y segundo de este artículo.
 
@@ -671,7 +797,9 @@ Modificación.
 
 a) Se apegará fielmente al contenido de la versión estenográfica respecto de las propuestas formuladas durante la sesión y, en su caso, a las presentadas por escrito.
 
-b) Se auxiliará del área técnica o ejecutiva generadora del documento, quien contará con cuarenta y ocho horas para su elaboración; y
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+b) Se auxiliará del área técnica o ejecutiva generadora del documento, quien contará con cuarenta y ocho horas para su elaboración, con excepción de los asuntos relacionados en materia de fiscalización, demarcación territorial y pautado, en cuyos casos se contará con un plazo de setenta y dos horas.
 
 c) Realizado lo anterior, el área técnica lo entregará a la Dirección del Secretariado para que por su conducto, dentro de las veinticuatro horas siguientes a la recepción del Acuerdo o Resolución se notifique personalmente a cada uno de los integrantes del Consejo, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
 
@@ -697,9 +825,13 @@ DE LA PUBLICACIÓN Y NOTIFICACIÓN DE LOS ACUERDOS Y RESOLUCIONES.
 
 Publicación y notificación de Acuerdos y Resoluciones.
 
-1. El Consejo ordenará la publicación en el Diario Oficial de la Federación y/o en la Gaceta y Estrados del Instituto, o en su caso, en el periódico oficial de las entidades federativas, de los Acuerdos y Resoluciones de carácter general que por virtud de lo dispuesto en la Ley Electoral deben hacerse públicos, así como aquéllos que determine. Tratándose de Resoluciones derivadas de la revisión de informes en materia de fiscalización, el Consejo podrá aprobar la publicación de una síntesis en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
-2. Para la publicación en el Diario Oficial de la Federación de Acuerdos o Resoluciones aprobados por el Consejo, el Secretario, una vez que cuente con los documentos debidamente firmados, los remitirá a la autoridad correspondiente dentro de los dos días siguientes para su publicación. Por lo que hace a la publicación en la Gaceta del Instituto, la misma deberá realizarse en el número inmediato posterior al de la fecha en que fueron aprobados los Acuerdos o Resoluciones.
+1. El Consejo ordenará la publicación en el Diario Oficial de la Federación y/o en la Gaceta y Estrados del Instituto, o en su caso, en el periódico oficial de las entidades federativas, de los Acuerdos y Resoluciones de carácter general que por virtud de lo dispuesto en la Ley Electoral deben hacerse públicos, así como aquéllos que determine. Tratándose de los Acuerdos a publicar en el Diario Oficial de la Federación que contemplen Anexos, se establecerá la liga electrónica que remita a éstos últimos. En tanto, los Dictámenes y las Resoluciones derivadas de la revisión de informes en materia de fiscalización o aquellos que sean muy extensos, el Consejo podrá aprobar la publicación de una síntesis en el Diario Oficial de la Federación y señalar la liga electrónica de los mismos. Al efecto, se llevará a cabo un registro de fecha y hora exacta de la publicación de los documentos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+2. Para la publicación en el Diario Oficial de la Federación de Acuerdos o Resoluciones aprobados por el Consejo, el Secretario, una vez que cuente con los documentos debidamente firmados, los remitirá a la autoridad correspondiente dentro de los dos días siguientes para su publicación. Por lo que hace a la publicación en la Gaceta del Instituto, en su versión electrónica, deberá hacerse al día siguiente de que se tenga el engrose correspondiente, asimismo la publicación deberá realizarse en el número inmediato posterior al de la fecha en que fueron aprobados los Acuerdos o Resoluciones.
 
 3. El Secretario, por conducto de la Dirección del Secretariado, llevará a cabo las acciones necesarias para la publicación de los Acuerdos y Resoluciones aprobados por el Consejo, en la página electrónica del Instituto dentro de las veinticuatro horas siguientes a que cuente con éstos, a fin de cumplir con lo dispuesto en el Reglamento del Instituto en Materia de Transparencia y Acceso a la Información Pública. Sin que tal publicación haga surtir efectos jurídicos de inicio de vigencia o validez de lo publicado.
 
@@ -723,7 +855,9 @@ Toda persona que sea habilitada para recibir una notificación electrónica debe
 
 9. En el caso de que algún integrante del Consejo requiera que los Acuerdos y Resoluciones aprobados le sean proporcionados a través de medios electrónicos, deberá proporcionar a la Secretaría los datos de la dirección electrónica para su envío; en el entendido de que aquéllos que, por su capacidad, no sean posible remitir por esta vía le serán proporcionados en medio digital.
 
-10. El Secretario, por conducto de la Dirección del Secretariado, remitirá a los integrantes de la Junta General Ejecutiva, así como al Contralor General y a los Titulares de Unidades Técnicas, los Acuerdos y Resoluciones aprobados, a fin de que, en cumplimiento de sus atribuciones, lleven a cabo el cumplimiento de los compromisos establecidos, así como el seguimiento respectivo.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+
+10. El Secretario, por conducto de la Dirección del Secretariado, remitirá a los integrantes de la Junta General Ejecutiva, así como al Titular del Órgano Interno de Control del Instituto y a los Titulares de Unidades Técnicas, los Acuerdos y Resoluciones aprobados, a fin de que, en cumplimiento de sus atribuciones, lleven a cabo el cumplimiento de los compromisos establecidos, así como el seguimiento respectivo.
 
 ### CAPÍTULO IX.
 
@@ -825,14 +959,24 @@ De votar el proyecto tal como ha sido presentado estaremos siendo una autoridad 
 
 La Consejera Electoral, Beatriz Eugenia Galindo Centeno.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 16 DE JULIO DE 2015.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 Segundo.- Las modificaciones al Reglamento de Sesiones del Consejo General del Instituto Nacional Electoral entrarán en vigor al día siguiente de su aprobación por el Consejo General.
 
 Tercero.- Se instruye al Secretario a fin de que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento dado a la Sentencia dictada el 4 de agosto de 2014 en el SUP-RAP- 92/2014 y sus acumulados SUP-RAP-95/2014 y SUP-RAP-96/2014, en términos de los numerales 1, 2 y 3 de su Apartado D, dentro de las veinticuatro horas siguientes a la aprobación de este Acuerdo.
 
 Cuarto.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
+
+D.O.F. 12 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y EL REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL."]
+
+PRIMERO. A efecto de dar cumplimiento a lo establecido en los artículos 9, párrafo 1, inciso e) y 10, párrafo 1, inciso e), del presente Reglamento, la Unidad Técnica de Servicios de Informática deberá proporcionar una cuenta de correo Institucional a los Consejeros del Poder Legislativo, a los representantes de los Partidos Políticos Nacionales y a los representantes de los Candidatos Independientes. En el caso de estos últimos la vigencia de dicha cuenta, terminará cuando concluya el proceso electoral federal.
+
+SEGUNDO. La Dirección del Secretariado en coordinación con la Unidad Técnica de Servicios de Informática deberá elaborar el listado de correos electrónicos institucionales oficiales para todos los asuntos relacionados con el presente ordenamiento y llevar a cabo su publicación en el Portal de Colaboración.
+
+TERCERO. Para efectos de la notificación electrónica, el Consejo General deberá emitir los lineamientos respectivos.
