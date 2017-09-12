@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2017-07-21"
+last_updated: "2017-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE SEPTIEMBRE DE 2017.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -747,7 +747,9 @@ XIII. Las Juntas de Conciliación y Arbitraje del Estado, deberán publicar:
 
 XIV. Un mapa carretero y de caminos ejidales del Estado.
 
-XIV (SIC). La densidad poblacional por municipio.
+> <small>(F. DE E., P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+
+XV. La densidad poblacional por municipio.
 
 ###### Artículo 26.
 
