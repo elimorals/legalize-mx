@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2017-08-09"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -689,7 +689,9 @@ a) Rendir a la población, por conducto del Presidente Municipal, el informe anu
 
 b) Rendir a los Poderes del Estado los informes que les soliciten sobre cualquier asunto de su competencia;
 
-c) Nombrar a los titulares de la Secretaría de Gobierno Municipal, Tesorería y direcciones de todas las dependencias de la administración pública centralizada y descentralizada del Municipio, de la terna propuesta por el Presidente Municipal, y removerlos por causa justificada, así como designar y remover al titular de la Contraloría Municipal y de la Unidad de Transparencia en los términos de la presente ley. En la integración de las ternas se procurará la equidad de género;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+c). Nombrar a los titulares de la Secretaría de Gobierno Municipal, Tesorería y direcciones de todas las dependencias de la administración pública centralizada y descentralizada del Municipio, los cuales podrán permanecer en su encargo hasta por el periodo de duración de la administración pública que los nombró o bien, podrán ser nombrados por un plazo menor, de la terna propuesta por el Presidente Municipal, y removerlos por causa justificada, así como designar y remover al titular de la Contraloría Municipal y de la Unidad de Transparencia en los términos de la presente ley. En la integración de las ternas se procurará la equidad de género;
 
 d) Nombrar representantes y apoderados generales o especiales sin perjuicio de las facultades que esta ley confiere a la Síndica o Síndico Municipal;
 
@@ -873,7 +875,7 @@ XX. Participar, con la Federación, el Estado u otros municipios en la formulaci
 
 XXI. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquéllos afecten su ámbito territorial;
 
-XXII. Impulsar la coordinación de acciones a fin de consolidar los programas estatal (sic) y municipales de cultura física, con el fin de erradicar la violencia, siempre con perspectiva de género; y
+XXII. Impulsar la coordinación de acciones a fin de consolidar los programas estatal y municipales de cultura física, con el fin de erradicar la violencia, siempre con perspectiva de género; y
 
 XXIII. Fomentar, con el concurso de los demás órdenes de gobierno, las actividades agropecuarias, industriales, mineras y de servicios que propicien el desarrollo económico.
 
@@ -1621,6 +1623,26 @@ Cuando por cualquier causa se presente la ausencia o remoción del titular de la
 
 El Contralor no podrá ser designado para dos períodos consecutivos.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Artículo 104 BIS. La Contraloría Municipal, para efecto de cumplir con sus atribuciones, contará por lo menos con las siguientes áreas:
+
+I. Auditoría;
+
+II. Quejas y Denuncias;
+
+III. Control de Obra Pública, y
+
+IV. Responsabilidades.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Artículo 104 TER. Además de los previstos en el artículo 99 de esta Ley, para ser Contralor Municipal se requiere:
+
+I. No haber sido dirigente de partido político ni candidato durante la elección del Ayuntamiento en funciones; y
+
+II. No haber sido integrante del Ayuntamiento saliente.
+
 Facultades de la Contraloría Municipal
 
 ###### Artículo 105.
@@ -1754,6 +1776,10 @@ II. Aplicar los instrumentos de política ambiental previstos en las disposicion
 III. Intervenir, en el ámbito de su competencia, en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles, con la participación que de acuerdo a la legislación corresponda al Estado;
 
 IV. Participar, en el ámbito de su competencia, en materia de prevención y control de los efectos sobre medio ambiente ocasionados por la generación, transporte, almacenamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos, de acuerdo con la legislación en la materia;
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Coordinarse con la Secretaría del Agua y Medio Ambiente del Gobierno del Estado, a fin de impulsar los programas y políticas públicas respecto a la prestación del servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos; además, deberá rendir al Ayuntamiento, cada seis meses, un informe respecto de los resultados en materia de recolección de residuos sólidos, el cual podrá remitirse a la Secretaría del Agua y Medio Ambiente si así lo determina el Ayuntamiento.
 
 V. Intervenir en la creación y administración de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en la legislación aplicable;
 
@@ -3719,25 +3745,39 @@ Los integrantes del Ayuntamiento, servidores públicos de la administración mun
 
 ### Capítulo III. Recurso Administrativo de Revisión
 
-Recurso de revisión
+> <small>(REFORMADO EN SU PROEMIO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Recurso de Revisión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 251.
 
-En contra de los actos y resoluciones administrativos de las autoridades municipales ordenados o dictados con motivo de la aplicación de la presente ley y de las disposiciones jurídicas que de ella emanen, procede el recurso de revisión.
+En contra de los actos y resoluciones administrativos que emitan las autoridades municipales con motivo de la aplicación de la presente ley y de las disposiciones jurídicas que de ella emanen, procede el recurso administrativo de revisión.
 
 La interposición del recurso de revisión será optativa para el interesado, antes de acudir ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
 
 Objeto del recurso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 252.
 
-El recurso de revisión tiene por objeto la revocación, modificación o confirmación de la resolución recurrida, por inexacta aplicación de la ley o por haberse tomado en cuenta un acto que conforme a la ley es nulo. En este caso se dispondrá la reposición del procedimiento a partir del último acto válido.
+El recurso administrativo de revisión tiene por objeto la revocación, modificación o confirmación del acto o resolución impugnados, por la inexacta aplicación de la presente ley, o por haberse llevado a cabo un acto que conforme a la legislación esté afectado de nulidad.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+En caso de resultar procedente el recurso administrativo de revisión, se dispondrá la reposición del procedimiento a partir del último acto válido.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 Remisión del recurso
 
 ###### Artículo 253.
 
-La autoridad que emitió el acto o la resolución recurridos dará entrada al recurso y lo remitirá al Secretario de Gobierno Municipal dentro de los tres días siguientes al de su presentación, para su trámite correspondiente.
+La autoridad que emitió el acto o la resolución impugnada recibirá el recurso de revisión y lo remitirá al Secretario de Gobierno Municipal dentro de los tres días siguientes al de su presentación, para su trámite correspondiente.
+
+> <small>[N. DE E. DEL ANÁLISIS DEL DECRETO DE REFORMAS 179, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2017, SE ADVIERTE QUE EL CONTENIDO DE LA PARTE FINAL DE ESTE PÁRRAFO, ES SIMILAR AL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO.]</small>
 
 Término de impugnación
 
@@ -3745,31 +3785,55 @@ Término de impugnación
 
 El interesado dispondrá de quince días para impugnar el acto o la resolución que le causa agravio. Promoverá el recurso ante la autoridad emisora de ésta, mediante escrito en el que expresará:
 
-I. El nombre del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que se señale para oír y recibir notificaciones;
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. El acto que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
+El recurso de revisión se presentará ante la autoridad emisora del acto o resolución, mediante escrito en el que se expresará:
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+I. El nombre del recurrente así como el lugar que se señale para oír y recibir notificaciones y, en su caso, el nombre del tercero perjudicado;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. El acto o resolución que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
 
 III. Los agravios que la resolución le causa;
 
-IV. En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o documento sobre el cual no hubiere recaído resolución; y
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Las pruebas que ofrezca, mismas que deberán tener relación directa con la resolución o acto impugnado, debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro o de personas morales.
+IV. La pretensión que se deduzca;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+V. En su caso, copia de la resolución o acto impugnado y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de inicio del procedimiento, o documento sobre el cual no hubiere recaído resolución; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Las pruebas que ofrezca, mismas que deberán tener relación directa con la resolución o acto impugnado, debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad jurídica cuando actúen en nombre y representación de otro o de personas morales.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 Audiencia de pruebas y alegatos
 
 ###### Artículo 255.
 
-Recibido el expediente, el Secretario de Gobierno Municipal citará dentro del plazo de cinco días, al recurrente y a la autoridad, a una audiencia en la que se ofrecerán y desahogarán las pruebas supervenientes, y se escuchará a las partes expresar lo que a su derecho convenga; calificará las pruebas y podrá ordenar la práctica de diligencias para mejor proveer, dentro del plazo de cinco días.
+Recibido el expediente, el Secretario de Gobierno Municipal citará dentro del plazo de cinco días, al recurrente y a la autoridad que emitió el acto o resolución, a una audiencia en la que se desahogarán las probanzas ofrecidas y aquellas que, al momento, resultaren supervenientes, y se escuchará a las partes expresar lo que a su derecho convenga; calificará las pruebas y podrá ordenar la práctica de diligencias para mejor proveer, dentro del plazo de cinco días.
 
-Se les citará y oirá en la audiencia mencionada en el párrafo anterior, a quienes pudieran resultar afectados en su interés jurídico con motivo de la revisión.
+Concluido el plazo anterior, se citará a la audiencia mencionada en el párrafo anterior, a quienes pudieran resultar afectados en su interés jurídico con motivo de la revisión.
 
-Concluida la audiencia, las partes tendrán un plazo de tres días para presentar alegatos. Al vencer dicho plazo, con alegatos o sin ellos, el Secretario de Gobierno Municipal preparará el proyecto de dictamen correspondiente en un término de diez días hábiles y lo presentará al Presidente Municipal para que en sesión de Cabildo se resuelva en definitiva. La resolución se notificará personalmente a la autoridad que la dictó, a las demás autoridades que deban conocerla conforme a sus atribuciones, y a los particulares interesados.
+Concluida la audiencia, las partes tendrán un plazo de tres días para presentar alegatos. Al vencer dicho plazo, con alegatos o sin ellos, el Secretario de Gobierno Municipal preparará el proyecto de resolución correspondiente en un término de diez días hábiles y lo presentará al Presidente Municipal para que en sesión de Cabildo se resuelva en definitiva.
 
-Suspensión de ejecución del acto impugnado
+La resolución se notificará personalmente al promovente, por oficio al titular de la autoridad que la dictó y por lista publicada en estrados a las demás autoridades que deban conocerla conforme a sus atribuciones, y a los terceros interesados.
+
+> <small>(REFORMADO EN SU PROEMIO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Suspensión y ejecución del acto impugnado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 256.
 
-La interposición del recurso suspenderá la ejecución del acto o resolución impugnado, siempre y cuando:
+La interposición del recurso administrativo de revisión suspenderá la ejecución del acto o resolución impugnados, siempre y cuando:
 
 I. Lo solicite expresamente el recurrente;
 
@@ -3779,45 +3843,69 @@ III. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen �
 
 IV. Tratándose de multas, el recurrente garantice el crédito fiscal en cualquiera de las formas previstas en el Código Fiscal Municipal.
 
-La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá por otorgada la suspensión.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+La autoridad deberá acordar, en su caso, la suspensión o denegación del acto o resolución impugnado dentro de los cinco días siguientes a la interposición del recurso, en cuyo defecto se entenderá por otorgada la suspensión.
 
 Desechamiento del recurso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 257.
 
-El recurso se tendrá por no interpuesto y se desechará cuando:
+El recurso de revisión será desechado cuando:
 
-I. Se presente fuera de plazo;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. No se haya acompañado la documentación que acredite la personalidad del recurrente; y
+I. Sea notoriamente extemporáneo;
 
-III. No aparezca suscrito por quien deba hacerlo, a menos que se firme antes del vencimiento del plazo para interponerlo.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Se tenga por no acreditada la personalidad e interés jurídico del recurrente; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Carezca de firma autógrafa del promovente, a menos que se firme antes del vencimiento del plazo para interponerlo.
 
 Improcedencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 258.
 
-Se desechará por improcedente el recurso:
+Es improcedente el recurso de revisión:
 
-I. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Contra actos que no afecten los intereses jurídicos del promovente;
+I. Contra actos o resoluciones que sean materia de otro recurso que se encuentren pendientes de resolución, que hayan sido promovidos por el mismo recurrente y versen sobre el mismo acto impugnado;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Contra actos o resoluciones que no afecten el interés jurídico del promovente;
 
 III. Contra actos consumados de un modo irreparable;
 
 IV. Contra actos consentidos expresamente; y
 
-V. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+V. Cuando se esté tramitando ante los tribunales algún medio de defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o declarar la nulidad el (sic) acto o resolución.
 
 Sobreseimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 259.
 
-Será sobreseído el recurso cuando:
+Procede el Sobreseimiento del recurso de revisión cuando:
 
-I. El promovente se desista expresamente del recurso;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. El agraviado fallezca durante el procedimiento, si el acto sólo afecta su persona;
+I. El promovente se desista expresamente;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Por fallecimiento del promovente durante el procedimiento, si el acto respectivo sólo afecta su persona;
 
 III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
@@ -3829,23 +3917,33 @@ VI. No se probare la existencia del acto.
 
 Sentido de la resolución
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 260.
 
-La autoridad encargada de resolver el recurso podrá:
+La autoridad encargada emitirá su resolución en el sentido de:
 
 I. Desecharlo por improcedente o sobreseerlo;
 
-II. Confirmar el acto impugnado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. Declarar la inexistencia, nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente; y
+II. Confirmar el acto o resolución impugnado;
 
-IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Declarar la nulidad del acto o resolución impugnado revocándolos total o parcialmente; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Modificar u ordenar el acto o resolución impugnado dictando uno nuevo cuando el recurso sea total o parcialmente resuelto a favor del recurrente.
 
 Contenido de la resolución
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 261.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, respetando los derechos humanos del debido proceso, teniendo la autoridad la facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto o resolución que hayan sido impugnados bastará con el examen de dicho punto.
 
 La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
 
@@ -3853,17 +3951,21 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 La tramitación de la aclaración no constituirá recurso, ni suspenderá el plazo para la interposición de éste, y tampoco suspenderá la ejecución del acto.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 Juicio de Nulidad
 
 ###### Artículo 262.
 
-Contra las resoluciones de los ayuntamientos recaídas en los recursos de revisión, procederá el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+Contra las resoluciones de los ayuntamientos recaídas al recurso de revisión, procederá el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 Improcedencia del recurso
 
 ###### Artículo 263.
 
-El recurso se desechará por improcedente cuando se haga valer contra actos o resoluciones que hayan sido impugnados ante dicho Tribunal.
+El recurso de revisión se desechará por improcedente cuando se haga valer contra actos o resoluciones que hayan sido impugnados previamente ante dicho Tribunal.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -3924,3 +4026,37 @@ SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Zacate
 TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán emitir en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor de este ordenamiento, los reglamentos y disposiciones referidas en el presente Decreto.
 
 CUARTO. Para efectos de este Decreto, el Ejecutivo del Estado enviará el 8 de septiembre de 2018 el Programa General Prospectivo a la Legislatura del Estado para su aprobación.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 141.- SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 178.- POR EL QUE SE ADICIONA LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. En el Presupuesto de Egresos Municipal que se apruebe por el Ayuntamiento para el ejercicio fiscal que corresponda, deberán preverse los recursos materiales y humanos, con los que contará la Contraloría Municipal para el ejercicio de sus atribuciones, mismos que deberán proponerse directamente en el anteproyecto que para tal efecto formule el Contralor Municipal.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 179.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 180.- SE ADICIONA LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
