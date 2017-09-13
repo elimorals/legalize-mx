@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-76532"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2016-12-20"
+last_updated: "2017-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -41,11 +43,15 @@ LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público y de observancia general en el Estado de México, y se aplicará a los actos, procedimientos y resoluciones de la dependencia de las administraciones públicas estatal y municipal, así como a sus organismos públicos descentralizados.
+Esta Ley es de orden público y de observancia general en el Estado de México, y se aplicará a los actos, procedimientos y resoluciones que emitan las dependencias de las administraciones publicas estatal y municipal, así como a sus organismos públicos descentralizados.
 
-No serán aplicables las disposiciones de esta Ley a las materias fiscal, de responsabilidades de los servidores públicos, de justicia administrativa y laboral, ni al Ministerio Público en ejercicio de sus funciones constitucionales.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+No serán aplicables las disposiciones de esta Ley a las materias fiscal, de responsabilidades de los servidores públicos, de justicia administrativa y laboral ni a la Fiscalía General de Justicia en ejercicio de sus funciones constitucionales.
 
 Su aplicación corresponde al Consejo Estatal de Mejora Regulatoria, a la Comisión Estatal de Mejora Regulatoria y a las Comisiones Municipales de Mejora Regulatoria, en el ámbito de su competencia.
 
@@ -137,7 +143,9 @@ XIV. Registro Estatal: Registro Estatal de Trámites y Servicios;
 
 XV. Registro Municipal: Registro Municipal de Trámites y Servicios que corresponda;
 
-XVI. Secretaría: Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Secretaría: Secretaría de Justicia y Derechos Humanos;
 
 XVII. Servicio: Actividad que realizan las Dependencias en acatamiento de algún ordenamiento jurídico, tendente a satisfacer las necesidades de los ciudadanos, mediante el cumplimento por parte de éstos de los requisitos que el ordenamiento respectivo establece;
 
@@ -191,17 +199,23 @@ III. Revisar permanentemente las disposiciones de carácter general del Estado d
 
 IV. Presentar al Consejo el proyecto de Programa Anual de Mejora Regulatoria Estatal y las propuestas de nuevas disposiciones de carácter general y/o de reforma específica; y los Estudios, para los efectos legales correspondientes;
 
-V. Recibir y dictaminar las propuestas de nuevas disposiciones de carácter general y/o de reforma específica, así como los Estudios que envíen a la Comisión las dependencias estatales, e integrar los expedientes respectivos para su presentación al Consejo;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+V. Recibir y dictaminar las propuestas de nuevas disposiciones de carácter general y/o de reforma específica, así como los Estudios que envíen a la Comisión las dependencias estatales, e integrar los expedientes respectivos;
 
 VI. Emitir, actualizar y publicar los instructivos para la elaboración de los Estudios;
 
 VII. Administrar el Registro Estatal;
 
-VIII. Celebrar convenios interinstitucionales con las Dependencias de la administración pública federal, así como de otras entidades federativas integradas en zonas económicas homogéneas, a efecto de incidir en la agilización de trámites y servicios en materias comunes y/o concurrentes;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Celebrar convenios interinstitucionales con las Dependencias de la administración pública federal, así como de otras entidades federativas, a efecto de incidir en la agilización de trámites y servicios en materias comunes y/o concurrentes;
 
 IX. Proponer al Consejo los mecanismos de medición de avances en materia de Mejora Regulatoria;
 
-X. Proponer al Consejo reformas a los Criterios para la Revisión de las propuestas de Creación de Disposiciones de Carácter General o de su Reforma;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+X. Evaluar las propuestas de nuevas disposiciones de carácter general o de reforma, así como de los Estudios de Impacto Regulatorio que le presenten las dependencias de la administración pública estatal y los ayuntamientos;
 
 XI. Presentar al Consejo los comentarios y opiniones de los particulares, respecto de las propuestas de creación de disposiciones de carácter general o de su reforma, atento a los principios de máxima publicidad y transparencia en el ejercicio de sus funciones;
 
@@ -261,7 +275,9 @@ XII. Signar los convenios de colaboración a que se refiere la fracción VIII de
 
 XIII. Elaborar, impulsar y coordinar programas de asesoría técnica y capacitación en materia de Mejora Regulatoria, dirigidos a las dependencias que lo soliciten;
 
-XIV. Proponer el proyecto del Reglamento Interior a la Comisión Estatal;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Proponer al titular de la Secretaría el proyecto del Reglamento Interior a la Comisión Estatal;
 
 XV. Expedir sus manuales de organización y las disposiciones estratégicas de carácter organizacional y administrativo;
 
@@ -311,9 +327,9 @@ III. La Secretaría del Trabajo;
 
 IV. La Secretaría de Desarrollo Urbano y Metropolitano.
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. La Secretaría de Infraestructura.
+V. La Secretaría de Comunicaciones.
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -323,7 +339,9 @@ VII. La Secretaría de Desarrollo Agropecuario;
 
 VIII. La Secretaría de la Contraloría;
 
-IX. (DEROGADA, G.G. 9 DE NOVIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IX. La Secretaría de Obra Pública.
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -343,13 +361,13 @@ XIV. La Secretaría de Desarrollo Social.
 
 XV. Secretaría de Cultura.
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. La Consejería Jurídica.
+XVI. La Secretaría de Desarrollo Económico.
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. La Comisión Estatal de Seguridad Ciudadana.
+XVII. La Secretaría de Seguridad.
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -403,9 +421,13 @@ El Reglamento establecerá los términos en que el Consejo funcionará.
 
 El Consejo tendrá las facultades siguientes:
 
-I. Evaluar el Programa Anual de Mejora Regulatoria Estatal, así como las propuestas de nuevas disposiciones de carácter general o de reforma específica y sus Estudios de Impacto Regulatorio, que le presente la Comisión Estatal;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Emitir opinión respecto a los Programas Anuales de Mejora Regulatoria Municipales, así como de las propuestas de nuevas disposiciones de carácter general o de reforma específica y sus Estudios de Impacto Regulatorio, que le presenten los Ayuntamientos a través de las Comisiones Municipales de Mejora Regulatoria correspondientes;
+l. Evaluar el Programa Anual de Mejora Regulatoria Estatal que le presente la Comisión Estatal;
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Emitir opinión respecto a los Programas Anuales de Mejora Regulatoria Municipales que le presenten los Ayuntamientos a través de las Comisiones Municipales de Mejora Regulatoria correspondientes;
 
 III. Aprobar modificaciones a los lineamientos generales para la elaboración y presentación de los Estudios;
 
@@ -415,9 +437,11 @@ V. Aprobar los convenios de colaboración y coordinación interinstitucional de 
 
 VI. Evaluar la operación del Registro Estatal y sugerir las adecuaciones necesarias para su óptimo funcionamiento;
 
-VII. Someter a consideración del Ejecutivo Estatal el proyecto del Reglamento Interior de la Comisión Estatal que le presente su Director General o sus reformas;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Aprobar, en su caso, reformas a los Criterios para la Revisión de las Propuestas de Creación de Disposiciones de Carácter General o de su Reforma; y
+VII. Someter a consideración del Ejecutivo Estatal, por conducto del titular de la Secretaría, el proyecto del Reglamento Interior de la Comisión Estatal que le presente su Director General o sus reformas;
+
+VIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 IX. Las demás que le otorgue esta ley, así como otras disposiciones legales y reglamentarias.
 
@@ -547,11 +571,11 @@ Los Reglamentos Municipales de Mejora Regulatoria establecerán los términos en
 
 ### CAPÍTULO PRIMERO. De los Enlaces de Mejora Regulatoria en las Dependencias
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-Los titulares de las dependencias estatales y organismos públicos descentralizados designarán a un enlace de Mejora Regulatoria, de conformidad con el Reglamento Municipal correspondiente.
+Los titulares de las dependencias estatales y organismos públicos descentralizados designarán a un enlace de Mejora Regulatoria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -569,9 +593,13 @@ IV. Elaborar y tener actualizado el catálogo de trámites y servicios, así com
 
 V. Elaborar el informe anual del avance programático de Mejora Regulatoria que se hubiere implementado, que deberá incluir una evaluación de los resultados obtenidos, conforme a los mecanismos a que se refiere la fracción V del artículo 15 de la ley, y enviarlo a la Comisión Estatal para los efectos legales correspondientes; y
 
-VI. Las demás que establezca la Ley, su Reglamento, el Reglamento Municipal de Mejora Regulatoria y demás normatividad aplicable.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Aprobados por el Consejo las propuestas de creación de nuevas normas o de reforma específica, los Enlaces de Mejora Regulatoria presentarán al titular de su dependencia, el proyecto de reforma respectivo.
+VI. Las demás que establezca la Ley, su Reglamento y demás normatividad aplicable.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Aprobadas por la Comisión las propuestas de creación de nuevas disposiciones de carácter general o de reforma, los Enlaces de Mejora Regulatoria presentarán al titular de su dependencia, el proyecto de reforma respectivo.
 
 ### CAPÍTULO SEGUNDO. De los Programas de Mejora Regulatoria
 
@@ -617,15 +645,19 @@ Los enlaces de los Comités Internos de las dependencias municipales remitirán 
 
 ### CAPÍTULO TERCERO. Del Estudio de Impacto Regulatorio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Las dependencias estatales y municipales, al elaborar las propuestas de nuevas disposiciones de carácter general o de reforma específica, deberán elaborar también un Estudio de Impacto Regulatorio, de acuerdo con los lineamientos generales que para tal fin apruebe el Consejo.
+Las dependencias estatales y municipales, al elaborar las propuestas de nuevas disposiciones de carácter general o de reforma, deberán elaborar también un Estudio de Impacto Regulatorio, de acuerdo con los lineamientos generales que para tal fin apruebe el Consejo.
 
 Los Estudios tendrán como objetivo fundamental evitar la duplicidad y la discrecionalidad en el establecimiento de trámites y requisitos, disminuir plazos y costos, así como reducir y evitar deficiencias en la práctica regulatoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-Los lineamientos generales que emita el Consejo deberán incluir los siguientes rubros:
+El Estudio de Impacto Regulatorio deberá incluir los siguientes rubros:
 
 I. Exposición sucinta de las razones que generan la necesidad de crear disposiciones de carácter general o bien de reformarlas;
 
@@ -643,17 +675,19 @@ VII. Identificación y descripción de los trámites eliminados, reformados y/o 
 
 VIII. Recursos para asegurar el cumplimiento de la regulación; y
 
-IX. Los demás que se considere (sic) pertinentes el Consejo.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Los demás que apruebe el Consejo.
 
 La Comisión Estatal emitirá los instructivos para la elaboración de los Estudios.
 
 Cuando se trate de disposiciones de carácter general cuya naturaleza demande su reforma periódica, los Estudios respectivos sólo tendrán que actualizarse, tomando como referencia el primero de ellos. Lo anterior, siempre y cuando la reforma propuesta no incluya obligaciones y/o trámites adicionales a los ya existentes.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 29.
 
-Las dependencias estatales, municipales y los organismos públicos descentralizados presentarán los estudios a la comisión respectiva como parte de las propuestas de creación de disposiciones de carácter general o de reforma específica, para los efectos previstos en la Ley y su Reglamento, la Comisión presentará al Consejo el dictamen emitido en la sesión que corresponda para su aprobación.
+Las dependencias estatales, municipales y los organismos públicos descentralizados presentarán los estudios a que hace referencia el artículo anterior, a la comisión respectiva, como parte de las propuestas de creación de disposiciones de carácter general o de reforma, para los efectos previstos en la Ley y su Reglamento.
 
 ###### Artículo 30.
 
@@ -661,9 +695,11 @@ La Comisión Estatal y la Comisión Municipal respectiva, dentro de los quince d
 
 Las dependencias, estatal y municipales, podrán devolver la propuesta observada a su respectiva Comisión dentro de los cinco días siguientes; si no lo hace, la Comisión pertinente la enviará en sus términos al Consejo Estatal, para los efectos señalados en esta Ley.
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 31.
 
-El Reglamento Municipal respectivo determinará el procedimiento a seguir en cuanto a la presentación de las propuestas de creación de disposiciones de carácter general o de reforma específica que hagan las dependencias municipales, incluyendo estudios de impacto regulatorio conforme a lo dispuesto en (sic) presente capítulo.
+El Reglamento Municipal respectivo determinará el procedimiento a seguir en cuanto a la presentación de las propuestas de creación de disposiciones de carácter general o de reforma que hagan las dependencias municipales, incluyendo estudios de impacto regulatorio conforme a lo dispuesto en (sic) presente capítulo.
 
 ### CAPÍTULO CUARTO. Del Acceso a la Información Pública y la Participación Ciudadana
 
@@ -673,7 +709,9 @@ La Comisión Estatal, y las Municipales en su caso, harán públicos, en su port
 
 I. Los Programas Anuales de Mejora Regulatoria;
 
-II. Las propuestas de creación de disposiciones de carácter general o de reforma específica;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Las propuestas de creación de disposiciones de carácter general o de reforma;
 
 III. Los Estudios; y
 
@@ -1046,3 +1084,75 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de (sic) Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
