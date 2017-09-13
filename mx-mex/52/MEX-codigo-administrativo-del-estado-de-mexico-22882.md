@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-09-08"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -289,11 +291,11 @@ La tramitación de esta declaratoria de extinción de los efectos del acto admin
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 1.
 
-17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Consejería Jurídica, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, incluidos los proyectos de vivienda, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica o inversión.
+17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Secretaría de Desarrollo Urbano, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -301,9 +303,13 @@ La tramitación de esta declaratoria de extinción de los efectos del acto admin
 
 18.- La Comisión Estatal de Factibilidad se integrará por:
 
-I. Un Presidente, que será la o el Titular de la Consejería Jurídica del Ejecutivo Estatal.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Un Secretario Técnico, que será la o el Director General del Instituto de la Función Registral del Estado de México.
+I. Un Presidente, que será la o el Titular de la Secretaría de Desarrollo Urbano.
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Un Secretario Técnico, que será designado por el Secretario de Desarrollo Urbano.
 
 III. Seis Vocales, que serán:
 
@@ -673,7 +679,9 @@ En los casos en los que participe un Testigo Social se informará sobre su parti
 
 I. Las Secretarías y Unidades Administrativas del Poder Ejecutivo del Estado;
 
-II. La Procuraduría General de Justicia del Estado de México;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. La Fiscalía General de Justicia del Estado de México;
 
 III. Los Ayuntamientos;
 
@@ -1367,7 +1375,9 @@ XII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 80.- La dirección y administración del Consejo Estatal de Población estará a cargo de la Asamblea General y la Secretaría Técnica.
 
-El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con dieciocho vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Procurador General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con dieciocho vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Fiscal General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
 
 El presidente y los vocales podrán ser suplidos por su inmediato inferior, en términos de sus respectivos reglamentos interiores.
 
@@ -2229,7 +2239,9 @@ II. La Secretaría de Salud;
 
 III. La Secretaría de Educación;
 
-IV. La Procuraduría General de Justicia del Estado de México;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IV. La Fiscalía General de Justicia del Estado de México;
 
 V. El Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
@@ -2319,19 +2331,29 @@ VII. Formar a los alumnos e informar a los padres de familia para que desde el s
 
 VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense contra las Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-41.- Para los efectos del presente capítulo, son atribuciones de la Procuraduría General de Justicia del Estado de México:
+41.- Para los efectos del presente capítulo, son atribuciones de la Fiscalía General de Justicia del Estado de México:
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 I. Participar en las acciones de prevención y atención de las adicciones y colaborar en el ámbito de su competencia;
 
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 II. Colaborar con las instituciones públicas, en las acciones de prevención y atención de las adicciones que realicen de conformidad al objeto del presente capítulo;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 III. Considerar en los programas de prevención del delito, acciones en materia de prevención y atención de las adicciones;
 
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 IV. Informar en su caso, a los sujetos del delito con problemas de fármacodependencia, sobre las instituciones que prestan atención en materia de adicciones para su tratamiento; y
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 V. Las demás que en el ámbito de su competencia dispongan las disposiciones legales.
 
@@ -2433,7 +2455,9 @@ I. Realizar acciones que tiendan a la prevención del consumo de sustancias psic
 
 II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las instituciones de seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
 
-III. Denunciar ante las Procuradurías General de la República y General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Denunciar ante la Procuraduría General de la República y la Fiscalía General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
 
 IV. Establecer programas preventivos de control del uso y abuso de sustancias psicoactivas, en la esfera de sus atribuciones, con elementos médico-científicos;
 
@@ -3225,7 +3249,7 @@ VI. Reincidencia por tercera ocasión.
 
 VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-(REUBICADO [N. DE E. Y REFORMADA ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -3365,7 +3389,9 @@ III. Establecer un sistema para garantizar la alfabetización de la población m
 
 IV. Promover la educación especial para que las personas con discapacidad alcancen un mayor desarrollo de la personalidad y se favorezca su integración social;
 
-V. Establecer las bases conforme a las cuales la Secretaría, en coordinación con la autoridad educativa federal y la Secretaría General de Gobierno, se presten servicios educativos a las personas internas en los centros de prevención y readaptación social del Estado, para dar cumplimiento a lo dispuesto por la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+V. Establecer las bases conforme a las cuales la Secretaría, en coordinación con la autoridad educativa federal y la Secretaría de Seguridad, se presten servicios educativos a las personas internas en los centros de prevención y readaptación social del Estado, para dar cumplimiento a lo dispuesto por la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad;
 
 VI. Desarrollar innovaciones educativas para mejorar la calidad de la educación;
 
@@ -3771,9 +3797,9 @@ XIV. Las demás que se establezcan en otros ordenamientos.
 
 47.- La dirección y administración del Consejo está a cargo de una junta directiva y un director general.
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con trece vocales, que son los representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano y Metropolitano, de Desarrollo Agropecuario, de Desarrollo Económico, del Medio Ambiente, de infraestructura y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
+La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con trece vocales, que son los representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano y Metropolitano, de Desarrollo Agropecuario, de Desarrollo Económico, del Medio Ambiente, de Obra Pública y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
 
 El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
 
@@ -6817,9 +6843,9 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 31.- La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
 
-(REFORMADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-El Registro será público, deberá estar disponible en el portal informativo que para tal efecto se establezca dentro del sitio web de la Comisión Estatal de Seguridad Ciudadana, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
+El Registro será público, deberá estar disponible en el portal informativo que para tal efecto establezca la Secretaría General de Gobierno, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6907,7 +6933,9 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 I. De mil a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
-a) No cuente con registro de la Secretaría de Seguridad Ciudadana, estando obligado a obtenerlo;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+a) No cuente con registro de la Secretaría de Seguridad, estando obligado a obtenerlo;
 
 b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
 
@@ -7497,7 +7525,9 @@ III. Arrastre: El conjunto de operaciones necesarias para trasladar de un lugar 
 
 IV. Concesionario: Persona física jurídico colectiva que proporciona legalmente la prestación del servicio de transporte público de arrastre y de almacenamiento de un vehículo mediante concesión;
 
-V. Fiscalía Regional; Unidad administrativa de la Procuraduría General de Justicia del Estado de México, encargada de la operación de los depósitos vehiculares cuyo funcionamiento se vincule con la recuperación de vehículos relacionados con la comisión de delitos;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+V. Fiscalía Regional: Unidad administrativa de la Fiscalía General de Justicia del Estado de México, encargada de la operación de los depósitos vehiculares cuyo funcionamiento se vincule con la recuperación de vehículos relacionados con la comisión de delitos;
 
 VI. Grúa: Unidad de tracción utilizada para el arrastre de vehículos, que cumple con el equipo mecánico establecido por el presente Libro;
 
@@ -7985,7 +8015,7 @@ En los lugares, en los que no se cuente con establecimientos autorizados para pr
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
 
@@ -8393,9 +8423,9 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 ###### Artículo 8.
 
-3.- Son autoridades para la aplicación de este Libro la Comisión Estatal de Seguridad Ciudadana y los municipios.
+3.- Son autoridades para la aplicación de este Libro la Secretaría de Seguridad y los municipios.
 
-Corresponde a la Comisión Estatal de Seguridad Ciudadana ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y de cuota, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
+Corresponde a la Secretaría de Seguridad ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y de cuota, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
 ## TITULO SEGUNDO. Del tránsito
 
@@ -8443,11 +8473,11 @@ IV. Las tarifas autorizadas por la autoridad competente, que por concepto de tra
 
 9.- Los lugares para el estacionamiento de vehículos en las vías locales serán fijados por las autoridades de tránsito municipal, cuidando en todo momento que no se interrumpa el flujo vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-10.- Son facultades de la Comisión Estatal de Seguridad Ciudadana y de los municipios:
+10.- Son facultades de la Secretaría de Seguridad y de los municipios:
 
 I. Promover la aplicación de programas de educación vial para peatones, conductores y pasajeros;
 
@@ -8639,11 +8669,11 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 17 Bis.- Se prohíbe el abandono de vehículos en la infraestructura vial y en estacionamientos de servicio al público.
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-17 Ter.- Corresponde a la Comisión Estatal de Seguridad Ciudadana el retiro de los vehículos que se encuentren abandonados en la infraestructura vial y en estacionamientos de servicio al público, debiendo remitirlos al depósito vehicular más cercano.
+17 Ter.- Corresponde a la Secretaría de Seguridad el retiro de los vehículos que se encuentren abandonados en la infraestructura vial y en estacionamientos de servicio al público, debiendo remitirlos al depósito vehicular más cercano.
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -8663,23 +8693,23 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 17 Sexies.- Es obligación de los permisionarios informar al propietario, poseedor o conductor que ingrese su vehículo al estacionamiento de servicio al público a través del comprobante de ingreso lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-17 Septies.- El permisionario estará obligado a consultar al menos los sistemas de vehículos robados REPUVE, Sistema Estatal y OCRA virtual en caso de vehículos que hayan permanecido por más de tres días sin que su propietario, poseedor o conductor se haya presentado a retirarlo, si de la consulta se advierte que el vehículo tiene reporte de robo, deberá comunicarlo de inmediato a la Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos de la Procuraduría General de Justicia del Estado de México.
+17 Septies.- El permisionario estará obligado a consultar al menos los sistemas de vehículos robados REPUVE, Sistema Estatal y OCRA virtual en caso de vehículos que hayan permanecido por más de tres días sin que su propietario, poseedor o conductor se haya presentado a retirarlo, si de la consulta se advierte que el vehículo tiene reporte de robo, deberá comunicarlo de inmediato a la Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos de la Fiscalía General de Justicia del Estado de México.
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
-
-###### Artículo 8.
-
-17 Octies.- Transcurrido el plazo establecido los permisionarios informarán a la Comisión Estatal de Seguridad Ciudadana cuando algún vehículo haya sido abandonado en el estacionamiento de servicio al público.
-
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-17 Nonies. La Comisión Estatal de Seguridad Ciudadana antes de retirar el vehículo abandonado para remitirlo al depósito vehicular más cercano verificará si cuenta con reporte de robo para, en su caso, ponerlo a disposición de la Fiscalía Especializada.
+17 Octies.- Transcurrido el plazo establecido los permisionarios informarán a la Secretaría de Seguridad cuando algún vehículo haya sido abandonado en el estacionamiento de servicio al público.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 8.
+
+17 Nonies.- La Secretaría de Seguridad antes de retirar el vehículo abandonado para remitirlo al depósito vehicular más cercano verificará si cuenta con reporte de robo para, en su caso, ponerlo a disposición de la Fiscalía Especializada.
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -8755,9 +8785,9 @@ d) Cuando lo establezcan las disposiciones reglamentarias, por lo que respecta a
 
 III. Detener la marcha de cualquier vehículo cuando el conductor esté cometiendo alguna infracción a las disposiciones en materia de tránsito, procediendo a entregar el documento que emita el Sistema Tecnológico a que se refieren los reglamentos respectivos.
 
-> <small>(REFORMADA, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Imponer la infracción correspondiente que deberá registrarse en la base de datos única, a cargo de la Comisión Estatal de Seguridad Ciudadana.
+IV. Imponer la infracción correspondiente que deberá registrarse en la base de datos única, a cargo de la Secretaría de Seguridad.
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
@@ -8803,13 +8833,13 @@ Para el caso de que el conductor vaya acompañado de algún familiar o persona s
 
 19 Quáter.- Se prohíbe el abandono de vehículos, tráileres, autobuses y cualquier tipo de remolques en la infraestructura vial.
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Corresponde a la Comisión Estatal de Seguridad Ciudadana o, en su caso, con la colaboración de los municipios, el retiro de los vehículos, tráileres, autobuses y cualquier tipo de remolques que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano concesionado por la Secretaría de Movilidad. Entendiéndose por esto a los vehículos, tráileres, autobuses y cualquier tipo de remolques que por sus características o condiciones físicas en las que se encuentren han permanecido en ese lugar por más de treinta días naturales
+Corresponde a la Secretaría de Seguridad o, en su caso, con la colaboración de los municipios, el retiro de los vehículos, tráileres, autobuses y cualquier tipo de remolques que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano concesionado por la Secretaría de Movilidad. Entendiéndose por esto a los vehículos, tráileres, autobuses y cualquier tipo de remolques que por sus características o condiciones físicas en las que se encuentren han permanecido en ese lugar por más de treinta días naturales.
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Para efectos de lo anterior, la Comisión Estatal de Seguridad Ciudadana deberá cerciorarse que los vehículos, tráileres, autobuses y cualquier tipo de remolques, que se encuentren abandonados, no presenten reporte de robo.
+Para efectos de lo anterior, la Secretaría de Seguridad deberá cerciorarse que los vehículos, tráileres, autobuses y cualquier tipo de remolques, que se encuentren abandonados, no presenten reporte de robo.
 
 Los automotores y remolques que no tengan reporte de robo, que hayan sido remitidos al depósito vehicular con reporte de abandono y actualizados los supuestos correspondientes a que hace referencia el Libro Séptimo del Código Administrativo del Estado de México, serán sujetos del procedimiento de "la declaratoria de abandono y el procedimiento de enajenación".
 
@@ -8879,11 +8909,11 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos, tráileres, autobuses y cualquier tipo de remolques, que hayan sido abandonados y remitidos al depósito vehicular correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-23. Las sanciones impuestas por la Comisión Estatal de Seguridad Ciudadana serán las siguientes:
+23.- Las sanciones impuestas por la Secretaría de Seguridad serán las siguientes:
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -8893,11 +8923,11 @@ I. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci�
 
 II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.17 Bis.
 
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-24. En contra de las resoluciones que emitan la Comisión Estatal de Seguridad Ciudadana y los municipios procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+24.- En contra de las resoluciones que emitan la Secretaría de Seguridad y los municipios procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
 
 ###### Artículo 8.
 
@@ -9749,7 +9779,9 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 I. Las secretarías y unidades administrativas del Poder Ejecutivo del Estado;
 
-II. La Procuraduría General de Justicia;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. La Fiscalía General de Justicia;
 
 III. Los ayuntamientos de los municipios del Estado;
 
@@ -9785,9 +9817,9 @@ III. Secretaría, a la Secretaría de Finanzas.
 
 IV. Contraloría, a la Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades estatales y de los municipios;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Secretaría del Ramo, a la Secretaría de Infraestructura;
+V. Secretaría del Ramo, a la Secretaría de Obra Pública;
 
 VI. Licitante, a la persona que participe en un procedimiento de licitación de obra pública o de servicios relacionados con la misma;
 
@@ -11779,9 +11811,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -12175,7 +12207,9 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 I. Las dependencias y organismos auxiliares de la administración pública;
 
-II. La Procuraduría General de Justicia; y
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. La Fiscalía General de Justicia, y
 
 III. Los ayuntamientos de los municipios del Estado, organismos auxiliares y fideicomisos públicos de los municipios, cuando los pagos a realizarse sean con cargo total o parcial a fondos estatales, conforme a los convenios que celebren con el Estado, en términos del reglamento de este Libro.
 
@@ -13191,15 +13225,15 @@ Los sistemas de transporte de pasajeros de alta capacidad o masivo y teleférico
 
 4.- Para efectos del presente Libro se entenderá por:
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Infraestructura que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
+I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de la Secretaría de Infraestructura emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de Impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto.
+III. Dictamen de Incorporación e Impacto Vial.- A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -13225,9 +13259,9 @@ VI Bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que t
 
 VI Ter. Anunciante.- Persona física o jurídica colectiva que difunda o publicite productos, bienes, servicios o actividades, haciendo uso de cualquier elemento que corresponda a la publicidad exterior que se encuentre instalada dentro del derecho de vía;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Secretaría.- A la Secretaría de Infraestructura;
+VII. Secretaría.- A la Secretaría de Comunicaciones;
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -13243,9 +13277,9 @@ VIII Bis. Transporte Teleférico.- El que se presta a través de un sistema elev
 
 VIII Ter. Zona de Influencia.- Es la extensión, que en relación al teleférico, se determinará en cada caso, atendiendo a la topografía y a la naturaleza geológica del terreno, a las peculiares instalaciones del teleférico y a las características de utilización pública o privada de la zona afectada; y
 
-> <small>(REFORMADA, G.G. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Zona de Seguridad.- Franja de terreno adyacente al derecho de vía, de anchura hasta de cien metros, en términos de las normas técnicas que emita la Secretaría de Infraestructura, cuya preservación y restricción de uso son indispensables para evitar riesgos a los usuarios de la infraestructura vial primaria.
+IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Comunicaciones, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13259,9 +13293,9 @@ IX. Zona de Seguridad.- Franja de terreno adyacente al derecho de vía, de anchu
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. El Secretario de Infraestructura.
+II. El Secretario de Comunicaciones.
 
 III. La Junta de Caminos del Estado de México;
 
@@ -13677,11 +13711,11 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 En el caso de la Propuesta no Solicitada, los requisitos y los procedimientos para su otorgamiento, se establecerán en el presente código y en el reglamento correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Infraestructura podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
+40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Comunicaciones podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14215,11 +14249,11 @@ XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Progr
 
 La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con siete vocales, que son: El Secretario de Infraestructura quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano y Metropolitano, del Medio Ambiente y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con siete vocales, que son: El Secretario de Comunicaciones quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano y Metropolitano, de Obra Pública, del Medio Ambiente y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14319,11 +14353,11 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: el Secretario de Infraestructura quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, del Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
+73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, de Obra Pública, del Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14373,9 +14407,9 @@ I. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, 
 
 II. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, explotación, mantenimiento, rehabilitación y conservación de infraestructura y operación de transporte de alta capacidad, de estaciones de transferencia modal, así como del sistema de transporte teleférico y las estaciones de origen-destino e intermedias que se requieren para su eficiente funcionamiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. Presentar a consideración del Secretario de Infraestructura, para su autorización y firma, en su caso:
+III. Presentar a consideración del Secretario de Comunicaciones, para su autorización y firma, en su caso:
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14383,9 +14417,9 @@ a) Proyectos para otorgar o ampliar el plazo de las concesiones y contratos para
 
 b) Proyectos sustentados en los que se proponga la terminación anticipada, revocación o rescate de las concesiones o contratos.
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Llevar a cabo, previa autorización del Secretario de Infraestructura, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico:
+IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico:
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14437,11 +14471,11 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el Reglamento Interno expedido por el Consejo Directivo.
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con ocho vocales, que son: el Secretario de Infraestructura, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, de Movilidad y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con ocho vocales, que son: el Secretario de Comunicaciones, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, de Movilidad y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14645,9 +14679,9 @@ III. Construcciones: a toda obra, edificación o instalación de carácter priva
 
 IV. Normas Técnicas: a las Normas Técnicas Complementarias de Construcción, en materia de diseño urbano y arquitectónico, procesos constructivos, estructuras e instalaciones;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Secretaría: A la Secretaría de Infraestructura; y
+V. Secretaría: A la Secretaría de Obra Pública, y
 
 VI. Vía pública: a la infraestructura vial primaria y local definidas en el Libro Séptimo del Código, que tiene por objeto el libre tránsito de personas, bienes y servicios; el alojamiento de redes de infraestructura; así como el dar acceso, iluminación, ventilación y asoleamiento a los inmuebles que la delimitan.
 
@@ -14763,9 +14797,9 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 I. El titular de la Secretaría, quien fungirá como Presidente;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente, de Infraestructura, de Desarrollo Económico, de Desarrollo Urbano y Metropolitano y de Salud;
+II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente, de Obra Pública, de Desarrollo Económico, de Desarrollo Urbano y Metropolitano y de Salud;
 
 III. Las instituciones académicas de educación superior, de ciencia y tecnología, las asociaciones de profesionistas en la materia y las cámaras y asociaciones de industriales y de la construcción, que determine el Presidente del Comité, quienes deberán designar como representantes a especialistas en la materia; y
 
@@ -18632,3 +18666,75 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL NUEVE DE DICIEMBRE DE 2016”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de (sic) Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
