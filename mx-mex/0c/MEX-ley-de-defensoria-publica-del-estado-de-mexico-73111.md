@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2016-12-14"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -51,9 +53,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Consejo Técnico: al Consejo Técnico del Instituto de la Defensoría Pública del Estado de México;
 
-> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-I Bis. Consejero: al Consejero Jurídico;
+I Bis. Secretario: al Secretario de Justicia y Derechos Humanos;
 
 II. Defensor Público: al servidor público que preste el servicio de Defensa Pública, en términos de esta Ley;
 
@@ -75,11 +77,11 @@ IX. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o refer
 
 X. Usuario: al destinatario del servicio público que presta el Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
 
-El Instituto es un órgano desconcentrado de la Consejería Jurídica con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en materia penal, así como patrocinio civil, familiar, mercantil, de amparo y de justicia para adolescentes en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
+El Instituto es un órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en materia penal, así como patrocinio civil, familiar, mercantil, de amparo y de justicia para adolescentes en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
 
 Los servidores públicos del Instituto deberán regirse bajo los siguientes principios:
 
@@ -177,11 +179,11 @@ Los servidores públicos del Instituto no percibirán retribución alguna de los
 
 El Instituto estará integrado por un Director General, las unidades administrativas, la plantilla de defensores públicos, peritos y trabajadores sociales que se requieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
-El Instituto estará a cargo de un Director, nombrado por el Consejero.
+El Instituto estará a cargo de un Director, nombrado por el Secretario.
 
 El Director del Instituto deberá reunir para su designación, los requisitos siguientes:
 
@@ -239,9 +241,9 @@ I. Considerar los acuerdos del Consejo Técnico, dictando las medidas necesarias
 
 II. Autorizar con su firma los actos de autoridad que el Instituto ordene, pudiendo delegar esta facultad en subalternos servidores públicos;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. Designar y remover, previo acuerdo con el Consejero, a los servidores públicos del Instituto y expedir, en su caso, los nombramientos respectivos;
+III. Designar y remover, previo acuerdo con el Secretario, a los servidores públicos del Instituto y expedir, en su caso, los nombramientos respectivos;
 
 IV. Administrar, dirigir, organizar, planear, controlar y evaluar los servicios del Instituto, así como el funcionamiento del mismo;
 
@@ -253,21 +255,21 @@ VII. Determinar la circunscripción y organización de las coordinaciones region
 
 VIII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles y en materia de amparo, así como las excusas de los defensores públicos;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Suscribir, previo acuerdo con el Consejero, los convenios, contratos o acuerdos con dependencias o entidades de la Administración Pública Federal, Estatal, Municipal y con organismos del sector público, privado y social;
+IX. Suscribir, previo acuerdo con el Secretario, los convenios, contratos o acuerdos con dependencias o entidades de la Administración Pública Federal, Estatal, Municipal y con organismos del sector público, privado y social;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-X. Presentar al Consejero, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
+X. Presentar al Secretario, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
 
 XI. Establecer los sistemas necesarios para supervisar, vigilar y controlar a los defensores públicos, peritos y trabajadores sociales, así como conocer de las quejas que se presenten contra éstos, con la finalidad de corroborar que cumplan con las obligaciones establecidas en esta Ley;
 
 XII. Propugnar en todo momento porque los defensores públicos tengan los espacios necesarios en sus adscripciones para el desempeño de sus funciones y donde atiendan con respeto y dignidad a los usuarios;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Proponer al Consejero el otorgamiento de estímulos y recompensas a los servidores públicos del Instituto y la aplicación de sanciones disciplinarias;
+XIII. Proponer al Secretario el otorgamiento de estímulos y recompensas a los servidores públicos del Instituto y la aplicación de sanciones disciplinarias;
 
 XIV. Conceder licencias a los servidores públicos del Instituto para separarse temporalmente de sus funciones, en términos de las disposiciones legales;
 
@@ -277,9 +279,9 @@ XVI. Llevar las estadísticas del Instituto;
 
 XVII. Proveer, en el ámbito administrativo, lo necesario para el mejor desarrollo de las funciones del Instituto;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Las demás que le señalen las disposiciones legales aplicables y el Consejero.
+XVIII. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
 
 ### CAPÍTULO VI. DE LAS CAUSAS DE RETIRO DEL PATROCINIO
 
@@ -570,3 +572,75 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL ''GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
