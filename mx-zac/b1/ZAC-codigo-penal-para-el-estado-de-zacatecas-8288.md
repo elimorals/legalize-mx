@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2017-06-21"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1817,6 +1817,14 @@ Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
 
 Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+233 bis. Al que a través de internet, teléfono móvil o cualquier tecnología de la información y comunicación, contacte a un menor de edad para obtener contenido sexual o pornográfico del menor y amenace con difundirlo por cualquier medio o concertar un encuentro sexual con el mismo, se le impondrá una pena de cinco meses a tres años de prisión y multa de diez a cincuenta cuotas.
+
+Cuando el contacto se haga a través del engaño o la violencia física o moral, o bien, cuando exista una relación de parentesco, trabajo o amistad entre la víctima y el imputado, la pena se aumentará hasta en una mitad más.
+
+Se sancionarán tales conductas con independencia de que pudiere resultar cualquier otro delito.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
 
 ### CAPITULO III. ESTUPRO
@@ -1861,7 +1869,7 @@ III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento 
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-IV. A quien tenga cópula con persona mayor de doce años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos (sic) sesenta y cinco cuotas.
+IV. A quien tenga cópula con persona mayor de doce años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
 
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 
@@ -2435,7 +2443,7 @@ II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o resi
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
-307.- Llámase (sic) infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
+307.- Llámase infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
 
 Al que cometa este delito se le aplicarán de seis a doce años de prisión y multa de cincuenta a cien cuotas.
 
@@ -3642,5 +3650,13 @@ P.O. 21 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 137.- POR EL QUE SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 143.- SE ADICIONA UN ARTÍCULO AL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
