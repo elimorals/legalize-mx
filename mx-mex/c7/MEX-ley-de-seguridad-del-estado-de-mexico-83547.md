@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2017-09-05"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -109,19 +111,23 @@ XIII. Ley: a la Ley de Seguridad del Estado de México;
 
 XIV. Ley General: a la Ley General del Sistema Nacional de Seguridad Pública;
 
-XV. Procurador: al Procurador General de Justicia del Estado de México;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Procuraduría: a la Procuraduría General de Justicia del Estado de México;
+XV. Fiscal: al Fiscal General de Justicia del Estado de México
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Fiscalía: a la Fiscalía General de Justicia del Estado de México;
 
 XVII. Programa Estatal: al Programa Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Comisión: a la Comisión Estatal de Seguridad Ciudadana del Estado de México;
+XVIII. Secretaría: a la Secretaría de Seguridad;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XIX. Comisionado: al Comisionado Estatal de Seguridad Ciudadana del Estado de México;
+XIX. Secretario: al Secretario de Seguridad;
 
 XX. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal;
 
@@ -183,9 +189,9 @@ Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan 
 
 Sólo en caso de no encontrarse regulada la materia o acción en la ley o en los lineamientos generales, las resoluciones o los acuerdos se ejecutarán mediante convenios generales y específicos entre las partes componentes del Sistema Estatal, que no deberán ser contrarios a los fines de éste.
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-La Comisión, el Secretariado Ejecutivo y las instancias municipales podrán celebrar convenios de colaboración y coordinación en los términos de esta Ley, en materia de seguridad pública.
+La Secretaría, el Secretariado Ejecutivo y las instancias municipales podrán celebrar convenios de colaboración y coordinación en los términos de esta Ley, en materia de seguridad pública.
 
 ### CAPÍTULO SEGUNDO. DE LAS INSTALACIONES ESTRATÉGICAS
 
@@ -211,13 +217,15 @@ Son autoridades estatales en materia de seguridad pública:
 
 I. El Gobernador del Estado;
 
-II. El Secretario General de Gobierno;
+II. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. El Comisionado Estatal de Seguridad Ciudadana;
+III. El Secretario de Seguridad;
 
-IV. El Procurador General de Justicia; y
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IV. El Fiscal, y
 
 V. Los integrantes de las Instituciones de Seguridad Pública.
 
@@ -235,9 +243,9 @@ II. Ejercer el mando de las Instituciones Policiales de los Municipios, en casos
 
 III. Representar al Estado, ante el Consejo Nacional;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Nombrar al Comisionado;
+IV. Nombrar al Secretario de Seguridad;
 
 V. Suscribir convenios de asunción de funciones en materia de seguridad pública con los Municipios, cuando éstos así lo requieran;
 
@@ -249,7 +257,9 @@ VIII. Promover la participación de la comunidad, para estimular propuestas de s
 
 IX. Expedir los reglamentos y disposiciones administrativas, relativos a la seguridad pública;
 
-X. Establecer de forma coordinada, por conducto de la Procuraduría y la Secretaría, el Sistema Estatal, a través de los mecanismos que para tal efecto se acuerden;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+X. Establecer de forma coordinada, por conducto de la Fiscalía y la Secretaría, el Sistema Estatal, a través de los mecanismos que para tal efecto se acuerden;
 
 XI. Fortalecer los sistemas de seguridad social de los servidores públicos de las Instituciones de Seguridad Pública estatales, sus familias y dependientes;
 
@@ -265,15 +275,15 @@ XIV. Acordar la integración de las comisiones que considere necesarias en mater
 
 XV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPÍTULO TERCERO. DEL COMISIONADO ESTATAL DE SEGURIDAD CIUDADANA
+### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL SECRETARIO DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-Son atribuciones del Comisionado:
+Son atribuciones del Secretario:
 
 A. En materia de seguridad pública:
 
@@ -287,15 +297,17 @@ IV. Coordinar a las Instituciones Policiales Estatales y a los organismos a que 
 
 V. Impulsar la coordinación de las Instituciones Policiales y proponer, en el ámbito de sus facultades, la adopción y aplicación de políticas y programas de cooperación en materia de seguridad pública, con la Federación, las entidades federativas y los Municipios;
 
-VI. Implementar esquemas de investigación preventiva, a través de protocolos que tendrán que ser elaborados de manera conjunta con el Procurador;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Implementar esquemas de investigación preventiva, a través de protocolos que tendrán que ser elaborados de manera conjunta con el Fiscal;
 
 VII. Someter a consideración del Gobernador del Estado los convenios, programas y acciones estratégicas, tendientes a mejorar y ampliar la prevención del delito;
 
 VIII. Celebrar convenios, acuerdos y demás instrumentos jurídicos relacionados con el ámbito de su competencia;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Nombrar y remover a los servidores públicos de la Comisión, por sí o por conducto de en quienes delegue esta atribución, así como aprobar los nombramientos a partir de mandos medios, acorde con la organización jerárquica de las instituciones policiales del Estado;
+IX. Nombrar y remover a los servidores públicos de la Secretaría, por sí o por conducto de en quienes delegue esta atribución, así como aprobar los nombramientos a partir de mandos medios, acorde con la organización jerárquica de las instituciones policiales del Estado;
 
 X. Promover la formación, capacitación, profesionalización, actualización, adiestramiento y especialización de las Instituciones Policiales, conforme a lo establecido en el Programa Rector de Profesionalización de las Instituciones Policiales a nivel nacional y las demás disposiciones legales aplicables;
 
@@ -303,7 +315,9 @@ XI. Coordinar la evaluación del funcionamiento de la seguridad pública;
 
 XII. Supervisar el buen funcionamiento del Sistema estatal de Seguridad Pública, y su efectiva coordinación con el Sistema Nacional;
 
-XIII. Participar, en coordinación con la Procuraduría, en el diseño e implementación de la política criminal del Estado y realizar investigaciones criminológicas;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Participar, en coordinación con la Fiscalía, en el diseño e implementación de la política criminal del Estado y realizar investigaciones criminológicas;
 
 XIV. Intervenir en el auxilio de víctimas y ofendidos del delito en el ámbito de su competencia;
 
@@ -411,15 +425,19 @@ XI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Confer
 
 XII. Las demás que le señale esta Ley, otras disposiciones jurídicas y las que le confiera el Gobernador.
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Para el desarrollo de las atribuciones administrativas del Comisionado, se estará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de México y demás disposiciones aplicables.
+Para el desarrollo de las atribuciones administrativas del Secretario, se estará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de México y demás disposiciones aplicables.
 
-### CAPÍTULO CUARTO. DEL PROCURADOR GENERAL DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO CUARTO. DEL FISCAL GENERAL DE JUSTICIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Son atribuciones del Procurador:
+Son atribuciones del Fiscal:
 
 I. Promover y, en su caso, establecer la coordinación y colaboración entre el ministerio público y las Instituciones Policiales, para la prevención, investigación y persecución de delitos;
 
@@ -427,19 +445,25 @@ I. Promover y, en su caso, establecer la coordinación y colaboración entre el 
 
 II. Fijar criterios de cooperación y coordinación con las Instituciones Policiales, para el cumplimiento de mandamientos judiciales y ministeriales; aseguramiento de bienes; desahogo de diligencias judiciales, ministeriales y periciales, y para garantizar la seguridad de víctimas u ofendidos o testigos del delito;
 
-III. Verificar que toda la información generada por la Procuraduría, sea remitida al Sistema Estatal, salvo aquella que pueda comprometer el éxito de las investigaciones;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Verificar que toda la información generada por la Fiscalía, sea remitida al Sistema Estatal, salvo aquella que pueda comprometer el éxito de las investigaciones;
 
 IV. Emitir bases y reglas para la investigación conjunta de los delitos, de conformidad con los ordenamientos legales aplicables, así como para la realización de operativos de investigación conjuntos;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Implementar esquemas de investigación preventiva, a través de protocolos que tendrán que ser elaborados de manera conjunta con el Comisionado;
+V. Implementar esquemas de investigación preventiva, a través de protocolos que tendrán que ser elaborados de manera conjunta con el Secretario;
 
-VI. Promover la capacitación, actualización y especialización de los integrantes de la Procuraduría, de conformidad con el Programa Rector de Profesionalización a nivel nacional de las Instituciones de Procuración de Justicia y demás disposiciones aplicables;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Promover la capacitación, actualización y especialización de los integrantes de la Fiscalía, de conformidad con el Programa Rector de Profesionalización a nivel nacional de las Instituciones de Procuración de Justicia y demás disposiciones aplicables;
 
 VII. Promover la capacitación de los cuerpos policiales estatales en materia de procuración de justicia, cadena de custodia de evidencias, preservación de la escena del delito y atención a víctimas y ofendidos en el ámbito de su competencia;
 
-VIII. Verificar que los elementos de la Procuraduría se sometan a las evaluaciones de control de confianza, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Verificar que los elementos de la Fiscalía se sometan a las evaluaciones de control de confianza, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
@@ -485,11 +509,15 @@ XVIII. En casos excepcionales y por el tiempo que dure la contingencia, nombrar 
 
 XIX. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernados (sic) del Estado.
 
-### CAPÍTULO QUINTO. DEL SECRETARIO GENERAL DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO QUINTO. DEL SECRETARIO DE SEGURIDAD
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Corresponde al Secretario General de Gobierno promover la coordinación con los Municipios del Estado de México, así como con otras entidades federativas e instituciones federales, en los términos que establece esta Ley, y realizar las acciones necesarias para asegurar el funcionamiento del Sistema Estatal, de conformidad con las disposiciones aplicables.
+Corresponde al Secretario de Seguridad promover la coordinación con los Municipios del Estado de México, así como con otras entidades federativas e instituciones federales, en los términos que establece esta Ley, y realizar las acciones necesarias para asegurar el funcionamiento del Sistema Estatal, de conformidad con las disposiciones aplicables.
 
 ### CAPÍTULO SEXTO. DE LAS AUTORIDADES MUNICIPALES
 
@@ -603,9 +631,9 @@ XXV. Participar en la Conferencia Nacional de Seguridad Pública Municipal, en c
 
 XXVI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Seguridad Pública Municipal; y
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXVII. Satisfacer oportunamente los requerimientos que le sean solicitados por la Comisión, para el registro y actualización de la licencia colectiva para la portación de armas de fuego de los elementos a su cargo;
+XXVII. Satisfacer oportunamente los requerimientos que le sean solicitados por la Secretaría, para el registro y actualización de la licencia colectiva para la portación de armas de fuego de los elementos a su cargo;
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
 
@@ -705,9 +733,11 @@ El Consejo Estatal determinará los mecanismos idóneos y las herramientas infor
 
 El Sistema Estatal deberá contribuir a la integración y buen funcionamiento del Sistema Nacional, y suministrará que éste la información que corresponda de manera inmediata, de conformidad con las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
-Sólo la Procuraduría podrá clasificar como reservada la información y, en consecuencia, no compartirla con el Sistema Estatal, siempre y cuando el suministro de aquélla pueda poner en riesgo el éxito de la investigación. Cuando se haya superado tal condición dicha institución estará obligada a compartirla con el Sistema Estatal.
+Sólo la Fiscalía podrá clasificar como reservada la información y, en consecuencia, no compartirla con el Sistema Estatal, siempre y cuando el suministro de aquélla pueda poner en riesgo el éxito de la investigación. Cuando se haya superado tal condición dicha institución estará obligada a compartirla con el Sistema Estatal.
 
 ###### Artículo 31.
 
@@ -789,11 +819,15 @@ El Consejo Estatal estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. El Secretario de Seguridad;
 
 III. El Secretario;
 
-IV. El Procurador;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IV. El Fiscal;
 
 V. El Presidente del Tribunal Superior de Justicia del Estado de México y dos representantes del Consejo de la Judicatura;
 
@@ -809,7 +843,9 @@ X. Dos representantes del Consejo Ciudadano; y
 
 XI. Dos académicos especialistas que determine el Presidente del Consejo Estatal.
 
-El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretario General de Gobierno.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretario de Seguridad.
 
 La asistencia de los integrantes será personal.
 
@@ -853,6 +889,8 @@ Las reglas para el desarrollo de las sesiones del Consejo Estatal, así como las
 
 ### CAPÍTULO QUINTO. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 42.
 
 Los Consejos Intermunicipales serán órganos colegiados, integrados por autoridades federales, estatales y municipales vinculadas al tema de seguridad pública.
@@ -883,9 +921,13 @@ IV. Un representante del Consejo Ciudadano de Seguridad Pública del Estado de M
 
 V. Un representante del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, quien fungirá como Secretario Ejecutivo del Consejo Intermunicipal;
 
-VI. Un representante de la Procuraduría General de Justicia del Estado de México;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Un representante de la Comisión Estatal de Seguridad Ciudadana;
+VI. Un representante de la Fiscalía;
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Un representante de la Secretaría de Seguridad;
 
 VIII. Un representante del Instituto Mexiquense de Seguridad y Justicia;
 
@@ -921,7 +963,9 @@ e) Centro de investigación y Seguridad Nacional.
 
 Instancias que tendrán voz y voto en las deliberaciones que se realicen.
 
-En caso de que alguno de los municipios haya celebrado convenio con el Gobierno del Estado o el Gobierno Federal para que éste asuma la función de seguridad pública, el Comisionado designará al integrante del Consejo Intermunicipal a que se refiere la fracción II de este artículo.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+En caso de que alguno de los municipios haya celebrado convenio con el Gobierno del Estado o el Gobierno Federal para que éste asuma la función de seguridad pública, el Secretario designará al integrante del Consejo Intermunicipal a que se refiere la fracción II de este artículo.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
 
@@ -1063,7 +1107,9 @@ VI. El Contralor Interno Municipal;
 
 VII. Un representante del Secretariado Ejecutivo;
 
-VIII. Un representante de la Comisión Estatal de Seguridad Ciudadana;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Un representante de la Secretaría de Seguridad;
 
 IX. Los Delegados y/o Subdelegados Municipales;
 
@@ -1099,7 +1145,9 @@ II. Un representante de la Policía Federal;
 
 III. Un representante de la Procuraduría General de la República;
 
-IV. Un representante de la Procuraduría General de Justicia del Estado de México;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Un representante de la Fiscalía;
 
 V. Un representante del Instituto de Salud del Estado de México.
 
@@ -1185,7 +1233,9 @@ IX. Fungir como enlace ante la Dirección General de Planeación, Seguimiento y 
 
 X. Dar seguimiento puntual a las sesiones y acuerdos de las Comisiones Municipales para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Comisión de Planeación y Evaluación, Comisión Estratégica de Seguridad y Comisión de Honor y Justicia;
 
-XI. Fungir como enlace ante la Comisión Estatal de Seguridad Ciudadana para dar seguimiento al registro y actualización de la licencia colectiva para la portación de armas de fuego;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Fungir como enlace ante la Secretaría de Seguridad para dar seguimiento al registro y actualización de la licencia colectiva para la portación de armas de fuego;
 
 XII. Brindar atención y orientación permanente a la ciudadanía sobre solicitudes, quejas y denuncias;
 
@@ -1211,7 +1261,7 @@ XXI. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 59.
 
-El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría General de Gobierno y operativo del Sistema Estatal, responsable del correcto funcionamiento del mismo, así como del enlace con el Sistema Nacional.
+El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría de Seguridad y operativo del Sistema Estatal, responsable del correcto funcionamiento del mismo, así como del enlace con el Sistema Nacional.
 
 El Secretariado Ejecutivo se auxiliará de los órganos siguientes:
 
@@ -1287,13 +1337,17 @@ XVI. Supervisar, en coordinación con las demás instancias competentes la corre
 
 XVII. Designar a los delegados que lo representen en las instancias de coordinación en los términos de esta Ley; y
 
-XVIII. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así como las que sean necesarias para el cumplimiento de sus funciones y las que le encomienden el Consejo Estatal, su Presidente y el Secretario General de Gobierno.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así como las que sean necesarias para el cumplimiento de sus funciones y las que le encomienden el Consejo Estatal, su Presidente y el Secretario de Seguridad.
 
 ###### Artículo 62.
 
 El personal de las unidades administrativas del Secretariado Ejecutivo, incluso su titular, y de las dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo Estatal, se considerará de confianza y será de libre designación y remoción; se sujetarán a las evaluaciones de certificación y control de confianza.
 
 ### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DEL CENTRO DE INFORMACIÓN Y ESTADÍSTICA
 
@@ -1715,7 +1769,7 @@ El Gobernador del Estado incluirá en su informe anual a la Legislatura del Esta
 
 ###### Artículo 100.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública tendrán los derechos y obligaciones siguientes:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública tendrán, de conformidad con su adscripción a unidades de prevención, de reacción o de investigación, los derechos y obligaciones siguientes:
 
 A. Derechos:
 
@@ -1835,39 +1889,169 @@ d) Atender las instrucciones de su superior jerárquico; y
 
 e) Las demás que establezca esta Ley y otras disposiciones aplicables.
 
-IV. Aplicables sólo a los miembros de las Instituciones Policiales:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-a) Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos, Su actuación será congruente, oportuna y proporcional al hecho, de conformidad con el marco jurídico aplicable en la materia;
+IV. Aplicables sólo a los miembros de las Instituciones Policiales, conforme a las funciones asignadas en la normatividad de cada corporación:
 
-b) Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-c) Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a la Ley General y la presente Ley;
+a) Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho, de conformidad con el marco jurídico aplicable en la materia;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+b) Hacer la detención de personas y el aseguramiento de bienes que se encuentren relacionados con los hechos delictivos en los supuestos que la Constitución Federal y las leyes determinan;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+c) Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones, así como remitir sin demora al detenido, y por cualquier medio la información al Ministerio Público;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 d) Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-e) Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus atribuciones o en el desempeño de sus actividades, para su análisis y registro. Tratándose de la puesta a disposición de personas o bienes por la denuncia, se acompañarán las entrevistas y demás actos realizados conforme a derecho. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en términos de las disposiciones aplicables;
+e) Reunir la información que pueda ser útil para acreditar el hecho delictivo y la autoría o participación del imputado, conforme a las instrucciones del Ministerio Público;
 
-f) Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-g) Ejecutar los mandamientos judiciales y ministeriales, así como aquellos de los que tengan conocimiento, con motivo de sus funciones;
+f) Realizar la búsqueda de personas no localizadas, ausentes o extraviadas, e informar al Ministerio Público si hay indicios de delito;
 
-h) Obtener y mantener actualizado su Certificado Único Policial;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-i) Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando cumpliendo con todas sus obligaciones, realizándolas conforme a derecho;
+g) Cumplir las medidas de protección ordenadas por el Ministerio Público;
 
-j) Responder al superior jerárquico correspondiente, sobre la ejecución de las órdenes directas que reciba, respetando preponderantemente la línea de mando;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-k) Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+h) Resguardar las unidades de investigación de los delitos y sus alrededores;
 
-l) Mantener en buen estado el armamento, material, municiones y equipo que se asigne con motivo de sus funciones, haciendo uso racional de ellos solo en el desempeño del servicio y tomar las medidas necesarias para evitar su pérdida, extravío o deterioro;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-m) Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos, u otros lugares de este tipo, si no existe orden expresa o en caso de flagrancia;
+i) Obtener y mantener actualizado su Certificado Único Policial;
 
-n) Hacer uso de la fuerza pública, en cumplimiento de su deber, de manera racional, congruente, oportuna y con respeto a los derechos humanos; y
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-o) Las demás que establezca esta Ley y otras disposiciones aplicables.
+j) Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando cumpliendo con todas sus obligaciones, realizándolas conforme a derecho;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+k) Responder al superior jerárquico correspondiente, sobre la ejecución de las órdenes directas que reciba, respetando preponderantemente la línea de mando;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+l) Participar en operativos conjuntos con otras corporaciones policiales y con las unidades de la Fiscalía para la investigación de delitos;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+m) Mantener en buen estado el armamento, material, municiones y equipo que se asigne con motivo de sus funciones, haciendo uso racional de ellos solo en el desempeño del servicio y tomar las medidas necesarias para evitar su pérdida, extravío o deterioro;
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+n) Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos, u otros lugares de este tipo, si no existe orden expresa o en caso de flagrancia;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ñ) Hacer uso de la fuerza pública, en cumplimiento de su deber, de manera racional, congruente, oportuna y con respeto a los derechos humanos;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+o) Dar seguimiento a los sentenciados sujetos a sustitutivos penales o beneficios preliberacionales, en apoyo de la autoridad de reinserción social, e informar a la Fiscalía cuando existan indicios de delitos;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+p) Realizar la investigación para la prevención de los delitos y vincular esas investigaciones con las relativas a los delitos;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+q) Recibir las denuncias anónimas y de denunciante conocido, aún en casos sin flagrancia, sobre hechos que puedan ser constitutivos de delitos, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales y las demás disposiciones aplicables;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+r) Proporcionar atención de primer contacto a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+i. Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ii. Garantizar que reciban atención médica y psicológica cuando sea necesaria;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+iii. Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+iv. Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+v. Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+s) Incorporar la información conducente a las bases únicas de datos criminalísticos y de personal del Estado, y del Sistema Nacional de Información de Seguridad Pública, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, sin afectar el derecho de las personas sobre sus datos personales;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+t) Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito para, si es constitutiva de un posible delito, remitirla al Ministerio Público;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+u) Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, dando aviso de inmediato al Ministerio Público;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+v) Asentar registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+w) Apoyar, y si tiene las capacidades, participar en el procesamiento del lugar de los hechos, en el que deberá fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme a los criterios previamente establecido por el Fiscal General y en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+x) Solicitar al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, y en caso de incumplimiento, solicitar la imposición de medidas de apremio;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+y) Practicar las investigaciones necesarias que permitan aclarar los hechos y la identidad de los imputados, informando de inmediato al Ministerio Público para su conducción jurídica;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+z) Emitir los informes, partes policiales y demás documentos que se requieran por el Ministerio Público para la investigación, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+aa) Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación en caso de flagrancia o denuncia, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán como un registro de la investigación;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ab) Registrar en los sistemas informáticos institucionales toda la información de su actuación o conocimiento para su explotación, y proponer al Ministerio Público estrategias de sistematización de la investigación para los casos de su competencia;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ac) Realizar, a través del personal autorizado, las investigaciones de los delitos cometidos, así como las actuaciones que le solicite el Ministerio Público o la autoridad jurisdiccional conforme a las normas aplicables;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ad) Coordinarse con el agente del Ministerio Público que dirija la investigación y apoyarlo siempre que lo solicite, así como a las diversas unidades de la Fiscalía, para el esclarecimiento de los hechos, proteger a las víctimas y apoyar en la persecución del imputado;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ae) Integrar grupos de investigación delictiva con el personal de la Fiscalía, conforme la instrucción superior;
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+af) Dar cumplimiento a las órdenes de aprehensión, comparecencia y presentación, y demás mandatos ministeriales y jurisdiccionales de que le sean asignados, y
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ag) Las demás que establezca esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Los policías adscritos a unidades de investigación deberán cumplir todas las obligaciones; los policías adscritos a las unidades de prevención y reacción las previstas del inciso a) al inciso v) del presente artículo, salvo que exista requerimiento expreso del Ministerio Público de cumplir alguna prevista en los ulteriores incisos, caso en el que deberá cumplir cualquiera de estas obligaciones bajo su conducción y mando.
 
 ###### Artículo 101.
 
@@ -1914,6 +2098,8 @@ El Servicio Profesional de Carrera es el sistema de administración y control de
 En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de cualquier ministerio público, perito o elemento de las Instituciones Policiales, es injustificada, la Institución respectiva sólo estará obligada a pagar la indemnización y las demás prestaciones a que tenga derecho el servidor público, estas, por el último año en que prestó sus servicios, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con el artículo 123, apartado B, fracción XIII de la Constitución Federal. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública del Sistema Nacional, y en la Base de Datos de Personal de Instituciones de Seguridad Pública del Sistema Estatal.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 106.
 
@@ -2003,19 +2189,25 @@ III. Por no obtener la revalidación de su Certificado; y
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ### CAPÍTULO TERCERO. DEL DESARROLLO DEL SERVICIO DE CARRERA
 
-## TÍTULO SEXTO. DEL SERVICIO DE CARRERA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+## TÍTULO SEXTO. DEL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA MINISTERIAL Y PERICIAL
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 116.
 
-El Servicio de Carrera de la Procuraduría comprende lo relativo al ministerio público y a los peritos.
+El Servicio de Carrera de la Fiscalía previsto en este título, comprende lo relativo al ministerio público y a los peritos
 
 La Policía Ministerial se sujetará a lo dispuesto en esta Ley para las Instituciones Policiales en materia de carrera policial.
 
-Las reglas y procesos en materia de carrera policial y régimen disciplinario de la Policía Ministerial, serán aplicados, operados y supervisados por la Procuraduría.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Las reglas y procesos en materia de carrera policial y régimen disciplinario de la Policía de Investigación, serán aplicados, operados y supervisados por la Fiscalía.
 
 Los servidores públicos que tengan bajo su mando a agentes del ministerio público o peritos no formarán parte del Servicio de Carrera por ese hecho; serán nombrados y removidos conforme a los ordenamientos legales aplicables; se considerarán trabajadores de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento, sin que para ello sea necesario agotar procedimiento administrativo alguno.
 
@@ -2037,7 +2229,9 @@ I. Tendrá carácter obligatorio y permanente; abarcará los planes, programas, 
 
 II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal. Tendrá como objetivos la preparación, competencia, capacidad y superación constante del personal en tareas de Procuración de Justicia;
 
-III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los integrantes de la Procuraduría logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades, destrezas y actitudes necesarios para el desempeño del servicio público;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los integrantes de la Fiscalía logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades, destrezas y actitudes necesarios para el desempeño del servicio público;
 
 IV. Contará con un sistema de rotación del personal;
 
@@ -2113,9 +2307,11 @@ Previo al ingreso de los aspirantes a los cursos de formación inicial, deberán
 
 Asimismo, deberá verificarse la autenticidad de los documentos presentados por los aspirantes.
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 121.
 
-Los aspirantes a ingresar al Servicio de Carrera de la Procuraduría deberán cumplir con los estudios de formación inicial, que impartirán los institutos y centros educativos correspondientes, en términos de las normas aplicables.
+Los aspirantes a ingresar al Servicio de Carrera de la Fiscalía deberán cumplir con los estudios de formación inicial, que impartirán los institutos y centros educativos correspondientes, en términos de las normas aplicables.
 
 ### CAPÍTULO SEXTO. DE LA PROFESIONALIZACIÓN
 
@@ -2127,7 +2323,9 @@ I. Cumplir los requisitos de ingreso durante el servicio;
 
 II. Cumplir con los programas de profesionalización;
 
-III. Aprobar las evaluaciones de control de confianza y aquellas otras que determine el Procurador;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Aprobar las evaluaciones de control de confianza y aquellas otras que determine la Ley de la Fiscalía General de Justicia del Estado de México y el Fiscal;
 
 IV. Contar con la certificación y registro actualizados a que se refiere la Ley General;
 
@@ -2139,9 +2337,11 @@ VII. Cumplir con las obligaciones que les impongan las leyes respectivas; y
 
 VIII. Los demás requisitos que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 123.
 
-Los integrantes de la Procuraduría deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezcan las disposiciones aplicables y cuando así lo determine el Procurador.
+Los integrantes de la Fiscalía deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezcan las disposiciones aplicables y cuando así lo determine el Fiscal.
 
 Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente ley.
 
@@ -2153,19 +2353,13 @@ Las solicitudes de reincorporación al servicio de carrera se analizarán y en s
 
 ###### Artículo 125.
 
-La Procuraduría establecerá la Comisión del Servicio Profesional de Carrera Ministerial y Pericial, como órgano colegiado para el seguimiento de las carreras ministerial y pericial.
+La Fiscalía establecerá el Consejo de Profesionalización, como órgano colegiado para el seguimiento de las carreras ministerial y pericial.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 126.
 
-La Comisión del Servicio Profesional de Carrera Ministerial y Pericial, estará integrada por:
-
-I. El Procurador o el servidor público en quien delegue esta facultad;
-
-II. Un representante de los agentes del ministerio público de trayectoria reconocida en el servicio, designado por el Procurador;
-
-III. Un representante del Instituto de Servicios Periciales del Estado de México de trayectoria reconocida en el servicio, designado por el Procurador; y
-
-IV. El titular del área jurídica de la Institución.
+El Consejo de Profesionalización, estará integrado en los términos que disponga la Ley de la Fiscalía General de Justicia del Estado de México.
 
 ###### Artículo 127.
 
@@ -2185,7 +2379,9 @@ b) Incapacidad permanente para el desempeño de las funciones; y
 
 c) Jubilación.
 
-El trámite de la terminación ordinaria del Servicio Civil de Carrera corresponderá a las unidades administrativas competentes de la Procuraduría, conforme a la Ley Orgánica y su Reglamento.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+El trámite de la terminación ordinaria del Servicio de Carrera corresponderá a las unidades administrativas competentes de la Fiscalía, conforme a la Ley Orgánica y su Reglamento.
 
 II. Extraordinaria, que comprende:
 
@@ -2195,11 +2391,15 @@ b) Remoción por incumplir las obligaciones establecidas en la Ley General, esta
 
 El proceso de separación o remoción por causas extraordinarias es independiente y autónomo de las causas de responsabilidad administrativa que se establecen en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 129.
 
-La unidad jurídica de la Procuraduría llevará a cabo el procedimiento por el que se resuelva la separación o remoción, como causas de terminación extraordinaria del servicio, de conformidad con lo establecido en el artículo 123, apartado B, fracción XIII, de la Constitución Federal, la Ley General, esta Ley y demás ordenamientos aplicables, en el ámbito de su competencia.
+La unidad jurídica de la Fiscalía llevará a cabo la sustanciación del procedimiento para que se resuelva la separación o remoción, como causas de terminación extraordinaria del servicio, de conformidad con lo establecido en el Artículo 123 Apartado B, fracción XIII, de la Constitución Federal, la Ley General, esta Ley, la Ley de la Fiscalía y demás ordenamientos aplicables, en el ámbito de su competencia.
 
-La resolución correspondiente deberá ser emitida por el Procurador o por los servidores públicos en quienes delegue esta atribución. Con relación al procedimiento mencionado se observarán las reglas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+La resolución correspondiente deberá ser emitida por el Consejo de Profesionalización si el agente de Ministerio Público o Perito pertenece al servicio de carrera, o por el Fiscal o por los servidores públicos en quienes delegue esta atribución si es de designación especial. La resolución será emitida por la Comisión de Honor y Justicia en el caso de los policías sean o no parte del servicio de carrera. Con relación al procedimiento mencionado se observarán las reglas siguientes:
 
 I. Se realizará en los términos del Código de Procedimientos Administrativos del Estado de México;
 
@@ -2211,13 +2411,15 @@ IV. Durante el período de la suspensión el agente del ministerio público o el
 
 V. En contra de las resoluciones por las que se resuelva la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio, se podrá interponer el recurso administrativo de inconformidad ante la autoridad que emitió la resolución o juicio ante el Tribunal de lo Contencioso Administrativo, en los términos del Código de Procedimientos Administrativos del Estado de México.
 
-VI. De interponerse el recurso ante la autoridad que lo emitió, resolverá el Procurador en su calidad de superior jerárquico.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
+VI. De interponerse el recurso ante la autoridad que lo emitió, resolverá el Vice Fiscal General en su calidad de superior jerárquico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 130.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la Procuraduría solo estará obligada a la indemnización de tres meses de sueldo y al pago de prestaciones de ley, estas, por el último año en que prestó sus servicios.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la Fiscalía solo estará obligada a la indemnización de tres meses de sueldo y al pago de prestaciones de ley.
 
 > <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
 
@@ -2237,9 +2439,11 @@ El Programa Rector de Profesionalización, aprobado por las instancias competent
 
 Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos.
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 133.
 
-Los servidores públicos de la Procuraduría están obligados a participar en las actividades de profesionalización que determine la institución, los cuales deberán cubrir los contenidos, prácticas y horas clase que se establezcan en los planes y programas de estudio.
+Los servidores públicos de la Fiscalía están obligados a participar en las actividades de profesionalización que determine la institución, los cuales deberán cubrir los contenidos, prácticas y horas clase que se establezcan en los planes y programas de estudio.
 
 ## TÍTULO SÉPTIMO. DEL DESARROLLO POLICIAL
 
@@ -2265,11 +2469,15 @@ II. Prevención: tendiente a prevenir la comisión de delitos e infracciones adm
 
 III. Reacción: a fin de garantizar, mantener y restablecer el orden y la paz públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 137.
 
-La Policía Ministerial será la encargada de la investigación científica de los delitos y estará dentro de la estructura orgánica de la Procuraduría. Las Instituciones Policiales de la entidad podrán tener unidades operativas de investigación que, en el ejercicio de esta función, se sujetarán a la conducción y mando del ministerio público.
+La Policía de Investigación será la encargada de la investigación científica de los delitos y estará dentro de la estructura orgánica de la Fiscalía. Las Instituciones Policiales de la entidad podrán tener unidades operativas de investigación que, en el ejercicio de esta función, se sujetarán a la conducción y mando del Ministerio Público.
 
-En todo caso, las unidades de investigación de las Instituciones Policiales y la Policía Ministerial de la Procuraduría se coordinarán entre sí para el cumplimiento de sus funciones, conforme a las instrucciones del ministerio público.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+En todo caso, las unidades de investigación de las Instituciones Policiales y la Policía de Investigación de la Fiscalía se coordinarán entre sí para el cumplimiento de sus funciones, conforme a las instrucciones del Ministerio Público
 
 Las unidades de las Instituciones Policiales en funciones de prevención y reacción, atenderán y cumplirán las instrucciones que dicte el ministerio público con motivo de sus atribuciones de investigación y persecución de los delitos, así como en materia de medidas cautelares y de protección que se ordenen. El incumplimiento de esta obligación será causa de responsabilidad en los términos de esta Ley.
 
@@ -2317,11 +2525,11 @@ XIV. Las demás que le confieran las disposiciones aplicables.
 
 Cuando para el cumplimiento de alguna de estas facultades se requiera una orden judicial, el elemento de la unidad de policía encargada de la investigación científica de los delitos informará al ministerio público, para que éste la solicite al juez de control, debiendo proveer la información en que se base para hacer la solicitud respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 139.
 
-La o el Fiscal y la o el Comisionado establecerán de común acuerdo los protocolos de actuación de las Instituciones Policiales para la debida atención de las víctimas, así como para la investigación y persecución de los delitos. Estos protocolos serán de observancia obligatoria para las Instituciones Policiales de los Municipios una vez que sean aprobados por el Consejo Estatal.
+El Fiscal y el Secretario establecerán de común acuerdo los protocolos de actuación de las Instituciones Policiales de seguridad para la debida investigación y el auxilio en la persecución de los delitos. Estos protocolos serán de observancia obligatoria para las Instituciones Policiales de los Municipios una vez que sean aprobados por el Consejo Estatal.
 
 En el ejercicio de facultades de investigación preventiva, se aplicarán las técnicas especiales que establezcan las disposiciones aplicables conforme a los protocolos antes referidos.
 
@@ -2631,15 +2839,19 @@ III. Un representante de la unidad operativa de investigación, prevención o re
 
 El presidente y el representante serán designados por el titular de la dependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 162.
 
-La Comisión de Honor y Justicia de la Procuraduría, se integrará por:
+La Comisión de Honor y Justicia de la Fiscalía, se integrará por:
 
 I. El Comisario General de la Policía Ministerial, quien la presidirá;
 
 II. El Director General Jurídico y Consultivo, quien fungirá como secretario, con voz y voto; y
 
-III. Un elemento destacado de la Policía Ministerial designado por el Procurador General de Justica (sic).
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Un elemento destacado de la Policía de Investigación designado por el Fiscal.
 
 ### CAPÍTULO ÚNICO
 
@@ -3005,19 +3217,29 @@ Se entiende por negligencia la falta de cuidado del sujeto activo sobre las arma
 
 Las sanciones previstas en este Capítulo se impondrán sin perjuicio de las penas que correspondan por delitos previstos en otras leyes.
 
-> <small>(ADICIONADO, G.G. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 209.
 
-La Inspección General de las Instituciones de Seguridad Pública del Estado de México, en términos de la Ley de Responsabilidades, sancionará en tal caso, al Secretario, al Procurador y a los servidores públicos, que dentro del ámbito de su competencia tengan responsabilidades en materia de control de confianza, cuando:
+La Inspección General de las Instituciones de Seguridad Pública del Estado de México, en términos de la Ley de Responsabilidades, sancionará en tal caso, al Secretario y a los servidores públicos, que dentro del ámbito de su competencia tengan responsabilidades en materia de control de confianza, cuando:
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
 
 I. Omitan solicitar al Centro las evaluaciones para el ingreso, promoción y permanencia de los elementos policiales o servidores públicos, según corresponda.
 
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
 II. Omitan verificar que los elementos policiales o servidores públicos subsanen las restricciones que se señalaron en la evaluación aprobada en esos términos.
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
 
 III. No soliciten a la Comisión de Honor y Justicia competente, la instauración del procedimiento correspondiente en contra del elemento policial o servidor público que no haya presentado o aprobado las evaluaciones de control de confianza.
 
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
 IV. No ejecuten la separación impuesta con motivo de la resolución correspondiente, a los elementos de la institución policial y a los servidores públicos que no hayan aprobado las evaluaciones de control de confianza.
+
+> <small>(ADICIONADO, G.G. 16 DE JULIO DE 2014)</small>
 
 Tratándose de presidentes municipales, la referida Inspección General dará vista a la Contraloría del Poder Legislativo, para la instauración del procedimiento administrativo disciplinario y la imposición, en su caso, de la sanción respectiva.
 
@@ -3270,3 +3492,75 @@ G.G. 5 DE SEPTIEMBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL ''GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
