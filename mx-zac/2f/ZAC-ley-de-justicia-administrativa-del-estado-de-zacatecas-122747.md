@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-122747"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-09-06"
+last_updated: "2017-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -1521,7 +1519,9 @@ Para tales efectos, el Tribunal Superior de Justicia del Estado de Zacatecas des
 
 Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, conservarán sus derechos laborales y de seguridad social.
 
-Artículo décimo. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado designará al titular del Órgano Interno de Control del Tribunal.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Artículo décimo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado designará al titular del Órgano Interno de Control del Tribunal.
 
 Artículo decimoprimero. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio fiscal 2018, se establecerán los recursos correspondientes para el funcionamiento del Tribunal. La Secretaría de Finanzas del Gobierno del Estado en los términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado, reasignará recursos para el funcionamiento del Tribunal y del Órgano Interno de Control.
 
@@ -1534,3 +1534,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los catorce días del mes de julio del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rubricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "DECRETO 201.- SE REFORMAN DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
