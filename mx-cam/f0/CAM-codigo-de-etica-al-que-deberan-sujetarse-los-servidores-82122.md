@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-al-que-deberan-sujetarse-los-servidores-82122"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-05-16"
-last_updated: "2011-05-16"
+last_updated: "2017-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-CODIGO DE ETICA AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 16 de mayo de 2011.
 
@@ -31,7 +33,9 @@ ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA AL
 
 LIC. FERNANDO EUTIMIO ORTEGA BERNÉS, Gobernador Constitucional del Estado Libre y Soberano de Campeche, en ejercicio de la facultad que me confiere el artículo 71, fracciones XVIII y XIX, de la Constitución Política del Estado de Campeche, y con fundamento en los artículos 3, 6, 8, 14 y 15 de la Ley Orgánica de la Administración Pública del Estado de Campeche; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -124,3 +128,19 @@ Para efectos de la imposición de sanciones derivadas del Procedimiento Administ
 Dado en el Palacio de Gobierno de la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, Estados Unidos Mexicanos, siendo los trece días del mes de mayo del año dos mil once.
 
 Lic. Fernando Eutimio Ortega Bernés.- Gobernador Constitucional del Estado.- Lic. Jorge Humberto Shields Richaud, Secretario de la Contraloría.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Comités de Ética y de Prevención de Conflictos de Interés deberán de estar constituidos en los términos de los Lineamientos Generales para propiciar la integridad de los servidores y para implementar las acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés, en un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Acuerdo.
+
+TERCERO. La Secretaría de la Contraloría, las dependencias y entidades llevarán a cabo acciones que permitan la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
+
+QUINTO. Se abroga el Acuerdo del Ejecutivo del Estado por el que se establece el código de ética al que deberán sujetarse los servidores públicos de las dependencias y entidades de la administración del Estado de Campeche, publicado en el Periódico Oficial del Estado el 16 mayo de 2011.
