@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2017-03-29"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -5841,6 +5841,10 @@ Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que con
 
 1938.- El mandato puede ser general o especial: son generales los contenidos en los tres primeros párrafos del artículo siguiente; cualquiera otro mandato tendrá el carácter de especial.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque, con excepción de los que se otorguen para actos de dominio sobre bienes inmuebles, cuya vigencia no podrá exceder del término de un año.
+
 1939.- En todos los poderes generales para pleitos y cobranzas bastará que se diga que se otorga con todas las facultades generales y especiales que requieran cláusulas especiales conforme a la ley para que se entiendan conferidos sin limitación alguna.
 
 En los poderes generales para administrar bienes bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
@@ -8160,3 +8164,11 @@ P.O. 29 DE MARZO DE 2017.
 PRIMERO. El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. El Poder Ejecutivo dentro del término de noventa días naturales contados a partir del día siguiente al de la publicación del Presente Decreto, deberá armonizar con las disposiciones de éste, los reglamentos correspondientes.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 191.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
