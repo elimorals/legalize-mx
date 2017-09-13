@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-privada-del-estado-de-mexico-76534"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2016-12-20"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -49,25 +51,23 @@ La presente Ley es de orden público y de observancia General en el Estado de M�
 
 Son sujetos de esta Ley las personas físicas o jurídico colectivas que presten los servicios de seguridad privada.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
 
-Los actos y procedimientos que se dicten o ejecuten por la Comisión Estatal de Seguridad Ciudadana del Estado de México en la aplicación de esta Ley, así como en los procesos de la misma, se emitirán, tramitarán y resolverán conforme a las disposiciones de esta Ley, de otras disposiciones legales y administrativas aplicables a la materia y del Código de Procedimientos Administrativos del Estado de México.
+Los actos y procedimientos que se dicten o ejecuten por la Secretaría en la aplicación de esta Ley, así como en los procesos de la misma, se emitirán, tramitarán y resolverán conforme a las disposiciones de esta Ley, de otras disposiciones legales y administrativas aplicables a la materia y del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Autorización. La autorización otorgada por la Comisión Estatal de Seguridad Ciudadana del Estado de México a una persona física o jurídica colectiva para prestar el servicio de seguridad privada en el Estado de México;
+I. Autorización. La autorización otorgada por la Secretaría a una persona física o jurídica colectiva para prestar el servicio de seguridad privada en el Estado de México;
 
 II. Centro.- El Centro de Control de Confianza del Estado de México;
 
-> <small>(ADICIONADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-II Bis. Comisión Estatal.- A la Comisión Estatal de Seguridad Ciudadana del Estado de México;
+II. Bis. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 III. Comité.- El Comité de Supervisión y Verificación de Empresas de Seguridad Privada;
 
@@ -87,9 +87,9 @@ VIII. Ley.- La presente Ley;
 
 IX. Modalidad.- La actividad o actividades vinculadas con la prestación del servicio de seguridad privada;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-X. Prestador del Servicio.- La persona física o jurídica colectiva autorizada por la Comisión para prestar el servicio de seguridad privada en el Estado de México;
+X. Prestador del Servicio.- La persona física o jurídica colectiva autorizada por la Secretaría para prestar el servicio de seguridad privada en el Estado de México;
 
 > <small>(ADICIONADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -99,17 +99,19 @@ X Bis. Prestatario.- La persona física o jurídica colectiva que contrata y rec
 
 XI. Revalidación.- El acto administrativo por el que la autoridad ratifica la validez de la autorización;
 
-XII. (DEROGADA, G.G. 14 DE DICIEMBRE DE 2016)
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Secretaría.- Secretaría de Seguridad;
 
 XIII. Servicio de Seguridad Privada.- El servicio que prestan los particulares para brindar protección, que tiene como fin, salvaguardar la integridad física de las personas y de sus bienes, de acuerdo a las modalidades previstas en esta Ley; y
 
 XIV. Solicitante.- Persona física o jurídica colectiva que inicie el trámite de autorización o revalidación para la prestación del servicio de seguridad privada en el Estado de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
-Corresponde a la Comisión Estatal:
+Corresponde a la Secretaría:
 
 I. Autorizar la prestación del servicio de seguridad privada en el Estado de México y en su caso revalidar, revocar o modificar la autorización otorgada para dicho efecto;
 
@@ -145,17 +147,17 @@ XII. Concertar con el prestador y prestatarios de servicios, instituciones educa
 
 XIII. Las demás atribuciones que le confieren esta Ley y otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 6.
 
-Se requiere autorización de la Comisión Estatal para prestar el servicio de seguridad privada en el Estado. El Prestador del Servicio que haya obtenido autorización federal para ofrecer sus servicios, en donde se incluya al Estado de México, deberá tramitar previamente a su operación en esta Entidad su autorización, cumpliendo los requisitos y disposiciones de esta Ley, de otras leyes y reglamentos aplicables.
+Se requiere autorización de la Secretaría para prestar el servicio de seguridad privada en el Estado. El Prestador del Servicio que haya obtenido autorización federal para ofrecer sus servicios, en donde se incluya al Estado de México, deberá tramitar previamente a su operación en esta Entidad su autorización, cumpliendo los requisitos y disposiciones de esta Ley, de otras leyes y reglamentos aplicables.
 
-> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 6 Bis.
 
-Los prestadores de servicios de seguridad privada que cuenten con autorización vigente expedida por Entidad Federativa distinta al Estado de México, que pretendan ingresar a la Entidad deberán dar aviso previo a su visita, por escrito a la Comisión Estatal, con cinco días de anticipación al día en que pretendan ingresar, declarando el nombre del personal, armas y la descripción del vehículo indicando el número de placas de circulación, marca, año y tipo.
+Los prestadores de servicios de seguridad privada que cuenten con autorización vigente expedida por Entidad Federativa distinta al Estado de México, que pretendan ingresar a la Entidad deberán dar aviso previo a su visita, por escrito a la Secretaría, con cinco días de anticipación al día en que pretendan ingresar, declarando el nombre del personal, armas y la descripción del vehículo indicando el número de placas de circulación, marca, año y tipo.
 
 ###### Artículo 7.
 
@@ -179,23 +181,25 @@ VI. ACTIVIDAD VINCULADA CON SERVICIOS DE SEGURIDAD PRIVADA. Se refiere a la acti
 
 El Prestador del Servicio se califica como auxiliar a la función de seguridad pública y las personas que los realicen como coadyuvantes de las autoridades e instituciones públicas del Estado de México, en situaciones de urgencia, desastre o cuando así lo solicite la autoridad estatal o municipal, en los términos establecidos en la autorización respectiva.
 
-> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8 Bis.
 
-Los prestatarios de servicios de seguridad privada se abstendrán de contratar los servicios de prestadores que no tengan la autorización por parte de la Comisión Estatal y en caso de hacerlo, se harán acreedores a la multa señalada en la fracción III del artículo 71 de la presente Ley.
+Los prestatarios de servicios de seguridad privada se abstendrán de contratar los servicios de prestadores que no tengan la autorización por parte de la Secretaría y en caso de hacerlo, se harán acreedores a la multa señalada en la fracción III del artículo 71 de la presente Ley.
 
-La Comisión Estatal contará con un portal informativo donde se podrá consultar el listado actualizado de los prestadores del servicio que cuenten con la autorización respectiva vigente; de acuerdo con las normas jurídicas establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+La Secretaría contará con un portal informativo donde se podrá consultar el listado actualizado de los prestadores del servicio que cuenten con la autorización respectiva vigente; de acuerdo con las normas jurídicas establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 ### CAPITULO II. DISPOSICIONES GENERALES
 
 DE LA AUTORIZACIÓN Y REVALIDACIÓN
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 9.
 
-La autorización o revalidación que la Comisión Estatal otorgue al Prestador del Servicio, quedará sujeta a las obligaciones establecidas en la presente Ley, así como al cumplimiento de otras disposiciones legales y administrativas aplicables.
+La autorización o revalidación que la Secretaría otorgue al Prestador del Servicio, quedará sujeta a las obligaciones establecidas en la presente Ley, así como al cumplimiento de otras disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
 Previamente, el Prestador del Servicio solicitante deberá cubrir el pago de los derechos respectivos que determine el Código Financiero del Estado de México.
 
@@ -203,23 +207,23 @@ Previamente, el Prestador del Servicio solicitante deberá cubrir el pago de los
 
 La autorización o revalidación de la misma, que se otorgue será personal, inalienable, intransferible e inembargable y contendrá las modalidades que se autorizan y condiciones a que se sujeta la prestación del servicio, la vigencia será de dos años y podrá ser revalidada por el mismo tiempo.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 11.
 
-La revalidación podrá negarse cuando existan quejas o deficiencias en la prestación del servicio, presentadas por los usuarios y que sean previamente comprobadas por la Comisión Estatal o por el incumplimiento a las obligaciones y restricciones previstas en esta Ley o en la autorización respectiva, o que durante el año de autorización no haya realizado la prestación del servicio.
+La revalidación podrá negarse cuando existan quejas o deficiencias en la prestación del servicio, presentadas por los usuarios y que sean previamente comprobadas por la Secretaría o por el incumplimiento a las obligaciones y restricciones previstas en esta Ley o en la autorización respectiva, o que durante el año de autorización no haya realizado la prestación del servicio.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
-La Comisión Estatal, mandará publicar en el Periódico Oficial "Gaceta del Gobierno", así como en su portal informativo, la autorización o revalidación correspondiente, misma que contendrá las condiciones a las que se debe sujetar el Prestador del Servicio.
+La Secretaría, mandará publicar en el Periódico Oficial "Gaceta del Gobierno", así como en su portal informativo, la autorización o revalidación correspondiente, misma que contendrá las condiciones a las que se debe sujetar el Prestador del Servicio.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 13.
 
-El Prestador del Servicio que haya obtenido la autorización o revalidación y pretenda ampliar o modificar las modalidades para el que fue autorizado el servicio, deberá presentar ante la Comisión Estatal solicitud por escrito para que, dentro de los veinte días hábiles siguientes, se acuerde lo procedente. En caso de alguna prevención, el Prestador del Servicio tendrá veinte días hábiles para subsanarla, plazo que correrá desde el día hábil siguiente en que surta efectos la notificación, de no hacerlo el trámite se desechará.
+El Prestador del Servicio que haya obtenido la autorización o revalidación y pretenda ampliar o modificar las modalidades para el que fue autorizado el servicio, deberá presentar ante la Secretaría solicitud por escrito para que, dentro de los veinte días hábiles siguientes, se acuerde lo procedente. En caso de alguna prevención, el Prestador del Servicio tendrá veinte días hábiles para subsanarla, plazo que correrá desde el día hábil siguiente en que surta efectos la notificación, de no hacerlo el trámite se desechará
 
 ###### Artículo 14.
 
@@ -239,11 +243,11 @@ La autorización o revalidación, podrá revocarse en cualquier tiempo por motiv
 
 La autorización para la prestación de servicios de seguridad privada, dentro del territorio del Estado se otorgara, cuando no se ponga en riesgo el interés público y se cumplan los requisitos de la presente Ley, su reglamento y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Para prestar servicios de seguridad privada en el Estado de México, se requiere autorización previa de la Comisión Estatal, para lo cual el Prestador del Servicio deberá ser persona física de nacionalidad mexicana o jurídica colectiva, constituida conforme con las leyes del país y cumplir con los requisitos establecidos en esta Ley.
+Para prestar servicios de seguridad privada en el Estado de México, se requiere autorización previa de la Secretaría, para lo cual el Prestador del Servicio deberá ser persona física de nacionalidad mexicana o jurídica colectiva, constituida conforme con las leyes del país y cumplir con los requisitos establecidos en esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -299,9 +303,9 @@ XII. Relación, en su caso, de perros, adjuntando copia certificada de los docum
 
 XIII. Copias certificadas del permiso para operar frecuencia de radiocomunicación o contrato celebrado con concesionaria autorizada;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Fotografías a colores de los costados, frente, parte posterior y toldo del tipo de vehículos que se utilicen en la prestación de los servicios, las cuales deberán mostrar claramente los colores, logotipos, insignias o emblemas o algún elemento de iluminación, que no podrán ser iguales o similares a los oficiales utilizados por las corporaciones policiales o por las Fuerzas Armadas, además deberán presentar rotulada la denominación o razón social del prestador del servicio y la leyenda "Seguridad Privada". En caso de contar con logotipo, éste deberá ir impreso en el cofre de cada uno de los vehículos debiendo tener una dimensión de sesenta centímetros de alto por sesenta centímetros de ancho. En ambos costados, la leyenda Seguridad Privada, con letras legibles, debiendo medir cada letra veinte centímetros de alto por ocho centímetros de ancho y el número de autorización para llevar a cabo la función de seguridad privada. Cuando por las dimensiones y características de los vehículos no sea posible observar lo antes señalado, tanto los logotipos como las letras serán de acuerdo a las dimensiones del mismo, previa autorización de la Comisión Estatal;
+XIV. Fotografías a colores de los costados, frente, parte posterior y toldo del tipo de vehículos que se utilicen en la prestación de los servicios, las cuales deberán mostrar claramente los colores, logotipos, insignias o emblemas o algún elemento de iluminación, que no podrán ser iguales o similares a los oficiales utilizados por las corporaciones policiales o por las Fuerzas Armadas, además deberán presentar rotulada la denominación o razón social del prestador del servicio y la leyenda "Seguridad Privada". En caso de contar con logotipo, éste deberá ir impreso en el cofre de cada uno de los vehículos debiendo tener una dimensión de sesenta centímetros de alto por sesenta centímetros de ancho. En ambos costados, la leyenda Seguridad Privada, con letras legibles, debiendo medir cada letra veinte centímetros de alto por ocho centímetros de ancho y el número de autorización para llevar a cabo la función de seguridad privada. Cuando por las dimensiones y características de los vehículos no sea posible observar lo antes señalado, tanto los logotipos como las letras serán de acuerdo a las dimensiones del mismo, previa autorización de la Secretaría;
 
 XV. Tratándose de prestadores de servicios que operen en la modalidad de traslado de bienes o valores, para el caso de la primer modalidad contar con vehículos para su traslado y específicamente para el traslado de valores, será indispensable contar con vehículos blindados y exhibir constancia expedida por el proveedor del servicio de blindaje autorizado por institución oficial competente, con la que se acredite el nivel del mismo, así como armamento necesario para el servicio en las dos modalidades; y
 
@@ -309,15 +313,15 @@ XV. Tratándose de prestadores de servicios que operen en la modalidad de trasla
 
 XVI. Presentar acuse de la solicitud para el trámite del Programa Estatal de Protección Civil de la Entidad, ante la Coordinación General de Protección Civil de la Secretaría General de Gobierno;
 
-> <small>(ADICIONADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Tratándose de prestadores de servicios que operen en la modalidad de seguridad privada a personas, que cuenten con vehículos para escoltarlas, ya sean propiedad del prestador o prestatario, deberá registrarlo y presentar fotografías del vehículo, cuando deje de surtir efectos la autorización o revalidación, o el prestatario termine por cualquier situación la contratación del servicio, inmediatamente se dará aviso a la Comisión Estatal, en un término no mayor a tres días hábiles posteriores a que se presenten estos supuestos.
+XVII. Tratándose de prestadores de servicios que operen en la modalidad de seguridad privada a personas, que cuenten con vehículos para escoltarlas, ya sean propiedad del prestador o prestatario, deberá registrarlo y presentar fotografías del vehículo, cuando deje de surtir efectos la autorización o revalidación, o el prestatario termine por cualquier situación la contratación del servicio, inmediatamente se dará aviso a la Secretaría, en un término no mayor a tres días hábiles posteriores a que se presenten estos supuestos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 20.
 
-El Prestador del Servicio que para el desempeño de sus actividades requiera la utilización de apoyo canino o cualquier otro tipo de animal que cumpla con tales objetivos, deberá acreditar, en los términos que establezca la Comisión Estatal en el Reglamento de la presente Ley, el cumplimiento de la norma oficial y sujetarse a los siguientes lineamientos:
+El Prestador del Servicio que para el desempeño de sus actividades requiera la utilización de apoyo canino o cualquier otro tipo de animal que cumpla con tales objetivos, deberá acreditar, en los términos que establezca la Secretaría en el Reglamento de la presente Ley, el cumplimiento de la norma oficial y sujetarse a los siguientes lineamientos:
 
 a) Incluirá como parte del inventario a los animales para apoyo del servicio, informando a la oficina encargada del Registro Estatal de Personal, Armamento y Equipo de Empresas de Seguridad Privada, dentro de los cinco días posteriores, respecto a modificaciones que se generen, indicando raza, sexo, edad, color, nombre, tipo de adiestramiento y características distintivas de dichos animales;
 
@@ -333,9 +337,9 @@ f) Cuidará que los animales deban descansar al menos un día a la semana y no p
 
 g) Los demás que determinen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-La Comisión Estatal se apoyará en un médico veterinario zootecnista, así como del personal técnico y científico, con reconocimiento oficial, que se requiera para validar y analizar los expedientes y vacunas de cada animal; asimismo cuidará de su salud y verificará que los datos que proporcione el Prestador del Servicio sean correctos.
+La Secretaría se apoyará en un médico veterinario zootecnista, así como del personal técnico y científico, con reconocimiento oficial, que se requiera para validar y analizar los expedientes y vacunas de cada animal; asimismo cuidará de su salud y verificará que los datos que proporcione el Prestador del Servicio sean correctos.
 
 > <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -345,35 +349,35 @@ El prestador del servicio tendrá responsabilidad civil con motivo de las lesion
 
 La presentación de la solicitud, así como de la documentación antes señalada no autorizará en ninguna forma a prestar servicios de seguridad privada ni hacer publicidad sobre los posibles servicios.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-Si la solicitud presentada no cumple con los requisitos establecidos en esta Ley, la Comisión Estatal dentro de los veinte días hábiles a la presentación de la misma, prevendrá al solicitante para que, en un plazo improrrogable de veinte días hábiles siguientes en que surta efectos su notificación, subsane las omisiones o deficiencias, en caso de no hacerlo en el plazo señalado, la solicitud se desechará.
+Si la solicitud presentada no cumple con los requisitos establecidos en esta Ley, la Secretaría dentro de los veinte días hábiles a la presentación de la misma, prevendrá al solicitante para que, en un plazo improrrogable de veinte días hábiles siguientes en que surta efectos su notificación, subsane las omisiones o deficiencias, en caso de no hacerlo en el plazo señalado, la solicitud se desechará.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-Una vez que la Comisión Estatal reciba la solicitud de autorización debidamente requisitada, ordenará la práctica de una visita de verificación de la legalidad y autenticidad de requisitos, que se practicará dentro de los quince días hábiles siguientes, dicha visita se realizará por conducto del Comité de Verificación y Supervisión a Empresas de Seguridad Privada, cuya integración y funcionamiento se establecerá en el Reglamento de la presente Ley, de encontrarse cumplidos los requisitos se resolverá la procedencia de la solicitud y se expedirá la autorización correspondiente, en caso contrario la solicitud será desechada.
+Una vez que la Secretaría reciba la solicitud de autorización debidamente requisitada, ordenará la práctica de una visita de verificación de la legalidad y autenticidad de requisitos, que se practicará dentro de los quince días hábiles siguientes, dicha visita se realizará por conducto del Comité de Verificación y Supervisión a Empresas de Seguridad Privada, cuya integración y funcionamiento se establecerá en el Reglamento de la presente Ley, de encontrarse cumplidos los requisitos se resolverá la procedencia de la solicitud y se expedirá la autorización correspondiente, en caso contrario la solicitud será desechada.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 24.
 
-Otorgada la autorización al prestador de servicios, la Comisión Estatal en cualquier momento durante el año de vigencia de la misma, podrá solicitar que acredite que cuenta con los medios humanos, de formación, técnicos, financieros y materiales que le permitan llevar a cabo la prestación de servicios de seguridad privada en forma adecuada, en las modalidades solicitadas, en caso contrario, la Comisión Estatal procederá a la revocación de la autorización.
+Otorgada la autorización al prestador de servicios, la Secretaría en cualquier momento durante el año de vigencia de la misma, podrá solicitar que acredite que cuenta con los medios humanos, de formación, técnicos, financieros y materiales que le permitan llevar a cabo la prestación de servicios de seguridad privada en forma adecuada, en las modalidades solicitadas, en caso contrario, la Secretaría procederá a la revocación de la autorización.
 
 ###### Artículo 25.
 
 De ser procedente la autorización, el solicitante deberá presentar dentro de los diez días hábiles posteriores a la notificación, los siguiente (sic) requisitos:
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Comisión Estatal haya efectuado la consulta previa de antecedentes policiales;
+I. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Secretaría haya efectuado la consulta previa de antecedentes policiales;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Comisión haya efectuado la consulta previa de antecedentes policiales;
+II. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Secretaría haya efectuado la consulta previa de antecedentes policiales;
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -389,11 +393,11 @@ III. Póliza de Fianza expedida por institución legalmente autorizada a favor d
 
 Para la revalidación de la autorización será necesario que el Prestador del Servicio, por lo menos con treinta días hábiles previos a la extinción de la vigencia de la autorización, la solicite y manifieste bajo protesta de decir verdad, no haber variado las condiciones en las que se le otorgó o, en su caso, actualice aquellas documentales que así lo ameriten, tales como inventarios, movimientos de elementos, pago de derechos, póliza de fianza, modificaciones a la constitución del Prestador del Servicio y representación del mismo y demás requisitos que se establezcan en el Reglamento, se llevará a cabo una visita de verificación por parte del Comité de Verificación y Supervisión a Empresas de Seguridad Privada, para corroborar que el Prestador del Servicio se mantiene en las mismas condiciones de su autorización.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 27.
 
-En caso de no exhibir los protestos o actualizaciones a que se refiere el artículo anterior, la Comisión Estatal prevendrá al interesado para que en un plazo improrrogable de diez días hábiles siguientes en que surta efectos la notificación, subsane tales omisiones. Transcurrido dicho plazo sin que el interesado haya subsanado las omisiones, la solicitud será desechada.
+En caso de no exhibir los protestos o actualizaciones a que se refiere el artículo anterior, la Secretaría prevendrá al interesado para que en un plazo improrrogable de diez días hábiles siguientes en que surta efectos la notificación, subsane tales omisiones. Transcurrido dicho plazo sin que el interesado haya subsanado las omisiones, la solicitud será desechada.
 
 ###### Artículo 28.
 
@@ -409,11 +413,11 @@ De ser procedente la revalidación, el solicitante deberá presentar dentro de l
 
 El Registro Estatal de Empresas de Seguridad Privada constituye un sistema de consulta y acopio de información, que se integrará con bancos de datos del Prestador del Servicio; de su personal directivo, técnico, administrativo y elementos; del equipo y, en su caso, los datos de la asignación del armamento utilizado, así como los servicios y la cobertura de los mismos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-La Comisión Estatal mantendrá actualizado este Registro, para lo cual el Prestador del Servicio está obligado a informar dentro de los primeros cinco días hábiles de cada mes sobre las altas y bajas de su personal directivo, administrativo y elementos, indicando las causas de las bajas y, en su caso, la existencia de procesos jurisdiccionales que afecten su situación laboral, así como las demás modificaciones o adiciones que sufran en sus bienes, servicios, equipo o cualquier otra que impacte en la prestación del servicio.
+La Secretaría mantendrá actualizado este Registro, para lo cual el Prestador del Servicio está obligado a informar dentro de los primeros cinco días hábiles de cada mes sobre las altas y bajas de su personal directivo, administrativo y elementos, indicando las causas de las bajas y, en su caso, la existencia de procesos jurisdiccionales que afecten su situación laboral, así como las demás modificaciones o adiciones que sufran en sus bienes, servicios, equipo o cualquier otra que impacte en la prestación del servicio.
 
 Dicha información incluye lo siguiente:
 
@@ -465,9 +469,9 @@ m) Sanciones administrativas aplicadas; y
 
 n) Cualquier procedimiento judicial en su contra, en trámite o concluido.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Para la debida integración del Registro, la Comisión Estatal informará al Prestador del Servicio por escrito, con cinco días hábiles de antelación, la fecha y hora hábil para que presente al personal directivo, administrativo y elementos en las instalaciones de ésta para efectos de su filiación, toma de huellas dactilares y fotografías, estableciéndose en el Reglamento de la presente Ley la forma y los requisitos para su filiación;
+Para la debida integración del Registro, la Secretaría informará al Prestador del Servicio por escrito, con cinco días hábiles de antelación, la fecha y hora hábil para que presente al personal directivo, administrativo y elementos en las instalaciones de ésta para efectos de su filiación, toma de huellas dactilares y fotografías, estableciéndose en el Reglamento de la presente Ley la forma y los requisitos para su filiación;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -507,9 +511,9 @@ d) Otros vehículos utilizados para el servicio.
 
 La descripción de los vehículos deberá tomar en cuenta la marca del vehículo, modelo, tipo, número de serie, número de motor y matrícula o placas de circulación y demás elementos de identificación del Prestador del Servicio al que pertenece. Los vehículos del Prestador del Servicio y del Prestatario no podrán usar torretas, sirenas, "tumba burros" o defensas diferentes a las diseñadas por el fabricante, vidrios obscuros o polarizados, inclusive colores destinados a unidades de corporaciones de seguridad pública. Las unidades deberán utilizar razón social referente al Prestador del Servicio al que pertenezcan, con dimensiones de letra legible que al afecto se establezca en caso de contar con logotipo. En ambos costados, la leyenda "Seguridad Privada" y el número de autorización para llevar a cabo dicha función, los vehículos que sean utilizados en la modalidad de seguridad privada a personas estarán exentos de considerar el balizaje señalado con antelación.
 
-> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Los vehículos utilizados en la modalidad de seguridad privada a personas únicamente deberán portar el código QR en el parabrisas y medallón que expida la Comisión Estatal a favor del prestador del servicio.
+Los vehículos utilizados en la modalidad de seguridad privada a personas únicamente deberán portar el código QR en el parabrisas y medallón que expida la Secretaría a favor del prestador del servicio.
 
 5.- Por cada radio de comunicación, de las características siguientes:
 
@@ -561,11 +565,11 @@ El Prestador del Servicio que cuente con autorización federal y del Estado de M
 
 En estos casos, se inscribirá, además de los datos establecidos en el artículo anterior, la identificación de la autorización, revalidación, modificación o cualquier otro acto administrativo similar por el que se permita prestar el servicio de seguridad privada en el territorio nacional.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 32.
 
-El prestador del servicio que tenga autorización para el uso de armamento para el servicio interno de seguridad y protección de personas e instalaciones, deberán emitir los reportes e informes solicitados por la Comisión Estatal, asimismo se ajustará a las prescripciones, controles y supervisión que determinen las instancias que aprobaron su uso y la Comisión Estatal vigilará su cumplimiento.
+El prestador del servicio que tenga autorización para el uso de armamento para el servicio interno de seguridad y protección de personas e instalaciones, deberán emitir los reportes e informes solicitados por la Secretaría, asimismo se ajustará a las prescripciones, controles y supervisión que determinen las instancias que aprobaron su uso y la Secretaría vigilará su cumplimiento.
 
 > <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -573,23 +577,23 @@ El prestador del servicio que tenga autorización para el uso de armamento para 
 
 El Prestador del Servicio informará, dentro del término señalado en el artículo 30 de la presente Ley, para el caso de no darse movimiento alguno.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-El Prestador del Servicio que omita proporcionar a la Comisión Estatal los reportes o informes que refiere el artículo anterior, se hará acreedor a la sanción prevista en esta Ley.
+El Prestador del Servicio que omita proporcionar a la Secretaría los reportes o informes que refiere el artículo anterior, se hará acreedor a la sanción prevista en esta Ley
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-Para la debida integración del Registro, la Comisión Estatal, celebrará convenios de coordinación con los gobiernos Federal, estatales y municipales, para que remitan recíprocamente la información que se indica anteriormente, misma que podrá ser consultada por dichas autoridades.
+Para la debida integración del Registro, la Secretaría, celebrará convenios de coordinación con los gobiernos Federal, estatales y municipales, para que remitan recíprocamente la información que se indica anteriormente, misma que podrá ser consultada por dichas autoridades.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 36.
 
-Toda información proporcionada a la Comisión Estatal será confidencial y solo se dará a conocer por solicitud debidamente fundada y motivada por autoridad judicial, ministerial o administrativa competente.
+Toda información proporcionada a la Secretaría será confidencial y solo se dará a conocer por solicitud debidamente fundada y motivada por autoridad judicial, ministerial o administrativa competente.
 
 ###### Artículo 37.
 
@@ -597,11 +601,11 @@ El Registro proporcionará información de acuerdo con lo establecido en la legi
 
 ### CAPITULO VI. CEDULAS DE IDENTIFICACIÓN
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 38.
 
-La Comisión Estatal proporcionará, una vez autorizados y a costa del Prestador del Servicio, las cedulas de identificación de sus elementos. La cédula será de uso obligatorio y deberá contar con la información siguiente:
+La Secretaría proporcionará, una vez autorizados y a costa del Prestador del Servicio, las cedulas de identificación de sus elementos. La cédula será de uso obligatorio y deberá contar con la información siguiente:
 
 l. Fotografía del elemento;
 
@@ -627,25 +631,27 @@ XI. Tipo de sangre;
 
 XII. Modalidad o modalidades autorizadas.
 
-La Comisión Estatal, validará los datos de los elementos, con la documentación que para el efecto requiera.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+La Secretaría, validará los datos de los elementos, con la documentación que para el efecto requiera.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
-La Comisión Estatal, dentro de los treinta días hábiles siguientes al en que se hayan recibido los documentos a que se refiere el artículo anterior, procederá a su revisión, verificación de autenticidad y legalidad, integrando el expediente respectivo del solicitante.
+La Secretaría, dentro de los treinta días hábiles siguientes al en que se hayan recibido los documentos a que se refiere el artículo anterior, procederá a su revisión, verificación de autenticidad y legalidad, integrando el expediente respectivo del solicitante.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 40.
 
-Cuando de la revisión se desprenda omisión o irregularidad en la presentación de documentos, la Comisión Estatal lo comunicará al interesado, dándole un plazo de diez días hábiles improrrogables para subsanar las omisiones o irregularidades, apercibiéndolo para el caso de no hacerlo en ese tiempo, se tendrá por no presentada la solicitud para la emisión de las cédulas y en consecuencia se deberá abstener de contratar al elemento.
+Cuando de la revisión se desprenda omisión o irregularidad en la presentación de documentos, la Secretaría lo comunicará al interesado, dándole un plazo de diez días hábiles improrrogables para subsanar las omisiones o irregularidades, apercibiéndolo para el caso de no hacerlo en ese tiempo, se tendrá por no presentada la solicitud para la emisión de las cédulas y en consecuencia se deberá abstener de contratar al elemento.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-Esta cédula deberá ser portada durante la prestación del servicio, de modo tal que sea observable a la vista. En caso de robo, pérdida o extravío de la misma, el interesado deberá reportarlo por escrito al Prestador del Servicio, quien deberá denunciarlo ante el Ministerio Público y con copia de instrumento emitido por la instancia antes señalada, solicitar su reposición a la Comisión Estatal, a través de la Agencia. En caso de baja, el Prestador del Servicio deberá recoger la cédula y entregarla. Su uso indebido será responsabilidad de quien la porta y del prestador de servicio.
+Esta cédula deberá ser portada durante la prestación del servicio, de modo tal que sea observable a la vista. En caso de robo, pérdida o extravío de la misma, el interesado deberá reportarlo por escrito al Prestador del Servicio, quien deberá denunciarlo ante el Ministerio Público y con copia de instrumento emitido por la instancia antes señalada, solicitar su reposición a la Secretaría, a través de la Agencia. En caso de baja, el Prestador del Servicio deberá recoger la cédula y entregarla. Su uso indebido será responsabilidad de quien la porta y del prestador de servicio.
 
 ### CAPITULO VII. DEL PERSONAL DIRECTIVO, ADMINISTRATIVO Y ELEMENTOS
 
@@ -653,11 +659,11 @@ Esta cédula deberá ser portada durante la prestación del servicio, de modo ta
 
 Los elementos se deberán regir, en lo conducente, por los principios de actuación y deberes de legalidad, eficiencia, profesionalismo y honradez, de conformidad con los lineamientos que señala la Ley.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 43.
 
-Previamente a su contratación, el Prestador del Servicio deberá presentar por escrito a la Comisión Estatal, la relación de los aspirantes, conteniendo nombre completo y Clave Única de Registro de Población (CURP), certificado de no antecedentes penales para que, en su caso, la Comisión Estatal efectúe las consultas indispensables ante la Procuraduría General de Justicia del Estado de México, ante el órgano competente del Sistema Nacional de Seguridad Publica, específicamente el Registro Nacional del Personal de Seguridad Pública, para que en caso de alguna irregularidad respecto de los elementos, dé vista al prestador del servicio para que en un término de tres días hábiles siguientes a aquél en que surta efectos la notificación, manifieste o aclare los elementos convincentes y documentales de dicha situación, debiéndose en consecuencia abstenerse de contratarlo, hasta en tanto se resuelva su situación para la procedencia o improcedencia de su contratación.
+Previamente a su contratación, el Prestador del Servicio deberá presentar por escrito a la Secretaría, la relación de los aspirantes, conteniendo nombre completo y Clave Única de Registro de Población (CURP), certificado de no antecedentes penales para que, en su caso, la Secretaría efectúe las consultas indispensables ante la Fiscalía General de Justicia del Estado de México, ante el órgano competente del Sistema Nacional de Seguridad Publica, específicamente el Registro Nacional del Personal de Seguridad Pública, para que en caso de alguna irregularidad respecto de los elementos, dé vista al prestador del servicio para que en un término de tres días hábiles siguientes a aquél en que surta efectos la notificación, manifieste o aclare los elementos convincentes y documentales de dicha situación, debiéndose en consecuencia abstenerse de contratarlo, hasta en tanto se resuelva su situación para la procedencia o improcedencia de su contratación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -697,9 +703,9 @@ VII. Proteger y salvaguardar todos los recursos o propiedades, materiales y huma
 
 VIII. Abstenerse de realizar la retención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales; salvo en los casos de flagrante delito y de actos que atenten contra los bienes y personas para las que preste sus servicios, deberá de hacerlo de manera inmediata y ante autoridad competente;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica, social, ideológica-política o por algún otro motivo, respetando en todo momento las leyes y reglamentos, así como los manuales, acuerdos y protocolos en los que se establezcan las operaciones, consignas y obligaciones que para el desarrollo de sus servicios emita la Comisión Estatal;
+IX. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica, social, ideológica-política o por algún otro motivo, respetando en todo momento las leyes y reglamentos, así como los manuales, acuerdos y protocolos en los que se establezcan las operaciones, consignas y obligaciones que para el desarrollo de sus servicios emita la Secretaría;
 
 X. Conducir su actuación con la decisión necesaria y sin demora en la protección de las personas y sus bienes, de la industria o comercio que tenga bajo su protección;
 
@@ -775,37 +781,37 @@ IX. Acreditar los exámenes de control de confianza.
 
 ### CAPITULO VIII. DE LAS OBLIGACIONES Y RESTRICCIONES DEL PRESTADOR DEL SERVICIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 46.
 
-La Comisión Estatal se abstendrá de otorgar la autorización a quienes por sí o por interpósita persona, con la cual tenga parentesco hasta el cuarto grado, ya sea ascendente, descendente o colateral, tengan a su cargo funciones de seguridad pública federal, estatal, municipal o militar, o quienes por razón de su empleo, cargo o comisión se encuentren vinculados con ésta. Así como abstenerse de intervenir, promover o gestionar como representante, apoderado o cualquier otra forma semejante asuntos relacionados con seguridad privada, cuando haya tenido conocimiento, tramitado o que se encuentre en el área en la cual se desempeñó como servidor público.
+La Secretaría se abstendrá de otorgar la autorización a quienes por sí o por interpósita persona, con la cual tenga parentesco hasta el cuarto grado, ya sea ascendente, descendente o colateral, tengan a su cargo funciones de seguridad pública federal, estatal, municipal o militar, o quienes por razón de su empleo, cargo o comisión se encuentren vinculados con ésta. Así como abstenerse de intervenir, promover o gestionar como representante, apoderado o cualquier otra forma semejante asuntos relacionados con seguridad privada, cuando haya tenido conocimiento, tramitado o que se encuentre en el área en la cual se desempeñó como servidor público.
 
 Esta prevención es aplicable, hasta por un año después de que el servidor público se haya retirado del empleo, cargo o comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 47.
 
-El Prestador del Servicio que cuente con autorización o revalidación vigente de la Comisión Estatal para prestar el servicio de seguridad privada, tendrán las obligaciones siguientes:
+El Prestador del Servicio que cuente con autorización o revalidación vigente de la Secretaría para prestar el servicio de seguridad privada, tendrán las obligaciones siguientes:
 
 I. Prestar los servicios de seguridad privada en los términos y condiciones establecidos en la autorización que les haya sido otorgada o en su caso, en su revalidación o modificación;
 
 II. Abstenerse de prestar los servicios de seguridad privada sin contar con la autorización o revalidación correspondiente;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. Proporcionar periódicamente al total de elementos, capacitación y adiestramiento en términos del Reglamento de la presente Ley, acorde a las modalidades de prestación del servicio, ante la Comisión Estatal, en instituciones, academias o centros de capacitación privados con reconocimiento oficial de la Comisión Nacional de Seguridad, Secretaría del Trabajo, Secretaría de Educación Pública, Secretaría de la Defensa Nacional o por el Instituto según corresponda y con la aprobación previa de esta autoridad, en los tiempos y formas que ésta determine o conforme al Reglamento de la presente Ley;
+III. Proporcionar periódicamente al total de elementos, capacitación y adiestramiento en términos del Reglamento de la presente Ley, acorde a las modalidades de prestación del servicio, ante la Secretaría, en instituciones, academias o centros de capacitación privados con reconocimiento oficial de la Comisión Nacional de Seguridad, Secretaría del Trabajo, Secretaría de Educación Pública, Secretaría de la Defensa Nacional o por el Instituto según corresponda y con la aprobación previa de esta autoridad, en los tiempos y formas que ésta determine o conforme al Reglamento de la presente Ley;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Utilizar únicamente el equipo y armamento registrado ante la Comisión Estatal;
+IV. Utilizar únicamente el equipo y armamento registrado ante la Secretaría;
 
 V. Informar sobre el cambio de domicilio fiscal o legal de la matriz, así como el de sus sucursales;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a elementos en las instituciones autorizadas, en los términos que establezca la Comisión Estatal y el Reglamento de la presente Ley;
+VI. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a elementos en las instituciones autorizadas, en los términos que establezca la Secretaría y el Reglamento de la presente Ley;
 
 VII. Atender las instrucciones que les giren las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o en cualquier otro caso;
 
@@ -849,33 +855,33 @@ XV. Utilizar uniformes y elementos de identificación de los elementos que se di
 
 XVI. Supervisar que sus elementos utilice (sic) únicamente el uniforme, armamento y equipo en los lugares y horarios de prestación del servicio;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Solicitar a la Comisión Estatal la consulta previa de los antecedentes policiales y la inscripción del personal directivo, administrativo, elementos en el Registro Estatal de Empresas, Prestadores del Servicio, Personal y Equipo de Seguridad Privada, así como la inscripción del equipo y armamento correspondiente, presentando los documentos que acrediten el pago de los derechos correspondientes;
+XVII. Solicitar a la Secretaría la consulta previa de los antecedentes policiales y la inscripción del personal directivo, administrativo, elementos en el Registro Estatal de Empresas, Prestadores del Servicio, Personal y Equipo de Seguridad Privada, así como la inscripción del equipo y armamento correspondiente, presentando los documentos que acrediten el pago de los derechos correspondientes;
 
 XVIII. Aplicar los manuales de operación conforme a la modalidad o modalidades autorizadas;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XIX. Informar a la Comisión Estatal de cualquier modificación a los estatutos de la sociedad o de las partes sociales de la misma;
+XIX. Informar a la Secretaría de cualquier modificación a los estatutos de la sociedad o de las partes sociales de la misma;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Instruir e inspeccionar que el personal operativo porte a la vista, obligatoriamente, la cédula única de identificación personal expedida por la Comisión Estatal, durante el tiempo que se encuentren en servicio;
+XX. Instruir e inspeccionar que el personal operativo porte a la vista, obligatoriamente, la cédula única de identificación personal expedida por la Secretaría, durante el tiempo que se encuentren en servicio;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXI. Reportar por escrito a la Comisión Estatal, dentro de los cinco días hábiles siguientes, el robo, pérdida o destrucción de documentación propia del Prestador del Servicio o de identificación de su personal, anexando copia de las constancias que acrediten los hechos;
+XXI. Reportar por escrito a la Secretaría, dentro de los cinco días hábiles siguientes, el robo, pérdida o destrucción de documentación propia del Prestador del Servicio o de identificación de su personal, anexando copia de las constancias que acrediten los hechos;
 
 XXII. Mantener en estricta confidencialidad, la información relacionada con el servicio;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXIII. Comunicar por escrito a la Comisión Estatal, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
+XXIII. Comunicar por escrito a la Secretaría, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXIV. Comunicar por escrito a la Comisión Estatal, todo mandamiento de autoridad que impida la libre disposición de sus bienes, en los cinco días hábiles siguientes a su notificación;
+XXIV. Comunicar por escrito a la Secretaría, todo mandamiento de autoridad que impida la libre disposición de sus bienes, en los cinco días hábiles siguientes a su notificación;
 
 XXV. Permitir el acceso, dar las facilidades necesarias, así como proporcionar toda la información requerida por las autoridades competentes, cuando desarrollen alguna visita domiciliaria;
 
@@ -887,13 +893,13 @@ XXVII. Instrumentar los mecanismos que garanticen que el elementos (sic) de segu
 
 XXVIII. Tratándose de prestadores de servicios que operen en la modalidad de traslado de bienes o valores y específicamente para el traslado de valores, se deberán utilizar vehículos blindados;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXIX. Registrar ante la Comisión Estatal, los animales con que operen y sujetar su utilización a las normas aplicables;
+XXIX. Registrar ante la Secretaría, los animales con que operen y sujetar su utilización a las normas aplicables;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXX. Rotular en el exterior del inmueble de manera legible y permanente, en la parte frontal del mismo, nombre, logotipo y leyenda del Prestador del Servicio, así como el número de la autorización otorgada por la Comisión Estatal;
+XXX. Rotular en el exterior del inmueble de manera legible y permanente, en la parte frontal del mismo, nombre, logotipo y leyenda del Prestador del Servicio, así como el número de la autorización otorgada por la Secretaría;
 
 XXXI. Contar con su Cedula del Registro Federal de Contribuyente expedido por la Secretaría de Hacienda y Crédito público, así como los demás permisos y licencias de funcionamiento, dentro del primer mes natural a su autorización.
 
@@ -913,9 +919,9 @@ III. Utilizar el uniforme, vehículos, vehículos blindados, perros, armas de fu
 
 IV. Acatar toda orden para auxiliar, en caso de urgencia, desastre o cuando así lo requieran las autoridades de seguridad pública del Estado;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Portar en lugar visible, durante el desempeño de sus funciones, la cédula única de identificación personal expedida por la Comisión Estatal que lo acredite como personal de seguridad privada, así como del equipo que se le asignó para servicio;
+V. Portar en lugar visible, durante el desempeño de sus funciones, la cédula única de identificación personal expedida por la Secretaría que lo acredite como personal de seguridad privada, así como del equipo que se le asignó para servicio;
 
 > <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -937,35 +943,35 @@ Además de las obligaciones previstas en la presente Ley, el Prestador del Servi
 
 ### CAPITULO IX. DE LA CAPACITACION
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 50.
 
-El Prestador del Servicio estará obligado a capacitar a sus elementos. Dicha capacitación se podrá llevar a cabo por el Instituto, previo pago de los derechos correspondientes o instituciones, academias o centros de capacitación privados con reconocimiento oficial y con la aprobación previa de la Comisión Estatal, a través del Instituto. El Reglamento establecerá los tiempos, formas y plazos para que se ejecute.
+El Prestador del Servicio estará obligado a capacitar a sus elementos. Dicha capacitación se podrá llevar a cabo por el Instituto, previo pago de los derechos correspondientes o instituciones, academias o centros de capacitación privados con reconocimiento oficial y con la aprobación previa de la Secretaría, a través del Instituto. El Reglamento establecerá los tiempos, formas y plazos para que se ejecute.
 
-Para el caso de la prestación de los servicios en la modalidad de seguridad privada a personas, las empresas deberán acreditar con el certificado correspondiente que expida el Instituto, que sus elementos que presten o prestaran este servicio, han sido capacitados en temas como uso racional de la fuerza, uso de armas de fuego, control de masas, derechos humanos, además de los que determine la Comisión Estatal.
+Para el caso de la prestación de los servicios en la modalidad de seguridad privada a personas, las empresas deberán acreditar con el certificado correspondiente que expida el Instituto, que sus elementos que presten o prestaran este servicio, han sido capacitados en temas como uso racional de la fuerza, uso de armas de fuego, control de masas, derechos humanos, además de los que determine la Secretaría.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 51.
 
-La Comisión Estatal establecerá como una obligación del Prestador del Servicio que su personal sea sometido a procedimientos de evaluación y control de confianza conforme a la normatividad aplicable y en los términos que establezca el Reglamento de la presente Ley.
+La Secretaría establecerá como una obligación del Prestador del Servicio que su personal sea sometido a procedimientos de evaluación y control de confianza conforme a la normatividad aplicable y en los términos que establezca el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 52.
 
-La Comisión Estatal tendrá en todo momento la facultad de corroborar con los medios idóneos, que se otorgue y se continúe periódicamente con la capacitación de sus elementos que refiere el artículo anterior.
+La Secretaría tendrá en todo momento la facultad de corroborar con los medios idóneos, que se otorgue y se continúe periódicamente con la capacitación de sus elementos que refiere el artículo anterior
 
 ###### Artículo 53.
 
 La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, objetividad eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 54.
 
-La Comisión Estatal podrá concertar acuerdos con las instituciones, academias o centros de capacitación privados con reconocimiento oficial, con el Prestador del Servicio para la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento de acuerdo a la modalidad o modalidades autorizadas y que valide el Instituto, en los términos y formas que establezca el Reglamento.
+La Secretaría podrá concertar acuerdos con las instituciones, academias o centros de capacitación privados con reconocimiento oficial, con el Prestador del Servicio para la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento de acuerdo a la modalidad o modalidades autorizadas y que valide el Instituto, en los términos y formas que establezca el Reglamento.
 
 > <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -973,17 +979,17 @@ La Comisión Estatal podrá concertar acuerdos con las instituciones, academias 
 
 Los planes y programas de capacitación y adiestramiento que se apliquen a los elementos por el Prestador del Servicio, deberán de ser actualizados y autorizados por el Instituto.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 56.
 
-La Comisión Estatal verificará en cualquier momento que el Prestador del Servicio practique a los elementos, las evaluaciones y exámenes correspondientes ante el Centro o instituciones privadas con reconocimiento oficial y aprobación de éste, para acreditar que no hacen uso de sustancias psicotrópicas, enervantes o estupefacientes y que cubren el perfil físico, médico, ético y psicológico necesario para realizar las actividades del puesto a desempeñar.
+La Secretaría verificará en cualquier momento que el Prestador del Servicio practique a los elementos, las evaluaciones y exámenes correspondientes ante el Centro o instituciones privadas con reconocimiento oficial y aprobación de éste, para acreditar que no hacen uso de sustancias psicotrópicas, enervantes o estupefacientes y que cubren el perfil físico, médico, ético y psicológico necesario para realizar las actividades del puesto a desempeñar.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 57.
 
-El Prestador del Servicio sólo asignará a los servicios, a aquellos elementos que hayan acreditado la capacitación y adiestramiento, apropiados a la modalidad del servicio que desempeñen, acreditando esta situación a la Comisión Estatal.
+El Prestador del Servicio sólo asignará a los servicios, a aquellos elementos que hayan acreditado la capacitación y adiestramiento, apropiados a la modalidad del servicio que desempeñen, acreditando esta situación a la Secretaría.
 
 ###### Artículo 58.
 
@@ -991,33 +997,33 @@ La práctica de evaluaciones y exámenes que refiere el artículo 56, se sujetar
 
 ### CAPITULO X. DEL CONSEJO DE SEGURIDAD PRIVADA DEL ESTADO
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 59.
 
-El Consejo de Seguridad Privada del Estado, es un órgano de consulta y opinión de la Comisión Estatal, que tiene por objeto la mejora continua de los servicios de seguridad privada que se presten en el Estado de México.
+El Consejo de Seguridad Privada del Estado, es un órgano de consulta y opinión de la Secretaría, que tiene por objeto la mejora continua de los servicios de seguridad privada que se presten en el Estado de México.
 
 ###### Artículo 60.
 
 El Consejo de Seguridad Privada del Estado estará integrado por:
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Un presidente, que será el titular de la Comisión Estatal, o quien éste designe en su representación;
+I. Un presidente, que será el titular de la Secretaría, o quien éste designe en su representación;
 
 II. Un secretario ejecutivo, que será nombrado por el presidente;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-III. Los Prestadores del Servicio que cuenten con autorización expedida por la Comisión Estatal;
+III. Los Prestadores del Servicio que cuenten con autorización expedida por la Secretaría;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Los Prestadores del Servicio que cuenten con autorización federal y que presten sus servicios en el territorio del Estado de México con autorización vigente de la Comisión Estatal; y
+IV. Los Prestadores del Servicio que cuenten con autorización federal y que presten sus servicios en el territorio del Estado de México con autorización vigente de la Secretaría; y
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Por invitación de la Comisión Estatal, las instituciones educativas, asociaciones de empresarios y demás instancias relacionadas directa o indirectamente con la prestación de servicio de seguridad privada, cuando así lo considere ésta.
+V. Por invitación de la Secretaría, las instituciones educativas, asociaciones de empresarios y demás instancias relacionadas directa o indirectamente con la prestación de servicio de seguridad privada, cuando así lo considere ésta.
 
 ###### Artículo 61.
 
@@ -1029,11 +1035,11 @@ El Consejo de Seguridad Privada del Estado procurara en todo momento atender y d
 
 ### CAPITULO XI. DE LAS VISITAS DE VERIFICACION
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 63.
 
-La Comisión Estatal podrá ordenar en cualquier momento la práctica de visitas de verificación al Prestador del Servicio, quien estará obligado a permitir el acceso y dar las facilidades e informes que los verificadores requieran para el desarrollo de su labor.
+La Secretaría podrá ordenar en cualquier momento la práctica de visitas de verificación al Prestador del Servicio, quien estará obligado a permitir el acceso y dar las facilidades e informes que los verificadores requieran para el desarrollo de su labor.
 
 > <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -1041,11 +1047,11 @@ La Comisión Estatal podrá ordenar en cualquier momento la práctica de visitas
 
 El objeto de la visita será comprobar que el Prestador del Servicio cuente con la autorización, el cumplimiento de las disposiciones legales y reglamentarias aplicables con las que se encuentren autorizadas, así como de las obligaciones y restricciones a que se sujeta la autorización o revalidación.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 65.
 
-La verificación será física cuando se practique sobre los bienes muebles o inmuebles; al desempeño, cuando se refiera a la actividad; al desarrollo laboral o profesional de los elementos; o bien de legalidad, cuando se corrobore que el Prestador del Servicio cuente con la autorización de la Comisión Estatal o ésta esté vigente o se analice y cerciore el cumplimiento de las disposiciones legales que se tiene la obligación de acatar.
+La verificación será física cuando se practique sobre los bienes muebles o inmuebles; al desempeño, cuando se refiera a la actividad; al desarrollo laboral o profesional de los elementos; o bien de legalidad, cuando se corrobore que el Prestador del Servicio cuente con la autorización de la Secretaría o ésta esté vigente o se analice y cerciore el cumplimiento de las disposiciones legales que se tiene la obligación de acatar.
 
 ###### Artículo 66.
 
@@ -1053,27 +1059,27 @@ Para la práctica de las visitas de verificación se estará a lo dispuesto por 
 
 ### CAPITULO XII. DE LAS MEDIDAS PARA LA CORRECTA PRESTACION DEL SERVICIO
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 67.
 
-La Comisión Estatal podrá garantizar la correcta prestación del servicio de seguridad privada en instalaciones y equipo. Dicha circunstancia se asentará en el acta que se lleve a cabo con motivo de la visita.
+La Secretaría podrá garantizar la correcta prestación del servicio de seguridad privada en instalaciones y equipo. Dicha circunstancia se asentará en el acta que se lleve a cabo con motivo de la visita.
 
 ###### Artículo 68.
 
 En términos del artículo anterior, son medidas tendientes a garantizar la correcta prestación del servicio de seguridad privada:
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. La orden que emite la Comisión Estatal por la que se disponen las providencias necesarias para eliminar un peligro a la sociedad, originado por objetos, productos y sustancias, asimismo, el retiro del uso de perros utilizados en el servicio, cuando éstos no cumplan con lo establecido en esta Ley, con las obligaciones a que se sujetó la autorización o con las demás disposiciones jurídicas y administrativas aplicables;
+I. La orden que emite la Secretaría por la que se disponen las providencias necesarias para eliminar un peligro a la sociedad, originado por objetos, productos y sustancias, asimismo, el retiro del uso de perros utilizados en el servicio, cuando éstos no cumplan con lo establecido en esta Ley, con las obligaciones a que se sujetó la autorización o con las demás disposiciones jurídicas y administrativas aplicables;
 
 II. La suspensión temporal de los servicios, cuando se ponga en peligro la seguridad de las personas y sus bienes.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 69.
 
-Cuando se detecten cualquiera de los supuestos mencionados en el artículo anterior, que pongan en peligro la salud o la seguridad de las personas o sus bienes, la Comisión Estatal, podrá ordenar la medida y su ejecución de inmediato, a través del auxilio de la fuerza pública o señalar un plazo razonable para que se subsane la irregularidad, sin perjuicio de informar a otras autoridades competentes para que procedan conforme a derecho.
+Cuando se detecten cualquiera de los supuestos mencionados en el artículo anterior, que pongan en peligro la salud o la seguridad de las personas o sus bienes, la Secretaría, podrá ordenar la medida y su ejecución de inmediato, a través del auxilio de la fuerza pública o señalar un plazo razonable para que se subsane la irregularidad, sin perjuicio de informar a otras autoridades competentes para que procedan conforme a derecho.
 
 ### CAPITULO XIII. DE LAS SANCIONES
 
@@ -1087,13 +1093,13 @@ La imposición de las sanciones por incumplimiento de las disposiciones contenid
 
 El incumplimiento por parte del Prestador del Servicio autorizado o irregular, a las obligaciones contenidas en la presente Ley y demás disposiciones jurídicas aplicables, dará lugar a la imposición de una o más de las siguientes sanciones:
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Amonestación, a través de la difusión pública de la Comisión Estatal;
+I. Amonestación, a través de la difusión pública de la Secretaría;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Suspensión de los efectos de la autorización de uno a seis meses, con difusión pública de la Comisión Estatal. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz;
+II. Suspensión de los efectos de la autorización de uno a seis meses, con difusión pública de la Secretaría. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz;
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -1103,35 +1109,49 @@ IV. Clausura del establecimiento donde el prestador del Servicio tenga su oficin
 
 V. Revocación de la autorización.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-La Comisión Estatal podrá imponer simultáneamente una o más sanciones administrativas señaladas en las fracciones anteriores y en cualquier caso, procederá al apercibimiento respectivo.
+La Secretaría podrá imponer simultáneamente una o más sanciones administrativas señaladas en las fracciones anteriores y en cualquier caso, procederá al apercibimiento respectivo.
 
 > <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
 Artículo 71 bis.- El incumplimiento por parte de los elementos autorizados, a las obligaciones contenidas en la presente Ley y demás disposiciones jurídicas aplicables, dará lugar a la imposición de una o más de las siguientes sanciones:
 
-l. Amonestación, a través de la difusión pública de la Comisión;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Suspensión de los efectos de la autorización de seis meses a un año, con difusión pública de la Comisión. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado; y
+I. Amonestación, a través de la difusión pública de la Secretaría;
 
-III. Multa de 500 a 3000 Unidades de Medida y Actualización, la cual impondrá la Comisión y se considerará un crédito fiscal, por lo que la Secretaría de Finanzas del Estado de México la hará efectiva para su cobro. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá en su caso, la cancelación definitiva de la autorización para formar parte del personal operativo del prestador del servicio.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-La Comisión podrá imponer simultáneamente una o más sanciones administrativas señaladas en las fracciones anteriores y en cualquier caso, procederá al apercibimiento respectivo.
+II. Suspensión de los efectos de la autorización de seis meses a un año, con difusión pública de la Secretaría. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado; y
 
-> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Artículo 71 ter.- En todo momento, el Prestatario se deberá conducir con estricto apego a la legalidad, respetando en todo momento la dignidad y derechos humanos de las personas, evitando abusos, arbitrariedades y violencia, con la finalidad de garantizar el adecuado desempeño de los elementos a su servicio, los cuales deberán contar con la cédula única de identificación personal expedida por la Comisión, que los acredite como personal de seguridad privada. De no ser así, se le aplicarán las siguientes sanciones:
+III. Multa de 500 a 3000 Unidades de Medida y Actualización, la cual impondrá la Secretaría y se considerará un crédito fiscal, por lo que la Secretaría de Finanzas del Estado de México la hará efectiva para su cobro. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá en su caso, la cancelación definitiva de la autorización para formar parte del personal operativo del prestador del servicio.
 
-l. Multa de 1000 a 5000 Unidades de Medida y Actualización, la cual impondrá la Comisión. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá, en su caso, el impedimento para la contratación del servicio de seguridad privada por un plazo de seis meses a un año;
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+La Secretaría podrá imponer simultáneamente una o más sanciones administrativas señaladas en las fracciones anteriores y en cualquier caso, procederá al apercibimiento respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 71 Ter.
+
+En todo momento, el Prestatario se deberá conducir con estricto apego a la legalidad, respetando en todo momento la dignidad y derechos humanos de las personas, evitando abusos, arbitrariedades y violencia, con la finalidad de garantizar el adecuado desempeño de los elementos a su servicio, los cuales deberán contar con la cédula única de identificación personal expedida por la Secretaría, que los acredite como personal de seguridad privada. De no ser así, se le aplicarán las siguientes sanciones:
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+I. Multa de 1000 a 5000 Unidades de Medida y Actualización, la cual impondrá la Secretaría. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá, en su caso, el impedimento para la contratación del servicio de seguridad privada por un plazo de seis meses a un año;
+
+> <small>(ADICIONADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
 II. Las demás que se establezcan en otros ordenamientos legales del Estado de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
-Las resoluciones por las que la Comisión Estatal aplique sanciones administrativas, deberán estar debidamente fundadas y motivadas, considerando:
+Las resoluciones por las que la Secretaría aplique sanciones administrativas, deberán estar debidamente fundadas y motivadas, considerando:
 
 I. La gravedad de la infracción en que se incurre y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ésta;
 
@@ -1147,11 +1167,11 @@ V. El monto del beneficio obtenido o, en su caso, el daño o perjuicio económic
 
 En todos los casos se dará Difusión pública a las sanciones, la cual se hará a costa del infractor, en la Gaceta del Gobierno y en uno de los diarios de mayor circulación estatal, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso, la sanción servirá de antecedente para considerarse en un nuevo trámite de solicitud de autorización.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 74.
 
-Al Prestador del Servicio en el Estado de México, con autorización federal, de la Ciudad de México o de otra Entidad, que haya sido sancionado por la Comisión Estatal, se le informará para los efectos que haya lugar.
+Al Prestador del Servicio en el Estado de México, con autorización federal, de la Ciudad de México o de otra Entidad, que haya sido sancionado por la Secretaría, se le informará para los efectos que haya lugar.
 
 > <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -1161,11 +1181,11 @@ En caso de que el Prestador del Servicio no dé cumplimiento a las resoluciones 
 
 ### CAPITULO XIV. DE LOS MEDIOS DE IMPUGNACION
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 76.
 
-Contra los actos y resoluciones administrativas que dicte o ejecute la Comisión Estatal en aplicación de esta Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme con las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones administrativas que dicte o ejecute la Secretaría en aplicación de esta Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme con las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -1256,3 +1276,75 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL ''GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
