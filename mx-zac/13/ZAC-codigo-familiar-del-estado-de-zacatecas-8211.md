@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2017-03-29"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1405,37 +1405,57 @@ III. Por nulidad.
 
 El divorcio disuelve el vínculo del matrimonio y deja a los ex-cónyuges en aptitud de contraer otro, con las restricciones establecidas por esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 214.
 
-Hay dos formas de divorcio:
+Hay cuatro formas de divorcio:
 
 I. Por mutuo consentimiento;
 
-II. Por alguna de las causas señaladas en esta ley.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Por alguna de las causas señaladas en esta ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+III. Incausado, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Administrativo.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 215.
 
-No se podrá pedir divorcio voluntario ante el Juez de Primera Instancia y de lo Familiar, sino cuando los cónyuges tengan su domicilio conyugal en la jurisdicción de dicho Juez por lo menos seis meses antes de la fecha de la demanda; para entablar divorcio necesario, el actor deberá tener igualmente su domicilio dentro de la jurisdicción del Juez ante quien se presente la demanda.
+No se podrá pedir divorcio ante el Juez de Primera Instancia y de lo Familiar, sino cuando los cónyuges tengan su domicilio conyugal en la jurisdicción de dicho Juez por lo menos seis meses antes de la fecha de la demanda; para entablar divorcio necesario, el actor deberá tener igualmente su domicilio dentro de la jurisdicción del Juez ante quien se presente la demanda.
 
 ###### ARTICULO 216.
 
 En todo juicio de divorcio las audiencias serán secretas.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 217.
 
-La muerte de uno de los cónyuges, acaecida durante el procedimiento de divorcio, sea voluntario o necesario, pone fin a él, y en todo caso, los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no se hubiese promovido el divorcio.
+La muerte de uno de los cónyuges, acaecida durante el procedimiento de divorcio, pone fin a él, y en todo caso, los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no se hubiese promovido el divorcio.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 218.
 
-La reconciliación de los cónyuges pone término al procedimiento de divorcio voluntario y necesario en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada. Los interesados deben denunciar su reconciliación ante el Juez sin que la omisión de esta noticia destruya los efectos producidos por aquélla.
+La reconciliación de los cónyuges pone término al procedimiento de divorcio, en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada. Los interesados deben denunciar su reconciliación ante el Juez sin que la omisión de esta noticia destruya los efectos producidos por aquélla.
 
 ###### ARTICULO 219.
 
 La ley presume la reconciliación después de promovido el divorcio, al haber cohabitación entre los cónyuges.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 220.
 
-Cuando los cónyuges dejaren pasar más de seis meses sin continuar el procedimiento de divorcio, ya se trate del voluntario o del necesario, el Tribunal declarará de oficio la caducidad del mismo y mandará archivar el expediente.
+Cuando los cónyuges dejaren pasar más de seis meses sin continuar el procedimiento de divorcio, el Tribunal, o la autoridad que conozca, declarará de oficio la caducidad del mismo y mandará archivar el expediente.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1503,9 +1523,33 @@ El Juez presidirá personalmente las juntas de avenimiento en los divorcios volu
 
 Si el convenio no fuere aprobado, no podrá decretarse el divorcio.
 
-### CAPITULO DECIMO CUARTO. DEL CONCUBINATO
+### CAPITULO DECIMO TERCERO BIS. DIVORCIO INCAUSADO
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 BIS.- El divorcio incausado podrá solicitarse por uno de los cónyuges ante el Juez competente, sin que sea necesario señalar la causa por el cual lo solícita.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 TER.- El cónyuge promovente del divorcio deberá acompañar a su solicitud, una propuesta de convenio que deberá contener los siguientes requisitos:
+
+I. La designación del progenitor que tendrá la guarda y custodia de los hijos;
+
+II. El modo de costear las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+
+III. Designación del cónyuge que hará uso del domicilio conyugal y del menaje;
+
+IV. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta su liquidación, así como la forma de liquidarla. Para ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad conyugal, las capitulaciones matrimoniales y el proyecto de partición;
+
+V. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la indemnización en los términos de este Código, el Juez resolverá atendiendo las circunstancias especiales de cada caso, y
+
+VI. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 QUATER.- El Juez está obligado a suplir la deficiencia de las partes en el convenio propuesto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 231.
 
@@ -1653,13 +1697,41 @@ El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino de
 
 Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio, es indispensable que hayan transcurrido seis meses después que obtuvieron el divorcio.
 
-### CAPITULO PRIMERO. DEL PARENTESCO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPITULO SEGUNDO. DE LOS ALIMENTOS
+### CAPITULO DECIMO TERCERO TER. DIVORCIO ADMINISTRATIVO
 
-### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 QUINQUIES.- Se entiende por divorcio administrativo, cuando ambos cónyuges convengan en divorciarse, y cubran todos los siguientes requisitos:
+
+I. Sean mayores de edad;
+
+II. No tengan hijos;
+
+III. La mujer demuestre que no está embarazada, y
+
+IV. Hubieren liquidado de común acuerdo la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial.
+
+Para el trámite respectivo deberán presentarse ante el Oficial del Registro Civil quien los identificará previamente y a quien le manifestarán su intención de divorciarse, comprobando los requisitos antes señalados.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 SEXIES.- El Oficial del Registro Civil levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los 15 días, si los cónyuges la ratifican, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el acta de matrimonio.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 SEPTIES.- El divorcio administrativo será nulo si se demuestra que los cónyuges mintieron sobre los requisitos para obtener el divorcio, sin perjuicio de la responsabilidad penal correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 OCTIES.- Para el caso que los solicitantes del divorcio administrativo no hayan celebrado su matrimonio ante el Oficial del Registro Civil que conozca del asunto, éste, una vez declarado el divorcio, remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas a este efecto.
+
+### CAPITULO DECIMO CUARTO. DEL CONCUBINATO
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO PRIMERO. DEL PARENTESCO
 
 ###### ARTICULO 241.
 
@@ -1693,7 +1765,7 @@ La concubina no tiene derecho a usar el apellido del concubino, aun cuando los h
 
 ## TITULO SEGUNDO
 
-### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
+### CAPITULO SEGUNDO. DE LOS ALIMENTOS
 
 ###### ARTICULO 245.
 
@@ -1747,7 +1819,7 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
 
-### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
+### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1953,15 +2025,17 @@ Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
 
-### CAPITULO TERCERO. DE LA FILIACION DE LOS HIJOS
+### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
+
+### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO CUARTO. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS
-
 ## TITULO TERCERO
 
-### CAPITULO QUINTO. DE LA LEGITIMACION
+### CAPITULO TERCERO. DE LA FILIACION DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 284.
 
@@ -1975,9 +2049,7 @@ La filiación resulta de las presunciones legales, o del nacimiento, o del recon
 
 El Estado, a través de la autoridad y organismos que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación a quienes hayan llegado a la pubertad.
 
-### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO CUARTO. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS
 
 ###### ARTICULO 287.
 
@@ -2081,9 +2153,7 @@ II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la v
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO SEPTIMO. DE LA ADOPCION
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+### CAPITULO QUINTO. DE LA LEGITIMACION
 
 ###### ARTICULO 306.
 
@@ -2103,9 +2173,9 @@ En defecto de esa posesión de estado son admisibles todos los medios ordinarios
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPÍTULO OCTAVO. DE LA ADOPCIÓN PLENA
+### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 309.
 
@@ -2161,9 +2231,9 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
+### CAPITULO SEPTIMO. DE LA ADOPCION
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 316.
 
@@ -2191,9 +2261,9 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPÍTULO DÉCIMO. DE LA ADOPCIÓN INTERNACIONAL
+### CAPÍTULO OCTAVO. DE LA ADOPCIÓN PLENA
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 322.
 
@@ -2365,9 +2435,9 @@ III. A percibir la porción hereditaria que fije la ley en caso de intestado, o 
 
 La acción que compete al hijo para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
 
-### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 351.
 
@@ -2495,7 +2565,9 @@ c) El consentimiento del menor o incapacitado a la adopción, cuando sea necesar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+### CAPÍTULO DÉCIMO. DE LA ADOPCIÓN INTERNACIONAL
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 364 Ter.
 
@@ -2537,7 +2609,9 @@ No pueden adoptar mediante adopción plena, las personas que tengan vínculo de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 364 Nonies.
 
@@ -2601,9 +2675,7 @@ Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
 ###### ARTICULO 369 Bis.
 
@@ -2635,7 +2707,7 @@ ARTICULO 369 Quintus.- Una vez decretada la adopción, el Sistema Estatal para e
 
 ## TITULO CUARTO. DE LA PATRIA POTESTAD
 
-### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
+### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
 
 ###### ARTICULO 370.
 
@@ -2725,7 +2797,9 @@ Además del Ministerio Público tiene acción para demandar la pérdida de la pa
 
 El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
 
-### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 384.
 
@@ -2811,7 +2885,7 @@ Los Jueces tienen facultad para tomar las medidas necesarias para impedir que, p
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
+### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTICULO 401.
 
@@ -2903,7 +2977,7 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ## TITULO QUINTO. DE LA TUTELA
 
-### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
 
 ###### ARTICULO 408.
 
@@ -3011,7 +3085,7 @@ El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO SEXTO. DE LA TUTELA DATIVA
+### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
 
 ###### ARTICULO 428.
 
@@ -3063,7 +3137,7 @@ Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltar
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 440.
 
@@ -3099,7 +3173,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 1992)</small>
 
-### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO SEXTO. DE LA TUTELA DATIVA
 
 ###### ARTICULO 444.
 
@@ -3125,7 +3199,7 @@ A falta de tutor testamentario y de persona que con apego a los artículos anter
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
 
-### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### ARTICULO 450.
 
@@ -3139,7 +3213,7 @@ Los directores de los hospitales y demás instituciones de beneficencia, donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 453.
 
@@ -3205,7 +3279,7 @@ Si el menor sujeto a tutela dativa en los términos establecidos en este Capítu
 
 Siempre que por cualquier circunstancia, no existiere tutela ni quien ejerciere la patria potestad, en tanto se provee a la tutela que corresponda, le será nombrado un tutor dativo por el Juez de Primera Instancia del lugar.
 
-### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 463.
 
@@ -3283,7 +3357,7 @@ En el caso de que se trata en el artículo anterior, se proveerá a la tutela co
 
 Absuelto un tutor, volverá al ejercicio de su cargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de dos años de prisión.
 
-### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
+### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 471.
 
@@ -3331,7 +3405,7 @@ El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeña la 
 
 Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios deberán dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
+### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 479.
 
@@ -3415,7 +3489,7 @@ Si los tutores son varios, sólo se exigirá, a cada uno de ellos, garantía por
 
 El Juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
 
-### CAPITULO DECIMO CUARTO. DEL CURADOR
+### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
 
 ###### ARTICULO 493.
 
@@ -3685,7 +3759,7 @@ En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitad
 
 Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo 544, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
 
-### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
+### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTICULO 547.
 
@@ -3761,7 +3835,7 @@ La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan s
 
 Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
+### CAPITULO DECIMO CUARTO. DEL CURADOR
 
 ###### ARTICULO 563.
 
@@ -3775,7 +3849,7 @@ II. Cuando el incapacitado sujeto a tutela entre a la patria potestad.
 
 La muerte, incapacidad del tutor o ausencia declarada legalmente termina la tutela con relación al tutor. Tan pronto como llegue a conocimiento del Juez que un tutor ha muerto, o ha sido declarado incapaz o ausente, promoverá de inmediato el nombramiento del nuevo tutor.
 
-### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
 
 ###### ARTICULO 565.
 
@@ -3829,7 +3903,7 @@ Todas las acciones por hechos relativos a la administración de la tutela que el
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
+### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
 
 ###### ARTICULO 578.
 
@@ -3905,7 +3979,7 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a esta ley tenga que intervenir un curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le cubrirán conforme a derecho.
 
-### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTICULO 594.
 
@@ -3939,7 +4013,7 @@ Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren
 
 ## TITULO SEXTO
 
-### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 601.
 
@@ -3997,7 +4071,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes y tiene capaci
 
 ## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
+### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 610.
 
@@ -4105,7 +4179,7 @@ Cada seis meses, en el día correspondiente al que hubiere sido nombrado el repr
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que siga el ausente, y es causa legítima de remoción.
 
-### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 632.
 
@@ -4153,7 +4227,7 @@ La declaración de ausencia se publicará por una vez en el Periódico Oficial y
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne a los negocios de mayor interés.
 
-### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
+### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
 
 ###### ARTICULO 641.
 
@@ -4233,7 +4307,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o si prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes, con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que han tenido la posesión provisional.
 
-### CAPITULO UNICO
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 659.
 
@@ -4251,7 +4325,7 @@ Si no hubiere sociedad conyugal y el cónyuge presente no fuere heredero ni tuvi
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO PRIMERO
+### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 663.
 
@@ -4319,7 +4393,7 @@ La sentencia que declare la presunción de muerte de uno de los cónyuges, termi
 
 En el caso en que el cónyuge presente no fuere heredero, tendrá derecho a alimentos.
 
-### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
+### CAPITULO UNICO
 
 ###### ARTICULO 674.
 
@@ -4341,7 +4415,7 @@ Lo dispuesto en los artículos anteriores, debe entenderse sin perjuicio de las 
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, o sus acciones no sean ejercitadas por sus representantes o por sus causahabientes.
 
-### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
+### CAPITULO PRIMERO
 
 ###### ARTICULO 679.
 
@@ -4361,9 +4435,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ## TITULO OCTAVO. DEL PATRIMONIO DE FAMILIA
 
-### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
 
 ###### ARTICULO 683.
 
@@ -4537,7 +4609,7 @@ Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pl
 
 ## TITULO NOVENO. DEL NOMBRE DE LA MUJER CASADA, SOLTERA, VIUDA O DIVORCIADA
 
-### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
+### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
 
 ###### ARTICULO 704.
 
@@ -4583,6 +4655,10 @@ Si la viuda usaba su apellido propio, continuará con éste, sin tener derecho a
 
 La madre soltera continuará con su mismo nombre, aunque sus hijos sean reconocidos por su padre y lleven el apellido de éste.
 
+### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 712.
 
 El Estado reconoce a la familia personalidad jurídica, es una persona moral, titular de derechos y obligaciones.
@@ -4614,6 +4690,8 @@ La naturaleza jurídica del representante de la familia, es la de un mandatario 
 ###### ARTICULO 719.
 
 Cuando alguno de los miembros de la familia integre otra, dejará de formar parte de la primera.
+
+### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
 
 ###### ARTICULO 720.
 
@@ -4954,3 +5032,13 @@ P.O. 29 DE MARZO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan las disposiciones del presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 192 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor ciento ochenta días después de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Dentro de los noventa días siguientes a la publicación del presente Decreto, se harán las modificaciones que correspondan al Código de Procedimientos Civiles vigente en el Estado y a los demás ordenamientos legales que sean necesarios para la plena vigencia de este instrumento legal.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
