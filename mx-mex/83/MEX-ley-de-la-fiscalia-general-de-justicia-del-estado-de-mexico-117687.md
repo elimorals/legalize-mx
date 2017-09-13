@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2017-09-05"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -167,13 +169,17 @@ XVI. Promover la participación responsable de la sociedad civil y los medios de
 
 XVII. Establecer medios de información sistemática y directa con la sociedad, de sus actividades, garantizando el acceso a la información de la Fiscalía, en los términos y con las limitantes establecidas en la Constitución Federal, la Constitución del Estado y en las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Crear los mecanismos de supervisión, control y seguimiento de las actuaciones que realice el personal que la integran, en relación a las disposiciones jurídicas con perspectiva de género.
+XVIII. Compartir las bases de datos e información de que disponga en materia delictiva para la consolidación de una plataforma única de información preventiva y para la investigación de los delitos.
 
-> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+Los niveles de acceso y características de la información serán definidos en el protocolo en materia de investigación que emita el Fiscal General, y
 
-XIX. Atender de manera oficiosa las denuncias que se presenten por hechos que puedan ser constitutivos de delitos relacionados con la violencia de género.
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XX, VÉASE PUBLICACIONES OFICIALES DE FECHAS 5 Y 13 DE SEPTIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Las demás previstas en las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -703,6 +709,10 @@ III. Registrar sus actuaciones en el sistema informático de la Fiscalía, bajo 
 
 IV. Iniciar la carpeta de investigación si de los datos aportados por la o el denunciante o querellante y los recabados por éste, se desprende la probable comisión de un hecho delictivo.
 
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+Las corporaciones policiales de la Secretaría de Seguridad y de los municipios del Estado de México, tienen la obligación de colaborar con la Fiscalía y cumplir con los mandamientos que al efecto instruya el Ministerio Público en ejercicio de su función.
+
 V. Recabar autorización de la o el Fiscal General o de la o el servidor público en que delegue esta función, para practicar las diligencias que en términos del Código Nacional así se requiera.
 
 VI. Ejercer la conducción y mando de la Policía de Investigación y otras instituciones policiales, en coordinación con los servicios periciales y las áreas de información y análisis, en la investigación de los delitos, en forma continua, sin dilaciones y hasta la conclusión legal de la misma, de conformidad con las disposiciones legislativas aplicables.
@@ -818,6 +828,8 @@ II. Instruir y cerciorarse de que se ha seguido la cadena de custodia de los ind
 III. Determinar, en funciones de conducción y mando. los hechos concretos, personas, domicilios y demás lugares u objetos que deben ser investigados por la Policía de Investigación, además requerir documentación a otras autoridades y a las y los particulares, así como solicitar los peritajes, informes u opiniones técnicas a que haya lugar.
 
 IV. Ordenar a la Policía, a sus auxiliares u otras autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, la práctica de diligencias conducentes para el esclarecimiento del hecho probablemente delictivo así como analizar y aprobar las que dichas autoridades hubieren practicado o el apoyo para el debido ejercicio de su función.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 244, PUBLICADO EN EL P.O. 13 DE SEPTIEMBRE DE 2017, CUANDO EN OTROS ORDENAMIENTOS LEGALES, ADMINISTRATIVOS, DOCUMENTACIÓN, PAPELERÍA SE HAGA REFERENCIA A LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, SE ENTENDERÁ QUE SE REFIEREN A LA SECRETARÍA DE SEGURIDAD.]</small>
 
 Las corporaciones policiales de la Comisión Estatal de Seguridad Ciudadana y de los municipios del Estado de México, tienen la obligación de colaborar con la Fiscalía y cumplir con los mandamientos que al efecto instruya el Ministerio Público en ejercicio de su función.
 
@@ -1175,7 +1187,7 @@ XVII. Vigilar que las actividades de las unidades administrativas de la Fiscalí
 
 XVIII. Verificar el adecuado ejercicio del presupuesto de la dependencia u organismo auxiliar de su adscripción, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
 
-XIX. Informar al Titular de la Fiscalía Especializada en Combate a la Corrupción sobre los resultados obtenidos en la materia, dentro del ámbito de su competencia. y
+XIX. Informar al Titular de la Fiscalía Especializada en Combate a la Corrupción sobre los resultados obtenidos en la materia, dentro del ámbito de su competencia, y
 
 XX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
@@ -1679,8 +1691,80 @@ VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestale
 
 G.G. 5 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL ''GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
