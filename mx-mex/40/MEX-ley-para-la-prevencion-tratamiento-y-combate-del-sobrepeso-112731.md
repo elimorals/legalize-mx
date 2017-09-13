@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-tratamiento-y-combate-del-sobrepeso-1127
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-17"
-last_updated: "2016-02-17"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,290 +21,506 @@ state: "MEX"
 ---
 # LEY PARA LA PREVENCION, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MEXICO Y SUS MUNICIPIOS
 
-REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
+LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
-REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de febrero de 2016,
 
-### Capítulo I. Disposiciones generales
+ERUVIEL ÁVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-###### Artículo 1o.
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-Este reglamento se expide de conformidad con el Decreto de 16 de agosto de 1984, publicado en el Diario Oficial de la Federación el 17 de agosto de 1984, que reformó y adicionó el de 14 de febrero de 1978, publicado en el Diario Oficial de la Federación del 24 del mismo mes, respecto a la creación y objeto del Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en este Reglamento se designará como Pronósticos.
+DECRETO NÚMERO 64
 
-###### Artículo 2o.
+LA H. “LIX” LEGISLATURA DEL ESTADO DE MÉXICO
 
-El sorteo Tris de números consiste en la selección o pronóstico que haga el participante de cuatro dígitos formando un número determinado del 0000 al 9999, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que el número sorteado corresponda a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
+DECRETA:
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+###### ARTÍCULO ÚNICO.
 
-###### Artículo 3o.
+Se expide la Ley para la Prevención, Tratamiento y Combate del Sobrepeso, Obesidad y Trastornos Alimentarios del Estado de México y sus Municipios, para quedar como sigue:
 
-Para los efectos de este reglamento, se entenderá por:
+LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+###### Artículo 1.
 
-3.- Sorteo.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la Selección de Ganadores.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de México.
 
-4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el concursante anota sus preferencias.
+###### Artículo 2.
 
-5.- Combinación.- El conjunto de los cuatro números asentados en un volante, con las modalidades señaladas en el artículo 4o. del presente reglamento.
+La presente Ley tiene como objeto:
 
-6.- Boleto.- Es el documento impreso por la terminal por medio de la que fue vendida la apuesta, y que se entrega como comprobante al concursante, una vez cubierto el importe de las combinaciones que contenga.
+I. Proveer un marco jurídico que permita desarrollar los mecanismos y las herramientas necesarias para prevenir, atender y combatir el sobrepeso, la obesidad y los trastornos alimentarios, así como promover un aumento de la activación física de las personas y la adopción de hábitos alimenticios y nutricionales correctos.
 
-El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
+II. Definir las bases generales para el diseño, la ejecución y evaluación de las estrategias, programas y políticas públicas a través del desarrollo de acciones coordinadas y de responsabilidad compartida entre las diferentes instituciones y órdenes de gobierno, en los ámbitos educativo, social, económico, político, cultural y de salud que tengan como finalidad prevenir, atender y combatir el sobrepeso, la obesidad y los trastornos alimentarios, así como fomentar de manera permanente e intensiva la activación física de las personas y la adopción de hábitos alimenticios y nutricionales correctos.
 
-Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
+III. Prevenir, atender y combatir el sobrepeso, la obesidad y los trastornos alimentarios, así como fomentar de manera permanente e intensiva la activación física de las personas y la adopción de hábitos alimenticios y nutricionales correctos.
 
-7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
+IV. Establecer los mecanismos necesarios de carácter administrativo para prevenir, atender y combatir el sobrepeso, la obesidad y los trastornos alimentarios de conformidad con lo establecido en la presente Ley.
 
-8.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada sorteo mediante los sistemas electrónicos de computación instalados en las Oficinas Generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
+V. Crear programas de promoción entre la población que tengan como objetivo la prevención, atención y combate del sobrepeso, la obesidad y los trastornos alimentarios, que incluyan la ingesta de productos que integren una alimentación correcta, equilibrada y la disminución de alimentos excesivos en azucares, harinas, grasas y sal.
 
-###### Artículo 4o.
+VI. Distribuir competencias entre las autoridades públicas del Estado de México y sus municipios, respecto de la prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios en toda la población de conformidad con lo establecido en la presente Ley.
 
-El sorteo Tris de números tendrá catorce modalidades que Pronósticos podrá ofrecer al público separadamente y con la oportunidad que considere conveniente: directa; candado de seis; candado de tres; par inicial; inicial; par final; final; supercandado de seis; supercandado de tres; Tris de cuatro; supercandado de veinticuatro; supercandado de doce; supercandado de seis y supercandado de cuatro.
+###### Artículo 3.
 
-a) La modalidad directa consiste en seleccionar un número de tres dígitos que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+Para efectos de la presente Ley, se entiende por:
 
-b) La modalidad candado de seis consiste en seleccionar un número de tres dígitos diferentes que será ganador si cualquiera de sus seis permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+I. Consejo Estatal: al Consejo Estatal para la Prevención, Tratamiento y Combate al Sobrepeso, Obesidad y Trastornos Alimentarios.
 
-c) La modalidad candado de tres consiste en seleccionar un número de tres dígitos con uno de ellos repetido, que será ganador si cualquiera de sus tres permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+II. Comités Municipales: a los Comités Municipales para la Prevención, Tratamiento y Combate al Sobrepeso, Obesidad y Trastornos alimentarios del Estado de México.
 
-d) La modalidad par inicial consiste en seleccionar un número de dos dígitos, el de las centenas y el de las decenas, que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el de las centenas y el de las decenas del número que salga en el sorteo.
+III. Programa Estatal: al Programa para la Prevención, Tratamiento y Combate al Sobrepeso, Obesidad y Trastornos alimentarios del Estado de México y sus Municipios.
 
-e) La modalidad inicial consiste en seleccionar un número de un dígito, el de las centenas, que será ganador si coincide precisamente con el dígito de las centenas del número que salga en el sorteo.
+IV. Secretaría: a la Secretaría de Salud del Estado de México.
 
-f) La modalidad par final consiste en seleccionar un número de dos dígitos, el de las decenas y de las unidades, que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el de las decenas y el de las unidades del número que salga en el sorteo.
+V. Trastornos Alimentarios: a las perturbaciones externas e internas del individuo que tienen como consecuencia anomalías graves para la salud, derivado de la ingesta o no de alimentos.
 
-g) La modalidad final consiste en seleccionar un número de un dígito, el de las unidades, que será ganador si coincide precisamente con el dígito de las unidades del número que salga en el sorteo.
+###### Artículo 4.
 
-h) La modalidad supercandado de seis consiste en seleccionar un número de tres dígitos diferentes, que será ganador si cualquiera de sus seis permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será seis veces superior al de la modalidad candado de seis.
+Son autoridades competentes para prevenir, tratar y combatir el sobrepeso, la obesidad y trastornos alimentarios en el Estado de México y sus municipios:
 
-i) La modalidad supercandado de tres consiste en seleccionar un número de tres dígitos uno de ellos repetido, que será ganador si cualquiera de sus tres permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será tres veces superior al de la modalidad candado de tres.
+I. El Gobernador del Estado.
 
-j) La modalidad tris de cuatro consiste en seleccionar un número de cuatro dígitos que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+II. La Secretaría.
 
-k) La modalidad supercandado de veinticuatro consiste en seleccionar un número de cuatro dígitos diferentes, que será ganador si cualquiera de sus veinticuatro permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será veinticuatro veces superior al de la modalidad tris de cuatro.
+III. La Secretaría de Educación.
 
-l) La modalidad supercandado de doce consiste en seleccionar un número de cuatro dígitos, uno de ellos repetido, que será ganador si cualquiera de sus doce permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será doce veces superior al de la modalidad tris de cuatro.
+IV. La Secretaría de Desarrollo Social.
 
-m) La modalidad supercandado de seis consiste en seleccionar un número de cuatro dígitos, dos de ellos repetidos, que será ganador si cualquiera de sus seis permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será seis veces superior al de la modalidad tris de cuatro.
+V. La Secretaría de Cultura.
 
-n) La modalidad supercandado de cuatro consiste en seleccionar un número de cuatro dígitos, uno de ellos repetido tres veces, que será ganador si cualquiera de sus cuatro permutaciones posibles coincide precisamente dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será cuatro veces superior al de la modalidad tris de cuatro.
+VI. El Consejo Estatal.
 
-###### Artículo 5o.
+VII. Los comités municipales.
 
-Con la misma selección de dígitos que haga el participante, podrá participar en dos o más modalidades de la oferta que haga Pronósticos, efectuando el pago del importe de cada una de ellas.
+VIII. Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-### Capítulo II. Procedimiento para participar
+### CAPÍTULO SEGUNDO. DEL CONSEJO ESTATAL PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS
 
-###### Artículo 6o.
+###### Artículo 5.
 
-Sólo se podrá participar en el sorteo Tris de números utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante terminales (dispositivo electrónico) aprobadas por Pronósticos, por dictado del concursante al agente autorizado o a través de una selección automática y aleatoria efectuada por la terminal (Trismático). Sus agentes autorizados los proporcionarán a todo posible participante
+El Consejo Estatal será la instancia colegiada permanente de diseño, consulta, evaluación y coordinación de las estrategias y programas en materia de prevención, atención y disminución del sobrepeso, obesidad y trastornos alimentarios en el Estado de México y municipios.
 
-###### Artículo 7o.
+###### Artículo 6.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta de Tris de Números mediante el uso de terminales (dispositivo electrónico) que:
+El Consejo Estatal estará integrado por:
 
-a) Por lectura óptica del volante llenado por el participante indicando la modalidad que desea jugar y su selección de números, o bien mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprima, numere y expida el boleto que, contra su pago, debe ser entregado al participante como comprobante de su participación.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-b) En un proceso simultáneo, al estar conectada la terminal a un computador central, transmita y grabe en un módulo de almacenamiento electrónico las selecciones de Tris de números vendidas para integrar el Registro General de Tris de números participantes.
+I. Un Presidente, que será el Titular de la Secretaría de Salud.
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste señale.
+II. Un Secretario Técnico, que será el titular de la Subdirección de Prevención y Control de Enfermedades del Instituto de Salud del Estado de México.
 
-###### Artículo 8o.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-Pronósticos podrá utilizar terminales (dispositivo electrónico) para la venta en sus oficinas.
+III. Cinco vocales, que serán los siguientes:
 
-###### Artículo 9o.
+a) (DEROGADO, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-Para los efectos de estas disposiciones se entenderá por terminal, el aparato electrónico cuya función consiste en captar los datos de la selección hecha por el participante, bien sea por lectura óptica del volante o por digitación de los datos, emitir señales al computador central y expedir los boletos que comprueben la participación en el sorteo.
+b) El titular de la Secretaría de Educación.
 
-###### Artículo 10o.
+c) El titular de la Secretaría de Desarrollo Social.
 
-Los boletos expedidos por las terminales (dispositivo electrónico) podrían no ser transcritos por Pronósticos en el Registro General de Tris de números participantes, cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, se justifique el no registro, el tenedor del boleto que no haya sido transcrito en los términos mencionados:
+d) El titular de la Secretaría de Cultura.
 
-a) Tendrá derecho a la devolución del importe pagado contra entrega del boleto al agente autorizado que lo hubiere vendido, o presentándolo en las oficinas generales de Pronósticos.
+e) La Directora General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-b) Tendrá derecho al pago de su premio, siempre y cuando se corrobore que los códigos de seguridad y las numeraciones de los boletos sean legítimos.
+f) El Diputado Presidente de la Comisión Legislativa de Salud, Asistencia y Bienestar Social del Poder Legislativo del Estado de México.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+IV. Invitados, que serán:
 
-###### Artículo 11o.
+a) Tres representantes del sector social.
 
-Los boletos de Tris de números son documentos al portador y no títulos de crédito. Su adquisición entraña la celebración de un contrato aleatorio de juego con cláusulas de adhesión, el cual genera los derechos y obligaciones que se establecen en el presente reglamento.
+b) Tres del sector privado.
 
-Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
+c) Tres del sector académico.
 
-###### Artículo 12o.
+El Presidente determinará a los invitados, considerando a las organizaciones de la sociedad civil, organismos empresariales, empresas con responsabilidad social y/o micro pequeñas y medianas empresas mexicanas (MIPYMES) con causa y centros universitarios, cuya trayectoria profesional los vincule con los objetivos del Consejo Estatal.
 
-El boleto deberá contener los siguientes datos:
+Los integrantes del Consejo Estatal tendrán carácter honorífico y derecho a voz y voto, con excepción del secretario y los invitados, quienes sólo tendrán derecho a voz.
 
-I.- El registro de los números pronosticados por el participante en su selección de dígitos.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II.- La modalidad que eligió de las disponibles en la oferta del sorteo.
+Las determinaciones del Consejo Estatal se tomarán por mayoría de votos. Los integrantes designarán un suplente con excepción del Secretario Técnico.
 
-III.- El número de identificación del boleto e importe pagado por él.
+###### Artículo 7.
 
-IV.- Claves de seguridad.
+La operación, organización y funcionamiento del Consejo Estatal se establecerán en el reglamento de la presente Ley.
 
-V.- Número y fecha del sorteo; y,
+###### Artículo 8.
 
-VI.- La mención de que es un documento al portador que se deriva de un contrato de adhesión con los derechos y obligaciones que se señalan en este reglamento de Tris de números, el cual el adquirente declara conocer, sujetándose al mismo y a las condiciones especiales de su oferta al público.
+El Consejo Estatal sesionará ordinariamente dos veces al año y de manera extraordinaria las que sean necesarias previa convocatoria del Presidente.
 
-VII.- Caducidad del boleto: 60 días naturales contados a partir del día siguiente de la celebración del sorteo.
+###### Artículo 9.
 
-###### Artículo 13o.
+El Consejo Estatal tendrá las funciones siguientes:
 
-Para mantener una distribución razonable del sorteo, Pronósticos podrá limitar temporalmente la aceptación de selecciones de números.
+I. Aprobar el Programa Estatal y los Programas Municipales.
 
-###### Artículo 14o.
+II. Diseñar, formular, emitir y evaluar políticas, estrategias, acciones y mecanismos adicionales que permitan la prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios, fomento, adopción de hábitos alimenticios y nutricionales correctos y la activación física de las personas.
 
-El agente autorizado remitirá a las oficinas generales de Pronósticos, por los medios y conductos que éste apruebe y dentro del plazo que fije, el importe de los Tris de Números vendidos.
+III. Coordinarse y participar con los comités municipales en los programas que propongan e implementen.
 
-### Capítulo III. Del sorteo
+IV. Expedir y aprobar su reglamento interno.
 
-###### Artículo 15o.
+V. Las demás que le corresponda en los términos de la presente Ley.
 
-Podrán tenerse sorteos diarios y se celebrarán en las fechas previstas en la oferta que Pronósticos haga al público.
+### CAPÍTULO TERCERO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-###### Artículo 16o.
+###### Artículo 10.
 
-Todos los sorteos se verificarán en lugar al cual tenga libre acceso el público.
+Las dependencias, órganos desconcentrados y organismos auxiliares de la administración pública estatal y los municipios, en el ámbito de sus competencias, desarrollarán las acciones necesarias para dar cumplimiento al objeto de la presente Ley, en coordinación con la Secretaría.
 
-Pronósticos publicará en los diarios de mayor circulación, al siguiente día al que se hubiere verificado el sorteo, el número de cuatro dígitos ganador.
+###### Artículo 11.
 
-###### Artículo 17o.
+Las dependencias, órganos desconcentrados y organismos auxiliares de la administración pública estatal y los municipios, establecerán rutinas de activación física dentro de sus instalaciones, que permitan modificar hábitos laborales de sedentarismo y que brinden beneficios a la salud de los trabajadores, promoviendo espacios deportivos y de recreación para que su personal acceda de manera gratuita.
 
-El día y hora fijados para cada sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en cada una de cuatro tómbolas, una para las unidades, otra para las decenas, otra para las centenas y otra para las unidades de millar; diez esferas iguales en todas sus características, cada una identificada con un número o dígito diferente del 0 al 9 inclusive.
+Los particulares fomentarán que dentro de sus instalaciones se destinen horarios para establecer rutinas de activación física.
 
-Ante la presencia del mismo Inspector se procederá a extraer al azar, de la tómbola de las unidades, una de las esferas cuyo número será el dígito ganador para las unidades, de la tómbola de las decenas una esfera cuyo número será el dígito ganador para las decenas, de la tómbola de las centenas una esfera cuyo número será el dígito ganador para las centenas, y de la tómbola de las unidades de millar una esfera cuyo número será el dígito ganador para las unidades de millar. De esta manera, los dígitos de las esferas extraídas al azar y en su orden de salida formarán el número ganador.
+Para el desarrollo de estas acciones, las dependencias, órganos desconcentrados y organismos auxiliares de la administración pública estatal y los municipios deberán coordinarse con la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+###### Artículo 12.
 
-###### Artículo 18o.
+Corresponde a la Secretaría:
 
-Concluido el sorteo y determinado el número sorteado, también en presencia del inspector designado por la Secretaría de Gobernación, se procederá a efectuar la selección de los Tris de números ganadores, identificando las selecciones que hayan acertado al número sorteado. Se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo, dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+I. Formular y difundir el Programa Estatal.
 
-El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
+II. Garantizar los servicios de salud que prevengan, traten y combatan el sobrepeso, la obesidad y los trastornos alimentarios en el Estado de México y municipios.
 
-Estarán presentes también en el desarrollo y la celebración del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
+III. Promover los hábitos alimenticios y nutricionales correctos.
 
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
+IV. Impulsar la participación ciudadana en la prevención, tratamiento y combate del sobrepeso, obesidad y trastornos alimentarios en el Estado de México y municipios.
 
-El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
+V. Difundir la información sobre la prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios a la sociedad del Estado de México y municipios.
 
-A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
+VI. Estimular trabajos científicos, investigación, desarrollo del conocimiento y divulgación en materia de sobrepeso, obesidad y trastornos alimentarios en el Estado de México y municipios.
 
-### Capítulo IV. De los premios
+VII. Diseñar, instrumentar y llevar a cabo en coordinación con las secretarías de Educación, Desarrollo Social y Cultura, campañas de promoción sobre nutrición y alimentación sana, difundiendo en los centros de salud, hospitales, planteles escolares y espacios públicos, las causas que provocan el sobrepeso, la obesidad y los trastornos alimentarios, así como las formas de prevenirlas y atenderlas.
 
-###### Artículo 19o.
+VIII. Proporcionar atención personalizada, interdisciplinaria e integral en el tratamiento del sobrepeso, la obesidad y los trastornos alimentarios, así como la canalización oportuna a la institución especializada correspondiente.
 
-Se instituyen los siguientes premios para cada una de las modalidades a que se refiere el artículo 4o.
+IX. Realizar estudios e investigaciones para conocer las condiciones de nutrición que prevalecen en la población, así como los factores de riesgo y las causas de sobrepeso, la obesidad y los trastornos alimentarios, con el fin de realizar acciones oportunas que permitan su tratamiento y control.
 
-a) La modalidad directa de tres (Tris de tres) tendrá un premio de 537.6344 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+X. Realizar visitas para supervisar las condiciones de higiene y seguridad en la preparación, expendio y distribución de alimentos y bebidas en los planteles educativos a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en coordinación con la Secretaría de Educación, en el ámbito de sus respectivas competencias.
 
-b) La modalidad candado de seis tendrá un premio de 86.0215 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+XI. Las demás que le confiera esta Ley y otras disposiciones legales.
 
-c) La modalidad candado de tres tendrá un premio de 172.0430 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+###### Artículo 13.
 
-d) Las modalidades par inicial y par final tendrán un premio de 53.7634 veces su precio unitario, para cada número de dos dígitos ganador en el sorteo.
+Corresponde a la Secretaría de Educación:
 
-e) Las modalidades inicial y final tendrán un premio de 5.3763 veces su precio unitario, para cada número de un dígito ganador en el sorteo.
+I. Fomentar el consumo de comida saludable al interior de los planteles educativos del Estado de México y establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas, conforme a las disposiciones jurídicas que para tales efectos emita la autoridad federal competente.
 
-f) La modalidad supercandado de seis tendrá un premio de 89.6057 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+II. Realizar campañas de difusión en los planteles educativos de todos los niveles del Estado de México en materia de prevención, tratamiento y combate de sobrepeso, obesidad y trastornos alimentarios.
 
-g) La modalidad supercandado de tres tendrá un premio de 179.2114 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+III. Incentivar la práctica del ejercicio y competencias deportivas a través de la realización de acciones permanentes e intensivas, como una medida para prevenir y contrarrestar el sobrepeso, la obesidad y los trastornos alimentarios.
 
-h) La modalidad directa de cuatro (Tris de cuatro) tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+IV. Impulsar la creación de materiales educativos sobre hábitos de alimentación y actividad física saludables para alumnos, profesores, padres de familia, responsables de establecimientos de consumo escolar y demás personas involucradas en el centro escolar.
 
-i) La modalidad supercandado de veinticuatro tendrá un premio de 224.0143 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+V. Impulsar la realización de acciones obligatorias y permanentes de activación física al menos 30 minutos diarios en los centros escolares de educación básica.
 
-j) La modalidad supercandado de doce tendrá un premio de 448.0286 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+VI. Impulsar la adecuación, modificación o construcción de instalaciones para la activación física y el deporte, al interior de los centros educativos de educación básica.
 
-k) La modalidad supercandado de seis tendrá un premio de 896.0573 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+VII. Impartir, con apoyo de la Secretaría, cursos y talleres para las autoridades educativas, profesores y padres de familia, en materia de nutrición, sobrepeso, obesidad y trastornos alimentarios de manera continua y permanente que permitan fomentar entre sus hijos o pupilos una cultura de auto cuidado y fomento a la salud.
 
-l) La modalidad supercandado de cuatro tendrá un premio de 1,344.0860 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+VIII. Procurar la doble sesión semanal de clases de educación física en el nivel de educación básica, así como supervisar que sea un profesor licenciado en educación física, rehabilitación física y/o un activador físico entrenado y con certificaciones quién imparta esta materia.
 
-###### Artículo 20o.
+IX. Capacitar a los profesores de educación física en materia de educación para la salud, hábitos saludables de alimentación y actividad física, así como dotarlos de los instrumentos de valoración y captura de información relacionada y del equipo necesario para el desarrollo correcto de las actividades.
 
-Se considera fondo de cada sorteo el valor conjunto de todas las selecciones de Tris de Números que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para efectos de su participación en el sorteo.
+X. Generar evidencia científica que contribuya a la orientación de las acciones a realizar en las escuelas de educación básica.
 
-De dicho fondo se destinará un cincuenta y tres punto siete mil seiscientos treinta y cuatro por ciento (53.7634%) para premiación de los ganadores y el porcentaje que autorice el Consejo Directivo de Pronósticos para formar la Reserva de Desviaciones en Premios.
+XI. Colaborar con las instancias correspondientes en la asistencia clínica de los escolares de educación básica con obesidad mórbida.
 
-De la cantidad restante se cubrirán las comisiones de los agentes autorizados y los gastos de administración de Pronósticos que también apruebe su Consejo Directivo, y el remanente se entregará a la Tesorería de la Federación para ser destinado a la asistencia pública.
+XII. Aplicar y vigilar el cumplimiento de las disposiciones jurídicas relativas al expendio y distribución de alimentos y bebidas preparadas y procesadas emitidas por la autoridad federal competente, para favorecer una dieta completa y equilibrada y que los alimentos que se preparen para el consumo al interior de los centros educativos de nivel básico, cumplan con los requerimientos nutricionales de una dieta equilibrada e inocua, en observancia a las normas de higiene y sanidad respectivas.
 
-### Capítulo V. De las reclamaciones
+XIII. Generar una base de datos, desagregadas por grupos de edad, sexo y ubicación geográfica donde se registre la incidencia de trastornos alimentarios en la población, indicando peso, talla y masa corporal, con especial énfasis en los planteles de educación básica. Las autoridades educativas del plantel informarán a los padres de familia o tutores de los alumnos de la prevalencia de sobrepeso, obesidad y trastornos alimenticios para su conocimiento, orientación, prevención y atención.
 
-###### Artículo 21o.
+XIV. Las demás que le confiera la presente Ley y otras disposiciones legales.
 
-Dentro de los cinco días hábiles siguientes a la publicación a que se refiere el artículo 16o. de este reglamento, el participante que tenga interés legítimo deberá impugnar los resultados del sorteo mediante la presentación de escrito de inconformidad ante Pronósticos, en el que deberá exponer las razones de la impugnación y acompañar el documento que funde su reclamación.
+###### Artículo 14.
 
-###### Artículo 22o.
+Corresponde a la Secretaría de Desarrollo Social:
 
-La Comisión Dictaminadora de Reclamaciones integrada por los funcionarios de Pronósticos designados por su Director General, y por el Inspector de la Secretaría de Gobernación, estudiará y resolverá las inconformidades en un plazo no mayor de 30 días. El Director General de Pronósticos proveerá el cumplimiento de la resolución que se dicte.
+I. Realizar campañas de información dirigidas a la población sobre la importancia de una alimentación adecuada, hábitos de vida saludable, beneficios de activación física, valoración de cultura de auto cuidado de la imagen.
 
-###### Artículo 23o.
+II. Verificar que los planes y programas de desarrollo social destinados a la alimentación y abasto social de productos básicos; conduzcan al consumo de los mínimos nutrimientos y estén encaminados a promover hábitos alimentarios adecuados en los grupos mas vulnerables.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+III. Crear una página de internet en la que se brinde información para jóvenes y adolescentes sobre los efectos adversos del sobrepeso, la obesidad y los trastornos alimentarios.
 
-###### Artículo 24o.
+IV. Instrumentar acciones de participación de los sectores público, social y privado en las redes sociales, con la finalidad de brindar información precisa, objetiva y con base en criterios científicos del sobrepeso, la obesidad, los trastornos alimentarios y el fomento de hábitos alimenticios y nutricionales.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el Reglamento publicado en el Diario Oficial de la Federación del 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+V. Las demás que le confiera la presente Ley y otras disposiciones legales.
 
-### Capítulo VI. Del pago de premios
+###### Artículo 15.
 
-###### Artículo 25o.
+Corresponde a la Secretaría de Cultura:
 
-A partir del siguiente día hábil a la fecha de celebración del sorteo correspondiente, Pronósticos procederá al pago de los premios en moneda nacional.
+I. Fomentar actividades deportivas y recreativas dirigidas a la población para contrarrestar el sedentarismo como causa de sobrepeso, la obesidad y los trastornos alimentarios.
 
-El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la selección que hubiere resultado ganadora. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
+II. Impulsar actividades artísticas y culturales en museos, teatros y demás espacios dirigidas a la población para contrarrestar el sedentarismo como causa del sobrepeso y obesidad.
 
-Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
+III. Las demás que le confiera la presente Ley y otras disposiciones legales.
 
-Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficinas generales de Pronósticos o en las Instituciones u Organismos que señale y que se harán del conocimiento del público.
+###### Artículo 16.
 
-###### Artículo 26o.
+Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado de México:
 
-El pago de los premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir los premios cuando los datos consignados en el boleto de que se trate no coincidan íntegramente con los de sus registros, carezcan de las menciones que señala este Reglamento o se encuentren mutilados, alterados o maltratados en forma que haga imposible la comprobación de su legitimidad o autenticidad.
+I. Diseñar programas de ayuda alimentaria con calidad nutricia enfocada a comunidades de zonas de alta, muy alta marginación rurales y urbanas del Estado de México.
 
-###### Artículo 27o.
+II. Operar acciones en materia de asistencia alimentaria que contribuya a mejorar la nutrición familiar a través de la impartición de talleres, cursos y pláticas a nivel individual, familiar y colectivo.
 
-El derecho al cobro del premio caducará en un plazo de sesenta días naturales contados a partir del día siguiente de la celebración del sorteo. El importe de los premios caducos, se llevará a la cuenta de reserva y posteriormente su destino final será el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la Asistencia Pública.
+III. Evaluar el impacto nutricional de los programas y acciones que lleva a cabo en materia de alimentación y nutrición familiar.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+IV. Fomentar la cultura que permita adoptar una alimentación saludable y favorecer la adopción de una dieta correcta con el propósito de mejorar su calidad de vida.
 
-###### Artículo 28o.
+V. Las demás que le confiere la presente Ley y otras disposiciones legales.
 
-Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a rembolsar a los participantes el valor de sus Tris de números previa entrega material y cancelación de los boletos, sin ulterior responsabilidad.
+###### Artículo 17.
 
-Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
+Corresponde a los municipios del Estado de México:
 
-###### Artículo 29o.
+I. Emitir su Programa Municipal a través de su comité en materia de prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios.
 
-En los términos establecidos por el artículo 28o. del presente reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el sorteo respectivo prescribirá en un plazo de 1 año contando a partir del siguiente día de la fecha de celebración del sorteo a que se refiere el artículo 17o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
+II. Desarrollar acciones de difusión en instalaciones deportivas, recreativas y culturales.
 
-## Transitorios
+III. Fomentar actividades con el objeto de prevenir, tratar y combatir el sobrepeso, la obesidad y los trastornos alimentarios.
 
-Primero.- Este reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+IV. Difundir y supervisar el cumplimiento del Programa Estatal de conformidad con lo establecido en la presente Ley y en los ordenamientos jurídicos aplicables.
 
-Segundo.- Se abroga el reglamento del concurso Tris de números de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 2 de octubre de 2002.
+V. Efectuar las adecuaciones necesarias para armonizar los Bandos Municipales a la presente Ley.
 
-Este Reglamento fue revisado y aprobado en su contenido por la Secretaría de Gobernación, y autorizado por el H. Consejo Directivo de Pronósticos para la Asistencia Pública.
+VI. Las demás que le confiera la presente Ley y otras disposiciones legales.
 
-México, D.F., a 19 de mayo de 2003.
+###### Artículo 18.
 
-Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
+Las dependencias, órganos desconcentrados y organismos auxiliares de la administración pública estatal y los municipios, podrán celebrar convenios y acuerdos de coordinación con instituciones públicas y privadas, empresas con responsabilidad social, organizaciones de la sociedad civil en materia de sobrepeso, obesidad y trastornos alimentarios.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+### CAPÍTULO CUARTO. DE LAS POLÍTICAS PÚBLICAS
 
-D.O.F. 11 DE JUNIO DE 2004.
+###### Artículo 19.
 
-Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+En materia de nutrición se deberá contar con políticas públicas que tengan por objeto:
 
-Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+I. Prevenir los riesgos de los niveles de mala nutrición, promoviendo prácticas saludables de consumo alimentario e higiene.
+
+II. Generar hábitos de alimentación de las niñas, niños y adolescentes, creando conciencia en los padres de familia, tutores, profesores y autoridades educativas.
+
+III. Generar conciencia de la importancia que tiene la realización de actividades físicas cotidianas, el deporte continuo y permanente para mejorar la salud y calidad de vida con el fin de motivar un cambio en los hábitos alimentarios de los ciudadanos.
+
+IV. Estimular el consumo de alimentos con alto valor nutrimental en una dieta equilibrada.
+
+V. Asegurar una oferta sostenible y competitiva de los alimentos de la región en las unidades comerciales y en las escuelas.
+
+VI. Atender a la población vulnerable en las zonas rurales y urbanas en materia de prevención, atención y combate del sobrepeso, obesidad y trastornos alimentarios.
+
+VII. Impulsar la importancia y protección de la unidad familiar para proporcionar y satisfacer las necesidades físicas, mentales, emocionales, sociales, la correcta alimentación, nutrición y prestación de cuidados apropiados para prevenir, tratar y combatir el sobrepeso, la obesidad y trastornos alimentarios de las niñas, niños, adolescentes y grupos vulnerables.
+
+VIII. Promover acciones tendientes a eliminar cualquier forma de discriminación y exclusión de los menores con prevalencia de padecimientos alimentarios y sus consecuencias.
+
+IX. Las demás que le confiera la presente ley y otras disposiciones legales.
+
+###### Artículo 20.
+
+Las dependencias, órganos desconcentrados y organismos auxiliares de la administración pública estatal y municipal se encargarán de diseñar, formular, emitir y evaluar políticas, estrategias, acciones y mecanismos que permitan la prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios, así como el fomento y adopción de una correcta alimentación y activación física de las personas, considerando lo siguiente:
+
+I. Antecedentes, diagnóstico del padecimiento, la situación actual del Estado, región o municipio y los razonamientos metodológicos que justifiquen su elaboración, diseño, ejecución y evaluación.
+
+II. La estrategia general que deberá especificar las metas de mejoramiento de calidad de vida de la población y las formas de corresponsabilidad con la sociedad civil organizada o con otros sectores.
+
+III. La definición de sectores sociales y zonas de atención social prioritaria y su justificación.
+
+IV. Las estrategias particulares o programas específicos a desarrollar para alcanzar las metas definidas, así como las acciones de colaboración interinstitucional o intermunicipal.
+
+V. La cuantificación de los programas que deban ser evaluados en niveles de eficiencia, eficacia y legitimidad de las acciones emprendidas.
+
+VI. Las demás que le confiera la presente Ley y demás ordenamiento jurídicos aplicables.
+
+###### Artículo 21.
+
+Las políticas, estrategias, acciones y mecanismos que permitan la prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios, así como el fomento y adopción de una correcta alimentación y activación física de las personas, podrán enfocarse en cualquiera de los rubros siguientes:
+
+I. Inclusión de objetivos, consideraciones y componentes nutricionales en las políticas y programas de desarrollo.
+
+II. Mejora de la seguridad alimentaria de los hogares.
+
+III. Protección del consumidor para mejorar la calidad e inocuidad de los alimentos.
+
+IV. Prevención y gestión de las enfermedades infecciosas.
+
+V. Atención a las personas desvalidas y nutricionalmente vulnerables.
+
+VI. Prevención y control de carencias de micronutrientes específicos.
+
+VII. Promoción de una alimentación apropiada y de un estilo de vida sano.
+
+VIII. Evaluación, análisis y seguimiento de las situaciones nutricionales.
+
+IX. Prevención, tratamiento y combate del sobrepeso, la obesidad y los trastornos alimentarios.
+
+X. Promoción de la activación física permanente y del deporte continúo.
+
+XI. Elaboración de programas de atención a las situaciones nutricionales basadas en las propuestas de organismos nacionales e internacionales de desarrollo.
+
+### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL PARA LA PREVENCIÓN Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS
+
+###### Artículo 22.
+
+El Programa Estatal será el instrumento principal de acción gubernamental para prevenir, tratar y combatir el sobrepeso, la obesidad y trastornos alimentarios, mediante el desarrollo de acciones coordinadas y de responsabilidad compartida entre las diferentes instituciones y órdenes de gobierno, en los ámbitos educativo, social, económico, político, cultural y de salud. En el Programa Estatal se establecerán medidas para fomentar la adopción de una correcta alimentación para la población.
+
+### CAPÍTULO SEXTO. DE LA EVALUACIÓN DE LAS ACCIONES
+
+###### Artículo 23.
+
+Las dependencias de la administración estatal a que se refiere el presente ordenamiento, enviarán un informe trimestral al Consejo Estatal a través de su Secretario, en el que detallarán las actividades realizadas y la evaluación de las que se llevaron a cabo conforme al Programa.
+
+El Consejo Estatal evaluará los resultados de los informes. Asimismo hará llegar un informe trimestral a la Legislatura sobre los trabajos y resultados alcanzados.
+
+### CAPÍTULO SÉPTIMO. DE LOS COMITÉS MUNICIPALES
+
+###### Artículo 24.
+
+En cada municipio del Estado de México, se conformará un comité con el objeto de prevenir, tratar y combatir el sobrepeso, la obesidad y los trastornos alimentarios.
+
+###### Artículo 25.
+
+Cada Comité Municipal diseñará un programa para prevenir, tratar y combatir el sobrepeso, la obesidad y los trastornos alimentarios.
+
+### CAPÍTULO OCTAVO. DE LOS ESTÍMULOS Y RECONOCIMIENTOS
+
+###### Artículo 26.
+
+Las autoridades estatales y municipales entregarán reconocimientos y estímulos para las escuelas de nivel básico, profesores y alumnos que obtengan mejores resultados en la detección, prevención, tratamiento y combate al sobrepeso, la obesidad y los trastornos alimentarios.
+
+Las autoridades estatales y municipales entregarán reconocimientos y estímulos a los grupos de habitantes, padres de familia, organizaciones de la sociedad civil, integrantes de los sectores público y privado, que a través de sus actividades logren disminuir los índices de sobrepeso, obesidad y trastornos alimentarios.
+
+Los mecanismos de selecciones de los beneficiarios de los estímulos y reconocimientos, así como la descripción de los apoyos se establecerán en el Reglamento de la presente Ley.
+
+### CAPÍTULO NOVENO. DE LAS SANCIONES
+
+###### Artículo 27.
+
+Para la imposición de las sanciones se observarán las disposiciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Titular del Ejecutivo Estatal expedirá el Reglamento de la presente Ley en un plazo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Las dependencias, órganos desconcentrados y organismos auxiliares de la administración pública estatal, deberán adecuar sus ordenamientos internos en un plazo no mayor a noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. EL Consejo Estatal para la Prevención, Tratamiento y Combate del Sobrepeso, Obesidad y Trastornos Alimentarios del Estado de México y sus Municipios, deberá instalarse dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. El Consejo Estatal para la Prevención, Tratamiento y Combate al Sobrepeso, Obesidad y trastornos alimentarios del Estado de México y sus Municipios deberá expedir su Reglamento Interno dentro de los noventa días siguientes a su instalación.
+
+SÉPTIMO. La Secretaría de Salud deberá emitir el Programa Estatal en un plazo de noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. Cada Municipio deberá emitir su Programa Municipal en un plazo de noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Cada Municipio deberá de instalar su Comité Municipal en un plazo de noventa días siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO. Cada Municipio deberá de expedir su reglamentación interna en un plazo de ciento veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. La Legislatura del Estado de México, proveerá los recursos necesarios, en el Presupuesto de Egresos del Estado para el ejercicio fiscal del año 2017 y dará cumplimiento a lo previsto por el presente Decreto.
+
+Lo tendrá por entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los doce días del mes de febrero del año dos mil dieciséis.- Presidente.- Dip. Mario Salcedo González.- Secretarios.- Dip. Nelyda Mociños Jiménez.- Dip. Oscar Vergara Gómez.- Dip. Cesar Reynaldo Navarro de Alba.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 17 de febrero de 2016.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
+
+DR. ERUVIEL ÁVILA VILLEGAS
+
+(RÚBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+JOSÉ S. MANZUR QUIROGA
+
+(RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL ''GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
