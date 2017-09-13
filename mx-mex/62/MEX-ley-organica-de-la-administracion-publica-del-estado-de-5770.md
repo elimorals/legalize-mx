@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2017-09-08"
+last_updated: "2017-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -73,11 +75,13 @@ El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras ent
 
 El Gobernador del Estado designará las dependencias del Ejecutivo Estatal que deberán coordinarse, tanto con las dependencias y entidades de la Administración Pública Federal, como con las administraciones municipales.
 
-> <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-Todas las leyes, decretos, reglamentos y demás disposiciones que el Gobernador promulgue o expida, para que sean obligatorias, deberán estar refrendadas por el SECRETARIO GENERAL DE GOBIERNO; sin este requisito no surtirán ningún efecto legal.
+Todas las Leyes y Decretos expedidos por la Legislatura y que el Gobernador promulgue, para su validez y observancia deberán estar refrendadas por el titular de la Secretaría General de Gobierno, sin este requisito no surtirá ningún efecto legal.
+
+Los reglamentos, decretos, circulares y acuerdos expedidos por el Gobernador deberán, para su validez y observancia, ir firmados por el Secretario del Despacho respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 
 ###### Artículo 8.
 
@@ -89,15 +93,13 @@ El Gobernador del Estado expedirá los Reglamentos Interiores, los Acuerdos, Cir
 
 El Gobernador del Estado, al nombrar y remover libremente a los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las Leyes del Estado, favorecerá el principio de igualdad y equidad de género.
 
-> <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 10.
 
-Para ser titular de las dependencias del Ejecutivo a que se refiere esta ley, Procurador General de Justicia o Subsecretario, se requiere cumplir con los requisitos que establece la Constitución Política del Estado.
+Para ser titular de las dependencias del Ejecutivo a que se refiere esta Ley o Subsecretario, se requiere cumplir con los requisitos que establece la Constitución Política del Estado.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-Para ser Consejero Jurídico, además de los requisitos señalados deberá poseer título profesional de la Licenciatura en Derecho, 10 años de ejercicio profesional y no haber sido condenado por sentencia ejecutoria por delitos intencionales que ameriten pena privativa de la libertad y ser de honradez y probidad notorias.
+Para ser Secretario de Justicia y Derechos Humanos, además de los requisitos señalados deberá poseer título profesional de la Licenciatura en Derecho, 10 años de ejercicio profesional y no haber sido condenado por sentencia ejecutoria por delitos intencionales que ameriten pena privativa de la libertad y ser de honradez y probidad notorias.
 
 ###### Artículo 11.
 
@@ -108,6 +110,14 @@ Los titulares de las dependencias a que se refiere esta Ley, no podrán desempe�
 ###### Artículo 12.
 
 El Ejecutivo del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, resolverá cualquier duda sobre la competencia de las dependencias a que se refiere esta ley.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 12 Bis.
+
+El Gobernador del Estado contará con el apoyo directo de la Oficina de la Gubernatura para el desempeño de sus funciones y el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Estatal en el ámbito de sus respectivas competencias. El Gobernador del Estado designará al jefe de dicha Oficina.
+
+La Oficina de la Gubernatura contará con las unidades de apoyo técnico y estructura que el Gobernador del Estado determine, de acuerdo con el presupuesto asignado.
 
 ### CAPITULO SEGUNDO. De las Dependencias del Ejecutivo
 
@@ -129,21 +139,21 @@ De igual forma, deberán implementar un programa permanente, coordinado y contin
 
 Las dependencias del Ejecutivo, estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-Al frente de la Secretaría General de Gobierno, de cada Secretaría y de la Consejería Jurídica, habrá un Titular a quien se denomina Secretario General, Secretario y Consejero Jurídico, respectivamente, quienes se auxiliarán de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás servidores públicos que establezcan los reglamentos y otras disposiciones legales. Tendrán las atribuciones que señalen en esos ordenamientos y las que les asigne el Gobernador y el Titular del que dependan, las que en ningún caso podrán ser aquéllas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los titulares.
+Al frente de la Secretaría General de Gobierno y de cada Secretaría habrá un Titular a quien se denomina Secretario General o Secretario respectivamente, quienes se auxiliarán de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás servidores públicos que establezcan los reglamentos y otras disposiciones legales. Tendrán las atribuciones que señalen en esos ordenamientos y las que les asigne el Gobernador y el Titular del que dependan, las que en ningún caso podrán ser aquéllas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los titulares.
 
 ###### Artículo 16.
 
 Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del Consejero Jurídico.
+Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del Secretario de Justicia y Derechos Humanos.
 
 ###### Artículo 18.
 
@@ -161,7 +171,9 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I. Secretaría General de Gobierno;
 
-II. (DEROGADA, G.G. 17 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Secretaría de Seguridad
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -187,9 +199,9 @@ VII. Secretaría de Desarrollo Social;
 
 VIII. Secretaría de Desarrollo Urbano y Metropolitano;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Secretaría de Infraestructura.
+IX. Secretaría de Comunicaciones.
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -211,7 +223,9 @@ XIII. Secretaría de Cultura;
 
 XIV. Secretaría de la Contraloría;
 
-XV. (DEROGADA, G.G. 27 DE JULIO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Secretaría de Obra Pública.
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -221,21 +235,17 @@ XVI. Secretaría de Movilidad;
 
 XVII. Secretaría del Medio Ambiente;
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVIII. Consejería Jurídica del Ejecutivo Estatal.
+XVIII. Secretaría de Justicia y Derechos Humanos.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-El Consejero Jurídico del Ejecutivo Estatal, será designado por el Gobernador y deberá cumplir con los requisitos que esta ley exige.
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-Las Secretarías y la Consejería Jurídica a las que se refieren las fracciones II a la XVIII de este artículo tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las Secretarías a las que se refieren las fracciones II a la XVIII de este artículo tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
@@ -291,59 +301,107 @@ XX. Intervenir, en el ámbito de su competencia, en auxilio o en coordinación c
 
 XXI. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Ejercer, en términos de las disposiciones jurídicas aplicables, las atribuciones en materia de seguridad pública, y dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, la integridad física de las personas y sus bienes, prevenir la comisión de delitos e infracciones administrativas, auxiliar a las autoridades competentes cuando así lo soliciten en la investigación y persecución de los delitos y concurrir, en términos de la ley, con las autoridades en casos de siniestro o desastre, a través de la Comisión Estatal de Seguridad Ciudadana;
+XXI Bis. Intervenir en el auxilio o en coordinación con las autoridades federales, en términos de las leyes en materia de cultos religiosos;
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXIII. Transmitir y ejecutar los acuerdos y demás disposiciones que instruya el Gobernador del Estado en materia de seguridad pública;
+XXIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXIV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXIV. Tramitar por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos, a través de la Comisión Estatal de Seguridad Ciudadana;
+XXV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXV. Elaborar y ejecutar los programas de readaptación social de los infractores a través de la Comisión Estatal de Seguridad Ciudadana;
+XXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXVIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXVI. Vigilar el establecimiento de instituciones y la aplicación de la norma en materia de justicia para adolescentes a través de la Comisión Estatal de Seguridad Ciudadana;
+XXIX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXVII. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y demás ordenamientos aplicables otorgan a las instituciones policiales en materia de investigación preventiva, e instrumentar y coordinar acciones y procedimientos para la planeación, obtención, procesamiento y aprovechamiento de información de inteligencia para tales efectos;
+XXXI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
-
-XXVIII. Ejercer el mando directo de las instituciones policiales del Estado, en los términos de la ley de la materia y demás disposiciones jurídicas aplicables, a fin de salvaguardar la integridad física y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
-
-> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
-
-XXIX. Ejercer el mando directo de la policía procesal, de las áreas de espera de detenidos puestos a disposición de juez para audiencia, y aplicar los protocolos nacionales autorizados por el Consejo Nacional de Seguridad Pública;
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
-
-XXX. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
-
-XXXI. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
-
-> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
-
-XXXII. Organizar, controlar y dirigir a la Comisión Ejecutiva Estatal de Atención a Víctimas.
+XXXII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE AGOSTO DE 2015)</small>
 
 XXXIII. Las demás que le señalen las leyes y reglamentos en el Estado.
 
-> <small>N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO MEDIANTE DECRETO 361 PUBLICADO EL 17 DE DICIEMBRE DE 2014 SESIONADO POR EL CONGRESO DEL ESTADO EL 17 DE DICIEMBRE DE 2014. EL 18 DE DICIEMBRE DE 2014 FUE REFORMADO ESTE ARTÍCULO SESIONADO POR EL CONGRESO DEL ESTADO EL 11 DE DICIEMBRE DE 2014 "Artículo 21 Bis.- ... I. a XXII. …XXIII. Retirar los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano; XXIV. …" POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 21 Bis.
 
-(DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
+La Secretaría de Seguridad es la dependencia encargada de planear, formular, conducir, coordinar, ejecutar, supervisar y evaluar las políticas, programas y acciones en materia de seguridad pública.
+
+A la Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I. Transmitir y ejecutar los acuerdos y demás disposiciones que instruya el Gobernador del Estado en materia de seguridad y fuerza pública;
+
+II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, la integridad física de las personas y sus bienes, prevenir la comisión de delitos e infracciones administrativas, realizar la investigación de los delitos bajo la conducción y mando del Ministerio Público, auxiliar en la persecución de éstos y a otras autoridades cuando así lo soliciten, así como concurrir, en términos de la ley, con las autoridades en casos de siniestro o desastre;
+
+III. Impulsar mecanismos para garantizar la participación de la ciudadanía en el diseño de las políticas de seguridad pública;
+
+IV. Impulsar mecanismos que garanticen la participación social y ciudadana en la vigilancia del desarrollo de las actividades en materia de seguridad pública;
+
+V. Realizar la investigación para la prevención de los delitos;
+
+VI. Elaborar y ejecutar los programas de reinserción social de los sentenciados y reintegración social para adolescentes;
+
+VII. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y demás ordenamientos aplicables otorgan a las instituciones policiales en materia de investigación preventiva y de los delitos, e instrumentar y coordinar acciones y procedimientos para la planeación, obtención, procesamiento y aprovechamiento de información de inteligencia para tales efectos;
+
+VIII. Ejercer el mando directo de las instituciones policiales del Estado, y cuando proceda de los municipios, en los términos de la ley de la materia y demás disposiciones jurídicas aplicables, a fin de salvaguardar la integridad física y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
+
+IX. Ejercer el mando directo de la policía procesal que realice los traslados de imputados de las áreas de espera de detenidos puestos a disposición del juez para audiencia;
+
+X. Resguardar a los imputados en las audiencias bajo el mando de los jueces;
+
+XI. Auxiliar a la autoridad de vigilancia de las medidas cautelares, de las obligaciones suspensionales, así como a la autoridad de reinserción social en la vigilancia de los sentenciados con sustitutivo penal o sujetos a libertad anticipada;
+
+XII. Aplicar los protocolos nacionales autorizados por el Consejo Nacional de Seguridad Pública, así como los emitidos por la Fiscalía General de Justicia en materia de investigación y persecución de los delitos;
+
+XIII. Impulsar la coordinación de las instituciones policiales y proponer, en el ámbito de sus facultades, la adopción y aplicación de políticas y programas de cooperación en materia de seguridad pública, con la Federación, las entidades federativas y los municipios;
+
+XIV. Promover la formación, capacitación, profesionalización, actualización, adiestramiento y especialización de las instituciones policiales;
+
+XV. Coordinar la evaluación del funcionamiento de la seguridad pública;
+
+XVI. Participar, en coordinación con la Fiscalía General de Justicia, en la elaboración de diagnósticos y estrategias de política criminal;
+
+XVII. Autorizar, coordinar, controlar y supervisar los servicios de seguridad privada, de conformidad con las normas aplicables;
+
+XVIII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
+
+XIX. Establecer y vigilar la operación de los procedimientos de administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario;
+
+XX. Administrar los centros de reinserción social y tramitar las solicitudes de libertad anticipada y traslado de internos, así como supervisar a los sentenciados con sustitutivos o beneficios de libertad anticipada;
+
+XXI. Vigilar el establecimiento de instituciones para internamiento y la aplicación de la normatividad en materia de justicia para adolescentes;
+
+XXII. Ejecutar las políticas, lineamientos y acciones de su competencia, previstos en los convenios de coordinación suscritos por el Estado de México en el marco del Sistema Nacional de Seguridad Pública, así como los derivados de los acuerdos y resoluciones del Consejo Nacional de Seguridad Pública y demás instancias de coordinación que correspondan;
+
+XXIII. Establecer mecanismos de coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+XXIV. Colaborar, cuando así lo soliciten otras instituciones del Estado, federales, municipales o de la Ciudad de México competentes en la protección de la integridad, derechos y patrimonio de las personas, en situaciones de peligro, cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente en el mantenimiento y restablecimiento de la paz y orden públicos, así como intervenir, en el ámbito de su competencia, en materia de portación de armas y explosivos;
+
+XXV. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
+
+XXVI. Organizar, dirigir y administrar la recepción y transferencia de los reportes sobre emergencias, infracciones y delitos;
+
+XXVII. Coordinar planes y operativos para la defensa y protección del medio ambiente, a fin de preservar y salvaguardar los recursos naturales de la entidad;
+
+XXVIII. Retirar los vehículos abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano;
+
+XXIX. Compartir las bases de datos e información de que disponga en materia delictiva para la consolidación de una plataforma única de información preventiva y para la investigación de los delitos.
+
+Para efectos de lo dispuesto en esta fracción, todas las autoridades del gobierno del Estado de México y de los municipios deben aportar sus bases de datos para la consolidación de una plataforma única de información para la prevención e investigación de los delitos.
+
+Los niveles de acceso y características de la plataforma serán definidos en los protocolos de seguridad y en materia de investigación que emitan el Secretario y el Fiscal General, y
+
+XXX. Las demás que le señalen otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, G.G. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -1033,9 +1091,9 @@ XVIII.- Participar en las comisiones de carácter regional y metropolitano en la
 
 XIX.- (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
-(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XX.- Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+XX.- Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, de la Ciudad México, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
 
 (ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
@@ -1077,17 +1135,23 @@ XXIX.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos
 
 XXX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
 
-(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXXI.- Las demás que le señalen otras disposiciones legales.
+XXXI.- Presidir, dirigir, coordinar y organizar a la Comisión Estatal de Factibilidad.
 
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 241, PUBLICADO EN LA G.G. 8 DE SEPTIEMBRE DE 2017, CUANDO EN OTROS ORDENAMIENTOS SE HAGA REFERENCIA AL IMPACTO REGIONAL, SE TENDRÁ POR ENTENDIDO QUE SERÁ SUPLIDO POR IMPACTO URBANO, POR LO CUAL LAS AUTORIDADES ESTATALES Y MUNICIPALES DEBERÁN LLEVAR A CABO LAS ADECUACIONES A SU NORMATIVIDAD.]</small>
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
+XXXII.- Presidir, dirigir, coordinar y organizar al Instituto de Verificación Administrativa del Estado de México, y
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIII.- Las demás que le señalen otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Infraestructura es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad así como de ejecutar las obras públicas que tenga a su cargo y de promover y ejecutar las acciones tendientes al desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
+La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad.
 
 > <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
@@ -1163,77 +1227,41 @@ XXI.- Determinar el uso restringido de la infraestructura vial;
 
 XXII. Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXIII. Formular y conducir la política estatal en materia de obras públicas e infraestructura para el desarrollo;
+XXIV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXIV. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública;
+XXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXV. Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la política, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
+XXVIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXIX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXVI. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
+XXX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXXI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXVII. Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
+XXXII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXXIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXVIII. Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
+XXXIV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXXV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXIX. Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+XXXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXX. Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+XXXVIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+XXXIX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXI. Proponer al Ejecutivo del Estado la celebración de convenios en materia de obra pública e infraestructura para el desarrollo y participar en su ejecución;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXII. Apoyar la creación y consolidación de los organismos públicos descentralizados municipales, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje y tratamiento de aguas residuales;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXIII. Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXIV. Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXV. Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXVI. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXVII. Controlar el inventario de disponibilidad de Agua Potable del Estado;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXVIII. Autorizar el uso y disponibilidad del Agua por Zona o Región en conjunto con la Secretaría de Desarrollo Urbano y Metropolitano para que los municipios otorguen licencias de construcción de vivienda o industria;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XXXIX. Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo al Plan Anual y Sexenal de Obras;
-
-> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
-
-XL. Representar, participar o dirigir, los fideicomisos, consejos o empresas de participación estatal que el Gobernador le instruya para el cumplimiento de sus funciones;
+XL. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 XLI. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
@@ -1353,9 +1381,9 @@ XV. Sancionar el incumplimiento de obligaciones por parte de los titulares de co
 
 XVI. Opinar respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Infraestructura en los casos de uso de la infraestructura vial primaria, o de impacto o influencia directa en terminales o rutas de transporte masivo o de alta capacidad.
+XVII. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones en los casos de uso de la infraestructura vial primaria, o de impacto o influencia directa en terminales o rutas de transporte masivo o de alta capacidad.
 
 XVIII. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
 
@@ -1375,9 +1403,9 @@ XXV. Aprobar la implementación y operación del servicio de pago tarifario anti
 
 XXVI. Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXVII. Definir en coordinación con la Secretaría de Infraestructura, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
+XXVII. Definir en coordinación con la Secretaría de Comunicaciones, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
 
 XXVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
@@ -1471,9 +1499,53 @@ XIX. Elaborar inventarios, así como procesar y difundir la información estadí
 
 XX. Las demás que señalen el Reglamento y otras disposiciones jurídicas relativas en la Entidad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 35.
 
-(DEROGADO, G.G. 27 DE JULIO DE 2015)
+La Secretaría de Obra Pública es la dependencia encargada de ejecutar las obras públicas que tenga a su cargo y de promover y ejecutar las acciones tendientes al desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
+
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I. Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en términos de las disposiciones jurídicas aplicables;
+
+II. Formular y conducir la política estatal en materia de obras públicas e infraestructura para el desarrollo;
+
+III. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública;
+
+IV. Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la política, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
+
+V. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
+
+VI. Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
+
+VII. Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
+
+VIII. Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+IX. Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+
+X. Proponer al Ejecutivo del Estado la celebración de convenios en materia de obra pública e infraestructura para el desarrollo y participar en su ejecución;
+
+XI. Apoyar la creación y consolidación de los organismos públicos descentralizados municipales, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje y tratamiento de aguas residuales;
+
+XII. Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales;
+
+XIII. Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
+
+XIV. Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
+
+XV. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
+
+XVI. Controlar el inventario de disponibilidad de Agua Potable del Estado;
+
+XVII. Autorizar el uso y disponibilidad del Agua por Zona o Región en conjunto con la Secretaría de Desarrollo Urbano y Metropolitano para que los municipios otorguen licencias de construcción de vivienda o industria;
+
+XVIII. Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo al Plan Anual y Sexenal de Obras;
+
+XIX. Representar, participar o dirigir, los fideicomisos, consejos o empresas de participación estatal que el Gobernador le instruya para el cumplimiento de sus funciones, y
+
+XX. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1505,9 +1577,7 @@ IV. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privad
 
 V. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industrial rural;
 
-> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
-
-V Bis. Desarrollar y coordinar con las dependencias del Ejecutivo, organismos públicos descentralizados y ayuntamientos el Programa de Mejora Regulatoria, a través de la Comisión Estatal de Mejora Regulatoria;
+V Bis. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1765,19 +1835,19 @@ XXVII. Establecer mecanismos para prevenir actos u omisiones constitutivos de re
 
 XXVIII. Las demás que le señalen otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 38 Ter.
 
-La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del periódico oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de proporcionar información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias y demás disposiciones de observancia general en el Estado.
+La Secretaría de Justicia y Derechos Humanos es la Dependencia encargada de diseñar y coordinar la política jurídica y de acceso a la justicia del Poder Ejecutivo, de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, mejora regulatoria, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, administración de la publicación del periódico oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de proporcionar información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias y demás disposiciones de observancia general en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], 24 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Justicia y Derechos Humanos le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-I. Representar al Gobernador y al Secretario General de Gobierno en los juicios en los que sean parte, pudiendo delegar ésta, en terceros o subalternos, de conformidad a las disposiciones reglamentarias.
+I. Representar al Gobernador y al Secretario General de Gobierno en los juicios en los que sean parte, pudiendo delegar ésta en terceros o subalternos, de conformidad a las disposiciones reglamentarias;
 
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -1791,9 +1861,13 @@ III. Revisar o elaborar los proyectos de iniciativas de ley o decreto que presen
 
 IV. Revisar o elaborar los proyectos de reglamentos, decretos o acuerdos y demás instrumentos jurídicos que se sometan a consideración y en su caso autorización del Gobernador;
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección;
+V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de México y proponer las reformas necesarias para su armonización;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+V Bis. Coadyuvar en el ámbito de su competencia y sin perjuicio de lo previsto en la fracción IV del artículo 21 de esta Ley, con los poderes Legislativo y Judicial, en el cumplimiento de sus atribuciones;
 
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -1835,9 +1909,9 @@ XIV. Llevar el Libro de Registro de Notarios;
 
 XV. Coadyuvar en la elaboración, revisión y sanción de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal y con los gobiernos estatales;
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Coordinar y participar, junto con las dependencias y organismos auxiliares de carácter estatal y municipal, en la actualización y simplificación del marco jurídico del Estado de México;
+XVI. Coordinar y participar, junto con las dependencias y organismos auxiliares de carácter estatal y municipal, en la actualización y simplificación del orden jurídico del Estado de México;
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1846,6 +1920,10 @@ XVII. Intervenir en los juicios de amparo, cuando el Gobernador tenga el caráct
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XVIII. Tramitar y substanciar para poner en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Gobernador, así como substanciar, en su caso, los procedimientos contenciosos;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII Bis. Tramitar las solicitudes de amnistía e indulto;
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1858,6 +1936,10 @@ XX. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXI. Representar a la Administración Pública del Gobierno del Estado de México en los juicios en que ésta sea parte;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XXI Bis. Interponer ante el Tribunal Superior de Justicia, el recurso de revisión previsto en el párrafo séptimo de la fracción VIII del artículo 5 de la Constitución Política del Estado Libre y Soberano de México;
 
 > <small>(REFORMADA, 24 DE NOVIEMBRE DE 2016)</small>
 
@@ -1875,13 +1957,11 @@ XXIV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Ci
 
 XXV. Organizar y controlar a la defensoría pública.
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+XXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXVI. Intervenir en el auxilio o en coordinación con las autoridades federales, en términos de las leyes en materia de cultos religiosos;
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-XXVII. Impulsar una política de promoción, defensa y respeto de los derechos humanos en el ámbito de la administración pública estatal, así como proponer la armonización de las políticas públicas en la materia conforme a los lineamientos que establecen los tratados internacionales;
+XXVII. Impulsar una política de promoción, defensa, respeto y protección de los derechos humanos en el ámbito de la administración pública estatal, así como proponer la armonización de las políticas públicas en la materia conforme a los lineamientos que establecen los tratados internacionales;
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1921,13 +2001,13 @@ Para efectos de lo establecido en esta fracción se considerará la opinión de 
 
 XXXV. Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XXXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XXXVI. Presidir, dirigir, coordinar y organizar a la Comisión Estatal de Factibilidad.
+XXXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XXXVII. Presidir, dirigir, coordinar y organizar al Instituto de Verificación Administrativa del Estado de México de acuerdo con su Ley de creación que al efecto se emita.
+XXXVII Bis. Desarrollar y coordinar con las dependencias del Ejecutivo, organismos públicos descentralizados y ayuntamientos, el Programa de Mejora Regulatoria, a través de la Comisión Estatal de Mejora Regulatoria;
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1941,35 +2021,41 @@ XXXIX. Coordinar y representar al Mecanismo Interinstitucional de Seguimiento de
 
 XL. Intervenir en las acciones contempladas en el Programa de Derechos Humanos del Estado de México, en términos de la normatividad aplicable.
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-XLI. Las demás que le confieren otras disposiciones legales y aquéllas que le encomiende el Gobernador.
+XLI. Organizar, controlar y dirigir a la Comisión Ejecutiva Estatal de Atención a Víctimas;
 
-(ADICIONADO, 24 DE NOVIEMBRE DE 2016) (F. DE E., G.G. 28 DE NOVIEMBRE DE 2016)
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-El estudio, planeación, trámite y resolución de los asuntos competencia de la Consejería, así como su representación, corresponden originalmente a su titular, quien para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, en términos de las disposiciones jurídicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
+XLII. Diseñar y coordinar la política del Gobierno del Estado de México en materia de justicia cotidiana;
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XLIII. Coordinar las acciones que las dependencias y los órganos auxiliares del Gobierno del Estado de México lleven a cabo en materia de justicia cívica e itinerante, en los términos que señalen las leyes respectivas;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XLIV. Convenir con los Gobiernos Federal, de las entidades federativas y de los municipios del Estado, así como los particulares, la realización conjunta y coordinada de acciones en materia de justicia cívica e itinerante, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XLV. Brindar los servicios de orientación y asistencia jurídica temprana, de conformidad con los convenios de colaboración que al efecto celebre con otras autoridades competentes;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XLVI. Las demás que le confieren otras disposiciones legales y aquéllas que le encomiende el Gobernador.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+El estudio, planeación, trámite y resolución de los asuntos competencia de la Secretaría de Justicia y Derechos Humanos, así como su representación, corresponden originalmente a su titular, quien para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, en términos de las disposiciones jurídicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
 
 ###### Artículo 39.
 
-La Procuraduría General de Justicia es el órgano encargado del Ministerio Público.
+(DEROGADO, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 40.
 
-A la Procuraduría General de Justicia, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás leyes respectivas en el orden administrativo, tendrá las siguientes funciones:
-
-I. Vigilar el respeto de las leyes por parte de todas las autoridades del Estado.
-
-II. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
-
-III. Dirigir y coordinar las actividades de la Policía Judicial del Estado.
-
-IV. Coordinar su actuación con las autoridades federales en la persecución de los delitos de competencia de aquellas.
-
-V. Llevar la estadística e identificación criminal.
-
-VI. Formular programas de capacitación para el personal de la Procuraduría y de la Policía Judicial.
+(DEROGADO, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 ### CAPITULO CUARTO. De los Tribunales Administrativos
 
@@ -3237,12 +3323,84 @@ VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestale
 
 G.G. 8 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+[N. DE TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL NUEVE DE DICIEMBRE DE 2016”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de (sic) Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
