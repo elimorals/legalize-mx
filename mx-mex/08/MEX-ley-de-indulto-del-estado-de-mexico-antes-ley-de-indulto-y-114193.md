@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2017-02-03"
+last_updated: "2017-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE INDULTO DEL ESTADO DE MEXICO -ANTES LEY DE INDULTO Y CONMUTACION DE PENAS DEL ESTADO DE MEXICO-
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INDULTO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
 
@@ -47,9 +49,11 @@ LEY DE INDULTO DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, a través de la Secretaría General de Gobierno por conducto de la Comisión Estatal de Seguridad Ciudadana, al Instituto de la Defensoría Pública y de la Dirección General de Prevención y Readaptación Social.
+Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, por conducto de las Secretarías de Justicia y Derechos Humanos, y de Seguridad, al Instituto de la Defensoría Pública y de la Dirección General de Prevención y Reinserción Social.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -61,15 +65,19 @@ El presente ordenamiento tiene como objeto establecer las bases para que el Gobe
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Comisión: a la Comisión Estatal de Seguridad Ciudadana.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-II. Comisionado: al titular de la Comisión Estatal de Seguridad Ciudadana.
+l. Secretaría: a la Secretaría de Seguridad.
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+II. Secretario: al titular de la Secretaría de Seguridad.
 
 III. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
-> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por los titulares o representantes de la Consejería Jurídica, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral al Gobernador respecto de la viabilidad para otorgar el indulto.
+IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por los titulares o representantes de la Secretaría de Justicia y Derechos Humanos, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral; al Gobernador respecto de la viabilidad para otorgar el indulto.
 
 V. Consejo Técnico: al Consejo Técnico Interdisciplinario que es el órgano colegiado consultivo de la Dirección General de Prevención y Readaptación Social del Estado de México, integrado por los titulares o representantes de las áreas directivas, laboral, técnica y de seguridad de la misma, además de las correspondientes a la institución penitenciaria.
 
@@ -223,11 +231,11 @@ Tratándose de solicitudes de las o los sentenciados integrantes de pueblos ind�
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito al Gobernador, quien lo turnará al Secretario General de Gobierno.
+Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito al Gobernador, quien por conducto de la Secretaría de Justicia y Derechos Humanos, lo turnará, a la Secretaría de Seguridad.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -261,13 +269,15 @@ La Dirección General procederá a analizar, formular y calificar, las solicitud
 
 En las solicitudes de indulto de las o los sentenciados de pueblos indígenas, se deberán ponderar, además, de los requisitos contemplados en la ley, sus usos, costumbres, tradiciones, cultura y circunstancias inherentes a dicha unidad social, en pleno respeto a los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
 Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Consejo Técnico para que éste dictamine lo procedente.
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-En caso positivo, se enviará al Gobernador del Estado para que valore la viabilidad del indulto.
+En caso positivo, se enviará por conducto de la Secretaría de Justicia y Derechos Humanos al Gobernador del Estado para que valore la viabilidad del indulto.
 
 Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
@@ -275,17 +285,17 @@ Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
 Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-El Gobernador del Estado remitirá el expediente al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
+El Gobernador del Estado remitirá el expediente por conducto de la Secretaría de Justicia y Derechos Humanos al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-Si el Gobernador concede el indulto, enviará el expediente respectivo al Comisionado, acompañando el acuerdo dictado y publicado al efecto, para su ejecución inmediata. Éste contendrá, en su caso, las restricciones de conducta que observará el beneficiado.
+Si el Gobernador concede el indulto, enviará el expediente respectivo al Secretario, acompañando el acuerdo dictado y publicado al efecto, para su ejecución inmediata. Éste contendrá, en su caso, las restricciones de conducta que observará el beneficiado.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -305,9 +315,11 @@ El indultado no podrá habitar en el mismo lugar que el ofendido, su cónyuge, a
 
 ### CAPÍTULO VI. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-La Comisión es la autoridad competente para implementar las medidas de protección de las víctimas del delito y para emitir orden de protección y auxilio policial, de las que se expedirán copias a la víctima, ofendido, testigo o cualquier persona, para que pueda acudir a la autoridad más cercana, en caso de amenaza, agresión o abandono del perímetro permitido al beneficiado. En tal supuesto, la autoridad que tenga conocimiento deberá informarlo al Gobernador para los efectos procedentes.
+La Secretaría es la autoridad competente para implementar las medidas de protección de las víctimas del delito y para emitir orden de protección y auxilio policial, de las que se expedirán copias a la víctima, ofendido, testigo o cualquier persona, para que pueda acudir a la autoridad más cercana, en caso de amenaza, agresión o abandono del perímetro permitido al beneficiado. En tal supuesto, la autoridad que tenga conocimiento deberá informarlo al Gobernador para los efectos procedentes.
 
 T R A N S I T O R I O S
 
@@ -368,3 +380,75 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL NUEVE DE DICIEMBRE DE 2016”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de (sic) Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
