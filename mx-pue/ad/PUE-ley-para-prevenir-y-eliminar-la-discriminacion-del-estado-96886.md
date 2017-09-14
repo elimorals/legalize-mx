@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -67,15 +67,23 @@ II. Establecer los principios y criterios que orienten las políticas públicas 
 
 III. Coadyuvar a la eliminación de las circunstancias sociales, educativas, económicas, de salud, laborales, culturales o políticas; disposiciones legales, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, anular, menoscabar, impedir o restringir ilícitamente alguno o algunos de los derechos humanos de las personas, grupos o comunidades en situación de discriminación;
 
-IV. Fijar la aplicación de medidas positivas y compensatorias, con el fin de garantizar en condiciones de igualdad, el pleno disfrute de los derechos de personas, grupos o comunidades en situación de discriminación; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-V. Establecer mecanismos permanentes de seguimiento de medidas positivas y compensatorias.
+IV. Fijar la aplicación de medidas de nivelación, inclusión y de acciones afirmativas, con el fin de garantizar en condiciones de igualdad, el pleno disfrute de los derechos de personas, grupos o comunidades en situación de discriminación, y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+V. Establecer mecanismos permanentes de seguimiento de medidas de nivelación, inclusión y de acciones afirmativas.
 
 ###### ARTÍCULO 4.
 
 Para los efectos de la presente Ley se entenderá por:
 
 I. Accesibilidad: A la combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse y comunicarse con un uso seguro, autónomo y cómodo en los espacios construidos, el mobiliario, servicios, información y comunicaciones;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+I Bis. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
 
 II. Comité: El Comité para Prevenir y Eliminar la Discriminación;
 
@@ -89,7 +97,7 @@ VI. Igualdad: El acceso al mismo trato y oportunidades, para el reconocimiento, 
 
 VII. Ley: A la Ley para Prevenir y Eliminar la Discriminación del Estado Libre y Soberano de Puebla;
 
-VIII. Medidas positivas y compensatorias: Aquéllas que se implementan para lograr la disponibilidad, accesibilidad, aceptabilidad y calidad en los servicios de salud, educación, procuración e impartición de justicia, laborales o cualquier otro a favor de las personas, grupos y comunidades en situación de discriminación, a fin de alcanzar, en condiciones de igualdad, su participación en la vida pública, y eliminar prácticas discriminatorias;
+VIII. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2017)
 
 IX. Personas, grupos o comunidades en situación de discriminación: Las personas físicas, grupos, comunidades, colectivos o análogos que sufran la violación, negación, anulación o el menoscabo de alguno o algunos de sus derechos humanos por las causas establecidas en los artículos 1o. de la Constitución Política de los Estados Unidos Mexicanos y 11 de la Constitución Política del Estado Libre y Soberano de Puebla, los tratados internacionales de los que México sea parte o la presente Ley;
 
@@ -106,6 +114,82 @@ Queda prohibida cualquier forma de discriminación en el Estado Libre y Soberano
 No se considerarán discriminatorias las acciones afirmativas que tengan por efecto promover la igualdad real de oportunidades de las personas o grupos.
 
 Tampoco será juzgada como discriminatoria la distinción basada en criterios razonables, proporcionales y objetivos que promueva los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 6 BIS.- Conforme a lo establecido en los artículos 1 de la Constitución Política de los Estados Unidos Mexicanos y 4 fracción III de esta Ley, se considera como discriminación, en forma enunciativa y no limitativa, entre otras, las siguientes:
+
+I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos;
+
+II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;
+
+III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
+
+IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+
+V. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
+
+VI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
+
+VII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
+
+VIII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
+
+IX. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
+
+X. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
+
+XI. Impedir o limitar el acceso a la procuración e impartición de justicia;
+
+XII. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas, niños y adolescentes a ser escuchados;
+
+XIII. Aplicar cualquier tipo de uso o costumbre que atente contra la igualdad, dignidad e integridad humana;
+
+XIV. Impedir la libre elección de cónyuge o pareja;
+
+XV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación;
+
+XVI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
+
+XVII. Negar asistencia religiosa a personas privadas de la libertad o que estén internadas en instituciones de salud o asistencia;
+
+XVIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes nacionales, instrumentos jurídicos internacionales y legislación local aplicables;
+
+XIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas, niños y adolescentes con base al interés superior de la niñez;
+
+XX. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+
+XXI. Limitar el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+
+XXII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+XXIII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+XXIV. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+XXV. Explotar o dar un trato abusivo o degradante;
+
+XXVI. Restringir la participación en actividades deportivas, recreativas o culturales;
+
+XXVII. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+XXVIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
+
+XXIX. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión;
+
+XXX. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual, o por cualquier otro motivo de discriminación;
+
+XXXI. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
+
+XXXII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+
+XXXIII. Difundir sin consentimiento de la persona agraviada, información sobre su condición de salud;
+
+XXXIV. Estigmatizar y negar derechos a personas con VIH/SIDA;
+
+XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas, y
+
+XXXVI. En general cualquier otro acto u omisión discriminatorio en términos del artículo 4, fracción III de esta Ley.
 
 ### CAPÍTULO II. DE LA APLICACIÓN E INTERPRETACIÓN DE LA LEY
 
@@ -135,31 +219,73 @@ La interpretación del contenido de esta Ley será conforme a los criterios gram
 
 Para los efectos del artículo anterior, se privilegiarán interpretaciones que favorezcan el goce y disfrute más amplio de los derechos de las personas.
 
-### CAPÍTULO III. DE LAS MEDIDAS GENERALES Y DE LAS MEDIDAS POSITIVAS y COMPENSATORIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-Los entes públicos, en el ámbito de su competencia, llevarán a cabo las medidas destinadas a prevenir y eliminar la discriminación en los ámbitos de educación, salud, laboral, participación en la vida pública, seguridad e integridad y procuración y administración de justicia.
+Los entes públicos, en el ámbito de su competencia, llevarán a cabo las medidas de nivelación, inclusión y acciones afirmativas, destinadas a prevenir y eliminar la discriminación en los ámbitos de educación, salud, laboral, participación en la vida pública, seguridad e integridad y procuración y administración de justicia.
+
+Quienes adopten medidas de nivelación, medidas de inclusión y acciones afirmativas, deben reportarlas periódicamente al Consejo para su registro y monitoreo, quien será el encargado de determinar la información a recabar y la forma de hacerlo.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Las medidas positivas y compensatorias a favor de las personas, grupos y comunidades en situación de discriminación tendrán como objetivo, entre otros, los siguientes:
+Las medidas de nivelación son aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades, eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad.
 
-I. Eliminar obstáculos que impidan el acceso al ejercicio de sus derechos en condiciones de igualdad con el resto de las personas; y
+Las medidas de nivelación incluyen, entre otras:
 
-II. Eliminar los actos y efectos de la discriminación de la que han sido objeto.
+I. Ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
+
+II. Adaptación de los puestos de trabajo para personas con discapacidad;
+
+III. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille o en lenguas indígenas;
+
+IV. Uso de intérpretes de lengua de señas mexicana en los eventos públicos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
+
+V. Uso de intérpretes y traductores de lenguas indígenas;
+
+VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+VII. Derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas, trabajos, entre otros, y
+
+VIII. Creación de licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-Los entes públicos en el ámbito de sus atribuciones, divulgarán las medidas positivas y compensatorias de manera accesible y expedita a quienes se dirigen.
+Las medidas de inclusión son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato.
+
+Las medidas de inclusión podrán comprender, entre otras, las siguientes:
+
+I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal;
+
+II. La integración en el diseño, instrumentación y evaluación de las políticas públicas, del derecho a la igualdad y no discriminación;
+
+III. El desarrollo de políticas contra la homofobia, xenofobia, la misoginia, la discriminación por apariencia o el adultocentrismo;
+
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias, y
+
+V. El llevar a cabo campañas de difusión al interior de los entes públicos estatales.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-Los entes públicos, en el ámbito de sus atribuciones, deberán proporcionar a quien la solicite, la información sobre el cumplimiento de las medidas positivas y compensatorias.
+Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad. Estas medidas no serán consideradas discriminatorias en términos del artículo 6 de la presente Ley.
+
+Los entes públicos, en el ámbito de sus atribuciones, deberán proporcionar a quien la solicite, la información sobre el cumplimiento de este tipo de acciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-Para garantizar la ejecución de las medidas positivas y compensatorias, los entes públicos llevarán a cabo acciones generales a favor de las personas, grupos o comunidades en situación de discriminación. Las acciones que realizarán son:
+Para garantizar la ejecución de acciones afirmativas, los entes públicos llevarán a cabo acciones para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación en espacios educativos, laborales y cargos de elección popular. Las acciones que realizarán son:
 
 I. Promover y garantizar la igualdad de trato y acceso a oportunidades en los ámbitos económico, político, social y cultural, en todas las áreas a su cargo;
 
@@ -197,27 +323,53 @@ Con el fin de observar las disposiciones contenidas en la presente Ley, cada ent
 
 En el caso del Poder Ejecutivo Estatal, el Comité a que se refiere el artículo anterior estará integrado de la siguiente manera:
 
-I. Un Presidente Honorario, que será el Gobernador del Estado de Puebla;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-II. Un Presidente Ejecutivo, que será el Secretario General de Gobierno;
+I. Un Presidente Honorario, que será el Titular del Poder Ejecutivo del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+II. Un Presidente Ejecutivo, que será el Titular de la Secretaría General de Gobierno;
 
 III. Un Secretario Técnico, que será designado por los miembros del Comité, a propuesta del Presidente;
 
-IV. Ocho Vocales que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-a) El Secretario de Desarrollo Social.
+IV. Nueve vocales que serán:
 
-b) El Secretario de Educación Pública.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-c) El Secretario de Competitividad, Trabajo y Desarrollo Económico.
+a) Titular de la Secretaría de Desarrollo Social.
 
-d) El Secretario de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-e) El Secretario de Salud.
+b) Titular de la Secretaría de Educación Pública.
 
-f) El Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+c) Titular de la Secretaría de Competitividad, Trabajo y Desarrollo Económico.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+d) Titular de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+e) Titular de la Secretaría de Salud.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+f) Titular de la Fiscalía General del Estado.
 
 g) La Directora General del Instituto Poblano de las Mujeres.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+h) Titular del Sistema Estatal para el Desarrollo Integral de la Familia, e
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+i) Titular de la Coordinación General de Asuntos Internacionales y de Apoyo a Migrantes Poblanos.
 
 V. Tres representantes de la sociedad civil, elegidos por el Congreso del Estado y para un periodo de hasta 3 años, de conformidad con las reglas siguientes:
 
@@ -326,3 +478,13 @@ QUINTO.- Se derogan todas las disposiciones que se opongan al presente ordenamie
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de julio de dos mil trece.- Diputado Presidente.- JOSÉ ANTONIO GALI LÓPEZ.- Rúbrica.- Diputado Vicepresidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputada Secretaria.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- HUGO ALEJO DOMÍNGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de julio de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas (sic) disposiciones que se opongan al presente Decreto.
