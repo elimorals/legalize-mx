@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-sistema-institucional-de-archivos-del-122877"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122877&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 14 DE SEPTIEMBRE DE 2017.]</small>
 
 Reglamento publicado en el Número 134 de la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -145,6 +145,8 @@ XVIII. Sistema de Control: Sistema de Control de Gestión Documental.
 XIX. Valores primarios: Son los valores intrínsecos que contienen los documentos en su primera edad, o de gestión los cuales son: administrativo, legal y fiscal;
 
 XX. Valores secundarios: Son los valores intrínsecos que contienen los documentos en su segunda edad y son: informativos, testimoniales y evidenciables, y
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 XXI. Vigencia documental: Periodo de conservación de la documentación en las áreas de Archivo de Trámite, de Concentración e Histórico.
 
@@ -539,3 +541,11 @@ SEGUNDO. Se abroga el Reglamento del Sistema Institucional de Archivos del Insti
 TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
 
 CUARTO. Publíquese el presente Acuerdo de manera inmediata a su aprobación en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus Direcciones Distritales y en la página electrónica referida.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS, Y DE OPERACIÓN Y FUNCIONAMIENTO DEL COMITÉ TÉCNICO INTERNO DEL (SIC) ADMINISTRACIÓN DE DOCUMENTOS, AMBOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADO EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
