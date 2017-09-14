@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2016-12-20"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -195,6 +195,10 @@ c) Reconocer e incentivar a las empresas e instituciones que propicien que sus t
 
 d) Crear, en coordinación con la Secretaría de Ecología y Gestión Ambiental programas de difusión sobre la plantación, cuidado, conservación y preservación de árboles para toda la población, con el apoyo de las instituciones educativas del Estado y los municipios.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+e) Promover la innovación tecnológica empresarial en torno a la prevención, mitigación y control del cambio climático.
+
 ###### ARTÍCULO 10.
 
 La Secretaría promoverá de manera coordinada con las autoridades competentes, el establecimiento de programas para incentivar fiscalmente a los interesados en participar de manera voluntaria en la realización de proyectos de reducción de emisiones.
@@ -311,9 +315,17 @@ IX. Profundizar y extender la interacción en materia de cambio climático, entr
 
 X. Informar e incentivar a empresarios, productores rurales y organismos sociales, en torno a beneficios y oportunidades asociadas a políticas gubernamentales, y a iniciativas de mitigación de gases de efecto invernadero;
 
-XI. Impulsar la difusión y cumplimiento de las disposiciones contenidas en la Convención Marco de las Naciones Unidas sobre Cambio Climático y demás instrumentos derivados de la misma, y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Establecer una instancia especializada que coadyuva en la realización de proyectos de mitigación de gases de efecto invernadero y, en su caso, gestionar su incorporación a mecanismos internacionales de tratamiento de emisiones.
+XI. Impulsar la difusión y cumplimiento de las disposiciones contenidas en la Convención Marco de las Naciones Unidas sobre Cambio Climático y demás instrumentos derivados de la misma;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Establecer una instancia especializada que coadyuva en la realización de proyectos de mitigación de gases de efecto invernadero y, en su caso, gestionar su incorporación a mecanismos internacionales de tratamiento de emisiones, y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Promover e impulsar la innovación tecnológica y económica, a través de las dependencias y entidades gubernamentales, así como de los sectores, público, social y privado, en temas relacionados con la prevención, mitigación y control de la vulnerabilidad al fenómeno global del cambio climático.
 
 ###### ARTÍCULO 25.
 
@@ -643,11 +655,11 @@ Cuando de las visitas de inspección realizadas a las personas físicas o morale
 
 ### Capítulo III. De las Sanciones
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 63.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, no entreguen la información, datos o documentos requeridos en el plazo señalado, la Secretaría podrá imponer una multa de quinientos a tres mil días de la unidad de medida y actualización, sin menoscabo del cumplimiento inmediato de dicha obligación.
+En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, no entreguen la información, datos o documentos requeridos en el plazo señalado, la Secretaría podrá imponer una multa de quinientas a tres mil Unidades de Medida y Actualización, sin menoscabo del cumplimiento inmediato de dicha obligación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -722,3 +734,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0697.- SE REFORMAN LOS ARTÍCULOS 24 Y 63; Y SE ADICIONAN FRACCIONES A LOS ARTÍCULOS 9º Y 24 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
