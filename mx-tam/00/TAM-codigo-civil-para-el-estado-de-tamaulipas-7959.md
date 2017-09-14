@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2016-12-21"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -267,9 +267,11 @@ ART. 55.- El Oficial del Registro Civil, una vez que se le comunique la resoluci
 
 ART. 56.- Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-ART. 57.- Los padres, conjunta o separadamente, tienen la obligación de declarar el nacimiento, dentro del año siguiente de ocurrido. A falta de ellos, están obligados a hacerlo los abuelos. Los médicos o quien hubiere asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes, mediante la entrega de certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si este ocurrió fuera de la casa paterna.
+ART. 57.- Los padres, conjunta o separadamente, tienen obligación de declarar y registrar el nacimiento de manera inmediata al alumbramiento. A falta de ellos, están obligados a hacerlo los abuelos. Los médicos o quien hubiere asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes, mediante la entrega de certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si este ocurrió fuera de la casa paterna.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2001)</small>
 
 Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 313, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
 
@@ -10284,3 +10286,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-236 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 35 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
