@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2017-06-08"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1415,7 +1415,7 @@ El Congreso del Estado deberá deliberar y votar la Ley de Ingresos y el Presupu
 
 Si la discusión y votación del dictamen de la Ley de Ingresos y del Presupuesto de Egresos o de alguno de ellos, no se realiza para el 31 de diciembre del año anterior al cual deban regir, hasta la aprobación de esos ordenamientos o de alguno de ellos se aplicarán provisionalmente durante los dos primeros meses del año fiscal siguiente las disposiciones previstas en los respectivos ordenamientos vigentes hasta ese día. Si al finalizar ese plazo no se hubieren votado y aprobado, se aplicarán con carácter definitivo los preceptos contenidos en las iniciativas que en su oportunidad hubiere enviado el Ejecutivo. En ambas hipótesis se efectuará la publicación correspondiente en el Periódico Oficial del Estado.
 
-En tratándose de las iniciativas de Ley de Ingresos de los Ayuntamientos del Estado, el plazo para su aprobación definitiva por parte del Congreso será también el 31 de diciembre del año anterior al ejercicio fiscal de que se trate y si ello no ocurre, en lo conducente se seguirán las reglas previstas los (sic) párrafos anteriores. En todo caso, la iniciativa de Ley de Ingresos de los Municipios del Estado deberá incluir la estimación de los ingresos que tendrá por los diferentes conceptos aplicables durante el siguiente ejercicio fiscal.
+En tratándose de las iniciativas de Ley de Ingresos de los Ayuntamientos del Estado, el plazo para su aprobación definitiva por parte del Congreso será también el 31 de diciembre del año anterior al ejercicio fiscal de que se trate y si ello no ocurre, en lo conducente se seguirán las reglas previstas (sic) los párrafos anteriores. En todo caso, la iniciativa de Ley de Ingresos de los Municipios del Estado deberá incluir la estimación de los ingresos que tendrá por los diferentes conceptos aplicables durante el siguiente ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2719,11 +2719,13 @@ La Ley determinará cuales son las profesiones que necesitan título para su eje
 
 El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobre coordinación de los Servicios de Educación Pública, reservándose las facultades necesarias y asegurando la estabilidad de los Profesores al servicio del Estado; se determinará en la Ley los estímulos y recompensas a los Profesores, en atención al mérito de sus labores y a la antigüedad de sus servicios.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Art. 143 Bis.
 
-La Universidad Autónoma de Tamaulipas es un órgano autónomo reconocido por esta Constitución, se considera la máxima institución de educación superior y de posgrado del Estado, la cual realizará sus fines de educar, investigar y difundir la cultura de acuerdo a los principios constitucionales en materia de educación, respetando la libertad de cátedra e investigación, así como de libre examen y discusión de las ideas. Gozará de independencia para gobernarse, expedir su normatividad interna y nombrar a sus autoridades, personal docente y administrativo, con excepción del titular de su órgano interno de control, el cual será designado por el Congreso del Estado en los términos de la ley.
+La Universidad Autónoma de Tamaulipas es un órgano autónomo reconocido por esta Constitución, se considera la máxima institución de educación superior y de posgrado del Estado, la cual realizará sus fines de educar, investigar y difundir la cultura de acuerdo a los principios constitucionales en materia de educación, respetando la libertad de cátedra e investigación, así como de libre examen y discusión de las ideas. Gozará de independencia para gobernarse, expedir su normatividad interna y nombrar a sus autoridades, personal docente, administrativo y contralor.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 Se le asignará una partida del Presupuesto de Egresos del Estado para su funcionamiento. Los recursos estatales que le sean otorgados, serán fiscalizados por la Auditoría Superior del Estado, sin perjuicio de que los recursos públicos federales que reciba sean fiscalizados por las instancias competentes de la Federación, de conformidad con la legislación aplicable.
 
@@ -4690,6 +4692,18 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Por única ocasión y con la finalidad de homologar la elección local a la federal, los Diputados que sean electos en 2019 durarán en su encargo un período de dos años.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-234 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 143 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan a lo previsto en este Decreto.
 
 ###### ARTÍCULO SEXTO.
 
