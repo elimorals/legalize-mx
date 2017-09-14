@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122872&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 14 DE SEPTIEMBRE DE 2017.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -166,7 +166,9 @@ VII. Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
 VIII. Integrantes del Consejo General: La Consejera o Consejero Presidente, las seis Consejeras y Consejeros Electorales, la Secretaría del Consejo y las Representaciones de los Partidos Políticos;
 
-IX. Invitadas e invitados: El personal del Instituto Electoral, las y los especialistas externos que, a solicitud que les sea formulada por la Presidencia del Consejo General o las Presidencias de las Comisiones o Comités, participen con derecho a voz en las sesiones del Consejo General y de las Comisiones o omités (sic);
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Invitadas e invitados: El personal del Instituto Electoral, las y los especialistas externos que, a solicitud que les sea formulada por la Presidencia del Consejo General o las Presidencias de las Comisiones o Comités, participen con derecho a voz en las sesiones del Consejo General y de las Comisiones o Comités;
 
 X. Invitadas e invitados permanentes: Las y los representantes de los grupos parlamentarios del Congreso de la Ciudad de México a las sesiones del Consejo General;
 
@@ -252,7 +254,9 @@ VI. Solicitar a la Presidencia del Consejo General la inclusión de asuntos en e
 
 VII. Contribuir al correcto desarrollo de las sesiones;
 
-VII. (SIC) Excusarse de conocer de algún asunto en que tengan interés personal, por relaciones de parentesco o negocios, amistad estrecha o enemistad que pueda afectar la imparcialidad en su desempeño; y
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Excusarse de conocer de algún asunto en que tengan interés personal, por relaciones de parentesco o negocios, amistad estrecha o enemistad que pueda afectar la imparcialidad en su desempeño; y
 
 IX. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
@@ -264,35 +268,63 @@ I. Asistir a las sesiones del Consejo General y participar en ellas con derecho 
 
 II. Preparar los proyectos de orden del día, convocatorias e invitaciones a las sesiones del Consejo General;
 
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
 III. Enviar a las y los integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las invitadas e invitados permanentes la invitación respectiva.
 
-IV. Asimismo, ordenar la publicación en la página de Internet institucional tanto el orden del día como los documentos y anexos correspondientes conforme a lo dispuesto en el artículo 15 de este Reglamento;
+Asimismo, ordenar la publicación en la página de Internet institucional tanto el orden del día como los documentos y anexos correspondientes conforme a lo dispuesto en el artículo 15 de este Reglamento;
 
-V. Pasar lista de asistencia a las y los integrantes del Consejo General y llevar el registro de ella, en su caso, dar cuenta de la asistencia de las invitadas e invitados permanentes, así como de las representaciones de candidaturas;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Solicitar la dispensa de la lectura de los documentos previamente distribuidos que forman parte del orden del día;
+IV. Pasar lista de asistencia a las y los integrantes del Consejo General y llevar el registro de ella, en su caso, dar cuenta de la asistencia de las invitadas e invitados permanentes, así como de las representaciones de candidaturas;
 
-VII. Participar en el desahogo de los asuntos de la sesión;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Contribuir al correcto desarrollo de las sesiones;
+V. Solicitar la dispensa de la lectura de los documentos previamente distribuidos que forman parte del orden del día;
 
-XI. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-X. Elaborar el proyecto de acta de la sesión, someterla a la aprobación del Consejo General y, en su caso, incorporar las observaciones realizadas a la misma por las y los participantes del propio Consejo;
+VI. Participar en el desahogo de los asuntos de la sesión;
 
-XI. Dar cuenta de los escritos que se presenten al Consejo General;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Ser enlace directo entre el Consejo General y los diversos órganos del Instituto Electoral;
+VII. Contribuir al correcto desarrollo de las sesiones;
 
-XIII. Llevar el cómputo del tiempo de las intervenciones para los efectos previstos en el Reglamento;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Informar sobre el cumplimiento de los acuerdos y resoluciones del Consejo General cuando lo solicite alguna o algún integrante del mismo;
+VIII. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
-XV. Firmar con la Consejera Presidenta o Consejero Presidente del Consejo General las actas de las sesiones, las resoluciones y los acuerdos aprobados;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Elaborar las versiones estenográficas de las sesiones del Consejo General y llevar su registro, así como de las actas, acuerdos y resoluciones aprobados por el Consejo General y el archivo de dichos documentos; y
+IX. Elaborar el proyecto de acta de la sesión, someterla a la aprobación del Consejo General y, en su caso, incorporar las observaciones realizadas a la misma por las y los participantes del propio Consejo;
 
-XVII. Las demás que le confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+X. Dar cuenta de los escritos que se presenten al Consejo General;
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Ser enlace directo entre el Consejo General y los diversos órganos del Instituto Electoral;
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Llevar el cómputo del tiempo de las intervenciones para los efectos previstos en el Reglamento;
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Informar sobre el cumplimiento de los acuerdos y resoluciones del Consejo General cuando lo solicite alguna o algún integrante del mismo;
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Firmar con la Consejera Presidenta o Consejero Presidente del Consejo General las actas de las sesiones, las resoluciones y los acuerdos aprobados;
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Elaborar las versiones estenográficas de las sesiones del Consejo General y llevar su registro, así como de las actas, acuerdos y resoluciones aprobados por el Consejo General y el archivo de dichos documentos; y
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Las demás que le confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
 ###### Artículo 9.
 
@@ -314,7 +346,9 @@ VII. Contribuir al correcto desarrollo de las sesiones;
 
 VIII. Solicitar por mayoría a la Consejera Presidenta o Consejero Presidente del Consejo General, convoque a sesiones extraordinarias;
 
-XI (SIC). Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
 
 X. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
@@ -352,7 +386,9 @@ VI. Contribuir al correcto desarrollo de las sesiones;
 
 VII. Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
 
-VII (SIC). Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
 La participación de las y los representantes de candidatas o candidatos en las sesiones del Consejo General tendrá lugar a partir de su registro y exclusivamente durante el proceso electoral sólo para tratar asuntos relacionados con la elección de Jefatura de Gobierno.
 
@@ -766,7 +802,9 @@ VI. Participar en la discusión de los asuntos contenidos en el orden del día d
 
 VII. Tomar las votaciones y dar a conocer los resultados de las mismas;
 
-VII. (SIC) Apoyar a la Consejera Presidenta o Consejero Presidente de la Comisión durante el desarrollo de las sesiones;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Apoyar a la Consejera Presidenta o Consejero Presidente de la Comisión durante el desarrollo de las sesiones;
 
 IX. Llevar un registro de los dictámenes, acuerdos y resoluciones adoptados en cada sesión;
 
@@ -997,3 +1035,11 @@ SEGUNDO.- Se abroga el Reglamento de Sesiones del Consejo General y Comisiones d
 TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO.- En concordancia con el artículo Vigésimo Sexto Transitorio del Decreto que contiene las observaciones del Jefe de Gobierno de la Ciudad de México, respecto del diverso por el que se abroga el Código de Instituciones y Procedimientos Electorales del Distrito Federal y la Ley Procesal Electoral del Distrito Federal y se expide el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y la Ley Procesal Electoral para la Ciudad de México; y se reforman diversas disposiciones de la Ley de Participación Ciudadana del Distrito Federal y del Código Penal para el Distrito Federal, todas las referencias al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal, hasta en tanto concluya la VII Legislatura y se instale el Congreso Local.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADO EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
