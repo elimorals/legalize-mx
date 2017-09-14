@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2017-03-29"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -407,7 +407,7 @@ i) Suspensión o desaparición de Ayuntamientos;
 
 j) Responsabilidad de servidores públicos, en el ámbito de su competencia;
 
-k) Conocer y resolver respecto de las solicitudes de la calidad de poblano; y
+k) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2017)
 
 l) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
@@ -1363,9 +1363,7 @@ Para las ceremonias cívicas y los actos más relevantes por su significación, 
 
 ###### ARTÍCULO 119.
 
-Una vez concluido cada Periodo Ordinario, serán convocadas todas aquellas personas que, en términos de la legislación aplicable, hayan obtenido por parte del Congreso del Estado la aprobación de su Calidad de Poblanos.
-
-Dicho evento se podrá desarrollar en el Salón Miguel Hidalgo, y en el mismo, el Presidente de la Junta de Gobierno y Coordinación Política preguntará a dichas personas: "¿Protestáis sin reserva alguna cumplir con las obligaciones que la Constitución Política del Estado Libre y Soberano de Puebla establece para los poblanos, así como conducirse con estricto apego al orden jurídico de la Entidad?" Los interrogados deberán contestar: "Sí. Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y los Poblanos os lo demanden".
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO III. DE LOS TRÁMITES
 
@@ -3262,3 +3260,11 @@ TERCERO. Los asuntos en trámite presentados o turnados al Comité de Gestoría 
 CUARTO. Todos los actos suscritos por el Comité de Gestoría y Quejas y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos al Comité de Atención Ciudadana.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA EL INCISO K) DE LA FRACCIÓN I DEL ARTÍCULO 48 Y EL 119 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
