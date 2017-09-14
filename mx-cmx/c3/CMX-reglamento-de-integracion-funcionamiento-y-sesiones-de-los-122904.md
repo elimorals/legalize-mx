@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-integracion-funcionamiento-y-sesiones-de-los-1229
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2017-08-17"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122904&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DE INTEGRACION, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 14 DE SEPTIEMBRE DE 2017.]
 
 Reglamento publicado en el Número 135 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -426,7 +426,9 @@ XIX. Cumplir con las tareas que en materia de organización electoral le encomie
 
 XX. Rendir al Tribunal los informes que deriven de los expedientes que se integren con motivo de los medios de impugnación que se interpongan en contra de los acuerdos y actos de su Consejo Distrital;
 
-XI (SIC). Elaborar las actas, informes, razones de fijación, cedula de fijación y retiro en estrados de los acuerdos que así lo requieran;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Elaborar las actas, informes, razones de fijación, cedula de fijación y retiro en estrados de los acuerdos que así lo requieran;
 
 XXII. Notificar las resoluciones que emitan al Consejo General y su Consejo Distrital, en los casos que así lo requieran;
 
@@ -726,7 +728,9 @@ I. De seguimiento a la Capacitación Electoral;
 
 II. De Organización Electoral, y
 
-II. Las que se integren para la preparación y el seguimiento de la jornada electoral durante la sesión del Consejo Distrital correspondiente, las cuales dejarán de existir en el plazo señalado en el respectivo Acuerdo de creación.
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+III. Las que se integren para la preparación y el seguimiento de la jornada electoral durante la sesión del Consejo Distrital correspondiente, las cuales dejarán de existir en el plazo señalado en el respectivo Acuerdo de creación.
 
 Las Comisiones Distritales, con excepción de las previstas en la fracción III del presente artículo, podrán conformarse con menos de tres Consejeras y/o Consejeros Distritales, cuando se requieran atender, de manera simultánea, los incidentes relevantes que se presenten en las casillas. Estas Comisiones cesarán una vez concluido el proceso electoral en el respectivo Distrito o cuando así lo acuerde el Consejo Distrital.
 
@@ -1239,3 +1243,11 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se abroga el Reglamento de Integración, Funcionamiento y Sesiones de los Consejos Distritales del Instituto Electoral del Distrito Federal, aprobado por el Consejo General mediante acuerdo ACU-28-11 de fecha 28 de marzo de 2011, así como sus respectivas reformas.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO POR EL QUE SE APRUEBA EL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADOS EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
