@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-fiscalizacion-de-los-recursos-de-las-116675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-03"
-last_updated: "2017-08-18"
+last_updated: "2017-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116675&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LAS AGRUPACIONES POLITICAS LOCALES DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS LOCALES EN LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 14 DE SEPTIEMBRE DE 2017.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 3 de octubre de 2016.
 
@@ -32,7 +32,7 @@ Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el
 
 A n t e c e d e n t e s:
 
-[...]
+[…]
 
 En razón de lo expuesto, y con fundamento en lo dispuesto por los artículos 41, párrafo segundo, Base V, Apartado C, numerales 10 y 11 de la Constitución; 3, numeral 1, inciso h); 98, numerales 1 y 2, 104, numeral I, incisos a) y r) de la Ley General; 120, párrafo segundo, 123, párrafo primero, 124, párrafos primero y segundo y 127, párrafo primero, numerales 1, 10 y 11 del Estatuto de Gobierno; 1, párrafos primero y segundo, fracciones III y VIII, 3, párrafos primero, segundo y tercero, 15, 16, 17, 18, fracciones I y II, 20, párrafo primero, fracciones II y IX, párrafo tercero, inciso a) y párrafo quinto, inciso a) y q), 21, párrafo primero, fracciones I y III, 25, párrafos primero, segundo y tercero, 32, párrafos primero, segundo y tercero, 35, párrafo primero, fracciones I, XIII, XX, XXXV y XXXIX, 36, 37, 43, párrafo primero, fracción V, 187, 191, 192, 193, 196, párrafo primero, fracciones I, inciso e), numeral 2, fracción II, inciso a) y c), 199, párrafo primero, fracción III, 200, párrafo primero, fracción I, 247 y 260 del Código; así como el Transitorio Primero del Acuerdo INE/CG263/2014, aprobado por el Consejo General del INE; el Consejo General en ejercicio de las facultades constitucionales, legales y reglamentarias, emite el siguiente:
 
@@ -592,13 +592,17 @@ II. Datos referentes al órgano que dictó el acto;
 
 III. Lugar, hora y fecha en que se practica;
 
-IV. Descripción de los medios por los que el notificador se cerciora del domicilio del interesado;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Descripción de los medios por los que el o la notificador/a se cerciora del domicilio de la persona interesada;
 
 V. Fundamentación y motivación;
 
 VI. Nombre, acreditación y firma del notificador;
 
-VII. Nombre y firma de la persona con quien se entienda la diligencia, indicando su relación con el interesado o, en su caso, que se negó a proporcionarla;
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Nombre y firma de la persona con quien se entienda la diligencia, indicando su relación con el interesado o interesada o, en su caso, que se negó a proporcionarla;
 
 VIII. Señalamiento de requerir a la persona a notificar, así como la indicación que la persona con la cual se entiende la diligencia es la misma a la que se va a notificar;
 
@@ -1895,3 +1899,9 @@ SEXTO. Realícense las adecuaciones procedentes en virtud de la determinación a
 SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
 
 OCTAVO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal, la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código de la Ciudad.
+
+G.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBAN REFORMAS AL REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS LOCALES DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADOS EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
