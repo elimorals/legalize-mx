@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-06-12"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -669,9 +669,9 @@ Las adiciones o supresiones a los nombres de los Municipios se podrán realizar 
 
 La soberanía del Estado, reside esencial y originariamente en el pueblo hidalguense, quien la ejerce por medio de los poderes constituidos en los términos de esta ley fundamental.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-La renovación de los poderes legislativo y ejecutivo, al igual que la de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, en las que podrán participar los partidos políticos nacionales y estatales, por sí mismos o en coaliciones, así como los candidatos independientes.
+La renovación de los poderes legislativo y ejecutivo, al igual que la de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, en las que podrán participar los partidos políticos nacionales y estatales, por sí mismos, en coaliciones o en candidaturas comunes, así como los candidatos independientes.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -859,15 +859,17 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Fiscal Especializado en Delitos de Corrupción, el Auditor Superior del Estado y los servidores públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días antes del día de la elección.
+III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Fiscal Especializado en Delitos de Corrupción, el Auditor Superior del Estado y los servidores públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 El Fiscal Especializado para la Atención de Delitos Electorales, los Consejeros Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, tampoco podrán serlo, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Los Jueces de Primera Instancia en la circunscripción en la que ejerzan sus funciones y los Presidentes Municipales en el Distrito del que forme parte el Municipio de su competencia, si no se han separado unos y otros de sus cargos cuando menos sesenta días naturales antes del día (sic) la elección; y
+IV. Los Jueces de Primera Instancia en la circunscripción en la que ejerzan sus funciones y los Presidentes Municipales en el Distrito del que forme parte el Municipio de su competencia, si no se han separado unos y otros de sus cargos cuando menos noventa días naturales antes del día (sic) la elección; y
 
 V. Los militares que no se hayan separado del servicio activo, cuando menos seis meses antes de la elección.
 
@@ -4038,3 +4040,11 @@ P.O. 12 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 QUE MODIFICA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 214 QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en la presente reforma de la Constitución Política del Estado de Hidalgo.
