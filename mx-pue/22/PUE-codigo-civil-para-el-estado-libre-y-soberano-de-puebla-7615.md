@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2016-12-30"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -1727,6 +1727,10 @@ Cuando en este Código se hable del "Juez", para imponerle deberes o concederle 
 
 Los negocios familiares se resolverán atendiendo preferentemente al interés de los menores o mayores incapaces o discapacitados, si los hubiere en la familia de que se trate; en caso contrario se atenderá al interés de la familia misma y por último al de los mayores de edad capaces que formen parte de ella.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+Para garantizar el derecho fundamental de igualdad, los jueces deberán identificar situaciones de poder o de género que provoquen un desequilibrio entre las partes; así como cuestionar la neutralidad del derecho aplicable, observando los estándares establecidos en materia de derechos humanos.
+
 (NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, "DECLARA LA INVALIDEZ DEL ARTÍCULO 300, EN LA PORCIÓN NORMATIVA "EL HOMBRE Y LA MUJER", DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, REFORMADO MEDIANTE DECRETO PUBLICADO EN LA SEGUNDA SECCIÓN DE LA EDICIÓN NÚMERO 17 DEL PERIÓDICO OFICIAL DE DICHA ENTIDAD EL VEINTIOCHO DE MARZO DE DOS MIL DIECISÉIS Y, EN VÍA DE CONSECUENCIA, LA DEL ARTÍCULO 294, EN LA PORCIÓN NORMATIVA "PERPETUAR LA ESPECIE Y", DEL REFERIDO CÓDIGO CIVIL; EN LA INTELIGENCIA DE QUE, EN LA INTERPRETACIÓN Y APLICACIÓN DE LA PORCIÓN NORMATIVA "UN SOLO HOMBRE Y UNA SOLA MUJER" DEL CITADO ARTÍCULO 294, DE LAS PORCIONES NORMATIVAS "ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER" Y "COMO MARIDO Y MUJER" DEL ARTÍCULO 297, Y DE LAS PORCIONES NORMATIVAS REFERIDAS A TALES SUJETOS, CONTENIDAS EN DIVERSOS PRECEPTOS DEL CÓDIGO IMPUGNADO Y EN OTROS ORDENAMIENTOS ESTATALES VINCULADOS TANTO CON EL MATRIMONIO COMO CON EL CONCUBINATO (COMPRENDIDO DENTRO DEL CAPÍTULO SEGUNDO "MATRIMONIO" DE ESTE CÓDIGO CIVIL), DEBERÁ ENTENDERSE QUE ESTAS INSTITUCIONES INVOLUCRAN A DOS PERSONAS DEL MISMO O DE DIFERENTE SEXO.", LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ### CAPITULO SEGUNDO.- MATRIMONIO
@@ -2729,13 +2733,11 @@ Si se comprueba que el divorcio administrativo, no cumple lo establecido por el 
 
 #### Sección Tercera.- Divorcio incausado
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 442.
 
-El divorcio incausado podrá solicitarse por cualquiera de los cónyuges o por ambos, ante Juez de lo Familiar competente, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, sin ser necesario señalar la causa por la que lo solicita, siempre que haya transcurrido un año de haberse celebrado el matrimonio.
+El divorcio incausado podrá solicitarse por cualquiera de los cónyuges o por ambos, ante Juez de lo Familiar competente, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, sin ser necesario señalar la causa por la que lo solicita.
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
@@ -3197,13 +3199,17 @@ Además, los alimentos comprenderán la atención médica y hospitalaria del emb
 
 Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio, arte o profesión, que resulte adecuado para la subsistencia del deudor alimentario.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 499.
 
-Los descendientes que al adquirir la mayoría de edad estén estudiando una carrera, tienen derecho a recibir alimentos, hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción.
+Los hombres y las mujeres que al adquirir la mayoría de edad estén estudiando una carrera, tienen derecho a recibir alimentos hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 500.
 
-Las hijas, aunque sean mayores de edad, tienen derecho a alimentos mientras no contraigan matrimonio, vivan honestamente y no cuenten con medios de subsistencia.
+Las mujeres que sean mayores de edad, fuera del supuesto anterior, tienen derecho a alimentos mientras no contraigan matrimonio y no cuenten con medios de subsistencia.
 
 ###### Artículo 501.
 
@@ -17793,7 +17799,9 @@ III.- A los mayores que se encuentren en el supuesto previsto en el artículo 49
 
 IV.- Al cónyuge supérstite varón que esté impedido para trabajar;
 
-V.- Al cónyuge supérstite mujer mientras no contraiga matrimonio y viva honestamente;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+V.- Al cónyuge supérstite mujer mientras no contraiga matrimonio;
 
 VI.- A la persona con quien el autor de la herencia haya vivido en la situación prevista por el artículo 297 de este Código, que se encuentre, respectivamente, en cualquiera de los casos a que se refieren las dos fracciones anteriores;
 
@@ -20453,8 +20461,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 98 FRACCIÓN IX, 104 PÁRRAFO TERCERO Y 142 FRACCIÓN II, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, TODOS DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, ASÍ COMO REFORMA EL ARTÍCULO 608 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 98 FRACCIÓN IX, 104 PÁRRAFO TERCERO Y 142 FRACCIÓN II, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, TODOS DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, ASÍ COMO REFORMA EL ARTÍCULO 608 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA, EN MATERIA DE PERSPECTIVA DE GÉNERO". ]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas (sic) disposiciones que se opongan al presente Decreto.
