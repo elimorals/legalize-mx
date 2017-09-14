@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planeacion-para-el-desarrollo-del-estado-de-puebla-11495
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2005-04-22"
+last_updated: "2017-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el sábado 31 de diciembre de 1983.
 
@@ -102,6 +102,10 @@ III.- La preservación y el perfeccionamiento de la democracia social como siste
 IV.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria.
 
 V.- Elevar el nivel de vida de la población a través de un desarrollo económico, social, político y cultural, preservando el empleo dentro de un marco congruente en el uso racional de recursos.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+VI.- Conducir sus actividades con perspectiva de género, integrando en el proceso de planificación, diseño, implementación, seguimiento y evaluación, la promoción de la igualdad entre las mujeres y los hombres.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
@@ -794,3 +798,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El término previsto en la fracción VI del artículo 12 del presente Decreto, no aplicará para la presente Administración Pública Estatal.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA, EN MATERIA DE PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO. EI presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
