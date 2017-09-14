@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "2016-09-26"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -219,9 +219,11 @@ Los libros de ejercicios anuales vencidos, se conservarán en el Archivo General
 
 ### CAPITULO III. DE LAS ACTAS DE NACIMIENTO
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Art. 35.
 
-Las declaraciones de nacimiento se harán dentro de los treinta días siguientes al alumbramiento. El niño deberá ser presentado al Oficial del Registro Civil. En los lugares donde no haya Registro Civil, el niño será presentado al funcionario que se expresa en el artículo 2o. de este Reglamento, recogiendo el interesado la constancia respectiva que llevará a la Oficina del Registro Civil de su jurisdicción, para que asiente el acta en forma.
+Las declaraciones y registros de nacimiento se harán inmediatamente a su alumbramiento. El niño deberá ser presentado al Oficial del Registro Civil. En los lugares donde no haya Registro Civil, el niño será presentado al funcionario que se expresa en el artículo 2o. de este Reglamento, recogiendo el interesado la constancia respectiva que llevará a la Oficina del Registro Civil de su jurisdicción para que asiente el acta correspondiente.
 
 ###### Art. 36.
 
@@ -584,3 +586,11 @@ El presente Decreto se publicará en el Periódico Oficial del Estado de Tamauli
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se oponga a este Decreto.
+
+P O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-236 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 35 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
