@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-fiscalizacion-de-los-recursos-de-las-122908"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2017-08-17"
+last_updated: "2017-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122908&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE MANIFIESTEN SU INTERES EN CONSTITUIRSE COMO PARTIDO POLITICO LOCAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE MANIFIESTEN SU INTERÉS EN CONSTITUIRSE COMO PARTIDO POLÍTICO LOCAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 14 DE SEPTIEMBRE DE 2017]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -1364,11 +1364,17 @@ d) Cubrir las deudas adquiridas por la Asociación Civil hasta el día en que pr
 
 e) Si una vez cubiertas las condiciones establecidas en las fracciones anteriores, existieran bienes muebles y/o recursos remanentes, dentro de los cinco días siguientes, éstos serán entregados al Instituto Electoral, para ser trasladados a la Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México.
 
-VI (SIC). Al término del plazo establecido en el inciso e), del numeral 7 de la fracción anterior, la persona liquidadora procederá a dar la baja del Registro Federal de Contribuyentes ante las autoridades hacendarias y rendir un informe detallado de todo lo actuado ante la Unidad de Fiscalización.
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Con base en dicho informe y las acciones de supervisión desplegadas por la Unida (sic) de Fiscalización, ésta elaborará un Informe del proceso de liquidación, el cual será puesto a la consideración de la Comisión de Fiscalización, para su posterior presentación al Consejo General.
+IV. Al término del plazo establecido en el inciso e), del numeral 7 de la fracción anterior, la persona liquidadora procederá a dar la baja del Registro Federal de Contribuyentes ante las autoridades hacendarias y rendir un informe detallado de todo lo actuado ante la Unidad de Fiscalización.
 
-VIII. Las agrupaciones políticas locales que no obtengan el registro legal como partido político conservarán su estatus jurídico como asociación política, los bienes y remanentes pasarán a formar parte del patrimonio de la misma; de lo anterior la Unidad de Fiscalización dará seguimiento en el proceso de fiscalización del informes (sic) del ejercicio correspondiente.
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+V. Con base en dicho informe y las acciones de supervisión desplegadas por la Unida (sic) de Fiscalización, ésta elaborará un Informe del proceso de liquidación, el cual será puesto a la consideración de la Comisión de Fiscalización, para su posterior presentación al Consejo General.
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Las agrupaciones políticas locales que no obtengan el registro legal como partido político conservarán su estatus jurídico como asociación política, los bienes y remanentes pasarán a formar parte del patrimonio de la misma; de lo anterior la Unidad de Fiscalización dará seguimiento en el proceso de fiscalización del informes (sic) del ejercicio correspondiente.
 
 ## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS ÓRGANOS DEL INSTITUTO ELECTORAL
 
@@ -1447,3 +1453,11 @@ Publicidad de los Informes.
 Los informes mensuales que presente cada Organización serán públicos una vez que el Consejo General apruebe el dictamen consolidado.
 
 > <small>[N. DE E. VÉASE FORMATOS EN LA G.O. DE 17 DE AGOSTO DE 2017, PÁGINAS DE LA 193 A LA 209.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE MANIFIESTEN SU INTERÉS EN CONSTITUIRSE COMO PARTIDO POLÍTICO LOCAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO APROBADOS EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)”.]
+
+G.O. 14 DE SEPTIEMBRE DE 2017.
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
