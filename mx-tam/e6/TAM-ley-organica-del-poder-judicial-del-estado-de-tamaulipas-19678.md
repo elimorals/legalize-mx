@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2017-06-08"
+last_updated: "2017-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -817,9 +817,11 @@ b).- Cuando el Ministerio Público formule las conclusiones reclasificando el de
 
 c).- En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-d).- Contra sentencias definitivas en procedimiento abreviado, así como contra las emitidas por el Tribunal de Enjuiciamiento en los términos del Código Nacional de Procedimientos Penales; y
+d).- Contra sentencias definitivas en procedimiento abreviado, así como contra las emitidas por el Tribunal de Enjuiciamiento, cuando se trate de delitos cuya pena privativa de libertad impuesta sea superior a cinco años de prisión.
+
+Contra sentencias definitivas absolutorias sólo conocerán de aquellas previstas como delito de prisión preventiva oficiosa; y
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -937,9 +939,9 @@ VIII.- Centro de Mediación;
 
 IX.- Unidad de Transparencia; y
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-X.- Unidad de Igualdad de Género.
+X.- Unidad de Igualdad de Género y Derechos Humanos.
 
 ###### ARTICULO 33.
 
@@ -2327,9 +2329,9 @@ VIII.- Centro de Mecanismos Alternativos para la Solución de Conflictos;
 
 IX.- Unidad de Transparencia; y
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-X.- Unidad de Igualdad de Género.
+X.- Unidad de Igualdad de Género y Derechos Humanos.
 
 El Presidente del Consejo de la Judicatura dictará las medidas que estime convenientes y practicará visitas regulares a las dependencias administrativas o dispondrá de una comisión para que las supervisen, cuando se considere pertinente.
 
@@ -3403,25 +3405,39 @@ II.- Tener experiencia en materia familiar, capacitado en administración y rela
 
 III.- Los demás que determine el Consejo de la Judicatura del Estado.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-#### SECCION OCTAVA. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+#### SECCION OCTAVA. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-ARTICULO 179 SEXIES.- El Poder Judicial contará con una Unidad de Igualdad de Género, que dependerá del Consejo de la Judicatura y tendrá el personal de apoyo que determine éste y permita el presupuesto. Las funciones de la Unidad de Igualdad de Género serán:
+ARTICULO 179 SEXIES.- El Poder Judicial contará con una Unidad de Igualdad de Género y Derechos Humanos, que dependerá del Consejo de la Judicatura y tendrá el personal de apoyo que determine éste y permita el presupuesto. Las funciones de la Unidad de Igualdad de Género y Derechos Humanos serán:
 
-I.- Promover y fortalecer la política de Igualdad de Género entre las y los servidores públicos del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-II.- Impulsar la perspectiva de género en los programas y acciones del Poder Judicial;
+I.- Promover y fortalecer la política de Igualdad de Género y los Derechos Humanos entre las y los servidores públicos del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+II.- Impulsar la perspectiva de género y los derechos humanos en los programas y en la planeación de acciones y políticas laborales del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
 III.- Promover la formación, capacitación y actualización sobre la materia, de los integrantes del Poder Judicial del Estado;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+
 IV.- Ser enlace y representar al Poder Judicial ante los poderes Ejecutivo y Legislativo del Estado, en el ámbito de su competencia;
 
-V.- Proponer al Consejo de la Judicatura instrumentos para fortalecer la política de Igualdad de Género;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+V.- Proponer al Consejo de la Judicatura instrumentos para fortalecer la política de Igualdad de Género y Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
 VI.- Rendir los informes de actividades que solicite el Consejo de la Judicatura; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
 VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
@@ -4250,3 +4266,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente reforma, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-239 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron.
+
+###### ARTÍCULO TERCERO.
+
+Para el Sistema de Justicia Penal Tradicional y el Sistema de Justicia Penal Acusatorio y Oral regido bajo el Código de Procedimientos Penales para el Estado de Tamaulipas expedido mediante Decreto No. LXI-475, del 27 de junio de 2012, publicado en el Periódico Oficial No. 80, del 4 de julio de 2012 y bajo el Código Nacional de Procedimientos Penales, pero antes de la presente reforma, sigue vigente el contenido de los incisos a), b), c) y d) del artículo 27 de la Ley Orgánica del Poder Judicial, anterior al presente Decreto.
