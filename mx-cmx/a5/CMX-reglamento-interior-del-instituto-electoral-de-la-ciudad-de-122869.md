@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-de-la-ciudad-de-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MEXICO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO DEL 14 DE SEPTIEMBRE DE 2017.]</small>
 
 Reglamento publicado en el Número 134 de la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -964,6 +964,8 @@ f) Promover las acciones necesarias para la adquisición de material hemerobibli
 
 IV. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
 #### SECCIÓN SEXTA. De la Unidad Técnica del Centro de Formación y Desarrollo. Atribuciones
 
 ###### Artículo 31.
@@ -1001,6 +1003,8 @@ XIV. Iniciar e instruir los procedimientos laborales disciplinarios del personal
 XV. Actualizar, compilar y sistematizar el marco normativo del Instituto Electoral, dicha actualización deberá publicarse en el sitio de Internet del Instituto Electoral dentro de los diez días naturales posteriores a su entrada en vigor; y
 
 XVI. Las demás que le confiera la normativa que rige al Instituto Electoral.
+
+> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN SÉPTIMA. De la Unidad Técnica de Vinculación con Organismos Externos. Atribuciones
 
@@ -1271,3 +1275,11 @@ TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 CUARTO. En concordancia con el artículo Vigésimo Sexto Transitorio del Decreto que contiene las observaciones del Jefe de Gobierno de la Ciudad de México, respecto del diverso por el que se abroga el Código de Instituciones y Procedimientos Electorales del Distrito Federal y la Ley Procesal Electoral del Distrito Federal y se expide el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y la Ley Procesal Electoral para la Ciudad de México, y se reforman diversas disposiciones de la Ley de Participación Ciudadana del Distrito Federal y del Código Penal para el Distrito Federal, todas las referencias al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal, hasta en tanto concluya la VII Legislatura y se instale el Congreso Local.
 
 QUINTO. Para efectos estrictamente administrativos y hasta que la autoridad correspondiente no emita el nombramiento con la denominación indicada por el Código, toda referencia a la Contraloría General del Instituto Electoral, se entenderá realizada a la Contraloría Interna del propio Instituto Electoral.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADO EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
