@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2017-04-18"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -83,7 +83,9 @@ b) Física: cualquier acción u omisión que produzca un daño en la mujer, prov
 
 c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
 
-d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo en condiciones laborales semejantes;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor en el desempeño de un trabajo, ocupación, cargo, ejercicio, ejecución, práctica, cumplimiento o función igual en puesto y jornada dentro de un mismo centro de trabajo;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -105,13 +107,17 @@ IV. El uso de métodos anticonceptivos o esterilización sin que medie el consen
 
 V. El obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-g) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer; y
+g) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+h) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer, e
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
-h) Política: es toda acción u omisión basadas en elementos de género y dadas en el marco del ejercicio de los derechos político-electorales, que tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos de las mujeres. Se consideran actos de violencia política, entre otros, aquellos que:
+i) Política: es toda acción u omisión basadas en elementos de género y dadas en el marco del ejercicio de los derechos político-electorales, que tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos de las mujeres. Se consideran actos de violencia política, entre otros, aquellos que:
 
 I. Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo;
 
@@ -240,6 +246,12 @@ c). Lo soliciten las organizaciones de la sociedad civil, así como los organism
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 5. La solicitud de declaratoria de alerta de violencia de género se podrá presentar ante cualquier Centro de Salud, el cual deberá remitirla a la autoridad competente de manera inmediata, quien la emitirá, en caso procedente, en un plazo de 24 horas contado a partir de la recepción de la solicitud o a partir de que la autoridad haya tenido conocimiento de los hechos de violencia feminicida.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 8 Bis.
+
+Violencia mediática contra las mujeres es aquella que se ejerce mediante la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación local, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
 ### Capítulo III. De las Órdenes de Protección
 
@@ -457,9 +469,15 @@ j) promover, en coordinación con la Federación, programas y proyectos de atenc
 
 k) difundir ampliamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta ley;
 
-l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas públicas y los programas instrumentados en torno al respeto hacia las mujeres y su derecho a una vida libre de violencia; y
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-m) las demás que le confieren esta ley u otros ordenamientos aplicables.
+l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas públicas y los programas instrumentados en torno al respeto hacia las mujeres y su derecho a una vida libre de violencia;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+m) establecer políticas públicas, en coordinación con los Municipios, para que las condiciones de los espacios públicos constituyan entornos libres de violencia contra las mujeres, y
+
+n) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -575,9 +593,15 @@ d) implementar campañas publicitarias que orienten a la erradicación de la vio
 
 e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en todas las etapas del proceso educativo;
 
-f) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-g) las demás que le confieran esta ley u otros ordenamientos aplicables.
+f) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+
+g) implementar acciones educativas destinadas a prevenir y atender la violencia contra las mujeres en la comunidad para identificar los actos constitutivos de delitos; y
+
+h) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 18.
 
@@ -800,6 +824,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-151 MEDIANTE EL CUAL SE REFORMA EL INCISO F), FRACCIÓN V Y EL INCISO G); Y SE ADICIONA UN INCISO H) CON LAS FRACCIONES I A LA IX, DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-237 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, INCISOS D) Y G); Y SE ADICIONAN EL INCISO G) RECORRIENDO EL ORDEN NATURAL DE LOS ACTUALES G) Y H) PARA SER H) E I) DEL ARTÍCULO 3 Y EL ARTÍCULO 8 BIS DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-238 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13 PÁRRAFO 1 INCISO L), Y 17 PÁRRAFO 1 INCISO F); Y SE ADICIONAN El INCISO M) RECORRIÉNDOSE EL ACTUAL M) PARA SER N) AL PÁRRAFO 1 DEL ARTÍCULO 13, Y EL INCISO G) RECORRIÉNDOSE El ACTUAL G) PARA SER H) DEL PÁRRAFO 1 DEL ARTÍCULO 17, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES."]
 
 ###### ARTÍCULO ÚNICO.
 
