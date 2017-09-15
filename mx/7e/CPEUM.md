@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2017-02-24"
+last_updated: "2017-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -482,51 +482,79 @@ En los juicios del orden civil, la sentencia definitiva deberá ser conforme a l
 
 No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Art. 16.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2009)</small>
 
 Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
-
 (REFORMADO, D.O.F. 1 DE JUNIO DE 2009) (F. DE E., D.O.F. 25 DE JUNIO DE 2009)
 
 No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 La autoridad judicial, a petición del Ministerio Público y tratándose de delitos de delincuencia organizada, podrá decretar el arraigo de una persona, con las modalidades de lugar y tiempo que la ley señale, sin que pueda exceder de cuarenta días, siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia. Este plazo podrá prorrogarse, siempre y cuando el Ministerio Público acredite que subsisten las causas que le dieron origen. En todo caso, la duración total del arraigo no podrá exceder los ochenta días.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 Por delincuencia organizada se entiende una organización de hecho de tres o más personas, para cometer delitos en forma permanente o reiterada, en los términos de la ley de la materia.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacía de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 Exclusivamente la autoridad judicial federal, a petición de la autoridad federal que faculte la ley o del titular del Ministerio Público de la entidad federativa correspondiente, podrá autorizar la intervención de cualquier comunicación privada. Para ello, la autoridad competente deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración. La autoridad judicial federal no podrá otorgar estas autorizaciones cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 Los Poderes Judiciales contarán con jueces de control que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 Las intervenciones autorizadas se ajustarán a los requisitos y límites previstos en las leyes. Los resultados de las intervenciones que no cumplan con éstos, carecerán de todo valor probatorio.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 La correspondencia que bajo cubierta circule por las estafetas estará libre de todo registro, y su violación será penada por la ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
@@ -538,15 +566,17 @@ Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.]</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2017)</small>
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
+
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2010)</small>
 
 El Congreso de la Unión expedirá las leyes que regulen las acciones colectivas. Tales leyes determinarán las materias de aplicación, los procedimientos judiciales y los mecanismos de reparación del daño. Los jueces federales conocerán de forma exclusiva sobre estos procedimientos y mecanismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
-
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
 
@@ -2476,9 +2506,13 @@ XXIX-Y. Para expedir la ley general que establezca los principios y bases a los 
 
 XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
 
+> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XXX. Para expedir la legislación única en materia procesal civil y familiar;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
-XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+XXXI.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
 ###### Art. 74.
 
@@ -8139,3 +8173,17 @@ Quinto. En cualquier caso, los derechos de los trabajadores que tienen a su carg
 Sexto. Las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo a los tribunales laborales y a los Centros de Conciliación que se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
 
 Asimismo, las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias tengan bajo su atención o resguardo, al organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+D.O.F. 15 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 16, 17 Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUSTICIA COTIDIANA (SOLUCIÓN DE FONDO DEL CONFLICTO Y COMPETENCIA LEGISLATIVA SOBRE PROCEDIMIENTOS CIVILES Y FAMILIARES)”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el transitorio siguiente.
+
+SEGUNDO. La reforma del primer párrafo del artículo 16 y la adición de un nuevo tercer párrafo al artículo 17 constitucional entrarán en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación. Para tal efecto, y en los casos en que se requiera, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán adecuar a las modificaciones en cuestión, respectivamente, las leyes generales y las leyes federales, así como las leyes de las entidades federativas.
+
+TERCERO. Las Legislaturas de las entidades federativas deberán llevar a cabo las reformas a sus constituciones para adecuarlas al contenido del presente Decreto en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. El Congreso de la Unión deberá expedir la legislación procedimental a que hace referencia la fracción XXX del artículo 73 constitucional adicionado mediante el presente Decreto, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La legislación procesal civil y familiar de la Federación y de las entidades federativas continuará vigente hasta en tanto entre en vigor la legislación a que se refiere la fracción XXX del artículo 73 constitucional, adicionada mediante el presente Decreto, y de conformidad con el régimen transitorio que la misma prevea. Los procedimientos iniciados y las sentencias emitidas con fundamento en la legislación procesal civil federal y la legislación procesal civil y familiar de las entidades federativas deberán concluirse y ejecutarse, respectivamente, conforme a la misma.
