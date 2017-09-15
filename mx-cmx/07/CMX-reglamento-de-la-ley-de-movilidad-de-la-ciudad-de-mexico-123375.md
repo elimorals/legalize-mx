@@ -1,0 +1,3181 @@
+---
+title: "REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL--"
+identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375"
+country: "mx"
+rank: "reglamento"
+publication_date: "2017-09-15"
+last_updated: "2017-09-15"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
+department: "Gaceta Oficial de la Ciudad de México"
+jurisdiction: "mx-cmx"
+scjn_id: "123375"
+scjn_status: "VIGENTE"
+gazette: "Gaceta Oficial de la Ciudad de México"
+original_category: "REGLAMENTO"
+original_gazette_section: "156 BIS"
+reform_count: "15"
+scjn_last_update: "2026-06-30"
+issue_date: "2017-09-15"
+---
+# REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL--
+
+REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
+
+MIGUEL ÁNGEL MANCERA ESPINOSA, Jefe de Gobierno de la Ciudad de México, con fundamento en los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México; 8º, fracción II, 67, fracciones II y XXXI y 90 del Estatuto de Gobierno del Distrito Federal; 2º, 5º, párrafo primero, 6º, párrafo primero, 7º, párrafo primero, 12, párrafo primero, 14 y 15 de la Ley Orgánica de la Administración Pública del Distrito Federal; 10, 11, fracciones I, II, y VIII, y Transitorio Quinto, de la la (sic) Ley de Movilidad del Distrito Federal; he tenido a bien expedir el siguiente:
+
+DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL.
+
+## TÍTULO PRIMERO. GENERALIDADES DE LA MOVILIDAD
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+El presente ordenamiento tiene por objeto reglamentar lo dispuesto por la Ley de Movilidad del Distrito Federal.
+
+###### Artículo 2.
+
+Para los efectos del presente Reglamento, además de las definiciones previstas en la Ley, se entenderán por:
+
+I. Apoyo Vial: El conjunto de acciones implementadas por la Secretaría para la organización, administración y mejoramiento de las vías de afluencia vehicular en la Ciudad de México;
+
+II. Cierre de circuito: El espacio físico autorizado por la Secretaría, en el que inicia o concluye un recorrido del servicio público de transporte de pasajeros colectivo, sin que éste sirva de base;
+
+III. Comisión de Clasificación: A la Comisión de Clasificación de Vialidades;
+
+IV. Comité del Sistema: Al Comité del Sistema Integrado de Transporte Público;
+
+V. Comité de Promoción: Al Comité de Promoción para el Financiamiento del Transporte Público;
+
+VI. Consejo Asesor: Al Consejo Asesor de Movilidad y Seguridad Vial;
+
+VII. Depósitos Vehiculares: Centros de resguardo de vehículos en la Ciudad de México dependientes de la Secretaría de Movilidad.
+
+VIII. Engomado o calcomanía de Circulación: El aditamento plástico de identificación y clasificación, expedido por la Secretaría, indispensable para la circulación, coincidente con la Placa de Matrícula y la Tarjeta de Circulación;
+
+IX. Estación: Es el espacio físico autorizado por la Secretaría para realizar ascenso y descenso de usuarios en puntos intermedios de un recorrido con infraestructura vial confinada;
+
+X. Espacio Público: Las vías públicas y las áreas destinadas para la recreación, tales como: plazas, calles, avenidas, viaductos, paseos, jardines, bosques urbanos, parques públicos y demás de naturaleza análoga;
+
+XI. Fondo Público: Al Fondo Público de Movilidad y Seguridad Vial;
+
+XII. Lugar de Encierro: La instalación o inmueble destinado al estacionamiento, pernocta y mantenimiento de los vehículos que proporcionan los servicios de transporte de pasajeros y carga;
+
+XIII. Monitoreo: Son los reportes efectuados por el personal de apoyo vial, así como los generados a través de medios electrónicos y de telecomunicación, sobre el estado que guardan las principales vías de la Ciudad de México;
+
+XIV. Órgano Regulador: Al Órgano Regulador del Transporte;
+
+XV. Padrón vehicular: Es la relación nominal de datos, registros y archivos sistematizados por la Secretaría, relativo al control vehicular de la Ciudad de México;
+
+XVI. Persona con discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+
+XVII. Placa de Matrícula: Aditamento de metal indispensable para la circulación, identificación y clasificación del vehículo, expedida por la Secretaría, coincidente con la Calcomanía y Tarjeta de Circulación;
+
+XVIII. Placa de Matrícula Demostradora: Aditamento de metal indispensable para la circulación, identificación y clasificación del vehículo, otorgado por la Secretaría, que se asigna con el objeto de que las agencias automotrices puedan trasladar vehículos nuevos de la propia agencia a cualquier sitio dentro de la zona metropolitana;
+
+XIX. Personal de Apoyo Vial: Al elemento operativo adscrito a la Secretaría, denominado Radar Vial;
+
+XX. Ruta Metropolitana: Transporte Público de Pasajeros con autorización para proporcionar el Servicio entre la Ciudad de México y su zona conurbada;
+
+XXI. Sanción: Pena establecida por incumplimiento total o parcial de los ordenamientos relativos a la movilidad y demás disposiciones jurídicas aplicables;
+
+XXII. Servicio Ejecutivo de Corredores de Transporte Público Colectivo: Es el que además de cumplir con las características del servicio ordinario de corredores de transporte, cuenta con características específicas determinadas por la Secretaría para tal efecto.
+
+XXIII. Servicio Privado de Transporte con Chofer: Servicio de transporte que pueden contratar los particulares a través de las personas morales que operen y/o administren aplicaciones y plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles que cuenten con el permiso correspondiente otorgado por la Secretaría.
+
+XXIV. Servicio Ordinario de Corredores de Transporte Público Colectivo: Es el que se presta a través de una ruta específica que comprende todas las zonas de ascenso y descenso autorizadas por la Secretaría;
+
+XXV. Sistema M1: Sistema de Movilidad 1;
+
+XXVI. Sitio.- Espacio físico autorizado por la Secretaría para el origen de la prestación del Servicio Público, Mercantil y Privado de Pasajeros y de Carga;
+
+XXVII. Tarjeta de Circulación: Es el documento expedido por la Secretaría, indispensable para la circulación, coincidente con la Placa de Matrícula y Calcomanía de Circulación, que contiene los datos específicos del propietario, así como las características del vehículo autorizado para circular;
+
+XXVIII. Terminal: El espacio físico fuera de la vía pública autorizado por la Secretaría, donde inicia o termina el servicio público de transporte de pasajeros colectivo;
+
+XXIX. Vehículos de Escolta: Vehículo o vehículos designados para la prestación del servicio o actividad de seguridad personal, distintos al vehículo en el que viaja la persona a la que se brinda la protección y seguridad, previamente registrados y autorizados por la Secretaría de Seguridad Pública de la Ciudad de México;
+
+XXX. Zona de Parquímetros: Vía pública en la que se instalan y operan sistemas de control y cobro de estacionamiento en vía pública de la Ciudad de México.
+
+###### Artículo 3.
+
+Los términos y plazos fijados en el presente Reglamento se contarán por días naturales para efecto de la vigencia de los permisos, licencias o concesiones para proporcionar u operar algún servicio de transporte y en días hábiles para los demás casos. Si el vencimiento de un término ocurre en día inhábil, éste se prorrogará hasta el siguiente día hábil en horario laboral.
+
+### CAPÍTULO SEGUNDO. DE LOS ORGANOS AUXILIARES PARA LA EJECUCIÓN DE LA POLÍTICA DE MOVILIDAD
+
+#### SECCIÓN PRIMERA. DEL CONSEJO ASESOR DE MOVILIDAD Y SEGURIDAD VIAL
+
+###### Artículo 4.
+
+El Consejo Asesor de Movilidad y Seguridad Vial es un órgano colegiado de carácter consultivo y honorífico, cuyo objeto es elaborar, diseñar, proponer y evaluar las políticas públicas en materia de movilidad y seguridad vial, el cual se integrará, organizará y funcionará de conformidad con lo dispuesto en la Ley, el presente Reglamento y las disposiciones que para tal efecto se emitan.
+
+###### Artículo 5.
+
+Los Consejeros Permanentes, tendrán carácter de miembros propietarios, con derecho a voz y voto en las sesiones y para garantizar su participación en las mismas, deberán designar a un suplente.
+
+Los invitados permanentes únicamente tendrán derecho a voz y podrán designar a un suplente.
+
+De acuerdo a la problemática o complejidad del asunto a tratar, a las Sesiones del Consejo Asesor podrán asistir como invitados, autoridades del Gobierno Federal y de la Ciudad de México, así como aquellos que por su prestigio y/o experiencia puedan colaborar, aportar y fortalecer los temas a tratar, y tendrán únicamente derecho a voz.
+
+En todos los casos, el cargo será honorífico.
+
+Las decisiones serán tomadas por el cincuenta por ciento más uno de los votos de los Consejeros asistentes, en caso de empate, el Presidente tendrá voto de calidad.
+
+#### SECCIÓN SEGUNDA. DEL COMITÉ DEL SISTEMA INTEGRADO DE TRANSPORTE PÚBLICO
+
+###### Artículo 6.
+
+El Comité del Sistema Integrado de Transporte Público es un órgano colegiado de la Secretaría, cuyo objetivo es diseñar, implementar, ejecutar y evaluar la articulación física, operacional, informática, de imagen y del medio de pago del Sistema Integrado de Trasporte Público.
+
+###### Artículo 7.
+
+El Comité del Sistema se integrará con los titulares de los organismos a que se refiere el artículo 78 de la Ley, y se organizará y funcionará de conformidad con lo dispuesto en la Ley, el presente Reglamento y las disposiciones que para tal efecto se emitan.
+
+Los integrantes del Comité del Sistema, tendrán carácter de miembros propietarios, con derecho a voz y voto en las sesiones y, con la finalidad de garantizar su participación en las mismas, deberán designar a un suplente, quien será de un nivel jerárquico inmediato inferior al de la persona titular.
+
+A las Sesiones del Comité del Sistema, de acuerdo a la problemática o complejidad del asunto a tratar, podrán asistir como Invitados, autoridades del Gobierno Federal y de la Ciudad de México, así como aquellos que por su prestigio y/o experiencia puedan colaborar, aportar y fortalecer las materias a tratar, quienes tendrán únicamente derecho a voz. En todos los casos, el cargo será honorífico.
+
+###### Artículo 8.
+
+El Comité del Sistema, contará con las atribuciones que le otorga la Ley, así como aquellas que le confiera el Jefe de Gobierno de la Ciudad de México. Una vez instalado, deberá emitir las Reglas de Operación que normarán su funcionamiento.
+
+#### SECCIÓN TERCERA. DE LA COMISIÓN DE CLASIFICACIÓN DE VIALIDADES
+
+###### Artículo 9.
+
+La Comisión de Clasificación de Vialidades es un órgano colegiado, cuyo objeto es asignar la jerarquía y categoría de las vías de circulación en la Ciudad de México de acuerdo a la siguiente tipología:
+
+I. Pública;
+
+II. Primaria;
+
+III. Reversible;
+
+IV. Secundaria;
+
+V. De acceso controlado; y
+
+VI. De Tránsito Calmado.
+
+###### Artículo 10.
+
+La Comisión de Clasificación se integrará, organizará y funcionará de conformidad con lo dispuesto en la Ley, el presente Reglamento y las disposiciones que para tal efecto se emitan.
+
+Los integrantes de la Comisión de Clasificación de Vialidades, tendrán carácter de miembros propietarios, con derecho a voz y voto en las sesiones y, con la finalidad de garantizar su participación en las mismas, deberán designar a un suplente, quien será de un nivel jerárquico inmediato inferior al de la persona titular.
+
+La Comisión de Clasificación de Vialidades contará con un Secretario Técnico que será el Titular de la Subsecretaría de Planeación, quien podrá nombrar un suplente.
+
+Asimismo, de acuerdo a su objeto, podrán participar en calidad de invitados permanentes únicamente con derecho a voz, las personas titulares de:
+
+I. La Dirección General del Registro Público de la Propiedad y de Comercio; y
+
+II. La Dirección General de Investigación y Desarrollo de Movilidad de la Secretaría de Movilidad.
+
+La Comisión publicará sus reglas de operación, en las que determinará las funciones de sus integrantes y su forma de sesionar.
+
+#### SECCIÓN CUARTA. DEL COMITÉ DE PROMOCIÓN PARA EL FINANCIAMIENTO DEL TRANSPORTE PÚBLICO
+
+###### Artículo 11.
+
+El Comité de Promoción para el Financiamiento del Transporte Público, es un órgano colegiado, cuyo objeto es buscar los mecanismos y ejecutar las acciones necesarias para eficientar el servicio de transporte público, así como renovar periódicamente el parque vehicular y la infraestructura del servicio.
+
+###### Artículo 12.
+
+El Comité de Promoción para el Financiamiento del Transporte Público se integrará, organizará y funcionará de conformidad con lo dispuesto por el artículo 31 de la Ley, el presente Reglamento y las disposiciones que para tal efecto se emitan, correspondiendo a la Secretaría fungir como Presidente.
+
+Los integrantes del Comité de Promoción tendrán carácter de miembros propietarios, con derecho a voz y voto en las sesiones y, con la finalidad de garantizar su participación en las mismas, deberán designar a un suplente.
+
+A las Sesiones del Comité de Promoción, de acuerdo a la problemática o complejidad del asunto a tratar, podrán asistir como invitados, autoridades del Gobierno Federal y de la Ciudad de México, así como aquellos que por su reconocimiento académico y/o experiencia puedan colaborar, aportar y fortalecer los temas a tratar, quienes tendrán únicamente derecho a voz.
+
+En todos los casos el cargo será honorífico.
+
+Las decisiones serán tomadas por el cincuenta por ciento más uno de los votos de los Integrantes asistentes, en caso de empate, el Presidente contará con voto de calidad.
+
+La Comisión publicará sus reglas de operación, en las que determinará las funciones de sus integrantes y su forma de sesionar.
+
+#### SECCIÓN QUINTA. DEL FONDO PÚBLICO DE MOVILIDAD Y SEGURIDAD VIAL Y FONDO PÚBLICO DE ATENCIÓN AL CICLISTA Y AL PEATÓN
+
+###### Artículo 13.
+
+El Fondo Público de Movilidad y Seguridad Vial y Fondo Público de Atención al Ciclista y al Peatón se regirán por lo estipulado en la Ley, la Ley Orgánica de la Administración Pública del Distrito Federal, el Decreto de su creación, el contrato de fideicomiso que para el desarrollo de sus actividades se establezca así como por sus Reglas de Operación.
+
+## TÍTULO SEGUNDO. DE LA PLANEACIÓN Y LA POLÍTICA DE MOVILIDAD
+
+### CAPÍTULO PRIMERO. DE LA PLANEACIÓN DE LA MOVILIDAD
+
+###### Artículo 14.
+
+La planeación y la política de movilidad y seguridad vial considerará la integración programática y sistematizada de los programas de la Secretaría, con un enfoque estratégico, que considere el establecimiento de normas generales, políticas y estrategias institucionales para garantizar la adecuada movilidad de las personas y establecer una mejor convivencia ciudadana.
+
+Se promoverá la elaboración de estudios que garanticen una adecuada gestión estratégica de la movilidad, con un sentido metropolitano y que fomenten el desarrollo urbano sustentable, tomando en consideración según corresponda, las resoluciones de evaluación de impacto ambiental y evaluación ambiental estratégica en términos de las disposiciones aplicables.
+
+Se deberá asegurar la calidad en los servicios proporcionados por el Sistema de Movilidad, tanto en las unidades móviles como en la infraestructura.
+
+Los programas integrales, sectoriales y específicos, se elaborarán con criterios de igualdad de género, no discriminación e inclusión y respeto irrestricto de los derechos humanos.
+
+###### Artículo 15.
+
+Los programas integrales y específicos, se formularán bajo un enfoque que considere el establecimiento de objetivos estratégicos, actividades y metas dirigidas al cumplimiento de las prioridades institucionales y sectoriales.
+
+###### Artículo 16.
+
+La Secretaría deberá elaborar y mantener actualizados los Programas Integrales, realizando su seguimiento periódico de conformidad con lo señalado por los artículos 40 y 42 de la Ley, a fin de garantizar su correcto desarrollo en los diferentes ámbitos descritos en este.
+
+###### Artículo 17.
+
+El Programa Integral de Movilidad, el Programa Integral de Seguridad Vial y los Programas Específicos serán elaborados en los términos establecidos en la presente Ley y en (sic) Ley de Planeación del Desarrollo del Distrito Federal.
+
+Para efectos de formulación y aprobación, serán considerados programas de mediano plazo.
+
+###### Artículo 18.
+
+Los programas específicos que formule y desarrolle la Secretaria, deberán elaborarse bajo una orientación sectorial y considerar la participación intersectorial en que concurrirán las dependencias, entidades de la Administración Pública de la Ciudad de México y dependencias federales que correspondan.
+
+###### Artículo 19.
+
+Los programas específicos tienen por objeto fijar las estrategias puntuales para los diferentes modos e infraestructuras para la movilidad y deberán considerar todas las medidas administrativas, operativas y de coordinación para su ejecución.
+
+La Secretaría determinara los temas que requieran ser atendidos a través de programas específicos, de conformidad con lo establecido en el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, así como la vigencia de los mismos.
+
+Los programas específicos serán emitidos por la Secretaría, por sí o en coordinación con otras entidades de la Administración Pública que cuenten con atribuciones en la materia.
+
+###### Artículo 20.
+
+Los programas específicos deberán contener, cuando menos, los siguientes aspectos:
+
+I. El diagnóstico particular de la materia;
+
+II. Las metas y objetivos específicos en función de las prioridades establecidas en el Programa Integral de Movilidad y Programa Integral de Seguridad Vial;
+
+III. Las acciones que especifiquen la forma en que contribuirán al cumplimiento de las metas y objetivos planteados.
+
+IV. Las responsabilidades que rigen el desempeño de su ejecución;
+
+V. Las acciones de coordinación y los mecanismos específicos para la evaluación, actualización y, en su caso, corrección de los programas específicos.
+
+###### Artículo 21.
+
+La elaboración, aprobación y publicación de los programas específicos se sujetará al siguiente procedimiento:
+
+I. Elaboración del diagnóstico;
+
+II. Elaborar el anteproyecto de los programas específicos o, en su caso, realizará grupos de trabajo para la formulación de su contenido o revisión del anteproyecto. En dichos grupos de trabajo podrán participar entidades de la Administración Pública, el Consejo Asesor, instituciones académicas, asociaciones civiles, empresariales, transportistas, miembros de la sociedad civil, entre otros;
+
+III. La Secretaría determinará los mecanismos e instrumentos de seguimiento;
+
+IV. El proyecto de los programas específicos se pondrá a disposición de las entidades involucradas de la Administración Pública así como del Consejo Asesor, para la revisión, validación y, en su caso, comentarios al mismo;
+
+V. Una vez recibidos los comentarios de las áreas responsables, la Secretaría realizará los ajustes necesarios para la elaboración de un proyecto final;
+
+VI. Los programas específicos deberán ser publicados en la Gaceta Oficial de la Ciudad de México. Una vez realizada la publicación, la Secretaría podrá llevar a cabo acciones para su difusión.
+
+Las actividades referidas en las fracciones I y II del presente artículo podrán ser realizadas directamente por la Secretaría o a través de organismos, entidades públicas o privadas e instituciones académicas.
+
+Para el caso de lo establecido en la fracción IV del presente artículo, en caso que las dependencias de la Administración Pública no realicen observaciones dentro de los términos establecidos, se les tendrá por conformes con el proyecto sometido a si (sic) consideración.
+
+###### Artículo 22.
+
+La vigencia, revisión y, en su caso, modificación de los programas específicos se realizará en función de los indicadores establecidos en cada uno de los mismos, así como en los Sistemas de Información y Seguimiento de Movilidad y de Seguridad Vial.
+
+###### Artículo 23.
+
+Para la elaboración del Programa Sectorial, Institucionales y Específicos, la Secretaría deberá realizar estudios que garanticen la protección de la vida de las personas y la integridad física de las mismas, en los aspectos ligados a la movilidad y la seguridad vial en todas sus derivaciones, enfocando su atención principalmente con las personas que tengan discapacidad o movilidad limitada.
+
+###### Artículo 24.
+
+La Secretaría en coordinación con la Secretaría del Medio Ambiente, diseñará e implementará medidas que busquen incentivar y fomentar el uso del transporte público y movilidad no motorizada, así como la realización de estudios y proyectos que promuevan el uso racional del automóvil.
+
+###### Artículo 25.
+
+El seguimiento, evaluación y control de la política, los programas y proyectos en materia de movilidad y seguridad vial se realizarán a través de las siguientes herramientas:
+
+I. Sistemas de información y seguimiento de movilidad y seguridad vial; consisten en la gestión de datos que permitan que las dependencias del sector Movilidad puedan contar con información para la toma de decisiones, las dependencias, delegaciones y organismos de transporte están obligados a entregar a la Secretaría la información requerida para que sea integrada en los sistemas, para ello la Secretaría diseñará y administrará programas informáticos y los procesos de estandarización para que los usuarios reporten los datos requeridos.
+
+Las bases de datos de los Sistemas desarrollados por la Secretaría en coordinación con las autoridades competentes, concentrará la información suficiente y necesaria referente a la vialidad, zonificación, sitios patrimoniales e históricos, rutas de los diferentes servicios de transporte público, restricciones de construcción, información geográfica, geoestadística, topográfica, de limitaciones y riesgos naturales, limitaciones del uso de suelo y aprovechamiento de los predios, así como de la información necesaria para garantizar una adecuada movilidad de personas a través de los diferentes medios disponibles, además de información general y específica sobre el medio ambiente.
+
+II. Anuario de movilidad; este contendrá información detallada de las labores que se realicen en el sector movilidad, así como los avances significativos y las tendencias que ha seguido la composición de la misma, será integrado anualmente por la Secretaría como una memoria y respaldo de las acciones que en materia de movilidad y seguridad vial se lleven a cabo.
+
+III. Las Auditorías de movilidad y seguridad vial; son procesos de evaluación de los proyectos de infraestructura de la movilidad, que se presentan ante la Secretaría con objeto de constatar que cumplen con los lineamientos que para tal fin sean expedidos. Deberán realizarse conforme a los formatos de entrega y con alcances mínimos que se establezcan en dichos lineamientos.
+
+IV. El banco de proyectos de infraestructura para la movilidad; es un sistema digital que permite concentrarr (sic) la documentación de los estudios y proyectos de movilidad y seguridad vial que sean realizados por las dependencias, órganos desconcentrados, delegaciones y entidades (sic) la Administración Pública.
+
+V. Encuesta ciudadana; se efectuará para conocer la opinión de la ciudadanía respecto al diseño y operación de los servicios de transporte público que operan en la Ciudad, su ejecución se debe realizar a través de empresas o instituciones con experiencia comprobada en la materia, presentando la metodología utilizada en la realización de las mismas.
+
+VI. Consulta ciudadana; la realizará la Secretaría para obtener la opinión de la ciudadanía, respecto a los proyectos de movilidad que tengan un impacto significativo en los desplazamientos de los habitantes de la Ciudad.
+
+###### Artículo 26.
+
+Los entes públicos y organismos de transporte están obligados a entregar a la Secretaría, todos los estudios y proyectos en materia de movilidad y seguridad vial que generen para que sean integrados en el banco de proyectos de infraestructura para la movilidad.
+
+###### Artículo 27.
+
+Las dependencias, órganos desconcentrados, delegaciones y entidades que requieran contratar o realizar estudios o proyectos en materia de movilidad y seguridad vial, primero verificarán si en el Banco de proyectos de infraestructura de la movilidad, existe información estrictamente aplicable y adaptable referente al tema, de resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de la dependencia, órgano desconcentrado, delegación o entidad solamente se procederá a la contratación de la adecuación que haya que hacer a dicho estudio o proyecto.
+
+###### Artículo 28.
+
+El banco de proyectos de infraestructura para la movilidad, contará como base de su informacion con lo siguiente:
+
+I. Proyectos institucionales prioritarios, derivados de programas de gobierno o sectoriales;
+
+II. Nuevos proyectos a desarrollar por las áreas;
+
+III. Proyectos referidos a la movilidad de personas con discapacidad;
+
+IV. Proyectos de movilidad de peatones, ciclistas y motociclistas;
+
+V. Proyectos relacionados con la planeación de la movilidad de personas y vehículos motorizados y no motorizados;
+
+VI. Proyectos de seguridad vial y monitoreo;
+
+VII. Proyectos que se refieran a la cultura de movilidad;
+
+VIII. Proyectos que consideren innovación tecnológica de mejoramiento;
+
+IX. Proyectos para elaborar estudios de origen-destino;
+
+X. Proyectos referidos a la movilidad en la Ciudad de México y área conurbada;
+
+XI. Proyectos que planteen la creación de nuevas rutas y modificación de las ya existentes;
+
+XII. Proyectos que se refieran a aspectos de infraestructura vial;
+
+XIII. Proyectos relacionados con el registro público de transporte;
+
+XIV. Proyectos que involucren todos los aspectos del transporte de personas y mercancías;
+
+XV. Proyectos de impacto económico, ambiental y de desarrollo de la movilidad; y
+
+XVI. Los demás que sean convenientes para alcanzar sus objetivos.
+
+###### Artículo 29.
+
+La Secretaría creará e impulsará los mecanismos de coordinación necesaria con instituciones de educación superior, con objeto de promover foros de discusión especializada, que permitan desarrollar esquemas de planeación de la movilidad, acordes a las necesidades requeridas en la Ciudad de México.
+
+###### Artículo 30.
+
+Los sistemas de información desarrollados por la Secretaría serán herramientas básicas de consulta permanente para las entidades involucradas en la movilidad y seguridad vial de la Ciudad de México, que permitirán regular, fomentar y modernizar la planeación urbana, al sistematizar la información y facilitar la toma de decisiones para las diferentes áreas involucradas.
+
+###### Artículo 31.
+
+Las bases de datos de los Sistemas desarrollados por la Secretaría en coordinación con las autoridades competentes, concentrará la información suficiente y necesaria referente a la vialidad, zonificación, sitios patrimoniales e históricos, rutas de los diferentes servicios de transporte público, restricciones de construcción, información geográfica, geoestadística, topográfica, de limitaciones y riesgos naturales, limitaciones del uso de suelo y aprovechamiento de los predios, así como de la información necesaria para garantizar una adecuada movilidad de personas, a través de los diferentes medios disponibles, además de información general y específica sobre el medio ambiente, entre otros.
+
+###### Artículo 32.
+
+Los Sistemas podrán ser consultados a través de los mecanismos diseñados por la propia Secretaría, además de los módulos establecidos en las Delegaciones Políticas y en la página institucional a través de internet, permitiendo a los usuarios realizar consultas elementales sobre los aspectos básicos que la propia Secretaría determine, a través de sus órganos normativos correspondientes.
+
+###### Artículo 33.
+
+La información pública proporcionada por los Sistemas de la Secretaría permitirán a los usuarios obtener una orientación básica y elemental sobre los trámites que deban realizar, así como los módulos a los cuales deben acudir en caso necesario, o bien la dependencia encargada de su aplicación.
+
+###### Artículo 34.
+
+La Secretaría realizará, en coordinación con las dependencias y entidades del sector movilidad, las auditorías mencionadas en el artículo 51 de la Ley, para lo cual emitirá los lineamientos técnicos correspondientes.
+
+### CAPÍTULO SEGUNDO. DE LA MANIFESTACIÓN DEL ESTUDIO DE IMPACTO DE MOVILIDAD
+
+###### Artículo 35.
+
+Para efectos de lo dispuesto en el artículo 54 de la Ley, la construcción de obra nueva, ampliación y/o modificación de obras privadas que estarán obligadas a la manifestación del estudio de impacto de movilidad en cualquiera de sus modalidades, serán los siguientes:
+
+I. De uso habitacional plurifamiliar mayor a diez viviendas en cualquier ubicación, incluyendo las que se localicen frente a una vía primaria;
+
+II. De uso no habitacional con superficie mayor a 250 metros cuadrados de construcción, excepto los establecimientos mercantiles de bajo impacto, nuevos y en funcionamiento; las modificaciones a los programas delegacionales de desarrollo urbano en predios particulares destinados a usos comerciales y servicios de bajo impacto urbano; así como a la micro y pequeña industria.
+
+Para las obras privadas incluidas en la citada fracción II, el estacionamiento bajo nivel de banqueta o medio nivel, si cuantifica para determinar la superficie total de construcción, así como para el pago de derechos administrativos en términos con lo dispuesto en el Código Fiscal del Distrito Federal.
+
+###### Artículo 36.
+
+La manifestación del estudio de impacto de movilidad, debe presentarse ante la Secretaría en las siguientes modalidades:
+
+I. Estudio de Impacto de Movilidad General; y
+
+II. Estudio de Impacto de Movilidad Especifica
+
+Los estudios de la manifestación de impacto de movilidad, en su modalidad General, deberá contener la siguiente información:
+
+I. Datos generales del proyecto, del promovente o desarrollador y del responsable del estudio de impacto de Movilidad;
+
+II. Descripción de las obras o actividades y, en su caso, de los programas o planes parciales de desarrollo;
+
+III. Vinculación con los instrumentos de planeación y ordenamientos jurídicos aplicables;
+
+IV. Descripción del sistema de movilidad regional y señalamiento de tendencias del desarrollo y deterioro;
+
+V.- Identificación, descripción y evaluación de los impactos de Movilidad incluyendo simulación de emisiones al aire, acumulativos y residuales, del sistema de Movilidad regional;
+
+VI. Estrategias para la prevención y mitigación de impactos de Movilidad, acumulativos y residuales, del sistema de Movilidad regional;
+
+VII. Pronósticos de la Movilidad regionales y, en su caso, evaluación de alternativas; y
+
+VIII. Identificación de los instrumentos metodológicos y elementos técnicos que sustentan los resultados de la manifestación de impacto de Movilidad.
+
+Los estudios de la manifestación de impacto de Movilidad, en su modalidad específica, deberá contener la siguiente información:
+
+I. Datos generales del proyecto, del promovente o desarrollador y del responsable del estudio de impacto de Movilidad;
+
+II. Descripción del proyecto;
+
+III. Vinculación con los ordenamientos jurídicos aplicables en materia de Movilidad y, en su caso, con la regulación sobre uso del suelo;
+
+IV. Descripción de la problemática de vialidades detectada en el área de influencia del proyecto;
+
+V. Identificación, descripción y evaluación de los impactos de movilidad;
+
+VI. Medidas preventivas y de mitigación de los impactos de Movilidad;
+
+VII. Pronósticos de Movilidad y, en su caso, evaluación de alternativas, y
+
+VIII. Identificación de los instrumentos metodológicos y elementos técnicos que sustentan la información señalada en las fracciones anteriores.
+
+###### Artículo 37.
+
+Los estudios de impacto de movilidad y los informes preventivos, deben ser suscritos por el promovente, y por un profesional o profesionista, que cumpla con los siguientes requisitos:
+
+I. Contar con cédula profesional de alguna de las siguientes profesiones: arquitecto, ingeniero civil, ingeniero arquitecto, diseñador de asentamientos humanos, planificador territorial, urbanista, ingeniería de tránsito, ingeniería en transporte y en medio ambiente y/o carreras afines o acreditar experiencia mínima de tres años en temas relacionados con la movilidad;
+
+II. Contar con la certificación por parte de la Secretaría en los términos establecidos en la convocatoria que se emita para tal fin;
+
+###### Artículo 38.
+
+La Secretaría establecerá los lineamientos, políticas, organización y procedimientos para los aspirantes a obtener la certificación para elaborar y suscribir estudios de impacto de movilidad.
+
+La Secretaría debe realizar un proceso para la certificación de profesionales y profesionistas por lo menos una vez al año a través de convocatoria publicada en la Gaceta Oficial de la Ciudad de México.
+
+La certificación tendrá una vigencia de tres años.
+
+###### Artículo 39.
+
+El profesionista o profesional responsable de la elaboración, integración y suscripción del estudio de impacto de movilidad, así como de la veracidad de la información contenida en el mismo, debe observar lo establecido en la Ley, en este Reglamento y demás disposiciones legales y administrativas aplicables. Así mismo, debe declarar bajo protesta de decir verdad, que en dichos documentos, la información contenida es de carácter fidedigno, que se incorporan las mejores técnicas y metodologías existentes, así como las medidas de mitigación, compensación o integración más efectivas para la realización de acciones que la Secretaría determine sobre las posibles externalidades generadas por la realización de obras y actividades privadas dentro del territorio de la Ciudad de México, sobre los desplazamientos de personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida y la competitividad urbana.
+
+###### Artículo 40.
+
+Son obligaciones del profesionista, persona física o moral, para la elaboración del estudio de impacto de movilidad:
+
+I. Vigilar que el estudio de impacto de movilidad contenga lo señalado en los lineamientos técnicos que expida para tal efecto la Secretaría;
+
+II. Responder de la violación a las disposiciones de la Ley y el presente Reglamento;
+
+III. Notificar a la Secretaría cuando sus instrucciones no sean atendidas por el promovente,
+
+IV. Realizar visitas de supervisión por lo menos una vez cada quince días, indicando en la bitácora correspondiente, el día y hora de la visita, así como sus instrucciones, observaciones y recomendaciones;
+
+V. Presentar ante la Secretaría un informe bimestral, sobre el avance del cumplimiento de las medidas establecidas en el dictamen de impacto de movilidad hasta su total ejecución y entrega de las mismas.
+
+### CAPÍTULO TERCERO
+
+DE LA EMISIÓN DEL DICTAMEN DE IMPACTO DE MOVILIDAD.
+
+###### Artículo 41.
+
+El informe preventivo es el documento que los promoventes de proyectos y obras deberán presentar ante la Secretaría, conforme a los lineamientos técnicos que para tal efecto se establezcan, dentro de un plazo no mayor a quince días; los lineamientos técnicos definirán el tipo de de (sic) Manifestación de Impacto de Movilidad a que estarán sujetos.
+
+###### Artículo 42.
+
+El procedimiento de evaluación del estudio de impacto de movilidad en sus diferentes modalidades da inicio cuando el promovente presenta ante la Secretaría la solicitud de evaluación y concluye con la resolución que ésta emita en un plazo no mayor de cuarenta días hábiles a través del dictamen correspondiente.
+
+###### Artículo 43.
+
+El informe preventivo para la realización de proyectos y obras privadas deberá contener lo indicado en los lineamientos técnicos que expida la Secretaría así como:
+
+I. El nombre y ubicación del proyecto;
+
+II. Los datos generales del promovente;
+
+III. Los datos generales del responsable de la elaboración del informe;
+
+IV. La descripción general de la obra o actividad proyectada;
+
+V. Los planos de geolocalización del área en la que se petende (sic) realizar el proyecto.
+
+El promovente podrá someter a la consideración de la Secretaría condiciones adicionales a las que se sujetará la realización de la obra con el fin de evitar, atenuar o compensar las externalidades que pudieran ocasionarse. Las condiciones adicionales formarán parte del informe preventivo.
+
+###### Artículo 44.
+
+La Secretaría determinará en el dictamen de impacto de movilidad:
+
+I. La procedencia de la inserción de un proyecto u obra privada en el entorno urbano, para lo cual podrá imponer medidas de mitigación, compensación e integración necesarias para evitar o reducir los efectos negativos sobre la calidad de vida y la competitividad urbana, propiciar el desarrollo sustentable de la Ciudad, así como asegurar su congruencia con el Programa Integral de Movilidad, el Programa Integral de Seguridad Vial, el Programa General de Desarrollo Urbano y los principios establecidos en la Ley; y
+
+II. La improcedencia de la inserción de proyecto u obra privada en su entorno urbano considerando que:
+
+a) Los efectos no puedan ser minimizados a través de las medidas propuestas y por consecuencia, se genere afectación a la calidad de vida y la competitividad urbana, al espacio público o la estructura urbana;
+
+b) El proyecto altere de forma significativa la estructura urbana; y
+
+c) Exista falsedad en la información presentada por el promovente los solicitantes o desarrolladores.
+
+La Secretaría vigilará el cumplimiento del dictamen de impacto de movilidad correspondiente.
+
+Los estudios de las manifestaciones de impacto de movilidad y los respectivos dictámenes emitidos por la Secretaría, serán públicos y se mantendrán para consulta de cualquier interesado, en los términos establecidos en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+###### Artículo 45.
+
+En el dictamen de impacto de movilidad, la Secretaría determinará las medidas que el promovente deberá cumplir, entre las cuales pueden ser:
+
+I. Medidas de mitigación: Son las actividades de prevención y control que tienen la finalidad (sic) evitar o disminuir las externalidades negativas de la obra en cualquiera de sus fases de ejecución. Las medidas de mitigación se implementan dentro del predio, en el entorno inmediato y a nivel regional.
+
+II. Medidas de compensación: Son las actividades u obras que tienen por finalidad producir o generar un efecto positivo alternativo y/o equivalente al efecto adverso identificado; incluye el reemplazo o sustitución de la infraestructura para la movilidad afectada, por otros de similares características, clase, naturaleza y calidad. Las medidas de compensación se implementan en las (sic) en el entorno inmediato al proyecto u obra.
+
+III. Medidas de integración: Son las acciones que permiten que la obra se incorpore en el entorno sin provocar alteraciones graves sobre la infraestructura de la movilidad y los servicios de transporte. Las medidas de integración se implementan en el entorno inmediato o regional dependiendo de la magnitud de la obra.
+
+###### Artículo 46.
+
+El dictamen de impacto de movilidad tendrá una vigencia de dos años, si el proyecto no hubiere sido modificado sustancialmente y no hubiere cambiado la situación del entorno urbano de la zona en donde se pretenda ubicar, la Secretaría podrá prorrogar el dictamen hasta por un año más; en caso contrario, el estudio debe ser nuevamente presentado para ser evaluado por la Secretaría.
+
+El promovente debe solicitar la prórroga por escrito a la Secretaría, dentro de los quince días hábiles, previos a la conclusión de la vigencia del dictamen.
+
+## TÍTULO TERCERO. DEL SISTEMA DE MOVILIDAD
+
+### CAPÍTULO PRIMERO. DE LAS MODALIDADES DE SERVICIO DE TRANSPORTE DE PASAJEROS
+
+#### SECCIÓN PRIMERA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PÚBLICO MASIVO
+
+###### Artículo 47.
+
+El servicio público de transporte de pasajeros de tipo masivo, forma parte del Sistema Integrado de Transporte Público, y se prestará mediante los siguientes sistemas:
+
+I. El Sistema de Transporte Colectivo “Metro”;
+
+II. El Servicio de Transportes Eléctricos de la Ciudad de México;
+
+III. Sistema de Movilidad M1, y
+
+IV. Otros que establezca el Jefe de Gobierno mediante Decreto.
+
+#### SECCIÓN SEGUNDA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PÚBLICO COLECTIVO
+
+###### Artículo 48.
+
+El servicio de transporte de pasajeros público colectivo podrá prestarse de conformidad con las categorías siguientes:
+
+I. Servicio público colectivo de ruta;
+
+II. Servicio público colectivo de ruta metropolitana;
+
+III. Servicio de Transporte Público Complementario Directo, que se presta en itinerarios específicos, en el que el ascenso de usuarios es en el origen y su descenso es en el destino exclusivamente;
+
+IV. Servicio Exprés, que se presta a través de un itinerario específico, con paradas cuya distancia mínima será de 1.5 kilómetros entre cada una de ellas;
+
+V. El Sistema de Corredores de Transporte Público de pasajeros de la Ciudad de México “Metrobus”;
+
+VI. Servicio Ejecutivo de Corredores de Transporte Público Colectivo: Es el que cuenta con las características del servicio ordinario de corredores de transporte, además de las características específicas que tenga a bien determinar la secretaría para tal efecto;
+
+VII. Servicio Ordinario de Corredores de Transporte Público Colectivo: Es el que se presta a través de una ruta específica que comprende todas las zonas de ascenso y descenso autorizadas por la Secretaría.
+
+Los servicios directo, exprés, así como ejecutivo de corredores pueden tener tarifa diferencial previa solicitud, presentación de estudios técnicos y autorización correspondiente.
+
+El servicio de transporte público colectivo metropolitano requiere de un permiso complementario que al efecto expida la Secretaría para la operación de itinerarios, bases e infraestructura complementaria.
+
+#### SECCIÓN TERCERA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL
+
+###### Artículo 49.
+
+El Servicio de Transporte de Pasajeros Público Individual se prestará de conformidad con las siguientes modalidades:
+
+I. Libre;
+
+II. Sitio;
+
+III. Radio Taxi;
+
+IV. Taxi de sitio con base en terminales de autobuses foráneos;
+
+V. Las que determine la Secretaría y sean publicadas en la Gaceta Oficial de la Ciudad de México.
+
+#### SECCIÓN CUARTA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PÚBLICO CICLOTAXIS
+
+###### Artículo 50.
+
+Los ciclotaxis que presten este servicio deben cumplir con las siguientes especificaciones generales:
+
+I. Que el ciclotaxi cuente con datos de identificación (número económico, en su caso, organización), y los demás que determine la Secretaría;
+
+II. Cuente con placa y engomado de identificación expedido por la Secretaría;
+
+III. Las que se establezcan en los manuales y normas técnicas según el tipo de vehículo autorizado;
+
+IV. Someterse a la revisión documental, inspección física y mecánica del vehículo con la periodicidad que determine la Secretaría;
+
+V. Contar con un seguro que cubra daños a terceros;
+
+VI. Contar con encierro para las unidades; y
+
+VII. Contar con bases de servicio autorizadas por la Secretaría.
+
+###### Artículo 51.
+
+Los prestadores del servicio de transporte en ciclotaxis están obligados a:
+
+I. Acreditar ante la Secretaría personalidad mediante identificación oficial, clave única de registro de población y comprobante de domicilio vigente;
+
+II. Portar la tarjeta de identificación del operador con fotografía que emita la Secretaría;
+
+III. Acreditar una evaluación médica integral, que incluya exámenes psicométricos; de consumo o ingesta de alcohol o enervantes; estupefacientes, o sustancias psicotrópicas; visual y auditivo, médico general; conforme lo establezca la Secretaría;
+
+IV. Acreditar los conocimientos generales y de pericia que para el efecto la Secretaría determine;
+
+V. Sujetarse a las disposiciones y estándares de calidad que en materia de capacitación, seguridad y operación defina la Secretaría, y
+
+###### Artículo 52.
+
+Previa solicitud que tenga por parte de los interesados en obtener autorización de los permisos correspondientes, la Secretaría pedirá la opinión de la Delegación en donde se pretenda prestar el servicio.
+
+###### Artículo 53.
+
+El permiso para el servicio de transporte de pasajeros público en ciclotaxis, especificará el polígono autorizado así como su vigencia y no podrá amparar más de una unidad y ésta podrá pertenecer a una organización que cuente con registro ante la Secretaría.
+
+Se prohíbe el transporte de pasajeros en motocicletas adaptadas, carros de golf u otro medio de transporte motorizado y no motorizado no autorizado por la Secretaría.
+
+#### SECCIÓN QUINTA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS MERCANTIL
+
+###### Artículo 54.
+
+El servicio de transporte de pasajeros mercantil es el que se presta mediante la obtención del permiso otorgado por la Secretaría a las personas físicas o morales debidamente registradas, que proporcionan servicios de transporte, siempre y cuando no esté considerado como público; y se clasifica en:
+
+I. Escolar: El que se proporciona a los centros educativos para el transporte de escolares y personal docente;
+
+II. De personal: El que se proporciona a empresas para el transporte de personal al servicio de éstas;
+
+III. Turístico: El que se proporciona para el transporte de personas, con fines culturales, educativos, recreativos, o de esparcimiento;
+
+IV. Especializado: El que se proporciona en ambulancias, protección civil, con adaptaciones para personas con discapacidad, servicios funerarios; y
+
+#### SECCIÓN SEXTA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PRIVADO
+
+###### Artículo 55.
+
+El servicio de transporte de pasajeros privado es el que se presta mediante la obtención del permiso otorgado por la Secretaría a las personas físicas o morales debidamente registradas que proporcionan servicios de transporte, siempre y cuando no esté considerado como público, y se clasifica en:
+
+I. Escolar: El que se proporciona a los centros educativos para el transporte de escolares y personal docente;
+
+II. De personal: El que se proporciona a empresas para el transporte de personal al servicio de éstas;
+
+III. Turístico: El que se proporciona para el transporte de personas, con fines culturales, educativos, recreativos, o de esparcimiento;
+
+IV. Especializado: El que se proporciona en ambulancias, protección civil, con Chofer, servicios funerarios, o mediante la contratación legal de servicios con opción a facturación, que se presta con un tipo de vehículo preseleccionado por el contratante ya sea en limusinas, vehículos de lujo o tipo sedán y que por sus necesidades y adaptaciones, la Secretaría podrá expedir el permiso correspondiente.
+
+V. Seguridad Privada.- El vehículo que proporciona un servicio de seguridad personal, distintos al vehículo en el que viaja la persona a la que se brinda la protección y seguridad, previamente registrados y autorizados por la Secretaría de Seguridad Pública de la Ciudad de México.
+
+#### SECCIÓN SÉPTIMA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PARTICULAR
+
+###### Artículo 56.
+
+Es aquél mediante el cual las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros, siempre que tengan como fin el desarrollo de sus actividades personales o el cumplimiento de su objeto social, lo anterior en tanto no impliquen un fin lucrativo o de carácter comercial y cuenten con el registro correspondiente ante la Administración Pública,
+
+#### SECCIÓN OCTAVA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PRIVADO ESPECIALIZADO CON CHOFER
+
+###### Artículo 57.
+
+Las Personas Morales que operan, utilizan o administran aplicaciones informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles a través de las cuales los particulares contratan el Servicio Privado de transporte con Chofer en la Ciudad de México, previo al permiso que en su caso emita la Secretaría, se encuentran obligados a realizar el registro correspondiente en los términos y plazos que para los efectos determine dicha autoridad.
+
+###### Artículo 58.
+
+Para obtener el registro correspondiente es necesario requisitar y remitir la solicitud de registro vía internet en el portal web que para los efectos determine la Secretaría y cumplir, de manera enunciativa más no limitativa, con los siguientes requisitos:
+
+a) Proporcionar para cotejo Acta Constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos con cláusula de admisión de extranjeros en su caso, misma que debe de contener como parte de su objeto social el desarrollo de programas de cómputo o la prestación de servicios tecnológicos de su propiedad, subsidiarias o filiales que sirva como intermediación entre particulares.
+
+b) Nombre e Identificación del Representante Legal.
+
+c) Registro Federal de Contribuyentes (R.F.C.)
+
+d) Nombre, abreviatura y en su caso, derivaciones de la Aplicación.
+
+e) Información general del funcionamiento de la Aplicación.
+
+f) Domicilio, números telefónicos y correo electrónico de contacto del Representante Legal.
+
+g) Leer y aceptar de conformidad el convenio para la Aportación de 1.5% por cada viaje realizado, al Fondo para el Taxi, la Movilidad y el Peatón.
+
+h) Leer y aceptar los términos de confidencialidad.
+
+Una vez emitida la Constancia de Registro por la Secretaría, las personas morales adicionalmente deberán:
+
+1. Realizar el pago de derechos de conformidad con lo estipulado en el Código Fiscal de la Ciudad de México Vigente.
+
+2. Realizar el registro de todas las unidades vehiculares, mismas que deberán tener las siguientes características:
+
+- Estar matriculadas en la Ciudad de México;
+
+- Póliza de seguro vigente, amparando los daños que pudiesen ocasionar a usuarios, peatones, conductores, personas o terceros, tanto en su persona como en su patrimonio, así como a la infraestructura urbana, vial y de movilidad.
+
+- Tener cuatro puertas
+
+- Contar con aire acondicionado
+
+- Cinturones de seguridad en funcionamiento para todos los pasajeros
+
+- Bolsas de aire delanteras
+
+- Tener aprobada la verificación ambiental reglamentaria de la Ciudad de México con aprobación Cero “0” o Doble Cero “00”
+
+- Radio
+
+- Portar identificación en el interior que al efecto determine la Secretaría, misma que debe de estar visible para los pasajeros.
+
+- El costo de valor factura de origen deberá ser de $200,000.00 (doscientos mil pesos 00/100) o mayor o de conformidad con los lineamientos que para los efectos de actualización emita la Secretaría,
+
+- Folio de la(s) licencia(s) emitidas por la Ciudad de México del Operador(es) asignado(s) a cada Vehículo.
+
+- El modelo de la unidad vehicular no exceda a 10 años.
+
+- Estar al corriente en sus obligaciones fiscales, ambientales y administrativas permanentemente.
+
+- Realizar la validación vehicular anual.
+
+El Titular de la Constancia de Registro o Plataforma Móvil es el obligado a realizar el pago de derechos por cada vehículo aprobado y registrado que estipula el artículo 220 fracción I, inciso d, numeral 1, 1.2 del Código Fiscal de la Ciudad de México, así como a verificar el cumplimiento de la Validación Vehicular Anual en los términos y mecanismos que determine la Secretaría para los efectos.
+
+###### Artículo 59.
+
+Queda prohibido el servicio de transporte de pasajeros privado especializado con chofer, que se genere a través de dos o más solicitudes con una misma unidad vehicular que realice el mismo viaje a diversas personas, en un mismo recorrido, trayecto o ruta.
+
+La Secretaría podrá restringir el servicio de unidades matriculadas en otras entidades federativas a las que contraten el Servicio Privado con Chofer en la Ciudad de México, cuidando fundamentalmente conservar el equilibrio ecológico, de la oferta, demanda y el presente reglamento.
+
+Serán acreedores a la sanción establecida en el artículo 258 de la Ley, a quienes desobedezcan lo mandatado en el presente artículo, sin menoscabo de las sanciones administrativas a que pudiera también hacérseles responsables.
+
+#### SECCIÓN NOVENA. OTRAS DISPOSICIONES PARA EL TRANSPORTE DE PASAJEROS ESCOLAR, EN CUALQUIERA DE SUS MODALIDADES
+
+###### Artículo 60.
+
+Para ser operador del transporte escolar se requiere además de cumplir con los requisitos contenidos en el presente Reglamento, acreditar los cursos de primeros auxilios autorizados por la Secretaría.
+
+###### Artículo 61.
+
+Son obligaciones de los permisionarios del servicio de transporte escolar:
+
+a) Cumplir con la cromática y especificaciones técnicas de los vehículos que determine la Secretaría;
+
+b) Contar con dispositivos de reducción de emisiones que se generen en el proceso de combustión; en el caso de unidades a diésel, deberán contar con un dispositivo de filtro de partículas certificado, con las características y especificaciones técnicas y de capacidad que disponga la Secretaria del Medio Ambiente de la Ciudad de México;
+
+c) Llevar a bordo durante la operación a una persona auxiliar independientemente del operador de la unidad, que deberá ser mayor de edad y cuya función será vigilar y garantizar la seguridad de los pasajeros;
+
+d) Salidas de emergencia debidamente señalizada y en funcionamiento, mismas que deberán ser de acuerdo al tipo de unidad vehicular que proporcione el servicio;
+
+e) Extinguidores en cumplimiento con la Norma Oficial Mexicana Vigente en materia de EQUIPO DE PROTECCIÓN CONTRA INCENDIO, EXTINTORES COMO DISPOSITIVO DE SEGURIDAD DE USO EN VEHÍCULOS DE AUTOTRANSPORTE PARTICULAR, PÚBLICO Y DE CARGA EN GENERAL; y
+
+f) Botiquín básico para primeros auxilios.
+
+#### SECCIÓN DÉCIMA. SERVICIO DE TRANSPORTE DE PASAJEROS TURÍSTICO, EN CUALQUIERA DE SUS MODALIDADES
+
+###### Artículo 62.
+
+Es el transporte de personas para el traslado con fines turísticos, culturales, educativos, recreativos o de esparcimiento, que se ofrece al público en general en recorridos específicos, para lo cual contará con el permiso correspondiente otorgado por la Secretaría.
+
+###### Artículo 63.
+
+Los solicitantes del permiso deben contar previamente con el visto bueno de la Secretaría de Turismo de la Ciudad de México, así como presentar estudios técnicos que justifiquen el servicio en los diferentes puntos de interés y la afluencia de turistas estimada, en términos de lo dispuesto por el presente Reglamento y en los Manuales correspondientes.
+
+###### Artículo 64.
+
+Los prestadores de este servicio no pueden:
+
+I. Modificar los recorridos autorizados;
+
+II. Realizar paradas de ascenso o descenso de pasajeros fuera de los puntos autorizados en los recorridos; y
+
+III. Exceder la capacidad de pasajeros de acuerdo al número de asientos.
+
+###### Artículo 65.
+
+El transporte dedicado a este servicio deben (sic) contar con:
+
+I. Cromática distintiva de acuerdo al recorrido autorizado;
+
+II. Equipamiento para la accesibilidad de personas con discapacidad;
+
+III. Paraderos específicos equipados con mapas, con los diferentes puntos de ascenso y descenso, así como aquellos lugares de interés en cada uno de ellos.
+
+IV. Sistema de sonido para indicar las paradas y brindar información de los sitios de interés en español y en al menos un idioma adicional.
+
+V. Equipamiento para fomento de la intermodalidad, como lo son racks portabicicletas y biciestacionamientos;
+
+VI. La mejor tecnología de control de emisiones disponible en el mercado y en el caso de vehículos en circulación, con dispositivos de control de partículas con las características y especificaciones técnicas y de capacidad que dispóngala (sic) Secretaria del Medio Ambiente de la Ciudad de México.
+
+VII. Póliza de seguro en los términos que determine la Secretaría.
+
+###### Artículo 66.
+
+La Secretaría podrá modificar las condiciones del permiso y la prestación (sic) servicio en caso de impactos ambientales o viales, así como derivado de siniestros en los que se vean involucradas las unidades.
+
+Los particulares interesados pueden aportar estudios elaborados por su cuenta para apoyar la emisión del dictamen.
+
+### CAPÍTULO SEGUNDO. DE LAS MODALIDADES DE SERVICIO DE TRANSPORTE DE CARGA
+
+#### SECCIÓN PRIMERA
+
+DEL SERVICIO DE TRANSPORTE DE CARGA MERCANTIL.
+
+###### Artículo 67.
+
+El Servicio de transporte de carga mercantil, es el que se presta previa obtención del permiso otorgado por la Secretaría y la acreditación legal ante las autoridades fiscales o administrativas correspondientes, las personas físicas o morales debidamente registradas proporcionan servicios de transporte, siempre y cuando no esté considerado como público y se clasifica de acuerdo al artículo 57 de la Ley.
+
+Adicionalmente, se integra a dicha clasificación el concepto de carga por excepción, el cual se refiere al transporte mercantil de carga proporcionado en otras modalidades, que por sus características y tecnología, no queda comprendido en la clasificación anterior, y que por sus necesidades y adaptaciones la Secretaría podrá expedir el permiso correspondiente.
+
+I. De valores y mensajería: Es el que se proporciona para el transporte de joyas, dinero, metales, piedras preciosas, obras de arte, sustancias, documentos y alimentos, inherentes a su actividad;
+
+El permiso para el servicio de mensajería se otorgará para el traslado de paquetes de hasta 70 kilogramos y se prestará en vehículos no mayores de 3.5 toneladas y motocicletas.
+
+La Secretaría podrá autorizar vehículos de mayor peso siempre que el vehículo cuente con la mejor tecnología de control de emisiones disponible en el mercado y se encuentre incorporado y/o registrado en los programas ecológicos y de mejoramiento ambiental a cargo de la Secretaría del Medio Ambiente de la Ciudad de México; en caso de unidades a diésel deberán contar con un dispositivo de filtro de partículas certificado, con las características y especificaciones técnicas y de capacidad que disponga la Secretaria del Medio Ambiente de la Ciudad de México;
+
+II. Carga de sustancias tóxicas o peligrosas: El que se proporciona para el transporte de materiales, sustancias, residuos y desechos peligrosos en su estado sólido, líquido o gaseoso;
+
+III. Grúas de arrastre o salvamento: El que se proporciona para realizar maniobras de traslado de otros vehículos;
+
+IV. De Carga especializada en todas sus modalidades: El que se proporciona para el transporte de materiales para construcción, traslado de dos o más automóviles; y que por sus características, tecnología y adaptaciones, no queda comprendido en la clasificación anterior; y
+
+V. De Carga por Excepción: El transporte mercantil de carga proporcionado en otras modalidades, que por sus características y tecnología, no queda comprendido en la clasificación anterior, y que por sus necesidades y adaptaciones la Secretaría podrá expedir el permiso correspondiente.
+
+###### Artículo 68.
+
+Los vehículos que efectúen el servicio de autotransporte federal o de otras entidades, pueden ingresar, transitar, salir y realizar maniobras de carga o descarga en la Ciudad de México, sin contar con permiso de la Secretaría, siempre que en su carta de porte o documento de embarque se especifique que los puntos de origen o destino no se encuentran en la Ciudad de México.
+
+La Secretaría podrá restringir el servicio de unidades de carga matriculadas en otras entidades federativas que contraten el servicio de transporte de carga de la Ciudad de México hacia otros Estados, cuidando fundamentalmente conservar el equilibrio ecológico, de la oferta, demanda y provisión de abasto para la Ciudad de México.
+
+#### SECCIÓN SEGUNDA
+
+DEL SERVICIO DE TRANSPORTE DE CARGA PRIVADO.
+
+###### Artículo 69.
+
+El servicio de transporte de carga privado, es la actividad por virtud de la cual, mediante el permiso otorgado por la Secretaría, las personas físicas o morales satisfacen sus necesidades de transporte de carga, relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente y que no se ofrece al público en general; y se clasifica de acuerdo con el artículo 57 de la Ley en:
+
+I. Para el servicio de una negociación o empresa: Es el que se proporciona para el transporte de bienes propios relacionados con su actividad;
+
+II. De valores y mensajería.- Es el que se proporciona para el transporte de joyas, dinero, metales, piedras preciosas, obras de arte, sustancias, documentos y alimentos, inherentes a su actividad;
+
+El permiso para el servicio (sic) mensajería se otorgará para el traslado de paquetes de hasta 70 kilogramos y se prestará en vehículos no mayores de 3.5 toneladas y motocicletas.
+
+La Secretaría podrá autorizar vehículos de mayor peso siempre que el vehículo cuente con la mejor tecnología de control de emisiones disponible en el mercado y se encuentre incorporado y/o registrado en los programas ecológicos y de mejoramiento ambiental a cargo de la Secretaría de Medio Ambiente de la Ciudad de México; en el caso de unidades a diésel, deberán contar con un dispositivo de filtro de partículas certificado, con las características y especificaciones técnicas y de capacidad que disponga la citada Secretaría.
+
+III. Carga de sustancias tóxicas o peligrosas: El que se proporciona para el transporte de materiales, sustancias, residuos y desechos peligrosos en su estado sólido, líquido o gaseoso;
+
+IV. Grúas de arrastre o salvamento: El que se proporciona para realizar maniobras de traslado de otros vehículos; y,
+
+V. Carga especializada en todas sus modalidades: El que se proporciona para el transporte de materiales para construcción, traslado de dos o más automóviles; y que por sus características, tecnología y adaptaciones, no queda comprendido en la clasificación anterior.
+
+#### SECCIÓN TERCERA. DEL SERVICIO DE TRANSPORTE DE CARGA PARTICULAR
+
+###### Artículo 70.
+
+El servicio de transporte de carga particular, es aquél que se proporciona por instituciones de asistencia pública o privada sin cobro alguno, con vehículos propios para el transporte de insumos relacionados con su objeto social. Debe contar con permiso de la Secretaría y no puede ofrecerse al público en general.
+
+## TÍTULO CUARTO. DE LAS CONCESIONES
+
+### CAPÍTULO PRIMERO. DEL OTORGAMIENTO
+
+###### Artículo 71.
+
+La concesión para la prestación de servicios de transporte público de pasajeros y carga es el acto administrativo por virtud del cual la Secretaría otorga a particulares, la prestación del servicio de transporte público o de carga mediante la utilización de bienes del servicio público o privado de la Ciudad de Mexico, para lo cual el Jefe de Gobierno emitirá la declaratoria de necesidad respectiva.
+
+###### Artículo 72.
+
+Tratándose del servicio de transporte de pasajeros público colectivo y de carga, la Secretaría publicará, previamente a la Declaratoria de Necesidad, en la Gaceta Oficial de la Ciudad de México, el Estudio del Balance entre la Oferta y la Demanda.
+
+###### Artículo 73.
+
+El título concesión debe contener, al menos:
+
+I. Nombre del concesionario o permisionario;
+
+II. Para el caso del transporte de pasajeros público colectivo concesionado, el domicilio correspondiente.
+
+III. Objeto y fundamentación legal;
+
+IV. Número de concesión;
+
+V. Vigencia de la concesión;
+
+VI. Modalidad del servicio de transporte de Pasajeros Público, Individual, de Ruta, Corredor o de Carga;
+
+VII. Derechos y obligaciones del concesionario;
+
+VIII. Causas de revocación y caducidad de la concesión;
+
+IX. Prohibición de variar las condiciones, sin la previa autorización de la Secretaría;
+
+X. Las demás que determine la Secretaría.
+
+###### Artículo 74.
+
+Sólo con autorización previa y por escrito de la Secretaría, los concesionarios y permisionarios podrán gravar sus concesiones, exclusivamente para garantizar el otorgamiento de créditos para la sustitución, modernización, mejoramiento y desarrollo del equipo, infraestructura y equipamiento auxiliar de transporte; dicho gravamen deberá ser inscrito ante el Registro Público del Transporte bajo su costo.
+
+En el caso de los concesionarios del servicio de transporte público individual solo podrán participar en financiamientos otorgados para la renovación de la unidad vehicular, mediante los procesos autorizados y con recursos otorgados por la administración pública, por lo que los concesionarios están obligados a dejar en resguardo la concesión hasta la comprobación del finiquito correspondiente.
+
+### CAPÍTULO SEGUNDO. DE LOS ESTUDIOS TÉCNICOS
+
+###### Artículo 75.
+
+Los estudios técnicos, que presenten los concesionarios o permisionarios deben contener, a que se refiere el artículo 88 Fracción I de la Ley, según sea el caso lo siguiente:
+
+1. Análisis Técnico:
+
+1.1. Descripción general del servicio;
+
+1.2. Descripción de la estructura del Servicio:
+
+a) Descripción del recorrido;
+
+b) Origen – destino, destino – origen; terminales y paradas, distancia entre estas;
+
+c) Descripción de los movimiento (sic) direccionales y vialidades por las que transita el servicio de transporte;
+
+d) Conexión con sistemas de transporte masivo; y
+
+e) Radio de giro;
+
+1.3. Infraestructura:
+
+a) Descripción general de condiciones de circulación;
+
+b) Caracteristicas y estados generales de banquetas, guarniciones, rampas y áreas de rodamiento;
+
+c) Estado de las paradas de transporte público a lo largo de los derroteros (poda, balizamiento y mobiliario urbano);
+
+d) Iluminación, semaforización y obras complementarias; y
+
+e) Espacios disponibles para implementación de parque de bolsillo;
+
+1.4. Estudio de ascenso y descenso (ead) y tiempos de recorrido:
+
+a) Tabla de ascensos – descensos: realizar un resumen para mostrar la variación horaria de la demanda, debiendo anexar los recorridos realizados de acuerdo al tamaño de muestra obtenido;
+
+b) Polígonos de carga;
+
+c) Tiempos de recorrido y velocidad en hmd;
+
+d) Pasajeros transportados por viaje; y
+
+e) Volumen de pasajeros transportados por día;
+
+1.5. Estudio de frecuencia de paso y ocupación (efpo):
+
+a) Determinación de la hora demáxima (sic) demanda (hmd) y volumen de pasajeros en hora de máxima demanda (vhmd); y
+
+b) Grado de participación porcentual y volúmenes de pasajeros dentro del corredor);
+
+1.6. Indicadores de dimensionamiento:
+
+a) Parámetros operativos (distancia promedio de viaje por pasajero, indice de rotación, ocupación máxima, captación por kilometro, ocupación por kilometro, velocidad de operación y velocidad comercial);
+
+1.7. Propuesta de dimensionamiento del servicio:
+
+a) Parámetros de dimensionamiento (capacidad vehicular, volumen de diseño, factor de ocupación, tiempo de recorrido o – d, tiempo de recorrido d – o, tiempo en terminal, tiempo de ciclo, intervalo, número de unidades en operación;
+
+b) Determinación de paradas;
+
+2. Análisis operativo:
+
+2.1. Programación del servicio (anexo);
+
+2.2. Programa de mantenimiento de la flota vehicular;
+
+2.3. Programa de capacitación del personal;
+
+3. Proceso de selección de la unidad.sustentar (sic) en base a la geometría de la vialidad y manuales técnicos de seguridad, accesabilidad (sic), comodidad y fabricación de autobuses nuevos para prestar el servicio público de transporte de pasajeros en el distrito federal;
+
+4. Ficha técnica del vehículo;
+
+5. Análisis administrativo:
+
+5.1. Dirección y organización de la empresa;
+
+5.2. Estructura organizacional (perfil de puestos);
+
+5.3. Organigrama operativo;
+
+6. Certificación de la factibilidad del estudio (financiera acuerdo a la información proporcionada en el estudio).
+
+7. Lo demás que determine la Secretaría.
+
+### CAPÍTULO TERCERO. DE LA VIGENCIA Y PRÓRROGA
+
+###### Artículo 76.
+
+Las concesiones para la prestación del servicio público de transporte de pasajeros se otorgarán de acuerdo con los Lineamientos que emita la Secretaría considerando la vida útil de los vehículos y los avances tecnológicos que se den en la materia, y no podrá exceder de veinte años y podrán ser prorrogadas hasta por un plazo igual al concedido, siempre y cuando se den los supuestos a que se refiere el artículo 102 de la Ley.
+
+Las solicitudes de prórroga de vigencia de las concesiones del servicio colectivo concesionado, en la modalidad de Servicio de Transporte de Pasajeros Público Colectivo Concesionado, deberán considerar la recuperación de la inversión, la obsolescencia de la tecnología, las especificaciones de fabricación y la vida útil de los vehículos.
+
+###### Artículo 77.
+
+En caso de que el concesionario no acredite los comprobantes de pago de derechos de prórroga en tiempo y forma, documentos e información necesaria en el plazo conferido por la Ley, procederá la extinción de la concesión, por lo que la Secretaría estará facultada a su adjudicación en términos de la Ley.
+
+### CAPÍTULO CUARTO. DE LA TRANSMISIÓN
+
+###### Artículo 78.
+
+Las concesiones otorgadas a personas morales, no podrán cederse o transmitirse. La persona física titular de una concesión, tendrá derecho a nombrar hasta tres beneficiarios, para que en caso de incapacidad física o mental, ausencia declarada judicialmente o muerte puedan sustituirlo, en el orden de prelación establecido, en los derechos y obligaciones derivadas de la concesión. El ejercicio de este derecho estará condicionado a lo siguiente:
+
+I. Los beneficiarios tienen que ser parientes en línea recta en primer grado, colaterales en segundo grado o cónyuge;
+
+II. La incapacidad física o mental, la declaración judicial de ausencia o la muerte del titular deben acreditarse de manera fehaciente con los documentos idóneos para tal efecto;
+
+III. El orden de prelación deberá ser excluyente y dejar constancia por escrito de la renuncia o imposibilidad, en su caso;
+
+IV. Que la persona física propuesta reúna los requisitos establecidos en la concesión y en las demás disposiciones jurídicas y administrativas aplicables; y
+
+V. Que la persona propuesta acepte expresamente, en su caso, las modificaciones establecidas por la Secretaría para garantizar la adecuada prestación del servicio.
+
+En el caso que no se haya designado beneficiario expresamente, se tendrá por nombrado a la persona que acredite fehacientemente estar dentro de los supuestos señalados en la fracción I del presente artículo, dejando a salvo los derechos de terceros.
+
+La solicitud de transmisión de derechos, deberá presentarse dentro de los sesenta días siguientes, al que se haya actualizado alguno de los supuestos. El no cumplir con esta obligación será causa de que la concesión se declare extinta.
+
+La Secretaría dentro de los 30 días hábiles siguientes a la presentación de la solicitud del interesado, le notificará personalmente la resolución respectiva, de aprobarse la cesión de una concesión, el nuevo titular se subrogará en los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones que en el momento de otorgar la concesión haya autorizado la Secretaria, además de las modificaciones que en su caso, hubiere realizado la Secretaría.
+
+La Secretaría dentro de los cuarenta días hábiles siguientes a la presentación de la solicitud le notificará personalmente al solicitante la resolución que en derecho proceda.
+
+###### Artículo 79.
+
+Una vez autorizada la transmisión de derechos, la actualización correspondiente, se inscribirá de forma expedita en el Registro Público del Transporte sin modificar la vigencia de la concesión, preservando el antecedente registral del concesionario original, para fines históricos, además de todos aquellos actos relacionados con la transmisión de los derechos derivados de las concesiones y de las sustituciones de los vehículos afectos a las mismas. El nuevo concesionario deberá continuar con la prestación del servicio de manera inmediata.
+
+## TÍTULO QUINTO. DE LOS PERMISOS
+
+### CAPÍTULO PRIMERO. DE LOS PERMISOS DEL TRANSPORTE
+
+###### Artículo 80.
+
+La Secretaría otorgará permisos temporales para circular en los siguientes casos:
+
+I. Por 30 días hábiles cuando se adquiera un vehículo nuevo o usado que no será dado de alta en forma definitiva en la Ciudad de México;
+
+II. Por 30 días hábiles cuando adquiera un vehículo nuevo para adaptación sin carrocería; o
+
+III. Por 15 días hábiles cuando sea necesario trasladar a otra entidad federativa vehículos que anteriormente prestaban servicio de carga y/o pasajeros en sus distintas modalidades y que hayan sido dados de baja del padrón vehicular de la Ciudad de México.
+
+###### Artículo 81.
+
+El Transporte de Carga Ocasional es aquél mediante el cual las personas físicas y morales con vehículos particulares satisfacen sus necesidades esporádicas de transporte de bienes, previo cumplimento de haberse registrado ante las autoridades fiscales administrativas para la obtención del permiso temporal correspondiente.
+
+El transporte de árboles de navidad en vehículos particulares no requerirá permiso de la Secretaría, así como en los casos previstos en el Reglamento de Tránsito.
+
+###### Artículo 82.
+
+Se requerirá permiso de la Secretaría para transporte de carga ocasional en vehículos de uso particular en los siguientes casos:
+
+I. Para vehículos de carga de hasta 1.5 toneladas en los que se requiera transportar excepcionalmente artículos personales en un volumen tal que rebase verticalmente las dimensiones del compartimento respectivo;
+
+II. Para vehículos de pasajeros en los que se requiera transportar excepcionalmente artículos personales en el habitáculo destinado a pasajeros que obstaculicen la visibilidad del conductor; y
+
+III. Para transportar artículos personales en vehículos de los particulares, cuando por sus dimensiones sobresalga de la parte delantera o de los costados.
+
+###### Artículo 83.
+
+El permiso a que se refiere el artículo anterior deberá contener como mínimo lo siguiente:
+
+I. Nombre o razón social del solicitante, así como su domicilio; y
+
+II. Características de la unidad que pretende utilizar.
+
+###### Artículo 84.
+
+El permiso de carga ocasional no podrá amparar más de una unidad y su plazo no podrá ser mayor de siete días naturales. Asimismo, sólo podrá otorgarse nuevamente para la misma unidad cuando haya transcurrido un plazo mayor a noventa días naturales desde el otorgamiento del anterior.
+
+###### Artículo 85.
+
+La Secretaría resolverá la solicitud el mismo día, si se presenta dentro de las dos primeras horas hábiles, si se presenta después, se resolverá al día siguiente.
+
+### CAPÍTULO SEGUNDO. PERMISOS PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
+
+###### Artículo 86.
+
+Ante la suspensión forzosa de los servicios de transporte público, la Secretaría otorgará permisos temporales para la prestación de dicho servicio, los cuales se sujetarán a las siguientes condiciones:
+
+I. La Secretaría, podrá realizar todas aquellas acciones para que los servicios públicos de transporte de pasajeros, garanticen la seguridad de los usuarios, peatones y los derechos de los concesionarios; y otorgarán los permisos correspondientes de acuerdo a la modalidad de transporte de su respectiva competencia;
+
+II. Tendrán vigencia durante el tiempo de la suspensión de que se trate y no podrán exceder de ciento ochenta días naturales; en los casos que este plazo se exceda y los efectos del evento sigan ocasionando la suspensión del servicio, la Secretaría ampliará dicho plazo por sesenta días naturales más, sin que ello genere derechos sobre la prestación del servicio y/o derechos adquiridos;
+
+III. La Secretaría contará con un registro de personas físicas o morales que reúnan los requisitos que la misma establezca que sean susceptibles para proporcionar el servicio en los casos mencionados; y
+
+IV. Las demás que determine la Secretaría.
+
+###### Artículo 87.
+
+El otorgamiento de permisos para la prestación del servicio público de transporte en todas sus modalidades, que se autoricen por la suspensión total o parcial del servicio, a personas físicas y/o morales, aún y cuando no sean concesionarias deberán reunir los siguientes requisitos:
+
+I. Acta constitutiva en caso de personas morales;
+
+II. Padrón Vehicular de unidades registradas en la Ciudad de México o en la Secretaría de Comunicaciones y Transportes, con que la empresa cuenta para prestar el servicio público de transporte de pasajeros en la Ciudad de México, aportando como mínimo, marca, modelo, año de fabricación, tipo de unidad, longitud, capacidad (pasajeros sentados, de pie y total), tipo de combustible utilizado y una fotografía de cada tipo de unidad;
+
+III. Padrón de operadores que contenga el número, vigencia, institución expedidora, tipo de licencia de conducir y designación de operadores;
+
+IV. Lugar de encierro de las unidades y zona de influencia en que se presten los servicios de pasajeros;
+
+V. Manifestación sobre su experiencia en el ramo de la transportación de pasajeros;
+
+VI. Identificación Oficial del Representante Legal, (Credencial de elector, Pasaporte, Cédula profesional, Cartilla del Servicio Militar Nacional) y Cédula de Identificación de la persona moral.
+
+VII. Comprobante de domicilio no mayor a tres meses de antigüedad;
+
+VIII. Cédula de Identificación Fiscal de la persona física e identificación oficial (Credencial de elector, Pasaporte, Cédula Profesional, Cartilla del Servicio Militar Nacional);
+
+X (SIC). Números telefónicos y correo electrónico en su caso; y
+
+XI. Las demás que determine la Secretaría.
+
+### CAPÍTULO TERCERO. DE LOS PERMISOS PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE MERCANTIL Y PRIVADO DE PASAJEROS Y DE CARGA
+
+###### Artículo 88.
+
+La Secretaría otorgará permisos para la prestación del servicio mercantil y privado de transporte de pasajeros y carga u otro que sea similar a los descritos, a quienes cumplan con los requisitos previstos en el artículo 126 (sic) la Ley.
+
+Los permisos que otorgue la Secretaría no crean derechos reales ni de exclusividad a sus titulares; sólo le otorgan el derecho al uso, aprovechamiento y en su caso explotación del servicio de acuerdo con las reglas y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables, así como las que establezca la Secretaría.
+
+### CAPÍTULO CUARTO. DEL PERMISO PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE DE PASAJEROS ESCOLAR O DE PERSONAL, EN CUALQUIERA DE SUS MODALIDADES
+
+###### Artículo 89.
+
+El Permisionario está obligado a prestar el servicio en condiciones de seguridad, comodidad, higiene y eficiencia.
+
+###### Artículo 90.
+
+Serán requisitos para el otorgamiento del Permiso para la Prestación del Servicio:
+
+I. Ser de nacionalidad mexicana y que su objeto social consista en la prestación del Servicio;
+
+II. Solicitud por escrito ante la Secretaría, especificando la modalidad para la cual lo requiere;
+
+III. Relación de los vehículos con los que prestará el Servicio, que deberá contener todos los datos de su identificación;
+
+IV. Relación de conductores, identificados por nombre, domicilio, número de licencia que lo autoriza a conducir este tipo de vehículos y demás datos necesarios para su ubicación;
+
+V. Relación de las personas encargadas de la seguridad, supervisión, capacitación, mantenimiento, control de operaciones, psico – diagnóstico y sistemas de información;
+
+VI. Identificación de las instalaciones y equipo necesario para la prestación del servicio, que deberán ser suficientes y adecuados a la dimensión de su flota vehicular y que de manera enunciativa más no limitativa, deberán incluir:
+
+a) La ubicación de las instalaciones, equipo y elementos de vigilancia con capacidad para resguardar la totalidad de su flota vehicular;
+
+b) El equipo, herramientas, manuales y programas necesarios para el adecuado mantenimiento de los vehículos destinados a la prestación del Servicio;
+
+c) La ubicación del centro de control operativo y radio operación que genere la información relativa al servicio prestado que determine la Secretaría; y
+
+d) Las aulas en las que se impartirán los cursos de capacitación.
+
+VII. Programa y procedimientos de mantenimiento de los vehículos en los que se prestará el Servicio;
+
+VIII. Programa para la sustitución o cambio de los vehículos;
+
+IX. Acreditación de la contratación de los seguros a que se refiere este Reglamento por los montos que mediante acuerdo emita la Secretaría;
+
+X. Pago de los derechos correspondientes; y
+
+XI. Los demás requisitos establecidos en las disposiciones jurídicas aplicables en el caso particular.
+
+###### Artículo 91.
+
+La Secretaría podrá, excepcionalmente, otorgar permiso a las personas físicas para la prestación del Servicio, cuando por la ubicación de los Centros Educativos o Empresas se requiera de vehículos de dimensiones y características específicas, en atención a:
+
+I. La estrechez de las vías de circulación;
+
+II. La trayectoria; o
+
+III. La orografía.
+
+Además de cumplir con los requisitos que señale la convocatoria que al efecto emita, con opinión de la Secretaría de Medio Ambiente en su materia. La persona física que obtenga permiso para la prestación del Servicio tendrá los derechos y deberá cumplir las obligaciones y condiciones que señala el presente instrumento y tendrá la calidad de permisionario para los efectos legales.
+
+###### Artículo 92.
+
+Los derechos y obligaciones derivados de un permiso para la prestación del Servicio son intransferibles y no podrán enajenarse o transmitirse. Cualquier acto que implique la enajenación o transmisión de los derechos derivados del Permiso otorgado será nulo, y no surtirá efecto legal alguno ni será reconocido por la Secretaría.
+
+### CAPÍTULO QUINTO. DE LOS REQUISITOS Y PLAZOS DE LOS PERMISOS
+
+###### Artículo 93.
+
+Los permisos podrán expedirse por una vigencia hasta por un periodo de seis años y de tres años para ciclotaxis;
+
+Los permisos serán prorrogables hasta por el mismo plazo otorgado originalmente. En este caso, el titular del permiso deberá presentar la solicitud de prórroga, con al menos treinta días de anticipación al vencimiento del permiso; al que deberá adjuntar documento firmado bajo protesta de decir verdad, en donde señale que las condiciones existentes en el momento del otorgamiento del permiso original prevalecen.
+
+La Secretaría notificará personalmente la respuesta a la solicitud, dentro de los treinta días siguientes a la presentación de la misma, siempre y cuando las condiciones bajo las que se otorgó el permiso inicial permanezcan iguales.
+
+En caso de que las condiciones bajo las que se otorgó el permiso hayan cambiado, no ha lugar a la solicitud de prórroga, en cuyo caso se deberá iniciarse el procedimiento mencionado y realizar los pagos relativos al Estudio Técnico correspondiente.
+
+Para el otorgamiento de la prórroga de los permisos, para sitios y bases de servicio se deberá presentar el pago de cajones así como los documentos e información necesaria dentro de los treinta días, contados a partir de cada inicio del ejercicio fiscal de que se trate, para que el solicitante se encuentre en posibilidad de conservar el permiso.
+
+###### Artículo 94.
+
+La Secretaría otorgará permisos complementarios para el servicio de transporte público de pasajeros y carga, previo cumplimiento de los requisitos y pago de derechos correspondientes previstos en los instrumentos jurídicos y administrativos de la materia.
+
+Las autorizaciones de ampliación o modificación de itinerarios para el servicio de transporte público colectivo de pasajeros, se otorgarán siempre y cuando no se rebase el veinte por ciento de la distancia original del mismo.
+
+###### Artículo 95.
+
+Las bases de servicio, lanzaderas, cierres de circuito, encierros, terminales, señales, estaciones y demás equipamiento auxiliar que defina la Secretaría, deben ubicarse en los lugares precisados en sus respectivos permisos.
+
+En caso de que el concesionario o permisionario no acredite los comprobantes de pago de derechos en tiempo y forma, documentos e información necesaria en el plazo conferido por la Ley, procederá la extinción de la Concesión o Permiso, por lo que la Secretaría estará facultada a su adjudicación en términos de la Ley.
+
+###### Artículo 96.
+
+Los requisitos para el otorgamiento de permisos de transporte mercantil y privado de pasajeros y de carga, lanzaderas, sitios, bases de servicio y del equipamiento auxiliar, se ajustarán a lo siguiente:
+
+I. Haber realizado los estudios correspondientes sobre la demanda del servicio e impacto a la vialidad y al medio ambiente, acreditando su viabilidad con los permisos o licencias expedidos por la autoridad competente, conforme a los lineamientos y procedimientos que establezca la Secretaría;
+
+II. Obtener el visto bueno sobre el espacio físico correspondiente por parte de la Delegación Política que se ubiquen en su demarcación, para la instalación de sitios, bases de servicio y del equipamiento auxiliar;
+
+III. Cumplir con la normatividad relacionada con el diseño para la seguridad de los usuarios, acorde a la modalidad de transporte, las obras y equipamiento de las instalaciones, así como para su mantenimiento;
+
+IV. Contar con una administración responsable de la operación de los servicios, misma que será registrada ante la Secretaría, conforme al procedimiento correspondiente; y
+
+V. La administración a que hace referencia la fracción anterior, firmará el formato correspondiente de aplicación de las disposiciones que establezca la Secretaría relacionadas con el orden, limpieza y dotación de servicios que deben cumplir los inmuebles, instalaciones y equipos.
+
+VI. Las demás que determine la Secretaría.
+
+Los sitios y bases para la prestación del servicio de transporte mercantil y privado de pasajeros y carga, únicamente serán autorizados para su uso y aprovechamiento de vehículos matriculados en la Ciudad de México, con excepción de aquellos que presten el servicio de transporte de pasajeros privado especializado con chofer.
+
+###### Artículo 97.
+
+El plazo para el otorgamiento de permisos de lanzaderas, sitios, bases de servicio y del equipamiento auxiliar, por parte de la Secretaría procederá a partir de que se haya cumplido con los requisitos mencionados en el presente Reglamento.
+
+### CAPÍTULO SEXTO. DEL EQUIPAMIENTO AUXILIAR
+
+###### Artículo 98.
+
+La Secretaría otorgará permisos complementarios a los particulares para el establecimiento del equipamiento auxiliar, tomando en consideración los aspectos siguientes:
+
+I. Espacios disponibles;
+
+II. Estudios técnicos que consideren la mejora de las vialidades existentes;
+
+III. La demanda de los concesionarios o permisionarios;
+
+IV. La demanda de los usuarios y peatones;
+
+V. El impacto de los servicios en la zona;
+
+VI. El Programa Integral de Movilidad;
+
+VII. Los programas de construcción, uso del suelo y aprovechamiento del suelo en la Ciudad de México; y
+
+VIII. La infraestructura existente.
+
+###### Artículo 99.
+
+El equipamiento auxiliar comprende:
+
+I. Base de servicio;
+
+II. Centro de Transferencia Modal;
+
+III.- Cierre de circuito;
+
+IV. Encierro;
+
+V. Lanzadera;
+
+VI. Señalización Vial;
+
+VII. Terminal;
+
+VII (SIC). Estación;
+
+VIII. Los elementos inherentes o incorporados para la operación del transporte; y
+
+IX. Equipamiento para fomento de la intermodalidad racks portabicicletas y biciestacionamientos; y,
+
+X. Los demás que establezca la Secretaría.
+
+###### Artículo 100.
+
+Se otorgarán permisos para la operación de bases de servicio, lanzaderas y sitios en las áreas de transferencia para el transporte, por el tiempo que la Secretaría determine y prorrogables hasta por el mismo tiempo que se otorgó la concesión de origen, a las personas que reúnan los siguientes requisitos:
+
+I. Solicitud por escrito dirigida a la Secretaría, indicando el domicilio fiscal, así como la ubicación donde solicita la autorización o revalidación para la prestación del servicio, especificando la modalidad y número de cajones para la que solicita el permiso, horario de servicio, nombre de la organización nombre y firma del representante o apoderado legal;
+
+II. En caso de que el solicitante sea una persona moral, deberá acreditar su existencia legal y personalidad jurídica vigente del representante o apoderado;
+
+III. Identificación oficial con fotografía del representante o apoderado legal (credencial para votar con fotografía, cédula profesional, pasaporte vigente, cartilla del servicio militar);
+
+IV. Presentar padrón vehicular de las unidades que prestarán el servicio, debiendo contener datos que puedan identificar a los vehículos tales como nombre y domicilio del titular de la concesión, número de placa, marca, número de serie, número del motor y modelo o año de los vehículos, nombre y domicilio del operador o conductor, número de folio o licencia que autoriza a conducir ese tipo de vehículo;
+
+V. Acreditar el pago de derechos correspondientes y que se encuentren establecidos en el Código Fiscal de la Ciudad México;
+
+VI. Registro Federal de Contribuyentes;
+
+VII. Mapa o croquis señalando la ubicación solicitada para la autorización o revalidación de la base o sitio de servicio, debiendo indicar además la orientación Norte y nombre de las calles aledañas;
+
+VIII. En caso de trámite de revalidación, presentar último permiso y pago de cajón (es) de los últimos tres años. Si los pagos efectuados por concepto de cajón son menores a tres años, el solicitante deberá manifestarlo en su escrito, además de presentar los que se hayan realizado a partir de la fecha en que iniciaron operaciones;
+
+IX. Una vez concluido el término de un año sin que medie el trámite de revalidación, dentro de los 30 (sic) hábiles anteriores a la fecha de vencimiento del permiso, se procederá a la revocación del permiso con la posibilidad de otorgar la base al solicitante que cumpla con los requisitos que establezca la Secretaría.
+
+X. Contar con la cromática autorizada en todos los vehículos, en apego a la modalidad del servicio establecida para tal fin; y,
+
+XI. Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables;
+
+La Secretaría notificará personalmente la resolución a la petición del permiso o revalidación, dentro de los quince días hábiles siguientes a la presentación de la solicitud.
+
+###### Artículo 101.
+
+Los Vistos Buenos que sean solicitados por la Secretaría a las Delegaciones para la autorización de las bases, sitios y lanzaderas, deberán ser contestados y enviados en un término máximo de diez días hábiles, a falta de respuesta se entenderá que no existe impedimento alguno por parte de la Delegación.
+
+###### Artículo 102.
+
+Para la operación y establecimiento de bases de servicio público de transporte, deberán sujetarse a lineamientos de funcionalidad en su ubicación, adecuación al entorno, respecto de los accesos domiciliarios de vecinos, eficacia en la atención de la demanda, eficacia en la utilización y disposición de recursos públicos y particulares de los interesados o permisionarios.
+
+###### Artículo 103.
+
+Las autorizaciones que otorgue la Secretaria relativas a las bases de servicio, deberán ajustarse a las características indicadas en el Manual de Diseño y Operaciónn (sic) de Áreas de Transferencia para el Transporte y el Manual de Dispositivos para el Control del Tránsito. Así mismo deben considerar y contener lo siguiente:
+
+I. Espacio disponible;
+
+II. El impacto en la zona;
+
+III. La infraestructura existente;
+
+IV. Que se considere la mejora de las vías existentes, es decir, que la operación de la base de servicio no entorpezca el tránsito o la operación regular de otros servicios;
+
+V. El estudio que justifique el impacto entre la oferta y la demanda actual y potencial del servicio por parte de los usuarios en la zona de influencia;
+
+VI. Proyecto de operación del servicio, descripción detallada del tipo y modalidad del transporte a satisfacer;
+
+VII. Número de unidades necesarias para prestar el servicio;
+
+VIII. Tipo y características de los vehículos que requerirán;
+
+IX. Que la prestación del servicio de transporte de que se trate, no genere una competencia desleal y ruinosa a los concesionarios;
+
+X. Las tarifas aplicables en función del equipo a utilizarse; y
+
+XI. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+
+###### Artículo 104.
+
+Además de lo anterior, las autorizaciones deberán apegarse a los lineamientos generales que a continuación se mencionan:
+
+I. El parque vehicular para la explotación del servicio en la base propuesta, deberá ser consistente con la disponibilidad de espacios en la vialidad para estacionar los vehículos del servicio público, así como con la demanda de servicio en dichas ubicaciones;
+
+II. Las bases de servicio tendrán un ámbito de captación de demanda de 500 metros de diámetro respecto de su ubicación, no pudiendo establecerse dos bases de servicio con ámbitos superpuestos, ni dos con menos de 500 metros de distancia entre sí; y
+
+III. La ubicación de las bases de servicio se adecuará al entorno urbano de tal manera que no obstaculice o limite a los vehículos particulares el acceso a domicilios o estacionamientos públicos, respetando las restricciones establecidas para el estacionamiento de vehículos en las vías donde se planee la propuesta de ubicación de dichas bases.
+
+###### Artículo 105.
+
+No se podrán instalar, establecer, autorizar, ni otorgar permisos de sitios y bases para la prestación de servicios de transporte público de pasajeros en cualquiera de las modalidades, en los siguientes supuestos:
+
+I. En vías primarias de acceso controlado, ni en arterias principales que carezcan de bahías específicas de receso;
+
+II. En zonas o vías públicas donde exista señalización vial restrictiva;
+
+III. Los vehículos no podrán estacionarse en batería, salvo que el señalamiento lo permita;
+
+IV. No podrán establecerse bases en lugares donde se obstruya la visibilidad de señales de tránsito o existan señalamientos de inmovilizador o donde se prohíba el estacionamiento;
+
+V. En lugares destinados al estacionamiento momentáneo de vehículos de traslado de valores, identificados;
+
+VI. En carriles exclusivos para el transporte colectivo de pasajeros;
+
+VII. En zonas autorizadas para carga y descarga, cuando éste no sea su fin;
+
+VIII. En accesos y salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales del transporte colectivo Metro;
+
+IX. Sobre aceras, rampas, camellones, senderos, retornos, isletas u otras vías y espacios reservados a peatones y ciclistas; para ello es suficiente con que cualquier parte del vehículo se encuentre sobre estos espacios;
+
+X.- Frente a:
+
+a) Establecimientos bancarios;
+
+b) Hidrantes para uso de los bomberos;
+
+c) Entradas y salidas de ambulancias y vehículos de emergencia;
+
+d) Rampas especiales para personas con discapacidad; y
+
+e) Rampas de entrada de vehículos, salvo que se trate del domicilio del propio conductor, siempre y cuando no se obstruya el paso peatonal o el tránsito de personas con movilidad limitada;
+
+XI. Fuera de un cajón de estacionamiento, o invadiendo u obstruyendo otro;
+
+XII. Sobre o debajo de cualquier puente o estructura elevada de una vía pública o en el interior de un túnel;
+
+XIII. En un tramo:
+
+a) Menor a 5 metros de la entrada de una estación de bomberos y de vehículos de emergencia; y en un espacio de 25 metros a cada lado del eje de entrada en la acera opuesta a ella; y
+
+b) Menor a 10 metros de cualquier cruce ferroviario;
+
+XIV. En lugares o cajones destinados al estacionamiento de vehículos que transporten o sean conducidos por personas con discapacidad, identificados con la señalización respectiva;
+
+XV. En territorios declarados como Áreas de Valor Ambiental, Áreas Naturales Protegidas o que cuenten con zonificación de Suelo de Conservación; y
+
+XVI. En los demás lugares que la Secretaría y la Secretaría de Seguridad Pública determinen.
+
+###### Artículo 106.
+
+Las únicas excepciones aplicables en los supuestos relacionados anteriormente para que se puedan instalar, operar o autorizar bases de servicio de transporte son las siguientes:
+
+I. Para el caso de vías primarias, será sólo cuando se trate de laterales donde no haya carril exclusivo de circulación para el transporte público, existan bahías o los interesados presenten un proyecto para construcción de bahía y la realicen, o bien; que soliciten la expedición de permiso, para que el servicio se preste en un horario nocturno, comprendido de las 21:00 a las 05:59 horas. En ningún caso se puede construir una bahía eliminando espacio de circulación peatonal sobre las banquetas;
+
+II. Por lo que hace a los bancos, sólo podrán establecerse las bases de servicio cruzando la calle, es decir, en la acera contraria de donde se encuentre el banco; en caso de que se autorice una base frente al banco se deberán dejar 12 metros libres de la entrada, o bien, que exista una distancia de aproximadamente 20 metros entre la puerta del banco y la guarnición de la banqueta;
+
+III. En el caso de los hidrantes, deberá guardarse una distancia aproximada de 20 metros, medidas que se tomarán 10 metros antes y 10 metros después de donde se encuentre la toma;
+
+IV. Por lo que respecta a las entradas y salidas de ambulancias y vehículos de emergencia, se deberá dejar una distancia libre de 20 metros; y
+
+V. Respecto de partes sobre o debajo de cualquier puente o estructura elevada de una vía pública o en el interior de un túnel, únicamente podrán expedirse permisos para las lanzaderas de servicio.
+
+## TÍTULO SEXTO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS Y CONDUCTORES
+
+###### Artículo 107.
+
+Para el supuesto al que se refiere el artículo 110 de la Ley, se deberá considerar por los concesionarios y permisionarios que la capacitación es una obligación para las personas involucradas o relacionadas con los servicios de transporte, desde los que aspiren a obtener por primera vez una licencia o permiso para conducir un vehículo motorizado en la Ciudad de México, así como los operadores y los involucrados directa o indirectamente con la prestación del servicio público de transporte, con el objetivo de promover y garantizar la cultura de movilidad en condiciones de seguridad, calidad, igualdad, accesibilidad, sustentabilidad y con enfoque de género.
+
+###### Artículo 108.
+
+La capacitación y la actualización se efectuarán en los centros registrados y autorizados ante la Secretaría.
+
+###### Artículo 109.
+
+La Secretaría determinará la temática, los requisitos y mecanismos para la impartición de cursos teórico prácticos, básicos o de actualización a los operarios del servicio de transporte público en todas sus modalidades individual y colectivo de pasajeros, carga y especializado.
+
+###### Artículo 110.
+
+Los permisionarios tendrán las obligaciones siguientes:
+
+I. Prestar el Servicio en los términos y condiciones señalados en el Permiso otorgado;
+
+II. Cumplir con las disposiciones legales y administrativas en materia de tránsito, transporte, vialidad y medio ambiente, así como con las políticas y programas de la Secretaría;
+
+III. Proporcionar a la Secretaría, cuando lo requiera, todos los informes, datos y documentos necesarios para conocer y evaluar la prestación del servicio encomendado;
+
+IV. Proporcionar capacitación anual a los operadores y demás personas que tengan relación con el servicio, en los términos que establezca la Secretaría y demás disposiciones jurídicas aplicables;
+
+V. Contar con póliza de seguro vigente para responder por las lesiones o los daños a los usuarios o terceros, en sus personas o bienes, que con motivo de la prestación del servicio pudieran ocasionarse, con los límites de cobertura que determine la Secretaría;
+
+VI. Mantener actualizados sus registros ante la Secretaría, respecto de su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con la prestación del Servicio, debiendo utilizar las formas que al efecto autorice la Secretaría;
+
+VII. Presentar a la Secretaría, con la periodicidad que ésta determine, el padrón de conductores, con todos los datos necesarios para su ubicación e identificación;
+
+VIII. Llevar el control de la guarda y custodia de los vehículos, documentos e infraestructura para la prestación del Servicio;
+
+IX. Cumplir con los programas de mantenimiento a los vehículos y mantener actualizadas y disponibles las correspondientes bitácoras de mantenimiento en el momento que le sean solicitados por la Secretaría;
+
+X. Cumplir con los procedimientos de control operativo que determine la Secretaría;
+
+XI. Permitir inspecciones de supervisión por parte de la Secretaría;
+
+XII. En el caso de transporte escolar, deberá contar con el apoyo de una persona mayor de edad, capacitada para vigilar y preservar la seguridad de los usuarios;
+
+XIII. Colocar en un lugar visible en cada uno de los vehículos lo siguiente:
+
+a) Original o copia certificada del permiso;
+
+b) Holograma que acredite que el vehículo ha sido debidamente inscrito en el Registro Público de Permisionarios del Servicio;
+
+c) Copia ampliada y certificada de la Licencia del conductor; y
+
+d) Número telefónico del centro de información a su cargo, de la Secretaría, de emergencias y de la Secretaría de Seguridad Pública de la Ciudad de México;
+
+XIV. Realizar diariamente a cada uno de sus vehículos destinados al Servicio, previamente al inicio del servicio, procedimiento de inspección que determine la Secretaría, el cual deberá incluir por lo menos:
+
+a) Revisión de operación de frenos, suspensión y dirección, identificando en la bitácora la fecha y el responsable de la revisión;
+
+b) Revisión de la operación de puertas, ventanas y salidas de emergencia;
+
+c) Revisión de la operación de luces exteriores y limpiador de parabrisas;
+
+d) Revisión de la operación de equipo de radiocomunicación y del Sistema Global de Posicionamiento;
+
+e) Revisión de funcionamiento de los cinturones de seguridad;
+
+f) Revisión de niveles de aceite, refrigerante y presión de llantas;
+
+g) Revisión de Extintor y botiquín de primeros auxilios; y
+
+h) Revisión del estado de limpieza interior y exterior;
+
+XV. Realizar a cada uno de los conductores, cuatrimestralmente y de forma aleatoria cuando así lo determine la Secretaría, medición de ingesta de bebidas alcohólicas y narcóticos, así como otros exámenes que permitan observar condiciones necesarias de salud para iniciar la jornada laboral y mediante el procedimiento que determine la Secretaría;
+
+XVI. Contar con servicio de auxilio vial y mecánico y el número de vehículos de reserva o las alternativas que autorice la Secretaría, para no detener la prestación del servicio en atención al parque vehicular con que cuente, en caso de siniestro, fallas técnicas o causas de fuerza mayor;
+
+XVII. Presentar anualmente la revista vehicular, en los términos y procedimientos que determine la Secretaría;
+
+XVIII. Disponer de un centro de atención para la recepción de quejas y denuncias;
+
+XIX. Asegurarse que el personal de apoyo cumpla con las disposiciones establecidas en este ordenamiento y demás normativa vigente y responder por las infracciones que cometan; y
+
+XX. Las demás que señale la normativa vigente.
+
+###### Artículo 111.
+
+Los conductores tendrán las obligaciones siguientes:
+
+I. Contar y portar la licencia vigente, así como cumplir con los requisitos y documentos necesarios para desempeñar dicha actividad;
+
+II. Tratar con amabilidad y respeto a los usuarios;
+
+III. Presentar a la Secretaría cuando así se le requiera, la bitácora de la ruta;
+
+IV. Portar el uniforme autorizado por la Secretaría;
+
+V. Portar el gafete de identificación en un lugar visible;
+
+VI. Verificar, antes de poner en marcha al vehículo, que los usuarios cuenten con su asiento o plaza propia y que ajusten su cinturón de seguridad adecuadamente;
+
+VII. Realizar los ascensos y descensos de los usuarios en sus domicilios, puntos de concentración, centros educativos, laborales y recreativos;
+
+VIII. Realizar los ascensos o descensos solamente cuando el vehículo de transporte escolar se encuentre en alto total, con el freno de mano activado, y con las luces intermitentes de advertencia encendidas; y
+
+IX. Las demás que señalen otros ordenamientos.
+
+###### Artículo 112.
+
+La Secretaría llevará a cabo anualmente la revista vehicular en la que de acuerdo al procedimiento y forma que ésta determine, se llevará a cabo la inspección documental y físico mecánica de las unidades, siendo obligatorio que se presenten los concesionarios o permisionarios de los servicios de transporte público, mercantil y privado de pasajeros y de carga, atendiendo a los principios de transparencia, simplificación administrativa, eliminación de la discrecionalidad, el combate a la corrupción.
+
+La revista vehicular, se realizará conforme al calendario que al efecto la Secretaría establezca de acuerdo con la terminación de la placa de matrícula, misma que iniciará el segundo trimestre del año.
+
+El objetivo es comprobar el cumplimiento de las disposiciones en materia documental, equipo, aditamentos, sistemas con tecnología actual y ambientalmente adecuados en bajas emisiones de contaminantes y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio.
+
+Adicionalmente, la Secretaría podrá realizar las inspecciones vehiculares en cualquier momento, a fin de garantizar la seguridad, operación, calidad, y estado físico y mecánico de las unidades.
+
+## TÍTULO SÉPTIMO. DEL CONTROL VEHICULAR
+
+### CAPÍTULO PRIMERO. DE LOS TRÁMITES DEL CONTROL VEHICULAR
+
+###### Artículo 113.
+
+La Secretaría de acuerdo a los lineamientos correspondientes para la emisión de la Tarjeta de Circulación, determinara la clasificación de los vehículos.
+
+###### Artículo 114.
+
+La Secretaría implementará los sistemas y mecanismos necesarios para el Control Vehicular y autorizará, previo cumplimiento de los requisitos establecidos, los siguientes trámites:
+
+Para el caso de vehículos de transporte particular:
+
+I. Alta de vehículos nuevos del padrón vehicular;
+
+II. Alta de vehículos usados del padrón vehicular, provenientes de las entidades federativas, así como de procedencia extranjera, previa comprobación de su legal introducción al país;
+
+III. Alta de placas de matrícula demostradoras;
+
+IV. Alta de vehículos para personas con discapacidad;
+
+V. Alta de autos antiguos;
+
+VI. Alta de bicicletas adaptadas;
+
+VII. Alta de vehículos especiales para el servicio de seguridad personal;
+
+VIII. Baja de vehículos del padrón vehicular, en sus diversas modalidades;
+
+IX. Expedición, renovación y reposición de tarjeta de circulación y/o engomado de circulación;
+
+X. Aviso de venta de vehículo de uso particular;
+
+XI. Cambio de propietario, domicilio, carrocería o motor;
+
+XII. Permiso para circular sin placas de matrícula, tarjeta de circulación y/o engomado de circulación permanente, por treinta días naturales;
+
+XIII. Permiso para traslado de vehículos;
+
+XIV. Permiso para carga ocasional;
+
+XV. Permiso para circular con vidrios polarizados u obscurecidos, o aditamentos que obstruyan la visibilidad al interior del vehículo;
+
+XVI. Expedición de permisos para conducir; y
+
+XVII. Expedición, renovación y reposición de licencias para conducir.
+
+Para el caso de vehículos del servicio de transporte de pasajeros y de carga:
+
+I. Alta de vehículos nuevos del padrón vehicular;
+
+II. Baja de vehículos del padrón vehicular;
+
+III. Expedición, renovación y reposición de tarjeta de circulación;
+
+III (SIC). Reposición de engomado de circulación permanente y de placas de matrícula; y
+
+IV. Permiso para circular sin placas de matrícula, tarjeta de circulación o engomado de circulaciónn (sic) permanente;
+
+### CAPÍTULO SEGUNDO
+
+DE LA PLACA DE MATRÍCULA Y ENGOMADO DE CIRCULACIÓN.
+
+###### Artículo 115.
+
+Las placas de matrícula de los vehículos se clasifican en:
+
+I. Servicio Particular:
+
+a) Automóviles, vagonetas y camionetas;
+
+b) Bicimotos, bicicletas adaptadas o triciclos automotores;
+
+c) Motocicletas, motonetas o tetramotos;
+
+d) Remolques o semiremolques;
+
+e) Demostradoras;
+
+f) Personas con Discapacidad;
+
+g) Autos antiguos; y
+
+h) Las demás que determine la Secretaría.
+
+II. Servicio de transporte de pasajeros público colectivo:
+
+a) Local; y
+
+b) Metropolitano.
+
+c) Corredor.
+
+III. Servicio de transporte de pasajeros público individual:
+
+a) Taxi libre;
+
+b) Taxi preferente; y
+
+c) Taxi ecológico.
+
+IV. Servicio de transporte de pasajeros público ciclotaxi:
+
+a) Ciclotaxi.
+
+V. Servicio de transporte de pasajeros mercantil y privado:
+
+a) Escolar;
+
+b) De Personal;
+
+c) Turístico; y
+
+d) Especializado en todas sus modalidades, que comprende: de traslado de valores, ambulancias, bomberos, escolares, de personal.
+
+e) Seguridad Privada.
+
+VI. Servicio de transporte de carga público:
+
+a) Carga General; y
+
+b) Grúas de arrastre o salvamento.
+
+VII. Servicio de transporte de carga mercantil y privado:
+
+a) Carga General que comprende: vehículos de traslado de valores y mensajería, grúas de arrastre o salvamento, para el servicio de una negociación o empresa; y
+
+b) Especializado que comprende: vehículos de traslado de sustancias tóxicas o peligrosas;
+
+VIII. Servicio de transporte de carga particular;
+
+IX. Las demás que determine la Secretaría.
+
+###### Artículo 116.
+
+Las dimensiones y características de las placas de matrícula de los vehículos serán las que especifique la Norma Oficial Mexicana respectiva y deberán portarse en los lugares destinados para ello conforme al diseño de los vehículos.
+
+Ningún vehículo deberá circular sin portar una o ambas placas de matrícula o el permiso provisional correspondiente; salvo los vehículos que sean dados de alta y aún no cuenten con placas de matrícula nuevas.
+
+Los remolques, semirremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas sólo requerirán de una placa de matrícula para su circulación, que se colocará en la parte posterior del mismo.
+
+###### Artículo 117.
+
+Los vehículos automotores, independientemente del tipo de placas de matrícula que porten, con excepción de los remolques, semiremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas, deben portar los engomados correspondientes de Circulación y Holograma de verificación vehicular vigente.
+
+Los engomados de vehículos de servicio particular, serán adheridas (sic) en un lugar visible en los cristales del vehículo. Tratándose de vehículos de servicio público de transporte de pasajeros o de carga en todas sus modalidades, se colocarán en la parte superior derecha del parabrisas, debiendo ser retiradas y sustituidas por otras, cuando concluya su vigencia.
+
+### CAPÍTULO TERCERO. DE LA TARJETA DE CIRCULACIÓN
+
+###### Artículo 118.
+
+La tarjeta de circulación es el documento expedido por la Secretaría, indispensable para la circulación, coincidente con la Placa de Matrícula y Engomado de Circulación, que contiene los datos específicos del propietario, así como las características del vehículo autorizado para circular.
+
+La tarjeta de circulación debe contener como mínimo los datos que se señalan a continuación, los cuales podrán variar, de conformidad con los criterios que para tales efectos establezca la Secretaría y el tipo de vehículo de transporte de que se trate:
+
+I. Nombre del propietario del vehículo;
+
+II. Registro Federal de Contribuyente;
+
+III. Las placas de matrícula, mismas que deben coincidir con la calcomanía permanente de circulación;
+
+IV. Marca, modelo, tipo y clase del vehículo, cilindros, litros, combustible;
+
+V. Procedencia del vehículo;
+
+VI. Número de motor, número de serie, clave vehicular;
+
+VII. Capacidad y uso;
+
+VIII. Fecha de su expedición, vigencia, folio de tarjeta;
+
+IX. Denominación y logotipo de la Secretaría, oficina expedidora;
+
+X. Nombre y Registro Federal de Contribuyente del operador que realice el movimiento;
+
+XI. Registro Público Vehicular;
+
+XII. Matrícula anterior, en su caso;
+
+XIII. Códigos de clasificación de los vehículos y su respectiva interpretación, impresos al reverso de la misma;
+
+XIV. La referencia de contar con vidrios polarizados u obscurecidos, o aditamentos que obstruyan la visibilidad al interior del vehículo instalados de fábrica o cuando se requieran por razones médicas, en su caso;
+
+XV. En el caso de vehículos de transporte de carga particular, la duración del permiso y su modalidad;
+
+XVI. La referencia de contar con dispositivo de geolocalización o de georeferenciación satelital radioeléctrico o de tecnología similar;
+
+XVII. Vigencia, la cual no podrá ser mayor a tres años; y
+
+XVIII.- Las demás que determine la Secretaría.
+
+El conductor del vehículo, siempre deberá portar el original de la tarjeta de circulación.
+
+###### Artículo 119.
+
+Para el otorgamiento de la tarjeta de circulación el solicitante deberá acudir personalmente o bien a través de su Representante Legal, ante la Secretaria y deberá presentar copias y originales para su cotejo de la documentación que al efecto le sea solicitada por la Secretaria.
+
+La tarjeta de circulación se entregará para uso, conservación y custodia al interesado, el mismo día en que concluya el trámite de alta de vehículo en el Control Vehicular que al efecto tiene implementado la Secretaria.
+
+A los vehículos matriculados en otras entidades federativas, el correspondiente trámite podrá tener una duración no mayor de 30 días hábiles, a partir de la fecha del inicio de éste.
+
+### CAPÍTULO CUARTO. DE LOS REQUISITOS
+
+###### Artículo 120.
+
+Para realizar trámites relacionados con control vehicular, el propietario del vehículo o su representante legal, deberá cumplir, según sea el caso, con los requisitos siguientes:
+
+Tratándose de vehículos de transporte particular, existe el siguiente cuadro de requisitos, sin menoscabo de los existentes en el catálogo trámites y servicios autorizado (sic) a la Secretaría:
+
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 37 A LA 38.]</small>
+
+El trámite previsto en la fracción IV del artículo 114 del presente Reglamento, se otorgará únicamente en los siguientes casos:
+
+a) A toda persona que presenta permanentemente una disminución en sus facultades físicas, cuyo nivel de funcionalidad les permita conducir un vehículo automotor;
+
+b) Al padre o tutor del (sic) hija o hijo discapacitado que no pueda valerse por sí mismo;
+
+c) Al hijo o hija con madre o padre discapacitado que no pueda valerse por sí mismo;
+
+d) A la esposa con esposo discapacitado que no pueda valerse por sí mismo y viceversa; y
+
+e) A toda persona que tenga la tutoría legal sobre un discapacitado que no pueda valerse por sí mismo.
+
+Además de los requisitos establecidos en el presente artículo presente Reglamento (sic), el solicitante deberá presentar los siguientes:
+
+En los supuestos de los incisos b) y c), original del acta de nacimiento del padre o tutor y de la hija o hijo, en el caso del inciso d), original del acta de matrimonio y en el caso del inciso e), copia certificada de la sentencia emitida por un juez de lo familiar.
+
+Para la renovación y reposición de la tarjeta de circulación en la modalidad de discapacidad, el solicitante deberá presentar documento expedido por el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México (DIF), en el cual se determine la subsistencia de la discapacidad.
+
+Tratándose de servicio de transporte de pasajeros público, deberá cumplir con lo siguiente, sin menoscabo de los existentes en el catálogo trámites y servicios autorizado a la Secretaría:
+
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO COLECTIVO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 38 A LA 39.]</small>
+
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 40.]</small>
+
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE REVISTA VEHICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 41.]</small>
+
+Los requisitos de las tablas que anteceden se refieren de manera enunciativa más no limitativa, en el caso de los trámites que no se encuentran en ellas determinados, podrán acudirse al Catálogo de Trámites y Servicios aprobado para la Secretaría, en donde se muestran de manera complementaria los trámites y requisitos necesarios para el control vehicular que regula la Secretaría.
+
+###### Artículo 121.
+
+Tratandose de transporte particular, el propietario del vehículo que transmita la propiedad del bien a favor de otra persona física o moral debe dar aviso a la Secretaría, mediante el formato que al efecto emita, dentro de los 15 días hábiles siguientes a la fecha de la transmisión.
+
+La solicitud señalará en forma precisa nombre, domicilio para oír y recibir notificaciones y deberá acompañarse con copia, de los siguientes documentos:
+
+I.- Identificación oficial;
+
+II.- Copia de la Factura o de la carta factura del vehículo;
+
+III.- Copia de la Tarjeta de Circulación; y
+
+IV.- Documento en el que conste la transmisión de la propiedad;
+
+Lo anterior, con objeto de que se realice la anotación de venta correspondiente en el padrón vehicular, para los efectos administrativos y fiscales correspondientes.
+
+Asimismo, el adquiriente deberá solicitar, en un término máximo de 15 días hábiles contados a partir de la transmisión de la propiedad y previo cumplimiento de los requisitos establecidos, la autorización del trámite de cambio de propietario, a fin de actualizar el Padrón Vehicular y el registro administrativo y fiscal de la Tesorería de la Ciudad de México.
+
+###### Artículo 122.
+
+La Secretaría suspenderá o negará la autorización de cualquier trámite relativo al Control Vehicular, cuando exista la presunción o se compruebe que la información proporcionada por el solicitante es falsa, o bien se hubieren empleado documentos o constancias apócrifas durante su tramitación.
+
+En los casos en que la Secretaría hubiere autorizado la realización de dichos trámites, procederá a dar de baja del Padrón Vehicular los datos del propietario del vehículo, poseedor o solicitante, así como los relativos al vehículo correspondiente.
+
+Tratándose del trámite de expedición de licencias o permisos para conducir, procederá su negativa definitiva, sin perjuicio de las sanciones que se impongan por su uso indebido y las que deriven de la denuncia que al efecto formule ante la autoridad competente.. (sic)
+
+En los casos en que la Secretaría hubiere autorizado la expedición de licencias o permisos para conducir, procederá a su cancelación definitiva y la licencia quedará en posesión de la Secretaria para su destrucción.
+
+###### Artículo 123.
+
+En los casos de robo o extravío de cualquier documento inherente al control vehicular, el propietario del vehículo solicitará ante la Secretaría su reposición, en los casos que ésta proceda, para lo cual deberá presentar además de los requisitos establecidos en el presente Reglamento: Acta Especial formulada ante el Ministerio Público o Comparecencia realizada ante el Juzgado Cívico, mediante el formato autorizado para tales efectos.
+
+En caso de robo o extravío de una sola de las placas de matrícula, el propietario del vehículo deberá devolver la placa restante y la tarjeta de circulación, a fin de proceder a la emisión de una nueva alta vehicular, en los casos que así proceda, y ésta quedará ligada al número de la placa anterior.
+
+### CAPÍTULO QUINTO. DE LA LICENCIAS PARA CONDUCIR
+
+###### Artículo 124.
+
+Para la conducción de vehículos en la Ciudad de México, se requiere licencia o permiso para conducir, vigentes, expedidos por la Secretaría; o en su caso, expedidos por las Entidades Federativas, Dependencias Federales o por autoridad de otro país, independientemente del lugar en que se haya expedido la placa de matrícula del vehículo y de conformidad con la clasificación a que se refiere el artículo 115 del presente Reglamento.
+
+La conducción de un vehículo que al efecto se realice sin contar con licencia o permiso para conducir o cuya vigencia se encuentre vencida, suspendida o cancelada, dará lugar a la imposición de las sanciones establecidas en el Reglamento de Tránsito y el presente Reglamento, así como a la remisión del vehículo al depósito vehicular correspondiente.
+
+###### Artículo 125.
+
+Los aspirantes a obtener una licencia de conducir vehículos de transporte público de pasajeros y de carga, deberán asistir al curso de capacitación de inducción y operación y aprobar la evaluación médica integral así como de conocimientos y de manejo que determine la Secretaría.
+
+La Secretaría determinará la temática, los requisitos y mecanismos para la impartición de cursos teórico prácticos, básicos o de actualización a los operarios del servicio de transporte público en todas sus modalidades individual y colectivo de pasajeros, carga y especializado.
+
+La Secretaría aprobará los procedimientos y requisitos para la emisión de la licencia, de acuerdo a las necesidades de la demanda del servicio, de la calidad, de las nuevas tecnologías industriales, administrativas, de informática y modalidades del desarrollo del transporte.
+
+###### Artículo 126.
+
+Las licencias para conducir expedidas por la Secretaría serán:
+
+I. a) Tipo A.1.- Para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, con vigencia de tres años.. (sic)
+
+b) Tipo A, para la conducción de vehículos particulares, con vigencia de tres años, ademas es válida para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, y automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas;
+
+II. Tipo B, para la conducción de vehículos de transporte público individual de pasajeros, con una vigencia de dos a tres años.
+
+La licencia Tipo B, autoriza también la conducción de los vehículos que requieren licencia Tipo A;
+
+III. Tipo C, para la conducción de vehículos de Transporte Colectivo de Pasajeros de Ruta, así como incorporados a Corredor, con una vigencia de dos y tres años y válida para conducir vagoneta, microbús, minibús y autobús.
+
+La licencia Tipo C, autoriza también la conducción de los vehículos que requieren licencia Tipo A;
+
+IV. Tipo D, para la conducción de vehículos de Transporte de Carga, con una vigencia de dos y tres años y válida para conducir vehículos de carga que excedan de 3.5 toneladas, a excepción de aquellos vehículos que proporcionan el servicio de transporte mercantil de carga.
+
+La licencia Tipo D, autoriza también la conducción de vehículos que requieren licencia Tipo A;
+
+V. Tipo E, para la conducción de Patrullas, Ambulancias, Vehículos de Bomberos, en las modalidades de Transporte Escolar, Personal, Turístico, de Transporte de Valores, de Custodia y Traslado de Internos y demás que establezca la Secretaría, con una vigencia de dos y tres años.
+
+La licencia Tipo E, autoriza también la conducción de vehículos que requieren licencia Tipo A.; y
+
+Para la expedición de las licencias tipo “C”, “D” y “E”, se requiere acreditar o contar con licencia Tipo A emitida por la Secretaría, con cuando menos 5 años de antigüedad.
+
+###### Artículo 127.
+
+Para la expedición de la licencia para conducir Tipo A, el interesado presentará la solicitud correspondiente en los formatos que al efecto emita la Secretaría, mediando declaración bajo protesta de decir verdad que los datos manifestados son correctos que está capacitado para conducir y que conoce la normatividad en materia de tránsito.
+
+La solicitud señalará en forma precisa nombre, domicilio para oír y recibir notificaciones y deberá acompañarse en original y copia, de los siguientes documentos:
+
+I. Comprobante de pago de los derechos correspondientes;
+
+II. Identificación oficial en la cual conste su identidad y mayoría de edad; y
+
+III. Comprobante de domicilio.
+
+En el caso de extranjeros, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente.
+
+###### Artículo 128.
+
+Para la expedición de las licencias de conducir Tipo “B”, “C”, “D” y “E”, el interesado presentará la solicitud correspondiente en los formatos que al efecto emita la Secretaría, mediando declaración bajo protesta de decir verdad que los datos manifestados son correctos, que está capacitado para conducir y que conoce la normatividad en materia de tránsito.
+
+La solicitud señalará en forma precisa nombre, domicilio y deberá acompañarse en original y copia, de los siguientes documentos para registro ante esta Secretaría:
+
+I. Comprobante de pago de los derechos establecidos en el Código Fiscal de la Ciudad de México vigente en el ejercicio fiscal correspondiente;
+
+II. Identificación oficial con fotografía y firma del solicitante:
+
+a) Credencial para Votar (INE);
+
+b) Pasaporte;
+
+c) Cartilla del Servicio Militar Nacional;
+
+d) Cédula Profesional;
+
+d (sic)) Licencia Tipo A.
+
+III. Comprobante de domicilio del solicitante, cuya expedición no sea mayor a tres meses:
+
+a) Recibo de agua;
+
+b) Recibo de Luz;
+
+c) Recibo de Teléfono;
+
+d) Recibo de Predial.
+
+IV. Comprobante o certificado de estudios, expedido por la SEP o Institución autorizada y debidamente sellado por la autoridad que lo emite:
+
+a) Constancia de Lecto-Escritura;
+
+b) Certificado de Primaria;
+
+c) Certificado de Secundaria;
+
+d) Certificado de Preparatoria o Bachillerato;
+
+e) Título o Cédula Profesional.
+
+Los aspirantes a expedir una licencia de conducir tipo “C”, “D” y “E tendrán que ser evaluados por Organismos Académicos, Sector Privado, Dependencias de Gobierno Locales y Federales en su caso, aceptados por esta Secretaría:
+
+V. Evaluación Médica Integral;
+
+VI. Capacitación;
+
+VII. Conocimientos y Desempeño (pericia);
+
+VIII. Se requiere acreditar o contar con licencia Tipo A emitida por la Secretaría, con cuando menos 5 años de antigüedad. Para la expedición de la licencia tipo “E” en su modalidad de transporte escolar o de personal se requiere contar, además de los requisitos anteriores, con:
+
+IX. Constancia de capacitación en Primeros Auxilios para la Licencia Tipo “E”.
+
+X. Para la expedición de la Tarjeta de Identificación para la conducción de vehículos de transporte público individual de pasajeros en ciclotaxi, se debe contar con los requisitos previstos de las fracciones I a VII del presente artículo.
+
+###### Artículo 129.
+
+Para la renovación de las licencias de conducir Tipo “C”, “D” y “E”, podrá ser a partir del mes anterior al término de su vigencia, el interesado presentará el formato de solicitud correspondiente que emite la Secretaría, manifestando bajo protesta de decir verdad que los datos proporcionados son correctos.
+
+La solicitud señalará en forma precisa nombre, domicilio y deberá acompañarse en original y copia, de los siguientes documentos para registro ante esta Secretaría:
+
+I. Comprobante de pago de los derechos establecidos en el Código Fiscal de la Ciudad de México vigente en el ejercicio fiscal correspondiente;
+
+II. Identificación oficial con fotografía y firma del solicitante:
+
+a) Credencial para Votar (INE);
+
+b) Pasaporte;
+
+c) Cartilla del Servicio Militar Nacional;
+
+d) Cédula Profesional;
+
+e) Licencia Tipo A.
+
+III. Comprobante de domicilio del solicitante, cuya expedición no sea mayor a tres meses:
+
+a) Recibo de agua;
+
+b) Recibo de Luz;
+
+c) Recibo de Teléfono;
+
+d) Recibo de Predial.
+
+Los aspirantes a renovar una licencia de conducir tipo “C”, “D” y “E tendrán que ser evaluados por Organismos Académicos, Sector Privado, Dependencias de Gobierno Locales y Federales en su caso, aceptados por esta Secretaría:
+
+V. Evaluación Médica Integral;
+
+VI. Capacitación;
+
+VII. Conocimientos y Desempeño (pericia);
+
+VIII. La Licencia Tipo “C”, “D” y “E” vencida en original a canje;
+
+Para la renovación de la licencia Tipo E en su modalidad de transporte escolar o de personal se requiere contar, además de los requisitos anteriores, con:
+
+IX. Constancia de capacitación en Primeros Auxilios para la Licencia Tipo “E”.
+
+###### Artículo 130.
+
+Para la reposición de las licencias de conducir Tipo “C”, “D” y “E”, procede, por el tiempo que falte para la expiración del documento, en los casos de mutilación, deterioro de la imagen o cuando los datos sean ilegibles, o en caso de robo o extravío, presentará el formato de solicitud correspondiente que emite la Secretaría, manifestando bajo protesta de decir verdad que los datos proporcionados son correctos.
+
+La solicitud señalará en forma precisa nombre, domicilio y deberá acompañarse en original y copia, de los siguientes documentos para registro ante esta Secretaría:
+
+I. Comprobante de pago de los derechos establecidos en el Código Fiscal de la Ciudad de México vigente en el ejercicio fiscal correspondiente;
+
+II. Identificación oficial con fotografía y firma del solicitante:
+
+a) Credencial para Votar (INE);
+
+b) Pasaporte;
+
+c) Cartilla del Servicio Militar Nacional;
+
+d) Cédula Profesional;
+
+e) Licencia Tipo “C”, “D” y “E”, en caso de que no sea por robo o extravio.
+
+III. Comprobante de domicilio del solicitante, cuya expedición no sea mayor a tres meses:
+
+a) Recibo de agua;
+
+b) Recibo de Luz;
+
+c) Recibo de Teléfono;
+
+d) Recibo de Predial.
+
+IV. Acta de robo levantada ante el Ministerio Público, o bien, en el caso de extravío, el acta levantada ante Ministerio Público o Juez Cívico.
+
+###### Artículo 131.
+
+Podrá expedirse licencia para conducir Tipo A, a las personas con discapacidad, cuando cuenten con una prótesis que garantice la conducción segura del vehículo o bien, cuando sin esta última, evidencien la adecuada y segura conducción del vehículo siempre y cuando se cumplan los requisitos establecidos con anterioridad.
+
+### CAPÍTULO SEXTO. DE LOS PERMISOS PARA CONDUCIR
+
+###### Artículo 132.
+
+Los menores de edad, mayores de 16 y menores de 18 años, pueden conducir única y exclusivamente vehículos automotores que requieran licencia Tipo A, mediante permisos temporales para conducir, expedidos por la Secretaría, conforme a los siguientes lineamientos:
+
+I. Autorizan la conducción de un vehículo en un horario comprendido entre las 06:00 y las 22:00 horas;
+
+II. Restringen la conducción de un vehículo durante manifestaciones, caravanas, procesiones, exhibiciones deportivas, competencias vehiculares de alta velocidad o “arrancones” y demás tipos de concentraciones humanas; y
+
+III. De igual forma, restringen la conducción de un vehículo de transporte público, mercantil o privado de pasajeros o de carga en cualquiera de sus modalidades.
+
+El trámite para la obtención y reposición de permiso para conducir se realizará en los Centros Autorizados por la Secretaria. La vigencia de los permisos para conducir concluirá al cumplir el conductor la mayoría de edad.
+
+###### Artículo 133.
+
+Para la expedición del permiso para conducir, se requiere la presentación de la solicitud correspondiente en los formatos que al efecto emita la Secretaría, mediando declaración bajo protesta de decir verdad que los datos manifestados por el padre, madre, tutor o quien ejerza la patria potestad, son correctos, mismos que asumirán plenamente la responsabilidad de las infracciones o delitos que en su caso se cometan.
+
+La solicitud señalará en forma precisa nombre, domicilio para oír y recibir notificaciones y deberá acompañarse en original y copia, de los siguientes documentos:
+
+I. Comprobante de pago de los derechos correspondientes;
+
+II. Identificación oficial del padre, madre, tutor o quien ejerza la patria potestad;
+
+III. Acta de nacimiento del menor;
+
+IV. Identificación del menor;
+
+V. Carta Responsiva del padre, madre, tutor o quien ejerza la patria potestad, relativa al cumplimiento del pago de los daños que con motivo de la conducción del vehículo se lleguen a ocasionar;
+
+VI. Constancia de curso de manejo impartido por un centro educativo autorizado por la Secretaría, que establezca la aptitud del menor para conducir; y
+
+VII. Comprobante de domicilio.
+
+## TÍTULO OCTAVO. DEL REGISTRO PÚBLICO DEL TRANSPORTE
+
+###### Artículo 134.
+
+Los Organismos descentralizados y empresas de participación estatal, de la Administración Pública de la Ciudad de México deben dar de alta ante la Secretaría los vehículos para circular en las vías públicas de la Ciudad de México.
+
+###### Artículo 135.
+
+A efecto de llevar el control y orden del servicio público de transporte en el Registro Público de Transporte, sobre la inscripción de los actos relacionados con la prestación de dicho servicio, constará de los siguientes apartados:
+
+I. De los titulares de las Concesiones;
+
+II. De los gravámenes a las concesiones;
+
+III. De las autorizaciones para prestar el servicio de transporte a Entidades;
+
+IV. De permisos de transporte privado, mercantil y ciclo taxis;
+
+V. De licencias y permisos de conducir;
+
+VI. De representantes legales, mandatarios y apoderados de personas morales concesionarias y permisionarios del servicio de transporte, privado y mercantil de pasajeros y de carga;
+
+VII. De personas físicas o morales que presten servicios profesionales relacionados con el transporte por motivo de subespecialidad a particulares y a la Secretaría;
+
+VIII. De vehículos matriculados en el Distrito Federal;
+
+IX. De vehículos de Transporte de Seguridad Privada;
+
+X. De vehículos de servicio privado de transporte con chofer mediante aplicaciones (apps) y plataformas informáticas;
+
+XI. De vehículos de servicio de pasajeros público individual mediante aplicaciones (apps) y plataformas informáticas;
+
+XII. De Vehículos de Transporte De Turistas;
+
+XIII. De infracciones, sanciones y delitos relacionados con el transporte;
+
+XIV. De operadores no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación;
+
+XV. De operadores por concesión de transporte público, individual, en corredores, metropolitano y colectivo de pasajeros y de carga;
+
+XVI. De operadores con autorización de la Secretaria para otorgar servicio privado de pasajeros mediante aplicaciones (apps) y plataformas informáticas; y
+
+XVII. De operadores con autorización de la Secretaria para otorgar servicio público individual de pasajeros mediante aplicaciones (apps) y plataformas informáticas, y
+
+XVIII. Las demás que sean necesarias a juicio de la Secretaría;
+
+###### Artículo 136.
+
+El procedimiento registral de forma genérica se sustenta en las siguientes acciones, independientemente de cumplir con lo establecidos (sic) por la Ley y demás disposiciones jurídicas y administrativas aplicables:
+
+I. Presentar solicitud por escrito a la Secretaría especificando la modalidad para la cual requiere registro;
+
+II. Datos de identificación del solicitante y domicilio;
+
+III. En el caso de personas morales, acreditar su existencia legal y personalidad jurídica vigente del representante legal o apoderado;
+
+IV. Proporcionar todos los datos de identificación, de la concesión, así como de los vehículos materia de registro en su caso; y
+
+V. Acreditar el pago de los derechos correspondientes.
+
+###### Artículo 137.
+
+El Registro Público del Transporte emitirá las siguientes certificaciones determinadas por la Secretaría:
+
+a) De inscripción inicial;
+
+b) De modificación o actualización, alta o baja;
+
+c) Anotación de gravamen;
+
+d) Cancelación de gravamen;
+
+e) Copias certificadas de antecedentes registrales; y
+
+f) Las demás anotaciones y certificaciones registrales necesarias para el objeto registral.
+
+###### Artículo 138.
+
+Los documentos, procesados electrónicamente por el personal que al efecto haya autorizado la Secretaría, inherentes al Registro Público del Transporte, serán parte integral mismo, y tendrán el mismo valor que los documentos presentados para actos administrativos ante esta dependencia.
+
+###### Artículo 139.
+
+En cuanto a la transmisión de derechos de la concesión de transporte público individual, ésta se inscribirá inmediatamente en el Registro Público del Transporte, previo cumplimiento de los requisitos establecidos en el artículo 143 de este Reglamento, dicho registro se efectuará sin modificar la vigencia de la concesión, preservando el antecedente registral del concesionario original, para fines históricos, además de todos aquellos actos relacionados con la transmisión de los derechos derivados de las concesiones y de las sustituciones de los vehículos afectos a las mismas.
+
+###### Artículo 140.
+
+El procedimiento registral se efectuará electrónicamente a través del sistema informático y de comunicación remota. La información almacenada en el sistema y los archivos complementarios necesarios serán utilizados para inscribir, asentar, anotar, cancelar, verificar, rectificar, validar y reponer los datos registrales, así como para expedir certificados, copias certificadas y constancias de los trámites y movimientos.
+
+Los registro (sic) que autorice el funcionario público autorizado para ello mediante firma electrónica, así como las certificaciones y constancias originales son documentos públicos y tendrán valor probatorio pleno. El mismo valor probatorio, tendrán registros que contenga la base de datos del sistema.
+
+###### Artículo 141.
+
+Los concesionarios, deben solicitar la constancia de inscripción del gravamen en el Registro Público de Transporte.
+
+###### Artículo 142.
+
+La constancia de gravamen deberá expresar los antecedentes de la concesión, además de los siguientes apartados:
+
+I. Datos de la solicitud;
+
+II. Datos del vehículo o vehículos de que se trate, en su caso;
+
+III. Titular de la Concesión o Permiso; y
+
+IV. Número de concesión.
+
+###### Artículo 143.
+
+No se expedirá la constancia a que hace referencia el artículo 147 de la Ley, cuando del estudio de la solicitud se advierta lo siguiente:
+
+I. Que el antecedente registral sea inexistente;
+
+II. Que tratándose de antecedentes registrales contenidos en expediente físico, éstos no correspondan al último asiento informático de transmisión o cesión de derechos o propiedad; o
+
+III. Que el antecedente documental o físico se encuentre extraviado o mutilado en su totalidad.
+
+###### Artículo 144.
+
+El titular o la autoridad podrán conocer mediante solicitud por escrito, la información relativa a la existencia de antecedentes registrales de una concesión, vehículo o persona física o moral a través de:
+
+I. Búsqueda de registro en el sistema; o
+
+II. Búsqueda oficial de expediente físico, documentación y/o libros que se encuentren en el Registro Público del Transporte.
+
+###### Artículo 145.
+
+Cuando en el proceso del registro, el personal de la Secretaría o del Registro Público de Transporte advierta irregularidades u omisiones en los antecedentes registrales dictará una anotación preventiva e informará por escrito a la Dirección General Jurídica de la Secretaría, los motivos y fundamentos por los cuales se dictó la mencionada anotación, instancia jurídica que determinará la resolución que corresponda.
+
+###### Artículo 146.
+
+El Registro Público del Transporte realizará las compulsas necesarias para verificar la autenticidad, legitimidad y vigencia de los documentos generadores de derecho y sus titulares, de las constancias y demás documentación que se expidan.
+
+###### Artículo 147.
+
+El Registro Público del Transporte podrá manejar toda la información relativa a su materia, únicamente para fines de consulta de conformidad a los lineamientos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y la Ley de Protección de Datos Personales para el Distrito Federal.
+
+Para afectar el contenido de la información se estará a lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal a excepción de la información confidencial, cuyas afectaciones serán resueltas por la Unidad de Transparencia de la Secretaría de Movilidad.
+
+###### Artículo 148.
+
+La cancelación total o parcial de las inscripciones o registros, sólo podrá practicarse por las siguientes:
+
+I. Por orden de Autoridad Judicial;
+
+II. Por orden de la Secretaría;
+
+III. Por extinción del motivo que generó su registro; y
+
+IV. Por extinción del acto administrativo.
+
+###### Artículo 149.
+
+En las cancelaciones relativas al Registro Público del Transporte, estas se efectuarán haciendo las anotaciones respectivas al margen de la inscripción o en el documento incorporado, así como en la base de datos correspondiente.
+
+## TÍTULO NOVENO. DEL ÓRGANO REGULADOR DE TRANSPORTE
+
+### CAPÍTULO PRIMERO. DEL ÓRGANO REGULADOR DE TRANSPORTE
+
+###### Artículo 150.
+
+El Titular del Órgano Regulador de Transporte será nombrado por el Jefe de Gobierno de la Ciudad de México a propuesta del Titular de la Secretaría y deberá reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano;
+
+II. Haber desempeñado cargos donde haya ejercido conocimientos y experiencia en materia de transporte;
+
+III. No haber sido sentenciado por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año; y,
+
+IV. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo dentro de la Secretaría, organismos descentralizados, empresas que tengan otorgadas concesiones o permisos para operar los servicios de corredores de transporte.
+
+###### Artículo 151.
+
+Para los efectos de la planeación, el desarrollo, la operación y supervisión del corredor de transporte, el Órgano Regulador establecerá las normas y procedimientos que regirán la prestación de servicios que ofrecen los corredores.
+
+### CAPÍTULO SEGUNDO. DE LA CONFORMACION (SIC) CORREDORES
+
+###### Artículo 152.
+
+Corresponde al Órgano conformar los corredores de transporte, cuya concesión para la prestación de servicio, será otorgada a las personas morales.
+
+###### Artículo 153.
+
+El servicio de corredores de transporte contará con paradas específicas para el ascenso y descenso de los usuarios en la Ruta en la que se preste el servicio autorizado por la Secretaría.
+
+###### Artículo 154.
+
+El Órgano previo análisis a la prestación de servicio de corredores dictaminará y autorizara en su caso los estudios técnicos y proyectos ingresados con el fin de conformarse como corredor, para efecto de este reglamento se deberá contemplar los requisitos referente a los estudios de factibilidad correspondiente según sea el caso, estos de manera enunciativa mas no limitativa de acuerdo a lo siguiente
+
+a) Aprobar las normas y regulaciones jurídico-administrativas para la constitución y operación de corredores de transporte.
+
+b) Aprobar el uso y explotación de espacios publicitarios y comerciales de los corredores de transporte, conforme a la normatividad especifica emitida para tal fin.
+
+c) Vigila el cumplimiento de las especificaciones, normas técnicas para el arranque de la infraestructura y servicios a prestar en los corredores de transporte.
+
+d) Aprobar la normatividad técnica que deben cumplir los vehículos que prestan el servicio de transporte de pasajeros en los corredores de transporte.
+
+e) Dirigir la revisión periódica de los vehículos utilizados en la prestación del servicio de corredores de transporte, para verificar que cumplan con las características de seguridad, comodidad, accesibilidad y sustentabilidad establecidas en las normas y técnicas correspondientes.
+
+f) Controlar la verificación periódica del estado de la infraestructura y equipamiento de los corredores de transporte, para que cumplan con los estándares de seguridad, confort y calidad especificados en las normas técnicas correspondientes.
+
+###### Artículo 155.
+
+El Órgano solicitará a través del Titular de la Secretaría, que se convoque al Comité de Evaluación y Análisis del Gabinete del Nuevo Orden Urbano, con la intención de aprobar en sesión, la publicación de la Declaratoria de Necesidad para la creación del corredor de transporte específico.
+
+###### Artículo 156.
+
+El Órgano instará la convocatoria al Comité Adjudicador de la Secretaría, para que la persona moral que cumpla con los requisitos establecidos en la Declaratoria de Necesidad, le sea adjudicada la concesión administrativa de explotación del corredor de transporte específico.
+
+###### Artículo 157.
+
+Para la planeación de los corredores de transporte público, se deberá considerar el Programa General de Desarrollo de la Ciudad de México, así como el Programa Integral de Movilidad.
+
+###### Artículo 158.
+
+La implementación de los Proyectos de los corredores de Transporte público, se determinara mediante el estudio técnico correspondiente, así como con los demás que considere necesarios la Secretaría en su caso.
+
+###### Artículo 159.
+
+Previo a la implementación de los corredores de transporte público se deberá publicar en la Gaceta Oficial de la Ciudad de México:
+
+1.- El aviso de las vialidades en las que se implementará el servicio.
+
+2.- El Estudio de la Oferta y la Demanda.
+
+3.- La Declaratoria de Necesidades.
+
+###### Artículo 160.
+
+El órgano Regulador, una vez presentado por los concesionarios interesados, el estudio técnico que sustente el Proyecto de Corredor de Transporte, deberá realizar la validación en campo de la información contenida en dicho estudio. Hecho lo anterior emitirá el dictamen correspondiente.
+
+###### Artículo 161.
+
+Se prohíbe a los usuarios del servicio público en su modalidad de corredor de transporte:
+
+I. Conducir y maniobrar los vehículos que proporcionan el servicio;
+
+II. Accionar los dispositivos de emergencia instalados sin que medie caso de emergencia justificado;
+
+III. Invadir las vías, carriles confinados, o los túneles por donde circulen los vehículos de este tipo de transporte;
+
+IV. Poner obstáculos o impedir el cierre de las puertas o tratar de abrirlas;
+
+V. Fumar, prender cerillos o encendedores dentro de los vehículos y estaciones;
+
+VI. Rebasar las líneas de seguridad marcadas en los bordes de los andenes, excepto para ascenso o descenso;
+
+VII. Arrojar objetos a las vías o al exterior por las puertas y ventanas;
+
+VIII. Sacar partes del cuerpo por las ventanas;
+
+IX. Hacer funcionar dentro de las unidades, carros y/o vagones o en las estaciones, aparatos de sonido u otros objetos sonoros, que produzcan molestias a las personas;
+
+X. Transportar materiales inflamables de fácil combustión o mal olientes que pongan en peligro la seguridad o comodidad de las personas;
+
+XI. Transportar animales, excepto los autorizados por las disposiciones jurídicas aplicables;
+
+XII. Hacer uso de las estaciones o de las unidades, carros y/o vagones cuando se encuentre notoriamente bajo el efecto de bebidas alcohólicas, estupefacientes o psicotrópicos;
+
+XIII. Ejercer el comercio ambulante, en las unidades, carros y/o vagones, andenes, estaciones, túneles, corredores, escaleras, zonas de acceso, salidas y zonas de distribución;
+
+XIV. Permanecer en las instalaciones, unidades, carros y/o vagones o estaciones fuera del horario establecido para el servicio de transportación;
+
+XV. Ingresar a las cabinas de conducción de los trenes o a las instalaciones reservadas para uso exclusivo del personal autorizado;
+
+XVI. Distribuir publicidad, fijar, adherir carteles o cualquier tipo de propaganda sin el permiso que para tal efecto expida la autoridad competente;
+
+XVII. Dañar, escribir, pintar, rayar y/o dibujar, en los cristales, paredes, vagones, corredores y demás instalaciones de Transporte Público;
+
+XVIII. Viajar en zonas exclusivas para usuarios con discapacidad, personas de la tercera edad y mujeres, cuando la persona usuaria no se encuentre dentro de esa condición específica;
+
+XIX. Obstaculizar zonas de acceso, salidas, unidades, carros y/o vagones, andenes, estaciones, túneles, corredores, escaleras y en general, todos aquellos puntos de circulación peatonal y del propio medio de transporte; y
+
+XX. Transportar objetos que puedan causar daño a las instalaciones, unidades vehiculares, carros o trenes del medio de transporte.
+
+Las infracciones a las que hace referencia el presente artículo, serán sancionadas conforme a la Ley de Cultura Cívica del Distrito Federal, sin perjuicio de lo que establezcan otros ordenamientos que resulten aplicables.
+
+###### Artículo 162.
+
+El usuario del servicio de corredor de transporte, debe realizar el pago de la tarifa en el momento en que dicho servicio inicie; en caso de cualquier avería o hecho de tránsito del vehículo que le impida llegar a su destino, el operador quedará obligado a garantizar el viaje sin costo adicional.
+
+En el servicio de corredor de transporte, el usuario podrá pagar la tarifa mediante tarjeta de prepago, en las modalidades que se cuente con dicha tecnología.
+
+###### Artículo 163.
+
+Se consideran causas justificadas para negar la prestación del servicio de Corredor de Transporte, al usuario cuando:
+
+I. Se encuentre notoriamente bajo el efecto de bebidas alcohólicas, estupefacientes o psicotrópicos;
+
+II. Porte bultos, materiales inflamables que puedan, de forma manifiesta, causar molestia o representen un riesgo para los demás usuarios o ensuciar, deteriorar o causar daños al vehículo;
+
+III. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la seguridad e integridad de los demás usuarios; o bien alteraciones evidentes de la conducta;
+
+IV. Solicitar el ascenso y/o descenso en lugares distintos a los autorizados por la Secretaría;
+
+V. Solicite transportar un número de personas y equipaje superior a la capacidad autorizada para el vehículo;
+
+VI. En general, cuando pretenda que el servicio se otorgue contraviniendo las disposiciones legales o reglamentarias.
+
+###### Artículo 164.
+
+El órgano presentará a la secretaría las solicitudes de gravamen de concesiones mismo que solo podrá realizarse con autorización previa y por escrito de la Secretaría.
+
+Los concesionarios podrán gravar sus concesiones, exclusivamente para garantizar el otorgamiento de créditos para la adquisición, sustitución, modernización, mejoramiento y desarrollo del equipo, infraestructura y equipamiento auxiliar de transporte; dicho gravamen deberá ser inscrito ante el Registro Público del Transporte bajo su costo.
+
+###### Artículo 165.
+
+Los estudios técnicos, que presenten los concesionarios o permisionarios parta (sic) la conformación de un corredor deberán contener, los requisitos señalados en el artículo 82 de este Reglamento, así como los demás que estime el Órgano.
+
+###### Artículo 166.
+
+Los corredores de transporte sólo podrán concesionarse a personas morales, por lo tanto, el Órgano en coordinación con el área de la Secretaría correspondiente, integrarán los expedientes de los concesionarios que participen en el proceso de adjudicación, en forma individual previo a conformarse como persona moral, y conforme a lo estipulado en la Declaratoria de Necesidad, los siguientes requisitos forman parte de este proceso, en forma enunciativa, pues cada Declaratoria podrá manejar requisitos adicionales a los aquí descritos:
+
+a) Original de título Concesión y/o cesión de derechos de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+b) Copia y Original para su cotejo de factura de cada vehículo de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+c) Copia y Original para su cotejo de tarjeta de circulación de cada vehículo de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+d) Copia y Original para su cotejo de comprobante de domicilio de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+e) Copia y Original para su cotejo de identificación oficial de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+f) Cinco últimas tenencias de cada vehículo de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+g) Dos últimas revistas físico mecánico y documental de cada vehículo de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
+
+### CAPÍTULO TERCERO. DE LA VIGILANCIA Y SUPERVISIÓN DE LOS CORREDORES
+
+###### Artículo 167.
+
+Previo al otorgamiento de la concesión las personas morales que presten el Servicio de manera exclusiva en un corredor de Transporte, deberán presentar:
+
+I.- Acta Constitutiva de la empresa inscrita en el Registro Público de la Propiedad;
+
+II.- Registro ante la Secretaría de Hacienda y Crédito Público;
+
+III.- Identificación Oficial del representante y de los Socios.
+
+IV.- Comprobante de domicilio Convencional y Fiscal;
+
+V.- Pago de Derechos de Representatividad.
+
+VI.- Renuncias individuales de los derechos de la concesión
+
+VII.- Expedientes para el ingreso y trámite de baja por conformación de corredor conforme a los requisitos señalado (sic) en este Reglamento
+
+VIII.- Pago de los derechos por el otorgamiento de la Concesión.
+
+IX.- Estudio Técnico y;
+
+X.- Los demás que considere la Secretaría.
+
+Atículo (sic) 168.- Son obligaciones de los concesionarios de los corredores de transporte:
+
+I. Estar constituidos en persona moral con fines de lucro;
+
+II. Cumplir con las disposiciones legales y administrativas en materia de tránsito, transporte, vialidad y medio ambiente, así como con las políticas y programas de la Secretaría;
+
+III. Proporcionar al Órgano, cuando lo requiera, todos los informes, datos y documentos necesarios para conocer y evaluar la prestación del servicio encomendado;
+
+IV. Proporcionar capacitación anual a los operadores y demás personas que tengan relación con el servicio, en los términos que establezca el Órgano y demás disposiciones jurídicas aplicables;
+
+V. Contar con póliza de seguro vigente para responder por las lesiones o los daños a los usuarios o terceros, en sus personas o bienes, que con motivo de la prestación del servicio pudieran ocasionarse, con los límites de cobertura que determine el Órgano o la Secretaría;
+
+VI. Mantener actualizados sus registros ante la Secretaría, respecto de su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con la prestación del Servicio, debiendo utilizar las formas que al efecto autorice la Secretaría y el Órgano;
+
+VII. Presentar a la Secretaría, con la periodicidad que ésta determine, el padrón de conductores, con todos los datos necesarios para su ubicación e identificación;
+
+VIII. Llevar el control de la guarda y custodia de los vehículos, documentos e infraestructura para la prestación del Servicio;
+
+IX. Cumplir con los programas de mantenimiento a los vehículos y mantener actualizadas y disponibles las correspondientes bitácoras de mantenimiento en el momento que le sean solicitados por el Órgano;
+
+X. Informar al Órgano sobre cualquier movimiento del Acta Constitutiva d ela (sic) empresa, debiendo soliciar (sic) autorización respecto de movimientos en el padrón de socios;
+
+XI. Permitir inspecciones de supervisión por parte del Órgano;
+
+XII. Realizar a cada uno de los conductores y de forma aleatoria cuando así lo determine el Órgano, medición de ingesta de bebidas alcohólicas y narcóticos, así como otros exámenes que permitan observar condiciones necesarias de salud para iniciar la jornada laboral y mediante el procedimiento que determine el Órgano mediante los lineamientos específicos;
+
+XIII. Presentar anualmente la revista verhicular (sic), en los términos y procedimientos que determine el Órgano mediante la publicación que para el efecto se sirva hacer en la Gacea (sic) Oficial de la Ciudad de México;
+
+XIV. Disponer de un centro de atención para la recepción de quejas y denuncias;
+
+XV. Las demás que señale la normativa vigente.
+
+###### Artículo 169.
+
+El Órgano integrará los expedientes de los concesionarios que se incorporaran al Proyecto autorizado de Corredor de Transporte, debiendo entregar los mismos a la Dirección General de Transporte de Ruta y Especializado para la baja administrativa de las concesiones correspondiente conforme a los siguientes requisitos:
+
+a) Original de título Concesión y/o cesión de derechos
+
+b) Copia y Original para su cotejo de factura
+
+c) Copia y Original para su cotejo de tarjeta de circulación
+
+d) Copia y Original para su cotejo de comprobante de domicilio
+
+e) Copia y Original para su cotejo de identificación oficial
+
+f) Cinco últimas tenencias
+
+g) Dos últimas revistas
+
+###### Artículo 170.
+
+El Órgano podrá requerir a los concesionarios todo tipo de documentación e información, que considere pertinente durante la vigencia de la concesión, cuantas veces lo considere necesario. El cumplimiento de dicha (sic) obligaciones deberá de realizarse en un plazo no mayor a cinco días hábiles posteriores a la solicitud documental. Incluyendo los Corredores de Transporte Público de pasajeros del Distrito Federal, Metrobús.
+
+###### Artículo 171.
+
+El Órgano Regulador emitirá su opinión para creación y conformación de sistema de corredores de transporte público de pasajeros del distrito federal, Metrobús.
+
+###### Artículo 172.
+
+Las unidades de transporte para la prestación del servicio de Corredor de Transporte deberán ser con tecnología sustentable y amigable con el medio ambiente, es decir, con bajos niveles de emisión de contaminantes con el fin de optimizar la movilidad de la Ciudad de México.
+
+###### Artículo 173.
+
+El órgano en coordinación con el Instituto de Verificación Administrativa, vigilará de manera periódica y aleatoria la operación de los servicios prestados en los corredores de transporte para garantizar que cumplan con las condiciones de equipamiento, cromática, accesibilidad, seguridad, comodidad y calidad en el servicio, así como el cumplimiento de las condiciones señaladas en el título concesión.
+
+### CAPÍTULO CUARTO. DE LAS SANCIONES
+
+###### Artículo 174.
+
+Sin perjuicio de las sanciones ya establecidas, el Órgano podrá suspender el recorrido de un corredor de transporte, cuando este cometa una conducta calificada como grave por la Secretaría, suspensión que podrá ser por un término no menor de quince días y no mayor a un año.
+
+La gravedad a que hace referencia este artículo, será en aquellos hechos de tránsito en los que por su motivo, haya pérdidas de vidas humanas.
+
+Igual sanción se aplicará al vehículo que no cuente con el sistema de Radiocomunicación de dos vías, el sistema de Posicionamiento Global y con el Centro de Control de Operaciones, en el caso de transporte de pasajeros público colectivo en la modalidad de corredor;
+
+###### Artículo 175.
+
+En los casos del artículo anterior, el Órgano deberá garantizar que la ruta del corredor de transporte, sea cubierta de manera emergente en los términos que establece la Secretaría.
+
+## TÍTULO DÉCIMO. DE LA PUBLICIDAD EN VEHÍCULOS DE TRANSPORTE
+
+###### Artículo 176.
+
+La publicidad en el transporte de pasajeros y de carga, es aquella que se encuentra en las partes interiores o exteriores de las unidades, como medio para dar a conocer un producto o servicio.
+
+###### Artículo 177.
+
+La Secretaría podrá autorizar permisos para contratar y colocar temporalmente, anuncios publicitarios en los vehículos que prestan el servicio de transporte público de pasajeros y de carga así como en ciclotaxis. El titular de la concesión o permiso y las empresas publicitarias, deberán obtener la autorización correspondiente de la Secretaría, la cual quedará sujeta a lo establecido en la Ley, la Ley de Publicidad Exterior del Distrito Federal y los Reglamentos aplicables.
+
+La publicidad en los vehículos propiedad de los organismos descritos en el artículo 78 fracciones I, II y III de la Ley, se regirán por sus Estatutos y Reglamentos correspondientes.
+
+###### Artículo 178.
+
+Para los efectos del presente capítulo se entenderá por:
+
+I. Anuncio: Cualquier medio físico, con o sin estructura de soporte, por el cual se difunde un mensaje;
+
+II. Anuncio Integral: Cuando un anuncio utilice más del 70% de la superficie del vehículo para la exhibición del mensaje.
+
+III. Diseño Preliminar: Prototipo de cómo se verá el anuncio en el vehículo.
+
+IV. Pantalla electrónica: El instrumento que transmite mensajes mediante un sistema luminoso integrado por focos, reflectores o diodos;
+
+V. Sistemas de Audio o Video: Instrumentos de transmisión y recepción de imágenes en movimiento y sonido a distancia que emplean mecanismos de difusión.
+
+###### Artículo 179.
+
+La solicitud para la portación de la publicidad deberá acompañarse de la siguiente documentación, de conformidad con el artículo 158 de la Ley:
+
+I. Original y copia del documento que ampare la propiedad del vehículo;
+
+II. Contrato de publicidad;
+
+III. Imagen específica y descripción que muestre su forma, ubicación, estructura, dimensiones, colores y demás elementos que constituyan el anuncio publicitario (Prototipo);
+
+IV. Identificación oficial;
+
+V. Tarjeta de Circulación;
+
+VI. Titulo Concesión o permiso en su caso;
+
+VII. Acta constitutiva en su caso;
+
+VIII. Cédula de identificación Fiscal;
+
+Para el Servicio de Transporte de Carga, adicionalmente es requisito obligatorio encontrarse matriculados en la Ciudad de México y presentar manifiesto bajo protesta de decir verdad mediante el cual especifiquen la carga que trasladan, misma que deberá ser acorde al objeto social en caso de ser persona moral, para persona física, deberá ser correlativo al régimen empresarial registrado ante la Secretaría de Hacienda y Crédito Público.
+
+En caso de tramitar a través de representante legal:
+
+a) Para personas físicas: poder notarial o carta poder;
+
+b) Para personas morales: acta constitutiva y poder notarial.
+
+###### Artículo 180.
+
+Específicamente para ciclotaxis, la solicitud deberá acompañarse de:
+
+I. Original y copia del documento que ampare la propiedad del ciclotaxis (sic);
+
+II. Imagen y descripción que muestre su forma, ubicación, estructura, dimensiones, colores y demás elementos que constituyan el anuncio publicitario (Diseño Preliminar);
+
+III. Identificación oficial;
+
+IV. Acta Constitutiva en su caso.
+
+En caso de tramitar a través de representante legal:
+
+a) Para personas físicas: carta poder;
+
+b) Para personas morales: acta constitutiva y poder notarial.
+
+###### Artículo 181.
+
+Las empresas publicitarias podrán solicitar una autorización global por todos los anuncios que distribuyan en los vehículos, siempre y cuando acrediten su personalidad y cumplan con todas las disposiciones de la Ley, la Ley de Publicidad Exterior del Distrito Federal y los Reglamentos aplicables.
+
+La Secretaría contará con un padrón de empresas de publicidad que se inscribirán en el Registro Público de Transporte, cuyas bases de registro, actualización y remoción, estarán contenidas en la convocatoria que emita la Secretaría.
+
+###### Artículo 182.
+
+Para obtener el permiso de portación de anuncio publicitario en transporte, los solicitantes deberán estar al corriente de sus obligaciones fiscales, ambientales y adminsitrativas (sic).
+
+Recibida la solicitud con los requisitos exigidos, la Secretaría calificará los documentos dentro de los cinco días hábiles contados a partir del día siguiente de la recepción de los mismos.
+
+En caso de que la Secretaría no resuelva dentro del plazo previsto, se configurará la negativa ficta en términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+
+###### Artículo 183.
+
+Una vez obtenida la validación previa de autorización de la Secretaría, los concesionarios y/o permisionarios deberán acreditar el pago de derechos que estipula el Código Fiscal de la Ciudad de México Vigente.
+
+###### Artículo 184.
+
+Concluida la vigencia del permiso publicitario, el anuncio deberá ser retirado y se dará aviso a la Secretaría dentro de los tres días hábiles siguientes.
+
+En el supuesto de que la imagen y descripción cambien durante la vigencia del permiso otorgado, se deberá notificar por escrito, adjuntando nuevamente el diseño preliminar que contenga su forma, ubicación, estructura, dimensiones, colores y demás elementos que constituyan el anuncio publicitario (Diseño Preliminar), mismo que deberá ser autorizado por la Secretaría en un término de 5 días hábiles.
+
+###### Artículo 185.
+
+No se requerirá obtener el permiso para portar publicidad, cuando se trate de anuncios que contengan mensajes de carácter cívico, histórico, social, cultural, deportivo, artesanal, teatral o de folklore y la actividad o evento que promocionen no persiga fines de lucro, y sean promovidos por alguna autoridad, asociación civil o institución de asistencia social.
+
+De lo anterior solo deberá darse aviso oportuno a la Secretaría respecto a la clasificación anterior.
+
+###### Artículo 186.
+
+La Secretaría determinará el tipo de autorización y las características que deba reunir la publicidad, con el fin de lograr una uniformidad para los vehículos que prestan el servicio de transporte de pasajeros público colectivo y de carga, debiéndose cuidar que en ningún caso la publicidad provoque confusión en el público usuario o en las autoridades reguladoras del servicio.
+
+La vigencia de los permisos según sus características podrá ser de tres meses, seis meses y un año.
+
+Los anuncios en vehículos del servicio de transporte deben sujetarse a lo previsto en los Lineamientos Técnicos que la Secretaría emita para tal efecto.
+
+###### Artículo 187.
+
+La Secretaría supervisará el debido cumplimiento en materia administrativa, para los efectos en materia de verificación corresponde al Instituto de Verificación Administrativa del Distrito Federal.
+
+###### Artículo 188.
+
+En ningún caso se otorgarán permisos publicitarios cuando el modelo del vehículo de que se trate tenga una antigüedad superior a los diez años contados a partir de la fecha de solicitud del permiso publicitario.
+
+###### Artículo 189.
+
+Los titulares de los permisos publicitarios tendrán las obligaciones siguientes:
+
+I. Efectuar mantenimiento necesario al anuncio y medios de fijación para garantizar su seguridad, limpieza y funcionamiento durante el tiempo en el que se encuentre instalado;
+
+II. Corresponsabilizarse de que los operadores de los vehículos en los que se exhiban los anuncios porten el original o copia certificada del permiso publicitario correspondiente;
+
+III. Informar a la Secretaría, del retiro de los anuncios en los términos establecidos en el presente Reglamento; y,
+
+IV. No exhibir permisos en vehículos que no correspondan al autorizado por el mismo.
+
+V. Las demás que determine la Secretaría.
+
+###### Artículo 190.
+
+En el servicio colectivo concesionado a que se refiere el artículo 78 fracción IV de la Ley, queda prohibida la instalación de publicidad en el exterior de los vehículos, la publicidad al interior de los mismos, será autorizada por la Secretaría.
+
+###### Artículo 191.
+
+La Secretaría podrá autorizar publicidad interior solo en los vehículos clasificados en el artículo 56 fracción I incisos b), y c), de la Ley.
+
+###### Artículo 192.
+
+La Secretaría solo podrá autorizar anuncios integrales en los vehículos señalados en el artículo 56 fracción I, inciso d), de la Ley.
+
+###### Artículo 193.
+
+La Secretaría solo podrá autorizar anuncios aplicables en los laterales que armonicen con la cromática en los vehículos señalados en el artículo 56 fracción I, inciso d), de la Ley.
+
+###### Artículo 194.
+
+Está prohibido en materia de anuncios publicitarios:
+
+I. Los anuncios en accesorios sobre toldos de autobuses, minibuses y vagonetas.
+
+II. Instalar anuncios que oculten los números de identificación, logotipos o grafismos de la ruta de transporte de la unidad vehicular;
+
+III. Instalar anuncios que invadan las ventanillas, medallón transparente, el parabrisas y la concha interior, en los dispositivos de iluminación y reflejantes, los marcos de la ventanería, rosaderas, vueltas de salpicaderas, defensas, molduras, caras laterales de llantas, rines y vidrios de puertas de ascenso.
+
+IV. Los anuncios en el interior de los vehículos que consideren el uso de toldos, y posteriores o vestiduras de asientos; con excepción de los sistemas de pantallas electrónicas y monitores de audio y/o video;
+
+V. Instalar o dar mantenimiento a anuncios en vehículos en la vía pública, paraderos o sitios; e,
+
+VI. Instalar anuncios con movimiento al interior o exterior de los vehículos.
+
+VII. Las demás que determine la Secretaría.
+
+###### Artículo 195.
+
+La Secretaría podrá revocar los permisos publicitarios que se encuentren en los supuestos siguientes:
+
+I. Cuando los datos proporcionados por el solicitante resulten falsos;
+
+II. Cuando el funcionario que los hubiese otorgado carezca de competencia para ello. En este caso, se procederá conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal;
+
+III. Si el anuncio se fija o se coloca en sitio distinto al autorizado en el permiso;
+
+IV. El incumplimiento por parte del permisionario de cualquiera de las obligaciones que se establezcan en el presente Reglamento;
+
+V. Enajenar en cualquier forma los derechos en ellos conferidos;
+
+VI. No cubrir las indemnizaciones por daños causados a los peatones, conductores y terceros, en su persona y/o propiedades; y
+
+VII. Las contenidas en el presente Reglamento y demás disposiciones aplicables.
+
+## TÍTULO DÉCIMO PRIMERO. DE LAS TARIFAS DEL TRANSPORTE PÚBLICO
+
+###### Artículo 196.
+
+La tarifa aplicable para el servicio (sic) transporte público de pasajeros, podrá ser:
+
+I. Diferencial.- Es el costo que se paga por la prestación del servicio en función de la distancia recorrida por el usuario a lo largo de un itinerario, o bien por las características, clase o tipo de servicio;
+
+II. Promocional.- Implica una disminución en el precio establecido del servicio, con el propósito de permitir que los usuarios se habitúen a un nuevo servicio de transporte;
+
+III. Especial.- Es el costo que se cubre por la prestación del servicio, autorizado por eventos de fuerza mayor;
+
+IV. Única o Plana.- Es el costo que se paga por la prestación del servicio, independientemente de la distancia recorrida por el usuario;
+
+V. Preferencial.- Es el costo que se cubre por la prestación del servicio que realizan los usuarios que será autorizado tomando en cuenta las condiciones particulares de grupos específicos de la población;
+
+VI. Extraordinaria.- Es el costo que el usuario paga por la prestación del servicio, que por su tecnología, calidad y operación es superior respecto de los demás servicios;
+
+VII. Nocturna.- Para el transporte público de pasajeros, a partir de las 23:00 horas y hasta las 5:59 horas del día siguiente se podrá cobrar un veinte por ciento adicional de las tarifas vigentes; y
+
+VIII. Convencional.- Es el costo que los usuarios pagan por los servicios de transporte escolar, de personal y de carga, y que pactan libremente con los prestadores del servicio.
+
+Pueden autorizarse tarifas diferenciales dentro de una misma modalidad de servicio, conforme a la calidad y propiedades del mismo.
+
+Para el caso de los vehículos clasificados en el artículo 56 fracción I incisos c) de la Ley, la tarifa de cobro dependerá de la modalidad del servicio que preste el operador, en el caso específico de las modalidades del servicio de sitio y radio taxi están obligados a realizar el cobro de la modalidad de libre cuando no realicen el servicio en los sitios autorizados o solicitados al mismo.
+
+En el caso de las unidades vehiculares que utilicen aplicaciones (apps) y plataformas informáticas, no podrán ser diferentes a las tarifas establecidas a las del servicio público individual de pasajeros.
+
+###### Artículo 197.
+
+Las tarifas serán revisadas durante el tercer trimestre de cada año, tomando en cuenta las necesidades de la Ciudad de México.
+
+La Secretaría podrá proponer las tarifas al Jefe de Gobierno de la Ciudad de México, en una fecha distinta a la indicada, por causas extraordinarias, de interés público o de fuerza mayor.
+
+###### Artículo 198.
+
+En el cuarto trimestre de cada año, el Jefe de Gobierno emitirá resolución sobre la determinación del incremento o no de las tarifas.
+
+Las tarifas y sus modificaciones deben ser publicadas en la Gaceta Oficial de la Ciudad de México y en dos de los periódicos de mayor circulación, cuando menos con cinco días de anticipación a su entrada en vigor, para conocimiento de los usuarios. En el caso de incremento o ajuste tarifario de los servicios de transporte público de pasajeros que prestan los organismos descentralizados o empresas de participación estatal de la Ciudad de México.
+
+Las tarifas autorizadas por el Jefe de Gobierno son de cumplimiento obligatorio, cualquier alteración de éstas es causal de cancelación de la concesión o permiso.
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA INFRAESTRUCTURA PARA LA MOVILIDAD
+
+### CAPÍTULO PRIMERO. DE LA INCORPORACIÓN DE INFRAESTRUCTURA, SERVICIOS Y ELEMENTOS A LA VIALIDAD
+
+###### Artículo 199.
+
+El presente título tiene por objeto normar el diseño de la infraestructura vial y las características de los servicios y usos que se realizan en la vía, de conformidad con los criterios establecidos en el artículo 170 de la Ley. Para tal efecto la Secretaría establecerá en los programas, normas, manuales y lineamientos, los mecanismos necesarios que permitan la incorporación de elementos inherentes o incorporados a la vialidad, de acuerdo a la prioridad establecida en el artículo 171 del mismo ordenamiento.
+
+###### Artículo 200.
+
+La construcción, instalación, operación, mantenimiento y retiro de elementos inherentes o incorporados a la vialidad se debe realizar con la participación coordinada de diversas dependencias y organismos de la administración pública.
+
+Las autorizaciones para la incorporación de infraestructura, servicios o elementos a la vialidad, se otorgarán a las personas físicas o morales; dependencias, instituciones y entidades de la Administración Pública. Para ello cada órgano político administrativo contará con un registro delegacional de infraestructura, servicios y elementos incorporados a la vialidad.
+
+La Secretaría en conjunto con la Agencia establecerá los parámetros con que debe contar este registro y desarrollarán la plataforma necesaria para que de forma semestral las Delegaciones puedan entregar las actualizaciones al inventario.
+
+###### Artículo 201.
+
+Las autorizaciones que se otorguen a personas físicas o morales para la incorporación de infraestructura, servicios o elementos a la vialidad, se otorgarán (sic) que reúnan los siguientes requisitos:
+
+I. Presentar solicitud por escrito a la Delegación, especificando las características, de la infraestructura, servicio o elemento. Se debe describir su funcionamiento, dimensiones y demás detalles que permitan determinar a la autoridad el impacto que tendrá en las vías;
+
+II. En caso de las personas morales, acreditar su existencia legal y la personalidad jurídica vigente del representante o apoderado;
+
+III. Presentar fotografías, diagramas o fichas técnicas, según corresponda, indicando su naturaleza y la finalidad de la incorporación a la vía. Es necesario acreditar que existe una utilidad pública, que su incorporación resuelve una necesidad para los servicios de transporte, o facilita una actividad privada que no puede ser realizada dentro de los inmuebles;
+
+IV. Exhibir un croquis de localización del lugar exacto en el que se pretende ubicar la infraestructura, servicio o elemento, mencionando el número de elementos similares incorporados por el solicitante en la demarcación territorial de que se trate;
+
+V. En caso de que los elementos a incorporar se encuentren en vías primarias, afecten la circulación peatonal o vehicular en cualquier vía o contengan dispositivos para el control del tránsito debe presentarse un dictamen de autorización por parte de la Secretaría;
+
+VI. Acreditar el pago de los derechos correspondientes establecidos en el Código Fiscal; y
+
+VII. Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables.
+
+###### Artículo 202.
+
+Satisfechos los requisitos estipulados en el artículo anterior y siempre y cuando se cumpla con lo establecido en el artículo 173 de la Ley, la Delegación contará con plazo no mayor de treinta días hábiles para resolver en definitiva sobre la procedencia del otorgamiento de la autorización.
+
+En el documento de autorización se estipularán los requisitos que debe cumplir el interesado para su construcción o instalación, mantenimiento y retiro. En el caso de servicios se establecerá el horario de funcionamiento y demás obligaciones que eviten afectaciones a la operación de las vías.
+
+La Delegación tiene la obligación de verificar que los trabajos de construcción o instalación se realizaron de acuerdo a lo estipulado en la autorización, en cuyo caso procederá a otorgar la constancia de inscripción en el registro delegacional de infraestructura, servicios y elementos incorporados a la vialidad
+
+###### Artículo 203.
+
+Las autorizaciones que otorgue la Delegación tendrán una vigencia de un año y se podrán refrendar, siempre y cuando subsistan las condiciones bajo las cuales fueron otorgadas y el interesado exhiba la constancia de inscripción en el registro delegacional y el pago de derechos correspondientes dentro de los diez días hábiles previos a la conclusión del periodo de autorización.
+
+La falta de presentación de la constancia del pago de derechos por concepto de refrendo, implicará la extinción automática de la autorización, sin necesidad de resolución alguna.
+
+###### Artículo 204.
+
+Si existiere algún inconveniente legal o material para el refrendo de la autorización, la Delegación deberá hacerlo del conocimiento del interesado dentro de los quince días hábiles anteriores a su vencimiento. Si transcurrido dicho plazo la Delegación no ha realizado observación o notificación alguna y fue exhibido el comprobante de pago en los términos señalados, se entenderá que el refrendo es favorable sin necesidad de certificación.
+
+###### Artículo 205.
+
+Se consideran causas de extinción de las autorizaciones, las siguientes:
+
+I. Vencimiento del término o del refrendo, si dentro de los diez días hábiles previos a la conclusión de la vigencia, no se presenta el pago respectivo;
+
+II. Renuncia del titular;
+
+III. Desaparición de su finalidad, del bien u objeto de la autorización o modificación de las condiciones bajo las cuales fue otorgado;
+
+IV. Revocación;
+
+V. Las que se especifiquen en el documento que materialice la autorización; y
+
+VI. Las señaladas en las disposiciones jurídicas y administrativas aplicables.
+
+###### Artículo 206.
+
+Son causas de revocación de las autorizaciones:
+
+I. El incumplimiento por parte del titular de la autorización, de cualquiera de las obligaciones que se establezcan en el mismo;
+
+II. Enajenar de cualquier forma los derechos en ellos conferidos, sin la aprobación previa y por escrito de la Delegación;
+
+III. No cubrir las indemnizaciones por daños causados a terceros, con motivo del elemento que ampare la autorización;
+
+IV. Cuando se exhiba documentación apócrifa o se proporcionen informes o datos falsos a la Delegación; y
+
+V. Cuando el titular se haya hecho acreedor a dos sanciones en un periodo de un año, por incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en la autorización o en las disposiciones jurídicas y administrativas aplicables.
+
+###### Artículo 207.
+
+Cuando se actualice la extinción de la autorización por alguno de los supuestos previstos en la Ley y este ordenamiento, la Delegación otorgará por escrito al interesado, un plazo de entre diez y treinta días, de acuerdo con las circunstancias del caso, para el retiro de los elementos respectivos. En aquellos casos en que la preservación de los elementos, ocasione daños a terceros, represente algún peligro para la población, impida la prestación de servicios públicos u obstaculice el uso de la vía, el retiro deberá realizarse en el término que señale la Delegación.
+
+Habiendo transcurrido el plazo otorgado no se realice el retiro, independientemente de la sanción procedente, lo llevará a cabo la Delegación a costa del titular de la autorización.
+
+Los elementos se pondrán a resguardo por parte de la Delegación y en caso de que no sean recuperados por el particular en un plazo de ciento ochenta días, pasarán a propiedad del erario del Distrito Federal
+
+###### Artículo 208.
+
+En el caso de dependencias, instituciones y entidades de la Administración Pública que requieran incorporar infraestructura, servicios o elementos a la vialidad, las Delegaciones les otorgarán una constancia de inscripción en el registro una vez cubiertos los siguientes requisitos:
+
+I. Presentar solicitud por escrito a la Delegación, especificando las características, de la infraestructura, servicio o elemento. Se debe describir su funcionamiento, dimensiones y demás detalles que permitan determinar el impacto que tendrá en las vías;
+
+II. Presentar fotografías, diagramas o fichas técnicas, según corresponda, indicando su naturaleza y la finalidad de la incorporación a la vía. Es necesario acreditar que existe una utilidad pública o que su incorporación resuelve una necesidad para los servicios de transporte;
+
+III. Exhibir un croquis de localización del lugar exacto en el que se pretende ubicar la infraestructura, servicio o elemento, mencionando el número de elementos similares incorporados por el solicitante en la demarcación territorial de que se trate;
+
+IV. En caso de que los elementos a incorporar se encuentren en vías primarias, afecten la circulación peatonal o vehicular en cualquier vía o contengan dispositivos para el control del tránsito debe presentarse un dictamen de autorización por parte de la Secretaría; y
+
+V. Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables.
+
+###### Artículo 209.
+
+Si transcurridos diez días posteriores a la presentación de la solicitud la Delegación no expide la constancia, se tendrá por inscrito el aviso en el registro con el acuse de recibo.
+
+###### Artículo 210.
+
+Cuando se requiera el mantenimiento, preservación o retiro de infraestructura, servicios y elementos incorporados a la vialidad construidas o instaladas por dependencias, instituciones y entidades de la Administración Pública, las Delegaciones realizarán la notificación para que realicen los trabajos correspondientes. En caso de no obtener una respuesta favorable en un lapso de diez días, se dará aviso a la Agencia para que dé el seguimiento a la solicitud y coordine la ejecución de dichos trabajos.
+
+### CAPÍTULO SEGUNDO. DE LA CLASIFICACIÓN DE LA RED VIAL
+
+###### Artículo 211.
+
+La Comisión de Clasificación de Vialidades asignará la jerarquía y categoría de las vías de circulación. Para ello, expedirá las reglas de operación y funcionamiento y podrá crear subcomisiones en cada Delegación.
+
+Los acuerdos que tome la Comisión para la asignación o modificación de la jerarquía o categoría de las vías serán sometidos a la Secretaría para su revisión, y una vez aprobados serán obligatorios para las autoridades de la Administración Pública, previa publicación en la Gaceta Oficial e inscripción en el registro de los planos de alineamientos y derechos de vía; previo a la publicación y registro, dicha jerarquía o categoría de las vías deberá contar con la opinión de la Secretaría del Medio Ambiente en lo que refiere a infraestructura y vias ciclistas.
+
+### CAPÍTULO TERCERO. DE LOS ESTUDIOS Y PROYECTOS VIALES
+
+###### Artículo 212.
+
+Al realizar trabajos en la vía pública para la ejecución de estudios o proyectos viales, se debe contar con la autorización por parte de la Secretaría o Delegaciones. El documento que respalde los trabajos debe ser mostrado cuando sea requerido por la autoridad competente.
+
+El personal deberá portar identificación y contar con el equipo de protección necesario.
+
+###### Artículo 213.
+
+Para efectos de lo dispuesto por el artículo 183 de la Ley, el Manual de Diseño Vial se elaborará conforme a las Normas Oficiales Mexicanas, Normas de Construcción y contemplará mínimamente lo siguiente:
+
+I. Criterios para la planificación y diseño de las vías urbanas y suburbanas;
+
+II. Especificaciones para el trazo geométrico y diseño de intersecciones de acuerdo a criterios de seguridad vial, accesibilidad universal;
+
+III. Criterios para la infraestructura de circulación peatonal, ciclistas y para el transporte público;
+
+IV. Técnicas de pacificación del tránsito; y
+
+V. Especificaciones para el proyecto de áreas de estacionamiento.
+
+La Secretaría actualizará de ser necesario y publicará anualmente el manual de referencia.
+
+###### Artículo 214.
+
+El Manual de Dispositivos para el Control del Tránsito como mínimo contendrá, según lo dispone el artículo 185 de la Ley:
+
+I. Criterios para el desarrollo de proyectos de la señalización vial y nomenclatura en vías urbanas y suburbanas, así como en las vías de circulación vehicular dentro de áreas de transferencia de transporte y áreas de estacionamiento;
+
+II. Criterios para el desarrollo de sistemas de orientación peatonal y ciclista;
+
+III. Normas para fabricación, instalación y colocación del señalamiento vertical, horizontal y dispositivos diversos;
+
+IV. Criterios para asegurar la correcta protección de las áreas de obras y eventos;
+
+V. Regulación para la instalación de semáforos y los parámetros de operación de dichos dispositivos; y
+
+VI. Especificaciones de sistemas inteligentes de transporte y criterios de funcionamiento del Centro de Gestión de Movilidad.
+
+Adicionalmente a lo dispuesto en este manual se deberá atender a lo establecido en las normas técnicas y normas oficiales mexicanas y normas ambientales del Distrito Federal, con objeto de que los dispositivos sean uniformes, de fácil identificación y visibles a los usuarios; siempre respetando el código de señales que opera en el país.
+
+###### Artículo 215.
+
+Todo trabajo de construcción o mantenimiento que se realice afectando las aceras y la superficie de rodadura, sobre todo aquellas realizadas por usuarios públicos y privados del subsuelo, están obligados a:
+
+I. Contar con los dispositivos para desvío y protección de obra indicados en el Manual de Dispositivos para el Control del Tránsito;
+
+II. Cuando se realicen trabajos en las aceras que obstruyan la circulación peatonal, deben generar senderos sobre el arroyo vial debidamente protegidos, señalizados y con dispositivos de accesibilidad de acuerdo a lo establecido en la normatividad vigente;
+
+III. En obras sobre vías ciclistas exclusivas que obstruyan la circulación ciclista, se deben incorporar un carril paralelo debidamente protegido y señalizado de acuerdo a lo establecido en la normatividad;
+
+IV. Contar con una lona informativa con los datos generales de la obra, cuando las afectaciones a la vía sean por un lapso mayor a un mes;
+
+V. Todo el personal que realice trabajos en la vía pública deberá portar el equipo individual de protección descrito en el Manual de Dispositivos para el Control del Tránsito;
+
+VI. Cuando en el entorno de una obra existan cruces con una gran afluencia peatonal o se presente de forma constante la entrada y salida de vehículos o maquinaria de construcción se debe contar con personal que dirija el tránsito o se colocarán semáforos portátiles. Los bandereros deberán contar con la debida capacitación y portar en todo momento los dispositivos y equipo de protección requerido por la norma;
+
+VII. En los horarios en que no haya personal laborando, las zanjas deben estar debidamente señalizadas y protegidas. En el caso de zanjas de dimensiones menores a un metro de ancho deben estar cubiertas por cubrezanjas; y
+
+VIII. Acreditar la obtención de los permisos y licencias de las autoridades competentes; y
+
+IX. En todos los casos, es necesario restituir a su estado original las áreas de circulación peatonal y vehicular afectadas. La autoridad competente aplicará las sanciones establecidas en el reglamento por el deterioro de las áreas de circulación.
+
+###### Artículo 216.
+
+La Secretaría determinará los procesos para la certificación de los equipos de los sistemas inteligentes de transporte. La Secretaría de Seguridad Pública es responsable de supervisar que los equipos instalados en la vialidad operen de acuerdo a la normatividad establecida por la Secretaría y reportar fallas en su operación al Centro de Gestión de Movilidad.
+
+Las señales de mensaje variable no podrán contener:
+
+I. Marcas comerciales, publicidad o anuncios institucionales u otro elemento gráfico diferente al especificado en el Manual de Dispositivos para el Control del Tránsito; y
+
+II. Mensajes destellantes que deslumbren, impidan o limiten la visibilidad o distraigan a los conductores. Cuando no existan situaciones inusuales en la vía, las señales de mensaje variable deben permanecer apagadas.
+
+###### Artículo 217.
+
+La Secretaría deberá notificar a la Agencia sobre los proyectos de construcción en la red vial que autorice, para efecto de que la Agencia lleve a cabo la programación de obra en la vía pública.
+
+Se deberá notificar a la Secretaría y a la Agencia sobre obras de mantenimiento, y se deberán seguir los lineamientos técnicos correspondientes establecidos por la Secretaría.
+
+### CAPÍTULO CUARTO. DE LAS ÁREAS DE TRANSFERENCIA PARA EL TRANSPORTE
+
+###### Artículo 218.
+
+El Manual de Diseño y Operación de las Áreas de Transferencia para el Transporte como mínimo contendrá:
+
+I. Criterios para la planificación y dimensionamiento de nuevas áreas de transferencia y la reconversión de las existentes;
+
+II. Definición de las características físicas de las áreas de circulación peatonal y vehicular, áreas de maniobra y espera que se encuentren en las áreas de transferencia;
+
+III. Especificaciones técnicas de la infraestructura y servicios complementarios en los diversos tipos de áreas de transferencia;
+
+IV. Definición de la arquitectura institucional responsable de la administración de las áreas de transferencia;
+
+V. Esquemas de operación y funcionamiento que deben aplicar los administradores y los prestadores de los servicios de transporte en las diversas áreas de transferencia; y
+
+VI. Criterios para la nomenclatura e identificación gráfica de las áreas de transferencia, así como para la ejecución de proyectos que permitan contar con sistemas de orientación e información al usuario.
+
+De forma suplementaria a este ordenamiento se observarán las normas oficiales mexicanas y manuales nacionales aplicables en la materia y la reglamentación de construcción y mobiliario urbano de la Ciudad de México.
+
+###### Artículo 219.
+
+Las áreas de transferencia para el transporte público y su equipamiento auxiliar requieren permiso o autorización de la Secretaría para su construcción o instalación.
+
+La administración, explotación y supervisión de las áreas de transferencia para el transporte corresponde a la Administración Pública la cual podrá otorgar la construcción y explotación de estos equipamientos a través de concesiones, permisos o esquemas de coinversión o de financiamiento.
+
+La Secretaría en coordinación con las Secretarías de Obras y Servicios y Desarrollo Urbano y Vivienda, así como con la Oficialía Mayor, determinará los mecanismos para que los prestadores del servicio público de transporte realicen el pago de derechos por la utilización de las áreas de transferencia para el transporte de acuerdo a lo dispuesto en el Código Fiscal del Distrito Federal.
+
+## TÍTULO DÉCIMO TERCERO
+
+DE LAS MANIFESTACIONES PÚBLICAS.
+
+###### Artículo 220.
+
+Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social, cuya finalidad sea perfectamente licita y que pueda perturbar el tránsito en las vías, la paz y tranquilidad de la población de la ciudad, es necesario que se dé aviso por escrito a la Secretaría de Seguridad Pública, con por lo menos 48 horas de anticipación a la realización de la misma.
+
+El escrito que se presente ante la Secretaria de Seguridad Pública para que ésta pueda prestar las facilidades necesarias para las manifestaciones públicas en términos del artículo 212 de la Ley, deberá contener lo siguiente:
+
+I. Nombre completo de la persona física o moral que organiza el desfile, caravana, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social;
+
+II. Nombre del desfile, caravana, manifestación, peregrinación o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social;
+
+III. Fecha, horas de inicio y conclusión del desfile, caravana, manifestación, peregrinación o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social;
+
+IV. Lugar y en su caso ruta del desfile, caravana, manifestación, peregrinación o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social;
+
+V. Número estimado de asistentes del desfile, caravana, manifestación, peregrinación o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social; y
+
+VI. Número y tipo de vehículos que se utilizarán en el desfile, caravana, manifestación, peregrinación o cualquier otro tipo de concentración humana.
+
+## TÍTULO DÉCIMO CUARTO. DEL CENTRO DE GESTIÓN DE LA MOVILIDAD
+
+###### Artículo 221.
+
+El Centro de Gestión de la Movilidad, es un órgano integrado por la Secretaría de Movilidad, la Secretaria de Seguridad Pública, la Secretaria de Desarrollo Urbano, la Secretaria de Medio Ambiente, la Secretaría de Obras y Servicios, el Instituto de Verificación Administrativa, así como las entidades y los organismos de la Administración Pública que prestan el servicio de transporte de pasajeros y el Sistema de Corredores de Transporte Público de Pasajeros del Distrito Federal, Metrobús; será presidido por el Secretario de Movilidad, y participarán en su integración los servidores públicos que sean debidamente acreditados por los Titulares de las dependencias, entidades y organismos referidos.
+
+###### Artículo 222.
+
+El Centro de Gestión de la Movilidad tendrá las atribuciones siguientes:
+
+I. Emitir sus Reglas de Operación;
+
+II. Realizar estudios y modelos sobre la circulación peatonal y vehicular en las diferentes vías, analizando aspectos de infraestructura y puntos críticos para la movilidad.
+
+III. Vigilar el comportamiento de la vialidad, que permitan detectar puntos críticos en materia de seguridad vial y gestionar la coordinación interinstitucional para su adecuada atención.
+
+IV. Concentrar y mantener actualizada la información derivada de los sistemas de inteligencia y monitoreo vial, con el fin de proporcionar orientación al público sobre aspectos viales, de hechos de tránsito, contingencias ambientales, evaluación y simulación de eventos masivos en materia de emisiones y demás aspectos relacionados con la movilidad y la seguridad vial.
+
+V. Coordinar las actividades de monitoreo de las vías en la zona metropolitana de la Ciudad de México, en lo relacionado con el tránsito y traslado de personas y vehículos, y proponer a las dependencias y organismos responsables involucrados en la materia de movilidad, opciones que lo faciliten y agilicen.
+
+VI. Coadyuvar con el personal de diferentes instituciones públicas y privadas, en caso de emergencias, hechos de tránsito, auxilio a la población, tránsito, entre otras;
+
+VII. Establecer mecanismos de coordinación y distribución de información entre las dependencias de la Administración Pública Local y otros centros de gestión de sistemas de transporte o vías de los datos, estadísticas, diagnósticos, resultados y demás información que genere el Centro, a efecto de dotarlas de elementos para la oportuna toma de decisiones, y una correcta planeación de programas de movilidad;
+
+VIII. Generar reportes e informes sobre la condición de operación de las principales vías y de los servicios de transporte público masivo en la Ciudad de México, con objeto de que los ciudadanos puedan tomar de forma oportuna decisiones acerca de las rutas y modo de transporte a utilizar para sus desplazamientos.
+
+IX. Las demás que determinen otros ordenamientos.
+
+## TÍTULO DÉCIMO QUINTO. DE LA CULTURA DE LA MOVILIDAD
+
+### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS DEL TRANSPORTE PUBLICO DE PASAJEROS
+
+###### Artículo 223.
+
+Para garantizar el derecho a la movilidad, la Secretaría deberá vigilar que el servicio público de transporte de pasajeros y de carga en todas sus modalidades, se proporcione garantizando seguridad, accesibilidad, calidad, comodidad, higiene, eficiencia y eficacia.
+
+###### Artículo 224.
+
+Queda prohibido fumar en el interior de las unidades del servicio de transporte de pasajeros en todas sus modalidades.
+
+###### Artículo 225.
+
+Los usuarios no pueden exigir al conductor su ascenso o descenso fuera de los lugares establecidos dentro de la ruta para ese efecto.
+
+###### Artículo 226.
+
+El usuario del servicio de transporte público de pasajeros, debe realizar el pago de la tarifa en el momento en que dicho servicio inicie; en caso de cualquier avería o hecho de tránsito del vehículo que le impida llegar a su destino, el operador quedará obligado a garantizar su traslado o devolver el importe pagado del viaje.
+
+En el servicio de transporte individual de pasajeros taxi, el usuario debe realizar el pago al término de su viaje. Cuando por cualquier causa no sea posible concluir el viaje, el usuario pagará la parte proporcional al tramo de viaje realizado, descontando el monto del banderazo inicial.
+
+En el servicio de transporte de carga, los usuarios pueden convenir libremente con los prestadores del servicio las tarifas y formas de pago.
+
+En el servicio colectivo concesionado el usuario podrá pagar la tarifa mediante tarjeta de prepago.
+
+La correcta aplicación de la tarifa autorizada, será verificada de manera permanente por la Secretaría, a través de la instancia correspondiente.
+
+###### Artículo 227.
+
+Son causas justificadas para negar al usuario la prestación del servicio de transporte público de pasajeros, cuando:
+
+I. Se encuentre notoriamente bajo el efecto de bebidas alcohólicas, estupefacientes o psicotrópicos;
+
+II. Porte bultos, materiales inflamables o animales que puedan, de forma manifiesta, causar molestia o representen un riesgo para los demás usuarios o ensuciar, deteriorar o causar daños al vehículo, con excepción de perros de asistencia;
+
+III. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la seguridad e integridad de los demás usuarios; o bien alteraciones evidentes de la conducta;
+
+IV. De manera evidente se perciban alteraciones de la conducta que puedan poner en riesgo la seguridad de los demás usuarios;
+
+V. Solicite el servicio en lugares distintos a los autorizados por la Secretaríaa (sic);
+
+VI. Se solicite transportar un número de personas y equipaje superior a la capacidad autorizada para el vehículo;
+
+VII. El medio de transporte se encuentre dando servicio a su máxima capacidad y el ascenso de más pasajeros, propicie un posible accidente.
+
+VIII. En general, cuando pretenda que el servicio se otorgue contraviniendo las disposiciones legales o reglamentarias.
+
+###### Artículo 228.
+
+El servicio se podrá interrumpir cuando el usuario exija conducirse por vialidad intransitable o bien represente notorio peligro para el usuario o el conductor; o se contravengan las disposiciones en materia de tránsito.
+
+###### Artículo 229.
+
+Los usuarios del Sistema de Transporte Colectivo, “Metro”, del Servicio de Transportes Eléctricos y de los Corredores de Transporte deben circular en las estaciones y las zonas de acceso o salida destinadas para el efecto y en el sentido que se encuentre señalado para tales fines y en su caso las medidas específicas complementarias para atender necesidades especiales.
+
+###### Artículo 230.
+
+Se prohíbe a los usuarios del servicio público de transporte masivo de pasajeros:
+
+I. Maniobrar los vehículos en cualquier instalación del sistema;
+
+II. Accionar los dispositivos instalados, con excepción de los destinados al uso de los pasajeros;
+
+III. Invadir cualquier área que no esté destinada al transporte de los usuarios, y en particular, las vías, carriles confinados, o los túneles por donde circulen los vehículos de este tipo de transporte;
+
+IV. Poner obstáculos al cierre de las puertas o tratar de abrirlas;
+
+V. Fumar, prender cerillos o encendedores dentro de las estaciones;
+
+VI. Rebasar las líneas de seguridad marcadas en los bordes de los andenes, excepto para ascenso o descenso;
+
+VII. Arrojar objetos a las vías o al exterior por las puertas y ventanas;
+
+VIII. Sacar partes del cuerpo por las ventanas;
+
+IX. Hacer funcionar dentro de las unidades, carros y/o vagones, o en las estaciones, aparatos de sonido u otros objetos o dispositivitos sonoros;
+
+X. Transportar materiales inflamables de fácil combustión o mal olientes que pongan en peligro la seguridad o comodidad de las personas;
+
+XI. Transportar bolsas grandes o maletas que estorben el movimiento o causen molestias a los demás pasajeros;
+
+XII. Transportar animales, excepto animales de asistencia o de servicio (perros guía);
+
+XIII. Hacer uso de las estaciones o de las unidades, carros y/o vagones cuando se encuentre en estado de intoxicación por alcohol o por cualquier otra sustancia tóxica;
+
+XIV. Ejercer el comercio ambulante, en las unidades, carros y/o vagones, andenes, estaciones, túneles, corredores, escaleras, zonas de acceso, salidas y zonas de distribución y zonas de acceso y salida de las estaciones en un polígono de 25 metros;
+
+XV. Permanecer en las instalaciones, unidades, carros y/o vagones o estaciones fuera del horario establecido para el servicio de transportación, o cuando así lo indique el personal operativo competente;
+
+XVI. Ingresar a las cabinas de conducción de los trenes o a las instalaciones reservadas para uso exclusivo del personal autorizado;
+
+XVII. Distribuir publicidad, fijar, adherir carteles o cualquier tipo de propaganda sin el permiso que para tal efecto expida la autoridad competente;
+
+XVIII. Dañar, graffitear, escribir, pintar, rayar y/o dibujar, en los cristales, paredes, vagones, corredores y demás instalaciones de Transporte Público;
+
+XIX. Viajar en zonas exclusivas para usuarios con discapacidad, personas adultas mayores y mujeres, cuando la persona usuaria no se encuentre dentro de esa condición específica, en el Sistema de Transporte Colectivo "Metro", viajar en los vagones exclusivos para mujeres y niños menores de 12 años y/o ocupar los asientos reservados para personas con discapacidad adultos mayores, mujeres embarazadas o con menor en brazos;
+
+XX. Obstaculizar zonas de acceso, salidas, unidades, carros y/o vagones, andenes, estaciones, túneles, corredores, escaleras y en general, todos aquellos puntos de circulación peatonal y del propio medio de transporte;
+
+XXI. Transportar objetos que puedan causar daño a las instalaciones, carros o trenes del medio de transporte.
+
+Las infracciones a las que hace referencia el presente artículo, serán sancionadas conforme a los ordenamientos que resulten aplicables.
+
+###### Artículo 231.
+
+Los ruptores y alarmas de urgencia y seguridad como extinguidores de incendio y teléfonos de emergencia instalados en Estaciones, Centros de Transferencia Modal, andenes, trenes, unidades y vehículos de transporte público en general, sólo pueden ser operados por los usuarios en caso de emergencia tales como incendio, accidente corporal grave, y ataques contra la seguridad de las personas y sus bienes.
+
+###### Artículo 232.
+
+Las niñas y los niños menores de siete años sólo podrán hacer uso del transporte público de pasajeros cuando estén acompañados por persona mayor que se responsabilice de su seguridad.
+
+###### Artículo 233.
+
+Las personas con discapacidad así como los adultos mayores, tienen derecho a que se les otorguen exenciones y tarifas preferenciales en el transporte público que otorga la Administración Pública de la Ciudad de México, previa identificación vigente expedida por instituciones que acrediten tal carácter, conforme a los Acuerdos y Decretos que en su caso se publiquen en la Gaceta Oficial de la Ciudad de México.
+
+En el caso de los concesionarios y permisionarios, pueden suscribir acuerdos especiales para garantizar los derechos de exenciones y tarifas preferenciales anteriores.
+
+Los beneficios que en cualquiera de los modos de transporte se otorgue a las personas con discapacidad y/o con movilidad limitada y personas adultas mayores, no serán extensivos a sus familiares o acompañantes.
+
+Las personas discapacidad que se desplacen acompañados de animales de asistencia (perros guías), tendrán acceso con éstos a todos los servicios de transporte de pasajeros.
+
+###### Artículo 234.
+
+En el caso de transporte de carga se negará al usuario o contratante la prestación del servicio, cuando se solicite embarcar materiales que pongan en riesgo la seguridad o que el prestador desconozca la naturaleza de la carga.
+
+### CAPÍTULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 235.
+
+Las infracciones cometidas a la Ley y el presente Reglamento, por los titulares de concesiones, permisos o autorizaciones, sus representantes, operadores, conductores, empleados o personas relacionadas directamente con la prestación del servicio de transporte en cualquiera de sus modalidades, y/o con la incorporación de elementos a la vialidad, se sancionarán por la Secretaría, o bien, por el Instituto, en los casos que así proceda.
+
+###### Artículo 236.
+
+La imposición de multas será sin perjuicio de la responsabilidad civil, penal, o administrativa en que incurran los concesionarios y permisionarios del servicio de transporte y sin perjuicio de su propia responsabilidad conforme a otras disposiciones legales.
+
+Los concesionarios y permisionarios del servicio de transporte son solidariamente responsables del pago de las multas de tránsito impuestas a sus operadores y/o conductores.
+
+###### Artículo 237.
+
+Los titulares de concesiones, permisos o autorizaciones, sus representantes, operadores, conductores, empleados o personas relacionadas directamente con la prestación del servicio de transporte en cualquiera de sus modalidades, que infrinjan el presente Reglamento, además de las sanciones señaladas en la Ley, se sancionarán conforme a lo siguiente:
+
+I. Suspensión para proporcionar el Servicio, de 15 a 45 días a la Ruta o Corredor de Transporte Público Colectivo Concesionado de Pasajeros cuando cualquiera de las concesiones y/o unidades vehiculares se vean involucradas en un siniestro y en cuyo acto se ponga en riesgo o tenga como consecuencia la pérdida de vida de una o más personas;
+
+II. Multa de doscientas cincuenta a cuatrocientas veces la Unidad de Cuenta de la Ciudad de México vigente y la remisión de la unidad al depósito vehicular correspondiente a quien preste u oferte el servicio privado de transporte con chofer, con independencia del tipo de vehiculo de que se trate, con o sin motor, sin contar con la constancia de registro expedida por la Secretaría.
+
+III. Remisión a los depósitos vehiculares administrados por la Secretaría, de los vehículos de transporte de pasajeros o de carga cuando con motivo de las visitas de inspección o verificación así se determine.
+
+### CAPÍTULO TERCERO. DE LOS DEPÓSITOS VEHICULARES
+
+###### Artículo 238.
+
+La Secretaría supervisará el funcionamiento de los depósitos vehiculares administrados por ésta y custodiará los vehículos en carácter de depositario sin responsabilidad patrimonial alguna.
+
+###### Artículo 239.
+
+Para la liberación del vehículo, deberá mediar previa determinación y notificación de autoridad competente, acreditar la propiedad del vehículo, el pago de derechos por concepto de almacenaje del vehículo (en los términos que estipula el artículo 231 del Código Fiscal de la Ciudad de México vigente a la fecha de liberación del vehículo), así como el cumplimiento de los requisitos que para el efecto la Secretaría establezca de acuerdo con la modalidad y tipo de transporte.
+
+En el supuesto de existir determinación de autoridad competente, se realizará el trámite de liberación de la unidad vehicular sin acreditar el pago de derechos de almacenaje por cualquier tipo de vehículo, sin responsabilidad fiscal o administrativa para la Secretaría.
+
+###### Artículo 240.
+
+La Secretaría no será responsable de los daños y perjuicios derivados del tiempo, casos fortuitos, condiciones climatológicas y fauna nociva durante el tiempo que dure la custodia en el carácter de depositario.
+
+### CAPÍTULO CUARTO. DEL RECONOCIMIENTO AL TRANSPORTE PÚBLICO DE LA CIUDAD DE MÉXICO
+
+###### Artículo 241.
+
+Las condiciones y requisitos para incentivar, reconocer y distinguir anualmente y de manera pública a los concesionarios referidos en el artículo 234 de la Ley, serán establecidos en los lineamientos que la Secretaría elaborará para regular su otorgamiento.
+
+###### Artículo 242.
+
+La Secretaría emitirá los lineamientos a que haya lugar para el otorgamiento de estímulos y reconocimientos a las empresas a las que se refiere el artículo 235 de la Ley.
+
+### CAPÍTULO QUINTO
+
+DE LAS ORGANIZACIONES DE LOS SERVICIOS DE TRANSPORTE.
+
+###### Artículo 243.
+
+Las organizaciones de concesionarios y permisionarios, cualquiera que sea la forma legal que adopten, deberán registrarse ante la Secretaría y cumplir con las disposiciones de la Ley, el presente Reglamento y las demás que establezca la Administración Pública local o federal.
+
+Los concesionarios o permisionarios podrán acudir ante la Secretaría personalmente o a través de la organización a la que pertenezcan para llevar a cabo las gestiones y trámites correspondientes.
+
+###### Artículo 244.
+
+Los concesionarios y permisionarios que se asocien para constituir empresas de ransporte (sic), deberán además de las obligaciones previstas en la Ley, cumplir con las normas y lineamientos que al efecto establezca la Secretaría.
+
+### CAPÍTULO SEXTO. DE LOS CURSOS Y CLASES DE MANEJO
+
+###### Artículo 245.
+
+Las personas físicas o morales que pretendan dedicarse a impartir cursos y clases de manejo deberán cumplir con los requisitos establecidos en el artículo 239 de la Ley y además cumplir con lo siguiente:
+
+I. Presentar por escrito ante la Secretaria, el contenido y alcances de los cursos de manejo de que habrán de impartir, con el objeto de que sean aprobados por la misma.
+
+II. Acreditar fehacientemente que los capacitadores cuenten con los conocimientos necesarios para impartir cursos de manejo
+
+III. Contar con el parque vehicular suficiente y adecuado para impartir los cursos en mención.
+
+Una vez cumplidos todos y cada uno de los requisitos, la Secretaria otorgará el permiso y registro correspondiente.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Transporte del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 30 de Diciembre de 2003 y el Reglamento para el Control Vehicular y de Licencias y Permisos para Conducir en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 17 de septiembre de 2007.
+
+CUARTO. En el caso de las concesiones administrativas, de transporte de pasajeros público colectivo de ruta, cuya vigencia haya fenecido y no se haya solicitado oportunamente la prórroga, la Secretaría emitirá los lineamientos específicos en coordinación con las áreas de la Administración Pública que correspondan, para su renovación en términos de la necesidad del servicio, pero por vigencia extraordinaria que irán desde uno a dos años.
+
+QUINTO. La Secretaría publicará los lineamientos específicos que detallen el funcionamiento y operación de las cámaras de seguridad y sistema de localización satelital, que deberán incluirse en el trasnporte (sic) público, en términos del artículo 110 de a (sic) Ley.
+
+SEXTO. El Servicio de Transporte de Pasajeros Privado Especializado con Chofer, es el mismo que se encuentra regulado en el acuerdo publicado en la Gaceta Oficial del Distrito Federal del 15 de julio de 2015, que señala: “Acuerdo por el que se crea el Registro de Personas Morales que Operen y/o Administren Aplicaciones y Plataformas Informáticas para el Control, Programación y/o Geolocalización en Dispositivos Fijos o Móviles, a través de las cuales los Particulares pueden Contratar el Servicio Privado de Transporte con Chofer en el Distrito Federal”.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables
+
+Dado en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los quince días del mes de septiembre del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
