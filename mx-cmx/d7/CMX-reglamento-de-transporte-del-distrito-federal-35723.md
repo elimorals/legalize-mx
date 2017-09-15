@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transporte-del-distrito-federal-35723"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2012-05-03"
+last_updated: "2017-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35723&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2003-12-19"
 ---
 # REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL, PUBLICADO EN EL G.O. DE 15 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -1543,3 +1545,21 @@ G.O. 3 DE MAYO DE 2012.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Transporte del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 30 de Diciembre de 2003 y el Reglamento para el Control Vehicular y de Licencias y Permisos para Conducir en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 17 de septiembre de 2007.
+
+CUARTO. En el caso de las concesiones administrativas, de transporte de pasajeros público colectivo de ruta, cuya vigencia haya fenecido y no se haya solicitado oportunamente la prórroga, la Secretaría emitirá los lineamientos específicos en coordinación con las áreas de la Administración Pública que correspondan, para su renovación en términos de la necesidad del servicio, pero por vigencia extraordinaria que irán desde uno a dos años.
+
+QUINTO. La Secretaría publicará los lineamientos específicos que detallen el funcionamiento y operación de las cámaras de seguridad y sistema de localización satelital, que deberán incluirse en el trasnporte (sic) público, en términos del artículo 110 de a (sic) Ley.
+
+SEXTO. El Servicio de Transporte de Pasajeros Privado Especializado con Chofer, es el mismo que se encuentra regulado en el acuerdo publicado en la Gaceta Oficial del Distrito Federal del 15 de julio de 2015, que señala: "Acuerdo por el que se crea el Registro de Personas Morales que Operen y/o Administren Aplicaciones y Plataformas Informáticas para el Control, Programación y/o Geolocalización en Dispositivos Fijos o Móviles, a través de las cuales los Particulares pueden Contratar el Servicio Privado de Transporte con Chofer en el Distrito Federal".
+
+SÉPTIMO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables
