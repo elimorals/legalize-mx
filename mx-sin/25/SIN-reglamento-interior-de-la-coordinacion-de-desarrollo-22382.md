@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-coordinacion-de-desarrollo-22382"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-24"
-last_updated: "2001-09-24"
+last_updated: "2017-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION DE DESARROLLO TECNOLOGICO
 
-REGLAMENTO INTERIOR DE LA COORDINACION DE DESARROLLO TECNOLOGICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INNOVACIÓN, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COORDINACIÓN DE DESARROLLO TECNOLÓGICO DEL ESTADO DE SINALOA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 24 de septiembre de 2001.
 
@@ -430,3 +432,21 @@ Gonzalo M. Armienta Calderón
 El Coordinador de Desarrollo Tecnológico
 
 José de Jesús Gálvez Cázares
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE INNOVACIÓN”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan las disposiciones del Reglamento Interior de la Secretaría de la Contraloría y Desarrollo Administrativo, de fecha 23 de noviembre de 2009, publicado en el Periódico Oficial “El Estado de Sinaloa”, número 003, el día 6 de Enero de 2010, relativas a la materia de desarrollo administrativo.
+
+Artículo Tercero.- Se abroga el Reglamento Interior de la Coordinación de Desarrollo Tecnológico, de fecha 10 de septiembre de 2001, publicado en el Periódico Oficial "El Estado de Sinaloa", número No. 115, Primera Sección, del día 24 de Septiembre de 2001.
+
+Artículo Cuarto.- Al entrar en vigor el presente Reglamento se derogan los capítulos IV y VI, denominados "DE LA COORDINACIÓN DE ESTRATEGIA DIGITAL" y "DE LA COORDINACIÓN DE PROYECTOS ESPECIALES Y RELACIONES INTERNACIONALES" con sus respectivos artículos, así como la fracción XXXII del artículo 30, todos del Reglamento Orgánico de la Administración Pública del Estado de Sinaloa.
+
+Artículo Quinto.- Se derogan todas las disposiciones contenidas en otros ordenamientos expedidos en el ámbito de la Administración Pública, que se opongan al presente Reglamento.
+
+Artículo Sexto.- La Secretaría formulará dentro de un plazo de sesenta días, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público.
