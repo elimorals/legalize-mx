@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-general-de-gobierno-del-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-01"
-last_updated: "2012-06-01"
+last_updated: "2017-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 49, FRACCIÓN XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, 3 Y 10 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 NOVENO.- Que de acuerdo a lo dispuesto en los artículos 49 fracción XVI, de la Constitución Política del Estado Libre y Soberano de Baja California y, 3 de la Ley Orgánica de la Administración Pública del Estado de Baja California y, en atención a lo dispuesto en los considerandos anteriores, el Gobernador del Estado está facultado para dictar los reglamentos necesarios, como es el caso que nos ocupa; por lo que se expide el siguiente:
 
@@ -41,21 +43,29 @@ REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 El presente reglamento tiene por objeto regular la estructura orgánica y funcional de la Secretaría General de Gobierno, como dependencia del Poder Ejecutivo del Estado, a la que le compete el despacho de los asuntos a que se refiere la Constitución Política del Estado Libre y Soberano de Baja California, la Ley Orgánica de la Administración Pública del Estado de Baja California, y demás atribuciones que le otorguen otras leyes, decretos, reglamentos, acuerdos y demás disposiciones vigentes en el Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-Para el estudio y planeación de los asuntos y el desempeño de las atribuciones que le competen, la Secretaría General de Gobierno, contará con las siguientes unidades administrativas:
+Para el estudio y planeación de los asuntos, así como para el desempeño de las atribuciones que le competen, la Secretaría General de Gobierno, contará con las siguientes unidades administrativas:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
 I. Oficina del Titular.
 
 A) Secretaría Particular.
 
-B) Dirección de Protección Civil.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+B) Coordinación de Protección Civil del Estado.
 
 C) Dirección de Administración.
 
 C 1) Departamento de Servicios Administrativos.
 
-II. Subsecretaría de Gobierno.
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+II. Subsecretaría de Gobierno
 
 A) Dirección de Gobierno.
 
@@ -70,6 +80,14 @@ D) Dirección de Enlace y Seguimiento.
 E) Dirección de Gestión y Atención a Grupos Sociales.
 
 F) Dirección de Análisis e Información.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+G) Dirección de Atención al Migrante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+H) Unidad Estatal de Asuntos Agrarios y Tenencia de la Tierra.
 
 III. Subsecretaría Jurídica.
 
@@ -111,6 +129,10 @@ VII. Subsecretaría de Gobierno Ensenada.
 
 A) Delegación San Quintín.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Coordinación Operativa del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California.
+
 ###### ARTÍCULO 3.
 
 Para los efectos de este Reglamento se entiende por:
@@ -138,6 +160,8 @@ Las unidades administrativas de la Secretaría, contarán con los servidores pú
 ###### ARTÍCULO 5.
 
 La representación, trámite y resolución de los asuntos de la competencia de la Secretaría corresponde al Secretario, el cual tendrá las atribuciones, facultades y obligaciones que le confieran la Constitución Política del Estado Libre y Soberano de Baja California, la Ley Orgánica de la Administración Pública del Estado de Baja California, y demás disposiciones aplicables, quien para su mejor distribución y desarrollo del trabajo, podrá delegar sus facultades a servidores públicos subalternos, sin perjuicio de su ejercicio directo, salvo aquellas que por disposición de ley, tengan el carácter de no delegables, mediante los acuerdos correspondientes que deberán ser publicados en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
@@ -211,13 +235,19 @@ XXXIII. Suscribir previo acuerdo del Gobernador del Estado, en el ámbito las ma
 
 XXXIV. Participar y coordinar las acciones relacionadas con los asuntos fronterizos; vigilar o coadyuvar en su ejecución y seguimiento por parte de las demás Dependencias y Entidades competentes. Promover la celebración de los convenios necesarios con las autoridades federales competentes para atender esta materia;
 
-XXXV. Las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XXXV. Realizar las acciones pertinentes a fin de impulsar políticas públicas, en beneficio de la población migrante que se encuentre en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XXXVI. Las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-Se adscriben directamente a la Oficina del Titular, la Secretaría Particular, la Subsecretaría de Gobierno, la Subsecretaría Jurídica del Estado, la Subsecretaría de Gobierno para Asuntos Legislativos, la Subsecretaría de Enlace para Asuntos de Justicia, las Subsecretarías de Gobierno ubicadas en los municipios de Tijuana y Ensenada, la Dirección de Protección Civil, y la Dirección de Administración.
-
-Los titulares de estas áreas serán nombrados y removidos libremente por el Secretario, salvo aquellos que corresponda a otra autoridad.
+Se adscriben directamente a la Oficina del Titular, la Secretaría Particular, la Subsecretaría de Gobierno, la Subsecretaría Jurídica, la Subsecretaría de Gobierno para Asuntos Legislativos, la Subsecretaría de Enlace para Asuntos de Justicia, las Subsecretarías de Gobierno ubicadas en los municipios de Tijuana y Ensenada, la Coordinación de Protección Civil del Estado, y la Dirección de Administración.
 
 ###### ARTÍCULO 8.
 
@@ -247,39 +277,81 @@ VIII. Convocar y organizar reuniones de trabajo que el Secretario establezca con
 
 IX. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde a la Dirección de Protección Civil, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde a la Coordinación de Protección Civil del Estado, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
 I. Coordinar conjuntamente con las dependencias y entidades de los tres órdenes de gobierno en el Estado, actividades que se relacionen con la protección civil;
 
-II. Fomentar las acciones de prevención contra fenómenos de carácter geológico, hidrometereológico (sic), químico, sanitario y socio-organizativo, de conformidad con los dispuesto por la Ley de Protección Civil del Estado de Baja California;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
-III. Promover anteproyectos de ley o de reformas, decretos, acuerdos o normas técnicas, cuya materia corresponda a su competencia, y presentarlos al Ejecutivo del Estado a través de la Secretaría;
+II. Fomentar las acciones de preparación ante la amenaza de algún fenómeno perturbador de conformidad con lo dispuesto en la Ley de Protección Civil del Estado de Baja California;
 
-IV. Participar coordinadamente con las dependencias federales, estatales y municipales, así como con los organismos del sector privado y social, en la prevención de desastres, así como en la aplicación y distribución de ayuda que se reciba en caso de riesgo, siniestro, desastre y eventualidad grave;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
-V. Solicitar a los organismos estatales o empresas del sector privado y social que presten a la población servicios estratégicos, su habilitación en el menor tiempo posible;
+III. Promover anteproyectos de ley, reglamento, decretos, acuerdos o normas técnicas, así como sus reformas, cuya materia corresponda a su competencia, y presentarlos al Ejecutivo del Estado por conducto de la Secretaría;
 
-VI. Participar en la integración de un catálogo de recursos humanos, tecnológicos y materiales que deban ser rápidamente movilizados en caso de emergencia;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Mantener permanentemente actualizado el directorio nacional, estatal, municipal, de organismos públicos y privados nacionales e internacionales, que tengan por objeto la atención de la protección ciudadana en caso de emergencia;
+IV. Participar coordinadamente con las dependencias federales, estatales y municipales, así como con los organismos del sector privado y social, en la prevención, preparación, atención a emergencias y reducción del riesgo de desastres conforme a lo establecido en la Ley de Protección Civil del Estado de Baja California;
 
-VIII. Coordinar y vigilar que se otorguen los apoyos necesarios para la capacitación y adiestramiento requerido por el personal operativo de los distintos ayuntamientos de la entidad;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+V. Solicitar a los organismos estatales o empresas del sector privado y social que presten a la población servicios estratégicos, contar con un plan de continuidad de operaciones para su habilitación en el menor tiempo posible en casos de emergencia;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Participar en la integración de un catálogo de recursos humanos y materiales de las dependencias y entidades de los tres órdenes de gobierno y del sector social y privado, necesarios de movilizar en caso de desastre;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Integrar y mantener actualizado un directorio telefónico de los funcionarios de los tres órdenes de gobierno, sector social y privado, relacionados con la materia de protección civil;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Coordinar y gestionar que se otorgue capacitación y adiestramiento para el personal operativo de los distintos ayuntamientos en la entidad, así como el otorgar la capacitación y/o asesoría a dependencias del gobierno estatal y federal;
 
 IX. Participar en la elaboración del anteproyecto de presupuesto anual para el concepto de servicios personales;
 
 X. Integrar y operar un organismo estatal de capacitación especializada para personal de organismos oficiales, organismos privados, y de grupos voluntarios, involucrados en la atención de emergencias y protección civil;
 
-XI. En el ámbito de su competencia, practicar las inspecciones y verificaciones técnicas a edificaciones e instalaciones, a fin de vigilar el cumplimiento de las disposiciones legales aplicables e identificar los riesgos que puedan afectar a un amplio sector de la población, así como dictar las medidas de seguridad necesarias e imponer las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Promover la integración de unidades internas de protección civil en entidades públicas estatales y federales, y de manera supletoria en las municipales;
+XI. En el ámbito de su competencia, practicar verificaciones técnicas y/o análisis de riesgos a edificaciones e instalaciones, conforme a las solicitudes por parte de dependencias y organismos de gobierno, a fin de vigilar el cumplimiento de las disposiciones legales aplicables e identificar los riesgos que puedan efectuar un amplio sector de la población, conforme a lo establecido en la normatividad de protección civil del Estado;
 
-XIII. Establecer los protocolos para la operación de un Sistema Estatal de Comunicaciones de Emergencia; y,
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Las demás que les sean encomendadas por el Secretario y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+XII. Promover la integración de los programas internos de protección civil en las entidades públicas estatales;
 
-La Dirección de Protección Civil contará con los servidores públicos que se consideren necesarios para el desempeño de la Dirección y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que les instruya el titular de la unidad administrativa.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Difundir la cultura de la protección civil en los distintos sectores de la población, conforme a lo establecido en la Ley de Protección Civil del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Establecer un Sistema Estatal de Comunicaciones de Emergencia y definir los mecanismos de su operación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Efectuar las recomendaciones pertinentes ante las autoridades estatales o municipales en materia de protección civil sobre la realización de obras e infraestructura necesaria para reducir la vulnerabilidad a la población que así lo requiera debido a la exposición a los diferentes fenómenos perturbadores reconocidos por la Ley de Protección Civil del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Integrar y administrar un Comité Estatal para la Atención a emergencias y protección civil, conforme a lo establecido por la Ley de Protección Civil del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Dirigir el Centro de Operaciones de Emergencias del Estado de Baja California; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Las demás que sean encomendadas por el Secretario y aquellas que les confieran las leyes, reglamentos y demás disposiciones legales.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+La Coordinación de Protección Civil del Estado, contará con los servidores públicos que se consideren necesarios para el desempeño de la coordinación y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que le instruya el titular de la unidad administrativa.
 
 ###### ARTÍCULO 11.
 
@@ -523,9 +595,11 @@ XII. Coordinar el seguimiento y evaluación de los planes y programas de la Secr
 
 XIII. Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-Se adscriben a la Subsecretaría de Gobierno las Direcciones de Gobierno, de Desarrollo Político, de Asuntos Religiosos, de Enlace y Seguimiento, de Gestión y Atención a Grupos Sociales, de Análisis e Información.
+Se adscriben a la Subsecretaria de Gobierno, las Direcciones de Gobierno, Desarrollo Político, de 1 (sic) Asuntos Religiosos, de Enlace y Seguimiento, de Gestión y Atención a Grupos Sociales, de Análisis de Información, de Atención al Migrante y la Unidad Estatal de Asuntos Agrarios y Tenencia de la Tierra.
 
 ###### ARTÍCULO 24.
 
@@ -693,7 +767,73 @@ VIII. Las demás que les sean encomendadas por el superior inmediato, y aquellas
 
 La Dirección de Análisis e Información contará con los servidores públicos que se consideren necesarios para el desempeño de la Dirección y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que se les instruya el titular de la unidad administrativa.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 31 BIS.- Corresponde a la Dirección de Atención al Migrante, el ejercicio de las atribuciones siguientes:
+
+I.- Formular, promover, implementar y evaluar las políticas públicas para los migrantes a fin de garantizar su desarrollo humano con dignidad, particularmente de aquellos en condición de vulnerabilidad;
+
+II.- Elaborar el programa de actividades, en el que se deba incluir las políticas públicas, servicios tendientes al cumplimiento de sus objetivos;
+
+III.- Promover la investigación académica con las diversas instituciones educativas públicas y privadas, a fin, de incentivar el estudio de políticas públicas en la materia;
+
+IV.- Proponer la suscripción de convenios, acuerdos, contratos, así como de cualquier otro instrumento ante autoridades estatales, federales y municipales, organismos constitucionales autónomos, organizaciones de la sociedad civil legalmente constituidas, organismos internacionales, así como con instituciones y empresas de los sectores públicos y privados;
+
+V.- Impulsar acciones de coordinación con las dependencias y entidades de la administración pública federal; estatal, municipal, tendientes a mejorar las condiciones de los migrantes;
+
+VI.- Coordinar acciones con las diversas dependencias y entidades de la administración pública federal, estatal y municipal, para el intercambio de información, así como para propiciar la protección y el desarrollo económico de los migrantes;
+
+VII.- Difundir, entre los migrantes los programas y acciones que les permitan incorporarse a sus comunidades de origen;
+
+VIII.- Impulsar programas orientados a crear conciencia en la sociedad y en las instituciones respecto de los migrantes que se encuentren en el Estado;
+
+IX.- Impulsar la elaboración de carteles, trípticos, folletos, spots, campañas y otros instrumentos de difusión, para dar a conocer los programas, servicios, y demás información de interés general con que cuente;
+
+X.- Impulsar ante las instituciones públicas y la sociedad civil, la cooperación técnica y financiera, las acciones humanitarias, de asistencia y protección; así como el diseño y ejecución de proyectos y acciones que vinculen y beneficien a los migrantes;
+
+XI.- Asesorar a las dependencias estatales y municipales que lo soliciten, en el diseño e instrumentación de políticas, programas, proyectos y acciones, orientados a apoyar a los migrantes;
+
+XII.- Coadyuvar con las instancias federales en la asistencia y orientación de los migrantes, a petición de parte, y en su caso, antes (sic) las autoridades extranjeras, para la defensa de sus derechos humanos, así como en otras acciones que se requieran para la atención y protección de migrantes;
+
+XIII.- Determinar el contenido de los formatos con que deberán contar las autoridades estatales y municipales que operen programas en beneficio de la población migrante, para obtener la información que deberá incluirse en el Registro Estatal de Migrantes;
+
+XIV.- Elaborar los instrumentos pertinentes a fin de reconocer el mérito y altruismo de las personas físicas o morales, que participen en los programas de atención a migrantes; y
+
+XV.- Las demás que le sean encomendadas por el superior inmediato y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+La Dirección de Atención al Migrante contará con los servidores públicos que se consideren necesarios para el desempeño de la Dirección y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que le instruya el titular de la unidad administrativa.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 31 TER.- Corresponde a la Unidad Estatal de Asuntos Agrarios y Tenencia de la Tierra, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I.- Analizar la problemática en la tenencia de la tierra e implementar acciones para fomentar su resolución;
+
+II.- Coordinar y mantener relación permanente con las dependencias de los tres órdenes de gobierno que tengan por objeto la atención a la problemática agraria y tenencia de la tierra;
+
+III.- Participar en actos y reuniones con dependencias en los tres órdenes de gobierno para plantear y dar seguimiento a temas relacionados con la tenencia de la tierra;
+
+IV.- Dar seguimiento a las gestorías que promuevan ante la Secretaría, los ejidos, comunidades agrarias, colonias y en general toda petición ciudadana en esa materia y dar respuesta que en su caso corresponda;
+
+V.- Participar en la mediación y resolución de conflictos de carácter agrario e irregularidad en la tenencia de la tierra, que requieran la intervención de la Secretaría;
+
+VI.- Elaborar y someter para aprobación del Secretario, los dictámenes jurídicos que soliciten las dependencias del ámbito estatal, así como canalizar y dar seguimiento a aquellas que sean de carácter federal;
+
+VII.- Dar seguimiento a expedientes de anteproyectos de decreto (sic) de expropiación y ocupación temporal de inmuebles agrarios, por causa de utilidad pública a favor de (sic) Gobierno del Estado;
+
+VIII.- Desarrollar los proyectos, programas y acciones correspondientes a la política del Estado en materia de Asuntos Agrarios y Tenencia de la Tierra;
+
+IX.- Proponer la suscripción de convenios, acuerdos, contratos, así como de cualquier otro instrumento ante autoridades estatales, federales y municipales, organismos constitucionales autónomos, organizaciones de la sociedad civil legalmente constituidas, organismos internacionales, así como con instituciones y empresas de los sectores públicos y privados;
+
+X.- Impulsar acciones de coordinación con las dependencias y entidades de la administración pública federal; estatal, municipal, en materia de Asuntos Agrarios y Tenencia de la Tierra; y
+
+XI.- Las demás que le sean encomendadas por el superior inmediato y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+La Unidad Estatal de Asuntos Agrarios y Tenencia de la Tierra contará con los servidores públicos que se consideren necesarios para el desempeño de la unidad y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que le instruya el titular de la unidad administrativa.
+
 #### SECCIÓN II. DE LA SUBSECRETARÍA JURÍDICA
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
@@ -739,7 +879,17 @@ XIX. Remitir al Secretario proyectos de criterios jurídicos, que homogenicen la
 
 XX. Desempeñar todas aquellas facultades que le sean encomendadas por el Secretario, y
 
-XXI. Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Emitir opinión sobre la legalidad de los proyectos de asociación público privada de carácter estratégico, que promuevan las dependencias y entidades paraestatales, y en su caso emitir la validación correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XXII. Delegar en sus funcionarios subalternos, de conformidad con lo previsto en la normatividad aplicable, el ejercicio de las atribuciones que le son propias, así como aquellas que le sean conferidas en diversos instrumentos jurídicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 33.
 
@@ -933,7 +1083,7 @@ IV. Designar asesores jurídicos para que atiendan y lleven a cabo el seguimient
 
 V. Realizar acciones de coordinación con las Dependencias y las Entidades que corresponda, para la atención y seguimiento de los asuntos que se requieran (sic) de su intervención;
 
-VI. Recopilar los criterios emitidos por los órganos jurisdiccionales y remitirlos al Subsecretario Jurídico, y (sic)
+VI. Recopilar los criterios emitidos por los órganos jurisdiccionales y remitirlos al Subsecretario Jurídico, y
 
 VII. Emitir opinión respecto de las consultas que en materia jurídica le sean planteadas por las Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -1137,9 +1287,11 @@ La Dirección de Implementación y Seguimiento para Asuntos de Justicia contará
 
 ### CAPÍTULO IX. DE LOS ORGANOS DESCONCENTRADOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 51.
 
-Para la atención y despacho de los asuntos de su competencia, la Secretaría, contará con Subsecretarías en los municipios de Tijuana y de Ensenada, las cuales estarán jerárquicamente subordinadas al Secretario y tendrán atribuciones específicas para resolver sobre la materia, dentro del ámbito territorial que se determine en cada caso.
+Para la atención y despacho de los asuntos de su competencia, la Secretaría contará con Subsecretarías en los municipios de Tijuana y de Ensenada, así como con la Coordinación Operativa del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California, las cuales estarán jerárquicamente subordinadas al Secretario y tendrán atribuciones específicas para resolver sobre la materia, dentro del ámbito territorial que se determine en cada caso.
 
 Las Subsecretarías de Tijuana y de Ensenada contarán con las Delegaciones que se requieran para el mejor desarrollo de sus funciones, siempre y cuando estén contempladas en el presupuesto de egresos.
 
@@ -1213,6 +1365,40 @@ V. Proponer al Comité de Planeación para el Desarrollo del Estado la concertac
 
 VI. Las demás que les sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 55 BIS.- La Coordinación Operativa del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California, por conducto de su titular, adicionalmente a las atribuciones previstas en la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California, ejercerá las funciones de Secretaría Ejecutiva del Sistema y tendrá a su cargo las atribuciones siguientes:
+
+I.- Promover y difundir los derechos de las niñas, niños y adolescentes;
+
+II.- Representar legalmente al Sistema de Protección de Niñas, Niños y Adolescentes de Baja California;
+
+III.- Coadyuvar con las Dependencias y Entidades Paraestatales de la administración pública estatal, federal y municipal en la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes;
+
+IV.- Promover la instalación y seguimiento de los Sistemas de Protección de Niñas, Niños y Adolescentes en cada uno de los Municipios del Estado de Baja California;
+
+V.- Gestionar ante organismos nacionales e internacionales recursos para implementar acciones enfocadas al cumplimiento de los derechos de las niñas, niños y adolescentes, conforme a las disposiciones legales vigentes;
+
+VI.- Proponer adecuaciones a la normatividad jurídica en materia de niñas, niños y adolescentes;
+
+VII.- Proponer la capacitación y especialización a instancias públicas y privadas en el ámbito estatal y municipal sobre los derechos de las niñas, niños y adolescentes;
+
+VIII.- Proponer mecanismos de participación de niñas, niños y adolescentes en el Sistema de Protección de Niñas, Niños y Adolescentes de Baja California y en los Sistemas Municipales de Protección;
+
+IX. - Realizar propuestas a los planes y programas de estudio en nivel superior y medio superior, particularmente en instituciones que acudan estudiantes que trabajan con niñas, niños y adolescentes;
+
+X.- Elaborar el Programa Anual de Trabajo que contenga las acciones, metas, objetivos de trabajo y propuestas para su ejecución;
+
+XI.- Proponer las modificaciones a los lineamientos que determinen la integración, organización y funcionamiento del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California;
+
+XII.- Administrar los recursos materiales y humanos con que cuente;
+
+XIII.- Verificar y en su caso proporcionar la información que señala la Ley General de los Derechos de Niñas, Niños y Adolescentes para alimentar el Sistema Nacional de Información; y
+
+XIV.- Las demás que les sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+La Coordinación Operativa del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California, contará con los recursos humanos y materiales que se consideren necesarios para la atención de los asuntos encomendados y que se autoricen en el presupuesto de egresos vigente.
+
 ### CAPÍTULO IX (SIC). DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
 ###### ARTÍCULO 56.
@@ -1252,3 +1438,11 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+P.O. 15 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 6, 7, 10, 23, 32 Y 51 Y SE ADICIONAN LOS ARTÍCULOS 31 BIS, 31 TER Y 55 BIS, TODOS DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO".]
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Secretaría General de Gobierno entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Coordinación de Protección Civil del Estado continuará atendiendo los asuntos a cargo de la Dirección de Protección Civil, en términos de lo previsto en la normatividad aplicable.
