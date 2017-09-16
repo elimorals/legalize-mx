@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2013-03-23"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -39,7 +39,7 @@ CONSIDERANDO ÚNICO. EL presente instrumento legislativo se sustenta en la sigui
 
 "EXPOSICION DE MOTIVOS
 
-.
+[...]
 
 Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se:
 
@@ -175,9 +175,23 @@ V. Concertar acciones con los sectores social y privado mediante convenios y con
 
 VI. Coordinar, evaluar y dar seguimiento a los servicios de asistencia social que presten otras Instituciones;
 
-VII. Realizar investigaciones sobre las causas y efectos de los problemas de asistencia social, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Las demás que le otorguen las disposiciones legales en la materia.
+VII. Realizar investigaciones sobre las causas y efectos de los problemas de asistencia social;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Celebrar convenios de colaboración con la Secretaría de Educación del Gobierno del Estado; la Comisión para la Administración de las Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas, el Organismo y los DIF Municipales, para emprender acciones coordinadas, a fin de lograr la permanencia en la institución escolar del alumno menor de edad;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Diseñar e implementar programas específicos dirigidos a los alumnos de educación básica y educación media superior en estado de ausentismo o deserción escolar;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+X. Implementar campañas permanentes de información dirigidas a los progenitores o tutores, relativas a las causas y las consecuencias fácticas y jurídicas del ausentismo y la deserción escolar; y
+
+XI. Las demás que le otorguen las disposiciones legales en la materia.
 
 ### CAPÍTULO II. Del Sistema Estatal de Asistencia Social
 
@@ -251,7 +265,9 @@ III. Llevar a cabo acciones de salud en materia de prevención y de rehabilitaci
 
 IV. Evaluar los resultados de los servicios asistenciales que se presten conforme a las mismas;
 
-V. Apoyar la coordinación entre las Instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+V. Apoyar la coordinación entre las Instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia, teniendo como prioridad la prevención, atención y erradicación del ausentismo y la deserción escolar;
 
 VI. Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;
 
@@ -351,7 +367,11 @@ XXII. El fomento de acciones de paternidad responsable, que propicien la preserv
 
 XXIII. Acudir en auxilio de los damnificados, en caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar, coadyuvando con la instancia de protección civil, y
 
-XXIV. Los demás que le encomienden otros ordenamientos legales.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV. Establecer una coordinación operativa continua con las autoridades educativas estatales, a fin de establecer acciones conjuntas para atender a los estudiantes en estado de ausentismo o deserción escolar; y
+
+XXV. Los demás que le encomienden otros ordenamientos legales.
 
 ###### Artículo 22.
 
@@ -1412,3 +1432,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 169.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE ASISTENCIA SOCIAL Y LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS, TODAS DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
