@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-bienes-pertenecientes-al-estado-de-tabasco-8010"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-30"
-last_updated: "1970-12-30"
+last_updated: "2017-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE LOS BIENES PERTENECIENTES AL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE BIENES DEL ESTADO DE TABASCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LOS BIENES PERTENECIENTES AL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1970.
 
@@ -124,3 +126,21 @@ EL SUBSECRETARIO DE GOBIERNO ENC. DEL DESP. DE LA SRIA.
 GENERAL P. M. L.
 
 ING. RICARDO AGUIRRE SORIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 111 POR EL QUE “SE EXPIDE LA LEY DE BIENES DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Se abroga la Ley de los Bienes Pertenecientes al Estado de Tabasco, publicada mediante Decreto Número 931 en el Periódico Oficial Núm. 2951, de fecha 30 de diciembre de 1970.
+
+Las referencias que hagan otros ordenamientos legales o administrativos del Estado de Tabasco en relación a la Ley de los Bienes Pertenecientes al Estado de Tabasco, que se abroga, se entenderán como hechas a la presente Ley de Bienes del Estado de Tabasco y sus Municipios.
+
+CUARTO.- Todos los procedimientos que se encuentren en trámite o pendientes de resolución a la fecha de la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones establecidas en la Ley anterior.
+
+QUINTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un plazo no mayor a 180 días posteriores al de su entrada en vigor y adecuar las normas generales relativas a la disposición final, enajenación y baja de bienes muebles, del Gobierno del Estado.
