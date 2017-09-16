@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-becas-estimulos-educativos-y-apoyos-financieros-del-7395
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2015-02-25"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de febrero de 2010.
 
@@ -82,6 +82,14 @@ VI. Incentivar el aprovechamiento escolar de personas de escasos recursos econó
 VII. Difundir oportunamente los programas de becas, estímulos educativos y apoyos financieros, y
 
 VIII. Crear un programa de quejas y denuncias en materia de becas, estímulos educativos y apoyos financieros.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Contribuir en forma determinante a lograr la equidad educativa en el Estado, mediante la ampliación de oportunidades de acceso y permanencia en el sistema educativo estatal, buscando reducir la deserción escolar y propiciando la culminación oportuna de los estudios de los educandos mediante el otorgamiento de apoyos y estímulos económicos; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+X. Incidir para que los estudiantes de escasos recursos económicos, hijos de migrantes, jóvenes, adolescentes y niños con discapacidad, puedan iniciar, continuar y concluir su proyecto educativo en el nivel que le corresponda, en el cual tengan aprovechamiento escolar óptimo.
 
 Alcances de la Ley
 
@@ -153,7 +161,19 @@ X. Aprobar anualmente los montos por aplicar, en cada uno de los programas de be
 
 XI. Diseñar y, en su caso, implementar y administrar nuevos programas de becas y estímulos educativos en el Estado, promoviendo la participación de los sectores público, privado y social, y
 
-XII. Las demás que le señalen la presente Ley, su Reglamento y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Celebrar convenios de colaboración con la Secretaría de Educación del Gobierno del Estado y el Sistema Estatal para el Desarrollo Integral de la Familia, a fin de promover la permanencia en la institución escolar del alumno menor de edad;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Dar preferencia en el otorgamiento de becas, a los alumnos menores de edad que, por sus condiciones de pobreza, marginalidad, aislamiento territorial o movilidad por causa de la migración, sean más susceptibles de estar en condiciones de ausentismo y deserción escolar, sin menoscabo de lo establecido en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Realizar monitoreos y estudios socio-económicos y de salud pública para contar con diagnósticos que permitan determinar la mejor manera de distribuir y aplicar, con un sentido preventivo, las becas, estímulos y apoyos en las zonas de alta marginación; con objeto de disminuir los niveles de ausentismo y deserción escolar en los niveles de educación Básica y Media Superior para que los alumnos puedan proseguir con su formación académica; y
+
+XV. Las demás que le señalen la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
 Estructura
 
@@ -625,9 +645,9 @@ a) Para las o los alumnos de escuelas públicas: Las orientadas a apoyar a las y
 
 b) Para las y los alumnos de escuelas particulares: Las orientadas a apoyar a las y los alumnos regulares inscritos en instituciones educativas particulares que cuentan con un promedio sobresaliente, y
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-c) Especiales: Las orientadas a apoyar a las y los alumnos con alguna discapacidad, aquellos que habitan en zonas rurales o urbanas marginadas, en condiciones de pobreza extrema ó grupos indígenas o aquellos que no cuenten con el apoyo de sus padres ó tutores.
+c) Especiales: Las orientadas a apoyar a las y los alumnos con alguna discapacidad, aquellos que habitan en zonas rurales o urbanas marginadas, en condiciones de pobreza extrema o grupos indígenas, niñas, niños y adolescentes que hayan sido deportados y cursen el nivel básico y medio superior de educación o aquellos que no cuenten con el apoyo de sus padres o tutores.
 
 II. Estímulos educativos:
 
@@ -712,6 +732,10 @@ X. A las y los alumnos que no cuenten con el apoyo económico de sus padres o tu
 > <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2015)</small>
 
 XI. A las y los alumnos que estén plenamente rehabilitados después de una adicción o aquellos que estén en un proceso de reinserción social.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Niñas, niños y adolescentes que hayan sido deportados y cursen el nivel básico y medio superior de educación.
 
 ### CAPÍTULO III. OTORGAMIENTO DE BECAS
 
@@ -1123,6 +1147,10 @@ X. Refrendo o renovación.
 
 XI. Alumna o alumno con discapacidad.
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Niñas, niños y adolescentes deportados.
+
 Contenido de los expedientes
 
 ###### ARTÍCULO 71.
@@ -1308,3 +1336,21 @@ La Dirección de Becas y Apoyos Financieros contará con un plazo de 60 días pa
 ###### ARTÍCULO CUARTO.
 
 Las dependencias del Gobierno del Estado, los ayuntamientos y las organizaciones públicas en un lapso de 90 días deberán estar incorporadas al SIBEZ, debiendo hacer llegar a la Dirección de Becas y Apoyos Financieros, toda información solicitada con relación a políticas públicas y programas de becas, estímulos educativos y apoyos financieros a su cargo.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 142.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS DEL ESTADO DE ZACATECAS”.]
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. El Ejecutivo del Estado deberá incluir en el proyecto de Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2018, y subsecuentes, la partida necesaria que garantice la solvencia y permanencia de las becas para las niñas, niños y adolescentes deportados que cursen los niveles básicos y medio superior de educación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 169.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE ASISTENCIA SOCIAL Y LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS, TODAS DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
