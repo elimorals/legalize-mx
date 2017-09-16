@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2014-09-03"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -661,7 +661,15 @@ III. Emitir opiniones y recomendaciones, dar seguimiento y evaluar las acciones 
 
 IV. Promover la inclusión de contenidos relativos a la Prevención del Delito en los programas educativos, de salud, de desarrollo social y en general en los diversos programas de las instituciones de la administración pública estatal, así como colaborar con los municipios en esta materia, participando activamente en los subprogramas de Prevención del Delito, derivados del Programa, y
 
-V. Las demás que le establezca la Ley General, esta Ley, su Reglamento y el Centro Nacional de Prevención del Delito y Participación Ciudadana.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+V. Celebrar convenios de colaboración con la Secretaría de Educación, la Universidad Autónoma de Zacatecas y demás instituciones de educación superior en el Estado, para que por medio de ellas se dé orientación a niñas, niños y jóvenes, de acuerdo con su nivel educativo, en materia de prevención de infracciones y delitos;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Informar al Congreso del Estado de Zacatecas de los programas, estrategias, acciones y políticas que se adopten para la prevención del delito, lo anterior dentro de los primeros cinco días de iniciado el primer periodo ordinario de sesiones de cada año, y
+
+VII. Las demás que le establezca la Ley General, esta Ley, su Reglamento y el Centro Nacional de Prevención del Delito y Participación Ciudadana.
 
 La organización y funciones del Centro Estatal de Prevención del Delito y Participación Ciudadana se establecerán en esta Ley y su Reglamento.
 
@@ -1880,3 +1888,11 @@ Artículo Sexto.- Las conductas u omisiones de los servidores públicos de la Pr
 Artículo Séptimo.- El Reglamento de la presente Ley, deberá expedirse dentro de los noventa días siguientes a la publicación del presente decreto.
 
 Artículo Octavo.- Los Agentes del Ministerio Público, Agentes de la Policía Ministerial, Oficiales Secretarios, y Peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General, deberán someterse a las disposiciones reglamentarias del Servicio Profesional de Carrera para su permanencia en la dependencia.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 151.- SE ADICIONAN DOS FRACCIONES AL ARTÍCULO 37 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
