@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2016-12-31"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -487,7 +487,7 @@ X.- Las y los trabajadores que manejen fondos, valores o bienes, podrán ser sus
 
 ###### Artículo 24.
 
-En los casos del artículo anterior no tendrá la o el titular de la entidad pública la obligación de pagar el salario a la o a el trabajador, salvo en el caso de la fracción III, cuando la prisión derive de un acto de la o de el trabajador (sic) realizado en defensa de los intereses de la entidad pública, en el que tendrá la o el titular de la misma la obligación de pagar los salarios durante el tiempo en que permanezca privado de la libertad.
+En los casos del artículo anterior no tendrá la o el titular de la entidad pública la obligación de pagar el salario a la o a el trabajador, salvo en el caso de la fracción III, cuando la prisión derive de un acto de la o de el trabajador realizado en defensa de los intereses de la entidad pública, en el que tendrá la o el titular de la misma la obligación de pagar los salarios durante el tiempo en que permanezca privado de la libertad.
 
 ###### Artículo 25.
 
@@ -682,6 +682,14 @@ Si al término del plazo señalado en el párrafo anterior no ha concluido el pr
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces el salario mínimo general, para lo cual se enviará el correspondiente oficio a la Secretaría de Finanzas de (sic) Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto, se dará vista a su superior jerárquico para que investigue la posible comisión de delitos contra la administración de justicia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2099,7 +2107,7 @@ El personal quedará sujeto a la presente ley, pero los conflictos que se suscit
 
 ###### Artículo 166.
 
-El personal del área jurídica del Tribunal deberán satisfacer los requisitos siguientes:
+El personal del área jurídica del Tribunal deberán (sic) satisfacer los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3438,3 +3446,9 @@ PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2017.
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 170.- SE ADICIONAN UN QUINTO Y SEXTO PÁRRAFOS AL ARTÍCULO 33 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
