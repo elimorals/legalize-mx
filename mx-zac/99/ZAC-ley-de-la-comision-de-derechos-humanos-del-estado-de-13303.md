@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "2017-07-15"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -145,11 +145,11 @@ Por superior jerárquico se entiende al titular de la dependencia correspondient
 
 ### CAPITULO PRIMERO. DE LA INTEGRACION Y FACULTADES
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 7o.
 
-La Comisión se integrará por:
+La Comisión se integra por:
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
 
@@ -163,7 +163,11 @@ II. La Secretaría Ejecutiva;
 
 III. La Coordinación de Visitadores;
 
-IV. Cinco visitadores, por lo menos, de los cuales uno será para la atención a migrantes y otro para quejas de actos administrativos de carácter laboral;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Seis Visitadurías, por lo menos, integradas de manera paritaria, de las cuales una será para la atención a migrantes, otra para quejas de actos administrativos de carácter laboral y una para la atención de asuntos de las mujeres y de políticas de igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
 V. Las unidades técnicas y administrativas contempladas en el Reglamento y que autorice su presupuesto; y
 
@@ -171,7 +175,11 @@ V. Las unidades técnicas y administrativas contempladas en el Reglamento y que 
 
 VI. Un órgano de control interno; y,
 
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
 VII. El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 La Comisión para el mejor desempeño de sus responsabilidades contará con un Consejo Consultivo.
 
@@ -183,9 +191,9 @@ La Comisión tendrá las siguientes atribuciones:
 
 I. Realizar e implementar programas preventivos en materia de derechos humanos;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-II. Proponer a los poderes del Estado, ayuntamientos y organismos públicos descentralizados y autónomos del Estado y de los municipios, lineamientos de política sobre derechos humanos, así como llamarlos a que promuevan modificaciones legales, reglamentarias y de práctica administrativa, que a juicio de la Comisión redunden en mejorar la protección de los derechos humanos;
+II. Proponer a los poderes del Estado, ayuntamientos y organismos públicos descentralizados y autónomos del Estado y de los municipios, lineamientos de política sobre derechos humanos, así como llamarlos a que promuevan modificaciones legales, reglamentarias y de práctica administrativa, que a juicio de la Comisión redunden en mejorar la protección de los derechos humanos; elaborando, además, programas específicos de protección a los derechos humanos de las mujeres, a fin de asumir el papel de garante de que los gobiernos cumplan con la observancia y la construcción de la igualdad sustantiva entre mujeres y hombres;
 
 III. Elaborar y ejecutar los programas de atención y seguimiento a los reclamos sociales sobre derechos humanos;
 
@@ -223,13 +231,13 @@ IX. Turnar a la Comisión Nacional de los Derechos Humanos, para que conozca y d
 
 X. Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Elaborar y ejecutar programas para difundir la enseñanza y la promoción de los derechos humanos en las diversas dependencias de los poderes del Estado y de los municipios, así como en los organismos públicos descentralizados, autónomos y las Instituciones educativas públicas y privadas de todos los niveles;
+XI. Elaborar y ejecutar programas para difundir la enseñanza y la promoción de los derechos humanos en las diversas dependencias de los poderes del Estado y de los municipios, así como en los organismos públicos descentralizados, autónomos y las instituciones educativas públicas y privadas de todos los niveles, incluyendo de manera específica los derechos de las mujeres;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-XII. Supervisar el respeto a los derechos humanos en los Centros de Reinserción Social del Estado, Centros de Internamiento y Atención Integral Juvenil, separos preventivos, casas institucionalizadas, centros de rehabilitación, asilos de ancianos, instancias de albergue temporal o definitivos y de apoyo a migrantes en tránsito, o las destinadas a grupos en situación de vulnerabilidad;
+XII. Supervisar el respeto a los derechos humanos en los Centros de Reinserción Social del Estado, Centros de Internamiento y Atención Integral Juvenil, separos preventivos, casas institucionalizadas, centros de rehabilitación, asilos de ancianos, instancias de albergue temporal o definitivos y de apoyo a migrantes en tránsito, las dependencias e instituciones dedicadas a prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres o las destinadas a grupos en situación de vulnerabilidad;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
 
@@ -259,9 +267,13 @@ XVIII. Supervisar que a las personas que se encuentren privadas de su libertad e
 
 XIX. Vigilar que el sistema penitenciario se organice sobre las bases del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley; y
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Las demás que le otorgue la presente ley y otros ordenamientos legales.
+XX. La observancia del seguimiento, evaluación y monitoreo, en materia de igualdad sustantiva entre mujeres y hombres, y
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ###### ARTICULO 9o.
 
@@ -419,7 +431,9 @@ X. Rendir anualmente un informe por escrito a los tres Poderes del Estado; sin p
 
 XI. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
-XII. Formular las propuestas generales conducentes a una mejor protección de los derechos humanos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Formular las propuestas generales conducentes a una mejor protección de los derechos humanos, incluyendo de manera específica las propuestas para garantizar los derechos humanos de las mujeres;
 
 XIII. Elaborar el presupuesto anual de egresos de la Comisión y el respectivo informe sobre su ejercicio para su aprobación por el Consejo Consultivo; y,
 
@@ -451,21 +465,21 @@ Los titulares de la Presidencia, Secretaría Ejecutiva, Coordinación de Visitad
 
 ### CAPITULO TERCERO. INTEGRACIÓN, NOMBRAMIENTO Y FACULTADES DEL CONSEJO CONSULTIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 19.
 
-El Consejo Consultivo estará integrado, además de quien presida la Comisión, por siete personas mexicanas, de reconocida solvencia moral, en pleno ejercicio de sus derechos ciudadanos y que no desempeñen cargo o comisión como servidores públicos, salvo la docencia. Cuando provengan de la representación popular o del servicio público, no haber rechazado o incumplido, de manera infundada, una recomendación en materia de derechos humanos, con el carácter de superior jerárquico del funcionario público sancionado.
+El Consejo Consultivo estará integrado, además de quien presida la Comisión, por siete personas mexicanas, cuatro de un género y tres del otro, buscando la integración más cercana a la paridad; deberán ser de reconocida solvencia moral, en pleno ejercicio de sus derechos ciudadanos, y que no desempeñen cargo o comisión como servidores públicos, salvo la docencia. Cuando provengan de la representación popular o del servicio público, no haber rechazado o incumplido, de manera infundada, una recomendación en materia de derechos humanos, con el carácter de superior jerárquico del funcionario público sancionado.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
 A excepción de quien presida la Comisión, los cargos de miembros del Consejo Consultivo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Recibirán única y exclusivamente una dieta mensual, que en ningún caso excederá el monto de 200 cuotas de salario mínimo general vigente, incluidos bonos y prestaciones en especie de cualquier naturaleza, de acuerdo a los lineamientos que se establezcan en el Reglamento de la Comisión y con cargo al presupuesto que anualmente le destine la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 20.
 
-La designación de los miembros del Consejo Consultivo, será hecha por la Legislatura del Estado conforme al procedimiento de consulta pública establecido en el artículo 12 de esta Ley, y en el cual se establezcan los requisitos legales, los méritos y perfiles académicos y profesionales que deban cumplir los aspirantes para acceder al cargo.
+La designación de los miembros del Consejo Consultivo, será hecha por la Legislatura del Estado conforme al procedimiento de consulta pública establecido en el articulo 12 de esta Ley, y en el cual se establezcan los requisitos legales, los méritos y perfiles académicos y profesionales que deban cumplir los aspirantes para acceder al cargo, cuidando, en todo momento, la integración que señala el artículo precedente.
 
 ###### ARTICULO 21.
 
@@ -473,13 +487,13 @@ El Consejo Consultivo es un órgano permanente de consulta de la Comisión.
 
 Tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-I. El estudio y opinión de los problemas que se presenten, relativos al respeto y defensa de los derechos humanos;
+I. El estudio y opinión de los problemas que se presenten, relativos al respeto y defensa de los derechos humanos, incluyendo de manera específica los derechos humanos de las mujeres y la igualdad sustantiva entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-II. Proponer a la Legislatura del Estado, a través de la Comisión Legislativa de Derechos Humanos, la política estatal sobre la difusión, reconocimiento y defensa de los derechos humanos;
+II. Proponer a la Legislatura del Estado, a través de la Comisión Legislativa de Derechos Humanos, la política estatal sobre la difusión, reconocimiento y defensa de los derechos humanos, incluyendo de manera específica los derechos humanos de las mujeres y la igualdad sustantiva entre mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -647,13 +661,15 @@ La creación de cada Visitaduría, precederá del estudio y dictamen que se le p
 
 Cuando por su naturaleza geográfica o por circunstancias especiales o temporales, algunos municipios de la Entidad requieran de una atención especial por parte de la Comisión, el titular de la misma, apoyado en la Coordinación de Visitadurías, establecerá la presencia de una Visitaduría Itinerante, para que acuda directamente, reciba, tramite y en su momento resuelva en derecho las quejas o asuntos que se presenten en aquellos lugares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 26.
 
-Los Visitadores tendrán las siguientes:
+Las Visitadurías tendrán las siguientes facultades y obligaciones:
 
-I. Iniciar a petición de parte la investigación de las quejas que le sean presentadas, o de oficio y discrecionalmente aquéllas sobre denuncias o violación a los derechos humanos que aparezcan en los medios de comunicación;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+I. Iniciar a petición de parte la investigación de las quejas que le sean presentadas, o de oficio y discrecionalmente aquéllas sobre denuncias o violación a los derechos humanos de las mujeres y con relación a la construcción de la igualdad sustantiva entre mujeres y hombres, que aparezcan en los medios de comunicación;
 
 II. Realizar las actividades necesarias para lograr por medio de la conciliación, la solución inmediata a las violaciones de derechos humanos que por su propia naturaleza así lo permitan;
 
@@ -675,17 +691,15 @@ VI. Verificar la eficiencia, diligencia y honestidad en los servicios de defenso
 
 VII. Las demás que le señale la presente Ley, el Reglamento respectivo y quien presida la Comisión y el Coordinador de Visitadores.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 26 BIS.- Las Visitadurías para la Atención a Migrantes, y para la Atención de Asuntos de las Mujeres y de políticas de igualdad sustantiva entre mujeres y hombres, tendrán las facultades y obligaciones que se establezcan en el Reglamento Interno de la Comisión.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2017)</small>
 
 ### CAPITULO QUINTO. NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES GENERALES, REGIONALES, ITINERANTES Y ADJUNTOS
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
-
-###### ARTICULO 26
-
-BIS.- La Visitaduría para la Atención a Migrantes, tendrá las facultades y obligaciones que se establezcan en el Reglamento Interno de la Comisión.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 26
 
@@ -805,15 +819,29 @@ Ningún procedimiento podrá exceder del término de cuatro meses, contados a pa
 
 ### CAPITULO SEGUNDO. DE LAS QUEJAS O DENUNCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 30.
 
-Toda persona física o moral podrá presentar por sí o por conducto de terceros ante las oficinas de la Comisión, las quejas o denuncias por presuntas violaciones a los derechos humanos, sin distinción alguna por razón de raza, sexo, idioma, religión, situación migratoria, opinión política, posición económica, o cualquiera otra condición.
+Toda persona física o moral podrá presentar por si o por conducto de terceros de manera presencial ante las oficinas de la Comisión, por teléfono o Internet, las quejas o denuncias por presuntas violaciones a los derechos humanos, sin distinción alguna por razón de raza, sexo, idioma, religión, situación migratoria, opinión política, posición económica, o cualquiera otra condición.
 
 Cuando los interesados estén privados de su libertad o por sus condiciones físicas, mentales, económicas y culturales, no tengan capacidad efectiva o se desconozca su paradero, los hechos se podrán denunciar por los parientes o vecinos de los afectados, inclusive por menores a partir de los diez años de edad.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-La Comisión puede iniciar de oficio las quejas por indicios de violaciones a derechos humanos publicadas en notas periodísticas.
+La Comisión puede iniciar de oficio las quejas por indicios de violaciones a derechos humanos, violación a los derechos humanos de las mujeres y con relación a la construcción de la igualdad sustantiva entre mujeres y hombres publicados en notas periodísticas.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Las quejas podrán formularse por lenguaje de señas y a través de mecanismos accesibles para personas con discapacidad, para lo cual la Comisión deberá disponer lo necesario.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 30 BIS.- Si la queja o denuncia fue presentada por escrito, por teléfono o por Internet, se citará al quejoso para que comparezca de manera personal en un plazo no mayor de tres días posteriores a la presentación de la queja.
+
+La notificación de la cita mencionada en el párrafo anterior se realizará por la misma vía en la que fue interpuesta la queja. En caso de realizarse la queja o denuncia vía telefónica, el quejoso deberá otorgar un domicilio o una dirección electrónica donde se le notificará de todos los actos inherentes a la queja.
+
+Si la queja o denuncia se realiza de manera electrónica, el quejoso deberá proporcionar una dirección de correo electrónico donde se le notificará de todos los actos concernientes a su queja.
 
 ###### ARTICULO 31.
 
@@ -829,9 +857,13 @@ Cuando los quejosos o denunciantes se encuentren internos en un centro preventiv
 
 La Comisión designará personal de guardia para recibir y atender las reclamaciones o quejas urgentes a cualquier hora del día y de la noche.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 34.
 
-La Comisión deberá poner a disposición de los quejosos o denunciantes, formularios que faciliten el trámite, y en todo caso, orientará a los comparecientes sobre el contenido de su queja, la cual también podrán presentarse oralmente cuando los comparecientes no puedan escribir o sean menores de edad. Tratándose de personas que no hablen o entiendan correctamente el idioma español, se les proporcionará gratuitamente un traductor.
+La Comisión deberá poner a disposición de los quejosos o denunciantes, formularios que faciliten el trámite, y en todo caso, ejercerá la suplencia en la deficiencia de la queja, para lo cual orientará y apoyará a los comparecientes sobre el contenido de su queja, la cual también podrá presentarse oralmente cuando los comparecientes no puedan escribir o sean menores de edad.
+
+Las denuncias podrán presentarse por comparecencia y tratándose de personas que no hablen o entiendan correctamente el idioma español, o se trate de personas con discapacidad auditiva o del habla, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura.
 
 ###### ARTICULO 35.
 
@@ -939,7 +971,9 @@ V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes
 
 El titular de la Coordinación de Visitadores, los Visitadores Generales y Regionales tendrán la facultad de solicitar a las autoridades competentes que se tomen las medidas precautorias necesarias para evitar la consumación irreparable de las violaciones denunciadas, o la producción de daños de difícil reparación, así como requerir que aquéllas se modifiquen cuando existan circunstancias que lo justifiquen.
 
-Dichas medidas pueden ser de conservación o restitutorias, según lo indique la naturaleza del asunto.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Dichas medidas pueden ser de prevención, conservación, sanción o restitutorias, según lo indique la naturaleza del asunto.
 
 ### CAPITULO TERCERO. DE LAS PRUEBAS
 
@@ -1033,11 +1067,13 @@ Quien presida la Comisión hará del conocimiento público, en su totalidad o en
 
 El titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Zacatecas presentará un informe anual sobre las actividades realizadas en el período del 1 de enero al 31 de diciembre del año inmediato anterior. Al efecto, comparecerá en el mes de enero ante el Pleno de la Comisión Permanente de la Legislatura; posteriormente, presentará el informe ante el Ejecutivo del Estado y ante el Pleno del Poder Judicial del Estado. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-Los informes anuales, deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación; las investigaciones realizadas; las recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado; los resultados obtenidos así como las estadísticas, los programas desarrollados y demás datos que se considere convenientes.
+Los informes anuales, deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación; las investigaciones realizadas; las recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado; los resultados obtenidos así como las estadísticas, los programas desarrollados, debiendo de manera precisa señalar los resultados obtenidos y las estadísticas generadas en las diversas Visitadurías que integran la Comisión, así como los demás datos que se considere convenientes.
 
-El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, o de prácticas administrativas, con el fin de perfeccionar la política de los derechos humanos.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, o de prácticas administrativas, especificando las elaboradas con relación a la Atención de Asuntos de las Mujeres y de políticas de igualdad sustantiva entre mujeres y hombres, con el fin de perfeccionar la política de los derechos humanos.
 
 ###### ARTICULO 60.
 
@@ -1255,15 +1291,19 @@ CUARTO. Las disposiciones relativas a la organización, competencia y funcionami
 
 QUINTO. En el caso de existir un nombramiento de titular del Órgano Interno de Control, éste continuará en su encargo en los términos y periodo para los que fue nombrado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2007.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+P.O. 16 DE SEPTIEMBRE DE 2017.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, con la salvedad indicada en el siguiente transitorio.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 172.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS”.]
 
-SEGUNDO.- Por lo que respecta a la reforma a la fracción XIII del artículo 59 y la reforma a la fracción XV del artículo 79, entrarán en vigor a partir del día primero de diciembre del año dos mil dieciséis
+PRIMERO. El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
+SEGUNDO. Se derogan las disposiciones que contravengan el presente Decreto.
 
-P.O. 3 DE OCTUBRE DE 2016.
+TERCERO. Los recursos humanos, financieros y materiales que se requieran para dar viabilidad operativa a la Visitaduría para la Atención de Asuntos de las mujeres y de políticas de igualdad sustantiva entre mujeres y hombres, serán contemplados en el presupuesto de egresos del año 2018.
+
+CUARTO. Los recursos humanos, financieros y materiales que se requieran para dar viabilidad operativa a la recepción de quejas de personas con alguna discapacidad auditiva o del habla, que no hablen o entiendan el idioma español, serán contemplados en el presupuesto de egresos del año 2018.
+
+QUINTO. Para el caso de las facultades de la Visitaduría para la Atención de Asuntos de las mujeres y de políticas de igualdad sustantiva entre mujeres y hombres, serán contempladas en el reglamento interno de la Comisión, debiéndose reformar tal instrumento legal en un periodo de treinta días hábiles contados a partir de la entrada en vigor del presente.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2023.- MEDIANTE EL CUAL SE ADICIONA, UN PÁRRAFO CUARTO A LA FRACCIÓN VII DEL ARTÍCULO 53, UN PÁRRAFO SEGUNDO A LA FRACCIÓN XXI DEL ARTICULO 59 Y, UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV DEL ARTÍCULO 80, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
