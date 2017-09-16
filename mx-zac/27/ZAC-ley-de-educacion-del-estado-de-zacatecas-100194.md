@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-100194"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-02"
-last_updated: "2016-01-09"
+last_updated: "2017-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento 5 del Periódico Oficial del Estado de Zacatecas, el miércoles 2 de abril de 2014
 
@@ -41,7 +41,9 @@ RESULTANDO SEGUNDO. Por acuerdo de la Presidencia de la Mesa Directiva, la Inici
 
 RESULTANDO TERCERO. El proponente justificó su Iniciativa en la siguiente:
 
-"EXPOSICIÓN DE MOTIVOS…
+"EXPOSICIÓN DE MOTIVOS
+
+[…]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -103,6 +105,18 @@ VII. Educación especial, al servicio educativo destinado a los alumnos y alumna
 
 VIII. Ajustes razonables, a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Deserción escolar, al abandono definitivo de las clases por parte del alumno menor de edad de educación básica y media superior, ocurrida durante el ciclo escolar o por falta de inscripción al grado siguiente que corresponde;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+X. Educación básica, a la impartida en los niveles Preescolar, Primaria y Secundaria; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Educación media superior, a la que comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
+
 ###### Artículo 5.
 
 Constituyen el sistema educativo estatal:
@@ -111,9 +125,7 @@ I. Los educandos, educadores y padres de familia;
 
 II. Las autoridades educativas estatal, municipales y de los organismos descentralizados;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-III. EL SERVICIO PROFESIONAL DOCENTE;
+III. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 IV. Los planes, programas, métodos y materiales educativos;
 
@@ -193,9 +205,7 @@ I. Diseñar, proporcionar, regular, modificar y dirigir por sí o a través de s
 
 II. Acordar con la autoridad educativa estatal, los asuntos que así lo ameriten, desempeñar las comisiones y funciones que le confiera y mantenerla informada sobre su cumplimiento y desarrollo;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-III. RESPETAR LOS DERECHOS ADQUIRIDOS DE LOS TRABAJADORES DE LA EDUCACIÓN, RECONOCIENDO LOS ACUERDOS ALCANZADOS Y CELEBRADOS POR LA AUTORIDAD EDUCATIVA ESTATAL, A TRAVÉS DE LAS INSTANCIAS RESPECTIVAS Y LAS ORGANIZACIONES SINDICALES, QUE ESTIPULEN BENEFICIOS LABORALES, PROFESIONALES, SALARIALES Y SOCIALES;
+III. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 IV. Proponer a la autoridad educativa estatal, los proyectos de iniciativas de ley, decreto, reglamentos, acuerdos y órdenes sobre los asuntos de su competencia;
 
@@ -275,15 +285,21 @@ XL. Ejecutar programas para la inducción, actualización, capacitación y super
 
 XLI. Participar en la aplicación, en forma periódica y sistemática, de exámenes de evaluación a los educandos;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XLII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XLII. DISEÑAR Y aplicar los instrumentos de evaluación que consideren necesarios para garantizar la calidad educativa en el ámbito de su competencia, atendiendo los lineamientos que, en ejercicio de sus atribuciones, emita el Instituto Nacional para la Evaluación de la Educación;
+XLII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 XLIII. Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
 
 XLIV. Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel; y
 
 XLV. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XLVI. Implementar programas específicos que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar, integrando en ellos un procedimiento de registro, seguimiento y activación de alertas de ausentismo y deserción escolar; con el fin de lograr que los educandos menores de edad se reintegren lo más pronto posible a su instrucción básica o media superior; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XLVII. Celebrar convenios de colaboración con el DIF Estatal, el DIF Municipal, así como con cualquier ente público de los demás niveles de gobierno, con el objeto de emprender acciones orientadas a lograr la permanencia en la institución escolar del alumno menor de edad.
 
 ###### Artículo 10.
 
@@ -319,9 +335,7 @@ I. Los padres de familia o tutores envíen a sus hijos o pupilos a la escuela de
 
 II. Los trabajadores de la educación desarrollen su trabajo con responsabilidad, vocación, competencia y eficacia;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-III. El ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan el Estado, los municipios y organismos descentralizados, se ajuste a lo dispuesto EN EL PRESENTE ORDENAMIENTO Y en la Ley General del Servicio Profesional Docente;
+III. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 IV. Los directivos y supervisores realicen su tarea ofreciendo los apoyos pedagógicos y administrativos que se requieran para el adecuado funcionamiento de los centros escolares;
 
@@ -329,39 +343,13 @@ V. Las actividades de otras instituciones o áreas de la administración públic
 
 VI. Los planteles de educación básica cuenten con su proyecto escolar.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 12.
 
-Quedan a salvo los derechos adquiridos del personal que se encuentre en servicio a la entrada en vigor de la Ley General del Servicio Profesional Docente y cuente con nombramiento definitivo, con funciones de docencia, dirección o de supervisión en la educación básica o media superior, impartida por el Estado.
-
-El personal que cuente con nombramiento definitivo con funciones de docencia, dirección o de supervisión en la educación básica o media superior, que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General de Servicio Profesional Docente, y conforme al artículo octavo transitorio de dicha Ley, será readscrito para continuar en otras tareas dentro de dicho servicio educativo, o bien, se le ofrecerá incorporarse a los programas de retiro que garanticen el pago de las prestaciones legales correspondientes.
-
-En la readscripción a que se refiere el párrafo anterior, se observará lo siguiente:
-
-I. Será en la Secretaría o en el organismo descentralizado correspondiente, en el siguiente orden de preferencia:
-
-a) En el mismo plantel educativo, desarrollando actividades distintas a la docencia; cuando no sea posible esto, se procurará adscribirlo en otro plantel de la misma zona escolar o del mismo municipio;
-
-b) En el municipio más cercano a su domicilio; y
-
-c) En alguna unidad administrativa que determinen la Secretaría o el organismo descentralizado correspondiente.
-
-II. Será con pleno respeto a los derechos constitucionales de los trabajadores de la educación;
-
-III. Se conservarán sueldo, prestaciones adquiridas, antigüedad, carga horaria, vacaciones, así como el derecho a los incrementos salariales que se otorguen;
-
-IV. No se ocasionará perjuicio alguno a otros derechos laborales como pensión, jubilación, seguridad social, cambios geográficos, beneficios adquiridos en carrera magisterial y carrera docente y demás que legalmente le correspondan;
-
-V. La determinación de la tarea que se desempeñará estará acorde con el perfil del docente; y
-
-VI. Es facultad exclusiva de la Secretaría otorgar la adscripción cuando ésta corresponda.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 13.
 
-En contra de las resoluciones administrativas que se pronuncien en las situaciones precisadas en los artículos precedentes, los interesados podrán optar por interponer el recurso de revisión ante la autoridad educativa que emitió la resolución o acudir a la autoridad jurisdiccional que corresponda.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 #### SECCIÓN CUARTA. DE LOS SERVICIOS EDUCATIVOS
 
@@ -371,9 +359,7 @@ La Secretaría, con base en lo establecido en la Ley General del Servicio Profes
 
 I. Regular un sistema nacional de formación, actualización, capacitación y superación profesional para maestros de educación básica. Dicho sistema deberá sujetarse a los lineamientos, medidas, programas, acciones y demás disposiciones generales que resulten de la aplicación de la Ley General del Servicio Profesional Docente; y
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-II. Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, DE CONFORMIDAD CON LAS DISPOSICIONES GENERALES QUE LA SECRETARÍA DETERMINE, conforme a lo dispuesto por la Ley General del Servicio Profesional Docente.
+II. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 15.
 
@@ -415,7 +401,17 @@ II. Desarrollará programas de apoyo a los maestros que realicen su servicio en 
 
 III. Promoverá centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles con un enfoque inclusivo, que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-IV. Prestará servicios educativos incluyentes para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando, especialmente, facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Prestará servicios educativos incluyentes para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando, especialmente, facilidades de acceso, reingreso, permanencia y egreso a las mujeres. Estos servicios se complementarán con las siguientes acciones:
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+a) Elaborar un sistema de registro de los alumnos con elevados índices de ausentismo, a fin de establecer indicadores de riesgo de deserción escolar a partir de los cuales se identifiquen los centros educativos y los alumnos susceptibles de ser sujetos de programas especiales y, en su caso, recibir apoyos, estímulos o becas; y
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+b) Aplicar campañas de difusión sobre la información relativa a la prevención, atención o erradicación del ausentismo y la deserción escolar, con sus respectivos protocolos y líneas de actuación, dirigidas tanto a la comunidad educativa escolar como a las unidades familiares y a los propios alumnos.
 
 V. Fortalecerá la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
 
@@ -563,31 +559,43 @@ Se promoverá que los educandos adquieran los conocimientos básicos sobre ecolo
 
 La educación básica que imparta el Estado en sus tres niveles, deberá responder a las características lingüísticas y culturales de cada uno de los diversos grupos de la entidad, así como de la población rural dispersa y grupos migratorios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-La educación inicial estará dirigida a la población infantil menor de cuatro años de edad, con un enfoque inclusivo, y puede ser ofrecida por instituciones públicas o privadas; tiene como propósito fortalecer el desarrollo físico, cognitivo, afectivo y social de los menores.
+La educación inicial estará dirigida a la población infantil menor de cuatro años de edad, con un enfoque inclusivo, y puede ser ofrecida por instituciones públicas o privadas; tiene como propósito potenciar las funciones y arquitectura cerebral, contribuir a la cimentación armónica y equilibrada de la personalidad de los niños, con la finalidad de lograr la formación de un perfil más apto y capaz de enfrentar con éxito los retos de su trayecto educativo y en la vida.
 
 En su promoción, la Secretaría deberá:
 
 I. Coordinar su vinculación con la educación preescolar;
 
-II. Apoyar el incremento del número de centros de desarrollo infantil para atender la demanda de las madres trabajadoras;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-III. Procurar que el personal adscrito a las instituciones de educación inicial tengan el perfil profesional correspondiente a la función que desempeña, establecido por la autoridad educativa;
+II. Apoyar el incremento del número de centros de desarrollo infantil con infraestructura física adecuada a las necesidades educativas, programas de enseñanza regulados, avalados y supervisados por las autoridades educativas para atender la demanda de las madres trabajadoras que así lo requieran, tanto por la vía institucional como por vías no formales;
 
-IV. Desarrollar programas de orientación y apoyo para los padres o tutores, a fin de que la educación que den a sus hijos o pupilos en el hogar, pueda aplicar principios y métodos de la educación inicial; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-V. Ofrecer servicios médicos, psicológicos, pedagógicos, de trabajo social y de nutrición.
+III. Procurar que el personal adscrito a las instituciones de educación inicial esté formado dentro del marco de las neurociencias para conformar un equipo interdisciplinario y tengan el perfil profesional correspondiente a la función que desempeña, establecido por la autoridad educativa;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Desarrollar programas de orientación y apoyo para los padres o tutores, a fin de que la educación que den a sus hijos o pupilos en el hogar, pueda, entre otros principios de educación inicial, ayudarlos a convertirse en individuos capaces de tener iniciativa propia, responsables de sus acciones, arquitectos de su propia identidad que los definirá como jóvenes y adultos, que sus actos individuales y en sociedad no sean para obtener la aprobación de los demás, sino para alcanzar sus propios objetivos; y
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+V. Ofrecer servicios médicos, psicológicos, pedagógicos, de trabajo social y de nutrición, que contribuyan al desarrollo integral del niño y la niña, tomando en cuenta que es durante los primeros años de vida que el ser humano exige alimentación óptima, salud, higiene, estabilidad emocional, aprovechamiento de su plasticidad cerebral y atención profesional de profesores, padres y tutores.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-La educación preescolar deberá impartirse en establecimientos denominados jardines de niños, y tiene como propósito fundamental la socialización, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida, la sociedad, el desarrollo de competencias para la vida en lenguaje y comunicación, pensamiento matemático, exploración y comprensión del mundo natural y social, desarrollo personal y para la convivencia, y orientará su desarrollo hacia la creatividad.
+La educación preescolar deberá impartirse en establecimientos denominados jardines de niños o Centros de Desarrollo Infantil, y tiene como propósito fundamental la socialización, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida, la sociedad, el desarrollo de competencias para la vida en lenguaje y comunicación, pensamiento matemático, exploración y comprensión del mundo natural y social, desarrollo personal, habilidades y destrezas físico corporales para la convivencia, y orientará su desarrollo hacia la creatividad.
 
-La educación preescolar, es el antecedente obligatorio de la educación primaria.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 36.
 
-La educación preescolar tiene como objetivo aplicar, bajo criterios de eficiencia, calidad, equidad y con un enfoque inclusivo, los programas institucionales del nivel de preescolar con el fin de facilitar a los niños y niñas el inicio del proceso educativo, fortaleciendo la capacidad del educando.
+La educación preescolar tiene como objetivo aplicar, bajo criterios de eficiencia, calidad, equidad y con un enfoque inclusivo, los programas institucionales del nivel de preescolar con el fin de facilitar a los niños y niñas el inicio del proceso educativo, fortaleciendo el desarrollo integral del educando en todas sus etapas para lograr los fundamentos esenciales que lo preparen intelectual y cognoscitivamente en el plano afectivo-motivacional y en las posibilidades regulativas para iniciar con éxito el aprendizaje.
 
 ###### Artículo 37.
 
@@ -631,7 +639,9 @@ La educación superior de acuerdo con la Ley, determinará sus programas en base
 
 De acuerdo con lo señalado en la Ley General de Educación, en su artículo 20, las autoridades educativas federal y estatal, en el ámbito de sus respectivas competencias, constituirán el sistema estatal de formación, actualización, capacitación y superación profesional para maestros que tendrá las finalidades siguientes:
 
-I. La formación, con nivel de licenciatura, de maestros de educación inicial, básica –incluyendo la de aquéllos para la atención de la educación indígena– especial y de educación física;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+I. La formación, con nivel de licenciatura, de maestros de educación inicial, básica -incluyendo la de aquéllos para la atención de la educación indígena- especial y de educación física, con base en un plan de estudios que considere el fortalecimiento de valores como responsabilidad, patriotismo, superación, generosidad, respeto, solidaridad, honestidad, amistad y compañerismo; conocimientos en el área de neurociencias, etapas del desarrollo, inteligencias múltiples, neuronutrición, didácticas del aprendizaje, psicología infantil y capacidad de interactuar de manera responsable con su medio ambiente, diseño de planes y programas curriculares para el desarrollo de escuelas para padres y capacidad de realizar la educación inicial por vías no formales o institucionales;
 
 II. La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior;
 
@@ -653,15 +663,13 @@ El cumplimiento de las finalidades mencionadas se sujetará, en lo conducente, a
 
 Corresponden de manera exclusiva a la autoridad educativa estatal, en su respectiva competencia, las atribuciones siguientes:
 
-I. Prestar los servicios de educación inicial, básica -incluyendo indígena–, especial, así como la normal y demás para la formación de maestros;
+I. Prestar los servicios de educación inicial, básica -incluyendo indígena-, especial, así como la normal y demás para la formación de maestros;
 
 II. Proponer a la Secretaría, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
 III. Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respeto al calendario y horario escolar fijado por la Secretaría;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IV. Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, DE CONFORMIDAD CON LAS DISPOSICIONES GENERALES QUE LA SECRETARÍA DETERMINE Y conforme a lo dispuesto por la Ley General del Servicio Profesional Docente;
+IV. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 V. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica de acuerdo con los lineamientos generales que la Secretaría expida;
 
@@ -681,7 +689,23 @@ XI. La autoridad educativa estatal deberá implementar y tener actualizado un si
 
 XII. Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar; y
 
-XIII. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Aplicar los programas compensatorios implementados por la autoridad educativa federal, a través de los recursos específicos asignados, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se establezcan las proporciones de financiamiento y las acciones específicas que la Secretaría deba realizar para prevenir y hacer frente al ausentismo y la deserción escolar;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Prestar servicios educativos especiales para atender a quienes abandonaron el sistema regular y se encuentran en condición de rezago educativo, a efecto que concluyan la educación básica y media superior; otorgando facilidades de acceso, reingreso, permanencia y egreso a los jóvenes y niños;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Coordinarse con autoridades de los niveles de gobierno federal y municipal para la realización y difusión de campañas para erradicar el ausentismo y la deserción escolar en el Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Impartir capacitaciones permanentes al personal de trabajo social encargado de efectuar y dar seguimiento a los procedimientos para enfrentar y erradicar el ausentismo y la deserción escolar; y
+
+XVII. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 44.
 
@@ -757,589 +781,239 @@ Los planes y programas de estudio regional que la autoridad educativa federal de
 
 La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas al aplicar los planes y programas de estudio, para sugerir su permanente actualización.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN CUARTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN CUARTA. DE LA EVALUACIÓN DEL SISTEMA EDUCATIVO ESTATAL
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 55.
 
-Corresponde al Instituto Nacional para la Evaluación de la Educación:
-
-I. La evaluación del sistema educativo nacional en la educación preescolar, primaria, secundaria y media superior, sin perjuicio de la participación que las autoridades educativas federal y estatal tengan, de conformidad con los lineamientos que expida dicho organismo, y con la Ley de (sic) Instituto Nacional para la Evaluación de la Educación;
-
-II. Fungir como autoridad en materia de evaluación educativa, coordinar el sistema nacional de evaluación educativa y emitir los lineamientos a que se sujetará la autoridad educativa estatal para realizar las evaluaciones que le corresponden; y
-
-III. Emitir las directrices, con base en los resultados de la evaluación del sistema educativo nacional, que sean relevantes para contribuir a las decisiones tendientes a mejorar la calidad de la educación y su equidad.
-
-Respecto de los servicios educativos diferentes a los mencionados en la fracción I de este artículo, la autoridad educativa estatal realizará la evaluación correspondiente, de conformidad con las atribuciones establecidas por la Ley General de Educación y el presente ordenamiento.
-
-Tanto la evaluación que corresponda realizar al Instituto Nacional para la Evaluación de la Educación, como las evaluaciones que, en el ámbito de sus atribuciones y en el marco del sistema nacional de evaluación educativa, son responsabilidad de las autoridades educativas, serán sistemáticas y permanentes. Sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 56.
 
-El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación nacional y en cada entidad federativa.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN QUINTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN QUINTA. DE LAS FUNCIONES EN MATERIA DE EVALUACIÓN EDUCATIVA A CARGO DEL ESTADO
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN QUINTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 57.
 
-Las evaluaciones que en el ámbito de su competencia lleven a cabo la Secretaría y los organismos descentralizados serán sistemáticas, integrales, obligatorias y periódicas. Estas evaluaciones deberán considerar los contextos demográfico, social y económico de los agentes del sistema educativo nacional, los recursos o insumos humanos, materiales y financieros destinados a éste, así como las condiciones que intervengan en el proceso de enseñanza-aprendizaje.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN QUINTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 58.
 
-La evaluación sobre el tránsito de alumnos de un grado, nivel o tipo educativo a otro, certificación de egresados, asignación de estímulos y las decisiones respecto de personas o instituciones en lo particular, basadas en los resultados de los procesos de evaluación para el reconocimiento, serán competencia de la Secretaría y los organismos descentralizados, conforme a sus atribuciones.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN QUINTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 59.
 
-La Secretaría y los organismos descentralizados, en el ámbito de su competencia y en los términos de la Ley del Instituto Nacional para la Evaluación de la Educación, deberán:
-
-I. Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación;
-
-II. Proveer al Instituto Nacional para la Evaluación de la Educación, la información necesaria para el ejercicio de sus funciones;
-
-III. Cumplir los lineamientos y atender las directrices que emita el Instituto Nacional para la Evaluación de la Educación e informar sobre los resultados de la evaluación;
-
-IV. Recopilar, sistematizar y difundir la información derivada de las evaluaciones que lleve a cabo;
-
-V. Proponer al Instituto Nacional para la Evaluación de la Educación, criterios de contextualización que orienten el diseño y la interpretación de las evaluaciones;
-
-VI. Hacer recomendaciones técnicas sobre los instrumentos de evaluación, su aplicación y el uso de sus resultados;
-
-VII. Opinar sobre los informes anuales que rinda el presidente del Instituto Nacional para la Evaluación de la Educación, aportando elementos para valorar el nivel de logro de los objetivos establecidos; y
-
-VIII. Las demás que establezcan otras disposiciones normativas y que sean necesarias para el funcionamiento del sistema nacional de evaluación educativa.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN QUINTA DEL CAPÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 60.
 
-Las autoridades escolares de las instituciones educativas establecidas por el Estado, por sus municipios y organismos descentralizados y particulares con autorización o con reconocimiento de validez oficial de estudios, además de las que se establecen en la legislación federal, tendrán las obligaciones siguientes:
-
-I. Otorgar al Instituto Nacional para la Evaluación de la Educación y a las autoridades educativas, las facilidades y colaboración para la evaluación a que se refiere la Ley del Instituto Nacional para la Evaluación de la Educación;
-
-II. Proporcionar oportunamente la información que se les requiera;
-
-III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación; y
-
-IV. Facilitar que las autoridades educativas y el Instituto realicen actividades de evaluación para fines estadísticos y de diagnóstico y recaben directamente en las escuelas la información necesaria para realizar la evaluación.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO TERCERO
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DEL SERVICIO PROFESIONAL DOCENTE
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 61.
 
-En la educación básica y media superior el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 62.
 
-La autoridad educativa estatal, para los efectos del servicio profesional docente, deberá realizar acciones de coordinación con los ayuntamientos.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 63.
 
-Las funciones docentes, de dirección de una escuela o de supervisión de la educación básica y media superior impartida por el Estado, municipios y organismos descentralizados, deberán orientarse a brindar educación de calidad y al cumplimiento de sus fines. Quienes desempeñen dichas tareas deben reunir las cualidades personales y competencias profesionales, para que dentro de los distintos contextos sociales y culturales, promuevan el máximo logro de aprendizaje de los educandos, conforme a los perfiles, parámetros e indicadores que garanticen la idoneidad de los conocimientos, aptitudes y capacidades que correspondan.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 64.
 
-La Secretaría, en el ámbito de la educación básica y respecto del servicio profesional docente, tendrá las atribuciones siguientes:
-
-I. Someter a consideración de la autoridad educativa federal sus propuestas de perfiles, parámetros e indicadores de carácter complementario para el ingreso, promoción, permanencia y, en su caso, reconocimiento que estimen pertinentes;
-
-II. Llevar a cabo la selección y capacitación de los evaluadores conforme a los lineamientos que expida el Instituto Nacional para la Evaluación de la Educación;
-
-III. Llevar a cabo la selección de los aplicadores que podrán auxiliar en la aplicación de los instrumentos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
-
-IV. Convocar a los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección o de supervisión, y participar en su ejecución, de conformidad con los lineamientos que determine el Instituto Nacional para la Evaluación de la Educación;
-
-V. Participar en los procesos de evaluación del desempeño docente y de quienes ejerzan funciones de dirección o de supervisión, de conformidad con los lineamientos y periodicidad que determine el Instituto Nacional para la Evaluación de la Educación;
-
-VI. Calificar, conforme a los lineamientos que expida el Instituto Nacional para la Evaluación de la Educación, las etapas de los procesos de evaluación que, en su caso, determine el propio Instituto;
-
-VII. Operar y, en su caso, diseñar programas de reconocimiento para docentes y para el personal con funciones de dirección y supervisión que se encuentren en servicio, conforme a los lineamientos que al efecto se emitan;
-
-VIII. Ofrecer programas y cursos gratuitos, idóneos, pertinentes y congruentes con los niveles de desempeño que se desean alcanzar, para la formación continua, actualización de conocimientos y desarrollo profesional del personal docente y del personal con funciones de dirección o de supervisión que se encuentren en servicio;
-
-IX. Ofrecer al personal docente y al personal con funciones de dirección y de supervisión, programas de desarrollo de capacidades para la evaluación interna a que se refiere la Ley General del Servicio Profesional Docente;
-
-X. Organizar y operar el Servicio de Asistencia Técnica a la Escuela de conformidad con los lineamientos generales que determine la autoridad educativa federal;
-
-XI. Ofrecer los programas de regularización a que se refiere el Título Segundo,
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 65.
 
-La Secretaría o los organismos descentralizados, respecto de las escuelas a su cargo, en el ámbito de la educación media superior y respecto al servicio profesional docente, tendrán las atribuciones siguientes:
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-I. Participar con la autoridad educativa federal en la elaboración de los programas anual y de mediano plazo, conforme a los cuales se llevarán a cabo los procesos de evaluación que se refiere la Ley General del Servicio Profesional Docente;
-
-II. Determinar los perfiles y requisitos mínimos que deberán reunirse para el ingreso, promoción, reconocimiento y permanencia en el Servicio Profesional Docente;
-
-III. Participar en las etapas del procedimiento para la propuesta y definición de los parámetros e indicadores para el ingreso, promoción, reconocimiento y permanencia en el Servicio Profesional Docente, en términos de los lineamientos que la autoridad educativa federal expida para estos propósitos. En las propuestas respectivas se incluirán, de ser el caso, los perfiles, parámetros e indicadores complementarios que se estimen pertinentes;
-
-IV. Proponer al Instituto Nacional para la Evaluación de la Educación, las etapas, aspectos y métodos que comprenderán los procesos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
-
-V. Proponer al Instituto Nacional para la Evaluación de la Educación, los instrumentos de evaluación y perfiles de evaluadores para los efectos de los procesos de evaluación obligatorios que prevé la Ley General del Servicio Profesional Docente;
-
-VI. Llevar a cabo la selección y capacitación de los evaluadores, conforme a los lineamientos que expida el Instituto Nacional para la Evaluación de la Educación;
-
-VII. Llevar a cabo la selección de los aplicadores que podrán auxiliar en la aplicación de los instrumentos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
-
-VIII. Convocar a los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección o de supervisión, de conformidad con los lineamientos que determine el Instituto Nacional para la Evaluación de la Educación;
-
-IX. Participar en los procesos de evaluación del desempeño docente y de quienes ejerzan funciones de dirección o de supervisión, de conformidad con los lineamientos y periodicidad que determine el Instituto Nacional para la Evaluación de la Educación;
-
-X. Calificar, conforme a los lineamientos que expida el Instituto Nacional para la Evaluación de la Educación, las etapas de los procesos de evaluación que en su caso determine el propio Instituto;
-
-XI. Diseñar y operar programas de reconocimiento para el personal docente y para el personal con funciones de dirección y de supervisión que se encuentren en servicio;
-
-XII. Ofrecer programas y cursos para la formación continua del personal docente y del personal con funciones de dirección y de supervisión que se encuentren en servicio;
-
-XIII. Ofrecer al personal docente y con funciones de dirección y de supervisión programas de desarrollo de capacidades para la evaluación;
-
-XIV. Organizar y operar el Servicio de Asistencia Técnica a la Escuela;
-
-XV. Ofrecer los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente;
-
-XVI. Administrar la asignación de plazas con estricto apego al orden establecido y con base en los puntajes obtenidos de mayor a menor, de entre los sustentantes que resultaron idóneos en el concurso. Podrán asignarse para el inicio del ciclo escolar o en el transcurso de éste cuando se generen vacantes que la Secretaría o los organismos descentralizados, determinen que deban ser ocupadas;
-
-XVII. Celebrar, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación, convenios con instituciones públicas autorizadas por el propio Instituto para que participen en la realización de concursos de oposición y los procesos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
-
-XVIII. Emitir los actos jurídicos que crean, declaren, modifiquen o extingan derechos y obligaciones, de conformidad con lo previsto en la Ley General del Servicio Profesional Docente;
-
-XIX. Determinar, dentro de la estructura ocupacional autorizada, qué puestos del personal técnico docente formarán parte del Servicio Profesional Docente;
-
-XX. Establecer los mecanismos mediante los cuales los representantes de organizaciones no gubernamentales y padres de familia participarán como observadores en los procesos de evaluación que el Instituto Nacional para la Evaluación de la Educación determine, conforme a las reglas que al efecto expida; y
-
-XXI. Las demás que establezcan la Ley General de Educación, la Ley General del Servicio Profesional Docente y otras disposiciones aplicables.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN SEGUNDA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA MEJORA DE LA PRÁCTICA PROFESIONAL
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN SEGUNDA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 66.
 
-La evaluación interna deberá ser una actividad permanente, de carácter formativo y tendiente al mejoramiento de la práctica profesional de los docentes y al avance continuo de la escuela y de la zona escolar.
-
-Dicha evaluación se llevará a cabo bajo la coordinación y liderazgo del director. Los docentes tendrán la obligación de colaborar en esta actividad.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 67.
 
-Los docentes evaluados tendrán derecho de revisión para garantizar la correcta aplicación de su proceso de evaluación, previsto en la Ley General del Servicio Profesional Docente.
-
-Para tales efectos, se tomará en cuenta lo siguiente:
-
-I. La Secretaría se ajustará a los mecanismos que otorguen seguridad y transparencia a los docentes, en sus procesos de evaluación, en los términos precisados en el referido ordenamiento legal y de conformidad con los lineamientos que emita el Instituto Nacional para la Evaluación de la Educación;
-
-II. La Secretaría o el organismo descentralizado tendrán bajo su resguardo las hojas de respuesta de los exámenes que se practiquen dentro de dicho proceso; las copias estarán firmadas por los sustentantes y debidamente validadas por la Secretaría o el organismo descentralizado, y estarán disponibles para los docentes interesados diez días hábiles después de haber concluido la última evaluación;
-
-III. La evaluación no se basará en un solo instrumento, sino en un conjunto de ellos, que recojan información directamente del aula, de la escuela y, en general, del contexto educativo, y deberán ser aplicados por evaluadores seleccionados y capacitados, certificados conforme a los lineamientos que emita el Instituto Nacional para la Evaluación de la Educación;
-
-IV. Los resultados y recomendaciones individuales que deriven de los procesos de evaluación, serán considerados datos personales.
-
-Los evaluadores certificados por el Instituto Nacional para la Evaluación de la Educación, darán a conocer a los docentes, de manera personal, los reportes que contengan las fortalezas y debilidades de su desempeño docente, con el fin de hacer las adecuaciones en su práctica que permitan mejorar la calidad de la educación; y
-
-V. En caso de inconformidad con el dictamen final que la Secretaría o el organismo descentralizado emitan en el proceso de evaluación del desempeño a que se refiere la Ley General del Servicio Profesional Docente, el docente podrá impugnar dicho dictamen, haciendo uso de los recursos del portafolio de evidencias y de la hoja de respuesta de los exámenes que haya presentado.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN SEGUNDA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 68.
 
-Para el impulso de la evaluación interna, la Secretaría y los organismos descentralizados deberán:
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-I. Ofrecer al personal docente y al personal con funciones de dirección y de supervisión, programas de desarrollo de capacidades para la evaluación.
-
-Esta oferta tendrá como objetivo generar las competencias para el buen ejercicio de la función evaluadora e incluirá una revisión periódica de los avances que las escuelas y las zonas escolares alcancen en dichas competencias;
-
-II. Organizar en cada escuela, los espacios físicos y de tiempo para intercambiar experiencias, compartir proyectos, problemas y soluciones con la comunidad de docentes y el trabajo en conjunto entre las escuelas de cada zona escolar, que permita la disponibilidad presupuestal, así como aportar los apoyos que sean necesarios para su debido cumplimiento.
-
-Los programas a que se refiere la fracción I considerarán los perfiles, parámetros e indicadores para el desempeño docente, determinados conforme a la Ley General del Servicio Profesional Docente, en los aspectos que sean conducentes;
-
-III. Determinar, en su caso, el apoyo que el Servicio de Asistencia Técnica brinde a la escuela y al personal docente, en la práctica de la evaluación interna, así como en la interpretación y uso de las evaluaciones externas.
-
-Este servicio será brindado por personal docente con funciones de dirección o supervisión o de asesor técnico pedagógico que determine la propia Secretaría o los organismos descentralizados.
-
-En el caso del personal docente con funciones de asesoría técnica pedagógica, dicha determinación se hará conforme lo establecido en el artículo 41 de la Ley General del Servicio Profesional Docente;
-
-IV. Hacer pública la información sobre las plazas docentes con funciones de asesor técnico pedagógico existentes y las responsabilidades de quienes las ocupan en cada escuela y zona escolar;
-
-V. Organizar y operar, en la educación media superior, el servicio de asistencia técnica a la escuela y, en todo caso, que sea eficaz y pertinente; y
-
-VI. Establecer, con base en los resultados de la evaluación interna, compromisos verificables de mejora.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN TERCERA. DEL INGRESO AL SERVICIO PROFESIONAL DOCENTE
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 69.
 
-El ingreso al servicio en la educación básica y media superior que impartan el Estado, municipios y organismos descentralizados, se llevará a cabo mediante concursos de oposición, preferentemente anuales, que garanticen la idoneidad de los conocimientos y las capacidades necesarias.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 70.
 
-Para el ingreso al Servicio Profesional Docente en la educación básica, la Secretaría deberá:
-
-I. Expedir las convocatorias para el ingreso al Servicio Profesional Docente, con base en la información derivada del sistema de información y gestión educativa.
-
-II. Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados; los criterios para la asignación de las plazas, y demás elementos que la Secretaría estime pertinentes. En su caso, las convocatorias describirán los perfiles complementarios autorizados por la propia Secretaría;
-
-III. Publicar las citadas convocatorias aprobadas por la autoridad educativa federal, de acuerdo con los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación; y
-
-IV. Expedir convocatorias extraordinarias cuando a juicio de la autoridad educativa estatal lo justifique y con la anuencia de la autoridad educativa federal.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 71.
 
-Para el ingreso al Servicio Profesional Docente en la educación media superior, la Secretaría y los organismos descentralizados, según corresponda, deberán emitir con la anticipación suficiente, al inicio del ciclo académico y de acuerdo con las necesidades del servicio y a los programas anual y mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación, las convocatorias para el ingreso al servicio profesional docente en la educación media superior.
-
-Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados y los criterios para la asignación del número de ingresos, y demás elementos que la autoridad educativa estime pertinentes. Las convocatorias deberán contemplar las distintas modalidades de este tipo educativo, así como las especialidades correspondientes.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 72.
 
-En la educación básica y media superior, el ingreso a una plaza docente dará lugar a un nombramiento definitivo de base después de seis meses de servicios sin nota desfavorable en su expediente, en términos de la Ley General del Servicio Profesional Docente.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 73.
 
-La Secretaría o los organismos descentralizados, según corresponda, deberán:
-
-I. Designar a los tutores que acompañarán al personal docente de nuevo ingreso durante dos años con el objeto de fortalecer las capacidades, conocimientos y competencias de dicho personal;
-
-II. Realizar una evaluación al término del primer año escolar y brindar los apoyos y programas pertinentes para fortalecer las capacidades, conocimientos y competencias del docente;
-
-III. Evaluar el desempeño del docente al término del periodo de inducción para determinar si en la práctica favorece el aprendizaje de los alumnos y, en general, cumple con las exigencias propias de la función docente;
-
-IV. Dar por terminados los efectos del nombramiento, sin responsabilidad para la Secretaría o el organismo descentralizado, cuando el personal no atienda los apoyos y programas previstos, incumpla con la obligación de la evaluación o cuando al término del periodo se identifique su insuficiencia en el nivel de desempeño de la función docente;
-
-V. Asignar las plazas que durante el ciclo escolar queden vacantes, conforme a lo siguiente:
-
-a) Con estricto apego al orden de prelación de los sustentantes, con base en los puntajes de mayor a menor, que resultaron idóneos en el último concurso de oposición y que no hubieran obtenido una plaza anteriormente. La adscripción de la plaza tendrá vigencia durante el ciclo escolar en que sea asignada y el docente podrá ser readscrito, posteriormente, a otra escuela conforme a las necesidades del servicio, y
-
-b) De manera extraordinaria y sólo cuando se hubiera agotado el procedimiento señalado en el inciso anterior, a docentes distintos a los señalados, los nombramientos que se expidan serán por tiempo fijo y con una duración que no podrá exceder el tiempo remanente hasta la conclusión del ciclo escolar correspondiente. Sólo podrán ser otorgados a docentes que reúnan el perfil; y
-
-VI. Asignar horas al personal docente que no sea de jornada, en términos del artículo 42 de la Ley General del Servicio Profesional Docente.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 74.
 
-En los concursos de oposición para el ingreso que se celebren en los términos de la Ley General del Servicio Profesional Docente, podrán participar todas las personas que cumplan con el perfil relacionado con el nivel, tipo, modalidad y materia educativa correspondiente; así como con los requisitos que establezca la convocatoria respectiva, en igualdad de condiciones, sin demérito de origen, residencia, lugar o formación profesional.
-
-En la educación básica dicho perfil corresponderá al académico con formación docente pedagógica o áreas afines que corresponda a los niveles educativos, privilegiando el perfil pedagógico docente de los candidatos; también se considerarán perfiles correspondientes a las disciplinas especializadas de la enseñanza.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 75.
 
-Quienes participen en alguna forma de ingreso distinta a lo establecido en la Ley General del Servicio Profesional Docente y en la presente Ley, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN CUARTA. DE LA PROMOCIÓN A CARGOS CON FUNCIONES DE DIRECCIÓN Y DE SUPERVISIÓN
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 76.
 
-La promoción a cargos con funciones de dirección y de supervisión en la educación básica que imparta el Estado, se llevará a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y las capacidades necesarias, además de haber ejercido como docente un mínimo de dos años y con sujeción a los términos y criterios siguientes:
-
-I. Formular las convocatorias para los concursos correspondientes, los que serán públicos.
-
-Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados y los criterios para la asignación de las plazas, y demás elementos que la autoridad educativa federal estime pertinentes;
-
-II. Publicar las citadas convocatorias autorizadas por la autoridad educativa federal, con la anticipación suficiente al inicio del ciclo escolar y de acuerdo con los programas anual y de mediano plazo, conforme a los cuales se llevarán a cabo los procesos de evaluación;
-
-III. Expedir convocatorias extraordinarias, previa anuencia de la autoridad educativa federal, cuando a juicio de la autoridad educativa estatal lo justifique;
-
-IV. Determinar, en la educación básica y en los casos de promoción a una plaza con funciones de dirección, los programas de desarrollo de liderazgo y gestión escolar que deberá cursar el personal al que se le otorgó nombramiento sujeto a un periodo de inducción con duración de dos años ininterrumpidos; y
-
-V. Determinar en la educación básica, los procesos de formación en que participará el personal al que se le promocione a una plaza con funciones de supervisión. Esta promoción dará lugar a un nombramiento definitivo.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 77.
 
-Cuando en la evaluación se identifique la insuficiencia en el nivel de desempeño de las funciones de dirección, el personal volverá a su función docente en la escuela en que hubiere estado asignado.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 78.
 
-La promoción a cargos con funciones de dirección y de supervisión en la educación media superior que imparta el Estado, se llevará a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y las capacidades necesarias, además de haber ejercido como docente un mínimo de dos años y con sujeción a los términos y criterios siguientes:
-
-I. Formular las convocatorias para los concursos correspondientes, los que serán públicos.
-
-Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados y los criterios para la asignación de las plazas, y demás elementos que la Secretaría o los organismos descentralizados estime pertinentes;
-
-II. Emitir, de acuerdo con las necesidades del servicio y los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación, las convocatorias para la promoción a cargos con funciones de dirección y de supervisión en la educación media superior;
-
-III. Determinar, en la educación media superior, en los casos de promoción a una plaza con funciones de dirección, la duración de los nombramientos por tiempo fijo conforme a las disposiciones aplicables. Al término del nombramiento, quien hubiera ejercido las funciones de dirección volverá a su función docente, preferentemente en la escuela en que hubiere estado asignado o, de no ser posible, a otra que la autoridad educativa determine en función de las necesidades del servicio;
-
-IV. Definir los procesos de formación en los que deberá participar el personal que, derivado de una promoción a plaza con funciones de dirección, reciba el nombramiento por primera vez. Quien no se incorpore a estos procesos, volverá a su función docente en la escuela que la Secretaría o los organismos descentralizados determinen, en función de las necesidades del servicio;
-
-V. Señalar los demás requisitos y criterios para la renovación de los nombramientos a cargos con funciones de dirección, para lo cual se tomarán en cuenta, también, los resultados de la evaluación del desempeño a que se refiere el artículo 52 de la Ley General del Servicio Profesional Docente;
-
-VI. Determinar, en la educación media superior y con motivo de una promoción a una plaza con funciones de supervisión, la duración del nombramiento por tiempo fijo; y
-
-VII. Señalar, de ser el caso, los requisitos y criterios para la renovación de los nombramientos a cargos con funciones de supervisión, para lo cual se tomarán en cuenta, también, los resultados de la evaluación del desempeño a que se refiere el artículo 52 de la Ley General del Servicio Profesional Docente.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 79.
 
-En la educación básica y media superior, la Secretaría o los organismos descentralizados podrán cubrir temporalmente las plazas con funciones de dirección o de supervisión a que se refiere el Capítulo IV del Título Segundo de la Ley General del Servicio Profesional Docente, cuando por las necesidades del servicio no deban permanecer vacantes. Los nombramientos que expidan serán por tiempo fijo; sólo podrán ser otorgados a docentes en servicio por el tiempo remanente hasta la conclusión del ciclo escolar correspondiente y dichas plazas deberán ser objeto del concurso inmediato posterior.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 80.
 
-Quienes participen en alguna forma de promoción a cargos con funciones de dirección o de supervisión distinta a lo establecido en el Capítulo IV del Título Segundo de la Ley General del Servicio Profesional Docente o en esta Ley, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 81.
 
-La autoridad educativa estatal podrá establecer, tanto en la educación básica como en la media superior, otros programas de promoción distintos a los previstos en el Capítulo VI del Título Segundo de la Ley General del Servicio Profesional Docente, que premien el mérito y que se sustenten en la evaluación del desempeño.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 82.
 
-La autoridad educativa estatal también podrá:
-
-I. Otorgar reconocimientos al personal docente y al personal con funciones de dirección y de supervisión que destaque en su desempeño y, en consecuencia, en el cumplimiento de su responsabilidad;
-
-II. Realizar las acciones necesarias para que en el diseño de los programas de reconocimiento se cumpla con lo dispuesto en el artículo 45 de la Ley General del Servicio Profesional Docente; y
-
-III. Prever los mecanismos para facilitar distintos tipos de experiencias profesionales que propicien el reconocimiento de las funciones docente y de dirección, mediante movimientos laterales que permitan a los docentes y directivos, previo su consentimiento, desarrollarse en distintas funciones según sus intereses, capacidades o en atención de las necesidades del sistema.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 83.
 
-En la educación básica los movimientos laterales serán temporales, con una duración de hasta tres ciclos escolares, sin que los docentes pierdan el vínculo con la docencia.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 84.
 
-Los movimientos laterales a funciones de Asesoría Técnica Pedagógica temporales sólo podrán renovarse por un ciclo escolar más.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 85.
 
-Los movimientos laterales sólo podrán realizarse previamente al inicio del ciclo escolar o ciclo lectivo, por lo que deberán tomarse las previsiones necesarias para no afectar la prestación del servicio educativo.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 86.
 
-La autoridad educativa estatal podrá otorgar otros reconocimientos en función de la evaluación del desempeño docente y de quienes realizan funciones de dirección o supervisión. Estos reconocimientos podrán ser individuales o para el conjunto de docentes y el director en una escuela.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN QUINTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN QUINTA. DE LA PERMANENCIA EN EL SERVICIO
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN QUINTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 87.
 
-Las autoridades educativas deberán evaluar el desempeño docente y de quienes ejerzan funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado.
-
-La evaluación a que se refiere el párrafo anterior será obligatoria. El Instituto Nacional para la Evaluación de la Educación determinará su periodicidad, considerando por lo menos una evaluación cada cuatro años y vigilará su cumplimiento.
-
-En la evaluación del desempeño se utilizarán los perfiles, parámetros e indicadores, así como los instrumentos de evaluación que para fines de permanencia sean definidos y autorizados conforme a la Ley General del Servicio Profesional Docente.
-
-Los evaluadores que participen en la evaluación del desempeño, deberán estar evaluados y certificados por el Instituto Nacional para la Evaluación de la Educación.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN QUINTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 88.
 
-Para la educación básica, los programas de regularización serán definidos de conformidad con los lineamientos generales que expida la autoridad educativa federal. En el caso de la educación media superior, los programas de regularización serán determinados por las autoridades educativas.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN SEXTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEXTA. DE LOS PERFILES, PARÁMETROS E INDICADORES
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN SEXTA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 89.
 
-Para la determinación de los perfiles, parámetros e indicadores en el ámbito de la educación básica y media superior, el Estado se sujetará a lo previsto en el Título Tercero de la Ley General del Servicio Profesional Docente.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN SÉPTIMA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN SÉPTIMA. OTRAS CONDICIONES
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN SÉPTIMA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 90.
 
-Las escuelas en las que el Estado imparta la educación básica y media superior, deberán contar con una estructura ocupacional debidamente autorizada, de conformidad con las reglas que al efecto expida la autoridad educativa federal, en consulta con la autoridad educativa estatal para las particularidades regionales.
-
-En la estructura ocupacional de cada escuela, deberá precisarse el número y tipos de puestos de trabajo requeridos, atendiendo al número de aulas y espacios disponibles, al alumnado inscrito y al plan de estudios de que se trate.
-
-Las estructuras ocupacionales deberán ser revisadas y, en su caso, ajustadas por lo menos una vez al año, de conformidad con las reglas que determine la autoridad educativa federal.
-
-El personal docente y el personal con funciones de dirección que ocupe los puestos definidos en la estructura ocupacional de la escuela, deben reunir el perfil apropiado para el puesto correspondiente, y conformar la plantilla de personal de la escuela.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN SÉPTIMA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 91.
 
-La estructura ocupacional autorizada y la plantilla de personal de cada escuela, así como los datos sobre la formación, trayectoria y desempeño profesional de cada docente, deberán estar permanentemente actualizados en el sistema de información y gestión educativa.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 #### SECCIÓN OCTAVA. DERECHOS Y OBLIGACIONES
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 92.
 
-Quienes participen en el servicio profesional docente, previsto en la Ley General del Servicio Profesional Docente, tendrán los siguientes derechos:
-
-I. Participar en los concursos y procesos de evaluación respectivos;
-
-II. Conocer con al menos tres meses de anticipación, los perfiles, parámetros e indicadores, con base en los cuales se aplicarán los procesos de evaluación;
-
-III. Recibir junto con los resultados del proceso de evaluación o concurso, el dictamen de diagnóstico que contenga las necesidades de regularización y formación continua que correspondan;
-
-IV. Tener acceso a los programas de capacitación y formación continua necesarios para mejorar su práctica docente, con base en los resultados de su evaluación;
-
-V. Ser incorporados, en su caso, a los programas de inducción, reconocimiento, formación continua, desarrollo de capacidades, regularización, desarrollo de liderazgo y gestión que correspondan;
-
-VI. Que durante el proceso de evaluación sea considerado el contexto regional y sociocultural;
-
-VII. Ejercer el derecho de interponer su defensa en los términos del artículo 81 de la Ley General del Servicio Profesional Docente, así como en lo dispuesto en el presente ordenamiento;
-
-VIII. Acceder a los mecanismos de promoción y reconocimiento contemplados en esta Ley con apego y respeto a los méritos y resultados en los procesos de evaluación y concursos, conforme a los lineamientos aplicables;
-
-IX. Que la valoración de los procesos de evaluación se efectúe bajo los principios de legalidad, imparcialidad y objetividad; y
-
-X. Los demás previstos en la Ley General del Servicio Profesional Docente y en esta Ley.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 93.
 
-El personal docente y el personal con funciones de dirección o de supervisión en la educación básica y media superior tendrán, conforme a la Ley General del Servicio Profesional Docente y en esta Ley, las obligaciones siguientes:
-
-I. Cumplir con los procesos establecidos para las evaluaciones con fines de ingreso, promoción, permanencia y, en su caso, reconocimiento, en términos de lo prescrito por la Ley General del Servicio Profesional Docente y en la presente Ley;
-
-II. Cumplir con el periodo de inducción al servicio y sujetarse a la evaluación que para dichos efectos refiere la Ley General del Servicio Profesional Docente y en la presente Ley;
-
-III. Prestar los servicios docentes en la escuela en la que se encuentre adscrito y abstenerse de cualquier cambio de adscripción, sin previa autorización, conforme a lo previsto en la Ley General del Servicio Profesional Docente y esta Ley;
-
-IV. Abstenerse de prestar el servicio docente sin haber cumplido los requisitos y procesos a que se refieren la Ley General del Servicio Profesional Docente, el presente ordenamiento y demás disposiciones aplicables;
-
-V. Presentar documentación fidedigna dentro de los procesos a que se refieren la Ley General del Servicio Profesional Docente y esta Ley;
-
-VI. Sujetarse de manera personal, a los procesos de evaluación a que se refieren la Ley General del Servicio Profesional Docente y este ordenamiento;
-
-VII. Atender los programas de regularización, así como aquellos que sean obligatorios de formación continua, capacitación y actualización; y
-
-VIII. Las demás que señalen la Ley General del Servicio Profesional Docente, el presente ordenamiento y otras disposiciones aplicables.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 94.
 
-Los servidores públicos de la autoridad educativa estatal que incumplan con lo previsto en la Ley General del Servicio Profesional Docente y en el presente ordenamiento, estarán sujetos a las responsabilidades que procedan.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 95.
 
-Será nula y, en consecuencia, no surtirá efecto alguno toda forma de ingreso o de promoción distinta a lo establecido en la Ley General del Servicio Profesional Docente y en esta Ley.
-
-La nulidad será declarada por el área competente, aplicando para ello el procedimiento previsto en el artículo 75 de la Ley General del Servicio Profesional Docente y en la presente Ley.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 96.
 
-Será separado del servicio público, sin responsabilidad para la Secretaría o el organismo descentralizado y sin necesidad de que exista resolución previa de la autoridad jurisdiccional competente, el evaluador que no se excuse de intervenir en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge, su concubina o concubinario, o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles.
-
-Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 97.
 
-La Secretaría y los organismos descentralizados deberán revisar y cotejar la documentación presentada por los aspirantes en los concursos de oposición a que se refieren la Ley General del Servicio Profesional Docente y esta Ley.
-
-De comprobarse que la documentación es apócrifa o ha sido alterada, se desechará el trámite. En cualquier caso, se dará parte a las autoridades competentes para los efectos legales que procedan.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 98.
 
-El incumplimiento de las obligaciones establecidas en el artículo 69 de la Ley General del Servicio Profesional Docente y en la presente Ley, dará lugar a la terminación de los efectos del nombramiento correspondiente sin responsabilidad para la Secretaría o para el organismo descentralizado, y sin necesidad de que exista resolución previa de la autoridad jurisdiccional competente; sin embargo, deberá aplicar un procedimiento en el que respete los derechos de audiencia y defensa del trabajador.
-
-Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 99.
 
-Cuando la autoridad educativa considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del probable infractor para que, dentro de un plazo de diez días hábiles, manifieste lo que a su derecho convenga y proporcione los documentos y demás elementos de prueba que considere pertinentes.
-
-La autoridad educativa, dictará resolución en un plazo máximo de diez días hábiles con base en los datos aportados por el probable infractor y demás constancias que obren en el expediente respectivo.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 100.
 
-Con el propósito de asegurar la continuidad en el servicio educativo, el servidor público del sistema educativo nacional, el personal docente y el personal con funciones de dirección o de supervisión en la educación básica y media superior que incumpla con la asistencia a sus labores por más de tres días consecutivos o discontinuos, en un periodo de treinta días naturales, sin causa justificada será separado del servicio sin responsabilidad para la autoridad educativa o para el organismo descentralizado, aplicando para ello el procedimiento previsto en el artículo 75 de la Ley General del Servicio Profesional Docente y en la presente Ley.
-
-Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 101.
 
-Las sanciones que prevén la Ley General del Servicio Profesional Docente y el presente ordenamiento, se aplicarán sin perjuicio de las previstas en otras disposiciones legales, reglamentarias o administrativas.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN OCTAVA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 102.
 
-Las personas que decidan aceptar el desempeño de un empleo, cargo o comisión que impidan el ejercicio de su función docente, de dirección o supervisión, deberán separarse del servicio, sin goce de sueldo, mientras dure el empleo, cargo o comisión.
+(DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 #### SECCIÓN NOVENA. EVALUACIÓN DE LOS EDUCANDOS
 
@@ -1417,9 +1091,13 @@ I. Por lo que concierne a la educación primaria, la secundaria, la normal y la 
 
 II. Cuando se trate de niveles y modalidades distintos a los mencionados en la fracción anterior, deberán obtener el registro y el reconocimiento de validez oficial de estudios de la Secretaría;
 
-III. Por lo que se refiere a la educación inicial, preescolar y especial, deberán previamente obtener el registro ante la Secretaría y cumplir los requisitos para el funcionamiento que establezca la propia autoridad educativa; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
-IV. La Secretaría vigilará la observancia de los requisitos pedagógicos establecidos por la autoridad educativa federal, en los planes y programas de educación inicial, preescolar y especial, en los términos que marca la presente Ley.
+III. Por lo que se refiere a la educación inicial, preescolar y especial, deberán previamente obtener el registro ante la Secretaría, así como cumplir los requisitos y principios señalados en los artículos 34 y 42 de esta Ley para el funcionamiento que establezca la propia autoridad educativa; y
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IV. La Secretaría vigilará la observancia de los requisitos pedagógicos establecidos por la autoridad educativa federal, en los planes y programas, así como en los esquemas curriculares y cocurriculares que se establezcan en cada centro escolar como fortalecimiento a la educación inicial, preescolar y especial, en los términos que marca la presente Ley.
 
 ###### Artículo 113.
 
@@ -1473,27 +1151,7 @@ La Secretaría emitirá la normatividad correspondiente para realizar las tareas
 
 En el caso de educación inicial, los particulares deberán, además, contar con personal que acredite la preparación adecuada, contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude la presente Ley y presentar las evaluaciones que correspondan en el marco del sistema nacional de evaluación educativa, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
-### Capítulo VIII de la Ley General del Servicio Profesional Docente;
-
-XII. Ofrecer los programas de desarrollo de liderazgo y gestión pertinentes;
-
-XIII. Emitir los lineamientos a los que se sujetará la elección de personal a que refiere el artículo 47 de la Ley General del Servicio Profesional Docente;
-
-XIV. Administrar la asignación de plazas con estricto apego al orden establecido y con base en los puntajes obtenidos de mayor a menor, de entre los sustentantes que resultaron idóneos en el concurso. Podrán asignarse para el inicio del ciclo escolar o en el transcurso de éste cuando se generen vacantes que la Secretaría determine que deban ser ocupadas;
-
-XV. Celebrar, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación, convenios con instituciones públicas autorizadas por el propio Instituto para que participen en la realización de concursos de oposición y los procesos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
-
-XVI. Emitir los actos jurídicos que crean, declaren, modifiquen o extingan derechos y obligaciones de conformidad con lo previsto en la Ley General del Servicio Profesional Docente;
-
-XVII. Proponer a la autoridad educativa federal, los requisitos y perfiles que deberán reunirse para el ingreso, promoción, reconocimiento y permanencia en el Servicio Profesional Docente;
-
-XVIII. Determinar, dentro de la estructura ocupacional autorizada, qué puestos del personal técnico docente formarán parte del Servicio Profesional Docente;
-
-XIX. Establecer los mecanismos mediante los cuales los representantes de organizaciones no gubernamentales y padres de familia participarán como observadores en los procesos de evaluación que el Instituto Nacional para la Evaluación de la Educación determine, conforme a las reglas que al efecto expida; y
-
-XX. Las demás que establezcan la Ley General de Educación, la Ley General del Servicio Profesional Docente y otras disposiciones aplicables.
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE NUMERAL QUE INTEGRA LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### CAPÍTULO CUARTO. DE LA VALIDEZ OFICIAL DE LOS ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
 
 #### SECCIÓN ÚNICA
 
@@ -1523,7 +1181,7 @@ La Secretaría podrá expedir certificados, constancias, diplomas o títulos a q
 
 El acuerdo respectivo señalará los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
-### CAPÍTULO CUARTO. DE LA VALIDEZ OFICIAL DE LOS ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
+### CAPÍTULO QUINTO. DE LA PARTICIPACIÓN SOCIAL
 
 #### SECCIÓN PRIMERA. LA PARTICIPACIÓN SOCIAL DE LOS PADRES DE FAMILIA
 
@@ -1684,8 +1342,6 @@ Los convenios que al efecto se celebren, podrán tener cobertura regional, estat
 En el ámbito de su competencia, las autoridades educativas solicitarán a la autoridad competente, la vigilancia de los mensajes, publicidad, promociones, avisos, invitaciones que se emitan, que pudieran ser contrarios a los principios contenidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO SEXTO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVISIÓN
-
-### CAPÍTULO QUINTO. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 140.
 
@@ -1863,19 +1519,7 @@ Artículo Quinto. Se derogan todas las disposiciones administrativas que se opon
 
 Artículo Sexto. El Estado reconoce a todas las organizaciones sindicales del ámbito educativo, que cuenten con el reconocimiento legal, como las titulares de las relaciones laborales, en términos de su registro vigente y de acuerdo con las disposiciones legales aplicables.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2014, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO SÉPTIMO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-###### ARTÍCULO SÉPTIMO.
-
-EL PERSONAL DOCENTE Y EL PERSONAL CON FUNCIONES DE DIRECCIÓN O DE SUPERVISIÓN EN LA EDUCACIÓN BÁSICA O MEDIA SUPERIOR IMPARTIDA POR EL ESTADO, QUE A LA ENTRADA EN VIGOR DE ESTA LEY TENGA NOMBRAMIENTO PROVISIONAL, CONTINUARÁ EN LA FUNCIÓN QUE DESEMPEÑA Y SERÁ SUJETO DE LA EVALUACIÓN QUE LA PROPIA LEY ESTABLECE.
-
-AL PERSONAL QUE OBTENGA RESULTADOS SUFICIENTES EN DICHA EVALUACIÓN, SE LE OTORGARÁ NOMBRAMIENTO DEFINITIVO Y QUEDARÁ INCORPORADO AL SERVICIO PROFESIONAL DOCENTE CONFORME A LO DISPUESTO POR LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE Y EN EL PRESENTE ORDENAMIENTO.
-
-SERÁ SEPARADO DEL SERVICIO PÚBLICO SIN RESPONSABILIDAD PARA LA SECRETARÍA O EL ORGANISMO DESCENTRALIZADO, EL PERSONAL CON NOMBRAMIENTO PROVISIONAL QUE:
-
-A) SE NIEGUE A PARTICIPAR EN LOS PROCESOS DE EVALUACIÓN.
-
-B) NO SE INCORPORE AL PROGRAMA DE REGULARIZACIÓN CORRESPONDIENTE, CUANDO OBTENGA RESULTADOS INSUFICIENTES EN EL PRIMERO O SEGUNDO PROCESO DE EVALUACIÓN ESTABLECIDO EN LA PRESENTE LEY.
+Artículo Séptimo. (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2017)
 
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
@@ -1914,3 +1558,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 132.- SE DEROGAN ALGUNOS ARTÍCULOS Y FRACCIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 163.- SE REFORMAN ARTÍCULOS, PÁRRAFO Y FRACCIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Las modificaciones a la normatividad administrativa que deriven del presente Decreto, deberán efectuarse dentro de los noventa días naturales siguientes a su entrada en vigor.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 169.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE ASISTENCIA SOCIAL Y LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS, TODAS DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
