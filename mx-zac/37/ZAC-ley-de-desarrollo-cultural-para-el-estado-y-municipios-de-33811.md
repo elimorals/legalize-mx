@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-cultural-para-el-estado-y-municipios-de-33811
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2003-08-16"
+last_updated: "2017-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -141,6 +141,10 @@ XV. Patrimonio Cultural Tangible.- Todo producto cultural, tanto individual como
 
 XVI. Política Cultural: Al conjunto de normas y prácticas que adopte una comunidad para alcanzar sus objetivos en el campo cultural.
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Registro: Registro Estatal de Creadores y Promotores Culturales.
+
 ### CAPITULO II. DEL DESARROLLO CULTURAL
 
 ###### Artículo 8.
@@ -201,7 +205,43 @@ VI. Crear el Sistema de Información Cultural, y promover la elaboración de dia
 
 VII. Promover la creación de una comisión especial de cultura, que se instalará en el seno del COPLADEZ; y
 
-VIII. Las demás que de manera especial se le confieran.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Establecer mecanismos de participación social que vinculen a los creadores, promotores, intérpretes, instituciones, organizaciones, difusores culturales y los habitantes de la Entidad;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Impulsar, consolidar y enriquecer la identidad y pertenencia de las expresiones culturales zacatecanas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+X. Estimular la creación, investigación, formación y capacitación en las diferentes disciplinas artísticas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XI. Establecer el esquema de apoyos, becas o subsidios que se otorgarán a las industrias culturales;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Administrar, conservar, equipar y mejorar física y tecnológicamente los espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Impulsar la ampliación de los servicios culturales y la edificación, ampliación, conservación, mantenimiento y rescate de las instalaciones de la infraestructura cultural del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. Impulsar ante las autoridades federales y estatales la expedición de las Declaratorias de bienes y zonas de monumentos arqueológicos, artísticos o históricos, en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Protección y Conservación del Patrimonio Cultural del Estado y otras disposiciones, según corresponda;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Crear el Registro Estatal de Creadores y Promotores Culturales como parte del Sistema de Información Cultural;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Vigilar la recepción de donaciones en dinero o especie y verificar que se administren de manera óptima, sea por sí mismo o a través del órgano o instancia que determine, a fin de impulsar el desarrollo cultural del Estado; y
+
+XVII. Las demás que de manera especial se le confieran.
 
 ###### Artículo 14.
 
@@ -297,6 +337,12 @@ El Instituto, como instancia rectora de la cultura, alentará, orientará y apoy
 
 Los Municipios formarán parte del Sistema Estatal, a través de su propio Instituto, actuarán bajo los criterios y procedimientos que establezca el Sistema Estatal de Cultura, adecuando a su ámbito de competencia, la operación de políticas culturales del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 25 Bis.
+
+El Instituto, conjuntamente con los Municipios, promoverá mecanismos para la capacitación, certificación de competencias y profesionalización del personal de las áreas culturales, promotores y gestores culturales.
+
 ### CAPITULO VI. DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
 ###### Artículo 26.
@@ -316,6 +362,54 @@ V. Dictar acuerdos administrativos o expedir decretos necesarios para la eficaz 
 ###### Artículo 27.
 
 Las atribuciones del Director General del Instituto y de los Institutos Culturales Municipales, serán las que expresamente les confiera el Decreto que crea al Instituto Zacatecano de la Cultura "Ramón López Velarde", y la Ley Orgánica del Municipio respectivamente.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+Son atribuciones de los Ayuntamientos en materia de cultura:
+
+I. Garantizar a los habitantes de su demarcación el acceso a los bienes y servicios culturales con los que cuenta el Municipio;
+
+II. Elaborar el diagnóstico y un Plan Estratégico de Cultura Municipal, con base en los lineamientos del Plan Municipal de Desarrollo, como instrumento de planeación donde quede integrado el diseño específico de las políticas de gestión y promoción cultural y artística. Para lo anterior deberá considerarse lo siguiente:
+
+a) El diagnóstico, donde se deberá incluir la información relativa a trabajadores, promotores y gestores culturales, las audiencias y consumidores culturales, descripción del patrimonio material e inmaterial, infraestructura cultural y el estado que guarda, avance en las políticas y acciones culturales.
+
+b) El establecimiento de las políticas culturales de su jurisdicción.
+
+c) La ampliación de los procesos de descentralización en las políticas y acciones de fomento al desarrollo cultural y artístico, así como las de rescate, salvaguarda y promoción del patrimonio cultural.
+
+d) La elaboración de estudios especializados y de carácter prospectivo, dirigidos a impulsar la formación, actualización y profesionalización de los artistas y trabajadores culturales en el municipio.
+
+e) El establecimiento de las acciones de vinculación educativa, cultural y artística.
+
+f) La promoción y difusión del conocimiento, preservación, conservación y enriquecimiento de la diversidad cultural en todas sus expresiones, y
+
+g) La elaboración del catálogo de su patrimonio arquitectónico y de sus principales manifestaciones culturales y artísticas.
+
+III. Destinar recursos para la ejecución del Plan Estratégico de Cultura Municipal;
+
+IV. Fomentar la participación de la sociedad y de los creadores locales en la formulación, ejecución y evaluación de la política cultural municipal;
+
+V. Generar programas y proyectos culturales a través de los Consejos Ciudadanos, Comités de Participación Social y demás instrumentos instituidos para tal efecto;
+
+VI. Promover el establecimiento de centros, casas de cultura, museos, galerías artísticas, talleres artísticos comunitarios, espacios escénicos, archivos históricos, bibliotecas, hemerotecas u organismos similares para el desarrollo de las expresiones culturales;
+
+VII. Emprender acciones para la conservación y difusión del patrimonio cultural municipal material a través de la restauración, la salvaguarda del acervo concentrado en museos y archivos;
+
+VIII. Impulsar toda expresión que enriquezca el patrimonio cultural municipal inmaterial: festividades culturales, musicales, gastronómicas, tradiciones y ritos, arte popular, artesanías, entre otras expresiones culturales que conforman la identidad del municipio y sus comunidades;
+
+IX. Ampliar los mecanismos de colaboración de los Ayuntamientos para la operación interinstitucional en concordancia con las políticas culturales que integren el Sistema Estatal de Desarrollo Cultural;
+
+X. Establecer órganos de apoyo en la coordinación y ejecución de los programas culturales municipales y gestionar apoyos federales, estatales e intermunicipales, para fomentar la participación democrática de individuos y grupos que presenten proyectos culturales y artísticos;
+
+XI. Promover el conjunto de expresiones derivadas de la pluralidad cultural: étnicas, regionales, rurales, urbano populares y de migrantes;
+
+XII. Reconocer, estimular y apoyar a personas y organizaciones sociales que destaquen en los diversos ámbitos del quehacer cultural y artístico;
+
+XIII. Contribuir a la integración, desarrollo y actualización permanente de los sistemas de información, evaluación e indicadores de la actividad cultural, y
+
+XIV. Las demás que señale la presente Ley y los demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 28.
 
@@ -339,6 +433,22 @@ El Estado de Zacatecas, reconoce la existencia de individuos, instituciones de a
 
 El Instituto establecerá con los creadores, asociaciones e instituciones culturales de la Entidad, una estrategia de información y difusión de las actividades y los programas culturales que se realicen en su región, con el fin de establecer canales de comunicación y vinculación de los individuos y las instituciones.
 
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+El Sistema de Información Cultural es un mecanismo del Ejecutivo del Estado, a cargo del Instituto, cuyo fin es integrar, organizar, sistematizar y difundir la información relativa a las actividades, bienes y servicios culturales del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Se crea el Sistema de Información Cultural y el Registro Estatal de Creadores y Promotores Culturales, que incluya el directorio de catálogos de artistas, espacios físicos y virtuales, frecuencias radiofónicas, medios impresos y portales electrónicos, cuyos fines se orienten al fomento cultural y artístico de la entidad.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Las dependencias y entidades de la administración pública estatal proporcionarán la información necesaria para la estructuración y actualización permanente del Sistema de Información Cultural y del Registro Estatal de Creadores y Promotores Culturales.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+El Instituto solicitará a los Ayuntamientos los padrones y directorios municipales de sus centros de promoción cultural y artística, con la finalidad de mantener actualizado el Sistema y el Registro.
+
 ###### Artículo 33.
 
 La estrategia de información y difusión servirá además para acercar a las redes sociales vinculadas a la cultura, con los habitantes de la Entidad en su calidad de usuarios de los servicios culturales.
@@ -347,7 +457,21 @@ La estrategia de información y difusión servirá además para acercar a las re
 
 La participación social que vincula a los creadores, promotores, instituciones, organizaciones, difusores culturales y los habitantes de la Entidad, facilitará la discusión, coordinación y evaluación de los programas y acciones culturales. El Instituto con base en los mecanismos a los que se refiere esta ley, propiciará los espacios para la incorporación de estas aportaciones.
 
-### CAPITULO VIII. DE LA INFORMACIÓN, DIFUSIÓN Y VINCULACIÓN DE LA CULTURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPITULO VIII. DE LA INFORMACIÓN, DIFUSIÓN Y VINCULACIÓN DE LA CULTURA Y DEL APOYO A LAS EMPRESAS E INDUSTRIAS CULTURALES
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 34 Bis.
+
+El Gobierno del Estado promoverá la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas culturales, poniendo énfasis en incorporar nuevas tecnologías para fortalecer la vinculación cultural, artística, turística y artesanal.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 34 Ter.
+
+Las organizaciones, asociaciones y unidades económicas de los sectores privado y social que promuevan y generen cualquier proceso o manifestación cultural, así como la preservación, fortalecimiento y difusión del patrimonio, podrán ser objeto de subsidios y estímulos fiscales de carácter estatal y municipal, en los términos de los ordenamientos legales aplicables.
 
 ### CAPITULO IX. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -384,3 +508,13 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DEL GOBIERNO
 
 LIC. TOMÁS TORRES MERCADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 139.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
