@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2016-07-16"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -1267,13 +1267,17 @@ Proceso de comercialización
 
 El Gobierno del Estado, para mejorar los procesos de comercialización y a través de la Secretaría, impulsará la organización y capacitación del sector para la comercialización, brindando las facilidades necesarias para cumplir con los objetivos planteados.
 
-### CAPÍTULO II. Del financiamiento, incentivación fiscal y seguros de riesgo en la producción
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. Del financiamiento rural
 
 Financiamiento Rural
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 88.
 
-El Gobierno del Estado, por medio de su titular y en coordinación con el Consejo Zacatecano, promoverá, ante el sistema financiero público y privado, las condiciones necesarias para que las organizaciones y sectores económicos del medio rural accedan al crédito y financiamiento a tasas preferenciales para el desarrollo productivo sustentable, en especial, productores de comunidades que presenten mayor rezago económico y social, de acuerdo a sus atribuciones, funciones y disponibilidad de recursos para el financiamiento rural. Loa (sic) anterior mediante acciones como:
+El Gobierno del Estado, por medio de su titular y en coordinación con el Consejo Zacatecano y la Secretaría, promoverá, ante el sistema financiero público y privado, las condiciones necesarias para que las organizaciones y sectores económicos del medio rural accedan al crédito y financiamiento a tasas preferenciales para el desarrollo productivo sustentable, en especial, productores de comunidades que presenten mayor rezago económico y social, de acuerdo a sus atribuciones, funciones y disponibilidad de recursos para el financiamiento rural. Lo anterior mediante acciones como:
 
 I. La formación y consolidación de agentes intermediarios financieros;
 
@@ -1303,7 +1307,73 @@ IV. Creación de microcréditos para capital de trabajo en las microindustrias l
 
 V. Desarrollo de mecanismos de refinanciamiento, y
 
-VI. Apoyos para la constitución de fondos de garantía líquida, a través del Fondo de Apoyo a Proyectos Productivos del Estado de Zacatecas.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Preferencia en el acceso a programas gubernamentales;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Asistencia técnica y programas de desarrollo de capital humano y social;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Establecimiento y acceso a información, y
+
+IX. Apoyos para la constitución de fondos de garantía líquida, a través del Fondo de Apoyo a Proyectos Productivos del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Financiamiento para el desarrollo productivo
+
+###### Artículo 89 Bis.
+
+La Secretaría promoverá que las organizaciones y los agentes económicos del medio rural accedan al financiamiento para el desarrollo productivo sustentable, mediante sistemas, esquemas y tratamientos que faciliten, amplíen y fortalezcan el uso del crédito. De igual manera, establecerá mecanismos que permitan el acceso a los productores de todos los estratos, para que dispongan de financiamiento suficiente, oportuno y a tasas competitivas que les permita desarrollar exitosamente sus actividades, procurando que la ministración de los recursos no se desfase de las etapas de los ciclos productivos.
+
+En todo caso, se dará prioridad al financiamiento para el fortalecimiento de cadenas productivas, tomando en cuenta la vocación de cada región, para garantizar el éxito empresarial, mediante el acceso a los diversos programas federales, estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Esquemas locales de financiamiento
+
+###### Artículo 89 Ter.
+
+La Secretaría, en coordinación con el Consejo Zacatecano, impulsará el desarrollo de esquemas locales de financiamiento rural, que amplíen la cobertura institucional, apoyando el surgimiento y consolidación de proyectos productivos que respondan a las necesidades de la población rural, para lo cual se realizarán las siguientes acciones:
+
+I. Apoyar la consolidación de proyectos productivos que promuevan el financiamiento, el ahorro y la contratación de seguros, que faciliten el acceso de los productores a tales servicios y a los esquemas institucionales de mayor cobertura;
+
+II. Fomentar el acceso ágil y oportuno a los mercados financieros, de insumos, productos y de servicios;
+
+III. Promover, apoyar y vigilar a organizaciones del sector social y privado para que se desarrollen y constituyan como nuevos intermediarios financieros de la banca de desarrollo, que operen en forma directa y establezcan compromisos en beneficio de la población rural para acceder a financiamientos de mayor cobertura a tasas de interés preferenciales, orientados a fomentar la producción, la diversificación productiva y el desarrollo de los productores y empresas zacatecanas, y
+
+III. Facilitar a los productores el uso de los instrumentos de apoyo dirigidos al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Acciones de fomento para el financiamiento rural
+
+###### Artículo 89 Quater.
+
+La Secretaría, aprovechando los acuerdos y esquemas de participación interinstitucional, fomentará:
+
+I. La capitalización de proyectos de inversión de las organizaciones económicas de productores, y
+
+II. El otorgamiento de garantías para respaldar proyectos de importancia estratégica.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Acceso al financiamiento
+
+###### Artículo 89 Quinquies.
+
+Para facilitar el acceso al financiamiento, se promoverá la creación de instrumentos financieros o fideicomisos de administración, inversión y garantía que faciliten y transparenten la operación de los recursos, en los diversos esquemas de financiamiento, buscando alinear los subsidios y recursos de otras instituciones, federales, estatales y municipales así como privadas y de organizaciones de productores en beneficio de los sectores prioritarios y estratégicos.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+
+Responsabilidad administrativa y normativa
+
+###### Artículo 89 Sexies.
+
+La responsabilidad administrativa y normativa de los instrumentos financieros o fideicomisos estará a cargo de la Secretaría; los recursos fideicomitidos serán del mismo Programa Operativo Anual de la Secretaría.
 
 ### CAPÍTULO III. De la administración de riesgos
 
@@ -1502,3 +1572,11 @@ P.O.16 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 601.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano de Gobierno del Estado y entrará en vigor al día siguiente al de su publicación.
+
+P.O. 16 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 144.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
