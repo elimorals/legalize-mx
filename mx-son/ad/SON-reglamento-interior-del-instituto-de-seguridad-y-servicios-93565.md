@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-seguridad-y-servicios-9356
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-01"
-last_updated: "2015-05-07"
+last_updated: "2017-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 1 de abril de 2013.
 
@@ -61,7 +61,9 @@ c) Subdirección de Servicios Administrativos.
 
 d) Subdirección de Finanzas.
 
-e) Unidad de Planeación e Innovación Institucional.
+> <small>(REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+e) Unidad de Planeación y Transparencia.
 
 f) Unidad Jurídica.
 
@@ -125,9 +127,19 @@ La Comisión Ejecutiva del Fondo de la Vivienda tiene por objeto apoyar los prog
 
 La Comisión Ejecutiva del Fondo de la Vivienda, estará integrada por el Director General del Instituto, que tendrá el carácter de Presidente, por los Secretarios de Hacienda e Infraestructura y Desarrollo Urbano, por el Tesorero General del Estado, por dos representantes designados por la Sección 54 del Sindicato Nacional de Trabajadores de la Educación y por un representante designado por el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado de Sonora, por cada miembro propietario se designará un suplente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+Además, de acuerdo al artículo 111-E y para el debido cumplimiento de las labores administrativas propias del funcionamiento del Fondo, el Presidente de la Comisión Ejecutiva designará a un Vocal Ejecutivo quien contará con el personal necesario que para el efecto se designe y sea congruente con el presupuesto de egresos de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+Las funciones de dicho personal se especificarán en los manuales de organización respectivos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 11.
 
-El Vocal Ejecutivo de la Comisión Ejecutiva del Fondo de la Vivienda además de las atribuciones y funciones establecidas en el artículo 111-C de la Ley tendrá las siguientes:
+El Vocal Ejecutivo de la Comisión Ejecutiva del Fondo de la Vivienda contará con las atribuciones siguientes
 
 I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente, mediante créditos hipotecarios;
 
@@ -153,9 +165,9 @@ IX. Supervisar que las obras de construcción de las viviendas se realicen en ti
 
 X. Fungir como Secretario Técnico de la Comisión Ejecutiva del Fondo de la Vivienda, llevando la organización de las sesiones y reuniendo los asuntos a tratar en el orden del día, mismos que deberán someterse a autorización del Director General para su presentación ante la Comisión; asimismo, deberá llevar la documentación de las actas de sesión y su posterior difusión a las partes interesadas; y
 
-> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Las demás que le confieran las disposiciones legales aplicables o el Presidente de la Comisión Ejecutiva, dentro de la esfera de sus atribuciones.
+XI. Las demás que le confieran las disposiciones legales aplicables y los acuerdos de la Comisión Ejecutiva dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO IV. DEL DIRECTOR GENERAL
 
@@ -173,7 +185,9 @@ IV. Proponer ante la Junta Directiva los nombramientos del personal de base y de
 
 V. Proporcionar al Comisario Público Ciudadano designado por la Secretaría de la Contraloría General, las facilidades e informes necesarios para el desempeño de su función;
 
-VI. Presentar a la Junta Directiva, el informe anual de las actividades del Instituto, incluyendo el ejercicio de los presupuestos de ingresos y egresos. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección, con las realizaciones alcanzadas;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Presentar a la Junta Directiva, el informe anual pormenorizado de las actividades del Instituto, incluyendo el ejercicio de los presupuestos de ingresos y egresos;
 
 VII. Presentar mensualmente a la Junta Directiva un informe sobre el balance financiero y avance del ejercicio presupuestal.
 
@@ -189,17 +203,17 @@ XI. Designará, en su calidad de Presidente de la Comisión Ejecutiva del Fondo 
 
 XII. Coordinar la implementación de mecanismos que contribuyan a garantizar a los ciudadanos el acceso a la Información pública del Instituto en el marco de lo dispuesto por la Ley de acceso a la Información Pública y Protección de Datos Personales del Estado de Sonora y la normatividad aplicable;
 
-> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-XIII. Supervisar el proceso de adquisiciones dentro del Instituto, determinando las políticas de control de gasto en la materia, en atención a la normatividad aplicable y en beneficio de las finanzas institucionales, informando mensualmente a la Junta Directiva del avance del Programa Anual de Adquisiciones, así como de las compras por medio de licitación pública y/o simplificada;
+XIII. Coordinar el proceso de adquisiciones dentro del instituto, determinando las políticas de control de gasto en la materia, en atención a la normatividad aplicable y en beneficio de las finanzas institucionales, informando mensualmente a la Junta Directiva el avance del Programa Anual de Adquisiciones, así como de las compras por medio de licitación pública y/o simplificada;
 
 > <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
 
 XIV. Revisar para su presentación a la Junta Directiva, los convenios y/o acuerdos de colaboración que le presenten las Unidades Administrativas del Instituto, con el fin de lograr una mayor coordinación con el resto de la Administración Pública Estatal, así como con organizaciones privadas y sociales;
 
-> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-XV. Supervisar el cumplimiento de los acuerdos en materia de los programas y proyectos sectoriales a los que se suma el Instituto en atención a la normatividad aplicable, determinando las acciones a tomar para garantizar el respeto a los mismos; y
+XV. Coordinar el cumplimiento de los acuerdos en materia de los programas y proyectos sectoriales a los que se suma el instituto en atención a la normatividad aplicable, determinando las acciones a tomar para garantizar el respeto a los mismos; y
 
 > <small>(ADICIONADA, B.O. 7 DE MAYO DE 2015)</small>
 
@@ -301,7 +315,9 @@ II. Recibir y tramitar solicitudes de préstamos que presenten los derechohabien
 
 III. Verificar que los préstamos a corto plazo que se otorguen, así como la recuperación de los mismos, cumplan con los requisitos y con las condiciones que marca la Ley;
 
-IV. Efectuar las devoluciones de indemnización global a que tengan derecho los trabajadores que causen baja definitiva del servicio de acuerdo con la Ley;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Recibir y tramitar solicitudes de indemnización global a que tengan derecho los trabajadores que causen baja definitiva del servicio de acuerdo con la Ley;
 
 V. Recibir y estudiar solicitudes de jubilación o pensión a que tengan derecho los trabajadores o sus familiares, de acuerdo a las disposiciones legales aplicables, turnando cuando sea procedente al Director General un dictamen, para que sea sometido a consideración de la Junta Directiva;
 
@@ -409,7 +425,9 @@ VII. Presentar a solicitud del Director General información para la Junta Direc
 
 VIII. Formular diariamente los reportes de bancos sobre cuentas de cheques y de inversiones, asimismo, efectuar los movimientos necesarios para la operación de las mismas;
 
-IX. Efectuar pagos por servicios personales, reposición de fondos revolventes, servicios subrogados, proveedores, prestadores de servicios, prestaciones de tipo económico y otras erogaciones necesarias para la operación del Instituto;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Efectuar pagos por servicios personales, reposición de fondos revolventes, servicios subrogados, proveedores, prestadores de servicios, de las prestaciones de tipo económico que establece la Ley y otras erogaciones necesarias para la operación del Instituto;
 
 X. Custodiar documentos, valores y efectivos del Instituto, así como elaborar los reportes necesarios para el control de movimientos de ingresos y egresos;
 
@@ -417,53 +435,93 @@ XI. Coordinar, integrar y ejecutar los presupuestos de ingresos y egresos, y not
 
 XII. Las demás que le confieren las disposiciones legales aplicables ó del Director General, dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-Corresponden a la Unidad de Planeación e Innovación Institucional las siguientes atribuciones
+Corresponden a la Unidad de Planeación y Transparencia las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 I. Participar en la integración del Programa Sectorial en coordinación con las instituciones que correspondan, presentando las propuestas que competan de acuerdo a las atribuciones del Instituto;
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 II. Integrar y evaluar la ejecución del Programa Institucional de Desarrollo, en coordinación con las unidades administrativas que competan, cuidando atender lo previsto en el Programa Sectorial de acuerdo con las políticas, normas y procedimientos aplicables; e informar de la ejecución al Director General para enterar a la Junta Directiva;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 III. Coordinar, controlar y supervisar la formulación, integración y ejercicio del Programa Operativo Anual del Instituto, estableciendo los lineamientos, normas y políticas para formulación, así como revisar sus adecuaciones, asesorando a las diferentes unidades administrativas y áreas responsables de su aplicación, proporcionando la información que solicite al respecto el Director General y la Junta Directiva;
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 IV. Integrar y difundir para su aplicación las políticas, normas y lineamientos para la elaboración, ejercicio y control del presupuesto de ingresos y egresos del Instituto, y colaborar en la integración del presupuesto anual de egresos e ingresos del Instituto;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 V. Revisar y entregar al Director General para que las someta a la consideración de la Junta Directiva las transferencias de recursos del presupuesto de egresos autorizado del Instituto e informar, una vez autorizadas por la propia Junta, a la Subdirección de Finanzas para su aplicación correspondiente;
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 VI. Coordinar la información estadística institucional a través del monitoreo de las unidades administrativas y órganos desconcentrados; operar y mantener actualizado el banco de información estadística del Instituto, con el apoyo de los responsables de la producción de los datos e indicadores institucionales; así como proporcionar a las instituciones interesadas la información requerida para la actualización de anuarios estadísticos, datos de la seguridad social y del servicio médico solicitados, informar de ello al Director General para la toma de decisiones;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 VII. Integrar los informes trimestrales y de cierre anual de la Cuenta Pública, para entrega ante la Secretaría de Hacienda;
 
-VIII. Elaborar y mantener actualizados el Reglamento Interior, los manuales de organización, de procedimientos y de servicios al público, y presentarlos al Director General para que los someta a la consideración y, en su caso, aprobación de la Junta Directiva, previa validación de la Secretaría de la Contraloría General;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Coordinar la actualización del Reglamento Interior, los manuales de organización, de procedimientos y de servicios al público, y presentarlos al Director General para que los someta a la consideración y, en su caso, aprobación de la Junta Directiva, previa validación de la Secretaría de la Contraloría General;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 IX. Formular recomendaciones orientadas a racionalizar las estructuras orgánicas y simplificar los procedimientos operativos de las unidades administrativas y órganos desconcentrados, para el desarrollo administrativo y la gestión por procesos;
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 X. Conducir el proceso de evaluación del desempeño de los programas, proyectos, procesos y actividades a cargo de las unidades administrativas, órganos desconcentrados y demás áreas integrantes del Instituto, con el fin de analizar y proponer alternativas en el ejercicio del presupuesto de egresos, diseño de programas y proyectos, reingeniería de procesos y actualización de actividades, informando de los resultados al Director General para la toma de decisiones;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 XI. Coordinar la generación de información para la rendición de cuentas dentro del Instituto, que permita la transparencia de los procesos y resultados en materia de seguridad social y del servicio médico que se brinda a los derechohabientes; integrar la información del Instituto correspondiente al informe anual del Gobernador del Estado, así como la concerniente al informe anual que debe rendir el Director General ante la Junta Directiva;
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 XII. Apoyar en la formulación y/o diseño de los proyectos institucionales que las unidades administrativas y órganos desconcentrados elaboren con el fin de dar cumplimiento a sus propias atribuciones; así como apoyar en aquellos que la Dirección General señale y en los que las necesidades del Instituto requiera;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 XIII. Desarrollar y aplicar el programa de monitoreo y evaluación de las unidades administrativas y órganos desconcentrados, así como de todas las áreas integrantes del Instituto;
 
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
+
 XIV. Coordinar la implementación y aplicación de la mejora continua por medio del Sistema de Gestión de la Calidad, supervisando su cumplimiento en el Instituto a través de los procedimientos que el propio sistema de calidad proporciona para su ejecución; entregando los informes correspondientes al Director General para llevar a cabo las revisiones periódicas del mismo, en cumplimiento de las normas de calidad y lineamientos aplicables;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 XV. Identificar oportunidades, proponer innovaciones y cambios normativos que permitan la innovación y conducción en procesos administrativos, logísticos y de métodos en servicios de seguridad social y del propio servicio médico que brinda el Instituto;
 
-XVI. Coordinar y verificar la publicación de la información básica que debe ser difundida, esto conforme a lo establecido en el artículo 14 de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Sonora;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-XVII. Coordinar y dar seguimiento a la integración de la información requerida para atender el Sistema Integral de Evaluación de la Gestión Pública del Estado de Sonora, esto conforme al artículo 14 de los Lineamientos para la operación del Sistema Integral de Evaluación de la Gestión Pública del Estado de Sonora;
+XVI. Atender las funciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública en su artículo 45 y la Ley (sic) Transparencia y Acceso a la Información Pública del Estado de Sonora en su artículo 58, fungiendo como Unidad de Transparencia de ISSSTESON y Coordinador del Comité de Transparencia del Instituto;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+XVII. Coordinar y dar seguimiento a la integración de la información requerida para atender lo dispuesto en materia de indicadores de productos, servicios y de gestión con la Secretaría de la Contraloría del Estado;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2015)</small>
 
 XVIII. Coordinar y dar seguimiento a la integración de la información requerida para atender el Sistema (sic) Información y Acciones de Gobierno del Estado de Sonora (SIA), en cumplimiento de la Ley de Entrega Recepción para el Estado de Sonora;
 
-XIX. Realizar el análisis, la planeación y la evaluación del Plan Maestro de Infraestructura y los espacios para la prestación de los servicios del Instituto, en coordinación con las subdirecciones de Servicios Administrativos, de Prestaciones Económicas y Sociales, y de Servicios Médicos, así como con los órganos desconcentrados del Instituto, y la Comisión Ejecutiva del Fondo de la Vivienda;
+XIX. (DEROGADA, B.O. 18 DE SEPTIEMBRE DE 2017)
 
-XX. Coordinar y dirigir las acciones para la promoción de los valores al interior del Instituto; elaborando en colaboración con las unidades administrativas y órganos desconcentrados los Códigos de Ética y Conducta correspondientes para autorización de la Secretaría de la Contraloría General; mantenerlos actualizados y coordinar la difusión de los mismos con el apoyo de la Unidad de Enlace de Comunicación Social del Instituto;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-XXI. Coordinar y evaluar los trabajos de acreditación y certificación de las unidades médicas y, en su caso, de las áreas administrativas que se desarrollen en el Instituto; verificar que éstos se realicen de acuerdo con la normatividad aplicable y plazos establecidos, e informar de los resultados (sic) forma periódica al Director General para implementar los ajustes necesarios; y
+XX. Coordinar y dirigir las acciones para la promoción de los valores al interior del Instituto; elaborando en colaboración con las unidades administrativas y órganos desconcentrados los Códigos de Ética y Conducta correspondientes, para autorización de la Secretaría de la Contraloría General; coordinando la actualización y difusión de los mismos, con el apoyo de la Unidad de Enlace de Comunicación Social del Instituto;
+
+XXI. (DEROGADA, B.O. 18 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
 XXII. Las demás que le confieran las disposiciones legales aplicables y el Director General, dentro de la esfera de sus atribuciones.
 
@@ -686,6 +744,18 @@ Secretario Técnico
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 7 DE MAYO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público del Instituto generadas con motivo del presente Acuerdo deberán expedirse dentro de los sesenta días posteriores a la publicación del mismo en el órgano oficial de difusión mencionado en el artículo anterior. El Director General del Instituto queda facultado para resolver las cuestiones que se presenten relacionadas con los manuales administrativos en tanto éstos se expiden.
+
+B.O. 18 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR".]
 
 ###### ARTÍCULO PRIMERO.
 
