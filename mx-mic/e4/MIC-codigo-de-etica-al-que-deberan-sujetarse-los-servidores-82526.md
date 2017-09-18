@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-al-que-deberan-sujetarse-los-servidores-82526"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-10"
-last_updated: "2011-08-10"
+last_updated: "2017-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MIC"
 ---
 # CODIGO DE ETICA, AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS ADSCRITOS AL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ACUERDO POR EL QUE SE ESTABLECE EL CODIGO DE ETICA, AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS ADSCRITOS AL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS ADSCRITOS AL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2017 (DEROGADO).
 
 Acuerdo publicado en la cuarta sección del Periódico Oficial del Estado de Michoacán, el miércoles 10 de agosto de 2011.
 
 LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las atribuciones que al Ejecutivo a mi cargo confieren los artículos 60 fracción XXII y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; 5° y 18 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y,
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, tengo a bien expedir el apegado al derecho y al interés social, de tal manera siguiente:
 
@@ -142,3 +146,17 @@ LA COORDINADORA DE CONTRALORÍA
 ROSA MARÍA GUTIÉRREZ CÁRDENAS
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, dejando sin efectos todas las disposiciones anteriores sobre la materia.
+
+Artículo Segundo. Se deroga el <<Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los Servidores Públicos adscritos al Poder Ejecutivo del Estado de Michoacán de Ocampo>>, publicado en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el 10 diez de Agosto de 2011 dos mil once.
+
+Artículo Tercero. Se deroga el <<Acuerdo por el que se Expide el Código de Ética y de Conducta de los Servidores Públicos de las Dependencias y Entidades del Ejecutivo del Estado de Michoacán de Ocampo>>, publicado en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el 27 veintisiete de Septiembre de 2013 dos mil trece.
+
+Artículo Cuarto. La Secretaría contará con 30 días hábiles para la publicación de los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan el comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés.
