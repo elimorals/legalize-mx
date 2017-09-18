@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-12-07"
+last_updated: "2017-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -4097,13 +4097,15 @@ I.- A los descendientes menores de edad respecto de los cuales tenga obligación
 
 II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad, cuando exista la obligación a que se refiere la fracción anterior;
 
-III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto se mantengan dichas circunstancias;
 
 IV.- A los ascendientes;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-V.- A la persona con quien el testador vivió como si fuere su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trata no contraiga nuevas nupcias y observe buena conducta. Si fueron varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos, y
+V.- A la persona con quien el testador vivió como si fuere su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto se mantengan dichas circunstancias. Si fueron varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos, y
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -6445,8 +6447,16 @@ TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango je
 
 P.O. 7 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS VEINTINUEVE POR EL CUAL SE REFORMAN DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL FAMILIAR Y DEL CÓDIGO FAMILIAR, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS VEINTINUEVE POR EL CUAL SE REFORMAN DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL FAMILIAR Y DEL CÓDIGO FAMILIAR, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 18 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS CUARENTA Y SEIS.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y V DEL ARTÍCULO 545 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
