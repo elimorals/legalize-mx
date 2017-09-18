@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-y-de-conducta-de-los-servidores-publicos-de-962
 country: "mx"
 rank: "codigo"
 publication_date: "2013-09-27"
-last_updated: "2013-09-27"
+last_updated: "2017-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE ETICA Y DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2017 (DEROGADO).
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 27 de septiembre del 2013.
 
@@ -180,3 +182,17 @@ EL GOBERNADOR DEL ESTADO
 LIC. JOSÉ JESÚS REYNA GARCÍA
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, dejando sin efectos todas las disposiciones anteriores sobre la materia.
+
+Artículo Segundo. Se deroga el «Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los Servidores Públicos adscritos al Poder Ejecutivo del Estado de Michoacán de Ocampo», publicado en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el 10 diez de Agosto de 2011 dos mil once.
+
+Artículo Tercero. Se deroga el «Acuerdo por el que se Expide el Código de Ética y de Conducta de los Servidores Públicos de las Dependencias y Entidades del Ejecutivo del Estado de Michoacán de Ocampo», publicado en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el 27 veintisiete de Septiembre de 2013 dos mil trece.
+
+Artículo Cuarto. La Secretaria contará con 30 días hábiles para la publicación de los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan el comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés.
