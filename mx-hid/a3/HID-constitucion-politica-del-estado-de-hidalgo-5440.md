@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-09-14"
+last_updated: "2017-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -885,7 +885,9 @@ Los Diputados al Congreso del Estado, podrán ser electos hasta por un periodo c
 
 Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos o enjuiciados por ellas.
 
-El Presidente del Congreso, velará por el respeto al fuero constitucional de los Diputados y por la inviolabilidad del Recinto Oficial.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
+
+Quien presida el Congreso velará por la inviolabilidad del Recinto Oficial.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1089,9 +1091,9 @@ II. Hayan sido dictados en ejercicio de la facultad de fiscalización superior a
 
 III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral, al Auditor Superior, al Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Hayan sido dictados en funciones del Colegio Electoral, Gran Jurado u Organo de Acusación y
+IV. Hayan sido dictados en funciones del Colegio Electoral u Órgano de Acusación; y
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -1231,13 +1233,11 @@ XXV. Nombrar a los Consejeros del Consejo de la Judicatura, en los términos est
 
 XXVI. Expedir el Decreto para dar a conocer en todo el Estado, la declaración de Gobernador Electo que hubiere hecho el Consejo General del Instituto Estatal Electoral;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
+XXVII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2017)
 
-XXVII. Declarar si ha lugar o no a proceder penalmente contra los servidores públicos que hubieren incurrido en delito del orden común en los términos del artículo 153 de esta Constitución;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
-
-XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y,
+XXVIII. Constituirse en órgano de acusación para conocer las denuncias por actos u omisiones que cometan los servidores públicos en el ejercicio de sus funciones, que causen perjuicios a los intereses públicos fundamentales y de su buen despacho; y
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -3003,9 +3003,7 @@ Los servidores públicos a que se refiere el presente artículo estarán obligad
 
 Serán sujetos de juicio político: las Diputadas y los Diputados del Congreso Local, el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de Justicia Administrativa y del Tribunal Electoral, las Secretarías y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, la Fiscalía Especializada en Delitos Electorales, así como la Fiscalía Especializada en Delitos de Corrupción y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
-
-Para proceder por responsabilidad en la comisión de delitos del orden común contra los servidores públicos comprendidos en el párrafo anterior, cometidos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -3051,13 +3049,15 @@ e. La elaboración de un informe anual que contenga los avances y resultados del
 
 f. Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades estatales y municipales, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 153.
 
-Siempre que se trate de los funcionarios mencionados en los Artculos (sic) 149 párrafo primero y 150 párrafo primero, y el delito fuere del orden común, el Congreso del Estado erigido en gran jurado declarará por mayoría absoluta de los miembros presentes, si ha lugar o no a proceder en contra del acusado. En caso afirmativo, por esta sola declaración, quedará separado de su cargo y sujeto a la autoridad judicial competente.
+Ninguna persona gozará de fuero o inmunidad procesal que le otorgue privilegios o prerrogativas en materia jurídica.
 
-Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el culpable haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la acusación.
+La responsabilidad de cualquier servidor público por delitos del orden común será exigible conforme a la Legislación Penal aplicable a nivel local, sin requerir declaración de procedencia o tramite adicional alguno, procurando la igualdad en la aplicación de la ley y garantizando el acceso a la justicia imparcial para todas las personas.
+
+El Ministerio Publico deberá realizar las investigaciones pertinentes para asegurarse que las denuncias o procesos penales instaurados en contra de alguna de las personas que ocupan cargos públicos de los enunciados en el artículo 149 y el primer párrafo del artículo 150, no respondan a censura, venganza o persecución política.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
@@ -4048,3 +4048,13 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en la presente reforma de la Constitución Política del Estado de Hidalgo.
+
+P.O. 18 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 212 QUE MODIFICA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se deberán realizar las reformas correspondientes a la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Hidalgo a más tardar 90 días después de la entrada en vigor de este Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
