@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2016-10-11"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -73,9 +73,11 @@ XI. Reglamento: el Reglamento de la Ley de Cultura Física y Deporte del Estado 
 
 XII. Sistema estatal: el Sistema Estatal de Cultura Física y Deporte del Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 3°.
 
-Los fines primordiales de la presente ley deberán ser observados por el sistema estatal y el programa estatal y por las diferentes dependencias estatales en la elaboración de sus políticas públicas, y son los siguientes:
+Los fines primordiales de la presente ley deberán ser observados por el sistema, el programa y las diferentes dependencias, todas aquellas estatales en la elaboración de sus políticas públicas y son los siguientes:
 
 I. Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
 
@@ -99,9 +101,23 @@ X. Promover en la práctica de la cultura física y el deporte el aprovechamient
 
 XI. Fomentar la creación de programas institucionales para la práctica de la cultura física y el deporte en todas sus expresiones y manifestaciones;
 
-XII. Fomentar y ampliar el alcance de oportunidades a todas las personas sin distinción de género, edad, condición social, religión, opiniones, preferencias, capacidades o estado civil, dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Fomentar y ampliar el alcance de oportunidades a todas las personas sin distinción de género, edad, condición social, religión, opiniones, preferencias, capacidades o estado civil, dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
 
 XIII. Fomentar que las personas con discapacidad participen en la práctica de la cultura física y deporte en igualdad de circunstancias, siempre y cuando no represente un riesgo para su integridad o la de terceros.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
+XIV. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
+XV. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 ###### Artículo 4°.
 
@@ -1048,3 +1064,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26428/LXI/17 QUE REFORMA EL ARTÍCULO 3° DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
