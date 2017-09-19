@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-servicios-de-15860"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2015-09-09"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -215,7 +215,9 @@ II. Ejecutar los acuerdos y resoluciones que emita la Junta de Gobierno.
 
 III. Nombrar y remover a los servidores públicos del Organismo, así como expedir sus nombramientos.
 
-IV. Nombrar apoderados para actos de administración, conforme a las disposiciones vigentes aplicables.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Nombrar y revocar apoderados para actos de administración, así como para pleitos y cobranzas conforme a las disposiciones vigentes aplicables.
 
 V. Proponer a la Junta de Gobierno las políticas general del Organismo.
 
@@ -310,3 +312,9 @@ Sexto. La Junta de Gobierno del organismo público descentralizado denominado �
 Séptimo. La Junta de Gobierno aprobará el Reglamento de la Ley del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Jalisco en un plazo no mayor a 120 ciento veinte días hábiles, contados a partir de la fecha de su instalación, y remitirlo al titular del Poder Ejecutivo del Estado para su expedición.
 
 Octavo. A partir de la entrada en vigor de este Decreto, el Director General del Régimen Estatal de Protección Social en Salud dependiente del Organismo Público Descentralizado “Servicios de Salud Jalisco”, quedará como encargado de despacho de la Dirección General del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco”, hasta en tanto el Gobernador del Estado realiza la designación del Director General.
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26425/LXI/17 QUE REFORMA EL ARTÍCULO 10, FRACCIÓN IV DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO “SERVICIOS DE SALUD JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
