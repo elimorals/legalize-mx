@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-funcionamiento-de-las-comisiones-51165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-14"
-last_updated: "2006-07-14"
+last_updated: "2017-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES PERMANENTES, DE LA COMISION DE CONTRALORIA Y DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES PERMANENTES, DE LA COMISION DE CONTRALORIA Y DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES Y DE LOS COMITÉS DEL INSTITUTO ELECTORAL DE MICHOACÁN, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES PERMANENTES, DE LA COMISIÓN DE CONTRALORÍA Y DE LA COMISIÓN DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el viernes 14 de julio de 2006.
 
@@ -147,9 +149,9 @@ I.- Velar por el buen funcionamiento de la Comisión.
 
 ll. Convocar, conducir y presidir las Sesiones de la Comisión.
 
-lll. Vigilar el cumplimiento de los acuerdos de la Comisión.
+III. Vigilar el cumplimiento de los acuerdos de la Comisión.
 
-IV Someter a la consideración de los integrantes de la Comisión para su revisión, discusión y aprobación, en su caso, el programa de trabajo anual, los proyectos de dictamen o informes que se presenten.
+IV. Someter a la consideración de los integrantes de la Comisión para su revisión, discusión y aprobación, en su caso, el programa de trabajo anual, los proyectos de dictamen o informes que se presenten.
 
 V. Informar al Consejo, sobre la situación que guardan los asuntos de las Comisiones de manera extraordinaria, cuando el caso o asuntos lo requiera.
 
@@ -193,7 +195,7 @@ LIC. JAVIER VALDESINO GARCÍA
 
 (Firmado)
 
-EL SECRETARlO GENERAL
+EL SECRETARIO GENERAL
 
 LIC. RAMÓN HERNÁNDEZ REYES
 
@@ -210,3 +212,19 @@ Morelia, Mich., a 6 de Julio del 2006.
 LIC. RAMÓN HERNÁNDEZ REYES
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE MICHOACÁN, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES Y DE LOS COMITÉS DEL INSTITUTO ELECTORAL DE MICHOACÁN".]
+
+PRIMERO. El Reglamento para el funcionamiento de las Comisiones y de los Comités del Instituto Electoral de Michoacán, entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Reglamento para el Funcionamiento de las Comisiones Permanentes, de la Comisión de Contraloría y de la Comisión de Acceso a la Información Pública.
+
+TERCERO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y en el sitio oficial de Internet del Instituto.
+
+CUARTO. Notifíquese al Instituto Nacional Electoral.
+
+QUINTO. Los trámites y procedimientos que se encuentren en sustanciación a la fecha de entrada en vigor del presente Reglamento, se continuarán hasta su conclusión con la normativa aplicable y la estructura orgánica vigente en el momento de su inicio.
