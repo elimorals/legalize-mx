@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2017-04-28"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2013-11-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
 [NOTA 1: PARA LA APLICACIÓN DEL PRESENTE REGLAMENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2521,13 +2521,13 @@ El informe anual será presentado en el salón de usos múltiples del edificio s
 
 El Director General del Instituto Federal de Defensoría Pública está facultado para suscribir, en representación del Consejo, convenios de coordinación y colaboración con los distintos sectores sociales, organismos públicos y privados y, en general, con todos aquellos que puedan ayudar a la consecución de los fines propios del órgano auxiliar.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
 
-En forma previa a la firma de cualquier convenio, el Director General del Instituto Federal de Defensoría Pública deberá hacerlo del conocimiento del Pleno, proporcionando la información relativa a los compromisos que de dicho instrumento se deriven, con excepción de aquellos que se relacionen con el servicio social en el Instituto.
+En forma previa a la firma de cualquier convenio, el Director General del Instituto Federal de Defensoría Pública deberá hacerlo del conocimiento del Pleno, proporcionando la información relativa a los compromisos que de dicho instrumento se deriven, con excepción de aquellos que se relacionen con el servicio social en el Instituto, así como el préstamo interbibliotecario con instituciones públicas, sociales y privadas.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
 
-Tratándose de los convenios en materia de servicio social, para su suscripción sólo deberá contarse con la opinión de la Dirección General de Asuntos Jurídicos, y no deberán comprometerse recursos presupuestales ni la creación de estructuras administrativas para su cumplimiento.
+Para la suscripción de los convenios en materia de servicio social, así como de préstamo interbibliotecario con instituciones públicas, sociales y privadas, sólo deberá contarse con la opinión de la Dirección General de Asuntos Jurídicos, y no deberán comprometerse recursos presupuestales ni la creación de estructuras administrativas para su cumplimiento.
 
 ###### Artículo 114.
 
@@ -5902,3 +5902,11 @@ SEXTO. Los asuntos que se relacionen con las atribuciones que se confieren a la 
 SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
 
 OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales deberán formular los manuales específicos de organización y de puestos; y los manuales de procedimientos respectivos dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Acuerdo, y remitirlos para los efectos correspondientes a la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+D.O.F. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN MATERIA DE CELEBRACIÓN DE CONVENIOS DE PRÉSTAMO INTERBIBLIOTECARIO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
