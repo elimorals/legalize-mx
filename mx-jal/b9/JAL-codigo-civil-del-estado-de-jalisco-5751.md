@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2016-10-11"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -10109,9 +10107,15 @@ VI. Cuando la obligación proveniente de un ilícito o de responsabilidad objeti
 
 La subrogación es convencional cuando se pacta expresamente ya sea con el acreedor o con el deudor.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Art. 1574.
 
-Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de ley en los derechos del acreedor, si el préstamo constare en título auténtico el que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de ley en los derechos del acreedor, si el préstamo constare en documento auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+
+En caso de créditos hipotecarios, las garantías vigentes al momento de la subrogación, garantizarán las obligaciones derivadas del nuevo préstamo en los montos, plazos y demás términos acordados entre el prestamista y el deudor, sin que por ello se entienda novada la garantía ni prorrogada la obligación garantizada para los efectos de este Código. En consecuencia las garantías subrogadas, que sean susceptibles de inscripción en el Registro Público de la Propiedad, conservarán su grado de prelación.
+
+Cuando hubiere obligado solidario o diverso titular del bien objeto de la garantía, deberá hacerse constar su consentimiento a favor de la subrogación de garantía.
 
 ###### Art. 1575.
 
@@ -19158,3 +19162,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26429/LXI/17 QUE REFORMA EL ARTÍCULO 1574 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Conforme al presente decreto, las leyes fiscales, establecerán medidas para eliminar o reducir el pago de derechos registrales que en su caso se lleguen a generar por la modificación de las garantías derivadas de la subrogación a que se refiere el artículo 1574 del Código Civil del Estado de Jalisco.
