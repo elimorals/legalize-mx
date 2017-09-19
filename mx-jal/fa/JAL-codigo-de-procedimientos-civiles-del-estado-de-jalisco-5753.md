@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2017-03-11"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2366,11 +2366,11 @@ Si lo debido fuese cosa cierta y determinada que debiera consignarse en el lugar
 
 Cuando el acreedor no haya estado presente en la oferta y depósito, debe ser notificado de esa diligencia entregándole copia simple de ella.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 244.
 
-La consignación de dinero debe hacerse exhibiendo certificado de depósito que expidan la Secretaría de Finanzas del Estado o Recaudadora de la misma ubicada en el lugar del juicio.
+La consignación de dinero debe hacerse exhibiendo certificado de depósito que expida la Secretaría de Planeación, Administración y Finanzas del Estado o Recaudadora de la misma, ubicada en el lugar del juicio.
 
 ###### ARTICULO 245.
 
@@ -4724,9 +4724,9 @@ En todo secuestro se tendrá como depositario a la persona que bajo su responsab
 
 Se exceptúan de lo dispuesto en el artículo anterior:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
 
-I.- El embargo de dinero o de créditos fácilmente realizables que se efectúen en virtud de sentencia, porque entonces se hace entrega inmediata al actor en abono o en pago a las prestaciones reclamadas; en cualquier otro caso el depósito se hará en la Secretaría de Finanzas o Delegación que corresponda y el certificado de depósito se conservará en el juzgado;
+I.- El embargo de dinero o de créditos fácilmente realizables que se efectúen en virtud de sentencia, porque entonces se hace entrega inmediata al actor en abono o en pago a las prestaciones reclamadas; en cualquier otro caso el depósito se hará en la Secretaría de Planeación, Administración y Finanzas del Estado o Delegación que corresponda y el certificado de depósito se conservará en el juzgado;
 
 II.- El secuestro de bienes que hubieren sido objeto de embargo judicial anterior, en cuyo caso el depositario primero en tiempo, lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el embargo sea por virtud de cédula hipotecaria, derecho de prenda u otro privilegio real, porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer secuestro;
 
@@ -4994,11 +4994,11 @@ En el caso a que se refiere este artículo, se ampliará el término de publicac
 
 Será postura legal, la que cubra las dos terceras partes del avalúo o del precio fijado a la finca hipotecada por los contratantes, la cual se exhibirá siempre mediante billete de depósito.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 560.
 
-Para tomar parte en la subasta, los licitadores deberán presentar por escrito su postura y consignar previamente, en la Secretaria de Finanzas del Estado o Delegación correspondiente, a disposición del juzgado, una cantidad igual por lo menos al veinticinco por ciento del importe total de la postura legal para el remate, sin cuyos requisitos no serán admitidos. Se devolverán los certificados de depósito a sus respectivos dueños acto continuo al remate, excepto la del mejor postor que se conservará en depósito como garantía del cumplimiento de sus obligaciones y, en su caso, como parte del precio de la venta.
+Para tomar parte en la subasta, los licitadores deberán presentar por escrito su postura y consignar previamente, en la Secretaría de Planeación, Administración y Finanzas del Estado o Delegación correspondiente, a disposición del juzgado, una cantidad igual por lo menos al veinticinco por ciento del importe total de la postura legal para el remate, sin cuyos requisitos no serán admitidos. Se devolverán los certificados de depósito a sus respectivos dueños acto continuo al remate, excepto la del mejor postor que se conservará en depósito como garantía del cumplimiento de sus obligaciones y, en su caso, como parte del precio de la venta.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -9553,3 +9553,9 @@ P.O. 11 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26275/LXI/17 QUE REFORMA LOS ARTÍCULOS 52 Y 112 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor a los treinta días naturales siguientes a la de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26426/LXI/17 QUE REFORMA LOS ARTÍCULOS 244, 528 Y 560 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
