@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2016-10-11"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -187,7 +185,7 @@ XLVIII. Uso Industrial. Utilización de agua en procesos de extracción, conserv
 
 XLIX. Uso en Servicios de Hotelería. Uso comercial que se hace en hoteles, tiempos compartidos, moteles, búngalos, cabañas, condominios con servicio de hotelería, y en otros inmuebles donde se comercializa con alojamiento temporal por períodos inferiores a los seis meses;
 
-L. Uso en Instituciones Públicas o que Prestan Servicios Públicos. la (sic) utilización del agua para el riego de áreas verdes de propiedad estatal y municipal, incluyendo la captación de agua en embalses para conservar las condiciones ambientales, el equilibrio ecológico y para el abastecimiento de las instalaciones que presten servicios públicos;
+L. Uso en Instituciones Públicas o que Prestan Servicios Públicos. la utilización del agua para el riego de áreas verdes de propiedad estatal y municipal, incluyendo la captación de agua en embalses para conservar las condiciones ambientales, el equilibrio ecológico y para el abastecimiento de las instalaciones que presten servicios públicos;
 
 LI. Uso Mixto Comercial. Utilización de agua en predios de uso habitacional, cuando se realicen en el mismo predio en pequeña escala, actividades propias del uso comercial con fines de supervivencia familiar.
 
@@ -539,13 +537,15 @@ X. Expedir, en los términos que establezcan los convenios materia de la Fracci�
 
 XI. Conciliar y, en su caso, fungir a petición de los usuarios, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta ley;
 
-XII. Coordinarse en la gestión de los recursos económicos y financieros que genere el agua y su gestión bajo el principio de que “el agua paga el agua”, conforme al marco jurídico en la materia, con el propósito de financiar las actividades, sustantivas de la Comisión y del sector hídrico estatal con los recursos correspondientes;
+XII. Coordinarse en la gestión de los recursos económicos y financieros que genere el agua y su gestión bajo el principio de que "el agua paga el agua", conforme al marco jurídico en la materia, con el propósito de financiar las actividades, sustantivas de la Comisión y del sector hídrico estatal con los recursos correspondientes;
 
 XIII. Proponer la aplicación de los avances científicos y tecnológicos en el establecimiento y conservación de la infraestructura hidráulica, así como en la prestación de los servicios públicos de agua. Incluyendo la determinación y normalización de índices de gestión que permiten evaluar los avances en la materia;
 
 XIV. Proponer programas de capacitación para los ayuntamientos, organismos públicos y organizaciones privadas para la gestión del agua;
 
-XV. Promover programas de cultura de ahorro y uso eficiente del agua;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Promover e impulsar programas sobre el desarrollo de una cultura del agua, su ahorro, uso eficiente y su conservación en todas las fases del ciclo hidrológico, que considere a este elemento como recurso vital, escaso y de alto valor económico, social y ambiental y que contribuya a lograr la gestión integrada de los recursos hídricos;
 
 XVI. Proponer reformas a las disposiciones legales y reglamentarias en materia de agua;
 
@@ -2087,7 +2087,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 
 Segundo. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
 
-Tercero. En términos de lo dispuesto por el artículo 98 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, bajo la premisa de garantía en el abastecimiento del agua en el Estado, así como la eficiencia de recursos en la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, se faculta al Ejecutivo del Estado para que por conducto del Organismo Operador Estatal Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, debiendo cubrir disposiciones legales aplicables. (sic)
+Tercero. En términos de lo dispuesto por el artículo 98 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, bajo la premisa de garantía en el abastecimiento del agua en el Estado, así como la eficiencia de recursos en la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, se faculta al Ejecutivo del Estado para que por conducto del Organismo Operador Estatal Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, debiendo cubrir disposiciones legales aplicables.
 
 Cuarto. En términos de lo dispuesto por las nuevas disposiciones contenidas en el presente decreto, a fin de abatir los rezagos en cobertura de los servicios de agua potable, alcantarillado y saneamiento, garantizar el acceso universal a los mismos, así como eficientar los recursos en la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, se faculta al Ejecutivo del Estado para que por conducto de la Comisión Estatal del Agua, celebre con los Municipios del Estado de Jalisco que no se encuentren incorporados al Sistema Intermunicipal de los Servicios de Agua y Alcantarillado SIAPA, o al Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado, SEAPAL Vallarta, los convenios para que éste se haga cargo de la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, debiendo cubrir los requisitos establecidos para tales efectos en la Ley del Agua para el Estado de Jalisco y sus Municipios y demás disposiciones legales aplicables.
 
@@ -2116,3 +2116,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26424/LXI/17 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
