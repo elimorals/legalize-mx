@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-comite-de-adquisiciones-enajenaciones-80349"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2015-10-09"
+last_updated: "2017-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL COMITE DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL INSTITUTO ELECTORAL DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del estado de Querétaro, el viernes 11 de marzo de 2011.
 
@@ -668,3 +670,11 @@ CUARTO. Se instruye a la Secretaría Ejecutiva integre en el texto vigente del R
 QUINTO. Se ordena a la Secretaría Ejecutiva publique las modificaciones al Reglamento materia del presente Acuerdo, en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
 
 SEXTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Primero. Se abroga el Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Querétaro.
+
+Segundo. El presente reglamento entrará en vigor una vez que sea publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
