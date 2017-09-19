@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-07-25"
+last_updated: "2017-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1693,9 +1693,11 @@ Al reincidente en este delito, se le impondrá además de las sanciones señalad
 
 (NOTA: EL 19 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE OCTUBRE DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Art. 123.
 
-En caso de habitualidad o si el delito previsto en el artículo anterior es cometido por conductores de vehículos en servicio público, transporte escolar o de servicio turístico, la sanción deberá elevarse hasta el duplo.
+En caso de habitualidad o si el delito previsto en el artículo anterior es cometido por conductores de vehículos en servicio público, transporte escolar o de servicio turístico, o por servidores públicos conduciendo vehículos oficiales, la sanción deberá elevarse hasta el duplo.
 
 (NOTA: EL 19 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE OCTUBRE DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -5071,7 +5073,7 @@ En el caso de que las actividades a que se refieren los párrafos anteriores, se
 
 Se impondrá pena de uno a seis años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, a quien sin aplicar las medidas de prevención o seguridad:
 
-(F. DE E., P.O. 12 DE JULIO DE 2003)(ADICIONADA, P.O. 12 DE JUNIO DE 2003)
+(F. DE E., P.O. 12 DE JULIO DE 2003) (ADICIONADA, P.O. 12 DE JUNIO DE 2003)
 
 I. Emita, despedida, descargue en la atmósfera, o lo autorice u ordene, gases, humos, polvos contaminantes que ocasionen daños a los recursos naturales, a la fauna, a la flora, a los ecosistemas o al ambiente, a la salud pública, siempre que dichas emisiones no provengan de fuentes fijas de competencia federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o
 
@@ -6262,5 +6264,11 @@ P.O. 8 DE ABRIL DE 2017.
 P.O. 25 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26386/LXI/17, QUE REFORMA EL ARTÍCULO 27 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26423/LXI/17 QUE REFORMA EL ARTÍCULO 123 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
