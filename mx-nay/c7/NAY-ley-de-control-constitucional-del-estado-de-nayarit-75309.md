@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-control-constitucional-del-estado-de-nayarit-75309"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-02"
-last_updated: "2016-11-08"
+last_updated: "2017-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 2 de junio de 2010.
 
@@ -257,9 +257,17 @@ VII. Actos que no afecten el interés jurídico del actor, en tratándose de jui
 
 VIII. Actos que se hayan consumado de modo irreparable o se hubieren consentido expresa o tácitamente, en tratándose del juicio de protección de derechos fundamentales;
 
-IX. Normas o actos que sean competencia exclusiva del Poder Judicial de la Federación, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-X. En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
+IX. Normas o actos que sean competencia exclusiva del Poder Judicial de la Federación;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+
+X. Las resoluciones o declaraciones del Congreso del Estado o de sus respectivas Comisiones o Diputación Permanente, en declaración de procedencia y en juicio político, así como en elección, suspensión o remoción de funcionarios; facultades que la Constitución Política del Estado Libre y Soberano de Nayarit, le confiere al Congreso del Estado, para resolver soberana o discrecionalmente, y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+
+XI.- En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
 
 En todo caso, las causales de improcedencia deberán examinarse de oficio.
 
@@ -884,3 +892,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES AL ARTÍCULO 22 DE LA LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit
