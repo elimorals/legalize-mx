@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2017-05-13"
+last_updated: "2017-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -281,7 +281,7 @@ XVI. Nombrar, designar, remover, cesar, cambiar de adscripción, comisionar y ot
 
 XVII. Otorgar poderes generales o especiales, entre ellos los que requieran autorización o cláusula especial, a los servidores públicos de las unidades administrativas a su cargo, cuando la propia Dependencia tenga el carácter de parte en cualquier asunto o procedimiento administrativo o judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
@@ -289,53 +289,27 @@ Para el estudio, planeación, análisis, programación, ejecución, control, eva
 
 I. Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
-
 II. Secretaría de Administración y Finanzas;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 III. Secretaría de Planeación, Programación y Presupuesto;
 
 IV. Secretaría de Obras Públicas;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-V. Secretaría de Educación
+V. Secretaría de Educación;
 
 VI. Secretaría de la Contraloría General;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
 VII. Secretaría de Desarrollo Rural y Medio Ambiente;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 VIII. Secretaría del Trabajo, Productividad y Desarrollo Económico;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
-
 IX. Secretaría de Turismo;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 X. Secretaría de Salud;
 
-XI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2015)
+XI. Secretaría de Desarrollo Social, y
 
-XII. (DEROGADA, P.O. 13 DE MAYO DE 2017)
-
-XIII. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2011)
-
-XIV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2014)
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
-
-XV. Secretaría de Seguridad Pública;
-
-XVI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2015)
-
-XVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
+XII. Secretaría de Seguridad Pública.
 
 ### CAPITULO II
 
@@ -353,7 +327,9 @@ III. Rendir las informaciones oficiales del Ejecutivo del Estado;
 
 IV. Cumplir y hacer cumplir las políticas, acuerdos, órdenes, circulares y demás disposiciones que dicte el Gobernador del Estado;
 
-V. Coordinar las funciones y actividades de todas las dependencias y entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+
+V. Coordinar las funciones y actividades de todas las dependencias y entidades de la Administración Pública Estatal, para lo cual, el titular de la Secretaría General podrá crear unidades de enlace en cada una de ellas, cuyas atribuciones se establecerán en el reglamento respectivo;
 
 VI. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del estado, de los municipios y pueblos; erección, agregación y segregación de los pueblos; y cambio de categoría política o de nombre de los poblados, de acuerdo con la Constitución Política del Estado y, en caso de conflicto, previo acuerdo del Ejecutivo, plantear su solución ante la instancia correspondiente;
 
@@ -409,31 +385,25 @@ XXIX. Supervisar lo relativo al control y funcionamiento de las profesiones, ser
 
 XXX. Llevar el registro de los peritos que pueden ejercer en el estado de conformidad con la ley de la materia;
 
-XXXI. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+
+XXXI. Concertar la colaboración institucional entre las distintas dependencias de gobierno y la sociedad, con la finalidad de asegurar el cumplimiento de metas y objetivos de los distintos programas sociales gubernamentales;
 
 XXXII. Intervenir en los asuntos agrarios, de regulación de la tenencia de la tierra, de propiedad rural y de asentamientos humanos irregulares que le encomiende el Gobernador del Estado, de conformidad con la normatividad legal vigente;
 
 XXXIII. Aplicar y vigilar el cumplimiento de las medidas encaminadas a fortalecer la seguridad jurídica en el campo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-XXXIV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+XXXIV. Impulsar la participación ciudadana para la atención de necesidades sociales a través de la instalación de comités ciudadanos, asambleas vecinales o contralorías sociales en materia de bienestar social;
 
 XXXV. Vigilar la observancia y aplicación de las disposiciones contenidas en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 XXXVI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XXXVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 XXXVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XXXIX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
@@ -485,9 +455,13 @@ LXI. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
 LXII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
-LXIII. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-LXIV. Organizar y autorizar el servicio social;
+LXIII. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+
+LXIV. Organizar y autorizar el servicio social, y
 
 LXV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
@@ -711,7 +685,7 @@ LXXXVIII.- Entregar la información financiera que solicite la Secretaría de Ha
 
 LXXXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE JUNIO DE 2010, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR 32 FRACCIONES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 20 DE SEPTIEMBRE DE 2017, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE VEINTISIETE A VEINTIDÓS FRACCIONES.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -719,127 +693,93 @@ LXXXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios y las que
 
 A la Secretaría de Planeación, Programación y Presupuesto corresponden las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 I. Ejercer la rectoría del Estado en materia de planeación del desarrollo integral de la entidad, de conformidad con las leyes aplicables;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 II. Elaborar y proponer al Gobernador, los programas que requiera la entidad, con apego a las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 III. Conducir la instrumentación del Sistema Estatal de Planeación Democrática;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 IV. Proponer las normas y lineamientos metodológicos del Sistema Estatal de Planeación, Programación y Presupuestación, así como los mecanismos para su seguimiento y evaluación;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-V. Proveer oportunamente a las dependencias de la Administración Pública Centralizada los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+V. Formular, coordinar y supervisar el Plan Estatal de Desarrollo, los programas sectoriales y regionales, así como los especiales que determine el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 VI. Concertar en el seno del Comité de Planeación para el Desarrollo del Estado de Nayarit, la participación de los sectores público, privado y social en la planeación del desarrollo integral de la entidad;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 VII. Coordinar los programas de desarrollo del Gobierno del Estado con los de la Administración Pública Federal y la de los Ayuntamientos de la entidad;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 VIII. Participar con las dependencias correspondientes, en la formulación de los planes y programas de desarrollo urbano y rural, y de protección ambiental;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 IX. Establecer, operar y vigilar el Sistema Estatal de Estadística e Información Geográfica y Cartográfica;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 X. Diseñar las bases metodológicas y los mecanismos de participación de las dependencias y organismos para elaborar, ejecutar y evaluar el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XI. Registrar el avance en la ejecución de los programas y el ejercicio del presupuesto de conformidad con la normatividad establecida y, en su caso, proponer las medidas necesarias para mantener la congruencia con los programas de desarrollo del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XII. Aplicar procedimientos para fortalecer la capacidad de los Ayuntamientos en la ejecución de obras y servicios, y la transferencia de recursos federales a los mismos;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XIII. Integrar los documentos e información para la planeación del desarrollo del Estado y promover o elaborar los estudios para definir y apoyar los criterios, métodos, técnicas y las bases de la planeación estatal;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XIV. Elaborar y someter a la aprobación del Gobernador del Estado los programas y presupuestos de inversión pública federal, estatal y municipal que se concerten;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XV. Participar en coordinación con la Secretaría de Administración y Finanzas en la integración del anteproyecto general de criterios de política económica del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XVI. Evaluar el avance, así como el comportamiento global y sectorial del ejercicio del presupuesto, en congruencia con los programas de desarrollo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XVII. Dar seguimiento y analizar los programas anuales de inversión y gasto público de las dependencias y organismos de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XVIII. Orientar a las dependencias y entidades de la Administración Pública Estatal para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XIX. Asesorar y apoyar técnicamente a los Ayuntamientos en la elaboración de sus planes y programas de desarrollo, así como en la aplicación, ejecución y evaluación de obras, servicios y recursos federales;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XX. Participar en coordinación con la Secretaría de Administración y Finanzas en la elaboración y actualización de los programas estatales de gasto e inversión pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación, y
 
-XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXII. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida de la gente, propiciando la celebración de convenios con los gobiernos federal y municipales, así como con los sectores social y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXIII. Elaborar los programas regionales y especiales que le señale el Titular del Poder Ejecutivo, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXIV. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas indígenas, de las áreas rurales, así como de los colonos de la áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Estatal que correspondan y de los gobiernos municipales, así como con la participación de los sectores social y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXV. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal que correspondan, de los gobiernos federal y municipales, así como de las instituciones de crédito y diversos grupos sociales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXVI. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos federal y municipales, así como con la participación de los sectores social y privado, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXVII. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
+XXII. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
 
 ###### Artículo 35.
 
@@ -1873,9 +1813,27 @@ XVIII. Asesorar a los Ayuntamientos de la entidad en materia de salud pública; 
 
 XIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-Artículo 40 A.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2015)
+Artículo 40 A. A la Secretaría de Desarrollo Social corresponden las siguientes atribuciones:
+
+I. Coordinar las acciones que incidan en el combate a la pobreza, así como el fomento de un mejor nivel de vida, para lo cual, el titular de la Secretaría de Desarrollo Social podrá celebrar convenios con los distintos órdenes de gobierno y con los sectores social y privado;
+
+II. Proponer al titular del Poder Ejecutivo del Estado, los lineamientos generales de las políticas públicas estatales, programas y acciones en materia de desarrollo social;
+
+III. Elaborar los programas regionales y especiales que le señale el titular del Poder Ejecutivo, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos;
+
+IV. Coordinar los programas y acciones en materia de desarrollo social;
+
+V. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal que correspondan, de los distintos órdenes de gobierno, de las instituciones de crédito y grupos sociales;
+
+VI. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano y el bienestar social, en coordinación con los gobiernos federal y municipales, así como con la participación de los sectores social y privado;
+
+VII. Promover los mecanismos de evaluación de los programas y acciones de desarrollo social;
+
+VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social de la entidad, y
+
+IX. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2482,3 +2440,17 @@ Primero.- El presente Decreto entrará en vigor el dieciocho de julio del dos mi
 Segundo.- A partir de la entrada en vigor del presente Decreto, el titular de la Secretaría de la Contraloría General podrá designar a los titulares de los Órganos Internos de Control de las dependencias y entidades, en caso de no hacer nuevas designaciones en un plazo de 30 días siguientes a la vigencia de este decreto, se entenderá ratificado el nombramiento concedido previamente.
 
 Tercero.- Se deberán realizar las adecuaciones presupuestarias necesarias a efecto de lograr el debido funcionamiento de los Órganos Internos de Control que se pudieran crear por el presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Una vez publicado el presente Decreto, la Secretaría de Administración y Finanzas, deberá contemplar las adecuaciones correspondientes en el proyecto de Presupuesto de Egresos del Estado para el ejercicio fiscal 2018.
+
+Tercero.- Dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse y en su caso expedirse los reglamentos interiores del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, la Secretaría General de Gobierno, de Planeación, Programación y Presupuesto y de la Secretaría de Desarrollo Social.
+
+Cuarto.- A la entrada en vigor del presente Decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros que en su caso correspondan, de la Secretaría de Planeación, Programación y Presupuesto a la Secretaría de Desarrollo Social, de conformidad con los Acuerdos de transferencia que al efecto disponga el titular del Poder Ejecutivo.
+
+Quinto.- Los servidores públicos adscritos a la Secretaría de Planeación, Programación y Presupuesto que habrán de asignarse a la Secretaría de Desarrollo Social no resultarán afectados en sus derechos laborales
