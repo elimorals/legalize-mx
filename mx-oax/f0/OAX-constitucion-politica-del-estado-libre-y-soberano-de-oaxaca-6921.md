@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-08-11"
+last_updated: "2017-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1305,19 +1305,15 @@ La vecindad no se pierde por ausencia debida al desempeño de otros cargos públ
 
 El Gobernador del Estado no puede ser electo diputado durante el período de su ejercicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o Secretario General de Gobierno, las y los Secretarios de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, El o La Fiscal General, las Presidentas o los Presidentes Municipales, Militares en servicio activo y cualquier otra u otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, sólo pueden ser electas o electos para ocupar algún cargo de elección popular, si se separan de sus cargos con noventa días de anticipación a la fecha de su elección.
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-(NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
-
-LAS MAGISTRADAS Y MAGISTRADOS Y la Secretaria o Secretario General del Tribunal Estatal Electoral; la Auditora o Auditor y las Sub Auditoras y Sub Auditores de la Auditoría Superior del Estado; los titulares del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca, la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión para la Defensa de los Derechos Humanos del Estado de Oaxaca, así como las Magistradas y Magistrados del Tribunal de lo Contencioso Administrativo y de Cuentas, LA FISCAL O EL FISCAL GENERAL DEL ESTADO DE OAXACA ASÍ COMO LOS FISCALES ESPECIALES, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+Las Magistradas y Magistrados y la Secretaria o Secretario General del Tribunal Estatal Electoral; el Auditor y los Sub Auditores del Órgano Superior de Fiscalización del Estado de Oaxaca; los titulares del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión para la Defensa de los Derechos Humanos del Estado de Oaxaca, así como las Magistradas y Magistrados del Tribunal de lo Contencioso Administrativo y de Cuentas, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -1655,33 +1651,25 @@ Tratándose del año que corresponda la renovación del titular del Poder Ejecut
 
 XXI Bis. Autorizar al Titular del Poder Ejecutivo, la ejecución de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, así como las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de dichos proyectos en los Presupuestos de Egresos del Estado, en términos de lo dispuesto por la Ley reglamentaria. Las erogaciones autorizadas deberán incluirse en los subsecuentes Presupuestos de Egresos durante la vigencia de los contratos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-XXII. Dictaminar anualmente la Cuenta Pública del Estado y Municipios, el Congreso del Estado contará con el apoyo de la Auditoría Superior del Estado con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas mediante la revisión y fiscalización de las mismas.
+XXII. Dictaminar anualmente la Cuenta Pública del Estado y Municipios, el Congreso del Estado contará con el apoyo del Órgano Superior de Fiscalización del Estado de Oaxaca con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas mediante la revisión y fiscalización de las mismas.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
+Sólo se podrá ampliar el plazo de presentación de las Cuentas Públicas cuando se presente solicitud para que sea justificada, a juicio del Congreso del Estado; a condición de que sea presentada por lo menos con quince días de anticipación a la conclusión del plazo, para lo cual deberá comparecer el Secretario de Finanzas o bien, el Presidente Municipal del Ayuntamiento respectivo, según se trate de Cuenta Pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de quince días naturales y, en tal supuesto el Órgano Superior de Fiscalización del Estado de Oaxaca contará con el mismo tiempo adicional para la presentación el (sic) informe de resultado (sic) de la revisión y fiscalización de las Cuentas Públicas.
 
-Sólo se podrá ampliar el plazo de presentación de las Cuentas Públicas cuando se presente solicitud para que sea justificada, a juicio del Congreso del Estado; a condición de que sea presentada por lo menos con quince días de anticipación a la conclusión del plazo, para lo cual deberá comparecer el Secretario de Finanzas o bien, el Presidente Municipal del Ayuntamiento respectivo, según se trate de Cuenta Pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de quince días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación del informe de resultado de la revisión y fiscalización de las Cuentas Públicas.
+Tratándose de la Cuenta Pública del Estado, los Poderes del Estado, Órganos Autónomos y todos aquellos entes que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas, a más tardar el último día hábil de febrero del año que corresponda la información correspondiente al año inmediato anterior atendiendo al contenido señalado en la Ley General de Contabilidad Gubernamental y a (sic) la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
+El Órgano Superior de Fiscalización del Estado de Oaxaca a más tardar el día último hábil del mes de noviembre del año de la presentación de la Cuenta Pública, deberá rendir al Congreso, por conducto de la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, el informe de resultados de la Cuenta Pública del Estado. El Congreso a más tardar el 15 de diciembre del año de su presentación, concluirá su revisión, dictamen y votación.
 
-Tratándose de la Cuenta Pública del Estado, los Poderes del Estado, Órganos Autónomos y todos aquellos entes que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas, a más tardar el último día hábil de febrero del año que corresponda la información correspondiente al año inmediato anterior atendiendo al contenido señalado en la Ley General de Contabilidad Gubernamental y a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
+Por lo que respecta a la Cuenta Pública del Estado del último año de gobierno de cada administración, el titular del Ejecutivo presentará trimestralmente el informe de avance de la Cuenta Pública del Estado dentro de los treinta días naturales siguientes a la conclusión de cada trimestre, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá rendir el informe de resultados de los dos primeros trimestres a más tardar el 15 de septiembre del año en que se presentan, debiendo el Congreso a más tardar el 30 de septiembre de ese año concluir su revisión y dictamen y votación.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
+Tratándose del tercer trimestre, el titular del Ejecutivo presentará el informe del avance de la Cuenta Pública del Estado el día 15 de octubre, para lo cual el Órgano Superior de Fiscalización del Estado de Oaxaca rendirá el informe de resultados a más tardar el día 7 de noviembre del año en que se presentan, debiendo el congreso concluir su revisión, dictamen y votación a más tardar el 12 de noviembre de ese año. Por lo que respecta al cuarto trimestre, el titular del ejecutivo la presentará a más tardar el 30 de abril del año siguiente, debiendo el Órgano Superior de Fiscalización del Estado de Oaxaca remitir el informe de resultados que corresponda el día último hábil del mes de noviembre del año de presentación y el Congreso concluirá su revisión, dictamen y votación a más tardar el 15 de diciembre del mismo año.
 
-La Auditoría Superior del Estado a más tardar el 15 de septiembre de la presentación de la Cuenta Pública, deberá rendir al Congreso, por conducto de la Comisión Permanente de Vigilancia de la Auditoria Superior del Estado, los informes de resultados de la Cuenta Pública del Estado. El Congreso a más tardar el 30 de septiembre del año de su presentación, concluirá su revisión y dictamen.
+En el caso de las Cuentas Públicas de los Municipios se observará el párrafo anterior, con la salvedad de que se presentarán (sic) la correspondiente al año anterior a más tardar el último día hábil del mes de febrero, el informe de resultados del Órgano Superior de Fiscalización del Estado de Oaxaca se presentará el último día hábil del mes de noviembre; su dictaminación y votación se realizará a más tardar al termino del segundo periodo ordinario de sesiones.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Por lo que respecta a la Cuenta Pública del Estado del último año de gobierno de cada administración, el titular del Ejecutivo presentará trimestralmente el informe de avance de la Cuenta Pública del Estado dentro de los treinta días naturales siguientes a la conclusión de cada trimestre, la Auditoría Superior del Estado deberá rendir el informe de resultados de los dos primeros trimestres a más tardar el 15 de septiembre del año en que se presentan, debiendo el Congreso a más tardar el 30 de septiembre de ese año concluir su revisión y dictamen. Tratándose del tercero y cuarto trimestres, la Auditoria Superior del Estado tendrá que remitir el informe de resultados que corresponda a ambos trimestres el 15 de septiembre del año de presentación del cuarto trimestre, y el Congreso concluirá su revisión y dictamen a más tardar el 30 de septiembre del mismo año.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2012)</small>
-
-En el caso de las Cuentas Públicas de los Municipios se observará el párrafo anterior, con la salvedad de que presentarán la correspondiente al año anterior a más tardar el ultimo día hábil del mes de febrero, el informe de resultados de la Auditoría Superior del Estado se presentará el último día hábil del mes de noviembre y su dictaminación se realizará a más tardar al termino del segundo periodo ordinario de sesiones.
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
-
-XXIII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestión, el desempeño en las acciones y funciones de la Auditoría Superior del Estado, en términos de la ley respectiva;
+XXIII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestión, el desempeño en las acciones y funciones del Órgano Superior de Fiscalización del Estado de Oaxaca, en términos de la ley respectiva;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1743,9 +1731,9 @@ XXXIV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
 
 XXXV. Llamar a los Diputados suplentes conforme a las prevenciones relativas de esta Constitución;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-XXXVI. Elegir y remover al Titular de la Auditoría Superior del Estado y a los Sub-Auditores;
+XXXVI. Elegir y remover al Titular del Órgano Superior de Fiscalización del Estado de Oaxaca y a los Sub-Auditores;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1889,9 +1877,13 @@ LXXI. Realizar consultas a los pueblos y comunidades indígenas y afromexicanas,
 
 LXXII. Legislar en materia indígena.
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+LXXIII. Legislar en materia de responsabilidades de los servidores públicos del Estado y Municipios; y,
+
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-LXXIII. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones
+LXXIV. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones
 
 ###### ARTICULO 60.
 
@@ -1963,81 +1955,51 @@ VII. Nombrar provisionalmente a los sustitutos de los Servidores Públicos cuyas
 
 VIII. Convocar de inmediato al Pleno del Congreso, a un periodo extraordinario de sesión para la elección o formulación de objeción a la remoción del Fiscal General del Estado de Oaxaca;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 IX. Calificar las excusas que presente el Fiscal General del Estado de Oaxaca para intervenir en determinado negocio.
 
 X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de que sigan tramitándose en el período ordinario siguiente.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE SEPTIEMBRE DE 2017)</small>
 
-#### SECCION SEXTA. De la Auditoría Superior del Estado de Oaxaca
+#### SECCION SEXTA. Del Órgano Superior de Fiscalización del Estado de Oaxaca
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-ARTICULO 65 BIS. La Auditoría Superior del Estado de Oaxaca es el órgano técnico del congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. La revisión y fiscalización se constreñirá a la Cuenta Pública del año inmediato anterior y las situaciones excepcionales que prevea la Ley.
+ARTICULO 65 BIS.- El Órgano Superior de Fiscalización del Estado de Oaxaca es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública y gestión financiera de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. La revisión y fiscalización se constreñirá a la Cuenta Pública del año inmediato anterior, así como cuando se advierta la existencia de hechos notorios sobre irregularidades que produzcan daños al erario y a las haciendas de los entes fiscalizables, y las situaciones excepcionales que ésta Constitución y la ley prevean.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+En el desempeño de sus funciones el Órgano Superior de Fiscalización del Estado de Oaxaca, contará con plena autonomía técnica, de gestión, presupuestal y financiera para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad, por lo tanto, podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública. Asimismo, para los trabajos de planeación de las auditorías, podrá solicitar información del ejercicio en curso o de los concluidos.
 
-En el desempeño de sus funciones, contará con plena autonomía técnica y de gestión para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+La revisión de la cuenta pública tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto aprobado, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas. Los procedimientos para llevar a cabo su cometido estarán determinados por la ley reglamentaria.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+El Órgano Superior de Fiscalización del Estado de Oaxaca tendrá las siguientes atribuciones:
 
-El presupuesto requerido para el funcionamiento de la Auditoría Superior será determinado por el Congreso del Estado.
+I. Revisar y fiscalizar en forma posterior, salvo las excepciones establecidas en este artículo, los ingresos, egresos, la deuda pública, el manejo, la custodia, la administración y la aplicación de fondos y recursos públicos de los Poderes del Estado y Municipios, entes públicos estatales y municipales, que ejerzan recursos públicos, organismos públicos estatales organismos públicos autónomos y particulares que manejen recursos públicos, además de los recursos transferidos a fideicomisos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero; así como, el cumplimiento de los objetivos contenidos en sus programas en la forma y términos que disponga la ley reglamentaria. Quedando facultado el Órgano Superior de Fiscalización del Estado de Oaxaca para solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pagos diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, el Órgano Superior de Fiscalización del Estado de Oaxaca emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias el Órgano Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizables, así como respecto de ejercicios anteriores. Las entidades fiscalizables proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley reglamentaria y, en su (sic) caso de incumplimiento a estos requerimientos, serán aplicables las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado de Oaxaca rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones o responsabilidades que correspondan ante el Tribunal de lo Contencioso Administrativo y de Cuentas, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
-La revisión de la cuenta pública tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto aprobado, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas. Los procedimientos para llevar a cabo su cometido estarán determinados por la ley.
+Si estos requerimientos a que refiere el párrafo anterior no fueren atendidos en los plazos y formas señalados por la ley reglamentaria, podrá dar lugar al proceso de investigación y en su caso el Órgano Superior de Fiscalización del Estado de Oaxaca finque las responsabilidades que sean de su competencia y promueva ante otras instancias las que correspondan.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+Las entidades fiscalizables a que se refiere el primer párrafo de esta fracción deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterio (sic) que establezca la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables de carácter estatal, así como resguardar la documentación comprobatoria, expedientes y libros contables.
 
-La Auditoría Superior del Estado tendrá las siguientes atribuciones:
-
-I. Revisar y fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia, la administración y la aplicación de fondos y recursos públicos de los Poderes del Estado y Municipios, entes públicos estatales y municipales que ejerzan recursos públicos, organismos públicos autónomos y particulares que manejen recursos públicos; así como el cumplimiento de los objetivos contenidos en sus programas en la forma y términos que disponga la ley.
-
-Sin perjuicio de lo anterior, en situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe.
-
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, podrá dar lugar al proceso de investigación y en su caso, al fincamiento de las responsabilidades que corresponda.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
-
-Las entidades fiscalizables a que se refiere el primer párrafo de esta fracción deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables de carácter estatal, así como resguardar la documentación comprobatoria, expedientes y libros contables.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
-
-El hecho de no presentar las cuentas públicas, no impide el ejercicio de las atribuciones de revisión, fiscalización y sanción de la Auditoría Superior del Estado contenidas en esta Constitución y en la Ley respectiva.
+El hecho de no presentar las cuentas públicas, no impide el ejercicio de las atribuciones de revisión, fiscalización y sanción del Órgano Superior de Fiscalización del Estado de Oaxaca contenidas en esta Constitución y en la Ley respectiva.
 
 II. Fiscalizar los recursos provenientes de las aportaciones que en términos de la Constitución Política de los Estados Unidos Mexicanos y de los Convenios de Coordinación Fiscal, administren y ejerzan los entes públicos fiscalizables mencionados en la fracción anterior, conforme a lo establecido en la ley;
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+IV. Derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas, los órganos internos de control competentes, la Fiscalía Especializada en Combate a la Corrupción o las autoridades correspondientes;
 
-IV. Derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas.
+V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
-
-V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente; y
 
 VII. Fiscalizar las acciones del Estado y Municipios, en materia de deuda pública.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+Las dependencias y entidades de los Poderes del Estado, los Ayuntamiento (sic), los órganos públicos autónomos y los particulares que manejen recursos públicos, proporcionarán los informes y documentación que les requiera el Órgano Superior de Fiscalización del Estado de Oaxaca para el ejercicio de sus funciones.
 
-Las dependencias y entidades de los Poderes del Estado, los Ayuntamientos, los órganos públicos autónomos y los particulares que manejen recursos públicos, proporcionarán los informes y documentación que les requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2012)</small>
-
-El titular de la Auditoría Superior del Estado será electo por el Congreso, con el voto de las dos terceras partes de sus miembros presentes. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control, auditoría gubernamental y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución. En los mismos términos serán electos los subauditores. La ley determinará el procedimiento para su elección, requisitos y funciones.
+El titular del Órgano Superior de Fiscalización del Estado de Oaxaca será electo por el Congreso, con el voto de las dos terceras partes de sus miembros. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control fiscalización, auditoría gubernamental y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución. En los mismos términos serán electos los Subauditores. La ley determinará el procedimiento para su elección, requisitos y funciones.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
@@ -2071,15 +2033,11 @@ La vecindad no se pierde por ausencia en el desempeño de cargo público de elec
 
 II. Tener treinta años cumplidos el día de la elección;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 III. No ser Presidenta o Presidente de la República, Secretaria o Secretario Estatal o Federal, Magistrada o Magistrado del Tribunal Superior de Justicia del Estado y Tribunales Especializados, integrantes del máximo órgano de dirección en los Órganos Constitucionales Autónomos o Fiscal General o Especial del Estado, ni Directora o Director de organismo descentralizado, empresa de participación estatal o fideicomiso público, a menos que se separe del cargo, en forma definitiva seis meses antes del día de la elección, conforme a lo señalado en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes de la materia;
 
 (NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2649,7 +2607,9 @@ La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento de
 
 El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
 
-El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en el Presidente del Tribunal Superior de Justicia. Habrá un Consejero Magistrado y un Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en el Presidente del Tribunal Superior de Justicia. Habrá un Consejero Magistrado y un Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quienes los designa, por lo que ejercerán su función con independencia e imparcialidad. De los miembros del Consejo de la Judicatura se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
 La Ley Orgánica de cada uno de los poderes que participan en la integración del Consejo de la Judicatura determinará la forma y mecanismos para la designación de los Consejeros, quienes sin excepción deberán tener el título de licenciado en derecho y acreditar cinco años de experiencia en la materia.
 
@@ -2672,8 +2632,6 @@ III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, t�
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
 V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3055,13 +3013,13 @@ Los Ayuntamientos en el ámbito de sus competencias, propondrán a la Legislatur
 
 La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, autorizando las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, que se determinen conforme a lo dispuesto en la Ley. Las erogaciones autorizadas deberán incluirse en los subsecuentes Presupuestos de Egresos durante la vigencia de los contratos correspondientes. Adicionalmente los Ayuntamientos deberán incluir en los Presupuestos de Egresos los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 138 de esta Constitución. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Los ayuntamientos por conducto del Presidente Municipal, presentarán al Congreso del Estado la Cuenta Pública del año anterior a más tardar el ultimo día hábil del mes de febrero, así mismo, entregarán a la Auditoría Superior del Estado los informes y demás información que le sean solicitados de acuerdo a lo establecido en las leyes.
+Los ayuntamientos por conducto del Presidente Municipal, presentarán al Órgano Superior de Fiscalización del Estado de Oaxaca la Cuenta Pública del año anterior a más tardar el último día hábil del mes de febrero, asimismo, entregarán los informes y demás datos que le (sic) sean solicitados de acuerdo a lo establecido en las leyes.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-En el año que concluya su mandato, la presentarán al Congreso conforme a los plazos y procedimientos que se establezcan legalmente.
+En el año que concluya su mandato, los Ayuntamientos presentarán dicha Cuenta Pública al Órgano Superior de Fiscalización del Estado de Oaxaca, conforme a los plazos y procedimientos que se establezcan legalmente.
 
 III.- Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
@@ -3153,14 +3111,6 @@ IX.- Cada ayuntamiento procurará contar con una Regiduría de Derechos Humanos 
 
 Conforme a esta Constitución y sus leyes respectivas, los órganos autónomos del Estado son entes públicos, con personalidad jurídica y patrimonio propio. Gozan de autonomía técnica, para su administración presupuestaria y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones. Tienen el derecho a iniciar leyes en las materias de su competencia, presentar el proyecto de presupuesto que requieran para su inclusión en el Presupuesto de Egresos del Estado, así como promover controversias constitucionales y acciones de inconstitucionalidad en el ámbito de su competencia local. Están facultados para imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente. Cada órgano rendirá un informe anual de labores al Congreso del Estado, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
-
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 La Ley establecerá las bases para la profesionalización de sus servidores públicos.
@@ -3229,7 +3179,11 @@ V. Las resoluciones del Instituto son vinculatorias, definitivas e inatacables p
 
 VI. Promover entre los servidores públicos y la población en general la cultura de la transparencia y el acceso a la información, y
 
-VII. Las demás que señale: la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y acceso a la Información publica, esta Constitución Política y las leyes aplicables en la materia.
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
+
+VIII. Las demás que señale; la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y acceso a la Información pública, esta Constitución Política y las leyes aplicables en la materia.
 
 El Instituto tendrá un Consejo Consultivo integrado por cinco consejeros, de carácter honorífico y sin goce de sueldo, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados por el periodo de cinco años. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente será substituido el consejero de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
 
@@ -3399,9 +3353,9 @@ El Gobernador del Estado, para los efectos de este Título, sólo podrá ser res
 
 Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas, Consejeros de la Judicatura; los Titulares de las Secretarías y de los órganos autónomos nombrados por el Congreso y el Fiscal General del Estado de Oaxaca, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes generales y federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos, recursos del Estado y deuda pública.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo portesta (sic) de decir verdad, su declaración patrimonial, de intereses y la constancia de haber declarado impuestos ante las autoridades competentes y en los términos que determine su Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3453,8 +3407,6 @@ Los procedimientos para la aplicación de las sanciones mencionadas en las fracc
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 117.
@@ -3495,7 +3447,9 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; por el presidente del Tribunal de lo Contencioso Administrativo y de Cuentas; el presidente del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Órgano Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; por el presidente del Tribunal de lo Contencioso Administrativo y de Cuentas; el presidente del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca; así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -3511,9 +3465,13 @@ d) El establecimiento de bases y principios para la efectiva coordinación de la
 
 e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
-Los órganos de control interno de los poderes, organismos autónomos y municipios, así como la Auditoría Superior del Estado desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos de control interno de los poderes, organismos autónomos, así como la Auditoría Superior del Estado, la Fiscalía Especializada en Combate a la Corrupción y al Tribunal de lo Contencioso Administrativo y de Cuentas en materia de combate a la corrupción en los términos que fije la ley.
+Los órganos de control interno de los poderes, organismos autónomos y municipios, así como el Órgano Superior de Fiscalización del Estado de Oaxaca, desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos de control interno de los poderes, organismos autónomos, así como al Órgano Superior de Fiscalización del Estado de Oaxaca, la Fiscalía Especializada en Combate a la Corrupción y al Tribunal de lo Contencioso Administrativo y de Cuentas en materia de combate a la corrupción en los términos que fije la ley.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -3645,8 +3603,6 @@ Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tend
 
 En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 130.
@@ -3737,9 +3693,9 @@ La planeación para el desarrollo estatal facilitará la programación del gasto
 
 La Ley preverá la coordinación necesaria entre la instancia técnica, la Secretaría de Finanzas, la Secretaría de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, responsables de integrar el Proyecto de Presupuesto de Egresos del Estado para cada ejercicio fiscal, a fin de dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Por lo que respecta a los Municipios del Estado, éstos serán evaluados por la Auditoría Superior del Estado.
+Por lo que respecta a los Municipios del Estado, éstos serán evaluados por el Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -3907,7 +3863,7 @@ Y lo comunico a usted para su conocimiento y demás efectos.
 
 SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C...
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 28 DE FEBRERO DE 1923.
 
@@ -4854,3 +4810,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Quedan derogadas todas las disposiciones legales de igual o menor jerarquía que se opongan total o parcialmente al contenido del presente Decreto.
 
 TERCERO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones correspondientes a las leyes pertinentes en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 695.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Todos los recursos financieros, humanos y materiales correspondientes a la Auditoría Superior del Estado de Oaxaca, pasarán a formar parte del Órgano Superior de Fiscalización del Estado de Oaxaca.
+
+CUARTO.- El Congreso del Estado deberá realizar las adecuaciones necesarias a la Ley a la que se refiere la fracción LXXIII del artículo 59 de la Constitución Política del Estado Libre y Soberano de Oaxaca, dentro del plazo de treinta días posteriores a la publicación de este Decreto.
+
+QUINTO.- La Auditoría Superior del Estado de Oaxaca, continuará ejerciendo las atribuciones que actualmente tiene hasta en tanto empiece a funcionar el Órgano Superior de Fiscalización del Estado de Oaxaca.
+
+SEXTO.- Para efectos de cumplir con lo previsto en el último párrafo del artículo 65 Bis, la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, dentro del plazo de veinte días, a partir de la entrada en vigor del presente Decreto, procederá a emitir la Convocatoria pública para elegir al Auditor Superior y de Fiscalización del Estado y a los Subauditores.
+
+El Auditor Superior del Estado, y los Subauditores, que se encuentren en funciones, continuarán en su encargo en tanto el Congreso designe al Auditor Superior, y Subauditores, asimismo podrán ser considerados para participar en el referido proceso de designación.
