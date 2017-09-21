@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-para-el-estado-de-oaxaca-96002"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-30"
-last_updated: "2016-10-17"
+last_updated: "2017-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. 21 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de agosto del año 2013.
 
@@ -1382,3 +1384,21 @@ P.O. 17 DE OCTUBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 699.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley de Fiscalización Superior para el Estado de Oaxaca, expedida mediante el Decreto número 2037, de fecha uno de agosto de dos mil trece, publicada en el Periódico Oficial del Estado de Oaxaca de fecha treinta de agosto de dos mil trece, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+TERCERO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de ésta Ley, que se encuentren en trámite o pendientes de resolución; se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización Superior que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Estatal del año 2016.
+
+CUARTO.- El Congreso del Estado, deberá emitir la normatividad necesaria para la debida aplicación de esta ley, en un plazo de noventa días hábiles contados a partir de su entrada en vigor.
+
+QUINTO.- Dentro del plazo de veinte días naturales, contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado, procederá a emitir la convocatoria para elegir al Titular de la Auditoría y los Sub Auditores del Órgano Superior de Fiscalización del Estado de Oaxaca.
+
+SEXTO.- El Órgano Superior de Fiscalización del Estado de Oaxaca deberá emitir en un plazo de ciento ochenta días hábiles su Reglamento Interior y demás normatividad para el ejercicio de sus atribuciones Constitucionales.
+
+SEPTIMO.- Para dar cumplimiento a lo dispuesto en el artículo 12 de la presente Ley, el Órgano Superior de Fiscalización del Estado de Oaxaca dispondrá de un año a partir de la entrada en vigor de la presente Ley para establecer la Plataforma Tecnológica y emitir los lineamientos y demás normatividad necesaria para la recepción de los Informes de Avance de Gestión Financiera de los Entes Públicos
