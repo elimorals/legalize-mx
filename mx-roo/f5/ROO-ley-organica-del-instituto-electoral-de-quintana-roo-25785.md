@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2017-07-19"
+last_updated: "2017-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 21 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -1892,3 +1894,51 @@ SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Q
 TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
 
 CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
+
+P.O. 21 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 097 POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley Orgánica del Instituto Electoral de Quintana Roo y la Ley Orgánica del Tribunal Electoral de Quintana Roo, ambas publicadas en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 27 de agosto de 2002, mediante Decretos número 9 y 10 de la X Legislatura del Estado de Quintana Roo.
+
+TERCERO. Se abroga la Ley Electoral del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 4 de marzo de 2004, mediante decreto número 105 de la X Legislatura del Estado de Quintana Roo.
+
+CUARTO. La elección ordinaria local a celebrarse el primer domingo de julio del año 2018 para la renovación de los Ayuntamientos del Estado de Quintana Roo, se sujetará a lo siguiente:
+
+I. El Proceso Electoral dará inicio entre el 15 y 20 de diciembre del año 2017, mediante declaratoria que emita el Instituto Electoral de Quintana Roo;
+
+II. El Periodo de precampaña electoral, comprenderá del 3 de enero al 1 de febrero del año 2018;
+
+III. El registro de candidatos se realizará del 1 al 10 de abril del año 2018 y la declaración de procedencia de registro de candidatos que emita el Instituto Electoral de Quintana Roo, deberá llevarse a cabo a más tardar un día antes del inicio de la campaña electoral;
+
+IV. La duración de la campaña electoral será de 45 días, contados del 14 de abril al 27 de junio del año 2018;
+
+V. El proceso de selección de candidatos independientes se sujetará a las fechas siguientes:
+
+a) El Instituto Electoral de Quintana Roo deberá publicar la convocatoria para el proceso de selección de candidatos independientes a miembros de los Ayuntamientos, el 3 de enero de 2018;
+
+b) El registro de aspirantes a candidatos independientes se realizará del 4 al 8 de enero del año 2018 y la declaración de procedencia del registro de aspirantes deberá ser emita (sic) por el Instituto Electoral de Quintana Roo, a más tardar el 13 de enero del año 2018;
+
+c) El plazo para la obtención del respaldo ciudadano de los aspirantes a candidatos independientes, se realizará del 14 de enero al 6 de febrero del año 2018, y
+
+d) La Declaración de procedencia de candidatos independientes, se realizará a más tardar el 16 de febrero del año 2018.
+
+VI. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente los plazos establecidos en el presente artículo.
+
+VII. Por única ocasión, a más tardar en el mes de noviembre del año 2017, el Consejo General del Instituto Electoral de Quintana Roo determinará con base en el padrón electoral con corte al mes de octubre de 2017, los topes de gastos de precampaña y de campaña.
+
+VIII. En el caso de la reelección de los miembros de los ayuntamientos del Estado, éstos estarán sujetos a los lineamientos que emita el Instituto Nacional Electoral.
+
+QUINTO. Para garantizar la concurrencia total de los procesos electorales del Estado de Quintana Roo con los procesos electorales federales, se estará a lo siguiente:
+
+I. La duración del cargo de diputado a elegirse en el año 2022, será de dos años y comprenderá del 3 de septiembre del año 2022 al 2 de septiembre del año 2024, y
+
+II. La duración del cargo de Gobernador a elegirse en el año 2022, será de cinco años y comprenderá del 25 de septiembre de 2022 al 24 de septiembre del año 2027.
+
+SEXTO. El Instituto Electoral y el Tribunal Electoral de Quintana Roo, en un plazo no mayor a noventa días contados a partir de la publicación de la presente Ley, deberá armonizar su normatividad conforme a la presente Ley.
+
+SÉPTIMO. Los procedimientos iniciados por las autoridades electorales administrativas o jurisdiccionales, con anterioridad o que se encuentren en trámite a la entrada en vigor de la presente ley, serán concluidos bajo la competencia de los mismos, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+OCTAVO. Se derogan las disposiciones que se opongan a la presente Ley.
