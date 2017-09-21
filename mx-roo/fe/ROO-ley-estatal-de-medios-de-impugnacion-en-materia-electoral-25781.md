@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2015-11-11"
+last_updated: "2017-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -61,21 +61,23 @@ La interpretación del orden jurídico deberá realizarse conforme a los derecho
 
 En la interpretación sobre la resolución de los asuntos internos de los partidos políticos, se deberá tomar en cuenta su carácter de entidades de interés público como organizaciones de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-Constitución Particular: la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+I. Constitución Particular: la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
-Ley Electoral: La Ley Electoral de Quintana Roo.
+II. Ley Electoral: La Ley de Instituciones y Procedimientos Electorales de Quintana Roo.
 
-Tribunal: El Tribunal Electoral de Quintana Roo.
+III. Tribunal: El Tribunal Electoral de Quintana Roo.
 
-Pleno: El Pleno del Tribunal Electoral de Quintana Roo.
+IV. Pleno: El Pleno del Tribunal Electoral de Quintana Roo.
 
-Instituto: El Instituto Electoral de Quintana Roo.
+V. Instituto: El Instituto Electoral de Quintana Roo.
 
-Consejo General: El Consejo General del Instituto Electoral de Quintana Roo.
+VI. Consejo General: El Consejo General del Instituto Electoral de Quintana Roo.
 
 ###### Artículo 4.
 
@@ -83,47 +85,63 @@ Las autoridades estatales o municipales, organismos electorales, agrupaciones po
 
 ### Capítulo Segundo. De los Medios de Impugnación
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-Los medios de impugnación regulados por esta Ley, tienen por objeto garantizar que todos los actos y resoluciones de los órganos del Instituto, se sujeten invariablemente a los principios constitucionales de legalidad, certeza, independencia, imparcialidad y objetividad; dar definitividad a los distintos actos y etapas de los procesos electorales; y proteger los derechos político electorales de los ciudadanos del Estado.
+Los medios de impugnación regulados por esta ley, tienen por objeto:
+
+I. Garantizar que todos los actos y resoluciones de los Órganos del Instituto, se sujeten invariablemente a los principios constitucionales de legalidad, certeza, independencia, imparcialidad y objetividad;
+
+II. Dar definitividad a los distintos actos y etapas de los procesos electorales, y
+
+III. Proteger los derechos político electorales de los ciudadanos del Estado.
 
 ###### Artículo 6.
 
 Los medios de impugnación reglamentados por este ordenamiento son:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-I. El recurso de revocación, en todo tiempo para combatir los actos y resoluciones de los Consejos Municipales y Distritales, Juntas Municipales y Distritales Ejecutivas, con excepción de lo dispuesto para el Juicio de Nulidad;
+I. El recurso de revisión, en todo tiempo para combatir los actos y resoluciones de los Consejos Municipales y Distritales, Juntas Municipales y Distritales Ejecutivas, con excepción de lo dispuesto para el juicio de nulidad;
 
-II. El juicio de inconformidad, para garantizar la legalidad, de los actos y resoluciones de los órganos centrales del Instituto, durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, así como durante estos exclusivamente en la etapa de preparación de la elección;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+II. El recurso de apelación, para garantizar la legalidad de los actos y resoluciones emitidas en el Procedimiento Ordinario Sancionador, así como los actos y resoluciones de los órganos centrales del Instituto, durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, así como durante éstos exclusivamente en la etapa de preparación de la elección;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 III. El juicio de nulidad, para garantizar la legalidad de las diversas elecciones locales, en los términos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015) (REPUBLICADA, P.O. 21 DE SEPTIEMBRE DE 2017)
 
 IV. El juicio para la protección de los derechos político electorales del ciudadano quintanarroense, y
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+V. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2017)
 
-V. El Procedimiento Ordinario Sancionador y el Procedimiento Especial Sancionador, para resolver las denuncias sustanciadas por el Instituto, derivado de la comisión de conductas establecidas en la Ley Electoral en el capítulo correspondiente.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-## TITULO SEGUNDO. DE LAS DISPOSICIONES COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACION
+## TITULO SEGUNDO. DISPOSICIONES COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACION
 
-### Capítulo Primero. Disposiciones Preliminares
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+### Capítulo Primero. De las Disposiciones Preliminares
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-Las disposiciones del presente Título regulan el trámite, sustanciación y resolución de los medios de impugnación con excepción de las reglas particulares señaladas expresamente para cada uno de ellos en el presente ordenamiento.
+Las disposiciones del presente Título regulan el trámite, sustanciación y resolución de los medios de impugnación con excepción de las reglas particulares señaladas expresamente para cada uno de ellos en la presente ley.
 
-### Capítulo Segundo. De la Competencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+### Capítulo Segundo. Competencia
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-La competencia para conocer y resolver el recurso de revocación, corresponde al Consejo General, y en su caso, al Pleno. Asimismo, el Tribunal es competente para conocer y resolver con plena jurisdicción los juicios de inconformidad, nulidad, para la protección de los derechos político electorales del ciudadano quintanarroense, el Procedimiento Ordinario Sancionador y el Procedimiento Especial Sancionador, previstos en el artículo 6 de este ordenamiento.
+La competencia para conocer y resolver el recurso de revisión, corresponde al Consejo General, y en su caso, al Pleno. Asimismo, el Tribunal es competente para conocer y resolver con plena jurisdicción el recurso de apelación, los juicios de nulidad y para la protección de los derechos político electorales del ciudadano quintanarroense y el procedimiento especial sancionador previstos en el artículo 6 de este ordenamiento.
 
 ### Capítulo Tercero
 
@@ -185,9 +203,13 @@ IV. Los ciudadanos y los candidatos que hayan sido registrados por un partido po
 
 V. Los candidatos independientes por su propio derecho, o a través de sus representantes autorizados ante los órganos del Instituto, en los siguientes términos:
 
-A) En el recurso de revocación, para combatir los actos y resoluciones de los Consejos Municipales y Distritales que causen un perjuicio a su esfera jurídica;
+REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)
 
-B) En el juicio de inconformidad, para impugnar las resoluciones recaídas a los recursos de revocación en los que hubiesen sido parte, los actos o resoluciones de los órganos centrales del Instituto que causen un perjuicio a su esfera jurídica, así como la determinación, y en su caso, la aplicación de sanciones que en los términos de la Ley Electoral, realice el Consejo General;
+A) En el recurso de revisión, para combatir los actos y resoluciones de los Consejos Municipales y Distritales, así como de las Juntas Municipales y Distritales Ejecutivas que causen un perjuicio a su esfera jurídica;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+B) En el recurso de apelación, para impugnar las resoluciones recaídas a los recursos de revisión en los que hubiesen sido parte, los actos y resoluciones emitidas en el Procedimiento Ordinario Sancionador, los actos y resoluciones de los órganos centrales del Instituto que causen un perjuicio a su esfera jurídica, así como la determinación, y en su caso, la aplicación de sanciones que, en los términos de la Ley Electoral, realice el Consejo General;
 
 C) En el juicio de nulidad, contra los resultados de la elección en que hubiesen participado, para demandar la nulidad de la votación recibida en una o varias casillas, la nulidad de la elección, el error aritmético o la declaración de validez y otorgamiento de las constancias de mayoría respectivas, conforme a lo dispuesto en las fracciones I a IV del artículo 88 de esta Ley, y
 
@@ -313,11 +335,11 @@ Durante el tiempo que transcurra entre la conclusión de un proceso electoral y 
 
 Para los efectos del párrafo anterior, se entiende por días hábiles, todos los del año, con excepción de los sábados y domingos y aquellos que sean considerados como inhábiles por los organismos electorales, en términos de la ley respectiva.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los cuatro días siguientes, contados a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento, con excepción de la adopción o desechamiento de medidas cautelares emitidas por el Instituto electoral en los Procedimientos Especiales Sancionadores de su competencia, en cuyo caso el plazo será de cuarenta y ocho horas, contadas a partir de la imposición de dicha medida.
+Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los cuatro días siguientes, contados a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento, con excepción de la adopción o desechamiento de medidas cautelares emitidas por el Instituto electoral en los Procedimientos Especiales Sancionadores de su competencia, en cuyo caso el plazo será de dos días, contados a partir del día siguiente de la imposición de dicha medida.
 
 ### Capítulo Séptimo. De la Interposición y sus Efectos
 
@@ -353,9 +375,11 @@ XI. Acompañar las copias del escrito que contenga el medio de impugnación y co
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con los requisitos previstos en la fracción IX del presente Artículo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Cuando se omita alguno de los requisitos previstos en las fracciones IV y V del Artículo anterior, el Tribunal, o en su caso, la Secretaría General del Instituto, deberá prevenir al promovente para que en un plazo no mayor a veinticuatro horas, según se señale en el acuerdo respectivo, dé cumplimiento a esos requisitos, con el apercibimiento, en caso de no cumplimentar la prevención, de desechar de plano el medio de impugnación interpuesto.
+Cuando se omita alguno de los requisitos previstos en las fracciones IV y V del artículo anterior, el Tribunal, o en su caso, la Secretaría Ejecutiva del Instituto, deberá prevenir al promovente para que, en un plazo no mayor a veinticuatro horas, según se señale en el acuerdo respectivo, dé cumplimiento a esos requisitos, con el apercibimiento, en caso de no cumplimentar la prevención, de desechar de plano el medio de impugnación interpuesto.
 
 Asimismo, deberá prevenírsele para que presente las pruebas que haya ofrecido, conforme a la fracción IX del Artículo anterior. Sin embargo, la no aportación de las pruebas ofrecidas, en ningún caso será motivo para desechar el medio de impugnación.
 
@@ -391,7 +415,9 @@ V. Los agravios expuestos no tengan relación directa con el acto, resolución o
 
 VI. Se promuevan contra actos o resoluciones emitidos en cumplimiento de una resolución definitiva dictada en un medio de impugnación;
 
-VII. En su caso, no se haya agotado antes el recurso de revocación;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+VII. En su caso, no se haya agotado antes el recurso de revisión;
 
 VIII. Se impugne más de una elección en un mismo escrito;
 
@@ -431,17 +457,17 @@ IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos p
 
 La autoridad u órgano partidista que reciba un medio de impugnación, en contra de uno de sus actos o resoluciones, de inmediato y bajo su más estricta responsabilidad, deberá:
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-I. Remitir por la vía más expedita, a la Secretaría General del Instituto o al Tribunal, según sea el caso, copia del escrito por el que se promueva el medio de impugnación, precisando fecha y hora de su presentación;
+I. Remitir por la vía más expedita, a la Secretaría Ejecutiva del Instituto o al Tribunal, según sea el caso, copia del escrito por el que se promueva el medio de impugnación, precisando fecha y hora de su presentación;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 II. Hacerlo del conocimiento público, inmediatamente a su recepción, mediante cédula que se fijará en los estrados en la que deberá constar el día y hora de su publicación; y
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de cuarenta y ocho horas.
+III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de setenta y dos horas.
 
 ###### Artículo 34.
 
@@ -465,11 +491,11 @@ VII. Hacer constar el nombre y la firma autógrafa del promovente.
 
 Cuando se incumpla con cualquiera de los requisitos previstos en las fracciones I, V y VII, se tendrá por no presentado el escrito respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-Inmediatamente al vencimiento del plazo de fijación a que se refiere la fracción III del Artículo 33 de este ordenamiento, la autoridad o el órgano partidista señalado como responsable del acto o resolución impugnada que reciba un medio de impugnación, deberá remitir a la Secretaría General del Instituto o Tribunal, según corresponda, lo siguiente:
+Inmediatamente al vencimiento del plazo de fijación a que se refiere la fracción III del artículo 33 de este ordenamiento, la autoridad o el órgano partidista señalado como responsable del acto o resolución impugnada que reciba un medio de impugnación, deberá remitir a la Secretaría Ejecutiva del Instituto o Secretaría General del Tribunal, según corresponda, lo siguiente:
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
@@ -505,21 +531,23 @@ D) Los demás elementos que se estimen necesarios para la resolución del medio 
 
 Una vez cumplidas las reglas de trámite a que se refiere el capitulo anterior y recibida la documentación a que se refiere el Artículo 35, el Tribunal realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los medios de impugnación, aplicando las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-I. El Magistrado Presidente turnará el asunto de inmediato a un Magistrado Numerario que hará las veces de instructor quien tendrá la obligación de verificar que el escrito que contenga el medio de impugnación cumpla con los requisitos y términos previstos por esta Ley; instruyendo las diligencias que estime procedentes hasta dejar el expediente en estado de resolución;
+I. El Magistrado Presidente turnará el asunto de inmediato a un Magistrado que hará las veces de instructor quien tendrá la obligación de verificar que el escrito que contenga el medio de impugnación cumpla con los requisitos y términos previstos por esta ley, instruyendo las diligencias que estime procedentes hasta dejar el expediente en estado de resolución;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-II. Tratándose de asuntos que ameriten su desechamiento, previo acuerdo que en ese sentido emita el Magistrado Presidente, el Magistrado Numerario que fungió como instructor elaborará el proyecto de resolución del cual conocerá y resolverá el pleno;
+II. El magistrado propondrá al Pleno el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se dé alguno de los supuestos previstos en esta ley. Asimismo, cuando el promovente incumpla los requisitos señalados en las fracciones IV y V del artículo 26, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+(NOTA: EL 5 DE DICIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XXII, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE DICIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-III. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Numerario que hará las veces de instructor dictará el auto de admisión; una vez sustanciado el expediente se declarará cerrada la instrucción; acto seguido elaborará la ponencia que habrá de presentarse al pleno para su discusión y aprobación, en su caso;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+III. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el magistrado, en un plazo no mayor de tres días, dictará el auto de DESECHAMIENTO O admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados. En caso de que la impugnación fuera por la imposición de medidas cautelares, se dictará el auto de admisión o desechamiento de manera inmediata;
 
-IV. El Magistrado que realice la ponencia, podrá ordenar la complementación de documentación, información o la realización de diligencias para mejor proveer. En todo caso, se resolverá con los elementos que obren en autos;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Cerrada la instrucción, el magistrado electoral procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración del Pleno.
 
 V. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2009)
 
@@ -569,7 +597,7 @@ Para la resolución pronta y expedita de los medios de impugnación, por econom�
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-l. Podrán acumularse los expedientes de los recursos o juicios en que se impugne simultáneamente, por dos o más partidos políticos, coaliciones o candidatos independientes, el mismo acto o resolución;
+I. Podrán acumularse los expedientes de los recursos o juicios en que se impugne simultáneamente, por dos o más partidos políticos, coaliciones o candidatos independientes, el mismo acto o resolución;
 
 II. La acumulación podrá decretarse al inicio, durante la sustanciación o para la resolución de los medios de impugnación; y
 
@@ -639,9 +667,11 @@ Las sentencias del Tribunal deberán ser aprobadas por el Pleno en sesión públ
 
 Las sentencias del Tribunal, podrán ser aprobadas por unanimidad o por mayoría de votos y serán definitivas e inatacables, en el ámbito estatal.
 
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 49.
 
-Las sentencias de fondo que recaigan a los juicios de inconformidad, tendrán como efecto confirmar, modificar o revocar en su caso, el acto o resolución que se impugna. En los juicios para la protección de los derechos político electorales del ciudadano quintanarroense, podrá tener, además, efectos restitutivos.
+Las sentencias de fondo que recaigan en el recurso de apelación, tendrán como efecto confirmar, modificar o revocar en su caso, el acto o resolución que se impugna. En los juicios para la protección de los derechos político electorales del ciudadano quintanarroense podrá tener, además, efectos restitutivos.
 
 ###### Artículo 50.
 
@@ -763,9 +793,9 @@ III. A los terceros interesados y coadyuvantes, personalmente cuando hubiesen se
 
 Las notificaciones a que se refiere este Artículo, se harán al día siguiente de haberse dictado la sentencia o resolución que se notifica.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Lo anterior, con excepción de los casos en que se trate de sentencias o resoluciones dictadas con motivo de la interposición de recursos de revocación en contra de actos o resoluciones de los Consejos Municipales y Distritales; así como de las Juntas Municipales y Distritales Ejecutivas, en este caso, las notificaciones a que se refiere este Artículo, se harán inmediatamente y sin dilación alguna.
+Lo anterior, con excepción de los casos en que se trate de sentencias o resoluciones dictadas con motivo de la interposición de recursos de revisión en contra de actos o resoluciones de los Consejos Municipales y Distritales; así como de las Juntas Municipales y Distritales Ejecutivas, en este caso, las notificaciones a que se refiere este artículo, se harán inmediatamente y sin dilación alguna.
 
 ###### Artículo 62.
 
@@ -793,87 +823,97 @@ En el supuesto de que el incumplimiento a que se refiere el artículo anterior, 
 
 En adición a lo dispuesto en los artículos anteriores, el Tribunal podrá realizar los actos necesarios para el cumplimiento de sus sentencias, dentro de su esfera de competencia, para reparar el incumplimiento a sus sentencias.
 
-## TITULO TERCERO. DEL RECURSO DE REVOCACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+## TITULO TERCERO. DEL RECURSO DE REVISION
 
 ### Capítulo Primero. De la Procedencia
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 67.
 
-El recurso de revocación conocerá y resolverá el Consejo General, y el Pleno, en su caso. Procederá en todo tiempo para impugnar los actos o resoluciones de los Consejos Municipales, Distritales, así como de las Juntas Municipales y Distritales Ejecutivas del Instituto; con excepción de los relativos a los cómputos, asignaciones, declaraciones de validez y otorgamiento de constancias de mayoría relativa o de asignación por el principio de representación proporcional, que realicen de conformidad con la Ley Electoral.
+El recurso de revisión conocerá y resolverá el Consejo General, y el Pleno, en su caso. Procederá en todo tiempo para impugnar los actos y resoluciones de los Consejos Municipales, Distritales, de las Juntas Municipales y Distritales Ejecutivas del Instituto; con excepción de los relativos a los cómputos, asignaciones, declaraciones de validez y otorgamiento de constancias de mayoría relativa o de asignación por el principio de representación proporcional, que realicen de conformidad con la Ley Electoral.
 
 ###### Artículo 68.
 
 (DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2009)
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 69.
 
-Los recursos de revocación a que se refiere el primer párrafo del artículo 67 y que se interpongan durante los cinco días anteriores al de la jornada electoral, deberán ser remitidos al Tribunal, para que sean resueltos junto con los juicios de inconformidad o de nulidad con los que guarden relación.
+Los recursos de revisión a que se refiere el artículo 67 y que se interpongan durante los cinco días anteriores al de la jornada electoral, deberán ser remitidos al Tribunal, para que sean resueltos junto con el recurso de apelación o el juicio de nulidad con los que guarden relación.
 
 ### Capítulo Segundo. De la Sustanciación y Resolución
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 70.
 
-El órgano electoral desconcentrado que reciba un recurso de revocación procederá en términos de los Artículos 34 y 35 de esta Ley.
+El órgano electoral desconcentrado que reciba un recurso de revisión, procederá en términos de los artículos 33, 34 y 35 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 71.
 
-Si el órgano electoral desconcentrado incumple con alguna de las obligaciones previstas en los artículos señalados en el numeral que antecede, la Secretaría General los requerirá de inmediato para que sin dilación alguna remita las constancias y documentos que haya omitido enviar o que en su caso, se consideran fundamentales para la resolución del recurso.
+Si él órgano electoral desconcentrado incumple con alguna de las obligaciones previstas en los artículos señalados en el numeral que antecede, la Secretaría Ejecutiva los requerirá de inmediato para que sin dilación alguna remita las constancias y documentos que haya omitido enviar o que en su caso, se consideran fundamentales para la resolución del recurso.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 Ante la negativa se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario. En todo caso se resolverá con los elementos que obren en autos.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
-Una vez que la Secretaría General del Instituto haya integrado el expediente del recurso de revocación, lo remitirá a la Dirección Jurídica del Instituto para que ésta elabore un proyecto de resolución que someterá a su consideración, dentro de un plazo de tres días contados a partir de la recepción del recurso; en el caso del Tribunal, una vez integrado el expediente del recurso se sujetará al procedimiento señalado en el artículo 36 de la presente Ley, pero resolverá en un plazo no mayor de tres días.
+Una vez que la Secretaría Ejecutiva del Instituto haya integrado el expediente del recurso de revisión, lo remitirá a la Dirección Jurídica del Instituto para que ésta elabore un proyecto de resolución que someterá a su consideración, dentro de un plazo de cuatro días contados a partir de la recepción del recurso. En el caso del Tribunal, una vez integrado el expediente del recurso se sujetará al procedimiento señalado en el artículo 36 de la presente Ley, pero resolverá en un plazo no mayor de cuatro días.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 73.
 
-La Secretaría General del Instituto, por conducto del Consejero Presidente, remitirá el proyecto al Consejo General para que lo resuelva dentro de los tres días siguientes a la recepción del proyecto de resolución, pudiendo aprobarse por unanimidad o mayoría de votos de los miembros presentes en el pleno de ese órgano.
+La Secretaría Ejecutiva del Instituto, por conducto del Consejero Presidente, remitirá el proyecto al Consejo General para que lo resuelva dentro de los tres días siguientes a la recepción del proyecto de resolución, pudiendo aprobarse por unanimidad o mayoría de votos de los miembros presentes en el pleno de ese Órgano.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 74.
 
-Las resoluciones que recaigan a los recursos de revocación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
 
 ###### Artículo 75.
 
 El Consejo General o el Tribunal, en su caso, declarará la improcedencia o sobreseimiento de los recursos cuando se actualicen las causales previstas en los artículos 31 y 32 del presente ordenamiento.
 
-## TITULO CUARTO. DEL JUICIO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+## TITULO CUARTO. DEL RECURSO DE APELACION
 
 ### Capítulo Unico. De la Procedencia
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 76.
 
-El juicio de inconformidad que conocerá y resolverá el Tribunal, procederá en contra de:
+El recurso de apelación que conocerá y resolverá el Tribunal, procederá en contra de:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+I. Los acuerdos o resoluciones que se dicten en la sustanciación o que pongan fin al recurso de revisión, y
 
-I. Los acuerdos o resoluciones que se dicten en la sustanciación o que pongan fin al recurso de revocación; y
+II. Actos o resoluciones emitidas en el Procedimiento Ordinario Sancionador, así como de los órganos centrales del Instituto, con excepción de los que son materia del juicio de nulidad.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-II. Actos o resoluciones de los órganos centrales del Instituto, con excepción de los que son materia del Juicio de Nulidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 77.
 
-Los juicios de inconformidad que se interpongan durante los cinco días anteriores al de la jornada electoral, deberán ser resueltos junto con los de nulidad con los que guarde relación. El promovente deberá señalar la conexidad de la causa en el juicio de nulidad respectivo.
+Los recursos de apelación que se interpongan durante los cinco días anteriores al de la jornada electoral, deberán ser resueltos junto con los juicios de inconformidad con los que guarde relación. El promovente deberá señalar la conexidad de la causa en el juicio de nulidad respectivo.
 
 Cuando no guarden relación o no se señale la conexidad de la causa, serán archivados como asuntos definitivamente concluidos.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 78.
 
-Los juicios de inconformidad deberán ser resueltos por el Tribunal, dentro de los seis días siguientes a aquel en que sean admitidos.
+Los recursos de apelación deberán ser resueltos por el Tribunal, dentro de los seis días siguientes a aquel en que sean admitidos. Para el caso de recurrir actos y resoluciones emitidas en el Procedimiento Ordinario Sancionador, el recurso de apelación deberá ser resuelto dentro de los cinco días siguientes a aquel en que sean admitidos.
 
 ## TITULO QUINTO. DE LAS NULIDADES
 
@@ -977,9 +1017,25 @@ La elección de Gobernador, de Diputados de mayoría relativa o de los Ayuntamie
 
 Podrá declararse la nulidad de una elección cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, en el Estado, Municipio o Distrito y se encuentren fehacientemente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección.
 
-Las elecciones locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Dichas violaciones deberán acreditarse de manera objetiva, material, sistemática y generalizada. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+Las elecciones locales serán nulas por violaciones graves, dolosas y determinantes en los siguientes casos, cuando el candidato o candidata, partido político o coalición ganadora:
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley, y
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
@@ -1039,17 +1095,25 @@ Cuando al resolver los juicios de nulidad de una o varias casillas, el Tribunal 
 
 Los juicios de nulidad deberán ser resueltos a más tardar:
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-I. El 7 de agosto del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 17 de Agosto, cuando se impugne el cómputo estatal de esa elección;
+I. El 30 de junio del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 10 de julio, cuando se impugne el cómputo estatal de esa elección;
 
-II. El 2 de agosto del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-III. El 12 de agosto del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos;
+II. El 25 de junio del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
 
-IV. El 5 de agosto del año de la elección, en caso de que se impugne el cómputo o la asignación de Diputados por el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-V. El 15 de agosto del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
+III. El 5 de julio del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+IV. El 28 de junio del año de la elección, en caso de que se impugne el cómputo o la asignación de Diputados por el principio de representación proporcional, y
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+V. El 8 de julio del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
 
 ## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION DE LOS DERECHOS POLITICO ELECTORALES DEL CIUDADANO QUINTANARROENSE
 
@@ -1082,6 +1146,10 @@ VI. Considere que se violó su derecho político-electoral de ser votado cuando,
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 VII. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Considere la existencia de cualquier acto u omisión que constituya violencia política contra las mujeres por razón de género, con la finalidad de impedir o restringir el ejercicio pleno de sus derechos político electorales.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1190,3 +1258,19 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 096 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Excepcionalmente para el proceso electoral a celebrarse en el año 2018, los juicios de nulidad, deberán ser resueltos a más tardar:
+
+I. El 5 de agosto del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos, y
+
+II. El 8 de agosto del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
+
+TERCERO.- Los actos y procedimientos que se encuentren en trámite concluirán de conformidad con lo establecido en la Ley Electoral de Quintana Roo, Ley Estatal de Medios de Impugnación en Materia Electoral, la Ley Orgánica del Instituto Electoral de Quintana Roo y la Ley Orgánica del Tribunal Electoral de Quintana Roo vigente al momento de la interposición de los medios de impugnación que correspondan.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
