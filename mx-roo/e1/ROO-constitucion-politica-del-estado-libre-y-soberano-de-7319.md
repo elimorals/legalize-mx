@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2017-08-18"
+last_updated: "2017-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -711,9 +711,9 @@ Adquieren el derecho de voto activo y el de asociación política y deberán cum
 
 Son prerrogativas de los ciudadanos del Estado de Quintana Roo:
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-I.- Votar en las elecciones populares estatales y municipales.
+I.- Votar en las elecciones populares estatales y municipales, así como en el plebiscito, referéndum, consulta popular y en los demás mecanismos de participación ciudadana, en los términos que señale la ley respectiva;
 
 (NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -721,11 +721,17 @@ I.- Votar en las elecciones populares estatales y municipales.
 
 II.- PODER SER VOTADO PARA TODO CARGO DE ELECCIÓN POPULAR TENIENDO LAS CALIDADES QUE ESTABLEZCA LA LEY. EL DERECHO DE SOLICITAR EL REGISTRO DE CANDIDATOS ANTE LA AUTORIDAD ELECTORAL CORRESPONDE A LOS PARTIDOS POLÍTICOS ASÍ COMO A LOS CIUDADANOS QUE SOLICITEN SU REGISTRO DE MANERA INDEPENDIENTE Y CUMPLAN CON LOS REQUISITOS, CONDICIONES Y TÉRMINOS QUE DETERMINE LA LEGISLACIÓN;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la entidad.
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la entidad;
 
-IV.- Las demás que les confieran esta Constitución y las leyes que de ella emanen.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+IV.- Iniciar leyes ante el Congreso del Estado, mediante escrito firmado por uno o más ciudadanos, en los términos que señale la Ley, y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+V.- Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
 ###### ARTICULO 42.
 
@@ -737,9 +743,9 @@ II.- Inscribirse en los padrones electorales, en los términos que determinen la
 
 III.- Alistarse en la Guardia Nacional.
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-IV.- Votar en las elecciones populares en los términos que señale la ley.
+IV.- Votar en las elecciones populares estatales y municipales, así como en el plebiscito, referéndum, consulta popular y en los demás mecanismos de participación ciudadana, en los términos que señale la ley respectiva.
 
 V.- Ejercer los cargos de elección popular para los que fuere electo, y
 
@@ -821,9 +827,9 @@ El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y d
 
 De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la ley de los Municipios, así también, el Instituto deberá regular y vigilar los debates públicos que se celebren durante los procesos electorales y que no sean organizados por éste, de conformidad con lo dispuesto en la Ley.
 
-(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente, y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario General. LA LEY DETERMINARÁ LAS REGLAS PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE SUS ÓRGANOS, ASÍ COMO LAS RELACIONES DE MANDO ENTRE ÉSTOS, CON BASE EN LAS DISPOSICIONES ESTABLECIDAS EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES.
+El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario Ejecutivo.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -833,21 +839,21 @@ Los Consejeros Electorales tendrán un período de desempeño de siete años y n
 
 Las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Estatuto del Servicio Profesional Nacional Electoral, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la Ley.
+Las sesiones de todos los órganos colegiados de dirección del Instituto Electoral de Quintana Roo, serán públicas y garantizarán la transparencia, la máxima publicidad y el derecho de acceso a la información, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-El Tribunal Electoral de Quintana Roo es un órgano público autónomo, con personalidad jurídica y patrimonio propios, independencia en sus decisiones, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, y será la máxima autoridad jurisdiccional en la materia, con el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos (sic) de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
+El Tribunal Electoral de Quintana Roo, es un órgano público autónomo, con personalidad jurídica y patrimonio propios, independencia en sus decisiones, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, y será la máxima autoridad jurisdiccional en la materia, con el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas, y garantizarán la transparencia, la máxima publicidad y el derecho de acceso a la información, en los términos que señale la ley. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos (sic) de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán cada uno con un órgano interno de control, cuyos titulares durarán cuatro años en su encargo sin posibilidad de reelección y no podrán durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. Los órganos internos de control son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo, respectivamente. El titular del órgano interno de control del Instituto Electoral de Quintana Roo será designado por la Legislatura del Estado o la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-El Secretario General del Instituto Electoral de Quintana Roo, será electo por las (sic) terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo del tiempo que determine la Ley.
+El Secretario Ejecutivo del Instituto Electoral de Quintana Roo, será electo por las dos terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo el tiempo que determine la Ley.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -867,21 +873,21 @@ El Instituto Electoral de Quintana Roo contará con servidores públicos investi
 
 III.- Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-La Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan a los partidos políticos como entidades de interés público, así como las formas específicas de su intervención en los procesos electorales estatales. Las autoridades electorales solo intervendrán en los asuntos internos de los partidos políticos en los términos que expresamente se señalen en la Ley.
+La Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan a los partidos políticos como entidades de interés público, así como las formas específicas de su intervención en los procesos electorales estatales, y tendrán derecho a postular candidatos de forma individual, en coaliciones o a través de candidaturas comunes. Las autoridades electorales solo intervendrán en los asuntos internos de los partidos políticos en los términos que expresamente se señalen en la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
 Los partidos políticos nacionales derivado de su participación en las elecciones locales gozarán de los mismos derechos y prerrogativas y tendrán las mismas obligaciones y responsabilidades dispuestos en la Ley para los partidos políticos estatales.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la paridad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional. Corresponde a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán el derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa.
+Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la paridad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional, así como un ambiente libre de cualquier tipo de violencia política por razones de género. Corresponde a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán el derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, cuidando que ninguno de éstos sea mayor al cincuenta por ciento en las candidaturas a legisladores locales, así como en las candidaturas a miembros que conformen las planillas de los Ayuntamientos.
+En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, procurando, siempre que el número de postulaciones lo permita, que ninguno de éstos obtenga una cantidad mayor al cincuenta por ciento en las candidaturas a legisladores locales, así como en las candidaturas a miembros que conformen las planillas de Ayuntamientos. En la integración de las planillas de los Ayuntamientos se deberá postular una fórmula de candidatos jóvenes. En la postulación de candidatos a diputados locales y a integrantes de miembros de los ayuntamientos, se deberá respetar el principio de paridad de género, tanto en su dimensión vertical como en su dimensión horizontal, cuyos supuestos serán regulados en la ley. En ambos casos, no se admitirá la postulación de candidaturas, tanto a diputados locales como a miembros de los ayuntamientos, en detrimento de la sub- representación y/o sobre-representación de cualquiera de los géneros, en la medida que esto sea posible.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -891,9 +897,9 @@ La Ley garantizará que los partidos políticos cuenten de manera equitativa y g
 
 El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta por ciento del valor diario de la unidad de medida y actualización por el número de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al mes de octubre del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
+1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización por el sesenta y cinco por ciento del listado nominal de la entidad con corte al mes de octubre del año anterior o por la votación válida emitida en la elección de diputados inmediata anterior, en caso de que ésta resulte mayor. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -911,7 +917,13 @@ b) El setenta por ciento restante se distribuirá según el porcentaje de la vot
 
 4.- Los partidos políticos nacionales y estatales que hubiesen obtenido su registro ante el Instituto Electoral de Quintana Roo, con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, a partir del mes de enero del año siguiente al que hayan obtenido su registro, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, así como una cantidad igual adicional para gastos de campaña durante los procesos electorales.
 
-5.- Se reintegrará hasta el setenta y cinco por ciento de los gastos anuales que eroguen los partidos políticos por concepto de actividades relativas a educación, capacitación, investigación socioeconómica y política, así como a tareas editoriales, con base en lo que disponga la Ley.
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+Aquellos partidos nacionales con registro local que no hubiesen obtenido al menos el tres por ciento del total de la votación válida emitida en la elección de Diputados inmediata anterior, sólo tendrán derecho a recibir el financiamiento correspondiente a sus gastos de campaña durante los procesos electorales.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+5.- Los partidos políticos recibirán un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias como entidades de interés público, para la educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales. El monto total será distribuido entre los partidos políticos, el treinta por ciento de manera igualitaria y el setenta por ciento de acuerdo con el porcentaje de votos que hubiere obtenido en la elección de diputados inmediata anterior.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -925,9 +937,9 @@ La Ley fijara los criterios para establecer los límites a las erogaciones de lo
 
 LA LEY TAMBIÉN ESTABLECERÁ LAS REGLAS Y LÍMITES A QUE SE SUJETARÁ EL FINANCIAMIENTO DE LAS ACTIVIDADES DE LOS CIUDADANOS QUE OBTENGAN SU REGISTRO COMO CANDIDATOS INDEPENDIENTES DENTRO DE UN PROCESO ELECTORAL, ASÍ COMO LOS PROCEDIMIENTOS PARA EL CONTROL Y VIGILANCIA DE TODOS LOS RECURSOS CON LOS QUE CUENTEN, INCLUYENDO AQUELLOS QUE HUBIESEN UTILIZADO PARA FINANCIAR LAS ACTIVIDADES TENDENTES A OBTENER DICHO REGISTRO.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Los partidos políticos y los candidatos independientes observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso la duración de las campañas será de sesenta a noventa días para la elección de Gobernador y de treinta a sesenta días cuando sólo se elijan Diputados a la Legislatura o miembros de los Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
+Los partidos políticos y los candidatos independientes observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso la duración de las campañas será de noventa días para la elección de Gobernador, cuarenta y cinco días para la elección de miembros de los Ayuntamientos y cuarenta y cinco días para la elección de Diputados a la Legislatura. Las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
 
 La Ley establecerá las sanciones en caso de incumplimiento de los supuestos previstos en la presente base.
 
@@ -995,15 +1007,15 @@ ARTICULO 51 BIS.- Esta constitución reconoce que los órganos públicos autóno
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con quince diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez diputados electos según el principio de representación proporcional. Los diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e intransferible de los ciudadanos quintanarroenses en ejercicio de sus derechos. La Legislatura se instalará el 3 de Septiembre del año que corresponda.
+La Legislatura del Estado de Quintana Roo, se integra con quince diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez diputados electos según el principio de representación proporcional, cuya determinación y asignación no podrá realizarse en exceso y/o defecto de los límites de sobre y/o sub-representación, previstos en el artículo 54, fracción III de esta Constitución. Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Por cada Diputado propietario se elegirá un suplente.
+Los diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e intransferible de los ciudadanos quintanarroenses en ejercicio de sus derechos. La Legislatura se instalará el 3 de septiembre del año que corresponda.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
@@ -1021,11 +1033,17 @@ El organismo público previsto en el artículo 49 de esta Constitución, de acue
 
 Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-Los Diputados electos en elecciones extraordinarias concluirán el período de la Legislatura respectiva.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-ARTICULO 52 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
+ARTICULO 52 BIS.- Cuando se produzcan vacantes en la Legislatura por cualquiera de las causas previstas por esta Constitución, si se tratare de Diputados propietarios electos por el principio de mayoría relativa, se convocará al suplente respectivo.
+
+(NOTA: EL 5 DE DICIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE DICIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+CUANDO SE ACTUALICE LA VACANTE ABSOLUTA DE LA FÓRMULA DE DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA, ÉSTA SERÁ CUBIERTA POR EL INTEGRANTE DE LA LISTA REGISTRADA POR EL MISMO PARTIDO POLÍTICO BAJO EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, QUE SIGA EN EL ORDEN DE PRELACIÓN, EL CUAL DE FORMA PREFERENTE SERÁ DEL MISMO GÉNERO.
+
+En el caso de las ausencias temporales o definitivas del Diputado propietario por el principio de representación proporcional, se cubrirán con el suplente respectivo de la fórmula. De actualizarse la vacante de la fórmula completa se llamará a aquel integrante del mismo partido político que hubiere quedado en lugar preferente en la lista definitiva respectiva, después de haberse asignado diputados por dicho principio.
 
 ###### ARTICULO 53.
 
@@ -1040,6 +1058,16 @@ ARTICULO 53 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 La elección de los diez Diputados según el principio de representación proporcional, se sujetará a las bases siguientes y a lo que en particular disponga la Ley de la materia.
 
 I.- Para obtener el registro de sus listas de candidatos a Diputados por el principio de representación proporcional, el Partido Político que lo solicite deberá acreditar que participa con candidatos a Diputados por mayoría relativa en cuando menos ocho de los distritos electorales, y
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+La lista a (sic) de candidatos a diputados por el principio de representación proporcional de cada partido político, deberá estar integrada de la siguiente manera:
+
+a) Cinco candidatos postulados y registrados de manera directa y cinco candidatos que hayan participado bajo el principio de mayoría relativa y que no habiendo obtenido el triunfo por este principio, hayan obtenido los mayores porcentajes de votación válida distrital.
+
+b) La lista en su totalidad deberá estar integrada de manera alternada entre géneros, estableciéndose las posiciones 1, 3, 5, 7 y 9 a un mismo género y al otro género las posiciones 2, 4, 6, 8 y 10, de la lista registrada ante el Instituto Electoral.
+
+c) El partido político definirá con base en el inciso b), qué posiciones registrará de manera directa y qué posiciones se integrarán con los candidatos que no habiendo ganado, hayan obtenido los mejores resultados de la contienda electoral.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1201,13 +1229,25 @@ II.- A los Diputados a la Legislatura.
 
 III.- A los ayuntamientos, y
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-IV.- A los ciudadanos quintanarroenses, en los términos que señale la Ley respectiva.
+IV.- A los ciudadanos quintanarroenses, mediante escrito firmado por uno o más ciudadanos, en los términos que señale la Ley respectiva.
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 1996)</small>
 
 V.- Al Tribunal Superior de Justicia del Estado, en materia de legislación civil, penal, familiar, procesal de estas materias y en la legislación relativa a la organización y administración de justicia.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+El Gobernador del Estado tendrá derecho a presentar hasta dos iniciativas de carácter preferente dentro de los diez días hábiles al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+Las iniciativas con carácter preferente deberán ser sometidas a discusión y votación de la Legislatura, a más tardar, dentro de los cuarenta días naturales siguientes a su presentación.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+La ley establecerá los mecanismos aplicables para dar cumplimiento a lo previsto por el presente artículo. No podrán incluirse como iniciativas preferentes las que modifiquen esta Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
@@ -1277,9 +1317,9 @@ VI.- Legislar sobre la protección, conservación y restauración del patrimonio
 
 VII.- Convocar a elecciones extraordinarias para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los primeros dos años del período constitucional, conforme al Artículo 83 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-VIII.- Convocar a elecciones extraordinarias de Diputados y Ayuntamientos, los cuales deberán entrar en funciones en un plazo no mayor a seis meses a partir de la fecha en que se produzca la vacante.
+VIII.- Convocar a elecciones extraordinarias de Ayuntamientos, los cuales deberán entrar en funciones en un plazo no mayor a seis meses a partir de la fecha en que se produzca la vacante;
 
 IX.- Erigirse en Colegio electoral para elegir Gobernador sustituto para que concluya el período constitucional, en caso de falta absoluta de éste ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 83 de esta Constitución.
 
@@ -1605,13 +1645,13 @@ La elección del Gobernador será universal, libre, secreta, directa, uninominal
 
 Para ser Gobernador del Estado se requiere:
 
-(NOTA: EL 12 DE ENERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2008 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 13 DE ENERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "...I.- Ser ciudadano mexicano por nacimiento y nativo de la entidad, o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección."]
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+I.- Ser ciudadano mexicano por nacimiento y nativo de la entidad o hijo de padre o madre nacido en la entidad o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección;
 
-I.- SER CIUDADANO MEXICANO POR NACIMIENTO, NATIVO DE LA ENTIDAD O HIJO DE PADRE O MADRE NACIDO EN LA ENTIDAD, Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO DE CUANDO MENOS DIEZ AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN. A FALTA DE LOS REQUISITOS ANTES SEÑALADOS, SER CIUDADANO MEXICANO POR NACIMIENTO Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO NO MENOR DE VEINTE AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-II.- Tener 25 años cumplidos al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
+II.- Tener treinta años cumplidos al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso.
 
@@ -1627,9 +1667,17 @@ VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Desc
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-VIII.- No ser Consejero Presidente, Consejero Electoral, Secretario General o Funcionario del Instituto Electoral de Quintana Roo o Magistrado Electoral, a menos que se separe de su cargo tres años antes de la fecha de la elección.
+VIII.- No ser Consejero Presidente, Consejero Electoral, Secretario Ejecutivo o Funcionario del Instituto Electoral de Quintana Roo, Secretario o Magistrado del Tribunal Electoral, a menos que se separe de su cargo tres años antes de la fecha de la elección.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+IX.- No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate, y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+X.- No ser Presidente Municipal o titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1743,7 +1791,11 @@ XVII.- Formular y remitir a la Legislatura del Estado, la terna de candidatos a 
 
 XVIII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
 
-XIX. (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+
+XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición.
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -3329,15 +3381,11 @@ En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Láz
 
 II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por los (sic) menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
+III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos y Candidatos Independientes que hayan obtenido por los (sic) menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político o la planilla de candidatos independientes que haya obtenido la mayoría de votos.
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2012)</small>
-
-IV. LA LEY ESTABLECERÁ LOS TÉRMINOS Y REQUISITOS QUE DEBERÁN SATISFACER LOS CIUDADANOS QUE PRETENDAN SER REGISTRADOS COMO CANDIDATOS INDEPENDIENTES A LOS AYUNTAMIENTOS.
+IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3351,9 +3399,9 @@ II. Ser de reconocida probidad y solvencia moral.
 
 III. No desempeñar, con excepción de los docentes, cargo o comisión del Gobierno Federal, Estatal o Municipal a menos que se separe con noventa días de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-IV. No ser Magistrado del Tribunal de Justicia Administrativa del Estado, ni del Tribunal Electoral del Estado, ni Consejero, Secretario General o Director del Instituto Electoral del Estado, a menos que se separe dos años antes de la fecha de inicio del proceso electoral.
+IV. No ser Magistrado del Tribunal de Justicia Administrativa del Estado, ni del Tribunal Electoral del Estado, ni Consejero, Secretario Ejecutivo o Director del Instituto Electoral del Estado, a menos que se separe dos años antes de la fecha de inicio del proceso electoral.
 
 V. No ser ministro de cualquier culto, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
@@ -5184,3 +5232,23 @@ P.O. 18 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DE LA “DECLARATORIA NÚMERO: 003 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y DE LA DECLARATORIA NÚMERO: 002 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 100 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA ELECTORAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para garantizar la concurrencia total de los procesos electorales del Estado de Quintana Roo con los procesos electorales federales, se estará a lo siguiente:
+
+I. La duración del cargo de diputado a elegirse en el año 2022, será de dos años y comprenderá del 3 de septiembre del año 2022 al 2 de septiembre del año 2024, y
+
+II. La duración del cargo de Gobernador a elegirse en el año 2022, será de cinco años y comprenderá del 25 de septiembre de 2022 al 24 de septiembre del año 2027.
+
+TERCERO. El Instituto Electoral del Estado de Quintana Roo, determinará por vez primera lo dispuesto en el párrafo primero del numeral 1 de la fracción III del artículo 49 contenido en el presente Decreto, con el objetivo de calcular el financiamiento público que le corresponda a los partidos políticos para el año 2020.
+
+En el caso de los años 2018 y 2019, el monto se determinará con base en las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+QUINTO. Lo dispuesto en el artículo 49 fracción III párrafo segundo de la Constitución Política del Estado Libre y Soberano de Quintana Roo, respecto a la figura de las candidaturas comunes, será aplicable a partir del proceso electoral a efectuarse en el año 2019.
