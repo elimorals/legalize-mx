@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2016-02-19"
+last_updated: "2017-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2661,859 +2661,615 @@ VI. Los comerciantes que debidamente autorizados instalen un puesto fijo o semif
 
 Para la debida regulación de los mercados y centros de abasto, se observará lo dispuesto en el apartado V del Libro Tercero de este Código.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
 APARTADO SEXTO
 
 DE LOS ESPECTACULOS EN EL MUNICIPIO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 259.
 
-Las disposiciones de este apartado son aplicables a los espectáculos públicos en general, que funcionen en el Municipio de Querétaro.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 260.
 
-Quedan comprendidos en este apartado y sujetos a sus disposiciones, los espectáculos y diversiones públicas siguientes:
-
-Las representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedad, las corridas de toros, las carreras y las competencias humanas y de animales y de todo tipo de vehículos, ya sean estos mecánicos o dinámicos, exposiciones y exhibiciones de pinturas, esculturas, artesanías o cualquier otro género de arte; las conferencias con fines informativos o de cultura; las exhibiciones aeronáuticas, los circos, ferias y otros, el fut-bol, béisbol, basquet-bol, frontón y demás juegos de pelota; las peleas de box y lucha y demás eventos deportivos; gimnasios, billares, boliches, patinadores, golfitos, bailes públicos, los cabarets y albercas; los juegos electrónicos y en general todos aquellos que se organizan para que el público mediante pago o gratuitamente concurra a divertirse o a educarse.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 261.
 
-En todas las puertas de los centros de espectáculos que conduzcan al exterior del edificio, habrá letreros con la palabra “salida”, sobre los muros habrá flechas que indiquen la dirección de la misma, las letras tendrán una altura máxima de 15 cm., y los letreros estarán iluminados con luz artificial distinta a la iluminación general y protegidos con pantalla de cristal. Esas luces deberán estar encendidas desde 15 minutos antes de comenzar el espectáculo y hasta que haya sido desalojado completamente el local.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 262.
 
-Las puertas de salida de emergencia en todos los centros de diversiones de espectáculos, permanecerán cerradas durante las funciones, pero de tal manera que el público las pueda abrir instantáneamente sin ningún esfuerzo, si por algún motivo tuviera que desalojar rápidamente el lugar.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 263.
 
-Todos los locales destinados a diversiones públicas estarán suficiente y convenientemente ventilados, cuando la aglomeración sea excesiva, se exigirá la instalación de abanicos electrónicos y extractores de aire, para generar la renovación del ambiente. Asimismo, satisfacerán todos los requisitos de higiene.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 264.
 
-En todos los lugares destinados a espectáculos públicos o diversión, deberá existir teléfono público dentro del mismo en perfecto funcionamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 265.
 
-Queda estrictamente prohibido vender o introducir vinos y licores en los centros de espectáculos en general, salvo en aquellos en que la naturaleza de los mismos lo requiera.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 266.
 
-A partir de la vigencia del presente código quedan terminantemente prohibidas las rifas, quinielas y cualquier otro juego de azar, realizados durante o en el intermedio de los espectáculos o festejos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 267.
 
-Cualquier comercio que se instale en el interior del edificio o lugar ocupado para ofrecer al público algún espectáculo o festejo, sea propiedad del empresario, de un tercero extraño o del concesionario, para poder iniciar sus actividades, necesita obtener previamente, permiso de la autoridad municipal, en articular (sic) respecto a los precios a que se venderán las mercancías al público espectador.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 268.
 
-En lo relacionado con los espectáculos cinematográficos, la autoridad municipal, deberá autorizar los precios y controlar el número de boletos de acuerdo con el aforo practicado y de vigilar en todas las circunstancias porque no se afecte a la moral, las buenas costumbre (sic) y el orden público, así como el cumplimiento y la prohibición para que no se permita la entrada de menores o adolescentes en la exhibición de películas cuya clasificación indique no ser apta para ellos, vigilando estrictamente además que en las funciones propias y exclusivas para niños y jóvenes adolescentes, no se exhiba propaganda de películas autorizadas sólo para adultos, ni utilizar aquellas para anunciar eventos diferentes que incurran en la misma infracción.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 269.
 
-Los locales destinados a ofrecer espectáculos públicos, deberán reunir las siguientes condiciones:
-
-I. Contar con los implementos, instalaciones y enseres necesarios para la seguridad del público;
-
-II. Contar con servicios sanitarios ajustados a lo que establece el reglamento de construcción y separados para cada sexo; y
-
-III. No tener acceso interior con habitaciones o cualquier otro local ajeno al establecimiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 270.
 
-Los propietarios, administradores o encargados de los establecimientos, destinados a ofrecer espectáculos públicos, tendrán las siguientes obligaciones:
-
-I. Procurar que el interior y exterior de los locales se conserven en buenas condiciones de limpieza;
-
-II. Exhibir con letras legibles la lista de precios que corresponda a los espectáculos que se presentan;
-
-III. Exhibir en lugar visible la licencia de funcionamiento;
-
-IV. Destinar exclusivamente el local para la actividad o actividades a que se refiere la licencia;
-
-V. Contar con el personal necesario para el funcionamiento eficiente;
-
-VI. Impedir el acceso y la utilización de las instalaciones a personas en estado de ebriedad o bajo el influjo de estupefacientes;
-
-VII. Impedir que en el interior se fijen leyendas, anuncios impresos o propaganda de carácter político o religioso;
-
-VIII. Prevenir las conductas que atenten al pudor y ofendan la moral;
-
-IX. Impedir que el pago de los servicios se haga en especie o se reciban bienes en prenda;
-
-X. Impedir la entrada a personas armadas, exceptuando los miembros o corporaciones policiacas que estén destinadas al servicio de seguridad en ese lugar;
-
-XI. Prohibir que se crucen apuestas en el interior de los locales;
-
-XII. Respetar el aforo autorizado a los locales en los que se presentan espectáculos públicos; y
-
-XIII. Cumplir además con las normas establecidas en este reglamento, demás disposiciones municipales y leyes de la materia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 271.
 
-La venta de boletos para la asistencia a espectáculos públicos, podrá efectuarse por anticipado previa autorización de la autoridad municipal.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 272.
 
-Las empresas promotoras y particulares serán responsables del cumplimiento de las condiciones establecidas por las autoridades correspondientes y por la no presentación del espectáculo, caso en el cual deberán devolver el monto total del boleto pagado por el espectador, debiendo poner el importe que corresponda a disposición de los espectadores en las taquillas autorizadas en un plazo máximo de 48 horas a partir del anuncio de la cancelación o cambio de fecha del espectáculo.
-
-Los cargos adicionales cobrados por las empresas comercializadoras de boletos por la expedición de los boletos del evento, serán devueltos por éstas en términos del párrafo anterior.
-
-No se otorgará a las empresas y particulares nueva autorización hasta en tanto acrediten haber cumplido la obligación impuesta en el párrafo anterior.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 273.
 
-Los empresarios o propietarios de las salas cinematográficas o teatrales, serán responsables de las publicaciones que se hagan en periódicos o en carteleras con dibujos, fotografías o textos que ofendan la moral y las buenas costumbres.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 274.
 
-Para efectos administrativos y fiscales en la aplicación de este código, los espectáculos públicos sujetos a la autoridad municipal, se dividen en los siguientes grupos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. De las carreras de automóviles.
-
-De las carreras de bicicletas
-
-De las carreras de motocicletas.
-
-De los clubes o centros deportivos.
-
-De los juegos mecánicos, electromecánicos y electrónicos accionados con fichas o monedas.
-
-De los salones de boliche y billar.
-
-II. De los espectáculos de box y lucha libre.
-
-De los espectáculos taurinos.
-
-De los espectáculos teatrales y musicales.
-
-Del juego profesional de pelota en frontón.
-
-De los espectáculos profesionales de basket-bol, béisbol, fútbol o similares
-
-De las salas públicas de cine.
-
-III. De los bares.
-
-De los cabarets.
-
-De las cantinas.
-
-De las peñas.
-
-De los restaurantes.
-
-De los salones de baile.
-
-De los salones de fiesta.
-
-De los salones discotecas.
-
-De los centros nocturnos, tabernas, pulquerías, o expendio de bebidas alcohólicas.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO II. De las Licencias y Permisos
 
 ###### ARTICULO 275.
 
-El Ayuntamiento y sus Delegados Municipales, otorgarán las licencias, permisos o autorizaciones en general que se les soliciten, para el funcionamiento de los espectáculos públicos de acuerdo con las disposiciones de este reglamento y demás ordenamientos municipales.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 276.
 
-Los interesados en obtener la licencia o autorización correspondiente para la actividad a que se refiere este ordenamiento, deberán previamente empadronarse en la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, salvo disposición en contrario de la Autoridad Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 277.
 
-Para los efectos de este código, se considera como LICENCIA: El documento expedido por el Ayuntamiento que permite el funcionamiento de espectáculos públicos, regulado por este ordenamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2016)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 278.
 
-Los interesados en obtener licencia de funcionamiento, deberán presentar solicitud por escrito a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología con los siguientes datos y documentos:
-
-I. Nombre, domicilio y nacionalidad del solicitante, en caso de extranjero deberá acreditar que está autorizado por la Secretaría de Gobernación de la República, así como su residencia por la Secretaría de Relaciones Exteriores, para dedicarse a esa actividad;
-
-II. Ubicación del local donde pretenda establecerse;
-
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-III.- Fotocopia de la cédula de empadronamiento expedida por la autoridad municipal competente, en su caso;
-
-IV. Constancia expedida por la oficina que corresponda, relativa a que el local satisface las condiciones de seguridad y que cuenta con el equipo necesario contra incendio;
-
-V. Depósito de una garantía en numerario o criterio de la Autoridad Municipal; y
-
-VI. Certificación de que cumple con todos los requisitos de higiene y buen funcionamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 279.
 
-En la solicitud de autorización para cualquier espectáculo, debe constar el número de localidades y tipo de estas; en ningún caso y por ningún motivo se permitirá que se aumente el cupo autorizado colocando asientos o sillas en pasillos, corredores o lugares en que puedan obstruir la circulación del público a las salidas de emergencia o impida el libre acceso y circulación de los espectadores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 280.
 
-Ningún espectáculo o diversión podrá ofrecerse al público sin el previo permiso que deberá solicitarse a la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 281.
 
-El permiso que la autoridad municipal conceda para el espectáculo, determinará las condiciones en que se podrá vender golosinas, comida, refrescos, etc., prohibiéndose la venta en recipientes de metal o de vidrio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 282.
 
-La autoridad municipal, concederá permiso para realizar cualquier espectáculo público siempre que el lugar en que se va a presentar reúna las condiciones que se señalan en este código, las de seguridad e higiene y demás requeridas por otras disposiciones gubernamentales municipales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 283.
 
-Las licencias o autorizaciones administrativas se podrán expedir para una temporada, para una sola función o funciones, o para un acto determinado o bien, por un plazo fijo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 284.
 
-Las solicitudes de permiso para presentar espectáculos públicos, deben contener los siguientes requisitos:
-
-I. Nombre y domicilio del empresario;
-
-II. La clase de espectáculos que se van a presentar con la inclusión del programa a que se sujetará el desarrollo;
-
-III. Lugar, fecha y hora de presentación del espectáculo;
-
-IV. El precio de admisión que se pretenda cobrar en cada localidad para su aprobación provisional o definitivo (sic);
-
-V. Los lugares en los que con exclusividad se efectuará la venta de boletos, y el nombre de las personas comisionadas para ello;
-
-VI. El número máximo de boletos para la admisión de cada localidad que se pondrán a la venta, así como el número máximo de boletos y pases de cortesía;
-
-VII. Cuando se trate de espectáculos que se presenten por temporadas, se expresarán las fechas de iniciación y terminación; y
-
-VIII. En caso de espectáculos permanentes o temporales, deberá hacerse constar esta circunstancia en la solicitud.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 285.
 
-Las licencias a que se refiere el presente reglamento, dejarán de surtir sus efectos por cancelación o caducidad, por haber vencido el término o plazo por el que se otorgaron, de conformidad con lo establecido por este ordenamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 286.
 
-Para el otorgamiento de licencias a que se refiere este ordenamiento, deberá comprobarse el cumplimiento de las normas que sobre el particular establezca el código sanitario y sus reglamentos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 287.
 
-El registro de la licencia deberá revalidarse anualmente, para este efecto, lo (sic) interesados dentro de los tres primeros meses de cada año, deberán presentar solicitud por escrito, acompañada de los siguientes documentos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
-
-I. Fotocopia del comprobante de la Secretaría de Finanzas que acredite haber cubierto los derechos correspondientes al periodo anterior; y
-
-II. Fotocopia de la licencia de funcionamiento, así como la patente respectiva.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO III. De las Empresas Promotoras
 
 ###### ARTICULO 288.
 
-A fin de que se pueda exigir su exacto cumplimiento, las promesas que empresarios hagan al público serán completamente claras y precisas, igualmente anunciarán en su programa si los boletos de entrada se expiden para permanencia voluntaria o para única función.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 289.
 
-El anuncio de las obras que constituyen el espectáculo deberá hacerse precisamente en español con sus verdaderos títulos, sin adiciones ni supresiones y con los seudónimos de sus autores, traductores o adaptadores.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 290.
 
-Los boletos de toda clase de espectáculos serán vendidos exclusivamente en las taquillas autorizadas, previo sellado por la autoridad municipal competente; salvo en el caso en que la venta sea a través de empresa comercializadora de boletos electrónicos de acceso a eventos, lo cual deberá de estar previamente aprobado por la autoridad municipal.
-
-Las empresas comercializadoras de boletos deberán dar aviso a la Secretaría de Gobierno Municipal de la venta de los boletos de cualquier espectáculo a realizar.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 291.
 
-Al abrirse las taquillas para la venta de localidades, deberá existir la dotación completa de boletos, habrá siempre a la vista del público un plano de todas las localidades.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 292.
 
-La numeración que se fije en luneta, palcos, plateas y gradas, será perfectamente visible, la venta de dos o más boletos con un mismo número y una misma localidad será sancionada; cuando suceda este caso, tendrá derecho a ocupar el asiento la persona que primero haga uso de él.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 293.
 
-Las empresas deberán tener el personal de acomodadores suficientes para instalar a los espectadores en sus respectivas localidades, como también personal de vigilancia en el interior del local.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 294.
 
-Queda estrictamente prohibido a las empresas de espectáculos vender, en ningún caso y por ningún motivo, mayor número de localidades de las que tiene autorizadas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 295.
 
-Se prohibe a las empresas cualquier sobreprecio de los boletos de espectáculos públicos, so pretexto de reservación, preferencia, apartados o cualquier otro motivo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 296.
 
-En ningún caso y por ningún motivo, podrán las empresas arbitrariamente fijar los precios de las localidades para espectáculos públicos, dichos precios, deberán estar sujetos a la aprobación de la presidencia municipal y serán fijados por la misma autoridad, en las que se tomará en cuenta la naturaleza de cada espectáculo, la localidad de éste, las condiciones de higiene y seguridad del lugar donde se verifique. Sin tales requisitos no será autorizada la propaganda del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 297.
 
-Para garantizar la localidad del espectáculo, todas las empresas o promotores permanentes o eventuales, acreditarán ante la autoridad municipal en representación tres días antes de iniciar las funciones; esta persona será solidariamente responsable, juntamente con la empresa o promotor, del cumplimiento del programa autorizado.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 298.
 
-Las empresas deberán poner en lugares fácilmente visibles, avisos donde se prohiba fumar en el interior de la sala del espectáculo, en los que se advierta al público la prohibición de hacerlo en el interior de la sala y será consignado el infracto cuando contravenga esta disposición ante la autoridad competente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 299.
 
-Al concluir todo espectáculo público, la empresa queda obligada a practicar una inspección de los diversos departamentos del edificio para cerciorarse de que no hay indicio de que se produzca algún siniestro.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 300.
 
-Cuando por naturaleza o características del espectáculo, el artista, cantante, bailarín, deportista o cualquier otra persona que participe en el mismo, requiera para intervenir, de un examen médico de salud físico o mental, el empresario tiene obligación de presentar oportunamente dicho dictamen a la Autoridad Municipal para demostrar que aquél no padece enfermedad alguna o trastornos transitorios, originados por la ingestión de bebidas alcohólicas, uso de drogas o estupefacientes, a fin de garantizar la seguridad personal del participante y el respeto al público asistente, sin el exacto acatamiento a lo antes ordenado; el inspector está facultado para impedir la actuación de aquella persona cuyo estado de salud sea notoriamente inconveniente, y ordenar que en el acto sea examinado por un médico para que de acuerdo con el resultado se le autorice o no su participación en el espectáculo; es obligación de todo empresario, cuando así lo requiera la naturaleza del espectáculo, instalar en el lugar o edificio en que se desarrolle éste, los servicios médicos necesarios para la debida atención del personal a sus órdenes y del público asistente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 301.
 
-La celebración de cualquier espectáculo se sujetará a las siguientes normas:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. El empresario deberá presentar a la presidencia municipal los boletos para que sean revisados y sellados;
-
-II. Deberá entregar la lista de precios que el empresario pretenda cobrar a los asistentes a fin de que la propia autoridad municipal determine si son o no de autorizarse;
-
-III. El empresario deberá exhibir a la autoridad el aforo del cupo de los estadios, plazas de toros, salas o cualquier otro lugar donde se presenten espectáculos públicos, para que la propia presidencia en vista del dictamen que emita la propia autoridad o el inspector investigador, determine lo conducente;
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2015)</small>
-
-IV. Los empresarios deberán poner a la venta los boletos ya sea por sí o a través de empresas debidamente autorizadas, dedicadas a la comercialización de boletos electrónicos de acceso a eventos.
-
-V. Los empresarios cumplirán debidamente con el espectáculo que indiquen en su programa, de conformidad con el propuesto en su solicitud, debidamente aprobado por la presidencia municipal;
-
-VI. La publicidad o propaganda del espectáculo, se efectuará por los medios informativos acostumbrados;
-
-VII. Los carteles, poster y similares, sólo podrán fijarse en los lugares destinados para ello; las mantas u otro tipo de publicidad, la fijación y ubicación de las mismas, deberá someterse a la aprobación de la autoridad municipal; y
-
-VIII. La publicidad y propaganda de cualquier espectáculo, será posterior al permiso o autorización del evento.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO IV. Del Control y Vigilancia
 
 ###### ARTICULO 302.
 
-La autoridad municipal, una vez autorizada la presentación de cualquier espectáculo público, deberá vigilar el desarrollo del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 303.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCIÓN PARA EL MUNICIPIO DE QUERÉTARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 304.
 
-Para la vigilancia de los espectáculos y para hacer cumplir este código, la presidencia municipal designará a los inspectores de espectáculos quienes tendrán autoridad amplia y suficiente para resolver los problemas inmediatos que se presenten desde una hora antes de la función hasta que ésta termine, debiendo cumplirse sus determinaciones que serán con la personalidad de representante de la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 305.
 
-Asimismo habrá un interventor en cada espectáculo, quien se encargará del cobro de las contribuciones municipales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 306.
 
-La policía en funciones que concurra al espectáculo, estará bajo las órdenes del inspector correspondiente, salvo disposición en contrario de la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 307.
 
-El Inspector del espectáculo, se auxiliará de la policía y en su caso del personal de la empresa para hacerse respetar y exigir el cumplimiento de este reglamento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 308.
 
-Las empresas y policías están obligadas a prestar toda la colaboración que sea necesaria al inspector de espectáculos para hacer cumplir este código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 309.
 
-El inspector del espectáculo, además de las facultades que le confiere este apartado, podrá expulsar del lugar en que se verifique el espectáculo a la persona que altere el orden o que no atienda las indicaciones que se le hagan para guardar compostura y respeto al público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 310.
 
-Tanto la autoridad, como la empresa, se reservan el derecho de negar la entrada al espectáculo a aquellas personas cuyo estado físico o mental de lucidez se considere que no es el conveniente porque puedan provocar alteraciones del orden o no causar molestias al público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 311.
 
-Son deberes y obligaciones del inspector de espectáculos los siguientes:
-
-I. Cerciorarse de que la autorización y el programa del espectáculo estén en orden; que los boletos estén sellados por el departamento correspondiente y que se exhiban en su totalidad; y que se cubrieron todos los requisitos que emanan de este reglamento y demás disposiciones municipales;
-
-II. Exigir a las empresas se inicie la función precisamente a la hora anunciada, sin retardo;
-
-III. Consignar a la disposición de la presidencia municipal a las personas que sean sorprendidas revendiendo boletos en cualquier espectáculo y cancelará o anulará los boletos que se recojan;
-
-IV. Impedir que se vendan mayor número de boletos del cupo que se tenga autorizado para la función respectiva;
-
-V. Resolver los casos en que las circunstancias requieran la alteración del programa por causas de fuerza mayor,
-
-VI. Cuando haya variación en el programa por fuerza mayor, exigirá a la empresa la amplia difusión del cambio de programa, actor o artista y horario, explicando los motivos de dicho cambio;
-
-VII. Resolver según el caso, de devolución parcial o total del valor del boleto en los casos de cambio de programa, horario o suspensión parcial o total de la función;
-
-VIII. Verificar que la empresa o persona responsables no permitan la entrada a menores de edad en programa de adultos;
-
-IX. Vigilar que en las funciones para menores no se exhiban avances especiales para adultos;
-
-X. Exigir que la empresa instale en lugares visibles anuncios que digan que la persona que fume en el interior de los salones de espectáculos será consignada a las autoridades, en los casos que así se requiera;
-
-XI. Cuando un asistente o aficionado al espectáculo se conduzca en forma grosera e inmoral o falte el respeto al público en general y a los actores de palabra y obra, se le amonestará y si no modera su comportamiento, será consignado, imponiéndole una multa según la gravedad del caso, independientemente del delito que resultare;
-
-XII. Amonestar a los que se sorprenda fumando en el interior del espectáculo y si reinciden, hacerlos desalojar la sala consignándolos a las autoridades municipales;
-
-XIII. Vigilar que la empresa no permita que los espectadores permanezcan de pie en el interior de la sala;
-
-XIV. Exigir que la empresa no permita que los concurrentes permanezcan en los pasillos y departamentos destinados a comunicación directa con la sala de espectáculos e impedir que se agreguen sillas en los pasillos;
-
-XV. Exigir que los centros de espectáculos, como lo previene el presente código, estén provistos de los extinguidores de incendio que se requieren;
-
-XVI. Exigir que la empresa impida el acceso al espectáculo público de toda persona que porte armas prohibidas por la ley; salvo de los miembros de cualquier cuerpo de policía que esté consignado para la seguridad del local;
-
-XVII. Procurar que las empresas pongan múltiples avisos a la vista del público en los que se advierta la prohibición de fumar en las salas de espectáculos. Evitar que en el foro o lugar de la celebración del espectáculo permanezcan personas ajenas a la compañía o a la empresa, debiendo éstas dar facilidades a dicho inspector para que sea cumplida la disposición en todos los espectáculos y diversiones;
-
-XVIII. Rendir inmediatamente un informe detallado y circunstanciado a la presidencia municipal, dando cuenta de las infracciones cuando las hubiere; y
-
-IX (sic). Exigir a los empresarios que estén en perfecto funcionamiento los extinguidores y puertas de emergencia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 312.
 
-En cualquier caso en se tenga conocimiento de que el empresario no ha reunido los requisitos señalados en el presente apartado, los inspectores levantarán las infracciones correspondientes y las turnarán al jefe de la oficina para la calificación y determinación de la sanción, que será aumentada, disminuida o nulificada, únicamente por el Presidente Municipal.
-
-Para ello redactarán un acta circunstanciada en la que harán constar en forma clara y ordenada los hechos, causa de la infracción imputable al empresario y la cita exacta y correcta de las disposiciones de este apartado violadas por el infractor; diligencia que se practicará en presencia del empresario o de su representante, o en ausencia de los anteriores o negativa, ante dos testigos.
-
-El acta deberá estar firmada por el inspector y por el empresario o quien lo represente, si el empresario o su representante se niegan a firmar podrán hacerlo dos testigos, haciéndose constar la negativa.
-
-La autoridad municipal, una vez que reciba el acta en que consten las infracciones, determinará el monto de las multas y la orden para que cumpla con lo dispuesto por este código, señalando al efecto un plazo de tres días para el pago de las primeras y otro término igual para que el infractor realice la conducta omitida o se abstenga de continuar realizando el acto indebido.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 313.
 
-En caso de oposición violenta por parte de los empresarios, de sus empleados, o cualquier otra persona para hacer respetar lo dispuesto por este reglamento a las medidas decretadas por el inspector éste tendrá a su disposición el auxilio de la fuerza pública.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 314.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCIÓN PARA EL MUNICIPIO DE QUERÉTARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO V. De los que Intervienen en los Espectáculos
 
 ###### ARTICULO 315.
 
-Para los efectos de este apartado, se entiende por actor o artista, aquel que figure individual o en grupo en los programas, o tomen parte en un espectáculo público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 316.
 
-Los artistas que tomen parte en la función anunciada, deberán estar en el teatro cuando menos media hora antes de principiar el espectáculo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 317.
 
-Los actores guardarán en escena debida compostura, así en acción como en la palabra, evitando cuidadosamente cualquier acto, postura o expresión contrarias al decoro o a la moral.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 318.
 
-Todos los escritores y productores de piezas teatrales, disfrutarán de los derechos sobre la libre emisión del pensamiento que consigna la Constitución Política de los Estados Unidos Mexicanos, y la del Estado de Querétaro.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 319.
 
-Sin embargo, de conformidad con las restricciones de los preceptos constitucionales, todos los actores, locutores, adaptadores, empresarios y artistas, son responsables ante las autoridades de los ataques a la paz pública y a la moral, a la vida privada de las personas que contengan sus producciones escénicas, quedando en todo sujetos a las prevenciones y sanciones de este código, sin perjuicio de que sean consignados los responsables a las autoridades competentes, en su caso.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 320.
 
-Cuando el delito o falta no consistiere en lo que los autores hubieren escrito sino que se sumara por las palabras añadidas por los artistas, consistentes en acciones o ademanes de éstos, serán consignados el culpable a las autoridades competentes en su caso, o sancionado por falta a la autoridades administrativas, según la gravedad de la falta.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 321.
 
-En las obras o escenas con tema de carácter político, no podrán colaborar, en ninguna forma, los extranjeros.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 322.
 
-Cuando en la representación de una obra se ofenda el pudor o la vida privada de las personas, se ataque a nuestras instituciones, o se insulte a las autoridades, la presidencia municipal revocará el permiso concedido y no autorizará una nueva representación, hasta que sean retiradas de las obras las alusiones y ofensas a que se refiere el presente artículo sin perjuicio de que se apliquen a los responsables las sanciones que les corresponden de acuerdo con las leyes que nos rigen.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 323.
 
-Si algún actor, deportista, cantante, director, técnico o cualquier otra persona que intervenga directamente en la representación de un espectáculo o festejo, incurra en actos de desacato a la autoridad, se burla o le falte el respeto al público de la palabra o por acción se cometieren hechos delictuosos, el inspector o la autoridad correspondiente, detendrá al presunto responsable y lo pondrá a disposición de las Autoridades competentes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 324.
 
-La oficina de espectáculos municipales, dictará administrativamente las medidas de seguridad que deberán adoptarse para que los artistas, actores, deportistas, cantantes, directores, técnicos o cualquier otra persona que intervenga directa o indirectamente en la presentación de algún espectáculo o festejo, estén a salvo de agresiones por parte del público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-La agresión de cualquier espectador a los deportistas, actores, artistas, cantantes, directores, técnicos o cualquier persona que intervenga directa o indirectamente en la presentación de algún espectáculo o festejo, será sancionada.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO VI. De los Espectadores
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
-
 ###### ARTICULO 325.
 
-Los asistentes a cualquier espectáculo público tienen el derecho de exigir en cualquier tiempo, la devolución de la cantidad que hayan entregado por sus respectivos pagos, incluyendo cargos adicionales por servicios si los hubiere, en caso de que las empresas faltaren a sus compromisos. Si la falta de cumplimiento fuere parcial, el caso será resuelto por la Secretaría General de Gobierno.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 326.
 
-Queda estrictamente prohibida la entrada a menores de edad en programas clasificados sólo para adultos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 327.
 
-Los espectadores guardarán durante el espectáculo el silencio, la compostura y la circunspección debida. El que hiciere manifestaciones ruidosas de cualquier clase que interrumpan o impidan el desarrollo de la función, será expulsado del salón sin reintegrarle el importe de su localidad. No se entenderán por interrupciones las manifestaciones de agrado desagrado hechas por el público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 328.
 
-Queda prohibida la entrada a cualquier espectáculo a las personas que porten armas prohibidas por la ley o en estado inconveniente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 329.
 
-Queda prohibido estrictamente a los espectadores durante las funciones permanecer de pie en las puertas de las salas de espectáculos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 330.
 
-Queda prohibido estrictamente a los espectadores durante las funciones permanecer de pie en las puestas (sic) de las salas de espectáculos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 331.
 
-Tratándose de compañías de ópera, ballet, conciertos y audiciones puramente musicales, una vez que principie la función, serán cerradas las puertas de las salas, debiendo esperar el público retrasado a que haya terminado el acto, para entrar en el salón.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 332.
 
-El o los espectadores, que con ánimo de originar una falsa alarma ante los asistentes a cualquier diversión, lancen la voz de fuego, de alarma o cualquier otra semejante, que por su naturaleza infunda pánico en el público, serán sancionados.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 333.
 
-El público que asista a las corridas de toros, carreras de animales, de vehículos y humanas, eventos deportivos y demás espectáculos al aire libre, está obligado a guardar la debida compostura, no debe lanzar insultos a los participantes ni a los jueces, igualmente, le está prohibido coaccionar a estos últimos para que varíen su fallo, así como arrojar objetos a la pista, o lugar de celebración del evento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 334.
 
-Queda estrictamente prohibido que el público invada la pista o se sitúe dentro de ella, así como que se coloque en la zona de protección de la misma o en aquellos lugares que en cada caso señale la empresa.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO VII. Del Desarrollo de las Funciones de Espectáculos
 
 ###### ARTICULO 335.
 
-Las funciones teatrales y en general toda clase de espectáculo públicos, comenzarán exactamente a la hora señalada en los programas autorizados. Estos serán estrictamente cumplidos, salvo en los casos de fuerza mayor, a juicio d el (sic) autoridad municipal o quien la represente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 336.
 
-Los entreactos o intermedios serán de quince minutos como máximo y sólo por causa justificada y con permiso de la autoridad podrán ampliarse.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 337.
 
-En los programas que requieran autorización previa de la autoridad municipal, sólo ésta, o quien la represente de acuerdo con las disposiciones de este código, podrá autorizar algunas variantes, pero únicamente por causa de fuerza mayor, la empresa pondrá invariablemente en conocimiento de la autoridad toda modificación, que después de autorizados los programas del mismo, introduzca en el orden y forma del espectáculo, expresando la causa a que la forma obedezca. Cuando esta variación la motivare la enfermedad de algún artista, la empresa deberá presentar con oportunidad debida, el certificado médico respectivo, ante la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 338.
 
-En las funciones de beneficio, extraordinarias, etc., en que tomen parte artistas o personas que no pertenezcan a la compañía, se acompañarán, a la solicitud de licencia, cartas firmadas por dichas personas, en las que se comprometen a tomar parte en aquellas funciones y las cuales quedarán, por este hecho, comprendidas en el artículo anterior.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 339.
 
-Las personas que se comprometen por escrito a trabajar en algún espectáculo anunciado con autorización de la presidencia municipal y no cumplan con la obligación contraída, quedarán consideradas como infractores a la disposición respectiva y sujetarse a la sanción correspondiente, salvo cuando sea por causa de fuerza mayor, que deberán comprobar plenamente ante dicha autoridad.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 340.
 
-Toda variación del programa de algún espectáculo se anunciará con anticipación por los medios de difusión necesarios, para ello, quedando obligada a fijar en las ventanillas de expendio de boletos y demás lugares visibles del local, cualquier variación del programa explicando al público la causa y que ha sido hecha con la debida autorización de la presidencia municipal; a los inconformes con el nuevo programa y que se encuentren dentro del espectáculo, se les reintegrará lo que pagaron.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 341.
 
-Los espectáculos que se verifiquen en el Municipio de Querétaro, causarán el impuesto que marca la Ley de Ingresos en vigor.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 342.
 
-Los espectáculos que se desarrollen fuera del Municipio de Querétaro, pero que se enuncien y vendan parte del boletaje en éste, deberán solicitar autorización para instalar los expendios o taquillas para la venta de los mencionados boletos, evitando de esta manera la reventa; los boletos que se vendan deberán estar sellados y autorizados por la autoridad municipal pagando el derecho que determine la Ley de Ingresos para los Municipios.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 343.
 
-La celebración de un espectáculo autorizado sólo puede suspenderse por causa de fuerza mayor o por ausencia absoluta de espectadores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO VIII. De los Revendedores
 
 ###### ARTICULO 344.
 
-La reventa de boletos, en toda clase de espectáculos, queda terminantemente prohibida.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 345.
 
-Se presumen, salvo prueba en contrario, el acuerdo entre empresa y revendedores para burlar los precios autorizados del espectáculo y enriquecerse ilícitamente por este medio, en los siguientes casos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Cuando la empresa entrega para su venta más de un talonario, siempre de (sic) que no se trate de locales autorizados para ello;
-
-II. Cuando la empresa se reserve las localidades preferenciales; y
-
-III. Cuando los revendedores son empleados de la empresa de espectáculos o personas que estén dentro de sus instalaciones materiales.
-
-Los boletos que se encuentran vendiendo fuera de taquilla o de los locales autorizados para ello, serán recogidos por la autoridad municipal y cancelados.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO IX. De los Espectáculos Públicos de Basquetbol, Beisbol, Futbol, o similares
 
 ###### ARTICULO 346.
 
-Para la celebración de cualquier competencia deportiva o internacional, el H. Ayuntamiento designará a una persona que fungirá como inspector autoridad y otra como auxiliar de éste, quienes podrán desempeñar su función conjunta o separadamente y tendrán las siguientes funciones:
-
-I. Estar presente en el estadio o lugar en donde se celebre el evento competencia 30 minutos antes de la hora señalada para su inicio, comunicando al cuerpo arbitral su presencia, e identificándose en caso necesario;
-
-II. Verificar el dispositivo de seguridad en la cancha, así como el estado de las instalaciones que guarda ésta, comunicándolo al cuerpo arbitral;
-
-III. Requerir la acreditación de los reporteros gráficos que cubrirán el evento en los lugares destinados para ello;
-
-IV. Pedir el auxilio y apoyo del dispositivo de seguridad en caso necesario y cuando expresamente lo solicite el árbitro, dispositivo que está bajo sus ordenes durante la celebración del evento; y
-
-V. Actuar en colaboración con el árbitro en:
-
-a). Avisos al público por medio del sonido local.
-
-b). Arreglo de algún desperfecto dentro de la cancha, que ocurra durante el desarrollo del evento; y
-
-c). Ejecución de las decisiones del árbitro y jugadores en caso de agresiones por parte del público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 347.
 
-Los interesado en obtener autorización para la celebración de encuentros profesionales de fútbol y similares, deberán presentar solicitud por escrito ante la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 348.
 
-Para los casos no previstos en este ordenamiento, sobre competencias deportivas profesionales, se estará a lo dispuesto por los estatutos y reglamentos internos de las federaciones, asociaciones y demás organizaciones nacionales e internacionales aplicables al caso, siempre y cuando no contravengan las disposiciones del presente código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-Se prohíben los juegos que encubran estafa o engaño, ocasionando perjuicio económico a los participantes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO X. De los Salones de Boliche y de Billar
 
 ###### ARTICULO 349.
 
-En los salones de boliche y de billar, se podrán practicar como actividades complementarias, los juegos de ajedrez, dominó, damas, tenis de mesa y otros juegos similares, anotando en la licencia principal estas autorizaciones.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 350.
 
-Las escuela, academias, clubes o casinos donde se practique el boliche o el billar, se sujetarán a las disposiciones de este ordenamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 351.
 
-A los salones de boliche podrán tener acceso las personas de cualquier sector con derecho a disfrutar de las actividades y servicios autorizados. A los salones de billar únicamente las personas mayores de 16 años.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 352.
 
-Los propietarios, administradores o encargados de los salones de billar o de boliche, serán directamente responsables en los términos de las leyes aplicables por permitir que en el interior de dichos establecimientos se practiquen en cualquiera de sus formas la prostitución, drogadicción y en general, conductas que deterioren la convivencia social.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 353.
 
-En caso de organización de torneos, los propietarios, administradores o encargados, deberán recabar autorización estricta de la autoridad municipal si se cobran cuotas de cualquier índole.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-En caso de alquiler de zapatos en los boliches, deberán contar éstos con el equipo de desinfección necesario para evitar contagios.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XI. De las Carreras de Automóviles, Motocicletas y Bicicletas
 
 ###### ARTICULO 354.
 
-Para que puedan efectuarse carreras de automóviles, motocicletas y bicicletas, se requiere autorización de la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 355.
 
-No se otorgarán permisos para efectuar carreras de automóviles y motocicletas en la vía pública.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 356.
 
-Para obtener autorización para los eventos antes mencionados, deberá presentarse con 15 días hábiles de anticipación a la realización del evento, solicitud ante la autoridad municipal, debiendo cumplir además con los siguientes requisitos:
-
-I. Día y hora en que se pretenda celebrar el evento;
-
-II. El número y clase de localidades, así como el precio que se pretenda cobrar por el acceso;
-
-III. El número de carreras a efectuarse y sus denominadores;
-
-IV. Nombre y número de las licencias de manejo de todos y cada uno de los competidores, tratándose de carreras de automóviles y motocicletas;
-
-V. El programa de las carreras y el tiempo probable de su desarrollo; y
-
-VI. Visto bueno de la comisión respectiva.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 357.
 
-Presentada la solicitud, la presidencia municipal verificará si se reúnen los requisitos reglamentarios; para tal efecto, ordenará las inspecciones y de más (sic) medidas que juzgue convenientes. Integrado el expediente, la propia presidencia dictará la resolución que proceda y la notificación al interesado en un término de 8 días hábiles.
-
-Se hará entrega de la autorización, previo el pago de los derechos correspondientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 358.
 
-Para el mejor desarrollo técnico de la especialidad, materia del presente capítulo, la Presidencia Municipal contará con una comisión técnica asesora quien será la encargada de expedir los manuales de normas técnicas complementarias y que serán aprobadas por el propio Presidente Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 359.
 
-Las comisiones estarán integradas por 5 miembros propietarios y 5 suplentes, que ocuparán los siguientes puestos: Presidente, Secretario, Tesorero y dos Vocales. Todos serán nombrados directamente por el Presidente Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 360.
 
-El cargo de cualquier miembro será honorario, la Comisión nombrará a un comisionado para cada evento que será la autoridad máxima del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 361.
 
-El comisionado tendrá a su cargo:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Cuidar de que no se altere el orden durante el espectáculo, solicitando de la autoridad, en su caso, la expulsión de los responsables;
-
-II. Vigilar que no se venda mayor número de boletos del cupo de las tribunas y de otras localidades;
-
-III. Revisar y exigir el cumplimiento del programa autorizado;
-
-IV. Exigir que los corredores anunciados en el programa participen en las carreras, salvo por enfermedad o causa de fuerza mayor, comprobables;
-
-V. Vigilar que el espectáculo principie a la hora señalada;
-
-VI. Impedir que participe cualquier corredor que no reúna las condiciones físicas necesarias, según certificado médico del jefe de los servicios médicos del espectáculo; y
-
-VII. Resolver cualquier imprevisto no contemplado en este ordenamiento.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XII. De los Juegos Mecánicos, Electromecánicos y Eléctricos
 
 ###### ARTICULO 362.
 
-Los establecimientos donde se instalen para uso del público juegos mecánicos, electromecánicos y eléctricos, deberán observar las disposiciones de este código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 363.
 
-Los aparatos destinados a los juegos a que se refiere el presente capítulo, podrán funcionar en lugares no específicamente dedicados a este fin, previa la autorización correspondiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 364.
 
-Son obligaciones de los propietarios encargados:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Tener a la vista del público, la duración del funcionamiento en cada uno de los aparatos;
-
-II. Acreditar a satisfacción de la Autoridad Municipal, mediante el correspondiente peritaje técnico, el perfecto funcionamiento de los aparatos recreativos, así como constancia de que se les ha dado el mantenimiento adecuado; y
-
-III. Las demás que fije la Autoridad Municipal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XIII. De los Espectáculos de Boxeo y Lucha Libre Profesional
 
 ###### ARTICULO 365.
 
-Para que puedan celebrarse encuentros de box y de lucha profesional, se requiere la autorización expedida por la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 366.
 
-El Presidente Municipal dictará las medidas y disposiciones necesarias para el cumplimiento de la materia del presente capítulo y promoverá la unificación y cooperación de las diferentes asociaciones, federaciones y confederaciones de box y lucha profesionales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 367.
 
-La presidencia municipal contará con organismo asesor que se denominará Comisión de Box y Lucha Libre Profesional. Dicha Comisión será un cuerpo técnico dependiente de laaAutoridad (sic) municipal.
-
-La Comisión estará constituida por cinco miembros que serán designados por el Presidente Municipal; uno de los cuales tendrá el carácter de Presidente y los cuatro restantes de vocales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 368.
 
-Para ser miembro de la Comisión se requiere no tener nexo de ninguna especie con empresarios, promotores, representantes, boxeadores y luchadores, auxiliares o con cualquier persona relacionada directa o indirectamente con el box y la lucha libre profesionales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 369.
 
-Los programas de boxeo y lucha profesionales, para su autorización, deberá contar con el visto bueno de la comisión.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 370.
 
-En todo espectáculo de boxeo y lucha libre profesionales, la Comisión designará a uno de los miembros para que con el carácter de comisionado en turno lo presida.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 371.
 
-La Comisión vigilará que las empresas u organizaciones de box y lucha libre profesionales, les entreguen sus (sic) sueldo y porcentajes que les corresponda a los participantes, a más tardar el día siguiente de celebrarse los encuentros.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 372.
 
-La Comisión para el mejor desempeño de sus funciones formulará su reglamento interior y los instructivos que tengan los aspectos técnicos y deportivos, los cuales serán sometidos para su aprobación al Presidente Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 373.
 
-En dichos ordenamientos internos se fijarán con toda claridad la forma en que se desarrollen los encuentros, sus limitaciones y faltas, procedimientos de puntuación para calificar el resultado de los encuentros y todas aquellas actividades vinculadas con luchadores y boxeadores, manejadores, auxiliares, jueces, empresarios y oficiales de la Comisión.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 374.
 
-El empresario será responsable de cualquier alteración al programa anunciado, siendo el comisionado en turno el encargado de hacer cumplir dicho programa.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 375.
 
-Las personas físicas o morales que obtengan licencia o autorización, están obligados a respetar los reglamentos internos de la Comisión y a dar cumplimiento a las recomendaciones que se deriven de los instructivos que se expidan.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 376.
 
-Los interesados en la celebración de un espectáculo de box y de lucha libre deberán presentar solicitud por escrito a la presidencia municipal con los siguientes datos y documentos:
-
-I. Número de la licencia de funcionamiento y ubicación del local donde se pretenda realizar el espectáculo, así como el nombre de las personas autorizadas;
-
-II. Constancia de la Comisión de boxeo y lucha libre profesionales, aprobado el programa del espectáculo que pretenda realizarse;
-
-III. Fecha o fechas de los encuentros;
-
-IV. Aforo del local y precios que se pretendan cobrar; y
-
-V. Las demás que fije la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 377.
 
-Los programas de box y lucha libre profesionales, deberán ser presentados ante la Comisión para su aprobación, con 10 días de anticipación a la fecha en que se vaya a presentar el espectáculo, adjuntando la documentación necesaria y llenando los requisitos que fijen el Reglamento Interior de la Comisión y reglamentos que expida.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 378.
 
-Presentada la solicitud, la autoridad municipal verificará los requisitos reglamentarios y ordenará las inspecciones y medidas que juzgue convenientes. Integrado el expediente, la propia autoridad municipal, dictará la resolución que proceda y la notificará al interesado en un término no mayor de tres días hábiles.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 379.
 
-Las empresas están obligadas a anunciar por los medios de difusión las alteraciones del programa y hacer devolución del importe de los boletos que se hubieren adquirido con anterioridad, en caso de que el espectador así lo solicite.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 380.
 
-En caso de suspensión de un espectáculo de boxeo y lucha libre autorizado, la empresa no podrá disponer del importe de las entradas, hasta que la autoridad municipal resuelva lo que sea procedente, en el entendido de que la resolución deberá dictarla dentro de las 48 horas siguientes a la suspensión del espectáculo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 381.
 
-En todo local destinado a presentar funciones de box y lucha libre profesionales, las empresas están obligadas a contar con local destinado a la prestación de servicios médicos, el cual deberá tener todos los elementos necesarios para una pronta y eficiente atención a quienes así lo ameriten.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 382.
 
-Las empresas deberán proporcionar a los boxeadores o luchadores, vestidores amplios y bien acondicionados con baños de agua fría y caliente y servicios sanitarios.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 383.
 
-En todas las funciones de boxeo y lucha libre profesionales, la autoridad municipal designará a un inspector, autoridad que actuará como auxiliar del comisionado en turno, que hará cumplir las decisiones y acuerdos que éste dicte.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 384.
 
-El inspector autoridad vigilará que el público que asista a los espectáculos no altere el orden público, cruce apuestas, ataque o insulte a los contendientes o comisionados y consignará a la autoridad competente a quienes infrinjan estas disposiciones. Asimismo cuidará que la policía que se encuentre en servicio en el local, de cumplimiento a las disposiciones del comisionado en turno.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XIV. De los Cabarets, Salones de Baile, Centros Nocturnos y Otros de Diversión
 
 ###### ARTICULO 385.
 
-Para los efectos del presente capítulo, se entiende por cabaret, el centro nocturno que presenta espectáculo o variedad, contando con orquesta y conjunto musical, pista de baile, servicio de restaurante y bar.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 386.
 
-Se entiende por salón de baile, el centro de diversión con pista, orquesta o conjunto musical destinado exclusivamente para que el público pueda bailar mediante el pago de una cuota.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 387.
 
-Se entiende por salón de fiestas, el centro de diversión que cuente con pista para bailar, que proporcione orquesta o conjunto musical, servicio de restaurante y de bebidas alcohólicas y esté destinado para que el público mediante contrato, celebrándose en ese lugar actos sociales, culturales o reuniones de convenciones y similares.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 388.
 
-Se entiende por salón discoteca, el centro de diversión que cuenta con pista para bailar y ofrece música viva o grabada, servicio de restaurante y en donde la admisión del público es mediante el pago de una cuota.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 389.
 
-Se entiende por peña, el establecimiento que proporcione servicio de restaurante con venta de vinos de mesa o cerveza y en el que se ejecute música folklórica por conjunto o solistas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 390.
 
-Los propietarios o encargados de los cabarets, salones de fiestas, discotecas, centros nocturnos y peñas están obligados a:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Prestar los servicios programados de acuerdo con la licencia de funcionamiento;
-
-II. Proporcionar a los clientes lista de precios autorizados de las bebidas o alimentos (sic) respetar los horarios autorizados por la licencia de funcionamiento; y
-
-III. Las demás que fija este reglamento y disposiciones municipales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XV. De las Salas Públicas de Cine
 
 ###### ARTICULO 391.
 
-Para el funcionamiento de las salas públicas de cine se solicitará autorización a la autoridad municipal.
-
-En el escrito se expresará, además de los datos que se mencionan en el primer capítulo de este código, el número de asientos, localidades y salidas de emergencia con lo que cuente.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 392.
 
-La empresa deberá remitir a la Presidencia el programa de las proyecciones que vaya a realizar con la indicación de los honorarios, precio del boleto de acceso, así como la fecha, número y término de las autorizaciones que para las proyecciones públicas haya concedido la Secretaría General de Gobierno Municipal. Las modificaciones al programa deberán ser comunicadas de la misma forma a la Presidencia Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 393.
 
-El acceso a las salas de proyección de las personas, según sus edades, será de acuerdo a la clasificación de las películas y avances que se proyecten.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 394.
 
-Los avances que sirvan para anunciar películas autorizadas únicamente para adultos, no serán proyectadas en la pantalla en funciones para niños y adolescentes bajo ninguna circunstancia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 APARTADO SEPTIMO
 
@@ -8078,3 +7834,23 @@ Se instruye a los titulares de la Secretaría de Finanzas y de la Secretaría de
 ###### ARTÍCULO CUARTO.
 
 Se instruye a la Secretaría del Ayuntamiento notificar el presente acuerdo a los titulares de la Secretaría de Administración, Secretaría de Desarrollo Económico, Planeación Urbana y Ecología y Secretaría de Finanzas del Municipio de Querétaro.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial de Gobierno del Estado “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento entrará en vigor al día siguiente de la última publicación en los medios de difusión precisados en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Apartado Sexto del Libro Segundo del Código Municipal de Querétaro, así como todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente a los titulares de las Secretarías General de Gobierno, de Seguridad Pública Municipal, de Desarrollo Sostenible, de Finanzas y de Gestión Delegacional.
