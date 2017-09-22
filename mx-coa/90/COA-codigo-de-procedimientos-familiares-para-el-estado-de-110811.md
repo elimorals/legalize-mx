@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-familiares-para-el-estado-de-110811"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-15"
-last_updated: "2016-12-13"
+last_updated: "2017-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 477 PUBLICADO EN EL P.O. 10 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EN EL DISTRITO JUDICIAL QUE DETERMINE EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, CONFORME AL ACUERDO QUE EMITA PARA TALES EFECTOS]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -465,6 +465,12 @@ VI. Al terminar las audiencias, se levantará acta que deberá contener, cuando 
 
 VII. Cuando las partes lleguen a un convenio en las audiencias, deberán consignarse en el acta en su integridad y exactitud los términos del acuerdo logrado.
 
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. EL JUEZ TENDRÁ FE PÚBLICA, POR LO CUAL PODRÁ PRESCINDIR DE LA ASISTENCIA DEL SECRETARIO CUANDO ASÍ LO CONSIDERE, SIN PERJUICIO DE LAS ATRIBUCIONES CONFERIDAS A ÉSTE ÚLTIMO.
+
 ###### Artículo 47.
 
 Obligación de las partes de comparecer a las audiencias
@@ -621,17 +627,27 @@ III. Contradicción. Cada parte tiene derecho a oponerse y ser escuchada ante la
 
 IV. Continuidad y concentración. La autoridad judicial debe buscar resolver la controversia planteada en el menor tiempo y número de actos procesales.
 
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### Artículo 65.
 
 Materia del juicio oral
 
-Se tramitarán en juicio oral todos los asuntos en materia familiar que no tengan prevista una regulación especial en este código.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+Se tramitarán en juicio oral, además de los señalados en el artículo 89 de este código, los juicios que tengan por objeto los alimentos, así como todos aquellos asuntos en materia familiar que no tengan prevista una regulación especial en este código.
 
 ###### Artículo 66.
 
 Incidentes
 
 Salvo que tengan tramitación especial, los incidentes sólo podrán promoverse de forma oral en las audiencias y no suspenderán éstas. La parte contraria contestará de la misma forma; de no hacerlo, se tendrá precluido su derecho.
+
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+SE EXCEPTÚAN DE LO ANTERIOR, LOS INCIDENTES DE EJECUCIÓN DE SENTENCIA.
 
 Cuando la o el juez estime que se trata de cuestión urgente, podrá recibir por escrito la petición y determinar el trámite subsecuente.
 
@@ -1201,7 +1217,11 @@ Procedimiento para resolver las diferencias familiares
 
 Recibida la solicitud, la o el juzgador citará a los interesados a una audiencia que se celebrará dentro de los cinco días siguientes en la que los oirá y ante todo procurará avenirlos.
 
-Si lo consiguiere, dará por concluido el procedimiento, sin necesidad de levantar acta. En caso contrario, recibirá las pruebas que se ofrezcan, pudiendo, además, ordenar las que estime oportunas.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+SI LO CONSIGUIERE, DARÁ POR CONCLUIDO EL PROCEDIMIENTO, DEBIENDO LEVANTAR ACTA CIRCUNSTANCIADA PARA SU DEBIDA EJECUCIÓN. EN CASO CONTRARIO, PROCEDERÁ A LA DEPURACIÓN, FIJACIÓN DE LITIS, ADMISIÓN, DESAHOGO DE PRUEBAS Y CITACIÓN PARA SENTENCIA DEFINITIVA.
 
 El fallo que dicte será apelable en el efecto devolutivo y se ejecutará sin necesidad de caución.
 
@@ -1359,9 +1379,17 @@ El divorcio siempre tendrá lugar con intervención judicial, salvo el caso prev
 
 Legitimación activa para solicitar el divorcio
 
-La solicitud de divorcio podrá ser formulada por uno o ambos cónyuges, la que deberá ser suscrita por el que la promueva; además, estampará la huella digital del pulgar derecho junto a su firma.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La solicitud deberá ser ratificada en la presencia judicial antes de su admisión.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+LA SOLICITUD DE DIVORCIO PODRÁ SER FORMULADA POR UNO O AMBOS CÓNYUGES, MISMA QUE DEBERÁ SER SUSCRITA POR EL QUE LA PROMUEVA.
+
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+LA SOLICITUD DEBERÁ SER RATIFICADA ANTE LA PRESENCIA DE LA AUTORIDAD JUDICIAL DE MANERA PREVIA A SU EMPLAZAMIENTO.
 
 ###### Artículo 154.
 
@@ -1475,11 +1503,15 @@ Continuación del procedimiento conforme a las reglas del juicio oral
 
 Sin perjuicio de decretar el divorcio y desahogadas las vistas que se hayan mandado dar, en su caso respecto de las dilatorias opuestas, o transcurrido el término para ello, la o el juez determinará lo conducente en los términos del artículo 69 de este ordenamiento.
 
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### Artículo 165.
 
 Desistimiento de la solicitud de divorcio
 
-El cónyuge que haya solicitado el divorcio, antes que se pronuncie la resolución que decrete la disolución matrimonial, podrá desistirse de su solicitud sin necesidad del consentimiento de quien no lo pidió.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+El cónyuge que haya solicitado el divorcio podrá desistirse de su pretensión hasta antes de que se pronuncie la resolución que decrete la disolución matrimonial. En este supuesto, se aplicarán las reglas del artículo 288 del Código Procesal Civil.
 
 ###### Artículo 166.
 
@@ -2494,6 +2526,18 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO PRIMERO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 932.- SE REFORMAN EL PENÚLTIMO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 380, EL ARTÍCULO 388 Y LOS INCISOS A Y C DEL ARTÍCULO 439, TODOS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
