@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-para-el-estado-de-coahuila-de-zaragoza-para-120
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-23"
-last_updated: "2016-12-23"
+last_updated: "2017-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Número 103 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de diciembre de 2016.
 
@@ -211,9 +211,11 @@ Se consideran insolventes los deudores o los responsables solidarios cuando no t
 
 Se autoriza a la Secretaría de Finanzas para compensar todo tipo de adeudos, incluyendo sus accesorios que tenga con la Federación, relacionado con las aportaciones y participaciones federales.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-Los ingresos previstos en esta Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en el Decreto No. 642 a que se refieren los artículos 6 y 7 de la presente Ley de Ingresos para el ejercicio fiscal 2017.
+Los ingresos previstos en esta Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en el Decreto por el que se autoriza al Estado de Coahuila de Zaragoza a refinanciar y/o reestructurar la Deuda Pública Estatal a su cargo que se indica, y a celebrar las demás operaciones financieras y actos jurídicos que se señalan, aprobado por el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
 T R A N S I T O R I O S
 
@@ -272,3 +274,33 @@ VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 [N. DE E. VÉASE ANEXO 1, DE INGRESOS ARMONIZADO EN EL P.O. DE 23 DE DICIEMBRE DE 2016, PÁGINAS DE LA 30 A LA 31.
 
 [N. DE E. VÉASE ANEXO 2, DE INGRESOS A DETALLE EN EL P.O. DE 23 DE DICIEMBRE DE 2016, PÁGINAS DE LA 32 A LA 33.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 959.- SE MODIFICA EL ARTÍCULO 12 DE LA LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2017; SE MODIFICA EL ARTÍCULO 24 DEL PRESUPUESTO DE EGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2017".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación del artículo 17 del Presupuesto de Egresos del Estado para el Ejercicio fiscal 2017 se exceptúa para el caso específico de los recursos que obtenga el Estado con motivo de la implementación de los actos autorizados en el "Decreto por el que se autoriza al Estado de Coahuila de Zaragoza a refinanciar y/o reestructurar la Deuda Pública Estatal a su cargo que se indica, y a celebrar las demás operaciones financieras y actos jurídicos que se señalan."
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En la cuenta pública correspondiente al ejercicio fiscal 2017, el Titular del Poder Ejecutivo informará al Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, los montos, conceptos y partidas objeto de modificación en el Presupuesto de Egresos del Estado.
+
+###### ARTÍCULO QUINTO.
+
+De conformidad con lo dispuesto en el segundo párrafo del artículo 24 de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, los ingresos y erogaciones que se deriven de las autorizaciones establecidas en el "Decreto por el que se autoriza al Estado de Coahuila de Zaragoza a refinanciar y/o reestructurar la Deuda Pública Estatal a su cargo que se indica, y a celebrar las demás operaciones financieras y actos jurídicos que se señalan", aprobado por el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, que no sean ejercidos durante el ejercicio fiscal 2017 o que se deriven de la contratación de financiamientos y/o colocación de instrumentos de deuda en el mercado de valores nacional que se celebren al amparo de dicho Decreto en el ejercicio fiscal posterior al ejercicio fiscal 2017, deberán ser incluidos en las leyes de ingresos y presupuestos de egresos de los posteriores ejercicios fiscales en los que se ejerzan dichos recursos o se celebren los financiamientos y/o colocaciones de deuda, según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
