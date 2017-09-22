@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2017-09-21"
+last_updated: "2017-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1269,9 +1269,11 @@ II.- De ser confirmado el proyecto original, por las dos terceras partes de los 
 
 III.- Si la Legislatura aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por el Ejecutivo, se le devolverápara (sic) los efectos de la fracción anterior.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 72.
 
-El Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Gran Jurado o Colegio Electoral, las referentes a la responsabilidad de los funcionarios por delitos oficiales, ni al decreto de convocatoria a sesiones extraordinarias expedido por la Diputación Permanente.
+El Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al decreto de convocatoria a sesiones extraordinarias expedido por la Diputación Permanente.
 
 ###### ARTICULO 73.
 
@@ -1343,7 +1345,7 @@ XV.- Determinar las características y el uso del escudo estatal.
 
 XVI.- Solicitar la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
 
-XVII.- Erigirse en Gran Jurado para calificar las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones.
+XVII.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -3827,9 +3829,7 @@ La Auditoría Superior del Estado y la Secretaría del Ejecutivo Estatal respons
 
 VI. La Ley Orgánica Municipal determinará, en los términos del primer párrafo de este artículo y para efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Ayuntamientos.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
-
-VII. En los juicios de orden civil no existe fuero ni inmunidad de ningún servidor público.
+VII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3907,17 +3907,13 @@ e) La elaboración de un informe anual que contenga los avances y resultados del
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades estatales y municipales, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
-
 ###### ARTICULO 162.
 
-El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por los delitos de traición a la patria y delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 163.
 
-Siempre que se trate de alguno de los servidores públicos especificados en la fracción XVII, del artículo 75, y el delito fuere de orden común, la Legislatura, erigida en Gran Jurado, declarará si ha lugar o no a proceder contra el acusado. En caso afirmativo, por esa sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
@@ -5252,3 +5248,11 @@ En el caso de los años 2018 y 2019, el monto se determinará con base en las di
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
 
 QUINTO. Lo dispuesto en el artículo 49 fracción III párrafo segundo de la Constitución Política del Estado Libre y Soberano de Quintana Roo, respecto a la figura de las candidaturas comunes, será aplicable a partir del proceso electoral a efectuarse en el año 2019.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 004 POR EL QUE SE REFORMA EL ARTÍCULO 72 Y SE DEROGAN LA FRACCIÓN XVII DEL ARTÍCULO 75, LA FRACCIÓN VII DEL ARTÍCULO 160, EL ARTÍCULO 162 Y EL ARTÍCULO 163, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
