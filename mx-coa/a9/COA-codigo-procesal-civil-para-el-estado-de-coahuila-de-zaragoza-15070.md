@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2017-03-17"
+last_updated: "2017-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -2165,7 +2165,9 @@ Además del emplazamiento, deberán hacerse personalmente las siguientes notific
 
 I. La primera resolución que se dicte en el procedimiento.
 
-II. El auto que ordena la absolución de posiciones, la declaración de parte, o el reconocimiento de documentos.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA DEROGACIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 III. La primera resolución que se dicte cuando:
 
@@ -2957,6 +2959,12 @@ III. Cada parte podrá desistir libremente de actos procesales determinados que 
 
 IV. El desistimiento de la acción extinguirá tanto el proceso como la pretensión intentada, la cual no podrá ser ejercida en ningún proceso ni en alguna oportunidad procesal posterior; no requerirá el consentimiento del demandado, pero si se formula después de que se haya hecho el emplazamiento, obligará a quien lo hace a pagar las costas procesales, salvo convenio en contrario. El desistimiento de la acción sólo procederá cuando los derechos materiales controvertidos sean renunciables y siempre que no se afecten derechos de terceros.
 
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+V. EN LOS SUPUESTOS DE LAS FRACCIONES I, II Y IV, QUIEN FORMULE EL DESISTIMIENTO DEBERÁ RATIFICARLO ANTE LA AUTORIDAD JUDICIAL QUE CONOZCA DEL ASUNTO O FEDATARIO PÚBLICO. FUERA DE DICHOS SUPUESTOS, LA RATIFICACIÓN QUEDARÁ AL ARBITRIO DEL JUEZ.
+
 ### CAPÍTULO SEGUNDO. De la excepción
 
 ###### ARTÍCULO 289.
@@ -3183,7 +3191,11 @@ b) Las costas serán a cargo del actor, salvo convenio en contrario. En este cas
 
 II. Por caducidad de la instancia. En este caso se aplicarán las reglas siguiente (sic):
 
-a) La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del proceso, desde el emplazamiento hasta la citación para sentencia, si transcurridos ciento veinte días hábiles contados a partir de que haya surtido efectos la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes que tienda a impulsar el procedimiento.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO A), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+A) LA CADUCIDAD DE LA INSTANCIA OPERARÁ DE PLENO DERECHO CUALQUIERA QUE SEA EL ESTADO DEL PROCESO, DESDE EL PRIMER AUTO QUE SE DICTE EN EL JUICIO HASTA LA CITACIÓN PARA SENTENCIA, SI TRANSCURRIDOS CIENTO VEINTE DÍAS HÁBILES CONTADOS A PARTIR DE QUE HAYA SURTIDO EFECTOS LA NOTIFICACIÓN DE LA ÚLTIMA DETERMINACIÓN JUDICIAL, NO HUBIERE PROMOCIÓN DE CUALQUIERA DE LAS PARTES QUE TIENDA A IMPULSAR EL PROCEDIMIENTO.
 
 b) La caducidad de la instancia es de orden público e irrenunciable, por lo que no podrá ser materia de convenio entre las partes. El juzgador la declarará, de oficio o a petición de cualquiera de las partes, cuando concurran las circunstancias a que se refiere el presente artículo. Antes de decretar la caducidad el secretario de acuerdos levantará en el expediente la certificación correspondiente haciendo constar el transcurso del tiempo, sin promoción de las partes que impulse el procedimiento, dando cuenta de ello a la autoridad judicial que conozca el procedimiento, quién deberá dar vista a las partes por el plazo de tres días, con el objeto de que expongan lo que a su derecho convenga; transcurrido dicho plazo, dictará la resolución que corresponda.
 
@@ -3191,7 +3203,11 @@ c) Sólo procederá por falta de promoción de las partes dirigida a impulsar el
 
 d) La caducidad de la primera instancia hará ineficaces las actuaciones del juicio y las cosas deberán volver al estado que tenían antes de la presentación de la demanda, levantándose los embargos provisionales y cautelares. Se exceptúan de la ineficacia mencionada las resoluciones firmes sobre competencia, litispendencia, cosa juzgada, personalidad y capacidad de los litigantes, que regirán en cualquier otro proceso. Las pruebas rendidas en el proceso extinguido por caducidad podrán ser invocadas en el nuevo, si se promoviere, siempre que se ofrezcan y precisen en la forma legal.
 
-e) La caducidad de los incidentes se causará por el transcurso de treinta días hábiles, contados a partir de que haya surtido efectos la notificación de la última determinación judicial, sin promoción; la declaración respectiva sólo afectará a las actuaciones del incidente sin abarcar las de la instancia principal, aunque haya quedado en suspenso ésta por la substanciación del incidente.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO E), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+E) LA CADUCIDAD DE LOS INCIDENTES Y DE LOS RECURSOS INTERPUESTOS ANTE EL PROPIO JUEZ DE PRIMERA INSTANCIA, SE CAUSARÁ POR EL TRANSCURSO DE TREINTA DÍAS HÁBILES, CONTADOS A PARTIR DE QUE HAYA SURTIDO EFECTOS LA NOTIFICACIÓN DE LA ÚLTIMA DETERMINACIÓN JUDICIAL, SIN PROMOCIÓN; LA DECLARACIÓN RESPECTIVA SÓLO AFECTARÁ A LAS ACTUACIONES DEL INCIDENTE Y DEL RECURSO SIN ABARCAR LAS DE LA INSTANCIA PRINCIPAL, AUNQUE HAYA QUEDADO EN SUSPENSO ÉSTA POR LA SUBSTANCIACIÓN DEL INCIDENTE O DEL RECURSO.
 
 f) La caducidad de la segunda instancia o de los recursos de que conozcan los Tribunales Unitarios, las Salas o el Pleno del Tribunal Superior de Justicia, operará por el transcurso de sesenta días hábiles, contados a partir de que haya surtido efectos la notificación de la última resolución, sin promoción, y dejará firme la resolución impugnada. Así lo declarará el tribunal de alzada.
 
@@ -3201,7 +3217,11 @@ h) La suspensión del procedimiento producirá la interrupción del plazo de la 
 
 i) Contra la resolución de caducidad se dará sólo el recurso de reconsideración en los procedimientos que no admitan apelación. En los procedimientos que admiten la apelación, ésta se substanciará en el efecto suspensivo.
 
-j) Las costas serán a cargo del actor, cuando se decrete la caducidad de la primera instancia, o de la parte que haya promovido el incidente o interpuesto el recurso, cuando se decrete la caducidad de un incidente o de la segunda instancia, respectivamente.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO J), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+J) LAS COSTAS SERÁN A CARGO DEL ACTOR, CUANDO SE DECRETE LA CADUCIDAD DE LA PRIMERA INSTANCIA, O DE LA PARTE QUE HAYA PROMOVIDO EL INCIDENTE O INTERPUESTO EL RECURSO ESCRITO, CUANDO SE DECRETE LA CADUCIDAD DE UN INCIDENTE, DE UN RECURSO A RESOLVER EN LA PRIMERA INSTANCIA O DE LA SEGUNDA INSTANCIA, RESPECTIVAMENTE.
 
 ###### ARTÍCULO 312.
 
@@ -4067,7 +4087,11 @@ IV. Interrumpir la prescripción, si no lo está por otros medios.
 
 Emplazamiento al demandado.
 
-El emplazamiento se hará a la persona o personas contra quienes se entable la demanda, con los requisitos señalados en el artículo 208, corriéndoles traslado mediante la entrega de la copia de la demanda y demás documentos, otorgándoles el plazo de nueve días para que la contesten.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+EL EMPLAZAMIENTO SE HARÁ A LA PERSONA O PERSONAS CONTRA QUIENES SE ENTABLE LA DEMANDA, CON LOS REQUISITOS SEÑALADOS EN EL ARTÍCULO 208, CORRIÉNDOLES TRASLADO MEDIANTE LA ENTREGA DE LA COPIA DE LA DEMANDA Y DEMÁS DOCUMENTOS, OTORGÁNDOLES EL PLAZO DE NUEVE DÍAS PARA QUE LA CONTESTEN. EN CASO DE PLURALIDAD DE DEMANDADOS LOS PLAZOS SE COMPUTARÁN DE FORMA INDIVIDUAL.
 
 El plazo para contestar la demanda se aumentará cuando el demandado resida fuera del lugar del juicio, conforme a lo previsto en el artículo 195.
 
@@ -4787,7 +4811,11 @@ II. Cuando la citación para declarar sea distinta de la citación para absolver
 
 III. No procederá la confesión ficta en la prueba de declaración de parte.
 
-IV. Serán aplicables a esta prueba, en lo conducente, las reglas de la prueba testimonial.
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+IV. SERÁN APLICABLES A ESTA PRUEBA, EN LO CONDUCENTE, LAS REGLAS DE LA PRUEBA TESTIMONIAL PERO SIN QUE ELLO IMPLIQUE QUE LA DECLARACIÓN PUEDA HACERSE CON LA PRESENCIA DEL ABOGADO PATRONO O PROCURADOR DE LA PARTE LLAMADA A DECLARAR.
 
 ### CAPÍTULO SEXTO. Informe de las autoridades
 
@@ -8781,11 +8809,15 @@ II. Apelación.
 
 III. Queja.
 
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 850.
 
-Plazo para impugnar.
+Plazo para impugnar
 
-Los términos establecidos por la ley para hacer valer los recursos tendrán, en todo caso, el carácter de perentorios, y corren desde el día siguiente de que surta efectos la notificación de la resolución que se impugne, excepto los casos en que la ley disponga otra cosa.
+Los términos establecidos por la ley para hacer valer los recursos tendrán, en todo caso, el carácter de perentorios, y corren de forma individual a cada una de las partes desde el día siguiente al en que surta efectos la notificación de la resolución que se impugne, excepto los casos en que la ley disponga otra cosa.
 
 ###### ARTÍCULO 851.
 
@@ -13504,3 +13536,15 @@ P.O. 17 DE MARZO DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 932.- SE REFORMAN EL PENÚLTIMO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 380, EL ARTÍCULO 388 Y LOS INCISOS A Y C DEL ARTÍCULO 439, TODOS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
