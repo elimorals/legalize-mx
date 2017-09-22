@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-sistema-de-consejos-municipales-de-12672"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-25"
-last_updated: "2008-03-28"
+last_updated: "2017-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL
 
-REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2008.
+REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACIÓN SOCIAL DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de septiembre de 1998.
 
@@ -1156,3 +1158,29 @@ SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su public
 TERCERO. Las obras, acciones y servicios autorizados a través del Sistema de Consejos Municipales, con anterioridad al inicio de la vigencia del presente reglamento, continuarán rigiéndose conforme a las disposiciones legales que les dieron origen.
 
 CUARTO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a las presentes reformas.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SISTEMA DE CONSEJOS DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente acuerdo entrará en vigor el día siguiente a la fecha de la primera de las dos publicaciones mencionadas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la vigencia del presente Reglamento se iniciará el proceso para la instalación y renovación del Sistema, siendo por única ocasión que los nombramientos para ocupar algún cargo dentro de los órganos del Sistema, serán menores a tres años, esto a fin de ajustarse a lo dispuesto por los capítulos III y IV del presente Reglamento.
+
+Los órganos del Sistema que fueron conformados mediante el reglamento que se abroga continuaran funcionando mientras concluya el proceso de instalación y renovación a que hace referencia el párrafo anterior.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento del Sistema de Consejos Municipales de Participación Social del Municipio de Querétaro, publicado en la Gaceta Municipal No. 9, de fecha 15 de octubre de 1998 y en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga de fecha 25 de septiembre de 1998, y se derogan todas las disposiciones que se opongan al presente.
+
+###### ARTÍCULO QUINTO.
+
+Notifíquese el presente Acuerdo a los titulares de la Secretaría de Desarrollo Humano y Social y a la Auditoría Municipal de Fiscalización.
