@@ -4,7 +4,7 @@ identifier: "COA-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-103613
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2016-05-27"
+last_updated: "2017-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE RENDICION DE CUENTAS Y FISCALIZACION SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 11 de noviembre de 2014.
 
@@ -1926,3 +1928,21 @@ TERCERO.- Las cuentas públicas correspondientes al ejercicio 2016 y posteriores
 CUARTO.- El Informe Anual de Resultados correspondiente a la revisión de la cuenta pública 2015, se presentará en el plazo establecido en el artículo 62 de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza, que se modifica con el presente Decreto.
 
 QUINTO.- A partir de la entrada en vigor del presente Decreto, la Auditoría Superior del Estado podrá realizar las revisiones a que se refieren las reformas del párrafo segundo de la fracción I del artículo 2, 6 y 22 de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 960.- SE EXPIDE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 11 de noviembre de 2014 y sus respectivas reformas: asimismo, se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos administrativos y los asuntos que a la entrada en vigor de la presente ley se encuentren en trámite, continuarán su desarrollo conforme a la ley que se abroga.
+
+Sin perjuicio de lo anterior, la Auditoría Superior deberá presentar ante el Congreso el Informe Anual de Resultados de la revisión de la cuenta pública correspondiente al ejercicio fiscal 2016, en el plazo establecido en el artículo 49 del presente Decreto.
+
+Lo anterior a efecto de que la Auditoría Superior se encuentre en posibilidad de emitir un informe sobre la situación financiera al tercer trimestre de 2017 de los entes obligados a presentar cuenta pública, el cual deberá ser presentado ante el Congreso en el mes de diciembre de dicho año.
+
+CUARTO. El actual Auditor Superior del Estado continuará en funciones hasta la conclusión del periodo por el que fue nombrado por el Congreso, en términos de las disposiciones legales aplicables.
+
+QUINTO. La Auditoría Superior deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles, contados a partir de la vigencia de la presente ley.
