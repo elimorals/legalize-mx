@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2017-04-18"
+last_updated: "2017-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -137,13 +137,31 @@ ARTÍCULO 8 (PRINCIPIO DE CULPABILIDAD)
 
 No podrá aplicarse pena alguna, si la acción o la omisión no han sido realizadas culpablemente al concretar el tipo penal de que se trate, sin causa de licitud.
 
+(NOTA: EL 9 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 143/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE SEPTIEMBRE DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ARTÍCULO 9 (PRINCIPIO DE PROPORCIONALIDAD EN LA PRISIÓN PREVENTIVA OFICIOSA, LA INDIVIDUALIZACIÓN DE LA PENA Y MEDIDAS DE SEGURIDAD).
 
-(NOTA: EL 5 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2017, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE ABRIL DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 829 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
-Para que se imponga una medida cautelar de prisión preventiva oficiosa, se tomarán en consideración los argumentos que justifique el ministerio público. SOLO POR DELITO GRAVE HABRÁ LUGAR A LA PRISIÓN PREVENTIVA OFICIOSA.
+La prisión preventiva se ordenará oficiosamente en los supuestos previstos por el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y por lo dispuesto en este Código, en todos los casos cuando se trate de los delitos siguientes:
+
+I. Homicidio doloso, simple, o calificado, inclusive el cometido en riña con carácter de provocador, o bajo emoción violenta. Así como los delitos de feminicidio, parricidio, matricidio, filicidio, uxoricidio, fratricidio y otros homicidios por razón del parentesco o relación, previstos por los artículos 329, 335, 336 bis 1, 347, 350, 351 y 355.
+
+II. Violación, y la figura típica equiparada a la violación, comprendidos en los artículos 384, 386, 387, 388 y 388 bis.
+
+III. Abuso sexual impropio en el que se emplea violencia física, psicológica o moral, previsto en el artículo 398.
+
+IV. Corrupción de menores e incapaces tipificado en los artículos 300, 302 y 303.
+
+V. Pornografía infantil de menores e incapaces previsto en el artículo 301.
+
+VI. Lenocinio con menores o incapaces previsto por el artículo 308.
+
+VII. Los delitos de desaparición de persona previstos por los artículos 212 bis, 212 bis 1 y 212 bis 2.
+
+VIII. Se consideran delitos cometidos con armas aquellos en los que, para su comisión, el sujeto emplea para lesionar o intimidar alguna de las armas prohibidas comprendidas en el artículo 280 de este Código o en la Ley Federal de Armas de Fuego y Explosivos. De igual manera, en los casos en los que se utilice cualquier instrumento u objeto con apariencia, forma o configuración de un arma de fuego que, sin ser propiamente de este tipo, dispara proyectiles con la capacidad de causar una lesión al sujeto pasivo.
 
 (NOTA: EL 5 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE ABRIL DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 829 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -154,6 +172,20 @@ La medida de la pena de prisión que se imponga estará en relación con la grav
 La aplicación, duración y modalidades de la suspensión de derechos, solo se justificará en la medida que la conducta realizada por la que se condenó, merezca de manera proporcional la afectación de los derechos de que se trate.
 
 También se regirán por el principio de proporcionalidad y sus subprincipios, la aplicación y duración de las medidas de seguridad complementarias a los sustitutivos penales que se fijen con motivo de la condena condicional o de la privación o suspensión de derechos, así como cuando se cambien o modifiquen dichos sustitutivos, o bien se modifiquen, sustituyan, reduzcan o cancelen las medidas de seguridad durante el tiempo de la condena condicional, al igual que se regirán por aquel principio las demás penas y sanciones que se impongan por el delito cometido, o por responsabilidad de personas morales, según sea el caso.
+
+(NOTA: EL 9 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 143/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE SEPTIEMBRE DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 9 BIS. (INDICADORES DE RIESGO PARA LA IMPOSICIÓN DE LA MEDIDA DE PRISIÓN PREVENTIVA).
+
+En los demás casos en que se solicite la prisión preventiva, se tomarán en consideración los argumentos que justifique el ministerio público conforme a las reglas que prevé el Código Nacional de Procedimientos Penales. Además como indicadores de riesgo de sustracción del imputado o del desarrollo de la investigación, o bien, como factores de riesgo para las víctimas, testigos o la comunidad, el juzgador considerará:
+
+I. Que el imputado se encuentre sujeto a investigación por otro delito que amerite prisión preventiva oficiosa, o bien por delito doloso cometido en contra de la misma persona, o cuando se trate del cónyuge, concubina o concubino, conviviente, ascendientes o descendientes de la víctima directa;
+
+II. En el supuesto de que el delito se encuentre excluido del beneficio de condena condicional, y
+
+III. La reiteración de actos dolosos de violencia física o moral en contra de la víctima, del cónyuge, concubina o concubinario, conviviente, ascendientes o descendientes, o que el delito se haya cometido en situaciones de violencia familiar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2997,6 +3029,30 @@ Aunque se trate de delitos perseguibles de oficio, la acción penal se extinguir
 
 Los legitimados para manifestar que se dan por reparados del daño, extender el perdón o para intervenir en suspensión condicional de la acción penal o del proceso, también podrán hacerlo satisfaciendo los requisitos previstos en el apartado B del artículo 169 de este código.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+ARTÍCULO 170 BIS. (REQUISITOS PARA LA EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN, REPARACIÓN DEL DAÑO O ACTO EQUIVALENTE).
+
+Para los efectos del artículo anterior se requerirá además que se actualicen las siguientes condiciones:
+
+I. Que no se trate de delitos que ameriten prisión preventiva oficiosa;
+
+II. Que el término medio aritmético de la pena de prisión que tiene señalada no exceda de cinco años, y
+
+III. Que el imputado no se encuentre dentro de los casos de reiteración delictiva o se haya beneficiado anteriormente con la misma causa de extinción de la acción penal.
+
+Asimismo, procederá la extinción de la acción penal por acto equivalente cuando, tratándose de los delitos mencionados en las fracciones I y II del párrafo anterior, se reúnen las condiciones siguientes:
+
+I. Se trate de delitos perseguibles de oficio;
+
+II. No exista víctima u ofendido determinado;
+
+III. No exista daño ocasionado, y
+
+IV. Que por las condiciones personales del imputado y circunstancias del caso no exista riesgo para la comunidad.
+
+Además de lo anterior, el imputado deberá exhibir la multa que determine la autoridad judicial o ministerial, tomando en cuenta los límites punibles que para dicha sanción establezca el tipo penal de que se trate.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -4793,11 +4849,13 @@ SANCIONES Y FIGURA TÍPICA DE USO DE DOCUMENTOS FALSOS. Se aplicará prisión de
 
 DELITOS CONTRA LA SEGURIDAD DE LAS PERSONAS.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 932 PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2017, SE SUPRIMEN LOS CAPÍTULOS SEGUNDO Y TERCERO CONSERVANDO ÚNICAMENTE SU ARTÍCULADO.]</small>
 
-### CAPÍTULO PRIMERO
+> <small>(REFORMADA SU NUMERACIÓN Y SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
-DELITOS CONTRA EL DESARROLLO DE LA PERSONALIDAD.
+### CAPÍTULO ÚNICO
+
+DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
 ###### ARTÍCULO 298.
 
@@ -4813,19 +4871,29 @@ SANCIONES Y FIGURA TÍPICA DE EXHIBICIONISMO OBSCENO. Se aplicará prisión de t
 
 Si a quien se le hace ejecutar los actos es un menor de dieciocho años de edad: Al sujeto activo se le aplicará prisión de cuatro a diez años y multa. Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 300.
 
-SANCIÓN Y FIGURAS TÍPICAS DE CORRUPCION DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años de prisión y multa al que obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de una persona que no tuviere capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión, o de poder resistirlo por cualquier otra circunstancia personal; valiéndose de acciones u omisiones tendientes a que concluyan en la realización de actos de degradación sexual, conductas depravadas, prácticas de prostitución, mendicidad, consumo irracional y reiterado de bebidas embriagantes, o la práctica de algún otro vicio; o lo incite, instigue o persuada a formar parte de una asociación delictuosa, conspiración criminal, banda o pandilla.
+SANCIÓN Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años de prisión y multa al que obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de una persona que no tuviere capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión, o de poder resistirlo por cualquier otra circunstancia personal; valiéndose de acciones u omisiones tendientes a que concluyan en la realización de actos de degradación sexual, conductas depravadas, prácticas de prostitución, mendicidad, consumo irracional y reiterado de bebidas embriagantes, o la práctica de algún otro vicio; o lo obligue, incite, instigue o persuada a intervenir en la comisión de cualquier delito doloso o a formar parte de una asociación delictuosa, conspiración criminal, banda o pandilla.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
 
 Se aplicará prisión de cuatro a ocho años y multa a quien comercie, distribuya, haga circular, oferte, difunda o facilite a las personas señaladas en el párrafo anterior, fotografías, audiograbaciones, filmes, anuncios impresos o imágenes de exhibicionismo corporal o de carácter sexual, reales o simulados, sea de manera física, digital o a través de cualquier medio.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+Se le impondrán de seis a doce años de prisión y multa, a quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la intervención en la realización de cualquier delito previsto en la Ley General de Salud o el consumo de narcóticos o de sustancias tóxicas, por parte de un menor de edad o de quien no tuviere la capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión o de poder resistirlo por cualquier otra circunstancia personal.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de un menor de edad o de quien no tuviere la capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión o de poder resistirlo por cualquier otra circunstancia personal, se le aplicará de seis a doce años de prisión y multa.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 Si el corruptor es ascendiente del menor o del incapaz, o al ejecutar los actos ejercía cualquier forma de autoridad sobre ellos; la sanción que señala este artículo se incrementará en un tercio más del mínimo y máximo; además, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza, así como de todos los derechos que le correspondan sobre los bienes del ofendido.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 No se entenderá por corrupción de menores o incapaces los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual o embarazo de adolescentes.
 
@@ -4923,9 +4991,7 @@ PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará pr
 
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LAS LEYES DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
 
 ###### ARTÍCULO 309.
 
@@ -4941,7 +5007,9 @@ DELITOS CONTRA LA FAMILIA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPÍTULO TERCERO. LENOCINIO Y TRATA DE PERSONAS
+### CAPÍTULO PRIMERO. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 310.
 
@@ -4979,7 +5047,9 @@ SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA FAMILIAR, PROPIO O EQ
 
 SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO, CON RELACIÓN A OTRO QUE SE COMETA. Si además de los delitos que prevé este capítulo, resulta cometido otro con motivo de la violencia familiar, se aplicarán las reglas del concurso.
 
-### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
+### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 314.
 
@@ -5009,9 +5079,7 @@ QUERELLA PARA PERSEGUIR LOS DELITOS DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSIC
 
 ARTÍCULO 317 BIS. FRAUDE FAMILIAR. Se aplicará prisión de uno a cuatro años y multa, al cónyuge, concubino o compañero civil que sin causa justificada y en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, el concubinato o pacto civil de solidaridad, oculte, transfiera o adquiera a nombre de terceros bienes.
 
-### CAPÍTULO PRIMERO. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ###### ARTÍCULO 318.
 
@@ -5033,9 +5101,9 @@ VI. USURPACIÓN DEL ESTADO CIVIL O LA FILIACIÓN DE OTRO. Usurpe el estado civil
 
 VII. NEGATIVA DEL DERECHO DE CONVIVENCIA ENTRE PADRES E HIJOS. A quien teniendo la custodia provisional o definitiva de un menor por decreto de autoridad competente y habiendo sido requerido por ésta para tal efecto, niegue o impida la convivencia de aquél con la persona que tiene reconocido ese derecho; o a ésta, si después de que lo ha ejercido, no reincorpora al menor al domicilio que habita con su custodio.
 
-### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
+### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 319.
 
@@ -5057,7 +5125,7 @@ Cuando en la comisión falte el consentimiento a que se refiere el primer párra
 
 Si se acredita que quien dio el consentimiento o quien recibió al menor lo hizo para incorporarlo al núcleo familiar de éste último y darle los beneficios propios de tal incorporación: La pena aplicable será de tres meses a un año de prisión y multa.
 
-### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
+### CAPÍTULO QUINTO. BIGAMIA Y MATRIMONIOS ILEGALES
 
 ###### ARTÍCULO 322.
 
@@ -5077,9 +5145,7 @@ CUESTIÓN PREJUDICIAL ESPECÍFICA QUE SUSPENDE LA PRESCRIPCIÓN DE LA ACCIÓN PE
 
 SANCIÓN ESPECÍFICA PARA LOS ENCARGADOS DE LAS OFICINAS DEL REGISTRO CIVIL. Se aplicará de uno a cinco años de prisión, multa e inhabilitación definitiva: A los funcionarios del registro civil que conociendo los impedimentos, autoricen el matrimonio en los términos de este capítulo.
 
-### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
+### CAPÍTULO SEXTO. INCESTO
 
 ###### ARTÍCULO 326.
 
@@ -5091,7 +5157,7 @@ Se aplicarán las últimas sanciones del párrafo anterior en caso de que la có
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
 
-### CAPÍTULO QUINTO. BIGAMIA Y MATRIMONIOS ILEGALES
+### CAPÍTULO SÉPTIMO. ADULTERIO
 
 ###### ARTÍCULO 327.
 
@@ -5107,7 +5173,7 @@ DELITOS CONTRA LAS PERSONAS
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
 
-### CAPÍTULO SEXTO. INCESTO
+### CAPÍTULO PRIMERO. HOMICIDIO
 
 ###### ARTÍCULO 329.
 
@@ -5169,7 +5235,7 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 
 Al servidor público que con motivo de sus funciones y atribuciones conozca del delito de feminicidio y por acción u omisión realice prácticas dilatorias en la procuración y administración de justicia se le impondrán de cinco a diez años de prisión, de quinientos a mil días multa e inhabilitación del cargo o comisión que desempeñe de cinco a diez años.
 
-### CAPÍTULO SÉPTIMO. ADULTERIO
+### CAPÍTULO SEGUNDO. LESIONES
 
 ###### ARTÍCULO 337.
 
@@ -5235,7 +5301,9 @@ Si la acción fuere realizada en su desempeño por un profesional de la salud, s
 
 Si la conducta descrita se realizara culposamente, las sanciones se reducirán a una tercera parte, salvo si se trata de la mujer embarazada, que no será penada por su imprudencia.
 
-### CAPÍTULO PRIMERO. HOMICIDIO
+### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 347.
 
@@ -5309,7 +5377,7 @@ OTRAS CIRCUNSTANCIAS DE AGRAVACIÓN EN LESIONES Y HOMICIDIO DOLOSO. El homicidio
 
 OTRAS SANCIONES PARA LOS DELITOS DE HOMICIDIO Y DE LESIONES SEGÚN LAS CIRCUNSTANCIAS. Además de las sanciones que señalan los dos capítulos anteriores se podrá prohibir al responsable, hasta por cinco años, ir a determinada demarcación geográfica o residir en ella.
 
-### CAPÍTULO SEGUNDO. LESIONES
+### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
 
 ###### ARTÍCULO 353.
 
@@ -5327,9 +5395,7 @@ SANCIONES Y FIGURA TÍPICA DE EUTANASIA. Se aplicará de tres meses a tres años
 
 ARTÍCULO 354 BIS. En los casos a que se refieren los artículos anteriores, la conducta no será punible cuando ocurra y haya sido realizada en términos de lo dispuesto por la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila.
 
-### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO QUINTO. PARRICIDIO, MATRICIDIO, FILICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN
 
 ###### ARTÍCULO 355.
 
@@ -5339,7 +5405,7 @@ SANCIONES Y FIGURAS TÍPICAS DE PARRICIDIO, MATRICIDIO, FILICIDIO, UXORICIDIO, F
 
 El tipo penal de la figura anterior admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus penalidades, en caso de que haya sido por razón de género se estará a lo señalado en el artículo 336 BIS 1 que establece el feminicidio, además se aplicarán las reglas del concurso.
 
-### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
+### CAPÍTULO SEXTO. INFANTICIDIO
 
 ###### ARTÍCULO 356.
 
@@ -5353,7 +5419,7 @@ III. CIRCUNSTANCIAS ESPECIALES. Cuando obre una o más circunstancias que racion
 
 Lo que se prevé en la fracción anterior se podrá apreciar desde que se ejercite la acción penal, sin perjuicio del grado de punibilidad que se determine en la sentencia de condena.
 
-### CAPÍTULO QUINTO. PARRICIDIO, MATRICIDIO, FILICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN
+### CAPÍTULO SÉPTIMO. ABORTO
 
 ###### ARTÍCULO 357.
 
@@ -5393,7 +5459,7 @@ III. PELIGRO DE MUERTE DE LA MUJER EMBARAZADA. Cuando de no provocarse el aborto
 
 IV. ALTERACIONES GENÉTICAS O CONGÉNITAS GRAVES. Cuando se practique con el consentimiento de la madre y a juicio de un médico exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado que nazca un ser con deficiencias físicas o mentales graves.
 
-### CAPÍTULO SEXTO. INFANTICIDIO
+### CAPÍTULO OCTAVO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
 ###### ARTÍCULO 362.
 
@@ -5435,7 +5501,7 @@ SANCIONES Y FIGURA TÍPICA DE DISPARO DE ARMA DE FUEGO. Se aplicará prisión de
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
-### CAPÍTULO SÉPTIMO. ABORTO
+### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
 
 ###### ARTÍCULO 368.
 
@@ -5459,7 +5525,11 @@ La pena máxima se reducirá a un tercio, cuando el autor o partícipe pongan es
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará prisión de seis meses a nueve años y multa, al particular que por cualquier medio constriña a una persona a prestarle trabajos o servicios personales sin la debida retribución; o celebre un contrato que ponga en condiciones de servidumbre a otro.
 
-### CAPÍTULO OCTAVO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
+### CAPÍTULO SEGUNDO. SECUESTRO
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 371.
 
@@ -5659,7 +5729,7 @@ ARTÍCULO 375 BIS. SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicar�
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
-### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
+### CAPÍTULO TERCERO. AMENAZAS
 
 ###### ARTÍCULO 376.
 
@@ -5667,11 +5737,7 @@ SANCIONES Y FIGURA TÍPICA DE AMENAZAS. Se aplicará prisión de un mes a un añ
 
 Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumentará en un tercio el mínimo y el máximo de las sanciones del párrafo anterior. Y se aplicará también hasta por tres años, la prohibición de ir al lugar donde reside el ofendido.
 
-### CAPÍTULO SEGUNDO. SECUESTRO
-
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 377.
 
@@ -5679,7 +5745,7 @@ SANCIONES Y FIGURA TÍPICA DE ALLANAMIENTO DE MORADA. Se aplicará prisión de u
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO TERCERO. AMENAZAS
+### CAPÍTULO QUINTO. ASALTO
 
 ###### ARTÍCULO 378.
 
@@ -5695,7 +5761,7 @@ PENALIDAD AGRAVADA A LOS CABECILLAS O JEFES. Se aplicará prisión de diez a vei
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
+### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR, A LOS DERECHOS DE PERSONALIDAD Y A LA DIGNIDAD E IGUALDAD DE LAS PERSONAS
 
 ###### ARTÍCULO 381.
 
@@ -5823,7 +5889,9 @@ BIS 4. SANCIÓN ADICIONAL A QUIENES CAUSEN LA ESTERILIDAD PROVOCADA. Además de 
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
-### CAPÍTULO QUINTO. ASALTO
+### CAPÍTULO PRIMERO. VIOLACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 384.
 
@@ -5889,7 +5957,9 @@ ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2016)</small>
 
-### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR, A LOS DERECHOS DE PERSONALIDAD Y A LA DIGNIDAD E IGUALDAD DE LAS PERSONAS
+### CAPITULO SEGUNDO. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 389.
 
@@ -5917,9 +5987,9 @@ Este supuesto se perseguirá de oficio solo en cuanto hace a personas menores de
 
 (DEROGADO, P.O. 31 DE MAYO DE 2016)
 
-### CAPÍTULO PRIMERO. VIOLACIÓN
+### CAPÍTULO TERCERO. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 394.
 
@@ -5939,7 +6009,7 @@ AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLAC
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
+### CAPÍTULO CUARTO. ABUSO SEXUAL
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
@@ -5969,18 +6039,6 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SE
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-### CAPÍTULO TERCERO. ESTUPRO
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-### CAPÍTULO CUARTO. ABUSO SEXUAL
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
-
-## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
@@ -5994,6 +6052,32 @@ Las sanciones se aumentarán en un tercio más si el sujeto activo puede causar 
 La misma sanción prevista en el párrafo anterior, se aplicará en el caso de que el sujeto activo fuere servidor público y utilizare los medios propios del cargo, además de la destitución e inhabilitación para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2016)</small>
+
+### CAPITULO SEXTO. HOSTIGAMIENTO SEXUAL
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+ARTÍCULO 400 BIS 1 (SIC). SANCIONES Y FIGURA TÍPICA DE HOSTIGAMIENTO SEXUAL. Se aplicará de dos a siete años de prisión y multa: A quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
+
+Las sanciones se aumentarán en un tercio más si el sujeto activo dado su posición de ejercicio de poder puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
+
+Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de dos a siete años.
+
+Este delito se perseguirá por querella.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
+
+> <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 400.
 
@@ -6079,21 +6163,11 @@ Se entiende que el narcótico está destinado para su estricto e inmediato consu
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO SEXTO. HOSTIGAMIENTO SEXUAL
+### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-ARTÍCULO 400 BIS 1 (SIC). SANCIONES Y FIGURA TÍPICA DE HOSTIGAMIENTO SEXUAL. Se aplicará de dos a siete años de prisión y multa: A quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
-
-Las sanciones se aumentarán en un tercio más si el sujeto activo dado su posición de ejercicio de poder puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
-
-Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de dos a siete años.
-
-Este delito se perseguirá por querella.
-
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
-
-> <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 406.
 
@@ -6127,11 +6201,7 @@ TRATAMIENTO Y REHABILITACIÓN A FARMACODEPENDIENTES. El Ministerio Público o la
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
-
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 410.
 
@@ -6237,11 +6307,7 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras pa
 
 SANCIONES Y FIGURA TÍPICA DE ROBO DE USO. Se aplicará una tercera parte de las sanciones mínima y máxima del robo simple: A quien se apodere de una cosa mueble ajena; sin consentimiento de la persona que legalmente pueda otorgarlo o del legítimo poseedor, con el sólo fin de usarla transitoriamente y no para disponer de ella como dueño.
 
-### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
-
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 418.
 
@@ -6251,7 +6317,9 @@ Si las conductas se ejecutan sobre tres o más cabezas de ganado menor, la sanci
 
 Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marcas de identificación del ganado, con ánimo de apropiárselo en forma indebida.
 
-### CAPÍTULO PRIMERO. ROBO
+### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 419.
 
@@ -6281,7 +6349,9 @@ Se procederá de igual forma, cuando el robo o abigeato se cometa por el suegro 
 
 Se procederá de oficio contra los demás autores o partícipes que intervengan.
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 421.
 
@@ -6311,9 +6381,7 @@ IV. ILEGÍTIMA POSESIÓN DE LA COSA RETENIDA. La ilegítima posesión de la cosa
 
 QUERELLA NECESARIA PARA LA PERSECUCIÓN DE ABUSO DE CONFIANZA. Los delitos que prevé este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+### CAPÍTULO QUINTO. FRAUDE
 
 ###### ARTÍCULO 424.
 
@@ -6363,9 +6431,7 @@ XII. ENGAÑO DE GARANTÍA. A quien para liberar a otro o a sí mismo del cumplim
 
 QUERELLA NECESARIA. Los delitos de este capítulo, con excepción del de fraccionamientos no autorizados, sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 428.
 
@@ -6383,7 +6449,9 @@ IV. OCULTACIÓN, RETENCIÓN O EMPLEO INDEBIDO DE VALORES. Oculte o retenga valor
 
 QUERELLA NECESARIA. El delito de administración fraudulenta sólo se perseguirá por querella del ofendido.
 
-### CAPÍTULO QUINTO. FRAUDE
+### CAPÍTULO SÉPTIMO. USURA
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 430.
 
@@ -6391,7 +6459,7 @@ PENALIDAD Y FIGURA TÍPICA DE USURA. Se aplicará de seis meses a ocho años y m
 
 El monto de la reparación del daño, será por lo menos igual a la desproporción del beneficio económico obtenido o de los intereses devengados en exceso, o de ambos, según el caso.
 
-### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO OCTAVO. DESPOJO
 
 ###### ARTÍCULO 431.
 
@@ -6417,9 +6485,9 @@ En estos supuestos, a los instigadores o a quienes dirijan materialmente la ejec
 
 QUERELLA NECESARIA PARA PERSEGUIR EL DESPOJO. Los delitos de este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO SÉPTIMO. USURA
+### CAPÍTULO NOVENO. DAÑOS
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 435.
 
@@ -6445,7 +6513,9 @@ ARTÍCULO 438 BIS. SANCIONES Y FIGURAS TÍPICAS DE GRAFITO. Se aplicará prisió
 
 Se aplicará prisión de un mes a seis años y multa: A quien realice cualquiera de las conductas a que se refiere el párrafo anterior, en bienes del dominio público o privado que hayan sido declaradas por las autoridades competentes como parte del acervo cultural del estado o de cualquier municipio, y cuya reparación sea difícil o imposible.
 
-### CAPÍTULO OCTAVO. DESPOJO
+### CAPÍTULO DÉCIMO. EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 439.
 
@@ -6459,10 +6529,6 @@ En estos casos, además, se impondrá a cualquiera de las personas mencionadas y
 
 ### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-### CAPÍTULO NOVENO. DAÑOS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
-
 ###### ARTÍCULO 441.
 
 SANCIONES Y FIGURA TÍPICA DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA. Se aplicará de dos a diez años de prisión y multa: A quien por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del estado o de éste hacia fuera o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con el propósito de ocultar o impedir que se conozca el origen, localización, destino o propiedad de dichos recursos, derechos o bienes; o para alentar alguna actividad ilícita.
@@ -6474,10 +6540,6 @@ Las sanciones mínima y máxima del primer párrafo se aumentarán en un tercio 
 Para los efectos de este artículo, se entiende que son producto de una actividad ilícita: Los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios graves de que provienen directa o indirectamente de la comisión de algún delito; o representan las ganancias derivadas de ello; y no se pueda acreditar su legítima procedencia.
 
 ### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
-
-### CAPÍTULO DÉCIMO. EXTORSIÓN
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 442.
 
@@ -6949,7 +7011,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Todas las disposiciones, menciones y referencias que se hagan en este decreto respecto al término “Código de Procedimientos Penales” , se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo al esquema de gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
+Todas las disposiciones, menciones y referencias que se hagan en este decreto respecto al término "Código de Procedimientos Penales", se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo al esquema de gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
 
 Asimismo, las referencias que se hagan a (sic) carpeta de investigación, en los casos que resulte aplicable, se entenderán hechas a la averiguación previa.
 
@@ -7106,3 +7168,15 @@ P.O. 18 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en el presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 932.- SE REFORMAN EL PENÚLTIMO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 380, EL ARTÍCULO 388 Y LOS INCISOS A Y C DEL ARTÍCULO 439, TODOS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
