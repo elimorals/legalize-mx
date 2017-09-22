@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-06-23"
+last_updated: "2017-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -2611,9 +2611,13 @@ IV. El Ministerio Público del lugar del domicilio del adoptado o adoptada, cuan
 
 Si la niña o niño que se va a adoptar tiene doce años cumplidos o más, también se necesita su consentimiento para la adopción y los menores de doce años deberán ser escuchados en los términos del artículo 5 de la presente ley.
 
-El consentimiento sólo podrá ser otorgado ante la Procuraduría para Niños, Niñas y la Familia, previa identificación fehaciente de quien deba otorgarlo, mismo que surtirá todos sus efectos legales, sin que se requiera su posterior ratificación ante la presencia judicial.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
-Se prohíbe la práctica de adopciones privadas, entendiéndose como tales las acordadas directamente entre los padres biológicos y los padres adoptivos. No obstante lo anterior, los primeros podrán proponer a los posibles padres adoptivos, lo cual se encontrará supeditado siempre a la determinación de idoneidad de los mismo (sic) y al interés superior de la niñez.
+El consentimiento podrá ser otorgado ante la Procuraduría para Niños, Niñas y la Familia o ante el juez, previa identificación fehaciente de quien deba otorgarlo, mismo que surtirá todos sus efectos legales, sin que se requiera su posterior ratificación ante la presencia judicial, en el primer supuesto.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+Se prohíbe la práctica de adopciones privadas, entendiéndose como tales las acordadas directamente entre los padres biológicos y los padres adoptivos. No obstante lo anterior, los primeros podrán proponer a los posibles padres adoptivos, lo cual se encontrará supeditado, invariablemente, a la determinación de idoneidad de los mismos y al interés superior de la niñez. No será considerada como privada la adopción realizada entre parientes consanguíneos, ascendientes o colaterales, hasta el tercer grado.
 
 ###### Artículo 381.
 
@@ -2651,9 +2655,11 @@ La adopción extingue la filiación preexistente entre el adoptado o adoptada y 
 
 En la adopción el parentesco se extenderá a todos los ascendientes y descendientes de los adoptantes.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 388.
 
-La Procuraduría para Niños, Niñas y la Familia será los únicos facultados (sic) para promover la adopción de las niñas o niños adoptables que se encuentren en los centros o lugares de internamientos públicos o privados.
+La Procuraduría para Niños, Niñas y la Familia será, en su caso, la autoridad facultada para promover la adopción de las niñas o los niños adoptables que se encuentren en los centros o lugares de internamiento, públicos o privados.
 
 ###### Artículo 389.
 
@@ -2991,11 +2997,17 @@ I. Los padres convendrán quién de ellos se hará cargo de la guarda de la niñ
 
 II. Si los padres no llegaren a ningún acuerdo, corresponde a la autoridad judicial decidir, considerando lo siguiente:
 
-a) Las niñas o niños menores de siete años quedarán preferentemente al cuidado de la madre.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+a) Las niñas o niños que durante el procedimiento se demuestre que no cuentan con la madurez necesaria para proponer cuál de las personas que originalmente mantenían su guarda debe hacerse cargo de ellas o ellos, quedarán al cuidado de quien resulte idóneo considerando el interés superior de la niñez.
 
 b) La autoridad judicial decidirá quién deba hacerse cargo de la guarda de las niñas o niños mayores de siete años, pero menores de doce.
 
-c) Las niñas o niños mayores de doce años elegirán cuál de ambos padres debe hacerse cargo de ellos y si éstos no eligen, la autoridad judicial decidirá quién deba hacerse cargo de ellos.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+c) Las niñas o niños que durante el procedimiento se demuestre cuenten con la madurez necesaria, podrán proponer cuál de las personas que originalmente mantenían su guarda debe hacerse cargo de ellas o ellos y si éstos no proponen, la autoridad judicial decidirá, en términos del inciso a) de esta fracción, quién deba hacerse cargo de ellos.
+
+Para determinar sobre la madurez de las niñas o los niños se atenderá a su capacidad para comprender el asunto, sus consecuencias y de formarse un juicio o criterio propio.
 
 III. En caso de divorcio se estará a lo que disponga la autoridad judicial.
 
@@ -4426,3 +4438,15 @@ P.O. 23 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 876.- SE REFORMAN LOS ARTÍCULOS 18, 20 Y 23, DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 932.- SE REFORMAN EL PENÚLTIMO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 380, EL ARTÍCULO 388 Y LOS INCISOS A Y C DEL ARTÍCULO 439, TODOS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
