@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-21168
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-16"
-last_updated: "2016-07-18"
+last_updated: "2017-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de marzo de 2001.
 
@@ -275,11 +275,11 @@ V. Ordenar se realicen las diligencias necesarias a fin que se cumpla estrictame
 
 VI. Dar conocimiento al Director de Jueces Calificadores, de cualquier anomalía o contradicción que se realice con lo estipulado en el presente Reglamento, con el propósito de que se corrija o se sancione al responsable de dicha arbitrariedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 13.
 
-Son facultades y obligaciones del Comandante de Barandilla y de los oficiales de policía a su mando, además de las que señale el Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, las siguientes:
+Son facultades y obligaciones del Comandante de Barandilla y de los oficiales de policía a su mando, además de las que señale el Reglamento de Policía y Buen Gobierno, las siguientes:
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -319,7 +319,9 @@ XI. Custodiar y vigilar en todo momento al detenido durante el procedimiento de 
 
 XII. Vigilar que no se de malos tratos, ni se ataque físicamente a los detenidos por el personal policiaco, estando obligado a reportar cualquier caso al Juez Calificador en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor.
 
-XIII. En caso de que se suscite un conato de riña, robos, evasión de internos o cualquier otro disturbio que ocurra dentro de las celdas municipales, deberán de dar conocimiento inmediato al Juez Calificador en turno, a fin de que determine el trámite legal a seguir.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. En caso de que se suscite la comisión de una falta administrativa en el interior de las celdas municipales, deberán dar conocimiento al Juez Calificador en turno. En caso de que se suscite la comisión de un delito en el interior de las celdas municipales, deberá de poner al interno a disposición de la autoridad competente en forma inmediata.
 
 XIV. Dar aviso inmediato a la autoridad competente, en caso de que el interno necesite atención médica.
 
@@ -347,11 +349,11 @@ XXI. Vigilar que se cumpla con la normativa aplicable.
 
 El área de Jueces Calificadores, en el ámbito de su competencia, supervisará que desde el momento en que sea presentada una persona en calidad de internamiento como presunto responsable de la comisión de una falta administrativa o de un delito, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control y estadísticas sobre el índice de la población que ingresa al Centro y vigilar, supervisar y ordenar, a los responsables de barandilla y custodia que durante el procedimiento administrativo para el internamiento del detenido se apegue a lo dispuesto en el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-Una vez que el elemento de Policía ya sea Federal, Estatal o Municipal, o elemento de tránsito o de los cuerpos militarizados que actúan en auxilio o en cooperación con las autoridades estatales o municipales que realice la detención de algún presunto responsable o en su caso el oficial que efectué el traslado al Centro, deberá informar al responsable de barandilla, sobre los hechos que motivan el internamiento de la persona. De igual manera tendrán la obligación de presentar al detenido e informar todo lo relacionado con la detención al Juez Calificador en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
+Una vez que el elemento de Policía ya sea Federal, Estatal o Municipal, o elemento de tránsito o de los cuerpos militarizados que actúan en auxilio o en cooperación con las autoridades estatales o municipales que realice la detención de algún presunto responsable o en su caso el oficial que efectué el traslado al Centro, deberá informar al responsable de barandilla, sobre los hechos que motivan el internamiento de la persona. Tratándose de faltas administrativas, tendrán la obligación de presentar al detenido e informar todo lo relacionado con la detención al Juez Calificador en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
 
 ###### Artículo 16.
 
@@ -367,11 +369,11 @@ II. Controlar los medicamentos que se le deban administrar a los internos.
 
 III. Emitir opinión al Juez Calificador en turno, sobre el traslado de los detenidos e internos a instituciones hospitalarias, cuando así lo considere necesario.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Antes de ingresar al detenido, al área de celdas y una vez elaborado su expediente administrativo y el dictamen médico correspondiente, deberá ser presentado ante el Juez Calificador en Turno, a fin de que se lleve a cabo el Procedimiento Sumario Oral de Justicia Administrativa de conformidad a lo que establece el Reglamento de Policía y Buen Gobierno de este Municipio.
+Tratándose de faltas administrativas, antes de ingresar al detenido al área de celdas y una vez elaborado su expediente administrativo y el dictamen médico correspondiente, deberá ser presentado ante el Juez Calificador en Turno, a fin de que se lleve a cabo el Procedimiento Sumario Oral de Justicia Administrativa de conformidad a lo que establece el Reglamento de Policía y Buen Gobierno de este Municipio.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -773,17 +775,9 @@ El Secretario del Ayuntamiento dictará la resolución dentro de los tres días 
 
 ### CAPITULO XIII. DEL PROCEDIMIENTO SUMARIO ORAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+###### ARTÍCULO 70.
 
-###### Artículo 70.
-
-Cuando algún detenido sea puesto a disposición del Juez Calificador y exista la presunción de la comisión de algún delito relacionado con delincuencia organizada, portación de arma de fuego, delitos contra la salud o algún otro que por su naturaleza se pueda poner en riesgo la integridad de dicho servidor público, de algún quejoso o testigo, así como del oficial aprehensor; la audiencia se llevará a cabo en los términos establecidos en el capítulo cuarto denominado DEL PROCEDIMIENTO SUMARIO ORAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL contenido en el Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, Nuevo León; debiéndose observar a demás (sic) las siguientes reglas:
-
-I. La persona que se encuentre detenida será ubicada en un área distinta a la que ocupen el Juez Calificador, el quejoso, testigo y oficial aprehensor, en donde mediante vía remota y audioconferencia podrá únicamente escuchar y no observar el desahogo de la audiencia, pudiendo intervenir en su oportunidad si así lo desea. Por audioconferencia debe entenderse el servicio que permite que dos o más personas que se encuentren separadas físicamente estén en contacto auditivo, en tiempo real;
-
-II. El Juez Calificador, el quejoso, testigo y oficial aprehensor, por el contrario, sí podrán observar y escuchar al detenido durante el desarrollo de la audiencia; lo anterior mediante el sistema de videoconferencia con el que se cuente. Por videoconferencia se entiende el servicio que permite que dos o más personas que se encuentren separadas físicamente, estén en contacto, visual y auditivo, empleando para ello una comunicación digital, bidireccional, en tiempo real de audio, video y datos;
-
-III. A fin de salvaguardar la seguridad del Juez Calificador y en su caso del testigo de asistencia que actúe con éste, en todo momento, su nombre, resolución y audiencia, serán reservados.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ## TRANSITORIOS
 
@@ -832,3 +826,11 @@ P.O. 18 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA LA INICIATIVA DE REFORMA, ADICIÓN Y DEROGACIÓN DE DIVERSAS DISPOSICIONES DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO Y DE REFORMA AL REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL, AMBOS DE ESTE MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, excepto el caso de la infracción establecida en la fracción VII del artículo 19 del Reglamento de Policía y Buen Gobierno, la cual entrará en vigor a los 30-treinta días naturales siguientes contados a partir del día de la vigencia del presente Acuerdo.
+
+SEGUNDO.- publíquese el presente Acuerdo en la Gaceta Municipal para su debida difusión.
