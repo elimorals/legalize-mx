@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122731
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-07-15"
+last_updated: "2017-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Suplemento 5 al Número 56 del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -1473,7 +1473,7 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas aquellas disposiciones en materia de protección de datos personales, que contravengan lo dispuesto en la presente Ley.
 
-TERCERO. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar sesenta días posteriores a la entrada en vigor de esta Ley.
+TERCERO. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2017)
 
 CUARTO. Los procedimientos iniciados durante la vigencia de la ley que resulte aplicable en materia de protección de datos personales del estado de Zacatecas se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.
 
@@ -1486,3 +1486,9 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los catorce del mes de julio del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rubricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. EL “DECRETO NO. 203.- SE DEROGA EL CONTENIDO DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
