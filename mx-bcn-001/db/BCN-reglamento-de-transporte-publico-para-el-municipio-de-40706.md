@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2017-04-21"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -997,6 +997,10 @@ XVI.- Constituir en tiempo y forma las garantías que de acuerdo con la naturale
 
 XVII.- En general, cumplir con los preceptos de este reglamento y las disposiciones jurídicas fiscales y administrativas aplicables a la materia.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII.- Otorgar la tarifa preferencial en los términos del artículo 73 bis del presente reglamento.
+
 ### CAPITULO X. DE LAS CAUSAS DE REVOCACION DE PERMISOS Y CONCESIONES
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
@@ -1185,6 +1189,52 @@ De toda información, registro, folio o certificación que realice el Registro P
 
 Las tarifas para el cobro del transporte público de pasajeros, se fijarán de acuerdo con las condiciones y circunstancias de la prestación del servicio, de modo que permitan a los concesionarios y permisionarios, una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones en equipo e instalaciones adecuadas para el servicio.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 73 Bis.
+
+La tarifa preferencial se otorgará de acuerdo a lo siguiente:
+
+I.- Tienen derecho a la tarifa preferencial:
+
+a) Los estudiantes, a quienes se les aplicará un descuento de 50% en la tarifa vigente, beneficio que se obtendrá mediante la exhibición de la credencial expedida por la Institución Educativa con reconocimiento o incorporación oficial de la Secretaría de Educación Pública (SEP), misma que será aplicable únicamente en horario y periodo escolar.
+
+La credencial de estudian te (sic) deberá contener:
+
+l) Nombre completo
+
+2) Matricula (en caso de tenerla)
+
+3) Grado
+
+4) Periodo Escolar
+
+5) Programa Académico
+
+6) Número de Registro ante SEP
+
+7) Nombre de la Institución Educativa
+
+8) Vigencia
+
+9) Fotografía del Alumno
+
+10) Logo o imagen de la Institución
+
+El descuento tarifario a los estudiantes, será aplicable en los horarios que la Secretaria de Educación Pública determine en sus lineamentos.
+
+b) Los mayores de 60 años, a quienes se les aplicará un descuento del 50% en la tarifa vigente, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Instituto Nacional de Personas Adultas Mayores (INAPAM).
+
+c) Las personas con discapacidad así como su acompañante cuando resulte indispensable para su traslado, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Sistema para el Desarrollo Integral de la Familia (SDIF) y los niños menores de tres años, tendrán acceso al servicio sin costo alguno.
+
+En el caso de los acompañantes de las personas con discapacidad, deberán igualmente tramitar la credencial que los acredite como tales.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 73 Ter.
+
+El monto del beneficio tarifario podrá ser mejorado conforme a los acuerdos realizados por convenio entre el Ayuntamiento y los concesionarios del transporte colectivo. La Unidad Municipal de Transporte dentro de sus atribuciones, será quien vigilara que se cumplan los beneficios tarifarios estipulados en el artículo 73 bis del presente reglamento.
+
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
 ###### Artículo 74.
@@ -1256,6 +1306,10 @@ Promocional.- Implica una disminución en el precio establecido del servicio, co
 Especial.- Es el precio que se cubre por la prestación del servicio, derivado de un acuerdo de carácter social, que beneficia a diversos sectores de la población y,
 
 Única o Plana.- Es el precio que se paga por la prestación del servicio, independientemente de la distancia recorrida por el usuario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+Preferencial.- La que cubren los usuarios que gozan de descuento por encontrarse en alguna de las condiciones particulares a que se refiere este reglamento.
 
 ### CAPITULO XIV. DE LA INSPECCION Y VERIFICACION
 
@@ -1477,7 +1531,7 @@ f.- La utilización de permisos expedidos a nombre de otras personas sin realiza
 
 g.- La reincidencia en las infracciones que se hayan calificado como graves de acuerdo con lo previsto en este reglamento, cuando en los doce meses anteriores a su comisión el responsable de la misma haya sido objeto de sanción mediante resolución definitiva por infracción tipificada en un mismo apartado de dicho artículo. No obstante lo anterior, en la calificación de la infracción se estará a las agravantes que determina el presente reglamento.
 
-h.· El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
+h.- El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1594,3 +1648,9 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 58 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 001/2017”.]
 
 UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 28 (SIC), 81 Y LA CREACIÓN Y ADICIÓN DE LOS ARTÍCULOS 73 BIS Y 73 TER, DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
