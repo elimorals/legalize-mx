@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2017-del-pleno-del-consejo-de-la-122317"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-06-29"
-last_updated: "2017-06-29"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-06-21"
 
 ACUERDO GENERAL 5/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN EL MUNICIPIO DE ALMOLOYA DE JUÁREZ (ALTIPLANO)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Sexta Sección del Diario Oficial de la Federación, el jueves 29 de junio de 2017.
 
@@ -169,7 +169,9 @@ II. En caso de no ser posible lo previsto en la fracción anterior, la sustituci
 
 III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano.
 
-Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios de Circuito Primero, Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -191,11 +193,13 @@ Para las áreas administrativas del Consejo de la Judicatura Federal, entrará e
 
 El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
 
-SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios de Circuito Primero, Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, en el orden numérico de su denominación de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo, de este Acuerdo.
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
 
-Los Tribunales Unitarios habilitados precisarán en los actos procesales que celebren la denominación con la que actúen, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario especializado en Materia Penal del Segundo Circuito con residencia en Almoloya de Juárez, Estado de México, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo de este Acuerdo.
 
-Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
+El Tribunal Unitario habilitado precisará en los actos procesales que celebren la denominación con la que actúe, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como Tribunal Unitario de Circuito.
 
 TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y transitorio SEGUNDO del presente Acuerdo.
 
@@ -234,3 +238,63 @@ V. a XIII. …”
 NOVENO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 5/2017, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en el municipio de Almoloya de Juárez (Altiplano), fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de siete de junio de dos mil diecisiete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Rosa Elena González Tirado, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández.- Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ESPECIALIZACIÓN, CAMBIO DE DENOMINACIÓN Y DE RESIDENCIA DEL PRIMER TRIBUNAL UNITARIO DEL SEGUNDO CIRCUITO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS SEGUNDO, CUARTO, QUINTO Y SEXTO DEL SEGUNDO CIRCUITO; Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA AUXILIO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil diecisiete, con excepción de lo previsto en los transitorios TERCERO y QUINTO que entrarán en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito deberá colocar avisos en lugares visibles con relación a la especialización y cambio de residencia determinados.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias relacionadas con el cumplimiento de este Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas a su cargo que resulten competentes, dotará al Tribunal Unitario especializado de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción II, número 2 y TERCERO, fracción II, párrafo segundo, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a II. ...
+
+1. ...
+
+2. Seis Tribunales Unitarios: cuatro con sede en Toluca, uno con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
+
+3. a 4. ...
+
+III. a XXXII. ...
+
+TERCERO. ...
+
+I. ...
+
+II. ...
+
+Para los Tribunales Unitarios con residencia en Toluca, y para el Tribunal Unitario especializado en Materia Penal con residencia en Almoloya de Juárez, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+
+...
+
+III. a XXXII. ...”
+
+SÉPTIMO. Se reforman el artículo 17, último párrafo y el Transitorio Segundo del Acuerdo General 5/2017 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en el Municipio de Almoloya de Juárez (Altiplano), para quedar como sigue:
+
+“Artículo 17. ...
+
+I. a III. ...
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario especializado en Materia Penal del Segundo Circuito con residencia en Almoloya de Juárez, Estado de México, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo de este Acuerdo.
+
+El Tribunal Unitario habilitado precisará en los actos procesales que celebren la denominación con la que actúe, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como Tribunal Unitario de Circuito.
+
+OCTAVO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito como Tribunal de Alzada habilitado conocerá de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales.
+
+NOVENO. La Comisión de Creación de Nuevos Órganos establecerá el rol de guardias que corresponda a los Tribunales Unitarios del Segundo Circuito.
