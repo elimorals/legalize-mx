@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2017-07-10"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1513,11 +1513,17 @@ La observación personal consiste en la estrecha supervisión sanitaria de los p
 
 Las autoridades competentes ordenarán la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
 
-I.- Cuando no hayan sido vacunados contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles cuya vacunación se estime obligatoria;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+I.- Cuando no hayan sido vacunados contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión, el virus del papiloma humano y demás enfermedades transmisibles cuya vacunación se estime obligatoria.
 
 II.- En caso de epidemia grave; y
 
 III.- Si existiera peligro de invasión de dichos padecimientos en la Entidad Federativa.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+La Secretaría de Salud a través de los programas que al efecto emita, determinará los sectores de la población a vacunar contra el virus del papiloma humano y las condiciones de suministro de las vacunas, mismas que tendrán el carácter de obligatorio para todo el Sistema Estatal de Salud.
 
 ###### Artículo 176.
 
@@ -1852,3 +1858,9 @@ P.O. 10 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 213 QUE REFORMA EL ARTÍCULO 175 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
