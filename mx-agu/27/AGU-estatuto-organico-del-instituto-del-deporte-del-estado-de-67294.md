@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-del-deporte-del-estado-de-67294
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-02-09"
-last_updated: "2010-08-23"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ESTATUTO ORGANICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
+ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
 
 Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
@@ -64,9 +64,11 @@ IX. "PROSECRETARIO" Al Prosecretario que suplira las ausencias del Secretario Te
 
 "EL IDEA" como Organismo Público Descentralizado con personalidad jurídica, patrimonio propio, autonomía de gestión e independencia en sus decisiones, tiene a su cargo el despacho de los asuntos que le encomiendan "LA LEGISLACIÓN DEL DEPORTE", así acuerdos circulares y órdenes que emita "LA JUNTA DIRECTIVA" de "EL IDEA", lo anterior de conformidad con lo establecido en el artículo 13 de la Ley de Cultura Física y Deporte del Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 4°.
 
-Para el estudio, planeación, y ejercicio de las atribucuiones (sic) y funciones de los asuntos de su competencia, "EL IDEA" contará con los siguientes:
+Para el estudio, planeación, y ejercicio de las atribuciones y funciones de los asuntos de su competencia, "EL IDEA" contará con los siguientes:
 
 I. Órganos de Gobierno, los cuales regirán el funcionamiento de "EL IDEA":
 
@@ -84,9 +86,13 @@ c) Dirección de Instalaciones Deportivas;
 
 d) Dirección de Normatividad y Asuntos Jurídicos.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
-e) Dirección de Comunicación Social.
+e) Dirección de Comunicación Social; y
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+f) Dirección de Planeación
 
 ###### Artículo 5°.
 
@@ -170,7 +176,9 @@ VII. Ejercer la representación oficial de "LA JUNTA DIRECTIVA" ante cualquier a
 
 VIII. Las demás que le encomiende "LA JUNTA DIRECTIVA".
 
-Artículo.19.- Corresponde al "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA":
+###### Artículo 19.
+
+Corresponde al "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA":
 
 I. Entregar las convocatorias para citar a los miembros de "LA JUNTA DIRECTIVA" a las sesiones ordinarias o extraordinarias;
 
@@ -194,7 +202,7 @@ I. Asistir a las sesiones de "LA JUNTA DIRECTIVA" y participar con voz y voto;
 
 II. Proponer a "LA JUNTA DIRECTIVA" los acuerdos que consideren pertinentes para el cumplimiento del objeto, planes y programas de "EL IDEA";
 
-III. Desempeñar las comisiones que les sean encomendadas por "LA JUNTA DIRECTIVA"; y (sic)
+III. Desempeñar las comisiones que les sean encomendadas por "LA JUNTA DIRECTIVA"; y
 
 IV. Acreditar mediante oficio de comisión ante el "SECRETARIO TÉCNICO", la designación del suplente que cubrirá las ausencias del titular en las sesiones de la "JUNTA DIRECTIVA";
 
@@ -274,7 +282,7 @@ De todas las sesiones de "LA JUNTA DIRECTIVA", el "SECRETARIO TÉCNICO" levantar
 
 En dicha acta no será necesario incluir la relatoría de los debates de la sesión, sin embargo, cualquiera de sus integrantes podrá solicitar que se asiente en ella sobre algún asunto analizado. En este caso se requerirá la aprobación de la mayoría de los asistentes.
 
-###### Articulo 28.
+###### Artículo 28.
 
 Las actas podrán acompañarse de los anexos relacionados con los asuntos tratados en las sesiones.
 
@@ -392,7 +400,7 @@ IX. Coordinarse entre sí los titulares de las Direcciones de "EL IDEA" cuando a
 
 X. Expedir certificados y constancias de expedientes relativos a asuntos de su competencia;
 
-XI. Proyectar los acuerdos, convenios y contratos relativos a los asuntos de su competencia que deban ser suscritos por "EL DIRECTOR GENERAL"; y (sic)
+XI. Proyectar los acuerdos, convenios y contratos relativos a los asuntos de su competencia que deban ser suscritos por "EL DIRECTOR GENERAL"; y
 
 XII. Representar a "EL DIRECTOR GENERAL" en los actos o comisiones que les sean asignados;
 
@@ -400,9 +408,11 @@ XIII. Las demás que le señalen sus superiores o les confieran otros ordenamien
 
 ### CAPÍTULO IV. De la Organización y Funcionamiento de las Direcciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 40.
 
-Para el ejercicio de las funciones y atribuciones "EL IDEA", contará con las siguientes Unidades Administrativas:
+Para el ejercicio de las funciones y atribuciones "EL IDEA, contará con las siguientes Unidades Administrativas:
 
 I. Secretaría Técnica
 
@@ -416,9 +426,13 @@ IV. Dirección de Instalaciones Deportivas
 
 V. Dirección de Normatividad y Asuntos Jurídicos; y
 
-> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Dirección de Comunicación Social.
+VI. Dirección de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Dirección de Planeación.
 
 Las áreas subalternas desempeñarán las funciones que especifique el Manual de Organización de la Área respectiva.
 
@@ -686,7 +700,7 @@ XVI. Expedir copias certificadas de las constancias que obran en los archivos de
 
 XVII. Formular y revisar los anteproyectos o iniciativas de leyes o decretos legislativos relacionados con la cultura física y el deporte;
 
-XVIII. Vigilar el cumplimiento de la normatividad aplicable en los procesos, en los que "EL IDEA" sea parte, y (sic)
+XVIII. Vigilar el cumplimiento de la normatividad aplicable en los procesos, en los que "EL IDEA" sea parte, y
 
 XIX. Participar en el Programa de Innovación y Calidad Institucional;
 
@@ -730,29 +744,63 @@ X. Elaborar los diseños que se utilicen en las publicaciones relacionadas con "
 
 XI. Realizar las funciones que las disposiciones legales le confiera y las que le asigne "EL DIRECTOR GENERAL", que sean de naturaleza similar a las señaladas en las fracciones que anteceden.
 
-### CAPÍTULO XI. De la Suplencia de los Servidores Públicos del IDEA
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+### CAPÍTULO XI. Dirección de Planeación
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 48.
 
-En las sesiones ordinarias o extraordinarias el "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA", será suplido en sus ausencias temporales o accidentales, por el "PROSECRETARIO".
+La Dirección de Planeación depende directamente de "EL DIRECTOR GENERAL" y su titular tendrá además de las facultades genéricas a que se refiere el artículo 39 del presente "ESTATUTO ORGÁNICO" como atribuciones las siguientes:
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+I. Supervisar, Vincular y Reportar, todo lo relacionado con el Programa Operativo Anual (POA);
+
+II. Supervisar, Vincular y Reportar, todo lo relacionado con el Portal de Transparencia;
+
+III. Supervisar, Vincular y Reportar, todo lo relacionado con los censos de población solicitados con el Instituto Nacional de Estadística y Geografía (INEGI);
+
+IV. Supervisar, Vincular y Reportar todo lo relacionado con los informes trimestrales y anuales de actividades por parte de "EL IDEA", así como la concentración de información relacionada con el Plan Estatal de Desarrollo;
+
+V. Supervisar, Vincular y Reportar todo lo relacionado con estadísticas, actividades, programas, convenios y beneficios, relacionados al Informe de Gobierno Anual;
+
+VI. Vincular la logística, estadística, seguimiento y evaluación de las etapas deportivas, municipales, estatales, nacionales e internacionales;
+
+VII. Realizar y supervisar la Vinculación Interinstitucional de "EL IDEA" con las instituciones públicas y privadas; a fin de realizarse convenios de participación de acuerdo a lo que se requiera y suscriba el "DIRECTOR GENERAL";
+
+VIII. Coordinar, supervisar y vincular toda la información relacionada con recursos federales, conforme a las indicaciones, acuerdos y convenios realizados por "EL DIRECTOR GENERAL";
+
+IX. Supervisar y vincular todo lo relacionado con los diseños de programas metodológicos para cursos, talleres, congresos, academias deportivas; así como certificaciones y capacitaciones, avaladas y/o implementadas por "EL IDEA", conforme a las indicaciones, acuerdos y convenios realizados por "EL DIRECTOR GENERAL";
+
+X. Supervisar y vincular todo lo relacionado con la programación anual de cursos, talleres, congresos, academias deportivas; así como certificaciones y capacitaciones, avaladas y/o implementadas por "EL IDEA", conforme a las indicaciones, acuerdos y convenios realizados por "EL DIRECTOR GENERAL";
+
+XI. Supervisar, vincular y reportar todo lo relacionado con los informes mensuales de actividades programadas por las diferentes instancias de "EL IDEA", conforme a las indicaciones, acuerdos y convenios realizados por "EL DIRECTOR GENERAL";
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO XI], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO XII. De la Suplencia de los Servidores Públicos del IDEA
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 49.
 
-"EL DIRECTOR GENERAL" será suplido en sus ausencias temporales o accidentales menores a treinta días por los Directores en el ámbito de su competencia, en ausencias mayores será suplido por quien designe "LA JUNTA DIRECTIVA".
+En las sesiones ordinarias o extraordinarias el "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA", será suplido en sus ausencias temporales o accidentales, por el "PROSECRETARIO".
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 50.
 
-Los Directores serán suplidos en sus ausencias temporales o accidentales menores a quince días, por sus Jefes de Departamento en el ámbito de sus competencias o el servidor público de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+"EL DIRECTOR GENERAL" será suplido en sus ausencias temporales o accidentales menores a treinta días por los Directores en el ámbito de sus competencias o el servidor púbico de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 51.
+
+Los Directores serán suplidos en sus ausencias temporales o accidentales menores a quince días, por sus Jefes de Departamento en el ámbito de sus competencias o el servidor público de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 52.
 
 Los Jefes de Departamento y demás personal de "EL IDEA" serán suplidos en sus ausencias temporales menores a quince días, por el servidor público de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
 
@@ -780,7 +828,7 @@ Lic. Juan Alfredo Morales Shaadi,
 
 DIRECTOR GENERAL Y SECRETARIO TÉCNICO DE LA JUNTA DIRECTIVA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 23 DE AGOSTO DE 2010.
 
@@ -789,3 +837,15 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de los treinta días siguientes a su publicación, se deberán realizar todas las gestiones administrativas para designar y otorgar el nombramiento al titular de la Dirección de Comunicación Social.
 
 TERCERO.- Dentro de los treinta días siguientes a la publicación deberá realizarse la inscripción de la presente reforma en el Registro de Entidades Paraestatales a cargo de la Dirección General del Registro Público de la Propiedad.
+
+P.O. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE "REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días siguientes a su publicación deberá realizarse la inscripción de la presente reforma en el registro de Entidades Paraestatales a cargo de la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales, de conformidad como lo establece la fracción III del artículo 27 de la Ley de Control de Entidades Paraestatales vigente en el Estado.
