@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2017-07-07"
+last_updated: "2017-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -42,8 +42,6 @@ Se extiende la presente certificación para los usos legales a que haya lugar, e
 SECRETARIO FEDATARIO DEL XVII AYUNTAMIENTO
 
 LIC. GUILLERMO BERNARDO ISLAS LEON
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -263,13 +261,13 @@ V.- Expresar el sentido de su voto en las sesiones de cabildo o comisiones que i
 
 OBLIGACIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
 Son obligaciones de los integrantes del Ayuntamiento, sin detrimento de lo que indiquen otras disposiciones:
 
 I.- Observar y cumplir los acuerdos que apruebe el Ayuntamiento;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -281,7 +279,9 @@ IV.- Guardar reserva de lo tratado en las sesiones de cabildo privadas o cuando 
 
 V.- Excusarse de conocer, dictaminar o votar respecto de asuntos en que tenga interés personal, familiar o de negocios, o pueda derivarle una ventaja o beneficio de tipo personal para él, su cónyuge, cualquier pariente consanguíneo, civil o por afinidad, o para personas morales o entidades económicas de las que forme o haya formado parte, de conformidad con la legislación de la materia;
 
-VI.- Presentar su declaración sobre su situación patrimonial, conforme lo establece la Ley de la materia, misma que deberá hacerse publica, conforme lo dispuesto en este Reglamento; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+
+VI.- Presentar sus declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad, así como su declaración fiscal anual, en los términos que dispongan las leyes en materia de responsabilidades administrativas, anticorrupción y de orden fiscal y de acuerdo a lo dispuesto en este Reglamento y la demás normatividad municipal aplicable; y
 
 VII.- Promover la participación ciudadana en los programas y acciones del Gobierno Municipal, así como gestionar la atención y respuesta a las peticiones y demandas de los ciudadanos.
 
@@ -427,21 +427,27 @@ V. Si el Ayuntamiento resuelve que es improcedente la solicitud, ésta será des
 
 VI. El Munícipe será separado de su cargo y consecuentemente, se llamará al suplente.
 
-#### SECCION V. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
-DECLARACIÓN DE SITUACIÓN PATRIMONIAL.
+#### SECCION V
+
+DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL, DE LA DECLARACIÓN DE INTERESES Y DE LA CONSTANCIA DE PRESENTACIÓN DE DECLARACIÓN FISCAL.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 37.
 
-Corresponde al Síndico Procurador, solicitar, recopilar y procesar, para efectos de su publicación, la información sobre la situación patrimonial de los integrantes del Ayuntamiento, para lo cual empleará los formatos que determine para tal fin.
+Corresponde al Síndico Procurador, solicitar, recopilar y procesar, para efectos de su publicación, las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de los integrantes del Ayuntamiento, para lo cual empleará los formatos impresos, medios magnéticos y electrónicos, así como las directrices determinadas para tal fin en las leyes federales y estatales en materia de responsabilidades administrativas y anticorrupción, así como en la demás normatividad municipal aplicable.
 
-Después de haber cumplido con lo dispuesto por el párrafo anterior, los miembros del ayuntamiento, incluido el Síndico, presentaran su declaración patrimonial en la siguiente sesión ordinaria de cabildo, con el objeto de que sus integrantes tenga conocimiento de las mismas.
+Después de haber cumplido con lo dispuesto por el párrafo anterior, los miembros del ayuntamiento, incluido el Síndico, presentarán sus declaraciones de situación patrimonial y de intereses en la siguiente sesión ordinaria de cabildo, con el objeto de que sus integrantes tengan conocimiento de las mismas.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 FECHA DE PUBLICACIÓN.
 
 ###### ARTÍCULO 38.
 
-La declaración patrimonial deberá presentarse y hacerse pública al inició y conclusión de la gestión de los integrantes del Ayuntamiento, de acuerdo a los tiempos y términos que establece la Ley respectiva y el presente Reglamento.
+Las declaraciones de situación patrimonial y de intereses deberán presentarse, hacerse públicas y modificarse, de acuerdo a los tiempos y términos que establecen las leyes federales y estatales en materia de responsabilidades administrativas y anticorrupción, así como del presente Reglamento y la demás normatividad municipal aplicable.
 
 ## TITULO SEGUNDO. DE LAS SESIONES DE CABILDO
 
@@ -587,8 +593,6 @@ La sesión extraordinaria de cabildo que habrá de realizarse el primer día de 
 
 INFORME ANUAL DE GOBIERNO MUNICIPAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 52.
@@ -596,8 +600,6 @@ INFORME ANUAL DE GOBIERNO MUNICIPAL
 El Presidente Municipal, como responsable de la conducción de la Administración Pública Municipal cada año tendrá la obligación de presentar al Ayuntamiento un informe por escrito en Sesión Ordinaria a celebrarse durante el mes de Noviembre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo y deberá en forma posterior a la Sesión Ordinaria, brindar las facilidades necesarias para desahogar la glosa del informe y para difundir ante la comunidad los principales avances y logros de su gestión.
 
 Una vez presentado el informe al Ayuntamiento, éste por conducto de sus Comisiones procederá a la realización de la glosa correspondiente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -613,8 +615,6 @@ En fecha posterior, conforme al calendario aprobado, los Regidores y el Síndico
 
 Adicionalmente los munícipes podrán solicitar durante los siguientes 10 días al Presidente Municipal ampliar la información mediante el procedimiento de Pregunta de Cabildo, misma que se hará por escrito y tendrá un plazo de 20 días para su respuesta.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
 
 DE LA GLOSA DEL INFORME.
@@ -624,8 +624,6 @@ ARTÍCULO 53 BIS.- En la Sesión Ordinaria de Cabildo en la que el Presidente Mu
 El proyecto de calendario para la glosa del informe que presente el Presidente Municipal al Ayuntamiento, deberá estar previamente acordado por la Comisión de Coordinación Política, a la que se refiere el artículo 65.
 
 Una vez aprobado el calendario, el Acuerdo de Cabildo que lo contenga deberá ser remitido a los Coordinadores de las Comisiones edilicias correspondientes y a los titulares de las dependencias obligados a comparecer, a efecto de que atiendan en tiempo y forma el mismo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -818,8 +816,6 @@ XVII.- En general, tomar las medidas necesarias, durante la celebración de las 
 REUNIONES DE CONSENSOS.
 
 COMISIÓN DE COORDINACIÓN POLÍTICA.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -1290,8 +1286,6 @@ VI.- Ejercerán las demás facultades que les señale este Reglamento o los Acue
 Por su naturaleza, las Comisiones no podrán asumir funciones ejecutivas ni de representación del Ayuntamiento."
 
 COMPARECENCIA DE FUNCIONARIOS.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -2350,3 +2344,9 @@ P.O. 7 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 001/2017, RELATIVO A REFORMAR EL ARTÍCULO 114 Y 127 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- Lo presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o la Gaceta Municipal.
+
+P.O. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL PROEMIO Y DEL ANTECEDENTE PRIMERO DEL DICTAMEN 085/2017 APROBADO EN SESIÓN EXTRAORDINARIA DE EXTREMA URGENCIA DE FECHA 16 DE AGOSTO DE 2017; ASÍ COMO LA REFORMA (SIC) DIVERSOS ARTÍCULOS AL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA Y REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma se publicará en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal y de conformidad a lo establecido en el primer artículo transitorio de la Ley de Responsabilidades Administrativas del Estado de Baja California, la presente reforma entrará en vigor el primero de enero del año dos mil dieciocho.
