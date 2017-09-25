@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-09-19"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -147,9 +147,9 @@ II. SEGUNDO CIRCUITO:
 
 1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados en Nezahualcóyotl.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
 
-2. Seis tribunales unitarios: cinco con sede en Toluca y uno con residencia en Nezahualcóyotl.
+2. Seis Tribunales Unitarios: cuatro con sede en Toluca, uno con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
 
@@ -181,9 +181,9 @@ IV. CUARTO CIRCUITO:
 
 1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cuatro en materia de trabajo, todos con residencia en Monterrey.
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
 
-2. Cuatro tribunales unitarios con residencia en Monterrey.
+2. Cuatro Tribunales Unitarios: tres con residencia en Monterrey y uno especializado en Materia Penal, con residencia en Cadereyta, todos en el Estado de Nuevo León.
 
 3. Trece juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, dos en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
 
@@ -513,7 +513,9 @@ I. PRIMER CIRCUITO: Distrito Federal.
 
 II. SEGUNDO CIRCUITO: Los tribunales colegiados en materia penal, en materia administrativa, en materia civil y en materia de trabajo, es la establecida para los juzgados de Distrito con sede en Toluca y Naucalpan de Juárez, Estado de México; y en cuanto a los tribunales colegiados con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
 
-Para los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
+
+Para los Tribunales Unitarios con residencia en Toluca, y para el Tribunal Unitario especializado en Materia Penal con residencia en Almoloya de Juárez, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
 
 El tribunal unitario con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
 
@@ -4208,6 +4210,106 @@ I. …
 6. Cinco Juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
 
 II. a XXXII. …”
+
+D.O.F. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ESPECIALIZACIÓN, CAMBIO DE DENOMINACIÓN Y DE RESIDENCIA DEL PRIMER TRIBUNAL UNITARIO DEL SEGUNDO CIRCUITO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS SEGUNDO, CUARTO, QUINTO Y SEXTO DEL SEGUNDO CIRCUITO; Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA AUXILIO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil diecisiete, con excepción de lo previsto en los transitorios TERCERO y QUINTO que entrarán en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito deberá colocar avisos en lugares visibles con relación a la especialización y cambio de residencia determinados.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias relacionadas con el cumplimiento de este Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas a su cargo que resulten competentes, dotará al Tribunal Unitario especializado de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción II, número 2 y TERCERO, fracción II, párrafo segundo, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a II. ...
+
+1. ...
+
+2. Seis Tribunales Unitarios: cuatro con sede en Toluca, uno con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
+
+3. a 4. ...
+
+III. a XXXII. ...
+
+TERCERO. ...
+
+I. ...
+
+II. ...
+
+Para los Tribunales Unitarios con residencia en Toluca, y para el Tribunal Unitario especializado en Materia Penal con residencia en Almoloya de Juárez, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+
+...
+
+III. a XXXII. ..."
+
+SÉPTIMO. Se reforman el artículo 17, último párrafo y el Transitorio Segundo del Acuerdo General 5/2017 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en el Municipio de Almoloya de Juárez (Altiplano), para quedar como sigue:
+
+"Artículo 17. ...
+
+I. a III. ...
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario especializado en Materia Penal del Segundo Circuito con residencia en Almoloya de Juárez, Estado de México, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo de este Acuerdo.
+
+El Tribunal Unitario habilitado precisará en los actos procesales que celebren la denominación con la que actúe, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como Tribunal Unitario de Circuito."
+
+OCTAVO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito como Tribunal de Alzada habilitado conocerá de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales.
+
+NOVENO. La Comisión de Creación de Nuevos Órganos establecerá el rol de guardias que corresponda a los Tribunales Unitarios del Segundo Circuito.
+
+D.O.F. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 22/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ESPECIALIZACIÓN, CAMBIO DE DENOMINACIÓN Y DE RESIDENCIA DEL PRIMER TRIBUNAL UNITARIO DEL CUARTO CIRCUITO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS SEGUNDO, TERCERO Y CUARTO DEL CUARTO CIRCUITO; Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA AUXILIO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil diecisiete, con excepción de lo previsto en los transitorios TERCERO y QUINTO que entrarán en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tribunal Unitario especializado en Materia Penal del Cuarto Circuito deberá colocar avisos en lugares visibles con relación a la especialización y cambio de residencia determinados.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias relacionadas con el cumplimiento de este Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas a su cargo que resulten competentes, dotará al Tribunal Unitario especializado de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+SEXTO. Se reforma el numeral SEGUNDO, fracción IV, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a III. ...
+
+IV. ...
+
+1. ...
+
+2. Cuatro Tribunales Unitarios: tres con residencia en Monterrey y uno especializado en Materia Penal, con residencia en Cadereyta, todos en el Estado de Nuevo León.
+
+3. ...
+
+V. a XXXII. ...”
+
+SÉPTIMO. Se reforma el Transitorio Segundo del Acuerdo General 10/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, para quedar como sigue:
+
+“SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario especializado en Materia Penal del Cuarto Circuito con residencia en Cadereyta, Nuevo León, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, párrafo segundo, de este Acuerdo.
+
+El Tribunal Unitario habilitado precisará en los actos procesales que celebre la denominación con la que actúe, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como Tribunal Unitario de Circuito.”
+
+OCTAVO. El Tribunal Unitario especializado en Materia Penal del Cuarto Circuito como Tribunal de Alzada habilitado conocerá de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales.
+
+NOVENO. La Comisión de Creación de Nuevos Órganos establecerá el rol de guardias que corresponda a los Tribunales Unitarios del Cuarto Circuito.
 
 ###### Artículo 10.
 
