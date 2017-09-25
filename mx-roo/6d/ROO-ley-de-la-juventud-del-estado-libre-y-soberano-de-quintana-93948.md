@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2017-06-28"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -1021,11 +1021,11 @@ El Instituto generará los mecanismos necesarios para la participación del Esta
 
 Se establece el Congreso Juvenil del Estado de Quintana Roo, con el propósito de brindar a los jóvenes del Estado, un espacio de análisis y expresión en el cual puedan dar a conocer sus propuestas para mejorar el marco normativo estatal, así como promover cualquier otra acción legislativa que consideren necesaria deba realizarse por el Poder Legislativo del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 61.
 
-El Congreso Juvenil, se llevará a cabo en el mes de septiembre de cada año, en la sede del Poder Legislativo del Estado de Quintana Roo.
+El Congreso Juvenil se llevará a cabo dentro del Primer Periodo Ordinario de Sesiones de cada año de ejercicio constitucional de la Legislatura del Estado, en la sede del Poder Legislativo del Estado de Quintana Roo.
 
 ###### Artículo 62.
 
@@ -1037,13 +1037,11 @@ Los participantes del Congreso Juvenil, serán los jóvenes que cumplan con los 
 
 La selección de los jóvenes será representativa de cada uno los Municipios del Estado y cada uno de los Distritos Electorales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 64.
 
-La Comisión, emitirá la convocatoria correspondiente a finales del mes de agosto, la cual se hará de conocimiento público.
-
-Previamente a la expedición de la Convocatoria, se realizarán los trabajos de coordinación con las Unidades Administrativas Municipales en materia de Juventud y el Instituto Electoral de Quintana Roo para la realización del Congreso Juvenil.
+La Comisión emitirá la Convocatoria correspondiente un mes y medio antes de la fecha de celebración del Congreso Juvenil, la cual se hará de conocimiento público.
 
 ###### Artículo 65.
 
@@ -1166,3 +1164,13 @@ El personal de la Comisión de la Juventud y el Deporte de Quintana Roo que, en 
 ###### ARTÍCULO DÉCIMO.
 
 El Gobierno del Estado deberá efectuar las previsiones presupuestales necesarias para la operación y el cumplimiento del presente Decreto; para ello la Secretaría de Finanzas y Planeación deberá realizar los ajustes necesarios tendientes a que el presupuesto otorgado a la Comisión de la Juventud y el Deporte de Quintana Roo para el ejercicio fiscal 2017, sea transferido al Instituto Quintanarroense de la Juventud, y las previsiones presupuestales en el proyecto de presupuesto de egresos correspondiente al próximo ejercicio fiscal, así como prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+P.O. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 098 POR EL QUE SE REFORMAN LOS ARTÍCULOS 61 Y 64, AMBOS DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Por única ocasión el Segundo Parlamento Juvenil a celebrarse en el año dos mil diecisiete se llevará a cabo en el mes que determine la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades, previa modificación de la Convocatoria ya expedida.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
