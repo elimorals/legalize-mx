@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-comercio-exterior-469
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2015-08-25"
+last_updated: "2017-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46902&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -87,11 +87,13 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 7o.
 
-El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $20,000'000,000.00 (VEINTE MIL MILLONES DE PESOS 00/100 M.N.). Dicho capital social autorizado estará representado por 132'000,000 (CIENTO TREINTA Y DOS MILLONES) de Certificados de Aportación Patrimonial de la Serie "A" con valor nominal de $100.00 (CIEN PESOS 00/100 M.N.) cada uno y por 68'000,000 (SESENTA Y OCHO MILLONES) de Certificados de Aportación Patrimonial de la Serie "B", con valor nominal de $100.00 (CIEN PESOS 00/100 M.N.) cada uno.
+El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $30,000'000,000.00 (TREINTA MIL MILLONES DE PESOS 00/100 M.N.). Dicho capital social autorizado estará representado por 198'000,000 (CIENTO NOVENTA Y OCHO MILLONES) de certificados de aportación patrimonial de la Serie "A" con valor nominal de $100.00 (CIEN PESOS 00/100 M.N.) cada uno y por 102'000,000 (CIENTO DOS MILLONES) de certificados de aportación patrimonial de la Serie "B", con valor nominal de $100.00 (CIEN PESOS 00/100 M.N.) cada uno.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría de Hacienda y Crédito Público, y mediante reforma de este Reglamento, el cual será publicado en el Diario Oficial de la Federación.
 
@@ -544,3 +546,19 @@ El presente Acuerdo, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+D.O.F. 25 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DISPONE EL AUMENTO DE CAPITAL SOCIAL DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7o. DEL REGLAMENTO ORGÁNICO DE LA SOCIEDAD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+De conformidad con lo establecido en el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
+
+###### ARTÍCULO TERCERO.
+
+El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $30,000'000,000.00 (TREINTA MIL MILLONES DE PESOS 00/100 M.N.), y el capital social suscrito y pagado es de $23,259'105,800.00 (veintitrés mil doscientos cincuenta y nueve millones ciento cinco mil ochocientos pesos 00/100 M.N.),
