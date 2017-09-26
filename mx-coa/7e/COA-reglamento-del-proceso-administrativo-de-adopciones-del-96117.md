@@ -4,7 +4,7 @@ identifier: "COA-reglamento-del-proceso-administrativo-de-adopciones-del-96117"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-27"
-last_updated: "2013-09-27"
+last_updated: "2017-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO DEL PROCESO ADMINISTRATIVO DE ADOPCIONES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de septiembre de 2013.
 
@@ -83,7 +83,9 @@ IV. Certificado de idoneidad: Documento expedido por la autoridad central a trav
 
 V. Consejo: El Consejo Técnico de Adopciones.
 
-VI. Coordinación: La Coordinación de Adopciones, el área de la Procuraduría de la Familia y Protección de Derechos que, de acuerdo al presente reglamento, se encarga de recibir y revisar los expedientes de los solicitantes de adopción canalizados por las distintas delegaciones de la Procuraduría.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Coordinación: La Coordinación de Adopciones, el área de la Procuraduría para Niños, Niñas y la Familia que, de acuerdo al presente reglamento, se encarga de recibir y revisar los expedientes de los solicitantes de adopción canalizados por las distintas delegaciones de la Procuraduría.
 
 VII. Estado de recepción: Es el país donde habrá de radicar la niña, niño o adolescente dado en adopción internacional.
 
@@ -97,7 +99,9 @@ XI. Opinión: Documento suscrito por los titulares de la Presidencia y Secretar�
 
 XII. Organismo acreditado: El que colabora en la tramitación de la adopción internacional y que se encuentra acreditado conforme a lo dispuesto en el artículo 12 de la Convención sobre los Derechos del Niño y la Cooperación en Materia de Adopción Internacional.
 
-XIII. Procuraduría: La Procuraduría de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+XIII. Procuraduría: La Procuraduría para Niños, Niñas y la Familia.
 
 XIV. Titular de la Presidencia del Consejo: El o la titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
@@ -155,7 +159,9 @@ VII. Asignar al niño, niña o adolescente a la familia con quien se integrará,
 
 VIII. Emitir opinión sobre la situación jurídica de las niñas, niños o adolescentes o candidatos a adoptantes cuando así lo soliciten las autoridades competentes;
 
-IX. Emitir su opinión respecto a la viabilidad o no de la adopción solicitada, así como la que corresponda para que la Procuraduría de la Familia y Protección de Derechos inicie el procedimiento de adopción correspondiente;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Emitir su opinión respecto a la viabilidad o no de la adopción solicitada, así como la que corresponda para que la Procuraduría para Niños, Niñas y la Familia inicie el procedimiento de adopción correspondiente;
 
 X. Estudiar la procedencia o improcedencia de las solicitudes de adopción y emitir las opiniones correspondientes, los cuales serán suscritos por el titular de la presidencia y el de la secretaría técnica del Consejo;
 
@@ -335,6 +341,14 @@ Las solicitudes de adopción y lista de requisitos podrán obtenerse en las ofic
 
 Una vez presentada la solicitud, acompañada de los documentos requeridos, los solicitantes serán canalizados a las áreas de trabajo social y psicología, para que se realicen los estudios correspondientes con la finalidad de completar su expediente y estar en posibilidad de pasar al padrón de solicitantes de adopción.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+La presentación de la solicitud y apertura de expediente no constituye un derecho a favor de los solicitantes para la adopción de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+El ocultar intencionalmente datos o hechos relevantes, la declaración con falsedad o la exhibición de documentos apócrifos ante la Procuraduría, será suficiente para que esta última cancele en definitiva el expediente de los solicitantes de adopción, sin perjuicio de darle vista al Ministerio Público competente, para que realice la carpeta de investigación correspondiente.
+
 ###### Artículo 22.
 
 La Procuraduría recibirá las solicitudes de adopción de todas aquellas personas que se encuentren interesadas en iniciar un procedimiento en el estado.
@@ -343,7 +357,7 @@ La Procuraduría recibirá las solicitudes de adopción de todas aquellas person
 
 Los solicitantes de adopción de niñas, niños o adolescentes institucionalizados deberán cumplir, los siguientes requisitos:
 
-I. Exhibir en original o copia certificada, así como en copia simple los siguientes documentos
+I. Exhibir en original o copia certificada, así como en copia simple los siguientes documentos:
 
 a) Solicitud de adopción del Sistema debidamente llenada;
 
@@ -384,6 +398,10 @@ q) Constancia de participación en el curso de "Capacitación para padres adopti
 r) Estudios socioeconómico y psicosocial; conforme a los artículos 27 y 30 del presente reglamento;
 
 s) Aceptar expresamente que el Sistema realice el seguimiento de la niña, niño o adolescente entregado en adopción.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+La Procuraduría tomando en consideración las observaciones y recomendaciones de las Áreas de Psicología y de Trabajo Social, podrá pedir a los solicitantes que aporten los datos o documentos adicionales que considere necesarios para garantizar el sano desarrollo, crianza, educación y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos, susceptible de adopción.
 
 ###### Artículo 24.
 
@@ -439,9 +457,17 @@ Los documentos exhibidos, deberán estar vigentes, de acuerdo con lo establecido
 
 ### CAPÍTULO TERCERO. DE LOS ESTUDIOS QUE DEBEN REALIZARSE LOS SOLICITANTES DE ADOPCIÓN
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Los estudios socioeconómicos que se deberán practicar al o a los solicitantes de adopción se ajustarán al formato e instrucciones aprobados por la Procuraduría.
+El personal especializado del Área de Trabajo Social de la Procuraduría integrará la información aportada por los interesados, realizará al menos una visita al domicilio en que tengan su residencia habitual los solicitantes y se coordinará con el Área de Psicología para que pueda practicar las evaluaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+El Área de Trabajo Social de la Procuraduría será la facultada para emitir el dictamen socio-económico que resulte de la evaluación del medio familiar de los solicitantes, para garantizar, en la medida de lo posible, que es adecuado para el sano desarrollo, crianza, educación y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos, susceptible de adopción.
 
 ###### Artículo 28.
 
@@ -461,9 +487,11 @@ VI. Examen general de orina; y
 
 VII. Examen toxicológico de las siguientes sustancias: anfetaminas, cocaína, canabinoides, opiáceos y benzodiacepinas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Se consideran factores de riesgo en la salud del o los solicitantes, que pueden afectar el sano desarrollo de los menores o incapaces, los que se indican a continuación.
+Se consideran factores de riesgo en la salud del o los solicitantes, que pueden afectar el sano desarrollo de niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, los que se indican a continuación.
 
 I. Cualquier incapacidad, accidente o enfermedad, ya sea temporal o definitiva, que pueda acortar significativamente la expectativa de vida del o los solicitantes o les impida prestar la atención y cuidados debidos a la persona que pretenden adoptar;
 
@@ -471,85 +499,191 @@ II. Padecer cualquier enfermedad que puedan contagiar a la persona que pretenden
 
 III. La adicción a las bebidas embriagantes o sustancias psicotrópicas.
 
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Enfermedades crónicas que requieran especiales condiciones de vida.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 29 Bis.
+
+La Procuraduría será la facultada para revisar que los certificados médicos exhibidos por los solicitantes cumplan con los requisitos previstos en el presente Reglamento y que su estado de salud física sea compatible con las necesidades específicas de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 29 Ter.
+
+La Procuraduría, tomando en consideración las observaciones y recomendaciones que hayan elaborado las Áreas de Psicología y de Trabajo Social, podrá pedir que se realicen pruebas médicas adicionales a los solicitantes y a las personas que vivan en el mismo hogar, para garantizar el sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
-El profesionista adscrito a la Procuraduría deberá aplicar al o a los solicitantes los estudios psicológicos que se indican a continuación.
+El Área de Psicología de la Procuraduría será la facultada para emitir el dictamen psicológico que resulte de la evaluación de los solicitantes, y en su caso, de los familiares o personas que vivan en el mismo hogar, así como de niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, que sean susceptibles de adopción, cuando sean mayores de tres años de edad.
 
-I. Batería de pruebas psicológicas que deben aplicarse invariablemente en todos los casos:
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-a) Entrevista psicológica al solicitante o solicitantes en pareja. La entrevista será en pareja cuando los solicitantes sean cónyuges o concubinos;
+###### Artículo 30 Bis.
 
-b) CUIDA, Cuestionario para la evaluación de adoptantes;
+Las evaluaciones psicológicas que los profesionales autorizados por la Procuraduría deberán aplicar a los solicitantes de adopción, son las siguientes:
 
-c) 16 PF
+I. La entrevista personal.
 
-d) California
+II. CUIDA, Cuestionario para la evaluación de adoptantes, cuidadores, tutores y mediadores.
 
-e) Sacks
+III. Para la evaluación de la personalidad normal, se deberán emplear el Inventario de Personalidad Neo Revisado (NEO PI-R), o el Cuestionario de Personalidad de 16 Factores, Forma 5 (16 PF-5) o el Cuestionario Big Five (BFQ), según sea el caso a tratar.
 
-f) Test figura humana;
+IV. Cuando no sea necesario explorar de forma exhaustiva las características de personalidad de los solicitantes, o su perfil sociocultural sea una condicionante, se deberá emplear el Cuestionario de Personalidad de Eysenck-Revisado (EPQ-R).
 
-g) En su caso, se aplicara test CSM, cuestionario de satisfacción marital.
+V. Para explorar posibles psicopatologías se debe emplear el inventario Multifásico de Personalidad de Minnesota-2 (MMPI), utilizando la escala para medir el Narcisismo y en caso necesario el Inventario Multiaxial Clínico (MCMI).
 
-II. Batería de pruebas subsidiaria, entre las que deberá de escoger el profesionista adscrito a la Procuraduría, una por cada área de análisis:
+VI. Como medida de comprobación que sortea los problemas de auto informe y medio de contraste, se debe aplicar una medida de habilidad: MSCEIT, test de inteligencia emocional MayerSalovey-Caruso de D.R. Caruso, J.D. Mayer y P. Salovey.
 
-a) Para diagnosticar la personalidad:
+Se deben utilizar las versiones más actualizadas de las pruebas que se encuentren estandarizadas para el país.
 
-1. MMPI-II (Inventario Multifásico de Personalidad de Minnesota;
+En caso de existir alteraciones, anormalidades, invalidez, imposibilidad para aplicar la prueba o cualquier criterio que altere el resultado de las pruebas, el profesional en psicología deberá reportarlo en su informe final. Si los resultados de las pruebas indican la posibilidad de alteraciones psicopatológicas en la persona evaluada, se podrán aplicar las pruebas, que al criterio del experto corroboren dicha alteración.
 
-2. Bender
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-3. H.T.P.
+###### Artículo 30 Ter.
 
-4. Niño bajo la lluvia
+Por regla general, la entrevista a cónyuges o concubinos será en pareja, salvo en los siguientes supuestos:
 
-b) Para medir la inteligencia
+I. Cuando la información sea estrictamente personal.
 
-1. OTIS. Test de Inteligencia General:
+II. La presencia del cónyuge o concubino dificulte o impida expresarse libremente al otro integrante de la pareja.
 
-III. Y todas aquéllas que se requieran para acreditar la viabilidad psicológica del o los solicitantes de adopción.
+III. La presencia del cónyuge o concubino obstaculice el profundizar en algún tema relevante, por temor a caer en un error o contradicción.
 
-Todas las pruebas tendrán vigencia de seis meses a partir de su resultado.
+El número de entrevistas se podrá ampliar para profundizar y obtener la información necesaria para emitir el dictamen psicológico, en función de las características y circunstancias de los solicitantes.
+
+En el supuesto de que uno o ambos solicitantes tengan hijos biológicos o adoptivos, éstos deberán ser entrevistados, dependiendo de su edad, para conocer cuál es su implicación en el proyecto y como recibirán a su nuevo hermano. Si conviven otros familiares o personas en el mismo hogar, también será importante recabar su opinión sobre el proyecto de adopción, como integrarán al nuevo miembro familiar, y si creen que pueden ofrecer algún tipo de apoyo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 30 Quater.
+
+La Procuraduría, deberá aplicar a los hijos de los solicitantes, previo consentimiento por escrito de estos últimos, el Sistema de Evaluación de la Conducta de Niños y Adolescentes (BASC), para medir su conducta adaptativa e inadaptativa, cuando tengan entre tres y dieciocho años de edad o, en su caso, el sistema de evaluación de niños y adolescentes (SENA); (QPAD), cuestionario para la evaluación de problemas en adolescentes, en edad de doce a dieciocho años o, en su caso, se puede utilizar la escala de satisfacción familiar por adjetivos (ESFA).
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 30 Quinquies.
+
+La Procuraduría también deberá evaluar a niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, susceptibles de adopción, a partir de los tres años de edad cumplidos, con la finalidad de revisar su salud mental y compatibilidad con los solicitantes, para lo cual se recomiendan las siguientes pruebas psicológicas, dependiendo de su edad, desarrollo evolutivo, cognoscitivo y grado de madurez:
+
+I. CMASR-2 - Escala de Ansiedad Manifiesta en Niños. Cuestionario para la Evaluación de Problemas en Adolescentes (Q-PAD).
+
+II. Cuestionario de Personalidad para Adultos (EPJ-A), para personas de dieciséis a dieciocho años de edad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 30 Sexies.
+
+La Procuraduría tomando en consideración las observaciones y recomendaciones de las Áreas de Psicología y de Trabajo Social, podrá pedir que se practiquen pruebas adicionales a los solicitantes, las personas que vivan en el mismo hogar y a niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, susceptibles de adopción, que considere necesarias para garantizar la compatibilidad, un buen pronóstico en el proceso de integración, así como el sano desarrollo, crianza, educación y socialización de estos últimos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
-Se consideran conductas psicológicas de riesgo del o los solicitantes, que pueden afectar el sano desarrollo de los menores o incapaces, las que se indican a continuación.
+Con base en la información obtenida y los resultados que arrojen las pruebas realizadas a los solicitantes y las personas que vivan en el mismo hogar, el personal especializado de las Áreas de Psicología y de Trabajo Social, deberá observar los siguientes criterios de evaluación al momento de emitir sus respectivos dictámenes:
 
-I. Los rasgos de personalidad depresiva, ansiosa, sicopática o maniaca, así como cualquier otra patología identificada en las pruebas que tenga posibilidades de desarrollarse.
+I. Motivación para la Adopción.- Que las razones o motivos por los cuales los solicitantes desean adoptar sean adecuados y garanticen el interés superior de la niñez, además de ser compartidos, tratándose de cónyuges o concubinos.
 
-II. La inestabilidad emocional del o los solicitantes:
+II. Adecuación del ofrecimiento de los solicitantes.- Se refiere a las características de edad, sexo, número de hermanos, historia personal y posibles padecimientos o cualquier tipo de discapacidad de niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, susceptibles de adopción, para los cuales resultan idóneos los solicitantes y que estos últimos estarían dispuestos a aceptar.
 
-III. La inestabilidad o poca solidez de pareja, en su caso;
+III. Actitudes para la Adopción.- Es importante que los solicitantes tengan una actitud positiva con relación a la dificultad que la adopción supone para el menor, hacia la revelación de su condición de hijo adoptivo, hacia los orígenes del menor y apertura para recibir apoyo profesional para superar los problemas que puedan surgir en su proceso de integración, crianza, educación, socialización y construcción de la identidad del menor.
 
-IV. La violencia;
+IV. Expectativas respecto a la Adopción.- Las expectativas de los solicitantes sean acordes con la realidad de la adopción, al contexto, a las características específicas de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos,, (sic) susceptible de adopción y a los cambios en el funcionamiento personal, familiar y social que esto puede implicar en la vida de los solicitantes.
 
-V. El deficiente cuidado de sí mismo o la incapacidad para atender y cuidar de otros;
+V. Aptitudes para la Adopción.- Que los solicitantes tengan la capacidad para cubrir las necesidades de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos, susceptible de adopción, en cada etapa evolutiva en cuanto a su cuidado, sustento, crianza, salud, protección y educación; para que desarrolle una autoestima positiva y se facilite su tránsito hacia otros contextos educativos y de socialización, en un entorno familiar de calidez afectiva y de aceptación.
 
-VI. Los problemas de identidad y rol;
+VI. Características Psicológicas.- Es indispensable que el patrón de personalidad de los solicitantes sea funcional para la adopción al favorecer la protección, crianza y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción con niveles adecuados de altruismo y autoestima; niveles altos de apertura, asertividad, capacidad de resolver problemas, empatía, estabilidad emocional, flexibilidad, sociabilidad, responsabilidad y tolerancia a la frustración; niveles bajos de dependencia e impulsividad; capacidad de establecer vínculos afectivos de tipo seguro; y capacidad para elaborar los duelos. Cuidando que los solicitantes no presenten psicopatologías que puedan afectar o poner en riesgo el sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
 
-VII. Una escasa adaptación al medio o contar con pocas redes de apoyo social o familiar; y
+VII. Historia Familiar.- Se debe valorar la historia de las familias de origen, las características de quienes las integran, los patrones de interacción entre sus miembros, la posible existencia de episodios familiares que pudieran suponer un riesgo para el desarrollo integral de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, y la calidad de las relaciones familiares actuales. Además de tomar en cuenta la opinión que tengan las familias de origen y los amigos cercanos respecto del proyecto de adopción de los solicitantes.
 
-VIII. Una motivación o razones para adoptar que no favorezcan a la niña, niño o adolescente o incapaz, tales como intentar suplir a un hijo muerto, sentirse fracasado en la labor de crianza o la no aceptación del hecho de no poder procrear.
+VIII. Historia Personal y Trayectoria Evolutiva.- Se trata de conocer a través del relato de los solicitantes, sus experiencias y vivencias durante la infancia, adolescencia y edad adulta, relacionadas con la calidad de las relaciones dentro de la familia, las organizaciones sociales y grupos informales en los que han participado, los estudios y actividades laborales que han realizado, la compatibilidad de su vida laboral con la familiar y los apoyos con los que han contado, para valorar su trayectoria y transiciones evolutivas en el ámbito personal, familiar, social, educativo y laboral, que dejan ver los momentos tanto positivos como negativos, las crisis personales, pérdidas afectivas, transiciones circunstanciales o experiencias potencialmente traumáticas, los antecedentes relacionados con las adicciones o violencia dentro del seno familiar y, por supuesto, la comisión de cualquier delito que pueda suponer un riesgo para la vida, integridad o sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+IX. Funcionamiento familiar de los solicitantes.- Cuando se trata de solicitantes unidos en matrimonio o concubinato, se requiere conocer la historia de su relación como pareja, el tipo de familia que conforman, el proceso de adaptación mutua, la satisfacción y ajuste de la relación de pareja, su nivel de comunicación y capacidad para resolver problemas, el estilo de interacción y patrón relacional, su independencia con relación a las familias de origen, la organización de la vida familiar, el estilo de vida familiar y si existen otros hijos o adultos que vivan en el mismo hogar.
+
+X. Estado de salud de los solicitantes.- Los solicitantes deben de gozar de un buen estado de salud físico y mental, con un estilo de vida saludable, libre de farmacodependencia o adicciones, con niveles de estrés que no ocasionen un deterioro importante en el funcionamiento personal, familiar o social, y una expectativa de vida que permita a una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción (sic) llegar a la edad adulta. De igual manera, se debe constatar en los solicitantes y las personas que vivan en el mismo hogar, la ausencia de enfermedades infecto-contagiosas, crónicas o degenerativas o deficiencias que supongan un riesgo para el sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, o que no le puedan prestar la atención y cuidados debidos, atendiendo a sus necesidades específicas.
+
+XI. Entorno relacional y apoyo social.- La existencia de un entorno social amplio donde se realice la vida cotidiana de forma saludable, se garantice el desarrollo personal y social de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos y brinde a los solicitantes una red de apoyo social.
+
+XII. Solvencia y estabilidad económicas.- Es necesario comprobar que los recursos económicos de los solicitantes garanticen la atención adecuada y la satisfacción de las necesidades de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, si los ingresos son estables o variables, la situación patrimonial de los solicitantes y su nivel de endeudamiento.
+
+XIII. Características de la vivienda.- Tanto en su entorno, para conocer los servicios de que dispone, en materia de guarderías, escuelas, hospitales, transporte, lugares de esparcimiento y seguridad, entre otros; como a las características propias de la vivienda, en cuanto a su tipo, superficie, distribución, antigüedad, condiciones de habitabilidad y espacio vital suficiente para una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+Lo anterior, sin detrimento de que el mencionado personal especializado de las Áreas de Psicología y de Trabajo Social, con fundamento en sus conocimientos y experiencia profesional pueda detectar en el caso concreto, cualquier otra característica o circunstancia que deba ser advertida para garantizar la compatibilidad, un buen pronóstico en el proceso de integración, así como el sano desarrollo, crianza, educación y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+La Procuraduría será la responsable de coordinar que se implemente de manera uniforme las pruebas necesarias y criterios de evaluación que señala el presente Reglamento, con el personal especializado que forme parte de las Áreas de Psicología y de Trabajo Social de dicha institución y cualquier otra clínica, laboratorio o profesionista independiente que autorice para tal fin.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 32.
 
-El Consejo deberá de valorar la oposición expresa por parte de los abuelos paternos o matemos para integrar a la familia a un menor por medio de la adopción.
+Después de haber realizado una valoración socioeconómica, psicológica y médica de los solicitantes de adopción, el Sistema Nacional para el Desarrollo Integral de la Familia, el Sistema Estatal para el Desarrollo Integral de la Familia o la autoridad central del país de origen de los solicitantes en los casos de adopciones internacionales, emitirá, en caso de ser procedente, el certificado de idoneidad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Bis.
+
+Los certificados de idoneidad tendrán una vigencia de tres años, contados a partir de la fecha de su respectiva emisión, siempre que en dicho plazo no haya sucedido alguna variación sustancial en la situación personal, familiar o laboral de los solicitantes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Ter.
+
+Los solicitantes que deseen prorrogar la vigencia de su certificado de idoneidad, deberán manifestarlo por escrito a la Procuraduría, para que ordene la actualización de las evaluaciones socioeconómica, psicológica y el certificado médico. En caso de ser procedente, el Sistema Estatal para el Desarrollo Integral de la Familia emitirá un nuevo certificado, debiendo recabar y cancelar el anterior para integrarlo en el expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Quater.
+
+La Procuraduría tendrá a su cargo la creación y actualización constante del Registro Estatal de Familias de Acogimiento provisional, en el cual inscribirá de oficio a los solicitantes de adopción que obtengan o renueven un certificado de idoneidad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Quinquies.
+
+Los solicitantes de adopción que se encuentren inscritos en el Registro Estatal de Familias de Acogimiento provisional, deberán notificar por escrito a la Procuraduría cualquier cambio relevante que sufran en su persona, familia o trabajo, para que se integre al expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Sexies.
+
+Las Áreas de Psicología y de Trabajo Social, serán las encargadas de verificar si el cambio o actualización que notifiquen los solicitantes representa un impedimento temporal o definitivo, en términos del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-En el caso de que la Procuraduría detecte en los estudios que se actualiza un factor de riesgo en la salud o una conducta psicológica de riesgo para el sano desarrollo de la niña, niño, adolescente o incapaz, deberá de evaluarla para determinar si se trata de un impedimento temporal o uno definitivo.
+En el momento en que la Procuraduría detecte en los datos o pruebas de los solicitantes, que se actualiza un factor de riesgo para el sano desarrollo, crianza, educación o socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, deberá determinar si se trata de un impedimento temporal o uno definitivo.
+
+Se considera un impedimento temporal, cualquier situación socioeconómica, psicológica o de salud que los solicitantes puedan subsanar para continuar con el proceso de adopción.
+
+Se considera un impedimento definitivo, cualquier situación socioeconómica, psicológica o de salud que los solicitantes no puedan subsanar y sea incompatible con el interés superior de la niñez, susceptible de adopción.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-En el supuesto de que el o los solicitantes presenten uno o más impedimentos temporales, deberá notificárseles por conducto de la Procuraduría en qué consisten, las recomendaciones y canalizaciones que estimen pertinentes para que los pueda subsanar en el plazo que se les indique.
+En el supuesto de que los solicitantes presenten algún impedimento temporal, la Procuraduría deberá notificarlo por escrito a los solicitantes, expresando las recomendaciones que estime pertinentes para que lo puedan subsanar y un plazo razonable para hacerlo.
 
-Durante el citado plazo, se tendrá por suspendido temporalmente su procedimiento y antes de su vencimiento, el o los solicitantes deberán de comparecer nuevamente ante la institución que tramita su procedimiento, para acreditar que se resolvió satisfactoriamente el o los impedimentos temporales, para que la mencionada institución lo verifique y reactive su procedimiento.
+Antes de que concluya el plazo razonable que fije la Procuraduría, los solicitantes deberán comparecer para requerir una prórroga o, en su caso, acreditar que subsanaron satisfactoriamente el impedimento temporal, para que el Área de Psicología o de Trabajo Social pueda verificarlo y se reactive su expediente.
 
-Si el o los solicitantes no cumplen en tiempo y forma las recomendaciones socioeconómicas, médicas o psicológicas de los profesionistas adscritos a la Procuraduría, se deberá dar de baja su solicitud de adopción por falta de interés, previo acuerdo del Consejo.
+Los solicitantes tendrán derecho de solicitar hasta un máximo de dos prórrogas consecutivas, para subsanar el impedimento temporal que les haya notificado la Procuraduría.
+
+Si los solicitantes no cumplen en tiempo y forma con las recomendaciones de las Áreas de Psicología o de Trabajo Social para subsanar el impedimento temporal, la Procuraduría decretará de oficio que se remita su expediente al archivo por falta de interés de los solicitantes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-En el caso de que el o los solicitantes presenten un impedimento definitivo o les sobrevenga uno durante el procedimiento, la Procuraduría tendrá la obligación de evaluarlo y notificarles por escrito la improcedencia de su trámite con expresión de causa, una vez revisado el caso en el Consejo.
+En el evento de que los solicitantes presenten un impedimento definitivo o les sobrevenga uno durante la tramitación de su expediente, la Procuraduría, deberá notificarlo por escrito a los solicitantes con expresión de causa.
 
 ### CAPÍTULO CUARTO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES ADOPTABLES
 
@@ -565,6 +699,10 @@ El niño, niña o adolescente en función de su edad y grado de madurez, deberá
 
 Se dará prioridad a colocar a un niño, niña o adolescente en el propio país o en un entorno cultural, lingüístico y religioso próximo a su entorno de procedencia.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+Asimismo, de entre todos los solicitantes, las parejas que tengan al menos tres años de matrimonio y que además acrediten una relación estable y positiva, tendrán prioridad para la adopción de menores de tres años de edad.
+
 ###### Artículo 39.
 
 La Procuraduría debe considerar el no separar hermanos y hermanas de sangre, particularmente cuando se conocen, si excepcionalmente se hiciere, deberá prever el mantenimiento del contacto en el futuro.
@@ -573,9 +711,13 @@ La Procuraduría debe considerar el no separar hermanos y hermanas de sangre, pa
 
 Para que la Procuraduría pueda proponer al Consejo la adopción de una niña, niño o adolescente institucionalizado, deberá contar con sentencia ejecutoriada de pérdida de patria potestad o consentimiento expreso de los padres del menor para que éste sea adoptado, conforme a lo dispuesto en la legislación de la materia o declaración de expósito por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 41.
 
 En el caso del consentimiento expreso de los padres, la Coordinación debe verificar que dieron su consentimiento libremente, sin presión y sin existir remuneración alguna. Debe asesorar a través de personal de la Procuraduría, sobre las consecuencias y alcances de una adopción, así como el planteamiento previo de otras alternativas para el menor, antes de la adopción.
+
+En todo caso, el Consejo deberá de valorar la oposición expresa por parte de los abuelos paternos o maternos para integrar a la familia a un menor por medio de la adopción.
 
 ###### Artículo 42.
 
@@ -598,6 +740,14 @@ La Coordinación presentará ante el Consejo, a través del o la titular de la P
 ###### Artículo 46.
 
 El Consejo elegirá, entre las propuestas que le fueron presentadas, a la familia que considere que en base al interés superior de la niñez, es la más adecuada para la asignación provisional del niño, niña o adolescente y en su caso autorizará el inicio del período de convivencias.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+Durante este periodo se evaluará la convivencia, compatibilidad y posible integración familiar del menor, de manera supervisada, que no constituye la transmisión de la tutela sobre una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción. En tal virtud, los solicitantes quedan impedidos para trasladar a una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos fuera del estado de Coahuila, para consentir intervenciones quirúrgicas o tomar cualquier otra decisión que implique una disposición sobre una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, sin la previa autorización por escrito de la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+La Procuraduría se reserva el derecho de dar por terminado el mencionado plazo de acogimiento familiar provisional, en cualquier momento, bastando al efecto una simple notificación por escrito a los solicitantes, quienes quedan obligados a entregar a una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción de inmediato al personal de la Procuraduría o de cualquier otra autoridad competente que se los requiera en el ejercicio de sus funciones.
 
 ###### Artículo 47.
 
@@ -792,3 +942,15 @@ EL DIRECTOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCIÓN 
 JAIME BUENO ZERTUCHE
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL PROCESO ADMINISTRATIVO DE ADOPCIONES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones de la misma jerarquía o inferiores que se opongan al presente decreto.
