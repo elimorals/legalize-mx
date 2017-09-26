@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2017-03-04"
+last_updated: "2017-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 26434/LXI/17, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2018.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -1642,3 +1644,31 @@ P.O. 4 DE MARZO DE 2017.
 [N. DE E TRANSITORIO DEL “DECRETO 26287/LXI/17 QUE REFORMA EL ARTÍCULO 62 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “DECRETO 26434/LXI/17, QUE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y ABROGA LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco y sus Municipios; así como todas sus reformas.
+
+## TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las cuenta (sic) públicas 2017 y anteriores se regirán conforme a la Ley derogada mediante el presente decreto.
+
+El ejercicio de la cuenta pública 2018 y posteriores se regirán mediante de proceso establecido en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Auditor Superior del Estado contará con un plazo de 180 días siguientes a la entrada en vigor del presente decreto, para expedir las disposiciones que conforme al mismo le son conferidas; hasta en tanto se emiten dichas disposiciones se seguirán aplicando las vigentes en lo que no se opongan al presente decreto.
+
+CUARTO. Las referencias hechas en leyes, reglamentos y cualquier otro ordenamiento jurídico, respecto a la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco y sus Municipios, se entenderán hechas respecto a la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
+
+QUINTO. Quienes a la entrada en vigor del presente decreto tengan nombramiento de Auditor Especial, continuarán en el cargo tres años, contados a partir de la entrada en vigor del presente decreto.
+
+Dentro de los tres meses anteriores a que termine el periodo de tres años que señala el párrafo anterior, el Auditor Superior deberá remitir al Congreso del Estado la propuesta para la elección de Auditor Especial.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SÉPTIMO. El Comité Coordinador del Sistema Estatal Anticorrupción deberá expedir lineamientos, bases y principios que garanticen la óptima armonización e implementación del Sistema Estatal Anticorrupción en un plazo no mayor a tres años.
