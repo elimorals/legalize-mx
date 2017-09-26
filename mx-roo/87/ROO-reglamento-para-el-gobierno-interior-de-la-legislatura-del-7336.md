@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "2016-07-08"
+last_updated: "2017-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -341,7 +341,7 @@ III.- Permanentes: Las que por la importancia de algún asunto publico exija tal
 
 IV.- Secretas cuando se trate de:
 
-a).- Erigirse en Gran Jurado para calificar las causas de responsabilidad de sus miembros, por delitos cometidos en el desempeño de sus funciones.
+a).- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 b).- Declarar si hay lugar o no a formación de causa, conforme a lo dispuesto en el Artículo 172, constitucional.
 
@@ -985,7 +985,7 @@ TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transpa
 
 P.O. 9 DE ABRIL DE 2013.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 254 POR EL QUE SE EXPIDE EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; Y SE DEROGA EL CAPÍTULO VI "DE LAS COMISIONES" DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 254 POR EL QUE SE EXPIDE EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; Y SE DEROGA EL CAPÍTULO VI “DE LAS COMISIONES” DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA”.]
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -998,3 +998,11 @@ P.O. 8 DE JULIO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 082 POR EL QUE SE REFORMA EL ARTÍCULO 4, EL ARTÍCULO 26, EL PÁRRAFO TERCERO DEL ARTÍCULO 65, LA FRACCIÓN II DEL ARTÍCULO 73, Y SE DEROGAN LA FRACCIÓN XVI DEL ARTÍCULO 16, EL PRIMER PÁRRAFO DEL ARTÍCULO 65, Y EL CAPÍTULO II DENOMINADO DE LA DECLARATORIA DE PROCEDENCIA, DEL TÍTULO DÉCIMO PRIMERO DENOMINADO DE LAS FACULTADES JURISDICCIONALES, INTEGRADO POR LOS ARTÍCULOS 155, 156 Y 157, TODO DE LA LEY ORGÁNICA DE PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE DEROGA EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 29 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del decreto por el que se reforma el artículo 72 y se derogan la fracción XVII del artículo 75, la fracción VII del artículo 160, el artículo 162 y el artículo 163, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
