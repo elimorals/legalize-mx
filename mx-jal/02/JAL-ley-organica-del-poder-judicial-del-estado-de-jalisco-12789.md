@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2017-03-04"
+last_updated: "2017-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -47,11 +47,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
 La presente Ley Orgánica del Poder Judicial, es reglamentaria de los artículos de la Constitución Política relativos a la administración de justicia en el Estado Libre y Soberano de Jalisco.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-Esta ley tiene por objeto regular la organización y funcionamiento del Supremo Tribunal de Justicia, Tribunal de lo Administrativo, Juzgados de Primera Instancia, Especializados y Mixtos, Juzgados Menores y de Paz, Jurado Popular, Consejo General del Poder Judicial del Estado y demás órganos y dependencias que lo integren.
+Esta ley tiene por objeto regular la organización y funcionamiento del Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Especializados y Mixtos, Juzgados Menores y de Paz, Jurado Popular, Consejo de la Judicatura y demás órganos y dependencias que lo integren.
 
 ### CAPÍTULO II. DEL EJERCICIO, OBJETO Y JURISDICCIÓN
 
@@ -63,7 +63,7 @@ I. El Supremo Tribunal de Justicia;
 
 II. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
-III. El Tribunal de lo Administrativo;
+III. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 IV. Los Juzgados de Primera Instancia, Especializados y Mixtos;
 
@@ -161,9 +161,7 @@ Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con
 
 El primer día hábil en que entre en funciones el Presidente electo, en sesión extraordinaria, el Pleno determinará la integración de las Salas, en votación secreta por cédula y con escrutinio público.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-La elección de Presidente del Tribunal de lo Administrativo, será en la forma y términos que señala esta Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
@@ -195,7 +193,7 @@ El Magistrado, Juez y Secretario que pasen a formar parte del Consejo General de
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS ADMINISTRATIVOS AUXILIARES DE LOS TRIBUNALES
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPÍTULO V. DE LA PLANEACIÓN INSTITUCIONAL DEL PODER JUDICIAL
 
@@ -213,9 +211,9 @@ IV. Evaluar por conducto de sus Plenos una vez al año; y
 
 V. Las demás que establezcan las leyes y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-Artículo 16 B.- El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo y el Consejo General del Poder Judicial precisarán en el Pian General del Poder Judicial sus objetivos, directrices, políticas, estrategias y líneas de acción que coadyuven a la mejora de la administración de la justicia en la Entidad.
+Artículo 16 B.- El Supremo Tribunal de Justicia y el Consejo de la Judicatura precisarán en el Plan General del Poder Judicial sus objetivos, directrices, políticas, estrategias y líneas de acción que coadyuven a la mejora de la administración de la justicia en la Entidad.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -231,9 +229,9 @@ En caso de rechazo por parte del Poder Judicial en lo que le afecte no surtirán
 
 Artículo 16 E.- El Poder Judicial a través del Presidente del Supremo Tribunal de Justicia, rendirá un informe anual del desarrollo del Plan General y los programas operativos anuales, el cual podrá enviarlo al Congreso del Estado y al titular del Ejecutivo, para que sea tomado en cuenta por el primero para el presupuesto de egresos del año siguiente y el segundo para que fije el techo financiero sin modificación alguna.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-Artículo 16 F.- Previo a la aprobación de su Programa Operativo Anual, el Supremo Tribunal de Justicia, el Tribunal de lo Administrativo y el Consejo General del Poder Judicial, podrán recabar opinión del COPLADE, y/o del Comité de Planeación para el Desarrollo del Poder Legislativo.
+Artículo 16 F.- Previo a la aprobación de su Programa Operativo Anual, el Supremo Tribunal de Justicia y el Consejo de la Judicatura, podrán recabar opinión del COPLADE o del Comité de Planeación para el Desarrollo del Poder Legislativo.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -245,7 +243,7 @@ Artículo 16 H.- El Comité de Planeación del Poder Judicial estará integrado 
 
 I. El Presidente del Supremo Tribunal de Justicia;
 
-II. El Presidente del Tribunal de lo Administrativo;
+II. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 III. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
@@ -261,9 +259,9 @@ En caso de ausencia de alguno de los integrantes señalados en las fracciones I,
 
 Artículo 16 I.- El Comité de Planeación del Poder Judicial será el encargado de elaborar el Plan General del Poder Judicial, y podrá promover la participación de los colegios o barras de abogados, universidades, colegio de notarios y demás organismos sociales y privados, en el diseño de los planes y programas que norman el funcionamiento del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-Artículo 16 J.- Para que adquiera vigencia el Plan General del Poder Judicial, su actualización o modificación, y sus programas operativos anuales, deberán ser aprobados por el Pleno del Supremo Tribunal de Justicia y cuando menos por otro de los plenos, del Tribunal de lo Administrativo o del Consejo General del Poder Judicial.
+Artículo 16 J.- Para que adquiera vigencia el Plan General del Poder Judicial, su actualización o modificación, y sus programas operativos anuales, deberán ser aprobados por el Pleno del Supremo Tribunal de Justicia y el Consejo de la Judicatura.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -289,7 +287,7 @@ II. El programa operativo anual será aprobado a más tardar el día 25 de octub
 
 ###### Artículo 15.
 
-El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo y el Consejo General del Poder Judicial del Estado de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
+El Supremo Tribunal de Justicia y el Consejo de la Judicatura de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
 
 ###### Artículo 16.
 
@@ -423,9 +421,9 @@ XIV. Aprobar, modificar o rechazar, los convenios que el Presidente en represent
 
 XV. Resolver los conflictos de competencia que se susciten entre las salas; en este caso sus integrantes sólo tendrán voz, pero no voto;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con los elaborados por el Tribunal de lo Administrativo y Consejo General los envíe al Titular del Poder Ejecutivo;
+XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con el elaborado por el Consejo de la Judicatura los envíe al Titular del Poder Ejecutivo;
 
 XVII. Presentar al Poder Legislativo iniciativas de ley, en el ramo de justicia;
 
@@ -841,331 +839,77 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 ###### Artículo 57.
 
-El Tribunal de lo Administrativo, es el órgano especializado del Poder Judicial del Estado, con plena jurisdicción para resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los municipios y de los organismos descentralizados de ambos, con los particulares, además de las que surjan entre el Estado y los municipios, o de éstos entre sí. El Tribunal de lo Administrativo conocerá también, de los conflictos laborales que se susciten con sus propios trabajadores.
-
-> <small>(REFORMADO P.O. 18 DE ENERO DE 2000)</small>
-
-El Tribunal de lo Administrativo, residirá en la capital del Estado, asimismo tendrá Salas Regionales que funcionarán en las cabeceras municipales que autorice el Pleno del Tribunal, Así como Sala Auxiliar en la capital del estado, con base en la disponibilidad presupuestal, con la competencia y jurisdicción que el Pleno del Tribunal les asigne y dictará sus resoluciones con base en los principios de autonomía, independencia e imparcialidad.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO III. DEL PRESIDENTE DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 58.
 
-El Tribunal de lo Administrativo del Poder Judicial lo constituyen:
-
-I. El Pleno del Tribunal;
-
-II. Las salas necesarias para la resolución de los asuntos de su competencia;
-
-III. La Secretaría General de Acuerdos;
-
-IV. Los secretarios de cada Sala;
-
-V. Los actuarios; y
-
-VI. El personal administrativo que requiera para su buen funcionamiento.
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2000)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 59.
 
-El Tribunal de lo Administrativo funcionará en Pleno o en Salas, el Pleno del Tribunal será integrado por los Magistrados que Presiden Sala con residencia en la capital del Estado, excepción hecha de los magistrados que integran Sala Auxiliar.
-
-El Tribunal de lo Administrativo estará integrado por la cantidad de Magistrados, que sean necesarios para el buen despacho de los asuntos de su competencia, los cuales, en ningún caso serán menos de seis los Magistrados que presidan Sala con residencia en la capital del Estado.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 60.
 
-El procedimiento para la elección de los magistrados del Tribunal de lo Administrativo, se sujetará a las siguientes bases:
-
-I. El Consejo General del Poder Judicial, previa convocatoria realizada por el Congreso del Estado a la sociedad en general, exceptuando a los partidos políticos, someterá a consideración del Poder Legislativo del Estado, una lista de candidatos que contenga por lo menos el doble del número de magistrados a elegir, anexando los documentos que sean necesarios para acreditar que tienen la aptitud para ocupar el cargo y que cumplen con los requisitos de ley;
-
-II. La elección del Magistrado que deba cubrir una vacante, se realizará por el Congreso del Estado, por acuerdo de las dos terceras partes de los diputados presentes, dentro de un término improrrogable de treinta días; de lo contrario, se entenderá rechazada la totalidad de los candidatos propuestos, en cuyo caso, el Consejo General del Poder Judicial, someterá una nueva propuesta ante el Congreso del Estado, la cual estará integrada por personas distintas a la inicial, para lo cual se deberán cumplir los requisitos señalados en el presente artículo;
-
-III. En caso de que la nueva propuesta fuera rechazada, ocupará el cargo la persona que dentro de dichas listas hubiere obtenido mayor número de votos; y
-
-IV. Para la elección de magistrados del Tribunal de lo Administrativo, tendrán preferencia aquéllas personas que hayan destacado por su honorabilidad, competencia y antecedentes en la profesión jurídica o que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 61.
 
-Los magistrados del Tribunal de lo Administrativo, durarán en el ejercicio de su cargo siete años, contados a partir de la fecha en que rindan la protesta de ley, al término de los cuales, podrán ser ratificados, y si lo fueren, continuarán en su función por diez años más y no podrán en ningún caso volver a ocupar el cargo. Sólo podrán ser removidos en los términos que establece la Constitución Política del Estado de Jalisco y la ley de la materia.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 62.
 
-Para ser electo Magistrado del Tribunal de lo Administrativo se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles; ser nativo del Estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
-
-II. Tener cuando menos treinta y cinco años cumplidos el día de la elección;
-
-III. Poseer el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en derecho, abogado o su equivalente, expedido por autoridad o institución legalmente facultada para ello y registrado en la Dirección de Profesiones del Estado;
-
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
-
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día de la elección, y
-
-VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día que tenga verificativo la elección.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 63.
 
-Para la elección del Magistrado que presidirá el Tribunal de lo Administrativo, el Pleno realizará una votación por cédula, secreta y en escrutinio público, en la primera sesión de cada año. El Magistrado que haya obtenido mayoría de votos, durará un año en su encargo y podrá ser reelecto.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 64.
 
-El Presidente del Tribunal de lo Administrativo, tendrá las siguientes atribuciones:
-
-I. Representar al Tribunal ante toda clase de autoridades;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
-
-II. Presidir una de las Salas del Tribunal del primer Distrito Judicial del Estado;
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
-
-III. Integrar el Pleno del Tribunal, con los demás magistrados presidentes de Sala Unitaria, no Auxiliar, con residencia en la capital del Estado;
-
-IV. Conocer y despachar la correspondencia del Tribunal;
-
-V. Presidir las comisiones que designe el Tribunal en Pleno;
-
-VI. Dirigir los debates y cuidar el mantenimiento del orden en las sesiones del Tribunal;
-
-VII. Dar a conocer al Tribunal en Pleno, las contradicciones de que tenga conocimiento entre sentencias dictadas por las salas;
-
-VIII. Tramitar los asuntos de la competencia del Tribunal en Pleno, hasta su resolución, y remitirlos al Magistrado designado por turno, como ponente;
-
-IX. Proponer al Pleno, los nombramientos y remociones del personal administrativo de la Presidencia y de la Secretaría General de Acuerdos del Tribunal;
-
-X. Conceder o negar licencias económicas hasta por cinco días por año, a los secretarios, actuarios y al personal administrativo, en los términos de las disposiciones aplicables, previa opinión del Presidente de la Sala que corresponda;
-
-XI. Dictar las medidas que exijan el buen servicio y la disciplina del Tribunal e imponer las sanciones administrativas que procedan a los secretarios, actuarios y personal administrativo, dando cuenta al Pleno de las mismas;
-
-XII. Dictar las órdenes relacionadas con el ejercicio del presupuesto del Tribunal;
-
-XIII. Autorizar, en unión con el Secretario General de Acuerdos, las actas en las que se harán constar las deliberaciones del Tribunal en Pleno y los acuerdos que éste dicte;
-
-XIV. Realizar los actos y dictar los acuerdos en que no se requiera la intervención del Tribunal en Pleno;
-
-XV. Rendir los informes previos y justificados en contra del Pleno del Tribunal;
-
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
-
-XVI. Remitir al congreso del Estado el dictamen técnico a que se refiere la fracción XXVII del artículo 23 de la presente ley.
-
-El dictamen técnico, así como los demás datos, información y opiniones que se hagan llegar al Congreso del Estado, tanto del Tribunal de lo Administrativo, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar, a los magistrados del Tribunal de lo Administrativo.
-
-Para efectos de un adecuado control y evaluación de las labores del Tribunal de lo Administrativo, elaborará y conservará un dictamen semestral de cada uno de los Magistrados, con los elementos que establece la fracción XXVI del artículo 23 de esta Ley.
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
-
-XVII. Proponer al Pleno del Tribunal de lo Administrativo los nombramientos del Secretario del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal de lo Administrativo, así como el del representante de este último, ante la correspondiente Comisión Substanciadora;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
-
-XVIII. Tener voto de calidad, en caso de empate en las resoluciones del Pleno del Tribunal de lo Administrativo, relativos a los juicios y reclamaciones que promuevan sobre la aplicación de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios; y
-
-XIX. Las demás que le confiera el Pleno del Tribunal.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017
 
 ### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2000)</small>
-
 ###### Artículo 65.
 
-Son atribuciones del Pleno del Tribunal de lo Administrativo:
-
-I. Designar a su Presidente;
-
-II. Resolver los conflictos de competencia que surjan entre el Estado y los municipios y de éstos entre sí;
-
-III. Conceder licencias a los magistrados hasta por un mes, en el período de un año, con goce de sueldo, existiendo causa justificada; y hasta por dos meses, sin goce de sueldo, en los términos de las disposiciones aplicables, a los secretarios, actuarios y demás personal administrativo del Tribunal, así como reglamentar lo relativo a las vacaciones y guardias de todos los servidores públicos del Tribunal;
-
-IV. Establecer las reglas para la distribución de los negocios entre los magistrados;
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
-
-V. Autorizar el establecimiento de las Salas Regionales y Auxiliares, así como fijar la adscripción de los magistrados;
-
-VI. Nombrar al Secretario General de Acuerdos, formular la lista de auxiliares y aprobar o rechazar los nombramientos y remociones propuestas por las salas;
-
-VII. Discutir, y en su caso, aprobar el proyecto de Presupuesto de Egresos del Tribunal, que deberá formular el Presidente, el cual, una vez aprobado, deberá ser enviado al Presidente del Supremo Tribunal de Justicia, para su inclusión en el proyecto de Presupuesto de Egresos del Poder Judicial;
-
-VIII. Expedir, modificar y derogar el reglamento interior del Tribunal;
-
-IX. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal;
-
-X. Calificar las excusas, recusaciones e impedimentos de los magistrados y, en su caso, designar a los magistrados que deban substituirlos;
-
-XI. Resolver los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios;
-
-XII. Fijar la jurisprudencia del Tribunal, resolviendo las contradicciones existentes en las salas;
-
-XIII. Elevar iniciativas de leyes en el ámbito de su competencia, por conducto del Supremo Tribunal de Justicia, al Congreso del Estado;
-
-XIV. Resolver los conflictos de trabajo suscitados entre el Tribunal de lo Administrativo y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
-
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
-
-XV. Elaborar el dictamen técnico en el que se analice y emita opinión sobre la actuación y el desempeño de los magistrados, siguiendo los requisitos que señala el artículo 23 fracción XXVII de la presente ley;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
-
-XVI. Designar, a propuesta de su Presidente, al representante del Tribunal de lo Administrativo ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
-
-XVII. El conocimiento y resolución de las reclamaciones que se presenten con motivo de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
-
-XVIII. El conocimiento y resolución de las reclamaciones presentadas por particulares por responsabilidad patrimonial del Tribunal de lo Administrativo; y
-
-XIX. Las demás que determinen las leyes.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 66.
 
-Todas las Salas del Tribunal de lo Administrativo serán conformadas con carácter unitario, inclusive las Auxiliares que autorice el Pleno.
-
-En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Tribunal de lo Administrativo turnará el asunto a la Sala que en el orden corresponda, si el asunto se tramitó originalmente en cualquiera de las salas residentes dentro de la capital del estado. Tratándose de asuntos del conocimiento de las salas regionales, se turnará el asunto a la más cercana al domicilio de la que conoció en primer término.
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Las faltas de los magistrados propietarios del Tribunal de lo Administrativo que excedan de quince días hábiles en caso de licencia, así como las vacantes de dichos cargos en tanto toma posesión el nuevo propietario, serán cubiertas con un Secretario de la Sala que actuará en funciones de Magistrado previo acuerdo del Pleno del Tribunal y siempre que cumplan con los requisitos constitucionales para el cargo. Sin que esta suplencia pueda exceder de tres meses. Cumplido este plazo el Pleno del Tribunal nombrará otro sustituto. En caso de que la vacante sea definitiva instará al Congreso del Estado de Jalisco a que realice el nombramiento respectivo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 67.
 
-El Pleno del Tribunal de lo Administrativo conocerá de los asuntos en que se dé trámite a recursos de apelación, reclamación y los que se deriven de la aplicación de la Ley de Responsabilidad Patrimonial del Estado y de los Municipios.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
-
-Las Salas del primer distrito judicial del estado, las Regionales y las Auxiliares del Tribunal de lo Administrativo, conocerán de los juicios que se instauren en contra de:
-
-I. Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los municipios y de los organismos descentralizados, cuando éstos actúen como autoridades, que causen agravio a los particulares;
-
-II. Las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o municipales, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquiera otra clase de agravio en materia fiscal;
-
-III. De los juicios que promuevan las autoridades estatales y municipales, para que sean nulificadas las resoluciones administrativas favorables a un particular;
-
-IV. El procedimiento administrativo de ejecución, cuando el afectado en dicho procedimiento opte por no interponer el recurso ordinario ante las autoridades competentes y cuando afirme:
-
-a).Que el crédito que se le exige, se ha extinguido legalmente;
-
-b).Que el monto del crédito es inferior al exigible;
-
-c).Que es poseedor, a título de propietario de los bienes embargados en el procedimiento económico coactivo seguido a otras personas, o acreedor preferente al fisco; y
-
-d).Que el procedimiento coactivo no se ajustó a la ley. En este último caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate; salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
-
-V. La negativa de una autoridad para ordenar la devolución de un ingreso ilegalmente percibido;
-
-VI. Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los ayuntamientos y sus organismos descentralizados;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
-
-VII. Los actos de las autoridades del Estado, cuando por virtud de los convenios de coordinación, los ayuntamientos sufran algún agravio en materia fiscal;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
-
-VIII. Las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Administrativo del Estado; y
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
-
-IX. Los actos de las autoridades estatales y municipales, relativos a la relación administrativa con sus cuerpos de seguridad pública.
-
-(REPUBLICADO, P.O. 22 DE JUNIO DE 2006)
-
-Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas, cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 68.
 
-Son atribuciones del Presidente de las Salas:
-
-I. Dar curso a la correspondencia de la sala, autorizándola con su firma;
-
-II. Rendir informes previos y justificados, en los juicios de amparo que se promuevan en contra de la Sala;
-
-III. Dictar las medidas que exijan el orden, buen servicio y la disciplina de la Sala y exigir se guarde el respeto y consideración debidos;
-
-IV. Imponer correcciones disciplinarias al personal;
-
-V. Decretar las medidas de apremio para hacer cumplir las determinaciones de la Sala o del magistrado instructor;
-
-VI. Emitir opinión, respecto a las solicitudes de licencia que presente el personal de la Sala; y
-
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
-
-VII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 69.
 
-En los actos en que deba dejarse constancia en autos, intervendrá un Secretario, quien los autorizará con su firma, excepción hecha de las encomendadas a otros servidores.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 70.
 
-El Secretario General de Acuerdos, tendrá las siguientes atribuciones:
-
-I. Acordar con el Presidente del Tribunal, lo relativo a las sesiones del Pleno;
-
-II. Estar presente en todas las sesiones del Pleno del Tribunal, teniendo en ellas voz informativa, así como levantar las actas en el libro correspondiente y al terminarlas, recabar las firmas de los magistrados;
-
-III. Autorizar con su firma, las resoluciones del Pleno;
-
-IV. Llevar el registro de los auxiliares que pueden ser designados peritos terceros o en rebeldía de las partes;
-
-V. Llevar el registro de los servidores públicos del Tribunal;
-
-VI. Expedir los certificados de constancias que obren en los expedientes de la Secretaría General;
-
-VII. Llevar el turno de los magistrados que deban formular ponencias para la resolución del Tribunal en Pleno y el de las substituciones; y
-
-VIII. Las demás que le encomiende el Presidente y el Pleno del Tribunal.
-
-Las faltas temporales del Secretario General de Acuerdos, serán suplidas por los Secretarios de las salas, conforme a las reglas que determine el Pleno del Tribunal.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 71.
 
-Corresponde a los Secretarios de las salas del Tribunal de lo Administrativo:
-
-I. Dar cuenta en las audiencias, de los asuntos encomendados a los magistrados instructores;
-
-II. Proyectar los acuerdos de trámite;
-
-III. Efectuar las diligencias que les encomiende el Magistrado instructor o la Sala, cuando éstas deban practicarse fuera del local del Tribunal;
-
-IV. Redactar y autorizar las actas de las audiencias en las que corresponda dar cuenta, así como autorizar las resoluciones que recaigan en los expedientes;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-V. Expedir certificados de las constancias que obren en los expedientes de la Sala a la que estén adscritos;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-VI. Suplir las faltas a que se refiere el artículo 66 de este ordenamiento, respecto de las ausencias temporales del Magistrado de la Sala a que se encuentren adscritos; y
-
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-VII. Las demás que señalen las disposiciones legales aplicables.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 72.
 
-Corresponde a los actuarios del Tribunal de lo Administrativo:
-
-I. Notificar en el tiempo y forma prescritos por la ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
-
-II. Practicar las diligencias que le encomiende el Magistrado instructor, o la Sala; y
-
-III. Las demás que señalen las disposiciones legales aplicables.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ## TÍTULO CUARTO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL
 
@@ -1755,7 +1499,7 @@ El procedimiento, recusación, el orden que debe seguirse en las audiencias y en
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 130.
 
@@ -1801,7 +1545,7 @@ De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secreta
 
 ###### Artículo 136.
 
-La administración, vigilancia, disciplina y Carrera Judicial del Poder Judicial del Estado de Jalisco, con excepción del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, estarán a cargo del Consejo General del Poder Judicial, en los términos que establecen la Constitución Política del Estado de Jalisco y la presente ley.
+La administración, vigilancia, disciplina y Carrera Judicial del Poder Judicial del Estado de Jalisco, con excepción del Supremo Tribunal de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que establecen la Constitución Política del Estado de Jalisco y la presente ley.
 
 ###### Artículo 137.
 
@@ -1887,9 +1631,9 @@ IV. Nombrar a propuesta del Presidente, al Secretario General; y a propuesta de 
 
 V. Conceder licencias a los directores, al Secretario General y a los consejeros, en los términos previstos en esta ley;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo;
+VI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -1907,17 +1651,17 @@ IX. Suspender en sus funciones a los jueces de primera instancia, menores y de p
 
 X. Resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos del Poder Judicial en términos de lo que disponen la Constitución Política del Estado y la ley;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Aprobar el proyecto del Presupuesto de Egresos del Poder Judicial del Estado con excepción de los del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, el cual se remitirá al presidente del Supremo Tribunal de Justicia para que, junto con los elaborados por los tribunales, se envíe al Titular del Poder Ejecutivo;
+XI. Aprobar el proyecto del Presupuesto de Egresos del Poder Judicial del Estado con excepción del correspondiente al Supremo Tribunal de Justicia, el cual se remitirá al presidente del Supremo Tribunal de Justicia para que, junto con el elaborado por dicho tribunal, se envíe al Titular del Poder Ejecutivo;
 
 XII. Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
 
 XIII. Nombrar, a propuesta que haga su Presidente, al Secretario General, a los directores y a los titulares de los órganos auxiliares del Consejo General del Poder Judicial del Estado; resolver sobre sus renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos que procedan;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial de la Entidad, a excepción del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, en ejercicio de su Presupuesto de Egresos, se ajusten a los criterios contemplados en la Constitución Política del Estado y los ordenamientos que de ella emanan;
+XIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial de la Entidad, a excepción del Supremo Tribunal de Justicia, en ejercicio de su Presupuesto de Egresos, se ajusten a los criterios contemplados en la Constitución Política del Estado y los ordenamientos que de ella emanan;
 
 XV. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público;
 
@@ -1931,9 +1675,9 @@ XIX. Autorizar a los secretarios de los juzgados para desempeñar las funciones 
 
 XX. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados, cuando en un mismo lugar haya varios de ellos;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XXI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo General, con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo;
+XXI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura, con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia;
 
 XXII. Designar, a propuesta de su Presidente, al representante del Consejo General ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
 
@@ -1947,9 +1691,9 @@ XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta veces el va
 
 XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XXVI. Ejercer el Presupuesto de Egresos del Poder Judicial del Estado, con excepción del que corresponde al Supremo Tribunal de Justicia y al Tribunal de lo Administrativo;
+XXVI. Ejercer el Presupuesto de Egresos del Poder Judicial del Estado, con excepción del que corresponde al Supremo Tribunal de Justicia;
 
 XXVII. Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo General del Poder Judicial del Estado;
 
@@ -1957,9 +1701,9 @@ XXVIII. Nombrar a los servidores públicos de los órganos auxiliares del Consej
 
 XXIX. Fijar los períodos vacacionales de los jueces de primera instancia, menores y de paz;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XXX. Administrar los bienes muebles e inmuebles del Poder Judicial de la Entidad, a excepción de los que correspondan al Supremo Tribunal de Justicia y al Tribunal de lo Administrativo, cuidando su mantenimiento, conservación y acondicionamiento;
+XXX. Administrar los bienes muebles e inmuebles del Poder Judicial de la Entidad, a excepción de los que correspondan al Supremo Tribunal de Justicia, cuidando su mantenimiento, conservación y acondicionamiento;
 
 XXXI. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
 
@@ -2171,7 +1915,7 @@ La dirección contará con un área de investigación, la cual tendrá como func
 
 ### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 167.
 
@@ -2285,7 +2029,7 @@ VI. (SIC) Las demás que esta Ley, su Reglamento y demás disposiciones aplicabl
 
 ###### Artículo 178.
 
-Las Direcciones de Planeación, Administración y Finanzas y de Contraloría y Evaluación, tendrán a su cargo el control y la inspección respectivamente del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial del Estado, con excepción de aquellas que correspondan al Supremo Tribunal de Justicia y al Tribunal de lo Administrativo.
+Las Direcciones de Planeación, Administración y Finanzas y de Contraloría y Evaluación, tendrán a su cargo el control y la inspección respectivamente del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial del Estado, con excepción de aquellas que correspondan al Supremo Tribunal de Justicia.
 
 ###### Artículo 179.
 
@@ -2507,15 +2251,17 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 Los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco Y CUANDO SE ENCUENTREN PRIVADOS DE LA LIBERTAD CON MOTIVO DE UN PROCESO PENAL.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 197.
 
-Los magistrados del Supremo Tribunal y del Tribunal de lo Administrativo, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
+Los magistrados del Supremo Tribunal serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 198.
 
@@ -2661,13 +2407,13 @@ VII. Retirarse de su área de trabajo sin autorización o causa justificada.
 
 Serán competentes para conocer de las responsabilidades de los servidores públicos del Poder Judicial del Estado:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-I. El Supremo Tribunal de Justicia y el Tribunal de lo Administrativo funcionando en Pleno, tratándose de faltas de sus magistrados y de las faltas graves cometidas por sus servidores públicos, respectivamente;
+I. El Supremo Tribunal de Justicia funcionando en Pleno, tratándose de faltas de sus magistrados y de las faltas graves cometidas por sus servidores públicos, respectivamente;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-II. El respectivo Presidente del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, cuando respectivamente se trate de servidores públicos de esos órganos, en los casos no comprendidos en la fracción anterior;
+II. El Presidente del Supremo Tribunal de Justicia cuando se trate de servidores públicos de ese órgano, en los casos no comprendidos en la fracción anterior;
 
 III. El Pleno del Consejo General del Poder Judicial del Estado, tratándose de faltas graves de jueces de primera instancia, menores y de paz, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público; y
 
@@ -2697,19 +2443,23 @@ I. Se enviará una copia del escrito de denuncia y sus anexos al servidor públi
 
 II. Recibido el informe y desahogadas las pruebas, si las hubiere, dentro de los dos días hábiles siguientes se expresarán alegatos por escrito. Concluido el término de alegatos, dentro de los treinta días hábiles siguientes se dictará resolución sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones IX y XI del artículo 198;
 
-III. Cuando se trate de los casos comprendidos en las fracciones VIII y X del artículo 198, el presidente del Tribunal competente o, en su caso, el órgano que determine el Consejo General del Poder Judicial del Estado, remitirán el asunto al Pleno del Tribunal respectivo o al del Consejo General del Poder Judicial del Estado, para que cite al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+III. Cuando se trate de los casos comprendidos en las fracciones VIII y X del artículo 198, el presidente del Supremo Tribunal de Justicia o, en su caso, el órgano que determine el Consejo de la Judicatura, remitirán el asunto al Pleno respectivo, para que cite al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
 
 Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
 IV. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias en su caso; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-V. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Supremo Tribunal de Justicia y el Tribunal de lo Administrativo o el Consejo General del Poder Judicial del Estado, o sus respectivos presidentes, o el órgano que determine el Consejo General del Poder Judicial del Estado, según corresponda, podrán determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+V. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Supremo Tribunal de Justicia o el Consejo de la Judicatura, o sus respectivos presidentes, o el órgano que determine el Consejo de la Judicatura, según corresponda, podrán determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
 
 Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
 
-Cuando la falta motivo de la queja fuere leve, los presidentes de los tribunales respectivos o el órgano que determine el Consejo General del Poder Judicial del Estado impondrán la sanción que corresponda y dictarán las medidas para su corrección o remedio inmediato; si la falta fuere grave, remitirán el asunto al Pleno del correspondiente Tribunal o al del Consejo General del Poder Judicial del Estado según sea el caso, a fin de que procedan de acuerdo con sus facultades.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando la falta motivo de la queja fuere leve, el presidente de (sic) Supremo Tribunal de Justicia o el órgano que determine el Consejo de la Judicatura impondrán la sanción que corresponda y dictarán las medidas para su corrección o remedio inmediato; si la falta fuere grave, remitirán el asunto al Pleno respectivo, a fin de que procedan de acuerdo con sus facultades.
 
 ###### Artículo 204.
 
@@ -2735,17 +2485,19 @@ Con independencia de si el motivo de la queja da o no lugar a responsabilidad, e
 
 Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Judicial del Estado o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 206.
 
-Las resoluciones por las que el Pleno del Consejo General del Poder Judicial del Estado imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal de lo Administrativo mediante el recurso de revisión administrativa.
+Las resoluciones por las que el Pleno del Consejo de la Judicatura imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Tribunal de Justicia Administrativa mediante el recurso de revisión administrativa.
 
 ### CAPÍTULO I. DE LOS TRIBUNALES
 
 ###### Artículo 207.
 
-Las resoluciones dictadas por el Consejo General del Poder Judicial del Estado serán definitivas e inatacables, salvo las que se refieran al nombramiento, adscripción, cambios de adscripción y remoción de jueces de primera instancia, las cuales podrán impugnarse ante el Pleno del Tribunal de lo Administrativo, mediante el recurso de revisión administrativa.
+Las resoluciones dictadas por el Consejo de la Judicatura serán definitivas e inatacables, salvo las que se refieran al nombramiento, adscripción, cambios de adscripción y remoción de jueces de primera instancia, las cuales podrán impugnarse ante el Tribunal de Justicia Administrativa, mediante el recurso de revisión administrativa.
 
-El recurso de revisión administrativa tendrá como único objeto que el Pleno del Tribunal de lo Administrativo determine si el Consejo General del Poder Judicial del Estado nombró, adscribió, readscribió o removió a un Juez, con estricto apego a los requisitos formales previstos en esta ley, o en los reglamentos interiores y acuerdos generales expedidos por el propio Consejo General.
+El recurso de revisión administrativa tendrá como único objeto que el Tribunal de Justicia Administrativa determine si el Consejo de la Judicatura nombró, adscribió, readscribió o removió a un Juez, con estricto apego a los requisitos formales previstos en esta ley, o en los reglamentos interiores y acuerdos generales expedidos por el propio Consejo de la Judicatura.
 
 ###### Artículo 208.
 
@@ -2757,9 +2509,11 @@ II. Tratándose de las resoluciones de remoción, por el servidor público afect
 
 III. Tratándose de las resoluciones de cambio de adscripción, por el funcionario judicial que hubiera solicitado el cambio de adscripción y se le hubiere negado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 209.
 
-El recurso de revisión administrativa deberá presentarse por escrito ante el Presidente del Consejo General del Poder Judicial del Estado, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de la resolución que haya de combatirse. El escrito de revisión y el informe correspondiente será turnado al Tribunal de lo Administrativo, dentro de los cinco días hábiles siguientes, donde se le dará curso según el turno que corresponda. El informe mencionado deberá ir acompañado de todos aquellos elementos probatorios que permitan la resolución del asunto y será rendido por uno de los consejeros que hubiere votado a favor de la decisión, quien representará al Consejo General del Poder Judicial del Estado durante el procedimiento.
+El recurso de revisión administrativa deberá presentarse por escrito ante el Presidente del Consejo de la Judicatura, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de la resolución que haya de combatirse. El escrito de revisión y el informe correspondiente será turnado al Tribunal de Justicia Administrativa, dentro de los cinco días hábiles siguientes, donde se le dará curso según el turno que corresponda. El informe mencionado deberá ir acompañado de todos aquellos elementos probatorios que permitan la resolución del asunto y será rendido por uno de los consejeros que hubiere votado a favor de la decisión, quien representará al Consejo de la Judicatura durante el procedimiento.
 
 ###### Artículo 210.
 
@@ -2775,9 +2529,11 @@ En caso de que el recurso de revisión administrativa se presente en contra de r
 
 Cuando alguna de las partes ofrezcan una prueba documental que no obre en su poder, solicitará al Magistrado ponente para que requiera a la autoridad que cuente con ella a fin de que la proporcione a la brevedad posible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 213.
 
-Las resoluciones del Pleno del Tribunal de lo Administrativo que declaren fundado el recurso planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que el Consejo General del Poder Judicial del Estado dicte una nueva resolución en un plazo no mayor a treinta días naturales.
+Las resoluciones del Tribunal de Justicia Administrativa que declaren fundado el recurso planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que el Consejo de la Judicatura dicte una nueva resolución en un plazo no mayor a treinta días naturales.
 
 La nulidad del acto que se reclame no producirá la invalidez de las actuaciones del Juez de Primera Instancia, Menor o de Paz nombrado o adscrito.
 
@@ -2789,9 +2545,11 @@ La interposición de la revisión administrativa no interrumpirá en ningún cas
 
 Tratándose de conflictos relacionados con los servidores públicos de base, el procedimiento se substanciará a través de una comisión constituida con carácter permanente, la cual emitirá un dictamen que pasará al Pleno del Tribunal correspondiente o del Consejo General, para que éste resuelva lo conducente.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 215.
 
-Cada Comisión Substanciadora, se integrará con un representante ya sea del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, y del Consejo General del Poder Judicial, nombrado por el Pleno respectivo; otro que designará el Sindicato de Trabajadores del Poder Judicial y un tercero, nombrado de común acuerdo por ambos. El dictamen de la Comisión se emitirá por unanimidad o mayoría de votos.
+Cada Comisión Substanciadora, se integrará con un representante ya sea del Supremo Tribunal de Justicia y del Consejo de la Judicatura, nombrado por el Pleno respectivo; otro que designará el Sindicato de Trabajadores del Poder Judicial y un tercero, nombrado de común acuerdo por ambos. El dictamen de la Comisión se emitirá por unanimidad o mayoría de votos.
 
 ###### Artículo 216.
 
@@ -2963,15 +2721,23 @@ Quedan sujetos a las determinaciones de esta ley, su reglamento y las demás ley
 
 La jurisprudencia se formará como norma obligatoria para los órganos jurisdiccionales sujetos a la presente ley.
 
-En asuntos de competencia del Pleno del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, y sus respectivas salas, habrá jurisprudencia cuando se esté en presencia de cinco fallos en un mismo sentido y sin interrupción.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+En asuntos de competencia del Pleno del Supremo Tribunal de Justicia y sus respectivas salas, habrá jurisprudencia cuando se esté en presencia de cinco fallos en un mismo sentido y sin interrupción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 239.
 
-El Pleno del Supremo Tribunal de Justicia y el Pleno del Tribunal de lo Administrativo en el ámbito de sus competencias declararán, con arreglo a la presente ley y su reglamento, los casos en que exista jurisprudencia definida y ordenarán su publicación en el Boletín Judicial, para que desde luego surta efectos.
+El Pleno del Supremo Tribunal de Justicia en el ámbito de su competencia declarará, con arreglo a la presente ley y su reglamento, los casos en que exista jurisprudencia definida y ordenará su publicación en el Boletín Judicial, para que desde luego surta efectos.
 
-Para tales efectos, el Pleno del Tribunal correspondiente remitirá de inmediato los criterios obligatorios al Consejo General del Poder Judicial para su publicación.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-En caso de que llegare a existir contradicción en la jurisprudencia de las salas, será el Pleno del Supremo Tribunal de Justicia o del Tribunal de lo Administrativo quien resuelva sin más trámite la que debe prevalecer.
+Para tales efectos, el Pleno del Tribunal remitirá de inmediato los criterios obligatorios al Consejo de la Judicatura para su publicación.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+En caso de que llegare a existir contradicción en la jurisprudencia de las salas, será el Pleno del Supremo Tribunal de Justicia quien resuelva sin más trámite la que debe prevalecer.
 
 Podrán denunciar la contradicción de jurisprudencia o de tesis:
 
@@ -2981,11 +2747,15 @@ II. Los juzgados que resolvieron; o
 
 III. Las partes que intervinieron.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 240.
 
-La jurisprudencia definida por el Supremo Tribunal y por el Tribunal de lo Administrativo en los asuntos de su competencia se interrumpe, dejando de tener carácter obligatorio, siempre que:
+La jurisprudencia definida por el Supremo Tribunal en los asuntos de su competencia se interrumpe, dejando de tener carácter obligatorio, siempre que:
 
-I. Se pronuncie ejecutoria en contrario acordada por el voto de cuando menos tres cuartas partes de los magistrados en funciones del Tribunal correspondiente; o
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+I. Se pronuncie ejecutoria en contrario acordada por el voto de cuando menos tres cuartas partes de los magistrados en funciones del Supremo Tribunal; o
 
 II. Exista jurisprudencia definida por parte del Poder Judicial de la Federación contraria al criterio sustentado por el Poder Judicial local.
 
@@ -3005,9 +2775,9 @@ Los magistrados del Poder Judicial tendrán derecho al haber por retiro, el cual
 
 El haber por retiro no se otorgará en los casos en que el magistrado sea privado de su cargo en forma definitiva por sanción que dispongan la Constitución Política del Estado, la Ley Orgánica del Poder Judicial, la Ley de Responsabilidades de los Servidores Públicos o el Código Penal, todos del estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-El Supremo Tribunal de Justicia y el Tribunal de lo Administrativo deberán establecer en sus proyectos de presupuestos de egresos los recursos necesarios para hacer frente al haber de retiro.
+El Supremo Tribunal de Justicia deberá establecer en su proyecto de presupuesto de egreso los recursos necesarios para hacer frente al haber de retiro.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3023,11 +2793,11 @@ I. El equivalente a doce meses del salario integrado que el cargo de magistrado 
 
 II. El equivalente a catorce días de salario integrado bajo los términos de la fracción anterior, por cada año de servicios prestados como magistrado.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 243.
 
-Los presidentes de los tribunales o quienes ejerzan sus funciones, a solicitud por escrito del interesado, procederán a formular el cálculo de la prestación que corresponda al magistrado por concepto de haber por retiro, además de sus prestaciones laborales, tomando en cuenta su permanencia en el cargo de magistrado y el último sueldo mensual integrado.
+El presidente del Supremo Tribunal de Justicia o quien ejerza sus funciones, a solicitud por escrito del interesado, procederán a formular el cálculo de la prestación que corresponda al magistrado por concepto de haber por retiro, además de sus prestaciones laborales, tomando en cuenta su permanencia en el cargo de magistrado y el último sueldo mensual integrado.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3462,3 +3232,33 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26273/LXI/17 QUE DEROGA EL ARTÍCULO 156 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26433/LXI/17, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 2, 3, 11, 15, 16 B, 16 F, 16 H, 16 J, 23, 136, 148, 178, 196, 197, 201, 203, 206, 207, 209, 213, 215, 238, 239, 240, 241 Y 243, Y DEROGA LOS ARTÍCULOS 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, Y 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO.”]
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Tribunal de lo Administrativo del Estado de Jalisco, perteneciente al Poder Judicial del Estado, se transforma en el Tribunal de Justicia Administrativa del Estado de Jalisco, como organismo constitucional autónomo, para todos los efectos jurídicos a que haya lugar.
+
+Todas las referencias en leyes, reglamentos, contratos, convenios y demás actos jurídicos, relativas al Tribunal de lo Administrativo del Estado de Jalisco, se entenderán hechas al Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+Todas las referencias en leyes, reglamentos, contratos, convenios y demás actos jurídicos, relativas al Pleno del Tribunal de lo Administrativo del Estado de Jalisco, se entenderán hechas a:
+
+I. La Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco, cuando se trate de asuntos materialmente jurisdiccionales; o
+
+II. La Junta de Administración del Tribunal de Justicia Administrativa del Estado de Jalisco, cuando se trate de los demás asuntos.
+
+TERCERO. Los magistrados del Tribunal de lo Administrativo del Estado de Jalisco continuarán en su cargo hasta concluir el periodo para el cual fueron designados, en las respectivas salas unitarias del Tribunal de Justicia Administrativa del Estado de Jalisco, cuya numeración se corresponda con la que encabezaban en el Tribunal de lo Administrativo del Estado de Jalisco.
+
+Los servidores públicos del Tribunal de lo Administrativo del Estado de Jalisco pasarán a integrarse al Tribunal de Justicia Administrativa del Estado de Jalisco, en la adscripción que determine la Junta de Administración de este último, preferentemente en el área similar que corresponda.
+
+CUARTO. Los juicios y procedimientos jurisdiccionales en curso ante las Salas unitarias del Tribunal de lo Administrativo del Estado de Jalisco, previamente a la vigencia del presente decreto, continuarán tramitándose ante la correspondiente Sala unitaria del Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+Los juicios y procedimientos jurisdiccionales en curso ante el Pleno del Tribunal de lo Administrativo del Estado de Jalisco, previamente a la vigencia del presente decreto, serán resueltos por la Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+Los procedimientos y asuntos no jurisdiccionales en curso ante el Pleno del Tribunal de lo Administrativo del Estado de Jalisco, previamente a la vigencia del presente decreto, serán resueltos por la Junta de Administración del Tribunal de Justicia Administrativa del Estado de Jalisco, salvo que de acuerdo a la Ley Orgánica del propio Tribunal corresponda su atención a la Sala Superior.
+
+QUINTO. Se faculta al Poder Ejecutivo del Estado para realizar todas las adecuaciones y modificaciones reglamentarias, administrativas y presupuestales, así como las gestiones ante las autoridades fiscales federales, que sean necesarias para el cumplimiento del presente decreto, en cuanto a la transformación del Tribunal de lo Administrativo del Estado como órgano del Poder Judicial del Estado, en el tribunal de Justicia Administrativa del Estado como organismo constitucional autónomo, con el apoyo de la intervención que se requiera por parte de la representación oficial del propio Tribunal.
+
+SEXTO. En tanto el Tribunal de Justicia Administrativa del Estado no expida o armonice sus disposiciones reglamentarias en los términos del presente decreto, se estará en lo que no lo contradiga a lo que determine el Reglamento vigente.
