@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2016-11-26"
+last_updated: "2017-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 26 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -1798,3 +1800,67 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25918/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 8, 9, 10, 11, 15, 17, 20, 23, 24, 25, 26, 27, 32, 36, 37, 38, 38 BIS, 39 BIS, 41, 44, 47, 48, 50, 51, 51 BIS, 51 TER, 60, 62, 65, 67, 68, 72, 73, 77, 79 BIS, 80, 88, 93, 93 BIS, 94, 95, 98, 102, 103, 104, 107, 119, 121, 123 BIS, 124, 125, 126, 127, 128, 129, 130, 131, 132, 132 BIS, 133 BIS, 134, 136, 142, 144, 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, LOS ARTÍCULOS 61, 69, Y 76 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y EL ARTÍCULO 179 DE LA LEY DE HACIENDA PÚBLICA MUNICIPAL TODAS DEL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO “DECRETO 26435/LXI/17, MEDIANTE EL CUAL SE EXPIDE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO Y ABROGA LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”, sin perjuicio de lo establecido en los siguientes transitorios.
+
+SEGUNDO. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y:
+
+I. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente decreto continuarán desahogándose y serán concluidos conforme a las disposiciones aplicables al momento del inicio del procedimiento; salvo que a petición de parte se solicite la aplicación de las disposiciones adjetivas de la Ley General de Responsabilidades Administrativas, pero atendiendo al principio de preclusión procesal.
+
+Para efectos de esta fracción, los procedimientos y las faltas administrativas previstas por la Ley que se abroga, continuarán vigentes hasta en tanto se concluyan los procedimientos correspondientes.
+
+II. Los hechos, actos y omisiones consumados con anterioridad a la vigencia del presente decreto, respecto de los cuales no se hubiera iniciado procedimiento de responsabilidad, serán sustanciados conforme a la Ley General de Responsabilidades Administrativas.
+
+Para efectos de esta fracción, las faltas administrativas previstas por la Ley que se abroga, continuarán vigentes hasta en tanto se concluyan los procedimientos correspondientes.
+
+III. Los hechos, actos y omisiones consumados a partir de la fecha de inicio de vigencia del presente decreto, serán sustanciados conforme a la Ley General de Responsabilidades Administrativas.
+
+TERCERO. Los procedimientos de juicio político denunciados con anterioridad a la entrada en vigor del presente decreto se desahogarán y serán concluidos conforme a las disposiciones aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco -que se abroga-, al momento de la presentación de la denuncia.
+
+Así mismo, los procedimientos de juicio político que se denuncien con posterioridad a la fecha de inicio de vigencia del presente decreto pero derivado de actos cometidos por los servidores públicos antes de esta fecha, se desahogarán conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco que se abroga, vigentes al momento en que se realizó el primer acto que originó la presunta responsabilidad.
+
+CUARTO. Las referencias que hagan otras leyes y reglamentos a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se entenderán hechas a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+QUINTO. En cumplimiento del artículo Transitorio Tercero del decreto mediante el que se expidió la Ley General de Responsabilidades Administrativas publicado en el Diario Oficial de la Federación el 18 de julio de 2016, los órganos internos de control de todos los entes públicos estatales y municipales deberán poner a disposición de los servidores públicos los formatos que se utilizan en el ámbito federal para que presenten sus declaraciones de situación patrimonial, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos correspondientes. Al efecto, estarán facultados por sí o a través del titular del ente público al que pertenezcan, a suscribir los convenios o celebrar los actos jurídicos a que hubiera lugar para el cumplimiento de esta disposición.
+
+En tanto se nombran a los titulares de los órganos internos de control, asumirán sus competencias quienes hayan venido ejerciendo las atribuciones de los órganos de control disciplinario, contralorías o cualquier otro ente con funciones análogas cualquiera que sea su denominación.
+
+En caso de que por cualquier motivo no se encuentren funcionando los órganos internos de control o quien haga sus veces, las declaraciones patrimonial, fiscal y de intereses serán presentadas ante el titular del ente público correspondiente, sin perjuicio de las posibles responsabilidades derivadas de la omisión de no contar con el órgano competente.
+
+Los órganos internos de control deberán realizar las actualizaciones normativas y tomar las medidas administrativas necesarias para el cumplimiento del presente decreto a más tardar el 31 de diciembre de 2017.
+
+SEXTO. Los servidores públicos deberán presentar ante su respectivo órgano interno de control o quien haga sus veces, las siguientes declaraciones:
+
+I. La declaración de situación patrimonial, conforme a las siguientes bases:
+
+a) Los servidores públicos obligados a presentar su declaración de situación patrimonial conforme a las disposiciones que se abrogan mediante el presente decreto, que hubieran cumplido con la obligación de presentar su declaración anual correspondiente al año 2016 o inicial, antes del 19 de julio de 2017, se les tendrá por cumplida la obligación conforme a la Ley General de Responsabilidades Administrativas;
+
+b) Los servidores públicos obligados a presentar su declaración de situación patrimonial conforme a las disposiciones que se abrogan mediante el presente decreto, que no cumplieron con la obligación señalada en el inciso anterior, tendrán la obligación de presentar su declaración de situación patrimonial en los formatos que se utilizan en el ámbito federal -sin incluir el apartado de la declaración de intereses-, sin perjuicio de las responsabilidades derivadas de la posible presentación extemporánea;
+
+c) Los servidores públicos cuya obligación de presentar su declaración de situación patrimonial se originó con la entrada en vigor de la Ley General de Responsabilidades Administrativas, se sujetaran a lo dispuesto por el Artículo Tercero del Acuerdo por el que el Comité Coordinador del Sistema Nacional Anticorrupción dio a conocer la obligación de presentar las declaraciones de situación patrimonial y de intereses conforme a los artículos 32 y 33 de la Ley General de Responsabilidades Administrativas, publicado el 14 de julio de 2017 en el Diario Oficial de la Federación, que se transcribe a continuación:
+
+“TERCERO.-La obligación de los servidores públicos para presentar sus respectivas declaraciones de situación patrimonial y de intereses que no se encontraba como obligatoria hasta antes del 19 de julio de 2017, fecha en la que entra en vigor la Ley General de Responsabilidades Administrativas, será exigible a partir del momento en que el Comité Coordinador del Sistema Nacional Anticorrupción, dé a conocer de manera oficial los formatos que se aplicarán para la presentación de dichas declaraciones y éstos se encuentren operables.”
+
+d) Los servidores públicos que ingresen por primera vez al servicio público, o reingresen a éste después de sesenta días naturales de la conclusión de su último encargo, deberán presentar su declaración de situación patrimonial en los formatos que se utilizan en el ámbito federal -sin incluir el apartado de la declaración de intereses- en los plazos establecidos por el artículo 33 fracción I, de la Ley General de Responsabilidades Administrativas.
+
+e) Los servidores públicos que hasta antes del 19 de julio de 2017, se encontraban obligados a presentar declaración de situación patrimonial, continuarán haciéndolo en los términos que establece el artículo 33, fracciones II o III de la Ley General de Responsabilidades Administrativas, en los formatos aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción siempre y cuando éstos se encuentren disponibles y operables; o en su defecto, en los formatos que se utilizan en el ámbito federal -sin incluir el apartado de la declaración de intereses-.
+
+Para efectos del llenado de los formatos a que se refieren (sic) incisos b) y c) se procederá conforme al Acuerdo por el que se dan a conocer los formatos que deberán utilizarse para presentar las declaraciones de situación patrimonial, emitido por la Secretaría de la Función Pública, publicado en el Diario Oficial de la Federación el 29 de abril de 2015 y su modificatorio del 21 de octubre de 2016.
+
+II. La Declaración de Intereses o de Posible Conflicto de Interés se presentará hasta el momento en que el Comité Coordinador del Sistema Nacional Anticorrupción, dé a conocer de manera oficial los formatos que se aplicarán para la presentación de dichas declaraciones y éstos se encuentren operables. Lo anterior de conformidad con el Acuerdo por el que el Comité Coordinador del Sistema Nacional Anticorrupción dio a conocer la obligación de presentar las declaraciones de situación patrimonial y de intereses conforme a los artículos 32 y 33 de la Ley General de Responsabilidades Administrativas, publicado el 14 de julio de 2017 en el Diario Oficial de la Federación;
+
+III. La Constancia de Presentación de Declaración Fiscal del Ejercicio Fiscal del Año 2017, sólo en el caso de estar obligado conforme a la Ley General, durante el periodo del 1 de enero al 31 de mayo de 2018, preferentemente junto con las demás declaraciones.
+
+Los servidores públicos con nombramiento temporal, denominados genéricamente supernumerarios en los términos del artículo 3 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, cuya relación laboral se encuentre sujeta a un contrato por un periodo determinado, no estarán obligados a presentar su declaración inicial o final como consecuencia de la terminación o inicio del periodo de los contratos, siempre y cuando éstos hubieran sido renovados, prorrogados o suscritos, de tal forma que no interrumpan la continuidad de la relación laboral. Lo anterior, sin perjuicio en el cumplimiento de las obligaciones de presentar sus declaraciones de situación patrimonial, de intereses y fiscal en los términos de la Ley General de Responsabilidades Administrativas, como los demás servidores públicos.
+
+SÉPTIMO. Una vez que el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos correspondientes a las declaraciones patrimonial o de intereses, los servidores públicos y los órganos internos de control se sujetarán a los lineamientos, criterios y resoluciones que emita el Comité Coordinador.
+
+OCTAVO. Con la expedición de la Ley de Responsabilidades Políticas y Administrativas, se tiene por satisfecho el requisito del artículo transitorio Séptimo del decreto 26408/LXI/17. En consecuencia, resulta procedente que el Congreso elija a los titulares de los órganos internos de control de los organismos constitucionales autónomos del estado de Jalisco.
+
+El Congreso del Estado de Jalisco deberá expedir la convocatoria respectiva, en los términos del artículo 106 de la Constitución Política del Estado y nombrar a las personas que ocuparán los cargos a partir del primero de enero de 2018.
+
+NOVENO. El Comité Coordinador del Sistema Estatal Anticorrupción deberá expedir lineamientos, bases y principios que garanticen la óptima armonización e implementación del Sistema Estatal Anticorrupción en un plazo no mayor a tres años.
