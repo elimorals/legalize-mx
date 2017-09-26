@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2016-08-09"
+last_updated: "2017-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -57,7 +57,9 @@ III. Establecer una política de Estado en materia de desarrollo cultural.
 
 IV. Establecer lineamientos para promover el desarrollo cultural sin discriminación, en el marco de una sociedad democrática.
 
-V. Establecer la organización y el funcionamiento del Instituto Coahuilense de Cultura.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+V. Establecer las atribuciones de la Secretaría de Cultura en materia de Desarrollo Cultural.
 
 ###### ARTÍCULO 3°.
 
@@ -93,7 +95,9 @@ V. Ley General de Bienes. La Ley General de Bienes del Estado de Coahuila de Zar
 
 VI. Estado. El Estado de Coahuila de Zaragoza.
 
-VII. Instituto. El Instituto Coahuilense de Cultura.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Secretaría. La Secretaría de Cultura.
 
 VIII. Ejecutivo del Estado. El Gobernador del Estado de Coahuila de Zaragoza.
 
@@ -221,9 +225,11 @@ LA INSTRUMENTACIÓN DE LAS GARANTÍAS CULTURALES. Las acciones para el desarroll
 
 ### CAPÍTULO TERCERO. LA POLÍTICA CULTURAL
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 17.
 
-EL ESTADO COMO RECTOR DE LA POLÍTICA CULTURAL. El Estado, a través del Instituto, tiene a su cargo la rectoría del desarrollo cultural.
+EL ESTADO COMO RECTOR DE LA POLÍTICA CULTURAL. El Estado, a través de la Secretaría, tiene a su cargo la rectoría del desarrollo cultural.
 
 ###### ARTÍCULO 18.
 
@@ -275,21 +281,27 @@ XIV. El respetuoso intercambio cultural.
 
 XV. En la creación, ampliación, remodelación y acondicionamiento de los inmuebles destinados a las actividades culturales y artísticas. Asimismo promoverá su uso adecuado a través de programas culturales específicos, acordes con la vocación del espacio.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-EL PROGRAMA DE CULTURA. Para la ejecución de la política cultural del Estado, el Instituto diseñará e instrumentará el Programa de Desarrollo Cultural que será de observancia general para todas las dependencias y entidades estatales, municipales y particulares.
+EL PROGRAMA DE CULTURA. Para la ejecución de la política cultural del Estado, la Secretaría diseñará e instrumentará el Programa de Desarrollo Cultural que será de observancia general para todas las dependencias y entidades estatales, municipales y particulares.
 
 ###### ARTÍCULO 21.
 
 LA GARANTÍA FISCAL. Las organizaciones, empresas e industrias del sector privado que realicen acciones tendientes a incentivar el desarrollo cultural en el estado, serán beneficiarios de subsidios y estímulos fiscales en las contribuciones estatales y municipales, en los términos aprobados por el Congreso del Estado en las leyes de ingresos correspondientes y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-LA GARANTÍA INSTITUCIONAL PARA PROTEGER LOS DERECHOS CULTURALES. El Instituto es el encargado de proteger los derechos culturales consignados en la presente ley.
+LA GARANTÍA INSTITUCIONAL PARA PROTEGER LOS DERECHOS CULTURALES. La Secretaría es la encargada de proteger los derechos culturales consignados en la presente ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-LA GARANTÍA DE LA ACCIÓN CULTURAL Y ARTÍSTICA. El Instituto a través de la Junta Directiva es el encargado de proteger los derechos que resulten del ejercicio de la acción cultural y artística en el estado consignados en el Capítulo Cuarto del Título Segundo de esta ley, así como ser el conducto institucional en la materia con las instancias federales competentes.
+LA GARANTÍA DE LA ACCIÓN CULTURAL Y ARTÍSTICA. La Secretaría, a través de sus instancias competentes, es la encargada de proteger los derechos que resulten del ejercicio de la acción cultural y artística en el estado consignados en el Capítulo Cuarto del Título Segundo de esta ley, así como ser el conducto institucional en la materia con las instancias federales competentes.
 
 ### CAPÍTULO CUARTO. LA ACCIÓN CULTURAL Y ARTÍSTICA
 
@@ -309,9 +321,11 @@ LA GARANTÍA DE NO-DISCRIMINACIÓN CULTURAL. Queda prohibida toda discriminació
 
 Toda persona tiene derecho a adquirir y desarrollar la formación necesaria para el ejercicio de sus facultades creativas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 27.
 
-LAS ACCIONES EN EL CAMPO DE LA CULTURA. El Instituto promoverá acciones en el campo de la cultura para:
+LAS ACCIONES EN EL CAMPO DE LA CULTURA. La Secretaría promoverá acciones en el campo de la cultura para:
 
 I. La vinculación con educación, turismo y medio ambiente.
 
@@ -327,9 +341,11 @@ VI. La difusión de actividades culturales.
 
 VII. La protección y estímulo para el desarrollo de los niños creadores y artistas.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-LAS REDES DE CASAS DE CULTURA, DE CENTROS CULTURALES Y DE MUSEOS. Para impulsar el desarrollo cultural en el Estado, el Instituto propiciará la creación de redes de casas de cultura, de centros culturales, museos y demás espacios de desarrollo cultural.
+LAS REDES DE CASAS DE CULTURA, DE CENTROS CULTURALES Y DE MUSEOS. Para impulsar el desarrollo cultural en el estado, la Secretaría propiciará la creación de redes de casas de cultura, de centros culturales, museos y demás espacios de desarrollo cultural.
 
 ###### ARTÍCULO 29.
 
@@ -362,6 +378,10 @@ VIII. Los demás que se les encomienden en función de esta ley, o por sus dispo
 ###### ARTÍCULO 32.
 
 LA GARANTÍA DE ACCESO A LOS MUSEOS. Los museos y espacios culturales públicos estarán abiertos en los días y horas establecidos según sus condiciones, y sus costos serán accesibles a la demanda social y a las condiciones de cada espacio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+Las personas adultas mayores, gozarán de tarifas preferenciales siempre que lo acrediten con una identificación oficial; para el efecto, la credencial de elector, o la que emite el Instituto Nacional de las Personas Adultas Mayores.
 
 ###### ARTÍCULO 33.
 
@@ -417,9 +437,11 @@ IV. Si las normas en la materia tienen diversas interpretaciones prevalecerá aq
 
 V. Si resulta algún conflicto entre métodos de interpretación prevalecerá aquél que desarrolle los principios del Estado humanista, social y democrático que postula la Constitución Política del Estado de Coahuila.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 36.
 
-EL INSTITUTO COMO ÓRGANO GARANTE DE INTERPRETACIÓN GENERAL. El Instituto establecerá criterios generales de interpretación de las normas en la materia, para que las dependencias y entidades públicas y los particulares apliquen con certeza el principio de la interpretación más favorable del derecho de acceso a la cultura.
+LA SECRETARÍA COMO ÓRGANO GARANTE DE INTERPRETACIÓN GENERAL. La Secretaría establecerá criterios generales de interpretación de las normas en la materia, para que las dependencias y entidades públicas y los particulares apliquen con certeza el principio de la interpretación más favorable del derecho de acceso a la cultura.
 
 ## TÍTULO TERCERO. EL PATRIMONIO CULTURAL
 
@@ -553,17 +575,25 @@ I. La Secretaría de Educación Pública del Estado de Coahuila.
 
 II. La Secretaría de Obras Públicas y Transporte.
 
-III. El Instituto.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+III. La Secretaría.
 
 IV. El Centro del Instituto Nacional de Antropología e Historia en el Estado.
 
-V. El Instituto Coahuilense de Ecología.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-VI. El Instituto Estatal de Turismo.
+V. Secretaría de Medio Ambiente.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Secretaría de Desarrollo Económico, Competitividad y Turismo.
 
 VII. El Instituto Coahuilense de Acceso a la Información Pública.
 
-VIII. Dos promotores culturales reconocidos, a propuesta del Instituto Coahuilense de Cultura.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Dos promotores culturales reconocidos, a propuesta de la Secretaría.
 
 IX. Las autoridades federales, estatales y municipales de las cuales se estime importante su presencia.
 
@@ -617,9 +647,11 @@ EL ACCESO A LAS ZONAS PROTEGIDAS. Se permitirá el acceso al personal del Comit�
 
 LA PROTECCIÓN DE VALORES Y BIENES INTANGIBLES. La protección de los valores culturales y bienes intangibles a que se refiere esta ley comprende las acciones de investigar, rescatar, restaurar, habilitar, registrar, preservar y difundir su conocimiento, tanto por las autoridades y órganos de apoyo, como por los particulares interesados.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 57.
 
-LAS ACCIONES DEL INSTITUTO. Las acciones a que se refiere el artículo anterior serán coordinadas por el Instituto, en colaboración con los órganos de apoyo y de los particulares interesados, y su finalidad será proteger los bienes culturales del estado, tanto tangibles como intangibles, como factor de integración de sus habitantes.
+LAS ACCIONES DE LA SECRETARÍA. Las acciones a que se refiere el artículo anterior serán coordinadas por la Secretaría, en colaboración con los órganos de apoyo y de los particulares interesados, y su finalidad será proteger los bienes culturales del estado, tanto tangibles como intangibles, como factor de integración de sus habitantes.
 
 ###### ARTÍCULO 58.
 
@@ -667,9 +699,11 @@ Los notarios públicos mencionarán la declaratoria del bien y darán aviso al R
 
 EL AVISO. Las partes que intervengan en actos traslativos de dominio de bienes inmuebles objeto de declaratoria deberán dar aviso de su celebración dentro de los 30 días siguientes al Comité del Patrimonio Cultural del estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 66.
 
-EL INVENTARIO. El Instituto formulará los inventarios de los bienes que se encuentren dentro de los inmuebles adscritos al patrimonio cultural.
+EL INVENTARIO. La Secretaría formulará los inventarios de los bienes que se encuentren dentro de los inmuebles adscritos al patrimonio cultural.
 
 Para este efecto, los encargados del Registro Público deben enviar de inmediato copias de los asientos registrales que efectúen.
 
@@ -701,9 +735,11 @@ EL PRINCIPIO DE ASESORÍA Y APOYO PROFESIONAL. Las autoridades encargadas de la 
 
 LA INSTRUMENTACIÓN JURÍDICA. La Secretaría de Gobierno será la encargada de tramitar los expedientes y formular los proyectos de decreto que deba dictar el Ejecutivo del Estado en aplicación de esta ley.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 70.
 
-LA CAMPAÑA PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL. Los sectores cultural, educativo, turístico y ambiental, y el Instituto, en coordinación con las demás autoridades federales, estatales, municipales y los particulares, realizarán campañas permanentes para fomentar y difundir el conocimiento, respeto, conservación y enriquecimiento del patrimonio cultural.
+LA CAMPAÑA PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL. Los sectores cultural, educativo, turístico y ambiental, y la Secretaría, en coordinación con las demás autoridades federales, estatales, municipales y los particulares, realizarán campañas permanentes para fomentar y difundir el conocimiento, respeto, conservación y enriquecimiento del patrimonio cultural.
 
 ### CAPÍTULO SEXTO. LA PARTICIPACIÓN CIUDADANA
 
@@ -715,11 +751,15 @@ LA PARTICIPACIÓN CIUDADANA. Toda persona tiene derecho a participar en la prote
 
 LAS OBLIGACIONES DE LOS AYUNTAMIENTOS EN MATERIA CULTURAL. Los ayuntamientos promoverán la formación de asociaciones civiles y uniones vecinales, así como la organización de representantes de los sectores más significativos de la población, como órganos de apoyo para impedir el deterioro o destrucción del patrimonio y promover su conservación y enriquecimiento.
 
-El Instituto promoverá que en el sistema educativo del Estado se realicen las actividades necesarias para dar a conocer a las nuevas generaciones los valores culturales y despertar en ellas el aprecio y respeto por dichos valores.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+La Secretaría promoverá que en el sistema educativo del estado se realicen las actividades necesarias para dar a conocer a las nuevas generaciones los valores culturales y despertar en ellas el aprecio y respeto por dichos valores.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 73.
 
-EL RECONOCIMIENTO CIUDADANO. Los donativos, herencias y legados significativos que se realicen para enriquecer el patrimonio cultural del estado, serán objeto de reconocimiento mediante la inscripción del nombre de la persona que lo efectúe, en la placa de donadores que al efecto se instale en el Instituto. La declaración correspondiente se efectuará anualmente por la Junta Directiva de dicho Instituto.
+EL RECONOCIMIENTO CIUDADANO. Los donativos, herencias y legados significativos que se realicen para enriquecer el patrimonio cultural del estado, serán objeto de reconocimiento mediante la inscripción del nombre de la persona que lo efectúe, en la placa de donadores que al efecto se instale en la Secretaría. La declaración correspondiente se efectuará anualmente por la Secretaría.
 
 ###### ARTÍCULO 74.
 
@@ -845,15 +885,19 @@ Si el daño fuere irreparable, además de las sanciones penales que se impongan,
 
 LA RESPONSABILIDAD SOLIDARIA. En los casos del artículo anterior serán solidaria y mancomunadamente responsables, quienes hayan ordenado las obras y el contratista encargado de ejecutarlas.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 89.
 
-LA REPRODUCCIÓN DE BIENES DEL PATRIMONIO CULTURAL. La reproducción de bienes adscritos al patrimonio cultural del Estado requiere el consentimiento previo y por escrito del propietario y del Instituto.
+LA REPRODUCCIÓN DE BIENES DEL PATRIMONIO CULTURAL. La reproducción de bienes adscritos al patrimonio cultural del estado requiere el consentimiento previo y por escrito del propietario y de la Secretaría.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 90.
 
-LA REPRODUCCIÓN CON FINES COMERCIALES. La reproducción con fines comerciales de bienes de propiedad estatal o municipal adscritos al patrimonio cultural, requiere del consentimiento por escrito del Instituto, previo dictamen del Comité y pago de los derechos correspondientes, los cuales formarán parte del patrimonio del Instituto para el desarrollo de sus objetivos institucionales.
+LA REPRODUCCIÓN CON FINES COMERCIALES. La reproducción con fines comerciales de bienes de propiedad estatal o municipal adscritos al patrimonio cultural, requiere del consentimiento por escrito de la Secretaría, previo dictamen del Comité y pago de los derechos correspondientes, los cuales formarán parte del patrimonio de la Secretaría para el desarrollo de sus objetivos institucionales.
 
-Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda: "Reproducción autorizada por el Instituto Coahuilense de Cultura".
+Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda: "Reproducción autorizada por la Secretaría de Cultura".
 
 ###### ARTÍCULO 91.
 
@@ -915,45 +959,57 @@ II. Quienes ordenen o hayan ordenado las acciones constitutivas de la violación
 
 III. Quienes retiren, efectúen demoliciones o modificación de construcciones en contravención a lo dispuesto por esta ley y su reglamento.
 
-## TITULO CUARTO. EL INSTITUTO COAHUILENSE DE CULTURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+## TITULO CUARTO. DE LAS FUNCIONES DE LA SECRETARÍA EN EL DESARROLLO CULTURAL
 
 ### CAPÍTULO PRIMERO. BASES GENERALES
 
 ###### ARTÍCULO 101.
 
-EL INSTITUTO COAHUILENSE DE CULTURA. El Instituto Coahuilense de Cultura es un organismo público descentralizado de la administración pública del Estado, con personalidad jurídica y patrimonio propio, cuyo domicilio se encuentra en la ciudad de Saltillo, sin perjuicio de que pueda establecer en otras poblaciones de la entidad, las instalaciones y oficinas que estime necesarias para el cumplimiento de su objeto.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 102.
 
-EL INSTITUTO COMO IMPULSOR DEL DESARROLLO CULTURAL. El Instituto es el organismo gubernamental encargado de impulsar el desarrollo cultural en los términos de esta ley.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 103.
 
-EL OBJETO DEL INSTITUTO. El Instituto es el organismo encargado de diseñar la política cultural del Estado en los términos de esta ley.
+LA SECRETARÍA EN EL MARCO DE LA POLÍTICA CULTURAL. La Secretaría es la dependencia de la Administración Pública centralizada, encargada de diseñar la política cultural del Estado en los términos de esta ley.
+
+Para efectos del párrafo anterior, la Secretaría realizará diagnósticos y evaluaciones periódicas e instrumentará mecanismos específicos de consulta a los participantes en la actividad cultural y artística y elaborará un informe anual sobre los resultados de las acciones del Estado en materia de política cultural.
 
 ###### ARTÍCULO 104.
 
-EL INSTITUTO EN EL MARCO DE LA POLÍTICA CULTURAL. Para la determinación de la política cultural del Estado, el Instituto realizará diagnósticos y evaluaciones periódicas e instrumentará mecanismos específicos de consulta a los participantes en la actividad cultural y artística.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 105.
 
-EL INFORME DE LAS ACTIVIDADES DEL INSTITUTO. El Instituto elaborará un informe anual sobre los resultados de las acciones del Estado en materia de política cultural.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 106.
 
-EL INTERÉS PÚBLICO Y SOCIAL DE LA FUNCIÓN DEL INSTITUTO. Se declara de interés público y social la investigación, capacitación, promoción, difusión de la cultura, la organización y coordinación de las actividades encaminadas a este fin, garantizando la participación plural y democrática de los individuos y comunidades que integran el estado.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 107.
 
-EL INSTITUTO. El Instituto es el organismo a través del cual se establecen, mantienen y fortalecen las relaciones con otros organismos e instancias de carácter cultural de los tres ámbitos de gobierno, además de los sectores educativo y científico, que desarrollen programas culturales sin menoscabo de la autoridad de éstos en las áreas de su propia competencia.
+LA SECRETARÍA COMO ENCARGADA DE LAS DEPENDENCIAS QUE CONTRIBUYAN AL DESARROLLO CULTURAL. La Secretaría es la dependencia a través del cual se establecen, mantienen y fortalecen las relaciones con otros organismos e instancias de carácter cultural de los tres ámbitos de gobierno, además de los sectores educativo y científico, que desarrollen programas culturales sin menoscabo de la autoridad de éstos en las áreas de su propia competencia.
+
+El Instituto tiene a su cargo la dirección, operación y administración de las dependencias e instalaciones que, para el cumplimiento de su objeto, le sean asignadas a efecto de contribuir a la preservación del patrimonio cultural, histórico, artístico, paleontológico, arqueológico y arquitectónico en los términos de la legislación aplicable.
 
 ###### ARTÍCULO 108.
 
 EL INSTITUTO COMO ENCARGADO DE LAS DEPENDENCIAS QUE CONTRIBUYAN AL DESARROLLO CULTURAL. El Instituto tiene a su cargo la dirección, operación y administración de las dependencias e instalaciones que, para el cumplimiento de su objeto, le sean asignadas a efecto de contribuir a la preservación del patrimonio cultural, histórico, artístico, paleontológico, arqueológico y arquitectónico en los términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 109.
 
-LA INFRAESTRUCTURA CULTURAL DEL INSTITUTO. Forman parte de la estructura orgánica y administrativa del organismo, las siguientes entidades.
+INFRAESTRUCTURA CULTURAL DE LA SECRETARÍA. Forman parte de la estructura orgánica y administrativa de la Secretaría, las siguientes entidades.
 
 I. Casa de la Cultura de Parras de la Fuente.
 
@@ -961,25 +1017,57 @@ II. Casa de la Cultura de Piedras Negras.
 
 III. Casa de la Cultura de Saltillo.
 
-IV. Centro de Iniciación Artística Pilar Rioja, en Torreón.
+IV. Casa de la Cultura de Guerrero.
 
-V. Centro de las Artes-ICOCULT Laguna, en Torreón.
+V. Casa de la Cultura de Frontera.
 
-VI. Centro de las Artes-ICOCULT, en Saltillo.
+VI. Casa de la Cultura de Viesca.
 
-VII. Centro Cultural y de Bellas Artes Santa Anita, en Saltillo.
+VII. Centro de Iniciación Artística Pilar Rioja, en Torreón.
 
-VIII. Museo Coahuila y Texas, en Monclova.
+VIII. Centro de las Artes Laguna, en Torreón.
 
-IX. Museo Venustiano Carranza de Cuatro Ciénegas.
+IX. Centro de las Artes en Saltillo.
 
-X. Teatro de la Ciudad Fernando Soler, en Saltillo.
+X. Centro Cultural y de Bellas Artes Santa Anita, en Saltillo.
 
-XI. Las demás que el Estado le transfiera, determine o asigne.
+XI. Teatro de la Ciudad Fernando Soler, en Saltillo.
+
+XII. Museo Coahuila y Texas, en Monclova.
+
+XIII. Museo Venustiano Carranza de Cuatro Ciénegas.
+
+XIV. Museo de la Revolución, en Saltillo.
+
+XV. Museo de los Presidentes Coahuilenses, en Saltillo.
+
+XVI. Museo del Sarape y Trajes mexicanos, en Saltillo.
+
+XVII. Museo Taurino, en Saltillo.
+
+XVIII. Museo de las Artes Gráficas, en Saltillo.
+
+XIX. Museo de la Revolución, en Torreón.
+
+XX. Museo Salas Carranza, en Saltillo.
+
+XXI. Museo de las Momias, en Arteaga.
+
+XXII. Museo del Normalismo, en Saltillo.
+
+XXIII. Museo Francisco Villa, en Sabinas.
+
+XXIV. Museo del Palacio, en Saltillo.
+
+XXV. Escuela de Danza.
+
+Las demás que el Estado le transfiera, determine o asigne.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 110.
 
-ESTRUCTURA ORGÁNICA. Pertenecen a la estructura orgánica del Instituto:
+ESTRUCTURA ORGÁNICA. Pertenecen a la estructura orgánica de la Secretaría:
 
 1. La Banda de Música del Estado.
 
@@ -987,9 +1075,19 @@ ESTRUCTURA ORGÁNICA. Pertenecen a la estructura orgánica del Instituto:
 
 3. La Escuela de Danza de Saltillo.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+4. La Orquesta Filarmónica del Desierto.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+5. El Coro Infantil.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 111.
 
-LAS FUNCIONES DEL INSTITUTO. Para el cumplimiento de sus objetivos, el Instituto tiene las siguientes funciones:
+LAS FUNCIONES DE LA SECRETARÍA. Para el cumplimiento de sus objetivos, la Secretaría tiene las siguientes funciones:
 
 I. Promover, mediante la cultura, el desarrollo integral de los coahuilenses.
 
@@ -1033,249 +1131,129 @@ XX. Ejecutar, celebrar y suscribir contratos, convenios, y toda clase de actos j
 
 XXI. En general, todas aquellas necesarias para el cumplimiento de sus objetivos y funciones que se señalen en la presente ley y las que le confieran otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 112.
 
-EL INSTITUTO EN EL DESARROLLO CULTURAL. El Instituto tendrá facultades para elaborar y, en su caso, supervisar y autorizar anualmente los anexos y expedientes técnicos de los convenios estatales de desarrollo, para todos aquellos capítulos relacionados con la cultura en los aspectos de equipamiento, proyectos especiales, promoción, fomento y construcción de obra pública destinada al servicio cultural, así como para la restauración de obras artísticas y del patrimonio arquitectónico e histórico del Estado.
+LA SECRETARÍA EN EL DESARROLLO CULTURAL. La Secretaría tendrá facultades para elaborar y, en su caso, supervisar y autorizar anualmente los anexos y expedientes técnicos de los convenios estatales de desarrollo, para todos aquellos capítulos relacionados con la cultura en los aspectos de equipamiento, proyectos especiales, promoción, fomento y construcción de obra pública destinada al servicio cultural, así como para la restauración de obras artísticas y del patrimonio arquitectónico e histórico del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 113.
 
-EL INSTITUTO COMO GUARDIÁN DE LOS BIENES CULTURALES. El Instituto establecerá y mantendrá activo el registro e inventario de bienes y recursos culturales del Estado.
+LA SECRETARÍA COMO GUARDIÁN DE LOS BIENES CULTURALES. La Secretaría establecerá y mantendrá activo el registro e inventario de bienes y recursos culturales del estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 114.
 
-EL INSTITUTO COMO ENTIDAD NORMATIVA. El Instituto es la entidad normativa técnica en materia de educación cultural y artística en el estado, en estrecha coordinación y vinculación con las autoridades federales y estatales correspondientes, con las instituciones de educación superior del Estado y del país y con todas las instancias nacionales e internacionales, cuyos objetivos sean afines.
+LA SECRETARÍA COMO ENTIDAD NORMATIVA. La Secretaría es la entidad normativa técnica en materia de educación cultural y artística en el estado, en estrecha coordinación y vinculación con las autoridades federales y estatales correspondientes, con las instituciones de educación superior del estado y del país y con todas las instancias nacionales e internacionales, cuyos objetivos sean afines.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 115.
 
-EL INSTITUTO COMO PROMOTOR DEL DESARROLLO CULTURAL. El Instituto llevará a cabo acciones que, conforme a sus programas y partidas presupuestales aprobadas, tiendan a otorgar reconocimientos, estímulos y becas que impulsen el desarrollo cultural.
+LA SECRETARÍA COMO PROMOTOR DEL DESARROLLO CULTURAL. La Secretaría llevará a cabo acciones que, conforme a sus programas y partidas presupuestales aprobadas, tiendan a otorgar reconocimientos, estímulos y becas que impulsen el desarrollo cultural.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 116.
 
-EL INSTITUTO COMO PROMOTOR DE LA IDENTIDAD. El Instituto promoverá la difusión de tradiciones y valores estatales, regionales y nacionales que fortalezcan la identidad como coahuilenses y como mexicanos.
+LA SECRETARÍA COMO PROMOTORA DE LA IDENTIDAD. La Secretaría promoverá la difusión de tradiciones y valores estatales, regionales y nacionales que fortalezcan la identidad como coahuilenses y como mexicanos.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. LOS ÓRGANOS DEL INSTITUTO
 
 ###### ARTÍCULO 117.
 
-LOS ÓRGANOS DEL INSTITUTO. La dirección y administración del Instituto estarán a cargo de una Junta Directiva y una Dirección General. El Instituto contará además con un Consejo Consultivo, como órgano de asesoría y consulta.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 118.
 
-LA JUNTA DIRECTIVA. La Junta Directiva, como autoridad superior del Instituto, estará integrada de la siguiente manera:
-
-I. Un presidente, que será el Ejecutivo del Estado;
-
-II. Un vicepresidente, que será el titular de la Secretaría de Educación Pública del Estado;
-
-III. Un secretario, que será el titular de la Dirección General;
-
-IV. Siete vocales, que serán:
-
-1. El titular de la Secretaría de Finanzas del Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
-
-2. El titular de la Secretaría de Obras Públicas y Transporte del Gobierno del Estado.
-
-3. El titular de la Secretaría de Planeación y Desarrollo del Estado del Gobierno del Estado.
-
-4. El titular del Instituto Estatal de Turismo;
-
-5. El titular del Instituto Estatal de Ecología;
-
-6. El presidente del Consejo Consultivo del Instituto.
-
-7. El Coordinador de la Comisión de Cultura y Actividades Cívicas del Congreso del Estado.
-
-V. Un representante de la Instancia Federal de Cultura.
-
-VI. Un Comisario designado por la Secretaría de la Contraloría y Modernización Administrativa de Coahuila.
-
-Con excepción del Presidente, quien será suplido en los términos del artículo 120 de esta ley, por cada uno de los miembros de la Junta Directiva se nombrará un suplente, quien tendrá las mismas facultades que su titular.
-
-La Junta Directiva podrá invitar a las sesiones de la misma a los titulares y representantes de las instituciones culturales y educativas que requiera la agenda respectiva. Los cargos de los participantes en la Junta Directiva serán honoríficos, por lo tanto quienes la integren no recibirán remuneración alguna.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 119.
 
-EL COMISARIO DEL INSTITUTO. El Instituto contará con un Comisario, que será designado por la Secretaria de Contraloría y Modernización Administrativa del Estado, que tendrá las atribuciones siguientes:
-
-I. Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados.
-
-II. Practicar las auditorias de los estados financieros y las de carácter administrativo al término del ejercicio, o antes si así lo considera conveniente.
-
-III. Rendir anualmente, en sesión de la Junta Directiva, un dictamen respecto de la información presentada por el Director General.
-
-IV. Hacer que se inserten en el orden del día de las sesiones de la Junta Directiva los asuntos que crea conveniente.
-
-V. Solicitar que se convoque a sesiones de la Junta Directiva en los casos en que lo juzgue pertinente.
-
-VI. Asistir con voz, pero sin voto, a todas las sesiones de la Junta Directiva; y
-
-VII. Vigilar las operaciones del Instituto.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 120.
 
-LAS SESIONES DE LA JUNTA DIRECTIVA. La Junta Directiva sesionará ordinariamente cada seis meses, y extraordinariamente cuantas veces el presidente convoque a sus miembros.
-
-Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros de la Junta Directiva o de sus suplentes.
-
-El vicepresidente suplirá las ausencias del presidente para todos los efectos legales procedentes.
-
-Los acuerdos de la Junta Directiva se tomarán por mayoría de votos de los presentes. En caso de empate el presidente tendrá voto de calidad.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 121.
 
-LAS FACULTADES DE LA JUNTA DIRECTIVA. La Junta Directiva tendrá las siguientes atribuciones:
-
-I. Establecer las directrices generales para el eficaz funcionamiento del organismo.
-
-II. Establecer las bases para que el Instituto elabore y lleve a cabo el programa de desarrollo cultural.
-
-III. Conocer y aprobar, en su caso, el plan anual de actividades del organismo, desglosado por programas, que someta a su consideración el director general del Instituto.
-
-IV. Conocer y aprobar, en su caso, el presupuesto anual de egresos y la estimación de ingresos para el año siguiente.
-
-V. Examinar y aprobar, en su caso, los estados financieros mensuales, los balances ordinarios y extraordinarios y los informes generales y especiales del Director General del Instituto.
-
-VI. Conocer y aprobar los reglamentos internos del organismo.
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
-
-VII. Otorgar al Director General o a persona distinta a éste, poder general para actos de dominio, con todas las facultades, aun las que requieren poder especial conforme a la ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila, estará facultado, además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales.
-
-VIII. Conocer de las presuntas violaciones a los derechos culturales en los términos del Capítulo Tercero del Título Cuarto de esta ley.
-
-IX. Las demás que le señalen el presente decreto, su reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 122.
 
-LA DESIGNACIÓN DEL DIRECTOR GENERAL DEL INSTITUTO. El director general del Instituto será designado y removido libremente por el Ejecutivo del Estado.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 123.
 
-LOS REQUISITOS PARA SER DIRECTOR GENERAL DEL INSTITUTO. Para ser Director General del Instituto se requiere:
-
-I. Ser mexicano por nacimiento.
-
-II. Tener por lo menos 35 años de edad.
-
-III. Poseer conocimiento y experiencia en el sector cultural.
-
-IV. Poseer experiencia en puestos de dirección y vocación en el servicio público.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 124.
 
-LAS FACULTADES DEL DIRECTOR GENERAL. El Director General del Instituto tendrá las siguientes atribuciones:
-
-I. Proponer el programa de desarrollo cultural en el Estado, basado en un diagnóstico y que contendrá objetivos, estrategias, metas, cronogramas y medios de evaluación conforme a los planteamientos de esta ley.
-
-II. Dirigir, administrar y representar al Instituto en los actos jurídicos, administrativos y eventos en que sea parte, así como ante otros organismos e instituciones educativas y culturales, sean públicas o privadas.
-
-III. Coordinarse con las dependencias federales, estatales y municipales, a fin de diseñar una política cultural integral y coherente en beneficio de los coahuilenses.
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
-
-IV.- Representar legalmente al instituto, con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas y actos de administración, aún los que requieran cláusula especial en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila. Podrá, asimismo, otorgar y revocar poderes Generales y especiales. Tratándose de actos de dominio se requerirá poder especial para su objeto, conferido por la junta directiva.
-
-V. Nombrar y remover al personal del Instituto.
-
-VI. Formular y someter a la consideración de la Junta Directiva, para su aprobación, el proyecto del plan anual de actividades del Instituto.
-
-VII. Presentar anualmente a la Junta Directiva, para su aprobación, el presupuesto de ingresos y egresos del Instituto.
-
-VIII. Rendir informe de las actividades del Instituto ante la Junta Directiva;
-
-IX. Gestionar ante las autoridades competentes la construcción y asignación de instalaciones culturales en favor del Instituto; y
-
-X. En general, todas aquellas que le señalen la presente ley, su regla­mento y demás disposiciones aplicables.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 125.
 
-EL CONSEJO CONSULTIVO. El Consejo Consultivo del Instituto será un órgano colegiado de asesoría y consulta que apoyará y auxiliará a la Dirección General a través de recomendaciones y opiniones respecto de los aspectos y materias que sea consultado.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 126.
 
-LA INTEGRACIÓN DEL CONSEJO CONSULTIVO. El Consejo Consultivo se integrará con un presidente, un secretario, un vocal técnico y por un mínimo de siete y un máximo de diez vocales que representen a asociaciones, sociedades civiles, creadores, promotores, artistas e intelectuales que por su conocimiento, relevancia y experiencia puedan aportar propuestas que enriquezcan la labor del Instituto, a invitación del mismo y con la aprobación de la Junta Directiva.
-
-Las bases para la designación y duración de los cargos de los integrantes del Consejo Consultivo, así como la frecuencia y formalidad de sus sesiones, serán reguladas por el reglamento de esta ley.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 127.
 
-LAS FACULTADES DEL CONSEJO CONSULTIVO. Son atribuciones del Consejo Consultivo:
-
-I. Conocer y opinar respecto al programa anual del Instituto, así como recomendar las mejoras que estime necesarias.
-
-II. Estudiar los planes y programas de trabajo necesarios para el cumplimiento de los objetivos del Instituto que les presente el director general.
-
-III. Brindar asesoría y apoyo a la Dirección General para llevar a cabo proyectos y programas que eleven la calidad de los servicios culturales.
-
-IV. Coadyuvar con el diseño de mecanismos financieros novedosos para dotar de recursos económicos al Instituto; y
-
-V. Las demás que se le asignen.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 128.
 
-EL RÉGIMEN LABORAL. Las relaciones laborales entre el Instituto y su personal se regirán por el Estatuto de los Trabajadores al Servicio del Gobierno del Estado y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
-
 ###### ARTÍCULO 129.
 
-EL PATRIMONIO DEL INSTITUTO. El patrimonio del Instituto se integrará:
-
-I. Con los bienes muebles e inmuebles con que actualmente cuenta, así como con las aportaciones que en su favor hagan los gobiernos federal, estatales y municipales.
-
-II. Con los recursos presupuestales que anualmente le asigne el gobierno del Estado.
-
-III. Con las aportaciones, donaciones y legados en dinero o en especie que reciba de personas físicas y morales por cualquier concepto.
-
-IV. Con los derechos, productos, aprovechamientos y rendimientos que obtenga de la realización de sus actividades y por la prestación de servicios públicos a su cargo; y
-
-V. En general, los frutos o productos de cualquier clase que obtenga de sus bienes y servicios, así como los subsidios, aportaciones, donativos o productos financieros que por cualquier título legal reciba.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 130.
 
-LOS BENEFICIOS FISCALES. El Instituto gozará de los beneficios fiscales, estatales o municipales que las leyes correspondientes concedan a organismos de naturaleza similar.
-
-En el supuesto de que se efectúe la disolución y liquidación del organismo, los bienes muebles e inmuebles que formen parte de su patrimonio pasarán a formar parte del dominio del estado, según sea el caso, de conformidad con las disposiciones aplicables de la Ley General de Bienes.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO TERCERO], P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO CUARTO. LA PROTECCIÓN DE LOS DERECHOS CULTURALES
 
-(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 131.
 
-LA JUNTA DIRECTIVA COMO PROTECTORA DE LOS DERECHOS CULTURALES. La Junta Directiva del Instituto es el cuerpo colegiado de conocer las quejas por violación a los derechos culturales.
+LA SECRETARÍA COMO PROTECTORA DE LOS DERECHOS CULTURALES. La Secretaría, a través de sus instancias facultadas para ello, conocerá las quejas por violación a los derechos culturales.
 
-(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 132.
 
-EL DERECHO DE QUEJA. Toda persona podrá presentar ante la Junta Directiva del Instituto, queja por presunta violación a sus derechos culturales.
+EL DERECHO DE QUEJA. Toda persona podrá presentar ante la Secretaría, queja por presunta violación a sus derechos culturales.
 
-(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 133.
 
-EL PROCEDIMIENTO. La Junta Directiva del Instituto, una vez recibida la queja señalará fecha y hora para desahogar una audiencia y pedirá un informe circunstanciado a la autoridad responsable.
+EL PROCEDIMIENTO. La Secretaría, una vez recibida la queja señalará fecha y hora para desahogar una audiencia y pedirá un informe circunstanciado a la autoridad responsable.
 
-(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 134.
 
-LA AUDIENCIA. En la audiencia, la Junta Directiva le hará saber al quejoso y a la autoridad responsable las opciones probables para solucionar la queja. Si elige cualquiera de ellas, levantará el acta respectiva con el convenio o la medida conducente para resolver la queja.
+LA AUDIENCIA. En la audiencia, la Secretaría le hará saber al quejoso y a la autoridad responsable las opciones probables para solucionar la queja. Sí elige cualquiera de ellas, levantará el acta respectiva con el convenio o la medida conducente para resolver la queja.
 
-En caso contrario, la Junta Directiva del Instituto emitirá una recomendación a la autoridad responsable para solucionar el conflicto.
+En caso contrario, la Secretaría emitirá una recomendación a la autoridad responsable para solucionar el conflicto.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2013)</small>
 
@@ -1453,7 +1431,7 @@ IV. El sector de la ciudadanía en general:
 
 2. El representante de la comunidad académica o de las organizaciones no gubernamentales, se elegirá por los integrantes del Consejo de Cultura de entre las personas que hayan presentado su solicitud correspondiente.
 
-V. El Consejo de Cultura expedirá las bases de la convocatoria para integrar cada unos de los sectores correspondientes.
+V. El Consejo de Cultura expedirá las bases de la convocatoria para integrar cada unos (sic) de los sectores correspondientes.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
 
@@ -1588,3 +1566,31 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 949.- SE REFORMA EL ARTÍCULO 32, DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 952.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Las disposiciones del presente Decreto entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Con la entrada en vigor del presente Decreto se extingue el Instituto Coahuilense de Cultura creado en el Decreto 369 que expide la Ley de Desarrollo Cultural publicado en el Periódico Oficial del Gobierno del Estado el veintinueve de abril del dos mil cinco.
+
+En virtud de lo anterior, se extingue la personalidad jurídica de mencionado Instituto Coahuilense de Cultura, la cual conservará exclusivamente para efectos del proceso de su liquidación.
+
+CUARTO.- Los bienes muebles e inmuebles que formen parte del Patrimonio del mencionado Instituto pasan a formar parte del dominio público del Estado, conforme a las disposiciones de la Ley General de Bienes del Estado de Coahuila.
+
+QUINTO.- Salvo que exista impedimento legal para ello, la conclusión de los procesos de liquidación y extinción no podrán exceder de un plazo de seis meses, contados a partir de la fecha de entrada en vigor del presente Decreto.
+
+SEXTO.- La Secretaría de Finanzas emitirá los lineamientos sobre el destino y aplicación que se dará a los bienes remanentes del proceso de liquidación del Instituto Coahuilense de Cultura, si los hubiere.
+
+SÉPTIMO.- Corresponderá a la Secretaría de Fiscalización y Rendición de Cuentas, conforme a sus atribuciones, vigilar y hacer el seguimiento de los procesos de liquidación y extinción que este decreto autoriza.
