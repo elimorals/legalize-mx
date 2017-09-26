@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2017-07-19"
+last_updated: "2017-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -63,11 +63,11 @@ El Congreso del Estado tendrá su residencia en la Ciudad de Chetumal, Capital d
 
 La Legislatura podrá designar Recinto Oficial distinto para celebrar sesiones que por su carácter y en forma excepcional requieran realizarse transitoriamente en otro lugar, acordando preferentemente llevar a cabo las sesiones en lugares públicos y abiertos.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 4.
 
-El Recinto del Palacio Legislativo es inviolable. El Presidente de la Legislatura o de la Diputación Permanente, en su caso, podrán solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto, bajo cuyo mando quedará ésta. Cuando sin mediar previa solicitud se hiciere presente la fuerza pública, el Presidente podrá suspender la sesión hasta que dicha fuerza pública hubiere abandonado el Recinto.
+El Recinto Oficial es inviolable. El Presidente de la Legislatura o de la Diputación Permanente, en su caso, podrán solicitar el auxilio de la fuerza pública para salvaguardar la integridad personal de los Diputados y la inviolabilidad del Recinto, bajo cuyo mando quedará aquella. Cuando sin mediar previa solicitud se hiciere presente la fuerza pública, el Presidente podrá suspender la sesión hasta que dicha fuerza pública hubiere abandonado el Recinto.
 
 ###### ARTICULO 5.
 
@@ -221,7 +221,7 @@ XIV.- Determinar las características y el uso del escudo estatal.
 
 XV.- Solicitar la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
 
-XVI.- Erigirse en Gran Jurado para calificar las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones.
+XVI.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 XVII.- Declarar si ha lugar o no a formación de causa de que habla el Artículo 173 de la Constitución Política del Estado.
 
@@ -377,11 +377,11 @@ Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar l
 
 (DEROGADO, P.O. 8 DE JULIO DE 2016)
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 26.
 
-El Presidente hará respetar el fuero constitucional de los Diputados y velará por la inviolabilidad del Recinto Legislativo.
+El Presidente dictará las medidas necesarias para salvaguardar la integridad personal de los Diputados y velará por la inviolabilidad del Recinto Oficial.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -959,15 +959,17 @@ Todos los Diputados en ejercicio son representantes del pueblo quintanarroense y
 
 Por el desempeño de su función recibirán una remuneración adecuada e irrenunciable, que será determinada anual y equitativamente en el presupuesto de egresos del Estado, en términos de lo dispuesto por el Artículo 175 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
 ###### ARTICULO 65.
 
-Los Diputados en ejercicio gozan del fuero que les reconoce la Constitución Política del Estado. Los Diputados suplentes gozarán de fuero desde que sean llamados al seno de la Legislatura y otorguen ante esta la protesta de ley.
+(DEROGADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 Los Diputados no podrán ser reconvenidos o enjuiciados por las opiniones que manifiesten en el desempeño de sus cargos.
 
-Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la jurisdicción de los tribunales comunes.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1051,7 +1053,9 @@ La Legislatura, por conducto de su Presidente, llamará al suplente del Diputado
 
 I.- Cuando el Diputado propietario solicitare ante la Presidencia de la Mesa Directiva de la Legislatura o de la Diputación Permanente, en su caso, licencia por escrito para separarse de su cargo y ésta sea aprobada en los términos de la presente Ley.
 
-II.- Cuando fuere separado de su encargo y se le retire el fuero constitucional.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+II. Cuando fuere separado de su encargo, o
 
 III.- Cuando falleciere estando en ejercicio.
 
@@ -2097,39 +2101,21 @@ En la sustanciación del Juicio Político, son aplicables en lo que sea conducen
 
 Cuando a algún Diputado se le instruya Juicio Político, no ejercerá sus funciones de Diputado ni tomará parte en trabajo o Comisión alguna.
 
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
 ###### ARTICULO 155.
 
-La Legislatura conocerá mediante el procedimiento de Declaratoria de Procedencia, previo cumplimiento de los requisitos legales para el ejercicio de la acción penal, de las denuncias o querellas de los particulares o requerimientos del Ministerio Público, a fin de que pueda procederse por la vía penal en contra de los servidores públicos a que se refiere el artículo 170 fracción II de la Constitución Política del Estado.
-
-También conocerá por medio de este procedimiento, de las declaratorias de procedencia que le remitan las Cámaras del H. Congreso de la Unión, en términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 156.
 
-En la substanciación del procedimiento de Declaratoria de Procedencia, se observarán las disposiciones conducentes del capítulo anterior, incluido el procedimiento de examen previo por parte de la Comisión de Justicia y las relativas que establezcan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos, hecha excepción de lo siguiente:
-
-a).- El dictamen que presente la Comisión Instructora será en el sentido de que ha o no ha lugar a proceder penalmente en contra del servidor público inculpado.
-
-b).- Si el dictamen de la Comisión Instructora fuere en el sentido de que no ha lugar a proceder penalmente en contra del servidor público incoado, y fuere aprobado por el Pleno, el Presidente de la Legislatura declarará concluido el procedimiento de Declaratoria de Procedencia.
-
-En caso contrario, la Legislatura se erigirá en Gran Jurado dentro de los tres días siguientes, notificando al denunciante o querellante, al servidor público denunciado y al Ministerio Público, quien tendrá intervención.
-
-c).- La Declaratoria mencionará: "La Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo", erigida en Gran Jurado, Declara: (aquí el sentido de la resolución)".
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 157.
 
-Emitida la Declaratoria de Procedencia de la acusación, por este sólo hecho, quedará separado de su cargo el servidor público, quedando a disposición de la autoridad competente para el ejercicio de la acción penal.
-
-La Legislatura remitirá al Procurador General de Justicia del Estado, copia certificada del expediente, comunicándole la resolución respectiva. También se le comunicará la declaratoria en el sentido de la NO procedencia de la acusación.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -2502,3 +2488,11 @@ SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Q
 TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
 
 CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 082 POR EL QUE SE REFORMA EL ARTÍCULO 4, EL ARTÍCULO 26, El PÁRRAFO TERCERO DEL ARTÍCULO 65, LA FRACCIÓN II DEL ARTÍCULO 73, Y SE DEROGAN LA FRACCIÓN XVI DEL ARTÍCULO 16, EL PRIMER PÁRRAFO DEL ARTÍCULO 65, Y EL CAPITULO II DENOMINADO DE LA DECLARATORIA DE PROCEDENCIA, DEL TÍTULO DÉCIMO PRIMERO DENOMINADO DE LAS FACULTADES JURISDICCIONALES, INTEGRADO POR LOS ARTÍCULOS 155, 156 Y 157, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE DEROGA EL INCISO A) DE LA FRACCIÓN IV DEL ARTICULO 29 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO.”]
+
+PRIMERO. El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del decreto por el que se reforma el artículo 72 y se derogan la fracción XVII del artículo 75, la fracción VII del artículo 160, el artículo 162 y el artículo 163, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
