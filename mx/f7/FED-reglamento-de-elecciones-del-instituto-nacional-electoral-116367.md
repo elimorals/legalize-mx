@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2017-05-29"
+last_updated: "2017-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -3881,7 +3881,9 @@ g) Para seleccionar los noticiarios que cuenten con la misma relevancia polític
 
 ###### Artículo 304.
 
-1. Para los efectos del presente Reglamento, por debate se entiende aquellos actos públicos que únicamente se pueden realizar en el período de campaña, en los que participan candidatos a un mismo cargo de elección popular con el objeto de exponer y confrontar entre sí sus propuestas, planteamientos y plataformas electorales, a fin de difundirlos como parte de un ejercicio democrático, bajo un formato previamente establecido y con observancia de los principios de equidad y trato igualitario.
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2017)</small>
+
+1. Para los efectos del presente Reglamento, por debate se entiende aquellos actos públicos que únicamente se pueden realizar en el período de campaña, en los que participan candidatos a un mismo cargo de elección popular con el objeto de exponer y confrontar entre sí sus propuestas, planteamientos y plataformas electorales, a fin de difundirlos como parte de un ejercicio democrático, bajo un formato previamente establecido y con observancia de los principios de equidad y trato igualitario, sin que afecte la flexibilidad de los formatos.
 
 2. Los debates tienen por objeto proporcionar a la sociedad la difusión y confrontación de las ideas, programas y plataformas electorales de los candidatos, por lo que, en su celebración, se asegurará el más amplio ejercicio de la libertad de expresión, garantizando condiciones de equidad en el formato, trato igualitario y el concurso de quienes participan en ésta.
 
@@ -3915,41 +3917,49 @@ e) Debates entre los candidatos, no organizados por autoridades administrativas 
 
 ###### Artículo 307.
 
-1. El Consejo General creará una comisión temporal encargada de coordinar la realización de debates en la elección presidencial, integrada con un mínimo de tres y un máximo de cinco consejeros electorales del Consejo General, así como una Mesa de Representantes, conformada por representantes de los candidatos al cargo de elección respecto del cual se realice el debate.
+1. El Consejo General creará una comisión temporal encargada de coordinar la realización de debates en la elección presidencial integrada con un mínimo de tres y un máximo de cinco Consejeros Electorales del Consejo General. Los representantes de los partidos políticos podrán participar con voz pero sin voto.
 
-2. La Secretaría Técnica estará a cargo del Titular de la Coordinación Nacional de Comunicación Social, y como invitado permanente, el Titular de la DEPPP.
+La Comisión Temporal se instalará durante la primera quincena posterior al inicio del Proceso Electoral correspondiente con el objetivo de planificar las actividades y desarrollar la propuesta de reglas básicas, las cuales serán aprobadas por el Consejo General.
 
-3. Mediante acuerdo del Consejo General, el Instituto creará un comité técnico, el cual estará integrado por especialistas en materia electoral y comunicación política. Este Comité será el encargado de apoyar a la comisión temporal en la definición de los formatos para la realización de los debates.
+2. La Secretaría Técnica estará a cargo del Titular de la Coordinación Nacional de Comunicación Social y como invitado permanente, el Titular de la DEPPP.
 
-4. La comisión temporal tendrá las atribuciones siguientes:
+3. La Comisión Temporal tendrá las siguientes atribuciones:
 
-a) Elaborar, previa opinión de los integrantes de la Mesa de Representantes de partidos políticos, coaliciones y, en su caso, candidaturas independientes, la propuesta de bases y calendario para la organización de los debates, y someterla a consideración del Consejo General;
+a) En la primera sesión de la Comisión Temporal aprobará un plan de trabajo donde se especifique, por lo menos, el método para la selección de los moderadores con criterios objetivos y la ruta para el desarrollo de los debates.
 
-b) Elaborar la propuesta de formatos y reglas para la celebración de los debates, tomando en consideración la opinión de los integrantes de la Mesa de Representantes de partidos políticos, coaliciones y candidatos independientes, así como del comité técnico, y someterla a consideración del Consejo General.
+b) Elaborar la propuesta de reglas básicas para la celebración de los debates y someterla a consideración del Consejo General.
 
-La propuesta de formatos y reglas incluirán, por lo menos, los elementos siguientes:
+La propuesta de reglas básicas incluirá, por lo menos, los elementos siguientes:
 
 I. La instancia que operará el debate;
 
-II. El lugar y la fecha en que se celebrará;
+II. Número de debates;
 
-III. Los temas y subtemas que se discutirán;
+III. El lugar y la fecha en que se celebrarán;
 
-IV. La duración, y
+IV. Reglas específicas sobre, entre otros elementos, la moderación de los debates, las características de las preguntas, la interacción entre los participantes, y en su caso, la participación de la ciudadanía.
 
-V. El mecanismo por medio del cual se definirá la ubicación y el orden de participación de los candidatos.
+La propuesta de reglas básicas deberá ser aprobada por el Consejo General antes del inicio de las precampañas.
 
-c) Designar a la persona o personas que fungirán como moderadores, a propuesta del comité técnico y con el consenso de los integrantes de la Mesa de Representantes;
+Para ello, de manera previa se analizarán en la Comisión Temporal las opiniones y observaciones que presenten los partidos políticos.
 
-d) Determinar las cuestiones logísticas del debate a realizar, y
+c) Someter a consideración del Consejo General la propuesta de persona o personas que fungirán como moderadores.
 
-e) Resolver las cuestiones no previstas respecto a la organización de debates.
+d) Resolver las cuestiones no previstas respecto a la organización de debates.
+
+4. El Consejo General designará a las personas que fungirán como moderadores de los debates, previo al inicio de las precampañas.
+
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 308.
 
-1. Una vez integrada la comisión temporal referida en este Capítulo, y registrados los candidatos para el cargo de elección popular, se instalará inmediatamente la Mesa de Representantes, la cual contará con las siguientes atribuciones:
+1. Se erige como órgano de consulta la Mesa de Representantes, integrada por las personas que fungirán como representantes de los candidatos al cargo de Presidente de la República.
 
-a) Revisar y emitir opinión respecto de las bases, calendario, formato y reglas del debate, y
+2. La Mesa de Representantes será convocada y presidida por el Presidente de la Comisión Temporal y acudirá el Secretario Técnico de la misma, así como el titular de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
+
+3. La Mesa de Representantes contará con las siguientes atribuciones:
+
+a) Revisar y emitir opinión respecto del formato del debate en aquellos elementos no contemplados dentro de las reglas básicas, así como sobre aspectos técnicos de producción del debate;
 
 b) Sugerir a la Comisión las condiciones materiales para la realización del debate.
 
@@ -3962,6 +3972,8 @@ b) Sugerir a la Comisión las condiciones materiales para la realización del de
 3. En estos casos, la DEPPP, una vez que tenga conocimiento de la fecha en que se realice un debate, deberá comunicarlo a los concesionarios y permisionarios, a través del vocal ejecutivo de la junta local ejecutiva de la entidad federativa que corresponda.
 
 #### SECCIÓN TERCERA. REGLAS GENERALES PARA LA CELEBRACIÓN DE DEBATES CON INTERVENCIÓN DEL INSTITUTO
+
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 310.
 
@@ -6040,5 +6052,79 @@ Cuarto.- Se instruye a la Unidad Técnica de Vinculación con los Organismos Pú
 Quinto.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General.
 
 Sexto.- Publíquese un extracto del Presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE MODIFICA EL CAPÍTULO XIX DE DEBATES DEL LIBRO TERCERO DEL REGLAMENTO DE ELECCIONES”.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueban la modificación al Capítulo XIX, Libro Tercero del Reglamento de Elecciones, para quedar como se muestra a continuación:
+
+“REGLAMENTO DE ELECCIONES”
+
+[…]
+
+###### Artículo 304.
+
+1. Para los efectos del presente Reglamento, por debate se entiende aquellos actos públicos que únicamente se pueden realizar en el período de campaña, en los que participan candidatos a un mismo cargo de elección popular con el objeto de exponer y confrontar entre sí sus propuestas, planteamientos y plataformas electorales, a fin de difundirlos como parte de un ejercicio democrático, bajo un formato previamente establecido y con observancia de los principios de equidad y trato igualitario, sin que afecte la flexibilidad de los formatos.
+
+[…]
+
+###### Artículo 307.
+
+1. El Consejo General creará una comisión temporal encargada de coordinar la realización de debates en la elección presidencial integrada con un mínimo de tres y un máximo de cinco Consejeros Electorales del Consejo General. Los representantes de los partidos políticos podrán participar con voz pero sin voto.
+
+La Comisión Temporal se instalará durante la primera quincena posterior al inicio del Proceso Electoral correspondiente con el objetivo de planificar las actividades y desarrollar la propuesta de reglas básicas, las cuales serán aprobadas por el Consejo General.
+
+2. La Secretaría Técnica estará a cargo del Titular de la Coordinación Nacional de Comunicación Social y como invitado permanente, el Titular de la DEPPP.
+
+3. La Comisión Temporal tendrá las siguientes atribuciones:
+
+a) En la primera sesión de la Comisión Temporal aprobará un plan de trabajo donde se especifique, por lo menos, el método para la selección de los moderadores con criterios objetivos y la ruta para el desarrollo de los debates.
+
+b) Elaborar la propuesta de reglas básicas para la celebración de los debates y someterla a consideración del Consejo General.
+
+La propuesta de reglas básicas incluirá, por lo menos, los elementos siguientes:
+
+I. La instancia que operará el debate;
+
+II. Número de debates;
+
+III. El lugar y la fecha en que se celebrarán;
+
+IV. Reglas específicas sobre, entre otros elementos, la moderación de los debates, las características de las preguntas, la interacción entre los participantes, y en su caso, la participación de la ciudadanía.
+
+La propuesta de reglas básicas deberá ser aprobada por el Consejo General antes del inicio de las precampañas.
+
+Para ello, de manera previa se analizarán en la Comisión Temporal las opiniones y observaciones que presenten los partidos políticos.
+
+c) Someter a consideración del Consejo General la propuesta de persona o personas que fungirán como moderadores.
+
+d) Resolver las cuestiones no previstas respecto a la organización de debates.
+
+4. El Consejo General designará a las personas que fungirán como moderadores de los debates, previo al inicio de las precampañas.
+
+###### Artículo 308.
+
+1. Se erige como órgano de consulta la Mesa de Representantes, integrada por las personas que fungirán como representantes de los candidatos al cargo de Presidente de la República.
+
+2. La Mesa de Representantes será convocada y presidida por el Presidente de la Comisión Temporal y acudirá el Secretario Técnico de la misma, así como el titular de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
+
+3. La Mesa de Representantes contará con las siguientes atribuciones:
+
+a) Revisar y emitir opinión respecto del formato del debate en aquellos elementos no contemplados dentro de las reglas básicas, así como sobre aspectos técnicos de producción del debate;
+
+b) Sugerir a la Comisión las condiciones materiales para la realización del debate.
+
+[…]
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- Publíquese un extracto del presente Acuerdo y la presente modificación del Reglamento de Elecciones en el Diario Oficial de la Federación.
+
+CUARTO.- Se instruye al Secretario Ejecutivo a que notifique, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a los Partidos Políticos Nacionales.
+
+QUINTO.- Se ordena a la Unidad Técnica de Servicios de Informática a que ponga a disposición en el portal de Internet del Instituto Nacional Electoral, el presente Acuerdo.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
