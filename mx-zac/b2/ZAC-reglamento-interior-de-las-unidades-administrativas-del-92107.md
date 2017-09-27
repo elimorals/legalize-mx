@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-las-unidades-administrativas-del-92107"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-05"
-last_updated: "2013-01-05"
+last_updated: "2017-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,15 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LAS UNIDADES ADMINISTRATIVAS DEL TITULAR DEL EJECUTIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento No. 2 del Periódico Oficial del Estado de Zacatecas, el sábado 5 de enero de 2013.
 
 MIGUEL A. ALONSO REYES GOBERNADOR DEL ESTADO DE ZACATECAS, EN EJERCICO (SIC) DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 82 FRACCIÓN II, 84 Y 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS; 3, 4, 5, 6 Y 16 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -543,7 +545,7 @@ VI. Las demás que le encomienden el Titular del Ejecutivo o el Jefe de Oficina.
 
 Para el desarrollo de sus funciones, la Dirección de Relaciones Públicas, contará con las siguientes unidades administrativas:
 
-I. Departamento de de Eventos Especiales;
+I. Departamento de de (sic) Eventos Especiales;
 
 II. Departamento de Atenciones;
 
@@ -1268,3 +1270,33 @@ MIGUEL ALEJANDRO ALONSO REYES
 SECRETARIO GENERAL DE GOBIERNO
 
 FRANCISCO ESCOBEDO VILLEGAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA JEFATURA DE OFICINA DEL GOBERNADOR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de los Artículos Transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los artículos 10 y 11 de este Reglamento, relativos a las funciones de la Coordinación de Estrategia Digital, entrarán en vigor a partir del día primero de enero de dos mil dieciocho; hasta en tanto, tales funciones seguirán ejecutándose por dicha unidad administrativa a cargo de la Secretaría de Administración del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos 14 y 15 de este Reglamento, relativos a las funciones de la Coordinación de Comunicación Social, entrarán en vigor a partir del día primero de enero de dos mil dieciocho; hasta en tanto, tales funciones seguirán ejecutándose por dicha unidad administrativa a cargo de la Secretaría de Administración del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los Manuales de Organización y de Procedimientos de la Jefatura de Oficina, deberán ser publicados en un término que no exceda de 90 días naturales contados a partir de la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el Reglamento Interior de las Unidades Administrativas del Titular del Ejecutivo del Estado, publicado en el Periódico Oficial Órgano del Gobierno del Estado en el Suplemento al No. 2 de fecha 5 de enero de 2013.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que contravengan al presente ordenamiento.
