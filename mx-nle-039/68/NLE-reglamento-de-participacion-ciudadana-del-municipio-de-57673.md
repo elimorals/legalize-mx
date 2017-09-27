@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2016-02-27"
+last_updated: "2017-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
@@ -1759,7 +1761,7 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 DR. ARTURO CAVAZOS LEAL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 5 DE FEBRERO DE 2010.
 
@@ -1816,3 +1818,17 @@ P.O. 27 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN".]
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 19 DE SEPTIEMBRE DE 2017, SE APROBÓ EL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N.L.”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente hábil al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se da un término de 90 días a partir de la publicación del presente Reglamento para que se definan las bases y enlaces para la aplicación del Reglamento.
+
+TERCERO.- Se da un término de 90 días a partir de la publicación del presente Reglamento para que la Contraloría Municipal expida las Reglas de Operación y los Manuales de Procedimientos del Programa de Presupuesto Participativo que en su caso sean necesarios para el buen funcionamiento del Programa.
+
+CUARTO.- Queda abrogado el Reglamento de Participación Ciudadana del Municipio de Monterrey publicado en el Periódico Oficial del Estado en fecha 31 de Octubre del año 2007.
+
+QUINTO.- Se derogan las Disposiciones, Reglamentos o Acuerdos Administrativos que contravengan lo aquí dispuesto.
