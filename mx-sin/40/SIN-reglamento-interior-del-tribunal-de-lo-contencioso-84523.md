@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-tribunal-de-lo-contencioso-84523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-21"
-last_updated: "2012-09-05"
+last_updated: "2017-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 21 de diciembre de 2011.
 
@@ -169,7 +169,7 @@ III. Al Secretario General de Acuerdos, quedan adscritos: los Secretarios de Acu
 
 IV. Al Jefe de la Unidad de Apoyo Administrativo quedan adscritos: el Jefe del Departamento de Informática y demás personal adjunto a dicha área.
 
-V. La adscripción de los servidores públicos de las Salas Regionales, será la que señalan el artículo 11 del presente Reglamento; (sic)
+V. La adscripción de los servidores públicos de las Salas Regionales, será la que señalan el artículo 11 del presente Reglamento;
 
 ###### ARTICULO 11.
 
@@ -543,7 +543,7 @@ IX. Gestionar ante las Instituciones de Educación Superior, la asignación de p
 
 X. Registrar mensualmente la información estadística de la Sala Superior y de las Salas Regionales, por año de calendario y para efectos de informe anual;
 
-XI. Las demás que le encomiende la Sala Superior, la Presidencia y las que le confiera la Ley: (sic)
+XI. Las demás que le encomiende la Sala Superior, la Presidencia y las que le confiera la Ley:
 
 > <small>(ADICIONADA LA DENOMINACIÓN CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -762,3 +762,19 @@ P.O. 5 DE SEPTIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 La presente adición y derogación al Reglamento entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación, en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, aprobado mediante sesión ordinaria 35/2011, celebrada el día dieciséis de diciembre de dos mil once.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente ordenamiento.
