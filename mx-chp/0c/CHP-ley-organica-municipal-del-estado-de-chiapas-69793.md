@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2014-11-27"
+last_updated: "2017-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -366,6 +366,14 @@ Además aprobar el informe de evaluación de nivel de cumplimiento de su Plan Mu
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Dentro del presupuesto de egresos deberán considerar acciones y recursos destinados a elevar el índice de desarrollo humano de los habitantes y comunidades mas necesitados, los cuales estarán alineados a los Objetivos de Desarrollo del Milenio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
+Además este plan de desarrollo deberá ser elaborado por funcionarios públicos municipales certificados por instituciones autorizadas por CONOCER especializadas en administración pública residentes en el Estado, con el objeto de garantizar que sean elaborados con mecanismos homogéneos de calidad en el servicio público municipal en toda la entidad federativa, para establecer políticas públicas de alto impacto que propongan respuestas eficientes y cercanas a las necesidades de la ciudadanía del Estado de Chiapas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
+Este mecanismo de certificación tendrá como función principal, la capacitación de dichos funcionarios municipales encargados de la elaboración de los planes de desarrollo municipal, con asistencia técnica, capacitación y asesoría en la elaboración de planes de gobierno municipal, que tengan por objeto el impacto directo en la calidad en el servicio municipal en beneficio de la ciudadanía, como son la obra pública, agua potable, vivienda, derechos humanos, alumbrado, seguridad pública, educación, entre otros, observando los Objetivos del Desarrollo Sostenible, garantizando el desarrollo municipal homogéneo en cada uno de los municipios del Estado de Chiapas.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -1127,6 +1135,10 @@ V.- No pertenecer al estado eclesiástico o ser ministro de algún culto;
 
 VI.- No ser cónyuge o pariente consanguíneo, por afinidad o civil de cualquiera de los integrantes del Ayuntamiento, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos.
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
+VII.- Contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña como Secretario Municipal, expedida por un centro certificado de CONOCER, con especialidad en Administración Pública Municipal residente en el Estado de Chiapas.
+
 ###### Artículo 60.
 
 El Secretario de Ayuntamiento tendrá las siguientes atribuciones y obligaciones:
@@ -1163,9 +1175,11 @@ Para la recaudación de los ingresos municipales y la administración de las fin
 
 El Tesorero y los demás servidores públicos que manejen fondos o valores, deben otorgar caución, cuyo monto y forma serán determinados por el ayuntamiento.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 62.
 
-Para ser Tesorero Municipal de un Ayuntamiento se requiere de los mismos requisitos que para ser Secretario Municipal; con excepción del requisito de formación profesional que será en alguna de las áreas económico- administrativos.
+Para ser Tesorero Municipal de un Ayuntamiento se requiere de los mismos requisitos que para ser Secretario Municipal; con excepción del requisito de formación profesional que será en alguna de las áreas económico– administrativos. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
 ###### Artículo 63.
 
@@ -1203,9 +1217,11 @@ El Tesorero será responsable de las erogaciones que efectué que no estén comp
 
 ### Capítulo IV. De la Dirección de Obras Públicas Municipales
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-Para ser Director de Obras Públicas Municipales de un ayuntamiento se requiere de los mismos requisitos que para ser Secretario Municipal; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción.
+Para ser Director de Obras Públicas Municipales de un ayuntamiento se requiere de los mismos requisitos que para ser Secretario municipal; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
 ###### Artículo 66.
 
@@ -1261,7 +1277,9 @@ VI. Haber cumplido con el Servicio Militar Nacional;
 
 VII. Contar con Carta de Antecedentes Laborales no Negativos, expedido por el Sistema Nacional de Seguridad Pública;
 
-VIII. No haber sido condenado por delito doloso; y,
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. No haber sido condenado por delito doloso, así como contar con certificación de capacitación y competencia laboral vigente en la materia expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, y;
 
 IX. Los demás que señalen los ordenamientos aplicables.
 
@@ -1303,9 +1321,11 @@ II.- Recepcionar las declaraciones de situación patrimonial que presenten los i
 
 III.- Vigilar la correcta aplicación de los recursos financieros, conforme al presupuesto aprobado, auxiliando en lo conducente, al Síndico Municipal en las funciones que al mismo le señala el artículo 44, de esta Ley;
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 72.
 
-El titular de la Contraloría Municipal, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, quien ejercerá el mando directo sobre dicho titular.
+El titular de la Contraloría Municipal, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, quien ejercerá el mando directo sobre dicho titular. Además deberá contar con la certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1335,7 +1355,9 @@ VI.- Las demás que dispongan las leyes de la materia y el Ayuntamiento a travé
 
 El titular de la Secretaría de Planeación Municipal o su equivalente, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, quien ejercerá el mando directo sobre dicho titular.
 
-Para ser Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2017)</small>
+
+Para ser Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal. Además, contar con la certificación de capacitación y competencia laboral expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
 ### Capítulo VII. Del Cronista Municipal
 
@@ -2582,3 +2604,17 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 246 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Servidores Públicos Municipales que requieran contar con certificación de competencia laboral para desempeñar un cargo o se encuentren desempeñando un cargo de los mencionados en el presente decreto, contaran con un plazo, por única ocasión de un año para cumplir el requisito.
+
+En el caso de que el mecanismo de certificación en la materia no se encuentre vigente, el servidor público que corresponda contará con un plazo de un año para obtener la certificación a partir de la publicación del estándar de competencia laboral en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Los funcionarios públicos que ocupen cargos dentro de las estructuras municipales que brindan servicios públicos que no se encuentren contemplados dentro de la Ley Orgánica Municipal, pero se encuentren dentro de los manuales de organización aprobados por los cabildos municipales, deberán cumplir con las certificaciones correspondientes de acuerdo a sus funciones, que se encuentran contemplados en el considerando de este decreto.
