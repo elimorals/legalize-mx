@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-106240"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-02-26"
-last_updated: "2017-07-18"
+last_updated: "2017-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 26 de febrero de 2015.
 
@@ -157,7 +157,9 @@ XXI. Dictar las medidas de protección que procedan;
 
 XXII. Promover la aplicación de soluciones alternas y de formas anticipadas de terminación del proceso penal en los términos de la ley y con base en los lineamientos institucionales que al efecto establezca la Procuraduría;
 
-XXIII. Registrar y auditar los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, de conformidad con la legislación en la materia;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XXIII. Notificar al Asesor Jurídico única y exclusivamente sobre las soluciones alternas que se presenten en las carpetas de investigación en las cuales tenga acreditada la personalidad jurídica y su designación dentro de la misma;
 
 XXIV. Solicitar las providencias precautorias y medidas cautelares aplicables al imputado en el proceso, y promover su cumplimiento;
 
@@ -1037,7 +1039,9 @@ II. A la adquisición de equipo y material necesario;
 
 III. A la adquisición de inmuebles;
 
-IV. Al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán, al que refiere la legislación en materia de atención a víctimas y ofendidos del delito, en un porcentaje del 33% del total de los recursos del Fondo cada vez que el Consejo Técnico disponga o ejerza recursos del mismo; y,
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán, al que refiere la Ley de Atención a Víctimas para el Estado de Michoacán, en un porcentaje del 33% del total de los recursos del Fondo cada vez que el Consejo Técnico disponga o ejerza recursos del mismo; y,
 
 V. En otros rubros relacionados con la Procuración de Justicia.
 
@@ -1053,9 +1057,17 @@ II. El titular de la Dirección General de Administración de la Procuraduría, 
 
 III. El titular de la Dirección General de Asuntos Internos de la Procuraduría, que tendrá a su cargo la vigilancia del Fondo;
 
-IV. El Comisionado Presidente del Centro de Atención a Víctimas del Estado; y,
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-V. Director del Instituto de Capacitación y Profesionalización.
+IV. El Titular de la Comisión Ejecutiva Estatal de Atención a Víctimas del Estado o su representante designado para el efecto;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+V. Director del Instituto de Capacitación y Profesionalización; y,
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+VI. El Titular de la Secretaría de Contraloría del Estado de Michoacán o su representante designado para el efecto.
 
 ###### Artículo 59.
 
@@ -1197,10 +1209,34 @@ P.O. 8 DE DICIEMBRE DE 2016.
 
 P.O. 18 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE "SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18, LOS ARTÍCULOS 23 BIS, 23 TER, Y 23 QUÁTER, EL PÁRRAFO CUARTO AL ARTÍCULO 39 Y EL PÁRRAFO TERCERO AL ARTÍCULO 51 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE "SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18, LOS ARTÍCULOS 23 BIS, 23 TER, Y 23 QUÁTER, EL PÁRRAFO CUARTO AL ARTÍCULO 39 Y EL PÁRRAFO TERCERO AL ARTÍCULO 51 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Gobernador del Estado realizará las acciones necesarias para que el Congreso apruebe el presupuesto de egresos y proveer de recursos a la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
 
 TERCERO. El Congreso del Estado, por conducto de las comisiones de Justicia y de Gobernación, emitirá convocatoria pública para la designación del Fiscal Especializado, en materia de delitos relacionados con hechos de corrupción, dentro de los noventa días hábiles posteriores a la publicación del presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 399.- ARTÍCULO PRIMERO.- SE REFORMA LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE MICHOACÁN DE OCAMPO; ARTÍCULO SEGUNDO.- SE REFORMA LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Comisionados nombrados por el Pleno del Congreso del Estado en la Sesión Ordinaria del día 7 de agosto del año 2015, que tomaron protesta y que se encuentren en funciones, dejarán de ejercer el cargo que les fue conferido a la entrada en vigor del presente Decreto.
+
+La actual Comisionada Presidenta fungirá con el carácter de encargada del despacho de la Comisión Ejecutiva, hasta en tanto sea designado el nuevo titular en términos de la presente Ley.
+
+CUARTO. Por única ocasión, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo, previa convocatoria abierta a la sociedad civil, academia y personas especializadas en la materia, remitirá al Congreso del Estado la propuesta de nombramiento del Comisionado Ejecutivo, quien durará en el cargo cuatro años.
+
+En adelante la designación del Comisionado Ejecutivo se realizará de acuerdo al proceso establecido en el artículo 34 de esta Ley.
+
+QUINTO. La Comisión Ejecutiva realizará las adecuaciones necesarias a su estructura orgánica y al contrato de fideicomiso en un plazo de noventa días hábiles posteriores a la entrada en vigor de la presente reforma.
+
+SEXTO. El Congreso del Estado autorizará al Titular del Ejecutivo Estatal las modificaciones presupuestales para cumplir con lo dispuesto en la Ley General de Víctimas, respecto de los recursos que deben destinarse al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán, conforme al Capítulo V y el Noveno Transitorio del Decreto de reforma de la Ley General de Víctimas publicado el 03 de enero del 2017 en el Diario Oficial de la Federación.
+
+SÉPTIMO. La Comisión Ejecutiva deberá realizar las adecuaciones conducentes en términos del presente Decreto, en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto. De igual forma deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley en el siguiente ejercicio fiscal, a su entrada en vigor.
+
+OCTAVO. La Secretaría de Finanzas y Administración supervisará que los recursos financieros, humanos y materiales destinados a la atención a víctimas de delitos o de violación a derechos humanos de la Procuraduría General de Justicia del Estado, se asignen a la Comisión Ejecutiva Estatal de Atención a Víctimas en un periodo no mayor a 90 días, con excepción de los destinados a la atención a víctimas en materia de delito de secuestro, los cuales continuarán formando parte de los recursos de la Procuraduría General de Justicia del Estado.
