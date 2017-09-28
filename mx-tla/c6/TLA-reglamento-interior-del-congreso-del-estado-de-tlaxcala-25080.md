@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2017-08-30"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -207,11 +207,11 @@ El Pleno del Congreso se erigirá en colegio electoral según los casos y proced
 
 Durante los recesos del año legislativo funcionará una Comisión Permanente compuesta de un presidente, dos secretarios y un vocal, los que serán electos por el Pleno mediante cédula y a mayoría de votos, de acuerdo con lo previsto en la Ley.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-La Comisión Permanente funcionará en los períodos siguientes: Del treinta y uno de mayo al treinta y uno de julio y del dieciséis de diciembre al catorce de enero del año siguiente.
+La Comisión Permanente funcionará en los períodos siguientes: Del treinta de abril al treinta y uno de julio y del dieciséis de diciembre al catorce de enero del año siguiente.
 
 ###### Artículo 19.
 
@@ -1934,3 +1934,23 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 37.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 4 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO, Y EL ARTÍCULO 18 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión la Comisión Permanente de la LXII Legislatura funcionará del dieciséis de diciembre del presente año al catorce de enero del año dos mil dieciocho y del treinta de abril del año dos mil dieciocho al veintinueve de agosto de ese mismo año.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto número 308, publicado en (sic) Periódico Oficial del Gobierno del Estado de Tlaxcala, número 4 extraordinario de fecha treinta de diciembre del año dos mil dieciséis: además se abroga el Decreto número 32, publicado en el Periódico Oficial del Gobierno del Estado el día treinta de agosto del año dos mil diecisiete, número 35, tercera sección, así como se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
