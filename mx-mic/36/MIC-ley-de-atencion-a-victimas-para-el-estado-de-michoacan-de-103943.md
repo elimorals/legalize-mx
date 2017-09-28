@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2015-05-21"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -67,17 +67,23 @@ II. Establecer y coordinar las acciones y medidas necesarias para promover, resp
 
 III. Garantizar un efectivo ejercicio del derecho de las víctimas a la justicia en estricto cumplimiento a las reglas del debido proceso, en términos de lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas en especial en materias de salud, educación y asistencia social; y,
 
 V.- Establecer las sanciones respecto al incumplimiento por acción u omisión de cualquiera de sus disposiciones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
-Las medidas de ayuda inmediata contempladas en esta ley, comprenden las medidas de emergencia médica y psicológica, protección, gastos funerarios, transportación, alojamiento y alimentación, preferentemente.
+Las víctimas recibirán ayuda provisional, oportuna e inmediata de los Recursos de Ayuda de la Comisión cuando requieran medidas de asistencia y atención de emergencia médica y psicológica, protección, gastos funerarios, transportación, alojamiento y alimentación, preferentemente.
 
 Las medidas de asistencia y atención mencionadas en la presente Ley, incluyen las medidas de apoyos educativos, económicos y de desarrollo para la superación de la condición de víctima, así como medidas de atención especializadas para garantizar los derechos de acceso a la verdad y a la justicia. Las medidas de ayuda inmediata, asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral a la que tuvieran derecho las víctimas.
 
-Las medidas enunciadas en la presente Ley no limitan la posibilidad de que las autoridades competentes, en el marco de sus respectivas competencias, puedan realizar medidas de ayuda inmediata, asistencia y atención, que aunque no se encuentren explícitamente señaladas en la presente Ley, consten en legislación o políticas públicas previamente existentes o desarrolladas en beneficio de las víctimas, en tanto se correspondan con lo dispuesto en la Ley General de Víctimas, y sean pertinentes, proporcionales y razonables, considerando las necesidades especiales que pudieran desprenderse de las características específicas del caso, del daño causado por el hecho victimizante, o bien, de las condiciones particulares de la víctima.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Los Recursos de Ayuda no sustituyen ni reemplazan a las medidas de reparación integral a la que tuvieran derecho las víctimas y no limitan la posibilidad de que las autoridades competentes, en el marco de sus respectivas competencias, puedan realizar medidas de ayuda inmediata, asistencia y atención, que aunque no se encuentren explícitamente señaladas en la presente Ley, consten en legislación o políticas públicas previamente existentes o desarrolladas en beneficio de las víctimas, en tanto se correspondan con lo dispuesto en la Ley General de Víctimas, y sean pertinentes, proporcionales y razonables, considerando las necesidades especiales que pudieran desprenderse de las características específicas del caso, del daño causado por el hecho victimizante, o bien, de las condiciones particulares de la víctima.
 
 La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima de manera complementaria y no excluyente, teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido, la gravedad y magnitud del menoscabo de sus derechos, así como las circunstancias y características del hecho victimizante y de la condición particular de la víctima.
 
@@ -85,11 +91,15 @@ Las medidas de ayuda inmediata, asistencia, atención y demás establecidas en e
 
 Para brindar medidas de ayuda inmediata, se contará con mecanismos de atención a las posibles víctimas las 24 horas del día, los 365 días del año, en módulos previamente establecidos e identificados para ese efecto, siendo atendidos por personal capacitado, que desempeñará su servicio en las instituciones destinadas a brindar atención de emergencias.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los Tratados Internacionales de los que el Estado mexicano es parte, la jurisprudencia y recomendaciones de los órganos de protección de los derechos humanos creados por Tratados Internacionales de los que el Estado mexicano sea parte, en la Ley General de Víctimas y la Constitución del Estado Libre y Soberano de Michoacán de Ocampo, favoreciendo en todo tiempo la protección más amplia de los derechos de las personas.
+Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano es parte, la Ley General de Víctimas y la Constitución del Estado Libre y Soberano de Michoacán de Ocampo, favoreciendo en todo tiempo la protección más amplia de los derechos de las personas y el interés superior de los menores.
 
 En la interpretación de las normas que protejan a víctimas y que obligan a las autoridades locales, se aplicará siempre la que más favorezca a la persona.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
@@ -97,25 +107,29 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Asesoría Jurídica: Asesoría Jurídica Estatal de Atención a Víctimas;
 
-II. Comisión Ejecutiva: Comisión Ejecutiva Estatal de Atención a Víctimas;
+II. Comisión: Comisión Ejecutiva Estatal de Atención a Víctimas;
 
-III. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+III. Comisionado Ejecutivo: Titular de la Comisión;
 
-IV. Fondo: Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán;
+IV. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
 
-V. Titular del Poder Ejecutivo: Gobernador Constitucional del Estado de Michoacán de Ocampo;
+V. Fondo: Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán;
 
-VI. Ley: Ley Estatal de Víctimas;
+VI. Ley: Ley de Atención a Víctimas para el Estado de Michoacán de Ocampo;
 
-VII. Plan: Plan Anual Integral de Atención a Víctimas;
+VII. Plan: Plan Integral de Desarrollo del Estado de Michoacán;
 
 VIII. Programa: Programa Estatal de Atención a Víctimas;
 
-IX. Registro: Registro Estatal de Víctimas de Michoacán;
+IX. Recurso de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación con cargo al Fondo;
 
-X. Sistema Nacional: Sistema Nacional de Atención a Víctimas; y,
+X. Registro: Registro Estatal de Víctimas de Michoacán;
 
-XI. Sistema Estatal: Sistema Estatal de Víctimas.
+XI. Sistema Nacional: Sistema Nacional de Atención a Víctimas;
+
+XII. Sistema Estatal: Sistema Estatal de Atención a Víctimas; y,
+
+XIII. Titular del Poder Ejecutivo: Gobernador Constitucional del Estado de Michoacán.
 
 ### CAPÍTULO II. CONCEPTOS, PRINCIPIOS, DERECHOS Y MEDIDAS DE ATENCIÓN A VÍCTIMAS
 
@@ -137,9 +151,11 @@ La Comisión Ejecutiva será responsable de establecer pautas y esquemas de coor
 
 Todas las instituciones públicas del Estado deberán participar en el desarrollo de este programa en el ámbito de sus respectivas atribuciones y mediante los recursos financieros, humanos y materiales a su disposición que para ese efecto señale el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 8.
 
-Quien presida la Comisión Ejecutiva, así como el Titular de la Secretaría de Salud Pública del Estado, en el marco de sus respectivas atribuciones y facultades, serán responsables de establecer mecanismos de coordinación para la operación de un Modelo Integral de Salud, que deberá contemplar el servicio a aquellas víctimas que no sean beneficiarias de un sistema de prestación social, o será complementario cuando los servicios especializados necesarios no puedan ser brindados por el sistema al cual se hallen afiliadas, de manera proporcional al daño causado a la víctima.
+El Comisionado Ejecutivo, así como el Titular de la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, serán responsables de establecer mecanismos de coordinación para la operación de un Modelo Integral de Salud, que deberá contemplar el servicio a aquellas víctimas que no sean beneficiarias de un sistema de prestación social o será complementario cuando los servicios especializados necesarios no puedan ser brindados por el sistema al cual se hallen afiliados, de manera proporcional al daño causado a la víctima.
 
 ###### Artículo 9.
 
@@ -163,113 +179,67 @@ Se crea el Programa de Protección de Víctimas, mismo que tendrá como objetivo
 
 El Programa de Protección de Víctimas será coordinado, regulado y operado por la Comisión Ejecutiva. Las instituciones integrantes del Sistema Estatal, según corresponda, proveerán lo necesario para la ejecución de las medidas de protección en el ámbito de su competencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-La adopción de medidas de protección que determine la Comisión Ejecutiva se regirá por un procedimiento ordinario, cuyo objeto será determinar las medidas preventivas a que haya lugar, o bien, por un procedimiento de urgencia, que tendrá lugar cuando haya un riesgo inminente de daño a la vida, la integridad física y mental, o la libertad de la víctima que amerite la adopción inmediata de medidas cautelares.
+La Comisión solicitará a las autoridades competentes, la adopción de medidas de protección para las víctimas que estén en situación de vulnerabilidad o riesgo inminente de daño a la vida, la integridad física y mental, la libertad o que existan razones fundadas para pensar que están amenazadas en razón del delito o de la violación de los derechos humanos. Las autoridades deberán atender de manera ágil esta solicitud conforme lo establece la Ley General de Víctimas.
 
 Las medidas que se adopten serán determinadas según el nivel de riesgo evaluado para cada caso particular y en la medida en que exista amenaza contra sus derechos a la vida, la integridad física, la libertad y la seguridad personal, atendiendo a la normatividad existente en la materia.
 
-Las medidas adoptadas deberán ser acordes con la amenaza que tratan de evitar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad. El consentimiento informado de las víctimas es necesario para la adopción de cualquiera de las medidas de protección contempladas en esta Ley.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Las medidas adoptadas deberán ser acordes con la amenaza que tratan de evitar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad. El consentimiento informado de las víctimas es necesario para la adopción de la Ley General de Víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 14.
 
-La Comisión Ejecutiva deberá contar con una línea telefónica gratuita y una dirección de correo electrónico de emergencia, disponible en todo momento en caso de riesgo inminente para la víctima.
+En cualquier momento, la Comisión podrá solicitar a las autoridades competentes que el número y la modalidad de ejecución de las medidas cautelares o de protección se modifiquen, a fin de adoptar medidas alternativas o complementarias, cuando las circunstancias del caso lo ameriten o cuando las medidas adoptadas no proveyeran el nivel necesario de protección a las víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-El procedimiento ordinario iniciará cuando la víctima, sus familiares o un tercero que actúe en su representación, soliciten directamente a la Comisión Ejecutiva, o bien, a cualquier autoridad pública, la adopción de las medidas de protección. Las autoridades públicas distintas a la Comisión Ejecutiva, incluyendo al Ministerio Público y a las autoridades jurisdiccionales, deberán remitir de inmediato a esta instancia, cualquier solicitud de medidas de protección que hubieran recibido.
+La Comisión podrá solicitar a las autoridades públicas, jurisdiccionales y al Ministerio Público información respecto a las medidas de protección y cautelares otorgadas en favor de las víctimas o sus familiares, siempre y cuando se encuentre debidamente acreditada la personalidad jurídica del asesor jurídico y su designación en la carpeta de investigación de que se trate.
 
-El procedimiento de urgencia se adoptará en un plazo no mayor de seis horas mediante la adopción de medidas cautelares cuando por denuncia directa de la víctima, de un familiar o un tercero que la represente, o bien por conocimiento de las autoridades, exista peligro inminente y fundado, de que se verifique un riesgo irreparable a la vida, la integridad física o mental o la libertad de las víctimas.
-
-Entre las medidas cautelares que deben adoptarse de inmediato en casos de urgencia están las siguientes:
-
-I. Reubicación temporal, incluyendo apoyo económico para la transportación aérea, terrestre o por cualquier otro medio idóneo, así como ayuda inmediata en materia de alojamiento;
-
-II. Evacuación de un lugar bajo violencia grave;
-
-III. Resguardo de la integridad personal de la víctima;
-
-IV. Realización de rondines frecuentes de vigilancia por parte de los cuerpos de seguridad pública locales; y,
-
-V. Las demás que se requieran para salvaguardar la vida, integridad y libertad de los beneficiarios.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-Cuando no exista un riesgo inminente y fundado a la seguridad de la víctima, la Comisión Ejecutiva emitirá en un plazo no mayor a cinco días naturales a partir de presentada la solicitud, un acta fundada y motivada en la que consten al menos los siguientes elementos:
+Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse dependiendo de la naturaleza del caso, y en caso de aceptar su realización a ser acompañadas en todo momento por su Asesor Jurídico o la persona que consideren y los gastos que esto genere podrán ser cubiertos con cargo al Fondo.
 
-I. Los hechos, pruebas, indicios o razones que motiven la adopción de las medidas preventivas;
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
 
-II. La determinación del nivel de riesgo de las víctimas, incluyendo a las víctimas indirectas y potenciales, así como, en su caso, si el riesgo corresponde a un colectivo que reciba la calidad de víctima;
-
-III. El número y nombres de las personas beneficiarias de las medidas que habrán de adoptarse;
-
-IV. Las medidas que se adoptarán para el caso;
-
-V. Los responsables de ejecutar las medidas, las modalidades de su ejecución y seguimiento;
-
-VI. Las observaciones que en su caso hicieran las víctimas o los integrantes sobre las medidas acordadas y adoptadas; y,
-
-VII. El plazo por el cual se adoptarán las medidas.
-
-El estudio técnico de nivel de riesgo gozará de carácter reservado y confidencial.
-
-Las medidas de protección consistirán en:
-
-I. Reubicación temporal, según lo amerite el nivel de riesgo evaluado, incluyendo apoyo económico para la transportación aérea, terrestre o por cualquier otro medio idóneo, así como ayuda inmediata en materia de alojamiento;
-
-II. Asignación de personal de seguridad especializado y capacitado, en caso de que exista un riesgo fundado a su integridad personal, mismos que pueden ser servidores públicos;
-
-III. Entrega de dispositivos de telecomunicación, radio u otros medios idóneos para la generación de alertas a las autoridades competentes en casos de emergencia;
-
-IV. Instalación de circuitos cerrados de audio y video, detectores de metales, cerraduras, luces u otras medidas de seguridad en el domicilio u oficina de la víctima;
-
-V. Las medidas cautelares contempladas para el procedimiento de urgencia; y,
-
-VI. Las demás que se requieran para salvaguardar la vida, integridad y libertad de los beneficiarios.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-El número y la modalidad de ejecución de las medidas podrán modificarse, en cualquier momento, cuando las circunstancias del caso lo ameriten o cuando las medidas adoptadas no proveyeran el nivel necesario de protección, a fin de adoptar medidas alternativas o complementarias.
+La Comisión, las autoridades estatales o municipales cubrirán los gastos relacionados con los apoyos de traslados de las víctimas, que comprenden los conceptos, de transportación, hospedaje y alimentación, cuando la víctima tenga que trasladarse por las siguientes causas:
+
+I. Formular denuncia o querella a efecto de que tengan reconocida su calidad procesal;
+
+II. Desahogar diligencias o comparecer ante el Ministerio Público, sus autoridades auxiliares o bien para acudir ante las autoridades judiciales, las Comisiones Nacional o Estatales de Derechos Humanos u otra autoridad relacionada con los hechos victimizantes;
+
+III. Solicitar a alguna institución nacional o estatal medidas de seguridad o protección de las autoridades competentes, cuando la víctima considere que existe un probable riesgo a su vida o integridad física o psicoemocional; y,
+
+IV. Recibir atención especializada o de tratamiento por alguna institución nacional o estatal, pública o privada cuando así sea autorizado en términos del artículo 8 de esta Ley, para el apoyo médico, psicológico o social que requiera.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-En la evaluación de riesgo se tomarán en cuenta, entre otros factores, el nivel de exposición al mismo que tiene la persona por su condición, género, edad u otra característica, que dadas las circunstancias en las que se encuentre, represente una mayor posibilidad de ver vulnerados sus derechos; circunstancias que la sometan a exposición a riesgo de una nueva victimización, tales como un domicilio o ubicación aislados de infraestructura o vías para denunciar o evadir de inmediato una situación de las ya señaladas; la existencia real o la posibilidad razonable de que se verifiquen amenazas, hostigamiento o acoso, o de que estas se intensifiquen o consumen, así como el hecho de que se hubieran consumado previamente atentados contra la vida, la integridad, la seguridad o la libertad de las víctimas, indistintamente de que se conozca la identidad de los posibles perpetradores.
+Toda comparecencia ante el órgano investigador, el juez o tribunal, organismo público de protección de los derechos humanos, o ante cualquiera otra autoridad o perito que requiera la presencia de la víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
-Las medidas de protección se deberán implementar con base en los siguientes principios:
-
-I. Adaptabilidad: Las medidas de protección deben adecuarse, en la mayor medida posible, a las necesidades de las víctimas, para lo cual, preferentemente, se ejecutarán bajo las modalidades que les resulten más convenientes;
-
-II. Consentimiento: Las medidas de protección deben adoptarse con el consentimiento previo e informado de las víctimas, salvo casos de extrema urgencia, en cuyo supuesto, no deberán menoscabar ninguno de sus derechos;
-
-III. Confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser clasificada como confidencial para los fines de la investigación o del proceso respectivo;
-
-IV. Máxima protección: Las medidas deberán orientarse de manera primordial a la protección de la vida, la integridad física, la libertad y la seguridad de las personas;
-
-V. Necesidad y proporcionalidad: Las medidas de protección deben responder al nivel de riesgo o peligro en que se encuentre la persona destinataria y deben ser aplicadas en cuanto sean necesarias para garantizar su seguridad o reducir los riesgos existentes; y,
-
-VI. Oportunidad y eficacia: Las medidas deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima y deben ser otorgadas e implementadas a partir del momento y durante el tiempo que garanticen su objetivo.
+La Comisión deberá contar con una línea telefónica gratuita y una dirección de correo electrónico de emergencia, disponible en todo momento en caso de riesgo inminente para la víctima.
 
 ###### Artículo 20.
 
-El uso indebido de las medidas de protección ameritará su retiro inmediato, así como las sanciones a las que haya lugar. Se considera que existe uso indebido de las medidas de protección, cuando la víctima:
-
-I. Abandone, evada u obstaculice injustificadamente la adecuada ejecución de las medidas;
-
-II. Autorice el uso de las medidas por personas diferentes a las determinadas por la Comisión Ejecutiva;
-
-III. Comercie u obtenga un beneficio económico con las medidas otorgadas;
-
-IV. Utilice al personal designado para su protección en actividades que no estén relacionadas con las medidas;
-
-V. Agreda física o verbalmente o amenace al personal que está asignado a su esquema de protección;
-
-VI. Autorice permisos o descanso al personal del esquema sin el conocimiento de la Comisión Ejecutiva;
-
-VII. Ejecute conductas ilícitas haciendo uso de los medios físicos y humanos dispuestos para su protección; y
-
-VIII. Cause daño intencionalmente a los medios de protección físicos y humanos asignados para su protección.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 21.
 
@@ -385,29 +355,35 @@ f) El titular de la Secretaría de Educación;
 
 g) El titular de la Secretaría de Salud;
 
-h) El titular de la Secretaría de la Mujer; y,
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+h) El titular de la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas; y,
 
 i) El titular del Sistema Estatal para el Desarrollo Integral de la Familia.
 
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 II. Poder Legislativo del Estado:
 
-a) Quien presida la Mesa Directiva;
+a) El Presidente de la Comisión de Justicia; y,
 
-b) Los integrantes de la Comisión de Derechos Humanos; y,
-
-c) Los integrantes de la Comisión de Justicia.
+b) El Presidente de la Comisión de Derechos Humanos.
 
 III. El Presidente del Supremo Tribunal de Justicia del Estado;
 
 IV. El titular de la Comisión Estatal de Derechos Humanos; y,
 
-V. Los comisionados de la Comisión Ejecutiva Estatal.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+V. El Comisionado Ejecutivo.
 
 ###### Artículo 29.
 
 Los integrantes del Sistema Estatal se reunirán en Pleno o en subcomisiones, las cuales se deberán crear de conformidad con lo establecido en el Reglamento de esta Ley.
 
-El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar, tomando en consideración las recomendaciones de la Comisión Ejecutiva, y en forma extraordinaria, cada que una situación urgente así lo requiera a solicitud de cualquiera de los integrantes del Sistema Estatal. Los integrantes tienen obligación de comparecer a las sesiones.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+El Pleno se reunirá por lo menos una vez cada año a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar, tomando en consideración las recomendaciones de la Comisión Ejecutiva, y en forma extraordinaria, cada que una situación urgente así lo requiera a solicitud de cualquiera de los integrantes del Sistema Estatal. Los integrantes tienen obligación de comparecer a las sesiones.
 
 El quórum para las reuniones del Sistema Estatal se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto.
 
@@ -441,37 +417,91 @@ IX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 31.
 
-La Comisión Ejecutiva, es un órgano administrativo descentralizado, no sectorizado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión; encargado de fungir como órgano operativo del Sistema Estatal.
+La Comisión Ejecutiva, es un Organismo Público Descentralizado, no sectorizado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, encargado de fungir como órgano operativo del Sistema Estatal.
 
-La Comisión Ejecutiva desarrolla mecanismos de ejecución a los acuerdos y resoluciones adoptados por los Sistemas Nacional y Estatal, en el ámbito de su competencia.
+La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de las violaciones de derechos humanos, en especial los derechos de asistencia, a la protección, a la atención, a la verdad, a la justicia, la reparación y a la debida diligencia.
+
+La Comisión Ejecutiva desarrolla mecanismos de ejecución a los acuerdos y resoluciones adoptados por sistemas Nacional y Estatal, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 32.
 
-La Comisión Ejecutiva estará a cargo del Registro y el Fondo y de Asesoría Jurídica; de conformidad con lo que dispone la Ley General de Víctimas, así como de la coordinación y asesoría técnica y operativa, para los mismos fines, con el Sistema Estatal.
+La Comisión estará a cargo de un Comisionado Ejecutivo y una Junta de Gobierno que se conformará con un representante de:
 
-Asimismo, coordinará las políticas, instrumentos, servicios y acciones, para garantizar la ejecución en el ámbito local de la política nacional en materia de ayuda, asistencia, atención y reparación integral a las víctimas, adoptada por el Sistema Nacional.
+I. El Gobernador del Estado, o la persona que éste designe, quien la presidirá;
 
-La Comisión Ejecutiva llevará un registro histórico de víctimas en los términos del Reglamento de esta Ley.
+II. El Comisionado Ejecutivo;
+
+III. La Secretaría de Finanzas y Administración;
+
+IV. La Secretaría de Salud; y,
+
+V. La Secretaría de Educación.
+
+Los integrantes serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente con voz y voto. Las decisiones de los integrantes requerirán el voto de la mayoría presente.
+
+La Junta contará con un secretario técnico que verificará la asistencia de la mayoría de los· integrantes para sesionar válidamente.
+
+En cuanto a los temas sustantivos relacionados con víctimas, el Comisionado Ejecutivo operará con autonomía y conforme al Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Bis.
+
+La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y de manera extraordinaria cuando convoque su Presidente, el Comisionado Ejecutivo o al menos tres de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Ter.
+
+A la Junta de Gobierno le corresponde de forma exclusiva las siguientes atribuciones:
+
+I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado Ejecutivo;
+
+II. Aprobar las disposiciones normativas que el Comisionado Ejecutivo someta a su consideración en términos de la Ley y el Reglamento;
+
+III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva que proponga el Comisionado Ejecutivo;
+
+IV. Aprobar el régimen laboral al que se sujetará la Comisión Ejecutiva;
+
+V. Aprobar los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Ejecutiva con dependencias federales o entidades federativas;
+
+VI. Conocer los convenios y acuerdos que el Comisionado Ejecutivo proponga con autoridades estatales, ayuntamientos, instituciones académicas u organizaciones de la sociedad civil;
+
+VII. Aquellas que por su naturaleza jurídica le correspondan; y,
+
+VIII. Las demás que el Comisionado Ejecutivo proponga por considerar necesarias.
+
+En ningún caso la Junta de Gobierno tendrá competencia para conocer de los recursos de ayuda y la reparación integral que la Comisión Ejecutiva otorgue a las víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-La Comisión Ejecutiva se coordinará con las entidades estatales y municipales, en el ámbito de sus respectivas competencias, para establecer mecanismos que permitan cumplir el objetivo de esta Ley.
+La Comisión estará a cargo del Registro y el Fondo y de Asesoría Jurídica; de conformidad con lo que dispone la Ley General de Víctimas, así como de la coordinación y asesoría técnica y operativa, para los mismos fines, con el Sistema Estatal.
+
+Asimismo, coordinará las políticas, instrumentos, servicios y acciones, para garantizar la ejecución en el ámbito local de la política nacional en materia de ayuda, asistencia, atención y reparación integral a las víctimas, adoptadas por el Sistema Nacional. Para ello, se coordinará con las entidades estatales y municipales, en el ámbito de sus respectivas competencias, para establecer mecanismos que permitan cumplir el objetivo de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-La Comisión Ejecutiva está integrada por tres comisionados. Contará con un Presidente que será elegido de entre sus integrantes por sus pares y presidirá por un periodo de dos años.
+La Comisión estará a cargo de un Comisionado Ejecutivo que será electo por las dos terceras partes de los Diputados presentes en el Pleno del Congreso del Estado de una terna presentada por el Titular del Ejecutivo Estatal, previa convocatoria abierta a la sociedad civil, academia y personas especializadas en la materia.
 
-El titular del Poder Ejecutivo enviará al Congreso del Estado, previa convocatoria pública, una terna por cada comisionado a elegir y el Congreso elegirá por el voto de las dos terceras partes de sus integrantes, que durarán en su encargo cuatro años con posibilidad de reelección por una sola ocasión.
+El Comisionado Ejecutivo se desempeñará en su cargo por cuatro años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-La Comisión Ejecutiva se conformará con especialistas en derecho, psicología, derechos humanos, sociología, especialidades equivalentes o representantes de víctimas, con experiencia en la materia de esta ley, propuestos por universidades u organizaciones de la sociedad civil.
-
-Una vez cerrada la convocatoria, el titular del Poder Ejecutivo deberá publicar la lista de las propuestas recibidas.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-Para la elección de los comisionados, previo a su votación en Pleno, las comisiones de Justicia y de Derechos Humanos del Congreso del Estado emitirán dictamen de manera conjunta.
+Para la elección del Comisionado Ejecutivo, previo a la votación en el Pleno, la Comisión de Justicia del Congreso del Estado, emitirá dictamen.
+
+En la elección del Comisionado Ejecutivo, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
 
 ###### Artículo 36.
 
@@ -487,9 +517,11 @@ IV. Haberse desempeñado destacadamente en actividades profesionales, de servici
 
 V. No haber desempeñado cargo de dirección en algún partido político, dentro de los dos años previos a su designación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 37.
 
-La Comisión Ejecutiva tendrá las siguientes atribuciones:
+La Comisión tendrá las siguientes atribuciones:
 
 I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por el Sistema Nacional y Estatal de Víctimas;
 
@@ -501,25 +533,33 @@ IV. Proponer políticas públicas en el Estado, de prevención de delitos y viol
 
 V. Diseñar un mecanismo de seguimiento y evaluación de las obligaciones previstas en esta Ley;
 
-VI. Desarrollar las medidas previstas en esta ley para la protección de las víctimas, cuando su vida o su integridad se encuentren en riesgo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Solicitar las medidas de protección previstas en las leyes de la materia para la protección de las víctimas, cuando su vida o integridad se encuentren en riesgo;
 
 VII. Coordinar a las instituciones competentes para la atención de una problemática específica, en conjunto con el Sistema Estatal, de acuerdo con los principios establecidos en esta ley, así como los de coordinación, concurrencia y subsidiariedad;
 
 VIII. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
 
-IX. Dirigir, supervisar, evaluar y coordinar el trabajo de las unidades municipales a su cargo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IX. Dirigir, supervisar, evaluar y coordinar el trabajo de las unidades regionales a su cargo;
 
 X. Realizar las acciones necesarias para la adecuada operación del Registro;
 
 XI. Cumplir las directrices para alimentar de información al Registro Nacional de Víctimas;
 
-XII. Rendir un informe anual ante el Sistema Nacional y el Sistema Estatal de Víctimas, sobre el cumplimiento de las obligaciones previstas en esta ley, así como de los avances del Plan, previsto en la Ley General de Víctimas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XII. Rendir un informe anual ante el Sistema Estatal de Víctimas, sobre el cumplimiento de las obligaciones previstas en esta Ley, así como de los avances del Programa;
 
 XIII. Administrar y vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes, a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
 
 XIV. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes a los funcionarios que incumplan con lo dispuesto en la presente Ley;
 
-XV. Nombrar a los titulares del Fondo, Asesoría Jurídica y del Registro;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XV. Elaborar los dictámenes de reparación integral de las víctimas para la validación del Comisionado;
 
 XVI. Proponer al titular del Poder Ejecutivo el proyecto de Reglamento de la presente Ley;
 
@@ -539,7 +579,9 @@ XXIII. Adoptar las acciones necesarias para garantizar el ingreso de las víctim
 
 XXIV. Coadyuvar en la elaboración de los protocolos generales de actuación para la prevención, atención e investigación de delitos o violaciones a los derechos humanos;
 
-XXV. Elaborar los manuales, lineamientos y demás acciones, acorde a lo establecido por la normatividad de la materia en sus protocolos;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XXV. Elaborar los manuales, lineamientos y demás acciones acorde a lo establecido por la normatividad de la materia;
 
 XXVI. Analizar y generar, en casos de graves violaciones a derechos humanos o delitos cometidos contra un grupo de víctimas, acciones emergentes de ayuda, atención, asistencia, protección, acceso a la justicia, a la verdad y a la reparación integral del daño;
 
@@ -551,41 +593,55 @@ XXIX. Brindar apoyo a las organizaciones de la sociedad civil que se dedican a l
 
 XXX. Implementar los mecanismos de control que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas;
 
-XXXI. Recibir y evaluar los informes rendidos por los titulares del Fondo, Asesoría Jurídica y del Registro, y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia; y,
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-XXXII. Las demás que se deriven de la normatividad aplicable.
+XXXI. Las demás que se deriven de la normatividad aplicable.
+
+XXXII. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 38.
 
-El Comisionado Presidente tendrá las siguientes facultades:
+El Comisionado Ejecutivo tendrá las siguientes facultades:
 
-I. Administrar, representar legalmente y dirigir el cumplimiento de las atribuciones de la Comisión Ejecutiva;
+I. Administrar, representar legalmente y dirigir el cumplimiento de las atribuciones de la Comisión;
 
-II. Convocar, dirigir, coordinar y dar seguimiento a las sesiones que celebre la Comisión Ejecutiva;
+II. Dirigir, coordinar y dar seguimiento a las acciones de la Comisión;
 
-III. Crear los lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de las funciones de la Comisión Ejecutiva;
+III. Crear los lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de las funciones de la Comisión;
 
 IV. Notificar a los integrantes del Sistema los acuerdos asumidos y dar seguimiento a los mismos a través de las sesiones que se celebren;
 
 V. Coordinar las funciones del Registro Estatal de Víctimas, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro, incluyendo la coordinación con el Registro Nacional;
 
-VI. Coordinar las acciones para el cumplimiento de las funciones de la Comisión Ejecutiva;
+VI. Administrar y supervisar el Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán y cuidar de cumplir con las obligaciones fiscales que de él deriven;
 
-VII. Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva a solicitar su inscripción en el Registro Estatal, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
+VII. Nombrar a los titulares de las áreas y al personal de la Comisión, cuidando que tengan los perfiles idóneos;
 
-VIII. Proponer al Pleno de la Comisión Ejecutiva los convenios de colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+VIII. Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva a solicitar su inscripción en el Registro Estatal, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
 
-IX. Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva;
+IX. Celebrar convenios de colaboración con instituciones, ayuntamientos, asociaciones o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
 
-X. Aplicar las medidas que sean necesarias para garantizar que las funciones de la Comisión Ejecutiva se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
+X. Celebrar previa autorización de la Junta de Gobierno y de manera coordinada con el Titular del Ejecutivo, convenios con otras entidades federativas o dependencias federales;
 
-XI. Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva; y,
+XI. Fundar y motivar por escrito la solicitud a la Comisión Ejecutiva de Atención a Víctimas Nacional, para el pago de apoyo a las víctimas con cargo del Fondo Federal, conforme a la fracción XVII del artículo 81 de la Ley General de Víctimas, así como supervisar los reintegros en el ciclo fiscal siguiente;
 
-XII. Las demás que se requiera para el eficaz cumplimiento de las funciones de la Comisión Ejecutiva.
+XII. Ejecutar el programa operativo anual y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva;
+
+XIII. Aplicar las medidas que sean necesarias para garantizar que las funciones de la Comisión Ejecutiva se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
+
+XIV. Recibir y evaluar los informes rendidos por los titulares de las áreas responsables y emitir recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento de la Comisión, siguiendo los principios de publicidad y transparencia;
+
+XV: Conocer y validar los proyectos de dictamen de reparación integral de las víctimas; y,
+
+XVI. Las demás que se requiera para cumplimiento de las funciones de la Comisión Ejecutiva.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
-Con el propósito de desarrollar estrategias locales para el cumplimiento del Plan previsto en la Ley General de Víctimas, las cuales deberán estar adecuadas a las necesidades y características específicas del Estado, el Programa deberá contar con una estructura homologada a la del Plan, así como especificar por lo menos lo siguiente:
+Con el propósito de desarrollar estrategias locales para el cumplimiento del Plan, el Programa deberá especificar por lo menos lo siguiente:
 
 I. Tareas previstas para el cumplimiento de los derechos de las víctimas, a la ayuda inmediata, a la asistencia y atención, a la justicia, a la verdad y a la reparación integral del daño, ordenadas mediante líneas estratégicas, objetivos e indicadores cuantitativos de cumplimiento;
 
@@ -597,13 +653,13 @@ IV. Mecanismos de coordinación, evaluación, monitoreo y seguimiento de tareas;
 
 V. Mecanismos para adecuar las tareas previstas en casos de emergencia, o cuando así lo determine la evaluación que se haga sobre la efectividad de las medidas desarrolladas.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 40.
 
-El proyecto de Programa deberá ser diseñado por la Comisión Ejecutiva, en un plazo no mayor a veinte días, a partir de la aprobación del Plan. En su elaboración, la Comisión Ejecutiva deberá contar con el aval técnico de la Comisión Ejecutiva de Atención a Víctimas, contemplada en la Ley General de Víctimas.
+El proyecto de Programa deberá ser diseñado por la Comisión, alineado a los ejes correspondientes al Plan y a los programas nacionales relacionados con la materia.
 
-Una vez validado el proyecto de Programa por la Comisión Ejecutiva de Atención a Víctimas del Sistema Nacional de Atención a Víctimas, deberá ser aprobada por el Pleno del Sistema Estatal. Entre la aprobación del Plan y la del Programa, no deberán transcurrir más de treinta días.
-
-El Programa tendrá vigencia hasta la aprobación del programa correspondiente al año siguiente.
+El Programa será aprobado por el Sistema Estatal y su periodo de vigencia estará ligado al Plan, pero podrá ser revisado en cada ejercicio fiscal.
 
 ## TÍTULO CUARTO. REGISTRO ESTATAL DE VÍCTIMAS
 
@@ -613,13 +669,17 @@ El Programa tendrá vigencia hasta la aprobación del programa correspondiente a
 
 El Registro, es el mecanismo técnico y administrativo de la Comisión Ejecutiva, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos, de forma complementaria al Registro Nacional de Víctimas.
 
-Para dar cumplimiento a la presente disposición, el titular del Poder Ejecutivo deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Para dar cumplimiento a la presente disposición, la Comisión deberá:
 
 I. Unificar los registros y sistemas de información que actualmente tienen las diferentes instituciones y dependencias con presencia en el Estado, así como la Comisión Estatal de Derechos Humanos. Se debe prestar especial atención a la información en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias, o bien, se hayan celebrado acuerdos de conciliación;
 
 II. Poner a disposición del Registro Nacional de Víctimas la información del Registro Estatal de Víctimas;
 
-III. Elaborar un plan de difusión, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no, en el Registro. Este plan debe estar enfocado no sólo en las víctimas que soliciten su ingreso, sino a los diferentes servidores públicos, asesores jurídicos, integrantes de organizaciones de víctimas y la población en general;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+III. Elaborar un programa de difusión, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no, en el Registro. Este programa debe estar enfocado no sólo en las víctimas que soliciten su ingreso, sino a los diferentes servidores públicos, asesores jurídicos, integrantes de organizaciones de víctimas y la población en general;
 
 IV. Garantizar que las personas que soliciten el ingreso en el Registro sean atendidas y orientadas de forma digna y respetuosa, por personal capacitado, que conozca su lengua madre, de acuerdo a la región indígena a la que corresponda, en su caso;
 
@@ -663,11 +723,15 @@ II. Las solicitudes de ingreso que presente cualquier autoridad estatal o munici
 
 Las entidades generadoras y usuarias de la información sobre las víctimas que posean registros de víctimas, pondrán a disposición del Registro la información que producen y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 46.
 
-La solicitud de inscripción de la víctima no implica su ingreso definitivo al Registro.
+La solicitud de inscripción de la víctima no implica su ingreso al Registro.
 
-Presentada la solicitud se procederá a ingresarla al Registro y a valorar la información recogida en el Formato Único de Declaración junto con la documentación remitida que acompañe dicho formato. Para practicar esa valoración, la Comisión Ejecutiva podrá solicitar la información que considere necesaria a cualquiera de las autoridades estatales o municipales, las que estarán en el deber de suministrarla, en un plazo que no supere los diez días naturales.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Presentada la solicitud se procederá a valorar la información del Formato Único de Declaración junto con la documentación requerida por el área de Registro y en caso de cumplir con los requisitos correspondientes al caso, se aprobará su ingreso.
 
 Si hubiera una duda razonable sobre los hechos, se escuchará a la víctima o a quien haya solicitado el ingreso en el Registro, quien podrá concurrir ante la Comisión Ejecutiva. En caso de hechos probados o de naturaleza pública, deberá aplicarse el principio de buena fe a que hace referencia esta Ley.
 
@@ -711,9 +775,11 @@ Una vez recibida la denuncia, queja o el conocimiento de los hechos, la autorida
 
 En el caso de las personas que se encuentren bajo custodia del Estado, estarán obligadas a recibir su declaración las autoridades que estén a cargo de los centros de reinserción social, con la presencia de los representantes jurídicos de las personas declarantes, de representantes de la Comisión Estatal de los Derechos Humanos o de la Comisión Ejecutiva.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 52.
 
-Para efectos de esta ley, el otorgamiento de la calidad de víctima puede determinarse por cualquiera de las siguientes autoridades:
+El otorgamiento de la calidad de víctima puede determinarse por cualquiera de las siguientes autoridades:
 
 I. El juzgador penal, que tiene conocimiento de la causa;
 
@@ -721,17 +787,25 @@ II. El juzgador penal, mediante sentencia ejecutoriada;
 
 III. El juzgador en materia administrativa, de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
-IV. Los órganos jurisdiccionales internacionales de protección de derechos humanos a los que México les reconozca competencia; y,
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-V. La Comisión Estatal, que podrá tomar en consideración las determinaciones de:
+IV. Los órganos jurisdiccionales internacionales de protección de derechos humanos a los que México les reconozca competencia;
 
-a) El Ministerio Público;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-b) La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+V. El Ministerio Público;
 
-c) Los organismos públicos de protección de los derechos humanos; o,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-d) Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia.
+VI. La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+VII. Los organismos públicos de protección de los derechos humanos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. La Comisión.
 
 El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los recursos del Fondo y a la reparación integral de conformidad con lo previsto en la presente Ley y en su Reglamento.
 
@@ -753,11 +827,13 @@ III. En el caso de lesiones graves, delitos contra la libertad psicosexual, viol
 
 El Fondo, tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas, en los términos previstos en esta Ley.
 
-Para la determinación e implementación de medidas objeto de reparación integral, el Sistema Estatal y la Comisión Ejecutiva, en conjunto, elaborarán el Plan Anual Integral de Víctimas. El Plan fijará una metodología que permita establecer para cada víctima un esquema individual de reparación, donde se determinen los derechos vulnerados, el daño y se establezcan las medidas necesarias para garantizar la reparación integral y los términos.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-Las personas colectivas objeto de reparación también deberán ser objeto de plan individual.
+El Comisionado Ejecutivo validará el dictamen de reparación individual elaborado con la información aportada por las áreas correspondientes, donde se determinen los derechos vulnerados, el daño y se establezcan las medidas necesarias para garantizar la reparación integral. Las medidas dictaminadas por el Comisionado Ejecutivo se desarrollarán con cargo al Fondo.
 
-Las medidas desarrolladas en el marco del Plan se desarrollarán con cargo al Fondo.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Los colectivos de personas que sean susceptibles de recibir una reparación, también deberán ser objeto de un dictamen individual.
 
 ###### Artículo 55.
 
@@ -767,11 +843,15 @@ Para ser beneficiario del Fondo, además de los requisitos que al efecto estable
 
 El Fondo se conformará con:
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Michoacán de Ocampo, en un porcentaje no inferior al .025% del gasto programable;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Michoacán de Ocampo y que deberán calcularse con base al factor poblacional, que será equivalente a la proporción de la población de la entidad, respecto del total nacional, de acuerdo al último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía, así como considerando que la suma de las asignaciones anuales de todas las entidades federativas, sería igual al cincuenta por ciento de la asignación que se destine al Fondo Nacional en el Presupuesto de Egresos de la Federación en el ejercicio fiscal de que se trate;
 
 II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales;
 
-III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+III. Recursos provenientes de fianzas y garantías económicas que impongan al imputado por parte de las autoridades judiciales y que por incumplimiento se hagan efectivas a favor del Fondo en términos del artículo 174 del Código Nacional de Procedimientos Penales;
 
 IV. Recursos provenientes de multas y sanciones pecuniarias, impuestas por la autoridad administrativa o judicial, cuando se violen deberes reconocidos por esta ley, en términos de la normatividad aplicable;
 
@@ -791,15 +871,27 @@ XI. Los rendimientos que generen los recursos del Fondo; y,
 
 XII. Los montos que se recuperen en virtud del derecho de repetición en los términos de ley.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+La aportación anual para el Fondo se deberá efectuar siempre y cuando, el patrimonio del mismo sea inferior al monto de aportación calculado para el ejercicio fiscal que corresponda. Dicha aportación deberá ser efectuada antes del 31 de marzo de cada año.
+
 ###### Artículo 57.
 
 El Fondo estará exento de toda imposición de carácter fiscal, así como de los diversos gravámenes a que pudieren estar sujetas las operaciones que se realicen con el Estado.
 
 ### CAPÍTULO II. ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-Los recursos del Fondo serán administrados y operados por la Comisión Ejecutiva a través de un fideicomiso público, de acuerdo a la reglamentación que para tal efecto se expida. En cuanto reciba una solicitud, la Comisión Ejecutiva lo turnará a un comité interdisciplinario evaluador, para la integración del expediente que servirá de base para la propuesta que el comisionado presidente presente al Pleno de la Comisión Ejecutiva para determinar el apoyo o ayuda que requiera la víctima.
+Los recursos del Fondo serán administrados y operados por la Comisión a través de un fideicomiso público, de acuerdo a la reglamentación que para tal efecto se expida.
+
+Para proporcionar los recursos de ayuda a las víctimas se podrá disponer de hasta el treinta por ciento de las reservas del fondo.
+
+La Comisión deberá prever el pago de reembolsos al Fondo Federal cuando se haya ejercido la facultad de atracción en el ejercicio fiscal siguiente, afectando hasta un veinte por ciento del Fondo conforme a la Ley General de Víctimas.
+
+La Comisión exigirá a la autoridad responsable restituya al Fondo de los recursos erogados, por concepto de compensación subsidiaria otorgados a la víctima por la recomendación derivada de la violación de derechos humanos, en un plazo no mayor de sesenta días.
 
 ###### Artículo 59.
 
@@ -809,11 +901,11 @@ El Fondo será vigilado y supervisado por la Coordinación de Contraloría en el
 
 ### CAPÍTULO III. PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 60.
 
-Para acceder a los recursos del Fondo, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva, de acuerdo a los términos que se establezcan en el Reglamento de esta Ley.
-
-Las resoluciones de la Comisión Ejecutiva no serán impugnables.
+Para acceder a los recursos del Fondo, la víctima presentará su solicitud a la Comisión a través de la Dirección del Registro, de acuerdo a los términos que se establezcan en el Reglamento de esta Ley.
 
 ###### Artículo 61.
 
@@ -843,17 +935,29 @@ Si el Estado no pudiese hacer efectiva total o parcialmente la orden de reparaci
 
 La Asesoría Jurídica es el área especializada en asesoría, asistencia y acompañamiento jurídico para víctimas, dependiente de la Comisión Ejecutiva.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+La Asesoría Jurídica para el cumplimiento de los objetos de la presente Ley contará con un servicio civil de carrera que comprende la selección, ingreso, adscripción, permanencia, formación, promoción, capacitación, prestaciones, estímulos y sanciones, en términos de su reglamento.
+
 ###### Artículo 64.
 
 La Asesoría Jurídica estará integrada por asesores jurídicos estatales de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
-Contará con una Dirección General, así como con las áreas administrativas que se requieran para el desempeño de sus funciones, incluyendo un área de archivo y las instalaciones adecuadas para la atención directa con víctimas, en los términos que señale el Reglamento.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Contará con un área especializada en Materia Penal y otra especializada en Derechos Humanos y otras materias derivadas del hecho victimizante, así como las áreas administrativas que se requieran para el desempeño de sus funciones y que le permitan tener una cobertura territorial adecuada.
 
 Todas las actuaciones que realicen los asesores jurídicos adscritos a la Asesoría Jurídica, indistintamente de la materia de que se trate, deberán velar por la aplicación de las normas en materia de derechos humanos, así como de interpretar el derecho de conformidad a esas normas y aplicando siempre la que más proteja los derechos de las personas a las que asisten.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Deberá contar con archivo e instalaciones adecuadas para la atención directa con víctimas, en los términos que señale el reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-La víctima tendrá derecho a nombrar a un asesor Jurídico el cual elegirá libremente desde su solicitud de ingreso al Registro. La víctima tendrá el derecho de que su asesor jurídico comparezca a todos los actos en los que sea requerido.
+La victima tendrá derecho a un asesor jurídico que comparezca a todos los actos en los que sea requerido.
 
 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o no pueden contratar a un abogado particular y en especial a:
 
@@ -867,6 +971,10 @@ IV. Los miembros de los pueblos o comunidades originarios; y,
 
 V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Cuando la víctima cuente con un asesor jurídico particular, la Comisión quedará eximida de acudir como representante, pero deberá notificarlo a la autoridad que lo requiera.
+
 ###### Artículo 66.
 
 La Asesoría Jurídica tiene a su cargo las siguientes funciones:
@@ -877,7 +985,9 @@ II. Coordinar el servicio de representación y asesoría jurídica de las vícti
 
 III. Seleccionar y capacitar a los servidores públicos adscritos a la Asesoría Jurídica;
 
-IV. Designar, por cada unidad investigadora del Ministerio Público, tribunal o juzgado que conozca de materia penal y visitaduría de la Comisión Estatal de los Derechos Humanos, cuando menos a un asesor jurídico de las víctimas y al personal de auxilio necesario;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IV Designar un asesor jurídico de víctimas cuando sea requerido por la autoridad judicial, Ministerio Público o cuando acuda de manera directa la víctima a la Comisión;
 
 V. Celebrar convenios de coordinación con todos aquellos que pueden coadyuvar en la defensa de los derechos de las víctimas; y,
 
@@ -1034,3 +1144,27 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA
 P.O. 21 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 399 POR EL QUE "SE REFORMAN EL ARTÍCULO 2 FRACCIÓN IV; 3, 4, 5, 8, 13, 14, 15, 16, 17, 18, 19; EL INCISO H) DE LA FRACCIÓN I; LAS FRACCIONES II Y V DEL ARTÍCULO 28; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 29; 31, 32, 33, 34, 35, 37 FRACCIONES VI, IX, XII, XV, XXV Y XXXI, 38, 39, 40, 41 SEGUNDO PÁRRAFO Y FRACCIÓN III; 46 PRIMERO Y SEGUNDO PÁRRAFOS; 52, 54, 56 FRACCIONES I Y III; 58, 60, 64 SEGUNDO PÁRRAFO; 65 PRIMER PÁRRAFO; 66 FRACCIÓN IV; SE ADICIONAN LOS ARTÍCULOS 32 BIS Y 32 TER; UN ÚLTIMO PÁRRAFO AL 56; UN SEGUNDO PÁRRAFO AL 63; UN ÚLTIMO PÁRRAFO AL 64; Y UN ÚLTIMO PÁRRAFO AL 65; Y SE DEROGAN EL ARTÍCULO 20; Y LA FRACCIÓN XXXII DEL 37, TODOS DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto;
+
+TERCERO. Los Comisionados nombrados por el Pleno del Congreso del Estado en la Sesión Ordinaria del día 7 de agosto del año 2015, que tomaron protesta y que se encuentren en funciones, dejarán de ejercer el cargo que les fue conferido a la entrada en vigor del presente Decreto.
+
+La actual Comisionada Presidenta fungirá con el carácter de encargada del despacho de la Comisión Ejecutiva, hasta en tanto sea designado el nuevo titular en términos de la presente Ley.
+
+CUARTO. Por única ocasión, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo, previa convocatoria abierta a la sociedad civil, academia y personas especializadas en la materia, remitirá al Congreso del Estado la propuesta de nombramiento del Comisionado Ejecutivo, quien durará en el cargo cuatro años.
+
+En adelante la designación del Comisionado Ejecutivo se realizará de acuerdo al proceso establecido en el artículo 34 de esta Ley.
+
+QUINTO. La Comisión Ejecutiva realizará las adecuaciones necesarias a su estructura orgánica y al contrato de fideicomiso en un plazo de noventa días hábiles posteriores a la entrada en vigor de la presente reforma.
+
+SEXTO. El Congreso del Estado autorizará al Titular del Ejecutivo Estatal las modificaciones presupuestales para cumplir con lo dispuesto en la Ley General de Víctimas, respecto de los recursos que deben destinarse al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán, conforme al Capítulo V y el Noveno Transitorio del Decreto de reforma de la Ley General de Víctimas publicado el 03 de enero del 2017 en el Diario Oficial de la Federación.
+
+SÉPTIMO. La Comisión Ejecutiva deberá realizar las adecuaciones conducentes en términos del presente Decreto, en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto. De igual forma deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley en el siguiente ejercicio fiscal, a su entrada en vigor.
+
+OCTAVO. La Secretaría de Finanzas y Administración supervisará que los recursos financieros, humanos y materiales destinados a la atención a víctimas de delitos o de violación a derechos humanos de la Procuraduría General de Justicia del Estado, se asignen a la Comisión Ejecutiva Estatal de Atención a Víctimas en un periodo no mayor a 90 días, con excepción de los destinados a la atención a víctimas en materia de delito de secuestro, los cuales continuarán formando parte de los recursos de la Procuraduría General de Justicia del Estado.
