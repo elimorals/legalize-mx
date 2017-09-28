@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2016-08-05"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2015, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EN LA FORMA Y TÉRMINOS SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2015, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EN LA FORMA Y TÉRMINOS SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -625,7 +625,7 @@ Los jueces residirán en el domicilio donde se ubique el juzgado al que estén a
 
 ###### Artículo 43.
 
-Cuando el juez tenga impedimento legal para conocer en determinados asuntos, será sustituido por el juez de igual categoría más próximo geográficamente a por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la sala que conozca del impedimento.
+Cuando el juez tenga impedimento legal para conocer en determinados asuntos, será sustituido por el juez de igual categoría más próximo geográficamente o por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la sala que conozca del impedimento.
 
 ###### Artículo 44.
 
@@ -783,7 +783,9 @@ XXXII. Dictar las disposiciones necesarias para la recepción, control, adjudica
 
 XXXIII. Nombrar y remover en los términos que señale el reglamento interno y acuerdos generales, al titular y asesores de la Coordinación de Asesores del Tribunal Contencioso Administrativo y de Cuentas;
 
-XXXIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIV. Designar de entre sus miembros a un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
 XXXV. Desempeñar cualquier otra función que la ley le encomiende.
 
@@ -2633,9 +2635,15 @@ XVII. Proponer a la Sala Superior los criterios jurisprudenciales y relevantes e
 
 XVIII. Firmar en representación del Tribunal, de la Sala Superior y de la Comisión de Administración, Vigilancia y Disciplina del Tribunal los informes que le sean solicitados;
 
-XIX. Celebrar acuerdos con instituciones públicas o privadas sobre asuntos de competencia del Tribunal, y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-XX. Las demás que señale esta ley, el Reglamento Interno del Tribunal y otros ordenamientos que resultan aplicables.
+XIX. Celebrar acuerdos con instituciones públicas o privadas sobre asuntos de competencia del Tribunal;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción; y
+
+XXI. Las demás que señale esta ley, el Reglamento Interno del Tribunal y otros ordenamientos que resultan aplicables.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2856,3 +2864,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se Derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al presente Decreto.
 
 TERCERO.- Los Magistrados que con motivo del cumplimiento a lo dispuesto en los artículos TRANSITORIO DÉCIMO SEXTO del Decreto 1263, de fecha treinta de junio del año dos mil quince y TRANSITORIO OCTAVO del Decreto 1367, de fecha tres de diciembre del año dos mil quince, quienes al ser integrantes del Pleno del Tribunal Superior de Justicia del Estado, gozan de los derechos a que se refiere el artículo 102, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 703.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
