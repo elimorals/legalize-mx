@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-inscripcion-pago-de-aportaciones-y-entero-de-8577
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-10"
-last_updated: "2012-02-10"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-02-03"
 
 REGLAMENTO DE INSCRIPCIÓN, PAGO DE APORTACIONES Y ENTERO DE DESCUENTOS AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de febrero de 2012.
 
@@ -39,41 +39,51 @@ El presente ordenamiento es de observancia general y obligatoria en todo el paí
 
 El incumplimiento de las obligaciones, términos y condiciones señalados en el presente Reglamento, será sancionado de conformidad con lo dispuesto en la Ley y el Reglamento para la Imposición de Multas por Incumplimiento de las Obligaciones que la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y sus reglamentos establecen a cargo de los patrones y, en lo que resulte aplicable, en el Código y su Reglamento.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos de este Reglamento se entenderá por:
+Para efectos de este Reglamento, se entenderá por:
 
-I. Aportación: la cantidad equivalente al cinco por ciento sobre el salario base de aportación de los trabajadores, que los patrones pagan al Instituto;
+I. Aportación: la cantidad equivalente al cinco por ciento sobre el Salario Base de Aportación de los Trabajadores, que los Patrones pagan al Instituto;
 
-II. Cédula de determinación: el medio magnético, digital, electrónico, óptico, magneto óptico o de cualquier otra naturaleza, o bien el documento impreso, en el que se determina el importe de las aportaciones a pagar y descuentos a enterar al Instituto. Dicha cédula podrá ser emitida conjuntamente con el Instituto Mexicano del Seguro Social;
+II. Aviso de Retención de Descuentos: el Documento impreso o Digital, mediante el cual el Instituto informa al Patrón que tiene la obligación de retener y enterar los Descuentos al salario de sus Trabajadores, que se destinen al pago de los abonos para cubrir créditos de vivienda otorgados por el Instituto;
 
-III. Código: el Código Fiscal de la Federación;
+III. Aviso de Suspensión de Descuentos: el Documento impreso o Digital, mediante el cual el Instituto informa al Patrón que tiene la obligación de suspender la retención de los Descuentos al salario de sus Trabajadores para el pago de los abonos de los créditos de vivienda otorgados por el Instituto;
 
-IV. Descuento: la cantidad que retiene el patrón del salario base de aportación del trabajador acreditado y que entera al Instituto para la amortización del crédito de vivienda;
+IV. Cédula de Determinación: el Documento impreso o Digital en el que se determina el importe de las Aportaciones a pagar y los Descuentos a enterar al Instituto. Dicha cédula podrá ser emitida conjuntamente con el Instituto Mexicano del Seguro Social;
 
-V. Dictamen: el documento que contiene la opinión del contador público autorizado para dictaminar por el Instituto, sobre la situación fiscal de un contribuyente, respecto de los pagos e importes omitidos al Instituto en cumplimiento a sus obligaciones establecidas en la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables;
+V. Código: el Código Fiscal de la Federación;
 
-VI. Entidades receptoras: las entidades autorizadas por el Instituto para recibir los pagos de aportaciones, descuentos y aportaciones voluntarias en los términos de la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables.
+VI. Descuento: la cantidad que retiene el Patrón del Salario Base de Aportación del Trabajador Acreditado y que entera al Instituto para la amortización del crédito de vivienda;
 
-Para efectos de lo anterior, el Instituto podrá suscribir convenios de colaboración con el Instituto Mexicano del Seguro Social;
+VII. Dictamen: el documento que contiene la opinión del contador público autorizado para dictaminar por el Instituto, sobre la situación fiscal de un Patrón, respecto de los pagos e importes omitidos al Instituto en cumplimiento a sus obligaciones establecidas en la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables;
 
-VII. Inscripción: el registro de patrones y trabajadores ante el Instituto;
+VIII. Documento Digital: el mensaje de datos que contiene información o escritura generada, enviada, recibida, consultada, modificada, procesada o archivada por medios electrónicos, ópticos o de cualquier otra tecnología;
 
-VIII. Instituto: el Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+IX. Entidades Receptoras: las entidades autorizadas por el Instituto para recibir los pagos de Aportaciones, Descuentos y aportaciones voluntarias en términos de la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables.
 
-IX. Ley: la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+Para efectos del párrafo anterior, el Instituto podrá suscribir convenios de colaboración con el Instituto Mexicano del Seguro Social;
 
-X. Patrón: la persona que tenga este carácter en términos de la Ley Federal del Trabajo;
+X. Firma Electrónica Avanzada: el conjunto de datos y caracteres a que se refiere el artículo 17-D del Código;
 
-XI. Salario base de aportación: la retribución y demás conceptos que se identifican con tal carácter en el artículo 32 de este Reglamento, que el patrón entrega al trabajador con motivo de la relación laboral y los servicios prestados;
+XI. Inscripción: el registro de Patrones y Trabajadores ante el Instituto;
 
-XII. Secretaría: la Secretaría de Hacienda y Crédito Público;
+XII. Instituto: el Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-XIII. Subcuenta de vivienda: la parte integral de la cuenta individual del Sistema de Ahorro para el Retiro, a la que se destinan las aportaciones que pagan los patrones al Instituto sobre el salario base de aportación de sus trabajadores;
+XIII. Ley: la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-XIV. Trabajador: la persona que tenga ese carácter en términos de la Ley Federal del Trabajo, y
+XIV. Patrón: la persona que tenga este carácter en términos de la Ley Federal del Trabajo;
 
-XV. Trabajador acreditado: la persona que teniendo el carácter de trabajador en términos de la fracción anterior, se le otorgó un crédito en materia de vivienda por el Instituto.
+XV. Salario Base de Aportación: la retribución y demás conceptos que se identifican con tal carácter en el artículo 32 de este Reglamento, que el Patrón entrega al Trabajador con motivo de la relación laboral y los servicios prestados;
+
+XVI. Secretaría: la Secretaría de Hacienda y Crédito Público;
+
+XVII. Subcuenta de Vivienda: la parte integral de la cuenta individual del Sistema de Ahorro para el Retiro, a la que se destinan las Aportaciones que pagan los Patrones al Instituto sobre el Salario Base de Aportación de sus Trabajadores;
+
+XVIII. Trabajador: la persona que tenga ese carácter en términos de la Ley Federal del Trabajo, y
+
+XIX. Trabajador Acreditado: la persona que teniendo el carácter de trabajador en términos de la Ley Federal del Trabajo, se le otorgó un crédito en materia de vivienda por el Instituto.
 
 ###### ARTÍCULO 3.
 
@@ -85,11 +95,17 @@ II. Presentar al Instituto los avisos de cambio de domicilio, denominación o ra
 
 III. Presentar al Instituto los avisos de altas, bajas, modificación de salario base de aportación, ausencias e incapacidades y demás datos de los trabajadores que requiera el Instituto;
 
-IV. Determinar el monto de las aportaciones al Fondo Nacional de la Vivienda para su abono en la subcuenta de vivienda y hacer los descuentos en los salarios de sus trabajadores, a efecto de pagar y enterar el importe de dichos conceptos en las entidades receptoras o, en su caso, en las oficinas del Instituto cuando éste así lo determine;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Determinar el monto de las Aportaciones al Fondo Nacional de la Vivienda para su abono en la Subcuenta de Vivienda y hacer los Descuentos en los salarios de sus Trabajadores Acreditados para el pago de las mensualidades vencidas de los préstamos otorgados por el Instituto, así como pagar y enterar el importe de dichos conceptos en las Entidades Receptoras que actúen por cuenta y orden del Instituto, en las oficinas del Instituto o, a través de los medios electrónicos, que determine éste;
 
 V. Proporcionar al Instituto la información para la individualización de las cantidades correspondientes a cada trabajador, en relación con los conceptos a que se refiere la fracción anterior, y
 
 VI. Las demás previstas en la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+La información a que se refieren las fracciones anteriores, así como la información que los Patrones y demás sujetos obligados deban presentar en términos del artículo 29 Bis de la Ley, deberá proporcionarse al Instituto, a través de la delegación de recaudación correspondiente al domicilio del Patrón o sujeto obligado, en Documento impreso o Digital que determine el Instituto, conforme a las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 4.
 
@@ -117,9 +133,11 @@ El Instituto, para efectos informativos, podrá enviar o recibir de los patrones
 
 ### CAPÍTULO II. De la Inscripción y Presentación de Avisos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-Los patrones deberán solicitar su inscripción en las oficinas del Instituto o, en su caso, ante las oficinas que al efecto éste autorice, dentro de los cinco días hábiles siguientes a aquél en que se inicie la primera relación laboral, a través del formato de inscripción patronal que para tal efecto autorice el Instituto.
+Los Patrones deberán solicitar su inscripción en las oficinas del Instituto o en las oficinas que al efecto éste autorice, o bien, a través de medios electrónicos que el propio Instituto determine, dentro de los cinco días hábiles siguientes a aquél en que se inicie la primera relación laboral, mediante el formato de inscripción patronal que para tal efecto establezca el Instituto. Dicho formato podrá ser impreso o electrónico y deberá ser publicado en el Diario Oficial de la Federación.
 
 Derivado del proceso de inscripción, el patrón conservará el mismo número de registro patronal de identificación que le asignó el Instituto Mexicano del Seguro Social en términos de la Ley del Seguro Social y demás disposiciones jurídicas aplicables.
 
@@ -129,13 +147,17 @@ El patrón deberá usar, sin excepción alguna, el número de registro patronal 
 
 La presentación de los avisos de cambio de domicilio, denominación o razón social, aumento o disminución de obligaciones fiscales, suspensión o reanudación de actividades, clausura, fusión, escisión, enajenación y declaración en concurso mercantil, así como cualquiera otra circunstancia que afecte su registro ante el Instituto, se deberá realizar dentro de los cinco días hábiles siguientes a aquél en que ocurra el hecho correspondiente. Para tales efectos, se deberá utilizar el mismo formato empleado para la inscripción patronal y en él se deberá indicar la situación de afiliación de los trabajadores.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-El patrón está obligado a comunicar al Instituto, a través del formato que éste autorice, el estallamiento de huelga en su empresa, dentro de los cinco días hábiles siguientes a dicho estallamiento. De igual manera y en el mismo plazo, deberá comunicar la terminación de la huelga acompañando las constancias que así lo acrediten.
+El Patrón está obligado a comunicar al Instituto, en sus oficinas, en las oficinas que al efecto éste autorice, o a través de medios electrónicos que el propio Instituto determine, el estallamiento de huelga en su empresa, dentro de los cinco días hábiles siguientes a dicho estallamiento a través del formato que para tal efecto establezca el Instituto. De igual manera y en el mismo plazo, deberá comunicar la terminación de la huelga acompañando las constancias que así lo acrediten.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-Los patrones deberán inscribir a sus trabajadores en las oficinas y medios autorizados para tal efecto por el Instituto, dentro de los cinco días hábiles siguientes a la fecha de inicio de la relación laboral. En el caso de trabajadores que presten sus servicios a varios patrones, la obligación de inscribirlos será para cada patrón.
+Los Patrones deberán inscribir a sus Trabajadores en las oficinas del Instituto, en las oficinas que al efecto éste autorice o, a través de medios electrónicos que para tal efecto establezca el propio Instituto, dentro de los cinco días hábiles siguientes a la fecha de inicio de la relación laboral. En el caso de Trabajadores que presten sus servicios a varios Patrones, la obligación de inscribirlos será para cada Patrón.
 
 ###### ARTÍCULO 12.
 
@@ -149,13 +171,17 @@ El patrón inscribirá a sus trabajadores con el salario base de aportación que
 
 El límite superior del pago de aportaciones a que se refiere el artículo 13 de este Reglamento, se entiende por cada patrón con el cual el trabajador tenga relación laboral.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
-El patrón deberá notificar al Instituto, en los formatos que éste autorice, los casos en que los trabajadores laboren jornada o semana reducidas. Se entiende por semana reducida cuando el trabajador labora menos días de los establecidos para una semana por la Ley Federal del Trabajo y su salario se determina por día trabajado. Se entiende por jornada reducida la que labora el trabajador por un tiempo inferior a los máximos establecidos en dicha Ley y su salario se determina por unidad de tiempo.
+El Patrón deberá notificar al Instituto, mediante los formatos impresos o electrónicos que para tal efecto establezca el propio Instituto los casos en que los trabajadores laboren jornada o semana reducidas. Se entiende por semana reducida cuando el Trabajador labora menos días de los establecidos para una semana por la Ley Federal del Trabajo y su salario se determina por día trabajado. Se entiende por jornada reducida la que labora el Trabajador por un tiempo inferior a los máximos establecidos en dicha Ley y su salario se determina por unidad de tiempo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-Cualquier movimiento que afecte los elementos fijos del salario base de aportación o retribuciones periódicas previamente conocidas en términos de la Ley del Seguro Social, deberá ser notificado al Instituto por los patrones mediante el aviso de modificación de salario de los trabajadores en el formato que para tal efecto el Instituto publique en el Diario Oficial de la Federación. Dicho aviso deberá presentarse dentro de los cinco días hábiles siguientes a la fecha en que haya ocurrido la modificación o el día hábil anterior a la fecha en que surta efectos la modificación.
+Cualquier movimiento que afecte los elementos fijos del Salario Base de Aportación o retribuciones periódicas previamente conocidas en términos de la Ley del Seguro Social, deberá ser notificado al Instituto por los Patrones mediante el aviso de modificación de salario de los Trabajadores en formato impreso o electrónico que para tal efecto establezca el Instituto, el cual deberá publicarse en el Diario Oficial de la Federación. Dicho aviso deberá presentarse en las oficinas del Instituto, en las oficinas que al efecto éste autorice o, a través de medios electrónicos que el propio Instituto determine, dentro de los cinco días hábiles siguientes a la fecha en que haya ocurrido la modificación o el día hábil anterior a la fecha en que surta efectos la modificación.
 
 Tratándose de movimientos en los elementos variables en términos de la Ley del Seguro Social, los patrones deberán notificar al Instituto dentro de los primeros cinco días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, las modificaciones del salario base de aportación diario promedio obtenido en el bimestre anterior.
 
@@ -181,9 +207,11 @@ Sólo si los porcentajes por concepto de prima vacacional y aguinaldo son superi
 
 Los trabajadores tendrán derecho a proporcionar al Instituto los informes correspondientes, en caso de que el patrón incumpla con la obligación de inscribirlos, sin que ello releve al patrón del cumplimiento de su obligación y lo exima de las sanciones en que hubiere incurrido. El Instituto podrá inscribir a los trabajadores y patrones, sin previa gestión de los interesados, y sin que dicha inscripción libere, en su caso, a los patrones de las responsabilidades y sanciones a que se hagan acreedores, de conformidad con lo establecido en la Ley y en sus disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El patrón deberá comunicar al Instituto en un plazo de cinco días hábiles contados a partir del día siguiente a aquél en que se dé el supuesto, las bajas de los trabajadores con los cuales haya terminado la relación laboral.
+El Patrón deberá comunicar en las oficinas del Instituto, en las oficinas que al efecto éste autorice o, a través de medios electrónicos que el propio Instituto determine, en un plazo de cinco días hábiles contado a partir del día siguiente a aquél en que se dé el supuesto, las bajas de los Trabajadores con los cuales haya terminado la relación laboral, a través del formato impreso o electrónico que para tal efecto establezca el Instituto, el cual deberá publicarse en el Diario Oficial de la Federación.
 
 La presentación del aviso de baja, dentro del término establecido en el párrafo anterior, surtirá sus efectos a partir de la fecha señalada por el patrón en dicho aviso, en caso contrario, surtirá efectos a partir de la fecha de su presentación.
 
@@ -193,17 +221,23 @@ Los patrones que se dediquen en forma permanente o esporádica a la actividad de
 
 Es obligación del patrón expedir y entregar a los trabajadores la constancia escrita del número de días laborados y del salario percibido, en las fechas de pago establecidas, la cual deberá contener la información que requiera el Instituto.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-El patrón deberá proporcionar al Instituto la información, datos o documentos que le solicite, para comprobar el cumplimiento de las obligaciones que establecen la Ley y el presente Reglamento.
+El Patrón deberá proporcionar al Instituto por cualquier medio que para tal efecto determine el Instituto, incluyendo los electrónicos, la información, datos o documentos que le solicite, para comprobar el cumplimiento de las obligaciones que establecen la Ley y el presente Reglamento.
 
 ### CAPÍTULO III. De la Determinación y Pago de las Aportaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-Los patrones deberán determinar y pagar por concepto de aportaciones al Fondo Nacional de la Vivienda, el cinco por ciento del salario base de aportación de sus trabajadores en las entidades receptoras que actúen por cuenta y orden del Instituto o, en su caso, en las oficinas del Instituto cuando éste así lo determine.
+Los Patrones deberán determinar y pagar por concepto de Aportaciones al Fondo Nacional de la Vivienda, el cinco por ciento del Salario Base de Aportación de sus Trabajadores en las Entidades Receptoras que actúen por cuenta y orden del Instituto o en las oficinas del mismo, o bien a través de los medios electrónicos que determine el propio Instituto.
 
-El pago de las aportaciones será por mensualidades vencidas, a más tardar los días diecisiete del mes siguiente a aquél al que corresponda el pago.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+El pago de las Aportaciones será por mensualidades vencidas, a más tardar los días diecisiete del mes inmediato siguiente al que corresponda el pago, a través de los formularios impresos o electrónicos que determine el Instituto.
 
 Cuando el último día para el cumplimiento del pago oportuno sea inhábil o viernes, se estará a lo dispuesto por el Código.
 
@@ -229,13 +263,19 @@ Tratándose de patrones que tengan a su servicio de uno a cuatro trabajadores de
 
 La falta de recepción de la cédula de determinación emitida por el Instituto no exime al patrón del cumplimiento de las obligaciones previstas en la Ley y el presente Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+La Cédula de Determinación podrá entregarse a los Patrones, a través de los medios que establezca el Instituto, incluidos los electrónicos.
+
 ###### ARTÍCULO 28.
 
 Cuando en la cédula de determinación el patrón advierta diferencias entre la información contenida en la misma y la información que obre en su poder, deberá realizar los ajustes procedentes, sujetándose a lo establecido en la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-Cuando el patrón tenga asignados varios números de registro patronal, en los términos de las disposiciones que emita el Instituto Mexicano del Seguro Social, determinará y presentará por cada uno de ellos las aportaciones correspondientes en las cédulas de determinación por separado, salvo los casos en que el Instituto autorice, expresamente y por escrito, que se cumpla dicha obligación en forma diferente.
+Cuando el Patrón tenga asignados varios números de registro patronal, en términos de las disposiciones que emita el Instituto Mexicano del Seguro Social, determinará y presentará por cada uno de ellos las Aportaciones correspondientes en las Cédulas de Determinación por separado, salvo los casos en que el Instituto autorice expresamente mediante Documento impreso o Digital, que dicha obligación puede cumplirse de forma diferente.
 
 ###### ARTÍCULO 30.
 
@@ -243,7 +283,9 @@ Las cédulas de determinación serán presentadas para su pago conforme a lo sig
 
 I. En las entidades receptoras cuando:
 
-a) La determinación se haya efectuado mediante el programa de cómputo autorizado por el Instituto. En este caso, el patrón deberá entregar el medio magnético que contenga la cédula de determinación referida, recabando su comprobante de pago debidamente sellado por la entidad receptora o del pago efectuado a través de transferencias electrónicas. El pago realizado a través de estos medios traerá como consecuencia el reconocimiento, por parte del patrón, de los datos que soportan el mismo, para todos los efectos legales, y
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+a) La determinación se haya efectuado mediante la herramienta electrónica autorizada por el Instituto. En este caso, el Patrón deberá entregar el medio digital que contenga la Cédula de Determinación referida, recabando su comprobante de pago debidamente sellado por la Entidad Receptora o del pago efectuado a través de transferencias electrónicas. El pago realizado a través de estos medios traerá como consecuencia el reconocimiento, por parte del Patrón, de los datos que soportan el mismo, para todos los efectos legales, y
 
 b) El patrón utilice la cédula de determinación emitida por el Instituto sin hacer ajustes a la misma. Esta cédula de determinación deberá ser sellada por la entidad receptora, como comprobante de pago;
 
@@ -369,9 +411,11 @@ El Instituto autorizará la devolución de los pagos o los enteros efectuados en
 
 Los créditos de vivienda deberán ser amortizados a través de los descuentos que los patrones efectúen a los salarios de los trabajadores acreditados. Para estos efectos se estará al salario base de aportación establecido en los artículos 32, 33 y 34 de este Reglamento, sin límite superior salarial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-Los patrones enterarán mensualmente el importe de los descuentos, a más tardar el día diecisiete del mes siguiente a aquél al que corresponda el pago en las entidades receptoras o en las oficinas del Instituto cuando éste así lo determine.
+Los Patrones enterarán el importe de los Descuentos por mensualidades vencidas, a más tardar los días diecisiete del mes inmediato siguiente al que corresponda el pago, mediante los formularios impresos o electrónicos, en las Entidades Receptoras, en las oficinas del Instituto, o a través de los medios electrónicos, que determine el propio Instituto.
 
 Cuando el último día para el cumplimiento del pago oportuno sea inhábil o viernes, se estará a lo dispuesto por el Código.
 
@@ -445,9 +489,21 @@ Cuando el patrón deje de tener relación laboral con un trabajador al que el In
 
 Los patrones que opten por dictaminarse a través de contador público autorizado se sujetarán a las disposiciones del presente Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 56.
 
-El contador público que pretenda dictaminar para los efectos de este Capítulo deberá solicitarlo en los formatos que serán publicados en el Diario Oficial de la Federación, cuya reproducción podrá realizarse en la forma y términos que señale el Instituto, así como acreditar que cuenta con registro de contador público vigente en la Secretaría.
+El contador público que pretenda dictaminar para los efectos de este Capítulo, deberá realizar su solicitud ante el Instituto en los formatos que se publiquen en el Diario Oficial de la Federación, cuya presentación podrá realizarse en forma impresa o electrónica, en los términos que señale el Instituto, siempre que cumpla con los requisitos siguientes:
+
+I. Contar con cédula profesional de contador público o equivalente emitida por la Secretaría de Educación Pública;
+
+II. Ser miembro de un colegio profesional o asociación de contadores públicos reconocidos por la Secretaría de Educación Pública, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente;
+
+III. Contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública y solo serán válidas las certificaciones que le sean expedidas a los contadores públicos por los organismos certificadores que obtengan el reconocimiento de idoneidad que otorgue la Secretaría de Educación Pública;
+
+IV. Contar con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales, y
+
+V. Acreditar que está al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 32-D del Código.
 
 Para estos efectos, el Instituto otorgará un número de registro al contador público autorizado.
 
@@ -455,9 +511,13 @@ Para estos efectos, el Instituto otorgará un número de registro al contador p�
 
 El contador público autorizado en términos del artículo anterior deberá:
 
-I. Informar al Instituto cualquier cambio en los datos que proporcionó en su solicitud de registro, en un plazo de quince días naturales contados a partir de la fecha en que ocurra, y
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-II. Comprobar dentro de los tres primeros meses de cada año, que es socio activo de un colegio o asociación profesional y presentar constancia de cumplimiento de la norma de educación continua.
+I. Informar al Instituto cualquier cambio en los datos que proporcionó en su solicitud de registro, en un plazo de quince días naturales contados a partir de la fecha en que ocurra, en la forma y términos que determine el Instituto, incluidos los medios electrónicos, y
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+II. Comprobar dentro de los tres primeros meses de cada año, que es socio activo de un colegio o asociación profesional y presentar constancia de cumplimiento de la norma de educación continua, en la forma y términos que determine el Instituto, incluidos los medios electrónicos.
 
 ###### ARTÍCULO 58.
 
@@ -477,21 +537,29 @@ VI. Estar prestando sus servicios al Instituto o a otra autoridad fiscal compete
 
 VII. Estar en una situación análoga a las mencionadas, que pueda afectar su imparcialidad.
 
-En todos los casos el contador público autorizado que presente dictamen ante el Instituto deberá declarar en forma escrita y bajo protesta de decir verdad que no se encuentra en ninguno de los supuestos señalados de este artículo.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+En todos los casos el contador público autorizado que presente Dictamen ante el Instituto deberá declarar, en Documento impreso o Digital, bajo protesta de decir verdad, que no se encuentra en ninguno de los supuestos señalados en este artículo.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 59.
 
-Para la emisión del dictamen a que se refiere este Capítulo, el patrón presentará al Instituto, dentro de los cuatro meses siguientes a la terminación del ejercicio fiscal inmediato anterior, el aviso de dictamen en los formatos autorizados, que serán publicados en el Diario Oficial de la Federación, cuya reproducción podrá realizarse en la forma y términos que señale el Instituto. Si el aviso se refiere a periodos o ejercicios anteriores, éste podrá presentarse en cualquier fecha, salvo cuando el Instituto determine lo contrario.
+El contador público autorizado que vaya a formular el Dictamen a que se refiere este Capítulo, presentará al Instituto, dentro de los cuatro meses siguientes a la terminación del ejercicio fiscal inmediato anterior, el aviso de Dictamen previamente firmado por el Patrón o su representante legal, en los formatos autorizados que serán publicados en el Diario Oficial de la Federación, cuya presentación podrá realizarse en forma impresa o electrónica, en los términos que señale el Instituto. Si el aviso de Dictamen se refiere a periodos o ejercicios anteriores, éste podrá presentarse en cualquier fecha, salvo cuando el Instituto determine lo contrario.
 
-Cuando el patrón tenga asignados varios registros patronales y pretenda dictaminar alguno, algunos o todos ellos, presentará por cada uno el aviso para dictaminar, por el ejercicio fiscal o periodo a dictaminar.
+Cuando el Patrón tenga asignados varios registros patronales y pretenda dictaminar alguno, algunos o todos, el contador público autorizado los presentará en un solo aviso de Dictamen conforme al párrafo anterior, por el ejercicio fiscal o periodo a dictaminar.
 
 ###### ARTÍCULO 60.
 
 El aviso a que se refiere el artículo anterior lo suscribirán el patrón o su representante legal y el contador público autorizado que vaya a dictaminar y sólo será válido por el ejercicio fiscal o periodo y registro patronal que en el mismo se indiquen.
 
-Los patrones que se dediquen a la industria de la construcción podrán presentar aviso de dictamen en los términos del párrafo anterior o por cada una de sus obras. En este caso, el aviso abarcará el periodo completo de ejecución de la obra y los beneficios previstos en el artículo 79 de este Reglamento sólo se aplicarán en relación con las obras dictaminadas.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-Se entenderá por aceptado el aviso de dictamen si en un término de quince días hábiles, contado a partir del día siguiente al de la fecha de recepción, no recae notificación al respecto.
+Los Patrones que se dediquen a la industria de la construcción, a través del contador público autorizado, podrán presentar el aviso de Dictamen en los términos del párrafo anterior o por cada una de sus obras. En este caso, dicho aviso abarcará el periodo completo de ejecución de la obra y los beneficios previstos en el artículo 79 de este Reglamento sólo se aplicarán en relación con las obras dictaminadas.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Se entenderá por aceptado el aviso de Dictamen si en un término de quince días hábiles, contado a partir del día siguiente al de la fecha de recepción, no recae notificación al respecto, ya sea de manera personal o, a través de los medios electrónicos que establezca el Instituto conforme al artículo 86 del presente Reglamento.
 
 El periodo a dictaminar será el ejercicio inmediato anterior. Cuando el aviso de dictamen sea a consecuencia de las facultades de comprobación del Instituto diferente a una orden de visita, el periodo a dictaminar será de dos ejercicios inmediatos anteriores.
 
@@ -507,21 +575,31 @@ III. Por estar notificada una orden de visita de auditoría, con excepción de l
 
 IV. Cuando se esté practicando una visita de auditoría que involucre el periodo que se solicita dictaminar.
 
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Tratándose de los supuestos a que se refiere el párrafo anterior, el Instituto deberá notificar que el aviso de Dictamen no surte efectos, tanto al Patrón o su representante legal, como al contador público autorizado, de manera personal o, a través de los medios electrónicos que establezca el propio Instituto conforme al artículo 86 del presente Reglamento.
+
 ###### ARTÍCULO 62.
 
 Cuando esté notificada una orden de visita domiciliaria pero no iniciada la revisión documental, tomando en cuenta los antecedentes del patrón respecto del cumplimiento de las obligaciones que la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables le imponen, el Instituto podrá autorizar el dictaminarse por los últimos tres ejercicios.
 
-Una vez autorizada la dictaminación, el patrón no podrá optar por ningún otro procedimiento de regularización, a menos que el Instituto lo autorice por escrito.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Una vez autorizada la elaboración y presentación del Dictamen a que se refiere el párrafo anterior, el Patrón no podrá optar por ningún otro procedimiento de regularización, a menos que el Instituto lo autorice mediante documento impreso o Digital.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 63.
 
-El patrón podrá sustituir al contador público autorizado designado dando aviso al Instituto antes de que concluya el plazo para presentar el dictamen. De igual forma se procederá cuando el contador público autorizado no pueda realizar el dictamen por incapacidad física o impedimento.
+El Patrón podrá sustituir a su contador público autorizado designado, dando aviso al Instituto antes de que concluya el plazo para presentar el Dictamen, mediante Documento impreso o Digital. De igual forma, el contador público autorizado que no pueda realizar el Dictamen por incapacidad física o impedimento legal, dará aviso de dicha situación al Instituto y al Patrón de manera inmediata, mediante Documento impreso o Digital, a fin de que se realice la sustitución que corresponda en los términos de las disposiciones jurídicas aplicables.
 
 Para los efectos del párrafo anterior, deberá considerarse como fecha de presentación la consignada en el aviso original y el Instituto podrá conceder una prórroga de sesenta días naturales para la entrega del dictamen, en los términos del análisis que realice.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 64.
 
-Los patrones que hubiesen presentado al Instituto el aviso para dictaminarse podrán desistir de concluir su dictamen, dentro de los tres meses posteriores a la presentación de dicho aviso, comunicándolo por escrito al Instituto.
+Los Patrones podrán desistirse de concluir su Dictamen, dentro de los tres meses posteriores a la presentación del aviso a que se refiere el artículo 59 de este Reglamento, comunicándolo al Instituto, mediante Documento impreso o Digital.
 
 ###### ARTÍCULO 65.
 
@@ -533,19 +611,25 @@ La presentación extemporánea del dictamen o la omisión de presentarlo dará l
 
 El Instituto podrá conceder prórroga hasta por sesenta días naturales para la presentación del dictamen, de los anexos y de los documentos que forman parte del mismo, siempre que existan causas debidamente comprobadas que impidan su entrega dentro del plazo mencionado en el artículo 65 de este Reglamento.
 
-La solicitud de prórroga para la presentación del dictamen deberá ser firmada por el patrón o por su representante legal y por el contador público autorizado y presentarse a más tardar un mes antes del vencimiento del plazo correspondiente. Se considerará autorizada la prórroga si, dentro de los quince días naturales siguientes a la fecha de presentación de la solicitud, el Instituto no notifica la resolución respectiva. Una vez concedida la prórroga, en ningún caso procederá sustitución del contador público autorizado.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-El dictamen, los anexos y los documentos que se presenten fuera de los plazos que prevé este Reglamento, no surtirán efecto alguno, salvo que el Instituto considere que existen razones para admitirlos, caso en el cual comunicará tal hecho al patrón con copia al contador público autorizado, dentro de los tres meses siguientes a la fecha de su presentación.
+La solicitud de prórroga para la presentación del Dictamen deberá ser firmada por el Patrón o por su representante legal y por el contador público autorizado y presentarse en Documento impreso o Digital a más tardar un mes antes del vencimiento del plazo correspondiente. Se considerará autorizada la prórroga si, dentro de los quince días naturales siguientes a la fecha de presentación de la solicitud, no se notifica la resolución correspondiente, ya sea de manera personal o, a través de los medios electrónicos que establezca el Instituto. Una vez concedida la prórroga, en ningún caso procederá sustitución del contador público autorizado.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+El Dictamen, los anexos y los documentos que se presenten fuera de los plazos que prevé este Reglamento, no surtirán efecto alguno, salvo que el Instituto considere que existen razones para admitirlos, caso en el cual notificará dicha circunstancia al Patrón con copia al contador público autorizado, de manera personal o, a través de los medios electrónicos que establezca el Instituto, dentro de los tres meses siguientes a la fecha de su presentación.
 
 ###### ARTÍCULO 67.
 
 El contador público autorizado será responsable de que el dictamen se formule de acuerdo con las disposiciones que establece la Ley y el presente Reglamento, con objeto de obtener evidencia suficiente e idónea para sustentar su opinión respecto del cumplimiento de las mismas en lo relativo al registro de patrones, la inscripción de sus trabajadores, las modificaciones de salario y bajas, así como la base para liquidar el pago de las aportaciones y el entero de descuentos.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 68.
 
-Los documentos que el contador público autorizado elabore con motivo de su revisión y que el patrón deberá presentar al Instituto se integrarán por registro patronal en un solo legajo que contendrá carta de presentación del dictamen, cuaderno de dictamen y anexos.
+El Dictamen que elabore el contador público autorizado, con motivo de su revisión será presentado al Instituto, mediante Documento impreso o Digital, en los términos que señale el propio Instituto. Dicho Dictamen se integrará por registro patronal y contendrá la carta de presentación del Dictamen, el cuaderno de Dictamen, los anexos y la documentación complementaria a que se refiere el artículo 71 de este Reglamento.
 
-La carta de presentación se elaborará conforme al formato publicado en el Diario Oficial de la Federación, cuya reproducción podrá realizarse en la forma y términos que señale el Instituto y deberá contener la firma autógrafa del patrón o de su representante legal, así como del contador público autorizado que dictamina.
+La carta de presentación del Dictamen se elaborará conforme al formato que publique el Instituto en el Diario Oficial de la Federación, el cual podrá presentarse en Documento impreso o Digital, en los términos que señale el Instituto, y deberá contener, según corresponda, la firma autógrafa o la Firma Electrónica Avanzada conforme al artículo 85 de este Reglamento, del Patrón o su representante legal, así como del contador público autorizado que dictamina.
 
 ###### ARTÍCULO 69.
 
@@ -593,7 +677,9 @@ Al anexo a que se refiere el párrafo anterior deberá adjuntarse el análisis d
 
 V. Reporte de la actividad o actividades realizadas por el patrón y su clasificación.
 
-Los anexos señalados en las fracciones II y V de este artículo deberán suscribirse por el patrón o por su representante legal. El contador público autorizado firmará la totalidad de los anexos y consignará su nombre, así como su número de registro como contador público ante la Secretaría, debiendo presentarse enumerados en forma progresiva y en el orden en que aparecen en el presente artículo.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Los anexos señalados en las fracciones II y V de este artículo deberán firmarse por el Patrón o por su representante legal, a través de firma autógrafa o Firma Electrónica Avanzada. El contador público autorizado firmará la totalidad de los anexos y consignará su nombre o su Firma Electrónica Avanzada, así como su número de registro como contador público ante el Instituto, debiendo presentarse enumerados en forma progresiva y en el orden en que aparecen en el presente artículo.
 
 ###### ARTÍCULO 72.
 
@@ -609,9 +695,7 @@ IV. Cédula analítica de pagos de aportaciones y entero de descuentos desglosad
 
 ###### ARTÍCULO 73.
 
-La presentación de todos los trámites a que se refiere el presente Capítulo podrá efectuarse a través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza que autorice el Instituto.
-
-En sustitución de la firma autógrafa, se emplearán medios de identificación electrónica que producirán los mismos efectos legales que los documentos firmados autográficamente, por lo que tendrán el mismo valor probatorio que las disposiciones legales aplicables les otorgan a éstos.
+(DEROGADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)
 
 ###### ARTÍCULO 74.
 
@@ -643,7 +727,9 @@ Los dictámenes que formulen los contadores públicos autorizados en relación c
 
 El Instituto revisará el dictamen y sus anexos conforme a los lineamientos siguientes:
 
-I. Requerirá por escrito al contador público autorizado, con copia al patrón:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+I. Requerirá mediante Documento impreso o Digital al contador público autorizado, con copia al Patrón:
 
 a) Cualquier información que conforme a este Reglamento deba incluirse en el cuadernillo del dictamen;
 
@@ -653,11 +739,15 @@ c) La información y documentos correspondientes a las partidas sujetas a aclara
 
 El plazo para presentación de la información y documentación solicitada al contador público autorizado será de quince días hábiles, contados a partir del día siguiente a la notificación del requerimiento, y
 
-II. Requerirá al patrón, con copia al contador público autorizado, la información y documentación señalada en el inciso c) de la fracción anterior, en los términos aceptados en la solicitud de dictamen, cuando dicha información o documentación no haya sido proporcionada por el contador público autorizado, así como la exhibición de los sistemas y registros contables y documentación original, en aquellos casos en que así se considere necesario. Para el cumplimiento del requerimiento, se otorgará el mismo término señalado en la fracción anterior.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+II. Requerirá al Patrón mediante Documento impreso o Digital, con copia al contador público autorizado, la información y documentación señalada en el inciso c) de la fracción anterior, en los términos aceptados en la solicitud de aviso de Dictamen, cuando dicha información o documentación no haya sido proporcionada por el contador público autorizado, así como la exhibición de los sistemas y registros contables y documentación original, en aquellos casos en que así se considere necesario. Para el cumplimiento del requerimiento, se otorgará el mismo plazo señalado en la fracción anterior.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 78.
 
-Formulados los requerimientos a que se refiere el artículo anterior y si el dictamen no satisface los requisitos señalados en este Reglamento, lo hará del conocimiento del patrón y del contador público autorizado, quienes contarán con un plazo de quince días hábiles para manifestar lo que a su derecho convenga. Transcurrido dicho plazo, el Instituto emitirá la resolución que corresponda y procederá, en su caso, a ejercer las facultades de comprobación que le otorga la Ley.
+Una vez formulados los requerimientos a que se refiere el artículo anterior y si aun así el Dictamen no satisface los requisitos señalados en este Reglamento, el Instituto lo hará del conocimiento de manera personal o a través de los medios electrónicos que establezca el propio Instituto, al Patrón o su representante legal y al contador público autorizado, quienes contarán con un plazo de quince días hábiles para manifestar lo que a su derecho convenga. Transcurrido dicho plazo, el Instituto emitirá la resolución que corresponda y procederá, en su caso, a ejercer las facultades de comprobación que le otorga la Ley.
 
 ###### ARTÍCULO 79.
 
@@ -669,7 +759,9 @@ II. No se emitirán a su cargo cédulas de determinación de diferencias derivad
 
 a) Que el contador público autorizado haya concluido y presentado el dictamen correspondiente;
 
-b) Que los avisos de inscripción y las modificaciones salariales derivadas del referido dictamen se hubieran presentado por el patrón en los formatos dispuestos para ello en términos del presente Reglamento, y
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+b) Que los avisos de inscripción y las modificaciones salariales derivadas del referido Dictamen se hubieran presentado por el Patrón en los formatos impresos o electrónicos que establezca el Instituto, en términos del presente Reglamento, y
 
 c) Que las aportaciones o descuentos para amortización de créditos de vivienda a cargo del patrón, derivadas del dictamen, se hubiesen liquidado en su totalidad o que para el caso de aportaciones, se haya acogido al plazo de pago en parcialidades y otorgando la garantía correspondiente, en términos de la Ley y sus disposiciones reglamentarias, el Código y su Reglamento, y
 
@@ -741,9 +833,39 @@ II. Agotada la fase señalada en la fracción anterior, con vista en los element
 
 Los patrones que por sí o por interpósita persona impidan por cualquier medio que el contador público autorizado con el que conjuntamente hubieran suscrito el aviso correspondiente, efectúe la revisión de sus nóminas, pólizas, registros contables y demás documentación, y que dé origen a un dictamen con opinión negativa, con salvedades o con abstención de opinión, serán sujetos de una visita de auditoría.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 84.
 
-Los patrones obligados en términos de la Ley a presentar copia con firma autógrafa del informe de situación fiscal, deberán presentar los anexos referentes a las contribuciones por concepto de aportaciones patronales al Instituto en un plazo de quince días hábiles posteriores a la fecha de vencimiento para su presentación ante la Secretaría. La presentación se hará en los términos y modalidades señaladas en el artículo 73 de este Reglamento.
+Los Patrones obligados en términos de la Ley a presentar copia con firma autógrafa del informe de situación fiscal, deberán presentar los anexos referentes a las contribuciones por concepto de Aportaciones patronales al Instituto en un plazo de quince días hábiles posteriores a la fecha de vencimiento para su presentación ante la Secretaría. La presentación se hará en los términos y modalidades señaladas en el artículo 85 de este Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+### Capítulo VI. De los Medios Electrónicos
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 85.
+
+El Instituto recibirá las promociones o solicitudes a que se refiere este Reglamento, por documento impreso presentado en sus oficinas o mediante Documento Digital remitido a través de medios electrónicos que para tal efecto establezca el Instituto.
+
+Para efectos del párrafo anterior, el Consejo de Administración del Instituto, en términos del Código, establecerá mediante reglas los medios electrónicos a través de los cuales se presentarán los Documentos Digitales a que se refiere este Reglamento, las cuales deberán publicarse en el Diario Oficial de la Federación.
+
+La Firma Electrónica Avanzada o los medios de identificación electrónica que autorice el Instituto en términos de la Ley, amparados por un certificado vigente, se utilizarán para suscribir los Documentos Digitales, y sustituirá a la firma autógrafa del firmante. Dicha Firma y medios de identificación garantizarán la integridad del documento, por lo que producirán los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+Los Patrones, sujetos obligados y contadores públicos autorizados que remitan Documentos Digitales al Instituto o utilicen los medios electrónicos que establezca el propio Instituto, deberán contar con Firma Electrónica Avanzada o los medios de identificación electrónica que autorice el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 86.
+
+El Instituto podrá efectuar notificaciones, citatorios, emplazamientos, requerir o solicitar informes o documentación, así como emitir resoluciones a través de medios electrónicos, siempre que los particulares manifiesten previamente y de manera expresa su conformidad de recibir dichos actos mediante medios electrónicos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 87.
+
+Cuando los Patrones remitan un Documento Digital al Instituto, recibirán el acuse de recibo que contenga el sello digital, el cual tiene un mensaje electrónico que permite acreditar que un Documento Digital fue recibido por el Instituto y se presumirá, salvo prueba en contrario, que dicho Documento fue recibido en la hora y fecha que se consignen en el sello digital. Asimismo, el sello digital estará sujeto a la misma regulación aplicable al uso de la Firma Electrónica Avanzada o los medios de identificación electrónica que autorice el Instituto.
 
 ## TRANSITORIOS
 
@@ -758,3 +880,15 @@ CUARTO. Los asuntos que se encuentren en trámite iniciados con base en el Regla
 QUINTO. La obligación patronal a que se refiere el artículo 12 de este Reglamento, será sustituida por la obligación de proporcionar únicamente la Clave Única de Registro de Población, una vez que el Instituto Mexicano del Seguro Social sustituya el Número de Seguridad Social por la Clave única de Registro de Población.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de febrero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.- La Secretaria del Trabajo y Previsión Social, Rosalinda Vélez Juárez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE INSCRIPCIÓN, PAGO DE APORTACIONES Y ENTERO DE DESCUENTOS AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto deberán substanciarse y concluirse conforme a las disposiciones vigentes al momento de su inicio o tramitación.
