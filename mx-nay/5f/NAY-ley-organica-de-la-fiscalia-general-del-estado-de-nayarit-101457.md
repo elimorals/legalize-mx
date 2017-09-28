@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2017-05-03"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -257,13 +257,17 @@ XXI. Las que prevea como tales esta ley y demás disposiciones aplicables.
 
 ### Capítulo III. De la Suplencia y Representación del Fiscal General
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
-Las ausencias temporales o definitivas del Fiscal General serán suplidas o sustituidas por el Director General de Investigación Ministerial, según corresponda, hasta la reincorporación del titular, o hasta la designación de uno nuevo, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En las ausencias definitivas el Congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
+En ausencia definitiva del Fiscal General y en tanto se designa a quien deba sucederlo, se encargará del despacho de la institución con todas las facultades que establece la Constitución Política Local y la ley, la persona que determine el Congreso del Estado por la votación de las dos terceras partes de sus integrantes, previo dictamen que emita la Comisión de Gobernación y Puntos Constitucionales a propuesta de la Comisión de Gobierno.
 
-En los casos en que el Fiscal General deba excusarse o bien sea recusado, se aplicará la suplencia prevista en el párrafo anterior.
+Una vez que por cualquier medio se tenga conocimiento cierto de la ausencia definitiva del Fiscal, la designación del encargado del despacho deberá realizarse a más tardar dentro de los cinco días naturales siguientes.
+
+En las ausencias temporales o definitivas del Fiscal General, asumirá las funciones del cargo el Director General de Investigación Ministerial hasta la designación del encargado del despacho o hasta la reincorporación del titular, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En las ausencias definitivas el Congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
+
+En los casos en que el Fiscal General deba excusarse o bien sea recusado, se aplicará la suplencia prevista en el párrafo primero del presente artículo.
 
 ###### Artículo 13.
 
@@ -1500,3 +1504,17 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se autoriza al Director General de Investigación Ministerial de la Fiscalía General del Estado de Nayarit, hasta en tanto se designe un nuevo Fiscal General, el ejercicio de las facultades establecidas en las fracciones I, IV, V, VI, VII, VIII, XIV, XVI y XVIII del artículo 11 de la Ley Orgánica de la Fiscalía General del Estado de Nayarit.
 
 Tercero. Notifíquese la presente determinación al Director General de Investigación Ministerial para los efectos legales conducentes.
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. El Congreso del Estado a partir de la entrada en vigor del presente Decreto contará con cinco días naturales para designar al Encargado del Despacho de la Fiscalía General del Estado.
+
+Tercero. Quedan a salvo los derechos de los ciudadanos que presentaron solicitud de registro como aspirantes al cargo de Fiscal General del Estado conforme a la convocatoria emitida por el H. Congreso del Estado, el día 7 de abril de 2017.
+
+Cuarto. El Encargado del Despacho de la Fiscalía General del Estado, estará en funciones hasta en tanto no se designe en definitiva a la persona que asumirá su titularidad, de conformidad al método que establece la Constitución Política del Estado Libre y Soberano de Nayarit, quedando sus derechos a salvo para participar en dicho procedimiento.
+
+Quinto. A partir de la fecha en que el H. Congreso del Estado designe al encargado de Despacho de la Fiscalía, deberá reanudarse el procedimiento de designación del titular de la Fiscalía General de conformidad con los plazos previstos en la Constitución Política Local, emitiéndose convocatoria dentro de los veinte días hábiles posteriores.
