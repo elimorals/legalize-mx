@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-09-21"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,15 +25,13 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
 MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes hace saber:
 
 Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, en funciones de Constituyente, de acuerdo con el artículo quinto del Decreto número ciento veinticinco expedido por el ciudadano Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Unión, el veintisiete de marzo de mil novecientos diecisiete, y con el artículo noventa y uno del decreto número catorce, expedido con fecha treinta de septiembre de mil novecientos veinte por el ciudadano Jesús Acevedo, Gobernador provisional, reforma la Constitución Política del Estado en los términos siguientes:
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2015, LAS REFERENCIAS HECHAS AL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE OAXACA, SE ENTENDERÁN COMO HECHAS EN SU CARÁCTER DE ORGANISMO PÚBLICO LOCAL EN MATERIA ELECTORAL.</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
@@ -533,7 +531,9 @@ En los juicios en que un indígena o un afromexicano sea parte, las autoridades 
 
 En los conflictos de límites ejidales, municipales o de bienes comunales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades comunitarias de los pueblos y comunidades indígenas y afromexicanas.
 
-Se reconocen los sistemas normativos internos de los pueblos y comunidades indígenas y afromexicanas, así como jurisdicción a las autoridades comunitarias de los mismos. La Ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Se reconocen los sistemas normativos internos y comunidades indígenas y afromexicanas, así como jurisdicción a sus autoridades comunitarias; los cuales procurarán la paridad entre mujeres y hombres en los derechos políticos electorales. La ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
 
 El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas y afromexicano el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas y afromexicano.
 
@@ -791,13 +791,13 @@ I. Las elecciones de Gobernador del Estado, Diputados Locales y de los Ayuntamie
 
 Las elecciones extraordinarias se celebraran en la fecha que señale la autoridad electoral;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-II. La Ley protegerá y promoverá las instituciones y prácticas democráticas en todas las comunidades indígenas y afromexicanas del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2° Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca, establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada en condiciones de igualdad y sancionará su contravención.
+II. La ley protegerá y garantizará los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2°. Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación de las mujeres en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada garantizando la paridad entre mujeres y hombres y sancionará su contravención.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los varones; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electas o designadas.
+Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los varones; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electas o designadas. La ley sancionará en el ámbito administrativo y penal la violencia política e institucional ejercida en contra de la mujer.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -831,13 +831,13 @@ V. Las mesas directivas de casilla estarán integradas por ciudadanos, en los t�
 
 VI. La Ley establecerá las reglas de los procedimientos sancionadores, tomando en cuenta lo previsto en la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-B. DE LOS PARTIDOS POLITICOS
+B. DE LOS PARTIDOS POLÍTICOS
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política, hacer posible el acceso de las ciudadanas y ciudadanos al ejercicio del poder público en condiciones de igualdad, garantizando la paridad de género, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales estará determinada y garantizada por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley General de Instituciones y Procedimientos Electorales y por la Ley General de Partidos Políticos.
+Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organizaciones ciudadanas, hacer posible el acceso de la ciudadanía al ejercicio del poder público garantizando la paridad entre mujeres y hombres en candidaturas a la legislatura del Congreso y otros cargos de representación popular, por medio de criterios, objetivos, públicos y trasparentes (sic) siendo inadmisibles aquellos que tengan como resultado que alguno de los sexos le sean asignados exclusivamente distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral inmediato anterior, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales estará determinada y garantizada por la ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -867,9 +867,9 @@ LOS PARTIDOS POLÍTICOS LOCALES CON REGISTRO ESTATAL Y RECONOCIMIENTO INDÍGENA 
 
 El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, determinará los topes de gastos de precampaña por precandidata o precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-III. Los partidos políticos registrarán fórmulas completas de candidatas y candidatos a diputados según los principios de mayoría relativa y de representación proporcional garantizando la paridad de género. Cada una de las formulas estará compuesta por una persona propietaria y una suplente, ambas del mismo sexo;
+III. Los partidos políticos registrarán fórmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional, así como planillas de candidaturas a concejales municipales, de acuerdo con lo establecido en el párrafo tercero del apartado B de este artículo, mismas que deberán ser compuestas cada una por una persona propietaria y una suplente, ambas del mismo sexo, garantizando la paridad entre mujeres y hombres. La ley establecerá las garantías para el cumplimiento de esta disposición;
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -887,11 +887,13 @@ V. Los partidos políticos y los candidatos en ningún momento podrán contratar
 
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
 Queda prohibida la transmisión en territorio estatal de mensajes contratados en otras Entidades Federativas o en el extranjero;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-VI. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas;
+VI. En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que constituyan violencia política en razón de género ni expresiones que denigren a las instituciones y a los propios partidos; o que calumnien a las personas;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1235,9 +1237,9 @@ Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan sido 
 
 El Congreso del Estado estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal y se sujetará a lo que en lo particular disponga la ley y a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
+I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a Diputados de mayoría relativa en por los (sic) menos doce distritos uninominales garantizando la paridad entre mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2155,11 +2157,11 @@ El ciudadano electo para suplir las faltas absolutas de Gobernador Constituciona
 
 #### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 79.
 
-Son facultades del Gobernador:
+Son facultades del gobernador:
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2175,9 +2177,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Instruir, cada vez que le sea solicitado por el Poder Legislativo, al Secretario o titular de la entidad, órgano desconcentrado u órgano auxiliar correspondiente, para que exponga lo relativo a sus responsabilidades y argumente lo conducente en las comisiones en las que se discutan leyes, decretos, planes, programas o proyectos relativos a sus respectivos ramos, así como cuando sean citados para responder a preguntas que se les formulen. En todo caso los integrantes del Ejecutivo no asistirán a las deliberaciones y votaciones de las comisiones legislativas;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-V. Nombrar y remover libremente a los Secretarios en los términos del artículo 88 de esta Constitución y a los demás servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven;
+V. Nombrar y remover libremente al Secretario General de Gobierno, a los demás Secretarios, al Consejero Jurídico y a los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; los nombramientos garantizarán la paridad entre mujeres y hombres; y, si ello no fuere posible porque el número de nombramientos a expedir sea impar, serán lo más cercano al equilibrio numérico;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -2637,7 +2639,9 @@ V.- Haber residido en la República Mexicana durante los dos años anteriores al
 
 VI.- No haber sido Secretario de Despacho o su equivalente, Fiscal General del Estado de Oaxaca o Diputado Local, en el año anterior a su nombramiento;
 
-Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+
+Los nombramientos de los Magistrados serán hechos preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; los nombramientos garantizarán la paridad entre mujeres y hombres; y, si ello no fuere posible, serán lo más cercano al equilibrio numérico;
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2911,9 +2915,9 @@ Los Municipios se erigirán y suprimirán de conformidad con las disposiciones c
 
 Los Municipios tienen personalidad jurídica propia y constituyen un nivel de gobierno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal y el número de Regidurías y Sindicaturas que la ley determine, se garantizaran la paridad y alternancia de género en el registro de las planillas para hacer efectivo el principio constitucional de paridad de género.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la ley determine, garantizándose la paridad y alternancia entre mujeres y hombres, conforme a la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -4828,3 +4832,11 @@ QUINTO.- La Auditoría Superior del Estado de Oaxaca, continuará ejerciendo las
 SEXTO.- Para efectos de cumplir con lo previsto en el último párrafo del artículo 65 Bis, la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, dentro del plazo de veinte días, a partir de la entrada en vigor del presente Decreto, procederá a emitir la Convocatoria pública para elegir al Auditor Superior y de Fiscalización del Estado y a los Subauditores.
 
 El Auditor Superior del Estado, y los Subauditores, que se encuentren en funciones, continuarán en su encargo en tanto el Congreso designe al Auditor Superior, y Subauditores, asimismo podrán ser considerados para participar en el referido proceso de designación.
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 690.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones correspondientes a las leyes pertinentes en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
