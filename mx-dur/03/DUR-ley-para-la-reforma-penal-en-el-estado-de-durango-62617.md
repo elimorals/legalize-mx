@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-reforma-penal-en-el-estado-de-durango-62617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-13"
-last_updated: "2008-07-13"
+last_updated: "2017-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,23 @@ state: "DUR"
 ---
 # LEY PARA LA REFORMA PENAL EN EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 198, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA REFORMA PENAL EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de julio de 2008.
 
-EL CIUDADANO CONTADOR PUBLICO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LlBRE Y SOBERANO DE DURANGO, A SU S HABITANTES, S A B E D:
+EL CIUDADANO CONTADOR PUBLICO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SU S HABITANTES, S A B E D:
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 04 de junio del presente año, el C. C.P. Ismael Alfredo Hernández Deras, Gobernador Constitucional del Estado, envió a esta H. LXIV Legislatura Local, Iniciativa de Decreto en la que propone la creación de la LEY PARA LA REFORMA PENAL Y DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO, misma que fue turnada a las Comisiones Unidas de Seguridad Pública y Justicia, integrada por los CC. Diputados: Rosauro Meza Sifuentes, José Arreola Contreras, Mario Miguel Angel Rosales Melchor, Francisco Gamboa Herrera y Roberto Carmona Jáuregui; así mismo los CC. Diputados José Luis López Ibáñez, Rosauro Meza Sifuentes, Servando Marrufo Fernández, Alma Marina Vitela Rodríguez y Maribel Aguilera Cháirez; Presidentes, Secretarios y Vocales respectivamente; los cuales emitieron su dictamen favorable con base en los siguientes:
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Consideandos (sic), esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -247,7 +251,9 @@ Para el control y la fiscalización de los recursos del Organismo Implementador 
 
 La fiscalización de los recursos corresponderá a la Entidad de Auditoria Superior del Estado en los términos de la ley respectiva.
 
-Artículo18.- Las relaciones laborales del personal del Organismo Implemetador (sic) se regirán por lo dispuesto en el apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+###### Artículo 18.
+
+Las relaciones laborales del personal del Organismo Implemetador (sic) se regirán por lo dispuesto en el apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO IV. DEL PROCESO DE LA REFORMA PENAL
 
@@ -344,3 +350,25 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO ÚNICO Y TRANSITORIOS DEL “DECRETO NO. 198, POR EL QUE SE ABROGA LA LEY PARA LA REFORMA PENAL EN EL ESTADO DE DURANGO PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 13 DE JULIO DE 2008”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley para la Reforma Penal en el Estado de Durango publicada en el Periódico Oficial del Gobierno del Estado el 13 de julio de 2008.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se extingue el organismo público descentralizado denominado Organismo Implementador de la Reforma Penal, transfiriendo a partir de la entrada en vigor del presente decreto, al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública del Estado de Durango, sus recursos financieros, humanos y materiales.
+
+TERCERO.- El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública del Estado de Durango será el enlace operativo de la instancia tripartita coordinadora para la consolidación del Sistema de Justicia Penal, a partir del 28 de septiembre del 2017, estableciendo en su reglamento interior las atribuciones para tal efecto.
+
+CUARTO.- Se designa a la Secretaría de Finanzas y de Administración del Estado para que mediante sus atribuciones vigile el trámite de liquidación en lo referente a la información financiera del Organismo Implementador de la Reforma Penal, con saldos ajustados y cierres contables, la descripción de cuentas por cobrar y sus estados financieros, así como las que en su caso quedaron registradas en cuentas de orden; descripción del activo fijo y su estado; descripción del pasivo y su estatus derivado a la extinción del citado organismo; en concordancia con la Secretaría de Contraloría del Estado.
+
+QUINTO.- Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente decreto.
