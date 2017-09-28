@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-y-denuncias-del-instituto-nacional-102984"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-27"
-last_updated: "2014-10-27"
+last_updated: "2017-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-07"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de octubre de 2014.
 
@@ -116,6 +116,10 @@ b) Restituir el orden vulnerado e inhibir las conductas violatorias de las norma
 II. En el caso de los procedimientos especiales sancionadores, sustanciar el procedimiento y turnar el expediente a la Sala Regional Especializada para su resolución.
 
 2. Los procedimientos para la atención de las solicitudes de medidas cautelares tienen como finalidad prevenir daños irreparables en las contiendas electorales, haciendo cesar cualquier acto que pudiera entrañar una violación o afectación a los principios o bienes jurídicos tutelados en materia electoral.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+3. El Instituto Nacional Electoral, dentro del ámbito de su competencia, conocerá y resolverá de aquellas conductas u omisiones que presuntamente constituyan violencia política contra las mujeres.
 
 ### CAPÍTULO III. De la competencia
 
@@ -235,9 +239,17 @@ XXIX. Tribunal: Tribunal Electoral del Poder Judicial de la Federación.
 
 XXX. Unidad Técnica: Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva.
 
-XXXI. Vocales Ejecutivos: Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas del Instituto.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-XXXII. Vocales Secretarios: Vocales Secretarios de las Juntas Locales y Distritales Ejecutivas del Instituto.
+XXXI. Violencia política contra las mujeres: Todas aquellas acciones u omisiones de personas, servidoras o servidores públicos que se dirigen a una mujer por ser mujer, tienen un impacto diferenciado en ellas o les afectan desproporcionalmente, con el objeto o resultado de menoscabar o anular sus derechos político-electorales, incluyendo el ejercicio del cargo.
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XXXII. Vocales Ejecutivos: Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+XXXIII. Vocales Secretarios: Vocales Secretarios de las Juntas Locales y Distritales Ejecutivas del Instituto.
 
 ## TÍTULO SEGUNDO. DE LAS REGLAS COMUNES APLICABLES A LOS PROCEDIMIENTOS SANCIONADORES
 
@@ -267,7 +279,9 @@ IV. En el caso de las quejas o denuncias que se inicien antes del Proceso Electo
 
 2. Para efectos de este Reglamento, se entenderá por días hábiles, los laborables, que corresponden a todos los días a excepción de sábados, domingos, no laborables en términos de ley y aquéllos en que el Instituto suspenda actividades.
 
-3. Durante el tiempo que no corresponda a un Proceso Electoral, serán horas hábiles las que medien entre las nueve y las diecinueve horas.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+3. Durante el tiempo que no corresponda a un Proceso Electoral, serán horas hábiles las que medien entre las nueve y las diecinueve horas. En el caso de los órganos desconcentrados, aplicarán los horarios establecidos por la Junta General Ejecutiva.
 
 ### Capítulo III. De los requisitos del escrito de queja o denuncia
 
@@ -293,11 +307,13 @@ V. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que
 
 ### Capítulo IV. De la ratificación de la queja o denuncia
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 Artículo 11
 
 Ratificación de la denuncia
 
-1. La autoridad que tome conocimiento de la interposición de una queja o denuncia en forma oral, por medios de comunicación electrónicos, deberá hacerla constar en acta, y requerirá al denunciante para que acuda a ratificarla en un plazo de tres días contados a partir de la notificación, apercibido que de no hacerlo así, se tendrá por no presentada.
+La autoridad que tome conocimiento de la interposición de una queja o denuncia en forma oral o por medios de comunicación electrónicos, deberá hacerla constar en acta, y requerirá al denunciante para que acuda a ratificarla en un plazo de tres días contados a partir de la notificación, apercibido que de no hacerlo así, se tendrá por no presentada.
 
 ### Capítulo V. De la legitimación
 
@@ -399,7 +415,9 @@ IV. Año de presentación de la queja o denuncia en cuatro dígitos.
 
 7. Para el seguimiento de los expedientes que se tramiten tanto a nivel central como desconcentrado, se contará con un Sistema Integral de quejas y denuncias que contenga la versión electrónica del expediente físico.
 
-8. Para efecto de contar con un expediente electrónico del procedimiento especial sancionador, la Unidad Técnica y los órganos desconcentrados harán uso del Sistema Integral de Quejas y Denuncias para una debida comunicación con la Sala Regional Especializada.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+8. Para efecto de contar con un expediente electrónico del procedimiento especial sancionador, la Unidad Técnica y los órganos desconcentrados harán uso del Sistema Integral de Quejas y Denuncias para una oportuna y debida comunicación con la Sala Regional Especializada.
 
 ### Capítulo VIII. De la investigación
 
@@ -413,7 +431,9 @@ Principios que rigen la investigación de los hechos.
 
 3. Las diligencias practicadas por la Unidad Técnica para dar fe de actos de naturaleza electoral, no serán obstáculo para que se lleven a cabo las propias en los procedimientos sancionadores.
 
-4. En los acuerdos de radicación o admisión de la queja, se determinará la inmediata certificación de documentos u otros medios de prueba que se requieran, así se deberán determinar las diligencias necesarias de investigación, sin perjuicio de dictar diligencias posteriores con base en los resultados obtenidos de las primeras investigaciones.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+4. En los acuerdos de radicación o admisión de la queja, se determinarán de manera completa el conjunto de diligencias necesarias para el esclarecimiento de los hechos denunciados y se ordenará la inmediata certificación de documentos u otros medios de prueba que se requieran, lo anterior sin perjuicio de dictar diligencias posteriores con base en los resultados obtenidos de las primeras investigaciones.
 
 Artículo 18
 
@@ -435,7 +455,9 @@ Apoyo de autoridades y ciudadanos, afiliados o dirigentes de un partido polític
 
 1. La Unidad Técnica, podrá solicitar a cualquier autoridad, los informes, certificaciones o apoyo necesario para la realización de diligencias que coadyuven en la investigación.
 
-2. Los partidos políticos, candidatos, agrupaciones, organizaciones políticas, ciudadanos, afiliados, militantes, dirigentes, así como las personas físicas y morales también están obligados a remitir la información que les sea requerida por la Unidad Técnica.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+2. Los partidos políticos, candidatos, agrupaciones, organizaciones políticas, ciudadanos, afiliados, militantes, dirigentes, así como las personas físicas y morales también están obligados a remitir la información que les sea requerida por la Unidad Técnica, conforme a las reglas del debido proceso.
 
 3. Los requerimientos podrán decretarse hasta en dos ocasiones, apercibiéndose desde el primero de ellos que, en caso de incumplimiento, se harán acreedores a una medida de apremio, sin perjuicio de que pueda iniciarse un procedimiento oficioso.
 
@@ -691,27 +713,39 @@ Artículo 35
 
 Medios de apremio
 
-1. Por medios de apremio se entiende el conjunto de medidas a través de los cuales los órganos del Instituto que sustancien el procedimiento, pueden emplear para hacer cumplir coercitivamente sus determinaciones, señalándose los siguientes:
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-I. Apercibimiento;
+1. Los medios de apremio constituyen instrumentos jurídicos a través de los cuales los órganos del Instituto que sustancien el procedimiento, pueden hacer cumplir coercitivamente sus requerimientos o determinaciones, señalándose los siguientes:
 
-II. Amonestación;
+I. Amonestación pública;
 
-III. Multa que va desde los de (sic) cincuenta hasta los cinco mil días de salario mínimo diario general vigente en el Distrito Federal. La misma se cobrará de conformidad con lo establecido en el párrafo 7 del artículo 458 de la Ley General.
+II. Multa que va desde las cincuenta hasta las cinco mil Unidades de Medida y Actualización (UMA). La misma se cobrará de conformidad con lo establecido en el párrafo 7 del artículo 458 de la Ley General;
 
-IV. Auxilio de la fuerza pública; y
+III. Auxilio de la fuerza pública, y
 
-V. Arresto hasta por 36 horas, con el apoyo de la autoridad competente.
+IV. Arresto hasta por 36 horas, con el apoyo de la autoridad competente.
 
-2. El apercibimiento podrá ser declarado en cualquiera de los acuerdos que la Unidad Técnica o el funcionario del órgano desconcentrado correspondiente dicten durante el procedimiento, de oficio o a solicitud del Presidente del órgano colegiado cuya determinación haya sido incumplida. En este último caso, tanto la Unidad Técnica, como el funcionario del órgano desconcentrado o cualquier integrante del órgano resolutor, ya sea la Comisión, los propios órganos desconcentrados o el Consejo, podrán solicitar la imposición de cualquiera de las medidas enunciadas o las que se estimen pertinentes.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-3. De ser procedente la aplicación de cualquiera de los medios de apremio, contemplados en las fracciones IV y V del párrafo 1 del presente artículo, se dirigirá a las autoridades competentes para que procedan a su aplicación.
+2. De ser procedente la aplicación de cualquiera de los medios de apremio, contemplados en las fracciones III y IV del párrafo 1 del presente artículo, se hará de conocimiento a las autoridades competentes para que procedan a su aplicación.
 
-4. Los medios de apremio podrán ser aplicados a las partes, sus representantes, y, en general, a cualquier persona, con el propósito de hacer cumplir las determinaciones de los órganos sustanciadores o resolutores, actuando de manera colegiada o unitaria.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+3. Los medios de apremio deberán ser aplicados, previo apercibimiento, a las partes, sus representantes y, en general, a cualquier persona, con el propósito de hacer cumplir las determinaciones de los órganos sustanciadores o resolutores, actuando de manera colegiada o unitaria.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+4. Para la imposición del medio de apremio debe estar acreditado el incumplimiento del sujeto vinculado a alguna de las determinaciones de los órganos del Instituto, y es necesario que se notifique el acuerdo en el que se establezca el apercibimiento, precisando que en el supuesto que no se desahogue en tiempo y forma lo requerido, se le aplicará una de las medidas de apremio previstas en el presente artículo.
 
 5. Si la conducta asumida pudiese constituir algún delito, el Secretario, a través de quién él determine, instrumentará el acta correspondiente, misma que se hará del conocimiento de la autoridad competente, para que proceda conforme a derecho. Lo anterior, sin perjuicio de la facultad del órgano resolutor de ordenar las vistas correspondientes al resolver las quejas o denuncias presentadas.
 
-6. Por cuanto hace a los órganos del Instituto, así como a las autoridades y los notarios públicos, los medios de apremio se aplicarán sin perjuicio de cualquier responsabilidad que pudiera derivarse.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+6. Con independencia de los medios de apremio que se puedan imponer para hacer eficaces las determinaciones dictadas, se dará inicio del procedimiento sancionador que corresponda por la afectación a las normas de orden público derivado del incumplimiento o contumacia del sujeto obligado.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+7. Por cuanto hace a los órganos del Instituto, así como a las autoridades y los notarios públicos, las medidas de apremio se aplicarán sin perjuicio de cualquier responsabilidad que pudiera derivarse.
 
 ### CAPÍTULO XII. De los informes que rinde el Secretario
 
@@ -781,19 +815,29 @@ I. El Consejo General y la Comisión, a petición de parte o de forma oficiosa, 
 
 II. Los órganos desconcentrados en sus respectivos ámbitos de competencia, a petición de parte o de forma oficiosa, a propuesta del Vocal respectivo.
 
-2. Para tal efecto, dichos órganos podrán sesionar en cualquier día, incluso fuera de Proceso Electoral Federal o local.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+2. Para tal efecto, y por la naturaleza urgente de las medidas cautelares, dichos órganos podrán sesionar en cualquier día u hora, incluso fuera de Proceso Electoral Federal o local.
+
+Si la sesión tuviera lugar en día y hora que, conforme a este reglamento sea inhábil, la Unidad Técnica deberá, previamente, llevar a cabo la habilitación.
 
 3. Procede la adopción de medidas cautelares en todo tiempo, para lograr el cese de los actos o hechos que constituyan la infracción denunciada, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o se ponga en riesgo la vulneración de bienes jurídicos tutelados por las disposiciones constitucionales, legales y las contenidas en el Reglamento.
 
 4. La solicitud de adopción de medidas cautelares deberá cumplir con los siguientes requisitos:
 
-I. Presentarse por escrito ante la Unidad Técnica y estar relacionada con una queja o denuncia.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+I. Presentarse por escrito ante la Unidad Técnica u órganos desconcentrados, según corresponda y estar relacionada con una queja o denuncia;
 
 II. Precisar el acto o hecho que constituya la infracción denunciada y de la cual se pretenda hacer cesar;
 
 III. Identificar el daño cuya irreparabilidad se pretenda evitar;
 
-5. Para el caso de que la solicitud tenga por objeto hechos relacionados con radio y televisión, la Unidad Técnica requerirá a la Dirección de Prerrogativas y Partidos Políticos que efectúe el monitoreo para detectar la existencia del material denunciado y, de inmediato, le informe sobre su resultado. En caso que el material no haya sido pautado por el Instituto, los concesionarios deberán informar sobre su existencia.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+5. Para el caso de que la solicitud tenga por objeto hechos relacionados con radio y televisión sobre materiales pautados por algún partido político o candidatura independiente, la Unidad Técnica verificará la existencia y vigencia de los materiales en el Sistema Integral de Gestión de Requerimientos en Materia de Radio y Televisión de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos de este Instituto.
+
+Con independencia de lo anterior, la Unidad Técnica requerirá a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos para que a la brevedad efectúe el monitoreo para detectar la existencia del material denunciado, incluyendo aquellos materiales que no estuvieren pautados, o que proporcione cualquier información técnica en su poder que sea relevante para el asunto, y de inmediato, le informe sobre su resultado. En su caso, el requerimiento se hará a los concesionarios, quienes deberán informar sobre su existencia.
 
 6. Cuando las solicitudes sean presentadas ante los órganos desconcentrados y la materia de la petición verse sobre la presunta colocación de propaganda fija a través de pintas de bardas, espectaculares así como cualquier otra diferente a radio y televisión el órgano desconcentrado correspondiente determinara la investigación conducente sobre la petición de mérito, o conforme a lo dispuesto en el artículo 250, párrafo 3, de la Ley General.
 
@@ -823,9 +867,17 @@ Del trámite
 
 2. El Acuerdo que ordene la adopción de medidas cautelares deberá contener las consideraciones fundadas y motivadas acerca de:
 
-I. La prevención de daños irreparables en las contiendas electorales.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-II. El cese de cualquier acto o hecho que pueda entrañar una violación o afectación a los principios rectores o bienes jurídicos tutelados en materia electoral.
+I. La prevención de daños irreparables en las contiendas electorales,
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+II. El cese de cualquier acto o hecho que pueda entrañar una violación o afectación a los principios rectores o bienes jurídicos tutelados en materia electoral, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+III. El apercibimiento al sujeto obligado de la imposición de medidas de apremio en caso de incumplimiento al acuerdo de adopción de medidas cautelares.
 
 3. El acuerdo en que se determine la adopción de medidas cautelares establecerá la suspensión inmediata de los hechos materia de la misma, otorgando en su caso un plazo no mayor a 48 horas atendiendo la naturaleza del acto para que los sujetos obligados la atiendan.
 
@@ -839,9 +891,17 @@ Artículo 41
 
 Del incumplimiento
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
 1. Cuando la Unidad Técnica tenga conocimiento del probable incumplimiento de alguna medida cautelar ordenada por la Comisión, dará inicio a un nuevo procedimiento para la investigación de estos hechos, o los podrá considerar dentro de la misma investigación, o bien, podrá imponer el medio de apremio que estime suficiente para lograr el cumplimiento de la medida ordenada.
 
-2. Para tales fines, los órganos y áreas del Instituto darán seguimiento al cumplimiento de las medidas cautelares ordenadas, e informarán al Secretario y al Presidente de la Comisión, de cualquier incumplimiento.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+2. Con independencia de que la determinación sobre la imposición de los medios de apremio, y de la posible existencia de cualquier otra forma de responsabilidad, la Unidad Técnica podrá dar inicio a un nuevo procedimiento para la investigación del supuesto incumplimiento a la medida cautelar dictada.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+3. Para tales fines, los órganos y áreas del Instituto darán seguimiento al cumplimiento de las medidas cautelares ordenadas, e informarán al Secretario y al Presidente de la Comisión, de cualquier incumplimiento.
 
 Artículo 42
 
@@ -849,7 +909,9 @@ De las medidas cautelares tramitadas por los órganos desconcentrados
 
 1. Los órganos desconcentrados dictarán las medidas cautelares pertinentes, para lo cual atenderán al procedimiento y plazos señalados en el presente capítulo.
 
-2. Dentro de los Procesos Electorales Federales, el Presidente del Consejo Local o Distrital que lo reciba, con apoyo del Vocal Secretario, formulará el proyecto y lo propondrá al Consejo que preside.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+2. Dentro de los Procesos Electorales Federales, el Presidente del Consejo Distrital que lo reciba, con apoyo del Vocal Secretario, formulará el proyecto y lo propondrá al Consejo que preside. En caso de que aún no estén instalados los Consejos, los resolverá la Junta correspondiente.
 
 Artículo 43
 
@@ -885,31 +947,33 @@ Artículo 44
 
 De la integración emergente de la Comisión para el dictado de medidas cautelares.
 
-1. En caso que haya ausencia de alguno de los Consejeros electorales por cuestiones de trabajo, enfermedad, recesos o alguna otra causa de fuerza mayor o caso fortuito que motive la misma, y no sea posible conformar la integración completa de la Comisión para efectos de sesionar sobre asuntos relacionados con la solicitud de adopción de medidas cautelares, se tomarán las providencias siguientes:
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-a) El Consejero electoral que esté presente, localizará a los Consejeros electorales ausentes, con el apoyo del Secretario; les comunicará de la necesidad de celebrar una sesión para el efecto de determinar medidas cautelares y les convocará en el mismo acto. De la misma manera, la convocatoria y, en su caso, los oficios de localización que se giren, se adjuntarán como anexo en la minuta que se elabore del desarrollo de la sesión.
+1. La asistencia de las Consejeras y los Consejeros Electorales a las Sesiones de la Comisión de Quejas y Denuncias del INE, ya sea integrantes o de lista de reserva, podrá ser presencial o remota, atendiendo a la necesidad, su agenda o cualquier otra circunstancia que les impida asistir físicamente.
 
-b) En caso que no sea posible la localización o comunicación con los Consejeros electorales ausentes o con alguno de ellos, el Consejero electoral integrante de la Comisión que esté presente, reportará lo conducente en actas y convocará a uno o dos Consejeros que no sean miembros de la Comisión a que participen por única ocasión con voz y voto en dicha sesión. Dichos Consejeros surgirán de una lista previamente aprobada por el Consejo para estos efectos y serán llamados a participar en la sesión conforme al orden en el que aparezcan en la lista. El quórum de dicha sesión se tomará con los miembros presentes.
+a) Para la instrumentación de la asistencia remota o virtual, se atenderá a lo siguiente:
 
-c) El Consejero Electoral integrante de la Comisión que esté presente, sentará en actas los hechos relatados en los incisos anteriores. La lista de Consejeros suplentes será renovada cada tres años, o cuando se verifique la renovación de Consejeros; para este último caso, la lista se aprobará en la sesión siguiente a la que los nuevos Consejeros hayan tomado protesta del cargo.
+I. Se utilizará un esquema de videoconferencia u otras herramientas de informática o telemática similares que permitan analizar, discutir y en su caso aprobar, en tiempo real, los puntos del orden del día, garantizando los principios de simultaneidad y deliberación. Estas sesiones serán videograbadas para los efectos procedimentales conducentes.
 
-d) En caso de ausencia del Consejero Presidente, éste designará al Consejero Electoral integrante de la Comisión que se encargará de presidir por esa única ocasión la sesión que se trate, con las responsabilidades que correspondan en términos de convocatoria, como son conducción de la sesión, votaciones, firma de acuerdos y remisión de los expedientes a quienes corresponda tanto por las medidas cautelares tomadas como las propias de archivo y transparencia.
+II. La asistencia de carácter virtual de las Consejeras y Consejeros electorales que integren la Comisión, se hará constar durante la sesión correspondiente por la Secretaría Técnica al inicio de la sesión.
 
-2. Cuando haya plenitud y certeza técnica, podrá explorarse la asistencia de carácter virtual o remota, a través de las tecnologías de la información y comunicación para que de manera remota o a distancia, sin contar con el elemento presencial en el lugar, de alguno de los consejeros electorales integrantes de la Comisión permitan la transmisión simultánea de su voz e imagen, conforme a lo siguiente:
+III. La convocatoria para quienes asistan de forma virtual se hará por oficio, utilizando el sistema informático de gestión del Instituto. Adicionalmente, se remitirá a dicha Consejera o Consejero Electoral vía correo electrónico institucional la documentación soporte de la Sesión y de los asuntos que se desahogarán en Comisión. Toda la información soporte deberá estar disponible en el micrositio o red interna del Instituto.
 
-a) La asistencia virtual o remota sólo podrá realizarse cuando habiéndose llevado a cabo las acciones previstas en el párrafo anterior, resulte necesario que la Comisión emita medidas cautelares y no exista quórum para sesionar.
+IV. En todo caso, la Consejera o Consejero electoral que desee participar en Comisión mediante esta modalidad, deberá avisar por los medios que tenga disponibles a la Presidencia de la Comisión, con una anticipación que permita la preparación de los medios tecnológicos para llevar a cabo la sesión bajo esa modalidad. En caso que quien participe vía remota sea la Presidencia de la Comisión, el aviso deberá dirigirlo a la Secretaría Técnica.
 
-b) Para la instrumentación de la asistencia remota, se atenderá a lo siguiente:
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-I. La asistencia podrá llevarse a cabo de manera virtual, a través de un esquema de videoconferencia u otras herramientas de informática o telemática similares que permitan analizar, plantear y discutir en tiempo real, los puntos del orden del día aprobados por la Comisión.
+2. En caso de que haya ausencia de alguno de las Consejeras o los Consejeros electorales y no sea posible conformar la integración completa de la Comisión de forma presencial o remota, para efectos de sesionar sobre asuntos relacionados con la solicitud de adopción de medidas cautelares, se tomarán las providencias siguientes:
 
-II. La asistencia virtual o remota deberá garantizar los principios de simultaneidad y deliberación de los asuntos de la Comisión.
+a) La Presidencia de la Comisión, por conducto de la Secretaría Técnica, localizará a las Consejeras y los Consejeros electorales ausentes por cualquier medio disponible, les comunicará la necesidad de celebrar una sesión para el efecto de determinar medidas cautelares y una vez localizados, les convocará vía oficio.
 
-III. El registro de asistencia de carácter virtual se verificará mediante firma electrónica de los consejeros electorales integrantes de la Comisión.
+b) En caso de que no sea posible la localización o comunicación con las Consejeras y Consejeros electorales ausentes, la Presidencia de la Comisión convocará a uno o dos Consejeros que no sean miembros de la misma, a que participen con voz y voto en dicha sesión, y explicará dicha circunstancia durante la Comisión.
 
-IV. Las sesiones de las comisiones a las que se ocurra mediante la asistencia virtual serán videograbadas para los efectos procedimentales conducentes.
+Las Consejeras y Consejeros Electorales que sean convocados de forma extraordinaria conforme a lo anterior, surgirán de una lista de prelación previamente aprobada por el Consejo General para estos efectos y serán llamados a participar en la sesión conforme al orden en el que aparezcan en la lista. Las comunicaciones para determinar la asistencia de estos Consejeros podrán ser por oficio o por correo electrónico Institucional, en virtud de la celeridad y urgencia de las medidas cautelares. La convocatoria formal será por oficio.
 
-V. La convocatoria para quienes por circunstancias extraordinarias asistan de formar virtual, deberá señalar fecha y hora, debiéndose acompañar el proyecto de orden del día y se remitirá vía correo electrónico con la información soporte del asunto que se desahogará al interior de la Comisión, precisando que dicha información remitida en soporte informático estará disponible en un micrositio o red interna del Instituto, debiendo mediar acuse de recepción del Consejero Electoral que sea convocado por esta vía.
+c) La lista de prelación será renovada cada tres años, cuando se verifique la renovación de Consejeros o, en su caso, la renovación de la integración de la Comisión; para estos casos, la lista se aprobará en la sesión del Consejo General inmediata posterior a que ocurran dichos supuestos.
+
+d) En caso de imposibilidad de quien desempeñe la Presidencia de la Comisión para asistir de forma presencial o remota a la Comisión, éste designará por oficio a la Consejera o Consejero electoral integrante de la Comisión que se encargará de presidir por esa única ocasión la sesión que se trate, con las responsabilidades que correspondan, como son: la conducción de la sesión, votaciones, firma de acuerdos y remisión de los expedientes a quienes corresponda tanto por las medidas cautelares tomadas como las propias de archivo y transparencia.
 
 3. En todo caso, el Consejero electoral que vaya a ausentarse, deberá avisar con anticipación al Consejero presidente para los efectos conducentes. En caso de que quien se ausente sea éste último, el oficio deberá dirigirlo a la Secretaría Técnica.
 
@@ -1067,13 +1131,31 @@ c) Análisis de los hechos: Se estudiarán los planteamientos del denunciante y 
 
 V. Individualización de la sanción. De acreditarse la infracción, se impondrá la sanción que corresponda, atendiendo a los siguientes criterios:
 
-a) Tipo de infracción.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-b) Bien jurídico tutelado.
+a) Tipo de infracción;
 
-c) Singularidad o pluralidad de la conducta.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+b) Bien jurídico tutelado;
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+c) Singularidad o pluralidad de la conducta, y
 
 d) Circunstancias de tiempo, modo y lugar.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+e) Las condiciones socioeconómicas del infractor;
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+f) La reincidencia en el incumplimiento de obligaciones, y
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+g) En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 VI. Resolutivos, en los que se precise:
 
@@ -1111,7 +1193,9 @@ Trámite a cargo de la Unidad Técnica
 
 5. La vista que se deba hacer se realizará a través del Secretario del Consejo General.
 
-6. Las faltas a que se refiere el presente capítulo podrán ser conocidas por la Unidad Técnica de oficio o a petición de parte agraviada.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+6. Las faltas a que se refiere el presente capítulo podrán ser conocidas por la Unidad Técnica de oficio o a petición de parte.
 
 Artículo 58
 
@@ -1131,15 +1215,27 @@ Procedencia
 
 2. Durante el Proceso Electoral, cuando se trate de la comisión de conductas que transgredan:
 
-I. Lo establecido en los artículos 41, Base III, así como 134, párrafo octavo de la Constitución.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-II. Las normas sobre propaganda política o electoral.
+I. Lo establecido en los artículos 41, Base III, así como 134, párrafo octavo de la Constitución;
 
-III. Constituyan actos anticipados de precampaña o campaña.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-IV. El derecho de réplica de los partidos políticos, precandidatos, candidatos y candidatos independientes.
+II. Las normas sobre propaganda política o electoral;
 
-2 (SIC). Respecto de las violaciones a los artículos 41, Base III, Apartado B y 134 de la Constitución y la infracción a las prohibiciones relativas a los actos anticipados de precampaña y campaña, se estará además a lo previsto en los Reglamentos, Acuerdos y Lineamientos que al efecto emita el Consejo General.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+III. Constituyan actos anticipados de precampaña o campaña, y
+
+IV. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+3. Respecto de las violaciones a los artículos 41, Base III, Apartado B y 134 de la Constitución y la infracción a las prohibiciones relativas a los actos anticipados de precampaña y campaña, se estará además a lo previsto en los Reglamentos, Acuerdos y Lineamientos que al efecto emita el Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+4. Durante el Proceso Electoral, en aquellos casos en que los Consejos todavía no estén instalados, el Vocal Ejecutivo Local o Distrital según corresponda, con el apoyo del vocal Secretario, instruirá y resolverá lo conducente respecto de la solicitud de medidas cautelares, cuando la denuncia se refiera a los supuestos del artículo 5, numeral 2, fracción II del presente Reglamento.
 
 Artículo 60
 
@@ -1153,7 +1249,9 @@ II. Los hechos denunciados no constituyan una violación en materia de propagand
 
 III. El denunciante no aporte ni ofrezca prueba alguna de sus dichos, o
 
-IV. La denuncia sea evidentemente frívola.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IV. La denuncia sea evidentemente frívola en términos de lo previsto en los artículos 440, párrafo 1, inciso e) y 447, párrafo 1, inciso d), de la LGIPE.
 
 2. En caso de desechamiento, la Unidad Técnica notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas contadas a partir de la emisión del acuerdo correspondiente, haciendo constar los medios empleados para tal efecto. La notificación deberá ser confirmada por escrito dentro de los tres días siguientes a que fue practicada, y se informará a la Sala Especializada, para su conocimiento.
 
@@ -1167,7 +1265,9 @@ De la admisión y el emplazamiento
 
 2. Si del análisis de las constancias aportadas por el denunciante, se advierte la falta de indicios suficientes para iniciar la investigación, la Unidad Técnica dictará las medidas necesarias para llevar a cabo una investigación preliminar, atendiendo al objeto y al carácter sumario del procedimiento, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios.
 
-3. Admitida la denuncia, la Unidad Técnica, sin perjuicio de realizar las diligencias que estime necesarias, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión, haciéndole saber al denunciado la infracción que se le imputa, para lo cual se le correrá traslado de la denuncia con sus anexos. Y en su caso, de las diligencias e investigaciones realizadas por la autoridad.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+3. Admitida la denuncia, la Unidad Técnica, sin perjuicio de realizar las diligencias que estime necesarias, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la debida integración del expediente, haciéndole saber al denunciado la infracción que se le imputa, para lo cual se le correrá traslado de la denuncia con sus anexos, así como de todas y cada una de las constancias que integran el expediente en copia simple o medio magnético.
 
 4. Si se solicita la adopción de medidas cautelares, o la Unidad Técnica considera necesaria su adopción, se procederá en términos de lo dispuesto en el artículo 38 de este Reglamento.
 
@@ -1177,7 +1277,9 @@ Audiencia de pruebas y alegatos, y remisión del expediente a la Sala Regional E
 
 1. La audiencia de pruebas y alegatos se desarrollará en los siguientes términos:
 
-I. Se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por personal de la Unidad Técnica, debiéndose levantar constancia de su desarrollo, en la que firmaran los que en ella intervinieron.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+I. Se llevará a cabo de manera ininterrumpida, salvo lo previsto en la fracción VIII del presente artículo, en forma oral y será conducida por personal de la Unidad Técnica, debiéndose levantar constancia de su desarrollo, en la que firmaran los que en ella intervinieron;
 
 II. La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados.
 
@@ -1190,6 +1292,10 @@ V. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tie
 VI. La Unidad Técnica resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo.
 
 VII. Concluido el desahogo de las pruebas, la Unidad Técnica concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno. Culminada esta etapa, se cerrará el acta y se dará por terminada la audiencia.
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Si por causa grave o de fuerza mayor, hubiese necesidad de diferir la audiencia, la Unidad Técnica de lo Contencioso lo hará, fundando y motivando tal determinación, debiendo de reanudar la misma a la brevedad posible.
 
 Artículo 63
 
@@ -1217,7 +1323,9 @@ Del procedimiento ante los órganos desconcentrados
 
 I. La denuncia se presentará ante el Vocal Ejecutivo de la Junta Distrital o Local que corresponda a la demarcación territorial en donde haya ocurrido la conducta denunciada o del cargo que se elija;
 
-II. El Vocal Ejecutivo avisará de inmediato a la Unidad Técnica acerca de la presentación del escrito correspondiente, con el propósito de que en un plazo de doce horas determine si en un primer momento ejerce su facultad de atracción o no, en términos de lo dispuesto en el artículo 66 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+II. El Vocal Ejecutivo avisará de inmediato a la Unidad Técnica acerca de la presentación del escrito correspondiente, con el propósito de que en un plazo de doce horas determine si en un primer momento ejerce su facultad de atracción o no, en términos de lo dispuesto en el artículo 65 de este Reglamento, y
 
 III. Celebrada la audiencia, el Vocal Ejecutivo de la junta correspondiente deberá turnar a la Sala Regional Especializa (sic) de forma inmediata el expediente completo, junto con un informe circunstanciado que rinda en términos de lo dispuesto en el artículo anterior.
 
@@ -1241,9 +1349,17 @@ I. En caso que la queja o denuncia sea presentada en el Instituto, si el Secreta
 
 II. Si el Secretario Ejecutivo determina no ejercer la facultad de atracción remitirá, dentro de las veinticuatro horas siguientes, la queja o denuncia a la junta o consejo distrital competente a efecto de que el órgano desconcentrado sustancie el procedimiento.
 
-III. Si la queja o denuncia es presentada ante las juntas o consejos locales, estos órganos informarán al Secretario Ejecutivo de su interposición y remitirán a las juntas o consejos distritales competentes, dentro de las veinticuatro horas siguientes, las constancias que se hubieren presentado, para su posterior trámite y sustanciación.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Si la queja o denuncia se presenta ante las juntas o consejos distritales, éstos de inmediato darán aviso de su interposición al Secretario Ejecutivo mediante el Sistema Integral de Quejas y Denuncias y tramitarán el procedimiento respectivo.
+III. Si la queja o denuncia es presentada ante las juntas o Consejos Locales, estos órganos informarán al Secretario Ejecutivo de su interposición mediante el Sistema Integral de Quejas y Denuncias y, en caso de considerarlo procedente, remitirán a las juntas o Consejos Distritales competentes, dentro de las veinticuatro horas siguientes, las constancias que se hubieren presentado, para su posterior trámite y sustanciación, y
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+IV. Si la queja es promovida ante las juntas o Consejos Distritales, estos órganos informarán al Secretario Ejecutivo de su interposición mediante el Sistema Integral de Quejas y Denuncias y, en caso de considerarlo procedente, remitirán a las juntas o Consejos Distritales competentes, en el plazo y con las constancias precisadas en la fracción anterior.
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
+
+V. La determinación del Secretario Ejecutivo deberá comunicarse de forma inmediata al órgano desconcentrado que corresponda.
 
 En caso de solicitar la atracción, lo podrán realizar a través de dicho medio.
 
@@ -1273,13 +1389,9 @@ Artículo 67
 
 De otras autoridades
 
-1. Se considerará que las autoridades han incumplido su obligación de proporcionar información al Instituto en tiempo y forma cuando una vez realizado el apercibimiento respectivo:
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2017)</small>
 
-I. No respondan en los plazos establecidos en el requerimiento de información;
-
-II. No informen en los términos solicitados, o
-
-III. Nieguen la información solicitada.
+1. Se considerará que las autoridades han incumplido su obligación de proporcionar información al Instituto en tiempo y forma cuando (sic) una vez notificado el apercibimiento respectivo.
 
 Segundo. El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1294,3 +1406,11 @@ Sexto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y 
 El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 7 de octubre de dos mil catorce, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMA EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO NACIONAL ELECTORAL" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Las reformas aprobadas por el presente Acuerdo entrarán en vigor al día siguiente de su aprobación en el Diario Oficial de la Federación, por ende, se ordena su inmediata publicación por dicho medio. Asimismo, publíquese en el portal de internet www.ine.mx
