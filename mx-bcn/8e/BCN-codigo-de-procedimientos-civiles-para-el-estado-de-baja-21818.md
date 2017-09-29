@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2017-07-14"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -663,9 +663,13 @@ ART. 83.- Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, di
 
 ART. 84.- Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas, pero si aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
 
-Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, presentada dentro del día siguiente al de la notificación.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
 
-En este último caso, el Juez o tribunal resolverá lo que estime procedente dentro del día siguiente al de la presentación del escrito en que se solicita la aclaración.
+Estas aclaraciones podrán hacerse de oficio o a instancia de parte, dentro de los tres días hábiles siguientes al que surta efectos la notificación personal o por boletín judicial.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+
+Sin formar incidente, el Juez o tribunal resolverá lo que estime procedente dentro del término de tres días.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4713,9 +4717,11 @@ No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo
 
 ART. 676.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
 
-(REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2017)</small>
 
-ART. 677.- La apelación se interpondrá por escrito, ante el Juez del conocimiento, dentro de ocho días improrrogables si se tratare de sentencia definitiva, o dentro de cinco si fuere auto o resolución interlocutoria.
+ART. 677.- La apelación se interpondrá por escrito, ante el Juez del conocimiento, dentro de ocho días improrrogables computados a partir de la notificación, si se tratare de sentencia definitiva o su aclaración si la hubiere, o dentro de cinco si fuere auto o resolución interlocutoria.
+
+(REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 Los autos e interlocutorias, serán apelables cuando lo fuere la sentencia definitiva.
 
@@ -7240,3 +7246,9 @@ P.O. 14 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 279, 281 Y 419 DEL CÓDIGO CIVIL, ARTÍCULO 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 118 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 84 Y 677 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
