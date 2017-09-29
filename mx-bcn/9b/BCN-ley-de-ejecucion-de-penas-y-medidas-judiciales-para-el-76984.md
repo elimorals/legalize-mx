@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2017-03-24"
+last_updated: "2017-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCN"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DE LA DECLARATORIA EXPEDIDA POR LA H. XXII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE MARZO DE 2017, "EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE BAJA CALIFORNIA".]</small>
+NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DE LA DECLARATORIA EXPEDIDA POR LA H. XXII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE MARZO DE 2017, "EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE BAJA CALIFORNIA".]
+
+NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -159,37 +161,29 @@ IX.- Supervisar la vigilancia a que serán sometidas las personas sujetas a trat
 
 X.- Supervisar el cumplimiento de las obligaciones a que estarán sujetas las personas que gocen de los beneficios señalados en esta Ley, en los términos y condiciones que determine la autoridad judicial.
 
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XI.- Supervisar la vigilancia a que serán sometidas las personas sujetas a medida cautelar o suspensión condicional del proceso, en los términos y condiciones que determine la autoridad judicial;
 
 XII.- Fomentar la capacitación del personal de la Subsecretaría en todos sus niveles, de acuerdo a las necesidades del servicio.
 
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XIII.- Supervisar las penas y medidas judiciales de conformidad con esta Ley y demás disposiciones normativas aplicables;
 
-XIV.- Expedir por conducto de la Dirección de Ejecución, las constancias de antecedentes penales, de conformidad con las disposiciones aplicables, dichos antecedentes solo harán referencia a sentencias condenatorias, por delitos de carácter doloso, debidamente ejecutoriadas.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+
+XIV.- Expedir de forma gratuita, por conducto de la Dirección de Ejecución, las constancias de antecedentes penales, de conformidad con las disposiciones aplicables, dichos antecedentes solo harán referencia a sentencias condenatorias, por delitos de carácter doloso, debidamente ejecutoriadas.
 
 XV.- Conocer, sustanciar y resolver por conducto de la Dirección de Ejecución, los recursos de inconformidad que se interpongan contra la resolución inicial y definitiva en materia de menores infractores, las que modifiquen o den por terminado el tratamiento Interno del menor y los autos que emitan los consejeros de conformidad con la Ley de Menores Infractores de Baja California.
-
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XVI.- Realizar por conducto de la Dirección de Ejecución, la evaluación de riesgo a petición de alguna de las partes para determinar el nivel de riesgo procesal que representa un imputado, con el objeto de que las partes, en su caso, le proporcionen dicha información al Juez de Control y se imponga la medida cautelar más idónea;
 
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XVII.- Supervisar la vigilancia de las medidas de protección que le competan en los términos del Código Nacional; y
-
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1680,3 +1674,11 @@ PRIMERO.- Se declara la vigencia de la Ley Nacional de Ejecución Penal en el te
 PRIMERO.- Ordénese la publicación del presente decreto en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Remítase copia de la presente declaratoria al Poder Judicial del Estado; así como a los H. Ayuntamientos del Estado; Entidades Federativas y Congreso de la Unión para su conocimiento.
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 480 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XIV DEL ARTÍCULO 6 DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La Secretaría de Seguridad Pública, tendrá un plazo de 30 días a partir de la entrada en vigor del presente decreto, para modificar los reglamentos y disposiciones correspondientes para únicamente aplicar la presente disposición.
