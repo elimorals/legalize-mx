@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2017-07-14"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCN"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -127,9 +125,13 @@ Tratándose de Derechos Humanos, se interpretarán de acuerdo a la Constitución
 
 Cuando haya conflicto de derechos, a falta de Ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 21.
 
-La ignorancia de las Leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la Ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de Leyes que afecten directamente al interés público.
+La ignorancia de las Leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta algún tipo de discapacidad mental, su conformación cultural, cuando pertenezca a una población indígena, su acceso a los medios de comunicación o su condición económica desfavorable, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la Ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de Leyes que afecten directamente al interés público.
+
+Tratándose de personas pertenecientes a los pueblos o comunidades indígenas, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus derechos y prerrogativas, de acuerdo a lo establecido por la Constitución Federal.
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
@@ -1893,15 +1895,17 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+
 ###### ARTICULO 269.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos en común o si los hubiere sean mayores de edad y estos no requieran alimentos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explicita su voluntad de divorciarse.
 
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la de matrimonio anterior.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son personas menores de dieciocho años de edad o no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el código de la materia.
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad o los hijos mayores de edad requieran alimentos o no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el código de (sic) penal del Estado.
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -16578,3 +16582,15 @@ P.O. 14 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 279, 281 Y 419 DEL CÓDIGO CIVIL, ARTÍCULO 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 116 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 21 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 117 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 269 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
