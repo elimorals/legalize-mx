@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-zonas-economicas-especiales-115
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-06-30"
-last_updated: "2016-06-30"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115432&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-24"
 
 REGLAMENTO DE LA LEY FEDERAL DE ZONAS ECONÓMICAS ESPECIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Edición Vespertina del Diario Oficial de la Federación, el jueves 30 de junio de 2016.
 
@@ -981,6 +981,18 @@ d) El valor agregado que la inversión generará, así como el acceso a las cade
 
 VIII. La descripción de las Actividades Económicas Productivas que propone se realicen en la Zona, que incluya los mecanismos para la transferencia de tecnología, así como las acciones que llevará a cabo para el fortalecimiento del capital humano de la Zona;
 
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+VIII Bis. La información sobre las Actividades Económicas Productivas que podrán llevarse a cabo en términos del Decreto de Declaratoria de la Zona y las inversiones necesarias para llevarlas a cabo, las cuales deberán cumplir los requisitos siguientes:
+
+a) Se trate en su totalidad de un proyecto de inversiones nuevas, entendidas éstas como los activos fijos, los gastos y cargos diferidos y las erogaciones, conforme a lo establecido en el artículo 32 de la Ley del Impuesto sobre la Renta, que sean utilizados por primera vez en México, excepto tratándose de Infraestructura primaria ya existente en la Zona, correspondiente a la lotificación del terreno, trazado de calles y habilitación de servicios básicos;
+
+b) No implique la reubicación o traslado a la Zona, de inversiones existentes en otras áreas o regiones del país, y
+
+c) Generen niveles óptimos de inversión y empleo consistentes con los objetivos de la Ley.
+
+Para efectos de esta fracción, la Subsecretaría de Ingresos de la Secretaría y el Servicio de Administración Tributaria comunicarán a la Autoridad Federal los criterios conforme a los cuales los Solicitantes podrán acreditar dichos requisitos. La Autoridad Federal deberá incorporar los mencionados criterios en los Lineamientos a que se refiere este artículo;
+
 IX. Las medidas para reducir o eliminar los efectos negativos del desplazamiento y reubicación de la población que, en su caso, se deban realizar debido a la construcción y desarrollo de la Zona;
 
 X. Un esquema de expansión de la Zona, en caso de ser necesario;
@@ -1026,6 +1038,10 @@ En caso de que la Autoridad Federal no emita la resolución en el plazo señalad
 La Autoridad Federal, para determinar el otorgamiento del Permiso, deberá considerar los criterios de evaluación siguientes:
 
 I. Que los documentos presentados contengan toda la información solicitada;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+I Bis. La opinión favorable de la Subsecretaría de Ingresos de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de sus respectivas competencias, sobre el cumplimiento de los requisitos previstos en el artículo 67, fracción VIII Bis de este Reglamento. Para tal efecto, la Autoridad Federal enviará a dichas autoridades la información correspondiente para que éstas emitan la opinión que corresponda en un plazo máximo de quince días hábiles, contado a partir de que reciban la referida información;
 
 II. Que la calidad y estándares de operación de la Infraestructura y Servicios Asociados propuestos, así como el monto, calendario y programa de las inversiones estimadas, sean adecuados para el establecimiento y operación de la Zona;
 
@@ -1539,6 +1555,10 @@ IX. La autorización de impacto ambiental emitida en términos de la Ley General
 
 X. La descripción de los Servicios Asociados que pretenda solicitar y las cantidades que le deberán ser suministradas en la Zona;
 
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+X Bis. La opinión favorable del Servicio de Administración Tributaria, conforme a las reglas de carácter general que para tal efecto emita dicho órgano administrativo desconcentrado. Para obtener dicha opinión, las empresas deberán demostrar que la Actividad Económica Productiva que pretenden realizar se efectúa en su totalidad mediante inversiones nuevas a que se refiere el artículo 67, fracción VIII Bis, inciso a) del presente Reglamento, que no implica el traslado o reubicación de inversiones existentes en otras áreas o regiones del país y que genera niveles óptimos de inversión y empleo consistentes con los objetivos de la Ley;
+
 XI. La manifestación, bajo protesta de decir verdad, que la información que presenta es verídica, y
 
 XII. Cualquier otra información que la Autoridad Federal considere pertinente para analizar la viabilidad de las propuestas que se presenten para el otorgamiento de la Autorización.
@@ -1912,3 +1932,11 @@ Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 Cuarto.- La Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales únicamente podrá emitir los acuerdos a que se refiere el artículo 65 del presente Reglamento, una vez que hayan iniciado sus operaciones las primeras cinco Zonas Económicas Especiales en las fechas previstas en los respectivos Decretos de Declaratoria de éstas.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- El Secretario de Desarrollo Social, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Rafael Pacchiano Alamán.- Rúbrica.- El Secretario de Energía, Pedro Joaquin Coldwell.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, José Eduardo Calzada Rovirosa.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- El Secretario de la Función Pública, Virgilio Andrade Martínez.- Rúbrica.- El Secretario de Educación Pública, Aurelio Nuño Mayer.- Rúbrica.- El Secretario de Salud, José Ramón Narro Robles.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.- La Secretaria de Desarrollo Agrario, Territorial y Urbano, Rosario Robles Berlanga.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE ZONAS ECONÓMICAS ESPECIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
