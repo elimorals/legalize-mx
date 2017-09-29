@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aeropuertos-15558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-17"
-last_updated: "2003-09-09"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15558&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-15"
 
 REGLAMENTO DE LA LEY DE AEROPUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de febrero de 2000.
 
@@ -1023,6 +1023,58 @@ El administrador aeroportuario podrá desechar las solicitudes de los transporti
 
 Los transportistas u operadores aéreos no podrán realizar el aterrizaje o despegue de aeronaves cuando por cualquier causa no cuenten con los servicios a la navegación aérea requeridos en el aeropuerto de origen o destino, sin perjuicio de lo señalado en el artículo 55 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 96 Bis.
+
+En el supuesto de que la Secretaría determine que un aeródromo se encuentra en condiciones de saturación en campo aéreo en horarios específicos, a partir de que surta efectos dicha determinación, los horarios de aterrizaje y despegue serán asignados por series observando, en lo conducente lo dispuesto en los artículos 95 y 96 del presente Reglamento y las bases generales que para tal efecto emita la Secretaría por conducto de la Dirección General de Aeronáutica Civil, las cuales considerarán al menos lo siguiente:
+
+I. La prioridad histórica de una serie de horarios será identificada por el coordinador de horarios, cuando el transportista aéreo tiene prioridad de recibir de forma preferente a cualquier otro transportista aéreo una serie de horarios que se hayan operado como mínimo durante el 85% del tiempo durante el periodo asignado en la temporada equivalente anterior y no haya tenido demoras de más o de menos de 15 minutos respecto al horario asignado en más de un 15% de las ocasiones.
+
+Se entenderá una serie de horarios como mínimo 5 horarios solicitados para la misma hora y en el mismo día de la semana, distribuidos generalmente en la misma temporada, y asignados de esa forma, o si dicha forma no es posible, asignados a la misma hora aproximadamente;
+
+II. Un fondo de reserva que integre los nuevos horarios, los devueltos, los que hayan perdido la prioridad histórica y aquellos horarios que por cualquier causa no justificada estén disponibles después de asignar los horarios históricos y los cambios en dichos horarios.
+
+III. La asignación de horarios de aterrizaje y despegue se realizará observando, el orden siguiente:
+
+a) Los horarios sobre los que los transportistas aéreos conserven prioridad histórica, en términos de la fracción I de este artículo;
+
+b) Los cambios de horarios con prioridad histórica solicitados por el transportista aéreo;
+
+c) Los horarios que integren el fondo de reserva, se asignarán dando prioridad al menos en un 50% a nuevos transportistas aéreos entrantes, y conforme a las mejores prácticas internacionales. En caso de empate se asignará conforme al orden de presentación de la solicitud, y
+
+d) Los horarios asignados durante la temporada equivalente previa bajo un régimen ad hoc, siempre que formen series y hayan cumplido con los requisitos de ocupación y puntualidad.
+
+Para efectos de esta fracción, se entiende como nuevo transportista aéreo entrante, al transportista aéreo que solicita una serie de horarios en un aeropuerto en cualquier día donde, si se acepta la solicitud del transportista aéreo, debería tener menos de 5 horarios en ese aeropuerto y ese día;
+
+IV. Las operaciones prohibidas en un horario saturado;
+
+V. Los procedimientos de asignación de horarios de aterrizaje y despegue;
+
+VI. Los criterios para la supervisión, evaluación y calificación de la ocupación de horarios de aterrizaje y despegue;
+
+VII. Los supuestos de uso indebido de horarios de aterrizaje y despegue determinados por el coordinador de horarios serán causa para que el transportista aéreo no tenga derecho a la elegibilidad de la prioridad histórica para los tiempos que haya operado o para los horarios asignados en esa condición.
+
+Lo anterior con independencia de las sanciones establecidas en las disposiciones jurídicas aplicables.
+
+Para los efectos de esta fracción se entenderá por uso indebido de horarios, al menos lo siguiente:
+
+a) Que un transportista aéreo conserve horarios que no tenga previsto operar, ceder, intercambiar o usar en una operación conjunta;
+
+b) Que un transportista aéreo conserve horarios para una operación distinta a la prevista, con el propósito de negar capacidad a otro operador de aeronaves, o
+
+c) Que un transportista aéreo solicite nuevos horarios que no tenga previsto operar.
+
+No será considerado como uso indebido los cambios en ruta o los cambios de aeronave.
+
+VIII. Los requisitos para devolución, cancelación, cesión, intercambio y operación conjunta de horarios de aterrizaje y despegue;
+
+IX. Las obligaciones del administrador aeroportuario para transparentar el procedimiento de asignación de horarios de aterrizaje y despegue, y
+
+X. Las demás que determine la Secretaría observando las mejores prácticas internacionales en materia de asignación de horarios, cuando éstas no contraríen las disposiciones de la Ley y este Reglamento.
+
+Los transportistas aéreos, al solicitar al administrador aeroportuario el horario de aterrizaje y despegue deberán ajustarse a lo que establezcan las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación, así como a las Reglas de Operación de cada Aeropuerto.
+
 ###### Artículo 97.
 
 Los transportistas y operadores aéreos serán responsables de observar los horarios de aterrizaje y despegue que les asigne el administrador aeroportuario. Se considerará que existe demora cuando el arribo o salida del aeródromo se realice fuera del horario asignado, en los términos que establezcan las reglas de tránsito aéreo considerando los estándares internacionales. El comité de operación y horarios deberá contar con un subcomité de demoras, presidido por el comandante de aeródromo, encargado de determinar, de conformidad con las disposiciones aplicables, a los responsables y las causas que originen las demoras o cancelaciones de aterrizajes o despegues de aeronaves.
@@ -1033,33 +1085,41 @@ Los horarios de aterrizaje y despegue asignados a los transportistas podrán int
 
 El administrador aeroportuario podrá retirar los horarios de aterrizaje y despegue asignados a los transportistas aéreos cuando los intercambien o cedan en contravención del párrafo anterior o tengan adeudos vencidos en el pago de los servicios señalados en el artículo 96 de este Reglamento, debiendo notificarlo al transportista con 90 días de anticipación.
 
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
 ###### Artículo 99.
 
-En el supuesto de que la Secretaría resuelva que un aeródromo se encuentra en condiciones de saturación en campo aéreo en horarios específicos, el administrador aeroportuario, a partir de que surta efectos dicha resolución, asignará los horarios de aterrizaje y despegue aplicando, en lo conducente, las bases señaladas en los artículos 95 y 96 anteriores y las que a continuación se indican:
+El concesionario del aeródromo en condiciones de saturación contará con un coordinador de horarios que propondrá al administrador aeroportuario la asignación de los horarios de aterrizaje y despegue de aeronaves.
 
-I. Durante los primeros cuatro años, la asignación de horarios de despegue y aterrizaje se realizará de acuerdo a lo siguiente:
+El coordinador de horarios será una instancia funcional, técnica e independiente del administrador aeroportuario y de los integrantes del comité de operación y horarios, incluidos los transportistas aéreos, su actuación deberá ser imparcial, transparente y no discriminatoria en el desempeño de sus funciones; la toma de sus determinaciones la realizará con absoluta autonomía e independencia, para ello tendrá acceso a la información relevante que requiera para el ejercicio de sus funciones, adoptando las mejores prácticas de gobierno corporativo.
 
-a) El administrador aeroportuario deberá retirar a los transportistas aéreos los horarios de aterrizaje o despegue que durante el año anterior, por causas imputables a ellos, no hubieran utilizado en una proporción igual o mayor al 85% o hubieren tenido demoras en un 15% o más;
+El coordinador de horarios efectuará las funciones siguientes:
 
-b) Los horarios nuevos, los retirados en los términos señalados en el inciso anterior, los que sean renunciados por los transportistas aéreos y los que, en su caso, les sean retirados cuando tengan adeudos vencidos en el pago de los servicios señalados en el artículo 96 de este Reglamento, deberán subastarse dentro de los quince días hábiles siguientes por el administrador aeroportuario y asignarse exclusivamente con base en la propuesta económica, la que deberá cubrirse por lo menos con quince días de anticipación al inicio de vigencia del horario.
+I. Supervisar, evaluar, calificar y determinar la ocupación y cumplimiento de los horarios de aterrizaje y despegue, para lo cual podrá tomar en consideración las opiniones emitidas por el subcomité de demoras, de conformidad con las mejores prácticas internacionales;
 
-Los transportistas aéreos deberán otorgar garantías a favor del concesionario respecto de la seriedad de la solicitud, la participación en la licitación y, en caso de ser asignado, el pago de la oferta. Los transportistas aéreos que no utilicen los horarios asignados dentro del primer mes de su inicio de vigencia y por lo menos durante los tres meses subsecuentes, les será retirado el horario de que se trate y perderán, por concepto de pena convencional, el monto de su oferta;
+II. Informar en los términos que determinen las bases generales referidas en el artículo 96 Bis de este Reglamento, lo siguiente:
 
-c) Sólo podrán participar en las subastas los transportistas aéreos que se encuentren al corriente en el pago de las contraprestaciones por los servicios señalados en el segundo párrafo del artículo 96 anterior;
+a) Las series de horarios que estén por debajo del porcentaje mínimo de ocupación del 85% durante la temporada;
 
-II. Si transcurridos tres años las condiciones de saturación se mantienen, el administrador aeroportuario deberá:
+b) Las series de horarios que tengan un porcentaje de demoras superior al 15% durante la temporada;
 
-a) Retirar el primer mes de cada año, a partir del cuarto, un 10% de los horarios de aterrizaje y despegue que tenga asignado cada transportista aéreo en la hora u horas saturadas. Para efectuar el cálculo, los decimales igual o mayores a 0.50 se deberán redondear a la unidad superior, y los decimales menores a 0.50 a la unidad inferior;
+c) Los casos de uso indebido de horarios de aterrizaje y despegue;
 
-b) El administrador aeroportuario deberá informar a los transportistas aéreos que tengan horarios asignados en las horas saturadas, el número de horarios que deben retirárseles, a fin de que cada transportista aéreo indique por escrito, dentro de un plazo máximo de 30 días naturales, los horarios que prefiere se les retiren en términos de esta fracción dentro del horario saturado;
+d) La evaluación de la ocupación de los horarios de aterrizaje y despegue, y
 
-c) En caso de que durante el plazo señalado en el inciso anterior los transportistas aéreos no señalen los horarios que prefieren se les retiren, el administrador los determinará y lo notificará al transportista aéreo;
+e) El detalle y la lista de horarios de aterrizaje y despegue con prioridad histórica;
 
-d) Los horarios de aterrizaje y despegue que se determine retirar conforme a esta fracción, serán retirados a los transportistas aéreos transcurridos 365 días a partir de que se les notifique el número de horarios que serán retirados conforme al inciso b);
+III. Identificar cada operación efectuada por los transportistas aéreos;
 
-e) Los horarios retirados conforme a esta fracción serán asignados mediante procedimiento de subasta señalado en este artículo, el cual deberá realizarse entre los 120 días y 180 días del plazo señalado en el inciso anterior y entrarán en vigor a partir del día siguiente de transcurrido el plazo establecido en el inciso d) anterior.
+IV. Atender las diferencias que reporten los transportistas aéreos respecto de la información acerca de sus horarios de aterrizaje y despegue con prioridad histórica, y
 
-Los horarios que se asignen mediante subasta en términos de las fracciones I y II de este artículo sólo podrán ser retirados durante los siguientes cuatro años por las causas previstas en la fracción I.
+V. Realizar las acciones preventivas que determinen las bases generales referidas en el artículo 96 Bis de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 99 Bis.
+
+El coordinador de horarios será designado por la Dirección General de Aeronáutica Civil, deberá contar al menos con nivel de licenciatura y estar familiarizado con la regulación en materia aeroportuaria emitida por la Secretaría o por autoridades aeronáuticas de otros países con los que México realice operaciones de transporte aéreo internacional, tener conocimientos demostrables en programación y asignación de horarios de aterrizaje y despegue de aeronaves, en seguridad aeroportuaria, o estudios especializados en dichas materias.
 
 ###### Artículo 100.
 
@@ -1085,7 +1145,7 @@ En el supuesto de que las condiciones de saturación sean atribuibles al concesi
 
 ###### Artículo 102.
 
-Los ingresos que obtenga el concesionario o permisionario por la subasta de los horarios de despegue y aterrizaje se considerarán dentro de la tarifa máxima conjunta a que se refiere el artículo 141 de este Reglamento.
+(DEROGADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 103.
 
@@ -1348,6 +1408,46 @@ Las recomendaciones que emita el comité deberán precisar de forma clara y sust
 ###### Artículo 132.
 
 El administrador aeroportuario debe recibir todas las quejas que pudieran formular los transportistas y operadores aéreos, los prestadores de servicios aeroportuarios o complementarios, o los usuarios de los servicios, para presentarlos a la consideración del comité para que éste, en su caso, emita sus recomendaciones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 132 Bis.
+
+El subcomité de demoras evaluará las causas que originen las demoras o cancelaciones de los vuelos y, en su caso, a los responsables, conforme a lo previsto en el artículo 97 de este Reglamento y presentará la información al coordinador de horarios. Los transportistas aéreos podrán presentar al subcomité la documentación que a su consideración acredite el cumplimiento en el uso del horario.
+
+Al subcomité de demoras le compete:
+
+I. Determinar, de conformidad con las disposiciones aplicables, las causas que originen las demoras o cancelaciones de los horarios de aterrizaje y despegue, asignados para la temporada, así como de los horarios ad hoc durante la temporada y, en su caso, determinar a los responsables de dichas causas;
+
+II. Proponer al comité de operación y horarios acciones tendientes a disminuir o eliminar las causas de las demoras a los horarios de aterrizaje y despegue;
+
+III. Presentar al comité de operación y horarios situaciones relevantes y recurrentes que afecten el desarrollo de las operaciones, a efecto de proponer medidas correctivas en el ámbito de su competencia;
+
+IV. Elaborar un reporte a la Dirección General de Aeronáutica Civil de aquellas demoras imputables a los transportistas aéreos sobre los horarios ad hoc asignados por disponibilidad durante la temporada para las sanciones correspondientes conforme a lo previsto en la Ley de Aviación Civil, y
+
+V. Entregar la información necesaria al coordinador de horarios, para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 132 Ter.
+
+El subcomité de demoras estará integrado por:
+
+I. El comandante del aeródromo, quien lo presidirá;
+
+II. El administrador aeroportuario, y
+
+III. Un representante del órgano u organismo que presta los servicios a la navegación aérea.
+
+Los integrantes del subcomité de demoras nombrarán a un suplente con voz y voto.
+
+El subcomité de demoras sesionará de forma ordinaria por lo menos dos veces al mes y en forma extraordinaria las veces que a juicio de su presidente se requiera.
+
+El subcomité de demoras deberá sesionar con la presencia de todos sus integrantes o sus suplentes para que sean válidas.
+
+Las decisiones del subcomité de demoras se tomarán por mayoría de votos que emitan los integrantes.
+
+El calendario de las sesiones y la forma en que se convocará a éstas, así como las demás cuestiones sobre la integración y funcionamiento del subcomité de demoras se deberán establecer en el reglamento interno del comité de operación y horarios.
 
 ## Título Séptimo. De las tarifas
 
@@ -1933,7 +2033,7 @@ Todos los conflictos que surjan con motivo de la prestación de los servicios re
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de febrero de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 8 DE AGOSTO DE 2000.
 
@@ -1942,3 +2042,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 D.O.F. 9 DE SEPTIEMBRE DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE AEROPUERTOS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los comités de operación y horarios de los aeródromos contarán con un plazo de 180 días naturales a partir de la fecha de entrada en vigor del presente decreto para modificar su reglamento interno a efecto de incorporar la integración y funcionamiento del subcomité de demoras.
