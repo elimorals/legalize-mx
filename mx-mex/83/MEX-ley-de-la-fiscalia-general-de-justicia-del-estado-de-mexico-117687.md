@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2017-09-13"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -169,21 +169,23 @@ XVI. Promover la participación responsable de la sociedad civil y los medios de
 
 XVII. Establecer medios de información sistemática y directa con la sociedad, de sus actividades, garantizando el acceso a la información de la Fiscalía, en los términos y con las limitantes establecidas en la Constitución Federal, la Constitución del Estado y en las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE SEPTIEMBRE DE 2017) (F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)
 
-XVIII. Compartir las bases de datos e información de que disponga en materia delictiva para la consolidación de una plataforma única de información preventiva y para la investigación de los delitos.
+XVIII. Crear los mecanismos de supervisión, control y seguimiento de las actuaciones que realice el personal que la integran, en relación a las disposiciones jurídicas con perspectiva de género.
+
+(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017) (F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)
+
+XIX. Atender de manera oficiosa las denuncias que se presenten por hechos que puedan ser constitutivos de delitos relacionados con la violencia de género.
+
+> <small>(REFORMADA Y F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
+
+XX. Compartir las bases de datos e información de que disponga en materia delictiva para la consolidación de una plataforma única de información preventiva y para la investigación de los delitos.
 
 Los niveles de acceso y características de la información serán definidos en el protocolo en materia de investigación que emita el Fiscal General, y
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XX, VÉASE PUBLICACIONES OFICIALES DE FECHAS 5 Y 13 DE SEPTIEMBRE DE 2017.]</small>
+> <small>(ADICIONADA Y F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XIX. Las demás previstas en las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE SEPTIEMBRE DE 2017)</small>
-
-XX. Las demás previstas en las disposiciones jurídicas aplicables.
+XXI. Las demás previstas en las disposiciones jurídicas aplicables.
 
 #### SECCIÓN TERCERA. DEL INGRESO Y PERMANENCIA DEL PERSONAL OPERATIVO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
@@ -1751,13 +1753,19 @@ Los derechos laborales de los trabajadores que presten sus servicios en el Insti
 
 Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
 
+> <small>(F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
+
 NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
 
-Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+> <small>(F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
+
+DÉCIMO. Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+> <small>(F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
 
 Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
 
-DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+DÉCIMO PRIMERO. La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
 
 Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
 
