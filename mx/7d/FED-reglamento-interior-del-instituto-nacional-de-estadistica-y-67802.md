@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2016-11-23"
+last_updated: "2017-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2017.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -327,9 +327,9 @@ XXVI. Acordar sobre el apoyo que le solicite el Ejecutivo Federal y las instanci
 
 XXVII. Determinar, previa justificación, las excepciones a la divulgación de los convenios de intercambio de información que celebre el Instituto con otros organismos o agencias nacionales o extranjeras;
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-XXVIII. Aprobar el anteproyecto de presupuesto de la Contraloría Interna y nombrar al Auditor Externo en términos de lo dispuesto por el artículo 91 de la Ley;
+XXVIII. Aprobar el anteproyecto de presupuesto del Órgano Interno de Control;
 
 XXIX. Dictar las normas para poner a disposición de los usuarios la Información de Interés Nacional;
 
@@ -419,7 +419,9 @@ IV. Información de Gobierno, Seguridad Pública e Impartición de Justicia, y
 
 V. Relaciones con los sectores académico, privado e internacional.
 
-Corresponderá al Presidente del Instituto determinar el sector que, de entre los antes señalados, deberá atender y coordinar cada uno de los Vicepresidentes de la Junta de Gobierno como parte de su labor ordinaria y cotidiana dentro del Instituto, así como con quién de ellos el Titular de la Contraloría Interna del Instituto acordará los asuntos de su competencia.
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+Corresponderá al Presidente del Instituto determinar el sector que, de entre los antes señalados, deberá atender y coordinar cada uno de los Vicepresidentes de la Junta de Gobierno como parte de su labor ordinaria y cotidiana dentro del Instituto.
 
 Al tomar las decisiones a que se refiere el párrafo anterior, el Presidente deberá tener en cuenta los antecedentes laborales y académicos de cada uno de los miembros de la Junta de Gobierno.
 
@@ -599,11 +601,11 @@ XXIII. Las demás que le confiera la Junta de Gobierno, el Presidente, así como
 
 Las funciones establecidas en este artículo serán indelegables para el Titular de cada Dirección General y Coordinación General, salvo en aquellos casos en que el presente Reglamento o la legislación y normatividad administrativa aplicable así lo permita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 12.
 
-Las Direcciones Generales, las Coordinaciones Generales y la Contraloría Interna del Instituto estarán a cargo de un Titular, el cual contará para el ejercicio de sus atribuciones con el auxilio de los Directores Generales Adjuntos, Directores de Área, Subdirectores de Área, y Jefes de Departamento, que para tal efecto se precisen en los Manuales de Organización, así como por el personal de enlace y operativo que se requiera para satisfacer las necesidades del servicio, y que figuren en el presupuesto del Instituto.
+Las Direcciones Generales, las Coordinaciones Generales y el Órgano Interno de Control del Instituto estarán a cargo de un Titular, el cual contará para el ejercicio de sus atribuciones con el auxilio de los Directores Generales Adjuntos, Directores de Área, Subdirectores de Área, y Jefes de Departamento, que para tal efecto se precisen en los Manuales de Organización, así como por el personal de enlace y operativo que se requiera para satisfacer las necesidades del servicio, y que figuren en el presupuesto del Instituto.
 
 > <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2315,7 +2317,9 @@ XIII. Planear, integrar y operar el Sistema de Compilación Normativa del Sistem
 
 XIV. Registrar y dar seguimiento a las inspecciones que realicen las Unidades Administrativas competentes en el Instituto, para verificar la autenticidad de la información cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes. Verificar que dichas diligencias se sujeten al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables.
 
-Determinar las faltas administrativas con motivo de las infracciones que establecen los artículos 103, 104 y 105 de la Ley; notificar y enviar el expediente integrado a la Contraloría Interna y a la Dirección General Adjunta de Asuntos Jurídicos, en su respectivo ámbito de competencia, para la imposición de las sanciones correspondientes;
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+Determinar las faltas administrativas con motivo de las infracciones que establecen los artículos 103, 104 y 105 de la Ley; notificar y enviar el expediente integrado al Órgano Interno de Control y a la Coordinación General de Asuntos Jurídicos, en su respectivo ámbito de competencia, para la imposición de las sanciones correspondientes;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2945,9 +2949,9 @@ VII. Autorizar, mediante oficio, a los servidores públicos del Instituto que fu
 
 VIII. Interponer los juicios de amparo o comparecer como terceros perjudicados; así como instrumentar en representación del Instituto, de los miembros de la Junta de Gobierno, de su Presidente, de los Titulares de las Unidades Administrativas, así como de sus servidores públicos, los informes previos y justificados en los juicios de amparo en que sean requeridos como autoridades responsables e interponer toda clase de recursos o medios impugnativos, así como, intervenir en el cumplimiento de las resoluciones respectivas;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-IX. Presentar denuncias de hechos y querellas ante el Ministerio Público u otras autoridades competentes en representación del Instituto; coadyuvar en la integración de las averiguaciones previas y en el trámite de los procesos que afecten al Instituto o en los que éste tenga interés jurídico, otorgar perdón y gestionar ante cualquier autoridad la liberación y devolución de bienes del Instituto relacionados con averiguaciones previas, procedimientos judiciales o administrativos de cualquier naturaleza; así como, denunciar o formular querella ante el Ministerio Público por los hechos que puedan constituir delitos de los servidores públicos del Instituto, allegarse de los elementos probatorios del caso y darle la intervención correspondiente a la Contraloría Interna;
+IX. Presentar denuncias de hechos y querellas ante el Ministerio Público u otras autoridades competentes en representación del Instituto; coadyuvar en la integración de las averiguaciones previas y en el trámite de los procesos que afecten al Instituto o en los que éste tenga interés jurídico, otorgar perdón y gestionar ante cualquier autoridad la liberación y devolución de bienes del Instituto relacionados con averiguaciones previas, procedimientos judiciales o administrativos de cualquier naturaleza; así como, denunciar o formular querella ante el Ministerio Público por los hechos que puedan constituir delitos de los servidores públicos del Instituto, allegarse de los elementos probatorios del caso y darle la intervención correspondiente al Órgano Interno de Control;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3013,7 +3017,7 @@ Para el desahogo de las atribuciones que este numeral confiere a la Coordinació
 
 De la Vigilancia del Instituto.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 46 Bis.
 
@@ -3171,117 +3175,109 @@ XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de 
 
 De la Suplencia de los Servidores Públicos de la Contraloría Interna.
 
-> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 47.
 
 En términos de lo dispuesto por el artículo 91 de la Ley, la vigilancia del Instituto estará a cargo de:
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+Un Órgano Interno de Control dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; tendrá competencia territorial en toda la República Mexicana para prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas administrativas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; auditar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales; así como presentar ante la Fiscalía Especializada en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
 
-Una Contraloría Interna, que tendrá competencia territorial en toda la República Mexicana para recibir quejas, realizar investigaciones, llevar a cabo auditorías internas, y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Instituto, conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los inherentes a las infracciones cometidas por licitantes, proveedores y/o contratistas a las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; Normas en materia de obras públicas y servicios relacionados con las mismas del Instituto Nacional de Estadística y Geografía; y demás disposiciones legales, reglamentarias y administrativas aplicables
+Asimismo, el Órgano Interno de Control deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto.
 
-Asimismo, la Contraloría Interna deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto, desde el nivel de jefe de departamento u homólogo hasta el de Presidente, y de los mencionados en la fracción XII del artículo 36 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+El Órgano Interno de Control tendrá un Titular que lo representará y contará con la estructura orgánica y recursos necesarios para el cumplimiento de su objeto.
 
-> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a lo previsto en la Ley General de Responsabilidades Administrativas.
 
-El Titular de la Contraloría Interna deberá contar con reconocida solvencia moral, y rendir cuenta de sus funciones al Vicepresidente que, de conformidad con lo dispuesto en el artículo 81 de la Ley, determine el Presidente del Instituto.
+ARTICULO 47 bis.- (DEROGADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)
 
-La Junta de Gobierno aprobará el anteproyecto de presupuesto necesario para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento de la Contraloría Interna.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-ARTICULO 47 bis.- Adicionalmente, la vigilancia del Instituto estará encomendada:
-
-A un Auditor Externo nombrado por la Junta de Gobierno de entre una terna de empresas de auditoría de reconocido prestigio que le proponga el Auditor Superior de la Federación. El Auditor Externo auxiliará a la Junta de Gobierno y reportará a ésta la información que conozca con motivo del ejercicio de sus funciones.
-
-El Auditor Externo vigilará, entre otras cosas, que la información financiera y contable del Instituto, se formule de conformidad con los lineamientos, normatividad y principios de contabilidad que le resulten aplicables.
-
-Al menos cada tres años se deberá designar a una nueva empresa de auditoría en términos de lo dispuesto en este artículo, para salvaguardar la eficacia en la vigilancia del Instituto.
-
-> <small>(F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 48.
 
-La Contraloría Interna del Instituto estará a cargo de un Titular, el cual contará con las siguientes atribuciones:
+Son atribuciones del Titular del Órgano Interno de Control del Instituto, las siguientes:
 
-I. Vigilar que las operaciones, programas y proyectos del Instituto se desarrollen de conformidad con la Ley y demás normatividad que le sea aplicable, así como, llevar a cabo programas específicos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos del Instituto;
+I. Vigilar que las operaciones, programas y proyectos del Instituto se desarrollen de conformidad con la Ley y demás normatividad que le sea aplicable, así como, llevar a cabo programas específicos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos del Instituto y de los particulares con que éste tenga relación con motivo de sus funciones;
 
-II. Planear, dirigir y supervisar la gestión de la Contraloría Interna en las materias de su competencia;
+II. Planear, dirigir y supervisar la gestión del Órgano Interno de Control en las materias de su competencia;
 
-III. Aprobar los manuales de organización, normas y procedimientos correspondientes a la Contraloría Interna;
+III. Aprobar los manuales de organización, normas y procedimientos correspondientes al Órgano Interno de Control;
 
-IV. Presentar a la Junta de Gobierno, por conducto del Presidente, el Anteproyecto de Presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento de la Contraloría Interna, conforme a lo establecido en la fracción I del artículo 91 de la Ley;
+IV. Presentar a la Unidad Administrativa correspondiente, el Anteproyecto de Presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento del Órgano Interno de Control, para su aprobación por la Junta de Gobierno;
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+V. Promover los Programas de Capacitación de los servidores públicos del Órgano Interno de Control, en coordinación con la Dirección General de Administración;
 
-V. Evaluar el control interno del Instituto;
+VI. Coordinar la realización de auditorías, investigaciones o visitas de inspección para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, en su caso, determinar sus desviaciones y las causas que les dieron origen y promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-VI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
+VII. Coordinar la atención de las denuncias; las investigaciones y procedimientos administrativos; la imposición de sanciones inherentes a las responsabilidades administrativas de los servidores públicos y el otorgamiento de medidas cautelares de conformidad con la Ley General de Responsabilidades Administrativas; las acciones y concertaciones con otras autoridades competentes, relacionadas con el cobro de las multas que imponga el Órgano Interno de Control en el ámbito de sus respectivas atribuciones, con motivo de infracciones a la Ley y a las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y en las Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía;
 
-VII. Coordinar la realización de auditorías, investigaciones o visitas de inspección e informar de sus resultados a la Junta de Gobierno, por conducto del Vicepresidente a que hace referencia el artículo 81 de la Ley;
+VIII. Resolver el recurso de revocación previsto en la Ley General de Responsabilidades Administrativas, que interpongan los servidores públicos sancionados del Instituto en contra de las resoluciones que emita la Autoridad Resolutora, en su caso, delegar dicha facultad en el servidor público que designe para el efecto;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+IX. Resolver los recursos de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y en las Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía, así como en contra de aquellas resoluciones emitidas por la Autoridad Resolutora que sancionen a licitantes, proveedores y contratistas;
 
-VIII. Coordinar la atención de quejas y denuncias; las investigaciones y procedimientos administrativos; la imposición de sanciones inherentes a las responsabilidades administrativas de los servidores públicos, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; la suspensión temporal del empleo, cargo o comisión del presunto responsable; las acciones y concertaciones con otras autoridades competentes, a fin de garantizar el cobro de las multas y sanciones económicas que imponga la Contraloría en el ámbito de sus respectivas atribuciones, con motivo de infracciones a la Ley; y resolver los recursos de revocación que interpongan los servidores públicos del Instituto en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+X. Realizar ante las diversas instancias jurisdiccionales, por sí o por conducto del servidor público del propio Órgano Interno de Control que determine, la defensa jurídica de las resoluciones que emita, así como, expedir copias certificadas de los documentos que obren en los archivos del Órgano Interno de Control del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+XI. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que el propio Titular del Órgano Interno de Control determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Coordinación General de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
 
-VIII BIS. Dictar las disposiciones administrativas necesarias para el adecuado cumplimiento de la Ley Federal Anticorrupción en las Contrataciones Públicas, e interpretar sus disposiciones para efectos administrativos;
+XII. Atender las normas y formatos para el seguimiento de la evolución patrimonial de los servidores públicos del Instituto, de conformidad con la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XIII. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la legislación vigente en materia de transparencia, acceso a la información pública y protección a datos personales;
 
-IX. Resolver los recursos de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y en las Normas en materia de obras públicas y servicios relacionados con las mismas del Instituto Nacional de Estadística y Geografía, así como en contra de aquellas resoluciones del Titular de Quejas y Responsabilidades que sancionen a licitantes, proveedores y contratistas;
+XIV. Asistir como invitado a las sesiones de la Junta de Gobierno, con voz y sin voto, cuando la Junta de Gobierno así lo determine;
 
-X. Realizar ante las diversas instancias jurisdiccionales, por sí o por conducto del servidor público de la propia Contraloría Interna que determine, la defensa jurídica de las resoluciones que emita, así como, expedir copias certificadas de los documentos que obren en los archivos de la Contraloría Interna del Instituto;
+XV. Coordinar, con la participación de la Dirección General de Administración, los trabajos a desarrollar por el auditor externo;
 
-XI. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que la propia Contraloría Interna determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Dirección General Adjunta de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
+XVI. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+XVII. Suscribir los documentos relativos al ejercicio de las facultades que le correspondan a la Unidad Administrativa a su cargo;
 
-XII. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que la propia Contraloría Interna determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Coordinación General de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
+XVIII. Guardar los principios de confidencialidad y reserva que la Ley establece respecto de los datos que los informantes del Sistema proporcionen para fines estadísticos al Instituto, así como, respecto de la información de carácter confidencial que provenga de registros administrativos de las Unidades del Estado;
 
-XIII. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XIX. Ejercer el presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de acuerdo a las disposiciones normativas aplicables;
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+XX. Suscribir los acuerdos, contratos o convenios, y sus modificaciones, que afecten el presupuesto de la Unidad Administrativa a su cargo y supervisar su cumplimiento, así como dictaminar sobre la terminación anticipada o rescisión de los mismos;
 
-XIV. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la legislación vigente en materia de transparencia, acceso a la información pública y protección a datos personales;
+XXI. Administrar los recursos humanos de su adscripción de acuerdo a la normatividad vigente;
 
-XV. Aportar elementos a la Junta de Gobierno para nombrar al Auditor Externo a que se refiere la fracción II del artículo 91 de la Ley;
+XXII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, así como el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
 
-XVI. Coordinar, con la participación de la Dirección General de Administración, los trabajos a desarrollar por el auditor externo, y
+XXIII. Coordinar la intervención en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, al separarse del cargo, en los términos de la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXIV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
 
-XVII. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia;
+XXV. Atender las solicitudes de las diferentes Unidades Administrativas del Instituto en los asuntos de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXVI. Proponer a la Junta de Gobierno los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
 
-XVIII. Suscribir los documentos relativos al ejercicio de las facultades que le correspondan a la Unidad Administrativa a su cargo, las que le hayan sido delegadas o le correspondan por suplencia;
+XXVII. Presentar a la Junta de Gobierno del Instituto los informes previo y anual de resultados de su gestión y comparecer ante ésta cuando la misma o el Presidente lo requiera del Instituto; así como rendir informe semestral y anual de actividades al Instituto, del cual marcará copia a la Cámara de Diputados;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXVIII. Presentar a la Junta de Gobierno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
 
-XIX. Guardar los principios de confidencialidad y reserva que la Ley establece respecto de los datos que los informantes del Sistema proporcionen para fines estadísticos al Instituto, así como, respecto de la información de carácter confidencial que provenga de registros administrativos de las Unidades del Estado
+XXIX. Las demás que le confiera la Ley, la Ley General de Responsabilidades Administrativas, el presente Reglamento y las demás disposiciones legales y administrativas aplicables en el marco del Sistema Nacional Anticorrupción.
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+Para el mejor desempeño de sus facultades, el Titular del Órgano Interno de Control se auxiliará del Coordinador de Denuncias y Responsabilidades, del Titular de Auditoría Interna, así como de las Autoridades Investigadora y la Substanciadora y Resolutora.
 
-XX. Ejercer el presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de acuerdo a las disposiciones normativas aplicables
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 48 Bis.
 
-XXI. Suscribir los acuerdos, contratos o convenios, y sus modificaciones, que afecten el presupuesto de la Unidad Administrativa a su cargo y supervisar su cumplimiento así como, dictaminar sobre la terminación anticipada o rescisión de los mismos.
+Son facultades del Coordinador de Denuncias y Responsabilidades, las siguientes:
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+I. Dar seguimiento a la atención de las consultas, sugerencias y denuncias relacionadas con el desempeño de los servidores públicos del Instituto, así como la substanciación y resolución de los procedimientos de imposición de sanciones administrativas a particulares y servidores públicos; de sanción a licitantes, proveedores o contratistas; de inconformidades, y de conciliaciones;
 
-XXII. Administrar los recursos humanos de su adscripción de acuerdo a la normatividad vigente
+II. Establecer y promover los medios para la orientación y recepción de denuncias y peticiones, a efecto de facilitar su presentación;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+III. Recibir y turnar a la Autoridad Investigadora las denuncias presentadas en contra de particulares y servidores públicos del Instituto y llevar su registro, así como de los procedimientos de imposición de sanciones administrativas a particulares y servidores públicos; de sanción a licitantes, proveedores o contratistas; de inconformidades, y de conciliaciones;
 
-XXIII. Las demás que le confiera la Ley, el presente Reglamento y las demás disposiciones legales y administrativas aplicables.
+IV. Dirigir y vigilar la atención de las solicitudes de información y datos personales requeridos al Órgano Interno de Control en materia de transparencia y acceso a la información pública;
 
-> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+V. Actualizar el Sistema de Denuncias Públicas de Faltas Administrativas y Hechos de Corrupción; el Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, y el Sistema nacional de servidores públicos y particulares sancionados de la Plataforma Digital Nacional;
 
-Para el mejor desempeño de sus facultades, el Contralor Interno se auxiliará de los Titulares de: Auditoría Interna y Quejas y Responsabilidades.
+VI. Instrumentar y operar el Registro de Licitantes, Proveedores y Contratistas Sancionados, que estará disponible en materia de transparencia y acceso a la información pública, así como, expedir constancias respectivas al referido registro;
+
+VII. Coordinar que en los procedimientos administrativos se cumplan las disposiciones establecidas en la Ley General de Responsabilidades Administrativas; Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía; Ley del Sistema Nacional de Información Estadística y Geográfica, y demás disposiciones legales, reglamentarias y administrativas aplicables, y
+
+VIII. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales o administrativas, dentro del ámbito de su competencia.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE CATORCE A TRECE FRACCIONES.</small>
 
@@ -3289,7 +3285,9 @@ Para el mejor desempeño de sus facultades, el Contralor Interno se auxiliará d
 
 El Titular de Auditoría Interna tendrá las siguientes facultades:
 
-I. Proponer al Contralor Interno, las auditorías y visitas de inspección que deban integrarse al Programa Anual de Trabajo, así como los recursos necesarios para tal efecto;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+
+I. Proponer al Titular del Órgano Interno de Control, las auditorías y visitas de inspección que deban integrarse al Programa Anual de Trabajo, así como los recursos necesarios para tal efecto;
 
 II. Ordenar la realización de auditorías y visitas de inspección a las Unidades Administrativas del Instituto y comisionar al personal que habrá de realizarlas, a efecto de:
 
@@ -3311,9 +3309,9 @@ VI. Coordinar la elaboración y entrega del Informe preliminar de auditoría a l
 
 VII. Verificar y promover que las Unidades Administrativas responsables en el Instituto, cumplan las recomendaciones a que hace referencia la fracción VI de este artículo, las de la Auditoría Superior de la Federación y las del Auditor Externo;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Integrar los expedientes de presuntas responsabilidades de los servidores públicos del Instituto, detectadas en las auditorías o visitas de inspección y remitirlos al Area de Quejas y Responsabilidades para los efectos de su competencia;
+VIII. Integrar los expedientes de presuntas responsabilidades de los servidores públicos del Instituto, detectadas en las auditorías o visitas de inspección y remitirlos a la Autoridad Investigadora para los efectos de su competencia;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3323,9 +3321,9 @@ IX. Emitir los dictámenes técnicos y contables que soliciten las autoridades c
 
 X. Supervisar los avances de las auditorías que practique el auditor externo, verificar su conclusión y la entrega de los informes respectivos;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-XI. Coordinar la participación del personal de la Contraloría Interna en los actos de entrega-recepción de los servidores públicos del Instituto, para verificar que se cumpla con los lineamientos aplicables;
+XI. Coordinar la participación del personal del Órgano Interno de Control en los actos de entrega-recepción de los servidores públicos del Instituto, para verificar que se cumpla con la normatividad aplicable;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3335,111 +3333,83 @@ XII. Llevar los registros de los asuntos de su competencia y expedir las copias 
 
 XIII. Verificar que los indicadores de desempeño y las metas de las Unidades Administrativas sean congruentes con el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; el Programa Nacional de Estadística y Geografía, y el Programa Anual de Trabajo del Instituto, sugiriendo, en su caso, las adecuaciones necesarias a dichos indicadores y metas;
 
-> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Asistir con la representación de la Contraloría en comités y subcomités institucionales, así como en los procesos de adquisición o arrendamiento de bienes y contratación de servicios, de obras públicas, baja y destino final de bienes, y finiquito de los contratos de servicios;
+XIV. Asistir con la representación del Órgano Interno de Control en comités y subcomités institucionales, así como en los procesos de adquisición o arrendamiento de bienes y contratación de servicios, de obras públicas, baja y destino final de bienes;
 
-> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+XV. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2017).
 
-XV. Apoyar al Contralor Interno en el proceso para elaborar la propuesta que se presente a la Junta de Gobierno, para que ésta nombre al auditor externo en los términos del artículo 91 de la Ley;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+XVI. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
 
-XVI. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia;
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTE A DIECIOCHO.</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTICULO 50.
 
-El Titular de Quejas y Responsabilidades tendrá las siguientes facultades:
+La Autoridad Investigadora tendrá las siguientes facultades:
 
-I. Establecer las políticas, bases y lineamientos para la recepción y atención de las consultas, sugerencias, quejas y denuncias relacionadas con el desempeño de los servidores públicos del Instituto;
+I. Practicar investigaciones sobre hechos irregulares, integrar los correspondientes expedientes conforme a la Ley General de Responsabilidades Administrativas e informar, en su caso, al denunciante, a los servidores públicos y particulares sujetos a investigación, el acuerdo de conclusión y archivo del expediente;
 
-II. Promover la instalación de módulos y buzones de orientación y recepción de quejas, denuncias y peticiones, a efecto de facilitar su presentación; y coordinar, diseñar e instrumentar los mecanismos de atención telefónica y otros medios electrónicos para su captación;
+II. Solicitar información y efectuar visitas de verificación a las áreas y Unidades Administrativas del Instituto, así como a los particulares sujetos a investigación por presuntas irregularidades o a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+III. Efectuar el seguimiento de la evolución patrimonial mediante una verificación aleatoria de las declaraciones patrimoniales de los servidores públicos del Instituto; realizar las investigaciones o solicitar las auditorías correspondientes; requerir al servidor público las aclaraciones pertinentes, y en caso de encontrar elementos que presuman la existencia de alguna irregularidad administrativa iniciar la investigación correspondiente y formular, en su caso, denuncia al Ministerio Público cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia lícita del incremento notoriamente desproporcionado de éste.
 
-III. Recibir las quejas y denuncias en contra de los servidores públicos del Instituto; practicar las investigaciones que se requieran para la integración de los expedientes relativos conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; dar seguimiento a los procedimientos disciplinarios instaurados, y en su caso, informar al denunciante;
+Expedir las certificaciones a que se refiere el artículo 30 de la Ley General de Responsabilidades Administrativas;
 
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+IV. Ordenar, de oficio o derivado de auditorías, la práctica de investigaciones respecto de la conducta de servidores públicos del Instituto o particulares, que pueda implicar inobservancia de las obligaciones previstas por la Ley General de Responsabilidades Administrativas;
 
-III BIS. Investigar la posible comisión de las infracciones a que se refiere el artículo 8 de la Ley Federal Anticorrupción en las Contrataciones Públicas, así como determinar las responsabilidades que deriven de las mismas y aplicar las sanciones correspondientes;
+V. Celebrar convenios de colaboración con las autoridades correspondientes, para solicitar información en materia fiscal, bursátil, fiduciario o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+VI. Solicitar a la Autoridad Substanciadora y Resolutora decrete las medidas cautelares a que hace referencia la Ley General de Responsabilidades Administrativas;
 
-IV. Establecer y administrar el padrón de los servidores públicos del Instituto obligados a presentar declaración de situación patrimonial; vigilar y supervisar su recepción, registro y resguardo e imponer las sanciones por incumplimiento;
+VII. Determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como falta administrativa y, en su caso, calificarla como grave o no grave.
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+Elaborar el informe de presunta responsabilidad administrativa en términos del artículo 194 de la Ley General de Responsabilidades Administrativas;
 
-V. Proponer al Contralor Interno el sistema y los procedimientos para captar la información de las declaraciones de situación patrimonial; ordenar el análisis de la evolución patrimonial y, en su caso, instruir las investigaciones correspondientes, citar personalmente al Servidor Público para que realice las aclaraciones pertinentes; recibir y resolver lo conducente en términos del artículo 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+VIII. Rendir informe justificado a la Sala Especializada en materia de Responsabilidades Administrativas que corresponda, respecto del recurso de inconformidad promovido por el Denunciante por la calificación de la gravedad en la conducta;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+IX. Impugnar la abstención de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público, por parte de la Autoridad Substanciadora y Resolutora;
 
-VI. Coordinar y supervisar la recepción, registro, seguimiento, control y destino de los obsequios, donativos o beneficios a que se refiere el artículo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como, levantar las actas que consignen las características de dichos bienes, cuando así resulte procedente en términos de las disposiciones aplicables;
+X. Expedir las copias certificadas de los documentos que obren en sus archivos;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XI. Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
 
-VII. Ordenar, de oficio o derivado de auditorías, la práctica de investigaciones respecto de la conducta de servidores públicos del Instituto, que pueda implicar inobservancia de las obligaciones previstas por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+XII. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Citar al presunto responsable a la audiencia a que hace referencia el artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+###### ARTICULO 50 Bis.
 
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+La Autoridad Substanciadora y Resolutora tendrá las siguientes facultades:
 
-VIII BIS. Citar al presunto responsable al procedimiento a que se refiere el Capítulo Cuarto e imponer las sanciones que correspondan conforme a los Capítulos Quinto y Sexto, todos de la Ley Federal Anticorrupción en las Contrataciones Públicas.
+I. Pronunciarse sobre la admisión del informe de presunta responsabilidad administrativa, o prevenir a la Autoridad Investigadora, para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+II. Decretar las medidas cautelares a que hace referencia la Ley General de Responsabilidades Administrativas;
 
-IX. Determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+III. Rendir informe justificado a la Sala Especializada en materia de Responsabilidades Administrativas que corresponda, respecto del recurso de inconformidad promovido por la Autoridad Investigadora o por el denunciante, por la abstención de iniciar un procedimiento de responsabilidad administrativa o imponer sanciones;
 
-(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
+Recibir el recurso de reclamación, correr traslado a las partes y dar cuenta a la Sala mencionada en el párrafo que antecede, para su resolución;
 
-X. Fincar las responsabilidades por infracciones imputables a los servidores públicos del Instituto e imponer las sanciones a que haya lugar, con fundamento en lo establecido por los artículos 104, 105, 108, 109, 110 y 112 de la Ley, conforme a las disposiciones administrativas aplicables.
+IV. Emplazar y citar al presunto responsable a la audiencia inicial a que hacen referencia los artículos 208 y 209 de la Ley General de Responsabilidades Administrativas e instaurar el procedimiento a que se refiere el Capítulo II, del Título Segundo, del Libro Segundo de ese Ordenamiento Legal;
 
-> <small>(F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+V. Fincar responsabilidades por infracciones imputables a los servidores públicos del Instituto e imponer las sanciones a que haya lugar, con fundamento en lo establecido por los artículos 104, 105, 108, 109, 110 y 112 de la Ley, conforme a las disposiciones administrativas aplicables; o en lo dispuesto en los artículos 75 y 76 de la Ley General de Responsabilidades Administrativas;
 
-Fincar las responsabilidades por infracciones imputables a los servidores públicos del Instituto e imponer las sanciones a que haya lugar, con fundamento en lo establecido por los artículos 8 y 13 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+VI. Tramitar y resolver, en los términos de las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía; y demás disposiciones legales, reglamentarias y administrativas aplicables, los procedimientos de conciliación y los de sanción a licitantes, proveedores o contratistas previstos en dichos ordenamientos legales;
 
-> <small>(F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+VII. Tramitar el recurso de revocación previsto en la Ley General de Responsabilidades Administrativas, que interpongan los servidores públicos sancionados del Instituto;
 
-Realizar las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas a que hace referencia esta fracción;
+VIII. Tramitar y resolver, en los términos de las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; de las Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía; y demás disposiciones legales, reglamentarias y administrativas aplicables, las inconformidades que formulen los particulares, así como, substanciar las intervenciones de oficio previstas en dichos ordenamientos legales;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+IX. Instruir los recursos de revisión que se interpongan en contra de las resoluciones que se emitan en las inconformidades y someter los proyectos de resolución a la consideración del Titular del Órgano Interno de Control;
 
-XI. Instruir y resolver el recurso de revocación previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, que interpongan en contra de sus resoluciones los servidores públicos del instituto;
+X. Realizar ante las diversas instancias jurisdiccionales la defensa jurídica de las resoluciones que emita la Autoridad Substanciadora y Resolutora; interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo; y representar legalmente al Órgano Interno de Control en los procedimientos administrativos y jurisdiccionales en que éste sea parte;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XI. Expedir las copias certificadas de los documentos que obren en sus archivos;
 
-XII. Instrumentar y operar el Registro de Servidores Públicos Sancionados y el de Licitantes, Proveedores y Contratistas Sancionados, que estarán disponibles en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como, expedir constancias respectivas al referido registro;
+XII. Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XIII. Recibir, tramitar y resolver, en los términos de las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; Normas en materia de obras públicas y servicios relacionados con las mismas del Instituto Nacional de Estadística y Geografía; y demás disposiciones legales, reglamentarias y administrativas aplicables, las inconformidades que formulen los particulares, así como, substanciar las intervenciones de oficio, los procedimientos de conciliación y los de sanción a licitantes, proveedores o contratistas previstos en dichos ordenamientos legales;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIV. Instruir los recursos de revisión que se interpongan en contra de las resoluciones a que se refiere la fracción anterior y someter los proyectos de resolución a la consideración del Contralor Interno;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XV. Realizar ante las diversas instancias jurisdiccionales la defensa jurídica de las resoluciones que emita; interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo; y representar legalmente al Contralor Interno en los procedimientos administrativos y jurisdiccionales en que éste sea parte;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVI. Programar, dirigir y vigilar la atención de las solicitudes de información y datos que le sean requeridos a la Contraloría Interna, de acuerdo con las políticas y normas establecidas por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y por los lineamientos institucionales;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVII. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos, y
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVIII. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
-
-(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
-
-XIX. Para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, el Titular de Quejas y Responsabilidades, se auxiliará del personal adscrito al área, para realizar las actividades de investigación, citación, celebración de audiencia de ley, admisión y desahogo de pruebas y demás diligencias pertinentes.
+XIII. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
 
 ###### ARTICULO 51.
 
@@ -3465,9 +3435,11 @@ Las ausencias de los Jefes de Departamento y Enlaces, serán suplidas por el ser
 
 ###### ARTICULO 54.
 
-Las ausencias del Contralor Interno, serán suplidas por los Titulares de: Quejas y Responsabilidades y Auditoría Interna, en ese orden.
+Las ausencias del Titular del Órgano Interno de Control, serán suplidas por el Coordinador de Denuncias y Responsabilidades y por el Titular de Auditoría Interna, en ese orden, o por los servidores públicos que designe.
 
-Las ausencias de los Titulares de: Quejas y Responsabilidades y Auditoría Interna, serán suplidas por los Directores de Quejas y Responsabilidades y de Auditoría Interna, respectivamente, o por los servidores públicos que designe el Contralor Interno.
+Las ausencias del Coordinador de Denuncias y Responsabilidades serán suplidas por las Autoridades Substanciadora y Resolutora y la Investigadora, y las del Titular de Auditoría Interna, por el Director de Auditoría Interna A y el Director de Auditoría Interna B, en ese orden; en ambos casos, por los servidores públicos que designe el Titular del Órgano Interno de Control.
+
+Las ausencias de las Autoridades Substanciadora y Resolutora e Investigadora serán suplidas por los servidores públicos que designe el Titular del Órgano Interno de Control.
 
 ## TRANSITORIOS.
 
@@ -3564,3 +3536,11 @@ CUARTO.- La Dirección General de Administración del Instituto realizará las a
 Las Direcciones de Administración continuarán dando atención y servicio a las Unidades Administrativas que fueron modificadas en los mismos términos en que lo venían haciendo, hasta en tanto la Dirección General de Administración determina los ajustes normativos u administrativos necesarios.
 
 QUINTO.- El personal adscrito a las Unidades Administrativas que tuvieron modificaciones en los términos del presente Acuerdo, no se verá afectado en sus derechos laborales. Así mismo, el personal sujeto al Estatuto del Servicio Profesional de Carrera, conservará la misma situación que actualmente tiene respecto a su nombramiento como servidoras o servidores públicos profesionales de carrera.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
+
+SEGUNDO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas, acuerdos u ordenamientos a la Contraloría Interna, se entenderán hechas al Órgano Interno de Control, así como a las áreas administrativas establecidas en el presente Acuerdo de conformidad con las competencias que a cada una corresponda.
