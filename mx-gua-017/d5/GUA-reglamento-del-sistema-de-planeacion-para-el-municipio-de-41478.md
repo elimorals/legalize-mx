@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-sistema-de-planeacion-para-el-municipio-de-41478
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-22"
-last_updated: "2009-10-23"
+last_updated: "2017-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DEL SISTEMA DE PLANEACION PARA EL MUNICIPIO DE IRAPUATO, GUANAJUATO
 
-REGLAMENTO DEL SISTEMA DE PLANEACION PARA EL MUNICIPIO DE IRAPUATO, GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE PLANEACIÓN PARA EL MUNICIPIO DE IRAPUATO, GTO., PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
+REGLAMENTO DEL SISTEMA DE PLANEACIÓN PARA EL MUNICIPIO DE IRAPUATO, GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de octubre de 2004.
 
@@ -940,3 +942,23 @@ EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL CUARTO DÍA SIGUIENTE AL DE SU PUBLICAC
 ###### ARTÍCULO SEGUNDO.
 
 POR ESTA ÚNICA OCASIÓN, LOS COORDINADORES, CONSEJEROS VOCALES DE CONTROL Y VIGILANCIA Y CONSEJEROS DE LA ZONA URBANA Y RURAL MIEMBROS DE LAS COMISIONES DE TRABAJO DEL COPLADEMI, SERÁN RATIFICADOS O RENOVADOS EN EL MES DIECIOCHO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL 2009-2012.
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SISTEMA DE PLANEACIÓN PARA EL MUNICIPIO DE IRAPUATO, GTO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Sistema de Planeación para el Municipio de Irapuato, Gto, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 170, Segunda Parte, de fecha 22 de Octubre del 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Por única vez el Comité Municipal deberá realizar la primera sesión en un plazo máximo de treinta días naturales posterior a la entrada en vigor del presente Reglamento.
