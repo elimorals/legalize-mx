@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-empleo-para-el-estado-de-baja-84270"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-23"
-last_updated: "2011-12-23"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL EMPLEO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 23 de diciembre de 2011.
 
@@ -87,7 +87,9 @@ I. Programar, dirigir y ejecutar el Seguro de Desempleo en el Estado;
 
 II. Promover la generación de nuevas fuentes de empleo y consolidar las existentes;
 
-III. Ejercer de manera conjunta y coordinada con la Secretaria de Desarrollo Económico del Estado, la implementación de estrategias y políticas públicas así como programas y actividades que faciliten la protección, consolidación, atracción y retención de empleos, así como la creación de nuevas oportunidades laborales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+
+III. Ejercer de manera conjunta y coordinada con la Secretaria de Desarrollo Económico y de Desarrollo Social del Estado, la implementación de estrategias y políticas públicas, así como programas y actividades que faciliten la protección, consolidación, atracción y retención de empleos, así como la creación de nuevas oportunidades laborales;
 
 IV. Promover, gestionar y en su caso realizar investigaciones que contribuyan a buscar alternativas para inhibir el desempleo y buscar fuentes alternas para financiar fondos para el seguro de desempleo;
 
@@ -111,9 +113,17 @@ XIII. Promover la inclusión a las actividades productivas formales a las person
 
 XIV. Instituir el servicio de orientación profesional y vocacional entre los trabajadores;
 
-XV. Promover y celebrar convenios de cooperación técnica y/o financiera con organismos gubernamentales, según sus competencias; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
 
-XVI. Las demás que le confiera la presente Ley así como el Reglamento.
+XV. Promover y celebrar convenios de cooperación técnica y/o financiera con organismos gubernamentales, según sus competencias;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2017)</small>
+
+XVI. En la implementación de las atribuciones y obligaciones del presente artículo, se deberá cumplir con el principio de igualdad entre mujeres y hombres; y
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2017]
+
+XVII. Las demás que le confiera la presente Ley, así como el Reglamento.
 
 ### CAPÍTULO III. SEGURO DE DESEMPLEO
 
@@ -302,3 +312,11 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 115 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN AL EMPLEO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
