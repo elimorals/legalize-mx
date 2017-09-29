@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-y-erradicacion-de-la-violencia-63497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2017-09-13"
+last_updated: "2017-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de septiembre de 2008.
 
@@ -83,7 +83,7 @@ VIII. Promover programas permanentes de sensibilización y capacitación de los 
 
 La aplicación de esta ley corresponde:
 
-l. Al Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México;
+I. Al Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
 II. A las dependencias de Gobierno, en el ámbito de sus respectivas competencias;
 
@@ -111,7 +111,7 @@ Las autoridades del Estado de México están obligadas a impulsar, promover, ges
 
 Para los efectos de esta Ley se entiende por:
 
-l. Tipos de Violencia:
+I. Tipos de Violencia:
 
 a. Violencia Familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual, dentro o fuera del domicilio familiar, ejercida por personas que tengan o hayan tenido relación de parentesco, por consanguinidad hasta el cuarto grado ascendente y colateral, por afinidad, por adopción, o por relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho con la víctima.
 
@@ -155,7 +155,7 @@ XI. Tratamiento: Al procedimiento integral proporcionado por instituciones públ
 
 Se consideran sujetos de esta ley, en calidad de Generador o Receptor de Violencia, según sea el caso:
 
-l. Los miembros integrantes del Grupo Familiar;
+I. Los miembros integrantes del Grupo Familiar;
 
 II. La persona con la que tiene o tuvo relación de concubinato, de pareja unida fuera de matrimonio o de noviazgo;
 
@@ -179,7 +179,7 @@ El Consejo es un órgano técnico de coordinación interinstitucional de consult
 
 El Consejo se integra por:
 
-l. Un Presidente, que será el titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
+I. Un Presidente, que será el titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
 II. Un Secretario Técnico, que será designado por el Presidente del Consejo;
 
@@ -221,7 +221,7 @@ A invitación del Consejo, podrán asistir a las reuniones del mismo, con voz pe
 
 El Consejo tendrá las siguientes funciones y atribuciones:
 
-l. Aprobar el Programa Anual;
+I. Aprobar el Programa Anual;
 
 II. Promover la coordinación, colaboración e información entre las instituciones que lo Integran, así como conformar grupos de trabajo especializados sobre los temas que se consideren necesarios para el cumplimiento de los objetivos del Consejo.
 
@@ -273,7 +273,7 @@ El Consejo se reunirá de manera ordinaria una vez al mes y con carácter extrao
 
 El Presidente tendrá las siguientes atribuciones:
 
-l. Representar al Consejo ante las dependencias, entidades, centros, Instituciones y cualquier otra autoridad, organización o agrupación docente de investigación o asistencia que se relacione con el objeto de la Ley;
+I. Representar al Consejo ante las dependencias, entidades, centros, Instituciones y cualquier otra autoridad, organización o agrupación docente de investigación o asistencia que se relacione con el objeto de la Ley;
 
 II. Vigilar con apoyo del Secretario Técnico el cumplimiento de los acuerdos;
 
@@ -289,7 +289,7 @@ VI. Las demás que le señalen ésta u otras leyes, su reglamento o las que le e
 
 La Secretaría Técnica tendrá las siguientes atribuciones:
 
-l. Emitir los citatorios para la celebración de las sesiones del Consejo, convocado legalmente por el Presidente;
+I. Emitir los citatorios para la celebración de las sesiones del Consejo, convocado legalmente por el Presidente;
 
 II. Levantar las actas de las sesiones del Consejo;
 
@@ -345,7 +345,7 @@ Los centros de Prevención, Atención y Tratamiento de la Violencia Familiar, pr
 
 Los centros de Prevención, Atención y Tratamiento realizarán, entre otras, las siguientes acciones:
 
-l. Acciones Urgentes de Protección: Para garantizar la integridad física y psicológica del sujeto involucrado en el evento de violencia, de inmediato se procederá a solicitar las medidas de protección que se juzguen convenientes ante las autoridades Judiciales, sustanciando el procedimiento de acuerdo a los ordenamientos legales correspondientes, a efecto de que en las resoluciones que se dicten en materia de Violencia Familiar y delitos derivados de hechos de Violencia Familiar, decreten la rehabilitación y/o reeducación del agresor o del procesado, mediante los modelos de atención que para tal efecto se establezcan;
+I. Acciones Urgentes de Protección: Para garantizar la integridad física y psicológica del sujeto involucrado en el evento de violencia, de inmediato se procederá a solicitar las medidas de protección que se juzguen convenientes ante las autoridades Judiciales, sustanciando el procedimiento de acuerdo a los ordenamientos legales correspondientes, a efecto de que en las resoluciones que se dicten en materia de Violencia Familiar y delitos derivados de hechos de Violencia Familiar, decreten la rehabilitación y/o reeducación del agresor o del procesado, mediante los modelos de atención que para tal efecto se establezcan;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -359,7 +359,7 @@ III. Reeducación: Mediante esta acción se reforzarán los valores que como per
 
 Para desarrollar la cultura de la no violencia se realizarán acciones y campañas temporales y permanentes tendientes a:
 
-l. Procurar la paz y armonía de las personas en su desarrollo integral;
+I. Procurar la paz y armonía de las personas en su desarrollo integral;
 
 II. Reconocer y respetar el pleno ejercicio de los derechos humanos;
 
@@ -379,7 +379,7 @@ Su ejecución se ajustará a la disponibilidad presupuestal, así; como a las di
 
 El Programa Anual deberá contener, al menos, los siguientes aspectos:
 
-l. Diagnóstico de la violencia en el Estado;
+I. Diagnóstico de la violencia en el Estado;
 
 II. Objetivos y metas;
 
@@ -401,7 +401,7 @@ La ejecución del Programa Anual quedará a cargo de las dependencias y entidade
 
 El Ejecutivo del Estado deberá promover programas educativos que contengan:
 
-l. La información en el respeto de los derechos y garantías fundamentales;
+I. La información en el respeto de los derechos y garantías fundamentales;
 
 II. La igualdad de derechos entre hombres y mujeres;
 
@@ -455,7 +455,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 18 DE MARZO DE 2011.
 
@@ -561,13 +561,19 @@ Los derechos laborales de los trabajadores que presten sus servicios en el Insti
 
 Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
 
+> <small>(F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
+
 NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
 
-Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+> <small>(F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
+
+DÉCIMO. Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+> <small>(F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
 
 Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
 
-DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+DÉCIMO PRIMERO. La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
 
 Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
 
