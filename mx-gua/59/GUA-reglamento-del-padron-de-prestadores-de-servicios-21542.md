@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-padron-de-prestadores-de-servicios-21542"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-01"
-last_updated: "2001-06-01"
+last_updated: "2017-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DEL PADRON DE PRESTADORES DE SERVICIOS AMBIENTALES EN MATERIA DE AUDITORIA AMBIENTAL
 
-REGLAMENTO DEL PADRON DE PRESTADORES DE SERVICIOS AMBIENTALES EN MATERIA DE AUDITORIA AMBIENTAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍA AMBIENTAL, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL PADRÓN DE PRESTADORES DE SERVICIOS AMBIENTALES EN MATERIA DE AUDITORÍA AMBIENTAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 1 de junio de 2001.
 
@@ -143,7 +145,7 @@ VI.- LLEVAR A CABO LA ENTREGA RECEPCIÓN, RINDIENDO UN INFORME DE ACTIVIDADES, A
 
 VII.- ENVIAR LA CONVOCATORIA Y EL ORDEN DEL DÍA A LOS INTEGRANTES DEL COMITÉ PARA SU CONOCIMIENTO; Y
 
-VIII.-· LAS DEMÁS QUE LE ASIGNEN LOS INTEGRANTES DEL COMITÉ.
+VIII.- LAS DEMÁS QUE LE ASIGNEN LOS INTEGRANTES DEL COMITÉ.
 
 ###### ARTÍCULO 10.
 
@@ -360,3 +362,37 @@ JUAN MANUEL OLIVA RAMIREZ.
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 GUILLERMO ROMERO PACHECO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍA AMBIENTAL”.]
+
+Vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente al de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de reglamento
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 9, por el cual se expidió el Reglamento del Padrón de Prestadores de Servicios Ambientales en Materia de Auditoría Ambiental, publicado en el periódico Oficial del Gobierno del Estado de Guanajuato en el número 44, Segunda Parte de fecha l de junio del 2001.
+
+Convocatoria para el Padrón
+
+Artículo Tercero. Por el inicio de vigencia del presente Reglamento, la Procuraduría dentro de los sesenta días hábiles siguientes a la publicación del presente Reglamento, emitirá la convocatoria para la Inscripción en el Padrón de Prestadores de Servicios Ambientales en Materia de Auditoría Ambiental.
+
+Prórroga para la prestación de Servicios en Materia Ambiental
+
+Artículo Cuarto. Los Prestadores de Servicios Ambientales que cuenten con Registro de conformidad con los reglamentos y lineamientos expedidos antes de la entrada en vigor del presente Reglamento, podrán seguir prestando sus servicios hasta en tanto se emita el padrón de conformidad a lo establecido en el presente reglamento.
+
+Constitución del Comité
+
+Artículo Quinto. La Procuraduría dentro de los sesenta días hábiles siguientes a la publicación del presente Reglamento, constituirá el Comité Técnico Calificador.
+
+Expedición de Estatutos Internos
+
+Artículo Sexto. El Comité Técnico Calificador, aprobarán (sic) y propondrán (sic) al Titular del Ejecutivo su Estatuto Interno en un plazo no mayor a quince días contados a partir de su constitución, para su expedición y publicación en el Periódico Oficial del Gobierno del Estado.
+
+Emisión de Lineamientos
+
+Artículo Séptimo. La Procuraduría dentro de los sesenta días hábiles siguientes a la publicación del presente Reglamento emitirá los lineamientos que establezcan los mecanismos y procedimientos para la evaluación y aprobación de auditores ambientales, así como los criterios de evaluación y aprobación para los aspirantes a incorporarse en el Padrón.
