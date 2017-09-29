@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-privada-del-estado-de-mexico-76534"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2017-09-13"
+last_updated: "2017-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,167 +21,207 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA
 
-LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
+Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 4 de noviembre de 2013.
 
-Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
+El Ciudadano LIC. MARIO LÓPEZ VALDEZ, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
-ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Sexagésima Legislatura, ha tenido a bien expedir el siguiente,
 
-DECRETO NÚMERO 150
+DECRETO NÚMERO: 956
 
-LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
+###### ARTÍCULO ÚNICO.
 
-DECRETA:
+Se expide la Ley de Protección a los Animales para el Estado de Sinaloa, en los términos siguientes:
 
-LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MEXICO
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de observancia General en el Estado de México y tiene por objeto regular la prestación de los Servicios de Seguridad Privada que se prestan en esta Entidad Federativa, consistente en la autorización, requisitos, modalidades, registro, obligaciones y restricciones, capacitación, visitas de verificación, medidas tendientes a garantizar la correcta prestación de los servicios y sanciones aplicables, así como los medios de impugnación de éstas, respecto de los servicios de seguridad privada.
+La presente Ley es de orden público, interés social y observancia general y tiene por objeto la protección de los animales, mediante los siguientes fines:
 
-###### Artículo 2.
+I. Proteger su vida, integridad y desarrollo;
 
-Son sujetos de esta Ley las personas físicas o jurídico colectivas que presten los servicios de seguridad privada.
+II. Favorecer el respeto y buen trato;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+III. Erradicar y sancionar los actos de crueldad;
 
-###### Artículo 3.
+IV. Promover una cultura de protección;
 
-Los actos y procedimientos que se dicten o ejecuten por la Secretaría en la aplicación de esta Ley, así como en los procesos de la misma, se emitirán, tramitarán y resolverán conforme a las disposiciones de esta Ley, de otras disposiciones legales y administrativas aplicables a la materia y del Código de Procedimientos Administrativos del Estado de México.
+V. Establecer las bases de coordinación entre los diferentes ordenes de gobierno para la aplicación de esta Ley, y
 
-###### Artículo 4.
+VI. Fomentar la participación de los sectores privado y social en la consecución de los objetivos de esta Ley.
 
-Para los efectos de esta Ley se entenderá por:
+###### ARTÍCULO 2.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Son objeto de tutela de esta Ley los animales que no constituyan plaga, que se encuentren de forma permanente o transitoria dentro del territorio del Estado, en los cuales se incluyen los siguientes:
 
-I. Autorización. La autorización otorgada por la Secretaría a una persona física o jurídica colectiva para prestar el servicio de seguridad privada en el Estado de México;
+I. Domésticos;
 
-II. Centro.- El Centro de Control de Confianza del Estado de México;
+II. Abandonados;
 
-II. Bis. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+III. Ferales;
 
-III. Comité.- El Comité de Supervisión y Verificación de Empresas de Seguridad Privada;
+IV. Deportivos;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+V. Adiestrados;
 
-IV. Elementos.- El personal operativo del Prestador del Servicio, incluyendo en esta categoría a los escoltas, custodios, guardias y vigilantes;
+VI. Guía;
 
-V. (DEROGADA, G.G. 14 DE DICIEMBRE DE 2016)
+VII. Para espectáculos;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+VIII. Para exhibición;
 
-VI. Instituto.- El Instituto Mexiquense de Seguridad y Justicia.
+IX. Para monta, carga y tiro;
 
-VII. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
+X. Para abasto;
 
-VIII. Ley.- La presente Ley;
+XI. Para medicina tradicional;
 
-IX. Modalidad.- La actividad o actividades vinculadas con la prestación del servicio de seguridad privada;
+XII. Para utilización de investigación científica;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XIII. De seguridad y guarda, y
 
-X. Prestador del Servicio.- La persona física o jurídica colectiva autorizada por la Secretaría para prestar el servicio de seguridad privada en el Estado de México;
+XIV. Acuarios y delfinarios.
 
-> <small>(ADICIONADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 3.
 
-X Bis. Prestatario.- La persona física o jurídica colectiva que contrata y recibe los servicios de seguridad privada;
+Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+I. Albergue: Lugares de refugio, asilo o instalaciones de alojamiento temporal o definitivo de animales;
 
-XI. Revalidación.- El acto administrativo por el que la autoridad ratifica la validez de la autorización;
+II. Alojamiento temporal: Lugares de mantenimiento provisional;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+III. Animal (es): Ser orgánico no humano, vivo, sensible que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie domestica o silvestre;
 
-XII. Secretaría.- Secretaría de Seguridad;
+IV. Animal abandonado: Aquellos animales que queden sin el cuidado y protección de sus propietarios o poseedores dentro de los bienes del dominio privado o vía pública;
 
-XIII. Servicio de Seguridad Privada.- El servicio que prestan los particulares para brindar protección, que tiene como fin, salvaguardar la integridad física de las personas y de sus bienes, de acuerdo a las modalidades previstas en esta Ley; y
+V. Animal deportivo: Los animales utilizados en la práctica de algún deporte;
 
-XIV. Solicitante.- Persona física o jurídica colectiva que inicie el trámite de autorización o revalidación para la prestación del servicio de seguridad privada en el Estado de México.
+VI. Animal doméstico: Los animales que dependan de un ser humano para subsistir y habiten con éste de forma regular;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+VII. Animal de exhibición: Todos aquellos que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas y espacios similares de propiedad pública o privada;
 
-###### Artículo 5.
+VIII. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establece en el hábitat natural de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
-Corresponde a la Secretaría:
+IX. Animal guía: Los animales que son utilizados o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
 
-I. Autorizar la prestación del servicio de seguridad privada en el Estado de México y en su caso revalidar, revocar o modificar la autorización otorgada para dicho efecto;
+X. Animal silvestre: Especies no domésticas sujetas a procesos evolutivos y que se desarrollan en su hábitat o poblaciones e individuos de éstas que se encuentran bajo el control del ser humano;
 
-II. Establecer, operar y controlar el Registro Estatal de Empresas de Seguridad Privada, en el que se inscribirán los datos de sus elementos y del equipo con que cuenten, así como los relativos a la asignación de armas a los elementos para la prestación del servicio;
+XI. Animal en cautiverio: Todas aquellas especies, ya sean domésticas o silvestres confinadas en un espacio delimitado;
 
-III. Verificar que los Prestadores del Servicio cumplan con las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables, así como realizar las acciones tendientes a mantener y adecuar la correcta prestación del servicio de seguridad privada;
+XII. Animal en espectáculos: Los animales y especies en cautiverio que son utilizados en un espectáculo público o privado bajo el adiestramiento del ser humano;
 
-IV. Comprobar que los elementos estén debidamente capacitados;
+XIII. Animal de tiro y de carga: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
 
-V. Expedir a los elementos la constancia de acreditación de los cursos de capacitación y adiestramiento;
+XIV. Animal para abasto: Animales cuyo destino final es el sacrificio para el consumo de su carne o derivados;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+XV. Animal para la investigación científica: Animal que es utilizado por instituciones científicas y de enseñanza superior para la generación de nuevos conocimientos;
 
-VI. Expedir, a costa del Prestador del Servicio, la cédula de identificación de los elementos, la cual será de uso obligatorio;
+XVI. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección a los animales;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+XVII. Aves de presa: Aves carnívoras con alas, picos y garras adaptadas para cazar y que se adiestran para fines lícitos;
 
-VII. Substanciar los procedimientos y aplicar las sanciones que correspondan al Prestador del Servicio irregular, así como autorizado por la violación a las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables;
+XVIII. Bienestar animal: Respuesta fisiológica y de comportamiento adecuada de los animales para enfrentar o sobrellevar el entorno;
 
-VIII. Atender las quejas y denunciar los hechos que pudieran constituir algún delito del que se tuviera conocimiento con motivo del ejercicio de las atribuciones que le confiere esta Ley;
+XIX. Campañas: Acción pública realizada de manera periódica por la autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+XX. Cautiverio: El alojamiento temporal o permanente de fauna en áreas o instalaciones distintas a su entorno natural, que no implique maltrato al mismo;
 
-IX. Realizar, previa solicitud y pago de los derechos correspondientes, las consultas de antecedentes policiales en el Registro Estatal del Personal de Seguridad Pública, respecto de los elementos con que cuenta el Prestador de Servicio;
+XXI. Centros de Salud y Bienestar Animal: Los centros públicos destinados para el cuidado y atención veterinaria; pudiendo ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requiera, centros antirrábicos y demás que realicen acciones análogas;
 
-X. Celebrar convenios o acuerdos con las autoridades competentes de la Federación, Estados, Distrito Federal y Municipios, con el objeto de establecer lineamientos, acuerdos y mecanismos relacionados con los servicios de seguridad privada; considerando incluso el intercambio de información sobre el funcionamiento de las empresas autorizadas e irregulares que se encuentren instaladas y operando en su territorio;
+XXII. Condiciones adecuadas: Las condiciones de trato digno y respetuoso, así como las referencias que al respecto determinan las Normas Oficiales Mexicanas;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+XXIII. Crueldad: El acto de brutalidad, sádico o zoofóbico contra cualquier animal;
 
-XI. Sancionar al Prestador del Servicio y Prestatario, cuando funcionen sin autorización y a los elementos, cuando dejen de cumplir con los requisitos y obligaciones establecidos en esta ley o en las demás disposiciones aplicables;
+XXIV. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la habitual;
 
-XII. Concertar con el prestador y prestatarios de servicios, instituciones educativas, asociaciones de empresarios y/o demás instancias relacionadas directa o indirectamente con la prestación del servicio de seguridad privada, la celebración de reuniones periódicas, con el propósito de coordinar sus esfuerzos en la materia, analizar e intercambiar opiniones en relación con las acciones y programas relativos, así como evaluar y dar seguimiento a las mismas, los tiempos y formas se establecerán en el Reglamento de esta Ley; y
+XXV. Fauna nociva: Animales o plagas que por su naturaleza o número pongan en riesgo la salud o la seguridad pública;
 
-XIII. Las demás atribuciones que le confieren esta Ley y otros ordenamientos jurídicos aplicables.
+XXVI. Fauna silvestre: Las especies animales que nacen, viven y mueren fuera de control del ser humano y cuya regulación está establecida en la Ley General de Vida Silvestre;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XXVII. Hábitat: Espacio del medio ambiente físico, en el que se desarrollan organismos, especies, población o comunidades de animales, en un determinado tiempo;
 
-###### Artículo 6.
+XXVIII. Insensibilización: Acción con la que se induce rápidamente al animal a un estado en el que no siente dolor;
 
-Se requiere autorización de la Secretaría para prestar el servicio de seguridad privada en el Estado. El Prestador del Servicio que haya obtenido autorización federal para ofrecer sus servicios, en donde se incluya al Estado de México, deberá tramitar previamente a su operación en esta Entidad su autorización, cumpliendo los requisitos y disposiciones de esta Ley, de otras leyes y reglamentos aplicables.
+XXIX. Ley: Ley de Protección a los Animales para el Estado de Sinaloa;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XXX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor o tormento que ponga en peligro la vida del animal o que afecten gravemente su salud, así como la sobre explotación de su trabajo;
+
+XXXI. Mascotas: Animales domésticos y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
+
+XXXII. Permiso: Anuencia otorgada para la realización de espectáculos, exhibiciones, exposiciones o cualquier otra actividad análoga;
+
+XXXIII. Plaga: Población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales o el ser humano;
+
+XXXIV. Prevención: Conjunto de acciones y medidas programáticas, con el propósito de evitar la transmisión de enfermedades propias de las especies a los seres humanos o a los animales, procurando permanentemente la conservación del equilibrio ecológico;
+
+XXXV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario, atendiendo a las Normas Oficiales Mexicanas;
+
+XXXVI. Secretaría: Secretaría de Salud del Estado de Sinaloa;
+
+XXXVII. Sufrimiento: La carencia de bienestar animal causada por diversos motivos que pone en riesgo la salud, integridad o vida del animal;
+
+XXXVIII. Trato humanitario: Las medidas para evitar dolor innecesario o angustia a los animales durante su crianza, traslado, exhibición, comercialización, adiestramiento, cuarentena y sacrificio;
+
+XXXIX. Vivisección: Abrir vivo a un animal para fines educativos o científicos, y
+
+XL. Zoonosis: La transmisión de enfermedades de los animales a los seres humanos.
+
+###### ARTÍCULO 4.
+
+Las autoridades estatales y municipales, deberán dar aviso a las autoridades federales competentes, cuando tengan conocimiento del cautiverio de algún animal silvestre, cuya posesión pudiere contravenir leyes federales de la materia.
+
+###### ARTÍCULO 5.
+
+En todo lo no previsto en esta Ley y en los casos en que así proceda, serán aplicables supletoriamente las disposiciones legales federales, estatales y Normas Oficiales Mexicanas de la materia.
+
+###### ARTÍCULO 6.
+
+Son autoridades competentes para aplicar la presente Ley:
+
+I. El Ejecutivo del Estado;
+
+II. Los Ayuntamientos, y
+
+III. Las Entidades de la Administración Pública Paraestatal o Paramunicipal que tengan relación con la materia.
 
 ###### Artículo 6 Bis.
 
 Los prestadores de servicios de seguridad privada que cuenten con autorización vigente expedida por Entidad Federativa distinta al Estado de México, que pretendan ingresar a la Entidad deberán dar aviso previo a su visita, por escrito a la Secretaría, con cinco días de anticipación al día en que pretendan ingresar, declarando el nombre del personal, armas y la descripción del vehículo indicando el número de placas de circulación, marca, año y tipo.
 
-###### Artículo 7.
+###### ARTÍCULO 7.
 
-Las modalidades en que se podrá autorizar la prestación de los servicios de seguridad privada, en el Estado de México son:
+Corresponde al Titular del Poder Ejecutivo en el marco de su competencia, el ejercicio de las facultades siguientes:
 
-I. SEGURIDAD PRIVADA A PERSONAS. Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
+I. Formular y conducir la política estatal sobre conservación y aprovechamiento de la fauna silvestre, en relación con la política nacional de la materia;
 
-II. SEGURIDAD PRIVADA EN LOS BIENES. Se refiere al cuidado y protección de bienes muebles e inmuebles;
+II. Expedir los Reglamentos y demás disposiciones necesarias para el cumplimiento de esta Ley;
 
-III. SEGURIDAD PRIVADA EN EL TRASLADO DE BIENES O VALORES. Consiste en la prestación de servicios de custodia, vigilancia, cuidado y protección de bienes muebles o valores, incluyendo su traslado;
+III. Celebrar convenios de coordinación con las autoridades federales o municipales; así como, con las organizaciones civiles legalmente establecidas, y
 
-IV. SEGURIDAD DE LA INFORMACION. Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad, de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia;
+IV. Propiciar las condiciones adecuadas para el desarrollo de programas de educación, difusión y campañas en la materia objeto de la presente Ley.
 
-V. SISTEMAS DE PREVENCION Y RESPONSABILIDADES. Se refieren a la prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas; y
+###### ARTÍCULO 8.
 
-VI. ACTIVIDAD VINCULADA CON SERVICIOS DE SEGURIDAD PRIVADA. Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados.
+Corresponde a la Secretaría de Desarrollo Social y Humano, en coordinación con la Secretaría, el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+I. Promover en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado;
 
-###### Artículo 8.
+II. Propiciar la participación de los sectores privado y social en la difusión y fomento de una cultura de respeto y trato digno hacia los animales en el Estado de Sinaloa;
 
-El Prestador del Servicio se califica como auxiliar a la función de seguridad pública y las personas que los realicen como coadyuvantes de las autoridades e instituciones públicas del Estado de México, en situaciones de urgencia, desastre o cuando así lo solicite la autoridad estatal o municipal, en los términos establecidos en la autorización respectiva.
+III. Impulsar la elaboración e instrumentación de programas de educación en materia de protección y trato digno a los animales, en coordinación con las autoridades educativas y de salud, y en su caso con la participación de las asociaciones y organizaciones no gubernamentales legalmente constituidas, cuyo objeto tenga relación con los preceptos de la presente Ley;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+IV. Fomentar la creación de sociedades, asociaciones o grupos de protección de animales, y
+
+V. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 8 Bis.
 
@@ -189,951 +229,465 @@ Los prestatarios de servicios de seguridad privada se abstendrán de contratar l
 
 La Secretaría contará con un portal informativo donde se podrá consultar el listado actualizado de los prestadores del servicio que cuenten con la autorización respectiva vigente; de acuerdo con las normas jurídicas establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
-### CAPITULO II. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN DE LAS AUTORIDADES
 
-DE LA AUTORIZACIÓN Y REVALIDACIÓN
+###### ARTÍCULO 9.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Corresponde a la Secretaría, el ejercicio de las siguientes atribuciones:
 
-###### Artículo 9.
+I. Vigilar que el manejo de animales se realice en condiciones que no afecten a la salud de las personas, tomando las medidas que señala la legislación aplicable;
 
-La autorización o revalidación que la Secretaría otorgue al Prestador del Servicio, quedará sujeta a las obligaciones establecidas en la presente Ley, así como al cumplimiento de otras disposiciones legales y administrativas aplicables.
+II. Expedir la licencia sanitaria a los establecimientos donde se realice la cría, atención veterinaria, venta y adiestramiento de animales, o a cualquier otro donde se utilicen o aprovechen animales para cualquier fin lícito;
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+III. Crear y administrar el Padrón Estatal de Mascotas;
 
-Previamente, el Prestador del Servicio solicitante deberá cubrir el pago de los derechos respectivos que determine el Código Financiero del Estado de México.
+IV. Establecer campañas de vacunación antirrábicas, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, sin perjuicio de la competencia que corresponda a autoridades de orden federal o municipal en términos de la normatividad aplicable;
 
-###### Artículo 10.
+V. La inspección sanitaria en los establecimientos de venta y adiestramiento de mascotas;
 
-La autorización o revalidación de la misma, que se otorgue será personal, inalienable, intransferible e inembargable y contendrá las modalidades que se autorizan y condiciones a que se sujeta la prestación del servicio, la vigencia será de dos años y podrá ser revalidada por el mismo tiempo.
+VI. Celebrar convenios de coordinación con las autoridades federales y municipales para la observancia y en su caso aplicación de las leyes y Normas Oficiales Mexicanas relacionadas con la materia de la presente Ley, y
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+VII. Las demás que esta Ley y demás ordenamientos jurídicos aplicables le confieran.
 
-###### Artículo 11.
+###### ARTÍCULO 10.
 
-La revalidación podrá negarse cuando existan quejas o deficiencias en la prestación del servicio, presentadas por los usuarios y que sean previamente comprobadas por la Secretaría o por el incumplimiento a las obligaciones y restricciones previstas en esta Ley o en la autorización respectiva, o que durante el año de autorización no haya realizado la prestación del servicio.
+Corresponde a los Ayuntamientos, el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+I. Formular y conducir la política municipal sobre conservación y aprovechamiento de la fauna silvestre, en relación con la política nacional de la materia;
 
-###### Artículo 12.
+II. Expedir los reglamentos y circulares administrativas necesarias para el cumplimiento de esta Ley;
 
-La Secretaría, mandará publicar en el Periódico Oficial "Gaceta del Gobierno", así como en su portal informativo, la autorización o revalidación correspondiente, misma que contendrá las condiciones a las que se debe sujetar el Prestador del Servicio.
+III. Celebrar convenios con los otros órdenes de gobierno, así como con los sectores social y privado para el desarrollo de las acciones previstas en la Ley;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+IV. Controlar y atender los problemas asociados con animales que signifiquen peligro o daño para la salud, bienestar o bienes de las personas;
 
-###### Artículo 13.
+V. Suscribir convenios de colaboración con las organizaciones ciudadanas dedicadas a la protección a los animales con objeto de coadyuvar con el cumplimiento de la Ley;
 
-El Prestador del Servicio que haya obtenido la autorización o revalidación y pretenda ampliar o modificar las modalidades para el que fue autorizado el servicio, deberá presentar ante la Secretaría solicitud por escrito para que, dentro de los veinte días hábiles siguientes, se acuerde lo procedente. En caso de alguna prevención, el Prestador del Servicio tendrá veinte días hábiles para subsanarla, plazo que correrá desde el día hábil siguiente en que surta efectos la notificación, de no hacerlo el trámite se desechará
+VI. Intervenir en los casos de crueldad o maltrato en contra de animales, aplicando las medidas de seguridad y/o sanciones que correspondan;
 
-###### Artículo 14.
+VII. Aplicar la normatividad que regula el transporte, sacrificio de animales y demás que tengan relación con el objeto de esta Ley;
 
-La solicitud de autorización, revalidación o modificación, deberá presentarse acompañada del comprobante de pago que por concepto del estudio y trámite de la misma se encuentre previsto en el Código Financiero del Estado de México y Municipios, en caso contrario, se tendrá por no presentada.
+VIII. Crear, de acuerdo a su posibilidad presupuestal, albergues, reservorios o centros de custodia, para especies silvestres y exóticas de la fauna estatal, a fin de que se canalice a éstos a los animales abandonados, perdidos, sin dueño, lastimados, enfermos, feroces o peligrosos, en los términos de la presente Ley;
 
-###### Artículo 15.
+IX. Inspeccionar los establecimientos mercantiles que exploten giros relacionados con el uso, transporte, adiestramiento, venta o aprovechamiento de animales;
 
-Transcurrida la vigencia de la autorización o su revalidación, el interesado deberá abstenerse de prestar el servicio de seguridad privada, hasta en tanto sea expedido un nuevo acto administrativo que lo autorice para tal efecto.
+X. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto, y
 
-###### Artículo 16.
+XI. Las demás que por disposición legal le correspondan.
 
-La autorización o revalidación, podrá revocarse en cualquier tiempo por motivo de interés público o por sanción aplicada por incumplimiento de las disposiciones contenidas en la presente Ley.
+###### ARTÍCULO 11.
 
-### CAPITULO III. DE LA AUTORIZACION
+La Secretaría y los Ayuntamientos, en sus respectivos ámbitos de competencia, promoverán entre la sociedad una cultura de respeto y protección a los animales, a través de programas y campañas de difusión con base en las disposiciones establecidas en la presente Ley, pudiendo contar con el apoyo de los sectores social y privado.
 
-###### Artículo 17.
+###### ARTÍCULO 12.
 
-La autorización para la prestación de servicios de seguridad privada, dentro del territorio del Estado se otorgara, cuando no se ponga en riesgo el interés público y se cumplan los requisitos de la presente Ley, su reglamento y demás disposiciones legales aplicables.
+Será responsabilidad de las autoridades aludidas en el artículo que antecede, promover que las instituciones educativas, así como las asociaciones no gubernamentales, fundaciones y asociaciones protectoras de animales legalmente constituidas implementen el desarrollo de programas de formación en la cultura de protección a los animales.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 13.
 
-###### Artículo 18.
+Las autoridades competentes, promoverán y participarán en la capacitación y actualización del personal a su cargo, responsable en el manejo de animales, así como de quienes participan en actividades de verificación y vigilancia, a través de cursos, talleres, reuniones y demás proyectos y acciones que contribuyan al objeto de este ordenamiento.
 
-Para prestar servicios de seguridad privada en el Estado de México, se requiere autorización previa de la Secretaría, para lo cual el Prestador del Servicio deberá ser persona física de nacionalidad mexicana o jurídica colectiva, constituida conforme con las leyes del país y cumplir con los requisitos establecidos en esta Ley.
+###### ARTÍCULO 14.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+Toda persona que sea propietaria, posea o esté encargada de un animal, tendrá las obligaciones siguientes:
 
-###### Artículo 19.
+I. Proveerles comida y agua en la cantidad suficiente según su especie, raza y hábitos, debiendo ser la necesaria para satisfacer las necesidades instintivas, metabólicas y fisiológicas de su cuerpo;
 
-El Prestador del Servicio deberá cumplir con los siguientes requisitos conforme a la modalidad que realice, así como los que establezca el Reglamento de la presente Ley:
+II. Facilitar un espacio adecuado en dimensiones para su alojamiento o resguardo de acuerdo a la especie, raza y tamaño, que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que le pudiese ocasionar daño o sufrimiento;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2010)</small>
+III. Proporcionar un área de esparcimiento adecuada en dimensiones, de acuerdo al tamaño, especie y raza, que le permita tener movimiento libre para ejercitar adecuadamente todas las partes de su cuerpo, en todas direcciones de acuerdo a su instinto y a su hábitat, en donde no se ponga en riesgo la integridad física y se altere su desarrollo natural;
 
-I. Ser persona física de nacionalidad mexicana o jurídica colectiva constituida conforme a las leyes del país;
+IV. Suministrar los tratamientos veterinarios necesarios para que desarrolle una condición saludable y no represente un reservorio de parásitos que contamine otros animales o que cause una zoonosis; la tenencia de cualquier animal obliga a la inmunización correspondiente contra toda enfermedad transmisible, y debe avisarse de forma inmediata la existencia de alguna enfermedad o comportamiento anormal del animal, al veterinario o autoridades sanitarias más cercanas;
 
-II. Exhibir original del comprobante de pago de derechos por el estudio y trámite de la solicitud de autorización; y
+V. Procurar la higiene necesaria en cuerpo y área de estancia, debiendo recoger las descargas de excremento, pelo o plumas y depositarlos en los recipientes de basura del servicio de recolección; las aguas residuales que se generen en el área de estancia deberán de conducirse a la red de drenaje sanitario; se prohíbe arrojar las descargas y las aguas residuales de limpieza a la vía pública o lotes baldíos, y
 
-III. Presentar copia certificada de los siguientes documentos:
+VI. Proporcionar la compañía y el paseo necesario para ejercitarse, según su especie o raza, así como tomar las medidas de seguridad necesarias para no poner en riesgo a las personas.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 15.
 
-Persona física:
+Para los efectos de la presente Ley, serán consideradas como infracciones las acciones siguientes:
 
-a) Acta de nacimiento, credencial para votar vigente y cartilla del servicio militar liberada, en caso de varones, tratándose de personas físicas.
+I. Todo hecho, acto u omisión que pueda ocasionar dolor, sufrimiento o que ponga en peligro la vida o afecte el bienestar del animal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+II. Causarle la muerte innecesaria, utilizando cualquier medio que prolongue la agonía o le provoque cualquier sufrimiento;
 
-Persona jurídica colectiva:
+III. Practicarles mutilaciones que no sean las motivadas por exigencias funcionales, de salud, estética o para mantener las características propias de la raza, las que deberán realizarse por un especialista o persona debidamente autorizada y que cuente con conocimientos en la materia;
 
-a) Acta constitutiva, de sus estatutos y de las reformas a éstos, para el caso de personas jurídicas colectivas; y
+IV. Azuzar a los animales para que se ataquen entre ellos o a las personas;
 
-b) En su caso, poder notarial en el que se acredite la personalidad del solicitante.
+V. Adiestrar a los animales con prácticas que puedan poner en peligro a las personas que vivan en su entorno;
 
-IV. Señalar el domicilio de la matriz y en su caso de las sucursales en el Estado de México, precisando el nombre y puesto del encargado en cada una de ellas, así como domicilio en el Estado de México, para recibir notificaciones relacionadas con todos los actos de la autorización, anexando los comprobantes domiciliarios respectivos de cada una de ellas;
+VI. Abandonar a los animales en la vía pública o comprometer su bienestar al desatenderlos por periodos prolongados;
 
-V. Acreditar que cuenta con los medios humanos, de formación, técnicos, financieros y materiales que les permitan llevar a cabo la prestación del servicio de seguridad privada en forma adecuada, en las modalidades solicitadas. Estos medios se especificaran en el Reglamento de la presente Ley;
+VII. Utilizar animales en protestas, marchas, plantones o en cualquier otro acto análogo, salvo que se trate de los utilizados por los cuerpos de Seguridad Pública;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+VIII. Usar animales vivos como blanco de ataque en el entrenamiento de animales adiestrados para espectáculos, deportes de seguridad, protección o guardia, o como medio para verificar su agresividad; salvo en el caso de aquellas especies que formen parte de la dieta de las especies de fauna silvestre, incluyendo aquellas manejadas con fines de rehabilitación para su integración a su hábitat, así como las aves de presa, siempre y cuando medie autoridad competente o profesionales en la materia;
 
-VI. Presentar un ejemplar del Reglamento Interior de Trabajo, y manual o instructivo operativo, aplicable a cada una de las modalidades del servicio a desarrollar, así como la constancia que acredite su registro ante la Secretaría del Trabajo y Prevención Social, que contenga la estructura jerárquica del Prestador del Servicio y el nombre del responsable operativo; los lineamientos y requisitos mínimos con los que deberán de contar dichos instrumentos se establecerán en el Reglamento de la presente Ley;
+IX. La venta y explotación de animales en la vía pública o en vehículos;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+X. Vender animales en establecimientos que no cuenten con licencia específica para la explotación del giro comercial;
 
-VIl. Constancia expedida por institución competente o capacitadores internos o externos del Prestador del Servicio con reconocimiento oficial, que acredite que cuenta con los conocimientos profesionales y técnicos para otorgar la capacitación de los elementos;
+XI. Vender o adiestrar animales en áreas comunes o en áreas en las que se atente contra la integridad física de las personas;
 
-VIII. Relación del personal directivo y administrativo, conteniendo currículum vitae, certificado de antecedentes no penales expedida por institución oficial del Estado de México y constancia domiciliaria;
+XII. Hacer ingerir al animal bebidas alcohólicas o suministrar drogas sin fines terapéuticos o de investigación científica;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+XIII. Ofrecer cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte, y
 
-IX. Relación de quienes se integrarán como personal directivo, administrativo y de elementos, en caso de contar éstos últimos, para la consulta de antecedentes policiales en el Registro Estatal de Empresas, Prestadores del Servicio, Personal y Equipo de Seguridad Privada, debiendo acompañar certificado de no antecedentes penales del Estado de México y con relación a los elementos el comprobante de pago de derechos correspondiente, además de señalar el nombre, Registro Federal de Contribuyente y, en su caso, Clave Única de Registro de Población de cada uno de ellos;
+XIV. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
 
-X. Fotografías del uniforme a utilizar, en las que se aprecien sus cuatro vistas, conteniendo colores, logotipos, insignias o emblemas, las cuales no deberán ser metálicas, mismos que no podrán ser iguales o similares a los utilizados por las corporaciones policiales o por las fuerzas armadas ni metálicas. Las fotografías serán a color y con dimensiones que sean legibles;
+Los espectáculos de tauromaquia, charrería y peleas de gallos, no se considerarán como infracciones para la presente Ley, siempre y cuando se realicen conforme a los reglamentos y autorizaciones que al efecto emitan las autoridades correspondientes.
 
-Xl. Relación de bienes muebles e inmuebles que se utilicen para el servicio, incluido equipo de radiocomunicación, armamento, vehículos, equipo y aditamentos en general;
+La práctica de actividades deportivas, como la caza y pesca en el Estado se realizarán de acuerdo a la Ley General de Vida Silvestre y la Ley General de Pesca.
 
-XII. Relación, en su caso, de perros, adjuntando copia certificada de los documentos que acrediten que el instructor se encuentra capacitado para desempeñar ese trabajo; asimismo se anexará listado que contenga los datos de identificación de cada animal, como son: raza, edad, color, peso, tamaño, nombre y documentos que acrediten el adiestramiento y su estado de salud, expedido por la autoridad competente;
+###### ARTÍCULO 16.
 
-XIII. Copias certificadas del permiso para operar frecuencia de radiocomunicación o contrato celebrado con concesionaria autorizada;
+En caso de venta de cualquier mascota, ésta deberá estar desparasitada y se expedirá un certificado veterinario de salud haciendo constar que se encuentra libre de enfermedad aparente, incluyendo calendarios de desparasitación y vacunaciones correspondientes.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+### CAPÍTULO III. DE LA CULTURA PARA LA PROTECCIÓN A LOS ANIMALES
 
-XIV. Fotografías a colores de los costados, frente, parte posterior y toldo del tipo de vehículos que se utilicen en la prestación de los servicios, las cuales deberán mostrar claramente los colores, logotipos, insignias o emblemas o algún elemento de iluminación, que no podrán ser iguales o similares a los oficiales utilizados por las corporaciones policiales o por las Fuerzas Armadas, además deberán presentar rotulada la denominación o razón social del prestador del servicio y la leyenda "Seguridad Privada". En caso de contar con logotipo, éste deberá ir impreso en el cofre de cada uno de los vehículos debiendo tener una dimensión de sesenta centímetros de alto por sesenta centímetros de ancho. En ambos costados, la leyenda Seguridad Privada, con letras legibles, debiendo medir cada letra veinte centímetros de alto por ocho centímetros de ancho y el número de autorización para llevar a cabo la función de seguridad privada. Cuando por las dimensiones y características de los vehículos no sea posible observar lo antes señalado, tanto los logotipos como las letras serán de acuerdo a las dimensiones del mismo, previa autorización de la Secretaría;
+###### ARTÍCULO 17.
 
-XV. Tratándose de prestadores de servicios que operen en la modalidad de traslado de bienes o valores, para el caso de la primer modalidad contar con vehículos para su traslado y específicamente para el traslado de valores, será indispensable contar con vehículos blindados y exhibir constancia expedida por el proveedor del servicio de blindaje autorizado por institución oficial competente, con la que se acredite el nivel del mismo, así como armamento necesario para el servicio en las dos modalidades; y
+Los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas están obligados a otorgar al comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las sanciones a las que podrían estar sujetos por el incumplimiento de las disposiciones de la presente Ley.
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+El manual deberá estar certificado por Médico Veterinario Zootecnista.
 
-XVI. Presentar acuse de la solicitud para el trámite del Programa Estatal de Protección Civil de la Entidad, ante la Coordinación General de Protección Civil de la Secretaría General de Gobierno;
+###### ARTÍCULO 18.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública.
 
-XVII. Tratándose de prestadores de servicios que operen en la modalidad de seguridad privada a personas, que cuenten con vehículos para escoltarlas, ya sean propiedad del prestador o prestatario, deberá registrarlo y presentar fotografías del vehículo, cuando deje de surtir efectos la autorización o revalidación, o el prestatario termine por cualquier situación la contratación del servicio, inmediatamente se dará aviso a la Secretaría, en un término no mayor a tres días hábiles posteriores a que se presenten estos supuestos.
+###### ARTÍCULO 19.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Está prohibido transitar en lugares públicos con mascotas de temperamento agresivo que no estén controladas por un collar y correa u otros medios que garanticen la seguridad de los transeúntes y sus bienes.
 
-###### Artículo 20.
+Los propietarios serán responsables de recoger las heces ocasionadas por su mascota cuando transite con ella en la vía pública y depositarlas en los recipientes de basura o contenedores respectivos; lo mismo aplicará en el caso de que el propietario deje en libertad a su mascota en la vía pública.
 
-El Prestador del Servicio que para el desempeño de sus actividades requiera la utilización de apoyo canino o cualquier otro tipo de animal que cumpla con tales objetivos, deberá acreditar, en los términos que establezca la Secretaría en el Reglamento de la presente Ley, el cumplimiento de la norma oficial y sujetarse a los siguientes lineamientos:
+Los Ayuntamientos en el ámbito de su competencia, deberán vigilar que se dé cumplimiento a lo establecido en este artículo.
 
-a) Incluirá como parte del inventario a los animales para apoyo del servicio, informando a la oficina encargada del Registro Estatal de Personal, Armamento y Equipo de Empresas de Seguridad Privada, dentro de los cinco días posteriores, respecto a modificaciones que se generen, indicando raza, sexo, edad, color, nombre, tipo de adiestramiento y características distintivas de dichos animales;
+###### ARTÍCULO 20.
 
-b) Informará a la oficina mencionada en el inciso anterior, en forma semestral, el estado físico de los animales inventariados; dicho informe deberá estar avalado por el Médico Veterinario Zootecnista con cédula profesional y con la especialidad relacionada con el animal de que se trate;
+El dueño del animal tiene la responsabilidad de pagar los daños que éste ocasione a terceros.
 
-c) Aplicará los manuales para el adiestramiento del animal;
+Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las Leyes aplicables.
 
-d) Vigilará que los elementos que tenga a su cargo un animal, esté capacitado en el manejo básico de ejemplares, en guardia, protección y primeros auxilios;
+###### ARTÍCULO 21.
 
-e) Prevendrá que estén vigentes las pólizas de seguro para pago de daños que pudieran ocasionarse a terceros por la utilización de animales;
+Las instalaciones para animales utilizados en actividades deportivas y pensiones para mascotas, deberán ser adecuadas conforme a las características propias de cada especie.
 
-f) Cuidará que los animales deban descansar al menos un día a la semana y no podrán ser prestados ni alquilados ese día para ejecutar otras labores; y
+###### ARTÍCULO 22.
 
-g) Los demás que determinen las disposiciones legales aplicables.
+Las instalaciones de las asociaciones protectoras de animales, Centros de Salud y Bienestar Animal, escuelas de adiestramiento creadas para alojar temporal o permanentemente a los animales deben contar con veterinario responsable y demás personal capacitado.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 23.
 
-La Secretaría se apoyará en un médico veterinario zootecnista, así como del personal técnico y científico, con reconocimiento oficial, que se requiera para validar y analizar los expedientes y vacunas de cada animal; asimismo cuidará de su salud y verificará que los datos que proporcione el Prestador del Servicio sean correctos.
+La movilización o traslado de animales se deberá realizar en condiciones de seguridad y cuidado, observando en todo momento lo dispuesto por las Normas Oficiales Mexicanas aplicables y demás disposiciones jurídicas de la materia.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 24.
 
-El prestador del servicio tendrá responsabilidad civil con motivo de las lesiones o daños que causen los animales a terceros, en la prestación del servicio, conforme a lo determinado por las normas legales aplicables.
+Cuando por cualquier motivo los animales queden bajo la responsabilidad de autoridades estatales o municipales, se procurará proporcionarles alojamiento amplio y ventilado, bebederos, alimentos hasta que sean entregados.
 
-###### Artículo 21.
+De ser procedente la devolución del animal al que se acredite como su propietario, éste será responsable del pago de los gastos que se hubieren generado por la atención proporcionada.
 
-La presentación de la solicitud, así como de la documentación antes señalada no autorizará en ninguna forma a prestar servicios de seguridad privada ni hacer publicidad sobre los posibles servicios.
+###### ARTÍCULO 25.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Las prácticas de vivisección y de experimentación en animales con fines científicos o didácticos sólo podrán realizarse en las escuelas de educación superior e instituciones científicas y de investigación, conforme a las Normas Oficiales Mexicanas.
 
-###### Artículo 22.
+### CAPÍTULO IV. DEL TRATO DIGNO Y RESPETUOSO DE LOS ANIMALES
 
-Si la solicitud presentada no cumple con los requisitos establecidos en esta Ley, la Secretaría dentro de los veinte días hábiles a la presentación de la misma, prevendrá al solicitante para que, en un plazo improrrogable de veinte días hábiles siguientes en que surta efectos su notificación, subsane las omisiones o deficiencias, en caso de no hacerlo en el plazo señalado, la solicitud se desechará.
+###### ARTÍCULO 26.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+El sacrificio humanitario de animales domésticos sólo podrá realizarse cuando represente una amenaza de salud pública específicamente de la enfermedad de la rabia, previamente diagnosticada por médico certificado.
 
-###### Artículo 23.
+###### ARTÍCULO 27.
 
-Una vez que la Secretaría reciba la solicitud de autorización debidamente requisitada, ordenará la práctica de una visita de verificación de la legalidad y autenticidad de requisitos, que se practicará dentro de los quince días hábiles siguientes, dicha visita se realizará por conducto del Comité de Verificación y Supervisión a Empresas de Seguridad Privada, cuya integración y funcionamiento se establecerá en el Reglamento de la presente Ley, de encontrarse cumplidos los requisitos se resolverá la procedencia de la solicitud y se expedirá la autorización correspondiente, en caso contrario la solicitud será desechada.
+Se prohíbe utilizar animales vivos en prácticas y competencias de tiro al blanco.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 28.
 
-###### Artículo 24.
+El Padrón Estatal de Mascotas es un instrumento de información y control en materia de fauna doméstica.
 
-Otorgada la autorización al prestador de servicios, la Secretaría en cualquier momento durante el año de vigencia de la misma, podrá solicitar que acredite que cuenta con los medios humanos, de formación, técnicos, financieros y materiales que le permitan llevar a cabo la prestación de servicios de seguridad privada en forma adecuada, en las modalidades solicitadas, en caso contrario, la Secretaría procederá a la revocación de la autorización.
+La inscripción de las mascotas al Padrón es voluntaria por parte de los particulares y los propietarios o poseedores de animales domésticos.
 
-###### Artículo 25.
+Será obligatorio por parte de las Clínicas Veterinarias y Tiendas de Mascotas, inscribir a los animales adquiridos en las mismas, con los datos de los nuevos propietarios.
 
-De ser procedente la autorización, el solicitante deberá presentar dentro de los diez días hábiles posteriores a la notificación, los siguiente (sic) requisitos:
+Las asociaciones protectoras de animales que realicen la donación de alguna mascota deberán realizar la respectiva inscripción.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Para todos los efectos legales, el Padrón a que se refiere este artículo incluye a las especies domésticas o de compañía, en los términos del presente ordenamiento, y a las silvestres y aves de presa a que se refiere el artículo 10 fracción IX de la Ley General de Vida Silvestre.
 
-I. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Secretaría haya efectuado la consulta previa de antecedentes policiales;
+### CAPÍTULO V. DE LOS ANIMALES DOMÉSTICOS
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 29.
 
-II. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Secretaría haya efectuado la consulta previa de antecedentes policiales;
+Es obligación de los propietarios o poseedores de animales cumplir con lo que establece el artículo 14 de esta Ley; queda a criterio de los dueños, que los mismos cuenten con una placa de identidad que deberá establecer el nombre y domicilio de su dueño.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 30.
 
-III. Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas, por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, que deberá contener la siguiente leyenda:
+A los animales domésticos, cuya naturaleza o comportamiento constituya un peligro para la seguridad o salud de las personas, les serán aplicadas las medidas de prevención que establezca la autoridad competente, previa audiencia del propietario de los mismos.
 
-"Para garantizar por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada en el territorio del Estado otorgada por la Secretaría con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Finanzas".
+###### ARTÍCULO 31.
 
-### CAPITULO IV. REVALIDACION
+Esta Ley considera animales de trabajo, todos aquellos cuadrúpedos que auxilien o compartan actividades con el hombre.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 32.
 
-###### Artículo 26.
+Los animales de trabajo, deberán contar con una limitación razonable del tiempo e intensidad del trabajo, asimismo, se les deberá proporcionar espacios adecuados para su alojamiento, una alimentación reparadora y el reposo necesario para su sano desarrollo.
 
-Para la revalidación de la autorización será necesario que el Prestador del Servicio, por lo menos con treinta días hábiles previos a la extinción de la vigencia de la autorización, la solicite y manifieste bajo protesta de decir verdad, no haber variado las condiciones en las que se le otorgó o, en su caso, actualice aquellas documentales que así lo ameriten, tales como inventarios, movimientos de elementos, pago de derechos, póliza de fianza, modificaciones a la constitución del Prestador del Servicio y representación del mismo y demás requisitos que se establezcan en el Reglamento, se llevará a cabo una visita de verificación por parte del Comité de Verificación y Supervisión a Empresas de Seguridad Privada, para corroborar que el Prestador del Servicio se mantiene en las mismas condiciones de su autorización.
+###### ARTÍCULO 33.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+El trato de animales de tiro y de carga, además de cumplir con lo establecido el (sic) artículo 14 de esta Ley, se sujetará a lo siguiente:
 
-###### Artículo 27.
+I. La carga para animales, sea humana o de cosas, bajo ninguna circunstancia podrá ser mayor a la tercera parte de lo que pese el animal, y deberá distribuirse proporcionalmente en su lomo;
 
-En caso de no exhibir los protestos o actualizaciones a que se refiere el artículo anterior, la Secretaría prevendrá al interesado para que en un plazo improrrogable de diez días hábiles siguientes en que surta efectos la notificación, subsane tales omisiones. Transcurrido dicho plazo sin que el interesado haya subsanado las omisiones, la solicitud será desechada.
+II. Estar provistos de los arneses adecuados para la actividad que vayan a desarrollar;
 
-###### Artículo 28.
+III. Evitar que el espoleado y fustigamiento, les cause daño;
 
-De ser procedente la revalidación, el solicitante deberá presentar dentro de los diez días hábiles siguientes al en que surta efectos la notificación, los requisitos que señale el artículo 25 de la presente Ley.
+IV. El arreo de animales deberá hacerse, evitando la utilización de medios de crueldad, y
 
-> <small>(REFORMADO SU DENOMINACIÓN, G.G. 14 DE DICIEMBRE DE 2016)</small>
+V. Los vehículos de tracción animal, no deberán ser cargados con un peso desproporcionado a las condiciones físicas de los animales que se utilicen.
 
-### CAPITULO V. REGISTRO ESTATAL DE EMPRESAS, PRESTADORES DEL SERVICIO, PERSONAL Y EQUIPO DE SEGURIDAD PRIVADA
+###### ARTÍCULO 34.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+Los propietarios o poseedores de animales silvestres en cautiverio, deberán proporcionarles alimento y agua en cantidad y calidades adecuadas de acuerdo a su especie y etapa productiva.
 
-###### Artículo 29.
+###### ARTÍCULO 35.
 
-El Registro Estatal de Empresas de Seguridad Privada constituye un sistema de consulta y acopio de información, que se integrará con bancos de datos del Prestador del Servicio; de su personal directivo, técnico, administrativo y elementos; del equipo y, en su caso, los datos de la asignación del armamento utilizado, así como los servicios y la cobertura de los mismos.
+El cautiverio deberá ser en áreas adecuadas en donde vivan cómodamente en un ambiente con temperaturas parecidas al hábitat natural de cada especie y de estar en zoológicos deberán los responsables solicitar autorización y cumplir los lineamientos establecidos en la Ley Federal de Sanidad Animal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 36.
 
-###### Artículo 30.
+A los animales enfermos o lesionados, se les deberá proporcionar atención inmediata por médico veterinario.
 
-La Secretaría mantendrá actualizado este Registro, para lo cual el Prestador del Servicio está obligado a informar dentro de los primeros cinco días hábiles de cada mes sobre las altas y bajas de su personal directivo, administrativo y elementos, indicando las causas de las bajas y, en su caso, la existencia de procesos jurisdiccionales que afecten su situación laboral, así como las demás modificaciones o adiciones que sufran en sus bienes, servicios, equipo o cualquier otra que impacte en la prestación del servicio.
+De presentar alguna enfermedad o conducta anormal los propietarios o poseedores, deberán dar aviso a las autoridades correspondientes en materia de sanidad, a efecto de prevenir una epizootia o enzootia.
 
-Dicha información incluye lo siguiente:
+###### ARTÍCULO 37.
 
-I. Denominación o nombre del Prestador del Servicio;
+Las autoridades estatales y municipales darán aviso a las instancias federales competentes cuando la tenencia de alguna especie de fauna silvestre en cautiverio, no cuente con el registro y la autorización necesaria de acuerdo a la legislación aplicable en la materia.
 
-II. Autorización, revalidación o modificación de ambas o del acto administrativo equivalente que se haya expedido, que esté en trámite y los que se hayan negado, suspendido o cancelado;
+### CAPÍTULO VI. DE LOS ANIMALES DE TRABAJO
 
-III. En su caso, la referencia del trámite desechado, negado, revocado, suspendido o cancelado por las autoridades competentes de la federación o de otras entidades federativas;
+###### ARTÍCULO 38.
 
-IV. Los datos generales del prestador de servicio;
+Los propietarios o encargados de los circos deberán contar con los permisos de las autoridades competentes para establecer su espectáculo; el otorgamiento de estos permisos estará supeditado a la presentación de un programa de bienestar animal de conformidad con la legislación de la materia.
 
-V. La ubicación de su oficina matriz y sucursales, tanto en el Estado de México como en la República Mexicana;
+###### ARTÍCULO 39.
 
-VI. Las modalidades del servicio y ámbito territorial;
+En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo en el que participen animales vivos debe garantizarse su trato digno y respetuoso durante el tiempo en que dure su utilización, así como en su traslado y en los tiempos de espera, permitiendo la presencia de las autoridades competentes y de un representante de alguna asociación protectora de animales legalmente constituida previa solicitud y autorización, como observadores de las actividades que se realicen, así como la presencia del personal capacitado para su cuidado y atención.
 
-VII. Representantes legales, en su caso;
+###### ARTÍCULO 40.
 
-VIII. Las modificaciones de las actas constitutivas o cambios de representante legal;
+Las autoridades previstas en el artículo 6 de esta Ley vigilarán que los circos que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos, y durante su traslado no sean inmovilizados en una posición que les ocasione lesiones o sufrimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+Además vigilarán que los animales tengan condiciones adecuadas de higiene y medidas de seguridad tanto para la protección de ellos como del público espectador.
 
-IX. Personal directivo, administrativo y elementos con que se cuenta para la prestación de los servicios de seguridad privada, el que para su plena identificación y localización deberá incluir los siguientes datos:
+###### ARTÍCULO 41.
 
-a) Nombre;
+Los animales que por su gran tamaño, no sea factible que se encuentren confinados en jaulas, lo estarán en espacios protegidos por cercas o en su defecto, sujetos con cadena, procurando que el tamaño de ésta sea proporcional a la complexión del animal a efecto de evitarle algún daño o lesión.
 
-b) Sexo;
+### CAPÍTULO VII. DE LOS ANIMALES SILVESTRES EN CAUTIVERIO
 
-c) Lugar y fecha de nacimiento;
+###### ARTÍCULO 42.
 
-d) Domicilio;
+Deberá informarse al público que asiste a los zoológicos y circos, que no está permitido dar alimentos a los animales.
 
-e) Nacionalidad;
+###### ARTÍCULO 43.
 
-f) En caso de mexicanos por naturalización, asentar los datos de la carta de naturalización respectiva expedida por la autoridad competente;
+Si un animal por negligencia o culpa de su poseedor, deambula sin control en la vía pública, la autoridad tomará las medidas pertinentes para proteger la salud y bienes de las personas, y sancionará al responsable en los términos de esta Ley y demás disposiciones jurídicas aplicables.
 
-g) Huellas dactilares;
+###### ARTÍCULO 44.
 
-h) Fotografía tamaño infantil;
+Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales.
 
-i) Escolaridad;
+###### ARTÍCULO 45.
 
-j) Antecedentes laborables, incluida su trayectoria en servicios de seguridad pública y privada;
+El dueño podrá reclamar a su mascota que haya sido remitida a cualquier centro de salud y bienestar animal dentro de los cinco días hábiles siguientes a su ingreso, debiendo comprobar su propiedad o posesión por cualquier medio.
 
-k) Altas, bajas, cambios de adscripción, de actividad o rango, incluidas las razones que los motivaron;
+En todo caso, la entrega del animal se hará contra el pago de los gastos que se hubieren generado.
 
-l) Estímulos y otros reconocimientos otorgados;
+### CAPÍTULO VIII. DE LOS ANIMALES EN ESPECTÁCULO
 
-m) Sanciones administrativas aplicadas; y
+###### ARTÍCULO 46.
 
-n) Cualquier procedimiento judicial en su contra, en trámite o concluido.
+En caso de que no sea reclamado el animal a tiempo, las autoridades podrán entregarlos en adopción a asociaciones protectoras de animales que se comprometan a su cuidado y protección.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 47.
 
-Para la debida integración del Registro, la Secretaría informará al Prestador del Servicio por escrito, con cinco días hábiles de antelación, la fecha y hora hábil para que presente al personal directivo, administrativo y elementos en las instalaciones de ésta para efectos de su filiación, toma de huellas dactilares y fotografías, estableciéndose en el Reglamento de la presente Ley la forma y los requisitos para su filiación;
+Los Ayuntamientos procurarán el establecimiento de Centros de Salud y Bienestar Animal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+Dichos Centros podrán gestionar patrocinios de las casas comerciales o industriales que tengan relación con la comercialización o producción de bienes y servicios para el cuidado y atención de los animales.
 
-X. La descripción de cada unidad de equipo y del armamento asignado a los elementos, al amparo de una licencia particular colectiva de portación de armas de fuego en la prestación de los servicios de seguridad privada, con que cuenta el Prestador del Servicio, conforme a la clasificación siguiente:
+###### ARTÍCULO 48.
 
-1.- Por cada perro utilizado en el servicio.
+Los Centros de Salud y Bienestar Animal, tendrán los siguientes objetivos:
 
-2.- Por cada arma de fuego asignada a los elementos al amparo de la licencia correspondiente.
+I. Dar a los animales un trato digno y respetuoso, observando siempre la normatividad en el procedimiento y especialmente en la acción de sacrificio, en los casos previstos en el artículo 26, a fin de evitar en todo momento el maltrato o sufrimiento innecesario;
 
-Esta descripción, además de cumplir con las disposiciones en otras leyes, deberá de registrar el armamento y municiones que les hayan sido autorizadas, aportando la autorización debidamente certificada ante la Secretaría de la Defensa Nacional o ante Notario, así como el número de registro, marca, modelo, calibre, matrícula y demás elementos de identificación del armamento autorizado.
+II. Funcionar como estancias de animales domésticos abandonados;
 
-3.- Por cada uniforme, conformado por:
+III. Coadyuvar con la Secretaría en la realización de campañas de vacunación antirrábica;
 
-a) Gorra o casco de protección;
+IV. Desarrollar programas de esterilización;
 
-b) Pantalón;
+V. Proporcionar atención veterinaria a bajo costo;
 
-c) Camisa, camisola y corbata;
+VI. Coadyuvar con la Secretaría en la entrega de placas de identificación de vacunación antirrábica;
 
-d) Chamarra o Saco;
+VII. Dar cursos de capacitación sobre crianza de animales, especialmente a niños y adolescentes;
 
-e) Chaleco antibalas; y
+VIII. Expedir certificados de salud animal;
 
-f) Otros aditamentos.
+IX. Contar con instalaciones para el servicio de sacrificio e incineración de cadáveres de animales, y
 
-4.- Por cada vehículo, de las características siguientes:
+X. Las demás que sean afines a los objetivos de esta Ley.
 
-a) Vehículo automotor con blindaje;
+###### ARTÍCULO 49.
 
-b) Vehículo automotor sin blindaje;
+Los Centros de Salud y Bienestar Animal estarán bajo la dirección de un veterinario con título legalmente registrado y con experiencia acreditada en el manejo de animales en cautiverio.
 
-c) Bicicleta, motocicleta, trimoto o cuatrimoto; y
+### CAPÍTULO IX. DE LOS ANIMALES CALLEJEROS O ABANDONADOS
 
-d) Otros vehículos utilizados para el servicio.
+###### ARTÍCULO 50.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la participación corresponsable de la sociedad en la formulación, aplicación y seguimiento de las políticas de protección y cuidado de los animales, estimulando la creación de fundaciones, asociaciones protectoras, organizaciones sociales, instituciones académicas y de investigación, que coadyuven en el cumplimiento del objeto del presente ordenamiento.
 
-La descripción de los vehículos deberá tomar en cuenta la marca del vehículo, modelo, tipo, número de serie, número de motor y matrícula o placas de circulación y demás elementos de identificación del Prestador del Servicio al que pertenece. Los vehículos del Prestador del Servicio y del Prestatario no podrán usar torretas, sirenas, "tumba burros" o defensas diferentes a las diseñadas por el fabricante, vidrios obscuros o polarizados, inclusive colores destinados a unidades de corporaciones de seguridad pública. Las unidades deberán utilizar razón social referente al Prestador del Servicio al que pertenezcan, con dimensiones de letra legible que al afecto se establezca en caso de contar con logotipo. En ambos costados, la leyenda "Seguridad Privada" y el número de autorización para llevar a cabo dicha función, los vehículos que sean utilizados en la modalidad de seguridad privada a personas estarán exentos de considerar el balizaje señalado con antelación.
+###### ARTÍCULO 51.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Los particulares promoverán el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad dedicados a la conservación, preservación y aprovechamiento sustentable de la fauna en general, en cualquiera de los medios o ámbitos en que se desarrollen.
 
-Los vehículos utilizados en la modalidad de seguridad privada a personas únicamente deberán portar el código QR en el parabrisas y medallón que expida la Secretaría a favor del prestador del servicio.
+###### ARTÍCULO 52.
 
-5.- Por cada radio de comunicación, de las características siguientes:
+Los Ayuntamientos formarán el Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales dedicadas al mismo fin, como un instrumento que permita conocer su estatus y posibilitar su involucramiento en la instrumentación de las políticas públicas y tareas definidas en la presente Ley.
 
-a) Radio transmisor- receptor móvil; y
+###### ARTÍCULO 53.
 
-b) Radio base.
+Las asociaciones protectoras de animales que cuenten con la infraestructura adecuada para el alojamiento y cuidado de los mismos, podrán admitir, previo convenio suscrito con el Ayuntamiento, a los animales que le sean remitidos por parte de este.
 
-Así como número de serie, color marca y demás elementos que permitan su plena identificación y en su caso la referencia de la factura o documentos que ampare su propiedad.
+###### ARTÍCULO 54.
 
-6.- Por cada fornitura que incluye:
+Toda persona podrá denunciar ante las autoridades competentes, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley.
 
-a) Tonfa y portatonfa, o tolete y porta tolete;
+Si la denuncia fuera presentada ante la autoridad estatal o municipal y resulta del orden federal, deberá ser remitida de manera inmediata para su atención y trámite a la Procuraduría Federal de Protección al Ambiente.
 
-b) Gas lacrimógeno y porta gas;
+###### ARTÍCULO 55.
 
-c) Silbato;
+La denuncia popular deberá presentarse por escrito, y contendrá:
 
-d) Máscara anti-gas; y
+I. Nombre o razón social y domicilio del denunciante y, en su caso, de su representante legal;
 
-e) Otros implementos.
+II. Los actos u omisiones denunciados;
 
-7.- Por cada aparato eléctrico o electrónico de las características siguientes:
+III. Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante, y
 
-a) Sistema de alarma o vigilancia de circuito cerrado;
+IV. Las pruebas que en su caso ofrezca el denunciante.
 
-b) Arco detector de metales u otros objetos;
+Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la autoridad competente investigue de oficio los hechos constitutivos de la denuncia.
 
-c) Detector portátil de metales u otros objetos;
+Si el denunciante ratifica la denuncia pero solicita a la autoridad competente guardar secreto respecto de su identidad por razones de seguridad e interés particular debidamente fundadas, ésta dará seguimiento a la denuncia conforme a las atribuciones de la presente Ley y demás disposiciones aplicables.
 
-d) Maya protectora electrificada;
+###### ARTÍCULO 56.
 
-e) Instrumento amplificador de voz; y
+La autoridad competente, una vez recibida la denuncia, procederá a verificar los hechos materia de aquella, y le asignará el número de expediente correspondiente.
 
-f) Otros sistemas eléctricos o electrónicos utilizados.
+En caso de recibirse dos o más denuncias por los mismos actos u omisiones, se ordenará la acumulación de éstas, debiéndose notificar a los denunciantes el acuerdo respectivo.
 
-8.- Computadoras.
+###### ARTÍCULO 57.
 
-9.- Demás elementos que por su relevancia o características debe ser registrado.
+La autoridad competente, realizará las diligencias necesarias para comprobar los hechos denunciados, y si resultara que son competencia de otra autoridad, en acta circunstanciada se asentará ese hecho, turnando las constancias que obren en el expediente a la autoridad competente para su trámite y resolución, notificando la resolución respectiva al denunciante en forma personal.
 
-> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 58.
 
-El incumplimiento de lo que establece este artículo se sujetará a las sanciones previstas en el capítulo XIII de esta Ley.
+En caso de no comprobarse que los actos u omisiones denunciados producen o pueden producir daño o maltrato a los animales protegidos por este ordenamiento o contravengan las disposiciones de la presente Ley, la autoridad competente lo hará del conocimiento del denunciante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO X. DE LOS CENTROS DE SALUD Y BIENESTAR ANIMAL
 
-###### Artículo 31.
+###### ARTÍCULO 59.
 
-El Prestador del Servicio que cuente con autorización federal y del Estado de México deberá inscribirse en el Registro Estatal de Empresas, Prestadores del Servicio, Personal y Equipo de Seguridad Privada.
+La formulación de la denuncia popular, así como los acuerdos y resoluciones que emita la autoridad competente, no afectarán el ejercicio de otros derechos o medios de defensa que pudiera corresponder a los afectados conforme a las disposiciones aplicables, no suspenderán ni interrumpirá sus plazos de prescripción.
 
-En estos casos, se inscribirá, además de los datos establecidos en el artículo anterior, la identificación de la autorización, revalidación, modificación o cualquier otro acto administrativo similar por el que se permita prestar el servicio de seguridad privada en el territorio nacional.
+###### ARTÍCULO 60.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+El expediente de la denuncia popular que haya sido iniciado, podrá ser concluido por las siguientes causas:
 
-###### Artículo 32.
+I. Por incompetencia de las autoridades competentes;
 
-El prestador del servicio que tenga autorización para el uso de armamento para el servicio interno de seguridad y protección de personas e instalaciones, deberán emitir los reportes e informes solicitados por la Secretaría, asimismo se ajustará a las prescripciones, controles y supervisión que determinen las instancias que aprobaron su uso y la Secretaría vigilará su cumplimiento.
+II. Por la emisión de una resolución derivada del procedimiento de inspección;
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+III. Cuando no existan contravenciones a la presente Ley y demás normatividad aplicable, y
 
-###### Artículo 33.
+IV. Por desistimiento expreso del denunciante.
 
-El Prestador del Servicio informará, dentro del término señalado en el artículo 30 de la presente Ley, para el caso de no darse movimiento alguno.
+###### ARTÍCULO 61.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Las autoridades competentes, realizarán actos de inspección y vigilancia para verificar el cumplimiento de las disposiciones contenidas en el presente ordenamiento, e impondrán las medidas de seguridad y sanciones que resulten procedentes, de conformidad con las disposiciones expresadas en este capítulo, por conducto del personal debidamente autorizado para ello.
 
-###### Artículo 34.
+El personal al realizar las visitas de inspección y vigilancia, deberá contar con el documento oficial que lo acredite como inspector, así como la orden escrita, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
-El Prestador del Servicio que omita proporcionar a la Secretaría los reportes o informes que refiere el artículo anterior, se hará acreedor a la sanción prevista en esta Ley
+###### ARTÍCULO 62.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Previo al inicio de la inspección, el personal autorizado requerirá la presencia del responsable del sitio a inspeccionar o quien funja como su representante legal; en caso de no encontrarse se dejará citatorio para que espere a una hora fija dentro de las veinticuatro horas siguientes para la práctica de la inspección.
 
-###### Artículo 35.
+Si no espera en el día y hora señalada, la diligencia se realizará con el encargado o persona que se encuentre en el lugar, a quien se le exhibirá la orden respectiva y se le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe a dos testigos.
 
-Para la debida integración del Registro, la Secretaría, celebrará convenios de coordinación con los gobiernos Federal, estatales y municipales, para que remitan recíprocamente la información que se indica anteriormente, misma que podrá ser consultada por dichas autoridades.
+### CAPÍTULO XI. DE LA PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 63.
 
-###### Artículo 36.
+En caso de negativa o si los designados no aceptan desempeñarse como testigos, no invalidará los efectos de inspección y el personal autorizado lo hará constar en el acta administrativa que al efecto se levante.
 
-Toda información proporcionada a la Secretaría será confidencial y solo se dará a conocer por solicitud debidamente fundada y motivada por autoridad judicial, ministerial o administrativa competente.
+###### ARTÍCULO 64.
 
-###### Artículo 37.
+La persona con quien se entienda la inspección estará obligada a permitir el acceso al lugar o lugares sujetos a inspección, al personal autorizado en los términos previstos en la orden escrita, y deberá proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables.
 
-El Registro proporcionará información de acuerdo con lo establecido en la legislación aplicable en materia de transparencia y acceso a la información pública o a petición de autoridad competente.
+###### ARTÍCULO 65.
 
-### CAPITULO VI. CEDULAS DE IDENTIFICACIÓN
+Las autoridades competentes, podrán solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la misma, independiente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 66.
 
-###### Artículo 38.
+En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la inspección, así como lo previsto a continuación:
 
-La Secretaría proporcionará, una vez autorizados y a costa del Prestador del Servicio, las cedulas de identificación de sus elementos. La cédula será de uso obligatorio y deberá contar con la información siguiente:
+I. Nombre, denominación o razón social del visitado;
 
-l. Fotografía del elemento;
+II. Hora, día, mes y año en que se inicie y concluya la visita;
 
-II. Nombre completo del elemento;
+III. Colonia, calle, número, población o Municipio y código postal en que se encuentre ubicado el lugar en que se practique la visita;
 
-III. Nombre de la persona física o denominación del Prestador del servicio o persona jurídica colectiva;
+IV. Número y fecha de la orden de visita que la motivó;
 
-IV. Puesto acreditado del elemento;
+V. Nombre y cargo de la persona con quien se entendió la visita de inspección;
 
-V. Vigencia de la cédula;
+VI. Nombre y domicilio de las personas que fungieron como testigos;
 
-VI. Número de la autorización;
+VII. Los datos relativos al lugar o la zona que habrá de inspeccionarse indicando el objeto de la inspección;
 
-VIl. Folio de identificación del elemento;
+VIII. Manifestación del visitado, si quisiera hacerla, y
 
-VIII. Código QR para consultar los datos del elemento;
+IX. Firma de los que intervinieron en la inspección.
 
-IX. En su caso, el número del permiso de portación de arma;
+### CAPÍTULO XII. DE LA DENUNCIA POPULAR
 
-X. Clave Única de Identificación Personal (CUIP);
+###### ARTÍCULO 67.
 
-XI. Tipo de sangre;
+Antes de finalizar la inspección, se dará oportunidad a la persona con la que se entendió la misma, para que manifieste lo que a su derecho e interés convenga, con relación a los hechos u omisiones asentados en el acta respectiva. Posteriormente, se procederá a firmar el acta por las personas con quien se entendió la inspección y por los testigos, así como por el personal autorizado, quien entregará copia del acta al interesado.
 
-XII. Modalidad o modalidades autorizadas.
+Si la persona con la que se entendió la inspección o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 68.
 
-La Secretaría, validará los datos de los elementos, con la documentación que para el efecto requiera.
+Recibida el acta de inspección por la autoridad correspondiente se determinarán de inmediato, las medidas correctivas de urgente aplicación, fundando y motivando el requerimiento, mediante notificación personal, o por correo certificado con acuse de recibo, para que, dentro del plazo de cinco días hábiles contados a partir de que surta efectos dicha notificación, manifieste por escrito lo que a su derecho e interés convenga, en relación con el acta de inspección y la determinación dictada y, en su caso, ofrezca pruebas en relación con los hechos u omisiones que en la misma se asienten.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 69.
 
-###### Artículo 39.
+Transcurrido el plazo a que se refiere el artículo anterior, se procederá al desahogo de pruebas dentro de los seis días hábiles siguientes; y posteriormente se otorgarán tres días para alegatos. Concluido este plazo la autoridad competente contará con un término no mayor a veinte días hábiles, para emitir la resolución administrativa definitiva, que contendrá una relación de los hechos, las disposiciones legales y administrativas aplicables al objeto de la inspección, la valoración de las pruebas ofrecidas por el interesado si las hubiere, así como los puntos resolutivos, en los que se señalarán, o en su caso, ratificarán o adicionarán, las medidas que deberán realizarse para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
 
-La Secretaría, dentro de los treinta días hábiles siguientes al en que se hayan recibido los documentos a que se refiere el artículo anterior, procederá a su revisión, verificación de autenticidad y legalidad, integrando el expediente respectivo del solicitante.
+### CAPÍTULO XIII. DE LA INSPECCIÓN
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+###### ARTÍCULO 70.
 
-###### Artículo 40.
+Las autoridades competentes verificarán el cumplimiento de las medidas ordenadas en términos del requerimiento o resolución respectiva y en caso de subsistir la o las infracciones podrán imponer las sanciones que procedan conforme a la Ley.
 
-Cuando de la revisión se desprenda omisión o irregularidad en la presentación de documentos, la Secretaría lo comunicará al interesado, dándole un plazo de diez días hábiles improrrogables para subsanar las omisiones o irregularidades, apercibiéndolo para el caso de no hacerlo en ese tiempo, se tendrá por no presentada la solicitud para la emisión de las cédulas y en consecuencia se deberá abstener de contratar al elemento.
+###### ARTÍCULO 71.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 41.
-
-Esta cédula deberá ser portada durante la prestación del servicio, de modo tal que sea observable a la vista. En caso de robo, pérdida o extravío de la misma, el interesado deberá reportarlo por escrito al Prestador del Servicio, quien deberá denunciarlo ante el Ministerio Público y con copia de instrumento emitido por la instancia antes señalada, solicitar su reposición a la Secretaría, a través de la Agencia. En caso de baja, el Prestador del Servicio deberá recoger la cédula y entregarla. Su uso indebido será responsabilidad de quien la porta y del prestador de servicio.
-
-### CAPITULO VII. DEL PERSONAL DIRECTIVO, ADMINISTRATIVO Y ELEMENTOS
-
-###### Artículo 42.
-
-Los elementos se deberán regir, en lo conducente, por los principios de actuación y deberes de legalidad, eficiencia, profesionalismo y honradez, de conformidad con los lineamientos que señala la Ley.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 43.
-
-Previamente a su contratación, el Prestador del Servicio deberá presentar por escrito a la Secretaría, la relación de los aspirantes, conteniendo nombre completo y Clave Única de Registro de Población (CURP), certificado de no antecedentes penales para que, en su caso, la Secretaría efectúe las consultas indispensables ante la Fiscalía General de Justicia del Estado de México, ante el órgano competente del Sistema Nacional de Seguridad Publica, específicamente el Registro Nacional del Personal de Seguridad Pública, para que en caso de alguna irregularidad respecto de los elementos, dé vista al prestador del servicio para que en un término de tres días hábiles siguientes a aquél en que surta efectos la notificación, manifieste o aclare los elementos convincentes y documentales de dicha situación, debiéndose en consecuencia abstenerse de contratarlo, hasta en tanto se resuelva su situación para la procedencia o improcedencia de su contratación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 44.
-
-Para ingresar y permanecer como personal directivo, administrativo y elementos del Prestador del Servicio, los interesados deberán cumplir con los siguientes requisitos:
-
-I. Ser de nacionalidad mexicana y estar en pleno goce de sus derechos;
-
-II. Ser mayor de edad;
-
-III. No ser miembro activo de los Cuerpos de Seguridad Pública federal, estatal o municipal o de las fuerzas armadas;
-
-IV. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año, ni estar sujeto a proceso penal;
-
-V. No haber sido destituido de los Cuerpos de Seguridad Pública federal, estatal o municipal ni de las Fuerzas Armadas por cualquiera de los siguientes motivos:
-
-a) Por falta grave a los principios de actuación previstos en esta Ley;
-
-b). Por poner en peligro a los particulares a causa de imprudencia, negligencia o abandono de servicio;
-
-c) Por incurrir en falta de honestidad o abuso de autoridad;
-
-d) Por asistir al servicio en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, enervantes o estupefacientes y otras que produzcan efectos similares o por consumirlas durante el servicio en su centro de trabajo o por habérseles comprobado ser adictos a tales sustancias;
-
-e) Por revelar asuntos secretos o reservados de los que tenga conocimiento por razón de su empleo;
-
-f) Por presentar documentación falsa o apócrifa;
-
-g) Por obligar a sus subalternos a entregarles dinero u otras dádivas bajo cualquier concepto;
-
-h) Por cualquier otra causa análoga a las antes referidas.
-
-VI. Conducirse con estricto apego al orden jurídico, respetando en todo momento los Derechos Humanos y derechos de terceros, en el ámbito del desarrollo de sus actividades;
-
-VII. Proteger y salvaguardar todos los recursos o propiedades, materiales y humanos de una compañía, industria o comercio, dentro de los límites fijados para el desarrollo de sus funciones y que tenga bajo su custodia;
-
-VIII. Abstenerse de realizar la retención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales; salvo en los casos de flagrante delito y de actos que atenten contra los bienes y personas para las que preste sus servicios, deberá de hacerlo de manera inmediata y ante autoridad competente;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-IX. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica, social, ideológica-política o por algún otro motivo, respetando en todo momento las leyes y reglamentos, así como los manuales, acuerdos y protocolos en los que se establezcan las operaciones, consignas y obligaciones que para el desarrollo de sus servicios emita la Secretaría;
-
-X. Conducir su actuación con la decisión necesaria y sin demora en la protección de las personas y sus bienes, de la industria o comercio que tenga bajo su protección;
-
-XI. Preservar el secreto que por razón del desempeño de sus funciones conozca dentro de las instalaciones que proteja o área operacional, observando en todo momento honestidad, lealtad y responsabilidad en el cumplimiento de su deber;
-
-XII. Obedecer las órdenes de sus superiores siempre y cuando no sean contrarias a derecho y cumplir con todas sus obligaciones enmarcadas en el manual de operaciones o consignas que se emitan para la diversidad de servicios fuera de las áreas públicas;
-
-XIII. Auxiliar a las Instituciones Públicas en situaciones de emergencia o cuando así sea requerido en los casos que este mismo ordenamiento señale;
-
-XIV. Solicitar la intervención de la autoridad competente cuando en el desempeño de sus labores conozca de hechos que puedan ser constitutivos de delito;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-XV. Cumplir las disposiciones vigentes en materia de distintivos y emblemas que debe portar los elementos y los vehículos que les asigne el Prestador del Servicio al cual pertenezcan;
-
-XVI. Abstenerse de consumir bebidas embriagantes, psicotrópicos o enervantes o cualquier otra sustancia que altere el estado de equilibrio normal de la persona y que derive con ello un detrimento en la función de seguridad de personas y sus bienes que tenga encomendados;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-XVII. Queda prohibido para los elementos, el uso de uniforme, armamento y equipo del Prestador del Servicio, fuera de los lugares de adscripción, áreas o espacios para los que fueron contratados;
-
-XVIII. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, u objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario;
-
-XIX. Contar con los elementos con la capacitación básica para la prestación del servicio de acuerdo a la modalidad o modalidades autorizadas;
-
-XX. Someterse a las evaluaciones permanentes de control de confianza, de desempeño, poligrafía, entorno social y psicológico, así como exámenes toxicológicos y los demás que determine la Ley para Instituciones de Seguridad Pública, ante el Centro; y
-
-XXI. Los demás que establezca la normatividad aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 45.
-
-Para el desempeño de sus funciones, los directores, administradores y elementos del Prestador del Servicio, deberán reunir los siguientes requisitos:
-
-I. Carecer de antecedentes penales;
-
-II. Ser mayor de edad;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-III. Estar inscritos en el Registro Estatal de Empresas, Prestadores del Servicio, Personal y Equipo de Seguridad Privada;
-
-IV. Estar debidamente capacitados en las modalidades en que prestarán el servicio;
-
-V. No ser miembros en activo de alguna institución de seguridad pública federal, estatal o municipal o de las Fuerzas Armadas;
-
-VI. No haber sido sancionado por delito doloso;
-
-VII. No haber sido separado o cesado de las Fuerzas Armadas o de alguna institución de seguridad federal, estatal, municipal, por alguno de los siguientes motivos:
-
-a) Por falta grave a los principios de actuación previstos en las leyes;
-
-b) Por poner en peligro a terceros a causa de imprudencia, negligencia o abandono del servicio;
-
-c) Por incurrir en faltas de honestidad o abuso de autoridad;
-
-d) Por asistir al servicio en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, enervantes o estupefacientes y otras que produzcan efectos similares, por consumir estas sustancias durante el servicio o en su centro de trabajo o por habérseles comprobado ser adictos a alguna de tales substancias;
-
-e). Por revelar asuntos secretos o reservados de los que tenga conocimiento por razón de su empleo;
-
-f) Por presentar documentación falsa o apócrifa;
-
-g) Por obligar a sus subalternos a entregarle dinero u otras dádivas bajo cualquier concepto; y
-
-h) Por irregularidades en su conducta.
-
-VIII. No ser miembros en activo de alguna institución de Seguridad Pública Federal, Estatal o Municipal o de las Fuerzas Armadas; y
-
-IX. Acreditar los exámenes de control de confianza.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-### CAPITULO VIII. DE LAS OBLIGACIONES Y RESTRICCIONES DEL PRESTADOR DEL SERVICIO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 46.
-
-La Secretaría se abstendrá de otorgar la autorización a quienes por sí o por interpósita persona, con la cual tenga parentesco hasta el cuarto grado, ya sea ascendente, descendente o colateral, tengan a su cargo funciones de seguridad pública federal, estatal, municipal o militar, o quienes por razón de su empleo, cargo o comisión se encuentren vinculados con ésta. Así como abstenerse de intervenir, promover o gestionar como representante, apoderado o cualquier otra forma semejante asuntos relacionados con seguridad privada, cuando haya tenido conocimiento, tramitado o que se encuentre en el área en la cual se desempeñó como servidor público.
-
-Esta prevención es aplicable, hasta por un año después de que el servidor público se haya retirado del empleo, cargo o comisión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 47.
-
-El Prestador del Servicio que cuente con autorización o revalidación vigente de la Secretaría para prestar el servicio de seguridad privada, tendrán las obligaciones siguientes:
-
-I. Prestar los servicios de seguridad privada en los términos y condiciones establecidos en la autorización que les haya sido otorgada o en su caso, en su revalidación o modificación;
-
-II. Abstenerse de prestar los servicios de seguridad privada sin contar con la autorización o revalidación correspondiente;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-III. Proporcionar periódicamente al total de elementos, capacitación y adiestramiento en términos del Reglamento de la presente Ley, acorde a las modalidades de prestación del servicio, ante la Secretaría, en instituciones, academias o centros de capacitación privados con reconocimiento oficial de la Comisión Nacional de Seguridad, Secretaría del Trabajo, Secretaría de Educación Pública, Secretaría de la Defensa Nacional o por el Instituto según corresponda y con la aprobación previa de esta autoridad, en los tiempos y formas que ésta determine o conforme al Reglamento de la presente Ley;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-IV. Utilizar únicamente el equipo y armamento registrado ante la Secretaría;
-
-V. Informar sobre el cambio de domicilio fiscal o legal de la matriz, así como el de sus sucursales;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-VI. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a elementos en las instituciones autorizadas, en los términos que establezca la Secretaría y el Reglamento de la presente Ley;
-
-VII. Atender las instrucciones que les giren las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o en cualquier otro caso;
-
-VIII. Abstenerse de utilizar en su denominación, razón social, papelería, documentación, vehículos y demás elementos de identificación, colores o insignias que pudieran causar confusión con los utilizados por los cuerpos de seguridad pública, las Fuerzas Armadas u otras autoridades, así como logotipos oficiales, el escudo, colores nacionales, la bandera nacionales o de países extranjeros;
-
-IX. Queda prohibido el uso de todo tipo de placas metálicas de identidad, así como el uso de sirenas o torretas de cualquier tipo o color, defensas diferentes al modelo original, en particular se abstendrán de adaptar y utilizar "tumbaburros", en los vehículos respectivos. Tampoco podrán utilizar vehículos con vidrios obscuros o polarizados;
-
-X. Abstenerse de realizar funciones que están reservadas a los cuerpos e instituciones de seguridad pública o a las Fuerzas Armadas;
-
-XI. Evitar en todo momento inferir, tolerar o permitir actos de tortura, malos tratos, actos crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenazas a la seguridad pública;
-
-XII. Abstenerse de contratar con conocimiento de causa, personal que haya formado parte de alguna institución o corporación de seguridad pública federal, estatal o municipal o de las fuerzas armadas, que hubiese sido dado de baja, por los siguientes motivos:
-
-a) Por falta grave a los principios de actuación previstos en las leyes;
-
-b) Por poner en peligro a terceros a causa de imprudencia, negligencia o abandono del servicio;
-
-c) Por incurrir en faltas de honestidad o abuso de autoridad;
-
-d) Por asistir al servicio en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, enervantes o estupefacientes y otras que produzcan efectos similares, por consumir estas sustancias durante el servicio o en su centro de trabajo o por habérseles comprobado ser adictos a alguna de tales substancias;
-
-e) Por revelar asuntos secretos o reservados de los que tenga conocimiento por razón de su empleo;
-
-f) Por presentar documentación falsa o apócrifa;
-
-g) Por obligar a sus subalternos a entregarle dinero u otras dádivas bajo cualquier concepto; y
-
-h) Por irregularidades en su conducta o haber sido sentenciado por delito doloso.
-
-XIII. Utilizar el término "seguridad" siempre acompañado de la palabra "privada";
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-XIV. Utilizar vehículos que presenten una cromática uniforme, atendiendo a las especificaciones del artículo 19 fracción XIV de la presente Ley, además de ostentar en forma visible, en los vehículos que utilicen la denominación, logotipo y número de autorización, con excepción de las unidades utilizadas en la modalidad de Seguridad Privada a Personas. Bajo ninguna circunstancia podrán llevar elementos que los confundan con los vehículos utilizados por las instituciones de seguridad pública o las Fuerzas Armadas;
-
-Para los vehículos utilizados en la modalidad de seguridad privada a personas, se deberá estar atento a lo establecido en la presente Ley;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-XV. Utilizar uniformes y elementos de identificación de los elementos que se distingan de los utilizados por otro Prestador del Servicio de seguridad privada, por las instituciones de seguridad pública y las Fuerzas Armadas; ajustando el modelo, colores o insignias de los uniformes que utilicen sus elementos operativos, a las especificaciones que señale el Reglamento;
-
-XVI. Supervisar que sus elementos utilice (sic) únicamente el uniforme, armamento y equipo en los lugares y horarios de prestación del servicio;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XVII. Solicitar a la Secretaría la consulta previa de los antecedentes policiales y la inscripción del personal directivo, administrativo, elementos en el Registro Estatal de Empresas, Prestadores del Servicio, Personal y Equipo de Seguridad Privada, así como la inscripción del equipo y armamento correspondiente, presentando los documentos que acrediten el pago de los derechos correspondientes;
-
-XVIII. Aplicar los manuales de operación conforme a la modalidad o modalidades autorizadas;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XIX. Informar a la Secretaría de cualquier modificación a los estatutos de la sociedad o de las partes sociales de la misma;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XX. Instruir e inspeccionar que el personal operativo porte a la vista, obligatoriamente, la cédula única de identificación personal expedida por la Secretaría, durante el tiempo que se encuentren en servicio;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XXI. Reportar por escrito a la Secretaría, dentro de los cinco días hábiles siguientes, el robo, pérdida o destrucción de documentación propia del Prestador del Servicio o de identificación de su personal, anexando copia de las constancias que acrediten los hechos;
-
-XXII. Mantener en estricta confidencialidad, la información relacionada con el servicio;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XXIII. Comunicar por escrito a la Secretaría, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XXIV. Comunicar por escrito a la Secretaría, todo mandamiento de autoridad que impida la libre disposición de sus bienes, en los cinco días hábiles siguientes a su notificación;
-
-XXV. Permitir el acceso, dar las facilidades necesarias, así como proporcionar toda la información requerida por las autoridades competentes, cuando desarrollen alguna visita domiciliaria;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-XXVI. Asignar a los servicios únicamente a los elementos que se encuentren debidamente capacitados en la modalidad requerida;
-
-XXVII. Instrumentar los mecanismos que garanticen que el elementos (sic) de seguridad privada, cumpla con las obligaciones que le impone esta Ley;
-
-XXVIII. Tratándose de prestadores de servicios que operen en la modalidad de traslado de bienes o valores y específicamente para el traslado de valores, se deberán utilizar vehículos blindados;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XXIX. Registrar ante la Secretaría, los animales con que operen y sujetar su utilización a las normas aplicables;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XXX. Rotular en el exterior del inmueble de manera legible y permanente, en la parte frontal del mismo, nombre, logotipo y leyenda del Prestador del Servicio, así como el número de la autorización otorgada por la Secretaría;
-
-XXXI. Contar con su Cedula del Registro Federal de Contribuyente expedido por la Secretaría de Hacienda y Crédito público, así como los demás permisos y licencias de funcionamiento, dentro del primer mes natural a su autorización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 48.
-
-Son obligaciones de los elementos:
-
-I. Prestar los servicios en los términos establecidos en la autorización, revalidación o la modificación de cualquiera de éstas;
-
-II. Utilizar únicamente el equipo de radiocomunicación, en los términos del permiso otorgado por autoridad competente o concesionaria autorizada;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-III. Utilizar el uniforme, vehículos, vehículos blindados, perros, armas de fuego y demás equipo, acorde a las modalidades autorizadas para prestar el servicio, apegándose al estricto cumplimiento de las Normas Oficiales Mexicanas correspondientes, en los casos que les apliquen durante la prestación de su servicio;
-
-IV. Acatar toda orden para auxiliar, en caso de urgencia, desastre o cuando así lo requieran las autoridades de seguridad pública del Estado;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-V. Portar en lugar visible, durante el desempeño de sus funciones, la cédula única de identificación personal expedida por la Secretaría que lo acredite como personal de seguridad privada, así como del equipo que se le asignó para servicio;
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-VI. Conducirse en todo momento con profesionalismo, honestidad y respeto hacia la integridad, dignidad y los derechos humanos, evitando abusos, arbitrariedades y violencia, además de regirse por los principios de actuación y deberes previstos para los integrantes de los cuerpos de seguridad pública, como son: legalidad, objetividad eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
-
-VII. En caso de portar armas, hacer uso responsable de ellas y contar con la licencia o su equivalente que autorice su portación;
-
-VIII. En caso de hacer uso de vehículos automotores, cumplir con las especificaciones establecidas en esta Ley y su Reglamento; y
-
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-IX. Someterse a las evaluaciones permanentes de control de confianza, de desempeño, poligrafía, entorno social y psicológico, así como exámenes toxicológicos y los demás que determine la Ley para las Instituciones de Seguridad Pública, ante el Centro.
-
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 49.
-
-Además de las obligaciones previstas en la presente Ley, el Prestador del Servicio deberá cumplir con las obligaciones que les impongan otros ordenamientos legales del Estado de México.
-
-### CAPITULO IX. DE LA CAPACITACION
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 50.
-
-El Prestador del Servicio estará obligado a capacitar a sus elementos. Dicha capacitación se podrá llevar a cabo por el Instituto, previo pago de los derechos correspondientes o instituciones, academias o centros de capacitación privados con reconocimiento oficial y con la aprobación previa de la Secretaría, a través del Instituto. El Reglamento establecerá los tiempos, formas y plazos para que se ejecute.
-
-Para el caso de la prestación de los servicios en la modalidad de seguridad privada a personas, las empresas deberán acreditar con el certificado correspondiente que expida el Instituto, que sus elementos que presten o prestaran este servicio, han sido capacitados en temas como uso racional de la fuerza, uso de armas de fuego, control de masas, derechos humanos, además de los que determine la Secretaría.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 51.
-
-La Secretaría establecerá como una obligación del Prestador del Servicio que su personal sea sometido a procedimientos de evaluación y control de confianza conforme a la normatividad aplicable y en los términos que establezca el Reglamento de la presente Ley.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 52.
-
-La Secretaría tendrá en todo momento la facultad de corroborar con los medios idóneos, que se otorgue y se continúe periódicamente con la capacitación de sus elementos que refiere el artículo anterior
-
-###### Artículo 53.
-
-La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, objetividad eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 54.
-
-La Secretaría podrá concertar acuerdos con las instituciones, academias o centros de capacitación privados con reconocimiento oficial, con el Prestador del Servicio para la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento de acuerdo a la modalidad o modalidades autorizadas y que valide el Instituto, en los términos y formas que establezca el Reglamento.
-
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 55.
-
-Los planes y programas de capacitación y adiestramiento que se apliquen a los elementos por el Prestador del Servicio, deberán de ser actualizados y autorizados por el Instituto.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 56.
-
-La Secretaría verificará en cualquier momento que el Prestador del Servicio practique a los elementos, las evaluaciones y exámenes correspondientes ante el Centro o instituciones privadas con reconocimiento oficial y aprobación de éste, para acreditar que no hacen uso de sustancias psicotrópicas, enervantes o estupefacientes y que cubren el perfil físico, médico, ético y psicológico necesario para realizar las actividades del puesto a desempeñar.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 57.
-
-El Prestador del Servicio sólo asignará a los servicios, a aquellos elementos que hayan acreditado la capacitación y adiestramiento, apropiados a la modalidad del servicio que desempeñen, acreditando esta situación a la Secretaría.
-
-###### Artículo 58.
-
-La práctica de evaluaciones y exámenes que refiere el artículo 56, se sujetará a lo dispuesto en la presente Ley y su Reglamento.
-
-### CAPITULO X. DEL CONSEJO DE SEGURIDAD PRIVADA DEL ESTADO
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 59.
-
-El Consejo de Seguridad Privada del Estado, es un órgano de consulta y opinión de la Secretaría, que tiene por objeto la mejora continua de los servicios de seguridad privada que se presten en el Estado de México.
-
-###### Artículo 60.
-
-El Consejo de Seguridad Privada del Estado estará integrado por:
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-I. Un presidente, que será el titular de la Secretaría, o quien éste designe en su representación;
-
-II. Un secretario ejecutivo, que será nombrado por el presidente;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-III. Los Prestadores del Servicio que cuenten con autorización expedida por la Secretaría;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-IV. Los Prestadores del Servicio que cuenten con autorización federal y que presten sus servicios en el territorio del Estado de México con autorización vigente de la Secretaría; y
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-V. Por invitación de la Secretaría, las instituciones educativas, asociaciones de empresarios y demás instancias relacionadas directa o indirectamente con la prestación de servicio de seguridad privada, cuando así lo considere ésta.
-
-###### Artículo 61.
-
-El Consejo de Seguridad Privada del Estado funcionará en los términos establecidos por el Reglamento.
-
-###### Artículo 62.
-
-El Consejo de Seguridad Privada del Estado procurara en todo momento atender y dar seguimiento a los acuerdos tomados por en el pleno de las sesiones de éste.
-
-### CAPITULO XI. DE LAS VISITAS DE VERIFICACION
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 63.
-
-La Secretaría podrá ordenar en cualquier momento la práctica de visitas de verificación al Prestador del Servicio, quien estará obligado a permitir el acceso y dar las facilidades e informes que los verificadores requieran para el desarrollo de su labor.
-
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 64.
-
-El objeto de la visita será comprobar que el Prestador del Servicio cuente con la autorización, el cumplimiento de las disposiciones legales y reglamentarias aplicables con las que se encuentren autorizadas, así como de las obligaciones y restricciones a que se sujeta la autorización o revalidación.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 65.
-
-La verificación será física cuando se practique sobre los bienes muebles o inmuebles; al desempeño, cuando se refiera a la actividad; al desarrollo laboral o profesional de los elementos; o bien de legalidad, cuando se corrobore que el Prestador del Servicio cuente con la autorización de la Secretaría o ésta esté vigente o se analice y cerciore el cumplimiento de las disposiciones legales que se tiene la obligación de acatar.
-
-###### Artículo 66.
-
-Para la práctica de las visitas de verificación se estará a lo dispuesto por el Código de Procedimientos Administrativos del Estado de México.
-
-### CAPITULO XII. DE LAS MEDIDAS PARA LA CORRECTA PRESTACION DEL SERVICIO
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 67.
-
-La Secretaría podrá garantizar la correcta prestación del servicio de seguridad privada en instalaciones y equipo. Dicha circunstancia se asentará en el acta que se lleve a cabo con motivo de la visita.
-
-###### Artículo 68.
-
-En términos del artículo anterior, son medidas tendientes a garantizar la correcta prestación del servicio de seguridad privada:
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-I. La orden que emite la Secretaría por la que se disponen las providencias necesarias para eliminar un peligro a la sociedad, originado por objetos, productos y sustancias, asimismo, el retiro del uso de perros utilizados en el servicio, cuando éstos no cumplan con lo establecido en esta Ley, con las obligaciones a que se sujetó la autorización o con las demás disposiciones jurídicas y administrativas aplicables;
-
-II. La suspensión temporal de los servicios, cuando se ponga en peligro la seguridad de las personas y sus bienes.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 69.
-
-Cuando se detecten cualquiera de los supuestos mencionados en el artículo anterior, que pongan en peligro la salud o la seguridad de las personas o sus bienes, la Secretaría, podrá ordenar la medida y su ejecución de inmediato, a través del auxilio de la fuerza pública o señalar un plazo razonable para que se subsane la irregularidad, sin perjuicio de informar a otras autoridades competentes para que procedan conforme a derecho.
-
-### CAPITULO XIII. DE LAS SANCIONES
-
-###### Artículo 70.
-
-La imposición de las sanciones por incumplimiento de las disposiciones contenidas en la presente Ley, será independiente de las penas que correspondan por acciones u omisiones constitutivas de delito o de la responsabilidad civil.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 71.
-
-El incumplimiento por parte del Prestador del Servicio autorizado o irregular, a las obligaciones contenidas en la presente Ley y demás disposiciones jurídicas aplicables, dará lugar a la imposición de una o más de las siguientes sanciones:
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-I. Amonestación, a través de la difusión pública de la Secretaría;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-II. Suspensión de los efectos de la autorización de uno a seis meses, con difusión pública de la Secretaría. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz;
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-III. Multa de 500 a 5000 veces el valor diario de la Unidad de Medida y Actualización vigente, la cual impondrá la Secretaría y se considerará un crédito fiscal, por lo que la Secretaría de Finanzas del Estado de México la hará efectiva para su cobro. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá en su caso, la cancelación definitiva de la autorización para la prestación de los servicios de seguridad privada y en caso de empresas irregulares además no podrán prestar el servicio por un año dentro del Estado de México y después de éste, deberán previamente tramitar y obtener la autorización que otorgue la Secretaría.
-
-IV. Clausura del establecimiento donde el prestador del Servicio tenga su oficina matriz o el domicilio legal que hubiere registrado, así como de las sucursales que tuviera dentro del Estado de México; y
-
-V. Revocación de la autorización.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-La Secretaría podrá imponer simultáneamente una o más sanciones administrativas señaladas en las fracciones anteriores y en cualquier caso, procederá al apercibimiento respectivo.
-
-> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
-
-Artículo 71 bis.- El incumplimiento por parte de los elementos autorizados, a las obligaciones contenidas en la presente Ley y demás disposiciones jurídicas aplicables, dará lugar a la imposición de una o más de las siguientes sanciones:
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-I. Amonestación, a través de la difusión pública de la Secretaría;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-II. Suspensión de los efectos de la autorización de seis meses a un año, con difusión pública de la Secretaría. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado; y
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-III. Multa de 500 a 3000 Unidades de Medida y Actualización, la cual impondrá la Secretaría y se considerará un crédito fiscal, por lo que la Secretaría de Finanzas del Estado de México la hará efectiva para su cobro. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá en su caso, la cancelación definitiva de la autorización para formar parte del personal operativo del prestador del servicio.
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-La Secretaría podrá imponer simultáneamente una o más sanciones administrativas señaladas en las fracciones anteriores y en cualquier caso, procederá al apercibimiento respectivo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+En el caso de ubicar lugares donde se encuentren animales protegidos por autoridades federales, la Secretaría o los Ayuntamientos involucrados, se coordinarán con dichas autoridades para realizar las actividades de inspección y vigilancia que correspondan.
 
 ###### Artículo 71 Ter.
 
@@ -1149,109 +703,159 @@ II. Las demás que se establezcan en otros ordenamientos legales del Estado de M
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-###### Artículo 72.
+###### ARTÍCULO 72.
 
-Las resoluciones por las que la Secretaría aplique sanciones administrativas, deberán estar debidamente fundadas y motivadas, considerando:
+Cuando los animales estuvieren en condiciones de peligro para su salud, las autoridades competentes, fundando y motivando su resolución, podrán ordenar cualquiera de las siguientes medidas:
 
-I. La gravedad de la infracción en que se incurre y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ésta;
+I. Aseguramiento precautorio de los animales y de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad;
 
-II. Los antecedentes y condiciones personales del infractor;
+II. Clausura provisional de los establecimientos e instalaciones, donde se detecten las irregularidades que contravengan las disposiciones de la presente Ley, y
 
-III. La antigüedad en la prestación del servicio;
+III. Cualquier acción legal análoga que permita la protección de los animales.
 
-IV. La reincidencia en la comisión de infracciones; y
+###### ARTÍCULO 73.
 
-V. El monto del beneficio obtenido o, en su caso, el daño o perjuicio económicos que se hayan causado a terceros.
+Procede el aseguramiento provisional de animales cuando:
 
-###### Artículo 73.
+I. Muestren signos o hayan sido objeto de crueldad o maltrato graves;
 
-En todos los casos se dará Difusión pública a las sanciones, la cual se hará a costa del infractor, en la Gaceta del Gobierno y en uno de los diarios de mayor circulación estatal, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso, la sanción servirá de antecedente para considerarse en un nuevo trámite de solicitud de autorización.
+II. Representen un peligro para la salud pública por padecer enfermedades transmisibles;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+III. Se enajenen o exploten en la vía pública;
 
-###### Artículo 74.
+IV. Sean empleados en peleas no autorizadas por esta Ley y demás disposiciones aplicables;
 
-Al Prestador del Servicio en el Estado de México, con autorización federal, de la Ciudad de México o de otra Entidad, que haya sido sancionado por la Secretaría, se le informará para los efectos que haya lugar.
+V. Se utilicen en actividades de transporte contraviniendo las disposiciones de esta Ley;
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+VI. Sean empleados como instrumentos delictivos;
 
-###### Artículo 75.
+VII. Se ofrezcan para fines de propaganda o premiación;
 
-En caso de que el Prestador del Servicio no dé cumplimiento a las resoluciones que impongan alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza otorgada a favor de la Secretaría de Finanzas para garantizar el cumplimiento de los servicios autorizados.
+VIII. Sean altamente peligrosos o feroces y representen un peligro para la integridad física de las personas, sin que cumplan con las disposiciones legales que al caso correspondan;
 
-### CAPITULO XIV. DE LOS MEDIOS DE IMPUGNACION
+IX. Su posesión no esté autorizada por las instancias competentes;
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+X. Cuando se acredite plenamente su utilidad para la comisión de delitos;
 
-###### Artículo 76.
+XI. Cuando se trate de animales sujetos a régimen de protección especial y su posesión no se encuentre autorizada por la autoridad federal, y
 
-Contra los actos y resoluciones administrativas que dicte o ejecute la Secretaría en aplicación de esta Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme con las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+XII. Las demás que contravengan las disposiciones previstas en esta Ley y demás normatividad legal aplicable.
+
+El aseguramiento subsistirá por todo el tiempo que dure el procedimiento para la aplicación de las sanciones definitivas.
+
+###### ARTÍCULO 74.
+
+Cuando la autoridad ejecute algunas de las medidas de seguridad previstas en este Capítulo, indicará al visitado las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta.
+
+###### ARTÍCULO 75.
+
+Si el aseguramiento no fuere posible por tratarse de animales abandonados en una finca deshabitada de propiedad privada, la autoridad municipal pedirá opinión a las autoridades sanitarias respecto al peligro que pudieren representar para la salud de las personas, en cuyo caso, si el dictamen resuelve en ese sentido, el ayuntamiento correspondiente realizará las gestiones y operaciones necesarias para el desalojo y protección de los animales abandonados.
+
+### CAPÍTULO XIV. DE LAS MEDIDAS DE SEGURIDAD
+
+###### ARTÍCULO 76.
+
+Las autoridades municipales, asistidas de un veterinario, deberán ordenar la vacunación, atención médica o en su caso, el sacrificio humanitario de animales que representen una amenaza de salud pública específicamente de la enfermedad de la rabia, previamente diagnosticada por médico certificado.
+
+### CAPÍTULO XV. DE LAS INFRACCIONES
+
+###### ARTÍCULO 77.
+
+Se considera infracción todo acto u omisión, sancionado por esta Ley y demás ordenamientos jurídicos aplicables, ya sea que el responsable haya actuado intencionalmente, o por imprudencia, por sí mismo, o provocando, ordenando, o permitiendo que otra persona o personas bajo su mando, tutela, encargo o responsabilidad lo hagan.
+
+###### ARTÍCULO 78.
+
+Las infracciones a la Ley motivarán la aplicación de una o varias de las siguientes sanciones:
+
+I. Apercibimiento escrito de la autoridad;
+
+II. Multa de 100 a 300 días de salario mínimo general vigente en el Estado, las cuales serán determinadas por los Ayuntamientos en sus disposiciones reglamentarias atendiendo a la gravedad de la infracción y a las condiciones del infractor, y
+
+III. Clausura Definitiva de los establecimientos o instalaciones a que se refiere esta Ley; en este caso y si las condiciones así lo requieren se dará cuenta a la autoridad federal correspondiente, en términos de la normatividad aplicable.
+
+###### ARTÍCULO 79.
+
+Procede el apercibimiento por infracciones leves a juicio de la autoridad, siempre que no se trate de reincidencia.
+
+###### ARTÍCULO 80.
+
+De comprobarse que los animales han sido torturados o maltratados con extrema brutalidad, o exista reincidencia en la conducta infractora, la sanción pecuniaria podrá incrementarse hasta por un doble de su importe.
+
+###### ARTÍCULO 81.
+
+La individualización de las sanciones atenderá los siguientes aspectos:
+
+I. La gravedad de la infracción, considerando los daños ambientales y sanitarios causados, así como la irreversibilidad del deterioro;
+
+II. La solvencia económica del infractor;
+
+III. La cuantía del beneficio obtenido por la comisión de la infracción;
+
+IV. El dolo o la culpa del infractor, y
+
+V. La reincidencia, si la hubiere.
+
+La negligencia, la incompetencia y la violación de las disposiciones de esta Ley por parte de quien ejerza la profesión de Médico Veterinario Zootecnista, independientemente de la responsabilidad civil, penal o administrativa en que incurra, ameritará amonestación, multa y hasta la suspensión del ejercicio profesional en términos de las disposiciones relativas al ejercicio profesional del Estado de Sinaloa.
+
+###### ARTÍCULO 82.
+
+Los animales decomisados que puedan ser reintegrados a su hábitat, a un espacio de resguardo, zoológico o alguna otra clase de institución para vivir en ella, serán destinados a ese objeto observando las disposiciones de la presente Ley.
+
+###### ARTÍCULO 83.
+
+Los ingresos que se obtengan por las multas por infracciones a lo dispuesto en esta Ley, se destinarán a la integración de fondos para desarrollar programas y actividades vinculados con la protección y cuidado de los animales.
+
+### CAPÍTULO XVI. DEL RECURSO ADMINISTRATIVO
+
+###### ARTÍCULO 84.
+
+Las resoluciones dictadas con motivo de la aplicación de la presente Ley, el Reglamento y disposiciones que de ella emanen, podrán ser recurridas mediante el recurso ordinario procedente ante la autoridad administrativa emisora del acto, o bien, conforme a la Ley de Justicia Administrativa para el Estado de Sinaloa.
 
 T R A N S I T O R I O S
 
-PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
-
-SEGUNDO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
-
-TERCERO.- Se abroga la Ley que Regula a las Empresas que Prestan el Servicio de Seguridad Privada en el Estado de México, publicada en la "Gaceta de Gobierno" del Estado de México en fecha 04 de septiembre del 2006.
-
-CUARTO.- El Consejo de Seguridad Privada del Estado se instalará dentro de los treinta días hábiles siguientes a la entrada en vigor de esta Ley.
-
-QUINTO.- El prestador de servicios, que no cuente con la autorización o no haya presentado la solicitud correspondiente dispondrá de un término de sesenta días naturales, contados a partir de la entrada en vigor de esta Ley, para regularizar su situación, fenecido este término se considerara empresa irregular y se procederá administrativamente en su contra y en su caso se dará vista al Ministerio publico para que en alcance a su competencia realice las acciones que conforme a derecho proceda.
-
-SEXTO.- Las solicitudes de revalidación que se presenten a partir de la vigencia de la presente Ley se sujetarán a dicho ordenamiento legal.
-
-SEPTIMO.- Los procedimientos administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
-
-OCTAVO.- El Titular del Ejecutivo expedirá el Reglamento de la presente Ley, dentro de un plazo no mayor de ciento ochenta días hábiles posteriores a la entrada en vigor de la misma, el cual regulará, aclarara o ampliara lo normado por esta Ley.
-
-NOVENO.- La evaluación y exámenes de control de confianza que se aplicarán a los elementos, se llevarán a cabo por el Centro de acuerdo a su capacidad operativa, a los requisitos y criterios que se determinen, a partir de los tres meses a la entrada en vigor de la presente Ley.
-
-DECIMO.- El Instituto iniciará las acciones de capacitación de los elementos a partir de tres meses siguientes a la entrada en vigor de la presente Ley, de acuerdo a su capacidad operativa, a los requisitos y criterios que se determinen, a partir de los tres meses a la entrada en vigor de la presente Ley.
-
-DECIMO PRIMERO.- Los prestadores de servicio contarán con un término de un año para llevar a cabo la aplicación de la evaluación de exámenes y capacitación de sus elementos.
-
-DECIMO SEGUNDO.- El Titular del Ejecutivo del Estado, solicitará ante la Legislatura que se autorice el presupuesto económico para la ejecución de la presente Ley y su Reglamento.
-
-DECIMO TERCERO.- Queda sin efectos las disposiciones legales de igual o menor grado que se opongan al contenido de la presente Ley.
-
-Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
-
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiséis días del mes de agosto del año dos mil diez.- Presidente.- Dip. Félix Adrián Fuentes Villalobos.- Secretarios.- Dip. Francisco Javier Veladiz Meza.- Dip. Eynar de los Cobos Carmona.- Dip. Horacio Enrique Jiménez López.- Rúbricas.
-
-Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
-
-Toluca de Lerdo, Méx., a 6 de septiembre de 2010.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
-
-LIC. ENRIQUE PEÑA NIETO
-
-(RUBRICA).
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-LIC. LUIS ENRIQUE MIRANDA NAVA
-
-(RUBRICA).
-
-G.G. 17 DE DICIEMBRE DE 2010.
-
 ###### ARTÍCULO PRIMERO.
 
-Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+En un plazo de noventa días contados a partir de la publicación del presente Decreto, el Ejecutivo del Estado y los Ayuntamientos, deberán emitir las disposiciones reglamentarias correspondientes y realizar las acciones necesarias para su debida observancia e instrumentación.
 
-G.G. 24 DE AGOSTO DE 2012.
+###### ARTÍCULO TERCERO.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+Todos los asuntos o trámites que se encuentren pendientes de resolver al entrar en vigor la presente Ley, se desahogarán en los términos previstos por la ley o leyes vigentes al momento de su inicio.
 
-SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los treinta días del mes de julio del año dos mil trece.
 
-G.G. 14 DE DICIEMBRE DE 2016.
+C ARTEMISA GARCÍA VALLE,
+
+DIPUTADA PRESIDENTA
+
+C. SUSANO MORENO DÍAZ
+
+DIPUTADO SECRETARIO
+
+C. MARGARITA LOBO INZUNZA
+
+DIPUTADA SECRETARIA
+
+P.M.D.L.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los diecinueve días del mes de agosto del año dos mil trece.
+
+El Gobernador Constitucional del Estado
+
+LIC. MARIO LÓPEZ VALDEZ
+
+Secretario General de Gobierno
+
+C. GERARDO O. VARGAS LANDEROS
+
+Secretario de Salud
+
+DR. ERNESTO ECHEVERRÍA AISPURO
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168.- PO EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO”.]
 
