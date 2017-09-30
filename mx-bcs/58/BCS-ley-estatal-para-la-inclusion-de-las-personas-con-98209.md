@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2016-10-31"
+last_updated: "2017-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -1253,6 +1253,10 @@ Las personas con discapacidad tendrán derecho a recibir un trato digno y apropi
 
 La discapacidad no deberá ser motivo de privación de la libertad o violación por parte de las autoridades de procuración e impartición de justicia de los derechos humanos.
 
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2017)</small>
+
+Las instituciones de administración e impartición de justicia contarán con peritos especializados en las diversas discapacidades, apoyo de intérpretes de Lengua de Señas Mexicana, así como la emisión de documentos en Sistema de escritura Braille.
+
 ###### Artículo 121.
 
 Será responsabilidad de las autoridades competentes en materia de procuración e impartición de justicia, llevar a cabo programas de educación, sensibilización y capacitación al personal que lo conforman, para que se encuentren en condiciones de garantizar el derecho establecido en el artículo anterior, salvaguardando los derechos constitucionales en materia de debido proceso.
@@ -1521,7 +1525,7 @@ II.- Los antecedentes del infractor;
 
 III.- Las condiciones socio-económicas del infractor;
 
-IV.- La reincidencia en el incumplimiento de obligaciones, en su caso, y;
+IV.- La reincidencia en el incumplimiento de obligaciones, en su caso; y;
 
 V.- El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento de obligaciones, si lo hubiere.
 
@@ -1584,3 +1588,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 30 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2469 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 120 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
