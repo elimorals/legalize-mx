@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-calvillo-del-9503
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-07-08"
-last_updated: "2013-07-08"
+last_updated: "2017-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES -- ANTES LEY DE CREACION DE LA UNIVERSIDAD TECNOLOGICA DE CALVILLO, AGUASCALIENTES --
 
-LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -39,7 +39,9 @@ Decreto Número 366
 
 Se expide la Ley de Creación de la Universidad Tecnológica de Calvillo, para quedar como sigue:
 
-LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES.
 
 ### CAPÍTULO I. Generalidades
 
@@ -163,9 +165,15 @@ I. Tres representantes de Gobierno del Estado de Aguascalientes, que serán el G
 
 II. Tres representantes del Gobierno Federal, designados por el Secretario de Educación Pública, por conducto de la Subsecretaría de Educación Superior y/o de la Coordinación General de Universidades Tecnológicas y Politécnicas;
 
-III. Un representante del Ayuntamiento de Calvillo; y
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-IV. Tres representantes del sector productivo de la región, invitados por el Gobierno del Estado, a través del Titular del Ejecutivo.
+III. Un representante del Poder Legislativo del Estado, que será el Diputado por el distrito electoral que corresponda al domicilio legal de la Universidad;
+
+IV. Un representante del Ayuntamiento de Calvillo; y
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+V. Tres representantes del sector productivo de la región, invitados por el Titular del Ejecutivo del Estado.
 
 Cada Titular del Consejo Directivo tendrá derecho a voz y voto, así como a la designación de un suplente. Los cargos del Consejo Directivo serán honoríficos por lo que por su desempeño no se percibirá retribución o compensación alguna.
 
@@ -408,3 +416,13 @@ Dip. Kendor Gregorio Macías Martínez,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 1° de julio de 2013.- Carlos lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 146.- SE REFORMA LA DENOMINACIÓN DE LA LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
