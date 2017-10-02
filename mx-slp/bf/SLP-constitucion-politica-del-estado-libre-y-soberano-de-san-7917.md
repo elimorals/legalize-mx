@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2017-06-10"
+last_updated: "2017-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -781,9 +781,9 @@ No pueden ser Diputados:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-II.- Los secretarios, subsecretarios o Procurador General del Estado; ni los titulares de los organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
+II. Los Secretarios, Subsecretarios, el Fiscal General del Estado, ni los titulares de los organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
 
 III.- Los funcionarios de elección popular de los Ayuntamientos;
 
@@ -1067,7 +1067,9 @@ XXXV.- Calificar las renuncias de los magistrados de los tribunales del Estado y
 
 XXXVI.- Nombrar al presidente de la Comisión Estatal de Derechos Humanos, y al del Tribunal Estatal de Conciliación y Arbitraje, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
-XXXVII.- Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado que le someta el titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+XXXVII.- Elegir, en los términos de esta Constitución, al Fiscal General del Estado; al Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y al Fiscal Especializado en Delitos Electorales; así como a oponerse con el voto de por lo menos las dos terceras partes de sus miembros, a la remoción de estos fiscales;
 
 XXXVIII.- Recibir la protesta de ley que ante él deban rendir los servidores públicos;
 
@@ -1267,9 +1269,9 @@ III.- Tener treinta años cumplidos al día de la elección;
 
 IV.- No estar en el servicio activo del Ejército Nacional, a menos que se separe de su encargo por lo menos un año antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-V. - No ser secretario o subsecretario de Estado, Procurador General de Justicia del Estado, Presidente Municipal, a menos de que se separe de su encargo seis meses antes del día de la elección;
+V.- No ser Secretario o Subsecretario de Estado, Fiscal General del Estado, o Presidente Municipal, a menos de que se separe de su encargo cuando menos ciento veinte días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1367,7 +1369,9 @@ X.- Solicitar a la Diputación Permanente que convoque a período extraordinario
 
 XI.- Designar y remover libremente a los Secretarios de Despacho, así como a los demás servidores públicos del Estado cuyo nombramiento y remoción no estén atribuidos expresamente por esta Constitución a otra autoridad;
 
-XII.- Designar, con la ratificación de cuando menos la mayoría de los integrantes del Congreso del Estado al Procurador General de Justicia y removerlo libremente;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+XII.- Proponer al Congreso a los candidatos a ocupar los cargos de, Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y Fiscal Especializado en Delitos Electorales; así como removerlos por causas graves, y hacerlo del conocimiento del Congreso del Estado para los efectos de la fracción XXXVII del artículo 57 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -1477,45 +1481,17 @@ Todas las leyes promulgadas por el Gobernador deberán ser refrendadas por el Se
 
 Los titulares de las dependencias del Ejecutivo serán responsables de todas las órdenes y providencias que autoricen con su firma, así como de toda falta, omisión o violación en que incurran con motivo del ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ### CAPÍTULO IV. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
-
 ###### ARTÍCULO 85.
 
-La ley organizará al Ministerio Público del Estado, cuyos funcionarios con responsabilidad de mando serán nombrados y separados libremente por el titular del Ejecutivo del Estado, reservándose la designación, adscripción, ratificación y remoción de los demás funcionarios a las tareas de un Consejo del Ministerio Público del Estado, que cuidará el servicio profesional de carrera.
-
-Además de las obligaciones, deberes y principios que vinculan a los funcionarios del Ministerio Público en el sistema penal acusatorio, para asegurar el debido proceso en el Estado de San Luis Potosí, éstos se regirán por igual con los principios de mínima intervención, oportunidad, presunción de inocencia y proporcionalidad.
-
-El Ministerio Público estará presidido por un Procurador General de Justicia, quien deberá llenar los requisitos exigidos para ser Magistrado del Supremo Tribunal de Justicia. Será designado por el Gobernador, con la ratificación de la mayoría de los miembros del Congreso del Estado, y podrá ser removido libremente por aquél.
-
-Los requisitos para ser subprocurador de Justicia, agente del Ministerio Público, o agente de la Policía Ministerial, serán establecidos por la ley orgánica respectiva. No podrán desempeñar dichos cargos quienes hayan sido cesados en el desempeño de iguales o similares empleos en ésta o cualquier otra Entidad federativa, o en la administración pública federal.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2017)
 
 ###### ARTÍCULO 86.
 
-Corresponde al Ministerio Público y a las policías la investigación de los delitos; y al primero, cuando proceda, el ejercicio de la acción penal.
-
-Las policías actuarán bajo la conducción y mando del Ministerio Público en la investigación de los delitos, y tendrán las atribuciones y estructura que la ley establezca.
-
-El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley, la que señalará los casos en que serán objeto de revisión judicial.
-
-Los particulares, en su caso, podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
-
-Cuando se trate de materia penal, el Procurador General de Justicia intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
-
-En los casos en que deba intervenir el Ministerio Público, podrá hacerlo por sí o por medio de sus agentes.
-
-El Procurador General de Justicia y sus agentes se someterán estrictamente a las disposiciones de la ley; y serán responsables de toda falta, omisión, o violación en que incurran con motivo de sus funciones.
-
-En la investigación de los delitos que practique el Ministerio Público y la policía a su mando, los demás cuerpos de seguridad pública del Estado y sus municipios deberán prestarle su colaboración.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1749,7 +1725,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que haya am
 
 V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento; y
 
-VI.- No haber ocupado el cargo de Secretario de Despacho o su equivalente, Procurador General de Justicia, Diputado local, o Presidente Municipal en el año inmediato anterior al día de su nombramiento.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+VI.- No haber ocupado el cargo de Secretario de Despacho o su equivalente, Fiscal General del Estado, Diputado local, o Presidente Municipal, en el año inmediato anterior al día de su nombramiento.
 
 Para ser Magistrado supernumerario deberán cumplirse los mismos requisitos.
 
@@ -2129,9 +2107,9 @@ Están impedidos para ser miembros propietarios o suplentes de los ayuntamientos
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-II.- Los secretarios, subsecretarios o Procurador General del Estado; los titulares de organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
+II. Los Secretarios, Subsecretarios, el Fiscal General del Estado; los titulares de organismos descentralizados o desconcentrados de la administración pública; o a los que esta Constitución otorga autonomía;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -2195,11 +2173,43 @@ En las Delegaciones Municipales la autoridad será ejercida por un Delegado Muni
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO ÚNICO. Del Tribunal Estatal de Justicia Administrativa
+### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+ARTÍCULO 122 BIS. En San Luis Potosí todas las personas tienen derecho a la justicia penal, y el Estado deberá garantizar el acceso efectivo a ella.
+
+El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público dotado de personalidad jurídica y patrimonio propio; así como de autonomía presupuestal, técnica y de gestión.
+
+La Fiscalía General del Estado estará a cargo del Fiscal General del Estado, que durará en su encargo siete años, sin posibilidad de reelección, y deberá cumplir los mismos requisitos que esta Constitución exige para ser Magistrado.
+
+Corresponde al Gobernador del Estado proponer al Congreso, al triple de personas para ocupar el cargo del Fiscal General del Estado, dentro de los cuales la Legislatura hará la elección en el término de treinta días y por el voto de cuando menos las dos terceras partes de los diputados presentes en la sesión correspondiente. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+
+En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva terna en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
+
+El Fiscal General sólo podrá ser removido por el titular del Poder Ejecutivo del Estado, por las causas graves que establezca la ley, la remoción podrá ser objetada por el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, dentro de un plazo de diez días hábiles posteriores a que el Ejecutivo haga de su conocimiento la remoción, en cuyo caso, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción y podrá el Ejecutivo iniciar el procedimiento de la elección del nuevo titular de la Fiscalía en términos de los párrafos anteriores.
+
+Para efecto de lo dispuesto en los párrafos anteriores de este artículo, si el Congreso del Estado se encontrare en receso, la Diputación Permanente lo convocará de inmediato a periodo extraordinario.
+
+Las ausencias temporales del Fiscal General se suplirán en los términos que determine la ley.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 122 TER. Corresponde al Ministerio Público la investigación y la persecución ante los tribunales, de todos los delitos del fuero común; para ello contará con facultades para solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La Fiscalía General contará, al menos, con las fiscalías especializadas en delitos relacionados con hechos de corrupción, y en materia de delitos electorales; los titulares de las mismas serán electos y removidos en los mismos términos que para el caso del Fiscal General del Estado; los titulares de las demás fiscalías, así como los servidores públicos de esa institución, serán designados y removidos por el Fiscal General en los términos que la ley determine.
+
+La ley establecerá un servicio profesional de carrera que reglamente las bases para el ingreso, permanencia, ascensos, formación, profesionalización, y actualización de los servidores públicos de la Fiscalía, regido por los principios de, legalidad, objetividad, eficiencia, mérito, profesionalismo, honradez y respeto a los derechos humanos
+
+El Fiscal General presentará anualmente a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades y; en su caso, comparecerá personalmente al Congreso del Estado a informar sobre su gestión.
+
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOPRIMERO], P.O. 2 DE OCTUBRE DE 2017)
+
+TÍTULO DECIMOSEGUNDO
+
+DE LA JUSTICIA ADMINISTRATIVA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 121.
 
@@ -2249,25 +2259,21 @@ V.- Cuando por cualquier otra causa no logre integrarse legalmente el Ayuntamien
 
 En todos los casos señalados en este artículo, invariablemente si el supuesto se da dentro del primer año del período constitucional correspondiente, el Consejo Estatal Electoral deberá convocar a la elección extraordinaria de Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-TÍTULO DECIMOPRIMERO
+## TÍTULO DÉCIMO PRIMERO. DE LA JUSTICIA PENAL
 
-DE LA JUSTICIA ADMINISTRATIVA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
+### CAPÍTULO ÚNICO. Del Tribunal Estatal de Justicia Administrativa
 
-## TÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES, JUICIO POLÍTICO, Y SISTEMA ANTICORRUPCIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 123.
 
@@ -2277,9 +2283,15 @@ El Tribunal Estatal de Justicia Administrativa es el órgano competente para imp
 
 Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Los Magistrados durarán en su cargo diez años y no podrán ser ratificados; y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley, con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOSEGUNDO], P.O. 2 DE OCTUBRE DE 2017)
 
-### CAPÍTULO I. De las Reformas
+TÍTULO DECIMOTERCERO
+
+DE LAS RESPONSABILIDADES, JUICIO POLÍTICO, Y SISTEMA ANTICORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+### CAPÍTULO ÚNICO
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2355,13 +2367,11 @@ IV. El Tribunal Estatal de Justicia Administrativa impondrá a los particulares 
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 126.
 
-Podrán ser sujetos de Juicio Político en el Estado, los diputados, magistrados, consejeros de la Judicatura, jueces de Primera Instancia, secretarios de Despacho, Procurador General de Justicia, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
+Podrán ser sujetos de juicio político en el Estado, los diputados, magistrados, consejeros de la Judicatura, jueces de Primera Instancia, secretarios de Despacho, Auditor Superior del Estado, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción, y en delitos electorales, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2379,11 +2389,11 @@ En los casos a que se refiere el segundo párrafo del Artículo 110 de la Consti
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 127.
 
-Para proceder penalmente contra los secretarios de despacho, Procurador General de Justicia, diputados, magistrados del Supremo Tribunal de Justicia, presidentes municipales, Auditor Superior del Estado, y titulares de los organismos constitucionales autónomos, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo trámite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+Para proceder penalmente contra los secretarios de despacho, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción, y en delitos electorales, diputados, magistrados del Supremo Tribunal de Justicia, presidentes municipales, Auditor Superior del Estado, y titulares de los organismos constitucionales autónomos, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo tramite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2435,15 +2445,15 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 Las sanciones correspondientes se aplicarán en un período no mayor de tres meses a partir del inicio del procedimiento.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOTERCERO], P.O. 2 DE OCTUBRE DE 2017)
 
-TÍTULO DECIMOTERCERO
+TÍTULO DECIMOCUARTO
 
 PREVENCIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De la Inviolabilidad
+### CAPÍTULO I. De las Reformas
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2515,11 +2525,15 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 Ni el Congreso ni autoridad alguna pueden dispensar la observancia de esta Constitución. Se concede acción popular para denunciar la infracción de ella, en cualquiera de sus artículos.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOCUARTO], P.O. 2 DE OCTUBRE DE 2017)
 
-TÍTULO DECIMOCUARTO
+TÍTULO DECIMOQUINTO
 
 DE LAS REFORMAS E INVIOLABILIDAD A LA CONSTITUCIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+### CAPÍTULO II. De la Inviolabilidad
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3308,3 +3322,23 @@ PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su public
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí, y el Consejo Estatal Electoral y de Participación Ciudadana, deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0705.- SE REFORMA, ADICIONA Y DEROGA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La Legislatura del Estado tendrá un plazo de ciento veinte días para expedir las leyes y realizar las adecuaciones normativas necesarias, para la óptima implementación de la modificación Constitucional contenida en este Decreto.
+
+CUARTO. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo del Estado mandará las propuestas al Congreso Local, para la elección del Fiscal General del Estado, y de los fiscales especializados, en materia de delitos relacionados con hechos de corrupción; y en delitos electorales, en los términos de esta Constitución.
+
+El actual titular de la Procuraduría General de Justicia del Estado continuará en su cargo, hasta en tanto se realice la elección del Fiscal General del Estado en los términos de este Decreto.
+
+Quien ocupe el cargo de Procurador General de Justicia del Estado al momento de la entrada en vigor del presente Decreto, no tendrá impedimento para ser propuesto, en su caso, para ser electo Fiscal General del Estado en los términos de la Constitución.
+
+QUINTO. En tanto no inicie la vigencia de las leyes secundarias, continuarán aplicándose las disposiciones constitucionales y legales referentes a la Procuraduría General de Justicia del Estado.
+
+SEXTO. En tanto se modifican las leyes secundarias, las referencias que en éstas se hagan de la Procuraduría General de Justicia del Estado, se entenderán hechas a la Fiscalía General del Estado; y las que se hagan del Procurador General de Justicia del Estado, se entenderán hechas al Fiscal General del Estado.
