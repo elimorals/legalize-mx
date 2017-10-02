@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2017-07-03"
+last_updated: "2017-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -3395,19 +3395,29 @@ Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado 
 
 ### CAPÍTULO II. Medidas de Seguridad
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 210.
+###### Artículo 210.
 
-Cuando exista un riesgo inminente de afectación al ambiente; de daño o deterioro grave a los recursos naturales; así como casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Procuraduría o las autoridades municipales, en el ámbito de sus respectivas competencias, podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
+Cuando exista un riesgo inminente de afectación al ambiente; de daño o deterioro grave a la biodiversidad y/o a los recursos naturales; así como casos de contaminación con repercusiones peligrosas para el equilibrio ecológico, sus componentes o para la salud pública, la Procuraduría o las autoridades municipales, en el ámbito de sus respectivas competencias, podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. La clausura temporal, parcial o total, de las fuentes contaminantes, así como de las instalaciones en que se manejen o se desarrollen las actividades que generen efectos nocivos para el ambiente y la salud pública;
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. El aseguramiento de materiales, residuos o sustancias contaminantes, autotransportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. El retiro de los vehículos de la circulación, cuando éstos no cumplan con las disposiciones en materia de control y de emisiones provenientes de fuentes móviles; y
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. Cualquier otra medida de control que impida que las sustancias generen efectos nocivos para el ambiente y la salud pública.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores. Así mismo, podrá promover ante la autoridad competente la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
@@ -3732,3 +3742,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 145.- SE REFORMA EL ARTÍCULO 210 DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
