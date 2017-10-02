@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-sociedad-del-114795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-23"
-last_updated: "2016-05-23"
+last_updated: "2017-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE CIENCIA, TECNOLOGIA, INNOVACION Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -61,7 +63,7 @@ V. Obtener, administrar y evaluar la aplicación transparente de los recursos qu
 
 VI. Coordinar las actividades científicas, tecnológicas y de innovación de las dependencias y entidades de la administración pública del Estado y la incorporación de los avances en esta materia para su modernización, observando y aplicando las políticas e instrumentos previstos en este ordenamiento;
 
-VIl. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología e Innovación del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica, así como la creación de centros, grupos y redes de investigación;
+VII. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología e Innovación del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica, así como la creación de centros, grupos y redes de investigación;
 
 VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de investigadores, científicos y expertos en tecnología de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en instrumento promotor del desarrollo del Estado de Aguascalientes como Sociedad del Conocimiento;
 
@@ -481,7 +483,9 @@ El Comisario Público ejercerá, en el ámbito de sus respectivas competencias, 
 
 Para el cumplimiento de las funciones del Comisario Público, la Junta de Gobierno y el Director General, proporcionarán la información que les sea solicitada por este órgano de vigilancia.
 
-## TÍTULO TERCERO. DEL FINANCIAMIENTO Y DE LOS FONDOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO TERCERO. DEL FINANCIAMIENTO, LOS FONDOS Y LOS ESTÍMULOS FISCALES
 
 ### CAPÍTULO SEGUNDO. De Los Fondos
 
@@ -547,17 +551,27 @@ IV. Promover y estimular la creación equipamiento, mantenimiento y preservació
 
 Las reasignaciones de recursos de un proyecto que por necesidades del servicio requiera ser aplicadas a otro, deberá realizarse por la Junta de Gobierno previa solicitud fundada y motivada del Director General del IDSCEA.
 
-### CAPÍTULO PRIMERO. De la Divulgación, Difusión y Fomento de la Cultura Científica
+### CAPÍTULO TERCERO. Estímulos Fiscales
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+Artículo 40 A.- Se otorgará un estímulo fiscal a los contribuyentes que realicen proyectos en investigación y desarrollo tecnológico, en los términos que para tal efecto se establezcan en los Lineamientos que expida la Secretaría de Finanzas del Gobierno del Estado.
+
+Dicho estímulo fiscal consistirá en reconocer un 25% de los gastos efectuados en materia de investigación, desarrollo de tecnología y ciencia, los cuales se disminuirán de la base gravable del impuesto conforme al Capítulo VII del Título Segundo de la Ley de Hacienda del Estado de Aguascalientes, para aquellos contribuyentes que acrediten gastos e inversiones realizados en el ejercicio, en materia de investigación, desarrollo de tecnología y ciencia. Siempre que dichos gastos e inversiones, no se financien con los recursos provenientes del financiamiento o de los fondos a que hacen referencia respectivamente, los Artículos 32 y 33 de esta Ley.
+
+Para los efectos del presente Artículo, se consideran como gastos e inversiones realizados en el ejercicio, en materia de investigación, desarrollo de tecnología y ciencia, aquellos que acrediten el cumplimiento de los Lineamientos que expida la Secretaría de Finanzas del Gobierno del Estado, y que a su vez estén destinados exclusivamente a las actividades estipuladas en el Artículo 38 de la presente Ley.
 
 ###### Artículo 40.
 
 El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones científicas y tecnológicas; realización de proyectos específicos de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como otorgar estímulos y reconocimientos a investigadores y expertos en tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
 
-### CAPÍTULO SEGUNDO. De la Formación de Recursos Humanos
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO PRIMERO. De la Divulgación, Difusión y Fomento de la Cultura Científica
 
 ## TÍTULO CUARTO. INSTRUMENTOS DE APOYO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
-### CAPÍTULO TERCERO. Del Plan Rector del Sistema Estatal para la Gestión del Conocimiento
+### CAPÍTULO SEGUNDO. De la Formación de Recursos Humanos
 
 ###### Artículo 41.
 
@@ -581,9 +595,9 @@ IV. Promover la producción de materiales cuya finalidad sea la divulgación del
 
 Para incrementar la divulgación y difusión científica, tecnológica e innovación en el Estado, el IDSCEA impulsará y apoyará logística y económicamente la realización de seminarios, coloquios, veranos, cursos, congresos y ferias de investigación y desarrollo.
 
-### CAPÍTULO CUARTO. Del Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
+### CAPÍTULO TERCERO. Del Plan Rector del Sistema Estatal para la Gestión del Conocimiento
 
-### CAPÍTULO PRIMERO. De las Relaciones entre la Investigación y el Sector Productivo
+### CAPÍTULO CUARTO. Del Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
 
 ###### Artículo 44.
 
@@ -601,7 +615,7 @@ III. Promover programas de apoyo y becas para la realización de estudios de pos
 
 IV. Apoyar la integración de las comunidades científica y tecnológica del Estado.
 
-### CAPÍTULO SEGUNDO. De las Relaciones entre la Investigación y la Educación
+### CAPÍTULO PRIMERO. De las Relaciones entre la Investigación y el Sector Productivo
 
 ###### Artículo 46.
 
@@ -625,7 +639,7 @@ IV. El análisis de la situación del Estado respecto de los principales indicad
 
 V. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y largo plazo, por parte de los sectores público, privado, científico y académico para que el Estado alcance niveles de desarrollo económico y social mediante la aplicación de conocimientos e innovaciones tecnológicas equiparables a los de los países de la economía del conocimiento.
 
-### CAPÍTULO TERCERO. De la Coordinación y Desconcentración
+### CAPÍTULO SEGUNDO. De las Relaciones entre la Investigación y la Educación
 
 ###### Artículo 48.
 
@@ -653,7 +667,7 @@ Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación
 
 ## TÍTULO QUINTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. De la Coordinación y Desconcentración
 
 ###### Artículo 51.
 
@@ -755,6 +769,8 @@ En cada caso se determinará la forma y condiciones en que el IDSCEA recuperará
 
 Los apoyos a que se refiere el Artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; y se mantendrán mientras se demuestre la viabilidad técnica y económica del proyecto.
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 57.
 
 La investigación científica y tecnológica que el Gobierno del Estado apoye buscará contribuir significativamente a desarrollar un sistema de educación y de capacitación de alta calidad.
@@ -840,3 +856,17 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por el fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Aguascalientes, Ags., a 18 de mayo de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 144.- SE REFORMA Y ADICIONA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de enero de 2018.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas del Gobierno del Estado deberá expedir los Lineamientos a que se refiere el Artículo 40 A, en un plazo máximo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
