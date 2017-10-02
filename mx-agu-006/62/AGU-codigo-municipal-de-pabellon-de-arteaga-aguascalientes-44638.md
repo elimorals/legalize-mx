@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2017-07-17"
+last_updated: "2017-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -21159,11 +21159,11 @@ VII.- Organizar baile de coronación y de fiesta; y
 
 VIII.- Todo aquello que considere prudente para la realización y mejoramiento de la fiesta.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 1727.
 
-Los fondos que se obtengan por los comités de las Fiestas Patronales y/o Populares de las diferentes comunidades, incluyendo los de la Cabecera Municipal, se integrarán a la realización de alguna obra comunitaria de beneficio social.
+Los fondos que se obtengan por los comités de las Fiestas Patronales y/o Populares de las diferentes comunidades, incluyendo los de la Cabecera Municipal, se destinarán a la realización de obras comunitarias de beneficio social que se fundamenten en un proyecto para grupos vulnerables aprobado y ejecutado por el DIF municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21221,11 +21221,11 @@ Las solicitudes de permisos, deberán presentarse oportunamente y dentro de las 
 
 Sólo se reconocerán los pagos de derechos para los permisos otorgados, cuando consten en el recibo oficial, que por tal concepto expida la Tesorería del Patronato.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 1736.
 
-En la solicitud de permiso, que se presente al Patronato, deberán señalarse los ARTICULOs (sic) y/o servicios que se ofrecerán al público. Asimismo, el tipo de mobiliario y equipo a utilizar.
+En la solicitud del permiso que se presente al Patronato, deberán señalarse el o los artículos y/o servicios que se ofrecerán al público, así como el tipo de mobiliario y equipo a utilizar.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21245,11 +21245,11 @@ En caso de conflicto, el Patronato se reserva el derecho de guardar en prenda lo
 
 Los participantes y/o expositores, deberán declarar conocer sus obligaciones de carácter fiscal, por lo que se responsabilizan en su totalidad del pago de los impuestos a que estén sujetos, relevando al Patronato de cualquier responsabilidad al respecto.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 1740.
 
-Los participantes y/o expositores no podrán almacenar substancias peligrosas, corrosivas, deletéreas, o inflamables en su espacio, siendo el incumplimiento de lo preceptuado en este artículo, causa de rescisión del permiso, con independencia de cubrir al patronato y a los vecinos de los daños y perjuicios que ocasionen dichas substancias.
+Los participantes y/o expositores no podrán almacenar substancias peligrosas, corrosivas, deletéreas, o inflamables en su espacio, solicitando a protección civil emita dictamen de riesgos, siendo el incumplimiento de lo preceptuado en este artículo, causa de rescisión del permiso, con independencia de cubrir al patronato y a los vecinos de los daños y perjuicios que ocasionen dichas substancias.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21595,13 +21595,13 @@ IV.- Las demás que señale el presente Código.
 
 El Patronato en coordinación con el H. Ayuntamiento a través de la Tesorería, fijará las cuotas y permisos que deban cubrirse por el uso de espacios de la Feria por empresas o negocios particulares.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 1782.
 
-Los fondos que se obtengan de la administración de la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, se integrarán al patrimonio del Patronato, se destinarán a cubrir los gastos del festejo o a la realización de obras de infraestructura para futuras ferias; en caso de existir un remanente se entregará como donativo para el DIF Municipal.
+Los fondos que se obtengan de la administración de la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, formarán parte del patrimonio del Patronato y se destinarán a cubrir los gastos del festejo o a la realización de obras de infraestructura para futuras ferias; en caso de existir un remanente se entregará como donativo para el DIF Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ### CAPITULO PRIMERO. De los Principios Generales
 
@@ -24740,3 +24740,15 @@ El Instituto Pabellonense de las Mujeres deberá instalarse dentro de los treint
 ###### ARTÍCULO TERCERO.
 
 El Ayuntamiento, en sesión de Cabildo y dentro del plazo establecido en el artículo transitorio anterior, nombrará a la Directora del Instituto Pabellonense de las Mujeres, a propuesta del Presidente Municipal.
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
