@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vias-de-comunicacion-y-transito-para-el-estado-de-5638"
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-08"
-last_updated: "2016-08-15"
+last_updated: "2017-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VÍAS DE COMUNICACIÓN Y TRÁNSITO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1970.
 
@@ -109,9 +109,11 @@ La Dirección de Tránsito, tendrá como atribuciones esenciales planificar, org
 
 ### CAPITULO II. DE LOS VEHICULOS Y DE LOS SEMOVIENTES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Para los efectos de esta Ley se consideran vehículos: las bicicletas, triciclos, bici-motos, motonetas, motocicletas, automóviles, camiones, trailers, autobuses, remolques, equipo especial móvil, equipo agrícola móvil, y en general todos aquellos que por sus características puedan transitar en las vías públicas.
+Para los efecto (sic) de esta Ley se consideran vehículos: las bicicletas, triciclos, bicimotos, motonetas, motocicletas, trimotos, cuatrimotos, automóviles, camiones, trailers, autobuses, remolques, equipo especial móvil, equipo agrícola móvil, y en general todos aquellos que por sus características puedan transitar en las vías públicas.
 
 Se entiende por semoviente, el animal irracional y domesticado, que de acuerdo con su naturaleza es susceptible de transportar carga o personas o de tirar algún remolque o equipo móvil.
 
@@ -229,6 +231,16 @@ I.- Llevar un espejo retroscópico, colocado sobre el manubrio izquierdo que le 
 
 II.- Portar un faro con luz blanca y fija en la parte delantera con dispositivo que permita disminuir la intensidad de ésta; otro de luz roja en la parte posterior que ilumine la placa a la vez y que encienda cuando se aplique el freno.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 36 Bis.
+
+Los conductores de motonetas, motocicletas, trimotos y cuatrimotos, se sujetarán a las siguientes reglas generales:
+
+I. Solo podrán viajar, además del conductor, el número de personas autorizadas en la tarjeta de circulación; y
+
+II. El conductor y sus acompañantes deberán usar casco protector.
+
 ###### Artículo 37.
 
 Las bicicletas deberán contar con un espejo lateral, timbre o claxon, luz delantera y posterior y freno en las ruedas.
@@ -323,7 +335,7 @@ Entre tanto se extienda al interesado la licencia para manejar, se le expedirá 
 
 ###### Artículo 49.
 
-Toda licencia para manejar deberá ser resellada cada año, en la fecha que la Dirección General de Tránsito determine, previo el pago de los derechos correspondientes y del examen médico que demuestre que la persona está en aptitudes y condiciones e seguir manejando.
+Toda licencia para manejar deberá ser resellada cada año, en la fecha que la Dirección General de Tránsito determine, previo el pago de los derechos correspondientes y del examen médico que demuestre que la persona está en aptitudes y condiciones de seguir manejando.
 
 ###### Artículo 50.
 
@@ -651,7 +663,7 @@ Es obligación de los conductores de vehículos, disminuir su velocidad o detene
 
 ###### Artículo 114.
 
-Los conductores de vehículos que al llegar a cruceros protegidos por agentes o semáforos, encuentren señal de "adelante" y deseen voltear a cualquier lado, tendrá obligación de dar preferencia de paso a los peatones que, amparados por la misma señal, crucen de una acera o otra.
+Los conductores de vehículos que al llegar a cruceros protegidos por agentes o semáforos, encuentren señal de "adelante" y deseen voltear a cualquier lado, tendrá obligación de dar preferencia de paso a los peatones que, amparados por la misma señal, crucen de una acera a otra.
 
 ###### Artículo 115.
 
@@ -1083,7 +1095,9 @@ CONCESIONES Y PERMISOS
 
 (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Atículo (sic) 219.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+###### Artículo 219.
+
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 220.
 
@@ -1328,3 +1342,11 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 699 QUE REFORMA EL ARTÍCULO 86 DE LA LEY DE VÍAS DE COMUNICACIÓN Y TRÁNSITO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 221 QUE REFORMA EL ARTICULO 14 Y ADICIONA EL ARTÍCULO 36 BIS A LA LEY DE VÍAS DE COMUNICACIÓN Y TRÁNSITO PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. En un término de 90 días los ayuntamientos adecuarán y/o expedirán la reglamentación correspondiente.
