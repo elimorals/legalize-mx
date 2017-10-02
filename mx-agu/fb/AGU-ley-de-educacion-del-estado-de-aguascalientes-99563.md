@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2017-07-10"
+last_updated: "2017-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -183,7 +183,9 @@ VI. Fomentar la protección del medio ambiente y el equilibrio ecológico, hacie
 
 a) Promover el establecimiento de centros de educación y cultura ambiental;
 
-b) Promover la creación de textos que aborden temas y problemáticas ambientales como: el cuidado del agua, el aire, los suelos, la biodiversidad del Estado, el cambio climático y los demás temas y problemáticas ambientales que se presente (sic) en el Estado.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+b) Editar libros y producir otros materiales didácticos que aborden temas y problemáticas ambientales como el cuidado del agua, el aire, los suelos, la biodiversidad del Estado, el cambio climático y los demás temas y problemáticas ambientales que se presenten en el Estado;
 
 c) Coadyuvar en la construcción y mantenimiento de áreas verdes en las escuelas y centros educativos;
 
@@ -2482,6 +2484,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 116.- SE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 137.- SE REFORMA EL ARTÍCULO 8º DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
