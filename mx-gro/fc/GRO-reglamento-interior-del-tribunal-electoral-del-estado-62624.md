@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-tribunal-electoral-del-estado-62624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-19"
-last_updated: "2008-08-19"
+last_updated: "2017-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 19 de agosto de 2008.
 
@@ -1436,3 +1438,25 @@ QUE LA PRESENTE COPIA FOTOSTÁTICA COMPUESTA DE 50 FOJAS, CONCUERDA FIELMENTE EN
 EL SECRETARIO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento abroga el aprobado por el Pleno del Tribunal Electoral del Estado, el veinticinco de julio de dos mil ocho y publicado en el Periódico Oficial del Gobierno del Estado, el diecinueve de agosto de dos mil ocho.
+
+###### ARTÍCULO TERCERO.
+
+La Coordinación del Servicio Profesional de Carrera, empezará a funcionar en términos del artículo primero transitorio del Estatuto del Servicio Profesional de Carrera del Tribunal Electoral del Estado de Guerrero.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente a través de los medios de difusión idóneos, en la página electrónica de éste Tribunal, así como en el Periódico Oficial del Gobierno del Estado, para el conocimiento del público en general.
