@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2016-11-03"
+last_updated: "2017-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE DONACION Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY DE DONACION Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY DE DONACION Y TRASPLANTES DE ORGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSI-
 
-LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ
+LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -41,7 +41,9 @@ Por último, se incluye la regulación de un tema que de conformidad con lo disp
 
 Se expide la Ley de Donación y Trasplantes de Órganos, Tejidos y Componentes para el Estado de San Luis Potosí
 
-LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -53,9 +55,11 @@ La presente Ley es de orden público e interés social; tiene por objeto dar cum
 
 Los bienes jurídicos que este Ordenamiento protege son, la vida; la salud; la dignidad humana; la libertad; la gratuidad; la voluntad; la equidad, e igualdad.
 
-###### ARTÍCULO 2°.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2017)</small>
 
-Los bienes jurídicos a que alude el artículo anterior, en los procedimientos de donación y trasplantes de órganos, tejidos y componentes, operarán bajo los principios de:
+###### ARTÍCULO 2º.
+
+Los bienes jurídicos a que alude el artículo anterior, en los procedimientos de donación y trasplantes de órganos, tejidos y células, operarán bajo los principios de:
 
 I. Transparencia, en el procedimiento de donación y trasplante; garantizando siempre la protección del anonimato personal y la privacidad de los donantes y receptores;
 
@@ -77,7 +81,9 @@ IX. Remuneración justificada, a profesionistas e instituciones de salud por con
 
 X. No maleficencia, al informar al donante y receptor de los riesgos y beneficios del procedimiento de donación y trasplante; con la prohibición de efectuar donaciones en situaciones clínicas en las que no haya ninguna esperanza, y
 
-XI. Protección al menor e incapaz, para prohibir la extracción de componentes, tejidos u órganos del cuerpo en vida de éstos para fines de trasplante; salvo en los casos previstos por esta Ley.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XI. Protección al menor e incapaz, para prohibir la extracción de células, tejidos u órganos del cuerpo en vida de éstos para fines de trasplante; salvo en los casos previstos por esta Ley.
 
 ###### ARTÍCULO 3°.
 
@@ -93,15 +99,23 @@ IV. Consentimiento: manifestación de la voluntad para la donación de órganos,
 
 V. Diagnóstico de muerte encefálica: certificación de un médico neurólogo, intensivista o internista, respecto de la pérdida de la vida de una persona;
 
-VI. Disposición: conjunto de actividades relativas a, la obtención; recolección; análisis; conservación; preparación; suministro; utilización y destino final de, órganos, tejidos, componentes, tejidos y cadáveres de seres humanos, con fines terapéuticos, de docencia, o investigación. La disposición será siempre a título gratuito;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+VI. Disposición: conjunto de actividades relativas a, la obtención; recolección; análisis; conservación; preparación; suministro; utilización y destino final de, órganos, tejidos, células, tejidos y cadáveres de seres humanos, con fines terapéuticos, de docencia, o investigación. La disposición será siempre a título gratuito;
 
 VII. Donador o disponente originario: persona que tácita o expresamente consiente la disposición en vida o para después de su muerte, de su cuerpo o de sus órganos, tejidos y componentes, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-VIII. Disponente secundario: persona que otorga su consentimiento para la disposición del cadáver, órganos, y componentes del donador o disponente originario, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+VIII. Disponente secundario: persona que otorga su consentimiento para la disposición del cadáver, órganos, y células del donador o disponente originario, en los términos de esta Ley;
 
 IX. Explante: extirpación de un órgano o tejido viable sin lesionarlo y preservarlo hasta su implante;
 
 X. Hora de muerte encefálica: aquélla certificada por un médico neurólogo, intensivista o internista, que practiquen los exámenes correspondientes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+X Bis. Potencial donador: es todo paciente con posible evolución a muerte encefálica o paro cardíaco irreversible en un periodo de tiempo breve;
 
 XI. Receptor: persona que recibe para su uso terapéutico un órgano, tejido, o componentes;
 
@@ -109,7 +123,9 @@ XII. Registro: Registro Estatal de Donadores y Receptores del Estado de San Luis
 
 XIII. Secretaría: Secretaría de Salud del Estado;
 
-XIV. Trasplante: transferencia de un órgano, tejido o componentes de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XIV. Trasplante: transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
 
 XV. Tejido: entidad morfológica compuesta por la agrupación de componentes de la misma naturaleza, ordenadas con regularidad y que desempeñan una misma función;
 
@@ -129,7 +145,9 @@ Toda persona con capacidad de ejercicio, de acuerdo a lo establecido en el Códi
 
 Toda persona con capacidad de ejercicio puede disponer de su cuerpo total o parcialmente, para después de su muerte, con fines terapéuticos, de enseñanza, o investigación.
 
-## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE DONACIÓN Y TRASPLANTE DE ÓRGANOS TEJIDOS Y COMPONENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE DONACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS, Y CÉLULAS
 
 ### Capítulo I. Competencia de las Autoridades
 
@@ -151,15 +169,19 @@ Corresponde a la Secretaría de Salud, y al Centro Estatal de Trasplantes, emiti
 
 Asimismo, compete a la Secretaría la emisión de los instructivos, circulares y formas que se requieran para la aplicación de la presente Ley.
 
-###### ARTÍCULO 9°.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2017)</small>
 
-El titular del Poder Ejecutivo del Estado concurrirá con las autoridades federales en materia de donación y trasplantes de órganos, tejidos y componentes, a efecto de coadyuvar con sus objetivos, así como en las acciones y actividades implementadas por éstas.
+###### ARTÍCULO 9º.
+
+El titular del Poder Ejecutivo del Estado concurrirá con las autoridades federales en materia de donación y trasplantes de órganos, tejidos y células, a efecto de coadyuvar con sus objetivos, así como en las acciones y actividades implementadas por éstas.
 
 Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordinación con; el Centro Nacional de Trasplantes; el Centro Estatal de Trasplantes; las Instituciones de educación superior, a través de sus escuelas y facultades de medicina; los colegios y las academias legalmente reconocidos de medicina, cirugía y ciencias; y las instituciones de salud públicas, sociales y privadas con autorización legal y capacidad técnica para realizar, conforme a los ordenamientos legales y administrativos en vigor, la disposición de órganos con fines terapéuticos, de investigación, y docencia.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-Queda prohibido bajo cualquier circunstancia el comercio de órganos, tejidos y componentes.
+Queda prohibido bajo cualquier circunstancia el comercio de órganos, tejidos y células.
 
 ###### ARTÍCULO 11.
 
@@ -191,11 +213,15 @@ Corresponde a la Secretaría, y al CETRA, controlar, programar, coordinar, super
 
 El Centro Estatal de Trasplantes es un organismo descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de San Luis Potosí, sectorizado a la Secretaría.
 
-El CETRA se integra y funciona de acuerdo a lo que establece la presente Ley; dentro del ámbito de su competencia tiene la atribución de vigilar la asignación de órganos, tejidos y componentes de seres humanos, que realicen las instituciones públicas y privadas, en coordinación con los comités internos de trasplantes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+El CETRA se integra y funciona de acuerdo a lo que establece la presente Ley; dentro del ámbito de su competencia tiene la atribución de vigilar la asignación de órganos, tejidos y células de seres humanos, que realicen las instituciones públicas y privadas, en coordinación con los comités internos de trasplantes.
 
 Asimismo, actúa coordinadamente en el fomento y promoción de la cultura de la donación con el Consejo Nacional de Trasplantes, así como las autoridades sanitarias en el Estado.
 
-El objeto del CETRA es de control, relacionado con las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, con fines terapéuticos; emitir opiniones, acuerdos y resoluciones relacionados a la materia; y la vinculación y vigilancia con instituciones públicas y privadas que realicen actividades vinculadas al objeto; así como la difusión de la donación de órganos, y la capacitación de recursos humanos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+El objeto del CETRA es de control, relacionado con las donaciones y trasplantes de órganos, tejidos y células de seres humanos, con fines terapéuticos; emitir opiniones, acuerdos y resoluciones relacionados a la materia; y la vinculación y vigilancia con instituciones públicas y privadas que realicen actividades vinculadas al objeto; así como la difusión de la donación de órganos, y la capacitación de recursos humanos.
 
 El objeto encomendado al CETRA lo realizará con apego a, la Ley General de Salud, la Ley Estatal de Salud, los reglamentos, normas oficiales y lineamientos que al efecto se dicten, y de acuerdo a las políticas que establezca la Secretaría.
 
@@ -203,35 +229,59 @@ El objeto encomendado al CETRA lo realizará con apego a, la Ley General de Salu
 
 El CETRA tiene las siguientes funciones:
 
-I. Vigilar que los profesionales de las disciplinas de la salud que intervengan en la obtención y trasplantes de órganos, tejidos, o componentes, apeguen su actuación a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-II. Organizar y operar lo referente a las actividades de donación y trasplante de órganos, tejidos y componentes de seres humanos;
+I. Vigilar que los profesionales de las disciplinas de la salud que intervengan en la obtención y trasplantes de órganos, tejidos, o células, apeguen su actuación a las disposiciones legales aplicables;
 
-III. Realizar acciones tendientes a garantizar a la población el respeto y la protección del derecho a la libre donación de órganos, tejidos y componentes humanos, así como de ser sujeto de trasplante de éstos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-IV. Proponer y fortalecer la participación de la comunidad en la donación y trasplantes de órganos, tejidos y componentes de seres humanos;
+II. Organizar y operar lo referente a las actividades de donación y trasplante de órganos, tejidos y células de seres humanos;
 
-V. Desarrollar acciones que sean necesarias para mejorar la calidad de los procedimientos de trasplantes, y para la eficientización de este servicio de salud en lo que a trasplantes y donaciones de órganos, tejidos y componentes de seres humanos se refiere;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+III. Realizar acciones tendientes a garantizar a la población el respeto y la protección del derecho a la libre donación de órganos, tejidos y células humanos, así como de ser sujeto de trasplante de éstos, en los términos de la Ley General de Salud, y de la presente Ley;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IV. Proponer y fortalecer la participación de la comunidad en la donación y trasplantes de órganos, tejidos y células de seres humanos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+V. Desarrollar acciones que sean necesarias para mejorar la calidad de los procedimientos de trasplantes, y para la eficientización de este servicio de salud en lo que a trasplantes y donaciones de órganos, tejidos y células de seres humanos se refiere;
 
 VI. Promover, apoyar y llevar a cabo la capacitación en la materia, de los profesionales, especialistas y técnicos;
 
-VII. Incentivar la formación de recursos humanos en la docencia, investigación y aplicación operativa de los trasplantes y de la cultura de donación de órganos, tejidos y componentes, llevándose a cabo bajo los lineamientos que se establecen en, la Ley General de Salud; Ley Estatal de Salud; Norma Oficial Mexicana que al efecto se dicte; y en las normas técnicas que establezca la Secretaría;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-VIII. Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación estudio y análisis de aspectos específicos en materia de donación y trasplantes de órganos, tejidos y componentes;
+VII. Incentivar la formación de recursos humanos en la docencia, investigación y aplicación operativa de los trasplantes y de la cultura de donación de órganos, tejidos y células, llevándose a cabo bajo los lineamientos que se establecen en, la Ley General de Salud; Ley Estatal de Salud; Norma Oficial Mexicana que al efecto se dicte; y en las normas técnicas que establezca la Secretaría;
 
-IX. Difundir a las autoridades correspondientes y a la población, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, análisis, estudio y recopilación de información, documentación e intercambio que realice en materia de donación y trasplantes de órganos, tejidos y componentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+VIII. Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación estudio y análisis de aspectos específicos en materia de donación y trasplantes de órganos, tejidos y células;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IX. Difundir a las autoridades correspondientes y a la población, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, análisis, estudio y recopilación de información, documentación e intercambio que realice en materia de donación y trasplantes de órganos, tejidos y células;
 
 X. Conocer, respetar y aplicar los ordenamientos legales de carácter federal y estatal en materia de donación y trasplante de órganos; así como las normas oficiales mexicanas y técnicas que al efecto se instituyan y que sean aplicables en la materia;
 
-XI. Coadyuvar con las autoridades sanitarias federales y estatales en términos de los acuerdos o convenios de coordinación que para tal efecto se suscriban, en lo referente al control y vigilancia de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, así como de las actividades relacionadas con éstos, de los establecimientos en que se realicen dichos actos, y que los profesionales de las disciplinas de la salud que intervengan en la extracción de órganos y tejidos o en trasplantes, se ajusten a las disposiciones legales aplicables en la materia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-XII. Realizar estudios con estricto apego a la ley, y documentar los resultados que se obtengan, y que sean tendientes a mejorar, optimizar y eficientizar los procedimientos de donación y trasplantes de órganos, tejidos y componentes de seres humanos;
+XI. Coadyuvar con las autoridades sanitarias federales y estatales en términos de los acuerdos o convenios de coordinación que para tal efecto se suscriban, en lo referente al control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, así como de las actividades relacionadas con éstos, de los establecimientos en que se realicen dichos actos, y que los profesionales de las disciplinas de la salud que intervengan en la extracción de órganos y tejidos o en trasplantes, se ajusten a las disposiciones legales aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XII. Realizar estudios con estricto apego a la ley, y documentar los resultados que se obtengan, y que sean tendientes a mejorar, optimizar y eficientizar los procedimientos de donación y trasplantes de órganos, tejidos y células de seres humanos;
 
 XIII. Operar y mantener actualizado el Registro Estatal de Trasplantes, en coordinación con el Consejo Nacional de Trasplantes, y con las autoridades sanitarias federales y estatales;
 
-XIV. Coadyuvar, en el ámbito de su competencia, con el Consejo Nacional de Trasplantes en la decisión y vigilancia de la asignación de órganos, tejidos y componentes de seres humanos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-XV. Emitir opiniones, acuerdos y resoluciones técnicas relacionadas con la donación y trasplantes de órganos, tejidos y componentes, así como con los procedimientos de los mismos; actividades relacionadas con éstas y respecto de los establecimientos en que se realicen dichos actos, ya sea de manera oficiosa, o bien cuando éstas le sean requeridas por las autoridades sanitarias federales y estatales, así como por las autoridades judiciales del fuero común o federal;
+XIV. Coadyuvar, en el ámbito de su competencia, con el Consejo Nacional de Trasplantes en la decisión y vigilancia de la asignación de órganos, tejidos y células de seres humanos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XV. Emitir opiniones, acuerdos y resoluciones técnicas relacionadas con la donación y trasplantes de órganos, tejidos y células, así como con los procedimientos de los mismos; actividades relacionadas con éstas y respecto de los establecimientos en que se realicen dichos actos, ya sea de manera oficiosa, o bien cuando éstas le sean requeridas por las autoridades sanitarias federales y estatales, así como por las autoridades judiciales del fuero común o federal;
 
 XVI. Fomentar y promover la cultura de donación de órganos, en coordinación con las autoridades sanitarias en el Estado;
 
@@ -239,13 +289,17 @@ XVII. Hacer constar el mérito y altruismo de los donadores y sus familiares, me
 
 XVIII. Constituir y validar la operación de las actividades de comités y subcomités que coadyuven a la obtención de recursos financieros o materiales, para la consecución de los fines del organismo descentralizado;
 
-XIX. Validar las actividades de los grupos de apoyo que coadyuven en el fomento de la cultura de la donación de órganos y tejidos de seres humanos, o en todo caso que sus acciones principales tiendan a facilitar los procesos para la procuración de órganos y componentes, con fines de trasplante dentro de las diferentes instituciones de salud del Estado, que expresamente lo soliciten, observando la normatividad aplicable a la materia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XIX. Validar las actividades de los grupos de apoyo que coadyuven en el fomento de la cultura de la donación de órganos y tejidos de seres humanos o, en todo caso, que sus acciones principales tiendan a facilitar los procesos para la procuración de órganos y células, con fines de trasplante dentro de las diferentes instituciones de salud del Estado, que expresamente lo soliciten, observando la normatividad aplicable a la materia;
 
 XX. Coordinar sus actividades con las diferentes dependencias y autoridades, federales y estatales para el logro de su objeto y cumplimiento de sus funciones y atribuciones;
 
 XXI. Planear, programar y administrar, a través de la Dirección General, los recursos que le sean asignados, así como las aportaciones que reciba de otras personas e instituciones, y ejercer los recursos económicos autorizados para programas de inversión física y financiera;
 
-XXII. Realizar los actos, convenios, contratos y demás instrumentos jurídicos que sean necesarios para el logro de sus objetivos, y para el cumplimiento de sus funciones y atribuciones, así como las acciones que directa o indirectamente contribuyan al fomento de la cultura de la donación de órganos, tejidos y componentes de seres humanos, así como al trasplante de los mismos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XXII. Realizar los actos, convenios, contratos y demás instrumentos jurídicos que sean necesarios para el logro de sus objetivos, y para el cumplimiento de sus funciones y atribuciones, así como las acciones que directa o indirectamente contribuyan al fomento de la cultura de la donación de órganos, tejidos y células de seres humanos, así como al trasplante de los mismos;
 
 XXIII. Autorizar la creación de comisiones de apoyo, y determinar las bases de su funcionamiento;
 
@@ -307,11 +361,17 @@ La Junta de Gobierno tendrá las funciones siguientes:
 
 I. Administrar el patrimonio del organismo, con amplias facultades para actos de administración, de dominio, para pleitos y cobranzas, así como para delegarlas;
 
-II. Definir en congruencia con los planes y programas nacionales y estatales, las políticas en materia de donación y trasplantes de órganos, tejidos y componentes a seguir por el organismo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-III. Ejercer el control y vigilancia de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, de las actividades relacionadas con éstos y de los establecimientos que realizan dichos actos y que le sean informados por el Director General;
+II. Definir en congruencia con los planes y programas nacionales y estatales, las políticas en materia de donación y trasplantes de órganos, tejidos y células a seguir por el organismo;
 
-IV. Vigilar, a través del Director General y en coordinación con los Servicios de Salud de San Luis Potosí, el cumplimiento de las normas oficiales mexicanas en materia de tejidos y componentes, así como la donación y trasplantes de éstos y respecto de los establecimientos en que se realizan los actos relativos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+III. Ejercer el control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, de las actividades relacionadas con éstos y de los establecimientos que realizan dichos actos y que le sean informados por el Director General;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IV. Vigilar a través, del Director General y en coordinación con los Servicios de Salud de San Luis Potosí, el cumplimiento de las normas oficiales mexicanas en materia de órganos, tejidos y células, así como la donación y trasplantes de éstos y respecto de los establecimientos en que se realizan los actos relativos;
 
 V. Vigilar y autorizar las investigaciones en las que en su desarrollo se utilizan órganos y tejidos de seres humanos, con excepción de la sangre, así como de injerto y trasplantes que se pretendan realizar con fines de investigación, previa opinión de la autoridad sanitaria competente;
 
@@ -405,7 +465,9 @@ II. Ejecutar los acuerdos y resoluciones que emita la Junta de Gobierno.
 
 III. Llevar el Registro Estatal de Trasplantes y someterlo a consideración de la Junta de Gobierno;
 
-IV. Vigilar dentro de su ámbito de competencia, la asignación de órganos, tejidos y componentes en seres humanos, informando de ello a la Junta de Gobierno en las sesiones ordinarias;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IV. Vigilar, dentro de su ámbito de competencia, la asignación de órganos, tejidos y células en seres humanos, informando de ello a la Junta de Gobierno en las sesiones ordinarias;
 
 V. Fomentar y promover la cultura de la donación de órganos;
 
@@ -467,27 +529,43 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 El CETRA, en coordinación con el Centro Nacional de Trasplantes, operará y mantendrá actualizado el Registro Estatal de Trasplantes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-El Registro Estatal de Trasplantes tiene por objeto primordial asegurar con eficacia, el cumplimiento y observancia de la voluntad de la persona que expresamente dona sus órganos, tejidos o componentes. Las funciones del Registro son:
+El Registro Estatal de Trasplantes tiene por objeto primordial integrar y mantener actualizada la información pormenorizada de los procesos de donación y trasplante en el Estado, así como de las personas que hayan expresado su consentimiento u oposición expresos para la disposición de su cuerpo, total o parcialmente, de acuerdo con lo establecido en la Ley General de Salud y demás disposiciones respectivas. Las funciones del Registro son:
 
-I. Fungir como centro estatal de referencia respecto de la disposición de órganos, tejidos y componentes con fines terapéuticos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-II. Coordinar con el Registro Nacional de Trasplantes, la distribución de órganos, tejidos y sus componentes en todo el Estado;
+I. Fungir como centro estatal de referencia respecto de la disposición de órganos, tejidos y células con fines terapéuticos;
 
-III. Establecer y aplicar procedimientos para facilitar, en todo el Estado, la obtención de órganos, tejidos y componentes de seres humanos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-IV. Llevar un registro de disponentes originarios de órganos, tejidos y componentes;
+II. Coordinar con el Registro Nacional de Trasplantes, la distribución de órganos, tejidos y sus células en todo el Estado;
 
-V. Llevar un registro de los establecimientos de salud que en el Estado realicen actos de disposición de órganos, tejidos y componentes con fines terapéuticos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+III. Establecer y aplicar procedimientos para facilitar, en todo el Estado, la obtención de órganos, tejidos y células de seres humanos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IV. Llevar un registro de disponentes originarios de órganos, tejidos y células;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+V. Llevar un registro de los establecimientos de salud que en el Estado realicen actos de disposición de órganos, tejidos y células con fines terapéuticos;
 
 VI. Llevar un registro de pacientes que se encuentran en espera de trasplantes;
 
 VII. Llevar un registro de los pacientes que han recibido trasplantes y su evolución;
 
-VIII. Estudiar, conocer y proporcionar información de todos los aspectos relacionados con la disposición de órganos, tejidos y componentes de seres humanos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-IX. Remitir al Registro Nacional de Trasplantes, de manera mensual la información que recabe a efecto de mantener actualizado la base de datos del mismo;
+VIII. Estudiar, conocer y proporcionar información de todos los aspectos relacionados con la disposición de órganos, tejidos y células de seres humanos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IX. Remitir al Registro Nacional de Trasplantes las irregularidades detectadas y las medidas adoptadas;
 
 X. Llevar registro de los casos de muerte encefálica en los que se haya concretado la donación, así como los órganos y tejidos que fueron trasplantados, y
 
@@ -503,13 +581,19 @@ II. Listado con los datos generales de, las personas receptoras consideradas can
 
 III. El registro de establecimientos autorizados que se dediquen a:
 
-a) La extracción, análisis, conservación, preparación y suministro de órganos, tejidos, y componentes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-b) Los trasplantes de órganos, tejidos y componentes.
+a) La extracción, análisis, conservación, preparación y suministro de órganos, tejidos, y células.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+b) Los trasplantes de órganos, tejidos y células.
 
 c) Los bancos de órganos;
 
-IV. Listado con los datos de los profesionistas de las disciplinas para la salud, autorizados para intervenir en la realización de explantes y trasplantes de órganos, tejidos y componentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IV. Listado con los datos de los profesionistas de las disciplinas para la salud, autorizados para intervenir en la realización de explantes y trasplantes de órganos, tejidos y células;
 
 V. Los datos de los explantes y donaciones de órganos realizadas de disponentes fallecidos, y
 
@@ -525,7 +609,9 @@ El Registro Estatal de Trasplantes es público; excepto en lo concerniente a los
 
 Los establecimientos de salud autorizados para explante y trasplante deberán informar de su actividad al CETRA, para efectos de actualizar la información del Registro.
 
-Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador, deberán solicitar y obtener información del Registro, relativa a la disposición que él mismo hubiese hecho respecto de sus órganos, tejidos o componentes, con el objeto de proceder al explante, en su caso, y previo el cumplimiento de la legislación aplicable.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador, deberán solicitar y obtener información del Registro, relativa a la disposición que él mismo hubiese hecho respecto de sus órganos, tejidos o células, con el objeto de proceder al explante, en su caso, y previo el cumplimiento de la legislación aplicable.
 
 El CETRA, bajo su responsabilidad, garantizará la observancia de este artículo.
 
@@ -537,9 +623,11 @@ El CETRA, bajo su responsabilidad, garantizará la observancia de este artículo
 
 En los términos de, la Ley General de Salud; y la Ley Estatal de Salud, así como este Ordenamiento, los disponentes pueden ser originarios, y secundarios.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 31.
 
-Bajo ninguna circunstancia podrá participar en el proceso de extracción y trasplante de órganos, tejidos, o componentes, el médico que haya intervenido en la determinación de la muerte de un donante potencial, o personal del Centro Estatal de Trasplantes.
+Bajo ninguna circunstancia podrá participar en el proceso de extracción y trasplante de órganos, tejidos, o células, el médico que haya intervenido en la determinación de la muerte de un donante potencial, o personal del Centro Estatal de Trasplantes.
 
 ### Capítulo II. Del Consentimiento
 
@@ -549,9 +637,11 @@ El donador o disponente originario podrá, en cualquier tiempo, revocar el conse
 
 En caso de que el disponente originario no haya revocado su consentimiento en vida, no tendrá validez la revocación que, en su caso, hagan los disponentes secundarios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-El disponente originario o secundario, según sea el caso, otorgará el consentimiento para la disposición de cadáveres; así como de órganos, tejidos, y componentes, a través de escrito otorgado mediante cualquiera de los mecanismos siguientes:
+El disponente originario o secundario, según sea el caso, otorgará el consentimiento para la disposición de cadáveres; así como de órganos, tejidos, y células, a través de escrito otorgado mediante cualquiera de los mecanismos siguientes:
 
 I. Por cualquier documento oficial;
 
@@ -563,15 +653,17 @@ III. Ante dos testigos y ratificado ante notario público, o
 
 IV. Mediante el formato que el CENATRA y el CETRA autorice, ante dos testigos y depositado en el Registro, emitiendo a su vez una credencial que identifique al disponente.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-Los notarios públicos ante quienes se haga constar o se ratifique la voluntad de ser donador de órganos, tejidos y componentes, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, de terceros ajenos al propio donador.
+Los notarios públicos ante quienes se haga constar o se ratifique la voluntad de ser donador de órganos, tejidos y células, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, de terceros ajenos al propio donador. El trámite notarial a que se refiere este párrafo, no generará costo alguno al potencial donador.
 
 En los casos de muerte con causa legal, el consentimiento del disponente secundario podrá ser otorgado mediante comparecencia que al efecto se rinda ante el Ministerio Público, en los términos del artículo 60 de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 34.
 
-El documento en el que el donador o disponente originario exprese su voluntad para la disposición de sus órganos, tejidos y componentes debe contener:
+El documento en el que el donador o disponente originario exprese su voluntad para la disposición de sus órganos, tejidos y células debe contener:
 
 I. Nombre completo;
 
@@ -589,9 +681,9 @@ VII. Nombre y domicilio del cónyuge, concubina o concubinario, si tuviere;
 
 VIII. Si fuese soltero, nombre y domicilio de los padres y, a falta de éstos, de alguno de sus familiares más cercanos;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-IX. El señalamiento de que por propia voluntad y a título gratuito consiente en la disposición de órganos, tejidos o componentes de que se trate, expresándose si esta disposición se entenderá hecha entre vivos, o para después de su muerte, en cuyo caso se autoriza el uso de procedimientos invasivos en caso de muerte;
+IX. El señalamiento de que por propia voluntad y a título gratuito consiente en la disposición de órganos, tejidos o células de que se trate, expresándose si esta disposición se entenderá hecha entre vivos o para después de su muerte;
 
 X. Identificación clara y precisa del órgano objeto del trasplante;
 
@@ -645,7 +737,9 @@ IV. Los parientes del disponente originario hasta el segundo grado;
 
 V. La autoridad sanitaria competente.
 
-VI. El Ministerio Público, en relación con los órganos, tejidos, componentes y cadáveres de seres humanos que tengan el carácter de personas desconocidas y se encuentren bajo su responsabilidad con motivo del ejercicio de sus funciones, de conformidad con lo dispuesto por el artículo 60 fracción II de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+VI. El Ministerio Público, en relación con los órganos, tejidos, células y cadáveres de seres humanos que tengan el carácter de personas desconocidas y se encuentren bajo su responsabilidad con motivo del ejercicio de sus funciones, de conformidad con lo dispuesto por el artículo 60 fracción II de esta Ley;
 
 VII. La autoridad judicial, de conformidad con lo dispuesto por el artículo 60 fracción II de esta Ley;
 
@@ -677,11 +771,15 @@ II. No presentar otras enfermedades que predeciblemente interfieran en el éxito
 
 III. Tener un estado de salud físico y mental capaz de tolerar el trasplante y su evolución, y
 
-IV. Haber expresado su voluntad por escrito, una vez enterado del objeto de la intervención, de sus riesgos y de las probabilidades de éxito.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IV. Haber expresado su voluntad por escrito mediante el consentimiento informado específico para donante vivo y receptor de órganos, tejidos y células en los términos del reglamento, una vez enterado y comprendido el objeto de la intervención, sus riesgos y las probabilidades de éxito.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-El escrito donde se exprese la voluntad a que se refiere la fracción IV del artículo anterior, debe contener:
+El escrito donde se exprese el consentimiento informado al que se refiere la fracción IV del artículo anterior, debe contener:
 
 I. Nombre completo del receptor;
 
@@ -699,7 +797,9 @@ VII. Nombre y domicilio del cónyuge; concubina o concubinario, si tuviere;
 
 VIII. Si fuese soltero, nombre y domicilio de los padres y, a falta de éstos, de alguno de sus familiares más cercanos;
 
-IX. El señalamiento preciso de que por su propia voluntad consiente en la realización del trasplante, y que fue enterado suficientemente del objeto y clase de la intervención y de las probabilidades de éxito terapéutico;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+IX. El señalamiento preciso de que por su propia voluntad consiente en la realización del trasplante, y que fue enterado suficientemente del objeto y clase de la intervención y de las probabilidades de éxito terapéutico, así como de los riesgos del procedimiento quirúrgico y los efectos secundarios del manejo médico posterior al trasplante;
 
 X. Firma o huella digital;
 
@@ -719,7 +819,9 @@ La autorización a que se refiere el párrafo anterior, deberá reunir los requi
 
 Intervienen en el procedimiento de donación, y requieren autorización sanitaria, los establecimientos dedicados a:
 
-I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y componentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
 
 II. Los trasplantes de órganos y tejidos, y
 
@@ -823,15 +925,19 @@ Cuando por virtud de los avances de la ciencia el trasplante sea inútil, la Sec
 
 Los establecimientos a que alude el artículo anterior, que realicen actos de disposición de órganos con fines terapéuticos, rendirán un informe de sus actividades al CETRA, para que por su conducto, se ingrese dicha información al Registro Estatal de Trasplantes. Dicho informe deberá de realizarse en los términos y periodicidad que señale el CETRA.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 51.
 
-La selección del disponente originario y del receptor de órganos, tejidos o componentes, se hará siempre por prescripción y bajo control médico en los términos que fije el CETRA.
+La selección del disponente originario y del receptor de órganos, tejidos o células, se hará siempre por prescripción y bajo control médico en los términos que fije el CETRA.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-Para la asignación de órganos, tejidos o componentes de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor, y los demás criterios médicos aceptados, así como la ubicación hospitalaria e institucional del donador.
+Para la asignación de órganos, tejidos o células de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor, y los demás criterios médicos aceptados, así como la ubicación hospitalaria e institucional del donador.
 
-Cuando no exista urgencia o razón médica para asignar preferentemente un órgano, tejido o componentes, ésta se sujetará estrictamente a la información que se encuentre ingresada en el Registro Nacional de Trasplantes, y el Registro Estatal de Trasplantes, de conformidad con lo señalado en el artículo 27 de esta Ley.
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano, tejido o células, ésta se sujetará estrictamente a la información que se encuentre ingresada en el Registro Nacional de Trasplantes, y el Registro Estatal de Trasplantes, de conformidad con lo señalado en el artículo 27 de esta Ley.
 
 ###### ARTÍCULO 53.
 
@@ -851,7 +957,9 @@ III. Tener compatibilidad aceptable con el receptor;
 
 IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano, componente o tejido, por un médico distinto de los que intervendrán en el trasplante;
 
-V. Haber otorgado su consentimiento en forma expresa, en términos del artículo 35 fracción V de esta Ley, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+V. Haber otorgado por escrito el consentimiento informado específico respecto de la intervención quirúrgica de donación para trasplante, libre de coacción física o moral, otorgada mediante cualquiera de los mecanismos que establece la presente Ley, y
 
 VI. Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
 
@@ -877,7 +985,9 @@ Los establecimientos de salud en los que se realicen los trasplantes a que se re
 
 El trasplante de órgano único no regenerable, esencial para la conservación de la vida, sólo podrá hacerse obteniéndolo de un cadáver.
 
-## TÍTULO CUARTO. DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y COMPONENTES DE CADÁVERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO CUARTO. DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CÉLULAS DE CADÁVERES
 
 ### Capítulo I. De la Pérdida de la Vida
 
@@ -915,7 +1025,9 @@ I. Sin causa legal: cuando la causa de la muerte no esté relacionada con ningú
 
 II. Con causa legal: cuando la causa de la muerte tenga relación directa con un hecho probablemente constitutivo de delito culposo o doloso, para lo cual se requerirá la intervención de las siguientes instituciones:
 
-Procuraduría General de Justicia en el Estado, el CETRA, y el Supremo Tribunal de Justicia del Estado. La Procuraduría General de Justicia del Estado tendrá intervención únicamente durante la fase de integración de la averiguación previa, hasta antes del ejercicio de la acción penal. El Supremo Tribunal de Justicia del Estado conocerá en aquellos casos en que la averiguación previa ya le ha sido consignada.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+Fiscalía General del Estado, la institución hospitalaria, y el Poder Judicial del Estado. La Fiscalía General del Estado tendrá intervención únicamente durante la fase de integración de la carpeta de investigación, hasta antes del ejercicio de la acción penal. El Poder Judicial del Estado conocerá en aquellos casos en que la carpeta de investigación le ha sido consignada.
 
 En este caso debe observarse lo siguiente:
 
@@ -927,11 +1039,35 @@ Asimismo, se allegará del dictamen que al respecto le rinda el médico legista,
 
 c) De lo anterior, el Agente del Ministerio Público deberá informar de inmediato al Procurador General de Justicia en el Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la donación, haciéndolo del conocimiento del CETRA, y autorizará en definitiva la disposición de órganos, tejidos y componentes, observando siempre lo dispuesto por la presente Ley.
 
-El Agente del Ministerio Público solicitará la intervención de la autoridad judicial competente, a través del funcionario que cuente con fe pública, con objeto de que se encuentren de manera conjunta presentes durante la extracción de los órganos, tejidos o componentes de que se trate, de conformidad con lo dispuesto por los artículo (sic), 328 de la Ley General de Salud; y 76 BIS del Código de Procedimientos Penales vigente en el Estado.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-Realizada la disposición de órganos del donante, deberá remitirse el cadáver al servicio médico forense para la práctica de la autopsia correspondiente, debiéndose acompañar el certificado de la pérdida de la vida del que se tomará la hora de su expedición, para efectos de que se asiente la hora de la muerte y ésta a su vez conste en el acta de defunción.
+d) El coordinador hospitalario deberá notificar sobre el potencial donador con pérdida de la vida al Ministerio Público y éste a su vez al médico legista, quien en su caso elaborará el certificado de pérdida de la vida, para proceder a la disposición de órganos, tejidos y células del posible donante, de conformidad con lo establecido por los numerales 62 y 63 de esta Ley.
+
+En todo momento las partes involucradas deberán de actuar de manera sensible, oportuna, inmediata y expedita.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+e) El Policía Ministerial practicará la correspondiente diligencia ministerial del cadáver del posible donante y del lugar donde éste se encuentre. De igual manera, recabará la autorización de los disponentes secundarios mediante comparecencia que al efecto se rinda ante fedatario público, quienes acreditarán el parentesco con los medios legales idóneos, así como el certificado de pérdida de la vida, expedido por los médicos tratantes que hayan practicado los exámenes correspondientes.
+
+Asimismo, se allegará del dictamen que al respecto le rinda el médico legista, para efectos de corroborar la pérdida de la vida del posible donador.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+f) De lo anterior, el Agente del Ministerio Público deberá informar de inmediato al Fiscal General del Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la donación, haciéndolo del conocimiento de la institución hospitalaria, y autorizará en definitiva la disposición de órganos, tejidos y células, observando siempre lo dispuesto por la presente Ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+El Agente del Ministerio Público solicitará la anuencia de la autoridad judicial competente, a través del funcionario que cuente con fe pública, de conformidad con lo dispuesto por los artículos, 328 de la Ley General de Salud; y 76 BIS del Código de Procedimientos Penales vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+Realizada la disposición de órganos del donante, deberá remitirse el cadáver al servicio médico forense o, en su caso, a la institución hospitalaria donde se realizó el explante, para la práctica de la autopsia correspondiente, debiéndose acompañar el certificado de la pérdida de la vida del que se tomará la hora de su expedición, para efectos de que se asiente, en el certificado de defunción, la hora de la muerte y ésta a su vez conste en el acta de defunción.
 
 En los casos a que se refiere la fracción II de este artículo, los trámites correspondientes habrán de realizarse en el Estado en el cual haya sucedido el hecho probablemente constitutivo de delito.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 60 BIS. El Ministerio Público podrá autorizar de manera excepcional y por única ocasión el traslado del cadáver con muerte encefálica de un establecimiento médico sin permiso para realizar procedimientos de donación y trasplante, a uno que si los pueda realizar.
 
 ###### ARTÍCULO 61.
 
@@ -939,7 +1075,9 @@ Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la 
 
 Una vez que se tenga conocimiento de la existencia de un cadáver que no cuente con elementos que permitan conocer su identidad, se deberá notificar al Ministerio Público, quien dentro de las primeras veinticuatro horas solicitará al Registro Nacional de Datos de Personas Extraviadas o Desaparecidas, informe si dentro de sus archivos existe reporte de persona que coincida con las características o media filiación del cadáver que se encuentre a su disposición; de igual manera, emitirá oficios de colaboración a los estados para dicho efecto. Transcurridas las setenta y dos horas, no obstante no contar con la contestación respectiva de las solicitudes que para el efecto fueran emitidas, se considerará como persona desconocida.
 
-La disposición de cadáveres de personas desconocidas estará sujeta a lo que señale el Ministerio Público, sin que sea obstáculo la causa que haya producido el deceso, debiendo mediar solicitud por escrito por parte del coordinador hospitalario para la disposición de órganos, tejidos y componentes para fines terapéuticos, o de la institución educativa interesada en disponer del cadáver para fines de docencia, la cual podrá ser presentada dentro del término de las setenta dos horas a que hace referencia el párrafo anterior.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+La disposición de cadáveres de personas desconocidas estará sujeta a lo que señale el Ministerio Público.
 
 La solicitud deberá de ser signada por quien acredite tener facultades de representación legal, debiendo señalar:
 
@@ -971,7 +1109,7 @@ Una vez realizada la disposición del cadáver a favor de la institución educat
 
 ###### ARTÍCULO 64.
 
-Tratándose de personas conocidas cuyo cadáver no haya sido reclamado dentro del término señalado en el artículo 61 de este Ordenamiento, previa autorización del Ministerio Público en los términos de la presente Ley, la autoridad sanitaria podrá disponer de órganos, tejidos y componentes para efectos de trasplante, de conformidad con las normas técnicas que emita el CETRA.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2017)
 
 ###### ARTÍCULO 65.
 
@@ -1042,6 +1180,14 @@ Lic. Cándido Ochoa Rojas
 P.O. 3 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0416.- SE REFORMAN LOS ARTÍCULOS 33, 34 Y 48; Y ADICIONAN LOS ARTÍCULOS 34 Y 48 DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0706.- REFORMAS, ADICIONES Y DEROGACIONES A LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
