@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2017-07-05"
+last_updated: "2017-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -649,6 +649,10 @@ Para tal efecto, el titular del Ejecutivo Estatal, así como los cabildos, podr�
 
 Será obligatorio para las autoridades Estatal y municipales, incluir en sus planes de desarrollo, programas tendientes a la reforestación y forestación en el territorio de sus circunscripciones. Asimismo, para el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, la SEDARH y la SEGAM, en coordinación con las autoridades municipales, siempre que dichos programas impliquen el establecimiento de proyectos productivos de carácter social en la materia, de conformidad con lo previsto en las fracciones IV, V, VI y VII del artículo 34 de la Ley Orgánica de la Administración Pública del Estado.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 61 BIS. A los terrenos de uso de suelo forestal que hayan sido afectados por incendios forestales, no se les podrá autorizar el cambio de uso de suelo durante un período de veinte años, a partir del momento del incendio; y hasta que se acredite fehacientemente ante las autoridades correspondientes, que se ha subsanado el daño ecológico; lo anterior sin perjuicio de las normas aplicables.
+
 ###### ARTICULO 62.
 
 Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, el titular del Ejecutivo Estatal realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor, e instrumentando lo necesario a fin de llevarlo a cabo, de acuerdo a lo establecido en el Reglamento de esta Ley.
@@ -843,9 +847,17 @@ XVIII. Negarse sin causa justificada, a prevenir o combatir las plagas o enferme
 
 XIX. (DEROGADA, P.O. 10 DE MARZO DE 2015)
 
-XX. Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-XXI. Depositar residuos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello.
+XX. Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XXI. Depositar residuos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2017)</small>
+
+XXII. Realizar actividades distintas a la reforestación en los terrenos con uso de suelo forestal, que hayan sufrido incendios forestales antes del cumplimiento del término establecido en el artículo 61 BIS.
 
 ### CAPITULO II. De las Sanciones
 
@@ -875,9 +887,9 @@ Las multas a que se refiere el artículo anterior, se determinarán en la forma 
 
 I. Con el equivalente de cuarenta a mil veces de la unidad de medida y actualización, a quien cometa las infracciones señaladas en las fracciones V, VIII, XII, XV, XVI y XVIII del artículo 81 de esta Ley, y
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2017)</small>
 
-II. Con el equivalente de cien a veinte mil veces de la unidad de medida y actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, IX, X, XI, XIII, XIV, XVII, XX, y XXI del artículo 81 de esta Ley.
+II. Con el equivalente de cien a veinte mil veces de la unidad de medida y actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, IX, X, XI, XIII, XIV, XVII, XX, XXI, y XXII del artículo 81 de esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -994,5 +1006,13 @@ P.O. 5 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0668.- SE ADICIONA A LOS ARTÍCULOS 25 EL PÁRRAFO CUARTO, Y 27 EL PÁRRAFO SEGUNDO, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado" Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0707.- SE REFORMAN LOS ARTÍCULOS 81 Y 83; Y ADICIONA, EL ARTÍCULO 61 BIS, Y AL ARTÍCULO 81 LA FRACCIÓN XXII, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
