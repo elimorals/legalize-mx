@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-justicia-administrativa-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-06-23"
-last_updated: "2017-06-23"
+last_updated: "2017-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 19 DE JULIO DE 2017.]</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 4 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección Décima Primera de la Gaceta del Gobierno del Estado de México, el viernes 23 de junio de 2017.
 
@@ -1231,15 +1229,17 @@ I.- La Directora o Director Administrativo, quien lo presidirá:
 
 II.- Un representante del área financiera, con función de vocal;
 
-III. Un representante de la unidad administrativa interesada en la adquisición, con función de vocal.
+III.- Un representante de la unidad administrativa interesada en la adquisición, con función de vocal.
 
 IV.- La Jefa el Jefe de la Unidad de Estudios y Proyectos, con función de vocal;
 
-V. Un representante del Consejo, con función de vocal; y
+V.- Un representante del Consejo, con función de vocal; y
 
 VI.- Una Secretaria o Secretario Ejecutivo designado por el Pleno.
 
-Los integrantes del Comité de Adquisiciones tendrán derecho a voz y voto a excepción de la Secretaria o del Secretario Ejecutivo. En caso de empate, la Presidenta o el Presidente del Comité tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+Los integrantes del Comité de Adquisiciones tendrán derecho a voz y voto a excepción de la Secretaria o el Secretario Ejecutivo y del representante del Consejo, quienes sólo participarán con voz, debiendo fundamentar y motivar el sentido de su opinión, a efecto de que sea incluida en el acta correspondiente.
 
 ###### Artículo 132.
 
@@ -1580,3 +1580,13 @@ DE LA SALA SUPERIOR
 LIC. DIANA LUZ ORIHUELA MARÍN
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “ADICIÓN AL ARTÍCULO 131 DEL REGLAMENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno", y en el órgano de difusión interno del Tribunal y en los estrados de las secciones de la Sala Superior, salas regionales, especializadas y supernumerarias.
+
+SEGUNDO. La adición al Reglamento Interior del Tribunal de Justicia Administrativa del Estado de México entrará en vigor, el día de su publicación en el periódico oficial "Gaceta del Gobierno"
