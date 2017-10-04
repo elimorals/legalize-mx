@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-universidad-tecnologica-emiliano-114501
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2017-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2017.
 
 Estatuto publicado en la Segunda Sección, del Periódico Oficial del Estado de Morelos, el miércoles 4 de mayo de 2016.
 
@@ -51,11 +51,13 @@ Para los efectos del presente Estatuto Orgánico se entenderá por:
 
 I. CGUTyP, a la Coordinación General de Universidades Tecnológicas y Politécnicas;
 
-II. Comisario, a la persona titular del órgano interno de control de la UTEZ;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+II. Comisario Público, a la persona titular del Órgano Interno de Control de la UTEZ, designado en términos de la Ley Orgánica;
 
 III. Consejo Directivo, al máximo órgano de Gobierno de la UTEZ;
 
-IV. Decreto, al Decreto Número Mil Ciento Setenta y Cinco que crea la Universidad Tecnológica “Emiliano Zapata” del Estado de Morelos;
+IV. Decreto, al Decreto Número Mil Ciento Setenta y Cinco que crea la Universidad Tecnológica "Emiliano Zapata" del Estado de Morelos;
 
 V. Estatuto Orgánico, al presente instrumento jurídico;
 
@@ -115,7 +117,9 @@ I. Un Consejo Directivo;
 
 II. Una Rectoría, y
 
-III. Un Órgano Interno de Control.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+III. Un Órgano Interno de Control, de conformidad con lo dispuesto por la Ley Orgánica.
 
 ###### Artículo 8.
 
@@ -141,7 +145,9 @@ IV. La Dirección de Administración y Finanzas;
 
 V. La Oficina del Abogado General, y
 
-VI. La Subdirección de Servicios Escolares.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+VI. La Dirección de Planeación y Servicios Escolares.
 
 ###### Artículo 11.
 
@@ -319,9 +325,13 @@ IX. Impulsar las actividades de planeación y evaluación institucional, tendien
 
 X. Presentar al Consejo Directivo, para su análisis y aprobación, en su caso, el Proyecto del Presupuesto Anual de Ingresos y Egresos de la UTEZ y del Programa Operativo Anual, así como ejercerlos de conformidad con lo estipulado en la normativa aplicable;
 
-XI. Autorizar nombramientos, cambios de adscripción, así como conceder permisos o licencias al personal de apoyo de la UTEZ;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
 
-XII. Someter a la aprobación del Consejo Directivo, los nombramientos, cambios y licencias de los trabajadores de mandos medios, así como sus sueldos y demás prestaciones;
+XI. Autorizar nombramientos, cambios de adscripción, así como conceder permisos o licencias al personal adscrito a las Unidades Administrativas de la UTEZ;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+XII. Someter a la aprobación del Consejo Directivo, los nombramientos, cambios y licencias de las personas titulares de las Unidades Administrativas, así como sus sueldos y demás prestaciones, de acuerdo a la disponibilidad presupuestaria y conforme a la normativa;
 
 XIII. Someter a consideración del Consejo Directivo, los lineamientos para la captación y aplicación de los ingresos propios originados por el cobro de los servicios educativos que presta la UTEZ;
 
@@ -457,7 +467,7 @@ XVI. Desarrollar Programas de capacitación y actualización del personal docent
 
 XVII. Desarrollar un Programa de evaluación al desempeño del personal docente;
 
-XVIII. Coordinar la administración y control escolar de los estudiantes, a través de los procesos de admisión, inscripción, reinscripción y titulación;
+XVIII. (DEROGADA, P.O. 4 DE OCTUBRE DE 2017)
 
 XIX. Desarrollar el Programa Operativo Anual del área académica, enfocado a alcanzar estándares de calidad en el desempeño académico;
 
@@ -497,11 +507,15 @@ El ejercicio de las atribuciones señaladas en el artículo anterior corresponde
 
 Para el despacho de los asuntos de su competencia la Secretaría Académica, se auxiliará de las siguientes unidades administrativas, mismas que estarán bajo su cargo y vigilancia directa:
 
-I. Las Direcciones de División Académica;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
 
-II. La Dirección de Vinculación y Proyectos Estratégicos, y
+I. Las Direcciones de División Académica, y
 
-III. La Subdirección de Servicios Escolares;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+II. La Dirección de Vinculación y Proyectos Estratégicos.
+
+III. (DEROGADA, P.O. 4 DE OCTUBRE DE 2017)
 
 ###### Artículo 31.
 
@@ -809,7 +823,7 @@ XVI. Requerir a las Unidades Administrativas y a cualquier servidor público o t
 
 XVII. Elaborar y proponer los anteproyectos de iniciativas de leyes, decretos, reglamentos, acuerdos, circulares y demás disposiciones jurídico-administrativas relacionadas con el ámbito de competencia de la Universidad, así como sus reformas o modificaciones, y efectuar los tramites que correspondan para su aprobación y publicación ante las instancias competentes;
 
-XVIII. Realizar los trámites, en los casos que proceda, para la publicación en el Periódico Oficial “Tierra y Libertad” de los instrumentos jurídicos que se remitan al efecto y promover su inscripción en los registros públicos correspondientes;
+XVIII. Realizar los trámites, en los casos que proceda, para la publicación en el Periódico Oficial "Tierra y Libertad" de los instrumentos jurídicos que se remitan al efecto y promover su inscripción en los registros públicos correspondientes;
 
 XIX. Compilar, difundir y aplicar, en el ámbito de su competencia, las disposiciones jurídicas federales, estatales y municipales que rigen la actuación, organización y funcionamiento de la UTEZ;
 
@@ -829,19 +843,31 @@ XXVI. Realizar las investigaciones necesarias cuando se presuma incumplimiento a
 
 XXVII. Asesorar jurídicamente a los Órganos Colegiados de carácter interno que se establezcan en la UTEZ y participar en las sesiones respectivas;
 
-XXVIII. Fomentar que los actos y resoluciones que emita la UTEZ cumplan con los requisitos constitucionales y legales previstos para su emisión, y
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2017)</small>
 
-XXIX. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que le confiera la persona titular de la Rectoría, o que establezcan otras normas o disposiciones legales aplicables o le correspondan por delegación o suplencia.
+XXVIII. Mantener estrecha vinculación, comunicación y coordinación con la Consejería Jurídica para la gestión de los asuntos que requieran de su intervención;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+XXIX. Acatar, cumplir y hacer cumplir las determinaciones, lineamientos y encomiendas que emita la Consejería Jurídica, en el ámbito de su respectiva competencia;
+
+XXX. Fomentar que los actos y resoluciones que emita la UTEZ cumplan con los requisitos constitucionales y legales previstos para su emisión, y
+
+XXXI. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que le confiera la persona titular de la Rectoría, o que establezcan otras normas o disposiciones legales aplicables o le correspondan por delegación o suplencia.
 
 ###### Artículo 46.
 
 El ejercicio de las atribuciones señaladas en el artículo anterior corresponde originalmente al Abogado General, quien podrá delegarlas en servidores públicos subalternos, conforme a las directrices que establezca y previo acuerdo con el Rector, sin perjuicio de su ejercicio directo.
 
-#### SECCIÓN QUINTA. DE LA SUBDIRECCIÓN DE SERVICIOS ESCOLARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE PLANEACIÓN Y SERVICIOS ESCOLARES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 47.
 
-La persona titular de la Subdirección de Servicios Escolares será nombrado por el Consejo Directivo a propuesta del Rector, y deberá cumplir, por lo menos, con los requisitos siguientes:
+La persona titular de la Dirección de Planeación y Servicios Escolares deberá cumplir, por lo menos, con los requisitos siguientes:
 
 I. Poseer, como mínimo, grado académico de licenciatura en cualquier carrera afín al puesto;
 
@@ -849,75 +875,89 @@ II. Haberse desempeñado en por lo menos 3 años de manera sobresaliente en el �
 
 III. Ser persona honorable de reconocido prestigio profesional.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 48.
 
-El Subdirector de Servicios Escolares tendrá las facultades y obligaciones específicas siguientes:
+La persona titular de la Dirección de Planeación y Servicios Escolares tendrá las atribuciones específicas siguientes:
 
-I. Dirigir las actividades inherentes a normar y realizar el control escolar de la UTEZ;
+I. Dirigir las actividades inherentes a la planeación institucional y control escolar de la UTEZ;
 
-II. Aplicar el Reglamento académico de estudiantes de la UTEZ en lo concerniente a los servicios escolares que se proporcionan;
+II. Coordinar la elaboración y seguimiento a la gestión institucional del Plan Institucional de Desarrollo de la Universidad así como la de sus Programas Operativos Anuales;
 
-III. Coordinar el registro de Títulos y expedición de Cédulas ante la Dirección General de Profesiones;
+III. Proponer las políticas y lineamientos para evaluar permanentemente el avance y cumplimiento de los objetivos y metas institucionales y su impacto social y económico;
 
-IV. Coordinar la expedición de documentos oficiales de la UTEZ, a través de los sistemas y procedimientos que marca la norma y reglamentación vigente;
+IV. Dar seguimiento a la evolución de los sectores educativos y productivos con el objeto de identificar necesidades y prioridades de atención en los ámbitos de gestión de la UTEZ;
 
-V. Coordinar y supervisar la aplicación de los lineamientos para los procesos de admisión, inscripción y reinscripción a la UTEZ;
+V. Proponer las políticas y criterios para la asignación del presupuesto, en congruencia con las prioridades institucionales, con apego a la normativa emitida por la Coordinadora del Sector Educativo Estatal y Federal;
 
-VI. Supervisar la vinculación automatizada de datos para el proceso de captura de las evaluaciones emitidas por los docentes;
+VI. Proponer en coordinación con las Direcciones de Área, los principales indicadores de gestión como marco de referencia para la definición de las metas programáticas y dar seguimiento a su evaluación;
 
-VII. Coordinar el mantenimiento y actualización permanente de la base de datos de los estudiantes y su kárdex respectivo;
+VII. Detectar necesidades de ampliación de la infraestructura física, con base en proyecciones de la matrícula y de la capacidad instalada existente, con apego a las estimaciones sectoriales de crecimiento de la demanda y en congruencia con la disponibilidad de recursos;
 
-VIII. Coordinar la elaboración de toda la documentación de carácter escolar del estudiante, así como supervisar la integración y actualización de sus expedientes;
+VIII. Diseñar métodos para la estimación de la capacidad instalada con objeto de evaluar el grado de aprovechamiento de los espacios educativos;
 
-IX. Realizar la administración escolar integral requerida por la UTEZ, de conformidad con la normativa y modelo educativo establecido;
+IX. Coordinar la asesoría y asistencia técnica en el uso de instrumentos y técnicas de planeación a las áreas sustantivas de apoyo;
 
-X. Coordinar la operación del sistema informático para el control de la información académica, con responsabilidad del óptimo manejo de la información y documentación;
+X. Participar, conjuntamente con la Dirección de Administración y Finanzas, en las gestiones para la autorización del Programa Operativo Anual y del anteproyecto de presupuesto, así como la estimación de las adecuaciones y costos de la estructura programática a fin de mantener su congruencia con el plan institucional de desarrollo;
 
-XI. Brindar a los estudiantes de la UTEZ los elementos necesarios y el servicio adecuado, para llevar a cabo los trámites escolares dentro de las instalaciones, así como operar un adecuado sistema de seguimiento;
+XI. Analizar técnicas matemáticas, estadísticas y econométricas, y evaluar su aplicabilidad a los fenómenos sociales, demográficos y económicos que influyen en la oferta y demanda de los servicios educativos y de capacitación;
 
-XII. Llevar a cabo el registro de los planes y programas de estudio ante la Dirección General de Profesiones, para dar validez oficial a los estudios que se realizan en la UTEZ;
+XII. Dirigir la evaluación cualitativa y cuantitativa de los programas y proyectos institucionales mediante el análisis y seguimiento de los indicadores de eficiencia, proporcionando la información para la elaboración de informes requeridos por la Coordinadora Sectorial y las entidades estatales y federales;
 
-XIII. Coordinar, supervisar la aplicación de los lineamientos y establecer las actividades del proceso de admisión de estudiantes de primer ingreso, reinscripciones, readmisiones, así como la revalidación y equivalencias de estudios para quien solicite incorporarse a la UTEZ
+XIII. Conducir la formulación e integración de los manuales de organización de la Universidad;
 
-XIV. Mantener estrecha relación con los docentes y estudiantes de la UTEZ, proporcionándoles los servicios administrativos de orden escolar en forma integral oportuna y veraz;
+XIV. Coordinar la administración y control escolar de los estudiantes, a través de los procesos de admisión, inscripción, reinscripción y (sic);
 
-XV. Difundir e informar a la comunidad escolar, los Reglamentos, Normas, procesos y procedimientos de administración escolar establecidos;
+XV. Coordinar la aplicación del Reglamento Académico de Estudiantes de la UTEZ en lo concerniente a los servicios escolares que se proporcionan;
 
-XVI. Orientar al estudiante sobre los trámites administrativos, Lineamientos y Reglamentos establecidos en materia de control escolar;
+XVI. Dirigir las actividades relacionadas a la admisión, permanencia y egreso de control escolar, gestionando ante las instancias estatales y federales los trámites necesarios para su registro y reconocimiento oficial;
 
-XVII. Difundir mediante el Portal de Internet de la UTEZ los procedimientos normativos e instructivos del área de servicios escolares;
+XVII. Supervisar la aplicación de los Lineamientos para los procesos de admisión, inscripción, reinscripción, equivalencia y titulación;
 
-XVIII. Supervisar la generación oportuna de los documentos de certificación y titulación que soliciten los estudiantes y trámites de egresados;
+XVIII. Realizar la Administración Escolar Integral requerida por la UTEZ, de conformidad con la normativa y el modelo educativo establecido;
 
-XIX. Certificar los antecedentes académicos de los estudiantes en los títulos profesionales, certificados, diplomas, constancias de servicio social, actas de exención de examen profesional y constancias de estudio que, en su caso, se expidan, así como validar el registro electrónico de los mismos;
+XIX. Coordinar la operación del sistema informático para el control de la información académica, con responsabilidad del óptimo manejo de la información y documentación;
 
-XX. Diseñar, instrumentar y mantener actualizada la estadística escolar, así como la documentación y registros escolares correspondientes;
+XX. Brindar a quienes sean estudiantes de la UTEZ los elementos necesarios y el servicio adecuado, para llevar a cabo los trámites escolares dentro de las instalaciones, así como operar un adecuado sistema de seguimiento;
 
-XXI. Coordinar el controlar del seguro facultativo del Instituto Mexicano del Seguro Social de los estudiantes de forma cuatrimestral;
+XXI. Llevar a cabo el registro de los planes y programas de estudio ante la Dirección General de Profesiones, para dar validez oficial a los estudios que se realizan en la UTEZ;
 
-XXII. Atender y proporcionar información al docente, alumnado y padres de familia que lo soliciten, sobre trámites administrativos y normas establecidas en materia de control escolar;
+XXII. Difundir e informar a la comunidad escolar, los reglamentos, normas, procesos y procedimientos de administración escolar establecidos;
 
-XXIII. Coordinar la preparación de la información escolar de los estudiantes para las juntas con padres de familia;
+XXIII. Certificar los antecedentes académicos de los estudiantes en los títulos profesionales, certificados, diplomas, constancias de servicio social, actas de exención de examen profesional y constancias de estudio que, en su caso, se expidan, así como validar el registro electrónico de los mismos;
 
-XXIV. Supervisar la aplicación de exámenes de admisión;
+XXIV. Diseñar, instrumentar y mantener actualizada la estadística escolar, así como la documentación y registros escolares correspondientes;
 
-XXV. Coordinar y controlar el proceso de titulación de estudiantes, y
+XXV. Fomentar y orientar, políticas y estrategias que promuevan la cultura de calidad y filosofía de mejora continua, mediante la formación y participación del personal, para satisfacer las necesidades y expectativas de los usuarios y beneficiarios de la UTEZ;
 
-XXVI. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que le confiera la persona titular de la Rectoría y de la Secretaría Académica, o que establezcan otras normas o disposiciones legales aplicables o le correspondan por delegación o suplencia.
+XXVI. Proponer e impulsar políticas y lineamientos que aseguren la calidad, pertinencia y oportunidad de los servicios de la UTEZ, mediante la estandarización, el control estadístico y realización de estudios y proyectos que mejoren continuamente los procesos;
+
+XXVII. Dirigir las actividades de planeación, ejecución y evaluación del Sistema de Gestión (sic) de la Calidad a fin de mantener vigente su información, funcionamiento y certificación ante las instancias de normalización nacional e internacional;
+
+XXVIII. Elaborar informes de avance de resultados de los proyectos asignados, para su presentación a la Rectoría, y
+
+XXIX. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que le confiera la persona titular de la Rectoría, o que establezcan otras normas o disposiciones legales aplicables o le correspondan por delegación o suplencia.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 49.
 
-El ejercicio de las atribuciones señaladas en el artículo anterior corresponde originalmente al Subdirector de Servicios Escolares, quien podrá delegarlas en servidores públicos subalternos, conforme a las directrices que establezca y previo acuerdo con el Rector o el Secretario Académico, sin perjuicio de su ejercicio directo.
+El ejercicio de las atribuciones señaladas en el artículo anterior, corresponde originalmente al Director de Planeación y Servicios Escolares, quien podrá delegarlas en servidores públicos subalternos, conforme a las directrices que establezca y previo acuerdo con el Rector, sin perjuicio de su ejercicio directo.
 
 ### CAPÍTULO VII. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 50.
 
-El Órgano Interno de Control de la UTEZ, estará integrado por un Comisario propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de la Ley Orgánica.
+El Órgano Interno de Control de la UTEZ, estará integrado por un Comisario Público, designado y dependiente de la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 de la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 51.
 
-Al Comisario le corresponde las atribuciones previstas en la normativa aplicable.
+Al Comisario Público le corresponden las atribuciones previstas en el Decreto y las establecidas por la Ley Orgánica y demás normativa aplicable.
 
 ### CAPÍTULO VIII. DEL SUBCOMITÉ DE ADQUISICIONES
 
@@ -1048,3 +1088,19 @@ EL REPRESENTANTE DEL SECTOR PRODUCTIVO
 HUMBERTO ARRIAGA CARDOZA
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto entrará en vigor a los cinco días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Dentro de un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, deberá emitir, o en su caso, adecuar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Decreto.
+
+TERCERA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; así como 11, fracción XXXV del Reglamento Interior de la Secretaría de Gobierno; la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, dentro del plazo de cinco días hábiles a partir de la entrada en vigor del presente instrumento, debe informar a la Secretaría de Gobierno del Poder Ejecutivo Estatal, los cambios de denominación y supresión de las Unidades Administrativas, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+CUARTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+QUINTA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto serán resueltos por la persona titular de la Rectoría.
