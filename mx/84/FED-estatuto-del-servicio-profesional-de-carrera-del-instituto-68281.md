@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2014-05-28"
+last_updated: "2017-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -107,9 +107,11 @@ DE LA ESTRUCTURA ORGANICA DEL SISTEMA.
 
 De la Comisión del Servicio Profesional de Carrera.
 
+> <small>(REFORMADO, D.O.F. 4 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-La Comisión es el órgano de planeación, coordinación, supervisión y ejecución del Sistema y estará integrada por el titular de la Dirección General de Administración, quien la presidirá; los titulares de la Dirección General de Estadísticas Sociodemográficas, de la Dirección General de Estadísticas Económicas, de la Dirección General de Geografía y del Medio Ambiente y de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, como vocales; el Contralor Interno como invitado y el titular de la Dirección General Adjunta de Recursos Humanos como Secretario Técnico.
+La Comisión es el órgano de planeación, coordinación, supervisión y ejecución del Sistema y estará integrada por la o el titular de la Dirección General de Administración, quien la presidirá; por las o los titulares de la Dirección General de Estadísticas Sociodemográficas, de la Dirección General de Estadísticas Económicas, de la Dirección General de Geografía y Medio Ambiente y de la Coordinación General de Operación Regional, como vocales; la o el titular del Órgano Interno de Control, como invitado y la o el titular de la Dirección General Adjunta de Recursos Humanos en la Secretaría Técnica.
 
 ###### Artículo 6.
 
@@ -141,7 +143,7 @@ IX. Autorizar el Catálogo y los cargos que serán considerados de libre designa
 
 X. Autorizar la contratación temporal de servidores públicos en los cargos que forman parte del Sistema, en términos del Artículo 23 de este Estatuto;
 
-XI. Nombrar a los integrantes del Comité y aprobar su Manual de integración y funcionamiento, y (sic)
+XI. Nombrar a los integrantes del Comité y aprobar su Manual de integración y funcionamiento, y
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2013)</small>
 
@@ -766,3 +768,9 @@ D.O.F. 24 DE FEBRERO DE 2014.
 D.O.F. 28 DE MAYO DE 2014.
 
 ÚNICO.- Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]
+
+ÚNICO.- La modificación al Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
