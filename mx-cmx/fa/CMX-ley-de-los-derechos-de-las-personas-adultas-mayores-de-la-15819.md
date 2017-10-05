@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2017-04-06"
+last_updated: "2017-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 6 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -80,7 +80,9 @@ b) Semidependiente: aquella a la que sus condiciones físicas y mentales aún le
 
 c) Dependiente absoluto: aquélla con una enfermedad crónica o degenerativa por la que requiera ayuda permanente total o canalización a alguna institución de asistencia.
 
-d) En situación de riesgo o desamparo.- aquellas que por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Gobierno del Distrito Federal y de la Sociedad Organizada.
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+d) En situación de riesgo o desamparo.- aquellas que por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, que seaninternas (sic) o internos en sistemas penitenciarios, requieren de asistencia y protección del Gobierno del Distrito Federal y de la Sociedad Organizada.
 
 II. Asistencia Social.- Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental;
 
@@ -715,3 +717,13 @@ G.O. 6 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 5 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL Y DE LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, con el objeto de garantizar el equilibrio presupuestal.
