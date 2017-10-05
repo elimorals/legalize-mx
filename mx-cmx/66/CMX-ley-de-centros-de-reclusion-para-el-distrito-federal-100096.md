@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-de-reclusion-para-el-distrito-federal-100096"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-04"
-last_updated: "2016-11-16"
+last_updated: "2017-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100096&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-03-28"
 
 LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de abril de 2014.
 
@@ -850,7 +850,9 @@ Las áreas destinadas a los internos estarán físicamente separadas de las áre
 
 Las mujeres deberán estar en centros diferentes a los de los hombres. Las internas que conforme a esta Ley permanezcan en reclusión con sus hijos deberán contar con todas las facilidades médicas pediátricas, de alimentación y desarrollo de los menores, y deberán estar separadas de la población general y en estancias unitarias.
 
-Los internos mayores de 70 años deberán ser separados de la población en general para que reciban la atención geriátrica necesaria para preservar su salud y condiciones dignas al interior de los Centros de Reclusión, por lo que existirán áreas geriátricas especializadas en los mismos.
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+Los internos mayores de 60 años deberán ser separados de la población en general para que reciban la atención geriátrica necesaria para preservar su salud y condiciones dignas al interior de los Centros de Reclusión, por lo que existirán áreas geriátricas especializadas en los mismos.
 
 ### CAPITULO I. De los Centros de Reclusión Preventiva
 
@@ -1304,6 +1306,10 @@ En los Centros de Reclusión existirá la figura de los técnicos penitenciarios
 
 El personal técnico penitenciario médico que labora en los Centros de Reclusión, tendrá la obligación de brindar protección a la salud física y mental de los internos e internas y de tratar sus enfermedades.
 
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+Se brindara atención médica geriátrica especializada a las personas adultas mayores de 60 años que cumplan sentencia en todos los Centros del sistema penitenciario, que se encuentren ubicados en la Ciudad de México, a fin de garantizar su derecho a la salud, fortaleciendo el respeto a sus derechos humanos.
+
 Su adscripción será en la Subsecretaría de Sistema Penitenciario pero se coordinarán con las áreas médicas que dependerán administrativamente de la Secretaría de Salud, la cual proporcionará dentro del ámbito de su competencia, la atención médica que los internos(as) requieran.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 7 DE AGOSTO DE 2014)</small>
@@ -1553,3 +1559,13 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conoc
 TERCERO.- El Gobierno de la Ciudad de México otorgará, mediante ampliaciones presupuestales, los recursos necesarios para iniciar en el año 2016, la aplicación del presente Decreto.
 
 CUARTO.- Se deberán considerar recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2017, para la aplicación del presente Decreto.
+
+G.O. 5 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL Y DE LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, con el objeto de garantizar el equilibrio presupuestal.
