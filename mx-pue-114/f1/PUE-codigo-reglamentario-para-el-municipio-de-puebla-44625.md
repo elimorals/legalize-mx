@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-06-22"
+last_updated: "2017-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -33709,13 +33709,13 @@ VIII. Premio al "Mérito Empresarial" y "Mérito Emprendedor";
 
 IX. Premio al "Mérito Laboral";
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
-
-X. Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia";
-
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
 
 XI. Premio Municipal de Investigación Histórica: “Hugo Leicht”,
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+
+XI. Premio Municipal de Investigación Histórica;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
 
@@ -34529,7 +34529,7 @@ V. Un representante del Sistema Municipal para el Desarrollo Integral de la Fami
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: "HUGO LEICHT"
+DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -34672,6 +34672,10 @@ El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas persona
 ## TÍTULO ÚNICO
 
 > <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+
+> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2343.
 
@@ -35107,49 +35111,1199 @@ V. Empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores, y
 
 VI. En general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios debidamente establecidas.
 
+> <small>(ADICIONADO CON EL CAPÍTULO, TÍTULOS, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+# LIBRO DÉCIMO SEGUNDO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA RESIDUAL DEL MUNICIPIO DE PUEBLA
+
+> <small>(ADICIONADO CON LOS TÍTULOS, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 2380.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Las disposiciones de este Capítulo son de orden público e interés social en el ámbito del territorio comprendido en el Municipio y tiene por objeto, en el ámbito de su competencia y sin menoscabo de las facultades que corresponden a las autoridades estatales y federales, reglamentar lo relativo a la preservación y restauración del ambiente a través de la prevención y control de descargas de aguas residuales de cualquiera de los usos del agua establecidos en el artículo 34 de la Ley del Agua para el Estado de Puebla, su saneamiento y reúso, de acuerdo con las atribuciones que le conceden la Constitución Política de los Estados Unidos Mexicanos, así como las Leyes Federales, Estatales y sus Reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2381.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El presente Capítulo, se aplicará en concordancia, según su competencia con la Ley de Agua para el Estado de Puebla, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, el Código Fiscal y Presupuestario del Municipio de Puebla, el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla y demás disposiciones legales municipales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2382.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Además de las definiciones señaladas en la Ley de Agua para el Estado de Puebla y para los efectos de la aplicación del presente Capítulo se entenderá por:
+
+I. Ambiente: A la relación compleja y dinámica entre los elementos naturales y artificiales o inducidos por el ser humano que hacen posible la existencia y desarrollo de la vida y que interactúan en un espacio y tiempo determinado;
+
+II. Aguas Residuales de Proceso: A las resultantes de la producción de un bien o servicio comercializable;
+
+III. Aguas Residuales Domésticas: A las provenientes del uso particular de las personas y del hogar;
+
+IV. Almacenamiento: A la acción de retener temporalmente materias primas y residuos en tanto que se procesa para su aprovechamiento o se entregan al servicio de recolección o se dispone de ellos;
+
+V. Carga Contaminante: A la cantidad de un contaminante expresada en unidades de masa por unidad de tiempo, aportada en una descarga de aguas residuales;
+
+VI. Cobertura municipal: A la jurisdicción territorial a cargo del Municipio de Puebla para la prestación del servicio de drenaje, alcantarillado y saneamiento de las aguas residuales, la cual se integra de aquellos domicilios en que el Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla no presta dichos servicios;
+
+VII. Comité ¡Vive Atoyac!: Al Comité de Coordinación para los trabajos de recuperación del Río Atoyac que tiene como objetivo acciones contundentes que permitan limpiar y sanear el tramo ubicado en el Municipio de Puebla, así como seguirlas y aumentarlas durante el periodo de 15 años, para lograr la meta de tener al Río Atoyac limpio y recuperado para el aniversario de los 500 años de la Fundación de Puebla, el cual fue creado por instrucción del H. Ayuntamiento en Sesión de Cabildo de fecha diez de junio de dos mil dieciséis;
+
+VIII. Condiciones particulares de descarga de aguas residuales: Al conjunto de características físicas, químicas y biológicas que deben satisfacer las aguas residuales antes de su descarga a la red de drenaje municipal;
+
+IX. Contaminación: A la presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+
+X. Contaminante: A la materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición o condición natural;
+
+XI. Contaminantes Básicos: A los compuestos y parámetros que se presentan en las descargas de aguas residuales y que pueden ser removidos o estabilizados mediante tratamientos convencionales. La NOM-001-SEMARNAT-1996 sólo considera los siguientes: Grasas y aceites, materia flotante, sólidos sedimentables, sólidos suspendidos totales, demanda bioquímica de oxígeno 5, nitrógeno total (suma de las concentraciones de nitrógeno Kjeldahl, de nitratos y de nitritos, expresadas como mg/litro de nitrógeno), fósforo total, temperatura y ph;
+
+XII. Contingencia ambiental: Al riesgo derivado de actividades humanas o fenómenos naturales o ambos de forma sinérgica;
+
+XIII. Control: A la serie de actos de autoridad de manera individual o coordinada como lo son la inspección, vigilancia y aplicación de las medidas necesarias, realizados de forma individual o conjunta, para el cumplimiento de las disposiciones establecidas en el presente Capítulo y la Ley del Agua para el Estado de Puebla;
+
+XIV. Cuerpo Receptor: A las corrientes, depósitos naturales de agua, sistema de drenaje municipal, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas cuando puedan contaminar el suelo o los acuíferos;
+
+XV. Declaratoria: A la Declaratoria de clasificación de los ríos Atoyac y Xochiac o Hueyapan y sus afluentes, publicada en el Diario Oficial de (sic) Federación el seis de julio de dos mil once;
+
+XVI. Dilución: A la disminución de la concentración de uno o varios de los contaminantes presentes en un volumen de agua residual por medio de la incorporación de agua con mejor calidad;
+
+XVII. Disposición final: A la acción de depositar permanentemente los residuos en sitios y condiciones adecuados para evitar daños al ambiente;
+
+XVIII. Drenaje público: Al sistema de conductos, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas residuales ubicados desde el Registro hacia y a lo largo de la vía pública, que al ser utilizados para la prestación de un servicio público se consideran un bien de dominio público municipal y en aquellos casos en que dicho sistema cruce predios de propiedad privada se considerará que existe una servidumbre legal a favor del Municipio de Puebla, la cual deberá constituirse en términos del Código Civil para el Estado Libre y Soberano de Puebla;
+
+XIX. Equilibrio ecológico: A la dinámica de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+
+XX. H. Ayuntamiento: Al órgano colegiado integrado por un Presidente Municipal, Regidores y Síndico que tiene a su cargo el gobierno del Municipio y constituye la Autoridad suprema;
+
+XXI. Instantáneo: Al valor que resulta del análisis de laboratorio a una muestra de agua residual tomada de manera aleatoria o al azar en la descarga;
+
+XXII. Límite máximo permisible: Al valor o intervalo que no debe ser excedido por el responsable de la descarga de aguas residuales y que define en términos de la concentración de contaminantes básicos y tóxicos, exceptuando los parámetros de temperatura y de potencial hidrógeno (pH) que se establece en sus propias unidades;
+
+XXIII. Material peligroso: Al elemento, sustancia, compuesto, residuo o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para la salud pública, la seguridad de las personas o la protección del ambiente, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosa;
+
+XXIV. Monitoreo: Al conjunto de actividades necesarias para conocer y evaluar la concentración de un determinado elemento o sustancia en el ambiente y/o en la atmósfera;
+
+XXV. Muestra instantánea: A la que se tome para realizar uno o varios análisis de laboratorio;
+
+XXVI. Muestra simple: A la que se tome en el punto de descarga de manera continua, en día normal de operación, que refleje cuantitativa y cualitativamente él o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar cuando menos el volumen suficiente para que se lleven a cabo los análisis pertinentes para conocer su composición, aforando el caudal descargado en el sitio y en el momento de muestreo;
+
+XXVII. Muestra compuesta: A la que resulta de mezclar el número de muestras simples, tomadas en volúmenes proporcionales al caudal medio en el sitio y en el momento del muestreo;
+
+XXVIII. Normas Mexicanas (NMX): A los documentos técnicos que permiten establecer especificaciones de calidad sobre procesos, productos, servicios, sistemas, métodos de prueba, competencias, etc., además de coadyuvar en la orientación del consumidor;
+
+XXIX. Normas Oficiales Mexicanas (NOM): A los instrumentos jurídicos expedidos por la Autoridad Federal, en términos de la Ley Federal sobre Metrología y Normalización que establecen los requisitos mínimos y necesarios para la correcta aplicación del presente Capítulo, como son:
+
+a) NOM-001-SEMARNAT-1996: que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales en aguas y bienes nacionales
+
+b) NOM-002-SEMARNAT-1996: que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal
+
+c) NOM-003-SEMARNAT-1997: que establece los límites máximos permisibles de contaminantes para las aguas residuales tratadas que se reúsen en servicios al público.
+
+d) NOM-004-SEMARNAT-2002: que establece especificaciones y límites máximos permisibles de contaminantes para su aprovechamiento y disposición final de lodos y biosólidos.
+
+XXX. Parámetro: A la variable que se utiliza como referencia para determinar la calidad física, química y biológica del agua;
+
+XXXI. Preservación: Al conjunto de medidas y políticas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales de los ecosistemas;
+
+XXXII. Protección: Al conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+
+XXXIII. Punto de descarga: Al sitio seleccionado para la toma de muestras, en el que se garantiza que fluye la totalidad de las aguas residuales de la descarga;
+
+XXXIV. Registro de drenaje: A la obra civil aprobada por la Autoridad, que conecta a la red de drenaje municipal y que deberá de estar ubicada en la banqueta, al exterior del inmueble;
+
+XXXV. Residuo: A cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+XXXVI. Residuos peligrosos: A todos aquellos residuos en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas, infecciosas o irritantes, representan un peligro para el equilibrio ecológico o el ambiente;
+
+XXXVII. Responsable de la conducción de la descarga: A la persona públicas o privadas (sic) que tiene a su cuidado el uso y manejo del agua, así como el control de las descargas de aguas residuales al sistema de drenaje municipal;
+
+XXXVIII. Servidumbre legal: Al derecho real impuesto sobre un inmueble de propiedad particular para la prestación del servicio público de drenaje, alcantarillado y saneamiento de conformidad con lo establecido en el Código Civil para el estado Libre y Soberano de Puebla;
+
+XXXIX. Sistema de drenaje municipal: Al conjunto de obras que permiten la prestación de un servicio público, incluyendo el saneamiento, entendiendo como tal la conducción, alejamiento, descarga y tratamiento de las aguas residuales;
+
+XL. SOAPAP: Al Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla;
+
+XLI. Tratamiento: A la acción de modificar las condiciones originales de cualquier material compuesto; y
+
+XLII. Usuario: Al propietario o poseedor del inmueble, o tratándose de condominio al propietario o poseedor de la unidad de uso exclusivo y de uso común, que lícitamente se beneficie directa o indirectamente de los Servicios Públicos o que cuente con conexión a las redes, estando por ello sujeto al cumplimiento de las obligaciones correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Autoridades
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2383.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para todo lo relativo a las disposiciones de este Capítulo son Autoridades, quienes podrán actuar de manera individual o conjunta, en el ámbito de su circunscripción territorial:
+
+I. El H. Ayuntamiento del Municipio de Puebla, a través del Presidente Municipal o quien él designe; y
+
+II. El Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2384.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Son órganos auxiliares de las Autoridades señaladas en el artículo anterior y actuarán de manera individual o coordinada, de acuerdo al ámbito de su competencia, los siguientes:
+
+I. La Secretaría de Seguridad Pública y Tránsito Municipal de Puebla (SSTPM);
+
+II. La Unidad Operativa Municipal de Protección Civil de Puebla (UOMPC) adscrita a la Secretaría de Gobernación Municipal;
+
+Las demás unidades administrativas de la administración pública municipal en el ámbito de su competencia señalada en la normativa aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Facultades
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2385.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para la aplicación del presente Capítulo, el H. Ayuntamiento de Puebla, por sí o a través del Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla ejercerá las facultades que le confiere la Ley de Aguas Nacionales, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Agua del Estado de Puebla, la Ley para la protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, el Decreto que crea el Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla y el Reglamento Interior de la Secretaría de Desarrollo Urbano y Sustentabilidad, además de las siguientes:
+
+I. Formar parte del Comité ¡Vive Atoyac!, proponiendo políticas y acciones para el control de la contaminación de las descargas de aguas residuales, para la mejora de la prestación del servicio público de drenaje, alcantarillado y saneamiento, para consolidar y mejorar continuamente los sistemas de tratamiento de agua residual, así como promover su reúso;
+
+II. Implementar programas de identificación y reconocimiento de los establecimientos comerciales comprometidos con el cumplimiento de las políticas para el control de las descargas de aguas residuales;
+
+III. Implementar una vía de comunicación telefónica y/o de mensajería instantánea abierta a la ciudadanía en general, para la presentación de quejas y denuncias de los sistemas de drenaje, alcantarillado y saneamiento municipal; y
+
+IV. Publicar de manera trimestral, en la página oficial del Municipio de Puebla, los resultados de los procedimientos de verificación e inspección de las descargas de aguas residuales, cumpliendo con las disposiciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2386.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+La Autoridad deberá realizar las diligencias necesarias para que en sus archivos documentales y cartográficos, físicos y digitales a efecto de integrar la red primaria y secundaria al Sistema de Información Geográfica Municipal señalado en el Capítulo 17 del presente Código, con el objetivo de agilizar y eficientar la gestión territorial dentro del Municipio. Para lo cual podrá solicitar a las diferentes dependencias y entidades de la Administración Pública de los tres órdenes de Gobierno la información respectiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO SEGUNDO
+
+DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS DE DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Servicio de Drenaje
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2387.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El Sistema de drenaje municipal es responsabilidad de las Autoridades en el ámbito de su propia cobertura territorial y de su competencia.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2388.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Se requiere Permiso de descarga que determine el volumen y la calidad de las descargas, en los siguientes casos:
+
+I. Industrias y establecimientos con procesos productivos o de transformación de bienes;
+
+II. Usuarios que se abastezcan de agua en forma directa o (sic) través de vehículos cisterna de pozos particulares o cualquier otra fuente distinta a la red de agua potable; y
+
+III. Usuarios con calidad de descargas que requieran monitoreo para la verificación del cumplimiento de los límites máximos permisibles de cargas contaminantes que establecen las NOM.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2389.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Los responsables mencionados en el artículo anterior de las descargas de aguas residuales generadas en la industria, comercio y servicios deberán cumplir con las condiciones particulares de descarga que fije la Autoridad y observar las medidas que en ellas se determinen, así como construir las obras e instalaciones de tratamiento que corresponda, en términos del Capítulo 17 del presente Código.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2390.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+Para prevenir y controlar la contaminación la Autoridad establecerá en el Permiso de descarga los parámetros máximos permisibles de las descargas de aguas residuales, de conformidad con la Tabla que se muestra a continuación:
+
+Parámetro, acrónimo Concentración promedio Concentración máxima
+
+(unidades de medida) mensual instantánea
+
+Temperatura, T (°C) 40 40
+
+Grasas y Aceites, GyA 50 100
+
+(mg/l)
+
+Sólidos Sedimentables, 5 10
+
+SS (ml/l)
+
+Sólidos Suspendidos 75 150
+
+Totales, SST (mg/l)
+
+Demanda Bioquímica de 75 150
+
+Oxigeno, DBO (mg/l)
+
+Nitrógeno total, Nt 40 60
+
+(mg/l)
+
+Fósforo total, Pt 20 30
+
+(mg/l)
+
+Potencial de 5,5 a 10 5,5 a 10
+
+Hidrógeno, pH
+
+Sustancias Activas 1,3 1,3
+
+al Azul de Metileno,
+
+SAAM (mg/l)
+
+Demanda Química de 200 200
+
+Oxígeno, DQO (mg/l)
+
+Sólidos Disueltos 500 850
+
+Totales, SDT (mg/l)
+
+Color (Pt - Co) 100 100
+
+Arsénico, As (mg/l) 0,5 1
+
+Cadmio, Cd (mg/l) 0,5 1
+
+Cobre, Cu (mg/l) 10 20
+
+Cromo hexavalente, 0,5 1
+
+Cr6 (mg/l)
+
+Mercurio, Hg (mg/l) 0,01 0,02
+
+Níquel, Ni (mg/l) 4 8
+
+Plomo (mg/l) 1 2
+
+Zinc, Zn (mg/l) 6 12
+
+Cianuros, CN (mg/l) 1 2
+
+Nitrógeno amoniacal, 25 50
+
+NH4 (mg/l)
+
+Fenoles (mg/l) 0,04 0,04
+
+Sulfatos (mg/l) 30 50
+
+Coliformes fecales 10000 a 1000000 100000 a 100000000
+
+(NMP/100ml)
+
+Huevos de helminto 1 5
+
+(huevos/l)
+
+Cloruros (mg/l) 50 90
+
+Toxicidad aguda 2 2
+
+(U tox)
+
+Hidrocarburos 0.4 0.4
+
+fracción ligera C-5
+
+a C-10 (ml/l)
+
+Hidrocarburos 0.4 0.4
+
+fracción media C-10
+
+a C-28 (ml/l)
+
+Hidrocarburos 0.4 0.4
+
+fracción pesada C-18
+
+a C-n (ml/l)
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2391.
+
+Las plantas de tratamiento de aguas residuales urbanas construidas y operadas por la Autoridad deberán de cumplir con las NOM. NMX, Declaratoria y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2392.
+
+Los responsables de las descargas de aguas residuales cuyos parámetros se encuentren fuera de los máximos permisibles autorizados en la normativa aplicable y el presente Capítulo, deberán de pagar por la remediación ambiental de conformidad con la Estructura tarifaria señalada en el artículo 104 de la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2393.
+
+Los Usuarios construirán un registro de drenaje fuera del predio, en un lugar de fácil acceso para su limpieza, reparación o reposición en el que descarguen las aguas residuales, de acuerdo con las características requeridas por la Autoridad con el objeto de realizar la medición de flujo, la toma de muestras y monitoreos.
+
+Los trabajos para la conservación y mantenimiento preventivo y correctivo del Drenaje público corresponderá (sic) a la Autoridad por sí o a través de los terceros que presenten el Servicio público por concesión.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2394.
+
+Se requerirá de la instalación de un dispositivo de medición de descargas de aguas residuales en los casos señalados en el artículo 70 de la Ley del Agua para el Estado de Puebla
+
+El suministro del dispositivo de medición de descargas de aguas residuales, lo realizará la Autoridad previo pago de los derechos, productos y contribuciones que realice el Usuario, de conformidad con el monto establecido en la Estructura Tarifaria establecida en el artículo 104 de la Ley de Agua del Estado de Puebla.
+
+La instalación de los dispositivos de medición de descargas o aguas residuales será realizada por la Autoridad para el correcto funcionamiento de los mismos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2395.
+
+La Autoridad podrá modificar las condiciones particulares de descarga de aguas residuales señaladas en el Permiso de descarga, cuando éstas presenten una modificación originada con motivo de cambio del uso del agua, cambio de giro, ampliación del establecimiento, modificación o incorporación de nuevos procesos o de cualquier otra causa que así lo justifique, notificando al interesado la resolución donde se determinen los cambios procedentes debidamente fundamentados y motivados.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2396.
+
+La Autoridad en el ejercicio de las acciones de control y vigilancia que le compete para la comprobación del cumplimiento de las disposiciones de la Ley del Agua para el Estado de Puebla, el Capítulo 17 y el presente Capítulo, aplicará los métodos de muestreo y análisis de laboratorio establecidos en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Articulo 2397.
+
+Cuando se requiera mayor capacidad en el sistema de drenaje por acciones de densificación, el Usuario presentará ante la Autoridad el proyecto de ampliación y queda a su cargo el costo de las obras e instalaciones que se requieran, debiendo cumplir además con las disposiciones urbanísticas y de construcción establecidas en el Capítulo 17 y la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2398.
+
+La Autoridad deberá realizar las conexiones para descarga de aguas residuales a partir del límite de los predios hacia el Sistema de drenaje municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2399.
+
+El aprovechamiento de agua en actividades productivas susceptibles de contaminación, obliga al tratamiento de la misma hasta que cumpla con las condiciones particulares de descarga fijadas por la Autoridad en el Permiso de descarga.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2400.
+
+Los Usuarios tienen la obligación de dar limpieza y mantenimiento en sus líneas de drenaje internas, sistemas de tratamiento y registros de drenaje, con el propósito de evitar la acumulación de residuos sólidos que puedan ocasionar taponamientos a la red de drenaje municipal.
+
+Los Usuarios podrán solicitar a la Autoridad la prestación del servicio señalado en el párrafo anterior, previo el pago de los derechos, contribuciones y/o productos correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2401.
+
+Cuando el Usuario no haya cambiado las características de su proceso, número de empleados, ni haya hecho ampliación de la misma, el permiso previamente expedido podrá ser renovado por la Autoridad en las mismas condiciones en que fue otorgado, siempre que no existan modificaciones a la normativa aplicable correspondiente y exista una solicitud del mismo Usuario, por lo menos 30 días antes del vencimiento.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2402.
+
+Cuando un Usuario pretenda cambiar el proceso industrial o el tratamiento de aguas residuales, está obligado a notificar a la Autoridad dentro de un plazo de 15 días naturales previo a su modificación.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2403.
+
+La Autoridad emitirá el Permiso de descarga de las aguas residuales atendiendo a los volúmenes con sus respectivas fluctuaciones, condiciones físicas, químicas y biológicas, instalaciones de recolección, tratamiento y descargas conforme a las condiciones particulares señaladas en el Permiso de descarga, las NOM, las NMX y el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2404.
+
+Para el caso de construcción de inmuebles para el establecimiento de industria y ampliación de los mismos, la Autoridad expedirá, antes de la Terminación de obra, un dictamen técnico previa inspección a las instalaciones hidráulicas considerando las NOM, las NMX y el Capítulo 17 del presente Código.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Servicio de Alcantarillado
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2405.
+
+El Sistema de alcantarillado municipal es responsabilidad de la Autoridad y se destinará exclusivamente a captar las aguas pluviales.
+
+Las instalaciones para la captación de aguas pluviales deberán ser diferentes y construirse separados de aquellos destinados a la descarga de aguas residuales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Servicio de Saneamiento
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2406.
+
+Los Usuarios del agua están obligados a sanear sus aguas residuales antes de su descarga a la red de drenaje municipal.
+
+Esta obligación la podrán realizar por sí a través de los procesos de tratamiento que resulten necesarios y que la Autoridad establezca en el Permiso de descarga.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2407.
+
+La tecnología utilizada en las plantas de tratamiento de los Usuarios, y los criterios de calidad física, química y biológica del agua residual, se sujetará a lo que disponen las NOM y a las condiciones particulares de descarga contenidas en el Permiso de descarga y el presente Capítulo a fin de evitar riesgos para la salud pública, la seguridad de las personas o la protección del ambiente.
+
+Las instalaciones para el saneamiento de aguas residuales deberán obtener licencia para su construcción en términos del Capítulo 17 del presente Código.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2408.
+
+Los lodos generados en las plantas de tratamiento deben cumplir con los límites máximos permisibles de contaminantes y requisitos para el manejo, transporte, tratamiento y disposición final que señala (sic) las NOM y demás normativa aplicable.
+
+El Usuario deberá de documentar en un expediente el debido cumplimiento de las disposiciones que en materia del manejo, traslado, tratamiento y disposición de estos lodos y presentarlo ante la Autoridad cuando se los demande.
+
+El incumplimiento a esta disposición será causa de revocación del permiso y la aplicación de medidas de emergencia.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2409.
+
+Los Usuarios del sistema de drenaje municipal que cuenten con plantas de tratamiento de aguas residuales propias, tienen la obligación de mantener en óptimas condiciones sus instalaciones de tipo primario, primario avanzado, secundario o terciario y cuando así se requiera, deberán contar con un sistema alterno de energía que permita la continuidad del proceso de su sistema de tratamiento y contar con las bitácoras de operación y de mantenimiento preventivo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2410.
+
+Las plantas de tratamiento particulares deberán funcionar en todos y cada uno de los procesos del saneamiento y durante las actividades y/o procesos productivos del establecimiento, así como en el tiempo en que se realicen las descargas por personal debidamente capacitado.
+
+Ante la falta de cumplimiento, la Autoridad aplicará de manera inmediata las medidas de seguridad que señala la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Servicio de Reúso
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2411.
+
+Para disponer del agua tratada, la Autoridad expedirá el permiso de reúso a los Usuarios que lo soliciten, según la calidad del agua y el destino que se trate, de conformidad con las disposiciones establecidas en el artículo 86 (sic) la Ley del Agua para el Estado de Puebla, las NOM, las NMX y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2412.
+
+Será obligatorio utilizar agua tratada en los usos urbanos siguientes: para riego de áreas verdes, riego de terrenos particulares, limpieza y conservación de transporte, lavado y mantenimiento de vialidades y banquetas y supresión de polvos, servicios sanitarios, monumentos, fuentes públicas, parques y jardines, para conservación y mantenimiento de camellones, riego de campos de golf, riego y mantenimiento de cementerios y limpieza exterior de inmuebles, canchas deportivas, zoológicos y pistas de hielo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+Pruebas de Calidad
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2413.
+
+Los sitios de muestreo y aforo deben ser señalados por los verificadores y los Usuarios los mantendrán libres y seguros para el acceso en todo momento, de tal manera que se asegure que la operación de muestreo y aforo sea representativa y de fácil realización.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2414.
+
+La Autoridad podrá realizar las acciones de verificación e inspección en cualquier momento, el aforo, muestreo o análisis físico, químico o biológico de las descargas que generen la industria o comercio o prestador de servicios en sus establecimientos.
+
+El Usuario deberá permitir el acceso a las instalaciones y a la información correspondiente al uso, manejo, aprovechamiento y disposición final del agua, al personal que para tal efecto designe la Autoridad.
+
+Todo Usuario exhibirá a la Autoridad cuando así lo requiera, un expediente con toda la documentación histórica y vigente relacionada con su proceso, así como los permisos y análisis efectuados en su descarga por un laboratorio autorizado conforme al presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2415.
+
+En el caso de las inspecciones y verificaciones que realice la Autoridad, en el supuesto de requerirse las muestras de calidad de agua residual, éstas se tomará (sic) en los puntos que determine la Autoridad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2416.
+
+En la autorregulación de las descargas del Usuario y conforme al Permiso, los análisis para acreditar la calidad de las aguas residuales deberán medirse con el equipo correspondiente para uno o varios parámetros, éste debe ser periódicamente calibrado y contar con su bitácora respectiva; los puntos de muestreo pueden ser cambiados por el Usuario.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2417.
+
+En los casos de inspección o verificación que realice la Autoridad, cuando el Usuario decida realizar por su cuenta el análisis comparativo de la contramuestra, este deberá ser exhibido en un plazo no mayor de 15 días naturales a partir de la fecha en que se haya realizado el mismo, en caso de no ser entregado, queda firme el resultado que presente la Autoridad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2418.
+
+Todo análisis deberá de ser realizado con laboratorios debidamente acreditados por una entidad certificadora bajo las disposiciones de la Ley Federal sobre Metrología y Normalización y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2419.
+
+Para conocer el volumen de aguas residuales que se arroja en el sistema de drenaje municipal, en la medición de flujo se usarán y seleccionarán métodos previstos en la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2420.
+
+Las técnicas para el aforo de las descargas de aguas residuales y la toma de muestras de las mismas, así como su adecuada preservación, manejo, transporte y sus posteriores análisis físicos, químicos y biológicos se sujetarán a las NOM, las NMX y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2421.
+
+Los Usuarios pueden realizar muestreos y análisis más frecuentes que los ordenados por la Autoridad competente en alguna de sus descargas para efectos estadísticos, históricos y de organización, los resultados obtenidos de dicho muestreo, podrán ser reportados a la Autoridad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO TERCERO. DE LA ESTRUCTURA TARIFARIA
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2422.
+
+Los propietarios, los poseedores y en general las personas que por cualquier título tengan derechos de disposición o administración, total o parcial, sobre inmuebles que requieran cualquier uso del agua establecido en el artículo 34 de la Ley del Agua para el Estado de Puebla, deberán celebrar con la Autoridad, el contrato correspondiente del servicio que se trate, además de solicitar de manera individual o conjunta cualquiera de los permisos y autorizaciones que se señalan en el presente Título, pagando los derechos establecidos en la Estructura Tarifaria establecida en el artículo 104 de la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2423.
+
+Se requiere Factibilidad de los servicios públicos previo cumplimiento de los requisitos señalados en el presente Capítulo y el pago de los derechos establecidos en la Estructura Tarifaria señalada en la Ley de Agua para el Estado de Puebla, en los siguientes casos:
+
+I. Previamente a iniciar procesos de diseño, desarrollo, comercialización y edificación de nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso;
+
+II. Cuando requieran ampliación y modificación de uso o destino de los inmuebles;
+
+III. Cuando sus inmuebles no cuenten con Toma; y
+
+IV. Cuando sus inmuebles cuenten con Toma y pretendan realizar Derivaciones.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2424.
+
+Los Permisos de descarga otorgados en términos del presente Título podrán renovarse por periodos anuales, siempre y cuando se acredite el cumplimiento de las obligaciones impuestas al Usuario, así como el pago de los derechos establecido en la Estructura Tarifaria establecida en la Ley de Agua del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2425.
+
+Para descargar aguas residuales generadas en procesos productivos, deberán construirse las obras e instalaciones del tratamiento que sean necesarias para tal efecto y establecidas en el Permiso de descarga, pudiendo celebrar los acuerdos con las Autoridades correspondientes que se requieran.
+
+Para los efectos del párrafo anterior, el Usuario deberá presentar a la Autoridad, los proyectos del proceso de tratamiento para su evaluación, durante los siguientes treinta días hábiles, la Autoridad realizará una inspección para verificar si el proyecto cumple con la normativa aplicable, de acuerdo al uso de agua y proceso productivo de que se trate, asimismo, informará por escrito al solicitante, las observaciones al proceso de pre-tratamiento y le dará un término de diez días para solventarlas, treinta días hábiles después de la notificación sobre la solventación de aquellas observaciones, la Autoridad determinará en definitiva lo conducente.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2426.
+
+Los Usuarios están obligados a pagar los derechos, productos y contribuciones de mejoras, por los servicios de drenaje, alcantarillado, saneamiento y reúso conforme a las cuotas y tarifas establecidas en la Estructura Tarifaria establecida en la Ley de Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2427.
+
+El pago deberá hacerse en las oficinas recaudadoras de la Autoridad competentede (sic) manera mensual antes de la fecha límite descrita en la boleta que para efecto emita.
+
+La falta de entrega de la boleta al Usuario no lo exime de su obligación de pago. La falta de pago oportuno del Usuario de los servicios hídricos generará a su cargo la obligación de pagar los créditos y accesorios previstos en las leyes fiscales y demás normatividad aplicable, por mora y evasión fiscal.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2428.
+
+La determinación de las contribuciones por la prestación del servicio de drenaje y saneamiento, que deberá cubrir mensualmente el Usuario, se realizará con base al volumen por metro cúbico registrado en el dispositivo de medición, y a falta de éste en cuota fija de conformidad con la Estructura Tarifaria establecida en la Ley de Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2429.
+
+La Autoridad podrá realizar los servicios de desazolve a redes particulares, así como la limpieza y desazolve de fosas sépticas, en cuyo supuesto los Usuarios beneficiarios de dichos servicios pagarán de conformidad con la estructura tarifaria establecida en la Ley de Agua para el Estado de Puebla.
+
+Derechos y Productos Requisitos
+
+I. Factibilidad de los a) Que el inmueble del que se trate se
+
+servicios públicos de encuentre dentro de las zonas autorizadas
+
+drenaje, alcantarillado, que se incluyan en el Programa de Desarrollo
+
+y saneamiento. Urbano Sustentable Puebla o los
+
+Programas Parciales que de él deriven;
+
+b) La Autoridad no está obligada a prestar
+
+los Servicios Públicos previstos en el
+
+presente Capítulo, en inmuebles ubicados en
+
+asentamientos humanos irregulares, o en
+
+predios fraccionados o subdivididos sin la
+
+autorización emitida por autoridad competente, o violando las normas de
+
+zonificación contenidas en los programas de
+
+ordenamiento territorial de los
+
+asentamientos humanos y desarrollo urbano sustentable, cualquiera que sea su régimen
+
+de tenencia de la tierra.
+
+c) Que los solicitantes acrediten en términos de las disposiciones legales aplicables,
+
+contar con facultades suficientes para la
+
+realización del trámite de factibilidad; y
+
+d) Que se presente solicitud escrita que
+
+contenga:
+
+1. Nombre y domicilio del solicitante;
+
+2. Identificación oficial con fotografía;
+
+3. Documento con el que se acredite
+
+su legitimación, y de ser el caso, su
+
+representación en los términos de las leyes
+
+aplicables;
+
+4. Documento con el que se acredite
+
+legalmente la propiedad o los derechos que
+
+por cualquier título tenga para la
+
+disposición o administración sobre el
+
+inmueble para el cual se solicita la
+
+factibilidad;
+
+5. Plano o croquis de ubicación del inmueble
+
+enmarcado en el Programa de Desarrollo
+
+Urbano Sustentable Puebla;
+
+6. Licencia de uso de suelo vigente;
+
+7. Constancia de alineamiento y número
+
+oficial;
+
+8. Proyecto general de la obra, en caso de
+
+obras nuevas.
+
+Constancia de terminación de obra, en caso
+
+de obras terminadas.
+
+Constancia de construcción existente en caso
+
+de obras con antigüedad mayor a cinco años;
+
+9. Número de Tomas domiciliarias y uso
+
+requerido para cada una de ellas;
+
+10. Proyecto de construcción y plano de
+
+ubicación de la infraestructura hídrica
+
+al interior de los inmuebles que corresponda
+
+a cada Toma, o en su caso, a cada Derivación;
+
+y
+
+Los documentos señalados en los numerales 2,
+
+4, 6, 7 y 8 se deberán presentar en copia
+
+simple y original para su cotejo.
+
+Los planos se deberán presentar impresos y
+
+digitales en formato DWG en un disco
+
+compacto.
+
+e) Las obras necesarias o complementarias que
+
+resulten en la revisión del proyecto que se
+
+presente, serán bajo la responsabilidad y
+
+costo del usuario.
+
+f) La Autoridad realizará una supervisión al
+
+sitio posterior a la presentación de la
+
+solicitud, antes de emitir la factibilidad.
+
+g) La factibilidad podrá solicitarse para uno
+
+sólo de los servicios públicos de drenaje,
+
+alcantarillado y saneamiento o en su conjunto, cuando el proyecto lo requiera.
+
+h) Recibo de pago de derechos.
+
+II. Contratación de los a) Factibilidad de los servicios públicos de
+
+Servicios Públicos. drenaje, alcantarillado y saneamiento
+
+vigente;
+
+b) Solicitud por escrito o electrónicamente que contenga:
+
+1. Nombre y domicilio del solicitante;
+
+2. Plano o croquis de ubicación del inmueble
+
+donde se instalará la toma, descarga y/o
+
+registro, señalando en su caso, el lugar
+
+exacto en donde tentativamente se realizará
+
+la instalación;
+
+3. Uso requerido, que deberá ser concordante
+
+con el giro del establecimiento, o en su
+
+caso, actividad económica o proceso de
+
+transformación que se realizará en el
+
+inmueble;
+
+4. Recibo de pago de derechos;
+
+5. Manifestación del Usuario solicitante en
+
+el sentido de que se conduce bajo protesta
+
+de decir verdad, declarándose sabedor de las
+
+sanciones penales a que son acreedores los
+
+falsos declarantes.
+
+Cuando la solicitud de los servicios no reúna
+
+alguno de los requisitos señalados, se
+
+prevendrá a los interesados para que lo
+
+satisfagan dentro del término de diez días,
+
+transcurrido dicho plazo sin que los
+
+interesados subsanen sus omisiones, se les
+
+tendrá por desistidos de su petición.
+
+c) Que la infraestructura al interior de los
+
+inmuebles cumpla con los requisitos y
+
+parámetros a que se refiere la Ley del Agua
+
+para el Estado de Puebla y el presente
+
+Capitulo.
+
+d) Las instalaciones y accesorios necesarios
+
+para la infraestructura hídrica al interior
+
+de los inmuebles en los que se presten los
+
+servicios públicos, deberán reunir los
+
+requisitos técnicos especificados por las NOM
+
+aplicables y correrán a cargo y cuenta del
+
+usuario.
+
+III. Prestación del La Contratación señalada en la fracción II
+
+servicio de drenaje. de la presente Tabla, da lugar a esta
+
+prestación, por lo que sólo se cubrirán los
+
+derechos correspondientes.
+
+IV. Conexión de descarga La Contratación señalada en la fracción II
+
+al drenaje. de la presente Tabla, da lugar a éste
+
+concepto, por lo que sólo se cubrirán los
+
+derechos correspondientes.
+
+V. Reconexión del servicio El pago de los derechos correspondientes.
+
+de drenaje.
+
+VI. Instalación del a) Contratación del servicio de drenaje;
+
+dispositivo de medición de
+
+descarga de aguas residuales. b) Permiso de descarga;
+
+(Sólo aplica para industria)
+
+c) Pago de derechos.
+
+El dispositivo de medición debe cumplir con
+
+las normas mexicanas de metrología de acuerdo
+
+a las condiciones de operación de sus
+
+procesos productivos, en donde debe de dar
+
+una medición acumulada (metros cúbicos) e
+
+instantánea (en litros por segundo) y dichos
+
+dispositivos deben de estar accesibles al
+
+personal que va a tomar las lecturas para la
+
+determinación de su volumen descargado.
+
+VII. Emisión del Permiso a) Poder notarial que lo acredite y/o acta
+
+de descarga constitutiva de la persona moral
+
+b) Registro Federal de Contribuyentes,
+
+c) Carta poder y copia de la identificación
+
+de la persona que realiza el tramite;
+
+d) Licencia de funcionamiento;
+
+e) Constancia de Alineamiento y número
+
+oficial;
+
+f) Licencia de Sustancias susceptibles de
+
+inhalación y efectos tóxicos. (cuando
+
+aplique)
+
+g) Aviso de funcionamiento o Licencia
+
+sanitaria (Cuando aplique);
+
+h) Constancia de medidas preventivas
+
+expedida por Bomberos (cuando aplique)
+
+i) Constancia de medidas básicas de seguridad
+
+expedida por la Unidad Operativa Municipal
+
+de Protección Civil (UOMPC) en los casos en
+
+que aplique;
+
+j) Boleta predial;
+
+k) Recibo de pago por el concepto de Permiso
+
+de descarga;
+
+l) Planos de los sistemas de drenaje
+
+sanitario y pluvial que cuenten con conexión
+
+a la red de drenaje municipal;
+
+m) Lista de materias primas que utiliza en
+
+sus procesos productivos;
+
+n) Diagrama de flujo del proceso de
+
+producción, así como su descripción,
+
+indicando de manera precisa donde se utiliza
+
+el agua y las cantidades que se utilicen en
+
+éstos; y
+
+o) Mencionar las características físicas,
+
+químicas y biológicas del agua residual del
+
+proceso, el tratamiento que se propone, sin
+
+mezclar las descargas provenientes de las
+
+instalaciones de los servicios sanitarios,
+
+de limpieza y de cocina.
+
+VIII. Excedente autorizado En caso de que las descargas de aguas
+
+de cargas contaminantes de residuales al drenaje municipal no cumplan
+
+aguas residuales. con la NOM aplicable se cubrirán los derechos
+
+correspondientes y los costos de
+
+remediación.
+
+IX. Prestación del servicio La planeación y ejecución de obra pública
+
+de alcantarillado. dará lugar a éste concepto, por lo que, en
+
+su caso se cubrirán las contribuciones de
+
+mejoras correspondientes.
+
+X. Prestación del servicio El saneamiento de aguas residuales dependerá
+
+de saneamiento. de la capacidad de operación de plantas de
+
+tratamiento de propiedad municipal o de
+
+aquellas quesaneen (sic) las aguas por
+
+convenio o concesión.
+
+a) Factibilidad de los servicios públicos;
+
+b) Contratación del servicio público que
+
+deberá contener:
+
+2 (SIC). Poder notarial que lo acredite y/o
+
+acta constitutiva de la persona moral
+
+3. Registro Federal de Contribuyentes,
+
+4. Carta poder y copia de la identificación
+
+de la persona que realiza el tramite;
+
+5. Factibilidad de servicios públicos;
+
+6. Licencia de funcionamiento;
+
+7. Constancia de Alineamiento y número
+
+oficial;
+
+8. Tarjetón de Tóxicos (cuando aplique)
+
+9. Aviso de funcionamiento o Licencia
+
+sanitaria (Cuando aplique);
+
+10. Constancia de medidas preventivas
+
+expedida por Bomberos (cuando aplique);
+
+11. Constancia de medidas básicas de
+
+seguridad expedida por la Unidad Operativa
+
+Municipal de Protección Civil (UOMPC) en los
+
+casos en que aplique;
+
+12. Boleta predial;
+
+13. Recibo de pago por el concepto de Permiso
+
+de descarga;
+
+14. Planos de los sistemas de drenaje
+
+sanitario y pluvial que cuenten con conexión
+
+a la red de drenaje municipal;
+
+15. Lista de materias primas que utiliza
+
+en sus procesos productivos;
+
+16. Diagrama de flujo del proceso de
+
+producción, así como su descripción,
+
+indicando de manera precisa dónde se utiliza
+
+el agua y las cantidades que se utilicen en
+
+éstos; y
+
+17. Mencionar las características físicas,
+
+químicas y biológicas del agua residual del
+
+proceso, el tratamiento que se propone, sin
+
+mezclar las descargas provenientes de las
+
+instalaciones de los servicios sanitarios,
+
+de limpieza y de cocina.
+
+XI. Prestación del servicio a) Ubicación de la infraestructura que
+
+de desazolve. requiere el servicio;
+
+b) Pago de derechos correspondientes.
+
+XII. Contratación del Manifestación del uso que se le dará al agua
+
+servicio (sic) agua de y cantidad requerida;
+
+reúso.
+
+XIII. Prestación del Pago de derechos correspondientes.
+
+servicio de agua de reúso
+
+XIV. Servicios de Pago de derechos correspondientes.
+
+supervisión, inspección y
+
+verificación.
+
+XV. Servicios de Pago de derechos correspondientes.
+
+verificación del
+
+funcionamiento de los
+
+dispositivos de medición.
+
+XVI. Servicios de revisión Pago de derechos correspondientes.
+
+y autorización de proyectos.
+
+XVII. Expedición de Pago de derechos correspondientes.
+
+certificados y constancias
+
+relacionados con la
+
+prestación de servicios
+
+públicos y el cumplimiento
+
+de obligaciones a cargo de
+
+los usuarios.
+
+XVIII. Suministro del Pago de derechos correspondientes.
+
+dispositivo de medición de
+
+descargas de aguas residuales
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO CUARTO. DE LA INSPECCIÓN Y VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2430.
+
+Para el cumplimiento de las facultades para realizar actos de verificación, inspección y vigilancia la Autoridad, deberá realizar las visitas en inmuebles, obras de construcción y urbanización que sean necesarias, mediante una orden por escrito fundada y motivada, emitida la Autoridad, en la que designe al servidor público que deberá llevar a cabo la diligencia en los términos señalados en el artículo 125 de la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2431.
+
+La Autoridad realizará un monitoreo sistemático y permanente de las descargas al sistema de drenaje municipal, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicará las medidas preventivas y correctivas necesarias para la protección de la salud pública, la seguridad de las personas y la protección del ambiente y tomará las medidas pertinentes a efecto de publicar constantemente los resultados de los procedimientos iniciados. En el caso de que se determine la fuente de la contaminación procederá a sancionar al responsable.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2432.
+
+Para poder desplegar sus actuaciones y hacer valer sus resoluciones la Autoridad aplicará la ejecución de cualquiera de las medidas de apremio señaladas en el artículo 123 de la Ley del Agua para el Estado de Puebla, con el objetivo de evitar una amenaza a la salud pública, la seguridad de las personas o la protección del ambiente, las cuales podrán realizarse en coordinación con los órganos auxiliares señalados en el presente Capítulo y sin perjuicio de las sanciones a que sea acreedor el responsable del problema.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2433.
+
+En el caso de la red de drenaje y/o alcantarillado quede obstruida o deteriorada, la Autoridad realizará las obras necesarias de reparación con cargo a los propietarios, Usuarios, o poseedores que sean causantes de los daños ocasionados.
+
+ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)
+
+###### Artículo 2434.
+
+Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la seguridad de las personas, la Autoridad, fundada y motivadamente, podrán ordenar inmediatamente una o varias de las siguientes medidas de seguridad:
+
+I. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las obras o instalaciones en las que se desarrollen las actividades, que no cuenten con las autorizaciones de descargas emitidas por la Autoridad;
+
+II. El aseguramiento precautorio de materiales, bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
+
+III. El retiro de la circulación de vehículos utilizados para descargar en sistemas de drenaje o alcantarillado municipal, para su remisión a un depósito de vehículos; y,
+
+IV. Suspender los servicios públicos y clausurar provisionalmente los giros, establecimientos, locales, construcciones o inmuebles con irregularidades, o que pongan en riesgo la salud pública, la seguridad de las personas o la protección al ambiente.
+
+La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2435.
+
+Cuando la Autoridad ordene alguna de las medidas de seguridad previstas en este Capítulo, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2436.
+
+Una vez realizada la inspección, cuando haya incumplimiento a la Ley del Agua para el Estado de Puebla, el Presente Capítulo y la demás normativa aplicable, la Autoridad determinará las medidas de seguridad y/o sanciones procedentes de conformidad con el Título Octavo y Noveno de la Ley del Agua para el Estado de Puebla.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO SEXTO. DE LOS RECURSOS ADMINISTRATIVOS
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2437.
+
+Contra los actos y resoluciones de las Autoridades, procederá el recurso de (sic) administrativo de revisión.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2438.
+
+En cuanto al procedimiento para tramitar los recursos de revisión administrativa, en relación con su presentación, la naturaleza de las pruebas, su ofrecimiento, admisión y desahogo y la resolución, se observan las disposiciones de La Ley del Agua para el Estado de Puebla, el presente Capítulo y las normas que establecen el Código de Procedimientos Civiles del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2439.
+
+El recurso de inconformidad procede contra actos y acuerdos del Presidente Municipal, del H. Ayuntamiento, de sus Dependencias, de los Presidentes de las Juntas Auxiliares y se promoverá en los términos que señalan los artículos del 252 al 275 de la Ley Orgánica Municipal.
 
 T R A N S I T O R I O S
 
@@ -36014,3 +37168,11 @@ P.O. 22 DE JUNIO DE 2017.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 5 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE SEPTIEMBRE DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, QUE ADICIONA EL LIBRO DÉCIMO SEGUNDO "PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA RESIDUAL DEL MUNICIPIO DE PUEBLA", CAPÍTULO 39 "DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO" AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, CON LOS ARTÍCULOS 2380 AL 2439".]
+
+PRIMERO. Las disposiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Para efectos del cobro de derechos, productos y contribuciones de la cobertura del SOAPAP se mantendrá la Estructura tarifaria aprobada por el H. Congreso del Estado en todo lo que no se oponga al presente Capítulo.
