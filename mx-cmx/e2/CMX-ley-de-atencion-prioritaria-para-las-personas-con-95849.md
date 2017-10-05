@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-prioritaria-para-las-personas-con-95849"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2013-09-17"
+last_updated: "2017-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95849&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-09-12"
 
 LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de septiembre de 2013.
 
@@ -70,9 +70,17 @@ a) Adultos Mayores de 60 años;
 
 b) Madres con hijas e hijos menores de 5 años;
 
-c) Mujeres embarazadas; y
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2017)</small>
 
-d) Mujeres jefas de familia.
+c) Mujeres embarazadas;
+
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+d) Mujeres jefas de familia; y
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+e) Personas pertenecientes a las comunidades indígenas.
 
 IV.- Secretaría.- Secretaría de Desarrollo Social del Distrito Federal;
 
@@ -173,3 +181,13 @@ TERCERO. Se asignarán los recursos suficientes a la Secretaría para la aplicac
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de abril del año dos mil trece.- POR LA MESA DIRECTIVA.- DIP. EFRAÍN MORALES LÓPEZ, PRESIDENTE.- DIP. ROSALÍO ALFREDO PINEDA SILVA, SECRETARIO.- DIP. RUBÉN ERIK ALEJANDRO JIMÉNEZ HERNÁNDEZ, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de septiembre del año dos mil trece.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA DEL DISTRITO FEDERAL, SIMÓN NEUMANN LADENZON.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE DEL DISTRITO FEDERAL, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS DEL DISTRITO FEDERAL, LUIS ALBERTO RÁBAGO MARTÍNEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL DEL DISTRITO FEDERAL, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD DEL DISTRITO FEDERAL, RUFINO H. LEÓN TOVAR.- FIRMA.- EL SECRETARIO DE TURISMO DEL DISTRITO FEDERAL, MIGUEL TORRUCO MÁRQUES.- FIRMA.- LA SECRETARIA DE CULTURA DEL DISTRITO FEDERAL, LUCÍA GARCÍA NORIEGA Y NIETO.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, JESÚS RODRÍGUEZ ALMEIDA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, FAUSTO LUGO GARCÍA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL, CARLOS NAVARRETE RUÍZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN DEL DISTRITO FEDERAL, MARA ROBLES VILLASEÑOR.- FIRMA.- EL SECRETARIO DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES DEL DISTRITO FEDERAL, HEGEL CORTÉS MIRANDA.- FIRMA.- EL SECRETARIO DE FINANZAS DEL DISTRITO FEDERAL, EDGAR AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD DEL DISTRITO FEDERAL, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL DISTRITO FEDERAL, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
