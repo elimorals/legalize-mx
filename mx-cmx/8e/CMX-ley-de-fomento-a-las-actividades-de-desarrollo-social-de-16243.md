@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-a-las-actividades-de-desarrollo-social-de-16243"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2006-01-06"
+last_updated: "2017-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16243&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUADAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -50,11 +50,11 @@ LEY DE FOMENTO ALAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVIL
 
 La presente Ley es de orden público, de interés social y de aplicación en el Distrito Federal y tiene por objeto fomentar las actividades de Desarrollo Social que realicen las organizaciones civiles en beneficio de la población de esta entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley se consideran actividades de Desarrollo Social las que realicen en el Distrito Federal, sin ánimo de lucro, en beneficio de terceros, con sentido de corresponsabilidad y transparencia, sin fines confesionales o político partidistas y, bajo principios de solidaridad, filantropía y asistencia social, las organizaciones constituidas conforme a las leyes mexicanas, cualquiera que sea la forma jurídica que adopten, para:
+Para los efectos de esta ley, se consideran actividades de Desarrollo Social las que realicen en el distrito federal, sin ánimo de lucro, en beneficio de terceros, con sentido de corresponsabilidad y transparencia, sin fines confesionales o político partidistas, y bajo los principios de solidaridad, filantropía y asistencia social, las organizaciones constituidas conforme a las leyes mexicanas, cualquiera que sea la forma jurídica que adopten, para:
 
 I. Fortalecer y fomentar el goce y ejercicio de los derechos humanos;
 
@@ -92,9 +92,13 @@ b) La prestación de asesoría y asistencia técnica;
 
 c) El fomento a la capacitación, y
 
-XVI. Favorecer el incremento de las capacidades productivas de las personas para alcanzar su autosuficiencia y desarrollo integral;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2017)</small>
 
-XVII. Las demás actividades que, basadas en los principios que animan esta ley, contribuyan al Desarrollo Social de la población.
+XVII. Promoción y fomento del cuidado y protección de los animales que contribuyan a la asistencia social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE OCTUBRE DE 2017)</small>
+
+XVIII. Las demás actividades que, basadas en los principios que animan esta ley, contribuyan al desarrollo social de la población.
 
 ###### Artículo 3.
 
@@ -218,7 +222,7 @@ V. Proporcionar a la autoridad que otorgue los recursos y fondos públicos a que
 
 la Secretaría de Desarrollo Social del Distrito Federal impondrá a las organizaciones civiles registradas las sanciones siguientes:
 
-I. Apercibimiento, en el caso de que incurran por primera vez en incumplimiento de las obligaciones que establecen las fracciones 1 y II del artículo 11 de esta Ley, para que en un plazo no menor de treinta días hábiles contados a partir de la notificación respectiva, subsane la irregularidad;
+I. Apercibimiento, en el caso de que incurran por primera vez en incumplimiento de las obligaciones que establecen las fracciones I y II del artículo 11 de esta Ley, para que en un plazo no menor de treinta días hábiles contados a partir de la notificación respectiva, subsane la irregularidad;
 
 II. Suspensión por un año de los derechos estipulados en esta Ley si en un período de cinco años incumplen, por segunda vez, las obligaciones que les establecen las fracciones I y II del artículo 11 de esta Ley; y
 
@@ -255,3 +259,13 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 6 DE ENERO DE 2006.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL”.]
+
+G.O. 5 DE OCTUBRE DE 2017.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Jefe de Gobierno de la Ciudad de México deberá adecuar el reglamento de la presente ley, dentro de los 90 días naturales siguientes al día de entrada en vigor del presente Decreto.
