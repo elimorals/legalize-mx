@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-promocion-de-la-convivencia-libre-de-violencia-8554
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-31"
-last_updated: "2014-12-18"
+last_updated: "2017-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85541&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-25"
 
 LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 31 de enero de 2012.
 
@@ -52,7 +52,9 @@ LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLA
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Distrito Federal y tienen por objeto:
 
-I. Establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género y de derechos humanos de la infancia y juventud, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir la violencia en el entorno escolar, especialmente el maltrato escolar que se presenta en los niveles básico y medio superior que se imparten en el Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+I. Establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género y de derechos humanos de la infancia y juventud, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir el acoso escolar y la violencia en el entorno escolar, garantizando así la integridad física y psicológica de los estudiantes de los niveles básico y medio superior en la Ciudad de México.
 
 II. Diseñar mecanismos, instrumentos y procedimientos para garantizar el derecho de las personas que integran la comunidad educativa a una vida libre de violencia en el entorno escolar promoviendo su convivencia pacífica;
 
@@ -63,6 +65,14 @@ IV. Establecer mecanismos de participación y seguimiento en el diseño e instru
 V. Promover la creación y, en su caso, la modificación de los planes y programas de estudio que contribuyan a la prevención del maltrato escolar desde un ámbito integral y multidisciplinario en coordinación con las autoridades de los distintos niveles de gobierno, y
 
 VI. Fomentar la corresponsabilidad social y la cohesión comunitaria para garantizar un ambiente libre de violencia en el entorno escolar del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+VII. Atender y canalizar, en su caso, para su adecuado tratamiento, a los alumnos que sean víctimas o autores de la violencia escolar;
+
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+VIII. Propiciar, en el ambiente escolar, el desarrollo de una cultura de protección y de ejercicio de los derechos humanos y, de manera particular, los principios de equidad y no discriminación, la dignidad humana y la paz.
 
 ###### Artículo 2.
 
@@ -88,15 +98,19 @@ VIII. Personas involucradas en una dinámica de violencia en el entorno escolar:
 
 IX. Persona receptora de maltrato escolar: integrante de la comunidad educativa que sufra algún tipo de maltrato en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
 
-X. Programa: el Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar del Distrito Federal;
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
 
-XI. Red: la Red Interinstitucional sobre Convivencia en el Entorno Escolar en el Distrito Federal;
+X. Persona reproductora de maltrato escolar: integrante de la comunidad educativa que ejerza conscientemente algún tipo de maltrato en cualquiera de sus tipos o modalidades hacia otro integrante o integrantes de la comunidad educativa;
 
-XII. Secretaría de Educación: la Secretaría de Educación del Gobierno del Distrito Federal;
+XI. Programa: el Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar del Distrito Federal;
 
-XIII. Receptor indirecto del maltrato escolar: familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos, y
+XII. Red: la Red Interinstitucional sobre Convivencia en el Entorno Escolar en el Distrito Federal;
 
-XIV. Observatorio: el Observatorio sobre Convivencia en el Entorno Escolar del Distrito Federal.
+XIII. Secretaría de Educación: la Secretaría de Educación del Gobierno del Distrito Federal;
+
+XIV. Receptor indirecto del maltrato escolar: familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos, y
+
+XV. Observatorio: el Observatorio sobre Convivencia en el Entorno Escolar del Distrito Federal.
 
 ###### Artículo 3.
 
@@ -268,7 +282,11 @@ X. Impartir capacitación y especialización, en coordinación con la Red, sobre
 
 XI. Impulsar, conjuntamente con las autoridades respectivas, la capacitación sobre el conocimiento, atención y prevención de la violencia en el entorno escolar y maltrato escolar al personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia o tutores de instituciones educativas públicas y a las personas que voluntariamente deseen recibirla;
 
-XII. Realizar diplomados, cursos, talleres, conferencias, mesas redondas, actividades extraescolares, ejercicios, dinámicas, medios audiovisuales, charlas y cualquier otra actividad que propicie la prevención de la violencia en el entorno escolar y maltrato escolar dirigidos a las familias y al personal que formen parte de la comunidad educativa de los centros escolares del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+XII. Realizar diplomados, cursos, talleres, conferencias, mesas redondas, actividades extraescolares, ejercicios, dinámicas, medios audiovisuales, charlas y cualquier otra actividad grupal que propicie la identificación de las conductas tendientes a la violencia en el entorno escolar y maltrato a escolares, en la búsqueda de su posible prevención, y en su caso, debida atención para la solución de conflictos.
+
+Estas actividades estarán dirigidas con especial énfasis a las personas reproductoras de maltrato escolar, a sus familias, tutores y al personal que forme parte de la comunidad educativa de los centros escolares de la Ciudad de México.
 
 XIII. Diseñar e instrumentar estrategias educativas tendientes a generar ambientes basados en una cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica y democrática dentro de la comunidad educativa;
 
@@ -405,6 +423,10 @@ IX. Un representante de la Asamblea Legislativa del Distrito Federal nombrado po
 X. Dos representantes de las organizaciones de la sociedad civil que formen parte del Observatorio sobre convivencia escolar, y
 
 XI. Dos representantes de instituciones académicas.
+
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+XII. Dos representantes de Asociaciones de padres de familia de escuelas públicas y/o privadas de la Ciudad de México.
 
 Los integrantes señalados en la fracción X y XI durarán en el ejercicio de esta representación un año, al cabo del cual el propio Observatorio elegirá a quienes deban sustituirlos. Deberá considerarse que en la renovación de los miembros se alternen los sectores que participan en el Observatorio.
 
@@ -680,7 +702,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los quince días del 
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinticinco días del mes de enero del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACION, MARIO M. DELGADO CARRILLO.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 12 DE JUNIO DE 2012.
 
@@ -695,3 +717,11 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 5 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
