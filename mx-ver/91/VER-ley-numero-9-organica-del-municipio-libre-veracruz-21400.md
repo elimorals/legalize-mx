@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-07-04"
+last_updated: "2017-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -205,7 +205,9 @@ Los Ayuntamientos promoverán la participación de los ciudadanos para el desarr
 
 I. El Ayuntamiento podrá celebrar consultas populares cuando se requiera tomar decisiones que por su naturaleza afecten el interés público del municipio;
 
-II. Los ciudadanos podrán solicitar al Ayuntamiento la realización de consultas populares con fines específicos que atiendan al interés público, siempre que lo soliciten al menos el 0.5% de los ciudadanos del municipio de que se trate, aplicando en lo conducente las disposiciones legales relativas a la Iniciativa Popular y en los términos que señale el reglamento municipal de la materia;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+II. Los ciudadanos podrán solicitar al Ayuntamiento la realización de consultas populares con fines específicos que tiendan al interés público, siempre que lo soliciten al menos el 0.5% de los ciudadanos registrados en el listado nominal en la elección local anterior del municipio de que se trate, aplicando en lo conducente las disposiciones legales relativas a la Iniciativa Popular y en los términos que señale el Reglamento Municipal de la materia.
 
 III. Los ciudadanos podrán organizarse para colaborar con el Ayuntamiento a través de las siguientes acciones:
 
@@ -216,6 +218,10 @@ b) Proponer medidas para la preservación y restauración del ambiente;
 c) Proponer medidas para mejorar la prestación de los servicios públicos y la realización de obra pública; y
 
 d) Coadyuvar en la ejecución de la obra pública.
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+
+Las consultas populares o ciudadanas que pretendan celebrar los municipios deberán cumplir los requisitos establecidos en la Ley de Referendo, Plebiscito e Iniciativa Popular.
 
 ## TÍTULO SEGUNDO. DEL GOBIERNO DEL MUNICIPIO
 
@@ -3944,3 +3950,11 @@ G.O. 4 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 293 QUE REFORMA EL ARTÍCULO 191 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 5 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318 QUE REFORMA LA FRACCIÓN II Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
