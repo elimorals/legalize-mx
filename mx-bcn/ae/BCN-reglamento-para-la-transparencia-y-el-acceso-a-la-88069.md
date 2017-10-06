@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-transparencia-y-el-acceso-a-la-88069"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-13"
-last_updated: "2012-04-13"
+last_updated: "2017-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de abril de 2012.
 
@@ -548,3 +550,17 @@ SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
 EL LIC. ENRIQUE MAGAÑA MOSQUEDA, SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA, C E R T I F I C A: QUE EL ANTERIOR REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, FUE APROBADO POR UNANIMIDAD DE VOTOS DE LOS MIEMBROS INTEGRANTES DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, MEDIANTE ACUERDO EMITIDO EN SESIÓN CELEBRADA EL DÍA 28 DE MARZO DE 2012. CONSTE.
 
 MEXICALI, BAJA CALIFORNIA, A 3 DE ABRIL DE 2012.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se deroga el Reglamento de Acceso a la información Pública del Poder Judicial del Estado de Baja California, publicado en fecha 13 de abril de 2012, en el Periódico Oficial del Estado, número 18, Sección I Tomo CXIX, así como en el Boletín Judicial número 12,155, volumen XLVII de esa misma fecha.
+
+TERCERO.- Se derogan los Lineamientos para la elaboración de versiones públicas de documentos y resoluciones que tiene bajo su resguardo el Poder Judicial del Estado de Baja California, publicados en el Periódico Oficial del Estado número 34, Sección III, Tomo CXXII y en el Boletín Judicial del Estado número 12,872, Volumen L, ambos de fecha 17 de julio de 2015.
+
+CUARTO.- Publíquese el presente ordenamiento en el Periódico Oficial del Estado, así como en el Boletín Judicial, y difúndase a través del Portal de Transparencia del Poder Judicial del Estado y entre las Áreas del Poder Judicial del Estado de Baja California, sujetas al mismo.
