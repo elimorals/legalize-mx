@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-07-14"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE OCTUBRE DE 2017 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE OCTUBRE DE 2017.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1885,13 +1885,13 @@ No podrá ser electo para ejercer el cargo de Presidente del Supremo Tribunal de
 
 El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno y ante el Consejo del Poder Judicial un informe anual de labores en la última sesión del mes de diciembre.
 
-(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006) (REUBICADO [N. DE E. ANTES ARTÍCULO 85], P.O. 14 DE JULIO DE 2017)
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006) (REUBICADO [N. DE E. ANTES ARTÍCULO 85], P.O. 14 DE JULIO DE 2017) (F. DE E., P.O. 6 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 84.
 
-Las faltas temporales de los Magistrados serán cubiertas por el Magistrado Supernumerario que determine el Pleno del Supremo Tribunal de Justicia, de conformidad con lo que se establezca en la Ley Orgánica del Poder Judicial. Tratándose de separación definitiva se hará un nuevo nombramiento conforme al artículo 87 de esta Constitución.
+Las faltas temporales de los Magistrados serán cubiertas por el Magistrado Supernumerario que determine el Pleno del Supremo Tribunal de Justicia, de conformidad con lo que se establezca en la Ley Orgánica del Poder Judicial. Tratándose de separación definitiva se hará un nuevo nombramiento conforme al artículo 86 de esta Constitución.
 
-El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado en ternas la designación de Magistrados Supernumerarios de entre los Jueces de Partido que reúnan los requisitos del artículo 86 de esta Constitución.
+El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado en ternas la designación de Magistrados Supernumerarios de entre los Jueces de Partido que reúnan los requisitos del artículo 85 de esta Constitución.
 
 (REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 86], P.O. 14 DE JULIO DE 2017)
 
@@ -1979,9 +1979,9 @@ XI.- Conocer de las contradicciones entre las tesis contenidas en las resolucion
 
 XII.- Conocer y resolver los recursos contra las resoluciones que dicte el Consejo del Poder Judicial de conformidad con lo dispuesto en esta Constitución;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006) (F. DE E., P.O. 6 DE OCTUBRE DE 2017)
 
-XIII.- Designar a los dos Magistrados que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 83; así como proponer al Congreso del Estado la separación del cargo de un Consejero que viole de manera grave los principios que rigen la función judicial de acuerdo al dictamen de evaluación a que se refiere la fracción XXIII del artículo 90;
+XIII.- Designar a los dos Magistrados que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 82; así como proponer al Congreso del Estado la separación del cargo de un Consejero que viole de manera grave los principios que rigen la función judicial de acuerdo al dictamen de evaluación a que se refiere la fracción XXIII del artículo 89;
 
 XIV.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2006)
 
@@ -2069,17 +2069,17 @@ XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre e
 
 XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006) (F. DE E., P.O. 6 DE OCTUBRE DE 2017)
 
-XXI.- Designar a los dos Consejeros que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 83;
+XXI.- Designar a los dos Consejeros que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 82;
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 XXII.- Establecer, con arreglo a la Ley, los criterios, lineamientos y procedimientos para el desempeño y la evaluación de los servidores públicos del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006) (F. DE E., P.O. 6 DE OCTUBRE DE 2017)
 
-XXIII.- Realizar el seguimiento constante y permanente de la actuación de los servidores judiciales, así como expedir el dictamen de evaluación correspondiente en términos de Ley. Excepto respecto de los Magistrados, cuya evaluación estará a cargo de la Comisión de Evaluación prevista en el último párrafo del artículo 83;
+XXIII.- Realizar el seguimiento constante y permanente de la actuación de los servidores judiciales, así como expedir el dictamen de evaluación correspondiente en términos de Ley. Excepto respecto de los Magistrados, cuya evaluación estará a cargo de la Comisión de Evaluación prevista en el último párrafo del artículo 82;
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
