@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2017-09-22"
+last_updated: "2017-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3019,15 +3019,15 @@ Se entenderá que la persona imputada acepta el perdón, si no manifiesta su opo
 
 ### CAPÍTULO SÉPTIMO. FORMAS DE JUSTICIA RESTAURATIVA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ARTÍCULO 170 (EXTINCIÓN DE LA ACCIÓN PENAL A TRAVÉS DE MEDIOS ALTERNOS DE JUSTICIA RESTAURATIVA)
 
 Aunque se trate de delitos perseguibles de oficio, la acción penal se extinguirá a través de acuerdos reparatorios, perdón, reparación del daño o acto equivalente, y por suspensión condicional de la investigación inicial o del proceso, si se cumplen los requisitos y condiciones establecidos para los mismos en el Código de Procedimientos Penales.
 
 Los legitimados para manifestar que se dan por reparados del daño, extender el perdón o para intervenir en suspensión condicional de la acción penal o del proceso, también podrán hacerlo satisfaciendo los requisitos previstos en el apartado B del artículo 169 de este código.
+
+No procederá el perdón o acuerdo reparatorio en los delitos de violencia familiar o su equiparado.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -7180,3 +7180,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 945.- SE REFORMA EL ARTÍCULO 170 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
