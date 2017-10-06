@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2017-08-15"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -135,9 +135,11 @@ Cada titular de juzgado de Distrito, tribunal Unitario de Circuito, presidente d
 
 De manera excepcional, la jornada de trabajo podrá extenderse considerando en todo caso, las necesidades del servicio y las guardias, sin que ello implique exceder de un horario prudente y en ningún caso generar una práctica reiterada.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-En caso de que se registren jornadas de trabajo extraordinarias en los órganos jurisdiccionales, los titulares de los mismos deberán fundar y motivar esta circunstancia ante la Comisión de Administración, a efecto de justificar la solicitud del pago de horas extras que corresponda al personal operativo adscrito.
+En caso de que se registren jornadas de trabajo extraordinarias en los órganos jurisdiccionales y Centros de Justicia Penal Federal, los titulares de los primeros y los Administradores de los referidos Centros, deberán observar lo previsto en el Capítulo Octavo, del Título Primero, del Libro Segundo del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
 ###### Artículo 5.
 
@@ -3522,3 +3524,13 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 TERCERO. El periodo de guardia de los Juzgados de Distrito de Procesos Penales Federales de la Ciudad de México no será modificado con motivo de la entrada en vigor del presente Acuerdo.
+
+D.O.F. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REMUNERACIÓN DE HORAS EXTRAORDINARIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan los Lineamientos de operación para el pago de horas extraordinarias en favor de los servidores públicos del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y demás disposiciones que se opongan al presente Acuerdo.
