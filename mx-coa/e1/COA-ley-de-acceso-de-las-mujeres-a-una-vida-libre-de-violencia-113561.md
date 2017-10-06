@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-04-18"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -389,9 +389,11 @@ V. Violencia en la comunidad: Son los actos individuales o colectivos que transg
 
 La protección y asistencia a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral, su reinserción a la vida pública, privada, social y su participación en todos los niveles de la vida, económica, política, laboral, profesional, académica, social, privada y cultural.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-El Gobierno del Estado de Coahuila de Zaragoza, y los municipios preverán en sus presupuestos de egresos, los recursos necesarios para promover las políticas, programas y acciones, a favor de la igualdad de oportunidades entre el hombre y la mujer, la erradicación de toda forma de discriminación en contra de la mujer y el acceso a las mujeres una vida libre de violencia.
+El Gobierno del Estado de Coahuila de Zaragoza y los municipios preverán en sus presupuestos de egresos, los recursos necesarios para promover las políticas, programas y acciones a favor de la igualdad de oportunidades entre el hombre y la mujer, la erradicación de toda forma de discriminación en contra de la mujer, el acceso de las mujeres a una vida libre de violencia y para hacer frente a la declaratoria de alerta de violencia de género contra las mujeres.
 
 ###### Artículo 12.
 
@@ -1401,7 +1403,9 @@ La Secretaría de las Mujeres, podrá monitorear y dar seguimiento al funcionami
 
 La administración pública del Estado y de los municipios, podrán de forma coordinada:
 
-I. Destinar los recursos financieros para apoyar la sustentabilidad y permanencia de los refugios, siempre y cuando no hayan recibido recurso federal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+I. Destinar recursos financieros para apoyar la sustentabilidad y permanencia de los refugios, durante los meses en que no reciben recurso federal;
 
 II. Gestionar y facilitar los bienes inmuebles para ser operados como refugios, manteniendo la seguridad y confidencialidad de los mismos; y
 
@@ -1880,3 +1884,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 948.- SE MODIFICA EL ARTÍCULO 11 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 956.- SE REFORMA EL ARTÍCULO 82 DE LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
