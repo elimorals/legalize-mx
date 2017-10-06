@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2017-09-22"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -1067,6 +1067,10 @@ g) No ser ministro de algún culto religioso.
 
 h) Presentar dos cartas de recomendación expedidas por personas a quien hubieren prestado anteriormente sus servicios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 89 BIS.- La Administración Pública Municipal se abstendrá de exigir el examen de gravidez, el certificado médico de no embarazo y de Virus de Inmunodeficiencia Humana (VIH), como requisito de ingreso, permanencia o ascenso en el centro de trabajo, así como el despido o la coacción de la renuncia por motivos de embarazo, cambio de estado civil o tener bajo cuidado a familiares dependientes.
+
 ###### ARTICULO 90.
 
 Cuando se trate de puestos que requieran conocimientos técnicos o profesionales, el solicitante, además de los requisitos a que se refiere el artículo anterior, presentará constancia fehaciente de sus conocimientos y estudios en la materia.
@@ -1240,6 +1244,10 @@ b) Los días de descanso obligatorio en las dependencias en donde se prestan ser
 c) LICENCIAS O PERMISOS.- En todo caso las licencias o permisos se otorgarán de acuerdo a lo dispuesto por el artículo por el artículo 51-1 de la Ley Estatal y al convenio laboral. Los permisos económicos hasta por 3 días con goce de sueldo sólo se otorgarán en días intermedios de la semana (martes, miércoles, jueves), salvo que se compruebe la necesidad se otorgarán en principio o fin de semana.
 
 El personal que no cuente con seis meses de antigüedad, no tendrá derecho a permisos económicos con goce de sueldo; y
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+En el caso de que el trabajador compruebe la necesidad de ofrecer un cuidado a dependientes o terceros, se otorgará un permiso especial para adecuar su horario laboral de acuerdo a sus necesidades, a consideración de su jefe inmediato y la Secretaría de Administración.
 
 d) VACACIONES.- Los períodos de vacaciones serán dos al año, serán fijados por la autoridad facultada del Municipio, preferentemente a mediados del año y en el mes de diciembre.
 
@@ -7854,3 +7862,23 @@ Se deroga el Apartado Sexto del Libro Segundo del Código Municipal de Querétar
 ###### ARTÍCULO CUARTO.
 
 Comuníquese el presente a los titulares de las Secretarías General de Gobierno, de Seguridad Pública Municipal, de Desarrollo Sostenible, de Finanzas y de Gestión Delegacional.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 89 BIS Y SE ADICIONA UN PÁRRAFO QUINTO AL INCISO C) DEL ARTÍCULO 118 DEL CÓDIGO MUNICIPAL DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Código entrará en vigor al día siguiente de la primera de las publicaciones en los medios mencionados en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga cualquier disposición de igual o menor jerarquía que se oponga al presente.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Administración para que realice en un plazo no mayor a 30 días naturales los trabajos correspondientes para la adecuación a los manuales de procedimientos y de organización, de conformidad con el presente acuerdo.
