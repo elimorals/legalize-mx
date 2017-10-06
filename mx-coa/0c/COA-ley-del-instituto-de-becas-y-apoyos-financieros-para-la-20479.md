@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-de-becas-y-apoyos-financieros-para-la-20479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2016-08-09"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACION DEL ESTADO DE COAHUILA
 
-LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACION DEL ESTADO DE COAHUILA
+LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 13 de marzo del 2001.
 
@@ -47,9 +47,11 @@ La función de este Instituto es de interés público y social.
 
 Para los efectos de esta ley, el Instituto de Becas y Apoyos Financieros para la Educación del Estado de Coahuila, se identificará como el Instituto.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-El Instituto tendrá por objeto promover, coordinar, difundir y ejecutar las acciones necesarias para otorgar becas, estímulos económicos y apoyos financieros de naturaleza educativa, científica o de investigación, a estudiantes destacados o que no cuenten con los recursos económicos para asistir a los centros educativos oficiales o particulares en que cursen o hayan de cursar sus estudios en cualquier nivel educativo.
+El Instituto tendrá por objeto promover, coordinar, difundir y ejecutar las acciones necesarias para otorgar becas, estímulos económicos y apoyos financieros de naturaleza educativa, científica o de investigación, a estudiantes destacados o que no cuenten con los recursos económicos para asistir a los centros educativos oficiales o particulares en que cursen o hayan de cursar sus estudios en cualquier nivel educativo, así como a los que se encuentren en situación de vulnerabilidad, por ser personas con discapacidad, personas desplazadas, refugiadas, migrantes, víctimas de delito o violaciones graves a derechos humanos.
 
 Para los efectos de esta ley, quedan comprendidas las becas, estímulos económicos y apoyos financieros de naturaleza deportiva, artística o similares, que otorguen las instancias estatales, municipales y/o federales. No quedan comprendidas las becas, estímulos y/o apoyos de naturaleza laboral.
 
@@ -474,3 +476,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 936.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
