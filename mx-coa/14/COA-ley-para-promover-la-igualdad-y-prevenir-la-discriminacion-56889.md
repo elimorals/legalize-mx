@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2017-04-18"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -47,7 +47,9 @@ Esta ley es de orden público, interés social y de observancia obligatoria en e
 
 Esta ley tiene por objeto:
 
-I. Promover y garantizar el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+I. Promover y garantizar la igualdad sustantiva transversalizando la perspectiva de género en todas sus actuaciones y procurando la utilización de un lenguaje no sexista dentro en sus documentos oficiales, el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2017)</small>
 
@@ -213,6 +215,10 @@ El derecho a la no discriminación es un derecho fundamental en los términos pr
 
 Las entidades públicas, en el ámbito de sus competencias, promoverán y establecerán los instrumentos legales y materiales necesarios para garantizar el derecho fundamental a la no discriminación, a la igualdad de oportunidades y de trato.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
+Ningún particular persona física o moral podrá establecer actos discriminatorios como estereotipos sexistas o rangos de edad, en las convocatorias de ofertas laborales.
+
 Los particulares deberán cumplir con las disposiciones que dicten las autoridades conforme a esta ley y demás disposiciones aplicables, para asegurar el respeto y cumplimiento del principio de no discriminación.
 
 ###### ARTÍCULO 12.
@@ -225,127 +231,259 @@ II. Inmediatez: Tiene por objeto que mediante procedimientos breves, sencillos y
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades. Se consideran prácticas discriminatorias:
+Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
+Se consideran prácticas discriminatorias;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
 I. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
 
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
 II. Trato diferenciado, excluyente o restrictivo basado en el origen étnico-cultural (hábitos, costumbres, indumentaria, símbolos, formas de vida, sentido de pertenencia, idioma y creencias de un grupo social determinado) y/o en las características físicas de las personas (como el color de piel, facciones, estatura, color de cabello, etc.) que tenga como objetivo o por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales de las personas en la esfera política, económica, social y cultural;
 
-III. Tratar a alguien de manera diferente por el hecho de provenir de un lugar diferente, por nacionalidad distinta o no ser originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2017)</small>
 
-IV. Impedir o limitar la libre expresión de ideas, conciencia, religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
+III. Establecer actos discriminatorios como estereotipos sexistas o rangos de edad, en las convocatorias de ofertas laborales;
 
-V. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en seguridad pública estatal o municipal, o que estén internadas en instituciones de salud o asistencia;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VI. Trato distintivo o despreciativo por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna;
+IV. Tratar a alguien de manera diferente por el hecho de provenir de un lugar diferente, por nacionalidad distinta o no ser originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico;
 
-VII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VIII. Negar o condicionar el derecho de participación política, y específicamente el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y de acuerdo a los términos que establezcan las disposiciones aplicables y las excepciones que las mismas señalen;
+V. Impedir o limitar la libre expresión de ideas, conciencia, religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
 
-IX. Negar un servicio, una oportunidad, o el acceso a un determinado lugar, el acceso a la justicia, a la atención médica, de forma injustificada aludiendo solamente a su género, puede ser a un hombre o a una mujer;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-X. Impedir la libre elección de cónyuge o pareja;
+VI. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en seguridad pública estatal o municipal, o que estén internadas en instituciones de salud o asistencia;
 
-XI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión de las personas;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XII. Realizar o fomentar el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual;
+VII. Trato distintivo o despreciativo por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna;
 
-XIII. Rechazo a un patrón de atracción sexual, erótica, emocional o amorosa de un determinado grupo de personas definidas por su sexo que se alejan del canon predominante;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XIV. Tratar de manera despectiva, o menospreciar a las personas que no gozan de cierta formación cultural, o no disfrutan de una adecuada situación o posición económica;
+VIII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
 
-XV. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, o que difundan una condición de subordinación;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XVI. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, así como limitar el ingreso a los programas de capacitación y formación profesional;
+IX. Negar o condicionar el derecho de participación política, y específicamente el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y de acuerdo a los términos que establezcan las disposiciones aplicables y las excepciones que las mismas señalen;
 
-XVII. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XVIII. Limitar el acceso a los programas de capacitación y de formación profesional;
+X. Negar un servicio, una oportunidad, o el acceso a un determinado lugar, el acceso a la justicia, a la atención médica, de forma injustificada aludiendo solamente a su género, puede ser a un hombre o a una mujer;
 
-XIX. No otorgar igual pago por igual trabajo en el mismo establecimiento, por el hecho de ser hombre-mujer o mujer-hombre, sin que sea necesario que los trabajos sean idénticos, sino que deben ser substancialmente iguales;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XX. No pagar salarios iguales a hombres y mujeres que realizan trabajos que requieren igual habilidad, esfuerzo y responsabilidad y que se realizan bajo condiciones de trabajo similares dentro del mismo establecimiento;
+XI. Impedir la libre elección de cónyuge o pareja;
 
-XXI. Tratar de forma inferior porque la imagen personal o vestimenta no encaja con el ideal de belleza establecido en la sociedad en la que vive;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXII. Rechazo solo por el color de piel, por la complexión, estatura o tipo de vestimenta;
+XII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión de las personas;
 
-XXIII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones relacionadas con su tratamiento médico o terapéutico, dentro de sus posibilidades y medios;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXIV. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable;
+XIII. Realizar o fomentar el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual;
 
-XXV. Impedir el acceso a la seguridad social y sus beneficios, o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXVI. Ser tratado con cierto recelo o desprecio por el hecho de estar enferma;
+XIV. Rechazo a un patrón de atracción sexual, erótica, emocional o amorosa de un determinado grupo de personas definidas por su sexo que se alejan del canon predominante;
 
-XXVII. Ser estigmatizado por el hecho de ser portador del VIH-Sida, o alguna otra enfermedad de transmisión sexual;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXVIII. Restringir la participación en actividades deportivas, recreativas o culturales;
+XV. Tratar de manera despectiva, o menospreciar a las personas que no gozan de cierta formación cultural, o no disfrutan de una adecuada situación o posición económica;
 
-XXIX. Menospreciar, o tratar de manera despreciativa a persona que vive bajo algún tipo de discapacidad, bien será física, mental o intelectual;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXX. Restringir las oportunidades de desarrollo, empleo, salud, superación personal por el hecho de vivir bajo alguna discapacidad;
+XVI. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, o que difundan una condición de subordinación;
 
-XXXI. Trato diferente, ser sujeto de burlas o restringir el derecho de desarrollo, empleo, servicio de salud, educación, o superación personal por atravesar una condición de Sobre peso u Obesidad, o cualquier otro desorden alimenticio;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXII. Menospreciar bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea por el hecho de atravesar una condición de sobre peso u obesidad, o cualquier otro desorden alimenticio;
+XVII. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, así como limitar el ingreso a los programas de capacitación y formación profesional;
 
-XXXIII. Negar o limitar información relacionada con sus derechos reproductivos, o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXIV. Negar la contratación de un trabajo, limitar el acceso a un servicio, o ser expuesta a burlas, comentarios despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser adulto mayor;
+XVIII. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
-XXXV. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto de burlas, estigmas o menosprecio, o negar algún tipo de servicio por el hecho de ser adulto mayor;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXVI. Ser víctima de prácticas violentas o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser mujer;
+XIX. Limitar el acceso a los programas de capacitación y de formación profesional;
 
-XXXVII. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser mujer;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXVIII. Trato desigual, o ser víctima de perjuicios (sic), estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser joven o adolescente;
+XX. No otorgar igual pago por igual trabajo en el mismo establecimiento, por el hecho de ser hombre-mujer o mujer-hombre, sin que sea necesario que los trabajos sean idénticos, sino que deben ser substancialmente iguales;
 
-XXXIX. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser joven o adolescente;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XL. Ser víctima de prácticas violentas, o de disciplinas violentas, de maltrato, de castigo, o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser niño o niña;
+XXI. No pagar salarios iguales a hombres y mujeres que realizan trabajos que requieren igual habilidad, esfuerzo y responsabilidad y que se realizan bajo condiciones de trabajo similares dentro del mismo establecimiento;
 
-XLI. Negar o atentar contra algún tipo de derecho emanado de los acuerdos internacionales de protección y cuidado infantil;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLII. Explotar a cualquier persona, o dar un trato abusivo o degradante;
+XXII. Tratar de forma inferior porque la imagen personal o vestimenta no encaja con el ideal de belleza establecido en la sociedad en la que vive;
 
-XLIII. Violación de los derechos, a los tratados internacionales, explotación económica, inseguridad social, menosprecio, racismo, secuestro, así como el riesgo de muerte por el hecho de ser migrante o refugiado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLIV. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+XXIII. Rechazo solo por el color de piel, por la complexión, estatura o tipo de vestimenta;
 
-XLV. Menosprecio por poseer un cierto nivel académico, que derive en el trato injusto, otorgamiento de servicios, trabajos, remuneraciones, o estigmas de alguna naturaleza;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLVI. Restringir las oportunidades laborales, salariales o de crecimiento profesional por el hecho de cursar los estudios en determinada unidad académica, escuela o colegio, sea esta pública o del sector privado;
+XXIV. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones relacionadas con su tratamiento médico o terapéutico, dentro de sus posibilidades y medios;
 
-XLVII. Restringir o limitar el uso de su lengua, usos, costumbres o cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLVIII. Tratar diferente a causa del idioma nativo u otras características de su manera de hablar o expresarse, sea esta manera oral, escrita o simbólica;
+XXV. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable;
 
-XLIX. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo las excepciones establecidas en la ley;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-L. Impedir el acceso a la procuración e impartición de justicia;
+XXVI. Impedir el acceso a la seguridad social y sus beneficios, o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
-LI. Impedir, obstaculizar o retardar que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados o en la asistencia de intérpretes en dichos procedimientos, de conformidad con las normas aplicables;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-LII. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere la fracción VI del artículo 3° de esta ley, a través de mensajes o imágenes en los medios de comunicación;
+XXVII. Ser tratado con cierto recelo o desprecio por el hecho de estar enferma;
 
-LIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por la legislación en materia de acceso a la información, tanto estatal como federal, así como en instrumentos jurídicos internacionales aplicables;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-LIV. Limitar el derecho a la alimentación, vivienda, recreo y a los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+XXVIII. Ser estigmatizado por el hecho de ser portador del VIH-Sida, o alguna otra enfermedad de transmisión sexual;
 
-LV. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-LVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable.
+XXIX. Criminalizar a cualquier persona, grupo o comunidad.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de los mismos motivos que se relacionan en el artículo 3° fracción VI de la presente ley.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXXI. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXII. Restringir la participación en actividades deportivas, recreativas o culturales;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXIII. Menospreciar, o tratar de manera despreciativa a persona que vive bajo algún tipo de discapacidad, bien será física, mental o intelectual;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXIV. Restringir las oportunidades de desarrollo, empleo, salud, superación personal por el hecho de vivir bajo alguna discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXV. Trato diferente, ser sujeto de burlas o restringir el derecho de desarrollo, empleo, servicio de salud, educación, o superación personal por atravesar una condición de Sobre peso u Obesidad, o cualquier otro desorden alimenticio;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXVI. Menospreciar bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea por el hecho de atravesar una condición de sobre peso u obesidad, o cualquier otro desorden alimenticio;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXVII. Negar o limitar información relacionada con sus derechos reproductivos, o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXVIII. Negar la contratación de un trabajo, limitar el acceso a un servicio, o ser expuesta a burlas, comentarios despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser adulto mayor;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXIX. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto de burlas, estigmas o menosprecio, o negar algún tipo de servicio por el hecho de ser adulto mayor;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XL. Ser víctima de prácticas violentas o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser mujer;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLI. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser mujer;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLII. Trato desigual, o ser víctima de perjuicios (sic), estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser joven o adolescente;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLIII. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser joven o adolescente;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLIV. Ser víctima de prácticas violentas, o de disciplinas violentas, de maltrato, de castigo, o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser niño o niña;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLV. Negar o atentar contra algún tipo de derecho emanado de los acuerdos internacionales de protección y cuidado infantil;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLVI. Explotar a cualquier persona, o dar un trato abusivo o degradante;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLVII. Violación de los derechos, a los tratados internacionales, explotación económica, inseguridad social, menosprecio, racismo, secuestro, así como el riesgo de muerte por el hecho de ser migrante o refugiado;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLVIII. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLIX. Menosprecio por poseer un cierto nivel académico, que derive en el trato injusto, otorgamiento de servicios, trabajos, remuneraciones, o estigmas de alguna naturaleza;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+L. Restringir las oportunidades laborales, salariales o de crecimiento profesional por el hecho de cursar los estudios en determinada unidad académica, escuela o colegio, sea esta pública o del sector privado;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LI. Restringir o limitar el uso de su lengua, usos, costumbres o cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LII. Tratar diferente a causa del idioma nativo u otras características de su manera de hablar o expresarse, sea esta manera oral, escrita o simbólica;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LIII. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo las excepciones establecidas en la ley;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LIV. Impedir el acceso a la procuración e impartición de justicia;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LV. Impedir, obstaculizar o retardar que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados o en la asistencia de intérpretes en dichos procedimientos, de conformidad con las normas aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LVI. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere la fracción VI del artículo 3° de esta ley, a través de mensajes o imágenes en los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LVII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por la legislación en materia de acceso a la información, tanto estatal como federal, así como en instrumentos jurídicos internacionales aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LVIII. Limitar el derecho a la alimentación, vivienda, recreo y a los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LIX. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LX. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable.
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-LVII. Limitar, obstaculizar o negar cualquier empleo de oficio o profesional por discriminación, basada en género, raza, etnia, orientación sexual o por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, u otra condición.
+LXI. Limitar, obstaculizar o negar cualquier empleo de oficio o profesional por discriminación, basada en género, raza, etnia, orientación sexual o por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, u otra condición.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS
 
@@ -1056,3 +1194,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 938.- SE REFORMA EL PÁRRAFO SEGUNDO, RECORRIENDO EL SUBSECUENTE DEL ARTÍCULO 11, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 13 RECORRIENDO LAS FRACCIONES SUBSECUENTES, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 940.- SE REFORMA Y ADICIONA EL ARTÍCULO 13, FRACCIONES XXIX Y XXX RECORRIENDO LA ULTERIOR DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 955.- SE REFORMA Y ADICIONA LA FRACCIÓN I DEL ARTÍCULO 2, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
