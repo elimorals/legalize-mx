@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-fiscalizacion-del-instituto-nacional-electoral-10
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-01-22"
-last_updated: "2017-08-09"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-23"
 
 REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 22 de enero de 2015.
 
@@ -225,17 +225,29 @@ h) Candidatura Común: Figura mediante la cual dos o más partidos políticos, s
 
 i) Catálogo de Cuentas: Catálogo único que contiene una lista analítica de las cuentas que integran la contabilidad de los sujetos obligados, ordenada por niveles de forma escalonada, sistemática y homogénea, el cual será administrado por el instituto.
 
-j) cdd: Comités Directivos Distritales u órganos equivalentes de los partidos políticos.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-k) cde: Comités Directivos Estatales u órganos equivalentes de los partidos políticos nacionales.
+j) CDD: Comités Directivos Distritales u órganos equivalentes de los partidos políticos.
 
-l) cdm: Comités Directivos Delegacionales o Comités Directivos Municipales de los partidos políticos.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-m) cee: Comité Ejecutivo Estatal u órgano equivalente de los partidos políticos locales.
+k) CDE: Comités Directivos Estatales u órganos equivalentes de los partidos políticos nacionales, los cuales dependen de los recursos federales para su operación.
 
-n) cen: Comité Ejecutivo Nacional u órgano equivalente de los partidos políticos nacionales.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-o) cnbv: Comisión Nacional Bancaria y de Valores.
+l) CDM: Comités Directivos Delegacionales o Comités Directivos Municipales de los partidos políticos.
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+m) CEE: Comité Ejecutivo Estatal u órgano equivalente de los partidos políticos, los cuales reciben prerrogativas locales para su operación.
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+n) CEN: Comité Ejecutivo Nacional u órgano equivalente de los partidos políticos nacionales
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+o) CNBV: Comisión Nacional Bancaria y de Valores
 
 p) Coalición total: Aquella en la que los partidos políticos coaligados postulan en un mismo proceso federal o local, a la totalidad de sus candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
 
@@ -261,7 +273,9 @@ z) Dispersión de Gastos: Es la distribución de gastos directos provenientes de
 
 aa) Dispersión de Ingresos: Son las transferencias en efectivo o especie, de recursos públicos o privados, que realiza la concentradora, cuyo registro se realiza mediante el Sistema de Contabilidad en Línea, en la contabilidad de los precandidatos o candidatos beneficiados.
 
-bb) fiel: Firma Electrónica Avanzada que constituye el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+bb) e-firma: Firma Electrónica Avanzada (FIEL) que constituye el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
 
 cc) Instituto: Instituto Nacional Electoral.
 
@@ -301,7 +315,9 @@ tt) Representantes generales y de casilla: Ciudadanos registrados por los partid
 
 uu) Responsable de finanzas: Órgano o persona responsable de la administración del patrimonio y recursos financieros y de la presentación de los informes de los sujetos obligados.
 
-vv) Salario mínimo: Salario mínimo general diario vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+vv) UMA: Unidad de Medida y Actualización.
 
 ww) sae: Servicio de Administración y Enajenación de Bienes Asegurados.
 
@@ -319,7 +335,9 @@ ccc) Sistema Nacional de Registro de Precandidatos y Candidatos: Sistema propied
 
 ddd) Sujetos obligados: Los señalados en el artículo 3, numeral 1 del Reglamento.
 
-eee) Tipo de campaña: Las correspondientes a los tipos de elección en cada ámbito. En el ámbito de elección federal son: Presidente, Senadores y Diputados; en el ámbito local son: gobernadores, Jefe de Gobierno del Distrito Federal, Jefes Delegacionales para el Distrito Federal, diputados locales y presidentes municipales o ayuntamiento, según la legislación local.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+eee) Tipo de campaña: las correspondientes a los tipos de elección en cada ámbito. En el ámbito de elección federal son: Presidente, Senadores y Diputados; en el ámbito local son: gobernadores, Jefe de Gobierno de la Ciudad de México, alcaldías, diputados locales y presidentes municipales o ayuntamientos, así como otros cargos que conforme a las legislaciones locales deban ser electos.
 
 fff) Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación.
 
@@ -439,13 +457,17 @@ e) Si se acordó el engrose de la resolución, la notificación se hará por ofi
 
 f) Por vía electrónica. La notificación de los documentos emitidos por la Unidad Técnica de Fiscalización se realizará mediante el Sistema de Contabilidad en Línea a los sujetos que se refieren en los incisos a), fracción V y c), fracciones II y III del presente artículo, así como a los responsables de finanzas y para conocimiento en el caso de representantes de los partidos políticos ante el Consejo General del Instituto, atendiendo a las reglas siguientes y a los Lineamientos emitidos por la Comisión:
 
-I. Las notificaciones por vía electrónica se harán a más tardar dentro de 24 horas siguientes a la emisión del acuerdo, requerimiento, resolución o documento a notificar, y surtirán sus efectos a partir de la fecha y hora visible en la constancia de envío o, en su caso, se cuente con el acuse de recibo. Cuando la Unidad así lo solicite, los usuarios podrán dar respuesta a los requerimientos por esta misma vía.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+I. Las notificaciones por vía electrónica se harán a más tardar dentro de 24 horas siguientes a la emisión del acuerdo, requerimiento, resolución o documento a notificar, y surtirán sus efectos a partir de la fecha y hora visible en la cédula de notificación a que se refiere la fracción II de este inciso. Cuando la Unidad así lo solicite, los usuarios podrán dar respuesta a los requerimientos por esta misma vía.
 
 II. El módulo de notificaciones generará automáticamente la cédula de notificación, la constancia de envío y los acuses de recepción y lectura. Asimismo, el sistema enviará un aviso al correo electrónico registrado por el destinatario como medio de contacto. La cédula de notificación contendrá los requisitos previstos en el párrafo 4 del artículo 11 de este Reglamento.
 
 III. Para el cómputo de plazos se estará a lo señalado en el artículo 10 del presente Reglamento.
 
-IV. El acceso será con la clave de usuario y contraseña proporcionados por la Unidad Técnica a los sujetos obligados. Para esos efectos, los representantes de los partidos políticos ante el Consejo General del INE y ante los Consejos Generales de los Organismos Públicos Locales podrán solicitar el acceso al Sistema de Contabilidad en Línea.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+IV. El acceso será con la clave de usuario y contraseña proporcionados por la Unidad Técnica a los sujetos obligados. Para esos efectos, los representantes de los partidos políticos ante el Consejo General del INE podrán solicitar el acceso al Sistema de Contabilidad en Línea.
 
 V. Las notificaciones electrónicas serán autorizadas con la e.firma, la cual servirá como mecanismo de seguridad y validez de las mismas.
 
@@ -1091,15 +1113,19 @@ Características del Sistema de Contabilidad en Línea
 
 1. Es un medio informático que cuenta con mecanismos seguros a través de los cuales los partidos realizarán en línea los registros contables y por el cual el Instituto podrá tener acceso irrestricto como parte de sus facultades de vigilancia y fiscalización.
 
-2. El sistema reconocerá la naturaleza jurídica de las operaciones realizadas por los sujetos obligados con terceros respecto de derechos y obligaciones, en términos de las disposiciones civiles y mercantiles vigentes, con la aplicación de las NIF.
+2. (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
 3. Deberá permitir que los registros se efectúen considerando la base acumulativa para la integración de la información presupuestaria y contable.
 
-4. Deberá reflejar un registro congruente y ordenado de cada operación que genere derechos y obligaciones derivadas de la gestión financiera.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-5. El Sistema de Contabilidad en Línea verificará en forma automatizada la veracidad de las operaciones e informes reportados por los sujetos obligados.
+4. Deberá reflejar un registro ordenado de cada operación que genere derechos y obligaciones derivadas de la gestión financiera.
 
-6. El Sistema de Contabilidad en Línea pondrá a disposición de la ciudadanía la información reportada por los sujetos obligados y auditada por el Instituto de conformidad con el “Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública”.
+5. (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+6. En el portal de internet del instituto se pondrá a disposición de la ciudadanía la información reportada por los sujetos obligados en el Sistema de Contabilidad en Línea y auditada por el Instituto de conformidad con el “Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública” y el presente Reglamento.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -1117,9 +1143,11 @@ Obligación de utilizar el Sistema de Contabilidad en Línea
 
 1. Los partidos, coaliciones, precandidatos y candidatos y los aspirantes y candidatos independientes, deberán registrar sus operaciones a través del Sistema de Contabilidad en Línea, que para tales efectos disponga el Instituto, en apego a lo dispuesto por el artículo 40 del presente Reglamento.
 
-2. La Comisión instruirá a la Unidad Técnica, la supervisión de la captura de las operaciones y emitirá un reporte mensual, que será publicado en la página del Instituto.
+2. (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
-3. Las correcciones y aclaraciones que realicen los sujetos obligados derivadas de la revisión de la Autoridad en el oficio de errores y omisiones, deberán ser invariablemente capturadas a través del Sistema. En ningún caso se aceptará información por escrito o en medio magnético, a excepción de aquella documentación expresamente establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+3. Las correcciones y aclaraciones que realicen los sujetos obligados derivadas de la revisión de la Autoridad contenidas en el oficio de errores y omisiones y el informe de resultados del mismo deberán ser invariablemente capturadas a través del Sistema. En ningún caso se aceptará información por escrito o en medio magnético, a excepción de aquella documentación expresamente establecida en este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -1215,7 +1243,11 @@ En el registro del movimiento contable se deberá señalar el nombre de las cuen
 
 5. El responsable de finanzas del CEN de cada partido, así como los aspirantes y candidatos independientes, serán responsables de designar a las personas autorizadas para tener acceso al Sistema de Contabilidad en Línea, así como para registrar y consultar las operaciones que les correspondan.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
 6. La documentación soporte en versión electrónica y la imagen de las muestras o testigos comprobatorios de los registros contables de los partidos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes, deberán ser incorporados en el Sistema de Contabilidad en Línea en el momento de su registro, conforme el plazo establecido en el presente Reglamento en su artículo 38, incluyendo al menos un documento soporte de la operación.
+
+Si la documentación soporte de la operación es un comprobante fiscal digital por internet, se adjuntará invariablemente el archivo digital XML y su representación en formato PDF.
 
 7. Para la implementación y operación del Sistema de Contabilidad en Línea se atenderá al manual del usuario emitido para tal efecto por la Comisión.
 
@@ -1249,7 +1281,9 @@ Los tipos de usuarios que podrá generar el responsable de finanzas, aspirante y
 
 Registro de operaciones
 
-1. El registro de todas las operaciones deberá estar a lo dispuesto en el presente Reglamento, Manual General de Contabilidad, la Guía Contabilizadora y el Catálogo de Cuentas que al efecto apruebe la Comisión y sea publicado en el Diario Oficial.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+1. El registro de todas las operaciones deberá sujetarse a lo dispuesto en el presente Reglamento, al Manual General de Contabilidad, a la Guía Contabilizadora, al Catálogo de Cuentas y a los acuerdos que al efecto emita la Comisión o el Consejo General.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -1257,7 +1291,9 @@ Registro de operaciones
 
 Cortes convencionales
 
-1. El Sistema de Contabilidad en Línea deberá permitir hacer cortes convencionales a fin de cumplir con la formalidad de la entrega de información consistente en auxiliares contables, balanzas de comprobación, estados financieros para el periodo ordinario, informes anuales, trimestrales, de precampaña y de campaña para el cumplimiento de los plazos establecidos en artículos 239 y 240 del Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+1. El Sistema de Contabilidad en Línea deberá permitir hacer cortes convencionales a fin de cumplir con la formalidad de la entrega de información consistente en auxiliares contables, balanzas de comprobación, estados financieros para el periodo ordinario, informes anuales, trimestrales, de precampaña o para la obtención del apoyo ciudadano y de campaña, para el cumplimiento de los plazos establecidos en (sic) artículos 239 y 240 del Reglamento.
 
 2. Los partidos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes deberán validar la información contenida en el Sistema de Contabilidad en Línea, a través de la FIEL.
 
@@ -1523,7 +1559,7 @@ d) Los CEE podrán abrir cuentas de las descritas en el numeral 3 del presente a
 
 4. Conciliar mensualmente los registros contables contra los movimientos registrados en los estados de cuenta bancarios.
 
-5. Las partidas de cuentas bancarias no conciliadas se deberán registrar en un reporte denominado “conciliación bancaria”, que deberá revelar el mes que se concilia y el número de cuenta bancaria, las partidas se deberán clasificar en:
+5. Las partidas de cuentas bancarias no conciliadas se deberán registrar en un reporte denominado "conciliación bancaria", que deberá revelar el mes que se concilia y el número de cuenta bancaria, las partidas se deberán clasificar en:
 
 a) Cargos del sujeto obligado no correspondidos por el banco.
 
@@ -1540,6 +1576,14 @@ d) Abonos del banco no correspondidos por el sujeto obligado.
 8. Las cuentas bancarias para precampaña y campaña, podrán abrirse a partir del mes inmediato anterior al inicio del proceso electoral y se deberán cancelar a más tardar durante el mes posterior a la conclusión del mismo.
 
 9. En el caso de precampaña, el partido podrá abrir cuentas centralizadas siempre y cuando lleve el control de los ingresos y egresos de cada uno de los precandidatos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+10. Tratándose de los aspirantes y candidatos independientes, se utilizarán cuentas bancarias conforme a lo siguiente:
+
+a) CBAS: Recepción y administración de las aportaciones de simpatizantes.
+
+b) BAF: Recepción y administración de ingresos por autofinanciamiento.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -2293,7 +2337,11 @@ b) Para aspirantes, precandidatos, candidatos y candidatos independientes, aport
 
 c) Para todos los sujetos obligados:
 
-i. Aportaciones voluntarias y personales que realicen los simpatizantes exclusivamente durante los procesos electorales federales y locales, y estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+i. Aportaciones voluntarias y personales que realicen, en el año calendario, los simpatizantes las cuales estarán conformadas por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país. Dichas aportaciones deberán respetar los límites a los que hacen referencia los artículos 56, párrafo 2, incisos b) y d) de la Ley de Partidos, para lo cual el Instituto Nacional Electoral u OPLE emitirá el acuerdo correspondiente.
+
+Las aportaciones de simpatizantes y militantes que se otorguen en especie, y no así en efectivo, durante los procesos electorales se considerarán efectuados para el proceso electoral correspondiente, no así para gasto ordinario.
 
 ii. Autofinanciamiento.
 
@@ -2467,7 +2515,9 @@ Adicionalmente, para las aportaciones en especie que realicen los aspirantes, pr
 
 4. Se deberá expedir un recibo de aportación por cada depósito recibido.
 
-5. Deberá cumplir con los límites establecidos en artículo 56, numeral 2, de la Ley de General.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+5. Deberá cumplir con los límites establecidos en artículo 56, numeral 2, de la Ley de partidos.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -2787,11 +2837,15 @@ Límites anuales
 
 a) Para el caso de las aportaciones de militantes, el dos por ciento del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias en el año de que se trate;
 
-b) Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el diez por ciento del tope de gasto para la elección presidencial inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+b) Para el caso de las aportaciones de candidatos, durante los procesos electorales, el diez por ciento del tope de gasto para la elección presidencial inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
 
 c) Cada partido político, a través del órgano previsto en el artículo 43, numeral 1, inciso c) de la Ley de Partidos, determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus militantes, así como de las aportaciones voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas, y
 
-d) Las aportaciones de simpatizantes tendrán como límite individual anual el cero punto cinco por ciento del tope de gasto para la elección presidencial inmediata anterior.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+d) Para el caso de las aportaciones de simpatizantes, el límite anual será de diez por ciento del tope de gasto para la elección presidencial inmediata anterior, estas aportaciones tendrán como límite individual anual el cero punto cinco por ciento del tope de gasto para la elección presidencial inmediata anterior.
 
 2. El financiamiento privado de los aspirantes y candidatos independientes no podrá ser superior al 10% del tope de gasto para la elección correspondiente y se constituirá de las aportaciones que realicen el aspirante o candidato independiente, respectivamente, y sus simpatizantes.
 
@@ -3169,7 +3223,9 @@ Control de agenda de eventos políticos
 
 1. Los sujetos obligados deberán registrar el primer día hábil de cada semana y con antelación de al menos 7 días a la fecha en que se lleven a cabo los eventos, a través del Sistema de Contabilidad en Línea en el módulo de agenda de eventos, los actos de precampaña, periodo de obtención de apoyo ciudadano, y campaña que realicen desde el inicio y hasta la conclusión del periodo respectivo.
 
-2. En caso de cancelación de un evento político, los sujetos obligados deberán reportar dicha cancelación, a más tardar 48 horas después de la fecha en la que iba a realizarse el evento.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+2. En caso de cancelación de un evento político, los sujetos obligados deberán reportar dicha cancelación en el Sistema de Contabilidad en Línea, a más tardar 48 horas después de la fecha en la que iba a realizarse el evento.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -3177,9 +3233,27 @@ Control de agenda de eventos políticos
 
 Control de casas de precampaña y campaña
 
-1. Los sujetos obligados deberán registrar, en el medio que proporcione el Instituto, las casas de precampaña, de obtención de apoyo ciudadano y de campaña que utilicen, proporcionando la dirección de la misma, así como el periodo en que será utilizada. Adicionalmente tendrán que anexar la documentación comprobatoria correspondiente ya sea si se trata de una aportación en especie o de un gasto realizado.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-2. En el periodo de campaña se deberá registrar al menos un inmueble. En caso de que el bien inmueble empleado sea un Comité Directivo del partido político que corresponda, deberá contabilizarse de manera proporcional y racional a los gastos que el uso del mismo genere a las campañas como transferencias en especie del respectivo Comité por el tiempo en que sea utilizado el inmueble.
+1. Los sujetos obligados deberán registrar, en el Sistema de Contabilidad en Línea, las casas de precampaña, de obtención de apoyo ciudadano y de campaña que utilicen, proporcionando la dirección de la misma, así como el periodo en que será utilizada. Adicionalmente, en el registro contable tendrán que anexar la documentación comprobatoria correspondiente ya sea si se trata de una aportación en especie o de un gasto realizado.
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+2. En el periodo de campaña se deberá registrar al menos un inmueble. En caso de que el bien inmueble empleado sea un comité del partido político que corresponda, deberá contabilizarse de manera proporcional y racional a los gastos que el uso del mismo genere a las campañas como transferencias en especie del respectivo Comité por el tiempo en que sea utilizado el inmueble.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+Apartado 7 Ter.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 143 Quater.
+
+Prohibición de gastos durante las precampañas y campañas
+
+1. Durante los procesos electorales, los partidos políticos, los aspirantes, los precandidatos, candidatos independientes y los candidatos están impedidos para entregar por sí o por interpósita persona, cualquier tarjeta, volante, díptico, tríptico, plástico o cualquier otro documento o material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, así como solicitar a los ciudadanos cualquier dato personal a cambio de dicho beneficio.
+
+2. La contravención a esta disposición se considerará como un gasto sin objeto partidista, o bien, no vinculado a actividades para la obtención de apoyo ciudadano o del voto.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -3583,7 +3657,9 @@ VI. Todo gasto necesario para la organización, desarrollo y difusión de las ac
 
 3. Los partidos deberán elaborar y ejecutar los proyectos con base en lo establecido en el manual y lineamientos para el gasto programado, los cuales son documentos vinculantes, mismos que serán proporcionados por la Unidad Técnica, previa aprobación de la Comisión.
 
-4. Todos los gastos realizados para el desarrollo de las actividades referidas en este artículo deberán ser pagados en el ejercicio fiscal correspondiente.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+4. Todos los gastos realizados para el desarrollo de las actividades referidas en este artículo deberán ser pagados en el ejercicio fiscal correspondiente, y en el caso de las tareas editoriales ser distribuidas en los siguientes doce meses a la fecha en que se reconoce el gasto.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -4189,7 +4265,13 @@ c) Tratándose de precampañas darán inicio al día siguiente de que se apruebe
 
 De los conceptos integrantes del gasto de precampaña
 
-1. Para efectos de lo dispuesto en el artículo 75, numeral 1 de la Ley de Partidos, se estimarán como gastos de precampaña los relativos a propaganda en diarios, revistas y otros medios impresos, operativos, de propaganda utilitaria o similares, de producción de los mensajes para radio y televisión, anuncios espectaculares, bardas, salas de cine y de internet y se deberá cumplir con los requisitos dispuestos en el presente Reglamento, respecto de los de gastos de campaña.
+> <small>(REFORMADO, D.O.F 6 DE OCTUBRE DE 2017)</small>
+
+1. Para efectos de lo dispuesto en el artículo 75, numeral 1 de la Ley de Partidos, se estimarán como gastos de precampaña los relativos a propaganda en diarios, revistas y otros medios impresos, operativos, de propaganda utilitaria o similares, de producción de los mensajes para radio y televisión, anuncios espectaculares, bardas, salas de cine y de internet, gastos realizados en encuestas y estudios de opinión que tengan por objeto conocer las preferencias respecto a quienes pretendan ser precandidatos del partido político y cuyos resultados se den a conocer durante el proceso de selección de candidatos y se deberá cumplir con los requisitos dispuestos en el presente Reglamento, respecto de los de gastos de campaña.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+2. El Consejo General emitirá antes del inicio de las precampañas, y una vez conocidas las convocatorias de los partidos políticos, los lineamientos que distingan los gastos del proceso de selección interna de candidatos que serán considerados como gastos ordinarios en términos del artículo 72, párrafo 2, inciso c) de la Ley de Partidos, de aquellos gastos que se considerarán como de precampaña.
 
 ### Capítulo 3.. De la obtención del apoyo ciudadano
 
@@ -4280,6 +4362,14 @@ c) Gastos de propaganda en diarios, revistas y otros medios impresos: comprenden
 d) Gastos de producción de los mensajes para radio y televisión: comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo.
 
 e) Gastos de anuncios pagados en internet: Comprenden los realizados en inserciones, banners, tweets, anuncios, cuentas de redes sociales, páginas de Internet, así como otros similares por los que se haya efectuado un gasto y tengan como finalidad promover la campaña de un partido político o candidato.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+f) Los estudios, sondeos y encuestas que den a conocer, durante la campaña, preferencias electorales contratados por los partidos, candidatos o candidatos independientes o que les hayan sido aportados, mismos que deberán sujetarse a lo dispuesto en el artículo 213 de la Ley de Instituciones y, en su caso, a los criterios que emita el Instituto en esta materia.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+g) Gastos de jornada electoral comprenden: las aportaciones y los pagos en dinero y en especie que realicen los partidos, candidatos y candidatos independientes a sus representantes de casilla y generales; así como las encuestas de salida o conteos rápidos en términos del artículo 216 bis.
 
 5. No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
@@ -4385,6 +4475,10 @@ b) Se entiende por anuncios espectaculares panorámicos o carteleras, toda propa
 
 c) Durante las actividades de operación ordinaria, obtención de apoyo ciudadano, precampaña y de campaña, cada partido y coalición, adicionalmente a lo establecido en los artículos 61, numeral 1, inciso f), fracciones II y III y 62 de la Ley de Partidos; deberá entregar a la Unidad Técnica, un informe pormenorizado de toda contratación hecha con las empresas propietarias o concesionarias, dedicadas a la renta de espacios y colocación de anuncios espectaculares en la vía pública; así como con las empresas dedicadas a la producción, diseño y manufactura de toda publicidad que se utilice para dichos anuncios. Los informes deberán anexar copia del contrato respectivo y las facturas originares correspondientes, con la información siguiente:
 
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+d) Se deberá incluir como parte del anuncio espectacular el identificador único a que se refiere la fracción IX del inciso anterior y reunir las características que de conformidad se señalen en los lineamientos que al efecto apruebe la Comisión, mismos que deberán ser publicados en el Diario Oficial de la Federación.
+
 I. Nombre de la empresa.
 
 II. Condiciones y tipo de servicio.
@@ -4409,9 +4503,13 @@ IX. Identificador único del anuncio espectacular proporcionado por la Unidad T�
 
 4. Cualquier modificación a dichos contratos deberá ser notificada en los plazos establecidos en el artículo 61, numeral 1, inciso f), fracciones II y III de la Ley de Partidos, al Consejo General y a la Comisión, con las motivaciones señaladas en el inciso anterior para los mismos efectos, remitiendo copia de la modificación respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE REPUBLICADO], D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
 5. Las erogaciones por concepto de anuncios espectaculares en la vía pública, deberán documentarse de conformidad con lo establecido en el artículo 378 de este Reglamento y la hoja membretada del proveedor.
 
-El proveedor inscrito en el Registro Nacional de Proveedores generará la hoja membretada, la cual debe ser remitida al sujeto obligado, utilizando el propio Registro Nacional de Proveedores a partir de la información que se encuentre registrada en el mismo, entre otra, la ubicación del espectacular, el número asignado al proveedor por el sistema de registro y el identificador único de cada anuncio espectacular.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+El proveedor inscrito en el Registro Nacional de Proveedores generará la hoja membretada, la cual debe ser remitida al sujeto obligado, utilizando el propio Registro Nacional de Proveedores a partir de la información que se encuentre registrada en el mismo, entre otra, la ubicación del espectacular, el número asignado al proveedor por el sistema de registro y el identificador único de cada anuncio espectacular al que se refiere la fracción IX, del inciso c) del presente artículo.
 
 El proveedor inscrito en el Registro Nacional de Proveedores debe requisitar la información complementaria correspondiente a cada anuncio:
 
@@ -4444,6 +4542,10 @@ k) Número asignado en el Registro Nacional de Proveedores, en términos de lo d
 7. El partido, coalición, aspirante o candidato independiente, deberá conservar y presentar muestras y/o fotografías de la publicidad utilizada en anuncios espectaculares en la vía pública a solicitud de la Unidad Técnica.
 
 8. Las mantas cuyas dimensiones aproximadas sean igual o superiores a doce metros cuadrados, se considerarán como espectaculares en términos de lo dispuesto por el inciso b), del numeral 1 del presente artículo; sin embargo, se sujetarán a lo dispuesto en el numeral 3 del presente artículo, así como 249 y 250 de la Ley de Instituciones.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+9. La falta de inclusión en el espectacular del identificador único, así como la generación de las hojas membretadas en formatos distintos a los señalados en el presente artículo, será considerada una falta.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -4479,7 +4581,9 @@ Concepto de propaganda exhibida en vía pública distinta a espectaculares
 
 Mantas
 
-1. Para efecto de las mantas cuyas dimensiones aproximadas sean inferiores a doce metros cuadrados colocadas en un inmueble particular, deberán presentar el permiso de autorización para la colocación, anexando la copia de credencial de elector, o de otra identificación oficial vigente, de quien otorga el permiso.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+1. Para efectos de las mantas cuyas dimensiones aproximadas sean de tres a doce metros cuadrados colocadas en un inmueble particular, deberán presentar el permiso de autorización para la colocación, anexando la copia de credencial de elector, o de otra identificación vigente, de quien otorga el permiso.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -4583,7 +4687,9 @@ Gastos del día de la Jornada Electoral
 
 1. El pago por concepto de la actividad desplegada por los representantes generales y de casilla, invariablemente será considerado como un gasto de campaña, el cual será contabilizado y fiscalizado para efectos del control de los recursos aplicados durante las campañas.
 
-2. El único gasto que podrán realizar los partidos políticos y candidatos independientes el día de la Jornada Electoral será aquel erogado con motivo de la actividad desplegada por los representantes generales y de casilla, por concepto de remuneración o apoyo económico, comida, transporte o cualquier otro gasto vinculado a sus actividades el día de la Jornada Electoral; adicionalmente, el referido gasto deberá ser prorrateado conforme a la normativa aplicable, considerando como ámbito geográfico el lugar en donde se encuentren las casillas respectivas.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+2. El gasto que podrán realizar los partidos políticos y candidatos independientes el día de la Jornada Electoral será aquel erogado con motivo de la actividad desplegada por los representantes generales y de casilla, por concepto de remuneración o apoyo económico, comida, transporte o cualquier otro gasto vinculado a sus actividades el día de la Jornada Electoral; adicionalmente, el referido gasto deberá ser prorrateado conforme a la normativa aplicable, considerando como ámbito geográfico el lugar en donde se encuentren las casillas respectivas.
 
 3. Los siguientes conceptos no serán considerados como aportación en especie a los partidos políticos:
 
@@ -4591,13 +4697,21 @@ a) Servicios prestados por los órganos directivos, y
 
 b) Servicios personales de militantes inscritos en el padrón respectivo, o simpatizantes, siempre que sean prestados de manera gratuita, voluntaria y desinteresada.
 
-4. El registro de los gastos realizados el día de la Jornada Electoral, así como el envío de la documentación soporte se realizará al momento de registrar a los representantes respectivos, a través del Sistema de Contabilidad en Línea, mediante el Comprobante de Representación General o de Casilla (CRGC).
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-5. El formato “CRGC” será propuesto por la Unidad Técnica e incorporado en el Manual de Contabilidad, el cual debe proporcionar elementos para documentar si la aportación fue voluntaria, gratuita y desinteresada o, en su caso, si recibieron remuneración económica, así como el monto de esta. Asimismo, deberá identificar al ciudadano que la otorga y estar firmado por este último.
+4. El registro de los gastos realizados el día de la Jornada Electoral, así como el envío de la documentación soporte se podrá efectuar a partir del mismo día en que se lleve a cabo la jornada electoral y hasta los tres días naturales siguientes a través del Sistema de Contabilidad en Línea, mediante el Reporte de Comprobantes de Representación General o de Casilla (CRGC) emitidos y en su caso los comprobantes que amparen los gastos realizados en alimentos y transporte.
 
-6. Los sujetos obligados deberán conservar la documentación original para ser cotejada por la Unidad Técnica de ser necesario.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-7. En caso de que el partido político sea omiso en la presentación del Formato “CRGC” - Comprobante de Representación General o de Casilla, la actividad desarrollada por el representante general o de casilla será considerada como un egreso no reportado y será valuado de conformidad con el artículo 27 del presente Reglamento y acumulado al respectivo tope de campaña.
+5. También se considerarán gastos de campaña los conteos rápidos y encuestas de salida contratados por los partidos, candidatos o candidatos independientes o que les hayan sido aportados, para realizarse el día de la jornada electoral. En el caso de que un partido o candidato dé a conocer los resultados de dichos conteos o encuestas antes de que se hayan difundido por un medio de comunicación a la ciudadanía, se contabilizará como gasto atribuible al partido o candidato.
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+6. La comprobación de los gastos del día de la jornada electoral deberá llevarse a cabo de conformidad con los lineamientos que para tal efecto emita el Consejo General.
+
+Los sujetos obligados deberán conservar la documentación original para ser cotejada por la Unidad Técnica de ser necesario.
+
+7. En caso de que el partido político sea omiso en la presentación del Formato "CRGC" - Comprobante de Representación General o de Casilla, la actividad desarrollada por el representante general o de casilla será considerada como un egreso no reportado y será valuado de conformidad con el artículo 27 del presente Reglamento y acumulado al respectivo tope de campaña.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -5201,6 +5315,12 @@ b) Los aspirantes: informes de ingresos y egresos de los actos tendentes a recab
 
 c) Los candidatos independientes: informes de campaña en los términos precisados en el inciso a) del presente artículo.
 
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+2. Los informes a que se refiere el numeral anterior deberán ser presentados utilizando para tal efecto la e.firma del responsable de finanzas, de conformidad con el artículo 40 del presente Reglamento.
+
+Tratándose del informe anual, deberá ser autorizado por el auditor externo mediante el uso de su e.firma, previo a la presentación del informe por el responsable de finanzas, en términos del artículo 78, numeral 1, inciso b), fracción IV de la Ley de Partidos. No será necesario que el auditor externo certifique las modificaciones que se realicen con motivo de los requerimientos que emita la autoridad durante la revisión.
+
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 236.
@@ -5279,13 +5399,13 @@ Documentación anexa al informe
 
 1. Junto con los informes de precampaña deberán adjuntarse a través del Sistema de Contabilidad en Línea:
 
-a) El formato único con los datos de identificación personal del precandidato, y su domicilio para oír y recibir notificaciones.
+a) (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
 b) El formato de origen de los recursos aplicados a precampaña que contenga los nombres de los aportantes, sus montos y el tipo de aportación, las declaraciones y firmas tendentes a autorizar al Instituto, para obtener, -de ser necesario- información.
 
 c) Los estados de cuenta bancarios de todas las cuentas señaladas en el Reglamento, así como las conciliaciones bancarias correspondientes al periodo en el que hayan durado las precampañas electorales.
 
-d) (DEROGADO, D.O.F. 9 DE AGOSTO DE 2017)
+d) (DEROGADO, D.O.F. 9 DE AGOSTO DE 2017) (REPUBLICADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
 e) El informe a que se refiere el artículo 143 del Reglamento.
 
@@ -5687,7 +5807,7 @@ Documentación adjunta al informe anual
 
 1. Junto con los informes anuales que presenten los partidos deberán remitir a la Unidad Técnica:
 
-a) La autorización y firma del auditor externo designado por el partido, de conformidad con el artículo 78, numeral 1, inciso b), fracción IV de la Ley de Partidos. No será necesario que el auditor externo certifique las modificaciones que se realicen con motivo de los requerimientos que emita la autoridad durante la revisión.
+a) (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
 b) Los contratos por créditos o préstamos obtenidos, debidamente formalizados y celebrados con las instituciones financieras, así como estados de cuenta que muestren, en su caso, los ingresos obtenidos y los gastos efectuados por intereses y comisiones.
 
@@ -5725,7 +5845,7 @@ r) La relación de los miembros que integraron en el ejercicio de revisión, los
 
 s) La documentación comprobatoria de los ingresos que se reciban y los egresos que se realicen con motivo de las campañas internas.
 
-t) La documentación relativa a la realización de sus procesos de selección interna para la elección de titulares de los órganos de dirección en el CEN y en los CDE’s, así como el origen de los recursos con los que sufragaron dichos gastos.
+t) La documentación relativa a la realización de sus procesos de selección interna para la elección de titulares de los órganos de dirección en el CEN y en los CDE's, así como el origen de los recursos con los que sufragaron dichos gastos.
 
 u) La documentación relacionada con los saldos finales de los ingresos y gastos de campaña dictaminados. En caso de que se encuentre dentro de la revisión del informe anual que un partido hubiere reportado gastos de campaña que no fueron reportados en el informe correspondiente, estos deberán sumarse a los topes de gastos de campaña.
 
@@ -6399,11 +6519,17 @@ Informes trimestrales
 
 Requisitos de formalidad en las respuestas
 
-1. Las correcciones y aclaraciones que realicen los sujetos obligados derivadas de lo señalado en el oficio de errores y omisiones, deberán reflejarse en el Sistema Integral de Fiscalización y detallarse de manera pormenorizada en el oficio que para tal efecto presenten mediante el Sistema, en el que se identifiquen los movimientos realizados, las pólizas y documentos involucrados, así como cualquier otro dato que permita a la autoridad valorar adecuadamente la información presentada.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+1. Las correcciones y aclaraciones que realicen los sujetos obligados derivadas de lo señalado en el oficio de errores y omisiones y su informe de resultados, deberán reflejarse en el Sistema de Contabilidad en Línea, debiendo indicar el número de oficio y la observación a la que corresponda, y deberán detallarse de manera pormenorizada en el oficio que para tal efecto presenten en el Módulo de Aclaraciones contenido en dicho Sistema, en el que se identifiquen los movimientos realizados, las pólizas y documentos involucrados, así como cualquier otro dato que permita a la autoridad valorar adecuadamente la información presentada.
+
+El responsable de finanzas deberá presentar las aclaraciones utilizando su e.firma.
 
 2. En ningún caso se aceptará información por escrito o en medio magnético, a excepción de aquella documentación expresamente establecida en este Reglamento.
 
-3. Cuando en los oficios de errores y omisiones se soliciten cambios y ajustes al informe, los sujetos obligados deberán presentar a través del sistema una cédula donde se concilie el informe originalmente presentado con todas las correcciones mandadas en los oficios.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+3. Cuando en los oficios de errores y omisiones se soliciten cambios y ajustes al informe, los sujetos obligados deberán presentar a través del módulo a que se refiere el numeral 1 del presente artículo, una cédula donde se concilie el informe originalmente presentado con todas las correcciones mandadas en los oficios.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -6803,17 +6929,21 @@ Prohibiciones de modificar la contabilidad durante los procesos de fiscalizació
 
 2. Cuando en los oficios de errores y omisiones se soliciten cambios y ajustes al informe, los sujetos obligados deberán presentar una cédula donde se concilie el informe originalmente presentado con todas las correcciones mandadas en los oficios.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-### Capítulo 3.. De la firma electrónica avanzada (fiel)
+### CAPÍTULO 3.. DE LA FIRMA ELECTRÓNICA AVANZADA (e-firma)
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 323.
 
-Requisitos para el uso de la FIEL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-1. Los usuarios del Sistema de Contabilidad en Línea, deberán utilizar la FIEL en los actos a que se refiere el Reglamento, para lo cual, deberán solicitar ante el SAT:
+Requisitos para el uso de la e-firma
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+1. Los usuarios del Sistema de Contabilidad en Línea, deberán utilizar la e-firma en los actos a que se refiere el Reglamento, para lo cual, deberán solicitar ante el SAT:
 
 a) Un certificado digital vigente, emitido u homologado en términos del Reglamento.
 
@@ -6835,7 +6965,9 @@ Obligaciones
 
 Obligación de conservar archivos de datos
 
-1. La Unidad Técnica, así como los sujetos obligados deberá conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con FIEL, derivados de los actos a que se refiere el Reglamento, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+1. La Unidad Técnica, así como los sujetos obligados deberá (sic) conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con e-firma, derivados de los actos a que se refiere el Reglamento, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -7409,9 +7541,11 @@ f) Mantener actualizada la información de sus productos y servicios, la cual se
 
 Refrendo del registro
 
-1. Durante el mes de febrero de cada año, los proveedores que estuvieran inscritos al 31 de diciembre del año inmediato anterior, deberán refrendar su registro ante el Instituto para continuar inscritos en el Registro Nacional de Proveedores. En caso de no hacerlo se procederá en términos del artículo 360, numeral 1, inciso d) y no podrán celebrar operaciones con los sujetos obligados.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-2. Los proveedores en el extranjero, inscritos en el Registro Nacional de Proveedores, deberán efectuar a través de este medio las modificaciones de domicilio fiscal, acta constitutiva, representante legal o similar, utilizando para tal efecto el mecanismo de identificación que determine la Unidad Técnica, dentro de los 20 días hábiles posteriores a su realización.
+1. Durante el mes de febrero de cada año, los proveedores nacionales y extranjeros que realizaron su inscripción hasta el 31 de diciembre del año inmediato anterior y que continúen activos durante febrero del año corriente, deberán refrendar su registro ante el Instituto para continuar inscritos en el Registro Nacional de Proveedores. En caso de no hacerlo se procederá en términos del artículo 360, numeral 1, inciso d) y no podrán celebrar operaciones con los sujetos obligados.
+
+2. (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -7447,7 +7581,7 @@ Validación de información con autoridades
 
 3. La Unidad Técnica podrá solicitar a los proveedores en cualquier momento información y documentación relacionada con las operaciones realizadas con los sujetos obligados de conformidad con el artículo 331, numeral 1 del presente Reglamento.
 
-4. Otorgado el registro, los proveedores deberán de subir al sistema el catálogo de bienes y servicios.
+4. (DEROGADO, D.O.F. 6 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -8444,3 +8578,19 @@ Segundo. En tanto se incorporen las nuevas funcionalidades en los sistemas o apl
 La Unidad Técnica de Fiscalización, mediante el portal del Instituto Nacional Electoral, dará aviso de las fechas de liberación de dichas funcionalidades o aplicativos, una vez aprobados por la Comisión de Fiscalización.
 
 Tercero. Toda disposición del Reglamento de Fiscalización que haga referencia a salarios mínimos, se entenderá alusiva a Unidades de Medida y Actualización (UMA).
+
+D.O.F. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE FISCALIZACIÓN, APROBADO MEDIANTE ACUERDO INE/CG263/2014, MODIFICADO A TRAVÉS DE LOS ACUERDOS INE/CG350/2014, INE/CG1047/2015, INE/CG320/2016, INE/CG875/2016 E INE/CG68/2017".]
+
+Primero. Las funcionalidades o aplicativos que al efecto implemente el Instituto en materia de fiscalización, así como las fechas de su liberación, se darán a conocer a través del (sic) de la página de Internet del Instituto Nacional Electoral y se comunicarán a los usuarios a través del medio electrónico de contacto.
+
+Segundo. En tanto se incorporen las funcionalidades, entre otras, las actualizaciones al Sistema de Contabilidad en Línea y al Registro Nacional de Proveedores, se aplicarán los procedimientos y los mecanismos que para cada caso apruebe la Comisión.
+
+Tercero. Los lineamientos a que se refiere el artículo 216 bis del presente reglamento, deberán ser aprobados por el Consejo General 30 días antes del inicio de la campaña del proceso electoral 2017-2018.
+
+Cuarto. Toda disposición del Reglamento de Fiscalización que haga referencia a salarios mínimos, se entenderá alusiva a Unidades de Medida y Actualización (UMA).
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO SEGUNDO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. El presente Acuerdo y las modificaciones, adiciones y derogaciones al Reglamento de Fiscalización en él contenidas, entrarán en vigor a partir del día siguiente de su aprobación por este Consejo General del Instituto Nacional Electoral.
