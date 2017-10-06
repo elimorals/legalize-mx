@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2016-08-09"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -155,7 +155,9 @@ I. "Persona Receptora de la violencia familiar": La persona o grupo de personas 
 
 II. "Persona Generadora de la violencia familiar": Quienes realizan actos de maltrato físico, verbal, psicoemocional, sexual, por negligencia o económico, hacia las personas con las que tengan o hayan tenido algún vínculo familiar; se hallen bajo su guarda o custodia o mantengan relaciones de hecho similares a las que se originan con motivo del matrimonio o en el seno familiar.
 
-III. "Violencia familiar": Aquel acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, por negligencia, económica o sexualmente a cualquier miembro de la familia, que tenga relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad o civil, o se halle en unión libre, de hecho o concubinato; realizado dentro o fuera del domicilio familiar, y que tenga por efecto causar daño, en cualquiera de las siguientes modalidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
+III. "Violencia familiar": Aquel acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, por negligencia, económica ó sexualmente a cualquier miembro de la familia, que tenga relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad o civil, o se halle en unión libre, de hecho o concubinato o en una relación de noviazgo; realizado dentro o fuera del domicilio familiar, y que tenga por efecto causar daño, en cualquiera de las siguientes modalidades:
 
 a) "Maltrato físico": Todo acto de agresión intencional, en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad de la otra persona, encaminado hacia su sometimiento y control, provocándole cualquier alteración en su salud física o mental.
 
@@ -793,7 +795,7 @@ Las informaciones falsas proporcionadas por particulares, darán lugar a la impo
 
 ###### Artículo 59.
 
-Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la Familial, particularmente encargadas de los asuntos de violencia familiar, contarán con un sistema especial de comunicación telefónica denominado "Línea Directa para Situaciones dé Violencia Familiar", a través del cual todas las personas e instituciones podrán informar sobre los casos de que tengan conocimiento, a cualquier hora del día o de la noche y cualquier día de la semana.
+Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la Familia, particularmente encargadas de los asuntos de violencia familiar, contarán con un sistema especial de comunicación telefónica denominado "Línea Directa para Situaciones de Violencia Familiar", a través del cual todas las personas e instituciones podrán informar sobre los casos de que tengan conocimiento, a cualquier hora del día o de la noche y cualquier día de la semana.
 
 ### CAPITULO V. MEDIDAS DE EMERGENCIA Y PROVIDENCIAS CAUTELARES
 
@@ -1122,3 +1124,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 957.- SE REFORMA LA FRACCIÓN III DEL ARTICULO 10 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
