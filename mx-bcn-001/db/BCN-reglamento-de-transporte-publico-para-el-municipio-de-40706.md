@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2017-09-25"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -1143,7 +1143,7 @@ De toda información, registro, folio o certificación que realice el Registro P
 
 Las tarifas para el cobro del transporte público de pasajeros, se fijarán de acuerdo con las condiciones y circunstancias de la prestación del servicio, de modo que permitan a los concesionarios y permisionarios, una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones en equipo e instalaciones adecuadas para el servicio.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 73 Bis.
 
@@ -1151,35 +1151,39 @@ La tarifa preferencial se otorgará de acuerdo a lo siguiente:
 
 I.- Tienen derecho a la tarifa preferencial:
 
-a) Los estudiantes, a quienes se les aplicará un descuento de 50% en la tarifa vigente, beneficio que se obtendrá mediante la exhibición de la credencial expedida por la Institución Educativa con reconocimiento o incorporación oficial de la Secretaría de Educación Pública (SEP), misma que será aplicable únicamente en horario y periodo escolar.
+a) Los estudiantes, a quienes se les aplicará un descuento del 50% en la tarifa vigente, beneficio que se obtendrá mediante la exhibición de la credencial expedida por la Institución Educativa con reconocimiento o incorporación oficial de la Secretaría de Educación Pública (SEP), misma que será aplicable únicamente en horario y periodo escolar.
 
-La credencial de estudian te (sic) deberá contener:
+La credencial de estudiante deberá contener los siguientes requisitos de forma obligatoria:
 
-l) Nombre completo
+1. Nombre completo.
 
-2) Matricula (en caso de tenerla)
+2. Nombre de la Institución Educativa
 
-3) Grado
+3. Vigencia
 
-4) Periodo Escolar
+4. Fotografía del Alumno
 
-5) Programa Académico
+5. Logo o imagen de la Institución
 
-6) Número de Registro ante SEP
+6. Matricula
 
-7) Nombre de la Institución Educativa
+7. Turno en que el estudiante asista a clases, ya sea en turno matutino, vespertino, mixto o en modalidad semiescolarizado, en el caso de universidades públicas donde no se especifique el turno, se entenderá como turno mixto.
 
-8) Vigencia
+En caso de tener los siguientes documentos, también se deberá presentar:
 
-9) Fotografía del Alumno
+1. Grado
 
-10) Logo o imagen de la Institución
+2. Periodo Escolar
 
-El descuento tarifario a los estudiantes, será aplicable en los horarios que la Secretaria de Educación Pública determine en sus lineamentos.
+3. Programa Académico
+
+4. Número de Registro ante SEP
+
+El descuento tarifario a los estudiantes, será aplicable en los horarios que la Secretaria de Educación Pública determine en sus lineamentos (sic).
 
 b) Los mayores de 60 años, a quienes se les aplicará un descuento del 50% en la tarifa vigente, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Instituto Nacional de Personas Adultas Mayores (INAPAM).
 
-c) Las personas con discapacidad así como su acompañante cuando resulte indispensable para su traslado, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Sistema para el Desarrollo Integral de la Familia (SDIF) y los niños menores de tres años, tendrán acceso al servicio sin costo alguno.
+c) Las personas con discapacidad así como su acompañante cuando resulte indispensable para su traslado, beneficio que se obtendrá mediante la exhibición de la credencial expedida por el Sistema para el Desarrollo Integral de la Familia. (SMDIF) y los niños menores de tres años, tendrán acceso al servicio sin costo alguno.
 
 En el caso de los acompañantes de las personas con discapacidad, deberán igualmente tramitar la credencial que los acredite como tales.
 
@@ -1577,7 +1581,7 @@ LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE DICIEMBRE DE 2004.
 
@@ -1654,3 +1658,9 @@ P.O. 25 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 28 (SIC), 81 Y LA CREACIÓN Y ADICIÓN DE LOS ARTÍCULOS 73 BIS Y 73 TER, DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 BIS DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
