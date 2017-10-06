@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2016-08-09"
+last_updated: "2017-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO 953 SE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. EL 6 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -2088,3 +2090,15 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 953.- SE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL PERIÓDICO OFICIAL, EL 1° DE SEPTIEMBRE DE 2006".]
+
+###### ARTÍCULO PRIMERO.
+
+La Ley en mención quedará abrogada al día siguiente de la publicación del Decreto correspondiente en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley de Justicia Para Adolescentes del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial, el 1° de septiembre de 2006, será aplicable para aquellos procedimientos penales para adolescentes que se encuentren en trámite antes de la entrada en vigor de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
