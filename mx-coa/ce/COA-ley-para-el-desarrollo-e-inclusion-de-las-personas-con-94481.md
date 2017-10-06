@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2017-03-17"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -385,9 +385,11 @@ La Secretaría del Trabajo a través del Servicio Nacional del Empleo promoverá
 
 ### Capítulo IV. De la educación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 22°.
 
-La Secretaría de Educación promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, guarderías o del personal docente o administrativo. Para tales efectos, realizará las siguientes acciones:
+La Secretaría de Educación promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, guarderías o del personal docente o administrativo, contribuyendo al desarrollo integral de las personas con discapacidad y sus necesidades educativas especiales, para potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes. Para tales efectos, realizara las siguientes acciones:
 
 I. Dar cumplimiento a lo dispuesto en el Sistema Educativo del Estado, el diseño, ejecución y evaluación del programa para la educación especial y del programa para la educación inclusiva de personas con discapacidad;
 
@@ -436,6 +438,10 @@ En la red estatal de bibliotecas y salas de lectura, entre otros, se incluirán 
 ###### Artículo 24°.
 
 La educación especial tendrá por objeto, además de lo establecido en la Ley Estatal de Educación y en la Ley General de Educación, la formación de la vida independiente y la atención de necesidades educativas específicas que comprende entre otras, dificultades severas de aprendizaje, comportamiento, emocionales, discapacidad múltiple o severa y aptitudes sobresalientes, que le permita a las personas tener un desempeño académico equitativo, evitando así la desatención, deserción, rezago o discriminación.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+Los programas que formen parte del sistema educativa (sic) en el estado, deberán promover una cultura de respeto a la dignidad y a los derechos humanos, y a la no discriminación de las personas con discapacidad y con necesidades educativas especiales.
 
 ###### Artículo 25°.
 
@@ -1192,3 +1198,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 950.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 22 Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 24 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
