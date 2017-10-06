@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-08-01"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1087,7 +1087,9 @@ En todo momento quedará a salvo el derecho de los trabajadores para demandar an
 
 Los procedimientos administrativos de imposición de sanciones como la destitución, se regulan por la Ley Orgánica y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-### CAPÍTULO OCTAVO. REGISTRO AUTOMATIZADO DE ENTRADA Y SALIDA
+### CAPÍTULO OCTAVO. DE LA REMUNERACIÓN DE HORAS EXTRAORDINARIAS
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
 #### SECCIÓN PRIMERA
 
@@ -1099,7 +1101,7 @@ Los procedimientos administrativos de imposición de sanciones como la destituci
 
 #### SECCIÓN QUINTA
 
-### CAPÍTULO PRIMERO. PREMIO SILVESTRE MORENO CORA
+### CAPÍTULO NOVENO. REGISTRO AUTOMATIZADO DE ENTRADA Y SALIDA
 
 ###### Artículo 53.
 
@@ -1141,11 +1143,127 @@ Para la operación y funcionamiento del registro automatizado de entrada y salid
 
 En la implementación, operación y funcionamiento del registro automatizado deberán observarse los lineamientos previstos en este Acuerdo, los ordenamientos respectivos en materia de transparencia, acceso a la información, resguardo de la misma y protección de datos personales, y demás disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO PRIMERO. PREMIO SILVESTRE MORENO CORA
+
+###### Artículo 55 Bis.
+
+El presente Capítulo tiene por objeto regular la remuneración del trabajo extraordinario de los servidores públicos del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Ter.
+
+Tendrán derecho al pago de horas extraordinarias los servidores públicos del Poder Judicial de la Federación, que por necesidades del servicio y de conformidad con lo dispuesto en este Acuerdo, excedan de la jornada máxima ordinaria diaria de trabajo prevista en dicho instrumento normativo, y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, siempre y cuando al momento de generar el derecho, se encuentren ocupando alguno de los siguientes puestos:
+
+Nivel Puesto
+
+25 Analista Jurídico SISE
+
+26 Auxiliar de Actuario
+
+27 Oficial Administrativo
+
+27 Enfermera Especializada
+
+27 Educadora
+
+28 Niñera
+
+28 Cocinera CENDI
+
+29 Analista
+
+29 Secretaria A
+
+30 Técnico Especializado
+
+30 Técnico Administrativo
+
+31 Analista Administrativo
+
+32 Auxiliar de Servicios Generales
+
+32 Cocinera
+
+33 Oficial de Servicios y Mantenimiento
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Quater.
+
+Los supuestos para el pago de horas extraordinarias para el personal adscrito a los órganos jurisdiccionales, son los siguientes:
+
+I. Por guardia, de conformidad con el “Sistema de Turno de Guardias de Juzgados de Distrito” autorizado por el Pleno;
+
+II. Por el trámite de asuntos que, por su trascendencia e interés general, se consideren relevantes; y
+
+III. En casos de urgencia o flagrancia, conforme al Código Federal de Procedimientos Penales, en los que se deba ratificar la detención o decretar la libertad con las reservas de ley del indiciado.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Quinquies.
+
+Los supuestos para el pago de horas extraordinarias para el personal adscrito a las áreas administrativas, son los siguientes:
+
+I. Por el trámite de asuntos de carácter urgente establecidos por el área o institución solicitante; y
+
+II. Para atender requerimientos o procesos administrativos urgentes, ordenados por el Pleno, las Comisiones o, en su caso, por los Comités integrados por los Consejeros.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Sexies.
+
+El pago de horas extraordinarias para el personal adscrito a los Centros de Justicia Penal Federal procederá en los casos que con motivo de la celebración de las audiencias o lo determinado en ellas se exceda de la duración máxima de la jornada de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Septies.
+
+Cuando por cualquiera de las causas previstas en los tres artículos anteriores, sea necesario laborar una jornada extraordinaria, ésta no deberá exceder de nueve horas semanales, las cuales se pagarán con un ciento por ciento más del sueldo tabular asignado a las horas de la jornada ordinaria de trabajo.
+
+En ningún caso se deberá generar una práctica reiterada.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Octies.
+
+Los titulares de los órganos jurisdiccionales y de las áreas administrativas, así como los Administradores de los Centros de Justicia Penal Federal, generarán los requerimientos de pago de horas extraordinarias, de conformidad con los mecanismos y el formato autorizado para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Nonies.
+
+Las solicitudes de pago de horas extraordinarias deben sustentarse en alguno de los supuestos previstos en este Acuerdo, pero en ningún caso podrán contener dos o más supuestos por el mismo periodo.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 55 Decies.
+
+La Dirección General de Recursos Humanos, así como la Coordinación de Administración Regional, a través de las Administraciones Regionales y Delegaciones Administrativas, desecharán las solicitudes de pago de horas extraordinarias que no cumplan con lo previsto en este Acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+Artículo 55 Undecies. Los titulares de los órganos jurisdiccionales y áreas administrativas, así como los Administradores de los Centros de Justicia Penal Federal, serán los responsables de que en el requerimiento para el pago de horas extraordinarias se ubique en alguno de los supuestos previstos en este Acuerdo; asimismo, deberán presentar la solicitud de pago del personal de su adscripción dentro de los cinco días hábiles del mes subsecuente al que se haya generado el derecho.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+Artículo 55 Duodecies. La Dirección General de Recursos Humanos, las Administraciones Regionales y Delegaciones Administrativas, según corresponda, a solicitud de los titulares de los órganos jurisdiccionales y áreas administrativas, así como de los Administradores de los Centros de Justicia Penal Federal, serán las responsables de generar el cálculo y pago de las horas extraordinarias, y de solicitar la liberación de los recursos presupuestales correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+Artículo 55 Terdecies. La Visitaduría Judicial durante el desarrollo de las visitas ordinarias de inspección practicadas a los órganos jurisdiccionales y Centros de Justicia Penal Federal, será la responsable de verificar que las solicitudes de pago de horas extraordinarias cumplan con lo previsto en este Acuerdo, así como que la extensión de la jornada ordinaria de trabajo no sea una práctica reiterada, asentando sus observaciones en el acta correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
+Artículo 55 Quaterdecies. La Contraloría, a través de la Dirección General de Auditoría, durante el desarrollo de las auditorías practicadas a las áreas administrativas, será la responsable de verificar que las solicitudes de pago de horas extraordinarias cumplan con lo previsto en este Acuerdo, así como que la extensión de la jornada ordinaria de trabajo en las áreas fiscalizadas no sea una práctica reiterada.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO SEGUNDO
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
-
-### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
 
 ###### Artículo 56.
 
@@ -1233,7 +1351,7 @@ La Comisión de Administración podrá emitir disposiciones administrativas para
 
 ## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
 
-### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
+### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
 
 ###### Artículo 69.
 
@@ -1263,9 +1381,7 @@ El premio se entregará en ceremonia especial, con motivo del Día del Servidor 
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO CUARTO BIS. PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
+### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
 
 #### SECCIÓN SEXTA
 
@@ -1433,7 +1549,9 @@ El premio se entregará en ceremonia especial, con motivo del Día del Servidor 
 
 (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
-### CAPÍTULO QUINTO. LICENCIAS
+### CAPÍTULO CUARTO BIS. PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
 #### SECCIÓN TERCERA. ORGANIZACIÓN DE LOS CENDI
 
@@ -1607,7 +1725,7 @@ El pago del préstamo se realizará a través de descuento vía nómina.
 
 Cuando el servidor público cause baja y cuente con un préstamo vigente, de así ser solicitado por el servidor público, se podrá hacer entrega del remanente que corresponda, de no ser así tendrá la obligación de cubrir de manera inmediata su adeudo, aunque no retire sus recursos del Fondo.
 
-### CAPÍTULO PRIMERO. ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA
+### CAPÍTULO QUINTO. LICENCIAS
 
 #### SECCIÓN SEXTA. ACTIVIDADES DOCENTES
 
@@ -2525,7 +2643,7 @@ e) Brindar atención psicológica preventiva a los menores durante su estancia e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
-### CAPÍTULO SEGUNDO. ARRENDAMIENTO Y ADQUISICIÓN DE INMUEBLES
+### CAPÍTULO PRIMERO. ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA
 
 ###### Artículo 227 Bis.
 
@@ -2661,7 +2779,7 @@ Artículo 227 Octodecies. La interpretación administrativa de este Capítulo y 
 
 Artículo 227 Novodecies. El Pleno conocerá de aquéllos casos relacionados con el cumplimiento de este Capítulo, cuando la Comisión de Administración por la relevancia del caso así lo determine, o cuando no exista mayoría en la Comisión para emitir una resolución en términos de las disposiciones aplicables respecto al funcionamiento de las Comisiones.
 
-### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
+### CAPÍTULO SEGUNDO. ARRENDAMIENTO Y ADQUISICIÓN DE INMUEBLES
 
 ###### Artículo 228.
 
@@ -2779,7 +2897,7 @@ No se autorizarán sustituciones de servidores públicos que estén disfrutando 
 
 ## TÍTULO PRIMERO. CONTRATACIONES
 
-### CAPÍTULO CUARTO. ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS
+### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
 
 #### SECCIÓN SEXTA. DIVERSAS DISPOSICIONES EN MATERIA DE OBRA PÚBLICA
 
@@ -5409,8 +5527,6 @@ En los casos de rescisión o terminación anticipada de contratos en que se haya
 
 #### SECCIÓN QUINTA. ARRENDAMIENTOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 430.
@@ -5671,7 +5787,7 @@ La multa será de diez a ciento veinte veces el valor diario de la Unidad de Med
 
 En lo no previsto en esta Sección aplicará de manera supletoria la Ley Federal de Procedimiento Administrativo.
 
-### CAPÍTULO PRIMERO. DESINCORPORACIÓN DE BIENES MUEBLES
+### CAPÍTULO CUARTO. ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS
 
 #### SECCIÓN SEXTA. DE LOS BIENES INMUEBLES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
@@ -6531,7 +6647,7 @@ Para el caso de las contribuciones vinculadas a los inmuebles al servicio del Po
 
 Asimismo, se establecerán las medidas de seguridad, vigilancia y protección civil, para preservar la seguridad e integridad física de los servidores públicos, público usuario y, en general, de los bienes que conforman su patrimonio, las cuales deberán ser compatibles con las expedidas por las autoridades federales y locales.
 
-### CAPÍTULO SEGUNDO. BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICIÓN DEL PROPIO CONSEJO
+### CAPÍTULO PRIMERO. DESINCORPORACIÓN DE BIENES MUEBLES
 
 ###### Artículo 533.
 
@@ -6581,7 +6697,7 @@ V. Vigencia.
 
 La custodia y resguardo de los instrumentos jurídicos se ajustará a las disposiciones contenidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Archivos.
 
-### CAPÍTULO PRIMERO. COMITÉ DE INFORMATICA}
+### CAPÍTULO SEGUNDO. BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICIÓN DEL PROPIO CONSEJO
 
 ###### Artículo 541.
 
@@ -6669,7 +6785,7 @@ La Contraloría registrará las resoluciones definitivas del procedimiento admin
 
 ## TÍTULO SEGUNDO. BIENES
 
-### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
+### CAPÍTULO PRIMERO. COMITÉ DE INFORMATICA}
 
 #### SECCIÓN SEXTA. INVITACIÓN RESTRINGIDA
 
@@ -7257,7 +7373,7 @@ Cuando el inconforme sea quien solicite la suspensión, deberá garantizar media
 
 La resolución que emita la Comisión de Administración respecto de la inconformidad presentada, tendrá por objeto declarar la procedencia o improcedencia de la inconformidad y, en su caso, determinar las medidas conducentes para la regularización o reposición del procedimiento, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
 
 #### SECCIÓN SEXTA. PROCEDIMIENTOS DE ENAJENACIÓN
 
@@ -7959,7 +8075,7 @@ En caso de duda o conflicto en la operación, aplicación o interpretación de e
 
 ## TÍTULO TERCERO. DEL COMITÉ DE INFORMÁTICA Y DE LAS ADMINISTRACIONES DE EDIFICIOS
 
-### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 682.
 
@@ -8129,9 +8245,9 @@ VI. El Comité informará a la Comisión de Administración y, en su caso, al Pl
 
 VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto correspondiente a asuntos generales, podrán incluirse asuntos de carácter informativo.
 
-### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
+### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
+### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
 
 ###### Artículo 691.
 
@@ -8331,9 +8447,7 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ## TÍTULO PRIMERO. PROCESO PRESUPUESTARIO
 
-### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
+### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
 
 #### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
 
@@ -8483,7 +8597,9 @@ Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda 
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO
+### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DEL REGISTRO CONTABLE DE LAS OPERACIONES Y DEL REGISTRO PATRIMONIAL
 
@@ -8643,7 +8759,7 @@ IV. Registrar cada programa y proyecto en la cartera que integra la Dirección G
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional y las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación.
 
-### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
+### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO
 
 #### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
 
@@ -9145,9 +9261,7 @@ Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría
 
 La Dirección General de Programación y Presupuesto tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
 
 ###### Artículo 771.
 
@@ -9169,7 +9283,7 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -9681,7 +9795,7 @@ Las unidades administrativas, en el ámbito de su competencia, serán las respon
 
 La Dirección General de Programación y Presupuesto, así como las Unidades Administrativas Foráneas llevarán a cabo un programa de digitalización de documentación justificativa y comprobatoria de las operaciones financieras del Consejo que se encuentren bajo su resguardo.
 
-### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
+### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -9829,33 +9943,9 @@ Las responsabilidades que procedan en los términos de esta Sección, tienen com
 
 Las responsabilidades a que se refiere este Título, se constituirán y exigirán administrativamente, con independencia de las sanciones de otra naturaleza que, en su caso, lleguen a determinarse por la autoridad competente.
 
-### CAPÍTULO CUARTO. TARIFAS Y ENTREGA DE RECURSOS
+### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Sexdecies. Los recursos que se entreguen a los servidores públicos de conformidad al grupo que corresponda, serán con base en las tarifas de viáticos para comisiones nacionales e internacionales autorizadas por la Comisión de Administración, mismas que se establecerán en la Guía.
-
-Además de las tarifas autorizadas para cada grupo de viáticos, se podrán entregar a petición del área solicitante, recursos económicos por concepto de transportación o taxis para traslado.
-
-Para comisiones en el extranjero, se asignará la tarifa autorizada de viáticos que corresponda y para los gastos de hospedaje, se otorgarán los recursos de acuerdo a la reservación que se haya efectuado con el hotel donde se alojará el servidor público comisionado, buscando para tal efecto, las mejores condiciones de decoro en apego a las medidas de racionalidad.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuando el servidor público comisionado no requiera hospedaje, o bien, se trate del último día de una comisión.
-
-La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
-
-Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, podrá entregarse mediante cheque o transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 #### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
@@ -9909,53 +9999,31 @@ Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO QUINTO. RESERVACIÓN Y CONTRATACIÓN DE HOSPEDAJE Y TRANSPORTACIÓN
+### CAPÍTULO CUARTO. TARIFAS Y ENTREGA DE RECURSOS
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Unvicies. El trámite de reservación y contratación de hospedaje lo realizará el área solicitante, a través de los servidores públicos designados para tales efectos por el titular respectivo o, en su caso, por el propio servidor público comisionado, debiéndose considerar la duración de la comisión, procurando obtener beneficios adicionales sin costo, tales como: Internet, llamadas telefónicas, transportación hotel-aeropuerto-hotel, desayunos o descuentos en alimentos.
+Artículo 835 Sexdecies. Los recursos que se entreguen a los servidores públicos de conformidad al grupo que corresponda, serán con base en las tarifas de viáticos para comisiones nacionales e internacionales autorizadas por la Comisión de Administración, mismas que se establecerán en la Guía.
 
-En cuanto a las comisiones internacionales, la Dirección General de Tesorería o las Unidades Administrativas Foráneas, podrán a petición expresa del área solicitante, apoyar en la identificación de opciones de hospedaje, así como en la reservación y pago correspondiente.
+Además de las tarifas autorizadas para cada grupo de viáticos, se podrán entregar a petición del área solicitante, recursos económicos por concepto de transportación o taxis para traslado.
 
-Por lo que respecta a las comisiones nacionales que se realicen con motivo de la celebración de un evento organizado por un área solicitante y, a petición de ésta, la Dirección General de Tesorería o las Unidades Administrativas Foráneas, podrán apoyar en la identificación de opciones de hospedaje y reservación de dicho servicio.
-
-Los beneficios que se obtengan por la adquisición de boletos de transportación y hospedaje, de todos los grupos y niveles, por parte de las empresas prestadoras de servicios se aplicarán a favor del Consejo.
+Para comisiones en el extranjero, se asignará la tarifa autorizada de viáticos que corresponda y para los gastos de hospedaje, se otorgarán los recursos de acuerdo a la reservación que se haya efectuado con el hotel donde se alojará el servidor público comisionado, buscando para tal efecto, las mejores condiciones de decoro en apego a las medidas de racionalidad.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Duovicies. En lo relativo a la transportación, el área solicitante o los servidores públicos designados deberán elegir el medio de transporte que resulte más adecuado para el cumplimiento de las comisiones.
+Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuando el servidor público comisionado no requiera hospedaje, o bien, se trate del último día de una comisión.
+
+La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
+
+Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Tervicies. En caso de determinarse la transportación aérea como el medio idóneo de traslado del servidor público comisionado, se reservarán y adquirirán boletos en clase turista o los que tengan el costo más bajo, con excepción de los boletos de avión para los servidores públicos del Grupo 1.
+Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, podrá entregarse mediante cheque o transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Quatervicies. El trámite de reservación y compra de boletos de avión deberá observar los siguientes lineamientos:
-
-I. La Dirección General de Tesorería y las Unidades Administrativas Foráneas serán las encargadas de efectuar la reservación y compra de los boletos de avión, por lo que el área solicitante o el servidor público designado, únicamente deberá proporcionar los datos básicos de la propuesta del itinerario de la transportación aérea del comisionado;
-
-II. La Dirección General de Tesorería y las Unidades Administrativas Foráneas, de ser posible, con base en las reglas previstas en la Guía, efectuarán un análisis comparativo de ofertas para la reservación y compra de boletos de avión que ofrezcan las distintas empresas en el mercado, a fin de determinar cuál de ellas representa la mayor economía al Consejo. Se podrán incluir opciones de tarifas en clase turista, promocional o con restricciones; y
-
-III. El área solicitante deberá requerir la compra de la transportación aérea con la mayor anticipación posible, a efecto de garantizar su traslado, así como un mejor precio al momento de la adquisición.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Quinvicies. Para la transportación distinta a la aérea, será responsabilidad del área solicitante observar lo siguiente:
-
-I. En su caso, que los trámites de reservación y contratación de la transportación incluyan el viaje redondo; y
-
-II. Que en caso de que el servidor público comisionado utilice el automóvil de su propiedad para trasladarse al lugar de la comisión, éste se encuentre asegurado.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Sexvicies. Las áreas solicitantes o el servidor público designado, podrán solicitar recursos por concepto de taxis para traslado, mismos que deberán ser comprobados en su totalidad.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Septvicies. La Dirección General de Tesorería y las Unidades Administrativas Foráneas podrán, a petición de las áreas solicitantes, contratar los servicios de paquetes de viaje que incluyan transportación y hospedaje, siempre y cuando dicha opción resulte conveniente en términos de costo y represente un ahorro para el Consejo.
-
-Los recursos que se otorgarán al servidor público comisionado, serán los relativos a la tarifa de viáticos sin pernocta, así como, en su caso, el correspondiente a taxis para traslado.
+Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10035,43 +10103,55 @@ Los casos no previstos se homologarán a su nivel tabular dentro de la estructur
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO SEXTO. COMPROBACIÓN DEL EJERCICIO DEL GASTO
+### CAPÍTULO QUINTO. RESERVACIÓN Y CONTRATACIÓN DE HOSPEDAJE Y TRANSPORTACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Octovicies. Las áreas solicitantes integrarán y validarán la información y documentación original comprobatoria de los gastos llevados a cabo en comisiones.
+Artículo 835 Unvicies. El trámite de reservación y contratación de hospedaje lo realizará el área solicitante, a través de los servidores públicos designados para tales efectos por el titular respectivo o, en su caso, por el propio servidor público comisionado, debiéndose considerar la duración de la comisión, procurando obtener beneficios adicionales sin costo, tales como: Internet, llamadas telefónicas, transportación hotel-aeropuerto-hotel, desayunos o descuentos en alimentos.
+
+En cuanto a las comisiones internacionales, la Dirección General de Tesorería o las Unidades Administrativas Foráneas, podrán a petición expresa del área solicitante, apoyar en la identificación de opciones de hospedaje, así como en la reservación y pago correspondiente.
+
+Por lo que respecta a las comisiones nacionales que se realicen con motivo de la celebración de un evento organizado por un área solicitante y, a petición de ésta, la Dirección General de Tesorería o las Unidades Administrativas Foráneas, podrán apoyar en la identificación de opciones de hospedaje y reservación de dicho servicio.
+
+Los beneficios que se obtengan por la adquisición de boletos de transportación y hospedaje, de todos los grupos y niveles, por parte de las empresas prestadoras de servicios se aplicarán a favor del Consejo.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Novovicies. La información y documentación comprobatoria tendrá validez cuando cumpla con los requisitos previstos en el presente Acuerdo, en la Guía, así como en las disposiciones fiscales aplicables.
+Artículo 835 Duovicies. En lo relativo a la transportación, el área solicitante o los servidores públicos designados deberán elegir el medio de transporte que resulte más adecuado para el cumplimiento de las comisiones.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Tricies. La Dirección General de Recursos Humanos observará las disposiciones aplicables en la Ley del Impuesto Sobre la Renta y su Reglamento.
+Artículo 835 Tervicies. En caso de determinarse la transportación aérea como el medio idóneo de traslado del servidor público comisionado, se reservarán y adquirirán boletos en clase turista o los que tengan el costo más bajo, con excepción de los boletos de avión para los servidores públicos del Grupo 1.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Untricies. Las áreas solicitantes registrarán en el Sistema Informático SAP los gastos efectuados, con base en la documentación comprobatoria, en un plazo no mayor a 10 días hábiles siguientes al término efectivo de la comisión.
+Artículo 835 Quatervicies. El trámite de reservación y compra de boletos de avión deberá observar los siguientes lineamientos:
 
-De no registrarse la documentación comprobatoria del gasto dentro del plazo establecido o el reintegro de los recursos correspondientes, se comunicará a la Dirección General de Recursos Humanos para la aplicación del descuento vía nómina al servidor público responsable, para la recuperación de los recursos que no hayan sido comprobados, sin la posibilidad de reembolso.
+I. La Dirección General de Tesorería y las Unidades Administrativas Foráneas serán las encargadas de efectuar la reservación y compra de los boletos de avión, por lo que el área solicitante o el servidor público designado, únicamente deberá proporcionar los datos básicos de la propuesta del itinerario de la transportación aérea del comisionado;
 
-Una vez realizado el registro en el Sistema Informático SAP, el servidor público deberá remitir obligatoriamente a la Dirección General de Programación y Presupuesto y a las Unidades Administrativas Foráneas, según corresponda, la documentación comprobatoria del gasto acompañada de la Relación de Gastos para Comprobación de Viáticos y Transportación.
+II. La Dirección General de Tesorería y las Unidades Administrativas Foráneas, de ser posible, con base en las reglas previstas en la Guía, efectuarán un análisis comparativo de ofertas para la reservación y compra de boletos de avión que ofrezcan las distintas empresas en el mercado, a fin de determinar cuál de ellas representa la mayor economía al Consejo. Se podrán incluir opciones de tarifas en clase turista, promocional o con restricciones; y
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Duotricies. La documentación comprobatoria que no cumpla con algún requisito, será devuelta por la Dirección General de Programación y Presupuesto o la Unidad Administrativa Foránea que corresponda, por única ocasión, a las áreas solicitantes, comunicándoles claramente cuál es el incumplimiento respectivo, debiendo enviarla nuevamente en un plazo no mayor a 5 días hábiles.
+III. El área solicitante deberá requerir la compra de la transportación aérea con la mayor anticipación posible, a efecto de garantizar su traslado, así como un mejor precio al momento de la adquisición.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Tetricies. La documentación comprobatoria del gasto obrará en el archivo contable de la Dirección General de Programación y Presupuesto o de la Unidad Administrativa Foránea, según corresponda, de conformidad con los plazos de conservación que indiquen las disposiciones normativas aplicables.
+Artículo 835 Quinvicies. Para la transportación distinta a la aérea, será responsabilidad del área solicitante observar lo siguiente:
+
+I. En su caso, que los trámites de reservación y contratación de la transportación incluyan el viaje redondo; y
+
+II. Que en caso de que el servidor público comisionado utilice el automóvil de su propiedad para trasladarse al lugar de la comisión, éste se encuentre asegurado.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Quatertricies. Las áreas solicitantes cuyos servidores públicos se encuentren adscritos en el Distrito Federal y su zona metropolitana, realizarán el registro de afectación presupuestal y contable de la comprobación de viáticos en el Sistema Informático SAP, así como las modificaciones y correcciones que éste requiera, de conformidad con lo establecido en la Guía.
+Artículo 835 Sexvicies. Las áreas solicitantes o el servidor público designado, podrán solicitar recursos por concepto de taxis para traslado, mismos que deberán ser comprobados en su totalidad.
 
-En los demás casos, serán las Unidades Administrativas Foráneas quienes llevarán a cabo el registro, así como las modificaciones y correcciones de referencia.
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+Artículo 835 Septvicies. La Dirección General de Tesorería y las Unidades Administrativas Foráneas podrán, a petición de las áreas solicitantes, contratar los servicios de paquetes de viaje que incluyan transportación y hospedaje, siempre y cuando dicha opción resulte conveniente en términos de costo y represente un ahorro para el Consejo.
+
+Los recursos que se otorgarán al servidor público comisionado, serán los relativos a la tarifa de viáticos sin pernocta, así como, en su caso, el correspondiente a taxis para traslado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 835 Quinquies.
 
@@ -10127,17 +10207,43 @@ IV. Cuando el servidor público desempeñe dos o más empleos compatibles, a men
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO SÉPTIMO. CANCELACIONES
+### CAPÍTULO SEXTO. COMPROBACIÓN DEL EJERCICIO DEL GASTO
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-Artículo 835 Quintricies. Las cancelaciones deberán ser notificadas por el área solicitante o los servidores públicos designados, a la Dirección General de Tesorería o las Unidades Administrativas Foráneas, según corresponda, con al menos veinticuatro horas de anticipación a la fecha de traslado del comisionado y a través de los medios que al efecto se precisen en la Guía.
+Artículo 835 Octovicies. Las áreas solicitantes integrarán y validarán la información y documentación original comprobatoria de los gastos llevados a cabo en comisiones.
 
-Si dichas notificaciones se recibieron ya concluido el trámite, los recursos económicos otorgados deberán ser reintegrados en su totalidad conforme a lo indicado en la Guía.
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-En caso de haberse generado cargos por las cancelaciones o cambios, éstos deberán ser cubiertos por el comisionado, o el servidor público que resulte responsable, si son imputables a ellos; o por el Consejo, en caso de que exista una causa justificada por parte del área solicitante, siendo responsabilidad del titular de dicha área o servidor público designado por éste, remitir el pronunciamiento correspondiente a la Dirección General de Tesorería o, en su caso, a las Unidades Administrativas Foráneas a través de su correo institucional.
+Artículo 835 Novovicies. La información y documentación comprobatoria tendrá validez cuando cumpla con los requisitos previstos en el presente Acuerdo, en la Guía, así como en las disposiciones fiscales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Tricies. La Dirección General de Recursos Humanos observará las disposiciones aplicables en la Ley del Impuesto Sobre la Renta y su Reglamento.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Untricies. Las áreas solicitantes registrarán en el Sistema Informático SAP los gastos efectuados, con base en la documentación comprobatoria, en un plazo no mayor a 10 días hábiles siguientes al término efectivo de la comisión.
+
+De no registrarse la documentación comprobatoria del gasto dentro del plazo establecido o el reintegro de los recursos correspondientes, se comunicará a la Dirección General de Recursos Humanos para la aplicación del descuento vía nómina al servidor público responsable, para la recuperación de los recursos que no hayan sido comprobados, sin la posibilidad de reembolso.
+
+Una vez realizado el registro en el Sistema Informático SAP, el servidor público deberá remitir obligatoriamente a la Dirección General de Programación y Presupuesto y a las Unidades Administrativas Foráneas, según corresponda, la documentación comprobatoria del gasto acompañada de la Relación de Gastos para Comprobación de Viáticos y Transportación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Duotricies. La documentación comprobatoria que no cumpla con algún requisito, será devuelta por la Dirección General de Programación y Presupuesto o la Unidad Administrativa Foránea que corresponda, por única ocasión, a las áreas solicitantes, comunicándoles claramente cuál es el incumplimiento respectivo, debiendo enviarla nuevamente en un plazo no mayor a 5 días hábiles.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Tetricies. La documentación comprobatoria del gasto obrará en el archivo contable de la Dirección General de Programación y Presupuesto o de la Unidad Administrativa Foránea, según corresponda, de conformidad con los plazos de conservación que indiquen las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Quatertricies. Las áreas solicitantes cuyos servidores públicos se encuentren adscritos en el Distrito Federal y su zona metropolitana, realizarán el registro de afectación presupuestal y contable de la comprobación de viáticos en el Sistema Informático SAP, así como las modificaciones y correcciones que éste requiera, de conformidad con lo establecido en la Guía.
+
+En los demás casos, serán las Unidades Administrativas Foráneas quienes llevarán a cabo el registro, así como las modificaciones y correcciones de referencia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 835 Decies.
 
@@ -10170,6 +10276,18 @@ Artículo 835 Quaterdecies. El titular del área solicitante bajo su más estric
 Artículo 835 Quindecies. La Dirección General de Tesorería y las Unidades Administrativas Foráneas, en su respectivo ámbito de competencia, podrán atender las solicitudes de viáticos y transportación recibidas para trámite normal con un plazo mínimo de anticipación de 5 días hábiles; para comisiones urgentes 2 días hábiles previo al inicio de la misma; en ambos casos para el territorio nacional; y para el caso de comisiones internacionales en el momento en que se toma conocimiento del acuerdo respectivo.
 
 En aquellos supuestos en que por necesidad del servicio el comisionado deba trasladarse de manera urgente sin los recursos de viáticos y transportación, los gastos iniciales correrán a cuenta de éste, estableciéndose en la Guía los mecanismos conducentes para su reembolso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+### CAPÍTULO SÉPTIMO. CANCELACIONES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Quintricies. Las cancelaciones deberán ser notificadas por el área solicitante o los servidores públicos designados, a la Dirección General de Tesorería o las Unidades Administrativas Foráneas, según corresponda, con al menos veinticuatro horas de anticipación a la fecha de traslado del comisionado y a través de los medios que al efecto se precisen en la Guía.
+
+Si dichas notificaciones se recibieron ya concluido el trámite, los recursos económicos otorgados deberán ser reintegrados en su totalidad conforme a lo indicado en la Guía.
+
+En caso de haberse generado cargos por las cancelaciones o cambios, éstos deberán ser cubiertos por el comisionado, o el servidor público que resulte responsable, si son imputables a ellos; o por el Consejo, en caso de que exista una causa justificada por parte del área solicitante, siendo responsabilidad del titular de dicha área o servidor público designado por éste, remitir el pronunciamiento correspondiente a la Dirección General de Tesorería o, en su caso, a las Unidades Administrativas Foráneas a través de su correo institucional.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10215,11 +10333,9 @@ La Comisión de Administración resolverá respecto de aquellos supuestos que no
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL LOGOTIPO DEL CONSEJO, D.O.F. 31 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
-
 ## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
+### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
 
 ###### Artículo 836.
 
@@ -10479,7 +10595,7 @@ La Comisión de Administración, por sí o a través del Comité, podrá contrat
 
 La contratación a que hace referencia este artículo deberá sujetarse a las reglas de este Acuerdo en materia de procedimientos para las contrataciones requeridas por el Consejo.
 
-### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
+### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -10827,7 +10943,7 @@ En las dudas o controversias que se generen con motivo de la interpretación adm
 
 ## TÍTULO PRIMERO. COMUNICACIÓN SOCIAL
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
 
 ###### Artículo 915.
 
@@ -10841,7 +10957,7 @@ Los servidores públicos únicamente podrán portar y hacer uso de las identific
 
 La portación o el uso de identificaciones, insignias o placas metálicas o de cualquier material, con el logotipo del Consejo de la Judicatura Federal o con características o signos distintivos de pertenencia al Poder Judicial de la Federación, que no sean expedidas oficialmente por el Consejo, será sancionado administrativamente sin perjuicio de la responsabilidad penal o civil a que haya lugar.
 
-### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 916.
 
@@ -10853,7 +10969,7 @@ La Dirección General de Comunicación Social deberá presentar al Pleno y a la 
 
 ## TÍTULO SEGUNDO. SEGURIDAD
 
-### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
+### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
 
 #### SECCIÓN SEGUNDA. DEROGADA
 
@@ -11051,7 +11167,7 @@ El ingreso y salida de cualquier bien propiedad de los servidores públicos, se 
 
 Los servidores públicos deberán reportar al personal de seguridad, la presencia de cualquier objeto peligroso o presuntamente abandonado.
 
-### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
+### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
 
 ###### Artículo 942.
 
@@ -11105,9 +11221,7 @@ II. En la segunda o ulteriores ocasiones, se les obligará a retirarse de las in
 
 ## TÍTULO TERCERO. PROTECCIÓN CIVIL
 
-### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
-
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
 
 ###### Artículo 950.
 
@@ -11139,7 +11253,7 @@ La Dirección General de Protección Civil y Salud en el Trabajo, en su carácte
 
 Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo, dar cumplimiento al Programa Anual de Protección Civil del Consejo, rendir un reporte de su cumplimiento, avance y modificaciones, mediante informes semestrales a la Comisión de Administración.
 
-### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
 
 > <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -11223,7 +11337,9 @@ XXXII. Dictaminar en caso de requerirse la validación de los Programas Internos
 
 XXXIII. Las demás que le determine el Pleno o la Comisión de Administración.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 ###### Artículo 955.
 
@@ -11245,7 +11361,7 @@ El titular de la Dirección General de Protección Civil y Salud en el Trabajo, 
 
 La Dirección General de Protección Civil y Salud en el Trabajo deberá informar a la Comisión de Administración, respecto del cumplimiento del Programa Anual de Protección Civil.
 
-### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 960.
 
@@ -11395,7 +11511,7 @@ III. Realizar reuniones de retroalimentación con los brigadistas; y
 
 IV. Al realizar simulacros, establecer el puesto de mando e informar los resultados a la Dirección General de Protección Civil y Salud en el Trabajo.
 
-### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 970.
 
@@ -11431,7 +11547,7 @@ El área encargada de Servicios Médicos en cada uno de los inmuebles, trabajar�
 
 Asimismo, proporcionarán información a los brigadistas de los pasos necesarios a realizar ante diferentes emergencias médicas.
 
-### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 975.
 
@@ -11439,7 +11555,7 @@ La capacitación en materia de Protección Civil se orientará a fortalecer y am
 
 ## TÍTULO CUARTO. FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 976.
 
@@ -11505,7 +11621,7 @@ I. Un certificado digital vigente emitido en términos de este Título; y
 
 II. Una llave privada.
 
-### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
+### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 985.
 
@@ -11529,7 +11645,7 @@ VIII. Llave pública; y
 
 IX. Versión de tipos de certificados digitales de la FIREL.
 
-### CAPÍTULO SÉPTIMO. SANCIONES
+### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
 
 ###### Artículo 986.
 
@@ -11541,7 +11657,7 @@ El certificado digital de la FIREL únicamente podrá ser solicitado y emitido a
 
 Para obtener un certificado digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el portal de Internet del Consejo; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
 
-### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
+### CAPÍTULO SÉPTIMO. SANCIONES
 
 ###### Artículo 988.
 
@@ -11551,9 +11667,7 @@ La renovación deberá efectuarse dentro de los treinta días anteriores a la co
 
 Para llevar a cabo la renovación del certificado digital de la FIREL, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/ y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
 
 ###### Artículo 990.
 
@@ -11569,7 +11683,7 @@ El SEPJF revocará un certificado digital cuando con motivo de la solicitud de u
 
 Una vez revocado un certificado no podrá ser utilizado, por lo que si el interesado requiere de otro certificado digital de la FIREL tendrá que solicitarlo de nueva cuenta conforme al procedimiento establecido en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
@@ -11597,7 +11711,9 @@ IV. Hacer uso debido de su certificado digital de la FIREL; y
 
 V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en riesgo la confidencialidad de la llave privada o de las claves referidas en la fracción II de este artículo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 995.
 
@@ -11609,7 +11725,7 @@ Las conductas de los servidores públicos que impliquen el incumplimiento a los 
 
 Los servidores públicos deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
 
-### CAPÍTULO SEGUNDO. DEROGADO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 997.
 
@@ -11670,6 +11786,8 @@ La UNCOCEFI publicará en los medios de comunicación electrónica del Consejo, 
 La UNCOCEFI deberá hacer pública la vigencia de los certificados digitales de la FIREL de los usuarios finales a los que el Consejo les emitió un certificado digital de la FIREL, la de los certificados de OCSP y de TSA, así como la información sobre los servicios relacionados con el uso de los certificados digitales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO. DEROGADO
 
 ###### Artículo 1002 Bis.
 
@@ -11807,7 +11925,7 @@ QUINTO. Se derogan todas las disposiciones que opongan al presente Acuerdo Gener
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de diecinueve de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, César Esquinca Muñoa, Martha María del Carmen Hernández Alvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a doce de diciembre de dos mil catorce.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 5 DE FEBRERO DE 2015.
 
@@ -12458,3 +12576,13 @@ D.O.F. 1 DE AGOSTO DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REMUNERACIÓN DE HORAS EXTRAORDINARIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan los Lineamientos de operación para el pago de horas extraordinarias en favor de los servidores públicos del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y demás disposiciones que se opongan al presente Acuerdo.
