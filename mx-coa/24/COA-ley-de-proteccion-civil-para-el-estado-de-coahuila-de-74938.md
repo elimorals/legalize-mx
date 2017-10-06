@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2017-04-18"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE NOVIEMBRE DE 2017 Y 1 DE DICIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -81,65 +83,187 @@ IV. La ejecución coordinada de programas y acciones de los gobiernos federal, e
 
 V. Las demás que con ese carácter expida el titular del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
-Las acciones y servicios de protección civil que se brinden dentro del territorio del Estado deberán observar los principios de inmediatez en el servicio, solidaridad, coordinación, colaboración y proximidad.
+Las acciones y servicios de protección civil que se brinden dentro del territorio del Estado deberán observar los siguientes principios:
+
+I. Prioridad en la protección a la vida, la salud y la integridad de las personas;
+
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio y entrega de recursos a la población en caso de emergencia o desastre;
+
+III. Subsidiariedad, complementariedad, transversalidad y proporcionalidad en las funciones;
+
+IV. Publicidad y participación social en todas las fases de la protección civil, pero particularmente en la de prevención;
+
+V. Establecimiento y desarrollo de una cultura de la protección civil, con énfasis en la prevención en la población en general;
+
+VI. Legalidad, control, eficacia, racionalidad, equidad, transparencia y rendición de cuentas en la administración de los recursos públicos;
+
+VII. Corresponsabilidad entre sociedad y gobierno, y
+
+VIII. Honradez y de respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 4 BIS.- Las políticas públicas en materia de protección civil, se ceñirán al Plan Estatal de Desarrollo y los Programas de Protección Civil, identificando para ello las siguientes prioridades:
+
+I. La identificación y análisis de riesgos como sustento para la implementación de medidas de prevención y mitigación;
+
+II. Promoción, desde la niñez, de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
+
+III. Obligación del Estado y los Municipios, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción;
+
+IV. El fomento de la participación social para crear comunidades resilientes, y por ello capaces de resistir los efectos negativos de los desastres, mediante una acción solidaria, y recuperar en el menor tiempo posible sus actividades productivas, económicas y sociales;
+
+V. Incorporación de la gestión integral del riesgo, como aspecto fundamental en la planeación y programación del desarrollo para revertir el proceso de generación de riesgos;
+
+VI. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías; y
+
+VII. La atención prioritaria para la población vulnerable.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 5.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta ley se entiende por:
 
-I. Área de Protección. Las zonas de la Entidad sujetas al régimen de protección civil para efectos de coordinar los trabajos y acciones de los sectores público, social y privado en materia de prevención y auxilio ante la realización o eventualidad de un desastre;
+I. Agente afectable. Personas, bienes, infraestructura, servicios, planta productiva, así como el medio ambiente, que son propensos a ser afectados o dañados por un agente perturbador;
 
-II. Atlas Estatal de Riesgos. Sistema integral de información que contiene las características geográficas del Estado, así como el listado de los establecimientos y servicios sujetos al cumplimiento de esta ley, que permita identificar las zonas y presencia de riesgos para las personas, sus bienes y el medio ambiente. El listado de los establecimientos y servicios incluirá el personal y equipo especializado de que dispongan para la atención de desastres;
+II. Agente perturbador. Acontecimiento o fenómeno de origen natural o antropogénico que puede impactar a un sistema afectable y transformar su estado normal en un estado de daños que pueden llegar al grado de desastre. También se le llama calamidad, fenómeno destructivo, agente destructivo, sistema perturbador o evento perturbador;
 
-III. Auxilio. Ayuda y apoyo proporcionado a través de servicios y/o bienes materiales encaminados a satisfacer las necesidades de la población;
+III. Agente regulador. Lo constituyen las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
 
-IV. Consejo Estatal. El Consejo Estatal de Protección Civil;
+IV. Albergado. Persona que en forma temporal recibe asilo, amparo, alojamiento y resguardo ante la amenaza, inminencia u ocurrencia de un agente perturbador;
 
-V. Consejos Municipales. Los Consejos Municipales de Protección Civil;
+V. Área de Protección. Las zonas de la entidad sujetas al régimen de protección civil para efectos de coordinar los trabajos y acciones de los sectores público, social y privado en materia de prevención y auxilio ante la realización de acciones preventivas o correctivas y ante la eventualidad de un desastre;
 
-VI. Daño. El menoscabo o deterioro causado a la persona, a sus bienes o al medio ambiente, como consecuencia del impacto de un desastre;
+VI. Atlas Estatal de Riesgos. Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de la población a los agentes perturbadores;
 
-VII. Declaratoria de emergencia o desastre. Es el acto mediante el cual se reconoce que uno o varios fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico o socio-organizativo pueden causar o han causado daños severos a las personas, bienes o al medio ambiente;
+VII. Auxilio. Respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
-VIII. Desastre. Las contingencias, siniestros, catástrofes y calamidades de origen natural o como resultado de la actividad humana, de carácter público o privado, en las cuales la sociedad o una parte de ella sufre un daño severo y pérdidas para las personas, sus bienes o al medio ambiente;
+> <small>[N. DE E. VÉASE LITERALIDAD DE LOS INCISOS PUBLICADOS EN EL DECRETO NÚMERO 944, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2017, PÁGINAS 25 Y 26.]</small>
 
-IX. Emergencia. La situación derivada de la realización o eventualidad de un desastre;
+a. Auto declaratoria. Procedimiento para el cumplimiento de obligaciones anuales de acuerdo a la presente ley, al que están obligados los establecimientos asentados en territorio coahuilense;
 
-X. Establecimientos. A los centros educativos y de investigación, estancias, guarderías, fábricas, empresas, comercios, restaurantes, bares, cantinas, discotecas, almacenes, hoteles, moteles, circos, centros de espectáculos, centros de salud públicos y privados, oficinas públicas y privadas, teatros, estadios, plazas de toros, centros recreativos, salones de fiestas y, en general, cualquier instalación, construcción, actividad, servicio u obra en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo;
+b. Brigada. Grupo de personas que se organizan dentro de un inmueble, o establecimiento capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble;
 
-XI. Estado. El Estado de Coahuila de Zaragoza;
+c. Cambio climático. Cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
 
-XII. Evacuación. La medida preventiva y de seguridad consistente en la movilización y desalojo de personas que se encuentran dentro de un perímetro que no ofrece márgenes adecuados de seguridad ante la presencia inminente de un desastre;
+d. Carta de corresponsabilidad. Documento expedido por las empresas capacitadoras y de consultoría, instructores independientes y consultores en estudio de riesgo de vulnerabilidad, registrados ante la autoridad de protección civil, que elaboran un Programa de Protección Civil, para solicitar su aprobación y revalidación, en el que se responsabilizan solidariamente, con la persona física o moral que solicitó su elaboración, del funcionamiento y aplicación del programa elaborado;
 
-XIII. Grupos voluntarios. A las organizaciones y asociaciones legalmente constituidas y que cuentan con la autorización correspondiente de la Subsecretaría de Protección Civil, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+e. Concentración masiva. Pluralidad de individuos que se encuentran reunidos en un espacio y tiempo determinados; tomando en consideración las dimensiones, características y giro del establecimiento en donde se concentren las personas;
 
-XIV. Plan Estatal. Plan Estatal de Protección Civil;
+f. Consejo Estatal. El Consejo Estatal de Protección Civil;
 
-XV. Prevención. El conjunto de disposiciones y medidas anticipadas, que tienen por objeto evitar la realización de algún desastre;
+g. Consejos Municipales. Los Consejos Municipales de Protección Civil;
 
-XVI. Programa Estatal. El Programa Estatal de Protección Civil;
+h. Continuidad de operaciones. Proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración. Estas acciones deben ser avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XVII. Protección Civil. El conjunto de disposiciones, medidas y acciones tendientes a auxiliar a la población ante el riesgo o presencia de algún desastre;
+i. Damnificado. Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre, ya sea en lo individual o en su conjunto;
 
-XVIII. Rescate. El operativo de emergencia en zonas afectadas por un desastre, consistente en el retiro y traslado de víctimas bajo soporte vital básico, desde el foco de peligro hasta la unidad asistencial que ofrezca atenciones y cuidados de mayor alcance;
+j. Daño. El menoscabo o deterioro causado a la persona, a sus bienes o al medio ambiente, como consecuencia del impacto de un desastre;
 
-XIX. Riesgo. La posibilidad de que se produzca un daño o afectación a las personas, a sus bienes o al medio ambiente;
+k. Declaratoria de emergencia o desastre. Es el acto mediante el cual se reconoce que uno o varios fenómenos de carácter geológico, hidro-meteorológico, químico-tecnológico, sanitario-ecológico o socio-organizativo pueden causar o han causado daños severos a las personas, bienes o al medio ambiente;
 
-XX. Secretaría. La Secretaría de Gobierno del Estado de Coahuila de Zaragoza;
+l. Desastre. Al resultado de la ocurrencia de uno o más agentes perturbadores severos y o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
-XXI. Simulacro. La representación de las acciones previamente planeadas para enfrentar los efectos de un desastre;
+VIII. Donativo. La aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio autorizados o en las instituciones de crédito, para ayudar a las entidades federativas, municipios o comunidades en emergencia o desastre;
 
-XXII. Sistema. El Sistema Estatal de Protección Civil;
+IX. Disturbios. Las contingencias que pudieran presentarse derivadas de amenazas de atentados o ataques, despliegue de las fuerzas de seguridad, terrorismo, interrupción de servicios básicos, bloqueos a las vías terrestres de comunicación y cualquier otra acción de naturaleza análoga que pudiera poner en riesgo la salud, seguridad, así como la integridad de las personas;
 
-XXIII. Subsecretaría. La Subsecretaría de Protección Civil de la Secretaría de Gobierno del Estado de Coahuila de Zaragoza, y
+X. Emergencia. Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-XXIV. Zona de Riesgo. La zona de restricción total, en la que no se permite ningún tipo de actividad, incluyendo los asentamientos humanos, con excepción de actividades de forestación, cercamiento y señalamiento de la misma, así como el mantenimiento y vigilancia correspondiente.
+XI. Establecimientos. A los centros educativos y de investigación, estancias, guarderías, fábricas, empresas, comercios, restaurantes, bares, cantinas, discotecas, almacenes, hoteles, moteles, circos, centros de espectáculos, centros de salud públicos y privados, oficinas públicas y privadas, teatros, estadios, centros recreativos, salones de fiestas y, en general, cualquier instalación, construcción, actividad, servicio u obra en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+XII. Estado. El Estado de Coahuila de Zaragoza;
 
-XXV. Disturbios. Las contingencias que pudieran presentarse derivadas de amenazas de atentados o ataques, despliegue de las fuerzas de seguridad, terrorismo, interrupción de servicios básicos, bloqueos a las vías terrestres de comunicación y cualquier otra acción de naturaleza análoga que pudiera poner en riesgo la salud, seguridad, así como la integridad de las personas.
+XIII. Evacuación. La medida preventiva y de seguridad consistente en la movilización y desalojo de personas que se encuentran dentro de un perímetro que no ofrece márgenes adecuados de seguridad ante la presencia inminente de un desastre;
+
+XIV. Fenómeno antropogénico. Agente perturbador producido por la actividad humana;
+
+XV. Fenómeno natural perturbador. Agente perturbador producido por la naturaleza;
+
+XVI. Fenómeno geológico. Agente perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, la inestabilidad de laderas, los flujos, los caídos o derrumbes, los hundimientos, la subsidencia y los agrietamientos;
+
+XVII. Fenómeno hidro-meteorológico. Agente perturbador que se genera por la acción de los agentes atmosféricos, tales como: lluvias extremas, inundaciones pluviales, fluviales, y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías; ondas cálidas y gélidas; y tornados;
+
+XVIII. Fenómeno químico-tecnológico. Agente perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
+
+XIX. Fenómeno sanitario-ecológico. Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+
+XX. Fenómeno socio-organizativo. Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
+
+XXI. Gestión Integral de Riesgos. El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
+XXII. Grupos voluntarios. Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
+
+XXIII. Hospital seguro. Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+
+XXIV. Identificación de riesgos. Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+
+XXV. Instrumentos de administración y transferencia de riesgos. Son aquellos programas o mecanismos financieros que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+
+XXVI. Material peligroso. Es toda sustancia sólida, líquida o gaseosa que por sus características físicas, químicas o biológicas puede ocasionar daños a los seres humanos, al medio ambiente y a los bienes;
+
+XXVII. Mitigación. Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+XXVIII. Peligro. Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+
+XXIX. Plan Estatal. Plan Estatal de Protección Civil;
+
+XXX. Preparación. Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+
+XXXI. Prevención. Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
+
+XXXII. Previsión. Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+
+XXXIII. Programa Estatal. El Programa Estatal de Protección Civil;
+
+XXXIV. Programa Interno de Protección Civil. Es un instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
+
+XXXV. Protección Civil. Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
+
+XXXVI. Reconstrucción. La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+
+XXXVII. Recuperación. Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+
+XXXVIII. Reducción de riesgos. Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+
+XXXIX. Refugio temporal. La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
+
+XL. Rescate. El operativo de emergencia en zonas afectadas por un desastre, consistente en el retiro y traslado de víctimas bajo soporte vital básico, desde el foco de peligro hasta la unidad asistencial que ofrezca atenciones y cuidados de mayor alcance;
+
+XLI. Resiliencia. Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+
+XLII. Riesgo. Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+
+XLIII. Riesgo inminente. Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+
+XLIV. Secretaría. La Secretaría de Gobierno;
+
+XLV. Seguro. Instrumento de Administración y Transferencia de Riesgos;
+
+XLVI. Simulacro. Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+
+XLVII. Sistema. El Sistema Estatal de Protección Civil;
+
+XLVIII. Siniestro. Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+
+XLIX. Subsecretaría. La Subsecretaría de Protección Civil de la Secretaría de Gobierno;
+
+L. Unidad Interna de Protección Civil. El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+
+LI. Unidades Municipales de Protección Civil. Los organismos de la administración pública de los municipios, encargados de la organización, coordinación y operación del Sistema Estatal de Protección Civil, en su demarcación territorial;
+
+LII. Vulnerabilidad. Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+
+LIII. Zona de desastre. Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad;
+
+LIV. Zona de Riesgo. Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+
+LV. Zona de riesgo grave. Asentamiento humano que se encuentra dentro de una zona en peligro de sufrir un daño originado por un posible fenómeno perturbador, con consecuencias perjudiciales.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2011)</small>
 
@@ -201,9 +325,13 @@ XIII. Promover que en las instituciones educativas de todos los niveles, se impa
 
 XIV. Ordenar la elaboración, publicación e implementación de los planes de contingencia de disturbios en centros educativos y de salud; y
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XV. Promoverá el establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en el estado y los municipios.
+
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
 
-XV. Las demás que le confiera la presente ley y otras disposiciones aplicables.
+XVI. Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -241,11 +369,41 @@ V. Evaluar las situaciones de emergencias y desastres, la capacidad de respuesta
 
 VI. Coordinar y asumir el control de las acciones emprendidas por las instancias que integran el Sistema, excepto cuando los municipios se declaren capacitados para asumir el control de una emergencia o desastre, sin perjuicio de que el Estado preste el apoyo necesario;
 
-VII. Elaborar y actualizar el Atlas Estatal de Riesgos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+VII. Elaborar y actualizar el Atlas Estatal de Riesgos, así como verificar,_en términos de ley y en colaboración con las autoridades competentes, la elaboración y actualización de los atlas municipales de riesgo, y la certificación de competencias de sus integrantes y de las unidades municipales;
 
 VIII. Implementar y evaluar acciones de emergencia en las zonas que se establezcan, así como proveer las medidas necesarias para su operación;
 
-IX. Ordenar las visitas de inspección, supervisión y verificación a los establecimientos previstos en esta ley e imponer, en su caso, las medidas correctivas y sanciones que procedan;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE OCTUBRE DE 2017)</small>
+
+I (SIC). Ordenar actos de inspección, a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los Programas Internos de Protección Civil a cargo de los establecimientos, edificaciones o inmuebles siguientes:
+
+a) Edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, condominios, campamentos turísticos y centros vacacionales;
+
+b) Instituciones educativas de los sectores público o privado, en todos sus niveles;
+
+c) Centros comerciales, mercados, supermercados, bodegas, depósitos de cosas o mercaderías;
+
+d) Oficinas públicas estatales;
+
+e) Edificaciones para almacenamiento, distribución o expendio de hidrocarburos, otros combustibles y materiales peligrosos;
+
+f) Terminales y estaciones de ferrocarriles, de transporte de carga, de transporte de pasajeros urbanos y foráneos y aeropuertos;
+
+g) Guarderías, estancias infantiles y centros de desarrollo para infantes, albergues y casas de apoyo para personas con discapacidad o adultos mayores, de los sectores público, privado y social;
+
+h) Lienzos charros, circos o ferias eventuales;
+
+i) Maternidades, hospitales, centros médicos, clínicas y puestos de socorro, del sector privado;
+
+j) Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, hipódromos y velódromos, y
+
+k) Otros que por sus características y magnitud sean similares a los mencionados en los incisos anteriores, con un área mayor a mil quinientos metros cuadrados o que tengan una afluencia masiva de personas o representen un riesgo de daños para la población.
+
+Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XV del Artículo13 de esta ley, compartan o estén ubicados dentro de una misma unidad de construcción, o concurran con alguno de los señalados en el presente artículo, la Subsecretaría será competente para realizar visitas de inspección a los mismos.
+
+Asimismo, la Subsecretaría será competente para inspeccionar a todos los establecimientos o edificaciones que se encuentren ubicados en un radio de quinientos metros a partir de las edificaciones a que se refiere el inciso e) de esta fracción.
 
 X. Auxiliar, previa solicitud de los ayuntamientos, en las acciones que realicen para la atención de emergencias y desastres;
 
@@ -271,7 +429,9 @@ XX. Informar y orientar oportunamente a la población sobre los riesgos y la imp
 
 XXI. Solicitar la colaboración de los medios de comunicación social, a efecto de divulgar información dirigida a la población en las acciones de protección civil;
 
-XXII. Expedir constancia de factibilidad en materia de protección civil para la instalación de los establecimientos que, por su funcionamiento o naturaleza representen riesgos para la población, siendo requisito indispensable previo para que los ayuntamientos otorguen la licencia de funcionamiento y demás trámites análogos de competencia municipal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXII. Expedir constancia de factibilidad en materia de protección civil para la construcción de edificaciones e instalación de los establecimientos de tipo 3 Grande y 4 Compleja que dispone el artículo 7 del Reglamento de Construcciones para el Estado (sic) Coahuila de Zaragoza, y las que por su funcionamiento o naturaleza representen riesgos para la población, siendo requisito indispensable previo para que los ayuntamientos otorguen la licencia de construcción y de funcionamiento y demás trámites análogos de competencia municipal;
 
 XXIII. Promover y mantener el registro de empresas, consultorías y de las personas físicas que se dediquen a prestar servicios en la materia, previo cumplimiento de los requisitos que para tal efecto se establezcan en el reglamento de esta ley y otras disposiciones aplicables;
 
@@ -287,17 +447,37 @@ XXVIII. Expedir las autorizaciones para el funcionamiento de los grupos voluntar
 
 XXIX. Expedir, previa solicitud, copias certificadas de los documentos que obren en poder de la Subsecretaría, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-XXX. En coordinación con la Fiscalía General del Estado y demás autoridades competentes, emitir y difundir los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
+XXX. En coordinación con la Procuraduría General de Justicia del Estado y demás autoridades competentes, emitir y difundir los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
 
 XXXI. Vigilar y verificar la implementación de los planes de contingencia de disturbios en centros educativos y de salud; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-XXXII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+XXXII. Solicitar apoyo a los municipios en las labores de inspección y vigilancia;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXXIII. Emitir opinión respecto al uso de establecimientos para lo cual valorará la ubicación del mismo y el giro o actividad que se pretenda realizar en él;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXXIV. Revisar por sí mismo o a través de terceros, las condiciones estructurales, eléctricas, de gas y otras que se requieran de los establecimientos señalados en la fracción IX del presente artículo que, por su funcionamiento o naturaleza representen riesgos para la población;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXXV. Autorizar el inicio y/o reinicio de operaciones de establecimientos, ya sean personas físicas o morales cuya actividad preponderante involucre el manejo de materiales peligrosos;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXXVI. Verificar que las personas físicas o morales, cuya actividad sea la fabricación y/o comercio y/o transportación y/o almacenamiento de artilugios de pirotecnia cuenten con los permisos y autorizaciones establecidos en las leyes y reglamentos, así como con las medidas de seguridad y de protección civil necesarias para la realización de dichas actividades; y en su caso, aplicar las medidas preventivas y/o sanciones, que se consideren adecuadas; y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XXXVII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -313,7 +493,7 @@ IV. Proporcionar a la Subsecretaría la información que le sea requerida para l
 
 V. Identificar y diagnosticar los riesgos a los que está expuesto el municipio y autorizar el Atlas Municipal de Riesgos;
 
-VI Participar en el Sistema y asegurar la congruencia de los programas municipales con el Plan y Programa Estatal, haciendo las propuestas que estimen pertinentes;
+VI. Participar en el Sistema y asegurar la congruencia de los programas municipales con el Plan y Programa Estatal, haciendo las propuestas que estimen pertinentes;
 
 VII. Crear fondos para la prevención y atención de emergencias o desastres en el municipio, de acuerdo a su disponibilidad presupuestal;
 
@@ -331,9 +511,57 @@ XIII. Integrar en los reglamentos de desarrollo urbano, construcción y demás r
 
 XIV. Promover la capacitación de los habitantes del municipio en materia de protección civil, así como proporcionar información y asesoría a los grupos de vecinos, para elaborar programas específicos e integrar unidades internas de protección civil;
 
-XV. Ordenar las visitas de inspección, supervisión y verificación a los establecimientos previstos en esta ley e imponer, en su caso, las medidas correctivas y sanciones que procedan, en el ámbito de su competencia, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-XVI. Las demás que les confiera esta ley y otras disposiciones aplicables.
+XV. Ordenar actos de inspección, para constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los Programas Internos de Protección Civil a cargo de propietarios, poseedores o encargados de los establecimientos, edificaciones o inmuebles siguientes:
+
+a) Edificios departamentales de hasta cuatro unidades de vivienda;
+
+b) Internados o casas de asistencia que sirvan como habitación colectiva para un número de hasta veinte personas;
+
+c) Dispensarios y consultorios médicos y capillas de velación;
+
+d) Rastros de semovientes, aves y empacadoras;
+
+e) Estacionamientos;
+
+f) Establecimientos, edificaciones o inmuebles que tengan hasta mil quinientos metros cuadrados de construcción, que conforme a esta ley no sean competencia del estado;
+
+g) Parques, plazas, centros o clubes sociales o deportivos y balnearios;
+
+h) Centros nocturnos, discotecas o salones de baile;
+
+i) Museos, galerías de arte, centros de exposición, salas de conferencias y bibliotecas;
+
+j) Templos y demás edificios destinados al culto;
+
+k) Tiendas departamentales;
+
+l) Oficinas públicas municipales;
+
+m) Industrias, talleres o bodegas;
+
+n) Granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
+
+ñ) Centrales de correos, teléfonos, telégrafos, estaciones y torres de radio, televisión y sistemas de microondas, y
+
+o) Aquellos en los que la Subsecretaría le solicite apoyo al municipio en tareas de inspección.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XVI. Ser la primera autoridad respondiente ante la presencia de un agente perturbador;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XVII. Expedir constancia de factibilidad en materia de protección civil para la construcción de edificaciones e instalación de los establecimientos de tipo 2 Mediana que establece el artículo 7 del Reglamento de Construcciones para el Estado Coahuila de Zaragoza, y las que por su funcionamiento o naturaleza representen riesgos para la población, siendo requisito indispensable previo para que se otorgue la licencia de construcción y de funcionamiento y demás trámites análogos de competencia municipal;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XVIII. Supervisar y evaluar si los comerciantes, industriales y vendedores al menudeo y mayoreo de artilugios de pirotecnia cuentan con los permisos y autorizaciones establecidos en las leyes y reglamentos, y han implementado las medidas de seguridad y de protección civil necesarias para el manejo y almacenamiento de este tipo de productos; y en su caso, aplicar las sanciones, aseguramientos de mercancía y clausuras que se consideren adecuadas y proporcionales de acuerdo a la gravedad de la infracción; observando para ello el procedimiento legal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XIX. Las demás que les confiera esta ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 14.
 
@@ -349,9 +577,11 @@ Las autoridades de protección civil, así como aquellas que correspondan, en el
 
 Asimismo, verificarán que los establecimientos cumplan con lineamientos y criterios necesarios para hacer frente a disturbios que pudieran poner en riesgo a la población principalmente en los centros educativos y de salud.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 16.
 
-En caso de riesgo y sin perjuicio de la emisión de la declaratoria de emergencia o desastre correspondiente, las autoridades competentes ejecutarán las medidas de seguridad aplicables al caso concreto.
+En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de emergencia o desastre natural y de lo que establezcan otras disposiciones legales, las dependencias y entidades de la administración pública estatal y de los municipios ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y su entorno, para garantizar el funcionamiento de los servicios esenciales de la comunidad, informando en forma inmediata a las autoridades de protección civil correspondientes sobre las acciones emprendidas, quienes instalarán en los casos que se considere necesario y conforme a la normatividad aplicable, el centro de operaciones, como centro de comando y de coordinación de las acciones en el sitio.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -381,7 +611,7 @@ VI. En coordinación con las instancias correspondientes, el aseguramiento o, en
 
 VII. El desalojo y/o demolición total o parcial de casas, edificios, escuelas, zonas industriales y comerciales, así como de cualquier establecimiento o construcción pública o privada, incluidas puentes y vías generales de comunicación, en los términos y procedimientos que señale el reglamento de la presente ley.
 
-VIII La evacuación forzosa;
+VIII. La evacuación forzosa;
 
 IX. La implementación de acciones para la atención de refugios temporales;
 
@@ -395,9 +625,9 @@ XIII. Recomendación para el confinamiento de personas en sus domicilios o en si
 
 XIV. El condicionamiento y/o limitación del uso de servicios públicos y privados y el consumo de bienes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-XV. Informar en coordinación con la Fiscalía General del Estado, a las autoridades competentes en materia de educación, sobre la emisión de los avisos de suspensión de clases que sean necesarios en caso de disturbios; y
+XV. Informar en coordinación con la Procuraduría General de Justicia del Estado, a las autoridades competentes en materia de educación, sobre la emisión de los avisos de suspensión de clases que sean necesarios en caso de disturbios; y
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
 
@@ -425,15 +655,27 @@ Para la adopción y ejecución de las medidas de seguridad en casos de emergenci
 
 El Consejo Estatal y los consejos municipales realizarán campañas permanentes de capacitación a la población en materia de protección civil.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 944, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2017, PÁGINA 32.]</small>
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 22 A.- ... (sic)
+
+Todos los elementos operativos adscritos a las unidades de Protección civil y a los servicios de atención de emergencias, deberán contar con una capacitación básica común que les permita conocer el funcionamiento del Sistema Estatal de Protección Civil.
+
+Para ello, deberán efectuar un curso específico que será impartido por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil, el cual contendrá las materias que les permitan adquirir los conocimientos y aptitudes generales básicas, para ejercer sus funciones en las unidades de Protección Civil y en los servicios de atención de emergencias.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-El Consejo Estatal promoverá ante la Secretaría de Educación y Cultura, para que proporcione información y capacitación en materia de protección civil, en las instituciones de educación básica y media superior. Asimismo, fomentará este tipo de acciones en las instituciones de educación superior, en organizaciones sociales y grupos de vecinos.
+El Consejo Estatal promoverá ante la Secretaría de Educación para que proporcione información y capacitación en materia de protección civil, en las instituciones de educación básica y media superior. Asimismo, fomentará este tipo de acciones en las instituciones de educación superior, en organizaciones sociales y grupos de vecinos.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-La Secretaría de Educación y Cultura, en coordinación con la Subsecretaría, implementará en todas las escuelas de la entidad el Programa Estatal, así como el plan de contingencia de disturbios.
+La Secretaria de Educación, en coordinación con la Subsecretaría implementará en todas las escuelas de la entidad el Programa Estatal de Protección Civil, así como el plan de contingencia de disturbios.
 
 ### CAPÍTULO QUINTO. OBLIGACIONES DE LAS PERSONAS FÍSICAS Y MORALES EN MATERIA DE PROTECCIÓN CIVIL
 
@@ -451,57 +693,167 @@ III. Colaborar con las autoridades estatales y municipales para el debido cumpli
 
 IV. Participar, previa solicitud de la autoridad competente, en la difusión del Plan Estatal y los programas de protección civil, principalmente en aquellos relacionados con riesgos que se presenten en su barrio, colonia, zona o centro de población.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Las personas físicas y morales que desarrollen cualquier actividad que implique un riesgo a las personas, sus bienes o al medio ambiente tendrán las siguientes obligaciones:
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles, que por su uso y destino tengan una concentración masiva de personas, así como aquellas personas físicas y morales que desarrollen cualquier actividad que implique un riesgo a las personas, sus bienes o al medio ambiente tendrán las siguientes obligaciones:
 
-I. Elaborar y presentar ante las autoridades competentes y a más tardar dentro de los quince días posteriores al inicio de sus actividades los programas de prevención de accidentes internos y externos, conforme a las disposiciones que establezcan los ordenamientos aplicables;
+I. Capacitar a su personal en materia de protección civil;
 
-II. Elaborar y presentar anualmente, dentro de los dos primeros meses del año de que se trate y ante la Subsecretaría, la autodeclaratoria de cumplimiento de obligaciones en materia de protección civil.
+II. Practicar simulacros cuando menos una vez cada seis meses.
 
-El formato y contenido de la autodeclaratoria estará previsto en el reglamento de esta ley;
+Las personas así como las autoridades que participen en la realización de simulacros, deberán dar aviso inmediato a las autoridades de protección civil competentes de las deficiencias, irregularidades, fallas u omisiones que se detectaren con motivo de la práctica de dichos simulacros.
 
-III. Formular las acciones de protección civil, de contingencias, simulacros, rutas de evacuación y demás que sean necesarias para la prevención de situaciones de riesgo, así como aquellos que conforme a las disposiciones aplicables, les requieran para tal efecto las autoridades competentes;
+En las estancias, guarderías e instituciones de educación básica y media superior, deberán realizarse los simulacros al menos tres veces al año y bajo condiciones que repliquen las situaciones presentes durante las operaciones ordinarias de esos establecimientos, bajo la supervisión de la autoridad competente. En los simulacros a que se refiere este párrafo, participarán los padres de familia de las citadas instituciones.
 
-IV. Permitir a las autoridades en materia de protección civil el acceso a sus instalaciones, a efecto de que practiquen las actividades de inspección, supervisión y verificación que establecen la presente ley y otras disposiciones aplicables;
+III. Ejecutar de inmediato las medidas correctivas o de seguridad que determine la autoridad competente;
 
-V. Observar y, en su caso, aplicar las normas técnicas y demás medidas de prevención y protección civil que legalmente procedan;
+IV. Orientar a los usuarios del establecimiento, edificación o inmueble sobre los métodos y las acciones para evitar o minimizar los daños, en caso de que se presenten riesgos, emergencias, siniestros o desastres;
 
-VI. Establecer y organizar las unidades internas de protección civil que se requieran para la prevención de accidentes, así como para responder ante la eventualidad de una emergencia o desastre;
+V. Contar con un seguro de responsabilidad civil por daños a terceros;
 
-VII. Cumplir con las medidas correctivas y sanciones que establezcan las autoridades competentes, como resultado de la inspección, supervisión y verificación que se realice en las instalaciones y procesos correspondientes;
+VI. Contar con una unidad interna de protección civil y a elaborar un Programa Interno de Protección Civil, en los términos de esta ley y su reglamento. Dicho programa deberá ser presentado ante las autoridades de protección civil que corresponda, para su revisión y aprobación, conforme a las atribuciones contempladas en los artículos 12 y 13 de esta ley, para su dictamen a más tardar dentro de los 15 días posteriores a su inicio de operaciones.
 
-VIII. Proporcionar la información que les sea requerida por las autoridades competentes para la integración de planes y programas tendientes a la prevención de desastres;
+El programa interno de protección civil se presentará ya sea por inicio de operaciones o por haber omitido presentar la autodeclaratoria de cumplimiento de obligaciones anualmente;
 
-IX. Prestar apoyo en caso de desastre en cualquier parte del Estado, cuando así se les requiera por parte de las autoridades de protección civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos, y
+VII. Elaborar y presentar anualmente ante las autoridades de protección civil que corresponda, la autodeclaratoria de cumplimiento de obligaciones en materia de protección civil, para su revisión y aprobación.
 
-X. Las demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
+El visto bueno o aprobación de la autodeclaratoria tendrá una vigencia de un año a partir de la fecha de su emisión;
+
+VIII. Permitir a las autoridades en materia de protección civil el acceso a sus instalaciones, a efecto de que practiquen las actividades de inspección, supervisión y verificación que establecen la presente ley y otras disposiciones aplicables;
+
+IX. Observar y, en su caso, aplicar las normas oficiales mexicanas, normas técnicas y demás medidas de prevención y protección civil que legalmente procedan;
+
+X. Cumplir con las medidas correctivas y sanciones que establezcan las autoridades competentes, como resultado de la inspección, supervisión, verificación y revisión documental que se realice en las instalaciones y procesos correspondientes;
+
+XI. Proporcionar la información que les sea requerida por las autoridades competentes para la integración de planes y programas tendientes a la prevención de desastres;
+
+XII. Prestar apoyo en caso de desastre en cualquier parte del estado, cuando así se les requiera por parte de las autoridades de protección civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos,
+
+XIII. Dar aviso a la autoridad en caso que interrumpa o deje de realizar las actividades por las cuales está obligado a cumplir con la normatividad en materia de protección civil;
+
+XIV. Dar aviso a la autoridad en caso de realizar un cambio de actividad o giro, y presentar el programa de protección civil correspondiente al nuevo giro o actividad;
+
+XV. Dar aviso a la autoridad en caso de realizar un cambio de domicilio, nombre o razón social, y presentar el programa de protección civil correspondiente al nuevo domicilio, nombre o razón social; y
+
+XVI. Las demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-Los programas de prevención de accidentes de nivel interno que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el artículo anterior, contendrán cuando menos los siguientes aspectos:
+Los programas de protección civil de nivel interno que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el artículo anterior, contendrán cuando menos los siguientes aspectos:
 
-I. La organización para la prevención de accidentes en la empresa, planta o establecimiento de que se trate;
+A. Contenido:
 
-II. La descripción de los equipos y servicios de emergencia con que cuenten a nivel interno;
+I. Plan operativo para la implementación de las unidades internas de protección civil:
 
-III. El plan de emergencia en que se determinen los procedimientos de respuesta ante la presencia de desastres;
+a) Subprograma de Prevención:
 
-IV. La descripción de los sistemas de comunicación y alarma, con que cuenten incluyendo los canales de comunicación, claves, señales y mensajes concretos;
+1. Organización;
 
-V. Los procedimientos para el retomo a condiciones normales de operación y de recuperación una vez declarada la conclusión de la emergencia;
+2. Calendario de actividades;
 
-VI. Los programas y constancias de capacitación y entrenamiento, dirigidos a personal de la empresa, planta o establecimiento;
+3. Directorios e inventarios;
 
-VII. El programa de simulacros en el que participe exclusivamente el personal correspondiente;
+4. Identificación de Riesgos y su evaluación;
 
-VIII. La actualización del programa para la prevención de accidentes de nivel interno, y
+5. Señalización;
 
-IX. Los demás que determinen la presente Ley, su reglamento, las autoridades competentes y otras disposiciones aplicables.
+6. Mantenimiento preventivo y correctivo;
+
+7. Medidas y equipos de seguridad;
+
+8. Equipo de identificación;
+
+9. Capacitación;
+
+10. Difusión y concientización, y
+
+11. Ejercicios y Simulacros;
+
+b) Subprograma de Auxilio:
+
+1. Procedimientos de Emergencia.
+
+c) Subprograma de Recuperación:
+
+1. Evaluación de daños, y
+
+2. Vuelta a la normalidad.
+
+II. Plan de Contingencias:
+
+a) Evaluación Inicial de Riesgo de cada puesto de trabajo;
+
+b) Valoración del Riesgo;
+
+c) Medidas y acciones de Autoprotección, y
+
+d) Difusión y socialización.
+
+III. Plan de Continuidad de Operaciones:
+
+a) Fundamento legal;
+
+b) Propósito;
+
+c) Funciones críticas o esenciales;
+
+d) Sedes alternas;
+
+e) Línea de sucesión o cadena de mando;
+
+f) Recursos humanos;
+
+g) Dependencias e interdependencias;
+
+h) Requerimientos mínimos;
+
+i) Interoperabilidad de las comunicaciones;
+
+j) Protección y respaldo de la información y bases de datos, y
+
+k) Activación del plan.
+
+B. Especificaciones:
+
+I. Constar por escrito;
+
+II. Estar redactado y firmado por personal competente, facultado y capacitado para dictaminar sobre aquellos aspectos relacionados con la prevención y autoprotección frente a los riesgos a los que esté sujeta la actividad, y por el titular de la actividad, si es una persona física, o por el representante legal si es una persona moral;
+
+III. Aplicación de un programa anual de auto-verificación, que garantice la inspección y supervisión de su implementación;
+
+IV. Considerar el aprovisionamiento de los medios y recursos que se precisen para su aplicabilidad;
+
+V. Evaluación del Programa Interno de Protección Civil para asegurar su eficacia y operatividad en situaciones de emergencia, para lo cual se realizarán ejercicios de simulacro, con distintas hipótesis de riesgo y con la periodicidad mínima que fije el propio programa y, en todo caso, al menos dos veces al año;
+
+VI. La realización de simulacros tendrá como objetivos la verificación y comprobación de:
+
+a) La eficacia de la organización de respuesta ante una emergencia;
+
+b) La capacitación del personal adscrito a la organización de respuesta;
+
+c) El entrenamiento de todo el personal de la actividad en la respuesta frente a una emergencia;
+
+d) La suficiencia e idoneidad de los medios y recursos asignados, y
+
+e) La adecuación de los procedimientos de actuación;
+
+VII. Los simulacros implicarán la activación total o parcial de las acciones contenidas en los procedimientos de emergencia, planes de contingencia y plan de continuidad de operaciones contenidos en el Programa Interno de Protección Civil;
+
+VIII. De las actividades de seguimiento y mejora del Programa Interno de Protección Civil, se conservará la evidencia documental, así como de los informes de evaluación, verificación o inspección realizados, debidamente suscritos por el responsable del Programa;
+
+IX. Los componentes del Programa Interno deberán ajustarse a las condiciones de riesgo existentes en cada inmueble y, en su caso, deberán incorporarse las medidas de seguridad necesarias para los factores de riesgo identificados en cada inmueble, sin perjuicio del cumplimiento de las disposiciones locales correspondientes en materia de Protección Civil.
+
+En los establecimientos que lo requieran, deberá presentarse dictámenes eléctricos, de gas y estructurales emitidos por peritos que estén registrados ante la subsecretaría.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-Los programas de prevención de accidentes de nivel externo que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el artículo 26, contendrán cuando menos los siguientes aspectos:
+Los programas de protección civil de nivel externo que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el artículo 26, contendrán cuando menos los siguientes aspectos:
 
 I. La organización local para la prevención de accidentes en la que participará la empresa, planta o establecimiento, para coordinar las actividades relacionadas con el nivel externo;
 
@@ -519,7 +871,9 @@ VII. Los programas de simulacros en los que participen autoridades, organismos, 
 
 VIII. La orientación necesaria para la prevención y acciones en caso de desastres dirigido a la comunidad local;
 
-IX. La actualización del programa para la prevención de accidentes de nivel externo, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+IX. La actualización del programa de protección civil de nivel externo, y
 
 X. Los demás que determinen la presente Ley, su reglamento, las autoridades competentes y otras disposiciones aplicables.
 
@@ -541,25 +895,51 @@ Para la elaboración de este programa, las personas a que se refiere este artíc
 
 Los establecimientos en los que haya afluencia del público, en coordinación con las autoridades competentes, deberán practicar simulacros de protección civil cuando menos dos veces al año. Asimismo deberán hacer del conocimiento de la Subsecretaría la fecha y hora en que aquellos se llevarán a cabo.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
-Las personas que pretendan construir un inmueble, deberán presentar un diagnóstico de riesgo en materia de protección civil a la Subsecretaria o al ayuntamiento según corresponda, para la expedición de la constancia de factibilidad en materia de protección civil. Los ayuntamientos no podrán expedir las licencias de construcción sin que previamente se acredite esta autorización.
+Las personas que pretendan construir, reconstruir, modificar o remodelar un inmueble, torres, antenas, estructuras soportantes de anuncios espectaculares e instalaciones similares, conforme a la clasificación que establece el artículo 7 del Reglamento de Construcciones para el Estado Coahuila de Zaragoza, deberán presentar un diagnóstico de riesgo en materia de protección civil a la Subsecretaria o al ayuntamiento según las atribuciones contempladas en los artículos 12 y 13 de esta ley, para la expedición de la constancia de factibilidad en materia de protección civil. Los ayuntamientos no podrán expedir las licencias de construcción sin que previamente se acredite esta autorización.
+
+La autorización de licencias de construcción u otros de naturaleza análoga, por parte de servidores públicos, que no cuenten con la aprobación de factibilidad correspondiente, se considerará una conducta grave, la cual se sancionará de acuerdo con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 33.
 
 La vivienda plurifamiliar, conjuntos habitacionales y demás edificaciones, excepto casas habitación unifamiliares, están obligados a elaborar e implementar un programa interno de protección civil. Asimismo deberán colocar, en lugares visibles, señalización adecuada y la información para casos de emergencia o desastre, en las que se indiquen las zonas de seguridad y rutas de evacuación que deberán tener.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 33 A.- Los hoteles, moteles y demás establecimientos en los que se brinde alojamiento temporal a personas y cuenten con cocheras cerradas adjuntas a las habitaciones, deberán de implementar las siguientes medidas de prevención en materia de protección civil:
+
+I. Instalar detectores de monóxido de carbono y extractores de humo en las cocheras cerradas adjuntas a las habitaciones;
+
+II. Colocar en lugares visibles señalización en donde se advierta que se debe apagar el motor del vehículo debido a que puede causar muerte por inhalación de monóxido de carbono; y
+
+III. Verificar que los vehículos estacionados en el interior de las cocheras cerradas adjuntas a las habitaciones estén completamente apagados.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 34.
 
-Las empresas, sean industriales, comerciales o de servicios deberán dar capacitación a su personal en materia de protección civil y dotarlos del equipo de respuesta necesario. Asimismo, deberán implementar las unidades internas de protección civil en los casos que determine la autoridad competente y estar provistas de sistemas contra incendios en óptimas condiciones para su uso.
+Las empresas, sean industriales, comerciales o de servicios deberán dar capacitación a su personal en materia de protección civil, dotarlos del equipo de respuesta necesario, y estar provistas de sistemas contra incendios en óptimas condiciones para su uso. Asimismo, deberán contar con unidades internas de protección civil, responsables de la aplicación de los programas de prevención de accidentes, fungiendo como enlace de la Subsecretaria para la atención de desastres o emergencias.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 35.
 
-Las empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil, deberán obtener su registro ante la Subsecretaría.
+Las empresas, consultorías y personas físicas que pretendan ejercer la actividad de asesoría, capacitación, evaluación, elaboración de programas de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil, deberán contar con el registro expedido por la Subsecretaría, conforme a los lineamientos que se emitan.
+
+El registro será obligatorio y permitirá a las empresas, consultorías y personas físicas referidas en el párrafo anterior, emitir la carta de corresponsabilidad que se requiera para la aprobación de los programas de protección civil.
+
+El registro tendrá validez estatal y la Subsecretaría será la única autoridad facultada para expedirlo.
 
 ###### ARTÍCULO 36.
 
 Los promotores, organizadores o responsables de la realización de eventos o espectáculos públicos de afluencia masiva, en áreas o inmuebles diferentes a su uso habitual deberán, previa a su realización, presentar a la autoridad municipal correspondiente un programa especial de protección civil acorde a las características de tales eventos o espectáculos, haciéndolo del conocimiento de la Subsecretaria. El contenido de este programa estará previsto en las disposiciones reglamentarias que para tal efecto se emitan. Lo anterior, sin perjuicio del cumplimiento de las disposiciones de carácter municipal a que deban sujetarse.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+Asimismo, deberán orientar a los asistentes de manera escrita, visual y sonora, al comienzo de la celebración de cada evento público, sobre las medidas de seguridad en materia de protección civil con las que cuenta el establecimiento o lugar, así como informar sobre la señalización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir, en caso de que suceda una emergencia, siniestro o contingencia.
 
 ###### ARTÍCULO 37.
 
@@ -599,9 +979,13 @@ En este plan se organizarán y detallarán los objetivos, metas y acciones a eje
 
 El Plan Estatal atenderá, en congruencia con el Plan Estatal de Desarrollo, a las necesidades de tipo regional, sectorial o especial que se determinen en materia de Protección Civil.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 45.
 
-Los programas estatal y municipales de protección civil se integran por el conjunto de políticas, estrategias y lineamientos que regulan las acciones de los sectores público, privado y social en materia de protección civil.
+Los programas estatales y municipales de protección civil se integran por el conjunto de políticas, estrategias y lineamientos que regulan las acciones de los sectores público, privado y social en materia de protección civil.
+
+En la elaboración de los programas de protección civil deberán considerarse las líneas generales que establezca el Programa Nacional, así como las etapas consideradas en la Gestión Integral de Riesgos y conforme lo que establezca la normatividad local en materia de planeación.
 
 ###### ARTÍCULO 46.
 
@@ -635,9 +1019,33 @@ XIII. Los criterios para el mantenimiento, revisión y actualización del progra
 
 El contenido de los subprogramas y demás disposiciones de carácter específico que deban incluir los programas, estará previsto en las disposiciones reglamentarias estatales y municipales que para tal efecto se emitan.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 47.
 
-En el caso de que se identifiquen riesgos que puedan afectar de manera grave a la población de una determinada localidad o región, la Subsecretaría, en coordinación con el municipio o municipios correspondientes podrán elaborar programas especiales de protección civil.
+En el caso de que se identifiquen riesgos que puedan afectar de manera grave a la población de una determinada localidad o región, la Subsecretaría, en coordinación con el municipio o municipios correspondientes podrán elaborar programas específicos de protección civil.
+
+Los programas específicos de protección civil son el instrumento de planeación y operación que se implementa con la participación corresponsable de diversas dependencias e instituciones, ante un peligro o riesgo específico derivado de un agente perturbador en un área o región determinada, que involucran a grupos de población específicos y vulnerables, y que por las características previsibles de los mismos, permiten un tiempo adecuado de planeación, con base en las etapas consideradas en la Gestión Integral de Riesgos.
+
+Es responsabilidad del Gobierno del Estado conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes e infraestructura de sus municipios.
+
+Para el cumplimiento de esta obligación podrán solicitar que los instrumentos de administración y transferencia de riesgos que contraten sean complementados con los instrumentos financieros de gestión de riesgos federales conforme a lo establecido en los lineamientos que para tal efecto se emitan.
+
+La Gestión Integral de Riesgos considera, entre otras, las siguientes fases anticipadas a la ocurrencia de un agente perturbador:
+
+I. Conocimiento del origen y naturaleza de los riesgos, además de los procesos de construcción social de los mismos;
+
+II. Identificación de peligros, vulnerabilidades y riesgos, así como sus escenarios;
+
+III. Análisis y evaluación de los posibles efectos;
+
+IV. Revisión de controles para la mitigación del impacto;
+
+V. Acciones y mecanismos para la prevención y mitigación de riesgos;
+
+VI. Desarrollo de una mayor comprensión y concientización de los riesgos, y
+
+VII. Fortalecimiento de la resiliencia de la sociedad.
 
 ###### ARTÍCULO 48.
 
@@ -650,6 +1058,10 @@ Estos documentos deberán estar a disposición de la población en los medios de
 ###### ARTÍCULO 49.
 
 Se establece el Sistema Estatal de Protección Civil en el Estado de Coahuila, como mecanismo de vinculación y coordinación de las diversas instancias gubernamentales y de los órganos correspondientes, encaminadas al aseguramiento de la aplicación de las medidas y acciones en materia de protección civil en la Entidad.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+El objetivo general del Sistema es el de proteger a las personas y a la sociedad y su entorno ante la eventualidad de los riesgos y peligros que representan los agentes perturbadores y la vulnerabilidad en el corto, mediano o largo plazo, provocada por fenómenos naturales o antropogénicos, a través de la (sic) de riesgos y el fomento de la capacidad de adaptación, auxilio y restablecimiento en la población.
 
 ###### ARTÍCULO 50.
 
@@ -674,6 +1086,14 @@ En cada uno de los municipios del Estado deberán establecerse sistemas municipa
 ###### ARTÍCULO 52.
 
 Los Sistemas Estatal y municipales identificarán los principales riesgos a que está expuesta la población de la Entidad o municipio según corresponda, analizarán e instrumentarán las medidas necesarias para prevenir su ocurrencia y mitigar los efectos sobre sus habitantes.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+Las políticas, lineamientos y acciones de coordinación entre el estado y los municipios se llevarán de acuerdo a lo establecido en la presente ley y en las demás aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+El estado y los municipios podrán brindarse apoyo en las labores de inspección y verificación de establecimientos de su competencia, previa solicitud que se haga del mismo.
 
 ###### ARTÍCULO 53.
 
@@ -889,7 +1309,9 @@ XI. Diseñar e implementar planes y programas para la protección de las persona
 
 XII. Realizar, en la esfera de su competencia o, en su caso, en coordinación con las instancias correspondientes, visitas de inspección, supervisión y verificación a los establecimientos, lugares o áreas clasificadas como potencialmente de riesgo;
 
-XIII. Elaborar y proponer al Presidente Municipal el Atlas Municipal de Riesgos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+XIII. Elaborar y presentar ante el Presidente Municipal el Atlas de Riesgos Municipal, y en su caso, asesorar a los ayuntamientos en la integración de los Sistemas Municipales de Protección Civil;
 
 XIV. Aplicar, en el ámbito de su competencia, las medidas correctivas y sanciones que, por infracciones a esta ley y demás disposiciones aplicables, correspondan, y
 
@@ -945,11 +1367,45 @@ V. Participar en los programas de capacitación a la población implementados po
 
 VI. Las demás que les asignen esta ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 76 A.- Los Comités Locales de Ayuda Mutua son organismos integrados por el sector público, privado y social, a fin de establecer políticas de programación, planeación y aplicación de estrategias en materia de Protección Civil, con la finalidad de salvaguardar la integridad física de los empleados, recursos materiales y de la comunidad en general.
+
+Toda empresa, institución, organización o comercio podrán constituir comités locales de ayuda mutua, siempre que se encuentren asentados en un complejo industrial, comercial, educativo o de servicios los cuales deberán registrarse ante la Subsecretaría, bajo la coordinación que la misma establezca y a su vez, notificar dicho registro ante las unidades de protección civil del municipio correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 76 B.- Los Comités Locales de Ayuda Mutua se integrarán en la forma en que sus participantes lo decidan, pero en todo caso deberán contar con un representante de cada una de las industrias, comercios o instituciones que conforman el grupo, un representante de la unidad municipal de protección civil correspondiente y un representante de la Subsecretaria de Protección Civil. Los Comités Locales de Ayuda Mutua tendrán las siguientes funciones:
+
+I. Establecer medidas generales de seguridad, así como programas internos y externos de protección civil; que deberán ser hechos del conocimiento de (sic) Subsecretaría;
+
+II. Recibir capacitación en los términos enunciados por la presente ley;
+
+III. Comunicar a las autoridades la presencia de una situación de probable o inminente riesgo;
+
+IV. Coordinarse bajo el mando de las autoridades en caso de un riesgo, emergencia o desastre;
+
+V. Proporcionar información sobre los productos químicos empleados en procesos de producción;
+
+VI. Aprovechar la sinergia que resulta del trabajo conjunto, para ampliar la infraestructura disponible y la capacidad de respuesta;
+
+VII. Establecer o renovar los planes de respuesta a emergencias;
+
+VII (SIC). Cooperar en la planeación de emergencias en la comunidad y ayudar en la elaboración de los planes de las empresas integradas al comité;
+
+IX. Involucrar a la comunidad en la planeación de emergencias, y
+
+X. Realizar simulacros con la participación de autoridades de protección civil, los cuerpos (sic) emergencia y la comunidad.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 77.
 
-Los peritos, instructores independientes, empresas capacitadoras y consultoras que realicen actividades vinculadas a la materia de protección civil, podrán realizar peritajes a solicitud de la Subsecretaría o de las unidades municipales de protección civil, siempre que cuenten con la autorización correspondiente.
+Los peritos, instructores independientes, prestadores de servicios o terceros acreditados que realicen actividades vinculadas a la materia de protección civil, que cuenten con el registro correspondiente deberán prestar a manera de servicio social, asistencia a la Subsecretaria en caso de así requerirlo.
 
-La autorización deberá solicitarse ante la Subsecretaría, la que podrá realizar visitas de verificación para corroborar su existencia, debiendo dar respuesta a la solicitud en un plazo máximo de quince días hábiles contados a partir de la presentación de la solicitud. El registro obtenido tendrá vigencia de dos años.
+La Subsecretaría podrá realizar verificación documental y visitas para corroborar la preparación profesional del solicitante a prestador de servicios en materia de protección civil.
+
+El registro obtenido tendrá vigencia de un año.
 
 ###### ARTÍCULO 78.
 
@@ -957,9 +1413,13 @@ Las universidades e instituciones de educación superior y los colegios y asocia
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA INSPECCIÓN, SUPERVISIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 79.
 
-La inspección, supervisión y verificación del cumplimiento de las disposiciones previstas en esta ley y demás en materia de protección civil de competencia estatal y municipal, se llevarán a cabo en el ámbito de sus respectivas competencias, por la Subsecretaría y por los ayuntamientos, así como en su caso, por las autoridades federales en coordinación con las autoridades en el Estado, previa solicitud de la Subsecretaría.
+La Subsecretaría y los ayuntamientos, en el ámbito de su respectiva competencia, realizarán visitas de verificación a los establecimientos, a fin de verificar el cumplimiento de las disposiciones contenidas en la ley, su reglamento, normas técnicas y términos de referencia que deriven de las mismas, relativas al establecimiento de Unidades Internas, a la formulación y aplicación de los Programas de Protección Civil y a los diagnósticos de riesgo.
+
+Las visitas podrán ser ordinarias o extraordinarias, las primeras se efectuarán en días y horas hábiles, mientras que las segundas en cualquier tiempo.
 
 ###### ARTÍCULO 80.
 
@@ -1035,9 +1495,9 @@ Corresponde a la Subsecretaría y a las unidades municipales de protección civi
 
 Son infracciones a esta ley:
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-l. Abstenerse de presentar ante la Subsecretaría, los programas de prevención de accidentes, internos y externos correspondientes, así como los planes de contingencia de disturbios;
+I. Abstenerse de presentar ante la Subsecretaría, los programas de protección civil correspondientes, así como los planes de contingencia de disturbios;
 
 II. Abstenerse de presentar, en tiempo y forma, las autodeclaratorias de cumplimiento de obligaciones en materia de protección civil;
 
@@ -1093,19 +1553,23 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. La reincidencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 96.
 
-El monto de la multa podrá ser desde veinte hasta cuatro mil ochocientas veces el salario mínimo general vigente en la Entidad, atendiendo a las consideraciones previstas en el artículo anterior.
+El monto de la multa podrá ser desde veinte hasta seis mil ochocientas Unidades de Medida y Actualización del Estado de Coahuila de Zaragoza, atendiendo a las consideraciones previstas en el artículo anterior.
 
 En caso de reincidencia la autoridad competente podrá duplicar la multa, sin perjuicio de la responsabilidad en que incurra el infractor. Se incurre en reincidencia cuando la misma persona cometa dos o más veces la misma infracción durante un período de seis meses, salvo disposición en contrario en esta ley.
 
 Las multas se liquidarán por los infractores en las unidades administrativas, instituciones financieras y/o establecimientos autorizados, ubicadas en los municipios de la entidad, o en las Tesorerías de los mismos, según corresponda, en un plazo que no excederá de diez días, contado a partir de la fecha en que se haya practicado la notificación correspondiente; en caso de incumplimiento, el importe de la multa se considerará crédito fiscal por lo que la autoridad fiscal estatal o municipal podrán hacer uso de los procedimientos que correspondan conforme a las disposiciones fiscales aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 97.
 
-Las multas que se impongan por concepto de violación a lo previsto en la presente ley, podrán ser sustituidas por inversiones equivalentes en la adquisición e instalación de equipos que tengan por objeto evitar mayores daños o atenuar lo que se hubiesen cometido, así como la aportación de bienes en especie que contribuyan a reparar el daño cometido o a la prestación de mejores servicios por parte de la autoridad, siempre y cuando se garanticen las obligaciones a que se sujetará el infractor.
+Las multas impuestas por la Subsecretaría, por concepto de violación a lo previsto en la presente ley, podrán ser sustituidas por la aportación de bienes en especie que contribuyan a la prestación de mejores servicios por parte de la autoridad.
 
-La sustitución a que se refiere este artículo sólo procederá previa solicitud escrita del infractor y una vez que se haya celebrado el convenio correspondiente con la autoridad que impuso la multa.
+La sustitución a que se refiere este artículo sólo procederá previa solicitud del infractor y una vez que la autoridad haya determinado los bienes o servicios que requiera y celebrado el convenio correspondiente.
 
 ###### ARTÍCULO 98.
 
@@ -1252,3 +1716,11 @@ P.O. 18 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 944.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
