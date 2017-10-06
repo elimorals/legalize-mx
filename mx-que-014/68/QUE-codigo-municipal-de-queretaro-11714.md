@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2017-09-22"
+last_updated: "2017-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,19 +23,17 @@ state: "QUE"
 ---
 # CODIGO MUNICIPAL DE QUERETARO
 
-REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL C. GOBERNADOR DEL ESTADO DE AGUASCALIENTES
+CÓDIGO MUNICIPAL DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
 
-Reglamento publicado en la Primera Sección del Periódico oficial del Estado de Aguascalientes, el lunes 5 de marzo de 2012.
+Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
-ING. CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, en ejercicio de la facultad que me confieren los artículos 46 Fracción I de la Constitución Política del Estado de Aguascalientes y 2°, 3°, 7°, 10 fracción IV, 11 fracciones II y IV de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, he tenido a bien expedir el Reglamento Interior de la Oficina del Despacho del Gobernador del Estado.
+Lic. Jesús Rodríguez Hernández, Presidente Constitucional del Municipio de Querétaro, a los habitantes del mismo, sabed que:
 
-C O N S I D E R A N D O:...
+El H. Ayuntamiento del Municipio de Querétaro en uso de las facultades que le confiere el artículo 86 de la Constitución Política del Estado, y
 
-Por lo anteriormente expuesto y con fundamento en las disposiciones legales señaladas, he tenido a bien expedir el siguiente:
-
-REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL C. GOBERNADOR DEL ESTADO.
+. . . .
 
 # LIBRO PRIMERO. DE LA ORGANIZACION DEL AYUNTAMIENTO Y ADMINISTRACION MUNICIPAL
 
@@ -45,755 +43,311 @@ DISPOSICIONES PARA LA INSTALACION ORGANIZACION Y FUNCIONAMIENTO DEL AYUNTAMIENTO
 
 ## TITULO PRIMERO. DE LA INSTALACION Y ORGANIZACION DEL AYUNTAMIENTO
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPITULO I. Disposiciones Generales
 
-###### ARTÍCULO 1°.
+###### ARTICULO 1.
 
-El presente Reglamento es de orden público y de interés general y tiene por objeto establecer la Estructura Orgánica de la Oficina del Despacho del C. Gobernador del Estado, así como regular su funcionamiento.
+Las disposiciones reglamentarias que contiene el presente Código, son de orden público, observancia general e interés social en todo el territorio del municipio de Querétaro, de conformidad con la Ley Orgánica Municipal.
 
-###### ARTÍCULO 2°.
+Es objeto de este apartado, establecer las bases de integración, organización y funcionamiento del Ayuntamiento de Querétaro.
 
-Para efectos del presente Reglamento, cuando se utilice el término "Oficina", se entenderá que se refiere a la Oficina del Despacho del C. Gobernador del Estado.
+###### ARTICULO 2.
 
-###### ARTÍCULO 3°.
+El Ayuntamiento es un órgano colegiado de elección popular, encargado de la administración y el gobierno municipal, para lo cual puede establecer y definir las acciones, criterios y políticas con que deban manejarse los asuntos y recursos del Municipio, se compondrá de acuerdo con lo establecido por la Constitución Política del Estado y demás leyes relativas.
 
-Para la atención y despacho de los asuntos que recaen en el ámbito de responsabilidad de la Oficina, ésta contará con: la Secretaría Particular, la Secretaría Privada, la Coordinación de Asesores, la Dirección General de Administración y Servicios y la Coordinación de Comunicación Social, al frente de las cuales estarán respectivamente: el Secretario Particular, el Secretario Privado, el Coordinador de Asesores, el Director General de Administración y Servicios y el Coordinador de Comunicación Social, mismos que serán designados por el C. Gobernador del Estado, y ejercerán las atribuciones de su competencia conforme a este reglamento, las demás leyes, decretos, acuerdos, convenios u órdenes del Ejecutivo Estatal.
+###### ARTICULO 3.
 
-###### ARTÍCULO 4°.
+El Ayuntamiento de Querétaro, es el representante de Municipio y posee autonomía, personalidad jurídica y patrimonio propio.
 
-Para el estudio y despacho de los asuntos de su competencia, la Secretaría Particular contará con las siguientes unidades administrativas:
+###### ARTICULO 4.
 
-I. Dirección General Jurídica;
+El Presidente Municipal tiene a su cargo la ejecución de los acuerdos, planes y programas aprobados por el Ayuntamiento, así como la responsabilidad de la administración pública.
 
-II. Dirección General de Asuntos Internacionales; y
+### CAPITULO II. De la Residencia e Instalación
 
-III. Secretaría Técnica.
+###### ARTICULO 5.
 
-### CAPÍTULO II. De la Secretaría Particular
+El Ayuntamiento del Municipio de Querétaro, residirá en la Ciudad de Querétaro, cabecera municipal y tendrá su domicilio oficial en el lugar donde realice sus sesiones.
 
-###### ARTÍCULO 5°.
+###### ARTICULO 6.
 
-Al frente de la Secretaría Particular, habrá un Secretario Particular que será designado y removido libremente por el C. Gobernador del Estado.
+Declarada la validez de la elección del nuevo Ayuntamiento, en los términos de la legislación electoral del Estado y notificado del resultado, el Presidente Municipal en funciones lo convocará, para concurrir a la sesión solemne que establece el artículo 20 de la Ley Orgánica Municipal del Estado de Querétaro.
 
-###### ARTÍCULO 6°.
+###### ARTICULO 7.
 
-La Secretaría Particular y sus unidades administrativas integrantes contarán con el personal operativo y de mando que permita el Presupuesto Anual de Egresos autorizado.
+El Presidente Municipal saliente tomará la protesta de ley al nuevo Ayuntamiento, en los términos del artículo 21 de la Ley Orgánica Municipal del Estado de Querétaro.
 
-#### SECCIÓN PRIMERA. De las Facultades del Secretario Particular
+###### ARTICULO 8.
 
-###### ARTÍCULO 7°.
+Si el día señalado por la ley para la protesta, no concurrieran uno o más miembros de los electos, no podrán entrar en funciones hasta que rindan protesta ante el Ayuntamiento instalado.
 
-Son facultades del Secretario Particular, las siguientes:
+### CAPITULO III. De los Integrantes del Ayuntamiento
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar las actividades de las áreas integrantes de la Secretaría Particular, y mantener informado al C. Gobernador del Estado de la situación que guardan los asuntos que son de su competencia;
+###### ARTICULO 9.
 
-II. Someter al acuerdo del C. Gobernador del Estado, el desahogo de los asuntos que le encomiende, así como aquellos que conforme a las normas vigentes, requieran de su autorización;
+El Ayuntamiento de Querétaro se integrará de la siguiente manera:
 
-III. Acordar con los titulares de las unidades administrativas a su cargo el desahogo de los asuntos bajo su responsabilidad y dictar las políticas y directrices para su adecuada operación;
+I. Un Presidente Municipal;
 
-IV. Coordinar sus actividades con el Jefe de Gabinete, el Secretario Privado, el Coordinador de Asesores, el Director General de Administración y Servicios y el Coordinador de Comunicación Social, a fin de cumplimentar los programas e instrucciones del C. Gobernador del Estado, que por su naturaleza deban ejecutarse conjuntamente;
+II. Regidores; y
 
-V. Formar parte de los Gabinetes, Consejos y Comisiones que le instruya el C. Gobernador del Estado, asistir a sus sesiones y ejecutar los acuerdos que recaigan en su competencia, informando lo conducente;
+III. Síndicos
 
-VI. Participar en la elaboración de los proyectos y programas institucionales específicos que el C. Gobernador del Estado le instruya;
+Los Regidores y Síndicos, en el número previsto por los artículos 17 y 18 de la Ley Orgánica Municipal del Estado de Querétaro, así como el 6 de la Ley Electoral del Estado.
 
-VII. Atender la audiencia que le instruya el C. Gobernador del Estado e informarle de los asuntos tratados, para la ejecución de las instrucciones correspondientes;
+###### ARTICULO 10.
 
-VIII. Impulsar, conjuntamente con los titulares de las unidades administrativas incorporadas a la Secretaría Particular, los programas para elevar la calidad de los servicios, mejorar los trámites y optimizar los recursos, en cumplimiento de los lineamientos, normas y demás disposiciones legales y administrativas aplicables;
+El Presidente Municipal es el ejecutor de las determinaciones del Ayuntamiento, responsable directo de la administración pública municipal en los términos del artículo 35 de la Ley Orgánica Municipal del Estado de Querétaro.
 
-IX. Coordinar la realización de los estudios y análisis de asuntos internacionales específicos que le instruya el C. Gobernador del Estado;
+###### ARTICULO 11.
 
-X. Coordinar la realización de estudios, investigaciones y análisis de temas locales y nacionales que puedan tener implicación con la vida institucional del Estado, y que le sean expresamente solicitados por el C. Gobernador del Estado;
+Los Regidores son representantes populares e integrantes del Ayuntamiento, cuya responsabilidad es participar de manera colegiada en la definición de políticas y dirección de los asuntos del Municipio, velando porque el ejercicio de la administración municipal se desarrolle conforme a la legislación aplicable, así como cumplir las atribuciones relacionadas con las comisiones que desempeñen.
 
-XI. Autorizar los informes, reportes y conciliaciones de información que le sean requeridos a la Secretaría Particular, de acuerdo con las disposiciones jurídicas y administrativas vigentes;
+###### ARTICULO 12.
 
-XII. Coordinar la atención de solicitudes de información que sean planteadas en el marco de la Ley de Transparencia y Acceso a la Información Pública;
+Los Síndicos son los encargados de vigilar, defender y procurar los intereses municipales y representar al Ayuntamiento en los casos señalados por las leyes, reglamentos y el presente código, además de vigilar la debida administración del erario público y el patrimonio municipal.
 
-XIII. Autorizar y aplicar los Manuales de Organización, Procedimientos y de Políticas que se elaboren para regular el funcionamiento de las unidades administrativas integrantes de la Secretaría Particular, conforme a los lineamientos que para tales efectos emita la Oficialía Mayor del Gobierno del Estado dentro del ámbito de su competencia;
+### CAPITULO IV. Del Presidente Municipal
 
-XIV. Autorizar los trámites relativos a la administración de los recursos asignados a la Secretaría Particular y realizar las gestiones correspondientes ante la Dirección General de Administración y Servicios, conforme a los lineamientos y normas aplicables;
+###### ARTICULO 13.
 
-XV. Formular y gestionar ante la Dirección General de Administración y Servicios los proyectos de programa y de presupuesto de las unidades administrativas a su cargo;
+Son atribuciones y obligaciones del Presidente Municipal, además de las dispuestas en el artículo 35 de la Ley Orgánica Municipal del Estado de Querétaro, las siguientes:
 
-XVI. Mantener informado al C. Gobernador del Estado respecto del desarrollo de las funciones encomendadas a la Secretaría Particular; y
+I. Asistir con puntualidad a las sesiones que celebre el Ayuntamiento y presidirlas;
 
-XVII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomiende expresamente el C. Gobernador del Estado.
+II. Establecer el orden de los asuntos que deben ponerse a discusión en las sesiones, atendiendo preferentemente, aquellos que se refieran a utilidad pública e interés social, mismos que serán dados a conocer en la convocatoria respectiva;
 
-###### ARTÍCULO 8°.
+III. Hacer uso de la palabra en las sesiones de cabildo para emitir su criterio sobre el asunto de que se trate, teniendo voto de calidad, en caso de empate en las decisiones que tome el Ayuntamiento;
 
-Independientemente de las facultades señaladas en el artículo anterior, el Secretario Particular desempeñará también aquellas que las disposiciones legales aplicables establezcan, conforme a su competencia.
+IV. Conminar al miembro del Ayuntamiento, que no observe la conducta adecuada, para que se desaloje el recinto donde se efectuó la sesión, previo exhorto al respecto;
 
-#### SECCIÓN SEGUNDA. De las Facultades de las Unidades Administrativas dependientes de la Secretaría Particular
+V. Proponer a los miembros del Ayuntamiento, quienes decidirán por mayoría, concluir, diferir o continuar la sesión respectiva, cuando rebase las dos horas de duración;
 
-### CAPÍTULO III. De la Secretaría Privada
+VI. Firmar los acuerdos, las actas de las sesiones y la correspondencia oficial;
 
-###### ARTÍCULO 9°.
+VII. Representar al ayuntamiento, en los actos solemnes y en las ceremonias oficiales; y
 
-Sin perjuicio de su ejercicio directo, el Secretario Particular podrá delegar facultades a los Titulares de las unidades administrativas que integran la Secretaría Particular, en los términos el artículo 21 de la Ley Orgánica de la Administración Pública del Estado.
+VIII. Las que el Ayuntamiento directamente la encomiende.
 
-###### ARTÍCULO 10.
+### CAPITULO V. De los Regidores
 
-Al frente de cada una de las unidades administrativas integrantes de la Secretaría Particular habrá un Titular designado y removido libremente por el C. Gobernador del Estado.
+###### ARTICULO 14.
 
-###### ARTÍCULO 11.
+Los Regidores, además de las facultades y obligaciones que les confiere el artículo 36 de la Ley Orgánica Municipal del Estado de Querétaro, tendrán las siguientes atribuciones y obligaciones:
 
-Al Titular de la Dirección General Jurídica le corresponde el estudio y despacho de las siguientes facultades específicas:
+I. Solicitar al Secretario del Ayuntamiento el uso de la palabra, esperando el turno que les corresponda para su intervención, la que no podrá exceder de dos veces sobre el mismo tema y de tres minutos en cada caso;
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las funciones a cargo de las áreas integrantes de la Dirección General;
+II. Observar el orden necesario durante el desarrollo de la sesión respectiva;
 
-II. Formular dictámenes, opiniones e informes y acordarlos con el Secretario Particular, así como las propuestas de resolución de los asuntos de su competencia;
+III. Proponer a los demás miembros del Ayuntamiento los proyectos que revistan vital importancia y resulten necesarios para la solución de los problemas de sus comisiones;
 
-III. Participar en la discusión de anteproyectos de leyes que las dependencias u organismos presenten y que se relacionen con las funciones de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y, Coordinación de Comunicación Social;
+IV. Cumplir adecuadamente con las obligaciones o comisiones que las hayan sido encomendadas;
 
-IV. Substanciar y proponer al Secretario Particular el proyecto de resolución de los recursos administrativos que interpongan los particulares ante la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y Coordinación de Comunicación Social;
+V. Rendir un informe mensual por escrito al Ayuntamiento de las actividades realizadas durante ese lapso;
 
-V. Elaborar todo tipo de demandas, reconvenciones, contestaciones, denuncias o querellas que sean necesarias para proteger los intereses de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y Coordinación de Comunicación Social y dar seguimiento a su tramitación ante los tribunales judiciales y administrativos, locales y federales; fungiendo como representante legal ante los mismos y pudiendo autorizar a profesionales del Derecho para oír y recibir toda clase de notificaciones;
+VI. Atender las indicaciones que el Presidente Municipal les transmita para el mejor desarrollo de las comisiones;
 
-VI. Coordinar el análisis de las disposiciones legales, reglamentarias y administrativas vigentes y que sean emitidas en el Estado, a fin de determinar su impacto y aplicación en el ámbito de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y Coordinación de Comunicación Social;
+VII. Someter a la consideración del Presidente Municipal, a través del Secretario del Ayuntamiento, la propuesta de asuntos a tratar en la sesión de cabildo, por lo menos con 24 horas de anticipación a la expedición de la convocatoria; y
 
-VII. Coordinar el análisis de las disposiciones jurídicas de carácter Federal e informar al Secretario Particular respecto de su impacto y aplicación en el Estado;
+VIII. Las demás que les fijen las leyes, reglamentos, el presente código o el propio Ayuntamiento.
 
-VIII. Comunicar a los Titulares de las unidades administrativas de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y, Coordinación de Comunicación Social, las disposiciones legales, reglamentarias y administrativas emitidas, que por su naturaleza les sean aplicables;
+### CAPITULO VI. De los Síndicos
 
-IX. Dirigir el otorgamiento de apoyo, asesoría, consulta y capacitación jurídica a las unidades administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y Coordinación de Comunicación Social, cuando así le sea requerido;
+###### ARTICULO 15.
 
-X. Coordinar el análisis, revisión y validación de la sustentación jurídica y los alcances legales de las propuestas de contratos, convenios y acuerdos elaborados por las unidades administrativas de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y Coordinación de Comunicación Social, emitiendo opinión, observaciones y recomendaciones;
+Los Síndicos, además de las facultades y obligaciones que les confiere la Ley Orgánica Municipal del Estado de Querétaro en su artículo 38, tendrán las siguientes:
 
-XI. Elaborar las actas administrativas y minutas que le encomiende el Secretario Particular;
+I. Rendir un informe mensual por escrito al Presidente Municipal de las actividades realizadas durante ese lapso;
 
-XII. Desarrollar los estudios y proyectos jurídicos específicos que le encomiende el C. Gobernador del Estado al Secretario Particular;
+II. Proponer al Presidente Municipal la celebración de las sesiones para tratar asuntos de su competencia, que requieran solución inmediata; y
 
-XIII. Participar, conforme a las instrucciones del Secretario Particular, en reuniones para el desahogo de asuntos de carácter jurídico y legal, manteniéndolo informado;
-
-XIV. Participar en las reuniones, comités, consejos o juntas de gobierno que le encomiende el Secretario Particular;
-
-XV. Apoyar jurídicamente a la Dirección General de Administración y Servicios en su calidad de Unidad de Enlace, en la atención de los requerimientos de información derivados de la Ley de Transparencia y Acceso a la Información Pública del Estado, que se soliciten a las unidades administrativas integrantes de la Oficina;
-
-XVI. Mantener informado al Secretario Particular respecto del desarrollo de las funciones encomendadas al área;
-
-XVII. Expedir copias certificadas y constancias de expedientes relativos a asuntos de su competencia;
-
-XVIII. Signar, en ausencia del Secretario Particular, los informes solicitados por autoridades administrativas y judiciales;
-
-XIX. Signar, en ausencia del Secretario Particular, las demandas, contestaciones de demandas, ofrecimientos de pruebas, alegatos, interposición de recursos e incidentes que sean competencia de la Secretaría Particular; y
-
-XX. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomiende expresamente el Secretario Particular.
-
-###### ARTÍCULO 12.
-
-Al Titular de la Dirección General de Asuntos Internacionales le corresponde el estudio y despacho de las siguientes facultades específicas:
-
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las funciones a cargo de las áreas integrantes de la Dirección General;
-
-II. Formular dictámenes, opiniones e informes y acordarlos con el Secretario Particular, así como las propuestas de resolución de los asuntos de su competencia;
-
-III. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado;
-
-IV. Coordinar la realización de estudios, proyectos y programas sobre temas internacionales estratégicos que pudieran tener algún efecto en la vida institucional del Estado;
-
-V. Proponer la Agenda Internacional en la que pudiera participar el Gobierno del Estado, a partir del análisis de las agendas, programas o actividades organizadas por otros países, por misiones diplomáticas o por organismos internacionales, y emitir opinión respecto de la conveniencia de que el C. Gobernador del Estado participe en estos eventos;
-
-VI. Proponer las estrategias y acciones para iniciar y/o fortalecer las relaciones entre el Gobierno del Estado con organismos internacionales de fomento y cooperación para el desarrollo;
-
-VII. Coordinar la elaboración y presentación de estudios relacionados con políticas gubernamentales internacionales en materias económicas, culturales, educativas, tecnológicas, turísticas y ambientales, así como su análisis y valoración en el entorno estatal;
-
-VIII. Participar en los estudios de factibilidad para la celebración de acuerdos o convenios de carácter internacional;
-
-IX. Coordinar la investigación de los programas, mecanismos y proyectos de carácter internacional, que pudieran constituirse en apoyos directos al Estado, bajo las figuras de donación, colaboración o cooperación, o bien para explorar la posibilidad de constituirse en sede de eventos internacionales;
-
-X. Proponer los programas, proyectos y mecanismos mediante los cuales se puedan ofrecer servicios, apoyos y colaboración a los nativos del Estado que radican en otros países;
-
-XI. Coordinar la investigación, estudio y análisis de las buenas prácticas internacionales y de las políticas públicas exitosas, analizar la viabilidad de su aplicación en el entorno estatal y proponer lo conducente;
-
-XII. Participar en la organización de foros, encuentros, reuniones o eventos similares de carácter internacional, conjuntamente con las dependencias y entidades del Gobierno del Estado responsables de los temas a tratar en dichos eventos;
-
-XIII. Llevar el seguimiento de las acciones y resultados que se deriven de la aplicación de convenios o acuerdos de carácter internacional y preparar los informes correspondientes;
-
-XIV. Informar al Secretario Particular respecto del desarrollo de las funciones encomendadas al área a su cargo; y
-
-XV. Realizar las demás funciones que en el ámbito de su competencia, le encomienden expresamente el C. Gobernador del Estado o el Secretario Particular.
-
-### CAPÍTULO IV. De la Coordinación de Asesores
-
-###### ARTÍCULO 13.
-
-Corresponde al Titular de la Secretaría Técnica la atención, estudio y despacho de las siguientes facultades específicas:
-
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las funciones a cargo de las áreas integrantes de la Secretaría Técnica;
-
-II. Formular dictámenes, opiniones e informes y acordarlos con el Secretario Particular, así como las propuestas de resolución de los asuntos de su competencia;
-
-III. Coordinar la realización proyectos y estudios sobre temas específicos que sean encomendadas por el C. Gobernador del Estado al Secretario Particular; presentarlos a su consideración y llevar a cabo las instrucciones que de ello se deriven;
-
-IV. Coordinar a través del área competente, la prestación de los servicios informáticos a las unidades administrativas de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y, Jefatura de Gabinete;
-
-V. Preparar la documentación y la logística necesaria para apoyar la participación del Secretario Particular en el desarrollo de las reuniones de Gabinete en que participe;
-
-VI. Coordinar el seguimiento en la ejecución de los acuerdos de las reuniones que sostenga el Secretario Particular con el C. Gobernador del Estado; con los responsables de las unidades administrativas de la Secretaría Particular y, en su caso, con otros servidores públicos del Gobierno del Estado;
-
-VII. Representar al Gobierno del Estado, en eventos o actividades que le sean encomendadas por el Secretario Particular por instrucciones del C. Gobernador del Estado, donde intervengan los intereses del Titular del Ejecutivo;
-
-VIII. Atender las audiencias que le sean encomendadas por el Secretario Particular y mantenerlo informado respecto de los planteamientos abordados;
-
-IX. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado;
-
-X. Mantener informado al Secretario Particular respecto del desarrollo de las funciones encomendadas al área; y
-
-XI. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomiende expresamente el Secretario Particular.
-
-### CAPÍTULO V. De la Dirección General de Administración y Servicios
-
-###### ARTÍCULO 14.
-
-Para el estudio y despacho de los asuntos de su competencia, la Secretaría Privada contará con las siguientes unidades administrativas:
-
-I. Dirección General de Relaciones Públicas;
-
-II. Dirección General de Atención a la Ciudadanía;
-
-III. Dirección General de Giras, Seguridad y Protección;
-
-IV. Representación del Gobierno del Estado en el D. F.; y
-
-V. Administración de Casa Aguascalientes.
-
-### CAPÍTULO VI. De la Coordinación de Comunicación Social
-
-###### ARTÍCULO 15.
-
-Al frente de la Secretaría Privada habrá un Secretario Privado que será designado y removido libremente por el C. Gobernador del Estado.
+III. Cuidar que la hacienda pública municipal, no sufra menoscabo y dilucidar las cuestiones relativas a la presentación de glosas, informes trimestrales y cuenta pública.
 
 ## TITULO SEGUNDO. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
-### CAPÍTULO VII. De la Suplencia de los Servidores Públicos
+### CAPITULO I. De las Sesiones
 
-###### ARTÍCULO 16.
+###### ARTICULO 16.
 
-La Secretaría Privada y sus unidades administrativas integrantes contarán con el personal operativo y de mando que permita el Presupuesto Anual de Egresos autorizado.
+Para resolver los asuntos de su competencia, el Ayuntamiento, celebrará sesiones a través de las cuales se podrán tomar decisiones sobre las políticas generales de promoción del desarrollo y bienestar social, de la población del Municipio.
 
-#### SECCIÓN PRIMERA. De las Facultades del Secretario Privado
+###### ARTICULO 17.
 
-###### ARTÍCULO 17.
+Las sesiones del Ayuntamiento serán:
 
-Corresponde al Secretario Privado el estudio, atención y resolución de los siguientes asuntos:
+I. Ordinarias;
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar las actividades de las unidades administrativas integrantes de la Secretaría Privada, y mantener informado al C. Gobernador del Estado de la situación que guardan los asuntos que son de su competencia;
+II. Extraordinarias; y
 
-II. Someter al acuerdo del C. Gobernador del Estado, el desahogo de los asuntos que le encomiende, así como aquellos que conforme a las normas vigentes, requieran de su autorización;
+III. Solemnes.
 
-III. Acordar con los titulares de las unidades administrativas a su cargo el desahogo de los asuntos bajo su responsabilidad y dictar las políticas y directrices para su adecuada operación;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1999)</small>
 
-IV. Coordinar sus actividades con el Jefe de Gabinete, el Secretario Particular, el Coordinador de Asesores, el Director General de Administración y Servicios y el Coordinador de Comunicación Social, a fin de cumplimentar los programas e instrucciones del C. Gobernador del Estado, que por su naturaleza deban ejecutarse conjuntamente;
+###### ARTICULO 18.
 
-V. Coordinar el registro de la agenda de trabajo del C. Gobernador del Estado y acordar con éste las peticiones de audiencia que le formulen los ciudadanos y los servidores públicos del Gobierno Estatal, Federal o municipales;
+Las Sesiones ordinarias se celebrarán dos veces al mes, los martes segundo y cuarto, salvo causa justificada, acordada por el Ayuntamiento a propuesta del Presidente Municipal. Los días de sesiones podrán modificarse y éstas procurarán no excederse de dos horas, salvo prioridad de asuntos que lo amerite.
 
-VI. Comunicar a los titulares de las unidades administrativas integrantes de la Secretaría Privada los pormenores de la agenda de trabajo del C. Gobernador del Estado, y coordinar las acciones de éstas para el desahogo de eventos, giras y reuniones;
+###### ARTICULO 19.
 
-VII. Convocar a los servidores públicos del Gobierno Estatal y, en su caso, de las instancias municipales para su asistencia y participación en eventos, giras y reuniones de trabajo con el C. Gobernador del Estado;
+Serán extraordinarias, las que se celebren cuando la naturaleza de alguno (sic) asunto lo requiera.
 
-VIII. Llevar el seguimiento de las reuniones de trabajo del C. Gobernador del Estado; registrar los acuerdos e instrucciones que se generen en estos eventos e informarle respecto de los avances en su cumplimiento;
+###### ARTICULO 20.
 
-IX. Formar parte de los Gabinetes que le instruya el C. Gobernador del Estado, asistir a sus sesiones y ejecutar los acuerdos que recaigan en su competencia, informando lo conducente;
+Serán solemnes aquellas sesiones que por su importancia así las declare el Ayuntamiento, permitiéndose omitir en ellas las fracciones III, IV y V del artículo 24 de este código, pudiendo ser entre otras, las siguientes:
 
-X. Atender la audiencia que le indique el C. Gobernador del Estado e informarle de los asuntos tratados, para la ejecución de las instrucciones correspondientes;
+I. La protesta de los miembros del Ayuntamiento;
 
-XI. Dictar las políticas de Relaciones Públicas del Gobierno del Estado y vigilar su cumplimiento;
+II. La lectura de informe del Presidente Municipal;
 
-XII. Vigilar que las tareas de Atención a la Ciudadanía se lleven a cabo oportunamente y con estricto apego a los lineamientos establecidos en la materia;
+III. Las sesiones a las que concurra el Presidente de la República o el Gobernador del Estado; y
 
-XIII. Planear, coordinar y dirigir los servicios de seguridad y transportación del C. Gobernador, de su familia; resguardo del patrimonio asignado a estos, así como la organización de giras, eventos y reuniones en los que participe el C. Gobernador del Estado;
+IV. A las que concurran miembros de los Poderes Públicos Federales, Estatales o de otros municipios o personalidades distinguidas, siempre que el Ayuntamiento así lo convenga.
 
-XIV. Dictar las políticas de operación y funcionamiento de la Representación del Gobierno del Estado en el Distrito Federal y vigilar su funcionamiento;
+###### ARTICULO 21.
 
-XV. Dar orientación y seguimiento a las actividades derivadas de la administración de la Casa de Gobierno;
+Las sesiones del Ayuntamiento, se celebrarán en el salón de cabildo, o cuando la solemnidad del caso lo amerite, en el recinto previamente declarado oficial para tal efecto.
 
-XVI. Impulsar, conjuntamente con los titulares de las unidades administrativas incorporadas a la Secretaría Privada, los programas para elevar la calidad de los servicios, mejorar los trámites y optimizar los recursos, en cumplimiento de los lineamientos, normas y demás disposiciones legales y reglamentarias aplicables;
+Las sesiones serán privadas:
 
-XVII. Autorizar y aplicar los Manuales de Organización, Procedimientos y de Políticas que se elaboren para regular el funcionamiento de la Secretaría Privada, conforme a los lineamientos que para tales efectos emita la Oficialía Mayor en materia de su competencia;
+I. Cuando por la naturaleza de los asuntos a tratar sea conveniente la presencia exclusiva de sus miembros; y
 
-XVIII. Autorizar los trámites relativos a la administración de los recursos asignados a la Secretaría Privada para su gestión ante la Dirección General de Administración y Servicios, conforme a los lineamientos y normas aplicables;
+II. Cuando los asistentes que no sean regidores alteren gravemente el orden.
 
-XIX. Formular y gestionar ante la Dirección General de Administración y Servicios los proyectos de programa y presupuesto anuales de las Unidades administrativas a su cargo;
+###### ARTICULO 22.
 
-XX. Autorizar los informes, reportes y conciliaciones de información que le sean requeridos a la Secretaría Privada de acuerdo con las disposiciones jurídicas y administrativas vigentes;
+Las sesiones de Ayuntamiento serán válidas cuando se haya citado a la totalidad de los integrantes.
 
-XXI. Coordinar la atención de solicitudes de información que sean planteadas en el marco de la Ley de Transparencia y Acceso a la Información Pública;
+###### ARTICULO 23.
 
-XXII. Mantener informado al C. Gobernador del Estado respecto del desarrollo de las funciones encomendadas a la Secretaría Privada; y
+Para instalar legalmente la sesión del Ayuntamiento se estará a lo dispuesto por el artículo 26 de la Ley Orgánica Municipal del Estado de Querétaro.
 
-XXIII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomiende expresamente el C. Gobernador del Estado.
+###### ARTICULO 24.
 
-###### ARTÍCULO 18.
+En la sesión el Secretario del Ayuntamiento, podrá dar cuenta de los asuntos en el orden siguiente:
 
-Independientemente de las facultades señaladas en el artículo anterior, el Secretario Privado desempeñará también aquellas que las disposiciones legales aplicables establezcan, conforme a su competencia.
+I. Lista de asistencia;
 
-#### SECCIÓN SEGUNDA. De las Facultades de las Unidades Administrativas Dependientes de la Secretaría Privada
+II. Declaratoria de quórum en su caso y de apertura de la sesión;
 
-###### ARTÍCULO 19.
+III. Lectura del acta de la sesión anterior;
 
-Sin perjuicio de su ejercicio directo, el Secretario Privado podrá delegar facultades a los Titulares de las unidades administrativas que integran la Secretaría Privada, en los términos el artículo 21 de la Ley Orgánica de la Administración Pública del Estado.
+IV. Informe de comisiones;
 
-###### ARTÍCULO 20.
+V. Propuestas y asuntos de los integrantes del Ayuntamiento; y
 
-Al frente de cada una de las unidades administrativas integrantes de la Secretaría Privada habrá un Titular que será designado y removido libremente por el C. Gobernador del Estado.
+VI. Levantamiento de sesión.
 
-###### ARTÍCULO 21.
+En las sesiones solemnes no se estará a lo señalado en las fracciones III, IV y V de este precepto.
 
-Corresponde al Titular de la Dirección General de Relaciones Públicas el despacho, atención y resolución de los siguientes asuntos:
+###### ARTICULO 25.
 
-I. Conducir las relaciones públicas en los eventos en los que participe el C. Gobernador del Estado, así como planear, organizar y dirigir las acciones que se orienten a tal fin;
+Los integrantes del Ayuntamiento deberán asistir a todas las sesiones. Se considerará ausente de una sesión, al miembro del Ayuntamiento, que no esté presente al tomarse lista de asistencia o al levantarse la sesión, al respecto se deberá tomar en cuenta lo siguiente:
 
-II. Vincular sus funciones con las demás unidades administrativas de la Secretaría Privada, Secretaría Particular, Coordinación de Asesores y Dirección General de Administración y Servicios con el fin de mantener la debida coordinación en el desarrollo de eventos en los que participe el C. Gobernador del Estado;
+a) Si un miembro, tomó lista y se retiró antes del término de la sesión y hubo votado algún acuerdo, el voto emitido se anulará; y
 
-III. Conjuntamente con el Titular de la Secretaría Privada, dictar los lineamientos a que se deberá sujetar el manejo de las relaciones públicas en la Representación del Gobierno del Estado en el Distrito Federal, y verificar su cumplimiento;
+b) Si se retira con causa justificada antes del término de la sesión, avalada por la mayoría de los miembros del Ayuntamiento, las votaciones en que haya participado serán válidas.
 
-IV. Organizar y dirigir la integración y actualización permanente de la agenda onomástica y de aniversarios del C. Gobernador del Estado, así como la elaboración de participaciones, felicitaciones, invitaciones y demás documentos similares, con motivo de la celebración de eventos, actos conmemorativos o ceremonias de orden social;
+###### ARTICULO 26.
 
-V. Organizar y dirigir la integración y actualización permanente de los directorios de servidores públicos de la Federación, del Estado y los municipios, así como de los representantes diplomáticos y personalidades de los diversos sectores del Estado;
-
-VI. Opinar respecto de la selección, adquisición y arreglo de artículos diversos que, en el marco de la ley, puede obsequiar el C. Gobernador del Estado a personalidades e invitados especiales que visitan el Estado;
-
-VII. Gestionar en el ámbito de su competencia y conjuntamente con la Dirección General de Administración y Servicios, la contratación de bienes y servicios diversos para la organización y desarrollo de eventos en los que participe el C. Gobernador del Estado;
-
-VIII. Coordinar la verificación de que los bienes o servicios contratados para la celebración de eventos, cumplan con los requerimientos y las condiciones pactadas con los proveedores;
-
-IX. Coordinar la preparación de la documentación para la comprobación de los gastos efectuados en el ejercicio de sus funciones, en el marco de las disposiciones legales y administrativas aplicables;
-
-X. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado;
-
-XI. Mantener informado al Secretario Privado respecto del desarrollo de las funciones encomendadas al área; y
-
-XII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomienden expresamente el Secretario Privado y otros ordenamientos legales.
-
-###### ARTÍCULO 22.
-
-Corresponde al Titular de la Dirección General de Atención a la Ciudadanía, el despacho, atención y resolución de los siguientes asuntos:
-
-I. Organizar, dirigir y controlar la operación de los procesos y mecanismos para la detección, captación, registro y canalización oportuna a las dependencias y entidades, de las peticiones ciudadanas, conforme a sus respectivos ámbitos de competencia;
-
-II. Dirigir y coordinar el seguimiento de la atención que hayan dado las dependencias y entidades gubernamentales, a las peticiones ciudadanas que les son canalizadas;
-
-III. Coordinar la captación de demandas de apoyo y atención realizadas por la ciudadanía al C. Gobernador del Estado y a la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia durante los eventos y giras en los que participan;
-
-IV. Coordinar la gestoría, el trámite y la operación de los mecanismos necesarios para la atención oportuna de las peticiones de apoyo de la ciudadanía a que se refiere la función anterior;
-
-V. Autorizar los trámites relativos a la administración de los recursos asignados a la Dirección General de Atención a la Ciudadanía, en relación a las erogaciones por el otorgamiento de ayudas a personas en condiciones de desamparo económico, funerarias y para agrupaciones profesionales en complemento a sus fines institucionales, y realizar las gestiones pertinentes ante la Dirección General de Administración y Servicios, conforme a los lineamientos y normas aplicables;
-
-VI. Formular y proponer a la Dirección General de Administración y Servicios, previo acuerdo del Secretario Privado, los proyectos de programas y presupuesto anuales de actividades propias de su área;
-
-VII. Coordinar el registro y seguimiento de los compromisos que se deriven de las audiencias públicas, eventos y giras que realicen el C. Gobernador del Estado y la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia;
-
-VIII. Organizar, dirigir y coordinar la realización de estudios socioeconómicos y las visitas domiciliarias a los ciudadanos solicitantes de apoyos directos y, determinar la factibilidad de su atención directa o a través de la estructura gubernamental, según la naturaleza de la petición;
-
-IX. Coordinar la operación del Sistema de Registro y Seguimiento de Peticiones Ciudadanas y la generación de los reportes e informes de su avance y comportamiento;
-
-X. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado;
-
-XI. Mantener informado al Secretario Privado respecto del desarrollo de las funciones encomendadas al área; y
-
-XII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomienden expresamente el Secretario Privado y otros ordenamientos legales.
-
-###### ARTÍCULO 23.
-
-Corresponde al Titular de la Dirección General de Giras, Seguridad y Protección el desahogo de las siguientes facultades específicas:
-
-I. Establecer comunicación y acuerdo con el Secretario Privado, con el fin de conocer la agenda de trabajo del C. Gobernador del Estado, así como los requerimientos para su realización;
-
-II. Planear, programar. organizar y dirigir los servicios de seguridad y transportación del C. Gobernador del Estado, de su familia y de los servidores públicos que se le instruya, coordinadamente con las demás corporaciones públicas de seguridad;
-
-III. Planear, programar, organizar y dirigir el servicio de resguardo y seguridad de los inmuebles y del patrimonio oficial y personal del C. Gobernador del Estado y de su familia;
-
-IV. Planear, programar, organizar y dirigir la organización de los eventos públicos y privados en los que participe el C. Gobernador del Estado, así como de las giras de trabajo;
-
-V. Establecer los vínculos necesarios con las dependencias federales, estatales y municipales a fin de instrumentar la logística y el protocolo a seguir en los eventos en los que participa el C. Gobernador del Estado;
-
-VI. Coordinar sus funciones con los diferentes cuerpos de seguridad, a fin de garantizar la seguridad del C. Gobernador del Estado y la de los invitados a los eventos;
-
-VII. Gestionar en el ámbito de su competencia y en conjunto con la Dirección General de Administración y Servicios, la contratación de bienes y servicios diversos para la organización y desarrollo de eventos en los que participe el C. Gobernador del Estado;
-
-VIII. Coordinar la verificación de que los bienes o servicios contratados para los eventos, cumplan con los requerimientos y las condiciones pactadas;
-
-IX. Coordinar la preparación de la documentación para la comprobación de los gastos efectuados en el ejercicio de sus funciones, en el marco de las disposiciones legales y administrativas aplicables;
-
-X. Definir y difundir entre las dependencias y entidades del Gobierno Estatal, las prácticas protocolarias a seguir en la organización y desarrollo de los eventos que se organicen, conforme a la naturaleza de cada uno de ellos;
-
-XI. Coordinar el apoyo logístico que soliciten las dependencias y entidades del Gobierno Estatal para la organización de eventos relacionados con sus respectivos ámbitos de competencia;
-
-XII. Supervisar que los vehículos de transporte aéreo y terrestre al servicio del C. Gobernador del Estado, se encuentren en óptimo funcionamiento;
-
-XIII. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado;
-
-XIV. Mantener informado al Secretario Privado respecto del desarrollo de las funciones encomendadas al área a su cargo; y
-
-XV. Realizar las demás funciones que, conforme al ámbito de competencia del área a su cargo, le encomienden expresamente el C. Gobernador del Estado, el Secretario Privado y otros ordenamientos legales.
-
-###### ARTÍCULO 24.
-
-Corresponde al Titular de la Representación del Gobierno del Estado en el Distrito Federal, el estudio, despacho y resolución de las siguientes facultades específicas:
-
-I. Planear, coordinar, organizar, dirigir, controlar y evaluar las funciones de las áreas integrantes de la Representación, conforme a las directrices que señalen el C. Gobernador del Estado y el Secretario Privado;
-
-II. Representar al C. Gobernador del Estado ante las dependencias y entidades Federales, así como ante otras instancias nacionales o extranjeras oficiales;
-
-III. Asistir, en representación del C. Gobernador del Estado a los eventos y actos a los que sea invitado, previa indicación de dicho funcionario o del Secretario Privado;
-
-IV. Coordinar la promoción turística y cultural del Estado ante los diversos sectores de la población de la Ciudad de México y ante las representaciones diplomáticas y comerciales de otros países en México;
-
-V. Mantener relaciones de colaboración e intercambio de información turística y cultural con las representaciones de otras entidades federativas en el Distrito Federal;
-
-VI. Coordinar las tareas de gestoría y tramitación de asuntos de las dependencias y entidades del Estado que lo soliciten, ante las instancias oficiales de la Federación, así como, en su caso, ante otras instancias oficiales;
-
-VII. Coordinar la recopilación, clasificación y análisis de la información que sobre el Estado difundan los diversos medios de comunicación en el Distrito Federal, y remitirla a la Secretaría Privada;
-
-VIII. Coordinar la organización de eventos y reuniones en las que participe el C. Gobernador del Estado, así como aquellas en las que sea invitada alguna dependencia o entidad del Gobierno del Estado;
-
-IX. Coordinar el apoyo y la logística que se requieran durante las estancias del C. Gobernador del Estado, la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia, y los funcionarios del Gobierno del Estado en el Distrito Federal;
-
-X. Administrar, en el ámbito de su competencia, los recursos humanos, materiales, financieros y tecnológicos asignados a las oficinas de la Representación, conforme a los lineamientos y normas vigentes en la materia;
-
-XI. Mantener informado al Secretario Privado respecto del desarrollo de las funciones encomendadas a esa área; y
-
-XII. Realizar las demás funciones que, conforme al ámbito de su competencia, le confieran otros ordenamientos legales, así como aquellas que expresamente le encomienden el C. Gobernador del Estado y el Secretario Privado.
-
-###### ARTÍCULO 25.
-
-Al Administrador de Casa Aguascalientes le corresponden las siguientes facultades específicas:
-
-I. Administrar la Casa Aguascalientes, habilitándola como un espacio en el que se llevarán a cabo actividades del Gobierno del Estado;
-
-II. Establecer comunicación y acuerdo con el Secretario Privado, con el fin de conocer la agenda de eventos del C. Gobernador del Estado en Casa Aguascalientes así como los requerimientos para su realización;
-
-III. Establecer comunicación y acuerdo con el Secretario Privado de la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia, con el fin de conocer su agenda de eventos en Casa Aguascalientes así como los requerimientos para su realización;
-
-IV. Planear, programar. organizar y dirigir los eventos que se realicen en Casa Aguascalientes;
-
-V. Resguardar el inmueble y los bienes muebles y demás activos de la Casa Aguascalientes;
-
-VI. Administrar las instalaciones y servicios de Casa Aguascalientes, proveyendo lo necesario para su debido funcionamiento;
-
-VII. Gestionar en el ámbito de su competencia y en conjunto con la Dirección General de Administración y Servicios, la contratación de bienes y servicios diversos para la organización y desarrollo de eventos;
-
-VIII. Coordinar la verificación de que los bienes o servicios contratados para los eventos, cumplan con los requerimientos y las condiciones pactadas;
-
-IX. Coordinar la preparación de la documentación para la comprobación de los gastos efectuados en el ejercicio de sus funciones, en el marco de las disposiciones legales y administrativas aplicables;
-
-X. Coordinar el apoyo logístico que solicite la Secretaría Privada para la organización de eventos en los que participe el C. Gobernador del Estado o su esposa y familia;
-
-XI. Coordinar el apoyo logístico que implementen las dependencias y entidades del Gobierno Estatal para la organización de eventos en Casa Aguascalientes, relacionados con sus respectivos ámbitos de competencia;
-
-XII. Coordinar sus actividades con la Dirección General de Giras, Seguridad y Protección de la Secretaría Privada y con el área de Giras del Sistema Estatal para el Desarrollo Integral de la Familia; y
-
-XIII. Realizar las demás funciones que, conforme al ámbito de competencia del área a su cargo, le confieran otros ordenamientos legales y aquellas que expresamente le encomienden el C. Gobernador del Estado, la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia y el Secretario Privado.
-
-###### ARTÍCULO 26.
-
-Al frente de la Coordinación de Asesores habrá un Coordinador que será designado y removido libremente por el C. Gobernador del Estado.
+El Ayuntamiento podrá invitar a cualquier funcionario de la administración municipal a comparecer, cuando se discuta algún asunto de su competencia, siempre que así lo requiera la mayoría de los integrantes del Ayuntamiento o informar en el caso de los delegados municipales, del estado que guarda la administración de su responsabilidad.
 
 ### CAPITULO II. De las Discusiones en las Sesiones
 
-###### ARTÍCULO 27.
+###### ARTICULO 27.
 
-La Coordinación de Asesores contará con la estructura y el personal operativo y de mando que permita el Presupuesto Anual de Egresos autorizado para el ejercicio de sus funciones.
+Llegada la hora de la discusión, se leerá la iniciativa, proposición u oficio que la hubiere provocado, después el dictamen de la comisión a cuyo examen se remitió.
 
-###### ARTÍCULO 28.
+###### ARTICULO 28.
 
-Corresponde al Coordinador de Asesores la atención, despacho y resolución de los siguientes asuntos:
+Siempre que al principio de la discusión lo pida algún integrante del Ayuntamiento, la comisión dictaminadora, deberá explicar los fundamentos de su dictamen y leerá constancias del expediente, si fuere necesario, acto seguido, se continuará el debate.
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño del área a su cargo;
+###### ARTICULO 29.
 
-II. Coordinar la elaboración de proyectos, estudios y análisis específicos que le encomiende el C. Gobernador del Estado;
+Los miembros del Ayuntamiento podrán hacer uso de la palabra hasta en dos ocasiones, sin excederse en cada una de ellas de tres minutos sobre el mismo tema, excepto el presidente o cuando sean autores del dictamen que se está discutiendo.
 
-III. Coordinar la elaboración de notas, mensajes o discursos para apoyar las intervenciones del C. Gobernador del Estado en los eventos en los que participa;
+###### ARTICULO 30.
 
-IV. Coordinar la participación en la redacción de los mensajes del C. Gobernador del Estado, con motivo de la presentación de los Informes de Gobierno;
+El integrante del Ayuntamiento que haga uso de la palabra, ya sea para informar o discutir, tendrá libertad para expresar sus ideas, sin que pueda ser reconvenido por ello, pero se abstendrá de dirigir ofensa o ironía alguna, quien lo hiciera, será conminado a que no persista en su actitud.
 
-V. Coordinar las acciones necesarias para integrar y mantener actualizada la Memoria de mensajes, discursos, boletines de prensa y demás documentos que fueron base para las intervenciones del C. Gobernador del Estado en diversos actos y eventos;
+###### ARTICULO 31.
 
-VI. Coordinar la realización de análisis, estudios, investigaciones e interpretación de comportamientos y tendencias de los indicadores básicos que le instruya el C. Gobernador del Estado, así como el análisis del posicionamiento del Estado respecto de otras entidades federativas y a nivel internacional, en temas estratégicos;
+Cuando la discusión derive en cuestiones ajenas al tema tratado, el Presidente Municipal, instruirá al Secretario, para que con una moción haga volver al tema de discusión y procurar centrar la discusión, llamando al orden a quien lo quebrante.
 
-VII. Participar en las reuniones de trabajo que el C. Gobernador del Estado le indique y mantenerlo informado de los asuntos tratados y compromisos institucionales adquiridos;
+###### ARTICULO 32.
 
-VIII. Coordinar la preparación de la documentación para la comprobación de los gastos efectuados en el ejercicio de sus funciones, en el marco de las disposiciones legales y administrativas aplicables;
+Cuando un dictamen, acuerdo o proposición constare de más de un artículo, se discutirá y votará primero en lo general, se discutirá después cada capítulo y en lo particular, siempre que algún integrante del Ayuntamiento lo solicite, podrá acordarse por mayoría de votos, que se divida un capítulo en las partes que sea necesario para facilitar la discusión.
 
-IX. Formular y proponer a la Dirección General de Administración y Servicios los proyectos de programa y presupuesto anuales de las actividades propias de su área;
+###### ARTICULO 33.
 
-X. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado;
+Si se propusieran enmiendas a un artículo, el autor o autores de la proposición, dictamen o moción que se discuta, manifestarán si están conformes con aquellas, en este caso se discutirá el artículo encomendado en el sentido que se hubiere propuesto, de lo contrario se tendrá como se propuso al principio.
 
-XI. Mantener informado al C. Gobernador del Estado respecto del desarrollo de las funciones encomendadas al área; y
+###### ARTICULO 34.
 
-XII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomienden expresamente el C. Gobernador del Estado.
-
-###### ARTÍCULO 29.
-
-Independientemente de las facultades señaladas en el artículo anterior, el titular de la Coordinación de Asesores, desempeñara también aquellas que las disposiciones legales aplicables establezcan, conforme a su competencia.
-
-###### ARTÍCULO 30.
-
-Al frente de la Dirección General de Administración y Servicios habrá un Director General que será designado y removido libremente por el C. Gobernador del Estado.
-
-###### ARTÍCULO 31.
-
-La Dirección General de Administración y Servicios contará con la estructura y el personal operativo y de mando que permita el Presupuesto Anual de Egresos.
-
-###### ARTÍCULO 32.
-
-Corresponde al Titular de la Dirección General de Administración y Servicios la atención, resolución y despacho de las siguientes facultades y obligaciones:
-
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las actividades de las áreas a su cargo;
-
-II. Vigilar y aplicar las normas y políticas generales que rigen en la Administración Pública Estatal en cuanto al personal, capacitación, presupuesto, patrimonio estatal, servicios generales y recursos materiales propios y de las Unidades Administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y la Jefatura (sic) Gabinete;
-
-III. Planear, programar, organizar, dirigir, controlar y evaluar la administración de los recursos humanos, financieros, materiales y tecnológicos asignados a la propia Dirección General de Administración y Servicios y a las diferentes unidades administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, así como la adecuada prestación de los servicios generales para el ejercicio de sus funciones;
-
-IV. Autorizar y gestionar los trámites relativos a la administración de los recursos materiales, financieros, tecnológicos y del personal adscrito a la Dirección General de Administración y Servicios y a la Secretaría Particular, Privada, Coordinación de Asesores y Jefatura de Gabinete, conforme a los lineamientos y normas aplicables;
-
-V. Elaborar y presentar conjuntamente con los Titulares de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, los proyectos de programa y presupuesto anuales para su aprobación;
-
-VI. Realizar y coordinar las gestiones para llevar a cabo los procesos de contratación del personal requerido por la propia Dirección General de Administración y Servicios y las unidades administrativas de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, previo acuerdo y conforme a los lineamientos vigentes en la materia;
-
-VII. Dirigir los procesos de detección de necesidades de capacitación, desarrollo y profesionalización del personal de la propia Dirección General de Administración y Servicios y de las unidades administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete e implementar los programas que se orienten a la atención de estas necesidades;
-
-VIII. Autorizar el trámite de registro de incidencias del personal adscrito a la propia Dirección General de Administración y Servicios y a la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y la Jefatura de Gabinete, y gestionar ante las instancias correspondientes, su aplicación;
-
-IX. Organizar y dirigir la integración y actualización permanente del archivo de personal, de sus expedientes y de la plantilla del mismo, adscrito a la Dirección General Administración y Servicios y a las Unidades Administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete;
-
-X. Administrar el fondo revolvente asignado a la Dirección General de Administración y Servicios y a la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete y dirigir los trámites para su comprobación y recuperación;
-
-XI. Administrar las cuentas bancarias de la titularidad de la Dirección General de Administración y Servicios y de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete y coordinar los trámites para la comprobación de su uso;
-
-XII. Coordinar y gestionar el trámite del ejercicio de los recursos presupuestales autorizados a la Dirección General de Administración y Servicios y a la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, así como para justificar y comprobar su ejercicio, conforme a las normas y lineamientos aplicables en la materia;
-
-XIII. Coordinar la integración de los informes de Cuenta Pública y de los reportes que las normas establezcan, así como los trabajos para la integración del Presupuesto Anual de la Dirección General de Administración y Servicios y de las unidades administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete;
-
-XIV. Dictar y difundir a las áreas integrantes de la Dirección General de Administración y Servicios y a las unidades administrativas que integran la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, las directrices bajo las cuales deberán conducirse los trámites relacionados con la administración de los recursos;
-
-XV. Organizar, dirigir, controlar y mantener la integración y actualización del inventario de bienes, materiales, vehículos e inmuebles asignados a la Dirección General de Administración y Servicios y al Despacho del C. Gobernador del Estado, la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete;
-
-XVI. Coordinar y atender, conforme a la normatividad aplicable, las acciones para proveer los insumos necesarios para la adquisición de bienes o la contratación de los servicios que requieran la Dirección General de Administración y Servicios y las unidades administrativas de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, para el adecuado cumplimiento de sus responsabilidades;
-
-XVII. Gestionar ante los proveedores las mejores cotizaciones y condiciones de pago la adquisición de los diversos bienes y servicios que requiera la propia Dirección General de Administración y Servicios y las Unidades Administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y la Jefatura de Gabinete;
-
-XVIII. Organizar y dirigir la elaboración y ejecución de los programas de mantenimiento preventivo y correctivo de los inmuebles y del mobiliario, equipo, instalaciones y vehículos asignados a la propia Dirección General de Administración y Servicios y a la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete;
-
-XIX. Proponer y coordinar la aplicación de programas y proyectos orientados a optimizar el uso y aprovechamiento de los recursos asignados a la Dirección General de Administración y Servicios y a la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y Jefatura de Gabinete, de conformidad con la Ley Patrimonial, el Manual de Adquisiciones y el Programa de Racionalidad, Austeridad y Disciplina Presupuestaria en la Administración Estatal y las demás disposiciones aplicables;
-
-XX. Coordinar al Enlace de Transparencia previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado y verificar que se dé puntual atención a los requerimientos de información en el ámbito de su competencia, por parte de la propia Dirección General de Administración y Servicios y de las Unidades Administrativas integrantes de la Secretaría Particular, Secretaría Privada y Coordinación de Asesores, al amparo de la citada Ley;
-
-XXI. Apoyar a todas las Unidades Administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y la Jefatura de Gabinete en el desarrollo de sus funciones de carácter administrativo;
-
-XXII. Controlar y coordinar la información solicitada por las diferentes instancias de la Administración Pública de carácter administrativo, a la propia Dirección General de Administración y Servicios y a las Unidades Administrativas integrantes de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores y la Jefatura de Gabinete;
-
-XXIII. Coordinar sus actividades con el Director Administrativo de la Coordinación de Comunicación Social;
-
-XXIV. Mantener informado al C. Gobernador del Estado respecto del desarrollo de las funciones encomendadas al área;
-
-XXV. Expedir certificados y constancias de expedientes relativos a asuntos de su competencia; y
-
-XXVI. Realizar las demás funciones que, conforme al ámbito de su competencia, le confieran otros ordenamientos legales y aquellas que expresamente le encomiende el C. Gobernador del Estado.
-
-###### ARTÍCULO 33.
-
-Para el despacho de los asuntos de su competencia, la Coordinación de Comunicación Social, contará con las siguientes unidades administrativas:
-
-I. Dirección General de Información y Prensa;
-
-II. Dirección General de Difusión Institucional; y
-
-III. Dirección General de Video Producción.
-
-###### ARTÍCULO 34.
-
-Al frente de la Coordinación de Comunicación Social habrá un Coordinador de Comunicación Social, quien será designado y removido libremente por el C. Gobernador del Estado.
+Todo miembro del Ayuntamiento tiene facultad para realizar las propuestas que juzgue pertinentes, debiendo presentarlas por escrito al Secretario del Ayuntamiento. Dicho escrito, se presentará por lo menos veinticuatro horas antes de que se expida la convocatoria para la sesión de cabildo, excepto aquellos que por decisión de la mayoría y no habiéndose anticipado, demanden urgente resolución y canalizados al inicio de la sesión. En todo caso los autores podrán ampliarlas y fundarlas con el uso de la palabra.
 
 ### CAPITULO III. De las Votaciones
 
-###### ARTÍCULO 35.
+###### ARTICULO 35.
 
-Las unidades administrativas integrantes de la Coordinación de Comunicación Social contarán con el personal operativo y de mando que permita el Presupuesto Anual de Egresos autorizado.
+Las resoluciones o acuerdos del Ayuntamiento se tomarán por votación de la mayoría de los integrantes presentes, salvo en los casos que las leyes, reglamentos y el presente código establezcan lo contrario.
 
-#### SECCIÓN PRIMERA. De las Facultades del Coordinador de Comunicación Social
+###### ARTICULO 36.
 
-###### ARTÍCULO 36.
+Antes de comenzar la votación el secretario hará la siguiente declaración, “se somete a votación de este H. Ayuntamiento”, en seguida, procederá a recogerla en los términos previstos por este apartado.
 
-Corresponde al Titular de la Coordinación de Comunicación Social la atención, despacho y resolución de los siguientes asuntos:
+###### ARTICULO 37.
 
-I. Establecer, dirigir y controlar las políticas en materia de comunicación social del Poder Ejecutivo del Estado, de conformidad con los objetivos, metas y lineamientos que determine el C. Gobernador del Estado;
+Habrá tres formas de ejercer el voto en las sesiones del Ayuntamiento:
 
-II. Planear, programar, organizar, dirigir, controlar y evaluar las actividades de las unidades administrativas integrantes de la Coordinación de Comunicación Social y mantener informado al C. Gobernador del Estado, de la situación que guardan los asuntos que son de su competencia;
+I. Nominales;
 
-III. Someter al acuerdo del C. Gobernador del Estado, el desahogo de los asuntos que le encomiende, así como aquellos que conforme a las normas vigentes, requieran de su autorización;
+II. Económicas; y
 
-IV. Acordar con los titulares de las áreas a su cargo el desahogo de los asuntos bajo su responsabilidad y dictar las políticas y directrices para su adecuada operación;
+III. Por Cédula.
 
-V. Participar en la elaboración de los proyectos y programas institucionales específicos para difundir lo que el C. Gobernador del Estado le indique;
+###### ARTICULO 38.
 
-VI. Desempeñar las comisiones especiales que el C. Gobernador del Estado le confiera, e informarle oportunamente sobre el desarrollo de las mismas;
+Serán votaciones nominales, cuando:
 
-VII. Coordinar las conferencias y ruedas de prensa que le indique el C. Gobernador del Estado e informarle de los asuntos tratados, para la ejecución de las instrucciones correspondientes;
+I. Se requiera aprobar el Plan Municipal de Desarrollo;
 
-VIII. Informar a la población a través de los medios impresos y electrónicos, sobre la naturaleza y funciones de las dependencias y entidades estatales que ofrecen servicios a la comunidad, con el fin de que ésta pueda satisfacer sus requerimientos;
+II. En la aprobación de reglamento, circulares y disposiciones administrativas;
 
-IX. Coordinar con las dependencias y entidades del Gobierno del Estado la unificación de criterios, estrategias y acciones en materia de comunicación social;
+III. En el caso de iniciativas de reformas a la Constitución Política del Estado y Ley Orgánica; y
 
-X. Otorgar asesoría y apoyo a las dependencias y entidades de la Administración Pública Estatal en la elaboración de mensajes y estrategias de comunicación;
+IV. Todos aquellos casos, que a solicitud de cuando menos dos terceras partes de los miembros del Ayuntamiento, así lo acuerden.
 
-XI. Elaborar y ejecutar programas de promoción y difusión de los objetivos, metas y acciones de trabajo del Poder Ejecutivo del Estado, para el conocimiento de la población;
+###### ARTICULO 39.
 
-XII. Impulsar, conjuntamente con los titulares de las unidades administrativas incorporadas a la Coordinación de Comunicación Social los programas para elevar la calidad de los servicios y optimizar los recursos;
+La votación nominal se efectuará en la siguiente forma:
 
-XIII. Autorizar y aplicar los Manuales de Organización, Procedimientos y Políticas que se elaboren para regular el funcionamiento de la Coordinación de Comunicación Social conforme a los lineamientos que para tales efectos emita la Oficialía Mayor del Gobierno del Estado en materia de su competencia;
+I. El Secretario del Ayuntamiento dirá en voz alta el nombre y apellido, el integrante del cabildo añadirá el sentido de su voto;
 
-XIV. Autorizar los trámites relativos a la administración de los recursos asignados a la Coordinación de Comunicación Social, conforme a los lineamientos y normas aplicables;
+II. El Secretario anotará a los que voten afirmativamente así como quienes lo hagan en sentido negativo; y
 
-XV. Autorizar los informes, reportes y conciliaciones de información que le sean requeridos a la Coordinación, de acuerdo con las disposiciones jurídicas y administrativas vigentes;
+III. Concluida la votación el Secretario procederá a efectuar el cómputo y dirá el número total de cada lista.
 
-XVI. Aprobar los programas de trabajo de la Coordinación de Comunicación Social y en su caso, proponer las modificaciones a los mismos, de conformidad con las normas y disposiciones aplicables, así como velar su correcta y oportuna ejecución;
+###### ARTICULO 40.
 
-XVII. Presentar a la consideración del C. Gobernador del Estado en coordinación con la Secretaría de Finanzas del Estado, los proyectos de Programas y Presupuesto anuales de las unidades administrativas que integran la Coordinación de Comunicación Social y gestionar ante las instancias correspondientes los recursos necesarios para su ejercicio;
+La votación económica consistirá en levantar la mano quiénes se manifiesten en forma aprobatoria.
 
-XVIII. Proponer al C. Gobernador del Estado la creación, supresión o modificación de las unidades administrativas que integran la Coordinación de Comunicación Social de conformidad con las disposiciones aplicables y los lineamientos que para tales efectos emita la Oficialía Mayor del Gobierno del Estado;
+###### ARTICULO 41.
 
-XIX. Mantener informado al C. Gobernador del Estado respecto del desarrollo de las funciones encomendadas a la Coordinación de Comunicación Social;
+Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento serán económicas.
 
-XX. Expedir constancias, certificaciones y demás documentos que conforme a las disposiciones aplicables deba firmar;
+###### ARTICULO 42.
 
-XXI. Designar a los suplentes para que actúen en su nombre, en aquellas juntas, comisiones, consejos y demás grupos de trabajo interinstitucionales en los que forme parte;
+Las votaciones para elegir personas, se harán por cédula personal, asegurando el secreto del voto y se depositarán en una ánfora, el Secretario procederá al cómputo de la votación y manifestará en voz alta el resultado.
 
-XXII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomiende expresamente el C. Gobernador del Estado.
+###### ARTICULO 43.
 
-###### ARTÍCULO 37.
-
-Independientemente de las facultades señaladas en el artículo anterior, el titular de la Coordinación de Comunicación Social, desempeñara también aquellas que las disposiciones legales aplicables establezcan, conforme a su competencia.
-
-#### SECCIÓN SEGUNDA. De las Facultades de las Unidades Administrativas Dependientes de la Coordinación de Comunicación Social
-
-###### ARTÍCULO 38.
-
-Sin perjuicio de su ejercicio directo, el Coordinador de Comunicación Social, podrá delegar facultades a los Titulares de las unidades administrativas que integran la Coordinación de Comunicación Social en los términos del artículo 21 de la Ley Orgánica de la Administración Pública del Estado.
-
-###### ARTÍCULO 39.
-
-Al frente de cada una de las unidades administrativas integrantes de la Coordinación de Comunicación Social habrá un titular que será designado y removido libremente por el C. Gobernador del Estado.
-
-###### ARTÍCULO 40.
-
-Corresponde al Titular de la Dirección General de Información y Prensa la atención, resolución y despacho de los siguientes asuntos:
-
-I. Proponer los métodos y las normas para la formulación e integración de los programas de comunicación social del Poder Ejecutivo del Estado;
-
-II. Girar convocatorias a los medios de comunicación sobre las actividades del C. Gobernador del Estado;
-
-III. Emitir orden de trabajo sobre las actividades internas para la información pública del C. Gobernador de Estado;
-
-IV. Supervisar el material informativo que se distribuye a medios de comunicación tanto electrónicos como escritos y supervisar la difusión oportuna y amplia de las acciones y resultados de la ejecución de programas y acciones de trabajo del Poder Ejecutivo del Estado y en lo particular del C. Gobernador del Estado;
-
-V. Elaborar boletines y comunicados sobre las actividades del C. Gobernador del Estado, y de las Dependencias y Entidades Gubernamentales;
-
-VI. Producir los programas de comunicación que se establezcan para informar a la población sobre las acciones de Gobierno del Estado, procurando tener una interacción directa gobernador-ciudadano;
-
-VII. Realizar y preparar las publicaciones en revistas y periódicos para difundir las acciones de Gobierno del Estado y buscar mejor interacción gobernador-ciudadano;
-
-VIII. Constatar contenidos de los monitoreos en medios electrónicos y escritos;
-
-IX. Coordinar y programar entrevistas de radio y televisión en las que intervenga el C. Gobernador del Estado;
-
-X. Coordinar la elaboración de mensajes y estrategias de comunicación social de las dependencias y entidades de la Administración Pública Estatal;
-
-XI. Participar en la coproducción de programas de relevancia en radio y televisión con la intervención directa del C. Gobernador del Estado;
-
-XII. Mantener informado al titular, de la Coordinación de Comunicación Social, respecto del desarrollo de las funciones encomendadas al área; y
-
-XIII. Realizar las demás funciones que, conforme al ámbito de su competencia, le encomienden expresamente el C. Gobernador del Estado y el titular de la Coordinación de Comunicación Social o que se deriven de otras disposiciones legales aplicables.
-
-###### ARTÍCULO 41.
-
-Corresponde al Titular de la Dirección General de Difusión Institucional la atención, resolución y despacho de los siguientes asuntos:
-
-I. Elaborar, diseñar e implementar las estrategias publicitarias como de imagen de Gobierno del Estado;
-
-II. Establecer los mecanismos de coordinación que correspondan en todo aquel trabajo referente a la difusión de todas las dependencias y entidades del Gobierno del Estado;
-
-III. Coordinar las funciones con las demás áreas a su cargo de la Dirección General de Difusión Institucional, siendo aquellas las que aparecen en los manuales que se publiquen;
-
-IV. Mantener informado al titular de la Coordinación de Comunicación Social respecto del desarrollo de las funciones encomendadas a la Dirección General (sic) Difusión Institucional; y
-
-V. Realizar las demás funciones que, conforme al ámbito de su competencia le encomiende el C. Gobernador del Estado y el titular de la Coordinación de Comunicación Social o que se deriven de otras disposiciones legales aplicables.
-
-###### ARTÍCULO 42.
-
-Corresponde al Titular de la Dirección General de Video Producción la atención, despacho y resolución de los siguientes asuntos:
-
-I. Documentar en vídeo las principales actividades públicas del C. Gobernador del Estado así como los logros de la administración;
-
-II. Planear, organizar, coordinar y controlar la producción de mensajes para los medios electrónicos de radio y televisión de acuerdo al plan anual de difusión y a las estrategias y diseño de campañas que le indique el titular de la Coordinación de Comunicación Social;
-
-III. Planear, organizar y coordinar la producción de cápsulas y programas especiales de difusión para radio y televisión;
-
-IV. Planear, organizar y coordinar la producción de radio de los siguientes programas:
-
-A) Aguascalientes en la Hora Nacional;
-
-B) Poder Joven Radio; y
-
-C) Los demás que se realicen y en donde se proyecte la imagen institucional del Gobierno del Estado;
-
-V. Mantener informado al titular de la Coordinación de Comunicación Social respecto del desarrollo de las funciones encomendadas al área; y
-
-VI. Realizar las demás funciones que conforme al ámbito de su competencia, le encomiende expresamente el C. Gobernador del Estado y el titular de la Coordinación de Comunicación Social.
-
-###### ARTÍCULO 43.
-
-Las ausencias temporales o accidentales menores a treinta días de: el Secretario Particular, el Secretario Privado, el Coordinador de Asesores, el Director General de Administración y Servicios o el Coordinador de Comunicación Social, serán suplidas en el ámbito de sus respectivas competencias, por los titulares de las unidades administrativas dependientes de ellos, conforme al presente Reglamento. En ausencias mayores a treinta días, el C. Gobernador del Estado designará al suplente en cada caso.
+En caso de empate, independientemente de la forma de ejercer el voto empleado, el Presidente Municipal, resolverá la cuestión en ejercicio de su voto de calidad.
 
 ### CAPITULO IV. De las Comisiones
 
-###### ARTÍCULO 44.
+###### ARTICULO 44.
 
-Los Titulares de las unidades administrativas de la Secretaría Particular, Secretaría Privada, Coordinación de Asesores, Dirección General de Administración y Servicios y, Coordinación de Comunicación Social, serán suplidos en sus ausencias temporales o accidentales menores a quince días, por los servidores públicos con nivel inmediato inferior, en sus respectivos ámbitos de competencia. Si la ausencia es mayor, serán suplidos por quienes designen el Secretario Particular, el Secretario Privado, el Coordinador de Asesores, el Director General de Administración y Servicios y el titular de la Coordinación de Comunicación Social, en sus respectivas competencias.
-
-T R A N S I T O R I O S:
-
-PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO: Se abroga el Reglamento Interior de la Secretaría Particular publicado en el Periódico Oficial del Estado el 2 de noviembre de 2009.
-
-TERCERO: Se abroga el Reglamento Interior de la Coordinación de Comunicación Social, publicado en el Periódico Oficial del Estado el 29 de marzo de 2010.
-
-CUARTO: La Secretaría Particular, la Secretaría Privada, la Coordinación de Asesores, la Dirección General de Administración y Servicios y la Coordinación de Comunicación Social cuentan con noventa días naturales a partir de la fecha de publicación del presente, para que elaboren sus respectivos Manuales de Organización, los cuales deberán ser registrados en la Oficialía Mayor del Gobierno del Estado.
-
-Dado a los treinta días del mes de enero de 2012.
-
-A T E N T A M E N T E
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN
-
-Ing. Carlos Lozano de la Torre,
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES.
-
-Lic. Antonio Javier Aguilera García
-
-JEFE DE GABINETE.
-
-Lic. Alejandro Bernal Rubalcava
-
-SECRETARIO PARTICULAR.
-
-T.C. Víctor Manuel Vera Burgos
-
-SECRETARIO PRIVADO.
-
-Lic. José Gregorio Macías Moreno
-
-COORDINADOR DE ASESORES
-
-C.P. José Luis Carrillo Cruz
-
-DIRECTOR GENERAL DE ADMINISTRACIÓN Y SERVICIOS
-
-Lic. Carlos Penna Charolet
-
-COORDINADOR DE COMUNICACIÓN SOCIAL.
+Para estudiar, examinar y proponer alternativas de solución a los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, este órgano colegiado, organizará comisiones que podrán ser permanentes o transitorias.
 
 ###### ARTICULO 45.
 
@@ -1513,6 +1067,10 @@ g) No ser ministro de algún culto religioso.
 
 h) Presentar dos cartas de recomendación expedidas por personas a quien hubieren prestado anteriormente sus servicios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 89 BIS.- La Administración Pública Municipal se abstendrá de exigir el examen de gravidez, el certificado médico de no embarazo y de Virus de Inmunodeficiencia Humana (VIH), como requisito de ingreso, permanencia o ascenso en el centro de trabajo, así como el despido o la coacción de la renuncia por motivos de embarazo, cambio de estado civil o tener bajo cuidado a familiares dependientes.
+
 ###### ARTICULO 90.
 
 Cuando se trate de puestos que requieran conocimientos técnicos o profesionales, el solicitante, además de los requisitos a que se refiere el artículo anterior, presentará constancia fehaciente de sus conocimientos y estudios en la materia.
@@ -1686,6 +1244,10 @@ b) Los días de descanso obligatorio en las dependencias en donde se prestan ser
 c) LICENCIAS O PERMISOS.- En todo caso las licencias o permisos se otorgarán de acuerdo a lo dispuesto por el artículo por el artículo 51-1 de la Ley Estatal y al convenio laboral. Los permisos económicos hasta por 3 días con goce de sueldo sólo se otorgarán en días intermedios de la semana (martes, miércoles, jueves), salvo que se compruebe la necesidad se otorgarán en principio o fin de semana.
 
 El personal que no cuente con seis meses de antigüedad, no tendrá derecho a permisos económicos con goce de sueldo; y
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+
+En el caso de que el trabajador compruebe la necesidad de ofrecer un cuidado a dependientes o terceros, se otorgará un permiso especial para adecuar su horario laboral de acuerdo a sus necesidades, a consideración de su jefe inmediato y la Secretaría de Administración.
 
 d) VACACIONES.- Los períodos de vacaciones serán dos al año, serán fijados por la autoridad facultada del Municipio, preferentemente a mediados del año y en el mes de diciembre.
 
@@ -3107,859 +2669,615 @@ VI. Los comerciantes que debidamente autorizados instalen un puesto fijo o semif
 
 Para la debida regulación de los mercados y centros de abasto, se observará lo dispuesto en el apartado V del Libro Tercero de este Código.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+
 APARTADO SEXTO
 
 DE LOS ESPECTACULOS EN EL MUNICIPIO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 259.
 
-Las disposiciones de este apartado son aplicables a los espectáculos públicos en general, que funcionen en el Municipio de Querétaro.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 260.
 
-Quedan comprendidos en este apartado y sujetos a sus disposiciones, los espectáculos y diversiones públicas siguientes:
-
-Las representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedad, las corridas de toros, las carreras y las competencias humanas y de animales y de todo tipo de vehículos, ya sean estos mecánicos o dinámicos, exposiciones y exhibiciones de pinturas, esculturas, artesanías o cualquier otro género de arte; las conferencias con fines informativos o de cultura; las exhibiciones aeronáuticas, los circos, ferias y otros, el fut-bol, béisbol, basquet-bol, frontón y demás juegos de pelota; las peleas de box y lucha y demás eventos deportivos; gimnasios, billares, boliches, patinadores, golfitos, bailes públicos, los cabarets y albercas; los juegos electrónicos y en general todos aquellos que se organizan para que el público mediante pago o gratuitamente concurra a divertirse o a educarse.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 261.
 
-En todas las puertas de los centros de espectáculos que conduzcan al exterior del edificio, habrá letreros con la palabra “salida”, sobre los muros habrá flechas que indiquen la dirección de la misma, las letras tendrán una altura máxima de 15 cm., y los letreros estarán iluminados con luz artificial distinta a la iluminación general y protegidos con pantalla de cristal. Esas luces deberán estar encendidas desde 15 minutos antes de comenzar el espectáculo y hasta que haya sido desalojado completamente el local.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 262.
 
-Las puertas de salida de emergencia en todos los centros de diversiones de espectáculos, permanecerán cerradas durante las funciones, pero de tal manera que el público las pueda abrir instantáneamente sin ningún esfuerzo, si por algún motivo tuviera que desalojar rápidamente el lugar.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 263.
 
-Todos los locales destinados a diversiones públicas estarán suficiente y convenientemente ventilados, cuando la aglomeración sea excesiva, se exigirá la instalación de abanicos electrónicos y extractores de aire, para generar la renovación del ambiente. Asimismo, satisfacerán todos los requisitos de higiene.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 264.
 
-En todos los lugares destinados a espectáculos públicos o diversión, deberá existir teléfono público dentro del mismo en perfecto funcionamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 265.
 
-Queda estrictamente prohibido vender o introducir vinos y licores en los centros de espectáculos en general, salvo en aquellos en que la naturaleza de los mismos lo requiera.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 266.
 
-A partir de la vigencia del presente código quedan terminantemente prohibidas las rifas, quinielas y cualquier otro juego de azar, realizados durante o en el intermedio de los espectáculos o festejos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 267.
 
-Cualquier comercio que se instale en el interior del edificio o lugar ocupado para ofrecer al público algún espectáculo o festejo, sea propiedad del empresario, de un tercero extraño o del concesionario, para poder iniciar sus actividades, necesita obtener previamente, permiso de la autoridad municipal, en articular (sic) respecto a los precios a que se venderán las mercancías al público espectador.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 268.
 
-En lo relacionado con los espectáculos cinematográficos, la autoridad municipal, deberá autorizar los precios y controlar el número de boletos de acuerdo con el aforo practicado y de vigilar en todas las circunstancias porque no se afecte a la moral, las buenas costumbre (sic) y el orden público, así como el cumplimiento y la prohibición para que no se permita la entrada de menores o adolescentes en la exhibición de películas cuya clasificación indique no ser apta para ellos, vigilando estrictamente además que en las funciones propias y exclusivas para niños y jóvenes adolescentes, no se exhiba propaganda de películas autorizadas sólo para adultos, ni utilizar aquellas para anunciar eventos diferentes que incurran en la misma infracción.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 269.
 
-Los locales destinados a ofrecer espectáculos públicos, deberán reunir las siguientes condiciones:
-
-I. Contar con los implementos, instalaciones y enseres necesarios para la seguridad del público;
-
-II. Contar con servicios sanitarios ajustados a lo que establece el reglamento de construcción y separados para cada sexo; y
-
-III. No tener acceso interior con habitaciones o cualquier otro local ajeno al establecimiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 270.
 
-Los propietarios, administradores o encargados de los establecimientos, destinados a ofrecer espectáculos públicos, tendrán las siguientes obligaciones:
-
-I. Procurar que el interior y exterior de los locales se conserven en buenas condiciones de limpieza;
-
-II. Exhibir con letras legibles la lista de precios que corresponda a los espectáculos que se presentan;
-
-III. Exhibir en lugar visible la licencia de funcionamiento;
-
-IV. Destinar exclusivamente el local para la actividad o actividades a que se refiere la licencia;
-
-V. Contar con el personal necesario para el funcionamiento eficiente;
-
-VI. Impedir el acceso y la utilización de las instalaciones a personas en estado de ebriedad o bajo el influjo de estupefacientes;
-
-VII. Impedir que en el interior se fijen leyendas, anuncios impresos o propaganda de carácter político o religioso;
-
-VIII. Prevenir las conductas que atenten al pudor y ofendan la moral;
-
-IX. Impedir que el pago de los servicios se haga en especie o se reciban bienes en prenda;
-
-X. Impedir la entrada a personas armadas, exceptuando los miembros o corporaciones policiacas que estén destinadas al servicio de seguridad en ese lugar;
-
-XI. Prohibir que se crucen apuestas en el interior de los locales;
-
-XII. Respetar el aforo autorizado a los locales en los que se presentan espectáculos públicos; y
-
-XIII. Cumplir además con las normas establecidas en este reglamento, demás disposiciones municipales y leyes de la materia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 271.
 
-La venta de boletos para la asistencia a espectáculos públicos, podrá efectuarse por anticipado previa autorización de la autoridad municipal.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 272.
 
-Las empresas promotoras y particulares serán responsables del cumplimiento de las condiciones establecidas por las autoridades correspondientes y por la no presentación del espectáculo, caso en el cual deberán devolver el monto total del boleto pagado por el espectador, debiendo poner el importe que corresponda a disposición de los espectadores en las taquillas autorizadas en un plazo máximo de 48 horas a partir del anuncio de la cancelación o cambio de fecha del espectáculo.
-
-Los cargos adicionales cobrados por las empresas comercializadoras de boletos por la expedición de los boletos del evento, serán devueltos por éstas en términos del párrafo anterior.
-
-No se otorgará a las empresas y particulares nueva autorización hasta en tanto acrediten haber cumplido la obligación impuesta en el párrafo anterior.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 273.
 
-Los empresarios o propietarios de las salas cinematográficas o teatrales, serán responsables de las publicaciones que se hagan en periódicos o en carteleras con dibujos, fotografías o textos que ofendan la moral y las buenas costumbres.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 274.
 
-Para efectos administrativos y fiscales en la aplicación de este código, los espectáculos públicos sujetos a la autoridad municipal, se dividen en los siguientes grupos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. De las carreras de automóviles.
-
-De las carreras de bicicletas
-
-De las carreras de motocicletas.
-
-De los clubes o centros deportivos.
-
-De los juegos mecánicos, electromecánicos y electrónicos accionados con fichas o monedas.
-
-De los salones de boliche y billar.
-
-II. De los espectáculos de box y lucha libre.
-
-De los espectáculos taurinos.
-
-De los espectáculos teatrales y musicales.
-
-Del juego profesional de pelota en frontón.
-
-De los espectáculos profesionales de basket-bol, béisbol, fútbol o similares
-
-De las salas públicas de cine.
-
-III. De los bares.
-
-De los cabarets.
-
-De las cantinas.
-
-De las peñas.
-
-De los restaurantes.
-
-De los salones de baile.
-
-De los salones de fiesta.
-
-De los salones discotecas.
-
-De los centros nocturnos, tabernas, pulquerías, o expendio de bebidas alcohólicas.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO II. De las Licencias y Permisos
 
 ###### ARTICULO 275.
 
-El Ayuntamiento y sus Delegados Municipales, otorgarán las licencias, permisos o autorizaciones en general que se les soliciten, para el funcionamiento de los espectáculos públicos de acuerdo con las disposiciones de este reglamento y demás ordenamientos municipales.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 276.
 
-Los interesados en obtener la licencia o autorización correspondiente para la actividad a que se refiere este ordenamiento, deberán previamente empadronarse en la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, salvo disposición en contrario de la Autoridad Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 277.
 
-Para los efectos de este código, se considera como LICENCIA: El documento expedido por el Ayuntamiento que permite el funcionamiento de espectáculos públicos, regulado por este ordenamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2016)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 278.
 
-Los interesados en obtener licencia de funcionamiento, deberán presentar solicitud por escrito a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología con los siguientes datos y documentos:
-
-I. Nombre, domicilio y nacionalidad del solicitante, en caso de extranjero deberá acreditar que está autorizado por la Secretaría de Gobernación de la República, así como su residencia por la Secretaría de Relaciones Exteriores, para dedicarse a esa actividad;
-
-II. Ubicación del local donde pretenda establecerse;
-
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-III.- Fotocopia de la cédula de empadronamiento expedida por la autoridad municipal competente, en su caso;
-
-IV. Constancia expedida por la oficina que corresponda, relativa a que el local satisface las condiciones de seguridad y que cuenta con el equipo necesario contra incendio;
-
-V. Depósito de una garantía en numerario o criterio de la Autoridad Municipal; y
-
-VI. Certificación de que cumple con todos los requisitos de higiene y buen funcionamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 279.
 
-En la solicitud de autorización para cualquier espectáculo, debe constar el número de localidades y tipo de estas; en ningún caso y por ningún motivo se permitirá que se aumente el cupo autorizado colocando asientos o sillas en pasillos, corredores o lugares en que puedan obstruir la circulación del público a las salidas de emergencia o impida el libre acceso y circulación de los espectadores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 280.
 
-Ningún espectáculo o diversión podrá ofrecerse al público sin el previo permiso que deberá solicitarse a la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 281.
 
-El permiso que la autoridad municipal conceda para el espectáculo, determinará las condiciones en que se podrá vender golosinas, comida, refrescos, etc., prohibiéndose la venta en recipientes de metal o de vidrio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 282.
 
-La autoridad municipal, concederá permiso para realizar cualquier espectáculo público siempre que el lugar en que se va a presentar reúna las condiciones que se señalan en este código, las de seguridad e higiene y demás requeridas por otras disposiciones gubernamentales municipales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 283.
 
-Las licencias o autorizaciones administrativas se podrán expedir para una temporada, para una sola función o funciones, o para un acto determinado o bien, por un plazo fijo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 284.
 
-Las solicitudes de permiso para presentar espectáculos públicos, deben contener los siguientes requisitos:
-
-I. Nombre y domicilio del empresario;
-
-II. La clase de espectáculos que se van a presentar con la inclusión del programa a que se sujetará el desarrollo;
-
-III. Lugar, fecha y hora de presentación del espectáculo;
-
-IV. El precio de admisión que se pretenda cobrar en cada localidad para su aprobación provisional o definitivo (sic);
-
-V. Los lugares en los que con exclusividad se efectuará la venta de boletos, y el nombre de las personas comisionadas para ello;
-
-VI. El número máximo de boletos para la admisión de cada localidad que se pondrán a la venta, así como el número máximo de boletos y pases de cortesía;
-
-VII. Cuando se trate de espectáculos que se presenten por temporadas, se expresarán las fechas de iniciación y terminación; y
-
-VIII. En caso de espectáculos permanentes o temporales, deberá hacerse constar esta circunstancia en la solicitud.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 285.
 
-Las licencias a que se refiere el presente reglamento, dejarán de surtir sus efectos por cancelación o caducidad, por haber vencido el término o plazo por el que se otorgaron, de conformidad con lo establecido por este ordenamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 286.
 
-Para el otorgamiento de licencias a que se refiere este ordenamiento, deberá comprobarse el cumplimiento de las normas que sobre el particular establezca el código sanitario y sus reglamentos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 287.
 
-El registro de la licencia deberá revalidarse anualmente, para este efecto, lo (sic) interesados dentro de los tres primeros meses de cada año, deberán presentar solicitud por escrito, acompañada de los siguientes documentos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
-
-I. Fotocopia del comprobante de la Secretaría de Finanzas que acredite haber cubierto los derechos correspondientes al periodo anterior; y
-
-II. Fotocopia de la licencia de funcionamiento, así como la patente respectiva.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO III. De las Empresas Promotoras
 
 ###### ARTICULO 288.
 
-A fin de que se pueda exigir su exacto cumplimiento, las promesas que empresarios hagan al público serán completamente claras y precisas, igualmente anunciarán en su programa si los boletos de entrada se expiden para permanencia voluntaria o para única función.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 289.
 
-El anuncio de las obras que constituyen el espectáculo deberá hacerse precisamente en español con sus verdaderos títulos, sin adiciones ni supresiones y con los seudónimos de sus autores, traductores o adaptadores.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 290.
 
-Los boletos de toda clase de espectáculos serán vendidos exclusivamente en las taquillas autorizadas, previo sellado por la autoridad municipal competente; salvo en el caso en que la venta sea a través de empresa comercializadora de boletos electrónicos de acceso a eventos, lo cual deberá de estar previamente aprobado por la autoridad municipal.
-
-Las empresas comercializadoras de boletos deberán dar aviso a la Secretaría de Gobierno Municipal de la venta de los boletos de cualquier espectáculo a realizar.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 291.
 
-Al abrirse las taquillas para la venta de localidades, deberá existir la dotación completa de boletos, habrá siempre a la vista del público un plano de todas las localidades.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 292.
 
-La numeración que se fije en luneta, palcos, plateas y gradas, será perfectamente visible, la venta de dos o más boletos con un mismo número y una misma localidad será sancionada; cuando suceda este caso, tendrá derecho a ocupar el asiento la persona que primero haga uso de él.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 293.
 
-Las empresas deberán tener el personal de acomodadores suficientes para instalar a los espectadores en sus respectivas localidades, como también personal de vigilancia en el interior del local.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 294.
 
-Queda estrictamente prohibido a las empresas de espectáculos vender, en ningún caso y por ningún motivo, mayor número de localidades de las que tiene autorizadas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 295.
 
-Se prohibe a las empresas cualquier sobreprecio de los boletos de espectáculos públicos, so pretexto de reservación, preferencia, apartados o cualquier otro motivo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 296.
 
-En ningún caso y por ningún motivo, podrán las empresas arbitrariamente fijar los precios de las localidades para espectáculos públicos, dichos precios, deberán estar sujetos a la aprobación de la presidencia municipal y serán fijados por la misma autoridad, en las que se tomará en cuenta la naturaleza de cada espectáculo, la localidad de éste, las condiciones de higiene y seguridad del lugar donde se verifique. Sin tales requisitos no será autorizada la propaganda del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 297.
 
-Para garantizar la localidad del espectáculo, todas las empresas o promotores permanentes o eventuales, acreditarán ante la autoridad municipal en representación tres días antes de iniciar las funciones; esta persona será solidariamente responsable, juntamente con la empresa o promotor, del cumplimiento del programa autorizado.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 298.
 
-Las empresas deberán poner en lugares fácilmente visibles, avisos donde se prohiba fumar en el interior de la sala del espectáculo, en los que se advierta al público la prohibición de hacerlo en el interior de la sala y será consignado el infracto cuando contravenga esta disposición ante la autoridad competente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 299.
 
-Al concluir todo espectáculo público, la empresa queda obligada a practicar una inspección de los diversos departamentos del edificio para cerciorarse de que no hay indicio de que se produzca algún siniestro.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 300.
 
-Cuando por naturaleza o características del espectáculo, el artista, cantante, bailarín, deportista o cualquier otra persona que participe en el mismo, requiera para intervenir, de un examen médico de salud físico o mental, el empresario tiene obligación de presentar oportunamente dicho dictamen a la Autoridad Municipal para demostrar que aquél no padece enfermedad alguna o trastornos transitorios, originados por la ingestión de bebidas alcohólicas, uso de drogas o estupefacientes, a fin de garantizar la seguridad personal del participante y el respeto al público asistente, sin el exacto acatamiento a lo antes ordenado; el inspector está facultado para impedir la actuación de aquella persona cuyo estado de salud sea notoriamente inconveniente, y ordenar que en el acto sea examinado por un médico para que de acuerdo con el resultado se le autorice o no su participación en el espectáculo; es obligación de todo empresario, cuando así lo requiera la naturaleza del espectáculo, instalar en el lugar o edificio en que se desarrolle éste, los servicios médicos necesarios para la debida atención del personal a sus órdenes y del público asistente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 301.
 
-La celebración de cualquier espectáculo se sujetará a las siguientes normas:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. El empresario deberá presentar a la presidencia municipal los boletos para que sean revisados y sellados;
-
-II. Deberá entregar la lista de precios que el empresario pretenda cobrar a los asistentes a fin de que la propia autoridad municipal determine si son o no de autorizarse;
-
-III. El empresario deberá exhibir a la autoridad el aforo del cupo de los estadios, plazas de toros, salas o cualquier otro lugar donde se presenten espectáculos públicos, para que la propia presidencia en vista del dictamen que emita la propia autoridad o el inspector investigador, determine lo conducente;
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2015)</small>
-
-IV. Los empresarios deberán poner a la venta los boletos ya sea por sí o a través de empresas debidamente autorizadas, dedicadas a la comercialización de boletos electrónicos de acceso a eventos.
-
-V. Los empresarios cumplirán debidamente con el espectáculo que indiquen en su programa, de conformidad con el propuesto en su solicitud, debidamente aprobado por la presidencia municipal;
-
-VI. La publicidad o propaganda del espectáculo, se efectuará por los medios informativos acostumbrados;
-
-VII. Los carteles, poster y similares, sólo podrán fijarse en los lugares destinados para ello; las mantas u otro tipo de publicidad, la fijación y ubicación de las mismas, deberá someterse a la aprobación de la autoridad municipal; y
-
-VIII. La publicidad y propaganda de cualquier espectáculo, será posterior al permiso o autorización del evento.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO IV. Del Control y Vigilancia
 
 ###### ARTICULO 302.
 
-La autoridad municipal, una vez autorizada la presentación de cualquier espectáculo público, deberá vigilar el desarrollo del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 303.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCIÓN PARA EL MUNICIPIO DE QUERÉTARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 304.
 
-Para la vigilancia de los espectáculos y para hacer cumplir este código, la presidencia municipal designará a los inspectores de espectáculos quienes tendrán autoridad amplia y suficiente para resolver los problemas inmediatos que se presenten desde una hora antes de la función hasta que ésta termine, debiendo cumplirse sus determinaciones que serán con la personalidad de representante de la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 305.
 
-Asimismo habrá un interventor en cada espectáculo, quien se encargará del cobro de las contribuciones municipales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 306.
 
-La policía en funciones que concurra al espectáculo, estará bajo las órdenes del inspector correspondiente, salvo disposición en contrario de la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 307.
 
-El Inspector del espectáculo, se auxiliará de la policía y en su caso del personal de la empresa para hacerse respetar y exigir el cumplimiento de este reglamento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 308.
 
-Las empresas y policías están obligadas a prestar toda la colaboración que sea necesaria al inspector de espectáculos para hacer cumplir este código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 309.
 
-El inspector del espectáculo, además de las facultades que le confiere este apartado, podrá expulsar del lugar en que se verifique el espectáculo a la persona que altere el orden o que no atienda las indicaciones que se le hagan para guardar compostura y respeto al público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 310.
 
-Tanto la autoridad, como la empresa, se reservan el derecho de negar la entrada al espectáculo a aquellas personas cuyo estado físico o mental de lucidez se considere que no es el conveniente porque puedan provocar alteraciones del orden o no causar molestias al público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 311.
 
-Son deberes y obligaciones del inspector de espectáculos los siguientes:
-
-I. Cerciorarse de que la autorización y el programa del espectáculo estén en orden; que los boletos estén sellados por el departamento correspondiente y que se exhiban en su totalidad; y que se cubrieron todos los requisitos que emanan de este reglamento y demás disposiciones municipales;
-
-II. Exigir a las empresas se inicie la función precisamente a la hora anunciada, sin retardo;
-
-III. Consignar a la disposición de la presidencia municipal a las personas que sean sorprendidas revendiendo boletos en cualquier espectáculo y cancelará o anulará los boletos que se recojan;
-
-IV. Impedir que se vendan mayor número de boletos del cupo que se tenga autorizado para la función respectiva;
-
-V. Resolver los casos en que las circunstancias requieran la alteración del programa por causas de fuerza mayor,
-
-VI. Cuando haya variación en el programa por fuerza mayor, exigirá a la empresa la amplia difusión del cambio de programa, actor o artista y horario, explicando los motivos de dicho cambio;
-
-VII. Resolver según el caso, de devolución parcial o total del valor del boleto en los casos de cambio de programa, horario o suspensión parcial o total de la función;
-
-VIII. Verificar que la empresa o persona responsables no permitan la entrada a menores de edad en programa de adultos;
-
-IX. Vigilar que en las funciones para menores no se exhiban avances especiales para adultos;
-
-X. Exigir que la empresa instale en lugares visibles anuncios que digan que la persona que fume en el interior de los salones de espectáculos será consignada a las autoridades, en los casos que así se requiera;
-
-XI. Cuando un asistente o aficionado al espectáculo se conduzca en forma grosera e inmoral o falte el respeto al público en general y a los actores de palabra y obra, se le amonestará y si no modera su comportamiento, será consignado, imponiéndole una multa según la gravedad del caso, independientemente del delito que resultare;
-
-XII. Amonestar a los que se sorprenda fumando en el interior del espectáculo y si reinciden, hacerlos desalojar la sala consignándolos a las autoridades municipales;
-
-XIII. Vigilar que la empresa no permita que los espectadores permanezcan de pie en el interior de la sala;
-
-XIV. Exigir que la empresa no permita que los concurrentes permanezcan en los pasillos y departamentos destinados a comunicación directa con la sala de espectáculos e impedir que se agreguen sillas en los pasillos;
-
-XV. Exigir que los centros de espectáculos, como lo previene el presente código, estén provistos de los extinguidores de incendio que se requieren;
-
-XVI. Exigir que la empresa impida el acceso al espectáculo público de toda persona que porte armas prohibidas por la ley; salvo de los miembros de cualquier cuerpo de policía que esté consignado para la seguridad del local;
-
-XVII. Procurar que las empresas pongan múltiples avisos a la vista del público en los que se advierta la prohibición de fumar en las salas de espectáculos. Evitar que en el foro o lugar de la celebración del espectáculo permanezcan personas ajenas a la compañía o a la empresa, debiendo éstas dar facilidades a dicho inspector para que sea cumplida la disposición en todos los espectáculos y diversiones;
-
-XVIII. Rendir inmediatamente un informe detallado y circunstanciado a la presidencia municipal, dando cuenta de las infracciones cuando las hubiere; y
-
-IX (sic). Exigir a los empresarios que estén en perfecto funcionamiento los extinguidores y puertas de emergencia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 312.
 
-En cualquier caso en se tenga conocimiento de que el empresario no ha reunido los requisitos señalados en el presente apartado, los inspectores levantarán las infracciones correspondientes y las turnarán al jefe de la oficina para la calificación y determinación de la sanción, que será aumentada, disminuida o nulificada, únicamente por el Presidente Municipal.
-
-Para ello redactarán un acta circunstanciada en la que harán constar en forma clara y ordenada los hechos, causa de la infracción imputable al empresario y la cita exacta y correcta de las disposiciones de este apartado violadas por el infractor; diligencia que se practicará en presencia del empresario o de su representante, o en ausencia de los anteriores o negativa, ante dos testigos.
-
-El acta deberá estar firmada por el inspector y por el empresario o quien lo represente, si el empresario o su representante se niegan a firmar podrán hacerlo dos testigos, haciéndose constar la negativa.
-
-La autoridad municipal, una vez que reciba el acta en que consten las infracciones, determinará el monto de las multas y la orden para que cumpla con lo dispuesto por este código, señalando al efecto un plazo de tres días para el pago de las primeras y otro término igual para que el infractor realice la conducta omitida o se abstenga de continuar realizando el acto indebido.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 313.
 
-En caso de oposición violenta por parte de los empresarios, de sus empleados, o cualquier otra persona para hacer respetar lo dispuesto por este reglamento a las medidas decretadas por el inspector éste tendrá a su disposición el auxilio de la fuerza pública.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 314.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCIÓN PARA EL MUNICIPIO DE QUERÉTARO, P.O. 16 DE NOVIEMBRE DE 2001) (REPUBLICADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO V. De los que Intervienen en los Espectáculos
 
 ###### ARTICULO 315.
 
-Para los efectos de este apartado, se entiende por actor o artista, aquel que figure individual o en grupo en los programas, o tomen parte en un espectáculo público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 316.
 
-Los artistas que tomen parte en la función anunciada, deberán estar en el teatro cuando menos media hora antes de principiar el espectáculo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 317.
 
-Los actores guardarán en escena debida compostura, así en acción como en la palabra, evitando cuidadosamente cualquier acto, postura o expresión contrarias al decoro o a la moral.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 318.
 
-Todos los escritores y productores de piezas teatrales, disfrutarán de los derechos sobre la libre emisión del pensamiento que consigna la Constitución Política de los Estados Unidos Mexicanos, y la del Estado de Querétaro.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 319.
 
-Sin embargo, de conformidad con las restricciones de los preceptos constitucionales, todos los actores, locutores, adaptadores, empresarios y artistas, son responsables ante las autoridades de los ataques a la paz pública y a la moral, a la vida privada de las personas que contengan sus producciones escénicas, quedando en todo sujetos a las prevenciones y sanciones de este código, sin perjuicio de que sean consignados los responsables a las autoridades competentes, en su caso.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 320.
 
-Cuando el delito o falta no consistiere en lo que los autores hubieren escrito sino que se sumara por las palabras añadidas por los artistas, consistentes en acciones o ademanes de éstos, serán consignados el culpable a las autoridades competentes en su caso, o sancionado por falta a la autoridades administrativas, según la gravedad de la falta.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 321.
 
-En las obras o escenas con tema de carácter político, no podrán colaborar, en ninguna forma, los extranjeros.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 322.
 
-Cuando en la representación de una obra se ofenda el pudor o la vida privada de las personas, se ataque a nuestras instituciones, o se insulte a las autoridades, la presidencia municipal revocará el permiso concedido y no autorizará una nueva representación, hasta que sean retiradas de las obras las alusiones y ofensas a que se refiere el presente artículo sin perjuicio de que se apliquen a los responsables las sanciones que les corresponden de acuerdo con las leyes que nos rigen.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 323.
 
-Si algún actor, deportista, cantante, director, técnico o cualquier otra persona que intervenga directamente en la representación de un espectáculo o festejo, incurra en actos de desacato a la autoridad, se burla o le falte el respeto al público de la palabra o por acción se cometieren hechos delictuosos, el inspector o la autoridad correspondiente, detendrá al presunto responsable y lo pondrá a disposición de las Autoridades competentes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 324.
 
-La oficina de espectáculos municipales, dictará administrativamente las medidas de seguridad que deberán adoptarse para que los artistas, actores, deportistas, cantantes, directores, técnicos o cualquier otra persona que intervenga directa o indirectamente en la presentación de algún espectáculo o festejo, estén a salvo de agresiones por parte del público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-La agresión de cualquier espectador a los deportistas, actores, artistas, cantantes, directores, técnicos o cualquier persona que intervenga directa o indirectamente en la presentación de algún espectáculo o festejo, será sancionada.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO VI. De los Espectadores
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
-
 ###### ARTICULO 325.
 
-Los asistentes a cualquier espectáculo público tienen el derecho de exigir en cualquier tiempo, la devolución de la cantidad que hayan entregado por sus respectivos pagos, incluyendo cargos adicionales por servicios si los hubiere, en caso de que las empresas faltaren a sus compromisos. Si la falta de cumplimiento fuere parcial, el caso será resuelto por la Secretaría General de Gobierno.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 326.
 
-Queda estrictamente prohibida la entrada a menores de edad en programas clasificados sólo para adultos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 327.
 
-Los espectadores guardarán durante el espectáculo el silencio, la compostura y la circunspección debida. El que hiciere manifestaciones ruidosas de cualquier clase que interrumpan o impidan el desarrollo de la función, será expulsado del salón sin reintegrarle el importe de su localidad. No se entenderán por interrupciones las manifestaciones de agrado desagrado hechas por el público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 328.
 
-Queda prohibida la entrada a cualquier espectáculo a las personas que porten armas prohibidas por la ley o en estado inconveniente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 329.
 
-Queda prohibido estrictamente a los espectadores durante las funciones permanecer de pie en las puertas de las salas de espectáculos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 330.
 
-Queda prohibido estrictamente a los espectadores durante las funciones permanecer de pie en las puestas (sic) de las salas de espectáculos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 331.
 
-Tratándose de compañías de ópera, ballet, conciertos y audiciones puramente musicales, una vez que principie la función, serán cerradas las puertas de las salas, debiendo esperar el público retrasado a que haya terminado el acto, para entrar en el salón.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 332.
 
-El o los espectadores, que con ánimo de originar una falsa alarma ante los asistentes a cualquier diversión, lancen la voz de fuego, de alarma o cualquier otra semejante, que por su naturaleza infunda pánico en el público, serán sancionados.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 333.
 
-El público que asista a las corridas de toros, carreras de animales, de vehículos y humanas, eventos deportivos y demás espectáculos al aire libre, está obligado a guardar la debida compostura, no debe lanzar insultos a los participantes ni a los jueces, igualmente, le está prohibido coaccionar a estos últimos para que varíen su fallo, así como arrojar objetos a la pista, o lugar de celebración del evento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 334.
 
-Queda estrictamente prohibido que el público invada la pista o se sitúe dentro de ella, así como que se coloque en la zona de protección de la misma o en aquellos lugares que en cada caso señale la empresa.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO VII. Del Desarrollo de las Funciones de Espectáculos
 
 ###### ARTICULO 335.
 
-Las funciones teatrales y en general toda clase de espectáculo públicos, comenzarán exactamente a la hora señalada en los programas autorizados. Estos serán estrictamente cumplidos, salvo en los casos de fuerza mayor, a juicio d el (sic) autoridad municipal o quien la represente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 336.
 
-Los entreactos o intermedios serán de quince minutos como máximo y sólo por causa justificada y con permiso de la autoridad podrán ampliarse.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 337.
 
-En los programas que requieran autorización previa de la autoridad municipal, sólo ésta, o quien la represente de acuerdo con las disposiciones de este código, podrá autorizar algunas variantes, pero únicamente por causa de fuerza mayor, la empresa pondrá invariablemente en conocimiento de la autoridad toda modificación, que después de autorizados los programas del mismo, introduzca en el orden y forma del espectáculo, expresando la causa a que la forma obedezca. Cuando esta variación la motivare la enfermedad de algún artista, la empresa deberá presentar con oportunidad debida, el certificado médico respectivo, ante la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 338.
 
-En las funciones de beneficio, extraordinarias, etc., en que tomen parte artistas o personas que no pertenezcan a la compañía, se acompañarán, a la solicitud de licencia, cartas firmadas por dichas personas, en las que se comprometen a tomar parte en aquellas funciones y las cuales quedarán, por este hecho, comprendidas en el artículo anterior.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 339.
 
-Las personas que se comprometen por escrito a trabajar en algún espectáculo anunciado con autorización de la presidencia municipal y no cumplan con la obligación contraída, quedarán consideradas como infractores a la disposición respectiva y sujetarse a la sanción correspondiente, salvo cuando sea por causa de fuerza mayor, que deberán comprobar plenamente ante dicha autoridad.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 340.
 
-Toda variación del programa de algún espectáculo se anunciará con anticipación por los medios de difusión necesarios, para ello, quedando obligada a fijar en las ventanillas de expendio de boletos y demás lugares visibles del local, cualquier variación del programa explicando al público la causa y que ha sido hecha con la debida autorización de la presidencia municipal; a los inconformes con el nuevo programa y que se encuentren dentro del espectáculo, se les reintegrará lo que pagaron.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 341.
 
-Los espectáculos que se verifiquen en el Municipio de Querétaro, causarán el impuesto que marca la Ley de Ingresos en vigor.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 342.
 
-Los espectáculos que se desarrollen fuera del Municipio de Querétaro, pero que se enuncien y vendan parte del boletaje en éste, deberán solicitar autorización para instalar los expendios o taquillas para la venta de los mencionados boletos, evitando de esta manera la reventa; los boletos que se vendan deberán estar sellados y autorizados por la autoridad municipal pagando el derecho que determine la Ley de Ingresos para los Municipios.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 343.
 
-La celebración de un espectáculo autorizado sólo puede suspenderse por causa de fuerza mayor o por ausencia absoluta de espectadores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO VIII. De los Revendedores
 
 ###### ARTICULO 344.
 
-La reventa de boletos, en toda clase de espectáculos, queda terminantemente prohibida.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 345.
 
-Se presumen, salvo prueba en contrario, el acuerdo entre empresa y revendedores para burlar los precios autorizados del espectáculo y enriquecerse ilícitamente por este medio, en los siguientes casos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Cuando la empresa entrega para su venta más de un talonario, siempre de (sic) que no se trate de locales autorizados para ello;
-
-II. Cuando la empresa se reserve las localidades preferenciales; y
-
-III. Cuando los revendedores son empleados de la empresa de espectáculos o personas que estén dentro de sus instalaciones materiales.
-
-Los boletos que se encuentran vendiendo fuera de taquilla o de los locales autorizados para ello, serán recogidos por la autoridad municipal y cancelados.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO IX. De los Espectáculos Públicos de Basquetbol, Beisbol, Futbol, o similares
 
 ###### ARTICULO 346.
 
-Para la celebración de cualquier competencia deportiva o internacional, el H. Ayuntamiento designará a una persona que fungirá como inspector autoridad y otra como auxiliar de éste, quienes podrán desempeñar su función conjunta o separadamente y tendrán las siguientes funciones:
-
-I. Estar presente en el estadio o lugar en donde se celebre el evento competencia 30 minutos antes de la hora señalada para su inicio, comunicando al cuerpo arbitral su presencia, e identificándose en caso necesario;
-
-II. Verificar el dispositivo de seguridad en la cancha, así como el estado de las instalaciones que guarda ésta, comunicándolo al cuerpo arbitral;
-
-III. Requerir la acreditación de los reporteros gráficos que cubrirán el evento en los lugares destinados para ello;
-
-IV. Pedir el auxilio y apoyo del dispositivo de seguridad en caso necesario y cuando expresamente lo solicite el árbitro, dispositivo que está bajo sus ordenes durante la celebración del evento; y
-
-V. Actuar en colaboración con el árbitro en:
-
-a). Avisos al público por medio del sonido local.
-
-b). Arreglo de algún desperfecto dentro de la cancha, que ocurra durante el desarrollo del evento; y
-
-c). Ejecución de las decisiones del árbitro y jugadores en caso de agresiones por parte del público.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 347.
 
-Los interesado en obtener autorización para la celebración de encuentros profesionales de fútbol y similares, deberán presentar solicitud por escrito ante la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 348.
 
-Para los casos no previstos en este ordenamiento, sobre competencias deportivas profesionales, se estará a lo dispuesto por los estatutos y reglamentos internos de las federaciones, asociaciones y demás organizaciones nacionales e internacionales aplicables al caso, siempre y cuando no contravengan las disposiciones del presente código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-Se prohíben los juegos que encubran estafa o engaño, ocasionando perjuicio económico a los participantes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO X. De los Salones de Boliche y de Billar
 
 ###### ARTICULO 349.
 
-En los salones de boliche y de billar, se podrán practicar como actividades complementarias, los juegos de ajedrez, dominó, damas, tenis de mesa y otros juegos similares, anotando en la licencia principal estas autorizaciones.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 350.
 
-Las escuela, academias, clubes o casinos donde se practique el boliche o el billar, se sujetarán a las disposiciones de este ordenamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 351.
 
-A los salones de boliche podrán tener acceso las personas de cualquier sector con derecho a disfrutar de las actividades y servicios autorizados. A los salones de billar únicamente las personas mayores de 16 años.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 352.
 
-Los propietarios, administradores o encargados de los salones de billar o de boliche, serán directamente responsables en los términos de las leyes aplicables por permitir que en el interior de dichos establecimientos se practiquen en cualquiera de sus formas la prostitución, drogadicción y en general, conductas que deterioren la convivencia social.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 353.
 
-En caso de organización de torneos, los propietarios, administradores o encargados, deberán recabar autorización estricta de la autoridad municipal si se cobran cuotas de cualquier índole.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-En caso de alquiler de zapatos en los boliches, deberán contar éstos con el equipo de desinfección necesario para evitar contagios.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XI. De las Carreras de Automóviles, Motocicletas y Bicicletas
 
 ###### ARTICULO 354.
 
-Para que puedan efectuarse carreras de automóviles, motocicletas y bicicletas, se requiere autorización de la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 355.
 
-No se otorgarán permisos para efectuar carreras de automóviles y motocicletas en la vía pública.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 356.
 
-Para obtener autorización para los eventos antes mencionados, deberá presentarse con 15 días hábiles de anticipación a la realización del evento, solicitud ante la autoridad municipal, debiendo cumplir además con los siguientes requisitos:
-
-I. Día y hora en que se pretenda celebrar el evento;
-
-II. El número y clase de localidades, así como el precio que se pretenda cobrar por el acceso;
-
-III. El número de carreras a efectuarse y sus denominadores;
-
-IV. Nombre y número de las licencias de manejo de todos y cada uno de los competidores, tratándose de carreras de automóviles y motocicletas;
-
-V. El programa de las carreras y el tiempo probable de su desarrollo; y
-
-VI. Visto bueno de la comisión respectiva.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 357.
 
-Presentada la solicitud, la presidencia municipal verificará si se reúnen los requisitos reglamentarios; para tal efecto, ordenará las inspecciones y de más (sic) medidas que juzgue convenientes. Integrado el expediente, la propia presidencia dictará la resolución que proceda y la notificación al interesado en un término de 8 días hábiles.
-
-Se hará entrega de la autorización, previo el pago de los derechos correspondientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 358.
 
-Para el mejor desarrollo técnico de la especialidad, materia del presente capítulo, la Presidencia Municipal contará con una comisión técnica asesora quien será la encargada de expedir los manuales de normas técnicas complementarias y que serán aprobadas por el propio Presidente Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 359.
 
-Las comisiones estarán integradas por 5 miembros propietarios y 5 suplentes, que ocuparán los siguientes puestos: Presidente, Secretario, Tesorero y dos Vocales. Todos serán nombrados directamente por el Presidente Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 360.
 
-El cargo de cualquier miembro será honorario, la Comisión nombrará a un comisionado para cada evento que será la autoridad máxima del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 361.
 
-El comisionado tendrá a su cargo:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Cuidar de que no se altere el orden durante el espectáculo, solicitando de la autoridad, en su caso, la expulsión de los responsables;
-
-II. Vigilar que no se venda mayor número de boletos del cupo de las tribunas y de otras localidades;
-
-III. Revisar y exigir el cumplimiento del programa autorizado;
-
-IV. Exigir que los corredores anunciados en el programa participen en las carreras, salvo por enfermedad o causa de fuerza mayor, comprobables;
-
-V. Vigilar que el espectáculo principie a la hora señalada;
-
-VI. Impedir que participe cualquier corredor que no reúna las condiciones físicas necesarias, según certificado médico del jefe de los servicios médicos del espectáculo; y
-
-VII. Resolver cualquier imprevisto no contemplado en este ordenamiento.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XII. De los Juegos Mecánicos, Electromecánicos y Eléctricos
 
 ###### ARTICULO 362.
 
-Los establecimientos donde se instalen para uso del público juegos mecánicos, electromecánicos y eléctricos, deberán observar las disposiciones de este código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 363.
 
-Los aparatos destinados a los juegos a que se refiere el presente capítulo, podrán funcionar en lugares no específicamente dedicados a este fin, previa la autorización correspondiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 364.
 
-Son obligaciones de los propietarios encargados:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Tener a la vista del público, la duración del funcionamiento en cada uno de los aparatos;
-
-II. Acreditar a satisfacción de la Autoridad Municipal, mediante el correspondiente peritaje técnico, el perfecto funcionamiento de los aparatos recreativos, así como constancia de que se les ha dado el mantenimiento adecuado; y
-
-III. Las demás que fije la Autoridad Municipal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XIII. De los Espectáculos de Boxeo y Lucha Libre Profesional
 
 ###### ARTICULO 365.
 
-Para que puedan celebrarse encuentros de box y de lucha profesional, se requiere la autorización expedida por la presidencia municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 366.
 
-El Presidente Municipal dictará las medidas y disposiciones necesarias para el cumplimiento de la materia del presente capítulo y promoverá la unificación y cooperación de las diferentes asociaciones, federaciones y confederaciones de box y lucha profesionales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 367.
 
-La presidencia municipal contará con organismo asesor que se denominará Comisión de Box y Lucha Libre Profesional. Dicha Comisión será un cuerpo técnico dependiente de laaAutoridad (sic) municipal.
-
-La Comisión estará constituida por cinco miembros que serán designados por el Presidente Municipal; uno de los cuales tendrá el carácter de Presidente y los cuatro restantes de vocales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 368.
 
-Para ser miembro de la Comisión se requiere no tener nexo de ninguna especie con empresarios, promotores, representantes, boxeadores y luchadores, auxiliares o con cualquier persona relacionada directa o indirectamente con el box y la lucha libre profesionales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 369.
 
-Los programas de boxeo y lucha profesionales, para su autorización, deberá contar con el visto bueno de la comisión.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 370.
 
-En todo espectáculo de boxeo y lucha libre profesionales, la Comisión designará a uno de los miembros para que con el carácter de comisionado en turno lo presida.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 371.
 
-La Comisión vigilará que las empresas u organizaciones de box y lucha libre profesionales, les entreguen sus (sic) sueldo y porcentajes que les corresponda a los participantes, a más tardar el día siguiente de celebrarse los encuentros.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 372.
 
-La Comisión para el mejor desempeño de sus funciones formulará su reglamento interior y los instructivos que tengan los aspectos técnicos y deportivos, los cuales serán sometidos para su aprobación al Presidente Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 373.
 
-En dichos ordenamientos internos se fijarán con toda claridad la forma en que se desarrollen los encuentros, sus limitaciones y faltas, procedimientos de puntuación para calificar el resultado de los encuentros y todas aquellas actividades vinculadas con luchadores y boxeadores, manejadores, auxiliares, jueces, empresarios y oficiales de la Comisión.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 374.
 
-El empresario será responsable de cualquier alteración al programa anunciado, siendo el comisionado en turno el encargado de hacer cumplir dicho programa.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 375.
 
-Las personas físicas o morales que obtengan licencia o autorización, están obligados a respetar los reglamentos internos de la Comisión y a dar cumplimiento a las recomendaciones que se deriven de los instructivos que se expidan.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 376.
 
-Los interesados en la celebración de un espectáculo de box y de lucha libre deberán presentar solicitud por escrito a la presidencia municipal con los siguientes datos y documentos:
-
-I. Número de la licencia de funcionamiento y ubicación del local donde se pretenda realizar el espectáculo, así como el nombre de las personas autorizadas;
-
-II. Constancia de la Comisión de boxeo y lucha libre profesionales, aprobado el programa del espectáculo que pretenda realizarse;
-
-III. Fecha o fechas de los encuentros;
-
-IV. Aforo del local y precios que se pretendan cobrar; y
-
-V. Las demás que fije la autoridad municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 377.
 
-Los programas de box y lucha libre profesionales, deberán ser presentados ante la Comisión para su aprobación, con 10 días de anticipación a la fecha en que se vaya a presentar el espectáculo, adjuntando la documentación necesaria y llenando los requisitos que fijen el Reglamento Interior de la Comisión y reglamentos que expida.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 378.
 
-Presentada la solicitud, la autoridad municipal verificará los requisitos reglamentarios y ordenará las inspecciones y medidas que juzgue convenientes. Integrado el expediente, la propia autoridad municipal, dictará la resolución que proceda y la notificará al interesado en un término no mayor de tres días hábiles.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 379.
 
-Las empresas están obligadas a anunciar por los medios de difusión las alteraciones del programa y hacer devolución del importe de los boletos que se hubieren adquirido con anterioridad, en caso de que el espectador así lo solicite.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 380.
 
-En caso de suspensión de un espectáculo de boxeo y lucha libre autorizado, la empresa no podrá disponer del importe de las entradas, hasta que la autoridad municipal resuelva lo que sea procedente, en el entendido de que la resolución deberá dictarla dentro de las 48 horas siguientes a la suspensión del espectáculo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 381.
 
-En todo local destinado a presentar funciones de box y lucha libre profesionales, las empresas están obligadas a contar con local destinado a la prestación de servicios médicos, el cual deberá tener todos los elementos necesarios para una pronta y eficiente atención a quienes así lo ameriten.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 382.
 
-Las empresas deberán proporcionar a los boxeadores o luchadores, vestidores amplios y bien acondicionados con baños de agua fría y caliente y servicios sanitarios.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 383.
 
-En todas las funciones de boxeo y lucha libre profesionales, la autoridad municipal designará a un inspector, autoridad que actuará como auxiliar del comisionado en turno, que hará cumplir las decisiones y acuerdos que éste dicte.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 384.
 
-El inspector autoridad vigilará que el público que asista a los espectáculos no altere el orden público, cruce apuestas, ataque o insulte a los contendientes o comisionados y consignará a la autoridad competente a quienes infrinjan estas disposiciones. Asimismo cuidará que la policía que se encuentre en servicio en el local, de cumplimiento a las disposiciones del comisionado en turno.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XIV. De los Cabarets, Salones de Baile, Centros Nocturnos y Otros de Diversión
 
 ###### ARTICULO 385.
 
-Para los efectos del presente capítulo, se entiende por cabaret, el centro nocturno que presenta espectáculo o variedad, contando con orquesta y conjunto musical, pista de baile, servicio de restaurante y bar.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 386.
 
-Se entiende por salón de baile, el centro de diversión con pista, orquesta o conjunto musical destinado exclusivamente para que el público pueda bailar mediante el pago de una cuota.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 387.
 
-Se entiende por salón de fiestas, el centro de diversión que cuente con pista para bailar, que proporcione orquesta o conjunto musical, servicio de restaurante y de bebidas alcohólicas y esté destinado para que el público mediante contrato, celebrándose en ese lugar actos sociales, culturales o reuniones de convenciones y similares.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 388.
 
-Se entiende por salón discoteca, el centro de diversión que cuenta con pista para bailar y ofrece música viva o grabada, servicio de restaurante y en donde la admisión del público es mediante el pago de una cuota.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 389.
 
-Se entiende por peña, el establecimiento que proporcione servicio de restaurante con venta de vinos de mesa o cerveza y en el que se ejecute música folklórica por conjunto o solistas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 390.
 
-Los propietarios o encargados de los cabarets, salones de fiestas, discotecas, centros nocturnos y peñas están obligados a:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-I. Prestar los servicios programados de acuerdo con la licencia de funcionamiento;
-
-II. Proporcionar a los clientes lista de precios autorizados de las bebidas o alimentos (sic) respetar los horarios autorizados por la licencia de funcionamiento; y
-
-III. Las demás que fija este reglamento y disposiciones municipales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO XV. De las Salas Públicas de Cine
 
 ###### ARTICULO 391.
 
-Para el funcionamiento de las salas públicas de cine se solicitará autorización a la autoridad municipal.
-
-En el escrito se expresará, además de los datos que se mencionan en el primer capítulo de este código, el número de asientos, localidades y salidas de emergencia con lo que cuente.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 392.
 
-La empresa deberá remitir a la Presidencia el programa de las proyecciones que vaya a realizar con la indicación de los honorarios, precio del boleto de acceso, así como la fecha, número y término de las autorizaciones que para las proyecciones públicas haya concedido la Secretaría General de Gobierno Municipal. Las modificaciones al programa deberán ser comunicadas de la misma forma a la Presidencia Municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 393.
 
-El acceso a las salas de proyección de las personas, según sus edades, será de acuerdo a la clasificación de las películas y avances que se proyecten.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 ###### ARTICULO 394.
 
-Los avances que sirvan para anunciar películas autorizadas únicamente para adultos, no serán proyectadas en la pantalla en funciones para niños y adolescentes bajo ninguna circunstancia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 APARTADO SEPTIMO
 
@@ -8524,3 +7842,43 @@ Se instruye a los titulares de la Secretaría de Finanzas y de la Secretaría de
 ###### ARTÍCULO CUARTO.
 
 Se instruye a la Secretaría del Ayuntamiento notificar el presente acuerdo a los titulares de la Secretaría de Administración, Secretaría de Desarrollo Económico, Planeación Urbana y Ecología y Secretaría de Finanzas del Municipio de Querétaro.
+
+P.O. 22 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial de Gobierno del Estado “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento entrará en vigor al día siguiente de la última publicación en los medios de difusión precisados en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Apartado Sexto del Libro Segundo del Código Municipal de Querétaro, así como todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente a los titulares de las Secretarías General de Gobierno, de Seguridad Pública Municipal, de Desarrollo Sostenible, de Finanzas y de Gestión Delegacional.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 89 BIS Y SE ADICIONA UN PÁRRAFO QUINTO AL INCISO C) DEL ARTÍCULO 118 DEL CÓDIGO MUNICIPAL DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Código entrará en vigor al día siguiente de la primera de las publicaciones en los medios mencionados en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga cualquier disposición de igual o menor jerarquía que se oponga al presente.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Administración para que realice en un plazo no mayor a 30 días naturales los trabajos correspondientes para la adecuación a los manuales de procedimientos y de organización, de conformidad con el presente acuerdo.
