@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2017-09-09"
+last_updated: "2017-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -163,9 +163,25 @@ El Poder Judicial, Órganos Autónomos, Dependencias y Entidades que presten ser
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, en reglas de carácter general determinará los montos y procedimientos para determinar el destino de los derechos contenidos en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 6 Bis.
+
+Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, no causarán el pago de derechos por la prestación de servicios por única ocasión, que a continuación se enlistan:
+
+I. Los contenidos en las fracciones I inciso a), II fracción (sic) a), IX, XVI inciso a) y b), XVII incisos a) y b), XVIII y XXXI del artículo 25 de esta Ley;
+
+II. Servicios públicos contenidos en la fracción I, III, IV, VIII y IX del artículo 26 de esta Ley;
+
+III. Los comprendidos (sic) fracción VI, VII del artículo 27 de esta Ley;
+
+IV. Los contenidos en las fracciones I, II, III y IV del artículo 47 de esta Ley, y;
+
+V. Servicios Públicos comprendidos en las fracciones I, II, III del artículo 68 de esta Ley.
+
 ## Título Segundo. De los derechos por el uso, goce o aprovechamiento de bienes del Dominio Público
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1386, PUBLICADO EN EL P.O. 15 DE DICIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1386, PUBLICADO EN EL P.O. 15 DE DICIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
@@ -6367,7 +6383,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 15 DE DICIEMBRE DE 2012.
 
@@ -6420,3 +6436,13 @@ TERCERO. Únicamente por el Ejercicio Fiscal 2017, los contribuyentes que utilic
 CUARTO. El Estado transferirá a los Municipios el total de los recursos provenientes del cobro de la prestación de los servicios prestados por el Estado, en términos de lo dispuesto por la fracción XIII del artículo 25 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, y de las fracciones XIV y XV del artículo 31 de la Ley Estatal de Derechos, en el marco de los Convenios de Coordinación y Colaboración Administrativa que sean celebrados entre el Estado y los Municipios.
 
 Los recursos a que se refiere el párrafo anterior serán destinados por los Municipios preferentemente a obras y acciones de infraestructura básica y desarrollo social.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 724.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ESTATAL DE DERECHOS; SE ADICIONA UN TERCER PÁRRAFO Y SE RECORRE EL PÁRRAFO SUBSECUENTE DEL ARTÍCULO 15 DE LA LEY DE COORDINACIÓN ESTATAL DE LAS ZONAS ECONÓMICAS ESPECIALES; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4°; SE ADICIONA LA FRACCIÓN X Y UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
