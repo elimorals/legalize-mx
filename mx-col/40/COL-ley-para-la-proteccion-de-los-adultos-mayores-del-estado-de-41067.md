@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2016-11-22"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -141,7 +141,11 @@ XIII. Recibir orientación por parte de los gobiernos estatal y municipales medi
 
 XIV. Que se refuercen las medidas de protección, orientación, apoyo y trato humanitario en materia de procuración y administración de justicia;
 
-XV. Recibir orientación jurídica en forma gratuita cuando lo considere necesario; en caso de que requiera asistencia jurídica, ésta le será otorgada en los términos de la Ley de la materia;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+XV. Recibir asesoría jurídica en forma gratuita en los procedimientos administrativos o judiciales en que sea parte y contar con un representante legal cuando lo considere necesario.
+
+En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia.
 
 XVI. Ser respetados en sus derechos fundamentales de independencia, participación, cuidado y protección, autorrealización y dignidad;
 
@@ -928,3 +932,11 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 354 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD Y DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
