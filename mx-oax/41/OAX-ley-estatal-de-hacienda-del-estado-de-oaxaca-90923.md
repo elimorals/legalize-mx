@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2016-12-31"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -84,6 +84,10 @@ X. Tasa o Tarifa: Porcentaje que se aplica a la base para determinar el monto de
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XI. Unidad de Medida y Actualización (UMA): Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+XII. Zona Económica Especial: La establecida por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
 
 ###### ARTÍCULO 3.
 
@@ -285,9 +289,11 @@ CEDULAR A LOS INGRESOS POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INM
 
 Es objeto de este impuesto el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado de Oaxaca.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-Son sujetos de este impuesto las persona físicas que perciban ingresos por otorgar a título oneroso el uso o goce temporal de bienes inmuebles ubicados en el territorio del Estado de Oaxaca, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que perciban ingresos por otorgar a título oneroso el uso o goce temporal de bienes inmuebles ubicados en el territorio del estado de Oaxaca, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
 
 Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
 
@@ -304,6 +310,14 @@ Los ingresos en crédito se declararán y se calculará el impuesto que les corr
 Cuando los ingresos gravados por este impuesto, deriven de bienes en copropiedad, cada uno de los copropietarios deberán cumplir con todas las obligaciones en materia de este impuesto, debiendo cubrirlo en la parte que le corresponda atendiendo a la participación en la propiedad sobre la cosa común, que conste en el documento constitutivo de la copropiedad.
 
 Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal en caso de que el bien forme parte de la misma.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Las personas físicas, morales o unidades económicas que otorguen el uso o goce temporal de bienes inmuebles ubicados dentro del polígono territorial de las zonas económicas especiales, no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que otorguen el uso o goce temporal de bienes inmuebles dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de dos punto cinco por ciento sobre la base que señala en el artículo 24 de esta Ley por los cinco años siguientes.
 
 ###### ARTÍCULO 24.
 
@@ -1013,6 +1027,14 @@ Se entiende por enajenación de vehículos de motor usados, la que derive de tod
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que adquieran vehículos de motor usados dentro del territorio del estado de Oaxaca, cuando no se cause el Impuesto al Valor Agregado.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de cero punto tres por ciento sobre la base que señala en el artículo 48 de esta Ley por los cinco años siguientes.
+
 ###### ARTÍCULO 48.
 
 Es base de este impuesto el valor del vehículo según factura expedida por el fabricante, ensamblador o distribuidor, sin considerar el Impuesto al Valor Agregado.
@@ -1054,6 +1076,14 @@ No se considerarán servicios de hospedaje, el albergue o alojamiento prestados 
 ###### ARTÍCULO 53.
 
 Son sujetos obligados al pago del impuesto que establece este capítulo, las personas físicas, morales o unidades económicas que dentro del estado de Oaxaca, reciban los servicios señalados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+No causarán este impuesto las personas físicas, morales o unidades económicas que reciban los servicios señalados en el artículo 52 dentro del polígono territorial de las zonas económicas especiales.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Los responsables solidarios del pago de este impuesto deberán cumplir con las obligaciones señaladas en el artículo 57 de esta Ley.
 
 ###### ARTÍCULO 54.
 
@@ -1143,29 +1173,29 @@ V. Inspección y vigilancia;
 
 VI. Del Centro de Desarrollo Infantil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 VII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 VIII. De atención en Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 IX. Por visita guiada; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 X. Acceso por persona a museos, teatros y ferias.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de seis por ciento sobre la base que señala en el artículo 61 de esta Ley por los cinco años siguientes.
 
 ### CAPÍTULO ÚNICO
 
@@ -1279,9 +1309,29 @@ IV. Colonias agrícolas y ganaderas;
 
 V. Los ejidos y comunidades;
 
-VI. Las uniones de ejidos y comunidades, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
-VII. Las unidades agrícolas industriales de la mujer campesina;
+VI. Las uniones de ejidos y comunidades;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VII. Las unidades agrícolas industriales de la mujer campesina, y;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VIII. Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+La no causación de este impuesto será por un periodo de diez años a partir de que se genere la obligación del pago.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de uno punto cinco por ciento sobre la base que señala en el artículo 65 de esta Ley por los cinco años siguientes.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Los contribuyentes que se encuentran en este artículo deberán cumplir con las obligaciones señaladas en el artículo 69 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1469,8 +1519,18 @@ TERCERO.- El Presente Decreto deroga todas las disposiciones legales o administr
 
 P.O. 31 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 14.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 14.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 724.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE ADICIONA EL ARTICULO 6 BIS DE LA LEY ESTATAL DE DERECHOS; SE ADICIONA UN TERCER PÁRRAFO Y SE RECORRE EL PÁRRAFO SUBSECUENTE DEL ARTICULO 15 DE LA LEY DE COORDINACIÓN ESTATAL DE LAS ZONAS ECONÓMICAS ESPECIALES; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4°; SE ADICIONA LA FRACCIÓN X Y UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
