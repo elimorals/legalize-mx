@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2016-12-10"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -37,7 +37,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33 FRACCION IV Y 39, DE LA CONSTITUCION POLITICA LOCAL, Y
 
-.
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -2299,9 +2299,39 @@ o similares de 5.00 a 15.00
 
 30. Otros giros no especificados de 1.00 a 30.00
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+e).- Por la expedición de permisos para la realización de eventos sociales, pagarán por cada vez:
+
+1. Evento particular en zona urbana 4.00
+
+2.- Evento particular en zona rural 2.00
+
+3.- Noche disco en la zona urbana 8.00
+
+4.- Noche disco en la zona rural 4.00
+
+5.- Callejeadas, desfiles, ralies,
+
+cierre de calles, bicipaseos 0.00
+
+6.- Fiestas patronales 0.00
+
+7.- Jaripeo en zona rural 4.00 a 10.00
+
+8.- Baile en zona urbana 5.00 a 25.00
+
+9.- Baile en zona rural 5.00 a 15.00
+
+10.- Otros no especificados 1.00 a 30.00
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 CAMBIO DE DOMICILIO:
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Por cambio de propietario, las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este artículo.
 
 Por el cambio de domicilio de licencias de funcionamiento se pagará el 25 por ciento del costo total por expedición de la licencia correspondiente.
 
@@ -3628,3 +3658,9 @@ P.O. 10 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 174 POR EL QUE SE REFORMA EL ARTÍCULO 19 DE LAS DIEZ LEYES DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2017, previa su publicación en el Periódico Oficial "El Estado de Colima.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 355 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE COMALA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
