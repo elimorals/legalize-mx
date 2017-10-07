@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-publica-del-estado-de-colima-104887"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-13"
-last_updated: "2014-12-13"
+last_updated: "2017-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento No. 6 del Periódico Oficial del Estado de Colima, el sábado 13 de diciembre de 2014.
 
@@ -36,6 +36,8 @@ D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
 C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -133,9 +135,17 @@ V. Las personas que por enfermedad, o limitaciones económicas o sociales tengan
 
 VI. Los adolescentes que requieran y que tengan entre 12 años cumplidos y menores de 18 años;
 
-VII. Las personas incapaces o a quienes ejerzan la patria potestad de los mismos y carezcan de recursos económicos para pagar los honorarios de un defensor particular; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
-VIII. A todos los imputados que el Ministerio Público, Juez de Control, Tribunal de enjuiciamiento y Juez de Ejecución de Penas y Medidas de Seguridad señale.
+VII. […] (sic) Las personas incapaces o quienes ejerzan la patria potestad de los mismos y carezcan de recursos económicos para pagar los honorarios de un defensor particular;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VIII. Los adultos en plenitud; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+IX. A todos los imputados que el Ministerio Publico, Juez de control, Tribunal de enjuiciamiento y Juez de Ejecución de Penas y Medidas de Seguridad señale:
 
 Tratándose de asuntos jurídicos en los que asigne la defensa de personas que no hablen español, se procurará la asistencia de un defensor que hable su lengua o se solicitará a la instancia debida, designe un traductor, o bien se solicitará la presencia de una persona que hable su lengua.
 
@@ -1462,3 +1472,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 13 trece del mes de diciembre del año dos mil catorce.
 
 Atentamente. SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO NO. 354 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD Y DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
