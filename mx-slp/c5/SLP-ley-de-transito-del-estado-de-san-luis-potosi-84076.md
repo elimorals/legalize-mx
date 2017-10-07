@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2017-04-29"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -150,6 +150,10 @@ XXX. Perito en hechos de tránsito: es toda aquella persona especializada cuyo o
 XXXI. Permiso para circular sin placas y tarjeta de circulación: documento otorgado por la autoridad competente destinado a individualizar al vehículo y a su dueño, con el objeto de que pueda circular temporalmente;
 
 XXXII. Placa: plancha de metal en que figura el número de matrícula, que permite individualizar un vehículo, expedida por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+XXXII Bis. Póliza de Seguro: documento expedido por la institución de seguros autorizada por la Comisión Nacional de Seguros y Fianzas, al propietario o concesionario del vehículo; que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo;
 
 XXXIII. Prueba de alcoholimetría: Procedimiento llevado a cabo por la autoridad con el fin de determinar si una persona presenta aliento alcohólico ó estado de ebriedad;
 
@@ -495,9 +499,11 @@ La Secretaría podrá expedir por única ocasión permisos para circular sin pla
 
 Las placas y tarjetas de circulación son intransferibles. Para el caso de la enajenación de un vehículo por traspaso, venta, permuta, cesión, adjudicación o cualquier otro medio de traslado de la propiedad, deberá presentarse dentro de los treinta días siguientes, el correspondiente aviso de baja, entregando a la Secretaría, las placas y tarjeta de circulación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 29.
 
-Todos los vehículos de motor que estén registrados en el Estado deberán estar asegurados al menos por daños a terceros en sus bienes y personas, con póliza vigente con una compañía de seguros autorizada por la Comisión Nacional de Seguros y Fianzas.
+Todos los vehículos de motor sin excepción alguna, para que puedan circular en las vías públicas del Estado, deberán contar con póliza expedida por la institución de seguros autorizada por la Comisión Nacional de Seguros y Fianzas, que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo.
 
 Si los conductores sufren algún accidente vial y éste no cuenta con su seguro vigente, se hará acreedor a la multa que establezca la autoridad competente en el reglamento respectivo.
 
@@ -1596,5 +1602,13 @@ P.O. 29 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0618.- SE ADICIONA LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ."]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", así mismo una vez publicado el presente Decreto los ayuntamientos del Estado tendrán noventa días para realizar las adecuaciones correspondientes a sus Reglamentos de Tránsito.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0714.- SE REFORMA EL ARTÍCULO 29 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 6º LA FRACCIÓN XXXII BIS, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
