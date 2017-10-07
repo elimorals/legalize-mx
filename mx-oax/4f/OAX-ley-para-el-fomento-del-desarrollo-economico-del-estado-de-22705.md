@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2005-03-22"
+last_updated: "2017-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY PARA EL FOMENTO DEL DESARROLLO ECONOMICO DEL ESTADO DE OAXACA
 
-LEY PARA EL FOMENTO DEL DESARROLLO ECONOMICO DEL ESTADO DE OAXACA
+LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -64,6 +64,14 @@ VII.- Impulsar programas de capacitación, investigación y avance tecnológico,
 VIII.- Promover la creación de la infraestructura necesaria para el crecimiento económico, así como el establecimiento y la consolidación de conjuntos, parques y corredores industriales, cuidando que tengan el mínimo impacto ambiental; y
 
 IX.- Alentar la competitividad, modernización y eficiencia de las empresas por medio de un desarrollo tecnológico propio, adecuado a las circunstancias del Estado y vinculado a los centros de producción tecnológica.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+X.- Generar una política de facilitación a través de la creación de una ventanilla única en los términos establecidos por la Ley de Coordinación Estatal de la (sic) Zonas Económicas Especiales.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Se entenderá por Ventanilla Única y Zona Económica Especial lo establecido por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
 
 ###### ARTICULO 2º.
 
@@ -109,9 +117,11 @@ II.- Consejos Estatal, Regionales y Municipales, cuyas funciones estarán regula
 
 III.- Gobierno Municipal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 4º.
 
-Los Consejos Estatal, Regionales y Municipales son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad.
+Los Consejos Estatal, Regionales y Municipales, son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad, quienes además impulsarán programas para la inclusión en la vida productiva de sectores vulnerables, y las consideradas como Zonas Económicas Especiales.
 
 En todos ellos participarán, además de los servidores públicos que correspondan, los representantes de los sectores productivos social y privado, así como las instituciones de educación media superior y superior e investigación científica. Sus atribuciones se especificarán en el reglamento de esta Ley, en coordinación y de conformidad con lo dispuesto en la Ley de Planeación del Estado de Oaxaca.
 
@@ -456,3 +466,13 @@ Al C...
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 724.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ESTATAL DE DERECHOS; SE ADICIONA UN TERCER PÁRRAFO Y SE RECORRE EL PÁRRAFO SUBSECUENTE DEL ARTÍCULO 15 DE LA LEY DE COORDINACIÓN ESTATAL DE LAS ZONAS ECONÓMICAS ESPECIALES; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4°; SE ADICIONA LA FRACCIÓN X Y UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
