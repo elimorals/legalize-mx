@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2017-04-18"
+last_updated: "2017-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -63,6 +63,20 @@ IV. Promover actitudes responsables y humanitarias hacia los animales.
 
 Las autoridades competentes, los particulares en lo personal, las sociedades protectoras de animales y demás asociaciones legalmente constituidas, cooperarán para alcanzar los fines que persigue esta Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 2o BIS. Los principios básicos que sustentan el trato digno hacia las mascotas son:
+
+I. Suministrar a las mascotas agua y alimento suficientes, a efecto de mantenerlas sanas y con una nutrición adecuada;
+
+II. Proporcionar a las mascotas un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
+
+III. Suministrar a las mascotas, conforme a su especie, atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a las mascotas la expresión de su comportamiento natural de acuerdo a su especie, y
+
+V. Brindar a las mascotas un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 3o.
@@ -71,29 +85,41 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para cualquier uso y aprovechamiento por el hombre;
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+II. Bienestar animal: estado en el que la mascota tiene satisfechas sus necesidades biológicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+III. Campañas: acciones públicas realizadas de manera periódica y sistemática por la autoridad en el ámbito de sus respectivas competencias, o por quien ella designe, para el control, prevención o erradicación de enfermedades en las mascotas transmisibles al ser humano; para controlar la población de mascotas, o para difundir el trato digno y respetuoso a las mascotas;
+
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-II. Hostigar: dar golpes o causar molestias a los animales por cualquier medio o instrumento; o realizar acciones que cambien la conducta normal de los animales;
+IV. Hostigar: dar golpes o causar molestias a los animales por cualquier medio o instrumento; o realizar acciones que cambien la conducta normal de los animales;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+V. Mascota: animales domésticos o silvestres destinados a la compañía del ser humano, mantenidos por el hombre para su disfrute o recreación y que vive por sus cuidados;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-III. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento innecesario, que afecte el bienestar animal, ponga en peligro la vida o afecte gravemente la salud, así como la sobreexplotación de su trabajo;
+VI. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento innecesario, que afecte el bienestar animal, ponga en peligro la vida o afecte gravemente la salud, así como la sobreexplotación de su trabajo;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
 
-IV. Protección a los animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica;
+VII. Protección a los animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VIII. Sacrificio humanitario: matanza de animales, especialmente para el consumo humano, o que se requiera para evitar sufrimiento innecesario al mismo; utilizando métodos físicos o químicos que produzcan mínimo dolor, efectuado por personal capacitado y atendiendo a la normatividad aplicable para tal efecto;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
 
-V. Sacrificio: matanza de animales, especialmente para el consumo humano, o que se requiera para evitar sufrimiento innecesario al mismo; utilizando métodos físicos o químicos que produzcan mínimo dolor, efectuado por personal capacitado y atendiendo a la normatividad aplicable para tal efecto;
+IX. Tortura a los animales: ocasionar grave dolor físico infligido con métodos o utensilios diversos, con el fin de obtener de éste una acción, o como medio de castigo, y
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
-VI. Tortura a los animales: ocasionar grave dolor físico infligido con métodos o utensilios diversos, con el fin de obtener de éste una acción, o como medio de castigo, y
-
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
-
-VII. Trato compasivo: toda medida para evitar dolor innecesario a los animales desde su gestación, nacimiento, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, confinamiento y sacrificio.
+X. Trato digno y respetuoso: toda medida para evitar dolor innecesario a las mascotas desde su gestación, nacimiento, captura, cautiverio, traslado, exhibición, cuarentena, entrenamiento, explotación, manutención, transporte y sacrificio.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -106,6 +132,14 @@ Los ayuntamientos facilitarán y fomentarán la creación de albergues, que sirv
 ###### ARTICULO 5o.
 
 Las asociaciones legalmente constituidas que establezcan albergues para refugio y adopción, podrán solicitar el apoyo de los ayuntamientos para la realización de actividades lícitas necesarias, para obtener recursos que sean utilizados en el sostenimiento de estas instituciones.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 6°.
+
+Las autoridades, en el ámbito de sus facultades y competencia, promoverán mediante programas y campañas de difusión la cultura de protección a las mascotas, consistente en valores y conductas de respeto por parte del ser humano hacia las mascotas, con base en las disposiciones establecidas en la presente Ley en materia de trato digno y respetuoso.
+
+Asimismo, la protección a las mascotas deberá lograrse mediante programas educativos, impartidos desde los primeros tipos y modalidades contemplados en la Ley Estatal de Educación.
 
 ###### ARTICULO 6o.
 
@@ -689,9 +723,9 @@ XI.- Cooperar con la Secretaría de Desarrollo Agropecuario y Recursos Hidráuli
 
 XII.- Difundir por todos los medios posibles, en coordinación con otras dependencias, las disposiciones tendientes a la protección de los animales, así como, fomentar la cultura de la adopción, y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
-XIII.- Expedir licencias de funcionamiento de farmacias, clínicas y hospitales veterinarios; lugares destinados a la crianza y venta de perros, gatos y otras mascotas, que incluya aquéllas no convencionales; lugares en que únicamente se comercialicen; albergues; estéticas y lugares de entrenamiento; siempre y cuando quien lo solicite exhiba cédula profesional que lo acredite como médico veterinario zootecnista; con base en el cumplimiento de las disposiciones de este Ordenamiento y de las normas de calidad en materia de protección animal. Debiendo llevar un registro detallado y actualizado de dichos establecimientos, de las sociedades protectoras de animales, y de los médicos responsables de éstos.
+XIII.- Expedir licencias de funcionamiento de farmacias, clínicas y hospitales veterinarios; lugares destinados a la crianza y venta de perros, gatos y otras mascotas, que incluya aquéllas no convencionales; lugares en que únicamente se comercialicen; albergues; estéticas y lugares de entrenamiento; siempre y cuando quien lo solicite exhiba cédula profesional que lo acredite como médico veterinario zootecnista; con base en el cumplimiento de las disposiciones de este Ordenamiento y de las normas de calidad en materia de protección animal. Debiendo llevar un registro detallado y actualizado de dichos establecimientos, de las sociedades protectoras de animales, y de los médicos responsables de éstos. Para el caso de venta y comercialización deberá garantizarse que los perros, gatos y otras mascotas, incluyendo a las no convencionales, en ningún momento sean menores a las ocho semanas de edad.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -759,11 +793,17 @@ Queda prohibido el abandono de cualquier animal doméstico en la vía pública.
 
 Queda prohibido el azuzar un perro o cualquier otro animal para que ataque a las personas o para propiciar peleas entre ellos, como espectáculo callejero o privado.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 77 BIS.- Queda prohibido organizar, inducir o provocar peleas de perros.
+
 ###### ARTICULO 78.
 
 Los propietarios y responsables de establecimientos autorizados para la venta de animales, no deberán:
 
-I.- Tener a la venta animales lesionados o enfermos; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+I.- Tener a la venta animales lesionados o enfermos, ni menores de ocho semanas de edad, y
 
 II.- Mutilar, desollar o descuartizar a los animales estando vivos.
 
@@ -831,9 +871,11 @@ ARTICULO 84 BIS.- Se sancionará con el equivalente de dos mil a cinco mil días
 
 Se sancionará con el equivalente de tres mil a seis mil días de la Unidad de Medida y Actualización vigente, al funcionario estatal o municipal que expida autorización para la operación y el establecimiento de espectáculos circenses en los cuales se utilicen animales vivos.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 85.
 
-Las sanciones que se lleguen a aplicar con motivo de esta Ley, serán exclusivamente pecuniarias.
+Las sanciones que se lleguen a aplicar con motivo de esta Ley, serán exclusivamente pecuniarias e independientes de las sanciones penales a que haya lugar.
 
 ### Capítulo Cuarto.
 
@@ -984,6 +1026,22 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 P.O. 18 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0609.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 39 DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0712.- SE REFORMAN LOS ARTÍCULOS 3°, 6°, Y 85; Y ADICIONA EL ARTÍCULO 2° BIS, AL ARTÍCULO 3° TRES FRACCIONES, Y EL ARTÍCULO 77 BIS, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0713.- SE REFORMA LOS ARTÍCULOS 70 Y 78, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
