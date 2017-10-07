@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-estatal-de-las-zonas-economicas-117401"
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2016-10-17"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN ESTATAL DE LAS ZONAS ECONÓMICAS ESPECIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -189,6 +189,10 @@ La planeación y los instrumentos de coordinación que se adopten en las Zonas a
 
 El Estado y los Municipios participarán en la Evaluación Estratégica sobre la situación e impacto sociales y ambientales respecto de la Zona y su Área de Influencia. Lo anterior, sin perjuicio de los trámites que se requieran en términos de la legislación en materia de equilibrio ecológico y protección al ambiente, así como las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+En materia de equilibrio ecológico prevalecerá la normatividad federal.
+
 El Estado y los Municipios cumplirán con las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 ###### Artículo 16.
@@ -352,3 +356,15 @@ ING. CARLOS SANTIAGO CARRASCO.
 Al. C…
 
 NOTA: Las presentes firmas corresponden al Decreto N° 2083.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca; decreta la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 724.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ESTATAL DE DERECHOS; SE ADICIONA UN TERCER PÁRRAFO Y SE RECORRE EL PÁRRAFO SUBSECUENTE DEL ARTÍCULO 15 DE LA LEY DE COORDINACIÓN ESTATAL DE LAS ZONAS ECONÓMICAS ESPECIALES; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4°; SE ADICIONA LA FRACCIÓN X Y UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
