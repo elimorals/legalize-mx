@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2013-03-23"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -187,7 +187,11 @@ Se entenderá, así mismo, como Violencia Económica la percepción de un salari
 
 V. Violencia Patrimonial. Cualquier acto u omisión realizado por la persona agresora dirigido a dañar, menoscabar o destruir los bienes, ingresos y valores de la víctima. Se puede manifestar en el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos, bienes, derechos reales, personales, valores, o recursos económicos, que pueden ser comunes o exclusivos de la víctima, y
 
-VI. Cualquier otra forma análoga que lesione, o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VI. Violencia política. Cualquier acción u omisión realizada por una o varias personas o servidores públicos, por sí o a través de terceros, que causen daño físico, psicológico, económico o sexual, en contra de una o varias mujeres o su familia, para restringir, suspender o impedir el ejercicio de su derecho a la participación política o al ejercicio de un cargo público, o que tengan como fin la inducción a la toma de decisiones en contra de su voluntad, en el cumplimiento de sus funciones o en el ejercicio de sus derechos, y
+
+VII. Cualquier otra forma análoga que lesione, o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### Capítulo II. Modalidades de la violencia
 
@@ -205,7 +209,11 @@ III. Violencia en la comunidad;
 
 IV. Violencia institucional, o
 
-V. Violencia feminicida.
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+V. Violencia Política, o
+
+VI. Violencia feminicida.
 
 Violencia Familiar
 
@@ -232,6 +240,32 @@ Violencia Institucional
 ###### Artículo 14.
 
 La violencia institucional es cualquier acto u omisión de agresión o discriminación, independientemente de su cantidad o continuidad, dirigido a dilatar, obstaculizar o impedir el goce y ejercicio de los derechos fundamentales de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar las diferentes formas de violencia. Se ejerce por las personas que sean servidores públicos de cualquier dependencia, entidad u organismo público autónomo del sector público federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+Violencia Política
+
+###### Artículo 14 Bis.
+
+Se consideran actos de violencia política los siguientes:
+
+I. Imponer o limitar por estereotipos de género, actividades propias de la militancia partidaria para impedir que las mujeres accedan a las candidaturas o cargos dentro de la función pública;
+
+II. Proporcionar de manera dolosa a las mujeres candidatas, autoridades electas o designadas, información falsa, errada o imprecisa que ocasione una competencia desigual o induzca al inadecuado ejercicio de sus funciones políticas;
+
+III. Proporcionar a la autoridad electoral datos falsos o información incompleta sobre la identidad de la mujer candidata;
+
+IV. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función política;
+
+V. Restringir o impedir el uso de acciones constitucionales o legales para proteger sus derechos políticos, o eviten el cumplimiento de las resoluciones que los protejan;
+
+VI. Divulgar información falsa relativa a las funciones políticas, con el objetivo de desprestigiar su gestión, de obtener contra su voluntad la renuncia o licencia al cargo que ejercen o a la candidatura para el que se postulan;
+
+VII. Obligar mediante la fuerza o intimidación, a quienes desempeñen cargo de autoridad electa o designada, en el ejercicio de sus funciones políticas, a suscribir todo tipo de documento o a avalar decisiones, en contra de su voluntad y contrarios al interés público;
+
+VIII. Discriminar a quien tenga la calidad de autoridad electa o designada, por cuestión de su género o por encontrarse en etapa de embarazo, y
+
+IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la integridad de las mujeres en el ejercicio de un espacio de poder o de decisión.
 
 Violencia Feminicida
 
@@ -379,13 +413,17 @@ B. En materia de prevención, atención y erradicación:
 
 I. Estandarizar los procesos y acciones de prevención y erradicación de la violencia contra las mujeres, de atención a sus víctimas y de reeducación de las persona (sic) agresoras;
 
-Il. Coadyuvar en la coordinación de las actuaciones de los órganos de gobierno, estatales y municipales, relacionados con la aplicación de la presente Ley, para prevenir, detectar y atender situaciones de riesgo o existencia de violencia a través de los servicios que prestan dichos órganos;
+II. Coadyuvar en la coordinación de las actuaciones de los órganos de gobierno, estatales y municipales, relacionados con la aplicación de la presente Ley, para prevenir, detectar y atender situaciones de riesgo o existencia de violencia a través de los servicios que prestan dichos órganos;
 
 III. Promover la participación y la colaboración de organizaciones de la sociedad civil, de especialistas en la materia, del sector privado y académico, y de los medios de comunicación estatales, nacionales o extranjeros, en las acciones de prevención, atención y erradicación de la violencia, así como su integración al Sistema Estatal;
 
 IV. Garantizar el asesoramiento jurídico y la atención integral y adecuada, a víctimas y persona agresoras;
 
 V. Validar los protocolos o modelos que rijan la operación de los centros de atención y refugios, la detección de violencia, la atención médica, y los programas integrales de asistencia, atención y rehabilitación.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VI. Promover la participación política de las mujeres y vigilar el respeto a sus derechos político electorales y de ejercicio en los cargos públicos;
 
 C. En materia de capacitación, investigación y difusión:
 
@@ -403,7 +441,11 @@ VI. Impulsar todo tipo de manifestaciones y actividades educativas, culturales y
 
 VII. Impulsar la difusión de la legislación en materia de violencia contra las mujeres, y
 
-VIII. Las demás que le señale la presente Ley y los ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+VIII. Solicitar el informe sobre el estado que guarda la participación política de las mujeres al órgano electoral a la conclusión del proceso electoral local, para su análisis y formulación de iniciativas legislativas y políticas públicas en la materia;
+
+IX. Las demás que le señale la presente Ley y los ordenamientos aplicables.
 
 Organización y funcionamiento
 
@@ -1652,3 +1694,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 177.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
