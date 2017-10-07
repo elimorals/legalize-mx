@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2017-07-01"
+last_updated: "2017-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -425,6 +425,10 @@ Las dependencias de la Administración Pública Descentralizada o Paraestatal y 
 
 Se crea el Consejo Estatal para el Fomento Económico como un órgano permanente de opinión, asesoría, análisis y consulta de la Secretaría y coadyuvará con ésta en la vigilancia para el cabal cumplimiento de lo dispuesto por esta Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+El consejo impulsará la perspectiva de género y la igualdad de oportunidades entre mujeres y hombres tendientes al fomento de la inversión productiva y de las actividades económicas del Estado.
+
 ###### ARTICULO 19.
 
 El Consejo se integrará de la siguiente manera:
@@ -499,15 +503,19 @@ XVI.- Orientar los objetivos y estrategias de fomento económico para la elabora
 
 XVII.- Promover el empleo de personas de 18 a 30 años de edad y mayores de 45 años de edad en las empresas colimenses;
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+
+XVIII.- Proponer al Gobernador del Estado y a los Presidentes Municipales programas y estrategias con perspectiva de género y paridad;
+
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XVIII.- Expedir su reglamento interior;
+XIX.- Expedir su reglamento interior;
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XIX.- Opinar respecto a las artes, técnicas u oficios respecto de los cuales se considere necesario promoverse programas de certificación para hacer más competitivos esos mercados; y
+XX.- Opinar respecto a las artes, técnicas u oficios respecto de los cuales se considere necesario promoverse programas de certificación para hacer más competitivos esos mercados; y
 
-XX.- Las demás que se deriven de esta Ley.
+XXI.- Las demás que se deriven de esta Ley.
 
 ###### ARTICULO 24.
 
@@ -858,3 +866,9 @@ P.O. 1 DE JULIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
+
+P.O. 7 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 356 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
