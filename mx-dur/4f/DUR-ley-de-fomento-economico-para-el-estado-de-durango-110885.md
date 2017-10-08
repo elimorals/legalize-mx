@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2017-06-25"
+last_updated: "2017-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -763,7 +763,9 @@ IV. Sociedad cooperativa, 3 trabajadores exentos.
 
 ###### ARTÍCULO 64.
 
-Para los efectos de lo dispuesto en los artículos 69 fracción X y 70 fracción VII, de esta Ley, el Gobierno del Estado otorgará a las empresas un subsidio único de dos meses de salario mínimo de la zona, por cada persona con discapacidad y adultos mayores que contraten, independientemente de cualquier otro incentivo que pudiera corresponderles de conformidad con lo señalado en esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2017)</small>
+
+Para los efectos de lo dispuesto en los artículos 69 fracción X y 70 fracción VII, de esta Ley, el Gobierno del Estado otorgará a las empresas un subsidio único de dos meses del valor diario de la Unidad de Medida y Actualización, por cada persona con discapacidad y adultos mayores que contraten, independientemente de cualquier otro incentivo que pudiera corresponderles de conformidad con lo señalado en esta Ley.
 
 Para la aplicación de este subsidio, deberán comprobar a la Secretaría, la contratación de las personas con discapacidad y de adultos mayores, mediante los avisos de alta ante el Instituto Mexicano del Seguro Social, acompañado del certificado médico en el que conste la discapacidad, expedido por una institución oficial; y para el caso de los adultos mayores, de una copia certificada del acta de nacimiento del trabajador.
 
@@ -1243,7 +1245,9 @@ I. Amonestación con apercibimiento por escrito.
 
 II. Suspensión del incentivo otorgado.
 
-III. Multa hasta por mil salarios mínimos diarios generales en la zona, la que hará efectiva la Secretaría de Finanzas y de Administración, previa resolución emitida por la Secretaría.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2017)</small>
+
+III. Multa hasta por mil veces del valor diario de la Unidad de Medida y Actualización, la que hará efectiva la Secretaría de Finanzas y de Administración, previa resolución emitida por la Secretaría.
 
 IV. Reparación del daño causado a la hacienda pública estatal. En caso de que el infractor se niegue a resarcir el daño a la hacienda pública estatal, se procederá en forma coactiva, de conformidad con las disposiciones legales aplicables.
 
@@ -1340,3 +1344,15 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE JUNIO DE 2017.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 204.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 64 EN SU PRIMER PÁRRAFO Y 98 EN SU FRACCIÓN III DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el (sic) Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
