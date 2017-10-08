@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2017-07-16"
+last_updated: "2017-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1881,11 +1881,11 @@ Asimismo, en los casos contemplados en las fracciones anteriores de este artícu
 
 ### CAPÍTULO V. AYUDA O INDUCCIÓN AL SUICIDIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 151.
 
-A quien ayude a otro para que se prive de la vida, se le impondrá prisión de uno a cinco años y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización, si el suicidio se consuma. Si el sujeto activo prestare el auxilio hasta el punto de ejecutar él mismo la muerte, la pena aplicable será de cuatro a diez años de prisión.
+Al que por cualquier medio, ayude a otro para que se prive de la vida, se le impondrá prisión de uno a cinco años y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización, si el suicidio se consuma. Si el sujeto activo prestare el auxilio hasta el punto de ejecutar él mismo la muerte, la pena aplicable será de cuatro a diez años de prisión.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -2183,15 +2183,17 @@ Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar 
 
 Si se hiciera uso de violencia, la pena será de tres a siete años de prisión y multa de doscientas dieciséis a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+
+Igualmente comete el delito de abuso sexual, quien mediante el uso de cualquier medio contacte para obligar, inducir o facilitar a una persona menor de dieciocho años, o a una persona que por su condición no tenga la capacidad de comprender el significado del hecho, o que no tiene capacidad para resistirlo, a realizar actos de exhibicionismo corporal o sexuales simulados o no, con cualquier fin, se le impondrá de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 179.
 
-Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obliguen a realizarla por razón de edad, sexo, clase social, coerción, amenazas entre otros, se le impondrán de 4 a 9 años de prisión y multa de doscientos ochenta y ocho a seiscientos cuarenta y ocho Unidades de Medida y Actualización.
+Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obliguen a realizarla por razón de sexo, clase social, coerción, amenazas entre otros, se le impondrán de 6 a 12 años de prisión y multa de cuatrocientas treinta y dos a ochocientas sesenta y cuatro veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
-
-Igualmente al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona mayor de doce años pero menor de 18 años, se le impondrán de 3 a 6 años de prisión y multa de doscientos dieciséis a cuatrocientos treinta y dos Unidades de Medida y Actualización.
+Igualmente al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona mayor de doce años pero menor de 18 años, se le impondrán de 4 a 9 años de prisión y multa de doscientas ochenta y ocho a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
 
 ###### Artículo 180.
 
@@ -2209,9 +2211,9 @@ V. Fuere cometido al encontrarse la víctima a bordo de un vehículo de servicio
 
 VI. Fuere cometido en despoblado o en lugar solitario.
 
-### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
+### CAPÍTULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 181.
 
@@ -2221,15 +2223,25 @@ Se impondrá de 1 año a 5 años de prisión y multa de setenta y dos a trecient
 
 Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan al delito.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 182.
 
-A quien acose o asedie en forma reiterada a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces la Unidad de Medida y Actualización.
+Comete el delito de hostigamiento sexual quien asedie en forma reiterada a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule por la posición jerárquica derivada de una relación laboral, docente, doméstica o de cualquier otra índole, se le impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-Si el sujeto activo fuese servidor público y se aprovechare de esa circunstancia, además de las penas previstas en el párrafo anterior, se destituirá de su cargo.
+Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón, o no tuviere la capacidad de comprender el significado del hecho que realiza se le impondrá al responsable de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 182 Bis.
+
+Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a una persona con la que no exista relación de subordinación, mediante conductas verbales, físicas o ambas, relacionadas con la sexualidad que la ponga en riesgo o le cause un daño o sufrimiento psicoemocional que lesione su dignidad; al responsable se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces la Unidad de Medida y Actualización.
+
+Si el sujeto pasivo del delito de acoso es un menor de dieciocho años o estuviere privado de la razón o de sentido, se le impondrá de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
 
 SUBTÍTULO CUARTO
 
@@ -3627,9 +3639,9 @@ Los culpables de los delitos previstos en este subtitulo, quedarán inhabilitado
 
 Al que por cualquier medio, procure, propicie, posibilite, promueva induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, prostitución, bebidas embriagantes, consumo de drogas o enervantes, prácticas sexuales o a cometer hechos delictuosos, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientas setenta y seis veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
 
-Cuando los actos de corrupción a los que se refiere este artículo, se realicen reiteradamente sobre el mismo menor o incapaz o éstos incurran en la comisión de algún delito, las penas se aumentarán de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientas sesenta veces la Unidad de Medida y Actualización.
+Cuando los actos de corrupción a los que se refiere este artículo, se realicen reiteradamente sobre el mismo menor o incapaz o éstos incurran en la comisión de algún delito o atente contra su integridad o vida, las penas se aumentarán de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3741,7 +3753,7 @@ DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
 ### CAPÍTULO II. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 291.
 
@@ -3835,11 +3847,13 @@ Las mismas penas se impondrán a aquellas personas que obligadas a informar acer
 
 ###### Artículo 300.
 
-A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrá de seis meses a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización y perderá el derecho de pensión alimenticia y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
+Comete el delito de violencia familiar quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización y perderá el derecho de pensión alimenticia y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
 
-Si la víctima de violencia familiar fuera una mujer en estado de gravidez, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, independientemente de las penas que correspondan por cualquier otro delito.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+
+Si la víctima de violencia familiar fuera una mujer en estado de gravidez, o un menor de edad, incapaz, personas con discapacidad o mayores de sesenta años de edad; se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, independientemente de las penas que correspondan por cualquier otro delito.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -5836,3 +5850,35 @@ P.O. 16 DE JULIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que opongan al contenido del presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 199.- POR EL QUE SE REFORMA EL ARTÍCULO 179, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 201.- POR EL QUE SE REFORMA EL ARTÍCULO 300, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 8 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 202.- POR EL QUE SE REFORMAN POR ADICIÓN LOS ARTÍCULOS 151 Y 279 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO.”]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que (sic) opongan al contenido del presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 203.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
