@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2017-03-05"
+last_updated: "2017-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -2585,9 +2585,11 @@ Las diligencias que deban practicarse fuera de las oficinas sede de los Órganos
 
 Las diligencias que deban practicarse fuera de la residencia del Órgano del Poder Judicial que la ordena, en caso de que no esté previsto en el código adjetivo correspondiente, se practicarán por el Magistrado o el Juez de Primera Instancia del lugar donde habrá de realizarse.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 210.
 
-Las copias y fotocopias que se pidieren por los interesados en los asuntos judiciales, deberán expedirse a costa del solicitante, siempre que las diligencias no tengan carácter reservado. Las copias necesarias para integrar testimonios de apelación, se obtendrán por los interesados; en estos casos, el Secretario respectivo las autorizará, previo cotejo de las mismas.
+Las copias y fotocopias que se pidieren por los interesados en los asuntos judiciales, deberán expedirse a costa del solicitante, siempre que las diligencias no tengan carácter reservado. Las copias necesarias para integrar testimonios de apelación, se obtendrán sin costo para los interesados; en estos casos, el Secretario respectivo las autorizará, previo cotejo de las mismas.
 
 ###### ARTÍCULO 211.
 
@@ -3911,7 +3913,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulad
 
 P.O. 5 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -3928,3 +3930,11 @@ P.O. 5 DE MARZO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 200.- POR EL QUE SE REFORMA EL ARTÍCULO 210 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que (sic) opongan al contenido del presente Decreto.
