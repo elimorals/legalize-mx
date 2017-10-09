@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2017-09-15"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -37,7 +37,9 @@ QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 DÉCIMO SÉPTIMO.- Que en ese tenor y de acuerdo a lo vertido anteriormente, quienes integramos la Comisión que dictamina, a partir del análisis y estudio de la Iniciativa de mérito, consideramos pertinente la aprobación de la misma, a efecto de estar en concordancia con las reformas a la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1121,7 +1123,9 @@ XXXIX. Conocer de las infracciones y, en su caso imponer las sanciones que corre
 
 XL. Proporcionar equitativamente a los partidos políticos, las instalaciones mínimas necesarias para que, durante el proceso electoral, sus Representantes ante el Consejo General, puedan cumplir con las funciones electorales que le son propias;
 
-XLI. Aprobar por mayoría de al menos cinco Consejeros Electorales a propuesta del Consejero Presidente del Instituto Estatal Electoral, a los Directores Ejecutivos, titulares de unidades técnicas y al Contralor General del Instituto;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XLI. Aprobar por mayoría de al menos cinco Consejeros Electorales a propuesta del Consejero Presidente del Instituto Estatal Electoral, a los Directores Ejecutivos y titulares de unidades técnicas;
 
 XLII. Aprobar, a propuesta del Secretario Ejecutivo, la estructura técnico administrativa del Instituto Estatal Electoral y de órganos electorales, conforme a las necesidades del servicio, a los recursos presupuestales asignados y la idoneidad de los aspirantes;
 
@@ -1136,6 +1140,10 @@ XLVI. Vigilar que las actividades de los partidos políticos, asociaciones polí
 XLVII. Aprobar el calendario integral del proceso electoral, a propuesta de la Junta Estatal Ejecutiva;
 
 XLVIII. Aprobar la celebración de debates entre candidatos expidiendo los lineamientos generales que deberán aplicarse; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XLVIII Bis. Recibir y conocer los informes que, en su caso, deba presentar el titular del Órgano Interno de Control; y
 
 XLIX. Las demás que le confiera este Código, sus reglamentos y demás disposiciones legales y normatividad aplicable.
 
@@ -1177,7 +1185,9 @@ X. Ejercer el presupuesto del Instituto Estatal Electoral;
 
 XI. Presentar al Consejo General el proyecto de presupuesto de apoyos adicionales en tiempos electorales remitiéndolo una vez aprobado al titular del Poder Ejecutivo para su consideración;
 
-XII. Proponer al pleno del Consejo General el nombramiento de los Directores Ejecutivos, titulares de unidades técnicas y Contralor General del Instituto;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XII. Proponer al pleno del Consejo General el nombramiento de los Directores Ejecutivos, titulares de unidades técnicas;
 
 XIII. Proponer al pleno del Consejo General, el nombramiento de los Coordinadores Electorales ante los Consejos Distritales y Municipales, así como a los Supervisores y Asistentes Electorales, que se requieran para cumplir las distintas actividades del proceso electoral;
 
@@ -1200,6 +1210,10 @@ XIX. Rendir anualmente un informe financiero y de actividades administrativas an
 XX. Dar trámite a todos los asuntos que le competan y no sean atribución del Consejo General o de algún área específica del Instituto, pudiendo designar en su caso a quien deba cumplimentar los mismos;
 
 XXI. Ordenar en su caso la publicación en el Periódico Oficial del Estado de los asuntos que corresponda; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXI Bis. Recibir del titular del Órgano Interno de Control los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General; y
 
 XXII. Las demás que le confiere este Código, el pleno del Consejo General y otras disposiciones legales.
 
@@ -1275,47 +1289,79 @@ III. Solicitar la colaboración de los Notarios Públicos para el auxilio de la 
 
 IV. Las demás que establezca este Código y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 71.
 
-La Contraloría General del Instituto Estatal Electoral es un órgano auxiliar interno de control administrativo dependiente de la Presidencia y tendrá las siguientes atribuciones:
+El Instituto contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, vigilará que los recursos públicos sean administrados y ejercidos de acuerdo con las normas establecidas para tal efecto, asimismo, fomentará la rendición de cuentas en el ejercicio de sus funciones y vigilará el cumplimiento de los objetivos institucionales.
 
-I. Vigilar el cumplimiento de las disposiciones legales establecidas para el funcionamiento administrativo del Instituto, así como de los acuerdos del Pleno del Consejo General y de la Junta Estatal Ejecutiva en materia administrativa;
+El Órgano Interno de Control tendrá un titular que lo representará y contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares no recaerán en una sola persona, de igual forma contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto.
 
-II. Practicar auditorias operacionales, contables o administrativas en todas las áreas del Instituto;
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y los demás previstos en la legislación en materia de Responsabilidades Administrativas.
 
-III. Intervenir en el acta entrega recepción cuando ocurran cambios de titulares de las áreas del Instituto, cuando así lo amerite, auxiliándose del personal que designe el Consejero Presidente;
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IV. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, conforme a los Acuerdos, formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
+###### Artículo 71 Bis.
 
-V. El titular de la Contraloría General participará y asesorará en todos los procesos de licitación que lleve a cabo el Instituto;
+El Titular del Órgano Interno de Control será designado por el Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo.
 
-VI. La Contraloría General inspeccionará y supervisará el cumplimiento de las normas y disposiciones en materia de presupuesto, del sistema de contabilidad, adquisiciones, arrendamientos y servicios, enajenaciones, obra pública, desincorporación, conservación, uso y destino de los recursos materiales del Instituto, interviniendo en los procedimientos que corresponda;
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VII. Formular las observaciones y recomendaciones que estime pertinentes con base en los resultados de las auditorias que practique, dando seguimiento a las mismas, e implementará las medidas preventivas y correctivas consecuentes;
+###### Artículo 71 Ter.
 
-VIII. Establecerá los criterios y técnicas para la estructura y contenido de los manuales administrativos, proporcionándolos a cada área del Instituto y vigilar su debida observancia;
+El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-IX. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto, y llevar el registro de los servidores públicos sancionados;
+I. Verificar que el ejercicio del gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados, para lo cual revisará el ingreso, egreso, manejo, custodia y aplicación de recursos públicos;
 
-X. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+II. Presentar al Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, mismo (sic) que entregará a la Auditoría Superior del Estado y al Congreso del Estado;
 
-XI. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+III. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-XII. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+IV. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones, los servidores públicos del Órgano Interno de Control del Instituto, así como a (sic) los profesionales contratados para la práctica de auditorías, guardarán la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública, para la información relativa a las operaciones proporcionadas al Órgano Interno de Control por las instituciones de crédito;
 
-XIII. Fincar las responsabilidades e imponer las sanciones en términos de lo que establezca la ley de la materia;
+V. Recibir y substanciar directamente las quejas o denuncias por hechos u omisiones en materia de responsabilidades administrativas, conforme a las leyes aplicables;
 
-XIV. Presentar a la aprobación del Consejo General sus programas anuales de trabajo;
+VI. Investigar en el ámbito de su competencia, los hechos u omisiones que puedan implicar alguna falta administrativa, irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto, así como en el caso de cualquier irregularidad en el ejercicio del empleo, cargo o comisión de los servidores públicos del Instituto;
 
-XV. Presentar al Consejo General informes previos de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente; y
+VII. Investigar, calificar, substanciar y en su caso, resolver y sancionar de conformidad con el procedimiento establecido en la legislación en materia de Responsabilidades Administrativas e integrar el expediente de presunta responsabilidad administrativa, respecto de las quejas o denuncias que se presenten en contra de los servidores públicos del Instituto;
 
-XVI. Las demás que le otorgue este Código o las leyes aplicables en la materia.
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-La Contraloría General contará con una estructura orgánica y recursos materiales suficientes que le permita el cabal cumplimiento de sus atribuciones.
+IX. Promover ante el Tribunal de Justicia administrativa las acciones de responsabilidad por faltas administrativas calificadas como graves;
+
+X. Evaluar los informes del avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que se determine;
+
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto del Instituto, empleando la metodología que se determine;
+
+XII. Requerir la información, efectuar visitas y auditorías a las áreas y órganos del Instituto, para el cumplimento de sus funciones;
+
+XIII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la legislación en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público, de Obras Públicas y Servicios Relacionados con las mismas y sus Reglamentos;
+
+XIV. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto, en los términos de la normativa aplicable;
+
+XV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XVI. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o de recursos;
+
+XVIII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XIX. Presentar al Instituto los informes semestral y anual de resultados de su gestión, mismo (sic) que entregará a la Auditoría Superior del Estado y al Congreso del Estado, y comparecer ante la Comisión, cuando así lo requiera el Presidente;
+
+XX. Presentar al Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Ordenar y practicar de oficio, a partir de la denuncia o derivado de las auditorías realizadas, las investigaciones por presuntas faltas administrativas;
+
+XXII. Dictar los acuerdos y resoluciones que correspondan en términos de la legislación en materia de Responsabilidades Administrativas; y
+
+XXIII. Las que le señale la legislación en materia de responsabilidades administrativas y demás atribuciones que le confieran otros ordenamientos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 72.
 
-El Contralor General deberá reunir los mismos requisitos que este Código establece para los directores ejecutivos del Instituto Estatal Electoral, y los siguientes:
+El titular del Órgano Interno de Control deberá reunir los mismos requisitos que este Código establece para los directores ejecutivos del Instituto Estatal Electoral, y los siguientes:
 
 I. No ser consejero electoral de cualquiera de los consejos del Instituto Estatal Electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
 
@@ -1326,6 +1372,46 @@ III. Contar al momento de su designación con experiencia profesional de al meno
 IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello; y
 
 V. No pertenecer o haber pertenecido en los tres años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 72 Bis.
+
+La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un solo periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo con los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo.
+
+Tendrá un nivel jerárquico igual al de Director Ejecutivo, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+El titular del Órgano Interno de Control rendirá un informe semestral y anual de actividades al Instituto, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 72 Ter.
+
+El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad administrativa y sancionado de conformidad con el procedimiento en términos de la legislación en materia de Responsabilidades Administrativas.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto, serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la legislación en materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 72 Quáter.
+
+El Órgano Interno de Control, inscribirá y mantendrá actualizada la información correspondiente de la evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos del Instituto Estatal Electoral, de conformidad con la Ley en materia de Anticorrupción, la legislación en materia de Responsabilidades Administrativas, así como la Ley en materia de Transparencia.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro cargo, empleo, trabajo o comisión públicos o privados, con excepción de los de docencia.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 72 Quinquies.
+
+Los servidores públicos del Instituto coadyuvarán con el titular del Órgano Interno de Control en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones administrativas.
+
+Los servidores públicos adscritos al Órgano Interno de Control del Instituto y, en su caso, los profesionales contratados para la práctica de auditorías, guardarán estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 72 Sexies.
+
+El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y este Código confieren a los funcionarios del Instituto.
 
 ### CAPÍTULO VI. DE LOS COORDINADORES, SUPERVISORES Y ASISTENTES ELECTORALES
 
@@ -1407,7 +1493,9 @@ En ningún caso los Supervisores y Asistentes Electorales podrán asumir funcion
 
 La Junta Estatal Ejecutiva estará integrada por el Consejero Presidente y el Secretario Ejecutivo y los titulares de las Direcciones Ejecutivas de: Organización Electoral; Capacitación Electoral y Educación Cívica; Equidad de Género y Participación Ciudadana; Prerrogativas y Partidos Políticos; Jurídica; y de Administración.
 
-El Contralor General podrá participar, a convocatoria del Consejero Presidente, en las sesiones de la Junta Estatal Ejecutiva.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+El titular del Órgano Interno de control participará, con voz pero sin voto, en las reuniones de la Junta General Ejecutiva, cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente.
 
 Los titulares de las Direcciones Ejecutivas serán nombrados por mayoría de cinco Consejeros Electorales a propuesta del Consejero Presidente y deberán satisfacer los mismos requisitos que los establecidos para los Consejeros Electorales del Consejo General.
 
@@ -1432,6 +1520,10 @@ VII. Evaluar el desempeño del Servicio Profesional Electoral de conformidad con
 VIII. Aprobar los domicilios en los que habrá de instalarse las oficinas de los Consejos Distritales y Municipales, durante los procesos electorales;
 
 IX. Presentar a consideración del Consejo General el proyecto de dictamen de pérdida de registro de algún partido político local que se encuentre en los supuestos señalados en la Ley General de Partidos Políticos o este Código; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+IX Bis. Recibir informes del titular del Órgano Interno de Control respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto; y
 
 X. Las demás que señale este Código, el Consejo General, el Presidente y otras disposiciones legales.
 
@@ -2995,9 +3087,9 @@ IV. Garantizar la paridad de género en sus candidaturas.
 
 Para la asignación de Diputados electos por el principio de representación proporcional se tendrán en cuenta los conceptos y principios siguientes:
 
-I. Lista “A”: Relación de doce fórmulas de candidatos a Diputados propietario y suplente del mismo género, listados en orden de prelación alternando fórmulas género de manera sucesiva, a elegir por el principio de representación proporcional;
+I. Lista "A": Relación de doce fórmulas de candidatos a Diputados propietario y suplente del mismo género, listados en orden de prelación alternando fórmulas género de manera sucesiva, a elegir por el principio de representación proporcional;
 
-II. Lista “B”: Relación de las fórmulas de candidatos a Diputados que no lograron el triunfo en la elección por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación valida emitida, comparados respecto de otras fórmulas de su propio partido en esa misma elección; con la finalidad de garantizar la paridad de género, una vez que se determinó el primer lugar de ésta lista, el segundo lugar será ocupado por la fórmula del otro género con mayor porcentaje de la votación efectiva, e irán intercalando de esta manera hasta concluir la integración de la lista.
+II. Lista "B": Relación de las fórmulas de candidatos a Diputados que no lograron el triunfo en la elección por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación valida emitida, comparados respecto de otras fórmulas de su propio partido en esa misma elección; con la finalidad de garantizar la paridad de género, una vez que se determinó el primer lugar de ésta lista, el segundo lugar será ocupado por la fórmula del otro género con mayor porcentaje de la votación efectiva, e irán intercalando de esta manera hasta concluir la integración de la lista.
 
 Al principio de la lista B se deberá ubicar a una persona del sexo diverso al del primer lugar de la lista A;
 
@@ -5356,3 +5448,23 @@ P.O. 15 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones del Código Electoral del Estado de Hidalgo.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 228 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS HUMANOS, DEL CÓDIGO ELECTORAL, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, TODAS DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto.
+
+Los actuales titulares o responsables de las Contralorías o de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto podrán participar en el proceso de designación, siempre y cuando cumplan con los requisitos de elegibilidad previstos en este Decreto.
+
+TERCERO. Cada Organismo Autónomo que se mencionan (sic) en el presente Decreto, tendrán un plazo de hasta 90 días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+CUARTO. Cada Organismo Autónomo que se mencionan (sic) en el presente Decreto, a partir del ejercicio fiscal del 2018, destinará en su Presupuesto de Egresos, una partida específica que garantice los recursos necesarios para el cumplimiento de los objetivos de su Órgano Interno de Control.
+
+QUINTO. En caso de existir recursos humanos, financieros y materiales asignados a las Contralorías u Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
