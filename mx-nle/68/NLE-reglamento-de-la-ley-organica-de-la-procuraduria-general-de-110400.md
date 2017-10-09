@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-110
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-30"
-last_updated: "2016-03-30"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2015.
 
@@ -51,19 +51,37 @@ Del Glosario
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Código de Procedimientos Penales: Código de Procedimientos Penales del Estado de Nuevo León, publicado el 28 de marzo de 1990 en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-II. Código Procesal Penal: Código Procesal Penal para el Estado de Nuevo León, publicado el 5 de julio de 2011 en el Periódico Oficial del Estado;
+I. Código Nacional: Código Nacional de Procedimientos Penales, publicado el 5 de marzo de 2014 en el Diario Oficial de la Federación, y sus reformas;
 
-III. Indagatoria: Averiguación previa o carpeta de investigación iniciada por el Ministerio Público;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IV. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León;
+II. Código de Procedimientos Penales: Código de Procedimientos Penales del Estado de Nuevo León, publicado el 28 de marzo de 1990 en el Periódico Oficial del Estado, y sus reformas;
 
-V. Procurador: Procurador General de Justicia del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VI. Procuraduría: Procuraduría General de Justicia del Estado de Nuevo León; y
+III. Código Procesal Penal: Código Procesal Penal para el Estado de Nuevo León, publicado el 5 de julio de 2011 en el Periódico Oficial del Estado, y sus reformas;
 
-VII. Reglamento: Reglamento de la Ley.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+IV. Indagatoria: Averiguación previa o carpeta de investigación iniciada por el Ministerio Público;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+V. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VI. Procurador: Procurador General de Justicia del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VII. Procuraduría: Procuraduría General de Justicia del Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VIII. Reglamento: Reglamento de la Ley.
 
 ###### Artículo 3°.
 
@@ -97,7 +115,9 @@ VIII. Ejercer las atribuciones que en materia de seguridad pública le confieren
 
 IX. Promover la participación de la comunidad en los programas de su competencia, en los términos que los mismos señalen;
 
-X. Realizar las acciones que le correspondan en materia de justicia alternativa, conforme al Código Procesal Penal, la ley de la materia y demás disposiciones legalmente aplicables;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+X. Realizar las acciones que le correspondan en materia de justicia alternativa, conforme al Código Procesal Penal, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la ley de la materia y demás disposiciones legalmente aplicables;
 
 XI. Celebrar convenios, bases y otros instrumentos, para mejorar la procuración de justicia, con instituciones en el Estado o fuera de él, así como con personas físicas o morales de los diversos sectores de la población;
 
@@ -111,11 +131,17 @@ XV. Requerir, para el cumplimiento de sus atribuciones, informes, documentos y o
 
 XVI. Establecer un procedimiento que permita comunicar a la ciudadanía, de manera directa, sobre la privación de la libertad o desaparición de una persona menor de dieciocho años de edad, mayor de setenta años de edad o incapaz, cuando se reúnan los criterios para su implementación, y que éstos permitan auxiliar a la Procuraduría en la búsqueda, localización y recuperación de la persona privada de su libertad;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XVII. Ejercer a través del Ministerio Público especializado la acción de extinción de dominio, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León, y
+XVII. Ejercer a través del Ministerio Público especializado la acción de extinción de dominio, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León;
 
-XVIII. Las demás que se determinen en la Ley, este Reglamento y otras disposiciones legalmente aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XVIII. Administrar, por conducto de la Fiscalía Especializada de Atención a la Mujer, el Centro de Justicia para las Mujeres del Estado de Nuevo León; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIX. Las demás que se determinen en la Ley, este Reglamento y otras disposiciones legalmente aplicables.
 
 ## TÍTULO SEGUNDO. DEL MINISTERIO PÚBLICO
 
@@ -141,9 +167,13 @@ VI. Realizar el cotejo de documentos que conformen las indagatorias y expedir co
 
 VII. Investigar los delitos del orden común en las materias que le correspondan, con el auxilio de las policías, el Instituto de Criminalística y Servicios Periciales y las demás autoridades competentes, en los términos de las disposiciones legalmente aplicables, así como practicar las diligencias necesarias para la integración de las indagatorias y el proceso penal, girando las cédulas citatorias y órdenes de comparecencia, búsqueda, localización, investigación y presentación que fueren necesarias;
 
-VIII. Recabar, de las dependencias y entidades oficiales federales, del Distrito Federal, estatales y municipales y de personas físicas o morales, en los términos de las disposiciones aplicables, los informes, documentos, opiniones y dictámenes necesarios para la integración de las indagatorias;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IX. Ejercer la acción penal ante los jueces competentes, y en su caso, poner a su disposición a los detenidos que hubiere. Cuando corresponda, conforme al Código de Procedimientos Penales, también se pondrán a disposición los objetos, instrumentos o productos relacionados con los hechos delictuosos;
+VIII. Recabar, de las dependencias y entidades oficiales federales, de la Ciudad de México, estatales y municipales y de personas físicas o morales, en los términos de las disposiciones aplicables, los informes, documentos, opiniones y dictámenes necesarios para la integración de las indagatorias;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+IX. Ejercer la acción penal ante los jueces competentes, y en su caso, poner a su disposición a los detenidos que hubiere. Cuando corresponda, conforme al Código de Procedimientos Penales, el Código Procesal Penal o el Código Nacional, también se pondrán a disposición los objetos, instrumentos o productos relacionados con los hechos delictuosos;
 
 X. Determinar, según sea el caso, el no inicio de la investigación, el no ejercicio de la acción penal, la reserva de la indagatoria o su archivo temporal conforme a las disposiciones legalmente aplicables;
 
@@ -175,9 +205,13 @@ XXIII. Ejercer las funciones que en materia de adolescentes infractores le seña
 
 XXIV. Poner a los inimputables mayores de edad a disposición del órgano jurisdiccional, cuando se deban aplicar medidas de seguridad, ejerciendo las acciones correspondientes en los términos establecidos en las normas aplicables;
 
-XXV. Auxiliar al Ministerio Público Federal, al del Distrito Federal y a los de los Estados de la República, en los términos que determinen las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XXVI. Realizar las acciones que le correspondan en materia de justicia alternativa, conforme al Código Procesal Penal, la ley de la materia y demás disposiciones legalmente aplicables;
+XXV. Auxiliar al Ministerio Público Federal, al de la Ciudad de México y a los de los Estados de la República, en los términos que determinen las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXVI. Realizar las acciones que le correspondan en materia de justicia alternativa, conforme al Código Procesal Penal, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la ley de la materia y demás disposiciones legalmente aplicables;
 
 XXVII. Aplicar las correcciones disciplinarias a efecto de salvaguardar el buen orden, el respeto y la consideración debidos en la práctica de las diligencias dentro de las indagatorias;
 
@@ -203,9 +237,13 @@ III. Promover, concurrir e intervenir en las diligencias y audiencias que se pra
 
 IV. Intervenir en los juicios relativos al estado civil de las personas, sucesiones y todos aquellos del orden familiar en los que por disposición legal sea parte o deba darse vista al Ministerio Público, interponiendo las promociones o recursos legales que procedan;
 
-V. Iniciar el trámite de incidentes penales ante los órganos jurisdiccionales competentes, de conformidad con lo establecido por el Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VI. Formular las conclusiones en los términos señalados por el Código de Procedimientos Penales cuando proceda, y solicitar la imposición de las penas y medidas de seguridad que correspondan, así como el pago de la reparación de los daños y perjuicios o, en su caso, plantear las causas de exclusión del delito o las que extingan la acción penal;
+V. Iniciar el trámite de incidentes penales ante los órganos jurisdiccionales competentes, de conformidad con lo establecido por el Código de Procedimientos Penales, el Código Procesal Penal o el Código Nacional, según corresponda.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VI. Formular las conclusiones en los términos señalados por el Código de Procedimientos Penales o formular los alegatos de clausura conforme a lo dispuesto por el Código Procesal Penal o el Código Nacional cuando proceda, y solicitar la imposición de las penas y medidas de seguridad que corresponda, así como el pago de la reparación de los daños y perjuicios o, en su caso, plantear las causas de exclusión del delito o las que extingan la acción penal.
 
 VII. Impugnar, en los términos legalmente previstos, las resoluciones judiciales que a su juicio causen agravio al Ministerio Público y las personas que éste represente, e interponer los recursos procedentes en los asuntos de su competencia;
 
@@ -229,7 +267,9 @@ XVI. Velar por los intereses de las mujeres, así como de los menores de edad e 
 
 XVII. Realizar las acciones necesarias para formular pedimentos de cumplimientos de mandamientos judiciales en el extranjero;
 
-XVIII. Realizar las acciones que le correspondan en materia de justicia alternativa, conforme al Código Procesal Penal, la ley de la materia y demás normas aplicables, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XVIII. Realizar las acciones que le correspondan en materia de justicia alternativa, conforme al Código Procesal Penal, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la ley de la materia y demás disposiciones legalmente aplicables;
 
 XIX. Las demás que se determinen en la Ley, este Reglamento y otras normas aplicables.
 
@@ -305,7 +345,7 @@ iii. La Fiscalía de la Zona de Santa Catarina, y
 
 iv. La Fiscalía de la Zona de Juárez.
 
-b) La Fiscalía Especializada de atención a la Mujer;
+b) (DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 c) La Fiscalía Especializada en Justicia para Adolescentes;
 
@@ -317,17 +357,39 @@ III. El Centro de Evaluación y Control de Confianza;
 
 IV. La Agencia Estatal de Investigaciones, de la que formarán parte:
 
-a) La Dirección Operativa y Despliegue Territorial.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-V. La Dirección General de Control Institucional, de la cual dependerá:
+a) La Dirección Operativa y de Despliegue Territorial;
 
-a) La Dirección de Control y Mantenimiento.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+b) La Dirección de Análisis y Procesamiento de Información; y,
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+c) La Dirección de Asuntos Jurídicos.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+V. Dirección General de Asesores del Procurador en Políticas Públicas y Relaciones Interinstitucionales
+
+a) Dirección de Asesoría Multidisciplinaria; y,
+
+b) Dirección de Planeación y Gestión de Calidad.
 
 VI. La Dirección General de Administración, de la cual dependerán:
 
-a) La Dirección de Recursos Financieros, y
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-b) La Dirección de Informática.
+a) La Dirección de Recursos Materiales y Financieros;
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+b) La Dirección de Informática; y,
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+c) La Dirección de Recursos Humanos.
 
 VII. La Unidad Especializada Antisecuestros, de la cual dependerá:
 
@@ -335,9 +397,9 @@ a) La Fiscalía Especializada en Operaciones Estratégicas.
 
 VIII. La Dirección General Jurídica y de Agentes del Ministerio Público Auxiliares del Procurador;
 
-IX. La Oficina Ejecutiva del Procurador, de la cual dependerá:
+IX. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-a) La Dirección de Análisis e información.
+a) (DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 X. La Subprocuraduría Jurídica, de la cual dependerán:
 
@@ -345,13 +407,11 @@ a) La Dirección de Transparencia, Acceso a la Información, Derechos Humanos y 
 
 b) La Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos;
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-c) La Dirección Consultiva y Análisis Jurídico;
+c) La Dirección Consultiva y de Análisis Jurídico;
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
-
-d) El Instituto de Formación Profesional; y,
+d) (DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -363,13 +423,45 @@ XI. El Instituto de Criminalística y Servicios Periciales;
 
 XII. La Subprocuraduría Especializada en Combate a la Corrupción, de la cual dependerán:
 
-a) La Dirección de Atención a Denuncias, y
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-b) La Dirección de Investigación y Procesos.
+a) La Dirección de Investigación y Procesos de la Región Centro;
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+b) La Dirección de Investigación y Procesos de la Región Norte; y,
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+c) La Dirección de Investigación y Procesos de la Región Sur.
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
 
 XIII. Unidad Especializada en Inteligencia Patrimonial y Económica.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIV. El Instituto de Formación Profesional;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XV. La Secretaría Particular del Procurador;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XVI. La Secretaría Técnica del Procurador; y,
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XVII. La Fiscalía Especializada de Atención a la Mujer, de la cual dependerán;
+
+a) La Dirección de Atención a Denuncias;
+
+b) La Fiscalía Regional Norte;
+
+c) La Fiscalía Regional Centro; y,
+
+d) La Fiscalía Regional Sur.
 
 ###### Artículo 9°.
 
@@ -377,9 +469,9 @@ De las Unidades Administrativas
 
 Para los efectos del artículo 9 de la Ley, las unidades administrativas se dividirán en centrales y subalternas.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-Serán unidades administrativas centrales las Subprocuradurías, la Visitaduría General, el Centro de Evaluación y Control de Confianza, la Agencia Estatal de Investigaciones, el Instituto de Criminalística y Servicios Periciales, las Direcciones Generales, Direcciones, la Unidad Especializada Antisecuestros, la Oficina Ejecutiva del Procurador y la Unidad Especializada en Inteligencia Patrimonial y Económica.
+Serán unidades administrativas centrales las Subprocuradurías, la Visitaduría General, el Centro de Evaluación y Control de Confianza, la Agencia Estatal de Investigaciones, el Instituto de Criminalística y Servicios Periciales, las Direcciones Generales, Direcciones, la Unidad Especializada Antisecuestros, la Unidad Especializada en Inteligencia Patrimonial y Económica, y las Secretarías Particular y Técnica del Procurador.
 
 Las unidades administrativas subalternas serán aquellas que forman parte de las unidades administrativas centrales y que resulten indispensables para el cabal logro de su cometido, y serán de carácter administrativo, técnico u operativo.
 
@@ -399,11 +491,17 @@ II. Directores Generales para las Direcciones Generales, la Agencia Estatal de I
 
 III. El Visitador General para el caso de la Visitaduría General;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IV. Los Directores para las Direcciones, el Centro de Evaluación y Control de Confianza, la Unidad Especializada Antisecuestros, las Fiscalías de Zona y las Fiscalías Especializadas; y
+IV. Los Directores para las Direcciones, el Centro de Evaluación y Control de Confianza, la Unidad Especializada Antisecuestros, las Fiscalías de Zona, Fiscalías Especializadas;
 
-V. El Jefe Ejecutivo del Procurador, para la Oficina Ejecutiva del Procurador General de Justicia.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+V. El Secretario Particular del Procurador, para la Secretaría Particular del Procurador y,
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VI. El Secretario Técnico del Procurador, para la Secretaría Técnica del Procurador.
 
 ###### Artículo 11.
 
@@ -453,9 +551,9 @@ El Procurador ejercerá en forma personal y no delegable, además de las faculta
 
 I. Proponer al Ejecutivo del Estado el nombramiento de los Subprocuradores, y
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-II. Nombrar al Jefe de la Oficina Ejecutiva, Visitador General, Directores Generales, Directores, Coordinadores del Ministerio Público, de la Visitaduría General, del Centro de Evaluación y Control de Confianza, de la Agencia Estatal de Investigaciones, del Instituto de Criminalística y Servicios Periciales, de la Unidad Especializada Antisecuestros, de la Unidad Especializada en Inteligencia Patrimonial y Económica, así como a los Agentes del Ministerio Público, Agentes de la Policía Ministerial y Peritos, y tomarles la protesta para cumplir y hacer cumplir la normatividad aplicable y para desempeñarse honesta y lealmente en el cargo en el que haya sido nombrado.
+II. Nombrar a los Secretarios Particular y Técnico del Procurador, así como al Visitador General, Directores Generales, Directores, Coordinadores del Ministerio Público, de la Visitaduría General, del Centro de Evaluación y Control de Confianza, de la Agencia Estatal de Investigaciones, del Instituto de Criminalística y Servicios Periciales, del Instituto de Formación Profesional, de la Unidad Especializada Antisecuestros, de la Unidad Especializada en Inteligencia Patrimonial y Económica, así como a los Agentes del Ministerio Público, Agentes de la Policía Ministerial y Peritos, y tomarles la protesta para cumplir y hacer cumplir la normatividad aplicable y para desempeñarse honesta y lealmente en el cargo en el que haya sido nombrado.
 
 ### CAPÍTULO II. DE LAS FACULTADES GENERALES
 
@@ -531,7 +629,9 @@ XXXI. Elaborar las propuestas de procedimientos para el trámite y manejo de doc
 
 XXXII. Coadyuvar, dentro del ámbito de sus facultades, con la Unidad Especializada en Inteligencia Patrimonial y Económica, en el ejercicio de la acción de extinción de dominio y demás atribuciones que le corresponden al Ministerio Público, de conformidad con la Ley de Extinción de Dominio para el Estado de Nuevo León y demás disposiciones aplicables;
 
-XXXIII. Proporcionar a la Dirección de Transparencia, Acceso a la Información, Derechos Humanos y Participación Ciudadana, la información pública que tenga en su poder y que no se encuentre sujeta a un acuerdo de reserva, conforme a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, a fin de que pueda dar respuesta a las solicitudes de información pública;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXXIII. Proporcionar a la Dirección de Transparencia, Acceso a la Información, Derechos Humanos y Participación Ciudadana, la información pública que tenga en su poder y que no sea clasificable como información reservada o confidencial, conforme a las leyes aplicables en materia de transparencia, acceso a la información pública y protección de datos personales, a fin de que pueda dar respuesta a las solicitudes de información en tiempo y forma;
 
 XXXIV. Proponer la capacitación y actualización científica o técnica del personal de la Procuraduría;
 
@@ -585,7 +685,7 @@ XII. Promover la aplicación de mecanismos alternativos de solución de controve
 
 XIII. Dar seguimiento a los pedimentos de medidas cautelares, medidas cautelares anticipadas, providencias precautorias y toda aquella solicitud formulada por el Ministerio Público a la autoridad jurisdiccional;
 
-XIV. Supervisar la intervención del Ministerio Público en cuanto a la ejecución de sanciones y medidas de seguridad;
+XIV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 XV. Convocar y presidir las reuniones que deban celebrarse con las diferentes unidades administrativas, unidades administrativas subalternas y demás personal de la Procuraduría, para definir o desarrollar estrategias en los asuntos de su competencia, y
 
@@ -683,11 +783,15 @@ De las Coordinaciones de Atención Ciudadana
 
 La Coordinación de Atención Ciudadana Norte, la Coordinación de Atención Ciudadana Centro y la Coordinación de Atención Ciudadana Sur, dependen de los Fiscales Regionales, respectivamente, y son las unidades administrativas subalternas responsables de ser el primer contacto con el ciudadano, canalizándolo a la instancia de atención correspondiente, siendo competentes para:
 
-I. Recibir las denuncias, querellas y partes policiales de los delitos que serán investigados y procesados conforme al Código Procesal Penal, iniciando la carpeta de investigación;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+I. Recibir las denuncias, querellas y partes policiales de los delitos que serán investigados y procesados conforme al Código Procesal Penal o al Código Nacional, iniciando la carpeta de investigación;
 
 II. Supervisar el trabajo de los Agentes del Ministerio Público Orientadores;
 
-III. Enviar a las áreas del Ministerio Público que corresponda, los asuntos que serán investigados y procesados conforme al Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+III. Enviar a las áreas del Ministerio Público que corresponda, los asuntos que serán investigados y procesados conforme al Código de Procedimientos Penales o al Código Nacional, según corresponda;
 
 IV. Promover desde la recepción de denuncias y querellas el uso de la justicia alternativa;
 
@@ -699,7 +803,7 @@ VII. Levantar las actas circunstanciadas, conforme lo dispone el Código Procesa
 
 VIII. Recibir las puestas a disposición de los detenidos en flagrancia y analizar la procedencia de la ratificación de las mismas;
 
-IX. Supervisar el correcto funcionamiento de las Unidades de Control de Detenidos;
+IX. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 X. Enviar a la Dirección de Investigación que corresponda, la información necesaria para el desarrollo de la carpeta de investigación;
 
@@ -719,7 +823,9 @@ XVI. Las que les encomienden los Fiscales Regionales o le otorguen está Ley, es
 
 De las Fiscalías de Zona y de las Fiscalías Especializadas
 
-Las Fiscalías de Zona y las Fiscalías Especializadas dependen de las Fiscalías Regionales, con excepción de la Fiscalía Especializada de Atención a la Mujer y la Fiscalía Especializada en Justicia para Adolescentes, y son las unidades administrativas responsables de auxiliar a éstas en las investigaciones de los delitos, siendo competentes para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, además de las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Las Fiscalías de Zona y las Fiscalías Especializadas dependen de las Fiscalías Regionales, con excepción de la Fiscalía Especializada en Justicia para Adolescentes, y son las unidades administrativas responsables de auxiliar a éstas en las investigaciones de los delitos, siendo competentes para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, además de las siguientes:
 
 I. Asesorar, apoyar y dirigir a los Agentes del Ministerio Público Investigadores en la integración de las indagatorias de su competencia;
 
@@ -779,41 +885,7 @@ XV. Las que le encomiende el Director General de las Fiscalías Investigadoras, 
 
 ###### Artículo 24.
 
-De la Fiscalía Especializada en Atención a la Mujer
-
-La Fiscalía Especializada en Atención a la Mujer depende de la Subprocuraduría del Ministerio Público y es una unidad administrativa responsable y especializada en investigar y perseguir las conductas delictivas cometidas en perjuicio de mujeres, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
-
-I. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos y el interés superior del adolescente;
-
-II. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
-
-III. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
-
-IV. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
-
-V. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
-
-VI. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se limite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en la ley aplicable;
-
-VII. Poner a la consideración del Director General de las Fiscalías Investigadoras, Averiguaciones Previas y Procesos, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
-
-VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
-
-IX. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
-
-X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
-
-XI. Supervisar el correcto funcionamiento de las Unidades de Investigación;
-
-XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador del Ministerio Público para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
-
-XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
-
-XIV. Tener a su cargo la actuación procesal del Ministerio Público en el sistema procesal penal acusatorio especializado en atención a la mujer;
-
-XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
-
-XVI. Las que le encomiende el Subprocurador del Ministerio Público o le otorguen la Ley, este Reglamento y demás normas aplicables.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 25.
 
@@ -931,7 +1003,9 @@ XVIII. Expedir certificaciones de documentos que obren en sus archivos, así com
 
 XIX. Integrar la documentación, expedir las copias certificadas que deban ser enviadas a la autoridad correspondiente, en aquellos casos en que con motivo de sus funciones, apareciere la probable comisión de delito por parte de servidores públicos de la Procuraduría;
 
-XX. Elaborar y someter, previa colaboración con el Subprocurador Jurídico, a consideración del Procurador General de Justicia, el proyecto anual de visitas ordinarias de evaluación administrativa o técnico-jurídicas a las unidades administrativas de la Procuraduría, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XX. Elaborar y someter a consideración del Procurador General de Justicia, el proyecto anual de visitas ordinarias de evaluación administrativa o técnico-jurídicas a las unidades administrativas de la Procuraduría; y,
 
 XXI. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
@@ -1007,7 +1081,9 @@ VII. Ordenar el arresto hasta por treinta y seis horas del personal de la Polic�
 
 VIII. Informar al Procurador, y a las instancias competentes, de las irregularidades en que incurran los elementos de la Agencia en el desempeño de sus funciones, así como sobre los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento;
 
-IX. Ser el enlace con otras instituciones o corporaciones policiales de la Procuraduría General de la República, y de las procuradurías de justicia del Distrito Federal y de otras entidades federativas, a efecto de implementar acciones policiales y operativos conjuntos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+IX. Ser el enlace con otras instituciones o corporaciones policiales de la Procuraduría General de la República, y de las procuradurías de justicia de la Ciudad de México y de otras entidades federativas, a efecto de implementar acciones policiales y operativos conjuntos;
 
 X. Determinar la asignación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial, destinados al desarrollo de las actividades de la Agencia;
 
@@ -1035,17 +1111,39 @@ XXI. Vigilar que se atiendan de inmediato y con eficacia, las llamadas de auxili
 
 XXII. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Agencia;
 
-XXIII. Prestar en coordinación con la Oficina Ejecutiva del Procurador, el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que al efecto emita el Procurador;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XXIV. Coordinar junto con la Dirección General Jurídica y de Agentes del Ministerio Público Auxiliares del Procurador, las acciones para la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación, cateo y demás mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
+XXIII. Prestar en coordinación con la Secretaría Técnica del Procurador, el servicio de seguridad a las personas, a través de los Agentes de la Policía Ministerial asignados a esa función, en los términos de las instrucciones que al efecto emita el Procurador;
 
-XXV. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXIV. Coordinar junto con la Dirección General Jurídica y de Agentes del Ministerio Público Auxiliares del Procurador, las acciones para la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación, cateo y demás mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXV. Coordinar y supervisar la operación de una base de datos para el adecuado control de las investigaciones realizadas, pruebas recabadas; registro de bienes u objetos recuperados;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXVI. Emitir a la ciudadanía, la Alerta Amber sobre la privación de la libertad o desaparición de personas menores de dieciocho años de edad, incapaces o mayores de setenta años de edad, cuando se reúnan los criterios para su implementación emitidos por el Procurador, que auxilien en la búsqueda, localización y recuperación de la persona privada de la libertad, así como establecer un grupo especializado en la búsqueda de personas desaparecidas en general;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXVII. Informar inmediatamente al Procurador de cualquier dato de inteligencia que resulte relevante para el ejercicio de las funciones de la Procuraduría; y,
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXVIII. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(REFORMADO SU ENCABEZADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-De la Dirección Operativa y Despliegue Territorial.
+De la Dirección Operativa y de Despliegue Territorial.
 
-La Dirección Operativa y Despliegue Territorial depende de la Agencia Estatal de Investigaciones y es la unidad administrativa responsable de auxiliar al Ministerio Público, a través de la Policía Ministerial, en la investigación, persecución y esclarecimiento de los hechos delictuosos, buscando las pruebas que determinen la responsabilidad de los que en ellos participaron, ejecutando los mandamientos judiciales y ministeriales, de manera especializada, según sean los tipos de delitos o las zonas geográficas del Estado donde presuntamente se cometieron, siendo competente para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+La Dirección Operativa y de Despliegue Territorial depende de la Agencia Estatal de Investigaciones y es la unidad administrativa responsable de auxiliar al Ministerio Público, a través de la Policía Ministerial, en la investigación, persecución y esclarecimiento de los hechos delictuosos, buscando las pruebas que determinen la responsabilidad de los que en ellos participaron, ejecutando los mandamientos judiciales y ministeriales, de manera especializada, según sean los tipos de delitos o las zonas geográficas del Estado donde presuntamente se cometieron, siendo competente para:
 
 I. Dirigir, coordinar y vigilar a los elementos de la Policía Ministerial, así como todas las actividades que éstos realicen;
 
@@ -1073,89 +1171,215 @@ XII. Coordinar el servicio de seguridad a las personas, prestado por los Agentes
 
 XIII. Las que le encomiende el Director General de la Agencia Estatal de Investigaciones o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 30 Bis.
+
+De la Dirección de Análisis y Procesamiento de Información
+
+La Dirección de Análisis y Procesamiento de Información depende de la Agencia Estatal de Investigaciones y es la unidad administrativa responsable de recopilar y analizar la información necesaria para, previo diagnóstico y pronóstico de la misma, definir las líneas de acción criminalísticas y policiales pertinentes para auxiliar al Ministerio Público en la investigación y persecución de los delitos, siendo competente para:
+
+I. Establecer líneas de investigación policial a partir del análisis de la información de la estructura y los modos de operación de las organizaciones criminales y emitir consignas policiales para su desarrollo en cumplimiento de los mandamientos ministeriales o judiciales;
+
+II. Diseñar y proponer al Director General de la Agencia Estatal de Investigaciones el programa de desarrollo estratégico que permita auxiliar al Ministerio Público en la investigación y persecución de los delitos;
+
+III. Auxiliar al Ministerio Público en la investigación y persecución de los delitos, realizando la recopilación sustantiva de la información necesaria para el esclarecimiento de los hechos materia de la investigación;
+
+IV. Suministrar información, datos y medios de prueba a las unidades administrativas de la Procuraduría encargadas de la investigación y persecución de los delitos, así como auxiliarlas en la aplicación de herramientas tecnológicas;
+
+V. Recabar de registros, bancos de datos y otras fuentes, la información necesaria para auxiliar con eficiencia y eficacia al Ministerio Público en el ejercicio de sus funciones;
+
+VI. Diseñar y aplicar los métodos de análisis y clasificación de información que permita la investigación y persecución de los delitos con mayor eficiencia y eficacia;
+
+VII. Integrar la información estadística sobre la incidencia y operación delictiva y hacerlo del conocimiento del Director General de la Agencia Estatal de Investigaciones;
+
+VIII. Diseñar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, para conformar bancos de datos que sustenten el desarrollo de acciones contra la delincuencia;
+
+IX. Establecer y operar métodos de comunicación y redes de información policial para el acopio y clasificación oportuna de los datos que requiera la Agencia Estatal de Investigaciones y demás unidades administrativas de la Procuraduría, de conformidad con las normas y políticas institucionales;
+
+X. Proporcionar, previa autorización del Director General de la Agencia Estatal de Investigaciones, la información policial a autoridades federales, de la Ciudad de México, estatales y municipales, de conformidad con la normatividad y los convenios celebrados por la Procuraduría,
+
+XI. Programar, para la autorización del Director General de la Agencia, la dotación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial destinados al desarrollo de las actividades de la Agencia Estatal de Investigaciones;
+
+XII. Analizar e identificar las estructuras y los modos de operación de las organizaciones criminales;
+
+XIII. Coordinar los servicios técnicos y de apoyo logístico que requieran las unidades administrativas y operativas de la Agencia Estatal de Investigaciones, y
+
+XIV. Las que le encomiende el Director General de la Agencia Estatal de Investigaciones o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Artículo 30 Bis 2 (SIC).- De la Dirección de Asuntos Jurídicos
+
+La Dirección de Asuntos Jurídicos depende de la Agencia Estatal de Investigaciones y es la unidad administrativa responsable de llevar a cabo la interacción y atención de la comunicación legal con las diversas instancias jurisdiccionales, ministeriales, policiales y/o administrativas, así como analizar y asesorar jurídicamente al personal de la Agencia para auxiliar al Ministerio Público en la investigación y persecución de los delitos, siendo competente para:
+
+I. Atender los asuntos de carácter legal que incidan en la Agencia y representar al Director General ante las diversas instancias jurídico administrativas;
+
+II. Asesorar legalmente al Director General, a las unidades administrativas y al personal sustantivo de la Agencia que por sus funciones lo requiera;
+
+III. Atender y desahogar los mandamientos de autoridades judiciales, ministeriales, nacionales y/o locales;
+
+IV. Atender y desahogar los requerimientos de autoridades administrativas, de organismos constitucionalmente autónomos, así como de la Visitaduría;
+
+V. Establecer y coordinar la Oficialía de Partes de la Agencia;
+
+VI. Administrar las acciones de la Unidad de Aprehensiones para la ejecución de las órdenes de aprehensión, reaprehensión, búsqueda, localización y presentación de personas ante los órganos requirentes;
+
+VII. Orientar a los elementos de la Agencia en las investigaciones de hechos delictivos de especial importancia o gravedad, para la integración de las carpetas de investigación;
+
+VIII. Suscribir los documentos relativos al ejercicio de sus facultades y aquéllos que le sean instruidos por el Director General de la Agencia, así como ordenar la elaboración de actas administrativas según proceda, sin perjuicio de la aplicación de otras disposiciones; y,
+
+IX. Las que le encomiende el Director General de la Agencia Estatal de Investigaciones o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
+
+> <small>(REFORMADO SU ENCABEZADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 31.
 
-De la Dirección General de Control Institucional
+De la Dirección General de Asesores del Procurador en Políticas Públicas y Relaciones interinstitucionales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
-La Dirección General de Control Institucional depende directamente del Procurador, es la unidad administrativa central responsable de los proyectos, procesos y mantenimiento de los inmuebles de la Procuraduría, así como del registro, administración, asignación y mantenimiento de la plantilla vehicular, y la imagen institucional de la Procuraduría, siendo competente para:
+La Dirección General de Asesores del Procurador en Políticas Públicas y Relaciones interinstitucionales depende directamente del Procurador y es la unidad administrativa central responsable de asesorar al Procurador sobre acciones tendientes a fortalecer el posicionamiento de la Procuraduría ante las instancias nacionales y locales encargadas de la Seguridad Pública, así como ejecutarlas; siendo competente para:
 
-I. Vigilar, coordinadamente con los titulares de las unidades administrativas centrales y de las unidades administrativas subalternas de la Procuraduría, el cumplimiento de los programas y proyectos de la misma;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-II. Promover, entre los servidores públicos de la Procuraduría, una cultura de responsabilidad y respeto sobre el apego a las políticas de recursos humanos, lineamientos de imagen institucional, estandarización de procesos, con un enfoque de atención al ciudadano;
+I. Asesorar multidisciplinariamente al Procurador en los asuntos que éste tenga a bien asignarle, así como en aquellos en los que, a consideración de su Titular, sea necesaria tal asesoría en razón de su relevancia social y/o jurídica;
 
-III. Coordinar los proyectos de la Procuraduría de manera integral, gestionando su evaluación periódica, analizando su resultado e impacto;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IV. Definir, conforme a las directrices señaladas por el Procurador, los criterios de diseño, uso y aplicación de la Imagen Institucional de la Procuraduría;
+II. Someter a la aprobación del Procurador las políticas públicas de la Procuraduría, y supervisar su cumplimiento;
 
-V. Apoyar a las diferentes unidades en cualquier diseño que requiere involucre a la Imagen Institucional;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VI. Implementar, fortalecer y actualizar los boletines, revistas institucionales y demás medios de comunicación internos de la Procuraduría;
+III. Vigilar, coordinadamente con los titulares de las unidades administrativas centrales y subalternas de la Procuraduría, el cumplimiento de los programas y proyectos de la misma;
 
-VII. Planificar, comunicar y apoyar en la organización de actos sociales, culturales y eventos institucionales en los que intervenga la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VIII. Supervisar la logística de eventos que organice la Procuraduría, de acuerdo con las normas de protocolos y ceremonias;
+IV. Promover entre los servidores públicos de la Procuraduría, una cultura de responsabilidad y respeto sobre el apego a las políticas institucionales, lineamientos emitidos por el Procurador, estandarización de procesos, con un enfoque de atención al ciudadano;
 
-IX. Elaborar protocolos, manuales de operación e instructivos de calidad para el mejoramiento de los procesos de las unidades administrativas, previa revisión del Director General Administrativo y autorización del Procurador;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-X. Implementar los mecanismos necesarios para la medición de la satisfacción ciudadana;
+V. Coordinar los proyectos de la Procuraduría de manera integral, gestionando su evaluación periódica, analizando su resultado e impacto;
 
-XI. Proporcionar el mantenimiento de los distintos inmuebles de la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+VI. Analizar la operación de las distintas áreas de la Procuraduría, procurando el mejoramiento de su desempeño;
 
-XII. Estructurar el plan de desarrollo de infraestructura de la Procuraduría, de acuerdo a la planeación de la expansión de la misma;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+VII. Avalar el proyecto de planeación estratégica de la Procuraduría que habrá de presentarse al Procurador para su aprobación definitiva;
 
-XIII. Llevar el registro, la administración, la asignación y el mantenimiento de los vehículos asignados a la Procuraduría; y,
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+VIII. Proponer al Procurador protocolos, manuales de operación, procedimientos e instructivos de calidad para el mejoramiento de los procesos de las unidades administrativas;
 
-XIV. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+IX. Implementar los mecanismos para la medición de la satisfacción ciudadana;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+X. Realizar y aplicar estudios, propuestas y lineamientos de política criminológica y en materia de procuración de justicia que permitan una mejora continua en el cumplimiento de las funciones de la Institución;
+
+XI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
+
+XII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
+
+XIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
+
+XIV. Las demás, que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(REFORMADO SU ENCABEZADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 32.
 
-De la Dirección de Control y Mantenimiento
+De la Dirección de Asesoría Multidisciplinaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
-La Dirección de Control y Mantenimiento depende de la Dirección General de Control Institucional, y es la unidad administrativa responsable de desarrollar los proyectos de construcción y remodelación, así como de supervisar y realizar el mantenimiento de los bienes inmuebles de la Procuraduría y de encargarse de la plantilla vehicular de ésta, teniendo las facultades y atribuciones siguientes:
+La Dirección de Asesoría Multidisciplinaria depende de la Dirección General de Asesores del Procurador en Políticas Públicas y Relaciones interinstitucionales, siendo la unidad administrativa responsable de asesorar estratégicamente al Titular de la Procuraduría; siendo competente para:
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-I. Registrar, controlar y mantener actualizada la documentación oficial e información relevante de los inmuebles y los vehículos de la Procuraduría;
+I. Realizar estudios multidisciplinares en temáticas estratégicas de la Procuraduría y presentarlos al Titular de la Dirección General de Asesores del Procurador en Políticas Públicas y Relaciones Interinstitucionales cuando, por su relevancia, se estime que deben hacerse del conocimiento del Procurador;
 
-II. Respecto de los bienes inmuebles asignados a la Procuraduría, deberá proveer su mantenimiento y el de sus instalaciones, de acuerdo al presupuesto asignado;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-III. Realizar visitas periódicas a las unidades administrativas de la Procuraduría para verificar la existencia y estado de los equipos, mobiliario, materiales e infraestructura de la misma;
+II. Diseñar las políticas públicas de la Procuraduría, someterlas a la aprobación del Director General de Asesores del Procurador en Políticas Públicas y Relaciones Interinstitucionales;
 
-IV. Diseñar los estándares de edificación y mobiliario de la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-V. Vigilar el adecuado mantenimiento de los espacios físicos utilizados por la Procuraduría;
+III. Analizar las indagatorias que tenga a bien encomendarle el Procurador;
 
-VI. Desarrollar los proyectos de construcción o remodelación que sean necesarios para la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+IV. En coordinación con la Dirección Consultiva y de Análisis Jurídico de la Procuraduría, someter al Procurador la generación de propuestas de modificación de la estructura orgánica de la Procuraduría;
 
-VII. Crear e implementar un plan de mantenimiento preventivo y correctivo de los bienes inmuebles y vehículos de la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+V. Proponer y dar seguimiento a las políticas de vinculación y coordinación interinstitucional en el ámbito de competencia de la Institución;
 
-VIII. Someter a la Directora General de Control Institucional la propuesta de asignación de los vehículos de la Procuraduría al personal de la misma; y,
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2016)</small>
+VI. Apoyar y asesorar a las unidades administrativas de la Institución en temas relacionados a políticas públicas;
 
-IX. Las demás que le confieran la Ley, este Reglamento y otras disposiciones aplicables; así como aquéllas que le sean encomendadas por el Procurador, los Subprocuradores o el Director General de Control Institucional.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VII. Coordinar las actividades relacionadas a pre denuncias, asesorías a la ciudadanía y captación de retroalimentación ciudadana;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VIII. Las demás que le encomienden sus superiores o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+IX. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 32 Bis.
+
+De la Dirección de Planeación y Gestión de Calidad
+
+La Dirección de Planeación y Gestión de Calidad depende de la Dirección General de Asesores del Procurador en Políticas Públicas y Relaciones Interinstitucionales, siendo la unidad administrativa responsable de realizar la planeación estratégica de la Institución, y diseñar, implementar y dar seguimiento al sistema de gestión de la calidad de la Procuraduría; siendo competente para:
+
+I. Diseñar, elaborar e implementar la planeación estratégica de la Procuraduría;
+
+II. Detectar, en coordinación con la Dirección de Recursos Materiales y Financieros, las necesidades para el presupuesto anual de la Procuraduría;
+
+III. Elaborar estudios de operación de las unidades administrativas de la Procuraduría en los que se detecten oportunidades, riesgos, debilidades y fortalezas, para proponer acciones que contribuyan a mejorar su desempeño;
+
+IV. Coordinar la administración de los proyectos estratégicos de la Procuraduría, así como de aquellos que le instruya el Procurador, evaluando su viabilidad;
+
+V. Elaborar, con base en el Plan Estatal de Desarrollo, el Programa Sectorial de la Procuraduría así como realizar el seguimiento a su cumplimiento;
+
+VI. Dirigir la elaboración de los informes anuales de resultados de los programas y proyectos establecidos en el Programa Sectorial;
+
+VII. Elaborar protocolos, manuales de operación, procedimientos e instructivos de calidad para el mejoramiento de los procesos de las unidades administrativas y someterlo a consideración del Director General de Asesores del Procurador en Políticas Públicas y Relaciones Interinstitucionales; y supervisar su cumplimiento;
+
+VIII. Diseñar planes de trabajo para orientar la operación de las unidades administrativas con el objeto de mejorar las prácticas y los procesos con base en la cultura de calidad;
+
+IX. Crear indicadores de control de los procesos y evaluación de la información integral de la Procuraduría, coordinándose para tal efecto con las unidades administrativas correspondientes;
+
+X. Realizar las labores de integración, validación, administración y análisis de la información estadística de la Procuraduría, necesaria para uso interno o externo, así como la información requerida para publicación en los correspondientes portales de Internet;
+
+XI. Elaborar las propuestas de reingeniería de procesos y servicios de la Procuraduría;
+
+XII. Asesorar a las unidades administrativas de la Procuraduría en torno a la gestión de la calidad y a la cultura de calidad;
+
+XIII. Promover la certificación y/o recertificación del sistema de Calidad de la Procuraduría;
+
+XIV. Auxiliar a la Dirección de Transparencia, Acceso a la Información, Derechos Humanos y Participación Comunitaria en la publicación y actualización de la
+
+Información que, conforme a la legislación en materia de transparencia y acceso a la información, debe difundirse a través del portal de internet correspondiente y;
+
+XV. Las demás que le encomienden sus superiores o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 ###### Artículo 33.
 
 De la Dirección General de Administración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
-La Dirección General de Administración depende directamente del Procurador y es la unidad administrativa central responsable de administrar los recursos humanos, financieros y materiales, la obtención de fondos federales y las tecnologías de la información, necesarias para el cabal desarrollo de las funciones propias de la Procuraduría, excepto tratándose de los vehículos, siendo competente para:
+La Dirección General de Administración depende directamente del Procurador y es la unidad administrativa central responsable de administrar los recursos humanos, financieros y materiales, la obtención de fondos federales, la imagen institucional de la Procuraduría y las tecnologías de la información, necesarias para el cabal desarrollo de las funciones propias de la Procuraduría, siendo competente para:
 
 I. Gestionar el abastecimiento de los recursos financieros y materiales que requieran las unidades administrativas de la Procuraduría;
 
@@ -1169,13 +1393,13 @@ V. Vigilar el ejercicio del presupuesto de la Procuraduría y autorizar las erog
 
 VI. Desarrollar las normas de control y evaluación administrativas y financieras de las unidades administrativas de la Procuraduría;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VII. Establecer, controlar y evaluar, programas para la conservación y el mantenimiento del mobiliario y equipo de la Procuraduría, excepto tratándose de los vehículos;
+VII. Establecer, controlar y evaluar, programas para la conservación y el mantenimiento de los bienes, muebles e inmuebles, y equipo a cargo de la Procuraduría;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VIII. Registrar, controlar y mantener actualizado el inventario de bienes muebles de la Procuraduría distintos a los vehículos;
+VIII. Registrar, controlar y mantener actualizado el inventario de los bienes muebles e inmuebles de la Procuraduría;
 
 IX. Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal que emitan los órganos de Gobierno del Estado o el Procurador;
 
@@ -1183,19 +1407,19 @@ X. Atender los requerimientos de las instancias estatales y federales competente
 
 XI. Administrar los recursos humanos que requiera la Procuraduría;
 
-XII. Definir los puestos de la Procuraduría, establecer los perfiles y requerimientos de los mismos;
+XII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XIII. Tramitar ante las instancias competentes del Gobierno del Estado, todo lo relativo a los procedimientos y trámites administrativos para efecto de los nombramientos, contrataciones, promociones, ascensos, servicio civil, renuncias, remociones, cambios de adscripción, licencias, vacaciones, bajas, liquidaciones y pagos de cualquier remuneración al personal de la Procuraduría;
+XIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XIV. Verificar que la persona que se incorpore a la Procuraduría como servidor público, cumpla con los requisitos que establece la Ley, este ordenamiento y demás normas aplicables, en coordinación con las áreas involucradas para la contratación;
+XIV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XV. Gestionar ante las instancias correspondientes, y conforme a las (sic) normatividad pertinente, la aplicación de las evaluaciones para el ingreso, ascenso y permanencia del personal de la Procuraduría;
+XV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XVI. Llevar los expedientes de los servidores públicos de la Procuraduría, estableciendo las medidas necesarias para su resguardo y confidencialidad;
+XVI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XVII. Administrar internamente el sistema de pagos a los servidores públicos de la Procuraduría;
+XVII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XVIII. Entregar y cancelar los documentos de identificación para los servidores públicos de la Procuraduría, así como el del personal del servicio social y prácticas profesionales;
+XVIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 XIX. Desarrollar, implementar, mantener y controlar la plataforma tecnológica de la Procuraduría;
 
@@ -1203,17 +1427,39 @@ XX. Solicitar, ante las autoridades competentes, la licencia colectiva de portac
 
 XXI. Integrar y actualizar el Registro Nacional de Seguridad Pública de los Elementos Operativos y Administrativos de la Procuraduría;
 
-XXII. Llevar el archivo general de la Procuraduría, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XXIII. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+XXII. Llevar el archivo general de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXIII. Definir, conforme a las directrices señaladas por el Procurador, los criterios de diseño, uso y aplicación de la Imagen Institucional de la Procuraduría, y vigilar su cumplimiento por parte de los servidores públicos de ésta;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXIV. Apoyar a las diferentes unidades en cualquier diseño que involucre a la Imagen Institucional;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXV. Planificar, comunicar y apoyar en la organización de actos sociales, culturales y eventos institucionales en los que intervenga la Procuraduría, supervisando la logística de los que sean organizados por ésta; y,
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXVI. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(REFORMADO SU ENCABEZADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-De la Dirección de Recursos Financieros
+De la Dirección de Recursos Materiales y Financieros
 
-La Dirección de Recursos Financieros depende de la Dirección General de Administración, y es la unidad administrativa responsable de gestionar fondos federales para la Procuraduría, siendo competente para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
-I. Coordinar y supervisar la integración de la información necesaria para el ejercicio de las partidas presupuestales asignadas a la Procuraduría, así como la correcta aplicación y distribución del presupuesto;
+La Dirección de Recursos Materiales y Financieros depende de la Dirección General de Administración, y es la unidad administrativa responsable de administrar los recursos materiales y financieros de la Procuraduría, siendo competente para:
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+I. Auxiliar en la elaboración del anteproyecto de presupuesto anual de la Procuraduría;
 
 II. Tramitar modificaciones al presupuesto para una eficiente administración;
 
@@ -1221,27 +1467,47 @@ III. Vigilar y gestionar los fondos revolventes de la Procuraduría;
 
 IV. Tramitar ante las instancias de gobierno correspondientes las órdenes de pago relativas a los fondos revolventes y gastos por comprobar;
 
-V. Colaborar en la elaboración del anteproyecto del presupuesto anual de la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+V. Ser el enlace de la Procuraduría ante las instancias federales encargadas de la asignación de fondos o recursos a las entidades federativas;
 
 VI. Elaborar propuesta para la solicitud de fondos estatales, federales o cualquier otro que pueda ser utilizado por la Procuraduría, de acuerdo a los programas establecidos;
 
-VII. Establecer los presupuestos y metas para cada uno de los programas con recursos federales atendiendo los lineamientos establecidos y dar seguimiento al cumplimiento total de su ejercicio;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VIII. Definir y aplicar los controles apropiados que permitan conocer las distintas fases en las que se encuentran los trámites correspondientes para la correcta aplicación de los recursos federales;
+VII. Atender los requerimientos de instancias federales competentes en la revisión del correcto ejercicio de los recursos;
 
-IX. Vigilar la correcta aplicación de los recursos de acuerdo a la normatividad estatal y federal según corresponda;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-X. Atender los requerimientos de instancias federales competentes en la revisión del correcto ejercicio de los recursos;
+VIII. Vigilar la correcta aplicación de los recursos de acuerdo a la normatividad aplicable;
 
-XI. Coordinar las acciones de entrega-recepción de las unidades administrativas de la Procuraduría de acuerdo a los lineamientos establecidos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XII. Elaborar con base en el Plan Estatal de Desarrollo, el Programa Sectorial de la Procuraduría, con sus estrategias, líneas de acción, metas e indicadores de desempeño que permitan evaluar la gestión y el impacto de políticas aplicables en la Procuraduría;
+IX. Coordinar las acciones de entrega-recepción de las unidades administrativas de la Procuraduría de acuerdo a los lineamientos establecidos;
 
-XIII. Vigilar los indicadores de desempeño establecidos en el Programa Sectorial y los Programas Operativos Anuales para entregar al área responsable de su publicación;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XIV. Dirigir la elaboración de los informes anuales que reflejen los resultados de los programas y proyectos establecidos en el Programa Sectorial, y
+X. Tener el control de los recursos materiales con que cuenta la Procuraduría;
 
-XV. Las que le encomiende el Director General de Administración o le otorguen la Ley, este Reglamento y demás normas aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XI. Asignar al personal de la Procuraduría los recursos materiales que sean necesarios para el debido desempeño de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XII. Gestionar ante las autoridades competentes y vigilar el estricto cumplimiento de la Licencia Colectiva para Porte de Arma;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIII. Proponer a la Dirección General de Administración la gestión de los recursos materiales que se requieran para el debido cumplimiento de las atribuciones de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIV. Elaborar las estadísticas de procuración de justicia, con base en la información que le sea remitida por las unidades administrativas competentes; y,
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XV. Las demás que le encomiende el Procurador o el Director General de Administración o le otorguen la Ley, este Reglamento y las demás normas aplicables.
 
 ###### Artículo 35.
 
@@ -1267,6 +1533,30 @@ VIII. Coordinar el cumplimiento de transferencia de información requerida por e
 
 IX. Las que le encomiende el Director General de Administración o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 35 Bis.
+
+De la Dirección de Recursos Humanos
+
+La Dirección de Recursos Humanos depende de la Dirección General de Administración, y es la unidad administrativa responsable de administrar los Recursos Humanos de la Procuraduría y realizar las gestiones correspondientes ante diversas instancias gubernamentales, teniendo las facultades y atribuciones siguientes:
+
+I. Someter a la Dirección General de Administración la definición de los puestos de la Procuraduría, establecer los perfiles y requerimientos de los mismos;
+
+II. Tramitar ante las instancias competentes del Gobierno del Estado, todo lo relativo a los procedimientos y trámites administrativos para efecto de los nombramientos, contrataciones, promociones, ascensos, servicio civil, renuncias, remociones, cambios de adscripción, licencias, vacaciones, bajas, liquidaciones y pagos de cualquier remuneración al personal de la Procuraduría;
+
+III. Verificar que la persona que se incorpore a la Procuraduría como servidor público, cumpla con los requisitos que establece la Ley, este ordenamiento y demás normas aplicables, en coordinación con las áreas involucradas para la contratación;
+
+IV. Gestionar ante las instancias correspondientes, y conforme a las (sic) normatividad pertinente, la aplicación de las evaluaciones para el ingreso, ascenso y permanencia del personal de la Procuraduría;
+
+V. Llevar los expedientes de los servidores públicos de la Procuraduría, estableciendo las medidas necesarias para su resguardo y confidencialidad;
+
+VI. Administrar internamente el sistema de pagos a los servidores públicos de la Procuraduría;
+
+VII. Entregar y cancelar los documentos de identificación para los servidores públicos de la Procuraduría, así como el del personal del servicio social y prácticas profesionales; y,
+
+VIII. Las demás que le confieran la Ley, este Reglamento y otras disposiciones aplicables; así como aquéllas que le sean encomendadas por el Procurador o el Director General de Administración.
+
 ###### Artículo 36.
 
 De la Unidad Especializada Antisecuestros
@@ -1275,7 +1565,9 @@ La Unidad Especializada Antisecuestros depende directamente del Procurador, es u
 
 I. Dirigir y supervisar la debida integración y determinación de las Investigaciones relacionadas con los delitos en materia de secuestro que se llevan a cabo en las Unidades de Investigación adscritas a la Unidad;
 
-II. Auxiliar al Ministerio Público de la Federación, de otras Entidades Federativas o del Distrito Federal, en los términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos, en la realización de diligencias solicitadas;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+II. Auxiliar al Ministerio Público de la Federación, de otras Entidades Federativas o de la Ciudad de México, en los términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos, en la realización de diligencias solicitadas;
 
 III. Coordinar los procesos de manejo de crisis, negociación y atención a familiares y víctimas de los delitos materia de secuestros o que se relacionen con esa especialidad;
 
@@ -1327,7 +1619,9 @@ De la Dirección General Jurídica y de Agentes del Ministerio Público Auxiliar
 
 La Dirección General Jurídica y de Agentes del Ministerio Público Auxiliares del Procurador depende directamente del Procurador, y es la unidad administrativa central responsable de realizar las acciones necesarias para la obtención de una óptima procuración de justicia, dirigiendo las acciones necesarias para el debido respeto a los derechos humanos, además de ser responsable de representar al Procurador ante los órganos jurisdiccionales y a la Procuraduría ante los órganos de control constitucional, siendo competente para:
 
-I. Someter a la consideración del Procurador, bajo las reglas del Código Procesal Penal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+I. Someter a consideración del Procurador, bajo las reglas del Código Procesal Penal y del Código Nacional de Procedimientos Penales:
 
 a) Recibir la carpeta de investigación enviada para el efecto de la autorización o desautorización del no ejercicio de la acción penal;
 
@@ -1359,7 +1653,9 @@ d) Presentar proyecto de dictamen para la aprobación del Procurador, en los sig
 
 7. Cuando se presente la continuación del proceso para los efectos del Artículo 217 del Código de Procedimientos Penales.
 
-e) Formular los informes previos y justificados, en los juicios de amparos promovidos contra actos del Procurador consistentes en la confirmación de inejercicios y con motivo de resoluciones dictadas en segunda instancia de los procedimientos penales; así como en la presentación de las promociones y los recursos que deban interponerse;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+e) Formular los informes previos y justificados, en los juicios de amparo promovidos contra actos del Procurador consistentes en la confirmación o revocación de inejercicios y con motivo de resoluciones dictadas en segunda instancia de los procedimientos penales; así como en la presentación de las promociones y los recursos que deban interponerse;
 
 f) Informar oportunamente a la Dirección General de las Fiscalías Investigadoras, Averiguaciones Previas y Procesos de las fallas en la integración de indagatorias o en el desarrollo de los procesos que se traduzcan en resoluciones desfavorables en segunda instancia en casos relevantes;
 
@@ -1405,99 +1701,29 @@ XVIII. Vigilar la operatividad funcional y desempeño con calidad técnica jurí
 
 XIX. Coordinar la intervención del Ministerio Público del Estado, con la Procuraduría General de la Republica, respecto a los juicios de amparo en los que el primero sea señalado como autoridad responsable, conforme a los convenios de colaboración institucional;
 
-XX. Intervenir por sí o a través de sus Agentes, en los asuntos del orden civil o familiar o de justicia para adolescentes, que determine el Procurador, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XXI. Las que le encomiende el Procurador, le otorgue la Ley, este Reglamento u otras normas aplicables.
+XX. Intervenir por sí o a través de sus Agentes, en los asuntos del orden civil o familiar o de justicia para adolescentes, que determine el Procurador;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXI. Colaborar con la víctima y el ofendido del delito, así como con las instancias correspondientes, en la elaboración de demandas de amparo y el seguimiento a los respectivos juicios de amparo, en contra de actos de la autoridad judicial que violen los derechos humanos que corresponden a aquéllos;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXII. Supervisar la intervención del Ministerio Público en cuanto a la ejecución de sanciones y medidas de seguridad; y,
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXIII. Las que le encomiende el Procurador, le otorgue la Ley, este Reglamento u otras normas aplicables.
 
 ###### Artículo 39.
 
-De la Oficina Ejecutiva del Procurador
-
-La Oficina Ejecutiva del Procurador depende directamente del Procurador y es la unidad administrativa central responsable de facilitar el cumplimiento de sus responsabilidades, mediante la organización de sus actividades, la tramitación oportuna de su correspondencia, la atención profesional a los ciudadanos que acuden a las instalaciones de su oficina, la comunicación con otras autoridades federales, estatales y municipales Auxiliar en el cumplimiento de los compromisos adquiridos en el seno de la Conferencia Nacional de Procuración de Justicia y de aquellos órganos colegiados en los que la Procuraduría sea parte; dando el debido seguimiento a su determinación y brindando el apoyo técnico y operativo a las demás unidades administrativas que para tal fin requieran, siendo competente para:
-
-I. Dirigir las labores de la oficina del Procurador en el orden administrativo, necesarias para el cabal cumplimiento de las funciones de la Procuraduría, de acuerdo con las instrucciones y determinaciones de su titular;
-
-II. Programar la agenda del Procurador para el desarrollo de la audiencia pública;
-
-III. Colaborar en la atención a la audiencia pública, según instrucciones directas del Procurador;
-
-IV. Dar el debido seguimiento a los acuerdos tomados por el Procurador en relación a la audiencia pública atendida;
-
-V. Dar cuenta al Procurador de toda la correspondencia y ocursos que se dirijan a aquél, para que se determine lo que en derecho proceda;
-
-VI. Remitir, previo acuerdo del Procurador, la correspondencia a los servidores públicos de la Procuraduría o de otras dependencias;
-
-VII. Llevar el control y archivo de los acuerdos que emita el Procurador;
-
-VIII. Vigilar que los acuerdos que emita el Procurador, se hagan llegar a las unidades administrativas de la Procuraduría;
-
-IX. Controlar todas las comunicaciones que lleguen de la Procuraduría General de la República, de la Procuraduría del Distrito Federal y de las Procuradurías de Justicia de las entidades federativas, en que se remitan constancias de las firmas autorizadas por tales instituciones, para poder diligenciar en el Estado la ejecución de órdenes de aprehensión o de auxilio en la investigación de delitos;
-
-X. Representar al Procurador en los actos y eventos en que sea comisionado por acuerdo expreso de éste;
-
-XI. Analizar, proponer y ejecutar acuerdos y convenios de colaboración en Materia de procuración de justicia con la Procuraduría General de Justicia de la República, la Procuraduría General de Justicia Militar y las Procuradurías Generales de Justicia de las entidades federativas y del Distrito Federal y emitir opinión respecto de aquellos que expresamente le solicite el Procurador;
-
-XII. Fungir como representante y enlace de la Procuraduría en la Conferencia Nacional de Procuración de Justicia y sus instituciones integrantes, así como en los demás órganos consultivos de la Procuraduría, asistiendo, por encargo del Procurador, a las sesiones correspondientes;
-
-XIII. Dar el debido seguimiento en la implementación de los acuerdos tomados en la Conferencia Nacional de Procuración de Justicia; así como, de aquellos acuerdos que celebre la Procuraduría, en cualquier otro marco, para la colaboración en materia de procuración de justicia e instrumentar acciones necesarias para su debido cumplimiento;
-
-XIV. Establecer, en coordinación con las unidades administrativas competentes, las estrategias de seguimiento y evaluación de responsabilidades y compromisos institucionales derivados de las fracciones anteriores;
-
-XV. Ofrecer apoyo técnico jurídico a los programas y proyectos de coordinación establecidos por la Procuraduría con otras dependencias o instituciones públicas y privadas en materia de procuración de justicia;
-
-XVI. Recabar información relativa a los proyectos de colaboración en materia de procuración de justicia que realizan otras dependencias, organismos e instituciones públicas;
-
-XVII. Establecer, cuando así lo disponga el Procurador, la coordinación entre la Procuraduría con las dependencias y entidades gubernamentales federales, las del gobierno del Estado de Nuevo León, las entidades federativas y municipales; organizaciones no gubernamentales, sociales y privadas, en materia de procuración de justicia, de conformidad con las disposiciones aplicables, así como dar seguimiento y cumplimiento a los convenios adoptados, en colaboración con las unidades administrativas competentes;
-
-XVIII. Fortalecer las acciones del Consejo Consultivo Ciudadano en su calidad de órgano eminentemente consultor de las políticas públicas relacionadas con la procuración de justicia;
-
-XIX. Fungir como Secretario Técnico del Consejo Consultivo Ciudadano de la Procuraduría, debiendo realizar la programación anual de sesiones, convocar a la sesión ordinaria o extraordinaria, según sea el caso, registrar y resguardar las minutas de sesión correspondientes, dando el debido seguimiento a los acuerdos que se tomen;
-
-XX. Coordinar y prestar en conjunto con la Agencia Estatal de Investigaciones, el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que para tal efecto emita el Procurador;
-
-XXI. Coordinar y supervisar la operación de una base de datos para el adecuado control de las investigaciones realizadas, pruebas recabadas, registro de bienes u objetos recuperados;
-
-XXII. Emitir a la ciudadanía, la Alerta Ámber sobre la privación de la libertad o desaparición de personas menores de dieciocho años de edad, incapaces o mayores de setenta años de edad, cuando se reúnan los criterios para su implementación emitidos por el Procurador, que auxilien en la búsqueda, localización y recuperación de la persona privada de la libertad;
-
-XXIII. Recibir el informe mensual de la Dirección General de Administración respecto del ejercicio del gasto público y de la administración de recursos humanos y materiales de la Institución;
-
-XXIV. Coordinar y supervisar las acciones de búsqueda urgente y la investigación de la desaparición de personas menores de edad, mayores de setenta años o incapaces, que se encuentren en peligro real, eminente y actual, y
-
-XXV. Las que le encomiende el Procurador o le otorgue la Ley, este Reglamento u otras disposiciones legalmente aplicables.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 40.
 
-De la Dirección de Análisis e Información
-
-La Dirección de Análisis e Información depende de la Oficina Ejecutiva del Procurador y es la unidad administrativa responsable de recopilar y analizar la información necesaria para, previo diagnóstico y pronóstico de la misma, definir las líneas de acción criminalísticas y policiales pertinentes para auxiliar al Ministerio Público en la investigación y persecución de los delitos, siendo competente para:
-
-I. Establecer líneas de investigación policial a partir del análisis de la información de la estructura y los modos de operación de las organizaciones criminales y emitir consignas policiales para su desarrollo en cumplimiento de los mandamientos ministeriales o judiciales;
-
-II. Diseñar y proponer al Jefe de la Oficina Ejecutiva el programa de desarrollo estratégico que permita a la Agencia Estatal de Investigaciones auxiliar al Ministerio Público en la investigación y persecución de los delitos;
-
-III. Auxiliar al Ministerio Público en la investigación y persecución de los delitos, realizando la recopilación sustantiva de la información necesaria para el esclarecimiento de los hechos materia de la investigación;
-
-IV. Suministrar información, datos y medios de prueba a las unidades administrativas de la Procuraduría encargadas de la investigación y persecución de los delitos, así como auxiliarlas en la aplicación de herramientas tecnológicas;
-
-V. Recabar de registros, bancos de datos y otras fuentes, la información necesaria para auxiliar con eficiencia y eficacia al Ministerio Público en el ejercicio de sus funciones;
-
-VI. Diseñar y aplicar los métodos de análisis y clasificación de información que permita la investigación y persecución de los delitos con mayor eficiencia y eficacia;
-
-VII. Integrar la información estadística sobre la incidencia y operación delictiva y hacerlo del conocimiento del Jefe de la Oficina Ejecutiva para su remisión a la Agencia Estatal de Investigaciones;
-
-VIII. Diseñar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, para conformar bancos de datos que sustenten el desarrollo de acciones contra la delincuencia;
-
-IX. Establecer y operar métodos de comunicación y redes de información policial para el acopio y clasificación oportuna de los datos que requiera la Agencia Estatal de Investigaciones y demás unidades administrativas de la Procuraduría, de conformidad con las normas y políticas institucionales;
-
-X. Proporcionar, previa autorización del Jefe de la Oficina Ejecutiva en coordinación con la Agencia Estatal de Investigaciones, la información policial a autoridades federales, del Distrito Federal, estatales y municipales, de conformidad con la normatividad y los convenios celebrados por la Procuraduría;
-
-XI. Programar, para la autorización del Jefe de la Oficina Ejecutiva, la dotación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial destinados al desarrollo de las actividades de la Agencia Estatal de Investigaciones;
-
-XII. Analizar e identificar las estructuras y los modos de operación de las organizaciones criminales;
-
-XIII. Coordinar los servicios técnicos y de apoyo logístico que requieran las unidades administrativas y operativas de la Agencia Estatal de Investigaciones, y
-
-XIV. Las que le encomiende el Jefe de la Oficina Ejecutiva o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 41.
 
@@ -1507,7 +1733,9 @@ La Subprocuraduría Jurídica depende directamente del Procurador, y es la unida
 
 I. Dirigir las acciones necesarias para promover el debido respeto a los derechos humanos en la Institución;
 
-II. Representar al Procurador o a cualquier otro servidor público de la Procuraduría, en los juicios no penales en los que ésta sea parte y en los que se promuevan en contra de sus servidores públicos que deriven de actos realizados en representación de la Institución, con las excepciones que marque la ley;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+II. Representar al Procurador o a cualquier otro servidor público de la Procuraduría, en los juicios no penales o procedimientos administrativos seguidos en forma de juicio en los que tenga interés o sea parte, con las excepciones que marque la ley;
 
 III. Presentar denuncias o querellas y otorgar perdón, así como promover demandas e intervenir en los juicios de cualquier naturaleza en contra de personas físicas o morales, en defensa de los intereses que representa la Procuraduría;
 
@@ -1521,29 +1749,27 @@ VII. Dirigir las acciones necesarias para prevenir la delincuencia, orientando y
 
 VIII. Promover y facilitar el uso, en los términos de las normas legalmente aplicables, de métodos alternos para la prevención y solución de conflictos;
 
-IX. Elaborar, para la aprobación del Procurador, los lineamientos, bases y demás criterios relativos al servicio de carrera y capacitación del personal de la Procuraduría conforme a lo establecido en esta Ley y demás disposiciones legalmente aplicables;
+IX. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-X. Aprobar las convocatorias para el ingreso y ascenso del personal de la Procuraduría;
+X. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XI. Realizar y aplicar estudios, propuestas y lineamientos de política criminológica y en materia de procuración de justicia que permitan una mejora continua en el cumplimiento de las funciones de la Institución;
+XI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 XII. Desarrollar y someter a la aprobación del Procurador los Manuales de Organización y Procedimientos de la Procuraduría y definir las normas de control y evaluación técnico jurídicas de las unidades administrativas de la Institución;
 
-XIII. Vigilar el buen funcionamiento de la Institución;
+XIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 XIV. Coordinar las acciones de implementación, seguimiento y control del sistema de justicia penal;
 
-XV. Colaborar con el Visitador General en el proyecto anual de visitas ordinarias de evaluación administrativa o técnico-jurídicas a las unidades administrativas de la Procuraduría;
+XV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XVI. Practicar, dirigir y supervisar visitas ordinarias y extraordinarias de evaluación administrativa o técnico-jurídicas a las unidades administrativas de la Procuraduría, a fin de observar e inspeccionar la debida legalidad de los asuntos, tratamientos, y levantar las actas administrativas correspondientes;
+XVI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XVII. Atender al público y proporcionarle orientación sobre el sistema de responsabilidades en el servicio público conforme a la normatividad vigente;
+XVII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-XVIII. Supervisar el fiel cumplimiento de las obligaciones que como servidores públicos le corresponden y en su caso hacer del conocimiento a la Visitaduría General de las irregularidades detectadas;
+XVIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
-
-XIX. Sugerir a las unidades administrativas de la Procuraduría las medidas legalmente adecuadas para su mejor funcionamiento;
+XIX. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1651,11 +1877,11 @@ VII. Canalizar en caso de ser necesario a las víctimas de delitos y testigos a 
 
 VIII. Las que le encomiende el Subprocurador jurídico y le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables.
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO SU ENCABEZADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 44.
 
-De la Dirección Consultiva de Análisis Jurídico
+De la Dirección Consultiva y de Análisis Jurídico
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1691,7 +1917,9 @@ VIII. Las que la (sic) encomiende el Subprocurador o le otorgue la Ley, este Reg
 
 Del Instituto de Formación Profesional
 
-El Instituto de Formación Profesional depende de la Subprocuraduría Jurídica y es la unidad administrativa responsable de brindar al personal de la Procuraduría la capacitación, actualización y la especialización, requerida para el cabal desempeño de sus funciones, así como de constatar, que quienes pretenden ingresar a la misma, cuenten con los conocimientos y habilidades requeridos. Siendo competente para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+El Instituto de Formación Profesional depende directamente del Procurador y es la unidad administrativa responsable de brindar al personal de la Procuraduría la capacitación, actualización y la especialización, requerida para el cabal desempeño de sus funciones, así como de constatar, que quienes pretenden ingresar a la misma, cuenten con los conocimientos y habilidades requeridos. Siendo competente para:
 
 I. Elaborar, y someter a la aprobación del Procurador, los planes y programas de estudio para la formación inicial, actualización y especialización del personal de la Procuraduría y la Policía; Actualizar los programas de estudio y valorar la tramitación de los reconocimientos de validez oficial;
 
@@ -1715,9 +1943,17 @@ X. Establecer la emisión de normas técnicas para el diseño, implantación y f
 
 XI. Dirigir la Biblioteca de la Procuraduría;
 
-XII. Revisar y gestionar, en coordinación con las áreas involucradas y conforme a las normativas aplicables, la aplicación de las evaluaciones para el ingreso, ascenso y permanencia del personal de la Procuraduría, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-XIII. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+XII. Revisar y gestionar, en coordinación con las áreas involucradas y conforme a las normativas aplicables, la aplicación de las evaluaciones para el ingreso, ascenso y permanencia del personal de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIII. Expedir, previa aprobación del Procurador, las convocatorias para el ingreso y ascenso del personal de la Procuraduría; y,
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIV. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1783,7 +2019,9 @@ VIII. Las demás que le encomiende el Procurador o le otorguen la Ley, este Regl
 
 De la Subprocuraduría Especializada en Combate a la Corrupción
 
-La Subprocuraduría Especializada en Combate a la Corrupción depende directamente del Procurador, es una unidad administrativa central con autonomía técnica y operativa en el ejercicio de sus funciones; y es responsable y especializada en investigar y perseguir las conductas delictivas cometidas por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+La Subprocuraduría Especializada en Combate a la Corrupción depende directamente del Procurador, es una unidad administrativa central con autonomía técnica y operativa en el ejercicio de sus funciones; y es responsable y especializada en investigar y perseguir las conductas delictivas cometidas por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; y adicionalmente sus unidades administrativas ejercerán competencia respecto de los delitos cuya investigación y persecución le corresponda, cuando personas de derecho privado participen en la comisión de los mismos, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
 
 I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades a su cargo;
 
@@ -1825,71 +2063,91 @@ A falta de claridad en cuanto a la competencia entre la Subprocuraduría del Min
 
 El Procurador también podrá expedir un Acuerdo mediante el cual establezca los lineamientos para que la Subprocuraduría Especializada en Combate a la Corrupción remita a la Subprocuraduría del Ministerio Público aquellos asuntos que no tengan la trascendencia económica o social necesaria para la intervención de aquel órgano de investigación especializado. En estos casos, la Subprocuraduría del Ministerio Público estará habilitada para ejercer todas las funciones propias del Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 46 Bis 1.
 
-De la Dirección de Atención a Denuncias
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
-La Dirección de Atención a Denuncias depende de la Subprocuraduría Especializada en Combate a la Corrupción, y es la unidad administrativa responsable de ser el contacto con quien presente denuncia o querella relacionada con la presunta comisión de algún delito por parte de los servidores públicos del Estado y los Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; canalizándolo a la instancia de atención correspondiente, siendo competente para:
-
-I. Recibir las denuncias, querellas y partes policiales de los delitos presuntamente cometidos por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos;
-
-II. Supervisar el trabajo de los Agentes del Ministerio Público Orientadores a su cargo;
-
-III. Canalizar a las instancias correspondientes los asuntos que por su naturaleza no ameriten una investigación por parte del Ministerio Público;
-
-IV. Levantar las actas, conforme lo dispone la legislación procesal penal aplicable;
-
-V. Recibir las puestas a disposición de los detenidos en flagrancia y analizar la procedencia de la ratificación de las mismas;
-
-VI. Supervisar el correcto funcionamiento de las Unidades de Control de Detenidos;
-
-VII. Enviar a la Dirección de Investigación y Procesos, la información necesaria para el desarrollo de la carpeta de investigación; y,
-
-VIII. Las demás que le encomienden el Procurador General de Justicia y el Subprocurador Especializado en Combate a la Corrupción, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO SU ENCABEZADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 46 Bis 2.
 
-De la Dirección de Investigación y Procesos
+De las Direcciones de Investigación y Procesos
 
-La Dirección de Investigación y Procesos depende de la Subprocuraduría Especializada en Combate a la Corrupción y es una unidad administrativa responsable y especializada en investigar y perseguir las conductas delictivas cometidas por servidores públicos del Estado y los Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; siendo competente para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Las Direcciones de Investigación y Procesos dependen de la Subprocuraduría Especializada en Combate a la Corrupción y son las unidades administrativas responsables y especializadas en investigar y perseguir, en sus respectivos ámbitos competenciales, las conductas delictivas cometidas por servidores públicos del Estado y de los Municipios de Nuevo León, en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; siendo competentes para:
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 I. Recibir de la Dirección de Atención y Denuncias las denuncias, querellas y partes policiales de los delitos presuntamente cometidos por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos, iniciando la carpeta de investigación correspondiente;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 II. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos del imputado y de las víctimas u ofendidos por la comisión del delito;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 III. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 IV. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 V. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 VI. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 VII. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se límite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en la ley aplicable;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 VII. Poner a la consideración del Subprocurador Especializado en Combate a la Corrupción, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 IX. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 XI. Supervisar el correcto funcionamiento de las Unidades de Investigación;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador Especializado en Combate a la Corrupción para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 XIV. Tener a su cargo la actuación procesal del Ministerio Público en los procesos penales;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
 XVI. Las demás que le encomienden el Procurador General de Justicia y el Subprocurador Especializado en Combate a la Corrupción, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Las Direcciones de Investigación y Procesos de las Regiones Centro, Norte y Sur serán competentes para investigar y perseguir los delitos que hayan sido cometidos por servidores públicos de los Municipios en los que ejercen sus competencias las Fiscalías Regionales Centro, Norte y Sur de la Dirección de Fiscalías Investigadoras, Averiguaciones Previas y Procesos de la Subprocuraduría del Ministerio Público, respectivamente. Los delitos cometidos por servidores del Ministerio Público, respectivamente. Los delitos cometidos por servidores públicos del Estado o por personas de derecho privado que ejerzan funciones públicas, serán investigados y perseguidos por la Dirección de Investigación y Procesos a la que, por razón de turno, le corresponda su conocimiento. Adicionalmente, las unidades administrativas ejercerán competencia respecto de los delitos cuya investigación y persecución les corresponda, cuando personas de derecho privado participen en la comisión de los mismos.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1939,6 +2197,186 @@ XIX. Proponer al Procurador la celebración de convenios de colaboración con la
 
 XX. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 46 Bis 4.
+
+De la Secretaría Particular del Procurador
+
+La Secretaría Particular del Procurador depende directamente de éste y es la unidad administrativa responsable de facilitar el cumplimiento de sus responsabilidades, mediante la organización de sus actividades, la tramitación oportuna de su correspondencia, la atención profesional a los ciudadanos que acuden a las instalaciones de su oficina, y la comunicación con otras autoridades federales, estatales y municipales, siendo competente para:
+
+I. Dirigir las labores de la oficina del Procurador en el orden administrativo, necesarias para el cabal cumplimiento de las funciones de la Procuraduría, de acuerdo con las instrucciones y determinaciones de su titular;
+
+II. Programar la agenda del Procurador para el desarrollo de la audiencia pública;
+
+III. Colaborar en la atención a la audiencia pública, según instrucciones directas del Procurador;
+
+IV. Dar el debido seguimiento a los acuerdos tomados por el Procurador en relación a la audiencia pública atendida;
+
+V. Dar cuenta al Procurador de toda la correspondencia y ocursos que se dirijan a aquél, para que se determine lo que en derecho proceda;
+
+VI. Remitir, previo acuerdo del Procurador, la correspondencia a los servidores públicos de la Procuraduría o de otras dependencias;
+
+VII. Llevar el control y archivo de la correspondencia recibida y de los acuerdos que emita el Procurador;
+
+VIII. Vigilar que los acuerdos que emita el Procurador, se hagan llegar a las unidades administrativas de la Procuraduría;
+
+IX. Controlar todas las comunicaciones que lleguen de la Procuraduría General de la República, de la Procuraduría de la Ciudad de México y de las Procuradurías de Justicia de las entidades federativas, en que se remitan constancias de las firmas autorizadas por tales instituciones, para poder diligenciar en el Estado la ejecución de órdenes de aprehensión o de auxilio en la investigación de delitos; y,
+
+X. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás disposiciones legalmente aplicables
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 46 Bis 5.
+
+De la Secretaría Técnica del Procurador
+
+La Secretaría Técnica del Procurador depende directamente de éste y es la unidad administrativa central responsable de facilitar el cumplimiento de sus responsabilidades, auxiliándolo en el cumplimiento de los compromisos adquiridos en el seno de la Conferencia Nacional de Procuración de Justicia y de aquellos órganos colegiados en los que la Procuraduría sea parte; dando el debido seguimiento a sus determinaciones y brindando el apoyo técnico y operativo a las demás unidades administrativas que para tal fin requieran, siendo competente para:
+
+I. Representar al Procurador en los actos y eventos en que sea comisionado por acuerdo expreso de éste;
+
+II. Analizar, proponer y ejecutar acuerdos y convenios de colaboración en Materia de procuración de justicia con la Procuraduría General de Justicia de la República, la Procuraduría General de Justicia Militar y las Procuradurías Generales de Justicia de las entidades federativas y de la Ciudad de México, y emitir opinión respecto de aquellos que expresamente le solicite el Procurador;
+
+III. Fungir como representante y enlace de la Procuraduría en la Conferencia Nacional de Procuración de Justicia y sus instituciones integrantes, así como en los demás órganos consultivos de la Procuraduría, asistiendo, por encargo del Procurador, a las sesiones correspondientes;
+
+IV. Dar el debido seguimiento en la implementación de los acuerdos tomados en la Conferencia Nacional de Procuración de Justicia; así como, de aquellos acuerdos que celebre la Procuraduría, en cualquier otro marco, para la colaboración en materia de procuración de justicia e instrumentar acciones necesarias para su debido cumplimiento;
+
+V. Establecer, en coordinación con las unidades administrativas competentes, las estrategias de seguimiento y evaluación de responsabilidades y compromisos institucionales derivados de las fracciones anteriores;
+
+VI. Ofrecer apoyo técnico jurídico a los programas y proyectos de coordinación establecidos por la Procuraduría con otras dependencias o instituciones públicas y privadas en materia de procuración de justicia;
+
+VII. Recabar información relativa a los proyectos de colaboración en materia de procuración de justicia que realizan otras dependencias, organismos e instituciones públicas;
+
+VIII. Establecer, cuando así lo disponga el Procurador, la coordinación entre la Procuraduría con las dependencias y entidades gubernamentales federales, las del gobierno del Estado de Nuevo León, las entidades federativas y municipales; organizaciones no gubernamentales, sociales y privadas, en materia de procuración de justicia, de conformidad con las disposiciones aplicables, así como dar seguimiento y cumplimiento a los convenios adoptados; en colaboración con las unidades administrativas competentes;
+
+IX. Fortalecer las acciones del Consejo Consultivo Ciudadano en su calidad de órgano eminentemente consultor de las políticas públicas relacionadas con la procuración de justicia;
+
+X. Coordinar y prestar en conjunto con la Agencia Estatal de Investigaciones, el servicio de seguridad a las personas, prestado por los Agentes de la Policía Ministerial, en los términos de las instrucciones que para tal efecto emita el Procurador;
+
+XI. Recibir el informe mensual de la Dirección General de Administración respecto del ejercicio del gasto público y de la administración de recursos humanos y materiales de la Institución; y,
+
+XII. Las que le encomiende el Procurador o le otorgue la Ley, este Reglamento u otras disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 46 Bis 6.
+
+De la Fiscalía Especializada de Atención a la Mujer
+
+La Fiscalía Especializada de Atención a la Mujer depende directamente del Procurador y es una unidad administrativa responsable y especializada en investigar y perseguir las conductas delictivas cometidas en perjuicio de mujeres, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+I. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos, el acceso a las mujeres a una vida libre de violencia y el interés superior de niñas, niños y adolescentes;
+
+II. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+III. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+IV. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+V. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+VI. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se limite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en la ley aplicable;
+
+VII. Poner a la consideración del Procurador, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+IX. Administrar el Centro de Justicia para las Mujeres del Estado de Nuevo León, coordinando las actividades de los participantes en el mismo, velando por el respeto y trato digno a las usuarias y a sus dependientes, e informando directamente al Procurador sobre el ejercicio de esta competencia;
+
+X. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que los ofendidos del delito, en caso de ser hombres mayores de edad, sus testigos y sus familiares reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, se les brinde refugio o protección;
+
+XI. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+XII. Supervisar el correcto funcionamiento de las unidades administrativas a su cargo;
+
+XIII. Aplicar los métodos y lineamientos establecidos por el Procurador para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+XIV. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+XV. Tener a su cargo la actuación procesal del Ministerio Público en el sistema procesal penal acusatorio especializado en atención a la mujer;
+
+XVI. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento;
+
+XVII. Fortalecer los mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales en el ámbito de su competencia, atendiendo a las normas y políticas constitucionales;
+
+XVIII. Proponer al Procurador los manuales de organización, procedimientos y de servicios al público en el ámbito de su competencia;
+
+XIX. Recibir en acuerdo ordinario a los responsables de las unidades administrativas que integren la Fiscalía Especializada y en acuerdo extraordinario a cualquier otro servidor público, para el efecto de homogenizar los criterios y actuaciones de los asuntos relativos a la violencia contra la mujer;
+
+XX. Informar al Procurador sobre los asuntos encomendados a la Fiscalía;
+
+XXI. Elaborar el análisis, estadística y el sistema de registro de los asuntos a su cargo;
+
+XXII. Proporcionar a otras unidades administrativas y órganos desconcentrados la información y cooperación técnica especializada que soliciten, de acuerdo con las políticas y normas institucionales;
+
+XXIII. Formular propuestas para lograr la cooperación con diversos organismos públicos, sociales y privados, tanto nacionales como internacionales, para fortalecer y consolidar las funciones de su responsabilidad;
+
+XXIV. Previo acuerdo del Procurador, coordinar con las instancias competentes la elaboración y ejecución de Programas Federales y locales para la prevención y erradicación de la violencia contra las mujeres;
+
+XXV. Coordinar con las unidades administrativas que procedan, para brindar a las víctimas u ofendidos en los asuntos de su competencia, las garantía (sic) que a su favor otorgan el apartado C del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, instrumentos internacionales y demás normatividad aplicable; y,
+
+XXVI. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 46 Bis 7.
+
+De la Dirección de Atención a Denuncias
+
+La Dirección de Atención a Denuncias depende de la Fiscalía Especializada en Atención a la Mujer, y es la unidad administrativa responsable de ser el contacto con quien presente denuncia o querella relacionada con la presunta comisión de algún delito competencia de aquélla, canalizándolo a la instancia de atención correspondiente, siendo competente para:
+
+I. Recibir las denuncias, querellas y partes policiales de los delitos cuya investigación y persecución corresponde a la Fiscalía Especializada en Atención a la Mujer;
+
+II. Supervisar el trabajo de los Agentes del Ministerio Público Orientadores a su cargo;
+
+III. Canalizar a las instancias correspondientes los asuntos que por su naturaleza no ameriten una investigación por parte del Ministerio Público;
+
+IV. Levantar las actas, conforme lo dispone la legislación procesal penal aplicable;
+
+V. Recibir las puestas a disposición de los detenidos en flagrancia y analizar la procedencia de la ratificación de las mismas;
+
+VI. Supervisar el correcto funcionamiento de las Unidades de Control de Detenidos;
+
+VII. Enviar a la Fiscalía Regional competente, la información necesaria para el desarrollo de la carpeta de investigación; y,
+
+VIII. Las demás que le encomienden el Procurador General de Justicia y el Director General de la Fiscalía Especializada en Atención a la Mujer, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 46 Bis 8.
+
+De las Fiscalías Regionales
+
+Las Fiscalías Regionales dependen de la Fiscalía Especializada en Atención a la Mujer y son unidades administrativas responsables de asistir a ésta en la investigación y persecución de los delitos bajo el sistema penal acusatorio, con el auxilio de la Agencia Estatal de Investigaciones y el Instituto de Criminalística y Servicios Periciales, además de ser responsables de brindar una atención integral al ciudadano, difundiendo los beneficios de la justicia alternativa, así como la orientación, protección y apoyo a víctimas y ofendidos de delito (sic) y testigos, siendo competentes para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+I. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos;
+
+II. Supervisar que los Agentes del Ministerio Público Investigadores realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+III. Someter a consideración del Director General de la Fiscalía Especializada en Atención a la Mujer, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para que éste último determine lo procedente;
+
+IV. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+V. Resolver los conflictos de competencia que se presenten entre Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+VI. Poner a la consideración del Director General de la Fiscalía Especializada en Atención a la Mujer, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+VII. Remitir a las instancias competentes a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+VIII. Supervisar el correcto funcionamiento de las Unidades de Investigación;
+
+IX. Aplicar los métodos y lineamientos establecidos por el Director General de la Fiscalía Especializada en Atención a la Mujer para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+X. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento;
+
+XI. Diseñar las estrategias para la promoción de la denuncia y, en su caso, la justicia alternativa;
+
+XII. Proponer al Director General de la Fiscalía Especializada en Atención a la Mujer los lineamientos para el dictado de las resoluciones de archivo temporal, criterios de oportunidad y suspensiones de la investigación que se dicten por los Agentes del Ministerio Público Orientador;
+
+XIII. Supervisar que los procesos de orientación y denuncia, justicia alternativa y atención a víctimas se realicen conforme a los manuales respectivos, y
+
+XIV. Las que le encomiende el Procurador o el Director General de la Fiscalía Especializada en Atención a la Mujer, o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
 ### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 47.
@@ -1965,11 +2403,13 @@ De la Ausencia y Suplencia del Resto de los Servidores Públicos de la Procuradu
 
 Los servidores públicos de la Procuraduría serán sustituidos, cuando la ausencia no exceda de treinta días, por quien designe el superior jerárquico.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-Cuando la ausencia exceda de treinta días, el Procurador deberá designar mediante oficio a la persona que interinamente debe suplir al servidor público.
+Cuando la ausencia exceda de treinta días, el Procurador deberá designar mediante oficio a la persona que interinamente deba suplir al servidor público.
 
-Tratándose de ausencia absoluta, se cubrirá mediante la expedición de un nuevo nombramiento a la persona que cumpla con los requisitos y procesos de la normatividad aplicable.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Tratándose de ausencia absoluta, se cubrirá mediante la expedición de un nuevo nombramiento a la persona que cumpla con los requisitos y procesos de la normatividad aplicable. No obstante, el Procurador podrá designar mediante oficio a un encargado del despacho, en tanto expide el nombramiento definitivo que corresponda.
 
 ## TÍTULO CUARTO. DE LOS PROCESOS DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
@@ -2307,9 +2747,9 @@ VII. Elaborar, con aprobación de las partes, el documento que formalice el Acue
 
 VIII. Informar al Ministerio Público, juez o tribunal que le haya remitido el caso, sin que con ello se violente el principio de confidencialidad, si las partes acudieron a las sesiones de algún mecanismo alternativo de solución de controversias en materia penal y, en su caso, del acuerdo reparatorio al que hubieren llegado; y,
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IX. Las demás que les encomiende el Director de Mecanismos Alternativos de Solución de Controversias en Materia Penal o les otorgue el Código Procesal Penal, el Código Nacional de Procedimientos Penales, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Ley, este Reglamento y demás normas aplicables.
+IX. Las demás que les encomienden el Director de Mecanismos Alternativos de Solución de Controversias en Materia Penal o les otorgue el Código Procesal Penal, el Código Nacional, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Ley, este Reglamento y demás normas aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -2521,97 +2961,47 @@ De la Remisión
 
 La remisión consistirá en hacer entrega a alguna autoridad de bienes asegurados, por tratarse de objetos que inciden en el ámbito de su competencia en la expedición o uso de los mismos.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ## TÍTULO SÉPTIMO. DE LOS ÓRGANOS DE CARÁCTER CONSULTIVO Y AUXILIAR DE LA PROCURADURÍA
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 100.
 
-Del Objeto de los Órganos de Carácter Consultivo y Auxiliar
-
-La Procuraduría contará con un Consejo Consultivo Ciudadano y otros órganos de carácter auxiliar con el objeto de coadyuvar con la Procuraduría en el estudio, análisis, reflexión y propuesta de estrategias para la definición de políticas públicas en materia de procuración de justicia y atención de los asuntos relativos al Ministerio Público del Estado. Cada uno de estos órganos tendrá las finalidades de carácter general o específico que señale el acuerdo que los cree que expida el Procurador.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 101.
 
-De la Integración de los Órganos
-
-Cada órgano de carácter auxiliar y consultivo estará integrado de la siguiente manera:
-
-I. El Presidente Honorario, que será el Gobernador;
-
-II. Un Consejero Presidente, nombrado por el Gobernador a propuesta del Procurador;
-
-III. Un Secretario Ejecutivo, que será el Procurador;
-
-IV. Hasta veinticinco Consejeros, que tendrán carácter honorario:
-
-a) Representantes de instituciones de educación superior;
-
-b) Representantes de colegios, asociaciones o cualquier otra agrupación de profesionales del derecho o ciencias afines, de la entidad;
-
-c) Representantes de organizaciones de la iniciativa privada, y
-
-d) Representantes de organizaciones del sector social.
-
-El Jefe de la Oficina Ejecutiva del Procurador fungirá como Secretario Técnico de cada órgano de carácter auxiliar y consultivo.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 102.
 
-De las Invitaciones
-
-El Procurador invitará a aquellas instituciones de educación superior, colegios, asociaciones, agrupaciones u organizaciones que considere representativos, tomando en cuenta el prestigio de la Institución y el número de alumnos o miembros de unas y otros, según sea el caso, así como su influencia en la comunidad. Una vez aceptada la invitación, el Procurador emitirá las designaciones correspondientes. De igual manera, podrá revocar la designación de dichas instituciones como miembros del órgano de carácter auxiliar y consultivo o, en su caso, solicitar a las mismas la sustitución de su representante.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 103.
 
-De las Facultades de los Órganos
-
-Con base en las disposiciones del acuerdo que los cree, las facultades de los órganos de carácter auxiliar y consultivo estarán orientadas a:
-
-I. Fungir como foro de consulta de la Procuraduría, para el estudio, deliberación, análisis y propuestas de solución sobre la problemática de la Procuración de Justicia;
-
-II. Proponer acciones específicas en la materia del órgano;
-
-III. Colaborar en el diseño de programas, políticas generales y directrices para mejorar la operación de la Procuraduría o de las unidades administrativas;
-
-IV. Formular recomendaciones para mejorar los servicios que la Procuraduría presta a la población;
-
-V. Colaborar en la planeación, seguimiento y evaluación de foros regionales de consulta sobre temas de interés de la Procuraduría y del Ministerio Público del Estado;
-
-VI. Proponer actividades de difusión de las acciones realizadas por la Procuraduría y por el propio órgano;
-
-VII. Formular y aprobar su reglamento interior, y
-
-VIII. Las demás que se consideren convenientes a juicio del Procurador y que no contravengan su naturaleza de órgano consultivo y se señalen en el respectivo acuerdo de creación.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 104.
 
-De la Periodicidad de las Sesiones
-
-Los órganos de carácter auxiliar y consultivo sesionarán en forma ordinaria o extraordinaria. Las sesiones ordinarias se realizarán cada seis meses, en las fechas que acuerden los consejeros. Las sesiones extraordinarias se efectuarán en cualquier momento, previa convocatoria expedida por el Presiente (sic) Honorario por decisión propia, o por solicitud del Consejero Presidente o de, al menos, tres consejeros.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 105.
 
-De la Expedición de las Convocatorias
-
-La Procuraduría expedirá y enviará, a través del Secretario Técnico del órgano de carácter auxiliar y consultivo, las convocatorias para las sesiones ordinarias, al menos tres días hábiles antes de la fecha de su celebración. Para las sesiones extraordinarias se requerirá convocar con, al menos, veinticuatro horas de anticipación al día en que se celebrará la sesión. En las convocatorias deberá indicarse la fecha, hora, lugar y orden del día a tratar en la sesión, y serán acompañadas de la información documental que, en su caso, vaya a ser objeto de análisis, discusión y acuerdo en la sesión para la que se convoca.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 106.
 
-De la Validez de las Sesiones
-
-Para que las sesiones sean válidas se requerirá la asistencia de cuando menos la mitad más uno de los integrantes del órgano auxiliar o consultivo.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 107.
 
-De la Aprobación de los Asuntos
-
-Para la aprobación de los asuntos que se traten en las sesiones de cada Consejo se requiere el voto de la mitad más uno de los Consejeros asistentes a la sesión, en caso de empate, quien presida la sesión tendrá voto de calidad para resolver la votación.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 108.
 
-De lo No Previsto en la Normatividad del Consejo
-
-En todos los casos, el Gobernador, como Presidente Honorario, resolverá sobre los casos no previstos en el respectivo acuerdo de creación del órgano de carácter auxiliar y consultivo o en el presente Reglamento.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ## TÍTULO OCTAVO. DEL FONDO PARA LA UNIDAD ESPECIALIZADA ANTISECUESTROS Y LA COMISIÓN ESPECIAL DE ATENCIÓN AL DELITO DE SECUESTRO
 
@@ -2762,3 +3152,23 @@ SEXTO. Cualquier alusión en las disposiciones jurídicas aplicables a los Media
 SÉPTIMO. A la entrada en vigor de este Decreto, el personal que se encuentra laborando en la Dirección de Asuntos Legislativos será adscrito a la Dirección Consultiva y de Análisis Jurídico.
 
 OCTAVO. Los procedimientos y consultas que están en trámite en la Dirección de Asuntos Legislativos continuarán siendo del conocimiento de la Dirección Consultiva y de Análisis Jurídico, a través del personal adscrito a la misma.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO. SE REFORMA EL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO MEDIANTE LA ADICIÓN DE LA FRACCIÓN VIII DEL ARTÍCULO 2°, DE LA FRACCIÓN XIX DEL ARTÍCULO 4°, DE LOS INCISOS B) Y C) DE LA FRACCIÓN IV, DEL INCISO C) DE LA FRACCIÓN VI, DEL INCISO C) DE LA FRACCIÓN XII, Y DE LAS FRACCIONES XIV, XV, XVI Y XVII DEL ARTÍCULO 8°, DE LA FRACCIÓN VI DEL ARTÍCULO 10, DE LA FRACCIÓN XVII DEL ARTÍCULO 24, DE LAS FRACCIONES XXVI, XXVII Y XXVIII DEL ARTÍCULO 29, DE LOS ARTÍCULOS 30 BIS Y 30 BIS 2, DEL ARTÍCULO 32 BIS, DE LAS FRACCIONES XXIV A XXVI DEL ARTÍCULO 33, DEL ARTÍCULO 35 BIS, DE LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 38, DE LA FRACCIÓN XIV AL ARTÍCULO 45, DE LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 46 BIS 2, Y DE LOS ARTÍCULOS 46 BIS 4, 46 BIS 5, 46 BIS 6, 46 BIS 7 Y 46 BIS 8; LA MODIFICACIÓN DE LAS FRACCIONES I A VII DEL ARTÍCULO 2°, DE LAS FRACCIONES X, XVII Y XVIII DEL ARTÍCULO 4°, DE LAS FRACCIONES VIII, IX, XXV Y XXVI DEL ARTÍCULO 5°, DE LAS FRACCIONES V, VI Y XVIII DEL ARTÍCULO 6°, DEL INCISO A) DE LA FRACCIÓN IV, DE LA FRACCIÓN V Y DE SUS INCISOS A) Y B), DE LOS INCISOS A) Y B) DE LA FRACCIÓN VI, DEL INCISO C) DE LA FRACCIÓN X Y LOS INCISOS A) Y B) DE LA FRACCIÓN XII DEL ARTÍCULO 8°, DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 9°, DE LAS FRACCIONES IV Y V DEL ARTÍCULO 10, DE LA FRACCIÓN II DEL ARTÍCULO 17, DE LA FRACCIÓN XXXIII DEL ARTÍCULO 18, DE LAS FRACCIONES I Y III DEL ARTÍCULO 21, DEL PRIMER PÁRRAFO DEL ARTÍCULO 22, DE LA FRACCIÓN XX DEL ARTÍCULO 27, DE LAS FRACCIONES IX, XXIII, XXIV Y XXV DEL ARTÍCULO 29, DEL ENCABEZADO Y DEL PRIMER PÁRRAFO DEL ARTÍCULO 30, DEL ENCABEZADO, DEL PÁRRAFO PRIMERO Y DE LAS FRACCIONES I A X DEL ARTÍCULO 31, DEL ENCABEZADO, DEL PRIMER PÁRRAFO Y DE LAS FRACCIONES I A VIII DEL ARTÍCULO 32, DEL PRIMER PÁRRAFO Y DE LAS FRACCIONES VII, VIII, XXII Y XXIII DEL ARTÍCULO 33, DEL ENCABEZADO, DEL PRIMER PÁRRAFO Y DE LAS FRACCIONES I, V, VII A XV DEL ARTÍCULO 34, DE LA FRACCIÓN II DEL ARTÍCULO 36, DE FRACCIONES I, II, INCISO E), XX Y XXI DEL ARTÍCULO 38, DE LA FRACCIÓN II DEL ARTÍCULO 41, DEL ENCABEZADO DEL ARTÍCULO 44, DEL ENCABEZADO, DEL PRIMER PÁRRAFO Y DE LAS FRACCIONES XII Y XIII DEL ARTÍCULO 45, DEL PRIMER PÁRRAFO DEL ARTÍCULO 46 BIS, DEL ENCABEZADO Y DEL PRIMER PÁRRAFO DEL ARTÍCULO 46 BIS 2, DE LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 48 Y DE LA FRACCIÓN IX DEL ARTÍCULO 79; Y LA DEROGACIÓN DE LA FRACCIÓN I, INCISO B), DE LA FRACCIÓN IX, INCISO A) Y DEL INCISO D) DE LA FRACCIÓN X DEL ARTÍCULO 8°, DE LA FRACCIÓN XIV DEL ARTÍCULO 19, DE LA FRACCIÓN IX DEL ARTÍCULO 21, DEL ARTÍCULO 24, DE LAS FRACCIONES XI A XIII DEL ARTÍCULO 31, DE LA FRACCIÓN IX DEL ARTÍCULO 32, DE LAS FRACCIONES XII A XVIII DEL ARTÍCULO 33, DEL ARTÍCULO 39, DEL ARTÍCULO 40, DE LAS FRACCIONES IX, X, XI, XIII Y XV A XIX DEL ARTÍCULO 41, DEL ARTÍCULO 46 BIS 1, DEL TÍTULO SÉPTIMO Y DE LOS ARTÍCULOS 100 A 108".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor de este Decreto, los recursos humanos y materiales con que actualmente cuenta la Dirección General de Control Institucional y la Dirección de Análisis e Información, serán reasignados a la Dirección General de Administración, a la Dirección General de Asesores del Procurador y a la Dirección General de la Agencia Estatal de Investigaciones, según corresponda.
+
+El Procurador General de Justicia del Estado determinará la forma en que habrán de distribuirse entre las Secretarías Particular y Técnica de aquél, los recursos humanos y materiales con que cuenta de modo directo la Oficina Ejecutiva del Procurador.
+
+TERCERO. Los asuntos en trámite ante la Dirección de Investigación y Procesos de la Subprocuraduría Especializada en Combate a la Corrupción, serán distribuidos entre las Direcciones de Investigación y Procesos de las Regiones Centro, Norte y Sur, atendiendo al ámbito de competencias territorial y de turno a que se contrae este Decreto.
+
+Los asuntos relacionados con la ejecución de sanciones penales continuarán siendo del conocimiento de los Agentes del Ministerio Público que actualmente los tramitan, los cuales, al igual que el personal de la Coordinación General Especializada en Ejecución Penal, serán adscritos a la Dirección General Jurídica y de Agentes del Ministerio Público Auxiliares del Procurador.
+
+CUARTO. Mientras en la Procuraduría General de Justicia del Estado de Nuevo León no se constituya el Consejo Consultivo Ciudadano a que hace referencia la Ley de Participación Ciudadana del Estado, continuará funcionando el actual Consejo Consultivo Ciudadano y se regirá por las disposiciones que estaban vigentes al momento de su constitución.
+
+El Secretario Técnico del Procurador fungirá como Secretario Técnico del actual Consejo Consultivo Ciudadano.
+
+QUINTO. Cualquier disposición general que haga alusión a las unidades administrativas desaparecidas o escindidas mediante este Decreto, se entenderá referida a las unidades administrativas a las que específicamente se les asignaron las competencias de aquéllas.
