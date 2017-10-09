@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-electoral-del-estado-de-hidalgo-10497
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-22"
-last_updated: "2017-04-10"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -163,7 +163,9 @@ IV. Establecer las reglas para la distribución de los asuntos entre los Magistr
 
 V. Fijar la fecha y hora de sus sesiones;
 
-VI. Nombrar al Secretario General y Contralor General a propuesta del Presidente;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VI. Nombrar al Secretario General;
 
 VII. Aprobar el Presupuesto anual o extraordinario del Tribunal;
 
@@ -189,7 +191,13 @@ XVII. Hacer cumplir sus resoluciones por conducto de su Presidente;
 
 XVIII. Autorizar la celebración de convenios de colaboración;
 
-XIX. Dirigir, coordinar y vigilar las actividades del Instituto de Investigación y Capacitación Electoral; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIX. Dirigir, coordinar y vigilar las actividades del Instituto de Investigación y capacitación Electoral;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIX Bis. Recibir y conocer los informes, que, en su caso, deba presentar el titular del Órgano Interno de Control; y
 
 XX. Las demás que determinen las leyes y otras disposiciones aplicables.
 
@@ -213,7 +221,9 @@ III. Presidir las sesiones, dirigir los debates y cuidar el orden en las sesione
 
 IV. Turnar los asuntos al magistrado que corresponda conforme al orden establecido;
 
-V. Proponer al Pleno el nombramiento del Secretario General del Tribunal y Contralor General;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+V. Proponer al Pleno el nombramiento del Secretario General del Tribunal;
 
 VI. Nombrar al Director General de Administración y demás personal jurídico y administrativo;
 
@@ -355,39 +365,137 @@ XX. Cubrir las vacantes temporales de magistrado, en los casos que así lo deter
 
 XXI. Las demás que le confiera el Pleno, el Reglamento y otras disposiciones aplicables.
 
-### CAPÍTULO VII. DE LA CONTRALORÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO VII. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 20.
 
-La Contraloría del Tribunal Electoral es un órgano interno de control administrativo y tiene las siguientes atribuciones:
+El Tribunal contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, vigilará que los recursos públicos sean administrados y ejercidos de acuerdo con las normas establecidas para tal efecto, asimismo, fomentará la rendición de cuentas en el ejercicio de sus funciones y vigilará el cumplimiento de los objetivos institucionales.
 
-I. Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley, las resoluciones administrativas que emita el Pleno y el Presidente;
+El Órgano Interno de Control tendrá un titular que lo representará y contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares no recaerán en una sola persona, de igual forma contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto.
 
-II. Llevar el registro y seguimiento de las declaraciones patrimoniales de los servidores públicos del Tribunal Electoral, en los términos previstos por la Ley de la materia;
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, además de los previstos en la legislación en materia de Responsabilidades Administrativas.
 
-III. Recibir, tramitar y en su caso, resolver las quejas que se presenten en contra de los funcionarios y empleados del Tribunal Electoral;
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-IV. Ejecutar las resoluciones que emita el Pleno del Tribunal Electoral, respecto de las sanciones que se impongan a funcionarios o Magistrados según corresponda, así como conocer y resolver tratándose de los demás servidores públicos del Tribunal Electoral;
+###### Artículo 20 Bis.
 
-V. Practicar auditorías operacionales, contables o administrativas en las dependencias del Tribunal Electoral; y
+El Titular del Órgano Interno de Control será designado por el Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo.
 
-VI. Intervenir en la entrega y recepción, levantando acta circunstanciada, cuando ocurran cambios de titulares en las áreas del Tribunal Electoral.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 20 Ter.
+
+El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Verificar que el ejercicio del gasto del Tribunal Electoral se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados, para lo cual revisará el ingreso, egreso, manejo, custodia y aplicación de recursos públicos;
+
+II. Prevenir, investigar, substanciar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos y ex - servidores públicos del Tribunal electoral, para sancionar aquellas faltas administrativas que sean calificadas como no graves;
+
+III. Presentar al Tribunal Electoral los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Tribunal Electoral, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado;
+
+IV. Revisar que las operaciones presupuestales que realice el Tribunal Electoral, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar en el ámbito de su competencia, los hechos u omisiones que puedan implicar alguna falta administrativa, irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Tribunal Electoral;
+
+VII. Presentar ante la Fiscalía Especializada en Delitos de Corrupción, las denuncias por hechos u omisiones que pudieran ser constitutivos de delito;
+
+VIII. Promover ante el Tribunal de Justicia Administrativa las acciones de responsabilidad por faltas administrativas calificadas como graves.
+
+IX. Evaluar los informes del avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que se determine;
+
+X. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa, contenidos en el presupuesto del Tribunal Electoral, empleando la metodología que se determine;
+
+XI. Recibir y substanciar directamente las quejas o denuncias por hechos u omisiones en materia de responsabilidades administrativas, conforme a las leyes aplicables;
+
+XII. Requerir la información, efectuar visitas y auditorías a las áreas y órganos del Tribunal Electoral para el cumplimento de sus funciones;
+
+XIII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la legislación en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público, de Obras Públicas y Servicios Relacionados con las mismas, y sus Reglamentos;
+
+XIV. Intervenir en los actos de entrega-recepción de los servidores públicos del Tribunal Electoral, en los términos de la normativa aplicable;
+
+XV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XVI. Atender las solicitudes de los diferentes órganos del Tribunal Electoral en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o de recursos;
+
+XVIII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XIX. Presentar al Tribunal Electoral los informes semestral y anual de resultados de su gestión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, y comparecer ante la Comisión, cuando así lo requiera el Presidente;
+
+XX. Presentar al Tribunal Electoral los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Ordenar y practicar de oficio, a partir de la denuncia o derivado de las auditorías realizadas, las investigaciones por presuntas faltas administrativas;
+
+XXII. Dictar los acuerdos y resoluciones que correspondan en términos de la legislación en materia de Responsabilidades Administrativas; y
+
+XXIII. Las que le señale la legislación en materia de responsabilidades administrativas y demás atribuciones que le confieran otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-Para ser Contralor se requiere:
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano hidalguense;
+I. Ser ciudadana o ciudadano hidalguense en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos al día de la designación;
 
-II. Ser licenciado en derecho, contabilidad o administración con cédula profesional y contar con experiencia mínima de cuatro años en el ejercicio de su profesión; y
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
-III. No haber sido condenado por delito doloso que merezca pena privativa de libertad mayor de un año o por delito cometido por los servidores públicos.
+III. Contar al momento de su designación con una experiencia de al menos tres años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su designación, con título profesional con una antigüedad mínima de cinco años, relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal Electoral o haber fungido como consultor o auditor externo del Tribunal Electoral, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Gobernador, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 21 Bis.
+
+La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un solo periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo con los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo.
+
+Tendrá un nivel jerárquico igual al de Director General o su equivalente en la estructura orgánica del Tribunal Electoral, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+El titular del Órgano Interno de Control rendirá un informe semestral y anual de actividades al Tribunal Electoral, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 21 Ter.
+
+El titular del Órgano Interno de Control del Tribunal Electoral, será sujeto de responsabilidad administrativa y sancionado de conformidad con el procedimiento, en términos de la legislación en materia de Responsabilidades Administrativas.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Tribunal Electoral, serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la legislación en materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 21 Quáter.
+
+El Órgano Interno de Control, inscribirá y mantendrá actualizada la información correspondiente de la evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos del Tribunal Electoral, de conformidad con la Ley en materia de Anticorrupción, la legislación en materia de Responsabilidades Administrativas, así como la Ley en materia de Transparencia.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro cargo, empleo, trabajo o comisión públicos o privados, con excepción de los de docencia.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-El Contralor será competente para instruir los procedimientos derivados de las responsabilidades de los Servidores Públicos del Tribunal Electoral, y para la aplicación de las sanciones a que se refiere la ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo, será el Pleno del Tribunal.
+Los servidores públicos del Tribunal Electoral coadyuvarán con el titular del Órgano Interno de Control, en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Tribunal y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones administrativas.
 
-Tratándose de las responsabilidades que se llegasen imputar a los Magistrados, el Pleno será competente para resolver; el Presidente deberá hacer del conocimiento a la Contraloría del Tribunal, los casos que sean de su competencia en los procedimientos de responsabilidad.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 22 Bis.
+
+El Órgano Interno de Control del Tribunal Electoral, su titular y el personal adscrito al mismo, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y esta Ley confieren a los funcionarios del Tribunal electoral.
 
 ### CAPÍTULO VIII. DEL PERSONAL JURÍDICO Y ADMINISTRATIVO
 
@@ -544,3 +652,23 @@ P.O. 10 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 174 POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 228 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS HUMANOS, DEL CÓDIGO ELECTORAL, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, TODAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto.
+
+Los actuales titulares o responsables de las Contralorías o de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto podrán participar en el proceso de designación, siempre y cuando cumplan con los requisitos de elegibilidad previstos en este Decreto.
+
+TERCERO. Cada Organismo Autónomo que se mencionan (sic) en el presente Decreto, tendrán un plazo de hasta 90 días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+CUARTO. Cada Organismo Autónomo que se mencionan (sic) en el presente Decreto, a partir del ejercicio fiscal del 2018, destinará en su Presupuesto de Egresos, una partida específica que garantice los recursos necesarios para el cumplimiento de los objetivos de su Órgano Interno de Control.
+
+QUINTO. En caso de existir recursos humanos, financieros y materiales asignados a las Contralorías u Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
