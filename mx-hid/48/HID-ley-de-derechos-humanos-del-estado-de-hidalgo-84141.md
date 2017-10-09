@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2016-08-01"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -485,11 +485,15 @@ XXI.- Interponer, las demandas de acción de inconstitucionalidad ante la Suprem
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-XXI Bis.- Emitir a nombre de la Comisión, la opinión o postura respecto de acontecimientos que, por su gravedad o trascendencia, sea de interés en la sociedad.
+XXI BIS.- Emitir a nombre de la Comisión, la opinión o postura respecto de acontecimientos que, por su gravedad o trascendencia, sea de interés en la sociedad.
 
 XXII.- Solicitar la intervención del Congreso del Estado, a fin de que analice las causas de incumplimiento de las autoridades que hayan recibido recomendaciones, de modo que su intervención asegure la efectividad y cumplimiento de las mismas;
 
 XXIII.- Presentar, dentro de un plazo de noventa días naturales contados a partir del inicio de su encargo, el Plan de Desarrollo Institucional;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XXIII BIS.- Recibir y conocer los informes que presente el Titular del Órgano Interno de Control; y
 
 XXIV.- Otras que le señale la presente Ley o el Reglamento Interno, y aquellas que sean necesarias para el debido desempeño de sus funciones.
 
@@ -1023,11 +1027,13 @@ La Comisión denunciará ante los órganos competentes los presuntos delitos o f
 
 La Comisión podrá dar seguimiento a las actuaciones y diligencias que se practiquen en las averiguaciones previas, procedimientos penales o administrativos que se instruyan con motivo de su intervención.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 100.
 
-La Comisión podrá requerir a las autoridades competentes la aplicación de las sanciones administrativas que procedan por las presuntas infracciones en que incurran los servidores públicos durante y con motivo de las investigaciones que realice dicha Comisión. Además, podrá solicitar amonestaciones por escrito, públicas o privadas, al superior jerárquico de los funcionarios públicos involucrados.
+La Comisión hará del conocimiento de las autoridades competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse.
 
-El organismo disciplinario informará a la Comisión acerca de las sanciones impuestas o en su caso las razones de su negativa.
+La autoridad competente informará a la Comisión sobre las medidas o sanciones disciplinarias impuestas o en su caso las razones de su negativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1209,7 +1215,7 @@ En todo caso, las disposiciones reglamentarias relativas a la transparencia y al
 
 ###### Artículo 122.
 
-La Comisión contará con un órgano de control interno que auxilie al Presidente y al Consejo, en el ámbito de sus respectivas competencias, para la supervisión y control de la correcta utilización de los recursos públicos, así como de la rendición de cuentas de la Comisión.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 ### Capítulo XVIII. Del Régimen Laboral
 
@@ -1269,6 +1275,132 @@ IV.- Coadyuvar en la atención de los asuntos de discriminación por razones de 
 
 V.- Las demás que se establezcan en su Reglamento y los ordenamientos legales aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+### Capítulo XXI. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 130.
+
+La Comisión contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, vigilará que los recursos públicos sean administrados y ejercidos de acuerdo con las normas establecidas para tal efecto, asimismo, fomentará la rendición de cuentas en el ejercicio de sus funciones y vigilará el cumplimiento de los objetivos institucionales.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares no recaerán en una sola persona, de igual forma contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la legislación en materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 131.
+
+El Titular del Órgano Interno de Control será designado por el Congreso del Estado, conforme al procedimiento establecido en su Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 132.
+
+El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Verificar que el ejercicio del gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados, para lo cual revisará el ingreso, egreso, manejo, custodia y aplicación de recursos públicos;
+
+II. Prevenir, investigar, substanciar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos y ex servidores públicos de la Comisión, y sancionar aquellas faltas administrativas que sean calificadas como no graves;
+
+III. Presentar a la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado;
+
+IV. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar en el ámbito de su competencia, los hechos u omisiones que puedan implicar alguna falta administrativa, irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+
+VII. Presentar ante la Fiscalía Especializada en Delitos de Corrupción, las denuncias por hechos u omisiones que pudieran ser constitutivos de delito;
+
+VIII. Promover ante el Tribunal de Justicia Administrativa las acciones de responsabilidad por faltas administrativas calificadas como graves;
+
+IX. Evaluar los informes del avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que se determine;
+
+X. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de la Comisión, empleando la metodología que se determine;
+
+XI. Recibir y substanciar directamente, las quejas o denuncias por hechos u omisiones en materia de responsabilidades administrativas, conforme a las leyes aplicables;
+
+XII. Requerir información y efectuar visitas y auditorías a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
+
+XIII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la legislación en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público; de Obras Públicas y Servicios Relacionados con las mismas, y sus Reglamentos;
+
+XIV. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión, en los términos de la normativa aplicable;
+
+XV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XVI. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o de recursos;
+
+XVIII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XIX. Presentar a la Comisión los informes semestral y anual de resultados de su gestión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, y comparecer ante la Comisión, cuando así lo requiera el Presidente;
+
+XX. Presentar a la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Ordenar y practicar de oficio, a partir de la denuncia o derivado de las auditorías realizadas, las investigaciones por presuntas faltas administrativas;
+
+XXII. Dictar los acuerdos y resoluciones que correspondan en términos de la legislación en materia de Responsabilidades Administrativas; y
+
+XXIII. Las que le señalen la legislación en materia de responsabilidades administrativas y demás atribuciones que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 133.
+
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano o ciudadana hidalguense en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos al día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos tres años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su designación, con título profesional con una antigüedad mínima de cinco años, relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión o haber fungido como consultor o auditor externo de la Comisión, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Gobernador, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 134.
+
+La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un solo periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo con los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo.
+
+Tendrá un nivel jerárquico igual al de Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+El titular del Órgano Interno de Control rendirá un informe semestral y anual de actividades a la Comisión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 135.
+
+El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad administrativa y sancionado de conformidad con el procedimiento en términos de la legislación en materia de Responsabilidades Administrativas.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión, serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la legislación en materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 136.
+
+El Órgano Interno de Control, inscribirá y mantendrá actualizada la información correspondiente de la evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos de la Comisión, de conformidad con la Ley en materia de Anticorrupción, la legislación en materia de Responsabilidades Administrativas, así como la Ley en materia de Transparencia.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro cargo, empleo, trabajo o comisión públicos o privados, con excepción de los de docencia.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 137.
+
+Los servidores públicos de la Comisión coadyuvarán con el titular del Órgano Interno de Control en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes de la Comisión y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones administrativas.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
@@ -1313,8 +1445,28 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 
 P.O. 1 DE AGOSTO DE 2016.
 
-## [N.DE E. TRANSITORIOS DEL “DECRETO NÚM. 690 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 690 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 228 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS HUMANOS, DEL CÓDIGO ELECTORAL, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, TODAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto.
+
+Los actuales titulares o responsables de las Contralorías o de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto podrán participar en el proceso de designación, siempre y cuando cumplan con los requisitos de elegibilidad previstos en este Decreto.
+
+TERCERO. Cada Organismo Autónomo que se mencionan en el presente Decreto, tendrán un plazo de hasta 90 días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+CUARTO. Cada Organismo Autónomo que se mencionan en el presente Decreto, a partir del ejercicio fiscal del 2018, destinará en su Presupuesto de Egresos, una partida específica que garantice los recursos necesarios para el cumplimiento de los objetivos de su Órgano Interno de Control.
+
+QUINTO. En caso de existir recursos humanos, financieros y materiales asignados a las Contralorías u Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
