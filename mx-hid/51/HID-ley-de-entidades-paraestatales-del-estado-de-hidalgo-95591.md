@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2015-12-31"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -43,7 +43,9 @@ A N T E C E D E N T E S
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -55,9 +57,11 @@ Artículo Único.- Se crea la Ley de Entidades Paraestatales del Estado de Hidal
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular la constitución, organización, funcionamiento, coordinación, control y desincorporación de las Entidades Paraestatales de la Administración Pública para el Estado de Hidalgo.
+La presente Ley es reglamentaria del artículo 73 de la Constitución Política del Estado de Hidalgo en lo relativo a la constitución, organización, funcionamiento, coordinación, control y desincorporación de las Entidades Paraestatales de la Administración Pública Estatal.
 
 Las relaciones del Ejecutivo Estatal, o de sus Dependencias, con las Entidades Paraestatales, en su calidad de unidades auxiliares de la Administración Pública Estatal, se sujetarán, en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias y, sólo en lo no previsto, en otras disposiciones según la materia que corresponda.
 
@@ -65,21 +69,39 @@ Las relaciones del Ejecutivo Estatal, o de sus Dependencias, con las Entidades P
 
 Las Entidades Paraestatales, son aquellas que se determinan con tal carácter en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y en esta Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Para la constitución de las Entidades Paraestatales, deberá realizarse una planificación estratégica que garantice la funcionalidad y el cumplimiento del objeto para el cual sea creada.
+
 ###### Artículo 3.
 
 Para efectos de esta Ley se entenderá por:
 
 I.- Comité Técnico: Es el cuerpo colegiado que otorga las reglas de operación para el cumplimiento de los fines del Fideicomiso y controla el actuar de las instituciones fiduciarias;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+I Bis.- Comisario Público: El Servidor Público designado por la persona titular de la Secretaría de Contraloría y que constituye el Órgano de Vigilancia de la Entidad Paraestatal ante su Órgano de Gobierno;
+
 II.- Consejo de Administración: Es un cuerpo colegiado que está integrado de acuerdo con los estatutos de una Empresa de Participación Estatal Mayoritaria y que sus miembros son designados por el Titular del Poder Ejecutivo, directamente a través de la Dependencia Coordinadora de sector;
 
-III.- Dependencia Coordinadora de Sector: A las Secretarías que integran la Administración Pública Estatal, que tienen a su cargo una o más entidades paraestatales agrupadas en el ámbito funcional de sus atribuciones y con facultades para emitir normas y lineamientos específicos para orientar la actividad de las Entidades que integran su sector;
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+II Bis.- Constitución: La creación de Entidades Paraestatales, para lo cual se establecerán los lineamientos generales en el Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+III.- Dependencia Coordinadora de Sector: Las Dependencias de la Administración Pública Centralizada en cuyo ámbito funcional de atribuciones son agrupadas una o más Entidades Paraestatales y cuentan con facultades para emitir normas y lineamientos específicos para orientar la actividad de las Entidades que integran su sector;
 
 IV.- Desincorporación: La disolución, liquidación, extinción, fusión, escisión, enajenación o transferencia establecidas en esta Ley y otros ordenamientos aplicables, de la Entidad Paraestatal cuando deja de cumplir sus fines u objeto o su funcionamiento no resulte conveniente para la economía estatal o para el interés público dándose la modificación del régimen legal;
 
-V.- Dependencias Globalizadoras: A la Secretaría de Contraloría y Transparencia Gubernamental; Finanzas y Administración; y Planeación y Desarrollo Regional y Metropolitano;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-VI.- Director General: Al titular de cada una de las Entidades Paraestatales, conforme a los instrumentos jurídicos de creación y constitución;
+V.- Dependencias Globalizadoras: La Secretaría Ejecutiva de la Política Pública Estatal, la Secretaría de Finanzas Públicas, la Secretaría de Contraloría y la Unidad de Planeación y Prospectiva;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VI.- Director General: La persona titular de cada una de las Entidades Paraestatales;
 
 VII.- Entidad Paraestatal:
 
@@ -89,7 +111,9 @@ b. Empresas de Participación Estatal Mayoritaria; y
 
 c. Fideicomisos Públicos en los que el fideicomitente sea el Estado;
 
-VIII.- Estatuto Orgánico: Aquel documento que tiene por objeto establecer y regular la estructura orgánica y funcional del Organismo Descentralizado;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VIII.- Estatuto Orgánico: El documento aprobado por el Órgano de Gobierno con el objeto de establecer y regular la estructura orgánica y funcional del Organismo Descentralizado;
 
 IX.- Institución Fiduciaria: Es la institución de crédito a quien el fideicomitente transmite la propiedad o la titularidad de uno o más bienes o derechos;
 
@@ -99,9 +123,11 @@ XI.- Plan Estatal de Desarrollo: Es el instrumento rector donde se precisan los 
 
 XII.- Reglamento: Al Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-El Instituto Estatal Electoral, la Comisión Estatal de Derechos Humanos, la Universidad Autónoma del Estado de Hidalgo y el Instituto de Acceso a la Información Pública Gubernamental, se regirán por sus Leyes específicas por ser Organismos Autónomos y, en consecuencia, quedan excluidos de la observancia de esta Ley.
+El Instituto Estatal Electoral, la Comisión Estatal de Derechos Humanos, la Universidad Autónoma del Estado de Hidalgo, el Instituto de Acceso a la Información Pública Gubernamental y el Tribunal Electoral, se regirán por sus leyes específicas por ser organismos autónomos y, en consecuencia quedan excluidos de la observancia de esta Ley.
 
 ###### Artículo 5.
 
@@ -109,25 +135,53 @@ El Gobernador del Estado podrá agrupar a las Entidades Paraestatales por sector
 
 El agrupamiento de las Entidades Paraestatales se hará considerando el objeto de cada una de ellas, en relación con la competencia que la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y otras Leyes que le atribuyan a las Dependencias Coordinadoras de Sector. Las Entidades Paraestatales podrán contar con Órganos Desconcentrados para el mejor cumplimiento de su objeto.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+La vinculación institucional con el Ejecutivo del Estado de las Entidades Paraestatales no sectorizadas, será a través del servidor público que el Gobernador del Estado designe para tal efecto, quien suplirá sus ausencias en la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 6.
 
-Corresponderá a la Dependencia Coordinadora de Sector, disponer que la elaboración de los programas sectoriales estén acordes con el Plan Estatal de Desarrollo, vigilar que la programación y presupuestación esté de acuerdo con las asignaciones de gasto previamente establecido y autorizado, así como conocer la operación y evaluar los resultados de las Entidades Paraestatales y las demás atribuciones que les concedan las Leyes o Decretos.
+Corresponde a la Dependencia Coordinadora de Sector, supervisar que los programas institucionales elaborados por los órganos de gobierno o administración de las Entidades Paraestatales, sean congruentes con el Plan Estatal de Desarrollo; vigilar que la programación y presupuestación esté acorde con las asignaciones de gasto previamente establecido y autorizado, conocer la operación y evaluar los resultados de las Entidades Paraestatales, y las demás atribuciones que les concedan las Leyes o Decretos, sin perjuicio de las facultades que en las referidas materias tengan otras Dependencias con el Ejecutivo.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-Las Dependencias Globalizadoras, deberán de participar como integrantes en los Órganos de Gobierno y en los comités que se constituyan para el cumplimiento del objeto de las Entidades Paraestatales. También participarán otras dependencias y Entidades Paraestatales, en la medida que tengan relación con el objeto de la Entidad Paraestatal de que se trate; todas ellas participarán de conformidad con la esfera de su competencia y disposiciones relativas en la materia.
+Las Dependencias Globalizadoras deberán participar como integrantes en los Órganos de Gobierno y en los comités que se constituyan para el cumplimiento del objeto de la (sic) Entidades Paraestatales. La Secretaría de Contraloría no tendrá participación como integrante en los órganos de gobierno ni en los comités, su función será la de actuar como órgano de vigilancia. También podrán participar otras Dependencias y Entidades Paraestatales, en la medida que tengan relación con el objeto de la Entidad Paraestatal de que se trate; todas ellas participarán de conformidad con la esfera de su competencia y disposiciones relativas en la materia.
 
 Los representantes de las dependencias y de las Entidades Paraestatales, en las sesiones de los Órganos de Gobierno o de los comités en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos Órganos o comités, de acuerdo con las facultades que les otorga esta Ley.
 
-A su vez, las Entidades Paraestatales deberán enviar a los miembros de los Órganos de Gobierno o de los comités con una antelación no menor de diez días hábiles para reuniones ordinarias y tres días hábiles para reuniones extraordinarias, el orden del día, acompañado de la información y documentación correspondiente, que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación.
+A su vez, con una antelación no menor de diez días hábiles para sesiones ordinarias y tres días hábiles para sesiones extraordinarias, las Entidades Paraestatales deberán enviar a los miembros del Órgano de Gobierno o del Comité Técnico y al Comisario Público, la Convocatoria respectiva, que deberá contener el orden del día y la información y documentación correspondiente para el conocimiento de los asuntos que se vayan a tratar, permitiendo el adecuado ejercicio de su representación.
+
+El incumplimiento de lo establecido en el párrafo anterior será sancionado con base a la ley en materia de responsabilidades administrativas para los servidores públicos en el Estado.
 
 Las Entidades Paraestatales que, además de Órgano de Gobierno y Órgano de Vigilancia, cuenten con patronatos, comisiones ejecutivas o consultivas, o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo con sus ordenamientos respectivos, en lo que no se opongan a las disposiciones de esta Ley.
 
 Para el cumplimiento de lo antes establecido, la Dependencia Coordinadora de Sector conjuntamente con las Dependencias Globalizadoras, harán compatibles los requerimientos de información que se demanden a las Entidades Paraestatales, racionalizando los flujos de información.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 7 Bis.
+
+Las Entidades Paraestatales deberán proporcionar a las Dependencias Globalizadoras y al Comisario Público la información y datos que estas les soliciten a través de la Dependencia Coordinadora de Sector donde se encuentren agrupadas.
+
+Para el cumplimiento de lo antes establecido, la Dependencia Coordinadora de Sector conjuntamente con las Dependencias Globalizadoras, harán compatibles los requerimientos de información que se demanden a las Entidades Paraestatales, racionalizando los flujos de información.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 8.
 
-Las Entidades Paraestatales gozarán de autonomía técnica, administrativa y de gestión para el cabal cumplimiento de su objeto y de los objetivos y metas señalados en su (sic) Leyes o Decretos de Creación, así como en (sic) Plan Estatal de Desarrollo.
+Las Entidades Paraestatales gozarán de autonomía técnica, administrativa y de gestión para el cabal cumplimiento de su objeto además de los objetivos y metas señalados tanto en el Plan Estatal de Desarrollo como en el Programa Institucional de Desarrollo.
+
+La Unidad de Planeación y Prospectiva tendrá la facultad de emitir las bases y lineamientos para el seguimiento y evaluación en todos los procesos que lleven a cabo las Entidades Paraestatales en cumplimiento de lo establecido en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 8 Bis.
+
+Las Entidades Paraestatales se sujetarán a las leyes, reglamentos, políticas y lineamientos que se emitan en materia de adquisiciones, arrendamientos y servicios, así como los relativos a obras públicas y servicios relacionados con las mismas.
 
 ###### Artículo 9.
 
@@ -145,9 +199,11 @@ El Estado y los municipios, previa autorización de sus Ayuntamientos, de manera
 
 ### CAPÍTULO II. DE LAS ENTIDADES PARAESTATALES
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 12.
 
-El Órgano de Gobierno de la Entidad Paraestatal para el logro de los objetivos y metas de sus programas, ejercerá sus facultades con base en las políticas, lineamientos y prioridades, conforme a lo dispuesto por esta Ley o que establezca el Ejecutivo Estatal.
+Para el logro de los objetivos y metas establecidos en los programas de las Entidades Paraestatales, el Órgano de Gobierno de la Entidad Paraestatal, ejercerá sus facultades con base en lo establecido por esta Ley, así como en las políticas, lineamientos, acuerdos, manuales o cualquier otro cuerpo normativo que establezca el Ejecutivo Estatal.
 
 ###### Artículo 13.
 
@@ -157,17 +213,27 @@ El Órgano de Gobierno a propuesta de su presidente o cuando menos de dos tercer
 
 Los Órganos de Gobierno de las Entidades Paraestatales tendrán las siguientes facultades y obligaciones indelegables:
 
-I.- Establecer en congruencia con el Plan Estatal de Desarrollo, los Programas Regionales y Sectoriales, sus políticas generales y definir las prioridades a las que deberá sujetarse la Entidad Paraestatal;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+I.- Establecer en congruencia con el Plan Estatal de Desarrollo, los Programas Institucionales, sus políticas generales y definir las prioridades a las que deberá sujetarse la Entidad Paraestatal;
 
 II.- Aprobar los programas institucionales de desarrollo, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos;
 
-III.- Fijar y ajustar los precios de bienes y servicios que produzca o preste la Entidad Paraestatal, atendiendo a los lineamientos que establezca la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+III.- Fijar y ajustar los precios de bienes y servicios que produzca o preste la Entidad Paraestatal, atendiendo a los lineamientos que establezca la Secretaría de Finanzas Públicas;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+III Bis.- Vigilar la congruencia entre el presupuesto de ingresos estimado, modificado y los ingresos recaudados;
 
 IV.- Aprobar la suscripción o celebración de créditos para el financiamiento de la Entidad Paraestatal, sin perjuicio de cumplir con las disposiciones establecidas en la Legislación de Deuda Pública Estatal y observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
 
 V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la Entidad Paraestatal que no correspondan a las operaciones propias del objeto de la misma;
 
-VI.- Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros y la información programática - presupuestal de la Entidad Paraestatal;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VI.- Aprobar, anualmente, los estados financieros y la información programática-presupuestal de la Entidad Paraestatal, una vez que se cuente con el dictamen del Auditor Externo y el Comisario Público haya presentado su informe correspondiente para efectos de transparencia en el actuar del Órgano de Gobierno;
 
 VII.- Aprobar de acuerdo con la normatividad y el Reglamento de esta Ley las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Entidad Paraestatal con terceros en obras públicas, servicios relacionados con las mismas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles.
 
@@ -175,9 +241,13 @@ El Director General y en su caso, los servidores públicos que deban intervenir 
 
 VIII.- Aprobar la estructura básica de la organización de la Entidad Paraestatal, y las modificaciones que procedan a la misma. Tratándose de Organismos Descentralizados, el Estatuto Orgánico correspondiente y sus modificaciones;
 
-IX.- Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, los convenios de fusión con otras Entidades Paraestatales o de escisión, según sea el caso;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-X.- Autorizar la creación de comités o subcomités especializados o comités de apoyo institucional. No se podrán autorizar comités de obra pública si el Organismo Descentralizado no tiene la facultad de construir obra pública, de conformidad con la Ley de Obras Públicas del Estado de Hidalgo;
+IX.- Proponer al Ejecutivo Estatal por conducto de la Secretaría Ejecutiva de la Política Pública Estatal, los convenios de fusión con otras Entidades Paraestatales o de escisión, según sea el caso;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+X.- Autorizar la creación de comités o subcomités especializados o comités de apoyo institucional. No se podrán autorizar comités de obra pública si la Entidad Paraestatal no tiene la facultad de construir obra pública de conformidad con la Ley de la materia;
 
 XI.- Nombrar y remover, a propuesta del Director General, a los servidores públicos de la Entidad Paraestatal que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquél. En materia de fijación de sueldos y prestaciones, apegarse a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia, así como conceder licencias y las demás que señale su Estatuto Orgánico;
 
@@ -187,7 +257,9 @@ XII.- Nombrar y remover a propuesta de su presidente, al secretario y prosecreta
 
 XIII.- Aprobar la constitución de reservas en las entidades que conforman la administración pública paraestatal, siempre que correspondan a utilidades de las empresas de participación estatal mayoritaria, ingresos excedentes, o bien remanentes derivados de economías en aportaciones, transferencias, subsidios y convenios.
 
-La constitución de reservas a que se refiere la presente fracción será procedente siempre que los ingresos excedentes, las utilidades o los remanentes sean reintegrados a la Secretaría de Finanzas y Administración, la que, en su caso, expedirá las autorizaciones respectivas, atendiendo, entre otras, las disposiciones que se establezcan en la Ley de Ingresos del ejercicio fiscal de que se trate.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
+La constitución e integración de reservas a que se refiere la presente fracción, será procedente siempre que los ingresos excedentes, las utilidades, los rendimientos financieros o los remanentes que sean autorizados por la Secretaría de Finanzas Públicas con base a las disposiciones que se establezcan en la Ley de Ingresos del ejercicio fiscal de que se trate, y una vez ingresado a las arcas del Gobierno del Estado, podrá proponer la aplicación de estos recursos en proyectos autorizados por la Secretaria Ejecutiva de la Política Pública del Estado;
 
 XIV.- Establecer, con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Entidad Paraestatal requiera para la prestación de sus servicios, de conformidad con la Ley de Bienes del Estado;
 
@@ -195,21 +267,33 @@ XV.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Direc
 
 XVI.- Acordar con sujeción a las disposiciones legales aplicables, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Dependencia Coordinadora de Sector correspondiente;
 
-XVII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la Entidad Paraestatal cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas y Administración por conducto de la Dependencia Coordinadora de Sector;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XVII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la Entidad Paraestatal cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, mismas que deberán ser previamente validadas por la Coordinación General Jurídica y la Secretaría de Finanzas Públicas;
+
+Una vez que hayan sido aprobadas se deberá informar a la Secretaría de Finanzas Públicas y a la Secretaría de Contraloría por conducto de la Dependencia Coordinadora de Sector.
 
 XVIII.- Supervisar el cumplimiento de las medidas adoptadas para el ejercicio del gasto público con base en resultados; y
 
 XIX.- Verificar que los titulares de las Entidades Paraestatales realicen las acciones pertinentes que permitan la implantación de los programas y proyectos en materia de racionalidad, disciplina y eficiencia presupuestal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-Serán facultades y obligaciones de los Directores Generales de las Entidades Paraestatales, las siguientes:
+El Director General de cada una de las Entidades Paraestatales, será nombrado por el Titular del Poder Ejecutivo o a indicación de éste por el Titular de la Dependencia Coordinadora de Sector y tendrán las facultades y obligaciones siguientes:
 
 I.- Administrar y representar legalmente a la Entidad Paraestatal;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+I Bis.- Implementar una administración ágil, eficiente y eficaz sujetándose a lo establecido en esta Ley, en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y el Proceso de Planeación para el desarrollo del Estado;
+
 II.- Formular los Programas, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos y presentarlos para su aprobación al Órgano de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Órgano de Gobierno procederá al desarrollo e integración de tales instrumentos;
 
-III.- Formular el programa de mejora continua;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+III.- Formular el Programa de Calidad Institucional y Mejora Continua;
 
 IV.- Establecer la organización y procedimientos que permitan que los procesos de trabajo se realicen de manera articulada, congruente y eficaz;
 
@@ -225,7 +309,9 @@ IX.- Proponer al Órgano de Gobierno el nombramiento o la remoción de los dos n
 
 X.- Presentar periódicamente al Órgano de Gobierno el informe del desempeño de las actividades de la Entidad Paraestatal, incluida la evaluación programática - presupuestal, el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
-XI.- Establecer los mecanismos de autoevaluación que destaquen la eficiencia y eficacia con que se desempeñe la Entidad Paraestatal, y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde con el Órgano de Gobierno, escuchando al comisario público;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XI.- Establecer los mecanismos de auto evaluación que destaquen la eficiencia y eficacia con que se desempeñe la Entidad Paraestatal, y presentar al Órgano de Gobierno semestralmente, la evaluación de gestión, la cual deberá elaborarse en congruencia con el Plan Estatal de Desarrollo con el detalle que previamente acuerde con el Órgano de Gobierno, atendiendo la opinión del Comisario Público para su elaboración y presentación;
 
 XII.- Ejecutar los acuerdos que dicte el Órgano de Gobierno;
 
@@ -237,7 +323,9 @@ XV.- Ejercer facultades de dominio previo acuerdo del Órgano de Gobierno, de ad
 
 XVI.- Emitir, avalar y negociar títulos de crédito previo acuerdo del Órgano de Gobierno;
 
-XVII.- Formular querellas y otorgar perdón legal;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XVII.- Formular querellas, así como otorgar el perdón legal previa aprobación del Órgano de Gobierno;
 
 XVIII.- Ejercer o desistir de acciones judiciales, inclusive del juicio de amparo;
 
@@ -251,13 +339,17 @@ XXI.- Sustituir y revocar poderes generales o especiales; y
 
 XXII.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, con las limitaciones o restricciones que establece esta Ley y el Reglamento de la misma.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 16.
 
-Los Directores Generales realizarán las acciones correspondientes para corregir las deficiencias que determinen las entidades fiscalizadoras y presentarán al Órgano de Gobierno informes periódicos sobre su corrección y sobre el programa de mejora continua de la gestión de la Entidad Paraestatal.
+Los Directores Generales atenderán las observaciones, requerimientos y recomendaciones que determinen las entidades fiscalizadoras, incluyendo al Órgano Interno de Control de la Entidad Paraestatal, debiendo corregir deficiencias y presentando al Órgano de Gobierno informes periódicos sobre su corrección y sobre el Programa de Calidad Institucional y Mejora Continua de la Gestión de la Entidad Paraestatal.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Cada que se constituya una Entidad Paraestatal la Secretaría de Finanzas y Administración, deberá publicar en el Periódico Oficial del Estado de Hidalgo el Acuerdo del Ejecutivo en que indique la Dependencia de la Administración Pública a la que estará sectorizada.
+Al constituirse una Entidad Paraestatal, el Titular del Ejecutivo expedirá un acuerdo en el que podrá señalar la dependencia de la Administración Pública a la que estará sectorizada, el cual deberá ser publicado en el Periódico Oficial del Estado de Hidalgo.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS DESCENTRALIZADOS
 
@@ -311,7 +403,9 @@ II.- Propiciar una economía participativa que ofrezca mayores oportunidades par
 
 III.- Proporcionar el mejoramiento dinámico de los sectores productivos, facilitando la incorporación de nuevas tecnologías, el acceso al financiamiento necesario para su expansión y el desarrollo de los recursos humanos;
 
-IV.- Gestionar previa autorización de la Secretaría de Finanzas y Administración, recursos económicos para el desarrollo de los programas institucionales y sectoriales de los Organismos Descentralizados; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+IV.- Gestionar recursos económicos para el desarrollo de los programas institucionales y sectoriales de los Organismos Descentralizados previa autorización conjunta de la Secretaría de Finanzas Públicas y de la Unidad de Planeación y Prospectiva;
 
 V.- Promocionar programas y proyectos con la finalidad de que la sociedad en general obtenga los beneficios que brindan los Organismos Descentralizados.
 
@@ -319,7 +413,9 @@ V.- Promocionar programas y proyectos con la finalidad de que la sociedad en gen
 
 El Órgano de Gobierno del Organismo Descentralizado estará integrado por no menos de cinco ni más de nueve miembros propietarios y de sus respectivos suplentes, en los casos de excepción podrán ser integrados por un mayor número de miembros.
 
-Dicho Órgano de Gobierno será presidido por el Titular de la Dependencia Coordinadora de Sector o, en sus ausencias por el miembro que dicho Titular designe para el efecto.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Dicho Órgano de Gobierno será presidido por el Titular de la Dependencia Coordinadora de Sector o, en sus ausencias, por el miembro que dicho Titular determine para tal efecto mediante documento oficial que así lo demuestre.
 
 El Titular del Ejecutivo, podrá presidir el Órgano de Gobierno, cuando así lo señale la Ley o Decreto de creación del Organismo Descentralizado.
 
@@ -329,7 +425,9 @@ El Órgano de Gobierno podrá estar integrado con representantes del gobierno mu
 
 En los Órganos de Gobierno, sus integrantes o quienes los suplan gozarán de voz y voto, pero un mismo integrante o el suplente de éste; no podrá sustituir, representar o realizar alguna función de otro integrante, dentro del Órgano de Gobierno.
 
-El secretario técnico sólo gozará de voz pero no de voto, el personal adscrito a los Organismos Descentralizados, no podrá ser parte integrante del Órgano de Gobierno.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+El secretario técnico, sólo gozará de voz, pero no de voto, y su participación se limitará a las funciones de su encargo, el personal adscrito a los Organismos Descentralizados, no podrá ser parte integrante del Órgano de Gobierno.
 
 ###### Artículo 24.
 
@@ -345,15 +443,29 @@ IV.- Las personas que hayan sido condenadas por delitos patrimoniales, las inhab
 
 V.- Los Diputados al Congreso del Estado conforme al artículo 35 de la Constitución Política del Estado de Hidalgo y los Diputados y Senadores al Congreso de la Unión en términos del artículo 62 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 25.
 
-El Órgano de Gobierno se reunirá con la periodicidad que señale el Estatuto Orgánico del Organismo Descentralizado, sin que pueda ser menor de cuatro veces al año. Para tal efecto, las sesiones ordinarias deberán efectuarse dentro de los cuarenta y cinco días siguientes al cierre de cada trimestre, en la cual se presentará como mínimo la información legal, reglamentaria, administrativa y programática presupuestal.
+El Órgano de Gobierno se reunirá con la periodicidad que señale el Estatuto Orgánico del Organismo Descentralizado, sin que pueda ser menor de cuatro veces al año. Para tal efecto, las sesiones ordinarias deberán efectuarse dentro de los cuarenta y cinco días naturales siguientes al cierre de cada trimestre, en la cual se presentará como mínimo la información legal, reglamentaria, administrativa y programática presupuestal.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+En caso de incumplimiento, los servidores públicos responsables serán sancionados con base a lo que establece la ley en materia de Responsabilidades para el Estado de Hidalgo.
 
 Dicho Órgano de Gobierno sesionará válidamente con la asistencia del presidente, o en su caso, del suplente y cómo mínimo la mitad más uno de sus miembros, y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal. Las resoluciones se tomarán por la mayoría de los miembros presentes, teniendo el presidente del Órgano de Gobierno voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 26.
 
-Los Organismos Descentralizados que no cumplan los objetivos señalados en el artículo 21 y con sus Estatutos Orgánicos, al ser evaluados por la Dependencia Coordinadora de Sector, podrán ser propuestos para su desincorporación.
+Los Organismos Descentralizados que no cumplan los objetivos señalados en el artículo 21 de esta Ley y con sus Estatutos Orgánicos, podrán ser propuestos para su desincorporación con base en el diagnostico situacional que emita la Unidad de Planeación y Prospectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 26 Bis.
+
+Los procesos de constitución y desincorporación se realizarán con base en el Reglamento de esta Ley y de acuerdo a la normatividad que para tal efecto se emita, coordinado por la Comisión Intersecretarial creada para tal efecto.
 
 ###### Artículo 27.
 
@@ -363,21 +475,27 @@ I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos pol
 
 II.- No tener alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones III, IV y V del Artículo 24 de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-Los Directores Generales realizarán las acciones correspondientes, para corregir las deficiencias que se determinen y presentarán al Órgano de Gobierno, informes periódicos sobre su corrección y sobre el programa de mejora continua de la gestión de los Organismos Descentralizados.
+Los Directores Generales realizarán las acciones correspondientes, para atender las observaciones y recomendaciones que se determinen y presentarán al Órgano de Gobierno, informes periódicos sobre su atención, corrección y sobre el Programa de Calidad Institucional y Mejora Continua de la Gestión de los Organismos Descentralizados.
 
 Los demás servidores públicos de los Organismos Descentralizados, responderán dentro de su ámbito de competencia, sobre el adecuado funcionamiento de los sistemas que controlan las operaciones a su cargo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Los Organismos Descentralizados deberán inscribirse en el Registro Público de Organismos Descentralizados, que al efecto establezca la Secretaría de Finanzas y Administración.
+Los Organismos Descentralizados deberán inscribir en el Registro Público de Organismos Descentralizados en un plazo no mayor de cuarenta y cinco días a la fecha de su constitución, modificaciones o reformas.
 
-Los Directores Generales o encargados del despacho de los Organismos Descentralizados, que no realicen la inscripción señalada dentro de los cuarenta y cinco días siguientes a la fecha de su constitución o de sus modificaciones o reformas serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-La Secretaría de Finanzas y Administración operará el Registro Público de Organismos Descentralizados, donde se deberán inscribir los actos y documentos de éstos.
+La Unidad de Planeación y Prospectiva operará el Registro Público de Organismos Descentralizados, donde los organismos depositarán información fiscal, administrativa, financiera presupuestal, jurídica y cualquier otra que fuera solicitada para su evaluación.
 
 El Reglamento de esta Ley determinará la organización y funcionamiento del Registro Público de Organismos Descentralizados, las formalidades de las inscripciones y sus anotaciones.
 
@@ -411,9 +529,11 @@ Las empresas en que participe de manera mayoritaria el Estado o una o más Entid
 
 La organización, administración y vigilancia de las Empresas de Participación Estatal Mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberá sujetarse a los términos que se consignan en este ordenamiento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración nombrará a los servidores públicos que deban ejercer las facultades derivadas de la titularidad de las acciones o partes sociales que integren el capital social de las Empresas de Participación Estatal Mayoritaria.
+El Ejecutivo Estatal, por conducto de la Secretaría Ejecutiva de la Política Pública Estatal, nombrará a los Servidores Públicos que deban ejercer las facultades derivadas de la titularidad de las acciones o partes sociales que integren el capital social de las Empresas de Participación Estatal Mayoritaria.
 
 Tales funcionarios deberán tener la experiencia necesaria para el adecuado cumplimiento de la función que se les encomienda y no tener por cuenta propia o ajena un interés contrario al de la Entidad Paraestatal, ni encontrarse en alguno de los impedimentos señalados en las fracciones III, IV y V del artículo 24 de esta Ley.
 
@@ -443,13 +563,17 @@ Los Directores Generales o sus equivalentes de las Empresas de Participación Es
 
 La disolución, liquidación, extinción, fusión, escisión, enajenación o transferencia a los municipios del Estado de las Empresas de Participación Estatal Mayoritaria, se efectuará conforme a las disposiciones o normas establecidas en la legislación aplicable o en los estatutos de la empresa.
 
-La Dependencia Coordinadora de Sector al que corresponda la empresa, en lo que no se oponga a su normatividad específica y de conformidad a las bases y lineamientos establecidos al respecto por la Secretaría de Finanzas y Administración, intervendrá a fin de señalar la manera y términos en que deba efectuarse la disolución, liquidación, extinción, fusión, escisión, enajenación o transferencia a los municipios del Estado, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos labores de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+La Unidad de Planeación y Prospectiva en conjunto con la Dependencia Coordinadora de Sector a la que corresponda la empresa propondrán a la Secretaría Ejecutiva de la Política Pública Estatal, de conformidad a las bases y lineamientos establecidos, la manera y términos en que deba efectuarse la disolución, liquidación, extinción, fusión, escisión, enajenación o transferencia a los municipios del Estado, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 Las Empresas de Participación Estatal Mayoritaria serán desincorporadas a través de los demás actos, por virtud de los cuales dichas Entidades dejen de encontrarse en los supuestos a que se refiere la Ley Orgánica de la Administración Pública para el Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 42.
 
-La enajenación de títulos representativos del capital social, propiedad del Estado o de las Entidades Paraestatales, se deberá realizar respetando el derecho de preferencia a favor de los demás accionistas, socios o empleados de las empresas de acuerdo con los términos que establezca la Ley o pactados en los estatutos sociales o, en su defecto, a través de las instituciones de crédito o financieras designadas para el efecto, de conformidad con las normas que emita la Secretaría de Finanzas y Administración.
+La enajenación de títulos representativos del capital social, propiedad del Estado o de las Entidades Paraestatales, se deberá realizar respetando el derecho de preferencia a favor de los demás accionistas, socios o empleados de las empresas de acuerdo con los términos que establezca la Ley o pactados en los estatutos sociales o, en su defecto, a través de las instituciones de crédito o financieras designadas para el efecto, de conformidad con las normas que emita la Secretaría de Finanzas Públicas.
 
 ###### Artículo 43.
 
@@ -461,13 +585,17 @@ No tienen el carácter de Empresas de Participación Estatal Mayoritaria, las so
 
 Los fideicomisos públicos que tienen el carácter de Entidades Paraestatales, son aquellos que el Estado, a través del Ejecutivo Estatal, o alguna de las demás Entidades Paraestatales constituyan mediante contratos, de conformidad con la Legislación Mercantil aplicable, y se organizarán de manera análoga a los Organismos Descentralizados o Empresas de Participación Estatal Mayoritaria regulados en esta Ley, con el propósito de auxiliar al propio titular del Poder Ejecutivo en la realización de las funciones que le correspondan.
 
-En los Fideicomisos Públicos constituidos o que se pretendan constituir por el Estado, la Secretaría de Finanzas y Administración fungirá como representante del fideicomitente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+En los Fideicomisos Públicos constituidos o que se pretendan constituir por el Estado, la Secretaría de Finanzas Públicas fungirá como representante del fideicomitente.
 
 Los Comités Técnicos y los Directores Generales de los Fideicomisos Públicos que sean Entidades Paraestatales, se ajustarán en cuanto a su Estructura Desarrollo y Operación a las disposiciones que en el Capítulo II de esta Ley se establecen para los Órganos de Gobierno y para los Directores Generales, en cuanto sea compatible a su naturaleza.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 45.
 
-El Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas Públicas, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije, en su caso, al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
 
 ###### Artículo 46.
 
@@ -505,17 +633,23 @@ El Ejecutivo Estatal podrá disponer que se constituyan fideicomisos cuya finali
 
 ### CAPÍTULO VI. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTATALES
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO VII. DE LA EVALUACIÓN Y CONTROL DE LAS ENTIDADES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 51.
 
-Las Entidades Paraestatales para su desarrollo y operación, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado y al Plan Estatal de Desarrollo, así como a las asignaciones de gasto autorizadas. Dentro de estas directrices, las entidades deberán formular su Programa Institucional de Desarrollo, los programas de acción que de éste deriven y el programa financiero correspondiente, cuando así proceda.
+Las Entidades Paraestatales para su desarrollo y operación, deberán sujetarse a la Ley de Planeación y Prospectiva del Estado de Hidalgo, al Plan Estatal de Desarrollo, así como a las asignaciones de gasto autorizadas. Dentro de estas directrices, las Entidades deberán formular su Programa Institucional de Desarrollo, los programas de acción que de éste deriven y el programa financiero correspondiente, cuando así proceda.
 
 ###### Artículo 52.
 
 El Programa Institucional hará referencia a los compromisos en términos de metas y resultados que deba alcanzar la Entidad Paraestatal. La programación institucional de la entidad, en consecuencia, deberá contener la fijación de objetivos y metas, los resultados económicos y financieros que sean procedentes, así como las bases para evaluar las acciones que lleve a cabo la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas, así como las previsiones respecto a las posibles modificaciones a sus estructuras.
 
-La formulación de los programas operativos anuales deberá sujetarse a la estructura programática - presupuestal aprobada por la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+La formulación de los programas presupuestarios deberá sujetarse a la estructura programática presupuestal aprobada por la Secretaría de Finanzas Públicas.
 
 ###### Artículo 53.
 
@@ -525,7 +659,9 @@ El Programa Institucional de las Entidades Paraestatales se elaborará en los t�
 
 Los presupuestos de las Entidades Paraestatales se formularán a partir de sus programas operativos anuales, los que deberán contener como elementos mínimos: función, subfunción, actividad institucional, proyecto, objetivos, metas, unidad de medida, previsiones de gasto, tiempos de ejecución, lugares geográficos de realización, unidades administrativas responsables ejecutoras, indicadores de gestión e impacto social.
 
-Las Entidades Paraestatales deberán sujetarse a los lineamientos que en materia de programación, presupuesto, gasto y financiamiento establezca la Secretaría de Finanzas y Administración y a las directrices y mecanismos que se fijen en el Plan Estatal de Desarrollo para la evaluación del cumplimiento de las políticas, programas, proyectos, acciones y obras realizadas y, en su caso, a los lineamientos específicos que defina la Dependencia Coordinadora de Sector conforme a la legislación en la materia.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Las Entidades Paraestatales deberán sujetarse a las directrices y mecanismos que se fijen en el Plan Estatal de Desarrollo para la evaluación del cumplimiento de las políticas, programas, proyectos, acciones y obras realizadas y, en su caso, a los lineamientos específicos conforme a la legislación en la materia.
 
 En el caso de compromisos derivados de compra o de suministro que excedan el periodo anual del presupuesto, éste deberá contener la referencia precisa de estos compromisos con el objeto de contar con la perspectiva de la erogación de recursos a plazos mayores de un año.
 
@@ -533,9 +669,13 @@ En el caso de compromisos derivados de compra o de suministro que excedan el per
 
 La Entidad Paraestatal manejará y erogará los recursos económicos propios previa autorización de su Órgano de Gobierno.
 
-Por lo que toca a la percepción de subsidios y transferencias, la Entidad Paraestatal los recibirá de la Secretaría de Finanzas y Administración en los términos que se fije en el Presupuesto de Egresos del Estado, para el año correspondiente, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-Respecto a la percepción de subsidios y transferencias la Entidad Paraestatal los recibirá de la Secretaría de Finanzas y Administración en los términos que se convengan con la Federación.
+Por lo que toca a la percepción de subsidios y transferencias, la Entidad Paraestatal los recibirá de la Secretaría de Finanzas Públicas, en los términos que se fije en el Presupuesto de Egresos del Estado para el año correspondiente, debiendo administrarlos por sus propias unidades administrativas facultadas para ello y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Respecto a la percepción de subsidios y transferencias, la Entidad Paraestatal los recibirá de la Secretaría de Finanzas Públicas, en los términos que se convengan con la Federación.
 
 ###### Artículo 56.
 
@@ -543,45 +683,71 @@ Las Entidades Paraestatales en lo tocante al ejercicio de sus presupuestos, conc
 
 ### CAPÍTULO VIII. DE LAS SUPLENCIAS DEL DIRECTOR
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 57.
 
-Los Órganos de Gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las actividades básicas se realicen. A su vez, deberán atender los informes que en materia de auditoría, control y evaluación les sean turnados y vigilarán la aplicación de las medidas correctivas a que hubiere lugar.
+El Órgano de Gobierno aprobará las formas en que los objetivos sean alcanzados y la manera en que las actividades básicas se realicen. A su vez, verificará que las Entidades Paraestatales atiendan los informes que en materia de auditoría, control y vigilancia le sean turnados y vigilarán la aplicación de las medidas correctivas a que hubiere lugar y que implementen las Entidades Paraestatales.
 
 Las acciones de los órganos de control tendrán por objeto apoyar la función directiva y promover el mejoramiento de la gestión de las Entidades Paraestatales.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-Los órganos internos de control de las Entidades Paraestatales deberán planear, organizar, implementar y coordinar el Sistema Integral de Control y Evaluación de la Gestión Pública de la Entidad, con objeto de que oportuna, permanente y sistemáticamente se contemplen los aspectos más representativos y relevantes de la forma en que las áreas correspondientes apliquen la normatividad, administren los recursos y den cumplimiento a los planes, programas y presupuestos institucionales.
+El Órgano Interno de Control de las Entidades Paraestatales deberá supervisar y evaluar el Sistema Integral de Control y Evaluación de la Gestión Pública de la Entidad, con objeto de que oportuna, permanente y sistemáticamente se contemplen los aspectos más representativos y relevantes de la forma en que las áreas correspondientes apliquen la normatividad, administren los recursos y den cumplimiento a los planes, programas y presupuestos institucionales.
 
-Asimismo, deberán examinar, revisar y auditar el ámbito total de la operación de las Entidades Paraestatales, las diversas áreas, programas y recursos que la integran, verificando sistemática y permanentemente el cumplimiento de las disposiciones legales, reglamentarías y administrativas; la política sectorial e institucional por parte de las áreas responsables y de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, obra pública, adquisiciones y patrimonio.
+Asimismo, deberá vigilar que las Dependencias y Entidades atiendan las acciones y recomendaciones que resulten de las revisiones del Sistema Estatal de Monitoreo y evaluación para el cumplimiento de los objetivos.
 
-De igual forma, deberán recibir, tramitar y resolver, las quejas y denuncias presentadas en contra de los servidores públicos, adscritos a la entidad paraestatal, o que provengan de auditorías o revisiones practicadas a ésta, por el incumplimiento de las disposiciones legales, reglamentarias, administrativas, acuerdos, contratos, convenios que con motivo del desempeño de su empleo, cargo o comisión, están obligadas los sujetos de responsabilidad administrativa, a observar; e imponer las sanciones que correspondan, según la naturaleza de la infracción en la que se incurra, de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo, los lineamientos que emita la Secretaría de Contraloría y Transparencia Gubernamental y demás disposiciones relativas y aplicables.
+De igual forma, deberá recibir, tramitar y resolver, las quejas y denuncias presentadas en contra de los servidores públicos, adscritos a la Entidad Paraestatal, o que provengan de auditorías o revisiones practicadas a ésta, por el incumplimiento de las disposiciones legales, reglamentarias, administrativas, acuerdos, contratos, convenios que con motivo del desempeño de su empleo, cargo o comisión, estén obligados los sujetos de responsabilidad administrativa, a observar; e imponer las sanciones que correspondan, según la naturaleza de la infracción en la que se incurra, de conformidad con lo dispuesto en la Ley en materia de responsabilidades administrativas para el Estado, los lineamientos que emita la Secretaría de Contraloría y demás disposiciones relativas y aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 59.
 
-El órgano de control interno formará parte de la estructura de la Entidad Paraestatal, y sus titulares serán nombrados y removidos por la Secretaría de Contraloría y Transparencia Gubernamental. Estos órganos estarán adscritos jerárquica, técnica y funcionalmente a dicha Dependencia, y tendrán a su cargo las funciones relativas al control y vigilancia de la gestión pública de la Entidad Paraestatal, conforme a lo dispuesto por los reglamentos aplicables y los lineamientos que emita la propia Secretaría.
+El Órgano de Control Interno formará parte de la estructura de la Entidad Paraestatal y tendrá las funciones relativas al control y vigilancia de la gestión pública de la Entidad Paraestatal, conforme a lo dispuesto por las leyes y los reglamentos aplicables, así como los lineamientos que al efecto emita la Secretaría de Contraloría. El Titular del Órgano de Control Interno estará adscrito jerárquica, técnica, funcional y presupuestalmente de la Secretaría de Contraloría, la cual lo nombrará y podrá remover de acuerdo a su normatividad.
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Contraloría y Transparencia Gubernamental, podrá acordar que se establezcan órganos de control interno en aquellas Entidades Paraestatales, cuando por las funciones que realicen o por el volumen de las operaciones, se justifique.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 59 Bis.
+
+El Órgano de vigilancia de las Entidades Paraestatales ante los órganos de gobierno, estará integrado por un Comisario Público propietario, designado por la Secretaría de Contraloría, quien evaluará el desempeño general y por funciones de las Entidades Paraestatales, en el ámbito de sus órganos de gobierno, con base en lo establecido en el reglamento de esta Ley y en su reglamento interno. La Secretaría de Contraloría designará a un Comisario Público suplente por cada Comisario Propietario para que, en ausencia de éste, ejerza en su lugar todas las funciones plenas que le competen.
+
+El Comisario Público vigilará la legalidad de la integración y funcionamiento de los Órganos de Gobierno y en caso de que los integrantes de dichos Órganos incumplan en el funcionamiento de los mismos y con motivo de su propia representación con las disposiciones legales, reglamentarias y administrativas aplicables, dará vista a las autoridades correspondientes en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 60.
 
-Las Empresas de Participación Estatal Mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que designe la Secretaría de Contraloría y Transparencia Gubernamental en los términos de los preceptos legales anteriores.
+Las Empresas de Participación Estatal Mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos internos de control y contarán con los Comisarios Públicos que designe la Secretaría de Contraloría, en términos de los preceptos legales anteriores, quienes dependerán jerárquica, técnica, funcional y presupuestalmente de la Secretaria de Contraloría.
 
 Los fideicomisos públicos a que se refiere el artículo 44 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 61.
 
-La Secretaría de Contraloría y Transparencia Gubernamental podrá realizar visitas y auditorías a las Entidades Paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los Órganos de Administración, y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Secretaría de Contraloría podrá realizar visitas y auditorías a las Entidades Paraestatales, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los Órganos de Administración, y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
 Para los efectos de responsabilidad, se considerarán como servidores públicos a los particulares o representantes de los sectores social y privado que sean miembros de los Órganos de Gobierno y de los Comités Especializados de las Entidades Paraestatales.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 62.
 
-En aquellas empresas en las que participe el Estado con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado, a través del comisario que se designe por la Secretaría de Contraloría y Transparencia Gubernamental y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
+En aquellas empresas en las que participe el Estado con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del Comisario que se designe por la Secretaría de Contraloría y el ejercicio de los derechos respectivos se hará por conducto de la Dependencia correspondiente, en los términos del artículo 33 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 62 Bis.
+
+La Unidad de Planeación y Prospectiva podrá realizar visitas a las Entidades Paraestatales, así como solicitar la entrega de información de naturaleza fiscal, administrativa, financiera, presupuestal, jurídica y cualquier otra que fuera solicitada para su evaluación. La Secretaria de Finanzas Publicas podrá solicitar a la Unidad de Planeación y Prospectiva la información necesaria para la adecuada supervisión de los procesos administrativos, de control y del gasto, para que de esa manera sean eficientes los procesos de ejecución del gasto.
 
 ###### Artículo 63.
 
-Cuando la ausencia del Director General no exceda de 30 días hábiles, el despacho y la resolución de los asuntos de la Entidad Paraestatal estarán a cargo del Servidor Púbico que designe la Dependencia Coordinadora de Sector.
+Cuando la ausencia del Director General no exceda de 30 días, el despacho y la resolución de los asuntos de las Entidades Paraestatales estarán a cargo del Servidor Público que designe la persona titular de la Dependencia Coordinadora de Sector, mediante documento oficial.
 
 ###### Artículo 64.
 
@@ -630,3 +796,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 227 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, las Entidades Paraestatales del Estado de Hidalgo contarán con un plazo de 90 días para realizar todos los actos necesarios, con la finalidad de ajustarse a los términos que establece esta Ley.
+
+TERCERO. El Ejecutivo Estatal reformará el Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo, dentro de un plazo de 30 días siguientes a su entrada en vigor.
