@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2017-03-14"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -1752,7 +1752,7 @@ II. Los proyectos que recibe el Senado en su condición de Cámara revisora por 
 
 III. Las iniciativas del Presidente de la República para obtener permiso a fin de ausentarse del territorio nacional por más de siete días; y
 
-IV. Las solicitudes de autorización para prestar servicios oficiales a gobiernos de otros países, aceptar o usar condecoraciones extranjeras o admitir títulos o funciones del gobierno de otro país.
+IV. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
 2. Cuando se presenta al Senado alguna iniciativa que conforme al artículo 72 de la Constitución debe discutirse primero en la Cámara de Diputados, el Presidente la remite a la colegisladora y da cuenta de ello al Pleno y a su autor.
 
@@ -1782,13 +1782,7 @@ Artículo 166
 
 2. Tienen también el carácter de proyecto de ley o decreto las propuestas que presenta la Comisión de Reglamentos y Prácticas Parlamentarias, en términos del artículo 102 de la Ley.
 
-Artículo 167
-
-1. Las solicitudes se refieren a las autorizaciones requeridas por los ciudadanos mexicanos conforme al artículo 37, Apartado C, fracciones II, III y IV, de la Constitución, para prestar servicios oficiales a gobiernos de otros países, aceptar o usar condecoraciones extranjeras o admitir títulos o funciones del gobierno de otro país.
-
-2. Las solicitudes a que se refiere el párrafo anterior deben contener, al menos, los datos curriculares y el domicilio del promovente, así como anexar los documentos que acreditan la ciudadanía mexicana y la información relativa a la causa que motiva la petición.
-
-3. El trámite de dichas solicitudes en el Senado está, en lo conducente, a lo dispuesto en el presente Reglamento.
+Artículo 167 (DEROGADO, D.O.F. 9 DE OCTUBRE DE 2017)
 
 Artículo 168
 
@@ -2424,11 +2418,9 @@ IV. Conocer y analizar los informes que en términos de ley deben presentar los 
 
 V. Desahogar las comparecencias que correspondan.
 
-2. Conforme a los artículos 37 y 88 de la Constitución, en lo que concierne al Senado se ejercen con procedimientos especiales las facultades compartidas con la Cámara de Diputados relativas a:
+> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2017)</small>
 
-I. Solicitudes de permisos del Titular del Ejecutivo Federal para ausentarse del territorio nacional por más de siete días; y
-
-II. Peticiones de particulares para prestar servicios oficiales a un gobierno extranjero, aceptar o usar condecoraciones extranjeras, y admitir del gobierno de otro país títulos o funciones.
+2. Conforme al artículo 88 de la Constitución, en lo que concierne al Senado se ejerce como procedimiento especial la facultad relativa a las solicitudes de permisos del Titular del Ejecutivo Federal para ausentarse del territorio nacional por más de siete días.
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES EXCLUSIVAS DEL SENADO
 
@@ -3301,3 +3293,11 @@ D.O.F. 14 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 282 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO APROBADO POR LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN, POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
