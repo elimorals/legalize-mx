@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-instituto-de-defensoria-publica-del-estado-103
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY ORGANICA DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE HIDALGO
 
-LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO.
+LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -114,6 +114,14 @@ El Instituto dará preferencia a la mediación o conciliación, en los casos pre
 ###### Artículo 8.
 
 Tratándose de indígenas asistidos por el Instituto que no hablen español, se les designará un intérprete y un defensor que tengan conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Cuando sea una persona de sexo femenino quien solicite los servicios del Instituto, la asesoría o defensa de que se trate, deberá ser otorgada preferentemente por profesionistas de su mismo sexo, quienes deberán estar capacitadas y certificadas en materia de igualdad de género.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+Las y los servidores públicos que laboren en el Instituto, deberán estar certificados con el propósito de que adopten estrategias jurídicas adecuadas para evitar el impacto de la discriminación entre hombres y mujeres en el caso específico del que se trate.
 
 ###### Artículo 9.
 
@@ -684,3 +692,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 224 QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
