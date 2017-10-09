@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-universidad-tecnologica-del-norte-745
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-19"
-last_updated: "2010-04-19"
+last_updated: "2017-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de abril de 2010.
 
@@ -51,7 +53,7 @@ Para los efectos del presente Reglamento se entiende por:
 
 I. Universidad.- La Universidad Tecnológica del Norte de Aguascalientes;
 
-II. Consejo Directivo,- Al Consejo Directivo de la Universidad;
+II. Consejo Directivo.- Al Consejo Directivo de la Universidad;
 
 III. Ley.- A la Ley de la Universidad Tecnológica del Norte de Aguascalientes;
 
@@ -173,7 +175,7 @@ IX Expedir el Reglamento Interior de la Universidad Tecnológica del Norte de Ag
 
 X. Expedir los demás reglamentos, estatutos, acuerdos y disposiciones internas que normen el desarrollo de la Institución, tomando en cuenta la opinión de la Coordinación General de Universidades Tecnológicas;
 
-XI. Conocer, discutir y aprobar los proyectos académicos que se le presenten y los que .surjan en su propio seno;
+XI. Conocer, discutir y aprobar los proyectos académicos que se le presenten y los que surjan en su propio seno;
 
 XII. Conocer, discutir y aprobar los temas particulares o regionales que a su juicio deban ser incorporados a los planes y programas de estudios y proponer su incorporación a la autoridad educativa;
 
@@ -506,3 +508,13 @@ ENCARGADA DE DESPACHO DE LA RECTORÍA:
 Lic. Ana María Morales Alcázar,
 
 ENCARGADA DE DESPACHO DE LA RECTORÍA DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogará el Reglamento interior de la Universidad Tecnológica del Norte de Aguascalientes expedido por su Consejo Directivo de fecha siete de abril de dos mil diez, y publicado en el Periódico Oficial del Estado de Aguascalientes en fecha diecinueve de abril de dos mil diez.
