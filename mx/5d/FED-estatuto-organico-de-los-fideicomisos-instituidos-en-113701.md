@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-los-fideicomisos-instituidos-en-113701"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-30"
-last_updated: "2016-06-14"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2026-10-05"
 
 ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2017.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 30 de marzo de 2016.
 
@@ -772,7 +772,7 @@ II. Administrar los portafolios de proyectos y de servicios de TIC de FIRA, a fi
 
 III. Administrar el ejercicio del presupuesto destinado a las TIC para maximizar su aplicación en las adquisiciones y servicios de TIC requeridos por FIRA.
 
-IV. Determinar los requerimientos de TIC que deben cumplir los IFNB con el objetivo de evaluar su nivel de riesgo operativo en materia de TIC. Así como autorizar los dictámenes del nivel de cumplimiento de los requerimientos de TIC por parte de los intermediarios financieros.
+IV. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
 V. Coordinar la aplicación de las acciones, normas, políticas, programas, procedimientos y sistemas en materia de TIC.
 
@@ -836,7 +836,7 @@ II. Ejecutar las gestiones para cumplir el programa de contratación de los bien
 
 III. Suministrar la infraestructura tecnológica y de telecomunicaciones, y atender los requerimientos, incidentes y problemas que se presenten en ella, para mantener la disponibilidad de los servicios de TIC.
 
-IV. Inspeccionar los sistemas informáticos de los IFNB y dictaminar su nivel de cumplimiento de los requerimientos de FIRA.
+IV. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
 V. Supervisar la aplicación de las acciones, normas, políticas, procedimientos y sistemas en la administración y mantenimiento de la infraestructura informática y de telecomunicaciones de FIRA.
 
@@ -922,7 +922,7 @@ II. Coordinar el diseño e implementación de normas, políticas y estrategias p
 
 III. Coordinar las acciones para proponer cambios a las facultades de autorización de los productos y servicios de FIRA, y analizar y autorizar los productos y servicios en materia de crédito, servicio de garantías y apoyos de FIRA.
 
-IV. Coordinar el diseño de lineamientos y estrategias para la habilitación de prestadores de servicios especializados.
+IV. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 64.
 
@@ -990,7 +990,7 @@ IV. Coordinar, administrar y participar en las labores para el funcionamiento y 
 
 V. Coordinar el diseño de productos, esquemas y programas que mejoren la gestión de riesgo de crédito o en su caso, proponer adecuaciones a los mismos.
 
-VI. Establecer el diseño de lineamientos y estrategias para la habilitación de prestadores de servicios especializados.
+VI. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 70.
 
@@ -1034,7 +1034,7 @@ I. Realizar el seguimiento y análisis de los productos y servicios de FIRA, par
 
 II. Analizar y dar seguimiento al desempeño de acreditados y grupos de riesgo que representen mayores saldos de crédito para identificar tendencias, desviaciones y en su caso implementar medidas que mejoren la gestión de riesgo de crédito
 
-III. Realizar las acciones para fortalecer estructuras externas que contribuyan a la administración de riesgos de los productos de FIRA.
+III. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
 ###### Artículo 74.
 
@@ -1108,7 +1108,9 @@ I. Diseñar y ejecutar las políticas, procedimientos y metodologías para reali
 
 II. Evaluar los resultados de las metodologías de supervisión para proponer los ajustes necesarios, así como analizar y comunicar los resultados de la supervisión a los intermediarios financieros, Almacenes Generales de Depósito y otros prestadores de servicios.
 
-III. Supervisar a los intermediarios financieros, Almacenes Generales de Depósito y otros prestadores de servicio; así como certificar a los Almacenes Generales de Depósito, autorizar y dar seguimiento a los planes de autocorrección.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2017)</small>
+
+III. Supervisar los procesos de crédito a los intermediarios financieros incluyendo sus tecnologías informáticas de soporte, Almacenes Generales de Depósito y otros prestadores de servicio; así como certificar a los Almacenes Generales de Depósito, autorizar y dar seguimiento a los planes de autocorrección.
 
 IV. Elaborar en coordinación con los intermediarios financieros, Almacenes Generales de Depósito y otros prestadores de servicios los planes de ajuste y mejora determinados a partir de la supervisión integral; así como dar seguimiento a los mismos.
 
@@ -1350,7 +1352,9 @@ II. Proponer y dirigir las estrategias y acciones para la identificación, dise�
 
 III. Dirigir y determinar las estrategias, normas y programas de capacitación para el desarrollo y fortalecimiento de los productores, intermediarios financieros y empresas de los sectores objetivos de FIRA, así como para incorporar nuevos intermediarios financieros, con el propósito de ampliar la inclusión financiera en el medio rural e identificar, desarrollar y fortalecer la relación de negocios con empresas tractoras.
 
-IV. Definir las estrategias y programas para la formación, capacitación, actualización, registro, fortalecimiento y certificación de los prestadores de servicios especializados en asistencia técnica y transferencia de tecnología, así como la calificación de los Almacenes Generales de Depósito como prestadores de servicios.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2017)</small>
+
+IV. Definir las estrategias y programas para la formación, capacitación, actualización, registro, habilitación, fortalecimiento y certificación de los prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, así como la calificación de los Almacenes Generales de Depósito como prestadores de servicios.
 
 V. Proponer las estrategias y determinar las acciones en coordinación con las unidades administrativas correspondientes, para la celebración de convenios y alianzas estratégicas con entidades y dependencias del Gobierno Federal, así como con instituciones públicas y privadas para atender áreas prioritarias, aumentar los montos de financiamiento, la productividad, rentabilidad y competitividad del medio rural.
 
@@ -1430,7 +1434,9 @@ IV. Coordinar las acciones para desarrollar e instrumentar modelos organizativos
 
 V. Coordinar el diseño e implementación de mecanismos de seguimiento y mejora de los programas, productos y servicios; así como coordinar con las unidades administrativas correspondientes el seguimiento de los apoyos, créditos y servicio de garantías operados por los beneficiarios y acreditados de FIRA.
 
-VI. Coordinar el registro y habilitación de prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, la ejecución de los programas de formación y fortalecimiento para ellos, así como documentar, difundir y replicar los conocimientos y experiencias obtenidas.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2017)</small>
+
+VI. Coordinar la actualización, registro, certificación y habilitación de prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, la ejecución de los programas de formación y fortalecimiento para ellos, así como documentar, difundir y replicar los conocimientos y experiencias obtenidas.
 
 VII. Coordinar la integración y seguimiento del Plan Anual de Negocios en conjunto con las unidades administrativas correspondientes, así como proponer las medidas necesarias para asegurar su cumplimiento.
 
@@ -1464,7 +1470,9 @@ I. Coadyuvar en el diseño, así como instrumentar programas, productos y servic
 
 II. Elaborar, actualizar e implementar las normas, políticas y reglas para la operación de los apoyos de FIRA, así como gestionar, ejecutar y dar seguimiento a los convenios de colaboración que impliquen la asignación de recursos.
 
-III. Elaborar e instrumentar la habilitación de prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, los programas para su formación y fortalecimiento, así como las actividades para su registro.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2017)</small>
+
+III. Elaborar e instrumentar la habilitación y certificación de prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, los programas para su formación y fortalecimiento, así como las actividades para su registro.
 
 IV. Documentar, difundir y replicar, en coordinación con otras unidades administrativas, el conocimiento y experiencia sobre tecnologías, mecanismos de integración, modelos organizativos y desarrollo de proyectos exitosos.
 
@@ -1837,3 +1845,9 @@ D.O.F. 14 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA".]
 
 ÚNICO.- El presente Estatuto entrará en vigor a partir de la fecha de su publicación.
+
+D.O.F. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA".]
+
+ÚNICO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
