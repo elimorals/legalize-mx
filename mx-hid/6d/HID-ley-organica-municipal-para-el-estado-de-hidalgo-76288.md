@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2017-07-10"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -711,13 +713,17 @@ z).- Asumir las facultades y obligaciones derivadas de la Ley de Deuda Pública,
 
 aa).- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres y el logro de la igualdad sustantiva entre mujeres y hombres;
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales; y
+bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales;
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Pública, conforme a la Ley en la materia.
+cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Pública, conforme a la Ley en la materia; y
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+dd) Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia.
 
 II.- Asimismo, podrán:
 
@@ -1185,6 +1191,10 @@ VII.- Vigilar que el Presidente Municipal cumpla con los acuerdos y resoluciones
 
 VIII.- Recibir y analizar el Informe Anual que rinda el Presidente Municipal o el Presidente del Concejo Municipal y emitir su voto respecto de su aprobación;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+VIII Bis.- Cumplido lo señalado en la fracción anterior, se tendrán hasta 30 días hábiles para presentar el Informe Anual de Actividades por cada regidor que integre el Ayuntamiento.
+
 IX.- Cumplir con las funciones inherentes a sus comisiones e informar al Ayuntamiento de sus resultados;
 
 X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuestas de la comunidad;
@@ -1277,13 +1287,17 @@ n).- De Desarrollo Económico;
 
 ñ).- De Atención a Pueblos y Comunidades Indígenas;
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-o).- De Desarrollo Agropecuario; y
+o).- De Desarrollo Agropecuario;
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-p).- De Transparencia y Acceso a la Información Pública.
+p).- De Transparencia y Acceso a la Información Pública; y
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+q).- De Mejora Regulatoria.
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -2111,6 +2125,24 @@ El Titular de Obras Públicas deberá contar con título profesional y con exper
 
 Los Ayuntamientos por conducto de su Presidente Municipal o de las Dependencias Municipales de obras públicas o de planeación y urbanismo, ejercerán las funciones relativas a la planeación y urbanización de los centros y zonas destinados a los asentamientos humanos de su jurisdicción, con las atribuciones que les asignen las Leyes Federales y Estatales en la materia y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 118 BIS.- La persona titular que ocupe la Dirección de Ecología y Medio Ambiente, desempeñará las facultades y obligaciones previstas en la legislación federal y estatal, así como las específicas en materia ecológica ambiental cuando a Ayuntamientos se refiera, contando con el personal que de acuerdo a la disposición presupuestaria se disponga.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 118 TER.- Requisitos para ser Titular de la Dirección de Ecología y Medio Ambiente:
+
+a) No haber sido condenado por delitos dolosos o faltas administrativas graves;
+
+b) No ser ministro de culto religioso; y
+
+c) Acreditar conocimientos en materia ambiental ecológica.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 118 QUATER.- Las facultades de la Dirección de Ecología y Medio Ambiente, serán las que establezca el reglamento correspondiente.
+
 ###### ARTÍCULO 119.
 
 El Titular de Servicios Municipales es el funcionario responsable, en lo general, de limpias, alumbrado público, mercados, comercio y abasto, panteones, rastro, parques y jardines, control canino, y en lo particular tendrá las siguientes facultades:
@@ -2177,11 +2209,9 @@ V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen 
 
 VI.- Regular el comercio establecido, así como la autorización de espectáculos públicos en el Municipio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2016)</small>
-
-ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, el área de Obras Públicas, el área de Planeación Municipal o su equivalente y la Instancia Municipal para el Desarrollo de las Mujeres, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
+ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente y la Instancia Municipal para el Desarrollo de las Mujeres, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
 
 ### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
 
@@ -2579,6 +2609,8 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 ### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
@@ -2719,17 +2751,23 @@ III.- Se haya prestado ésta en forma eficiente; y
 
 IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestación del servicio, por el tiempo que se haya concedido la prórroga.
 
-## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 160.
 
-La justicia administrativa es una instancia que tiene por objeto mantener la tranquilidad, la seguridad y el orden públicos, así como procurar el cumplimiento de los ordenamientos legales, administrativos y reglamentarios del Municipio y se impartirá por un Conciliador Municipal.
+La justicia cotidiana tiene por objeto privilegiar la solución de los conflictos sobre los formalismos procedimentales, siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos, además de que busca mantener la tranquilidad, la seguridad y el orden público, así como procurar el cumplimiento de los ordenamientos legales, administrativos y reglamentarios del Municipio, la cual se impartirá por un Conciliador Municipal.
 
-En sus procedimientos, el Conciliador Municipal deberá observar la Ley Estatal del Procedimiento Administrativo para el Estado.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-El Presidente designará y removerá de su cargo al Conciliador Municipal.
+En sus procedimientos, el Conciliador Municipal deberá observar la legislación en la materia.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+El Presidente designará y removerá de su cargo al Conciliador Municipal, quien preferentemente deberá estar certificado o certificada por el Consejo de la Judicatura del Poder Judicial.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3213,10 +3251,20 @@ P.O. 26 DE JUNIO DE 2017.
 
 P.O. 10 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 203.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO"].
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 203.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”].
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado de Hidalgo.
 
 SEGUNDO. Los 84 Ayuntamientos en un tiempo no mayor a sesenta días a partir de la fecha de la entrada en vigor del presente Decreto, deberán adecuar su normatividad interna y cumplir lo señalado en el inciso a Bis) de la fracción II del artículo 60 de esta Ley.
 
 TERCERO. Cuando se refiera a Órgano Interno de Control, se refiere al actual Contralor Municipal, con las facultades y obligaciones que la legislación le confiere.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 222 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los 84 Ayuntamientos de la Entidad, preverán en el Presupuesto de Egresos 2018, la partida presupuestal que contemple la operación de la Dirección de Ecología y Medio Ambiente.
+
+TERCERO. A partir de la entrada en vigor, en un plazo de hasta noventa días hábiles los 84 Ayuntamientos de la Entidad, realizarán la reglamentación correspondiente al artículo 118 BIS y 118 QUATER, en función de la autonomía municipal y la condición propia de cada municipio.
