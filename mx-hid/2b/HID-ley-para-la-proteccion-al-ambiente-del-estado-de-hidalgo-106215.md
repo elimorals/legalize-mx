@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2015-02-16"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -289,9 +289,11 @@ La Secretaría contará con una Procuraduría Estatal de Protección al Ambiente
 
 La Secretaría podrá cambiar, revisar, confirmar, modificar o nulificar, las decisiones y resoluciones dictadas por sus órganos desconcentrados y unidades administrativas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 6.
 
-Corresponden al Ejecutivo del Estado a través de la Secretaría, las atribuciones que a continuación se establecen:
+Corresponde al Ejecutivo del Estado a través de la Secretaría, las atribuciones que a continuación se establecen:
 
 I. Formular, conducir y evaluar la política ambiental de la Entidad, considerando en cada etapa a la contabilidad ambiental;
 
@@ -317,9 +319,15 @@ XI. Regular y controlar las actividades riesgosas para el ambiente, en los térm
 
 XII. Establecer de requisitos y procedimientos para la prevención y control de la contaminación ambiental en aire, agua y suelo, generada en la Entidad por diversas actividades en el ámbito de su competencia, tanto del sector público, como del privado; así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos; y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar y vigilar los centros de verificación vehicular en la Entidad;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XII BIS. Participar en la organización y elaboración de estudios sobre la salud ambiental en el Estado, en coordinación con las instituciones académicas correspondientes, difundiendo sus resultados, acorde con las capacidades presupuestales;
+
 XIII. Expedir la licencia ambiental estatal para fuentes fijas de emisiones y descargas de contaminantes de jurisdicción estatal, así como las autorizaciones en esta materia a que se refiere la presente Ley;
 
-XIV. Integrar y actualizar el Registro de Emisiones y Transferencia de Contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la Secretaria, con los datos e información contenida en las autorizaciones, cédulas, informes, reportes, licencias, permisos, y concesiones en materia ambiental que se tramiten ante la Secretaría y en su caso de los municipios;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+XIV. Integrar, actualizar y, preferentemente hacer público el Registro de Emisiones y Transferencia de Contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la Secretaria, con los datos e información contenida en las autorizaciones, cédulas, informes, reportes, licencias, permisos, y concesiones en materia ambiental que se tramiten ante la Secretaría y en su caso de los municipios;
 
 XV. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, incluyendo la selección, determinación y autorización de los sitios destinados a la disposición final de éstos, con la participación de los Ayuntamientos, de conformidad con lo establecido en la presente Ley, la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo y su respectivo Reglamento, las normas técnicas ecológicas estatales y demás disposiciones aplicables;
 
@@ -2353,7 +2361,9 @@ Para la integración del registro, la Secretaría y los Ayuntamientos podrán co
 
 La información relativa al Registro de Emisiones y Transferencia de Contaminantes que integre la Secretaría, se compartirá por medio de un reporte bimestral a la Procuraduría.
 
-También podrá ser difundida a través de los medios de comunicación que la autoridad estime conveniente y será únicamente para efectos de información y consulta de la sociedad en general.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+También será difundida a través de los medios de comunicación que la autoridad estime conveniente y será únicamente para efectos de información y consulta de la sociedad en general.
 
 ### CAPÍTULO X. DE LOS PASIVOS AMBIENTALES
 
@@ -3250,3 +3260,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS CATORCE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 223 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO."]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
