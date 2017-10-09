@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-autonoma-del-estado-de-112072"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2017-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -39,7 +39,9 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 DECRETA:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -531,15 +533,61 @@ I. Administrar el patrimonio universitario y sus recursos ordinarios, así como 
 
 II. Formular el presupuesto anual de ingresos y egresos de la Universidad, así como las modificaciones que hubieran que realizarse, tomando como base los planteamientos de la Comisión de Presupuesto del Honorable Consejo Universitario, del Rector y de los directores de escuelas, escuelas superiores e institutos de la Universidad. El presupuesto deberá ser aprobado por el Honorable Consejo Universitario;
 
-III. Designar al Coordinador de Administración y Finanzas y al Contralor General de la Universidad, así como al personal a su cargo;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+III. Designar al Coordinador de Administración y Finanzas;
 
 IV. Designar al despacho de auditoría externa que verifique el proceso de aplicación de los recursos financieros de la Universidad; y
 
 V. Las demás que se estipulen en las normas y disposiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 50.
 
-La Contraloría General es el órgano oficial de fiscalización interna de la institución que tiene como objetivo diseñar, preparar y procesar la información que permita vigilar, evaluar y confirmar el cumplimiento de las funciones sustantivas y adjetivas de la Universidad. Sus atribuciones específicas quedarán establecidas en el Estatuto General.
+El Órgano Interno de Control es el órgano oficial de fiscalización interna de la institución que tiene como objeto diseñar, preparar y procesar la información que permita vigilar, evaluar y confirmar el cumplimiento de las funciones sustantivas y adjetivas de la Universidad. Sus atribuciones específicas quedarán establecidas en el Estatuto General.
+
+Además, tendrá a su cargo prevenir, investigar, substanciar, calificar y corregir actos u omisiones que pudieran constituir responsabilidades administrativas de los servidores públicos de la Universidad, para sancionar a aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito, ante la Fiscalía Especializada en Delitos de Corrupción.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 50 Bis.
+
+El Titular del Órgano Interno de Control de la Universidad, será designado por el Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 50 Ter.
+
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Ser mayor de treinta años en el momento de la designación;
+
+III. Poseer grado académico no inferior a nivel maestría o certificación profesional en un ramo afín, debidamente legalizado;
+
+IV. Haberse destacado en actividades propias de la función de su responsabilidad; y
+
+V. Ser de reconocida honorabilidad.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 50 Quater.
+
+La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un solo periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo.
+
+Tendrá un nivel jerárquico igual a la categoría 6/B de su tabulador de mandos medios y superiores o su equivalente en la estructura orgánica de la Universidad.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con Unidades de Investigación, Substanciación y Resolución, de igual forma contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 50 Quinquies.
+
+El titular del Órgano Interno de Control mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado, para el cumplimiento de su objeto.
+
+Presentará un informe semestral y anual de actividades a la Junta de Gobierno de la Universidad, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, para los efectos correspondientes.
 
 ### CAPÍTULO VII. DEL DEFENSOR UNIVERSITARIO
 
@@ -654,3 +702,25 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTITRÉS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 228 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS HUMANOS, DEL CÓDIGO ELECTORAL, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, TODAS DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto.
+
+Los actuales titulares o responsables de las Contralorías o de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto podrán participar en el proceso de designación, siempre y cuando cumplan con los requisitos de elegibilidad previstos en este Decreto.
+
+TERCERO. Cada Organismo Autónomo que se mencionan (sic) en el presente Decreto, tendrán un plazo de hasta 90 días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+CUARTO. Cada Organismo Autónomo que se mencionan (sic) en el presente Decreto, a partir del ejercicio fiscal del 2018, destinará en su Presupuesto de Egresos, una partida específica que garantice los recursos necesarios para el cumplimiento de los objetivos de su Órgano Interno de Control.
+
+QUINTO. En caso de existir recursos humanos, financieros y materiales asignados a las Contralorías u Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
