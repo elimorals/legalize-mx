@@ -4,7 +4,7 @@ identifier: "VER-ley-de-asociaciones-publico-privadas-para-el-estado-de-103044"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-24"
-last_updated: "2017-07-21"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY DE ASOCIACIONES PUBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2017 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2017.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 10 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 301 PUBLICADO EN LA G.O. DE 21 DE JULIO DE 2017.]</small>
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 24 de octubre de 2014.
 
