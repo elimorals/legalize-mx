@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-09-12"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2312,6 +2312,12 @@ También comete el delito a que se refiere el presente capítulo, quien abandone
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 En este caso la pena será de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 204 BIS. Al que abandone a un adulto mayor en situación de vulnerabilidad, teniendo obligación de procurarlo, en términos del Código Familiar del Estado, siempre y cuando, en su caso, haya cumplido con sus obligaciones familiares respecto de aquél; así como quien o quienes estando a cargo de un establecimiento público o privado, en que se brinde asistencia integral a adultos mayores, no la proporcione de manera adecuada y oportuna, se les impondrá una pena de dos a cinco años de prisión y sanción pecuniaria de doscientas a quinientas (sic) días de unidades de medida y actualización, más la reparación del daño.
+
+Para el caso de que el abandono traiga como consecuencia la muerte de la persona, se aplicarán las penas que este propio Código contempla para el homicidio por omisión.
 
 ### CAPÍTULO VII. Daño en las Cosas
 
@@ -4730,3 +4736,11 @@ P.O. 12 DE SEPTIEMBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 716.- SE ADICIONA EL ARTÍCULO 204 BIS, AL CÓDIGO PENAL DE ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
