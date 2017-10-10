@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-03-15"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -112,6 +112,10 @@ VII. Estado de fase terminal: todo padecimiento reconocido, irreversible, progre
 VIII. Obsesión terapéutica: la adopción de medidas innecesarias o inútiles con el objeto de alargar la vida en situación de fase terminal de un paciente;
 
 IX. Paciente en fase terminal: persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+IX Bis. Parto humanizado: es aquél en que se toman en consideración, como prioridad, los deseos de la mujer, siempre que no se encuentre en riesgo la integridad de la madre y el bebé, contribuyéndose a crear un ambiente en torno a la mujer que haga que ese momento lo viva plenamente y no de forma medicalizada, por tanto, la intervención médica sea proporcional a las necesidades que se vayan produciendo;
 
 X. Medios innecesarios: son aquéllos cuyo perjuicio es mayor que los beneficios, en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
 
@@ -693,6 +697,10 @@ XI. Mujeres víctimas de violencia de género.
 
 Para la organización y administración de los servicios de salud, se definirán los criterios de distribución del universo de usuarios, de regionalización y de escalonamiento de los servicios, así como ampliación de cobertura y de la colaboración interinstitucional.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 24 BIS. Los Servicios de Salud proporcionarán, en la medida de sus capacidades presupuestales, atención médica domiciliaria a los derechohabientes que se encuentren inscritos al sistema de protección social de salud, de conformidad con lo que establece el artículo 151 de este Ordenamiento y que, por imposibilidad física, los pacientes no puedan acudir a los servicios de salud pública y atención médica, o se trate de campañas de medicina preventiva.
+
 ###### ARTICULO 25.
 
 Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
@@ -1031,25 +1039,39 @@ La Secretaría de Salud del Estado impulsará la organización institucional de 
 
 La protección de la salud física y mental de las personas menores de edad es una responsabilidad que deben compartir madre y padre por igual, tutores de menores de edad, el estado y la sociedad en general.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 54.
 
-En la organización y operación de los servicios de salud destinadas a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
+En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de las personas usuarias;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
 
-II. Acciones de orientación, seguimiento y vigilancia institucional, fomento a la lactancia materna, orientación durante el embarazo sobre el manejo y uso de alimentos con alto valor nutricional y bajo contenido calórico, resaltando su importancia durante la etapa gestacional y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno -infantil;
+II. Acciones de orientación, seguimiento y vigilancia institucional, fomento a la lactancia materna exclusiva y amamantamiento, haciendo énfasis en las ventajas y beneficios que aporta al menor, a fin de promover que éste sea su alimento exclusivo durante seis meses, y principal hasta avanzado el segundo año de vida; además de orientación durante el embarazo sobre el manejo y uso de alimentos con alto valor nutricional y bajo contenido calórico, resaltando su importancia durante la etapa gestacional y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
 
-III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años, y
+III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años, así como proporcionar a los padres y/o responsables del menor, información acerca de otras vacunas que no se encuentren en el sistema de vacunación con explicación del riesgo - beneficio;
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
 
 IV. Acciones para implementar programas de estimulación temprana en el primer nivel de atención, que contengan estrategias apropiadas de las áreas rural y urbana para inscribir a niñas y niños e informar a madres y padres, familia y comunidad, de los beneficios de éstas.
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+V. Fomentar en los padres o responsables las medidas higiénicas personales indispensables en la preparación de los alimentos, lavado de manos y aislamiento preventivo del contagio de padecimientos infecciosos;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+VI. Proporcionar a los padres información suficiente y sencilla sobre el manejo de alimentos, como medida que favorezca un crecimiento adecuado y prevenga trastornos relacionados con la nutrición, y
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+VII. Incluir y documentar en el expediente clínico, todos los parámetros que permitan dar un seguimiento apropiado del crecimiento y desarrollo del menor.
 
 ###### ARTICULO 55.
 
@@ -1209,7 +1231,9 @@ Los Servicios de Salud en el Estado, conforme a la normatividad que establezca l
 
 Para tal efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-### CAPITULO IX. Donación y Trasplantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+### CAPITULO IX. Donación, Trasplantes y Transfusiones
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1217,13 +1241,17 @@ Para tal efecto, se establecerá la coordinación necesaria entre las autoridade
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales, así como con el Consejo Nacional, y el Centro Estatal de Trasplantes, se encargará del control sanitario de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, en los términos de la Ley General del (sic) Salud y su Reglamento, así como la Ley de Donación y Trasplantes de Órganos, Tejidos, y Componentes para el Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+De la misma manera, la Secretaría de Salud del Estado, en coordinación con las autoridades federales, así como el Centro Nacional, y el Centro Estatal de Transfusión Sanguínea, se encargará del control sanitario de las donaciones y transfusiones de sangre y sus componentes, y plasma.
+
 Además, su titular, o quien éste designe, será parte integrante del Consejo Estatal de Trasplantes en los términos de la ley de la materia.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 67.
 
-El Centro Estatal de Trasplantes participará con el Consejo Nacional de Trasplantes, en el fomento y promoción de la cultura de donación, y le proporcionará la información correspondiente del Estado, en los términos de los acuerdos de coordinación respectivos.
+El Centro Estatal de Trasplantes, y el Centro Estatal de Transfusión Sanguínea, trabajarán coordinadamente con el Consejo Nacional de Trasplantes, y el Centro Nacional de Transfusión Sanguínea, respectivamente, en el fomento y promoción de la cultura de donación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -4268,3 +4296,11 @@ P.O. 15 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0711.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD, Y EL ARTÍCULO 3° DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
