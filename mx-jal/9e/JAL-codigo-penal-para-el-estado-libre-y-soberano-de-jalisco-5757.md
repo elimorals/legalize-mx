@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-09-26"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1883,6 +1883,16 @@ IV. Al que utilice una persona en espectáculos exhibicionistas y pornográficos
 
 Cuando el delito se cometa valiéndose de alguna relación de parentesco o autoridad sobre el pasivo, la pena se aumentará en una tercera parte de la que corresponda.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Art. 135 bis. Quien obtenga de persona mayor de edad, material con contenido erótico sexual y sin su consentimiento lo divulgue original o alterado, se le impondrá una pena de dos a cinco años de prisión.
+
+Cuando el ultraje señalado en el párrafo anterior se cometa a través de las tecnologías de la información y la comunicación, se le impondrá al responsable una pena de cuatro a ocho años de prisión.
+
+Este delito se perseguirá por querella de la parte ofendida.
+
+Se estará a lo previsto en el Código Penal Federal cuando los hechos se adecuen al delito de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO II. Corrupción de menores y Pornografía Infantil
@@ -1957,7 +1967,45 @@ Se impondrán de uno a seis meses de prisión al que provoque públicamente a co
 
 ### CAPITULO I. Corrupción de Menores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 142-A.
+
+Se impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización a la persona que facilite, provoque, induzca o promueva en persona menor de edad o con quien no tenga capacidad para comprender el significado del hecho:
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
+
+I. El hábito de la mendicidad;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
+
+II. El hábito de consumir alcohol, drogas o sustancias similares;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+III. La iniciación o práctica de la actividad sexual, la realización de actividades sexuales explícitas, actos con connotación sexual, el envío de imagenes o sonidos de si misma con contenido sexual o a la aceptación de un encuentro sexual, o
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
+
+IV. La comisión de cualquier delito.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Cuando se trate de los actos mencionados y el sujeto activo del delito empleare cualquier tipo de violencia, o se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere, la pena será de cuatro a siete años de prisión y multa de doscientos a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Cuando el acto de corrupción se realice a través de las tecnologías de la información y la comunicación, al responsable se le impondrá de seis a doce años de prisión y multa de doscientos cincuenta a quinientos cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas correspondientes a los demás delitos que en su caso se cometan.
+
+(REPUBLICADO, P.O. 10 DE OCTUBRE DE 2017)
+
+Se aumentará en una cuarta parte de la pena que corresponda, cuando la víctima u ofendido de los delitos de este capítulo, sea persona menor de doce años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Cuando la corrupción de la víctima conlleve un beneficio económico para el corruptor se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 142-A.
 
@@ -3649,19 +3697,7 @@ Cuando por el número de disparos o la prolongación del ataque grave haya base 
 
 ### CAPITULO VI. Instigación o ayuda al suicidio
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-###### Art. 224.
-
-Se impondrán de tres a diez años de prisión al que instigue o ayude a otro al suicidio, si éste se consumare. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será de cuatro a doce años de prisión. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres días a tres años de prisión, salvo que sean de las señaladas en las Fracs. III, IV y V del Artículo 207, en cuyo caso se aplicarán las sanciones correspondientes a ellas.
-
-Al responsable de este delito se le aplicará la misma pena que se prevé para el homicidio calificado o lesiones calificadas, según sea el caso, cuando:
-
-I. El suicida sea menor de doce años o padeciera alguna enfermedad mental;
-
-II. El instigador sea cónyuge, ascendiente, o descendiente, tenga vínculos de gratitud, amistad, trabajo o de cualquier otro tipo que inspiren ascendencia moral; y
-
-III. El que auxilie o instigue al suicida, obtenga o pudiese obtener un provecho económico o de cualquier índole con la consumación del suicidio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
 
 ###### Art. 206.
 
@@ -3864,6 +3900,42 @@ Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocup
 Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida a la persona con quien tenga un parentesco consanguíneo en línea recta o colateral hasta en cuarto grado, o con quien tenga una relación conyugal o de concubinato, o se trate de su adoptante o adoptado, tutor o pupilo, sabiendo el sujeto activo del delito la existencia de esta relación.
 
 ### CAPITULO I. Robo
+
+###### Artículo 224.
+
+Se impondrán de tres a diez años de prisión al que instigue, aliente o ayude a otro al suicidio, si éste se consumare. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al homicidio, parricidio o feminicidio, según las circunstancias y modos de ejecución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres días a tres años de prisión, salvo que sean de las señaladas en las fracciones III, IV, V y VI del artículo 207, en cuyo caso se aplicarán las sanciones correspondientes a ellas.
+
+(REFORMADO, P.O. 12 DE JUNIO DE 2003) (REPUBLICADO, P.O. 10 DE OCTUBRE DE 2017)
+
+Al responsable de este delito se le aplicará la misma pena que se prevé para el homicidio calificado o lesiones calificadas, según sea el caso, cuando:
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+
+I. El suicida sea menor de doce años o padeciera alguna enfermedad mental;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+II. El instigador tenga vínculos de gratitud, amistad, trabajo o de cualquier otro tipo que inspiren ascendencia moral; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+
+III. El que auxilie o instigue al suicida, obtenga o pudiese obtener un provecho económico o de cualquier índole con la consumación del suicidio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Se impondrá una pena de diez días a tres años de prisión a quien, sin causa justificada, incite a persona menor de edad o a quien no tenga capacidad para comprender el significado del hecho, a infligirse lesiones o a realizar actos peligrosos para su salud, si la víctima hubiere resultado ilesa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Si el sujeto pasivo del delito fallece o sufre lesiones como consecuencia del delito señalado en el párrafo anterior, al incitador se le aplicarán las sanciones que correspondan conforme a las reglas de los párrafos del primero al tercero del presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Se aumentará la pena privativa de la libertad en una cuarta parte cuando alguno de los delitos previstos en este artículo se cometa a través de las tecnologías de la información y la comunicación.
 
 ### CAPITULO II. Abigeato y robo de animales
 
@@ -6334,3 +6406,9 @@ PRIMERO. El presente decreto iniciará su vigencia el primero de enero de 2018, 
 SEGUNDO. Los hechos, actos y omisiones consumados con anterioridad al inicio de la vigencia del presente decreto, serán procesados hasta su resolución definitiva en los términos de la legislación vigente al actualizarse los mismos.
 
 TERCERO. Las disposiciones del Código Penal para el Estado Libre y Soberano de Jalisco que se reforman en el presente decreto, así como la legislación vigente al inicio de los procesos inconclusos al iniciar la vigencia de este decreto, seguirán vigentes solo para el efecto de sustanciar dichos procedimientos hasta su resolución definitiva.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26431/LXI/17, MEDIANTE EL CUAL REFORMA LOS ARTÍCULOS 142-A Y 224, Y SE ADICIONA EL ARTÍCULO 135 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
