@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2017-06-17"
+last_updated: "2017-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -103,7 +103,9 @@ IV. Violencia feminicida: es la forma extrema de violencia de género contra las
 
 V. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos, y que puede provocar o no lesiones, ya sean internas, externas o ambas;
 
-VI. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+VI. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, y todo tipo de discriminación por condición de género;
 
 VII. Violencia obstétrica: es todo abuso, acción u omisión intencional, negligente y dolosa que lleve a cabo el personal de salud, de manera directa o indirecta, que dañe, denigre, discrimine, o de un trato deshumanizado a las mujeres durante el embarazo, parto o puerperio; que tenga como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad. Puede expresarse en:
 
@@ -1094,5 +1096,13 @@ P.O. 17 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0660.- SE REFORMAN LOS ARTÍCULOS 13, 19, 21 Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN (SIC) 5°, 9°, 17, 22 BIS, 25, Y 29 DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 98 Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0711.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD, Y EL ARTÍCULO 3° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
