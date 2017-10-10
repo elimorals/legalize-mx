@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-transparencia-y-acceso-a-la-informacion-5037
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-03"
-last_updated: "2006-04-03"
+last_updated: "2017-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO
 
-REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de abril de 2006.
 
@@ -690,3 +692,13 @@ ATENTEMENTE (SIC)
 EL SECRETARIO GENERAL DEL H. AYUNTAMlENTO DE SOLIDARIDAD
 
 Q. F. B. FILlBERTO MARTÍNEZ MÉNDEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO".]
+
+PRIMERO. El presente Reglamento entra en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Reglamento para la Transparencia y Acceso a la Información Pública del Municipio de Solidaridad, Quintana Roo de fecha 03 de abril de 2006, subsistiendo aquellos que lo avalen o complementen.
