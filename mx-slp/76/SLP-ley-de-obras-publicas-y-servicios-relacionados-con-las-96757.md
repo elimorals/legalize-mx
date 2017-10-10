@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2017-08-01"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -1651,7 +1651,9 @@ c) El programa de utilización da (sic) la maquinaria y equipo de construcción 
 
 Al término de la ejecución de las obras por administración, se deberá dejar constancia detallada por escrito de los trabajos; así como los planos y especificaciones del proyecto realmente ejecutado, para efectos del cumplimiento del párrafo último del artículo 25 de esta Ley.
 
-En la ejecución de obras por administración directa, las instituciones podrán ejercer hasta un veinte por ciento de su presupuesto anual autorizado para obra pública; además, serán aplicables las disposiciones de esta Ley, y
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+En la ejecución de obras por administración directa, las instituciones podrán ejercer hasta un veinte por ciento de su presupuesto anual autorizado para obra pública; además, serán aplicables las disposiciones de esta Ley, salvo cuando se trate de instituciones u organismos que por disposición constitucional gocen de autonomía y tengan presupuesto propio y libertad de autodeterminación, autogobierno y administración, y derivado de ello cuenten con normatividad específica que regule el manejo y aplicación de los recursos que por sí mismos generan, así como de los que dispongan con origen en fuente estatal o federal, en cuyo caso dicho porcentaje podrá variar de acuerdo a lo que dispongan sus propios ordenamientos, siempre que éstos se encuentren vigentes y debidamente aprobados por sus órganos de gobierno, conforme a los procedimientos aplicables y previamente existentes, y no contravengan la legislación federal; quedando en todos los casos sujetos a la supervisión, vigilancia y fiscalización de sus respectivos órganos internos de control y, en su caso, de la Entidad Superior de Fiscalización. No es aplicable esta salvedad a los municipios del Estado, y
 
 II. El presupuesto de cada una de las obras que se realicen por administración directa, será el que resulte de aplicar a las cantidades de trabajo del catálogo de conceptos, los costos unitarios analizados, y calculados con base en las especificaciones de ejecución; las normas de calidad de los materiales y los procedimientos de construcción previstos; este procedimiento se integrará además con los siguientes importes:
 
@@ -2274,3 +2276,11 @@ P.O. 1 DE AGOSTO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0710.- SE REFORMA EL ARTÍCULO 166 DE LA LEY DE OBRAS".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
