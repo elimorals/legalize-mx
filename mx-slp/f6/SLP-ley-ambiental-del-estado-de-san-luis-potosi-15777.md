@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-05-25"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1575,11 +1575,13 @@ No se permitirá en las zonas habitacionales, ni en las proximidades a los servi
 
 ### CAPITULO I. DE LAS ACTIVIDADES CONSIDERADAS COMO RIESGOSAS
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 98.
 
-La SEGAM, previa opinión de las dependencias que correspondan, con la participación de la Comisión Estatal de Ecología o del Subcomité Sectorial del COPLADE, establecerá la clasificación y listados de las actividades riesgosas, en virtud de las características tóxicas o de flamabilidad y volúmenes de los materiales que se manejen en los establecimientos comerciales, industriales o de servicios, considerando además la ubicación del establecimiento.
+La SEGAM, previa opinión de las dependencias que correspondan, con la participación de la Comisión Estatal de Ecología o del Subcomité Sectorial del COPLADE, establecerá y publicará en su página de internet, la clasificación y listados de las actividades riesgosas, en virtud de las características tóxicas o de flamabilidad y volúmenes de los materiales que se manejen en los establecimientos comerciales, industriales o de servicios, considerando además la ubicación del establecimiento.
 
-Se exceptuarán de dicha clasificación las actividades comprendidas en los listados de actividades clasificadas como altamente riesgosas emitidas por la federación. El acuerdo aprobatorio contendrá el respectivo listado y deberá ser publicado en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad. La misma regla deberá observarse en el listado de obras y actividades que causen o puedan causar impacto ambiental significativo.
+Se exceptuarán de dicha clasificación las actividades comprendidas en los listados de actividades clasificadas como altamente riesgosas emitidas por la federación. El acuerdo aprobatorio contendrá el respectivo listado y deberá ser publicado en el Periódico Oficial del Estado, en la página de internet de la SEGAM, y en los diarios de mayor circulación en la Entidad, actualizándolo constantemente. La misma regla deberá observarse en el listado de obras y actividades que causen o puedan causar impacto ambiental significativo.
 
 ###### ARTICULO 99.
 
@@ -3024,6 +3026,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 25 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0642.- SE REFORMAN DIVERSS (SIC) ARTÍCULOS DE LA LEY AMBIENTAL DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0709.- SE REFORMA EL ARTÍCULO 98 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
