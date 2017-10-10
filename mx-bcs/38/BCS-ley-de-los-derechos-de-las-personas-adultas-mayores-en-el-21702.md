@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-21702
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-20"
-last_updated: "2013-07-10"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de junio de 2001.
 
@@ -59,15 +59,19 @@ Toda persona de sesenta años de edad en adelante, gozará de los beneficios de 
 
 La responsabilidad de vigilancia, seguimiento y aplicación de esta Ley, estará a cargo de:
 
-I. El Titular del Poder Ejecutivo del Estado, el Sistema para el Desarrollo Integral de la Familia y demás dependencias y entidades que integran la Administración Pública, así como de organismos desconcentrados y demás entidades paraestatales en el ámbito de sus respectivas competencias y jurisdicción;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+I. El Titular del Poder ejecutivo del Estado, la Secretaría de Desarrollo Social, el Sistema para el Desarrollo Integral de la Familia y demás dependencias y entidades que integran la Administración Pública Estatal, así como de organismos desconcentrados y demás entidades paraestatales en el ámbito de sus respectivas competencias y jurisdicción;
 
-II. El Poder Legislativo del Estado, a través de las Comisiones Permanentes de la Salud, la Familia y la Asistencia Pública y de Atención a Grupos Vulnerables y a Personas con Discapacidad;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2017)</small>
+
+II. El Poder Legislativo del Estado, a través de las Comisiones Permanentes de la Salud, la Familia y la Asistencia Pública y de Atención a Grupos Vulnerables y a Personas con Discapacidad y de Desarrollo Social;
 
 III. El Poder Judicial del Estado, en el ámbito que corresponda;
 
-IV. Los Municipios de la entidad, en el ámbito de sus respectivas competencias y jurisdicciones;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2017)</small>
+
+IV. Los titulares de los gobiernos municipales y demás dependencias y entidades que conforman la administración municipal centralizada y descentralizada en el ámbito de sus respectivas competencias y jurisdicciones;
 
 V. La familia de las personas adultas mayores vinculada por el parentesco, en cualquiera que sea este, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables;
 
@@ -117,23 +121,21 @@ X.- Atención Médica.- El conjunto de servicios integrales para la prevención,
 
 ### Capítulo I. De los Principios
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-Son principios en la observación y aplicación de esta ley;
+Son principios en la observación y aplicación de esta Ley;
 
-(sic) Autonomía y autorealización: Todas las acciones que se realicen en beneficio de las personas adultas mayores de sesenta años tendientes a fortalecer su independencia personal, su capacidad de decisión y su desarrollo personal;
+I. AUTONOMIA Y AUTORREALIZACION.- Todas las acciones que se realicen en beneficio de las personas adultas mayores de sesenta años tendientes a fortalecer su independencia personal, su productividad, su autoestima, su capacidad de decisión y su desarrollo personal;
 
-II. Participación: En todos los casos de la vida pública y en especial en lo relativo a los aspectos que les atañen directamente deberán ser consultados y tomados en cuenta y se promoverá su presencia o intervención;
+II. PARTICIPACION.- En todos los casos de la vida pública y en especial en lo relativo a los aspectos que les atañen directamente deberán ser consultados y tomados en cuenta, se promoverá su presencia o intervención y se considerará en las decisiones con perspectiva de adulto mayor, optando siempre por lo que más le favorezca;
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+III. EQUIDAD.- Las personas adultas mayores recibirán un trato justo y equitativo en las condiciones de acceso y disfrute de los bienes y servicios necesarios para su bienestar, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia atendiendo siempre a su dignidad humana;
 
-III. EQUIDAD.- Las personas adultas mayores recibirán un trato justo y equitativo en las condiciones de acceso y disfrute de los bienes y servicios necesarios para su bienestar, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
+IV. CORRESPONSABILIDAD.- Para la consecución del objeto de esta Ley, se promoverá la concurrencia de los sectores público, privado y social y en especial de las familias con una actitud de responsabilidad compartida, y
 
-IV. Corresponsabilidad: Para la consecución del objeto de esta Ley, se promoverá la concurrencia de los sectores público y social y en especial de las familias con una actitud de responsabilidad compartida, y
-
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
-
-V. ATENCIÓN PREFERENTE.- Es aquella que obliga a los órganos locales del Gobierno de Baja California Sur, así como a los sectores social y privado, la implementación de programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+V. ATENCIÓN PREFERENTE.- Es aquella que obliga a los gobiernos estatal y municipales incluidas sus dependencias o entidades centralizadas o descentralizadas competentes con arreglo a la ley, así como a los sectores social y privado, a la implementación de programas de atención prioritaria congruentes con la condición personal, natural y característica de la persona adulta mayor.
 
 ### Capítulo II. De los Derechos
 
@@ -291,11 +293,15 @@ XI. Las demás que la (sic) confieran otros ordenamientos jurídicos.
 
 La Secretaría General de Gobierno deberá:
 
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2017)</small>
+
 I. Implementar los programas necesarios, a efecto de promover el empleo para las personas adultas mayores de sesenta años, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin más restricciones que su limitación física o mental;
 
-> <small>(REFORMADA, B.O. 31 DE JULIO DE 2007)</small>
+De esas personas se llevará un registro especial con el propósito de dar seguimiento sobre sus condiciones laborales y el cabal cumplimiento de sus derechos humanos y laborales.
 
-II. En coordinación con la Secretaría de Promoción y Desarrollo Económico y la Dirección del Trabajo y Previsión Social, deberá impulsar programas de autoempleo para las personas adultas mayores de sesenta años, de acuerdo a su profesión u oficio, a través de apoyo financieros, de capacitación y la creación de redes de producción, distribución y comercialización; y
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2017)</small>
+
+II. En coordinación con la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales; y la Dirección del Trabajo y Previsión Social, deberá impulsar programas de autoempleo para las personas adultas mayores de sesenta años, de acuerdo a su profesión u oficio, a través de apoyo financieros, de capacitación y la creación de redes de producción, distribución y comercialización; y
 
 III. Proporcionar asesoría jurídica y representación legal a las personas adultas mayores de sesenta años, a través de personal capacitado a fin de garantizar su integridad y evitar cualquier acto de discriminación, respetando en todo momento su heterogeneidad.
 
@@ -427,7 +433,9 @@ VII. Denunciar ante las autoridades competentes, cuando sea procedente, cualquie
 
 VIII. Procurar que las personas adultas mayores de sesenta años en situación de riesgo o desamparo, cuenten con un lugar donde vivir, que cubra sus necesidades básicas;
 
-IX. Vigilar que las instituciones presten el cuidado y atención adecuada, a las personas adultas mayores de sesenta años respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2017)</small>
+
+IX. Vigilar que las instituciones presten el cuidado y atención adecuada, a las personas adultas mayores de sesenta años respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social del Estado;
 
 X. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de las personas adultas mayores de sesenta años, y
 
@@ -583,9 +591,11 @@ La Administración Pública del Estado de Baja California Sur, de conformidad co
 
 Será obligación de las Secretarías y demás dependencias que integran la Administración Pública, así como los Municipios, órganos desconcentrados y entidades paraestatales del Estado de Baja California Sur, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas mayores de sesenta años otorgándoles una atención preferencial que agilice los trámites y procedimientos Administrativos a realizar.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 44.
 
-La Secretaría de Promoción y Desarrollo Económico, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas mayores de sesenta años, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, por sí o en coordinación con los gobiernos municipales promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, les sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas comerciales y de servicios ubicadas en el territorio del Estado.
 
 ## TÍTULO SÉPTIMO
 
@@ -664,3 +674,11 @@ B.O. 31 DE JULIO DE 2007.
 B.O. 10 DE JULIO DE 2013.
 
 ÚNICO: El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 2474 SE REFORMAN LAS FRACCIONES I, II, IV, VII DEL ARTÍCULO 2, FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 4; LA FRACCIÓN II DEL ARTÍCULO 11; EL ARTÍCULO 44 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN I; TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente Decreto.
