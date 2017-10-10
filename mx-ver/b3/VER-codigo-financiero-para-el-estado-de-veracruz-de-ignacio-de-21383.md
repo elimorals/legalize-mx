@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2017-07-21"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2017 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 10 DE OCTUBRE DE 2017.]</small>
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2877,9 +2877,9 @@ e) Descripción clara de la política de gasto público, la cual deberá mostrar
 
 f) Ingresos obtenidos y gastos realizados del ejercicio presupuestal inmediato anterior;
 
-> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+(REFORMADO, G.O. 21 DE JULIO DE 2017) (F. DE E., G.O. 10 DE OCTUBRE DE 2017)
 
-g) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio, así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Adquisiciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, detallando los montos a ejercer en ejercicios subsecuentes; y
+g) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio, así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, detallando los montos a ejercer en ejercicios subsecuentes; y
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
 
