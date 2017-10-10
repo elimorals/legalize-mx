@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2017-02-28"
+last_updated: "2017-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -754,6 +754,10 @@ Los alumnos de las escuelas normales públicas que integran el sistema educativo
 ###### ARTICULO 40.
 
 La educación para adultos está destinada a individuos de quince años o más, que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+
+Se proporcionará particular atención a las mujeres adultas mayores, indígenas, y mujeres que sufran alguna discapacidad, para que tengan acceso a este tipo de educación.
 
 Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación, tendrán derecho, en su caso, a que se les acredite como servicio social.
 
@@ -2282,3 +2286,11 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, dentro de los nove
 TERCERO. La Coordinación intersecretarial se instalará dentro de los treinta días naturales siguientes al de la vigencia de este Decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la ley contenida en este Decreto.
+
+P.O. 10 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0715.- SE ADICIONA PÁRRAFO AL ARTÍCULO 40 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
