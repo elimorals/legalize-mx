@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2014-09-27"
+last_updated: "2017-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -505,9 +505,9 @@ Las medidas de internamiento serán aplicadas cuando se trate de la comisión de
 
 En los casos en que sea procedente, el Ministerio Público para Menores estará obligado a solicitar la reparación del daño y el Juez Especializado no podrá absolver al menor de dicha reparación si ha emitido una sentencia condenatoria.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-Cuando se trate de conductas tipificadas como delitos que afecten la vida o la integridad corporal, el monto de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. En aquéllas conductas tipificadas como delitos que afecten la vida, para calcular la reparación que corresponda se tomará como base el cuádruplo del salario mínimo diario vigente al momento de ocurridos los hechos y se multiplicará por el número de días que para el caso de muerte establece dicha Ley; su importe, se pagará a favor de las personas señaladas en el artículo 23 del Código Penal del Estado.
+Cuando se trate de conductas tipificadas como delitos que afecten la vida o la integridad corporal, el monto de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. En aquéllas conductas tipificadas como delitos que afecten la vida, para calcular la reparación que corresponda se tomará como base el cuádruplo del valor diario de la unidad de medida y actualización vigente al momento de ocurridos los hechos y se multiplicará por el número de días que para el caso de muerte establece dicha ley; su importe se pagará a favor de las personas señaladas en el artículo 34 del Código Penal del Estado.
 
 ###### ARTICULO 29.
 
@@ -1876,3 +1876,11 @@ PRIMERO. Este decreto entrará en vigor el treinta de septiembre de dos mil cato
 SEGUNDO. Respecto a la supletoriedad del Código de Procedimientos Penales para el Estado de San Luis Potosí, los procesos iniciados con anterioridad a la entrada en vigor de este Decreto que se encuentren en trámite, deberán ser desahogados y concluidos de acuerdo a las normas y procedimientos establecidos en el Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, como Decreto Legislativo 572, el treinta de septiembre del año dos mil.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 722.- SE REFORMAN LOS ARTÍCULOS 33 Y 35 DE LA LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ, Y REFORMA EL ARTÍCULO 28 DE LA LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
