@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-del-consejo-de-la-judicatura-del-poder-judicial-8475
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2017-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de diciembre de 2011.
 
@@ -529,9 +529,11 @@ Las comisiones son órganos colegiados que tienen por objeto el análisis, evalu
 
 Cada Comisión deberá elaborar y aprobar su plan de trabajo e informar al Pleno el resultado del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-Son comisiones ordinarias, además de las listadas en la Ley Orgánica, las de Equidad de Género y la de Normatividad.
+Son comisiones ordinarias, además de las listadas en la Ley Orgánica, las de Derechos Humanos e igualdad de Género y la de Normatividad.
 
 ###### Artículo 59.
 
@@ -835,27 +837,39 @@ Son funciones de la Comisión de Capacitación:
 
 La Comisión de Transparencia y Acceso a la Información es la responsable de vigilar y dictar las medidas para la efectividad del derecho de acceso a la información, la transparencia y la protección de datos personales, conforme a la ley y el reglamento de la materia.
 
-#### SECCIÓN NOVENA. COMISIÓN DE EQUIDAD DE GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN NOVENA. COMISIÓN DE DERECHOS HUMANOS E IGUALDAD DE GÉNERO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 86.
 
-Corresponden a la Comisión de Equidad de Género las siguientes atribuciones funciones (sic):
+Corresponden a la Comisión de Derechos Humanos e Igualdad de Género las siguientes atribuciones:
 
 1. Emprender acciones que permitan sensibilizar en perspectiva de género a los servidores judiciales, en el marco del respeto a los derechos humanos y a la no discriminación.
 
 2. Poner a la consideración del Pleno del Consejo de la Judicatura políticas que permitan generar un ambiente laboral libre de violencia y discriminación en el Poder Judicial en general.
 
-3. Promover los derechos humanos de las mujeres, en su caso, con la colaboración con (sic) la sociedad civil.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+3. Promover el respeto a los derechos humanos al interior del Poder Judicial.
 
 4. Promover de manera horizontal y vertical la perspectiva de género en el aparato administrativo.
 
-5. Promover la participación de las mujeres en ámbitos de responsabilidad y toma de decisiones.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-6. Asesorar el trabajo institucional que realizan las diversas comisiones promoviendo la coherencia entre las acciones que se realicen sobre la equidad en el género.
+5. Promover el acceso a ámbitos de responsabilidad y toma de decisiones en igualdad de oportunidades.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+6. Participar con otras unidades de igualdad de género de la administración pública local en la instrumentación de planes y programas de acción, en el desempeño de las funciones que les corresponden.
 
 7. Incentivar la interpretación de las leyes conforme a los principios de igualdad y no discriminación, tanto formal como sustantiva, con perspectiva de género.
 
-8. Realizar investigaciones en todo lo referente a la equidad y género, con el fin de conocer el estado actual de la impartición de justicia con perspectiva de género en México y nuestro Estado, a efecto de proveer bases empíricas de justificación para las políticas instrumentadas, así como promover la reflexión académica y jurídica en materia de género y justicia.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+8. Realizar investigaciones con el fin de conocer el estado actual de la impartición de justicia con perspectiva de género en México y nuestro Estado, a efecto de promover bases empíricas de justificación para las políticas instrumentadas, así como colaborar en la elaboración de contenidos y productos que consoliden el proceso de institucionalización de la perspectiva de igualdad de género y derechos humanos.
 
 9. Crear, formar y aportar herramientas teóricas y prácticas para juzgar con perspectiva de género y generar el intercambio de ideas y experiencias en el juzgar.
 
@@ -863,9 +877,17 @@ Corresponden a la Comisión de Equidad de Género las siguientes atribuciones fu
 
 11. Difundir la información relacionada con la perspectiva de género y el acceso a la justicia y concientizar a las personas de la exigibilidad de sus derechos.
 
-12. Evaluar, supervisar y monitorear permanentemente las actividades, obtener insumos para tomar decisiones y rendir cuentas; y,
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-13. Las demás necesarias para el adecuado cumplimiento de sus fines.
+12. Generar estadísticas e informes periódicos con base en los registros administrativos y otras fuentes de datos en materia de violencia y discriminación a grupos de población vulnerables y sobre los avances en la institucionalización de la perspectiva de género al interior del Poder judicial, así como de los resultados y efectos de los planes, programas y políticas en la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+13. Proponer implementar, en coordinación con las unidades administrativas, el diseño de esquemas de capacitación, actualización y especialización en las materias relacionadas con el objeto de la comisión de igualdad de género.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 11 DE OCTUBRE DE 2017)</small>
+
+14. Las demás necesarias para el adecuado cumplimiento de sus fines.
 
 #### SECCIÓN DÉCIMA. COMISIÓN DE NORMATIVIDAD
 
@@ -1120,3 +1142,15 @@ Artículo Cuarto. Para los efectos del artículo 61 del presente reglamento la i
 Dado en la ciudad de Tepic, Nayarit, y aprobado por unanimidad de votos de los integrantes del Pleno del Consejo de la Judicatura del Poder Judicial del Estado, en la Sexta Sesión Ordinaria celebrada el día 06 de diciembre de 2011.
 
 Dr. Pedro Antonio Enríquez Soto, Magistrado Presidente del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.- Licenciada Dora Lucia Santillán Jiménez, Secretaria de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NÚMERO 14/CJ/IV/2017 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT EN MATERIA DE IGUALDAD DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial, Órgano del Gobierno del Estado y en el Portal de Transparencia del Poder Judicial.
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO. A partir de esa fecha la Comisión tendrá la denominación dada y en sesión pública será formalmente instalada.
