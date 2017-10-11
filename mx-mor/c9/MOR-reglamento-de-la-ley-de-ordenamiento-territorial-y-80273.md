@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-80273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2017-05-03"
+last_updated: "2017-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de marzo de 2011.
 
@@ -51,19 +51,29 @@ a) El titular del Poder Ejecutivo del Estado;
 
 b) El titular de la Secretaría de Gobierno;
 
-c) El titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-d) El titular de la Subsecretaría de Desarrollo Urbano y Vivienda;
+c) El titular de la Secretaría de Desarrollo Sustentable;
 
-e) El titular de la Dirección General de Ordenamiento Territorial;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-f) El titular de la Dirección Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos;
+d) El titular de la Secretaría de Obras Públicas;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+e) El titular de la Subsecretaría de Desarrollo Urbano y Vivienda Sustentable;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+f) El titular de la Dirección General de Administración Urbana;
 
 g) El Director General o el Órgano de Gobierno del Instituto de Vivienda del Estado de Morelos, según corresponda;
 
 h) El Director General o el Órgano de Gobierno de la Comisión Estatal de Reservas Territoriales;
 
-i) El Instituto del Registro Público de la Propiedad y del Comercio del Estado, y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+i) El titular del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
 j) La Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos.
 
@@ -79,11 +89,15 @@ III. CARRETERA: Vía pavimentada sobre una superficie continua de dominio y uso 
 
 IV. INFORMACIÓN GEOGRÁFICA: Es una integración organizada de hardware, software y datos geográficos diseñada para capturar, almacenar, manipular, analizar y desplegar en todas sus formas la información geográficamente referenciada con el fin de resolver problemas complejos de planeación urbana y gestión;
 
-V. LEY: Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
+V. LEY: Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos;
 
-VI. SUBCOMISIÓN: La Subcomisión Técnica del Consejo Estatal de Ordenamiento Territorial.
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+VI. REGLAMENTO: El presente Reglamento, y
+
+VII. SUBCOMISIÓN: La Subcomisión Técnica del Consejo Estatal de Ordenamiento Territorial.
 
 ### CAPÍTULO SEGUNDO. DICTAMEN DE IMPACTO URBANO
 
@@ -101,7 +115,9 @@ Requieren dictamen de impacto urbano para la tramitación y validación las sigu
 
 I. Apertura, prolongación y ampliación de vías públicas, de carácter regional o primario, no previstas en los Programas de Desarrollo Urbano Sustentable, así como para los centros de población que carezcan de éstas;
 
-II. Autorización de fraccionamientos, condominios y conjuntos urbanos que utilicen políticas de redensificación focal y en las áreas aptas para el desarrollo urbano para los proyectos iguales o superiores a cien viviendas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+II. Autorización de fraccionamientos, condominios y conjuntos urbanos que pretendan beneficiarse con la densificación en más de dos rangos, así como en las áreas aptas para el desarrollo urbano para proyectos iguales o superiores a cien viviendas;
 
 III. Proyectos de ampliación de vivienda, cuando la suma de lo existente y el incremento rebase los 5,000 metros cuadrados de construcción o cuando ya se tenga una evaluación de impacto urbano, y se incrementen más de 2,500 metros cuadrados de construcción;
 
@@ -165,37 +181,37 @@ l) Parques industriales.
 
 La Secretaría requerirá para la emisión del Dictamen de Impacto Urbano, el correspondiente estudio de impacto urbano a cargo del interesado, considerando la relación que se señala en el artículo anterior de este Reglamento, y la extensión del estudio será de acuerdo con la importancia de las acciones urbanas que se soliciten.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 8.
 
 El estudio de impacto urbano deberá acompañarse de la siguiente documentación:
 
-I. Licencia de Uso del Suelo;
+I. Antecedentes, los cuales deberán desarrollarse en relación al predio y su contexto, donde se pretenda llevar a cabo determinado proyecto;
 
-II. Antecedentes;
+II. Marco normativo;
 
-III. Marco normativo;
+III. Localización geográfica del proyecto en coordenadas geodésicas en Proyección Universal Transversa de Mercator;
 
-IV. Localización geográfica del proyecto (Proyección Universal Transversal Mercator, UTM);
+IV. Aspectos físicos naturales;
 
-V. Aspectos físicos naturales;
+V. Aspectos urbanos tales como infraestructura, vivienda, vialidad, transporte urbano, equipamiento urbano, industria, turismo, imagen urbana y conservación del patrimonio;
 
-VI. Aspectos urbanos (infraestructura, vivienda, vialidad, transporte urbano, equipamiento urbano, industria, turismo, imagen urbana y conservación del patrimonio);
+VI. Proceso de edificación o de construcción;
 
-VII. Proceso de edificación o de construcción;
+VII. Valoración del impacto, donde se identifiquen los impactos urbanos que el proyecto generará en cada uno de los componentes de la estructura urbana, es decir: infraestructura, vivienda, vialidad, transporte urbano, equipamiento urbano, industria, turismo, imagen urbana y conservación del patrimonio, y las medidas de mitigación y compensación propuestas, vinculadas jurídicamente con la normativa aplicable;
 
-VIII. Valoración del impacto;
+VIII. Planos arquitectónicos del proyecto y plano de conjunto;
 
-IX. Planos arquitectónicos del proyecto (plano de conjunto);
+IX. Plano de zonificación del proyecto;
 
-X. Plano de zonificación del proyecto;
+X. Plano de vialidades propuestas;
 
-XI. Plano de vialidades propuestas;
+XI. Planos de instalaciones hidráulica, sanitaria y eléctrica;
 
-XII. Planos de instalaciones (hidráulica, sanitaria y eléctrica);
+XII. Anexo fotográfico del predio y su contexto, y
 
-XIII. Anexo fotográfico del predio y su contexto, y
-
-XIV. En caso de que el proyecto se encuentre en riesgo o riesgo bajo deberá incluirse el estudio de riesgo que corresponda, así como el programa de prevención de accidentes y, en su caso, el programa de restauración.
+XIII. En caso de que el predio donde se pretende desarrollar el proyecto, se encuentre expuesto a un peligro dentro de una zona de riesgo moderado, alto y muy alto, de acuerdo al Atlas de Riesgo estatal y municipal, deberá incluirse el estudio de riesgo en el que se identifiquen los mismos, su proceso de formación, evaluación, control y reducción; el programa de prevención de accidentes donde se describan las estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan la capacidad de resiliencia del proyecto y, en su caso, el programa de restauración que corresponda, donde se describa la capacidad que el proyecto tendrá para resistir, asimilar, adaptarse y recuperarse de sus efectos, cuando ocurran diversos desastres de origen natural o antropogénico, en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, tanto en el interior del predio, como en el entorno inmediato.
 
 ###### Artículo 9.
 
@@ -299,9 +315,11 @@ El dictamen de impacto urbano tendrá vigencia en tanto no se modifique el marco
 
 ### CAPÍTULO TERCERO. CONVENIOS DE COLABORACIÓN EN MATERIA DE PLANEACIÓN Y ADMINISTRACIÓN URBANA
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 21.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Urbano y Obras Públicas podrá llevar a cabo acciones de apoyo tendientes a fortalecer la capacidad técnica y tecnológica de los Municipios, por lo que podrá asumir las facultades que expresamente le deleguen las autoridades municipales, mediante los Convenios de Colaboración correspondientes, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
+El Ejecutivo del Estado, a través de la Secretaría podrá llevar a cabo acciones de apoyo tendientes a fortalecer la capacidad técnica y tecnológica de los Municipios, por lo que podrá asumir las facultades que expresamente le deleguen las autoridades municipales, mediante los Convenios de Colaboración correspondientes, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
 
 ###### Artículo 22.
 
@@ -311,11 +329,15 @@ I. Solicitud oficial del Ayuntamiento para que la Secretaría lo apoye en la for
 
 II. La Secretaría remitirá al Municipio el proyecto del Convenio de Colaboración para su análisis y autorización del Ayuntamiento;
 
-III. Para formalizar la solicitud, el Municipio correspondiente entregará a la Secretaría una copia certificada del Acta del Cabildo, en donde el Ayuntamiento autorice al Presidente Municipal y al Secretario a firmar el Convenio de Colaboración que se celebrará entre la Secretaría de Desarrollo Urbano y Obras Públicas y el Ayuntamiento correspondiente;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-IV. La Secretaría formulará el Convenio de Colaboración el cual será firmado por las partes involucradas y publicado en el Periódico Oficial “Tierra y Libertad” y mantendrá su vigencia durante el periodo de gestión de la Administración Pública Municipal o Estatal, según sea el caso, y
+III. Para formalizar la solicitud, el Municipio correspondiente entregará a la Secretaría una copia certificada del Acta del Cabildo, en donde el Ayuntamiento autorice al Presidente Municipal y al Secretario a firmar el Convenio de Colaboración que se celebrará entre la Secretaría y el Ayuntamiento correspondiente;
 
-V. Una vez que se cuente con el Convenio formalizado se iniciará con el procedimiento de formulación o modificación del Programa de Desarrollo Urbano Sustentable de que se trate.
+IV. La Secretaría formulará el Convenio de Colaboración el cual será firmado por las partes involucradas y publicado en el Periódico Oficial "Tierra y Libertad" y mantendrá su vigencia durante el periodo de gestión de la Administración Pública Municipal o Estatal, según sea el caso, y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+V. Una vez que se cuente con el Convenio formalizado se iniciará con el procedimiento de formulación o modificación del Programa de Desarrollo Urbano Sustentable de que se trate, en términos de la Ley y el presente Reglamento.
 
 Independientemente al compromiso adquirido en el Convenio de Colaboración para la formulación o modificación de sus Programas de Desarrollo Urbano Sustentable, la Secretaría proporcionará capacitación al personal técnico del Ayuntamiento en materia de planeación.
 
@@ -397,15 +419,25 @@ III. Se llevará a cabo por lo menos una reunión informativa en materia de admi
 
 IV. Para formalizar la solicitud, el Municipio enviará a la Secretaría una copia certificada del Acta de Cabildo, en donde el Ayuntamiento autorice expresamente al Presidente Municipal y al Secretario a firmar el Convenio de Colaboración con la Secretaría, especificando claramente la modalidad aprobada para la autorización de dicha firma por parte de los funcionarios del Municipio;
 
-V. La Secretaría formulará el Convenio de Colaboración con la modalidad aprobada, el cual será firmado por las partes involucradas y publicado en el Periódico Oficial “Tierra y Libertad”, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+V. La Secretaría formulará el Convenio de Colaboración con la modalidad aprobada, el cual será firmado por las partes involucradas y publicado en el Periódico Oficial “Tierra y Libertad”;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 VI. El Convenio mantendrá su vigencia durante el periodo de la administración pública municipal o estatal, según sea el caso;
 
-VII. En los casos en que la modalidad asumida sea ventanilla única de recepción, el Ayuntamiento recibirá la documentación que presente el solicitante de acuerdo a la normatividad establecida por la Secretaría y la turnará a la Subsecretaría de Desarrollo Urbano y Vivienda, quien a través de la Dirección General de Ordenamiento Territorial realizará el análisis y formulará la Resolución Administrativa de uso del suelo que corresponda, la cual será entregada al Ayuntamiento, quien, previo el pago de derechos, de acuerdo con su Ley de Ingresos respectiva, se la entregará al solicitante que haya cumplido con los requisitos correspondientes;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-VIII. Si la modalidad asumida por el Ayuntamiento es la de Pre-resolución de uso del suelo, se realizará el mismo procedimiento que el previsto en el inciso anterior, con la salvedad de que la Resolución Administrativa que formule la Secretaría, tomará en cuenta la Pre-resolución emitida por el Ayuntamiento, siempre y cuando se ajuste a lo estipulado en los Programas de Desarrollo Urbano Sustentable y al marco normativo en la materia;
+VII. En los casos en que la modalidad asumida sea ventanilla única de recepción, el Ayuntamiento recibirá la documentación que presente el solicitante de acuerdo a la normatividad establecida por la Secretaría y la turnará a la Subsecretaría de Desarrollo Urbano y Vivienda Sustentable, quien a través de la Dirección General de Administración Urbana realizará el análisis y formulará la Resolución Administrativa de uso del suelo que corresponda, la cual será entregada al Ayuntamiento, quien, previo el pago de derechos, de acuerdo con su Ley de Ingresos respectiva, se la entregará al solicitante que haya cumplido con los requisitos correspondientes;
 
-IX. En el caso de que el Ayuntamiento asuma sus facultades mediante la emisión directa de las resoluciones de uso del suelo, la Secretaría desempeñará funciones de coordinación, supervisión y apoyo a las autoridades municipales y participará en la dictaminación de los proyectos que por su importancia requieran la emisión de un Dictamen de Impacto Urbano. El Ayuntamiento deberá enviar copia de cada resolución administrativa en materia de uso del suelo, anexando copia del proyecto y croquis de localización del predio, a la Subsecretaría de Desarrollo Urbano y Vivienda para que la información proporcionada permita realizar un seguimiento del desarrollo del Municipio y sus localidades, así como para retroalimentar los niveles superiores de planeación.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+VIII. Si la modalidad asumida por el Ayuntamiento es la de Pre-resolución de uso del suelo, se realizará el mismo procedimiento que el previsto en el inciso anterior, con la salvedad de que la Resolución Administrativa que formule la Secretaría, tomará en cuenta la Pre-resolución emitida por el Ayuntamiento, siempre y cuando se ajuste a lo estipulado en los Programas de Desarrollo Urbano Sustentable y al marco normativo en la materia, y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+IX. En el caso de que el Ayuntamiento asuma sus facultades constitucionales mediante la emisión directa de las resoluciones de uso del suelo, no se requerirá firmar convenio de colaboración, la Secretaría solamente desempeñará funciones de coordinación, supervisión y apoyo a las autoridades municipales y participará en la dictaminación de los proyectos que por su importancia requieran la emisión de un Dictamen de Impacto Urbano. El Ayuntamiento deberá enviar copia de cada resolución administrativa en materia de uso del suelo, anexando copia de los planos autorizados y sellados, y croquis de localización del predio, a la Subsecretaría de Desarrollo Urbano y Vivienda Sustentable para que la información proporcionada permita realizar un seguimiento del desarrollo del Municipio y sus localidades, así como para retroalimentar los niveles superiores de planeación.
 
 Independientemente del compromiso adquirido con el Convenio de Colaboración en materia de usos y destinos del suelo, la Secretaría proporcionará capacitación al personal técnico del Ayuntamiento en esta materia.
 
@@ -633,6 +665,22 @@ XII. SISTEMA DE INFORMACIÓN PARA EL DESARROLLO URBANO. Elaborado con las herram
 
 Los Municipios al formular sus Programas de Desarrollo Urbano Sustentable, deberán tomar en cuenta los criterios para contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, plasmados en los Programas de Ordenamiento Ecológico Territorial, por lo que deberá existir compatibilidad entre los ordenamientos ecológicos y los territoriales.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+La formulación de un Programa Parcial de Desarrollo Urbano Sustentable, previsto en el artículo 32, fracción V, numeral 2, podrá efectuarse cuando:
+
+I. Existan zonas del territorio estatal que deseen destinarse para la creación de polígonos de desarrollo y construcción prioritaria, orientados al desarrollo o aprovechamiento urbano prioritario o estratégico de inmuebles, bajo el esquema de actuación pública o para la creación de áreas naturales protegidas, unidades de manejo ambiental o unidades económicas de valor ambiental;
+
+II. Se pretenda reconocer un asentamiento humano consolidado, es decir, que el noventa por ciento de los predios que lo integran se encuentren ocupados con edificaciones construidas con materiales permanentes que se ubique fuera de la zona urbana o urbanizable y esté en proceso de regularización ante una autoridad estatal o federal competente en la materia, siempre que los ordenamientos ecológicos, estatal y local, respectivos lo permitan;
+
+III. En el Programa de Desarrollo Urbano vigente, una zona del territorio municipal no tenga asignado un uso del suelo o destino de suelo, siempre que los ordenamientos ecológicos, estatal y local, respectivos lo permitan, y
+
+IV. Se modifique el límite municipal, derivado del procedimiento de límites territoriales conforme a la normativa aplicable o por acuerdo formal entre los municipios involucrados y se haga necesaria la modificación o ajuste de los usos y destinos del suelo al nuevo límite municipal.
+
+V. Para los supuestos señalados en las fracciones anteriores, el interesado deberá presentar a la Secretaría el proyecto respectivo para su evaluación, debiendo sujetarse a lo dispuesto por la Ley y el Reglamento para la formulación de los Programas de Desarrollo Urbano, sin perjuicio de las documentales o requisitos adicionales que de manera específica y atendiendo a la naturaleza del proyecto le sean requeridos por la Secretaría.
+
 #### SECCIÓN TERCERA. DICTÁMENES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
@@ -665,53 +713,93 @@ Dichas normas técnicas complementarias deberán publicarse, preferentemente, de
 
 La publicación por separado de dicho acuerdo administrativo que emita el Secretario de Desarrollo Sustentable con las normas técnicas complementarias, no podrá dar lugar a interpretar que se trata de un documento distinto al Programa de Desarrollo Urbano Sustentable de que se trate y su contenido formará parte integral del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 33.
 
-Para los casos contenidos en el artículo 40 de la Ley, en el supuesto donde se deriva el interés por incrementar áreas aptas para el desarrollo urbano, modificando la delimitación entre las áreas urbanizables y las no urbanizables, se formulará un nuevo Programa de Desarrollo Urbano Sustentable o se modificará el vigente, de conformidad con las disposiciones legales y reglamentarias aplicables en cuanto al contenido y formalidades para la formulación de un Programa de Desarrollo Urbano Sustentable.
+En el supuesto donde se deriva el interés por incrementar áreas aptas para el desarrollo urbano, modificando la delimitación entre las áreas urbanizables y las no urbanizables, se formulará un nuevo Programa de Desarrollo Urbano Sustentable, de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-En los casos en que previamente, y con sujeción a las disposiciones jurídicas aplicables, se haya celebrado convenio al efecto entre la Secretaría y un Ayuntamiento, en cuanto hace a las Densidades Habitacionales y Coeficientes de Ocupación y Utilización del suelo se podrán aplicar las siguientes densidades:
+En la zonificación secundaria de los Programas de Desarrollo Urbano Sustentable, previstos en el artículo 32 de la Ley, los Ayuntamientos determinarán libremente con base en sus necesidades y particularidades de desarrollo urbano, los usos habitacionales que se permitirán, conforme a las siguientes densidades de vivienda:
 
-a) Densidad habitacional H0.5 = 10 viviendas por hectárea;
+I. Densidad de población H0.5 = 40 habitantes por hectárea = 10 viviendas por hectárea;
 
-b) Densidad habitacional H1 = 15 viviendas por hectárea;
+II. Densidad de población H1 = 60 habitantes por hectárea = 15 viviendas por hectárea;
 
-c) Densidad habitacional H1.5 = 23 viviendas por hectárea;
+III. Densidad de población H1.5 = 92 habitantes por hectárea = 23 viviendas por hectárea;
 
-d) Densidad habitacional H2 = 31 viviendas por hectárea;
+IV. Densidad de población H2 = 124 habitantes por hectárea = 31 viviendas por hectárea;
 
-e) Densidad habitacional H3 = 45 viviendas por hectárea;
+V. Densidad de población H3 = 180 habitantes por hectárea = 45 viviendas por hectárea;
 
-f) Densidad habitacional H4 = 61 viviendas por hectárea;
+VI. Densidad de población H4 = 244 habitantes por hectárea = 61 viviendas por hectárea;
 
-g) Densidad habitacional H5 = 77 viviendas por hectárea, y
+VII. Densidad de población H5 = 308 habitantes por hectárea = 77 viviendas por hectárea;
 
-h) Densidad habitacional H6 = 95 viviendas por hectárea.
+VIII. Densidad de población H6 = 380 habitantes por hectárea = 95 viviendas por hectárea;
+
+IX. Densidad de población H7 = 480 habitantes por hectárea = 120 viviendas por hectárea;
+
+X. Densidad de población H8 = 600 habitantes por hectárea = 150 viviendas por hectárea;
+
+XI. Densidad de población H9 = 760 habitantes por hectárea = 190 viviendas por hectárea, y
+
+XII. Densidad de población H10 = 840 habitantes por hectárea = 210 viviendas por hectárea.
+
+En los casos en que el Programa de Desarrollo Urbano Sustentable no contemple la densidad, manifestada en vivienda por hectárea, sino en número de habitantes por hectárea, se deberá realizar el cálculo de la densidad máxima permitida por cada uso de suelo, considerando cuatro habitantes por vivienda, aplicando la siguiente fórmula: número de habitantes por hectárea entre cuatro.
+
+Los anteriores rangos de densidades de vivienda serán considerados en todos los casos de densificación que se autoricen en términos de la Ley y el presente Reglamento.
+
+Los cambios en la densificación no serán considerados como modificaciones a los Programas de Desarrollo Urbano, por lo que la autoridad municipal podrá autorizarlos sin mayores requisitos que los previstos en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-A fin de garantizar el cumplimiento a lo dispuesto por el último párrafo del artículo 40 de la Ley la modificación de densidades en un máximo de dos rangos, debe cuidar no generar alteración alguna al funcionamiento de la estructura urbana del Centro de Población, por lo que se realizará un análisis detallado de la zona en un radio de 500 metros a la redonda que justifique el cambio solicitado y podrá ser factible cuando se sujete a las siguientes consideraciones:
+En los casos en que se solicite la densificación por más de dos rangos de densidad, se deberá:
 
-a) Factibilidad emitida por las instancias correspondientes, para el suministro de agua potable, alcantarillado y energía eléctrica;
+I. Obtener el Dictamen de Impacto Urbano emitido en sentido aprobado o aprobado condicionado respecto a la viabilidad de la propuesta de densificación;
 
-b) Estudio de integración vial que determine la no afectación de la infraestructura existente;
+II. Contar con el Oficio de cumplimiento de condicionantes establecidas en el Dictamen de Impacto Urbano, emitido por parte de la Subsecretaría de Desarrollo Urbano y Vivienda Sustentable;
 
-c) Estudio del equipamiento urbano existente y la determinación de que la capacidad instalada podrá absorber el incremento de población propuesto, y
+III. Obtener el Oficio de autorización del Ayuntamiento correspondiente donde autorice la densificación propuesta, previo análisis por parte del Ayuntamiento, del proyecto de densificación propuesto, oficio que estará sujeto al cumplimiento fiel y exacto, por parte del promovente, de las condicionantes establecidas en las autorizaciones correspondientes, emitidas por las autoridades administrativas federales, estatales y municipales;
 
-d) Estudio de protección civil sobre vulnerabilidad y riesgos.
+IV. Contar con la Licencia de Uso de Suelo definitiva emitida en sentido procedente o, en su caso, procedente condicionada, donde el Ayuntamiento autorice la densificación propuesta, misma que deberá incluir los planos autorizados y sellados correspondientes a dicha licencia, y
 
-En el proyecto que se presente, el coeficiente de absorción del suelo (CAS) no podrá ser menor al 20% de la superficie total del terreno y los coeficientes de ocupación y utilización (COS y CUS) deberán corresponder con los utilizados en las zonas aledañas.
+V. Tener el oficio de ocupación correspondiente, mismo que será emitido una vez verificado y cerciorado el cumplimiento fiel y exacto, de todas y cada una de las condicionantes establecidas en la Licencia de Uso de Suelo definitiva.
 
-Previo a la autorización de modificación de densidades se deberá contar con los siguientes documentos:
+El Ayuntamiento deberá informar a la Subsecretaría de Desarrollo Urbano y Vivienda Sustentable de la emisión de las documentales señaladas en las fracciones III, IV y V, del presente artículo, remitiendo para tal efecto copia fotostática de las mismas, dentro de los cinco días hábiles posteriores a su emisión.
 
-a) Dictamen de Congruencia;
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-b) Dictamen de Impacto Urbano;
+###### Artículo 35 Bis.
 
-c) Dictamen de Impacto Vial, y
+Con la finalidad de que una propuesta de densificación mayor a dos rangos no genere alteración alguna al funcionamiento de la estructura urbana del Centro de Población, el promovente, además de cumplir con los requisitos establecidos en los artículos 8, 9 y 12 del presente Reglamento, deberá realizar el análisis detallado de la zona circundante en un radio de 1,000 metros, que justifique el cambio solicitado, sujetándose a las siguientes consideraciones:
 
-d) Dictamen de Protección Civil.
+I. A la obtención de la factibilidad emitida por las instancias correspondientes, para el suministro de agua potable, alcantarillado y energía eléctrica en las que se indique que existe factibilidad para abastecer al número de viviendas que se pretenden desarrollar, indicadas en el proyecto de densificación;
+
+II. A presentar el estudio de integración vial que establezca las medidas de mitigación y compensación que reduzcan el impacto que producirá el proyecto de densificación en la infraestructura existente (estructura vial, sistema de circulación, señalización horizontal y vertical, señalización preventiva, restrictiva, regulatoria, informática, protección de obras, mobiliario urbano, dispositivos de control, entre otros);
+
+III. A presentar el estudio del equipamiento urbano existente, público y privado, así como la determinación de que la capacidad instalada podrá absorber el incremento de población propuesto;
+
+IV. A presentar el estudio de riesgos y vulnerabilidad en el que se identifiquen los riesgos, su proceso de formación, evaluación, control y reducción tales como los riesgos geológicos y geomorfológicos, hidrometereológicos, físico–químicos, sanitarios y ambientales, y sociorganizativos en términos de la normativa aplicable;
+
+V. A presentar el Dictamen de Impacto Vial, y
+
+VI. A presentar el Dictamen de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 35 Ter.
+
+Para todas las densificaciones, en el proyecto que se presente, el coeficiente de absorción del suelo (CAS) no podrá ser menor al 25% de la superficie total del terreno; en lo que respecta a los coeficientes de Ocupación y Utilización del Suelo, el proyecto se evaluará conforme a los coeficientes asignados al uso de suelo que corresponde a la densidad solicitada, de conformidad con lo establecido en el artículo 34 del presente Reglamento.
+
+En el caso de que en el Programa de Desarrollo Urbano vigente no esté contemplada la densidad solicitada y, por lo tanto, no existan Coeficientes de Ocupación (COS) y de Utilización (CUS), se deberá evaluar el proyecto conforme a los Coeficientes de Ocupación y Utilización que corresponden al uso de suelo original, pudiéndose incrementar hasta un máximo de COS=0.50 y CUS=2.0.
+
+El cambio de densidad se autoriza a favor del fomento a la vivienda, en tal razón los usos y actividades económicas permitidas en el predio de interés serán regidos por el uso de suelo original.
 
 ###### Artículo 36.
 
@@ -728,6 +816,214 @@ Para la aprobación de los Programas de Ordenación de las Zonas Conurbadas Inte
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
 Para efecto de dar continuidad del procedimiento de formulación de los Programas a que se refiere el párrafo anterior, se tomará en consideración la publicación oficial de que se trate; esto, sin demérito de las publicaciones en los diarios de mayor circulación a que alude el artículo 37 de la Ley, las que preferentemente se realizarán de manera simultánea, sin que su desfase pueda restarle validez a la publicación oficial; respetando en todo caso el derecho de la ciudadanía a participar en las consultas públicas, en particular para las mujeres, jóvenes y personas en situación de vulnerabilidad, y con base en el acceso a información transparente, completa y oportuna. Será deseable que los foros de consulta pública a que se refiere la Ley, tengan lugar dentro del plazo legal de por lo menos 60 días naturales, pero su celebración fuera del mismo no implica conculcar el derecho de consulta de la ciudadanía.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. DE LA MODIFICACIÓN A LOS PROGRAMAS
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 37 Bis.
+
+La modificación a los Programas previstos en el artículo 32 de la Ley podrá efectuarse cuando:
+
+I. Un destino de suelo no se encuentre contemplado en el Programa de Desarrollo Urbano vigente;
+
+II. Un uso o destino de suelo esté indicado en la carta urbana o similar, pero no se encuentre previsto en la tabla o matriz de compatibilidad o imposibilite determinar que el proyecto pretendido es viable, y
+
+III. Se pretenda modificar el uso o destino de suelo de un predio con el objetivo de adquirir otro uso o destino.
+
+En las zonas residenciales de baja densidad, que son las H0.5, H1 y H1.5, no se permitirá modificar el uso de suelo.
+
+El uso de suelo industrial podrá modificarse por otro, pero no podrá modificarse el resto de usos de suelo para hacerlos compatibles con actividades industriales.
+
+Similar tratamiento se dará a los usos o destinos con tratamiento especial conforme al artículo 24, fracción III, del presente Reglamento, dada su incompatibilidad por el grado de contaminación que producen dado el deterioro que pueden ocasionar al medio ambiente y poner en peligro la vida y la salud de los habitantes o por la disparidad de actividades y los impactos que se derivan de ellas.
+
+La Coordinación Estatal de Protección Civil Morelos o la Dirección de Protección Civil municipal determinarán, a través del Dictamen correspondiente, el tratamiento especial que requieren dichas actividades.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 37 Ter.
+
+La modificación de los Programas contemplados en el artículo 32, fracciones II, III, IV y V, de la Ley podrá efectuarse a instancia de:
+
+I. El Presidente Municipal;
+
+II. El titular de la Secretaría, y
+
+III. El interesado.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 37 Quater.
+
+En los casos de la fracción III del artículo anterior, la solicitud para la modificación del Programa que corresponda deberá realizarse por escrito al Presidente Municipal o al titular de la Secretaría. Dicha solicitud deberá contener y anexar, por lo menos, los siguientes requisitos:
+
+I. El proyecto en modificación en términos del presente Reglamento, destacando los motivos y la descripción de la modificación pretendida, anexando la descripción del anteproyecto urbano o arquitectónico que se pretenda desarrollar, y
+
+II. Con relación al anteproyecto urbano o arquitectónico, el nombre del Director Responsable de Obra o Corresponsable de Obra, especialistas en diseño urbano, desarrollo urbano, urbanismo u ordenamiento territorial, acompañando las documentales que avalen dicha especialidad, quien deberá emitir una carta responsiva sobre la veracidad del contenido de la propuesta de modificación y avalar con su firma todas las documentales que presente el interesado.
+
+Para las fracciones I y II del artículo anterior, bastará que la autoridad de que se trate instruya a su área técnica la integración del expediente correspondiente con el requisito a que se refiere la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+Artículo 37 Quintus. La modificación a los Programas de Desarrollo Urbano Sustentable en cualquiera de sus modalidades se realizará con base en el siguiente procedimiento:
+
+I. Una vez girada la instrucción a que se refiere el último párrafo del artículo anterior o presentada la solicitud de modificación ante la Secretaría o la Dirección o área municipal encargada del ordenamiento territorial y desarrollo urbano sustentable, según corresponda, estas últimas, dentro del plazo de tres días hábiles analizarán, en su caso, el cumplimiento de los requisitos a que se refiere el artículo anterior e instruirán la integración del expediente;
+
+II. Integrado el expediente, la Secretaría por sí o a solicitud de la autoridad municipal, según corresponda, pondrán a disposición de la ciudadanía por un plazo de ocho días hábiles en su portal oficial de internet, la modificación propuesta para que se manifiesten observaciones, comentarios y sugerencias, vía electrónica o por escrito ante la Secretaría. Pasado ese plazo no se admitirá ninguna participación.
+
+Transcurrido el plazo para recibir las observaciones, comentarios y sugerencias de la ciudadanía y habiéndose rendido éstas, la Secretaría procederá a remitirlas a la autoridad municipal cuando así proceda, dentro de los tres días hábiles siguientes.
+
+La Secretaría o la autoridad municipal competente, según corresponda, deberán incorporar en el proyecto de modificación del Programa respectivo, las observaciones, comentarios y sugerencias de la ciudadanía que sean acordes a la normativa aplicable y los instrumentos de planeación vigentes, guardando relación con el objeto perseguido, dentro del plazo de cinco días hábiles siguientes;
+
+III. Dentro del plazo de tres días hábiles siguientes, la Dirección encargada del ordenamiento territorial y desarrollo urbano sustentable del Ayuntamiento remitirá de vuelta a la Secretaría el proyecto de modificación, para que en un plazo no mayor a diez días hábiles, emita el dictamen de congruencia con la normativa aplicable y los instrumentos de planeación vigentes, incluyendo los Programas de Ordenamiento Ecológico del Territorio. Dicho dictamen será requisito para la aprobación de la modificación del Programa Municipal por el Cabildo.
+
+El dictamen de congruencia que se refiere en el párrafo anterior, no se requerirá cuando la modificación se realice a instancia de la Secretaría y se trate de un Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, y
+
+IV. Cumplidas y documentadas las formalidades anteriores y una vez que la modificación al Programa sea aprobada por la Secretaría o por el Cabildo, estos ordenarán su publicación en el Periódico Oficial "Tierra y Libertad" y su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
+
+El Municipio o la Secretaría editarán la modificación al Programa para su difusión y lo mantendrán a consulta permanente.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+Artículo 37 Sextus. El proyecto de modificación a que se refiere la fracción I del artículo 37 Quater, deberá cumplir con los siguientes términos de referencia:
+
+A. Antecedentes:
+
+I. Localización geográfica del sitio, indicando las coordenadas geodésicas en Proyección Universal Transversa de Mercator, de cada uno de los vértices del predio, superficie, medidas y colindancias, acompañado del plano respectivo;
+
+II. En su caso, autorizaciones emitidas por la administración federal, estatal o municipal:
+
+a) Documental pública donde se señale que existe factibilidad para el suministro de agua potable, alcantarillado y energía eléctrica para el proyecto propuesto;
+
+b) Dictamen de protección civil sobre vulnerabilidad y riesgo;
+
+B. Marco normativo:
+
+I. Fundamentación y motivación de la modificación del Programa de Desarrollo Urbano Sustentable;
+
+II. Congruencia del proyecto de modificación del Programa de Desarrollo Urbano Sustentable:
+
+a) Con las políticas y estrategias de los niveles superiores de planeación, y
+
+b) Con la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos y sus Reglamentos;
+
+C) Estado actual:
+
+I. Análisis del contexto del proyecto:
+
+a) Descripción del polígono del predio de estudio;
+
+b) Características de las vialidades colindantes;
+
+c) Uso de suelo del predio de estudio y los colindantes, y
+
+d) Coeficientes actuales del predio de estudio;
+
+II. Análisis de los aspectos urbanos:
+
+a) Infraestructura;
+
+b) Vivienda;
+
+c) Vialidad;
+
+d) Transporte urbano;
+
+e) Equipamiento urbano;
+
+f) Industria;
+
+g) Turismo;
+
+h) Imagen urbana, y
+
+i) Conservación del patrimonio;
+
+III. Anexo fotográfico del predio y su contexto, georreferenciando cada fotografía en un plano y describiendo su contenido en el pie de foto;
+
+D) Desarrollo del proyecto de modificación:
+
+I. Propuesta de modificación del uso o destino del suelo, según sea el caso, conforme al proyecto, indicando coeficientes de uso de suelo, densidad, lote tipo, altura y niveles de construcción máximos permitidos;
+
+II. Propuesta del anteproyecto arquitectónico:
+
+a) Planos arquitectónicos;
+
+b) Planos de conjunto;
+
+c) Planos de cortes;
+
+d) Planos de fachadas;
+
+e) Perspectiva del proyecto insertado en el contexto urbano existente, y
+
+III. Valorización del proyecto:
+
+a) Medidas de mitigación del proyecto a ejecutar con respecto a:
+
+1. Infraestructura:
+
+i. Agua potable;
+
+ii. Electricidad;
+
+iii. Drenaje;
+
+iv. Drenaje pluvial;
+
+v. Suministro de gas;
+
+vi. Tratamiento de desechos sólidos, y
+
+vii. Telefonía;
+
+2. Vialidad y transporte;
+
+3. Equipamiento;
+
+4. Imagen urbana;
+
+5. Turismo;
+
+6. Patrimonio cultural;
+
+7. Riesgo y vulnerabilidad, y
+
+8. Eficiencia energética del proyecto;
+
+IV. Programación de obras, acciones y corresponsabilidad sectorial conforme a las medidas de mitigación del proyecto a corto, mediano y largo plazo:
+
+a) Proyectos a corto plazo (3 meses);
+
+b) Proyectos a mediano plazo (6 meses);
+
+c) Proyecto a largo plazo (12 meses), y
+
+d) Evidencia del cumplimiento de las obras y acciones con las autoridades correspondientes y la sociedad civil;
+
+E. Modificación al instrumento de planeación vigente:
+
+I. Carta urbana actual;
+
+II. Carta urbana propuesta;
+
+III. Matriz de compatibilidades actuales, y
+
+IV. Matriz de compatibilidades propuestas.
+
+F) Sistema de información geográfica;
+
+G) Bibliografía, y
+
+H) Anexo gráfico, integrará con las cartas urbanas necesarias de acuerdo al nivel de planeación del Programa de Desarrollo Urbano Sustentable que se encuentre en modificación.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+Artículo 37 Septimus. La modificación a los Programas de Ordenación de Zonas Conurbadas interestatales e intermunicipales, previstos en el artículo 32, fracción II, de la Ley, se sujetarán al procedimiento previsto en el artículo 37 Quintus, con la salvedad de que la aprobación de la modificación no podrá tener lugar sin la autorización previa de la Comisión de Conurbación Intermunicipal que se integre, en los términos del artículo 26 de la Ley.
+
+Por lo que una vez que el proyecto de modificación se encuentre dictaminado en su congruencia por la Secretaría, deberá remitirse por esta a la citada Comisión, a fin de que, en el plazo de diez días hábiles, apruebe la autorización correspondiente.
 
 ### CAPÍTULO QUINTO. FUNDACIÓN Y CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
 
@@ -825,17 +1121,27 @@ II. En las mesas de trabajo que se desarrollen, la sociedad podrá participar en
 
 III. Las propuestas de la sociedad organizada se presentarán por escrito en la mesa de trabajo que corresponda, las cuales deberán ser analizadas por el grupo de trabajo, quien definirá su procedencia y, en su caso, serán presentadas a la autoridad correspondiente para su inclusión en los programas de desarrollo urbano sustentable;
 
-IV. La población en general también podrá presentar propuestas y proyectos que incidan en los Programas de Desarrollo Urbano Sustentable, en sus diferentes procesos de formulación y modificación, mediante el escrito correspondiente, que deberá ser enviado a la Subsecretaría de Desarrollo Urbano y Vivienda, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-V. La autoridad tendrá que dar respuesta por escrito a todos los planteamientos improcedentes, determinando los motivos y fundamentos legales del caso.
+IV. La población en general también podrá presentar propuestas y proyectos que incidan en los Programas de Desarrollo Urbano Sustentable, en sus diferentes procesos de formulación y modificación, mediante el escrito correspondiente, que deberá ser presentado ante las autoridades que se establecen en el Reglamento, y
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+V. La autoridad podrá insertar a los Programas las propuestas y proyectos que se deriven de la participación social, siempre que se justifiquen conforme a la normativa aplicable y los instrumentos de planeación vigente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 46.
 
-El proceso de formulación y modificación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable contempla la participación de la sociedad mediante la consulta pública, la cual será abierta a toda la ciudadanía durante un periodo de sesenta días naturales.
+El proceso de formulación de los Programas contempla la participación de la sociedad mediante la consulta pública, la cual será abierta a toda la ciudadanía durante un periodo de sesenta días naturales.
 
-Se realizarán tres foros de consulta pública donde se recibirán planteamientos por escrito y de manera verbal, que servirán para enriquecer, modificar o complementar el referido Programa.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE OCTUBRE DE 2017)</small>
+
+Se realizarán tres foros de consulta pública donde se recibirán planteamientos por escrito y de manera verbal, que servirán para enriquecer, corregir o complementar el referido Programa.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+El proceso de modificación de los Programas se ajustará a lo dispuesto en el presente Reglamento.
 
 ###### Artículo 47.
 
@@ -843,11 +1149,13 @@ Con la finalidad de apoyar el cumplimiento del artículo 31, fracción VII, de l
 
 ###### Artículo 48.
 
-La Secretaría promoverá la participación de Comisión Estatal del Agua y Medio Ambiente en los procesos de planeación, a fin de que se propongan e implementen acciones tendientes a la conservación de los centros de población dentro de los Programas de Desarrollo Urbano Sustentable.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 49.
 
-La sociedad organizada podrá verificar que en la formulación o actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, se incluya la normatividad ambiental establecida en los programas y en los ordenamientos ecológicos de manejo de las áreas naturales protegidas, cuando un centro de población o parte de él se ubique dentro de la poligonal de áreas protegidas, tanto de carácter estatal como federal, para lo cual se solicitará la opinión de la Comisión Estatal del Agua y Medio Ambiente y de la Secretaría de Medio Ambiente y Recursos Naturales, respectivamente.
+La sociedad organizada podrá verificar que en la formulación o actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, se incluya la normatividad ambiental establecida en los programas y en los ordenamientos ecológicos de manejo de las áreas naturales protegidas, cuando un centro de población o parte de él se ubique dentro de la poligonal de áreas protegidas, para lo cual se solicitará la opinión de la Secretaría.
 
 ###### Artículo 50.
 
@@ -869,7 +1177,9 @@ La ciudadanía en general podrá presentar observaciones y sugerencias en materi
 
 Para efectos del artículo 41 de la Ley el fomento a la vivienda económica se dará bajo las siguientes condicionantes:
 
-a) Sólo podrán ser aprobados aquellos conjuntos que se ubiquen en zonas urbanas consolidadas, con una densidad igual o mayor a H2, que corresponde a una densidad de 31 viviendas por Hectárea;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+a) Sólo podrán ser aprobados aquellos conjuntos que se ubiquen en zonas urbanas consolidadas de acuerdo a lo que señale el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, con una densidad igual o mayor a H2, que corresponde a una densidad de 31 viviendas por Hectárea;
 
 b) Conjuntos no mayores a 48 viviendas;
 
@@ -883,23 +1193,33 @@ f) Vivienda con una superficie mínima de 45 m2 de construcción;
 
 g) Desarrollos sujetos a un Dictamen de Impacto urbano, Ambiental y de Riesgos;
 
-h) Incluir conceptos de sustentabilidad en las viviendas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+h) Incluir conceptos de sustentabilidad en las viviendas de conformidad con los artículos 56 y 57 del Reglamento de la Ley, en materia de Fusiones, Divisiones, Condominios y Conjuntos Urbanos;
 
 i) El Coeficiente de Ocupación de Suelo (COS) máximo permitido será de 0.50;
 
-j) El Coeficiente de Utilización de Suelo (CUS) máximo permitido será de 1.00, dejando como Coeficiente de Absorción de Suelo (CAS) el 0.40 por ciento;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-k) Vivienda con un costo menor a los 5,291 días de salario mínimo general vigente en Morelos;
+j) El Coeficiente de Utilización de Suelo (CUS) máximo permitido será de 2.00, dejando como Coeficiente de Absorción de Suelo (CAS) el 0.40 por ciento;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+k) Vivienda con un costo menor a los (sic) 158 Unidades de Medida y Actualización mensual general vigente en Morelos;
 
 l) La población beneficiada será aquella que se ubique en un rango de percepción de hasta 4 días de salario mínimo al día;
 
 m) Vivienda adquirida mayoritariamente por la población local, y
 
-n) Proyectos inscritos y validados por el Instituto de Vivienda de Morelos (INVIMOR) dirigidos a grupos sociales de escasos recursos de la población local.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+n) Proyectos inscritos y validados por la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal dirigidos a grupos sociales de escasos recursos de la población local.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 54.
 
-Las propuestas que cumplan con los requisitos señalados con (sic) en el artículo anterior podrán ser aprobadas y obtendrán el beneficio de una densidad habitacional H8, que corresponde con una densidad de hasta 190 viviendas por hectárea.
+Las propuestas que cumplan con los requisitos señalados con (sic) en el artículo anterior podrán ser aprobadas y obtendrán el beneficio de una densidad equivalente a H9, que corresponde con una densidad de hasta 190 viviendas por hectárea.
 
 ###### Artículo 55.
 
@@ -943,7 +1263,9 @@ I. Dentro de los treinta días hábiles siguientes a la fecha de radicación de 
 
 II. Una vez radicada la denuncia se notificará al quejoso y la autoridad o al propietario o desarrollador de la fecha y hora en que se celebrará la audiencia de conciliación. Esta notificación deberá hacerse de manera personal por lo menos con cuarenta y ocho horas de anticipación al día de la celebración de la audiencia conciliatoria;
 
-III. En la audiencia de conciliación deberán estar presentes todas las partes involucradas, siendo presidida por la autoridad conciliadora, debiendo sujetarse en todo momento al principio de legalidad, confidencialidad y respetar los lineamientos de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+III. En la audiencia de conciliación deberán estar presentes todas las partes involucradas, siendo presidida por la autoridad conciliadora, debiendo sujetarse en todo momento al principio de legalidad, confidencialidad y respetar los lineamientos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos;
 
 IV. En caso de que cualquiera de las partes altere el orden durante la audiencia, la autoridad conciliadora deberá conminarlo a que se conduzca con respeto, y en caso en que reincida en su conducta, la autoridad competente podrá solicitar el auxilio de la fuerza pública;
 
@@ -1076,3 +1398,47 @@ P.O. 3 DE MAYO DE 2017.
 PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES REGLAMENTARIAS ESTATALES EN MATERIA DE COMPETENCIA ECONÓMICA Y LIBRE CONCURRENCIA, MODIFICACIÓN A LOS PROGRAMAS DE DESARROLLO URBANO Y SE ESTABLECE UN RÉGIMEN TRANSITORIO DE EXCEPCIÓN ANTE EL DESASTRE NATURAL DE 19 DE SEPTIEMBRE DE 2017".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+TERCERA. En términos del artículo 91 de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, según el cual corresponde a las autoridades municipales, normar y coordinar las acciones que en materia de vivienda realicen las instituciones públicas y privadas, y el sector social, con el objeto de prever la disponibilidad de áreas de habitación para el caso de ocurrir contingencias ambientales y desastres, en los que se requiera la reubicación de la población; por única ocasión y de manera extraordinaria y emergente, ante el desastre natural que afectó al estado de Morelos con motivo del sismo del 19 de septiembre de 2017, se establece el siguiente régimen de excepción al procedimiento y requisitos a que aluden los adicionados artículos 37 Quater y 37 Quintus del Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial:
+
+I. Los interesados en solicitar el cambio de uso de suelo de un predio para realizar en él proyectos de vivienda popular, económica y de interés social, contarán con un plazo de diez días hábiles contados a partir del día siguiente a la entrada en vigor del presente instrumento, para presentar formal solicitud ante la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, acompañada del respectivo proyecto que contendrá:
+
+a) Localización geográfica del sitio, indicando las coordenadas geodésicas en Proyección Universal Transversa de Mercator, de cada uno de los vértices del predio, superficie, medidas y colindancias, acompañado del plano respectivo;
+
+b) Dictamen de protección civil sobre vulnerabilidad y riesgo, de conformidad con lo dispuesto por el artículo 9 BIS de la Ley de Vivienda del Estado Libre y Soberano de Morelos;
+
+c) Propuesta de modificación del uso o destino del suelo, según sea el caso, conforme al proyecto, indicando coeficientes de uso de suelo, densidad, lote tipo, altura y niveles de construcción máximos permitidos;
+
+d) Modificación al instrumento de planeación vigente:
+
+1. Carta urbana actual;
+
+2. Carta urbana propuesta;
+
+3. Matriz de compatibilidades actuales, y
+
+4. Matriz de compatibilidades propuestas;
+
+e) Sistema de información geográfica, y
+
+f) Anexo gráfico, (sic) integrará con la carta urbana del Programa Municipal de Desarrollo Urbano Sustentable que se encuentre en modificación.
+
+Transcurrido el plazo a que se refiere la presente fracción, no se recibirán más solicitudes;
+
+II. Integrado el expediente, la Secretaría emitirá dictamen de congruencia con la normativa aplicable y los instrumentos de planeación vigentes, dentro del plazo de diez días hábiles contados a partir de la recepción de la solicitud por parte del interesado;
+
+III. Cumplidas y documentadas las formalidades, la Secretaría remitirá el proyecto de modificación y respectivo dictamen de congruencia al Cabildo de que se trate para su aprobación, quien ordenará su publicación en el Periódico Oficial "Tierra y Libertad" y su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, a la brevedad posible dada la emergencia que prevalece;
+
+IV. El Municipio o la Secretaría editarán la modificación al Programa para su difusión y lo mantendrán a consulta permanente, y
+
+V. Cuando las modificaciones resulten aprobadas conforme a la presente disposición transitoria los interesados tendrán hasta el 31 de diciembre de 2017, para iniciar las obras o construcción de vivienda popular, económica y de interés social, materia de la autorización, en caso contrario se podrá dejar sin efectos la modificación al programa de que se trate, realizada por virtud de la presente disposición.
+
+CUARTA. A los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
