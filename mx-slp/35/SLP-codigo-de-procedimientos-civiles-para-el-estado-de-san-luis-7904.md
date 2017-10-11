@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2017-07-19"
+last_updated: "2017-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -539,15 +539,23 @@ En los casos de las fracciones I y II, los edictos se publicarán por tres veces
 
 ART. 117.- La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores por lista de acuerdos que diariamente debe publicarse en los estrados del Juzgado o Sala y en la página de internet del Poder Judicial hasta antes de las nueve horas del día hábil siguiente a la fecha en que se dicte el acuerdo.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE OCTUBRE DE 2017)</small>
 
-ART. 118.- Las partes podrán autorizar para oír notificaciones en su nombre a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional, o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
+ART. 118.- Las partes podrán autorizar para oír notificaciones en su nombre a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podráì (sic) substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional, o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, y no comparezca personalmente dentro de los autos a aceptar el cargo conferido, perderáì (sic) la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendráì (sic) las que se indican en el penúltimo párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal, haciendo saber las causas de la renuncia.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 Los juzgados y las salas llevarán un libro de registro electrónico de cédulas profesionales de abogados o licenciados en derecho, en donde deberán registrarse los profesionistas autorizados, y en el cual se verificarán los datos de los postulantes en quienes recaigan las autorizaciones otorgadas por las partes dentro del procedimiento.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 Las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quien no gozara de las demás facultades a que se refieren los párrafos anteriores.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 El juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
 
@@ -5646,5 +5654,13 @@ P.O. 19 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMAN DIVERSOS ARTÍCULOS DE LOS CÓDIGOS CIVIL, DE PROCEDIMIENTOS CIVILES, FAMILIAR Y PENAL TODOS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 723.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 118 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
