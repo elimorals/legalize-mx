@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-indigena-y-comunitaria-para-el-estado-de-102688
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-29"
-last_updated: "2014-09-29"
+last_updated: "2017-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 795
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 PRIMERO. Se EXPIDE la Ley de Justicia Indígena y Comunitaria del Estado de San Luis Potosí, para quedar como sigue
 
@@ -319,7 +321,9 @@ Tal informe deberá ser remitido al juez menor o de primera instancia que tenga 
 
 Los y las jueces auxiliares indígenas podrán imponer las sanciones previstas por el sistema normativo de su comunidad, o las penas y medidas de seguridad siguientes:
 
-I. Multa hasta por diez días de salario mínimo vigente en la respectiva zona económica;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+I. Multa hasta por diez días del valor de la unidad de medida y actualización vigente;
 
 II. Trabajo a favor de la comunidad por un término que no exceda de treinta días, o
 
@@ -343,7 +347,9 @@ Para hacer cumplir sus determinaciones, los y las jueces auxiliares podrán dict
 
 I. Apercibimiento, y
 
-II. Multa hasta por el importe de tres días de salario mínimo vigente en la zona económica respectiva.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+II. Multa hasta por el valor de tres días de la unidad de medida y actualización vigente.
 
 ###### ARTÍCULO 36.
 
@@ -392,3 +398,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 722.- SE REFORMAN LOS ARTÍCULOS 33 Y 35 DE LA LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ, Y REFORMA EL ARTÍCULO 28 DE LA LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
