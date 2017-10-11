@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-de-los-consejos-consultivos-ciudadanos-235
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-27"
-last_updated: "2002-02-27"
+last_updated: "2017-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO MUNICIPAL DE LOS CONSEJOS CONSULTIVOS CIUDADANOS DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO MUNICIPAL DE LOS CONSEJOS CONSULTIVOS CIUDADANOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE SANTA CATARINA NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO MUNICIPAL DE LOS CONSEJOS CONSULTIVOS CIUDADANOS DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de febrero de 2002.
 
@@ -194,3 +196,21 @@ DR. HUMBERTO GONZALEZ GARIBALDI
 C. SECRETARIO DEL AYUNTAMIENTO
 
 TRINIDAD ESCOBEDO AGUILAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA CREACIÓN DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN".]
+
+Artículo Primero.- Se derogan todas las disposiciones que contravengan al presente Reglamento, siendo que entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Por lo que hace al Presupuesto Participativo las unidades administrativas competentes habrán de contemplarlo en el Presupuesto de Egresos del Ejercicio Fiscal 2018.
+
+Artículo Tercero.- Se Abroga el Reglamento de los Comités de Desarrollo de la Comunidad, del Municipio de Santa Catarina Nuevo León; publicado en el Periódico Oficial en fecha 16 de Abril del 2007; y posteriores reformas.
+
+Artículo Cuarto.- Se Abroga el Reglamento de Participación Social para los Consejos Municipales de Desarrollo Social, del Municipio de Santa Catarina Nuevo León; publicado en el Periódico Oficial en fecha 23 de abril de 2008; y posteriores reformas.
+
+Artículo Quinto.- Se Abroga el Reglamento de los Consejos Consultivos Ciudadanos, del Municipio de Santa Catarina Nuevo León; publicado en el Periódico Oficial en fecha 27 de febrero de 2002; y posteriores reformas.
+
+Artículo Sexto.- Envíese al Ejecutivo para su publicación en el Periódico Oficial del Estado, y adicionalmente publíquese en la Gaceta Municipal, para su mejor difusión y cumplimiento.
