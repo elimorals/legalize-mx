@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-obra-publica-y-servicios-42329"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-29"
-last_updated: "2004-12-29"
+last_updated: "2017-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-REGLAMENTO DE LA LEY DE LA OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
+REGLAMENTO DE LA LEY DE LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 29 de diciembre de 2004.
 
@@ -154,6 +154,10 @@ II. Que se haya garantizado y formalizado el contrato o el acuerdo de ejecución
 III. Que se haya designado por escrito a las personas que se encargarán de la residencia de supervisión y de la superintendencia de construcción del contratista.
 
 En la realización de los trabajos se deberán prever los impactos económicos, sociales y ecológicos que se originen con su ejecución; de realizarse dentro de un centro de población o cerca de el, deberán ser acordes con los programas de desarrollo urbano que determine la ley de la materia, debiendo contar para ello con las autorizaciones correspondientes; salvo en los casos enunciados en las fracciones II y III del artículo 39 de la Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+Artículo 10 BIS. Las Dependencias, Secretarías o Ayuntamientos, estarán obligados a prever los efectos que sobre el medio ambiente pueda causar la ejecución de las obras públicas. Los proyectos deberán incluir las obras necesarias para que se preserven, mitiguen o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieran deteriorarse, tramitando al efecto el informe preventivo ante la Secretaría de Desarrollo Sustentable en los términos previstos en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y su Reglamento en materia de Evaluación del Impacto y Riesgo Ambiental.
 
 ### CAPÍTULO SEGUNDO. COMITÉS Y SUBCOMITÉS DE OBRAS PÚBLICAS
 
@@ -2444,3 +2448,49 @@ EL SECRETARIO DE CONTRALORÍA
 LIC. JOAQUÍN ROQUE GONZÁLEZ CEREZO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES REGLAMENTARIAS ESTATALES EN MATERIA DE COMPETENCIA ECONÓMICA Y LIBRE CONCURRENCIA, MODIFICACIÓN A LOS PROGRAMAS DE DESARROLLO URBANO Y SE ESTABLECE UN RÉGIMEN TRANSITORIO DE EXCEPCIÓN ANTE EL DESASTRE NATURAL DE 19 DE SEPTIEMBRE DE 2017".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+TERCERA. En términos del artículo 91 de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, según el cual corresponde a las autoridades municipales, normar y coordinar las acciones que en materia de vivienda realicen las instituciones públicas y privadas, y el sector social, con el objeto de prever la disponibilidad de áreas de habitación para el caso de ocurrir contingencias ambientales y desastres, en los que se requiera la reubicación de la población; por única ocasión y de manera extraordinaria y emergente, ante el desastre natural que afectó al estado de Morelos con motivo del sismo del 19 de septiembre de 2017, se establece el siguiente régimen de excepción al procedimiento y requisitos a que aluden los adicionados artículos 37 Quater y 37 Quintus del Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial:
+
+I. Los interesados en solicitar el cambio de uso de suelo de un predio para realizar en él proyectos de vivienda popular, económica y de interés social, contarán con un plazo de diez días hábiles contados a partir del día siguiente a la entrada en vigor del presente instrumento, para presentar formal solicitud ante la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, acompañada del respectivo proyecto que contendrá:
+
+a) Localización geográfica del sitio, indicando las coordenadas geodésicas en Proyección Universal Transversa de Mercator, de cada uno de los vértices del predio, superficie, medidas y colindancias, acompañado del plano respectivo;
+
+b) Dictamen de protección civil sobre vulnerabilidad y riesgo, de conformidad con lo dispuesto por el artículo 9 BIS de la Ley de Vivienda del Estado Libre y Soberano de Morelos;
+
+c) Propuesta de modificación del uso o destino del suelo, según sea el caso, conforme al proyecto, indicando coeficientes de uso de suelo, densidad, lote tipo, altura y niveles de construcción máximos permitidos;
+
+d) Modificación al instrumento de planeación vigente:
+
+1. Carta urbana actual;
+
+2. Carta urbana propuesta;
+
+3. Matriz de compatibilidades actuales, y
+
+4. Matriz de compatibilidades propuestas;
+
+e) Sistema de información geográfica, y
+
+f) Anexo gráfico, integrará con la carta urbana del Programa Municipal de Desarrollo Urbano Sustentable que se encuentre en modificación.
+
+Transcurrido el plazo a que se refiere la presente fracción, no se recibirán más solicitudes;
+
+II. Integrado el expediente, la Secretaría emitirá dictamen de congruencia con la normativa aplicable y los instrumentos de planeación vigentes, dentro del plazo de diez días hábiles contados a partir de la recepción de la solicitud por parte del interesado;
+
+III. Cumplidas y documentadas las formalidades, la Secretaría remitirá el proyecto de modificación y respectivo dictamen de congruencia al Cabildo de que se trate para su aprobación, quien ordenará su publicación en el Periódico Oficial "Tierra y Libertad" y su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, a la brevedad posible dada la emergencia que prevalece;
+
+IV. El Municipio o la Secretaría editarán la modificación al Programa para su difusión y lo mantendrán a consulta permanente, y
+
+V. Cuando las modificaciones resulten aprobadas conforme a la presente disposición transitoria los interesados tendrán hasta el 31 de diciembre de 2017, para iniciar las obras o construcción de vivienda popular, económica y de interés social, materia de la autorización, en caso contrario se podrá dejar sin efectos la modificación al programa de que se trate, realizada por virtud de la presente disposición.
+
+CUARTA. A los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
