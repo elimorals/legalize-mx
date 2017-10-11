@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2016-11-30"
+last_updated: "2017-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE TRANSITO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE TRÁNSITO PARA EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 11 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -1370,3 +1372,21 @@ Artículo Primero. La presente Ley iniciará su vigencia a partir del día sigui
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. El titular del Poder Ejecutivo del Estado deberá adecuar los reglamentos correspondientes, así como los programas y demás disposiciones administrativas aplicables que hagan operativa esta Ley.
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRÁNSITO PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. Salvo lo dispuesto por los artículos 36 y 63, la presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Lo relativo a la obligatoriedad de contar con póliza de seguro prevista por los artículos 36 y 63 entrará en vigor a partir del 1 de enero de 2018 para vehículos registrados en el Estado y cuyos propietarios tengan domicilio en los municipios de Corregidora, El Marqués y Querétaro; el 1 de enero de 2019 para vehículos registrados en el Estado y cuyos propietarios tengan domicilio en los municipios de Huimilpan, San Juan del Río y Tequisquiapan; y el 1 de enero de 2020 para vehículos registrados en el Estado y cuyos propietarios tengan domicilio en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, y Tolimán.
+
+Artículo Segundo. Se abroga la Ley de Tránsito del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el día 03 de octubre de 2003.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado deberá expedir, dentro del plazo de 90 días, el Reglamento de la Ley (sic) Tránsito para el Estado de Querétaro, mientras tanto, seguirá siendo aplicable, en lo que no se oponga a la Presente Ley, el actual Reglamento de Tránsito del Estado de Querétaro.
+
+Los municipios expedirán sus reglamentos de tránsito correspondientes.
+
+Artículo Cuarto. Los procedimientos que se encuentren en trámite ante la Secretaria o la autoridad municipal que corresponda, se resolverán de conformidad a los ordenamientos legales vigentes al momento de su inicio hasta su total resolución.
+
+Artículo Quinto. Los vehículos de escolta a que se refieren los artículos 42 y 43 de esta Ley, deberán estar registrados a más tardar el 31 de diciembre de 2017.
