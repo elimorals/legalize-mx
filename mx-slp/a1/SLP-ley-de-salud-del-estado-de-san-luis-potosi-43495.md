@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-10-10"
+last_updated: "2017-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -239,7 +239,9 @@ XXVIII. Albercas y baños públicos;
 
 XXIX. Centros de reunión y espectáculos;
 
-XXX. Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza, estéticas, casas de masaje, gimnasios y otros similares;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+XXX. Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza, estéticas, casas de masaje, gimnasios, estudios de tatuaje y/o perforaciones, y otros similares;
 
 XXXI. Tintorerías, lavanderías y lavaderos públicos;
 
@@ -1019,7 +1021,7 @@ II. La atención de la niña o niño en la vigilancia de su crecimiento y desarr
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-III. La promoción e información sobre:7 (sic) derechos sexuales y reproductivos, métodos anticonceptivos, planificación familiar, integración y el bienestar familiar, fomentando la responsabilidad de la madre y el padre en el crecimiento y desarrollo de sus hijas e hijos, y
+III. La promoción e información sobre: 7 (sic) derechos sexuales y reproductivos, métodos anticonceptivos, planificación familiar, integración y el bienestar familiar, fomentando la responsabilidad de la madre y el padre en el crecimiento y desarrollo de sus hijas e hijos, y
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -2521,6 +2523,10 @@ Para efectos de este Título se entiende por control sanitario, el conjunto de a
 
 Los establecimientos que señalan las fracciones XXI a XXXIV del Apartado A, y fracciones I a IV del Apartado B del artículo 5º. de esta Ley, no requieren licencia sanitaria, debiéndose ajustar al control, verificación y a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+Se exceptúan de este artículo los estudios de tatuaje y/o perforaciones, quienes deberán someterse a lo señalado en el Título Décimo Tercero de esta Ley.
+
 ###### ARTICULO 182.
 
 Los establecimientos que conforme a lo dispuesto en la presente Ley no requieran para su funcionamiento de licencia sanitaria, deberán presentar aviso de funcionamiento por escrito a la Secretaría de Salud del Estado, o en su caso, a los Servicios de Salud en el Estado, según corresponda conforme a las competencias dispuestas en esta Ley, por lo menos treinta días antes del inicio de operaciones.
@@ -3189,7 +3195,7 @@ En estas instituciones queda prohibida la introducción, uso, posesión y comerc
 
 ### CAPITULO XV
 
-Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; y Otros Similares
+Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; Estudios de Tatuaje y/o Perforaciones y Otros Similares
 
 ###### ARTICULO 294.
 
@@ -3241,6 +3247,8 @@ V. Hidrantes, y
 
 VI. Vehículo para traslado de enfermos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2017)</small>
+
 ### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
 
 ###### ARTICULO 302.
@@ -3256,6 +3264,20 @@ Para los efectos de esta Ley se entiende por peluquería, salones de belleza y e
 ###### ARTICULO 304.
 
 El funcionamiento y el personal instructor, prestador del servicio de los establecimientos señalados en los artículos 302 y 303 de esta Ley, deberán apegarse a lo establecido en la misma y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 304 TER (SIC). La Secretaría de Salud deberá brindar capacitación a las personas que se dediquen a la realización de tatuajes y/o perforaciones, sobre el manejo de sus utensilios, además de informar sobre los riesgos en caso de no hacerlo de forma adecuada.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 304 QUÁTER. La Secretaría de Salud deberá llevar a cabo un registro de dichos establecimientos, el cual deberá estar al alcance de la población en general.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 304 QUINQUE. Queda prohibido realizar tatuajes y/o perforaciones a personas menores de 18 años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. Sólo podrá exceptuarse lo anterior cuando los mayores de 16 años estén acompañados de alguno de sus padres o tutores.
+
+La violación de esta disposición se sancionará en los términos previstos en el artículo 382 de esta Ley, y conllevará a la revocación definitiva de la autorización respectiva.
 
 ###### ARTICULO 305.
 
@@ -3793,11 +3815,11 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 382.
 
-Se sancionará con multa equivalente hasta veinte veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 75, 89, 105, 108, 121,182, 192, 193, 195, 196, 197, 198, 247, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
+Se sancionará con multa equivalente hasta veinte veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 75, 89, 105, 108, 121, 182, 192, 193, 195, 196, 197, 198, 247, 304 QUINQUE, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -4304,3 +4326,11 @@ P.O. 10 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 724.- SE REFORMA EL ARTÍCULO 5° EN SU FRACCIÓN XXX, LA DENOMINACIÓN DEL CAPÍTULO XV, Y EL ARTÍCULO 382; Y ADICIONA, A Y LOS ARTÍCULOS 181 EL PÁRRAFO SEGUNDO, 304 TER, 304 QUÁTER, Y 304 QUINQUE, DE LA LEY DE SALUD DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
