@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2015-del-pleno-del-consejo-de-la-106010"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-24"
-last_updated: "2015-05-15"
+last_updated: "2017-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-02-19"
 ---
 # ACUERDO GENERAL 9/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN, PUBLICADO EN EL D.O.F. DE 11 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 9/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 24 de febrero de 2015.
 
@@ -708,3 +710,15 @@ D.O.F. 15 DE MAYO DE 2015.
 PRIMERO. El presente acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 11 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se instruye a las Direcciones Generales de Tecnologías de la Información, de Comunicación Social y de Recursos Humanos, para que, en el ámbito de sus atribuciones, den cumplimiento a lo establecido en el presente acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en la página web del Instituto.
+
+CUARTO. Se abroga el Acuerdo General 9/2015 del Pleno del Consejo de la Judicatura Federal y demás disposiciones que se opongan al presente.
