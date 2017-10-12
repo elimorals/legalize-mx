@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2017-09-08"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO CIVIL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -897,7 +899,9 @@ Integración del Consejo Dictaminador
 
 38 Ter.- El Consejo Dictaminador será un órgano colegiado que se conformará con la única finalidad de resolver sobre las solicitudes de cambio de sustantivo propio que mediante solicitud expresa se haya formulado en términos del presente Código y demás disposiciones aplicables y estará integrado por las o los titulares de:
 
-I. La Consejería Jurídica del Ejecutivo Estatal, quien lo presidirá;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+I. La Secretaría de Justicia y Derechos Humanos, quien lo presidirá.
 
 II. La Dirección General del Registro Civil con el carácter de Secretaría Técnica.
 
@@ -1797,7 +1801,7 @@ El Juez acordará de oficio cualquier providencia que considere benéfica para l
 
 Liquidación de la sociedad conyugal
 
-###### Articulo 4.
+###### Artículo 4.
 
 98.- Decretado el divorcio, se liquidará la sociedad conyugal, y se tomarán las precauciones necesarias para asegurar las obligaciones pendientes entre los cónyuges, o con relación a los hijos.
 
@@ -18414,3 +18418,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 12 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
