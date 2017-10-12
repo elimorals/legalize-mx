@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2016-12-20"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MEX"
 ---
 # CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -179,7 +183,7 @@ IV. Promover la cultura ambiental y el conocimiento público sobre la conservaci
 
 V. La operación, formulación y evaluación del Programa Estatal de Protección y Desarrollo de la Biodiversidad, así como el diseño y la implementación de instrumentos económicos que incentiven el cumplimiento de la normatividad ambiental;
 
-VI. la preservación, conservación, recuperación, rehabilitación, remediación, restauración y protección a la biodiversidad, al medio ambiente y al equilibrio ecológico, y en su caso, concurrir con la Federación en la política que al efecto se dicte cuando el asunto sea de interés nacional;
+VI. La preservación, conservación, recuperación, rehabilitación, remediación, restauración y protección a la biodiversidad, al medio ambiente y al equilibrio ecológico, y en su caso, concurrir con la Federación en la política que al efecto se dicte cuando el asunto sea de interés nacional;
 
 VII. La regulación de las actividades que no sean consideradas altamente riesgosas cuando por sus efectos puedan generar deterioro a la biodiversidad, desequilibrios ecológicos, alterar o dañar los ecosistemas y a los procesos biológicos ambientales del Estado o de sus Municipios;
 
@@ -196,8 +200,6 @@ XII. El ordenamiento ecológico en el Estado y los Municipios, así como los ase
 XIII. La regulación del aprovechamiento de los minerales o substancias no reservadas a la Federación que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su composición que solo puedan utilizarse para la fabricación de objetos ornamentales o materiales para la construcción, a efecto de que se desarrolle de conformidad con los criterios ambientales establecidos en las políticas del desarrollo sostenible;
 
 XIV. La preservación, conservación, protección, remediación, recuperación, rehabilitación o restauración del medio ambiente en los centros de población en relación con los efectos derivados de las obras y los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, depósitos de basura, rastros, tránsito y transporte local;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -351,8 +353,6 @@ XXV. Equilibrio ecológico: La relación de interdependencia entre los elementos
 
 XXVI. Estado: El Estado Libre y Soberano de México;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 XXVII. Evaluación de impacto ambiental. El procedimiento científico y técnico a través del cual al seno de la Comisión Estatal de Factibilidad, las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus defectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad.
@@ -470,8 +470,6 @@ b) La declaración, administración y recategorización de las áreas naturales 
 c) La prevención y el control de la contaminación a la atmósfera generada por aquellas fuentes que no sean de jurisdicción federal.
 
 d) La regulación del aprovechamiento y uso racional, de la prevención y del control de la contaminación de aguas de jurisdicción estatal.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1185,8 +1183,6 @@ IV. Una vez publicada en la Gaceta del Gobierno, su observancia será obligatori
 
 ### CAPITULO V. DE LA EVALUACION DEL IMPACTO AMBIENTAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
@@ -1206,8 +1202,6 @@ V. Exploración, explotación, extracción y procesamiento físico de sustancias
 VI. Sistemas de manejo y disposición de residuos sólidos urbanos, industriales no peligrosos, de manejo especial y peligrosos en términos de la Ley General para la Prevención y Gestión Integral de los Residuos;
 
 VII. Confinamientos, rellenos sanitarios, sitios de disposición, estaciones de transferencia, e instalaciones de tratamiento o de eliminación de residuos sólidos urbanos y de manejo especial;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1229,19 +1223,13 @@ XV. Centrales de abasto y mercados;
 
 XVI. Panteones y crematorios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
 
 XVII. Estaciones de servicio o gasolineras y estaciones de servicio de gas carburante, bodegas de almacenamiento de cilindros y contenedores de gas y actividades donde manejen y almacenen sustancias riesgosas, cuando no sean competencia del Gobierno Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
 
 XVIII. La prestación del servicio de guarda, custodia, reparación o depósito de vehículos; con excepción de los estacionamientos públicos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
 
@@ -1269,8 +1257,6 @@ IV. Descripción de la obra o actividad proyectada, desde la etapa de selección
 
 V. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 VII. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
@@ -1284,8 +1270,6 @@ Los promoventes de la obra o actividad podrán solicitar que se mantenga en rese
 ###### Artículo 2.
 
 69. Al realizar la evaluación del impacto ambiental, la Secretaría se ajustará a los programas de ordenamiento ecológico del territorio y considerará los planes de desarrollo urbano, las declaratorias de áreas naturales protegidas y sus programas de manejo, las normas y demás disposiciones jurídicas que resulten aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1351,8 +1335,6 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 77. La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en este Libro, estará obligada a reparar los daños ambientales que con tal motivo hubiere causado, sin perjuicio de la aplicación de las sanciones respectivas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
@@ -1365,8 +1347,6 @@ El Reglamento establecerá la forma a través de los cuales se hará efectivo el
 
 La persona que haga uso de las formas de participación social a los que se refiere este Libro sin motivos razonablemente fundados, realizando observaciones y peticiones notoriamente frívolas con el ánimo de entorpecer y retardar los procedimientos administrativos de evaluación de impacto ambiental, se hará acreedora a una sanción de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de las responsabilidades civiles y penales en las que pudiera incurrir de acuerdo a lo previsto en el presente Código y demás leyes que resulten aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
@@ -1374,8 +1354,6 @@ La persona que haga uso de las formas de participación social a los que se refi
 79. La resolución que ponga fin a un procedimiento de evaluación de impacto ambiental podrá, al seno de la Comisión Estatal de Factibilidad autorizar, condicionar o negar la autorización para la realización del proyecto sometido a evaluación.
 
 Para la negativa, autorización condicionada o definitiva de las obras, actividades o aprovechamientos a los que se refiere este Capítulo, la autoridad competente deberá fundar su resolución en lo dispuesto por este Libro, su Reglamento y demás disposiciones jurídicas que resulten aplicables y atenderá a las condiciones y límites establecidos en las normas oficiales mexicanas, criterios ecológicos y normas técnicas estatales, los planes de desarrollo urbano y de ordenamiento ecológico del territorio Estatal, así como a las observaciones y propuestas que resulten fundadas y que se hayan realizado de acuerdo a lo previsto en este Ordenamiento.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1593,7 +1571,7 @@ IV. Las universidades, centros de investigación, instituciones y organismos de 
 
 La Secretaría deberá tomar en cuenta los comentarios recibidos y poner a disposición de los interesados la respuesta a dichos comentarios.
 
-###### Articulo 2.
+###### Artículo 2.
 
 106. (DEROGADO, G.G. 22 DE ENERO DE 2014)
 
@@ -1623,11 +1601,11 @@ VII. Las causas de utilidad pública que en su caso fundamente la expropiación 
 
 VIII. Lineamientos y plazo para que la Secretaría elabore el programa de manejo del área, mismos que deberán publicarse en la Gaceta del Gobierno.
 
-###### Articulo 2.
+###### Artículo 2.
 
 109. Las áreas naturales protegidas estatales podrán comprender de manera parcial o total los predios sujetos a cualquier régimen de propiedad y una vez cumplido el procedimiento de la declaratoria quedarán bajo las prescripciones de protección de conformidad con el presente Libro y otras disposiciones aplicables.
 
-###### Articulo 2.
+###### Artículo 2.
 
 110. En las declaratorias a que se refiere el artículo anterior se determinará la forma como deban realizarse las acciones y medidas de protección al ambiente, de preservación y restauración del equilibrio ecológico, y en su caso los límites y condiciones a los que deberá sujetarse el aprovechamiento y uso de los elementos y recursos naturales dentro de las áreas naturales protegidas, así como los lineamientos para su administración y vigilancia conforme a lo dispuesto en este Libro y otras leyes aplicables, para lo cual se observará:
 
@@ -1643,7 +1621,7 @@ III. La promoción para generar nuevos patrones de desarrollo regional acordes c
 
 111. Una vez establecida un área natural protegida sólo podrá ser modificada su extensión y los usos del suelo permitidos o cualquiera de sus disposiciones por la autoridad competente que la haya establecido, de conformidad con los estudios que al efecto se realicen, siguiendo las mismas formalidades previstas en el presente Libro para la expedición de la declaratoria respectiva.
 
-###### Articulo 2.
+###### Artículo 2.
 
 112. Las áreas naturales protegidas establecidas por el Ejecutivo Estatal podrán comprender de manera parcial o total predios sujetos a cualquier régimen de propiedad cuya regulación sea de competencia de la Entidad.
 
@@ -1655,7 +1633,7 @@ El Ejecutivo Estatal y los Ayuntamientos a través de las dependencias competent
 
 Las disposiciones de este Libro, su Reglamento y demás disposiciones emanadas de ella serán aplicables a la regulación, administración y vigilancia concretas de cada área natural protegida sometida a un régimen particular de protección de los previstos en el presente Libro, y en defecto de la declaratoria respectiva o cuando ésta contravenga lo dispuesto en este Libro con relación a la categoría de área natural protegida de que se trate.
 
-###### Articulo 2.
+###### Artículo 2.
 
 114. El Ejecutivo Estatal en coordinación con las demás dependencias públicas del Gobierno del Estado que resulten competentes y con los Gobiernos de los Municipios en el ámbito de sus respectivas competencias:
 
@@ -1665,7 +1643,7 @@ II. Establecerá y promoverá la utilización de mecanismos para captar recursos
 
 III. Promoverá los incentivos económicos y los estímulos fiscales para las personas y organizaciones sociales, públicas o privadas que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos económicos para tales fines o destinen sus predios a acciones de preservación en términos del presente Libro.
 
-###### Articulo 2.
+###### Artículo 2.
 
 115. El Estado y sus Municipios en el ámbito de sus respectivas competencias podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos autóctonos y demás personas interesadas concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas de conformidad con lo que establece el presente Libro, la declaratoria y el programa de manejo correspondientes.
 
@@ -3413,8 +3391,6 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 311. La valoración económica la realizará la Secretaría a efecto de determinar el monto de cobertura que deberá comprender la garantía financiera o la póliza de seguro que se contrate con base en la evaluación de impacto ambiental que al efecto se requiera.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 De igual forma la Secretaría al seno de la Comisión Estatal de Factibilidad podrá negar la evaluación para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
@@ -3508,8 +3484,6 @@ IV. La protección y conservación de las zonas que sirvan de refugio a fauna y 
 I. Cadena productiva: La integración complementaria de actores y procesos que intervienen en la creación e incorporación de valor agregado a las materias primas forestales para la obtención de bienes y servicios que llegan al consumidor final;
 
 II. Degradación del suelo: Proceso que describe el fenómeno causado por el hombre que disminuye la capacidad presente o futura del suelo para sustentar vida vegetal, animal y humana;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
@@ -3703,8 +3677,6 @@ XII. Crear el Consejo Municipal Forestal de acuerdo al Reglamento que para el ef
 
 XIII. Otorgar las licencias de funcionamiento y de uso de suelo para la instalación de industrias forestales en su territorio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XIII Bis. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 XIV. La atención de los demás asuntos que en materia de desarrollo forestal sostenible les conceda el presente Código u otros ordenamientos; y
@@ -3785,17 +3757,15 @@ VII. Realizar programas de investigación para el desarrollo de los recursos y e
 
 VIII. Promover y coordinar con los sectores público, social y privado la creación de viveros y zonas de reforestación;
 
-> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados, para lo cual podrá solicitar el apoyo y coadyuvancia de la Secretaría de Seguridad Ciudadana;
+IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados, para lo cual podrá solicitar el apoyo y coadyuvancia de la Secretaría de Seguridad.
 
 X. Promover la organización productiva de los poseedores y propietarios forestales en el ámbito municipal, regional y estatal, así como gestionar la asesoría técnica y capacitación necesarias para el mejoramiento de sus procesos productivos;
 
 XI. Organizar los servicios técnicos y el registro y control de los peritos forestales;
 
 XII. Adquirir toda clase de bienes y realizar los actos que se requieran para el cumplimiento de su objeto; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XIII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
@@ -3811,7 +3781,9 @@ XV. Las demás que le atribuyan las disposiciones legales y los convenios o acue
 
 18. La dirección y administración de PROBOSQUE estará a cargo de un consejo directivo y un director general.
 
-El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares cuenta con cinco vocales que son los representantes de las Secretarías de Finanzas, Planeación y Administración, Desarrollo Económico, Desarrollo Urbano y Vivienda, Agua, Obra Pública e Infraestructura para el Desarrollo y Desarrollo Agropecuario.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares cuenta con cinco vocales que son los representantes de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano y Metropolitano, Comunicaciones, Obra Pública y Desarrollo Agropecuario.
 
 El director general será nombrado por el Gobernador del Estado a propuesta del presidente del consejo directivo.
 
@@ -4391,8 +4363,6 @@ Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procur
 
 ### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 3.
 
 100. El Reglamento establecerá los requisitos que deban reunir los inspectores, que acrediten la formación técnica o profesional, y la experiencia necesaria,
@@ -4403,21 +4373,15 @@ La Secretaría deberá observar en el desarrollo de los procedimientos de inspec
 
 Cuando de las visitas u operativos de inspección se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o cuando los actos, hechos u omisiones pudieran dar lugar a la imposición del decomiso como sanción administrativa, se podrá tomar alguna de las medidas de seguridad previstas en este Título.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
 100 Bis. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 3.
 
 100 Ter. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -4425,31 +4389,21 @@ Cuando de las visitas u operativos de inspección se determine que existe riesgo
 
 100 Quater. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 3.
 
 100 Quintus. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
 100 Sexies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 3.
 
 100 Septies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 3.
 
 100 Octies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
@@ -4496,8 +4450,6 @@ La amonestación sólo será aplicable a los infractores por primera vez, a crit
 ###### Artículo 3.
 
 106. Son responsables solidarios de las infracciones, quienes intervienen en su preparación o realización, y aun en los casos en que por omisión se haya incurrido en la infracción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
@@ -8004,3 +7956,11 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 12 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
