@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2017-09-06"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2017 EN EL G.G. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -205,7 +207,9 @@ La ley establecerá la información que se considere reservada o confidencial.
 
 Las resoluciones del organismo autónomo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
 
-Cuando dichas resoluciones puedan poner en peligro el interés público y la seguridad de las instituciones locales, la Consejería Jurídica podrá interponer recurso de revisión ante el Tribunal Superior de Justicia en términos de las disposiciones aplicables.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+Cuando dichas resoluciones puedan poner en peligro el interés público y la seguridad de las instituciones locales, la Secretaría de Justicia y Derechos Humanos podrá interponer recurso de revisión ante el Tribunal Superior de Justicia en términos de las disposiciones aplicables.
 
 El organismo autónomo garante podrá acudir ante el organismo garante federal a través de petición fundada para que éste conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten.
 
@@ -4562,3 +4566,11 @@ G.G. 6 DE SEPTIEMBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 12 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- POR EL QUE SE REFORMA EL SÉPTIMO PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
