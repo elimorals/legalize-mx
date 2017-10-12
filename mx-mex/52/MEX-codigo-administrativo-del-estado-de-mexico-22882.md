@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-09-29"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -291,11 +291,11 @@ La tramitación de esta declaratoria de extinción de los efectos del acto admin
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1.
 
-17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Secretaría de Desarrollo Urbano, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica.
+17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1587,7 +1587,7 @@ El registro será público y deberá estar disponible en la página de Internet 
 
 13.- Los Institutos Especializados de Salud son organismos públicos descentralizados, con personalidad jurídica y patrimonio propios, que tienen por objeto la investigación, enseñanza y prestación de servicios de alta especialidad.
 
-> <small>N. DE E. SE REFORMA EL SEGUNDO PÁRRAFO PARA QUEDAR COMO APARTADO A.</small>
+> <small>[N. DE E. SE REFORMA EL SEGUNDO PÁRRAFO PARA QUEDAR COMO APARTADO A.]</small>
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2005)</small>
 
@@ -1603,7 +1603,7 @@ III. Hospital Regional de Alta Especialidad de Zumpango; y
 
 IV. Los demás que el Ejecutivo del Estado considere necesarios.
 
-> <small>N. DE E. SE REFORMA EL TERCER PÁRRAFO PARA QUEDAR COMO APARTADO B.</small>
+> <small>[N. DE E. SE REFORMA EL TERCER PÁRRAFO PARA QUEDAR COMO APARTADO B.]</small>
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2005)</small>
 
@@ -2245,7 +2245,9 @@ IV. La Fiscalía General de Justicia del Estado de México;
 
 V. El Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
-VI. La Agencia de Seguridad Estatal;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+VI. La Secretaría de Seguridad.
 
 VII. La Comisión de Derechos de Humanos del Estado de México;
 
@@ -2379,15 +2381,21 @@ VII. Participar en coordinación con las Secretarías de Salud y de Educación, 
 
 VIII. Implementar en coordinación con las instituciones públicas y de las organizaciones de la sociedad civil, campañas dirigidas a la población mexiquense para desalentar el consumo de sustancias psicoactivas, particularmente entre los sujetos de asistencia social.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-43.- Para los efectos del presente capítulo, son atribuciones de la Agencia de Seguridad Estatal:
+43.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Seguridad:
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 I. Realizar acciones para la detección de la producción, venta, distribución, trasiego y consumo de sustancias prohibidas por la Ley;
 
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 II. Realizar, de manera coordinada con las instancias correspondientes, dentro del marco de sus atribuciones, acciones bajo criterios médicos y tecnológicos aceptados, para la detección de conductores influenciados por sustancias psicoactivas; y
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 III. Operar e instrumentar las acciones en materia de prevención y atención a las adicciones y al narcomenudeo en el ámbito de su competencia.
 
@@ -2841,7 +2849,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4671,7 +4679,7 @@ V. Las demás que ordenen los otros ordenamientos.
 
 ### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 5.
 
@@ -4837,7 +4845,9 @@ XXXIV. Relotificación: Al acto por el cual a dos o más lotes o áreas privativ
 
 XXXV. Reservas: A las áreas urbanizables previstas en los planes de desarrollo urbano para el crecimiento de un centro de población;
 
-XXXVI. Secretaría: A la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+XXXVI. Secretaría: A la Secretaría de Desarrollo Urbano y Metropolitano.
 
 XXXVII. Sistema Estatal: Al Sistema Estatal de Información del Desarrollo Urbano;
 
@@ -4905,7 +4915,7 @@ Los registradores de la propiedad sólo inscribirán dichas escrituras públicas
 
 ###### Artículo 5.
 
-7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y los municipios.
+7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y Metropolitano y los municipios.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6977,7 +6987,7 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 ### CAPITULO SEGUNDO. De los vehículos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ### CAPITULO TERCERO. De los conductores y propietarios
 
@@ -7023,7 +7033,9 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 I. El Gobernador del Estado;
 
-II. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto, así como la regulación del servicio de pago tarifario anticipado y la operación de Centros de Gestión y Control Común, de los mismos;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+II. La Secretaría de Movilidad, a quien corresponden las atribuciones relativas al transporte público y mixto, así como la regulación del servicio de pago tarifario anticipado y la operación de Centros de Gestión y Control Común, de los mismos;
 
 III. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas al transporte de uso particular.
 
@@ -7073,21 +7085,21 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 ###### Artículo 7.
 
-6.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro, incluyendo la eficiencia y sustentabilidad del transporte, y podrá así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
+6.- La Secretaría de Movilidad expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro, incluyendo la eficiencia y sustentabilidad del transporte, y podrá así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
 
-> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-La Secretaría de Transporte en coordinación con la del Medio Ambiente, establecerá un programa de reducción de contaminantes que incluirá los indicadores que sean necesarios.
+La Secretaría de Movilidad en coordinación con la del Medio Ambiente, establecerá un programa de reducción de contaminantes que incluirá los indicadores que sean necesarios.
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo, individual y mixto, deberán contar con sistemas moderadores de velocidad, denominados gobernadores de velocidad y con sistemas de videograbación que deberán almacenar su contenido en dispositivos de almacenamiento extraíbles, los que deberán colocarse en zonas de difícil acceso para las personas.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-7.- Corresponde a la Secretaría de Transporte matricular los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+7.- Corresponde a la Secretaría de Movilidad matricular los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -7113,11 +7125,11 @@ Para tal efecto, la Secretaría de Finanzas emitirá Reglas de Carácter General
 
 10.- La Secretaría de Finanzas podrá celebrar convenios con distribuidores, fabricantes o ensambladores de vehículos automotores, así como con las asociaciones de éstos, para que en esas instalaciones productivas o comerciales, por sí mismas o a través de ellos, se presten servicios relacionados con el control vehicular.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-11.- La Agencia de Seguridad Estatal coadyuvará con la Secretaría de Transporte, en las visitas de inspección y verificación del transporte público de pasajeros, quienes aplicarán las sanciones correspondientes en el ámbito de sus respectivas competencias.
+11.- La Secretaría de Seguridad coadyuvará con la Secretaría de Movilidad, en las visitas de inspección y verificación del transporte público de pasajeros, quienes aplicarán las sanciones correspondientes en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7165,7 +7177,9 @@ V. Denunciar la comisión de cualquier delito al interior de la unidad o del que
 
 I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
 
-II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Movilidad, según corresponda;
 
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo; y
 
@@ -7199,7 +7213,7 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 17.- En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ## TITULO TERCERO. De las concesiones, permisos y autorizaciones
 
@@ -7207,11 +7221,11 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 ### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-18.- Las disposiciones reglamentarias aplicables y la Secretaría de Transporte, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo 7.16.
+18.- Las disposiciones reglamentarias aplicables y la Secretaría de Movilidad, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo 7.16.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7219,7 +7233,9 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 19.- Las concesiones y permisos en materia de transporte público no otorgan exclusividad a los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
 
-La Secretaría de Transporte establecerá, mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+La Secretaría de Movilidad establecerá, mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7257,7 +7273,9 @@ Las concesiones obligan a sus titulares a la prestación directa del servicio.
 
 23.- Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
 
-La Secretaría de Transporte emitirá las disposiciones reglamentarias aplicables; establecerá las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+La Secretaría de Movilidad emitirá las disposiciones reglamentarias aplicables; establecerá las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -7271,11 +7289,11 @@ Los concesionarios y permisionarios serán solidariamente responsables con sus c
 
 Queda prohibido el otorgamiento de concesión, permiso o autorización a vehículos tipo motocicleta o similar, de propulsión mecánica, para la prestación del servicio público de transporte de pasajeros.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-25.- La Secretaría de Transporte podrá autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
+25.- La Secretaría de Movilidad podrá autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7285,15 +7303,21 @@ Queda prohibido el otorgamiento de concesión, permiso o autorización a vehícu
 
 I. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión o permiso;
 
-II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría de Transporte, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2011)</small>
+II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría de Movilidad, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código.
 
-III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte; así mismo deberán portar en lugar visible en sus unidades un tarjetón de identificación expedido por la Secretaría de Transporte, con la finalidad de contar con un formato que reúna los elementos gráficos y de escritura legibles al usuario para la identificación plena del operador;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-IV. Proporcionar en todo tiempo a las secretarías de Transporte o de Finanzas, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte; así mismo deberán portar en lugar visible en sus unidades un tarjetón de identificación expedido por la Secretaría de Movilidad, con la finalidad de contar con un formato que reúna los elementos gráficos y de escritura legibles al usuario para la identificación plena del operador.
 
-V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría de Transporte;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+IV. Proporcionar en todo tiempo a las secretarías de Movilidad o de Finanzas, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección.
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría de Movilidad.
 
 > <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2015)</small>
 
@@ -7311,23 +7335,33 @@ X. Mantener los vehículos y servicios auxiliares o conexos en condiciones de se
 
 XI. Obtener las inscripciones en el Registro Estatal de Transporte, conforme a los (sic) dispuesto en este Libro y su reglamentación;
 
-XII. Solicitar autorización previa de la Secretaría de Transporte para sustituir el vehículo o vehículos con que se presta el servicio;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+XII. Solicitar autorización previa de la Secretaría de Movilidad para sustituir el vehículo o vehículos con que se presta el servicio.
 
 XIII. Cumplir con la cromática y demás elementos de identificación de los vehículos, en términos de las disposiciones reglamentarias y administrativas;
 
 XIV. Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios o permisionarios;
 
-XV. Obtener autorización previa de las secretarías de Transporte o de Finanzas, en su caso, para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de garantías o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+XV. Obtener autorización previa de las secretarías de Movilidad o de Finanzas, en su caso, para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de garantías o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
 XVII. Tratándose de concesionarios del servicio público de arrastre, salvamento, guarda, custodia y depósito de vehículos, remitir de manera directa e inmediata los vehículos al depósito autorizado más cercano al lugar en donde se haya solicitado la prestación del servicio;
 
-XVIII. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, admitir como medio de pago de la tarifa el que determine la Secretaría de Transporte, basado en una tarjeta de prepago; así como utilizar, en todos sus vehículos, la tecnología y dispositivos señalados por la misma;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-XIX. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de los Centros de Gestión y Control Común, a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la Secretaría de Transporte;
+XVIII. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, admitir como medio de pago de la tarifa el que determine la Secretaría de Movilidad, basado en una tarjeta de prepago; así como utilizar, en todos sus vehículos, la tecnología y dispositivos señalados por la misma.
 
-XX. En la prestación del transporte de pasajeros en las modalidades de colectivo, individual y mixto, entregar boleto o comprobante autorizado por la Secretaría de Transporte a través del Instituto del Transporte;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+XIX. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de los Centros de Gestión y Control Común, a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la Secretaría de Movilidad.
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+XX. En la prestación del transporte de pasajeros en las modalidades de colectivo, individual y mixto, entregar boleto o comprobante autorizado por la Secretaría de Movilidad a través del Instituto del Transporte.
 
 XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo; y
 
@@ -7339,11 +7373,13 @@ XXII. Participar permanentemente en los programas, acciones y su difusión que e
 
 XXIII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-27.- Adicionalmente a lo establecido en el artículo anterior, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las Secretarías de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
+27.- Adicionalmente a lo establecido en el artículo anterior, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por la Secretaría de Movilidad; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 Las tarifas deberán establecer los descuentos que en su caso existan para personas de la tercera edad y estudiantes.
 
@@ -7371,11 +7407,11 @@ III. En general, pretenda que la prestación del servicio se haga contraviniendo
 
 La garantía podrá constituirse por un lapso que en ningún caso comprenderá la última quinta parte del tiempo en que deba finalizar la concesión.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-30.- En la escritura o contrato de garantía se insertará la autorización de la Secretaría de Transporte para garantizar, el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
+30.- En la escritura o contrato de garantía se insertará la autorización de la Secretaría de Movilidad para garantizar, el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7533,7 +7569,9 @@ VI. Grúa: Unidad de tracción utilizada para el arrastre de vehículos, que cum
 
 VII. Inventario: Documento que describe la condición física de la unidad objeto del servicio, así como las condiciones de la carga u objetos que contenga, al inicio del arrastre y salvamento;
 
-VIII. Permisionario: Persona física o jurídica colectiva autorizada por la Secretaría de Transporte para prestar servicio auxiliar de arrastre y traslado;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+VIII. Permisionario: Persona física o jurídica colectiva autorizada por la Secretaría de Movilidad para prestar servicio auxiliar de arrastre y traslado.
 
 IX. Usuario: Persona física y jurídica colectiva, a cuyo cargo se contrata, por la autoridad competente el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos;
 
@@ -7551,21 +7589,37 @@ XI. Tráiler, autobuses y cualquier tipo de remolques: Es un vehículo de carga 
 
 ###### Artículo 7.
 
-38.- Para los efectos de este Título, la Secretaría de Transporte, tendrá las atribuciones siguientes:
+38.- Para los efectos de este Título, la Secretaría de Movilidad, tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
 I. Otorgar las concesiones y permisos de los servicios auxiliares en términos de las disposiciones jurídicas aplicables;
 
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
 II. Resolver la terminación de las concesiones y permisos de los servicios auxiliares;
+
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
 III. Iniciar el procedimiento para la intervención de un servicio público hasta ponerlo en estado de resolución;
 
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
 IV. Determinar las tarifas por el servicio de arrastre y almacenamiento de vehículos;
+
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
 V. Verificar que los procedimientos administrativos que establece el presente Título, se realicen en términos de las disposiciones aplicables;
 
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
 VI. Dividir previo estudio técnico, la geografía del Estado en zonas, las cuales, serán asignadas de manera equitativa entre los concesionarios del servicio público de arrastre y salvamento de vehículos, dicha zonificación será revisada y validada de manera anual, durante los primeros quince días del mes de enero de cada año;
 
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
 VII. Ordenar mediante procedimiento administrativo al concesionario, la devolución de cobros excesivos, previa petición;
+
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
 VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
@@ -7619,11 +7673,13 @@ II. En el caso del servicio público auxiliar de salvamento y arrastre, adiciona
 
 a) La propiedad de los vehículos con los que prestará el servicio.
 
-b) El cumplimiento de las especificaciones técnicas que determine la Secretaría de Transporte;
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+b) El cumplimiento de las especificaciones técnicas que determine la Secretaría de Movilidad.
 
 c) Contar como mínimo, con una grúa de alguno de los tipos descritos en el artículo 7.58 del presente Título.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. De las infracciones y sanciones
 
@@ -7635,7 +7691,9 @@ c) Contar como mínimo, con una grúa de alguno de los tipos descritos en el art
 
 ###### Artículo 7.
 
-41.- Previo al otorgamiento de una concesión, la Secretaría de Transporte deberá realizar, por sí o con el apoyo de otras autoridades, los estudios técnicos y operativos que determinen la conveniencia de establecer nuevas concesiones de depósito o la integración de nuevos permisos del servicio de salvamento y arrastre.
+41.- Previo al otorgamiento de una concesión, la Secretaría de Movilidad deberá realizar, por sí o con el apoyo de otras autoridades, los estudios técnicos y operativos que determinen la conveniencia de establecer nuevas concesiones de depósito o la integración de nuevos permisos del servicio de salvamento y arrastre.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 Tratándose de concesiones para el servicio de depósito y guarda de vehículos, además de las fracciones contenidas en el artículo siguiente, con excepción de la fracción X, deberá contener:
 
@@ -7671,17 +7729,19 @@ IX. La firma de aceptación del permisionario;
 
 X. Los datos generales y características de los vehículos que ampara, y las características y condiciones generales de operación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-43.- Las concesiones y permisos para los servicios públicos auxiliares de depósito y guarda, así como de salvamento y arrastre, tendrán la vigencia establecida por el artículo 7.20 de este Libro, pero deberán prorrogarse anualmente en los plazos que para tal efecto determine la Secretaría de Transporte, los que deberán publicarse en el Periódico Oficial "Gaceta del Gobierno", en el mes de abril del año que corresponda.
+43.- Las concesiones y permisos para los servicios públicos auxiliares de depósito y guarda, así como de salvamento y arrastre, tendrán la vigencia establecida por el artículo 7.20 de este Libro, pero deberán prorrogarse anualmente en los plazos que para tal efecto determine la Secretaría de Movilidad, los que deberán publicarse en el Periódico Oficial "Gaceta del Gobierno", en el mes de abril del año que corresponda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-44.- La prórroga es la revalidación que otorga la Secretaría de Transporte, para que se continúe prestando el servicio concesionado o permisionado.
+44.- La prórroga es la revalidación que otorga la Secretaría de Movilidad, para que se continúe prestando el servicio concesionado o permisionado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 Para su procedencia, la autoridad competente verificará que se mantienen los medios y las condiciones adecuadas para la prestación del servicio concesionado, conforme a las disposiciones legales aplicables.
 
@@ -7703,7 +7763,9 @@ V. Realizar el pago de la prórroga;
 
 VI. Acreditar el pago del impuesto predial correspondiente, en el caso del servicio de depósito y guarda de vehículos;
 
-VII. Presentar constancia original de revisión vehicular, expedida por la Secretaría de Transporte, tratándose del servicio público auxiliar de salvamento y arrastre;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+VII. Presentar constancia original de revisión vehicular, expedida por la Secretaría de Movilidad, tratándose del servicio público auxiliar de salvamento y arrastre;
 
 VIII. Presentar constancia original de verificación vehicular de emisión de contaminantes, tratándose de permiso de salvamento y arrastre.
 
@@ -7741,7 +7803,9 @@ Cualquier acto mediante el cual se pretenda cederse, gravarse o enajenarse las c
 
 I. Falta de prórroga;
 
-II. Acuerdo expreso y fundado en el interés público, que dicte el Titular de la Secretaría de Transporte.
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+II. Acuerdo expreso y fundado en el interés público, que dicte el Titular de la Secretaría de Movilidad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7751,13 +7815,17 @@ II. Acuerdo expreso y fundado en el interés público, que dicte el Titular de l
 
 I. Trasladar, arrastrar, recibir, custodiar, guardar vehículos robados o con reporte de robo, salvo la excepción prevista por el artículo 7.63 párrafo segundo de este Título;
 
-II. Perder, por cualquier causa, en perjuicio del concesionario, la propiedad o posesión del inmueble destinado al servicio, salvo que se hubiere obtenido previamente la autorización de la Secretaría de Transporte para reubicar el sitio del depósito, en cuyo caso, se deberá expedir una nueva concesión con los datos del nuevo domicilio, tratándose de los prestadores del servicio de depósito y guarda de vehículos;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+II. Perder, por cualquier causa, en perjuicio del concesionario, la propiedad o posesión del inmueble destinado al servicio, salvo que se hubiere obtenido previamente la autorización de la Secretaría de Movilidad para reubicar el sitio del depósito, en cuyo caso, se deberá expedir una nueva concesión con los datos del nuevo domicilio, tratándose de los prestadores del servicio de depósito y guarda de vehículos;
 
 III. Cambiar el objeto social del concesionario, haciéndose incompatible con la prestación del servicio, tratándose de personas jurídicas colectivas.
 
 La revocación de la concesión tiene por efecto, la pérdida definitiva de los derechos de explotación de la concesión.
 
-En el caso del servicio público auxiliar de depósito y guarda vehicular, una vez emitido y publicado el Acuerdo de revocación, la Secretaría de Transporte, aún mediante el uso de la fuerza pública, tomará posesión de los vehículos depositados y de los archivos, bitácoras, registros y documentación que los ampare, trasladándolos a costa del concesionario, a otro establecimiento concesionado o proveyendo las medidas urgentes que resulten necesarias para garantizar la debida conservación y cuidado de los bienes depositados.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+En el caso del servicio público auxiliar de depósito y guarda vehicular, una vez emitido y publicado el Acuerdo de revocación, la Secretaría de Movilidad, aún mediante el uso de la fuerza pública, tomará posesión de los vehículos depositados y de los archivos, bitácoras, registros y documentación que los ampare, trasladándolos a costa del concesionario, a otro establecimiento concesionado o proveyendo las medidas urgentes que resulten necesarias para garantizar la debida conservación y cuidado de los bienes depositados.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7779,23 +7847,33 @@ VI. Llevar un registro físico y electrónico de control debidamente pormenoriza
 
 VII. Respetar las tarifas establecidas para la prestación del servicio, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible en las oficinas de atención al público, del establecimiento donde se depositen los vehículos;
 
-VIII. Cumplir y mantener las especificaciones físicas para los sitios de deposito que este Libro prevé, así como las que fije la Secretaría de Transporte al momento de otorgar la concesión o al realizarse la prórroga anual correspondiente;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-IX. Permitir al personal competente de la Secretaría de Transporte, el acceso al inmueble, estacionamiento, sitio o local donde se realice el depósito de los vehículos, a efecto de vigilar el cumplimiento de este Libro;
+VIII. Cumplir y mantener las especificaciones físicas para los sitios de depósito que este Libro prevé, así como las que fije la Secretaría de Movilidad al momento de otorgar la concesión o al realizarse la prórroga anual correspondiente.
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+IX. Permitir al personal competente de la Secretaría de Movilidad, el acceso al inmueble, estacionamiento, sitio o local donde se realice el depósito de los vehículos, a efecto de vigilar el cumplimiento de este Libro.
 
 X. Contratar y mantener vigente una póliza de seguro de responsabilidad civil a través de alguna empresa legalmente constituida, por los posibles daños que se ocasionen a los vehículos depositados, la que deberá hacerse en un término no mayor a veinte días hábiles, contados a partir del otorgamiento de la concesión, debiendo acreditarlo ante la autoridad competente;
 
-XI. Establecer un número telefónico gratuito que funcione las veinticuatro horas del día los trescientos sesenta y cinco días del año al servicio de la ciudadanía, así como, una página web enlazada a la Secretaría de Transporte, en la que se publicarán de manera inmediata los datos del vehículo que se encuentre bajo su resguardo y un par de fotografías que acredite el estado en que lo recibieron;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-XII. Acatar y dar cumplimiento a las resoluciones que emita la Secretaría de Transporte en el procedimiento a que hace referencia el artículo 7.71;
+XI. Establecer un número telefónico gratuito que funcione las veinticuatro horas del día los trescientos sesenta y cinco días del año al servicio de la ciudadanía, así como, una página web enlazada a la Secretaría de Movilidad, en la que se publicarán de manera inmediata los datos del vehículo que se encuentre bajo su resguardo y un par de fotografías que acredite el estado en que lo recibieron.
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+XII. Acatar y dar cumplimiento a las resoluciones que emita la Secretaría de Movilidad en el procedimiento a que hace referencia el artículo 7.71.
 
 XIII. Las demás que se establezcan en otras disposiciones legales y administrativas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-53.- Los concesionarios del servicio público auxiliar de depósito y guarda de vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Transporte para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
+53.- Los concesionarios del servicio público auxiliar de depósito y guarda de vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Movilidad para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 Asimismo, podrá permitirse a los particulares que acrediten interés jurídico o legítimo, extraer del vehículo, documentación y objetos personales, siempre en presencia del personal autorizado del establecimiento y levantando constancia circunstanciada de dicha disposición.
 
@@ -7827,9 +7905,13 @@ IV. Llevar un registro físico y electrónico de control, debidamente pormenoriz
 
 V. Respetar las tarifas establecidas para la prestación del servicio, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible en las oficinas de atención al público, del establecimiento donde se depositen los vehículos;
 
-VI. Cumplir y mantener las especificaciones técnicas para los vehículos destinados a realizar las maniobras de salvamento y arrastre que este Libro prevé, así como las que fije la Secretaría del Transporte al momento de otorgar el permiso o al realizarse la prórroga de este último;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-VII. Permitir al personal competente de la Secretaría de Transporte, el acceso a sus oficinas, sitio o local donde se realicen las actividades de coordinación, operación y mantenimiento de los vehículos destinados a prestar el servicio de salvamento y arrastre, a efecto de vigilar el cumplimiento de este Libro;
+VI. Cumplir y mantener las especificaciones técnicas para los vehículos destinados a realizar las maniobras de salvamento y arrastre que este Libro prevé, así como las que fije la Secretaría del (sic) Movilidad al momento de otorgar el permiso o al realizarse la prórroga de este último.
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+VII. Permitir al personal competente de la Secretaría de Movilidad, el acceso a sus oficinas, sitio o local donde se realicen las actividades de coordinación, operación y mantenimiento de los vehículos destinados a prestar el servicio de salvamento y arrastre, a efecto de vigilar el cumplimiento de este Libro;
 
 VIII. Contratar y mantener vigente una póliza de seguro de responsabilidad civil que ampare los vehículos sujetos a traslado, a través de alguna empresa legalmente constituida y autorizada por la Comisión Nacional de Seguros y Fianzas;
 
@@ -7843,7 +7925,9 @@ IX. Las demás que establezcan otras disposiciones legales y administrativas.
 
 I. Cobrar la tarifa autorizada por la prestación del servicio, a quienes acrediten interés jurídico o legítimo del vehículo;
 
-II. Proponer a la Secretaría de Transporte, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+II. Proponer a la Secretaría de Movilidad, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
 
 III. Los demás que le otorguen otras disposiciones jurídicas.
 
@@ -7855,7 +7939,9 @@ III. Los demás que le otorguen otras disposiciones jurídicas.
 
 I. Cobrar la tarifa autorizada por la prestación del servicio, a quienes acrediten interés jurídico o legítimo del vehículo;
 
-II. Proponer a la Secretaría de Transporte, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+II. Proponer a la Secretaría de Movilidad, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
 
 III. Los demás que le otorguen otras disposiciones jurídicas.
 
@@ -7989,7 +8075,9 @@ VII. Número de folio del reporte;
 
 VIII. El permisionario del servicio de salvamento y arrastre de vehículos solo podrá realizar las maniobras de traslado, únicamente cuando los vehículos por las condiciones y naturaleza del hecho no puedan ser trasladados por sus conductores o propietarios, así como cuando se nieguen a trasladarlos y la autoridad lo ordene.
 
-La Secretaría de Transporte elaborará y comunicará a los permisionarios, los formatos específicos para el reporte a que se refiere este artículo, cuyo uso, en este caso, será obligatorio.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+La Secretaría de Movilidad elaborará y comunicará a los permisionarios, los formatos específicos para el reporte a que se refiere este artículo, cuyo uso, en este caso, será obligatorio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -8103,7 +8191,9 @@ VIII. Relación y descripción pormenorizada de los objetos que se encuentren en
 
 IX. Número de folio que permita individualizar e identificar el recibo.
 
-La Secretaría de Transporte elaborará y comunicará a los concesionarios, formatos específicos para el recibo a que se refiere este artículo, cuyo uso en este caso, será obligatorio.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+La Secretaría de Movilidad elaborará y comunicará a los concesionarios, formatos específicos para el recibo a que se refiere este artículo, cuyo uso en este caso, será obligatorio.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -8121,17 +8211,17 @@ La liberación de vehículos ordenada por autoridad judicial o administrativa, n
 
 Una vez cubiertos los requisitos antes referidos el concesionario entregará el vehículo conforme a lo dispuesto en el artículo 7.52 fracción IV, de este Libro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 #### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 7.
 
-71.- Si al momento de la devolución del vehículo, el interesado detectare faltantes o averías que no consten en el inventario, podrá presentar una queja ante la Secretaría de Transporte, dentro de los quince días hábiles siguientes al momento en que le fue entregado.
+71.- Si al momento de la devolución del vehículo, el interesado detectare faltantes o averías que no consten en el inventario, podrá presentar una queja ante la Secretaría de Movilidad, dentro de los quince días hábiles siguientes al momento en que le fue entregado.
 
-Recibida la queja, la Secretaría de Transporte citará al agraviado y al concesionario a una audiencia, que se llevará a cabo dentro de los diez días hábiles siguientes a la recepción de la queja, en la que se procurará una conciliación.
+Recibida la queja, la Secretaría de Movilidad citará al agraviado y al concesionario a una audiencia, que se llevará a cabo dentro de los diez días hábiles siguientes a la recepción de la queja, en la que se procurará una conciliación.
 
-De no lograrse la conciliación, la Secretaría de Transporte emitirá la resolución correspondiente.
+De no lograrse la conciliación, la Secretaría de Movilidad emitirá la resolución correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -8333,9 +8423,13 @@ VII. Multa de doscientas cincuenta a trescientas veces el valor diario de la Uni
 
 a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica. Esta sanción se aplicará sin perjuicio de la retención del vehículo y la responsabilidad en que se pudiera incurrir, siendo igualmente solidario el concesionario o permisionario por los actos del personal a su servicio;
 
-b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Transporte en términos del Reglamento correspondiente;
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
+b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Movilidad en términos del Reglamento correspondiente.
+
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Movilidad.
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -8347,7 +8441,9 @@ IX. Multa de cien a quinientas veces el valor diario de la Unidad de Medida y Ac
 
 a) Reciba en depósito vehículos para los cuales existe impedimento de conformidad con el Título Quinto del presente Libro;
 
-b) Omita o utilice inadecuadamente los formatos que la Secretaría de Transporte establezca para prestar los servicios que regula este Libro o utilizar formatos distintos a los autorizados;
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+b) Omita o utilice inadecuadamente los formatos que la Secretaría de Movilidad establezca para prestar los servicios que regula este Libro o utilizar formatos distintos a los autorizados.
 
 c) Omitir implementar o ejecutar las medidas de control y vigilancia que este Libro ordena o que se consignen en el título de concesión o permiso correspondiente;
 
@@ -8385,9 +8481,13 @@ i) Realizar los servicios que regula este Libro, sin la concesión o permiso cor
 
 I. Se incurra en más de dos ocasiones dentro de un período de 365 días naturales, en alguna de las conductas a que se refiere el artículo anterior;
 
-II. Omitir que se implementen o ejecuten, dentro del plazo que señale la Secretaría de Transporte, las medidas de control y vigilancia a que el concesionario o permisionario esté obligado;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-III. Se impida, obstruya o dificulte indebidamente, al personal de la Secretaría de Transporte o a las autoridades competentes, la práctica de actividades de inspección para vigilar el cumplimiento de este Libro y demás ordenamientos legales aplicables;
+II. Omitir que se implementen o ejecuten, dentro del plazo que señale la Secretaría de Movilidad, las medidas de control y vigilancia a que el concesionario o permisionario esté obligado.
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+III. Se impida, obstruya o dificulte indebidamente, al personal de la Secretaría de Movilidad o a las autoridades competentes, la práctica de actividades de inspección para vigilar el cumplimiento de este Libro y demás ordenamientos legales aplicables.
 
 IV. Omitir entregar a los interesados la factura o el recibo fiscal de pago por la prestación del servicio;
 
@@ -14421,9 +14521,9 @@ b) Proyectos sustentados en los que se proponga la terminación anticipada, revo
 
 IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico:
 
-> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-V. Proyectar y diseñar en coordinación con la Secretaría de Transporte, las rutas alimentadoras para el transporte de alta capacidad y teleférico y coadyuvar en su puesta en operación;
+V. Proyectar y diseñar en coordinación con la Secretaría de Movilidad, las rutas alimentadoras para el transporte de alta capacidad y teleférico y coadyuvar en su puesta en operación;
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -15095,7 +15195,7 @@ c) Suscriba conjuntamente con el Director Responsable de Obra el visto bueno de 
 
 > <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-###### Articulo 18.
+###### Artículo 18.
 
 19 Quáter.- El Corresponsable de Obra tendrá las obligaciones siguientes:
 
@@ -15201,7 +15301,9 @@ III. De acuerdo al tipo de licencia de construcción que se solicite, adicionalm
 
 A). Para obra nueva, así como para la ampliación, modificación o reparación que afecte elementos estructurales de una obra existente:
 
-1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano y Metropolitano.
 
 2. Constancia de alineamiento y número oficial;
 
@@ -18669,7 +18771,7 @@ CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan 
 
 G.G. 13 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL NUEVE DE DICIEMBRE DE 2016".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL NUEVE DE DICIEMBRE DE 2016”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18699,7 +18801,7 @@ Los asuntos que se encuentren en trámite a la entrada en vigor del presente Dec
 
 Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
 
-Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
 
 SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
 
@@ -18744,3 +18846,11 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 12 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
