@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-datos-personales-en-posesion-de-122652"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-07-26"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de julio de 2017.
 
@@ -1745,7 +1745,7 @@ I. Los documentos que acrediten su identidad y la de su representante, en su cas
 
 II. El documento que acredite la personalidad de su representante, en su caso;
 
-III. La copia de la solicitud a través de la cual ejerció sus derechos ARCO o de portabilidad de los datos personales y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+III. (DEROGADA, P.O. 12 DE OCTUBRE DE 2017)
 
 IV. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso, y
 
@@ -2507,11 +2507,13 @@ SEGUNDO. Se abroga la Ley de Protección de Datos Personales del Estado de Campe
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo los (sic) que se oponga al contenido del presente decreto.
 
-CUARTO. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar seis meses después de la entrada en vigor de ésta ley.
+CUARTO. (DEROGADO, P.O. 12 DE OCTUBRE DE 2017)
 
 QUINTO. Los procedimientos de acceso, rectificación, oposición o cancelación de datos personales, los recursos de revisión y los procedimientos de vigilancia que se estén tramitando al momento en que entre en vigor el presente decreto se resolverán y sustanciarán hasta su conclusión conforme a la Ley vigente al momento de la presentación de la solicitud o interposición del recurso.
 
-SEXTO. La Comisión deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2017)</small>
+
+SEXTO. La Comisión deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, a más tardar el 26 de enero de 2018.
 
 SÉPTIMO. Los sujetos obligados deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de seis meses siguientes a la entrada en vigor de esta Ley.
 
@@ -2530,3 +2532,13 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiún días del mes de julio del año dos mil diecisiete.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 209 POR EL QUE "SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 140 Y EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
