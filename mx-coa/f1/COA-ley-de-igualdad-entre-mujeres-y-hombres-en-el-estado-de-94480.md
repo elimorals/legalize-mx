@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2017-01-17"
+last_updated: "2017-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -729,9 +729,13 @@ I. Favorecer el trabajo legislativo con la perspectiva de género;
 
 II. Garantizar, en el ámbito de su competencia, el derecho a una educación igualitaria, plural y libre de estereotipos de género;
 
-III. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas locales;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y,
+III. Garantizar la implantación de mecanismos que promuevan la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+IV. Promover la participación equitativa del 50% en cargos públicos de Directora o Director General; Directora o Director Ejecutivo y Directora o Director de Área, de los órganos político-administrativos;
 
 V. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes ejecutivo legislativo y judicial.
 
@@ -1176,3 +1180,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación el Pe
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 939.- SE REFORMA Y ADICIONA LAS FRACCIONES III Y IV RECORRIENDO TODAS LAS ULTERIORES DEL ARTÍCULO 43 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
