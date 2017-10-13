@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-caminos-del-86671
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-09"
-last_updated: "2012-03-09"
+last_updated: "2017-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO, PUBLICADO EN EL P.O. DE 13 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 9 de marzo de 2012.
 
@@ -526,3 +528,15 @@ Ing. Sergio Amín Chufani Abarca
 Secretario de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO".]
+
+Artículo Primero. Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en el mencionado órgano de difusión oficial.
+
+Artículo Tercero. Se abroga el Reglamento Interior de la Comisión Estatal de Caminos, publicado el nueve de marzo de dos mil doce, en el Periódico Oficial del Gobierno del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
