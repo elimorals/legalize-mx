@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-mexiquense-de-la-vivienda-420
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-13"
-last_updated: "2012-11-29"
+last_updated: "2017-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de diciembre de 2004.
 
@@ -111,9 +111,11 @@ III. Conocer del incumplimiento a las disposiciones del Instituto y aplicar, en 
 
 IV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, el Director General se auxiliará de las unidades administrativas básicas siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Dirección Jurídica.
 
@@ -121,17 +123,13 @@ II. Dirección de Administración del Suelo.
 
 III. Coordinación de Delegaciones Regionales.
 
-IV. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
+IV. Dirección de Promoción y Fomento a la Vivienda.
 
-V. Dirección de Promoción y Fomento a la Vivienda.
+V. Dirección de Administración y Finanzas.
 
-VI. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
+VI. Delegaciones Regionales.
 
-VII. Dirección de Administración y Finanzas.
-
-VIII. Delegaciones Regionales.
-
-IX. Contraloría Interna.
+VII. Contraloría Interna.
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -185,37 +183,85 @@ XIV. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 Corresponde a la Dirección Jurídica:
 
-I. Representar al Instituto en los asuntos jurídicos en los que sea parte, previo mandato que al efecto le otorgue el Director General y realizar el oportuno seguimiento a los procedimientos hasta su conclusión.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-II. Elaborar los proyectos de contratos, convenios, acuerdos y demás instrumentos jurídicos que se requieran para el cumplimiento de las atribuciones del Instituto y someterlos a la consideración del Director General.
+I. Establecer criterios de aplicación, interpretación y cumplimiento de las disposiciones jurídicas que regulen el funcionamiento del Instituto.
 
-III. Formular los convenios administrativos con los promotores de vivienda, fraccionadores, propietarios o poseedores de predios.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-IV. Denunciar ante las autoridades competentes, los actos de los que tenga conocimiento en ejercicio de sus funciones y que puedan constituir delitos, formulando a nombre del Instituto las denuncias y querellas que procedan.
+II. Emitir proyectos de modificación a las disposiciones jurídicas existentes en materia de vivienda social, de regulación de suelo y regularización de la tenencia de la tierra.
 
-V. Solicitar la expropiación de terrenos de propiedad privada, ejidal o comunal, conforme a las disposiciones legales.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-VI. Asesorar jurídicamente a los servidores públicos del Instituto en asuntos relacionados con sus funciones.
+III. Compilar y difundir leyes, reglamentos, decretos y demás disposiciones de carácter normativo general que constituyan el marco jurídico de actuación del Instituto.
 
-VII. Fijar los criterios de aplicación, interpretación y cumplimiento de las disposiciones jurídicas que regulan el funcionamiento del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-VIII. Sustanciar los procedimientos administrativos que se promuevan en contra de las resoluciones que emita el Instituto y elaborar la resolución que corresponda.
+IV. Elaborar proyectos de contratos, convenios, acuerdos y demás instrumentos jurídicos en que tenga injerencia el Instituto, solicitados por las demás unidades administrativas.
 
-IX. Integrar, con la participación de las demás unidades administrativas, los proyectos de ordenamientos jurídicos que regulen la organización y el funcionamiento del Instituto y someterlos a la consideración del Director General.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-X. Validar los proyectos de convenios, contratos o permisos que celebre u otorgue el Instituto, así como opinar sobre la interpretación, rescisión, caducidad, nulidad y cumplimiento de los mismos.
+V. Comparecer y representar al Instituto, como mandatario en los juicios, en asuntos de carácter legal, en los juicios de amparo, acciones de inconstitucionalidad y controversias constitucionales, cuando así se requiera.
 
-XI. Verificar la procedencia legal de sanciones propuestas por las unidades administrativas del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+VI. Analizar las consultas y asesorías que en materia jurídica le formulen las unidades administrativas del Organismo y las que le requiera el Consejo Directivo, emitiendo la respuesta a las mismas.
 
-XII. Verificar que el patrimonio inmobiliario del Instituto cuente con la documentación que acredite su propiedad y con los pagos correspondientes y, en su caso, implementar las acciones para su cumplimiento.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XIII. Proponer reformas a los ordenamientos legales relacionados con la actividad del Instituto.
+VII. Analizar y emitir la opinión correspondiente, sobre los procedimientos legales en contra de los proveedores o prestadores de servicios, en materia adquisitiva, por el incumplimiento en la entrega de los bienes adquiridos o los servicios contratados, que plantee la Dirección de Administración y Finanzas.
 
-XIV. Llevar a cabo la recuperación administrativa o judicial de los bienes inmuebles propiedad del Instituto, en los casos en que proceda.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Consejo Directivo o el Director General.
+VIII. Instrumentar el procedimiento de expropiación, ante la Secretaría General de Gobierno a solicitud del área administrativa requirente.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+IX. Instrumentar, a solicitud de las demás áreas del Instituto, la recuperación administrativa y/o judicial de inmuebles invadidos o en condición de retraso de pago, adeudos o créditos, así como la recuperación administrativa y/o judicial del patrimonio inmobiliario siniestrado.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+X. Instrumentar ante las Notarías del Estado de México, a solicitud de las demás áreas del Instituto, la expedición de poderes generales y especiales que otorgue el Director General.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XI. Instrumentar a solicitud de las demás áreas del Instituto o bien de otras instancias de Gobierno, la escrituración e inscripción de inmuebles, con el objeto de regularizarlos, ante las autoridades correspondientes.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XII. Instrumentar los registros de control de asuntos de carácter jurisdiccional que se tramiten, así como los convenios y contratos en los que el Instituto sea parte, a través de la Dirección Jurídica y los Departamentos Jurídicos de las Delegaciones Regionales.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIII. Aprobar los proyectos de escritura propuestos por las unidades administrativas del Instituto y suscribir los instrumentos jurídicos enviados por los notarios, respecto de los bienes regularizados, cuando así lo determine el Director General.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIV. Aprobar los pagos, respecto de las escrituras generadas por los notarios, que suscriba la Dirección Jurídica, cuando así lo determine el Director General.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XV. Emitir opinión, respecto de los procedimientos de licitación, cuando así lo solicite la Dirección de Administración y Finanzas.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVI. Realizar el registro de escrituras, tramitadas y firmadas y autorizar las visitas para su revisión; así como emitir la opinión jurídica respecto de las peticiones formuladas en cada Delegación Regional, a fin de llevar a cabo la escrituración de los predios susceptibles de regularización.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVII. Emitir opinión jurídica respecto de las peticiones formuladas por las Delegaciones Regionales, para llevar a cabo la escrituración de los predios susceptibles de escrituración.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVIII. Emitir respuesta en tiempo y forma a los requerimientos jurisdiccionales que les sean solicitados por las distintas autoridades.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIX. Formar parte del Comité Técnico de Fideicomisos, emitiendo la opinión jurídica respecto de los planteamientos formulados por las áreas involucradas.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 14.
 
@@ -223,13 +269,19 @@ Corresponde a la Dirección de Administración del Suelo:
 
 I. Elaborar estudios y proyectos para la regulación del suelo y regularización de la tenencia de la tierra.
 
-II. Realizar levantamientos topográficos, cálculo y dibujo y la digitalización correspondiente para la autorización de planos de subdivisión, fusión, relotificación, conjuntos urbanos, certificación de existencia y apertura de vías públicas respecto de los inmuebles del dominio del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-III. Gestionar ante las instancias competentes, la autorización de la subdivisión, fusión, relotificación, conjuntos urbanos, certificación de existencia y apertura de vías públicas respecto de los inmuebles del dominio del Instituto.
+II. Realizar levantamientos topográficos y la digitalización correspondiente para la autorización de planos de subdivisión, fusión, lotificación, régimen de propiedad en condominio, relotificación, conjuntos urbanos; elaboración de Certificación de Vías Públicas Existentes e Incorporación al Casco Urbano, respecto de los inmuebles del dominio del Instituto.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+III. Gestionar ante las instancias competentes, la autorización de la subdivisión, fusión, lotificación, régimen de propiedad en condominio, relotificación, conjuntos urbanos, extinción de autorizaciones, Certificación de Vías Públicas Existentes e Incorporación al Casco Urbano respecto de los inmuebles del dominio del Instituto.
 
 IV. Coadyuvar en el cumplimiento de los planes de desarrollo urbano estatal, regionales, municipales de centros de población estratégicos y parciales.
 
-V. Elaborar estudios para promover la constitución de reservas territoriales, la adquisición de predios susceptibles de ser incorporados a los programas de regulación del suelo y regularización de la tenencia de la tierra, así como la evaluación de predios alternativos y de aquellos que vayan a adquirir organizaciones sociales, proponiendo su adquisición a la Dirección de Administración y Finanzas.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+V. Elaborar estudios para promover la constitución de reservas territoriales, en coordinación con la Dirección de Promoción y Fomento a la Vivienda; la adquisición de predios susceptibles de ser incorporados a los programas de regulación del suelo y regularización de la tenencia de la tierra, así como la evaluación de predios alternativos y de aquellos que vayan a adquirir organizaciones sociales, proponiendo su adquisición a la Dirección de Administración y Finanzas.
 
 VI. Establecer criterios para determinar los elementos técnicos de estudio, proyectos y obras en las fases de planeación, programación y ejecución del Programa de Regulación del Suelo en el ámbito de su competencia.
 
@@ -239,7 +291,9 @@ VIII. Participar con las dependencias federales, estatales y municipales en la p
 
 IX. Diseñar las estrategias sustantivas y operativas en la regulación del suelo y regularización de la tenencia de la tierra.
 
-X. Realizar estudios sociales para proponer estrategias que definan los criterios y políticas de los programas de suelo del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+X. Realizar estudios de atención a grupos sociales vulnerables para proponer estrategias que definan los criterios y políticas de los programas de suelo del Instituto.
 
 XI. Coordinar y establecer criterios de evaluación, prevención y desarrollo social del programa de suelo y su ejecución.
 
@@ -247,25 +301,77 @@ XII. Participar, en coordinación con las delegaciones regionales del Instituto,
 
 XIII. Coadyuvar en la atención de asuntos jurídico-administrativos de su competencia.
 
-XIV. Promover la protocolización de las autorizaciones de subdivisión, fusión, relotificación, conjuntos urbanos y certificaciones de existencia y apertura de vías públicas, sobre inmuebles bajo el dominio del Instituto; así como la escrituración individual a favor de los beneficiarios de los programas de suelo del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIV. Tramitar la protocolización de las autorizaciones de subdivisión, fusión, lotificación, relotificación, régimen de propiedad en condominio, conjuntos urbanos; extinción de autorizaciones y en su caso, Certificación de Vías Públicas Existentes e Incorporación al Casco Urbano, sobre inmuebles bajo el dominio del Instituto.
 
 XV. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
 XVI. Participar en la formulación de los proyectos de expropiación de terrenos de propiedad privada, ejidal o comunal conforme a las disposiciones legales aplicables.
 
-XVII. Formular los anteproyectos de contratos a celebrar por el Instituto y someterlos a validación de la Dirección Jurídica, así como llevar, en su caso, su registro y seguimiento.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVII. Formular los proyectos de contratos y convenios en materia de regulación del suelo, regularización de la tenencia de la tierra y escrituración a celebrar por el Instituto y someterlos a validación de la Dirección Jurídica, así como llevar su registro y seguimiento.
 
 XVIII. Llevar el registro y dar seguimiento a los contratos que celebre el Organismo en materia de suelo.
 
 XIX. Someter a la consideración del Director General la celebración de convenios con los fraccionadores, propietarios y poseedores de predios, para regular el suelo o regularizar la tenencia de la tierra.
 
-XX. Poner a disposición de la Dirección de Administración y Finanzas los lotes sin posesionario disponibles, derivados de los programas de regularización de la tenencia de la tierra, para su administración, custodia y control, en coordinación con las delegaciones regionales.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XX. Poner a disposición de la Dirección de Administración y Finanzas los lotes sin posesionario disponibles, derivados de los programas de regularización de la tenencia de la tierra, para su administración.
 
 XXI. Regular el suelo, regularizar los asentamientos humanos y la tenencia de la tierra mediante los programas establecidos por el Gobierno del Estado de México.
 
 XXII. Gestionar ante las autoridades federales, estatales y municipales los dictámenes necesarios para el cumplimiento de sus atribuciones.
 
-XXIII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXIII. Proponer a la Dirección Jurídica la creación, modificación o derogación de disposiciones jurídicas en materia de regulación del suelo y regularización de la tenencia de la tierra.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXIV. Tramitar y gestionar en caso de ser necesario, las anuencias ante la autoridad urbana estatal, cuando los inmuebles bajo el dominio del Instituto se encuentren gravados.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXV. Realizar los trámites relativos a aclaraciones, apeo y deslinde administrativo, o los necesarios para la identificación precisa de inmuebles bajo el dominio del Instituto, para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXVI. Elaborar Dictamen Técnico y evaluar predios que son susceptibles para celebrar convenio con el Instituto.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXVII. Recibir, analizar, atender y registrar las solicitudes de apoyo, asesoría u orientación que presenten personalmente y por escrito, los grupos sociales o sus representantes, vinculadas con los programas que opera el Instituto.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXVIII. Analizar y cuantificar los montos de las solicitudes de apoyo de los grupos sociales sobre los programas que opera el Instituto.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXIX. Proponer a los grupos sociales que lo demanden, el aprovechamiento del Programa de Mejoramiento Habitacional, a través de los recursos provenientes de los fondos económicos establecidos para ello.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXX. Proponer los proyectos de programas sociales de vivienda y regularización para atender las demandas de los grupos y núcleos sociales más débiles económicamente, que sufren de marginación social o que se encuentran en extrema pobreza.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXXI. Coordinar las acciones de seguimiento respecto a las demandas sociales de vivienda y regularización presentadas por grupos sociales al Ejecutivo Estatal, a la Secretaría de Desarrollo Urbano y Metropolitano y a la Dirección General del Instituto.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXXII. Integrar y evaluar social y técnicamente los expedientes de proyectos de vivienda y regularización para organizaciones sociales.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXXIII. Tramitar ante las autoridades competentes del Instituto, los recursos solicitados por los grupos sociales más vulnerables.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXXIV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 15.
 
@@ -283,17 +389,27 @@ V. Asesorar y apoyar a las delegaciones regionales en el cumplimiento de sus fun
 
 VI. Contribuir al mejoramiento de los servicios que proporcionan las delegaciones regionales.
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
-
-VII. Atender, en el ámbito de su competencia, a los grupos sociales demandantes de suelo, vivienda y regularización de la tenencia de la tierra, informando a las áreas respectivas de sus peticiones.
+VII. (DEROGADA, G.G. 13 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
 VIII. Denunciar ante las autoridades competentes los actos de los que tenga conocimiento en ejercicio de sus funciones y que puedan constituir delito en materia de asentamientos humanos e informar a la Dirección Jurídica y a la Dirección de Administración del Suelo del Instituto.
 
-> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
+IX. Participar en la celebración de convenios y/o contratos relacionados en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+X. Proponer a la Dirección General los asuntos que deberán someterse al Consejo Directivo en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XI. Tramitar ante las instancias Federales, Estatales y Municipales las acciones tendientes al cumplimiento de los objetivos del Instituto en materia de escrituración de la tenencia de la tierra.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 16.
 
@@ -309,7 +425,7 @@ II. Contribuir a la reducción del rezago cualitativo de vivienda existente, med
 
 III. Promover el otorgamiento de créditos, materiales de construcción, mano de obra y tecnología para la producción y oferta de vivienda social.
 
-IV. Proponer nuevos programas, procesos, proyectos y modelos institucionales de vivienda social, tales como conjuntos urbanos y desarrollos sociales progresivos.
+IV. (DEROGADA, G.G. 13 DE OCTUBRE DE 2017)
 
 V. Fomentar, controlar y dar seguimiento a los fondos de fomento a la vivienda en el Estado, así como otras formas contractuales que tengan como fin la producción o mejoramiento de la vivienda.
 
@@ -327,7 +443,9 @@ XI. Participar en el diseño de los convenios de colaboración, asistencia técn
 
 XII. Brindar servicios de seguimiento, asesoría, verificación en temas de vivienda a los grupos más vulnerables.
 
-XIII. Promover los programas de vivienda del Instituto, cuya responsabilidad se deriva del Código Administrativo del Estado de México.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIII. Promover los programas de vivienda del Instituto, cuya responsabilidad se deriva del Código Administrativo del Estado de México, así como la Ley de Contratación Pública del Estado de México y Municipios.
 
 XIV. Asesorar a los promotores y constructores de vivienda, así como autoridades locales y municipales, sobre los aspectos normativos y técnicos requeridos en la producción de vivienda.
 
@@ -417,9 +535,13 @@ XL. Coordinar, promover y programar los proyectos y acciones destinadas al aprov
 
 XLI. Integrar la documentación requerida para formalizar las adquisiciones y enajenaciones de inmuebles autorizadas por el Consejo Directivo.
 
-> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XLII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
+XLII. Promover proyectos para la edificación y mejoramiento de vivienda, a través de esquemas con participación financiera de instancias de los tres órdenes de gobierno, organizaciones no gubernamentales y sector privado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XLIII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 18.
 
@@ -428,6 +550,8 @@ XLII. Las demás que le confieren otras disposiciones legales y las que le encom
 ###### Artículo 19.
 
 Corresponde a la Dirección de Administración y Finanzas:
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
 I. Establecer políticas, normas, sistemas y procedimientos de administración de los recursos humanos, financieros y materiales, ejerciendo el control respectivo, de acuerdo con los objetivos, lineamientos y estrategias del Instituto.
 
@@ -485,31 +609,49 @@ XXV. Coordinar la operación, control y registro de los acervos documentales, qu
 
 XXVI. Realizar la investigación y estudios concernientes para integrar la memoria histórica del Instituto en la administración pública estatal.
 
-> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XXVII. Las demás que le confieran otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
+XXVII. Analizar los gastos que resulten necesarios para el manejo de los bienes derivados del contrato del Fideicomiso, incluyendo los honorarios que corresponden a la Fiduciaria, así como aquellos que se deriven del proceso de extinción del mismo.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXVIII. Emitir cartas de instrucción al Delegado Fiduciario, respecto al inmueble motivo de la transmisión de la propiedad derivado del contrato de Fideicomiso que corresponda.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXIX. Revisar y aprobar en su caso, los informes que rinda la Fiduciaria sobre el manejo del patrimonio fideicomitido.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XXX. Las demás que le confieran otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 20.
 
 Corresponde a las Delegaciones Regionales en el ámbito de su respectiva circunscripción territorial:
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-I. Operar los programas de regulación del suelo y regularización de la tenencia de la tierra, así como de promoción y fomento a la vivienda en el Estado.
+I. Operar los programas de regulación del suelo, regularización de la tenencia de la tierra y escrituración, así como coadyuvar en la difusión de los programas de vivienda en el Estado.
 
 > <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
 II. Atender, en el ámbito de su competencia, las peticiones ciudadanas relacionadas con los programas del Instituto.
 
-III. Someter por conducto de la Coordinación de Delegaciones Regionales a las unidades administrativas competentes del Instituto, las peticiones o documentación recibida.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-IV. Dar respuesta a las peticiones ciudadanas, de acuerdo con los plazos y términos aplicables en la materia.
+III. Canalizar a las unidades administrativas del Instituto, las peticiones o documentación recibida, haciendo del conocimiento a la Coordinación de Delegaciones Regionales.
 
-V. Promover la organización y participación social en los programas y acciones orientados a la regularización de asentamientos humanos irregulares y al desarrollo de la vivienda.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+IV. Dar respuesta a las peticiones ciudadanas, de acuerdo con los plazos y términos aplicables en la materia, en el ámbito de su competencia.
 
-VI. Realizar campañas de promoción y difusión de los servicios que presta el Instituto, conformen a los lineamientos que establezca el Director General.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+V. Promover la organización y participación social en los programas y acciones orientados a la regularización de la tenencia de la tierra.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+VI. Realizar campañas de promoción y difusión de los servicios que presta el Instituto, conforme a los lineamientos que establezca la Dirección General.
 
 > <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
@@ -519,59 +661,109 @@ VIII. Incorporar a los sistemas de información del Instituto, la información q
 
 IX. Informar a la Coordinación de Delegaciones Regionales sobre el cumplimiento de los objetivos, programas y acciones a su cargo.
 
-X. Promover la protocolización de las autorizaciones de subdivisión, fusión, relotificación, conjuntos urbanos y certificaciones de existencia, y apertura de vías públicas, sobre inmuebles bajo el dominio del Instituto; así como en la escrituración individual a favor de los beneficiarios de los programas de suelo y vivienda del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XI. Informar a la Dirección Jurídica de los actos que tenga conocimiento en ejercicio de sus funciones y que puedan constituir delito en materia de asentamientos humanos y de tenencia de la tierra.
+X. Solicitar a la Dirección de Administración del Suelo la protocolización de las autorizaciones de subdivisión, fusión, relotificación, conjuntos urbanos; Certificación de Vías Públicas existentes, sobre inmuebles bajo el dominio del Instituto.
 
-XII. La (sic) demás que les confieren otras disposiciones legales y las que les encomiende la Coordinación de Delegaciones Regionales.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XI. Promover la escrituración individual a favor de los beneficiarios de los programas de suelo y vivienda del Instituto.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XII. Informar a la Dirección Jurídica de los actos que tenga conocimiento en ejercicio de sus funciones y que puedan constituir delito en materia de asentamientos humanos y de tenencia de la tierra.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIII. Informar a la Dirección de Promoción y Fomento a la Vivienda y a la Dirección de Administración y Finanzas, sobre los ingresos recaudados respecto de la reserva territorial que el Instituto haya ejercido a favor de terceros.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIV. Informar y gestionar ante la Dirección de Administración y Finanzas el pago de honorarios, derivados de los servicios que el Instituto presta, emanado de los programas de regulación, regularización y escrituración en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XV. Coadyuvar en el cumplimiento de las obligaciones contraídas en los convenios y/o contratos en materia de regulación, regularización y escrituración.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVI. Las demás que les confieren otras disposiciones legales y las que les encomiende la Coordinación de Delegaciones Regionales.
 
 ###### Artículo 21.
 
 Las Delegaciones Regionales atenderán a los municipios que a continuación se enlistan:
 
-I. ATLACOMULCO: Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jilotepec, Jocotitlán, Morelos, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-II. ZUMPANGO: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
+ATLACOMULCO: Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Morelos, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
 
-III. ECATEPEC: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-IV. CUAUTITLAN IZCALLI: Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec, Tultitlán y Villa del Carbón.
+ZUMPANGO: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
 
-V. NAUCALPAN: Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez, Nicolás Romero y Tlalnepantla de Baz.
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-VI. TOLUCA: Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Jiquipilco, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón , San Antonio la Isla , San Mateo Atenco, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Toluca, Xalatlaco, Xonacatlán, y Zinacantepec.
+ECATEPEC: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
 
-VII. TEXCOCO: Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-VIII. VALLE DE BRAVO: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
+CUAUTITLAN IZCALLI: Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec, Tultitlán y Villa del Carbón.
 
-IX. NEZAHUALCOYOTL: Chicoloapan, Chimalhuacán, Ixtapaluca, La Paz y Nezahualcóyotl.
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-X. AMECAMECA: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
+NAUCALPAN: Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez, Nicolás Romero y Tlalnepantla de Baz.
 
-XI. IXTAPAN DE LA SAL: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, San Simón de Guerrero, Sultepec, Temascaltepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XII. TEJUPILCO: Amatepec, Tejupilco, Tlatlaya, y Luvianos.
+TOLUCA: Almoloya de Juárez, Almoloya del Río, Atizapán Santa Cruz, Calimaya, Capulhuac, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Antonio la Isla, San Mateo Atenco, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Toluca, Villa Victoria, Xalatlaco, Xonacatlán y Zinacantepec.
+
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+TEXCOCO: Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
+
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+VALLE DE BRAVO: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás de los Plátanos, Valle de Bravo, Villa de Allende y Zacazonapan.
+
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+NEZAHUALCÓYOTL: Chicoloapan, Chimalhuacán, Ixtapaluca, La Paz y Nezahualcóyotl.
+
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+AMECAMECA: Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco, Valle de Chalco Solidaridad.
+
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+IXTAPAN DE LA SAL: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Sultepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
+
+> <small>(REFORMADO, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+TEJUPILCO: Amatepec, Luvianos, San Simón de Guerrero, Tejupilco, Temascaltepec y Tlatlaya.
 
 ###### Artículo 22.
 
 Corresponde a la Contraloría Interna:
 
-I. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+I. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto, de acuerdo con la normatividad aplicable.
 
-II. Iniciar, substanciar y resolver los procedimientos administrativos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios e iniciar etapas de información previa.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-III. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno, y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial, para su instrucción y resolución.
+II. Iniciar, substanciar y resolver los procedimientos administrativos disciplinarios en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios e iniciar periodos de información previa.
+
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+III. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno, y remitirlos a la Dirección General de Responsabilidades para su instrucción y resolución cuando sea procedente.
 
 IV. Realizar acciones de control y evaluación, operativos, supervisiones, revisiones, evaluaciones y auditorías administrativas financieras y de obra a las unidades administrativas del Instituto, tendientes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de contabilidad y presupuesto, contratación y pago de personal; contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, y baja de bienes muebles y demás activos y recursos materiales.
 
 V. Vigilar el correcto ejercicio de los presupuestos autorizados al Instituto, en congruencia con el avance programático.
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-VI. Vigilar el cumplimiento de la legislación en materia de información, planeación, programación y evaluación.
+VI. Vigilar el cumplimiento de la legislación en materia de planeación con relación a la operación de la Unidad de Información, Planeación, Programación y Evaluación.
 
 VII. Certificar copias de documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
 
@@ -581,9 +773,9 @@ IX. Vigilar el cumplimiento de las disposiciones en materia de racionalidad, aus
 
 X. Ordenar que se presenten las denuncias correspondientes y/o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Instituto.
 
-> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
 
-XI. Verificar el cumplimiento oportuno de las declaraciones de situación patrimonial de los servidores públicos del Instituto sujetos a esta obligación.
+XI. Verificar el cumplimiento oportuno de las declaraciones de situación patrimonial de los servidores públicos del Instituto sujetos a esta obligación y testificar dichos actos.
 
 XII. Proponer al Director General la aplicación de normas complementarias en materia de control.
 
@@ -591,7 +783,21 @@ XII. Proponer al Director General la aplicación de normas complementarias en ma
 
 XIII Verificar que se difundan entre los servidores públicos del Instituto, toda disposición en materia de control que incida en el desarrollo de sus labores.
 
-XIV. Las demás que le señalan otras disposiciones legales y las que le encomiende la Secretaría de la Contraloría o el Director General.
+> <small>(REFORMADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XIV. Testificar en los casos de siniestros o robo de bienes parte del patrimonio del Instituto, de conformidad con la normatividad vigente.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XV. Testificar en los actos de entrega y recepción de oficinas del Instituto, que se realicen de conformidad con la normatividad vigente.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVI. Participar en los diferentes Comités integrados en el Instituto, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2017)</small>
+
+XVII. Las demás que le confieran otras disposiciones legales y las que le encomiende la Secretaría de la Contraloría.
 
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -611,7 +817,7 @@ SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación
 
 Aprobado por el Consejo Directivo del Instituto Mexiquense de la Vivienda Social, según consta en acta de su Tercera Sesión Extraordinaria, celebrada en el municipio de Tlalnepantla de Baz, Estado de México, a los quince días del mes de noviembre de dos mil cuatro.
 
-ARQ. MIGUEL ANGEL GARCIABELTRAN GONZALEZ
+ARQ. MIGUEL ANGEL GARCIA BELTRAN GONZALEZ
 
 SECRETARIO DE DESARROLLO URBANO Y VIVIENDA Y PRESIDENTE DEL CONSEJO DIRECTIVO
 
@@ -642,3 +848,13 @@ G.G. 29 DE NOVIEMBRE DE 2012.
 PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL".]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente ordenamiento jurídico.
