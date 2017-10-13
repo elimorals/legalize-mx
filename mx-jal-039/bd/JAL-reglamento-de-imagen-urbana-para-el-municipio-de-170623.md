@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2016-04-22"
+last_updated: "2017-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 13 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -361,11 +361,15 @@ IV. Las instalaciones y cableados en general deberán ser de acuerdo a las norma
 
 Es obligación de todos los ciudadanos del municipio contribuir y coadyuvar en la preservación, conservación y mantenimiento de la imagen urbana a través de acciones de limpieza, remodelación, pintura, forestación, de los bienes inmuebles de propiedad pública o privada, del patrimonio histórico de las áreas verdes y recreativas y en general de todos los bienes del uso común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 35.
 
 Los propietarios o poseedores de edificaciones tendrán las siguientes obligaciones:
 
-I. Conservar en buen estado las fachadas de sus bienes inmuebles y pintarlas cuando menos una vez cada dos años;
+> <small>(REFORMADA, G.M. 13 DE OCTUBRE DE 2017)</small>
+
+I. Conservar en óptimo estado las fachadas de sus inmuebles y pintarlas periódicamente para evitar su deterioro o colocar vegetación que mejore la imagen urbana.
 
 II. Tomar las medidas necesarias para garantizar la seguridad de los transeúntes, con motivo de la realización de obras de remodelación o pintura en las fachadas de sus bienes inmuebles;
 
@@ -540,3 +544,13 @@ Primero. Las presentes reformas entrarán en vigor al día siguiente de su publi
 Segundo. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
 
 Tercero. Remítase copia del presente al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Segundo. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicada la presente, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
