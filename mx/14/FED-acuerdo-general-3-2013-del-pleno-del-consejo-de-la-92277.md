@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-09-25"
+last_updated: "2017-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -151,9 +151,9 @@ II. SEGUNDO CIRCUITO:
 
 2. Seis Tribunales Unitarios: cuatro con sede en Toluca, uno con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 16/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2017)</small>
 
-3. Veintiséis juzgados de Distrito en el Estado de México: siete de Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
+3. Veintisiete juzgados de Distrito en el Estado de México; siete de Procesos Penales Federales y seis especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
 4. (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)
 
@@ -483,13 +483,15 @@ XXIX. VIGESIMO NOVENO CIRCUITO:
 
 XXX. TRIGESIMO CIRCUITO:
 
-1. Dos tribunales colegiados con residencia en Aguascalientes.
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2017)</small>
+
+1. Tres tribunales colegiados con residencia en Aguascalientes.
 
 2. Un tribunal unitario con sede en Aguascalientes.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2017)</small>
 
-3. Cinco juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+3. Seis juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
 XXXI. TRIGESIMO PRIMER CIRCUITO:
 
@@ -4310,6 +4312,192 @@ Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el ar
 OCTAVO. El Tribunal Unitario especializado en Materia Penal del Cuarto Circuito como Tribunal de Alzada habilitado conocerá de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales.
 
 NOVENO. La Comisión de Creación de Nuevos Órganos establecerá el rol de guardias que corresponda a los Tribunales Unitarios del Cuarto Circuito.
+
+D.O.F. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 16/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN TOLUCA, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA MATERIA, ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en Materia de Amparo y Juicios Federales en el Estado de México, con residencia en Toluca, se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
+
+PERÍODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE CORRESPONDE LA
+
+GUARDIA
+
+Del 16 al 23 de octubre de 2017 Juzgado Primero de Distrito en
+
+Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Del 23 al 30 de octubre de 2017 Juzgado Quinto de Distrito en
+
+Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Del 30 de octubre al 6 de noviembre Juzgado Tercero de Distrito en
+
+de 2017 Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Del 6 al 13 de noviembre de 2017 Juzgado Segundo de Distrito en
+
+Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Del 13 al 20 de noviembre de 2017 Juzgado Cuarto de Distrito en
+
+Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Del 20 al 27 de noviembre de 2017 Juzgado Sexto de Distrito en
+
+Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Del 27 de noviembre al 4 de diciembre Juzgado Primero de Distrito en
+
+de 2017 Materia de Amparo y Juicios
+
+Federales en el Estado de México,
+
+con residencia en Toluca.
+
+Y así sucesivamente en ese orden.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción II, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. ...
+
+II. ...
+
+1. a 2. ...
+
+3. Veintisiete juzgados de Distrito en el Estado de México; siete de Procesos Penales Federales y seis especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
+
+III. a XXXII. ..."
+
+SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 18/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN EL ESTADO DE AGUASCALIENTES, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la
+
+Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Aguascalientes, continuará aplicándose hasta el uno de noviembre de dos mil diecisiete, el cual se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
+
+PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+Del 1 al 6 de noviembre de 2017 Juzgado Quinto de Distrito en el Estado de
+
+Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 6 al 13 de noviembre de 2017 Juzgado Sexto de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 13 al 20 de noviembre de 2017 Juzgado Primero de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 20 al 27 noviembre de 2017 Juzgado Segundo de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 27 de noviembre al Juzgado Tercero de Distrito en el Estado
+
+4 de diciembre de 2017 de Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 4 al 11 de diciembre de 2017 Juzgado Cuarto de Distrito en el Estado de
+
+Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 11 al 18 de diciembre de 2017 Juzgado Quinto de Distrito en el Estado de
+
+Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Del 18 al 25 de diciembre de 2017 Juzgado Sexto de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
+
+25 de diciembre de 2017 Juzgado Primero de Distrito en el Estado
+
+al 1 de enero de 2018 de Aguascalientes, con residencia en la ciudad del mismo nombre
+
+Y así sucesivamente en ese orden de manera semanal.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXX, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a XXIX. ...
+
+XXX. ...
+
+1. a 2. ...
+
+3. Seis juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+
+XXXI. a XXXII. ...”
+
+SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL TRIGÉSIMO CIRCUITO, CON RESIDENCIA EN AGUASCALIENTES, AGUASCALIENTES; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tercer Tribunal Colegiado del Trigésimo Circuito, formará parte del Pleno del Trigésimo Circuito a partir del dieciséis de octubre de dos mil diecisiete, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXX, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a XXIX. ...
+
+XXX. …
+
+1. Tres tribunales colegiados con residencia en Aguascalientes.
+
+2. a 3. ...
+
+XXXI. a XXXII. ...”
 
 ###### Artículo 10.
 
