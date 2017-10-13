@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-y-servicios-relacionados-con-las-115249"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-20"
-last_updated: "2017-02-15"
+last_updated: "2017-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de junio de 2016.
 
@@ -89,7 +89,9 @@ VII. Compra Net-Sinaloa: sistema electrónico de información pública gubername
 
 VIII. Concurso por Licitación Pública: actividad que realiza la dependencia o entidad para adjudicar un contrato de obra pública a una persona física o moral, la cual se inicia desde la preparación de la documentación que se debe entregar a los contratistas interesados en participar, hasta la firma del contrato respectivo;
 
-IX. Contraloría: Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado (sic) Sinaloa, la contraloría interna de los Municipios y el órgano interno de control de las entidades, en el ámbito de sus atribuciones o su equivalente;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+IX. Contraloría: Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa, y el órgano interno de control de los Ayuntamientos y el de las entidades, en el ámbito de sus atribuciones;
 
 X. Contratante o Convocante: las dependencias y entidades de la administración pública estatal y municipal que celebren contratos de obras públicas y servicios relacionados con las mismas en los términos previstos en esta Ley;
 
@@ -183,9 +185,19 @@ Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la
 
 Para la expedición de las reglas a que se refiere el párrafo anterior, la Secretaría de Desarrollo Económico tomará en cuenta la opinión de la Secretaría.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-Las dependencias y entidades serán los responsables de llevar a cabo los procedimientos para contratar y ejecutar las obras públicas y los servicios relacionados con las mismas.
+La Secretaría será la responsable de llevar a cabo la contratación de la obra pública y los servicios relacionados con las mismas, de la administración pública centralizada del Gobierno del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+En los Municipios, los responsables de la contratación de la obra pública y los servicios relacionados con las mismas serán las dependencias y entidades del Ayuntamiento facultadas para ello, en sus respectivos Reglamentos Interiores de Administración.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+En las entidades a que se refieren las fracciones III, IV, V y VI del artículo 1° de la presente Ley, serán responsables de la contratación de las obras públicas y los servicios relacionados con las mismas, los respectivos órganos de dirección que disponga la ley que les resulte aplicable, el decreto de su creación o el Reglamento interno de administración.
 
 Para la realización y ejecución de obras públicas y servicios relacionados con las mismas, se deberán cumplir con los siguientes requisitos:
 
@@ -447,7 +459,9 @@ I. Revisar el programa anual y el presupuesto de obras públicas y servicios rel
 
 II. Dictaminar los proyectos de políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas que le presenten, así como someterlas a la consideración del titular de la dependencia o el órgano de gobierno de las entidades; en su caso, autorizar los supuestos no previstos en las mismas;
 
-III. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en esta Ley;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+III. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 61 de esta Ley;
 
 IV. Autorizar, cuando se justifique, la creación de subcomités de obras públicas, así como aprobar la integración y funcionamiento de los mismos;
 
@@ -459,33 +473,71 @@ VII. Analizar el informe de la conclusión y resultados generales de las contrat
 
 VIII. Las demás que establezca el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+El dictamen previo no será exigible en los casos de emergencia o de urgente necesidad de obra para evitar daños mayores a la hacienda pública, la interrupción del libre tránsito en vías principales o la interrupción de los servicios públicos fundamentales en una zona determinada.
+
 ###### Artículo 35.
 
 El Comité de Obras del ejecutivo estatal contará con los siguientes integrantes:
 
 I. Un Presidente, que será el titular de la Secretaría;
 
-II. Un secretario ejecutivo, que será el titular de la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado (sic) Sinaloa;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-III. Vocal, que será un representante de la Secretaría de Administración y Finanzas del Gobierno del Estado (sic) Sinaloa; y,
+II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Administración y Finanzas del Gobierno (sic) Estado de Sinaloa;
 
-IV. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contarán con voz pero sin voto.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área.
+III. Vocal, que será el titular de la Secretaría de Desarrollo Sustentable del Gobierno (sic) Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+IV. Un asesor, que será el titular de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa, quien contara con voz pero sin voto;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+V. Un asesor, que será el titular de la Subsecretaría de Asuntos Jurídicos de la Secretaría General de Gobierno del Gobierno del Estado de Sinaloa, quien contara con voz pero sin voto; y,
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+VI. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contaran con voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+Los integrantes del Comité a que se refiere (sic) las fracciones I, II, III, IV y V de este artículo, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que a (sic) corresponden a sus respectivos propietarios.
 
 ###### Artículo 36.
 
 El Comité de Obras en cada Municipio estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el titular de la Dirección que corresponda del Municipio;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-II. Un Secretario Ejecutivo, que será el titular de la Contraloría Municipal o su equivalente;
+I. Un presidente, que será el titular de la dirección o dependencia de obras públicas del municipio;
 
-III. Un vocal, que será un representante de la Tesorería Municipal o su equivalente; y,
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-IV. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contarán con voz pero sin voto.
+II. Un secretario ejecutivo, que será el titular de la Tesorería Municipal o su equivalente;
 
-Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a jefe de departamento del área.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+III. Un Vocal, que será el titular del área de contrataciones o su equivalente en el Municipio;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+IV. Un asesor, que será el titular del Órgano de Control Interno del Ayuntamiento respectivo, quien contará con voz pero sin voto;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+V. Un asesor, que será el Síndico Procurador, quien contará con voz pero sin voto; y,
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+VI. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contaran con voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+Los integrantes del Comité a que se refieren las fracciones I, II, III, IV y V de este artículo podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que estos los representen en las sesiones del Comité, quienes tendrán todas las facultades que corresponden a sus respectivos propietarios.
 
 ###### Artículo 37.
 
@@ -493,13 +545,25 @@ De igual manera, en los organismos paraestatales y paramunicipales se integrará
 
 I. Un Presidente, que será el Director, o su equivalente, en el organismo paraestatal o paramunicipal;
 
-II. Un Secretario Ejecutivo, que será el titular de la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado (sic) Sinaloa o el titular de la Contraloría Municipal según sea el caso;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-III. Un vocal, que será un representante del área de finanzas o su equivalente; y,
+II. Un Secretario Ejecutivo, que será el titular del área de Administración y Finanzas o su equivalente;
 
-IV. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contarán con voz pero sin voto.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a jefe de departamento del área.
+III. Un Vocal, que será el titular del área de contrataciones o su equivalente en la entidad;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+IV. Un asesor, que será el titular de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa, o el titular del Órgano Interno de Control del Ayuntamiento respectivo, según corresponda; y,
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+V. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contarán con voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+Los integrantes del Comité a que se refieren las fracciones I, II, III y IV de este artículo podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que corresponden a sus respectivos propietarios.
 
 ## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
@@ -531,15 +595,23 @@ La licitación pública inicia con la publicación de la convocatoria y, en el c
 
 Los licitantes sólo podrán presentar una propuesta en cada procedimiento de contratación, iniciado el acto de presentación y apertura de propuestas. Las ya presentadas no podrán ser retiradas o dejarse sin efecto por los licitantes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 40.
 
-En las licitaciones públicas podrán participar las personas que se denominan testigos sociales. La participación de los testigos sociales en los procedimientos de licitación pública a los que se refiere esta Ley, se regirá de conformidad con lo siguiente:
+En las licitaciones públicas, cuyo presupuesto base rebase el equivalente a cuarenta mil veces el valor mensual de la Unidad de Medida y Actualización y en aquellos casos que determine la Secretaría de Transparencia y Rendición de Cuentas, atendiendo al impacto que la contratación tenga en los programas sustantivos de las dependencias o entidades, podrán participar las personas que se denominan testigos sociales. La participación de los testigos sociales en los procedimientos de licitación pública a los que se refiere esta Ley, se regirá de conformidad con lo siguiente:
 
-I. La Contraloría tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página oficial de la dependencia o entidad que lleve a cabo el proceso de licitación correspondiente, así como en la página de la Contraloría o del órgano de control municipal, según corresponda y en Compra Net-Sinaloa, y se integrará al expediente respectivo;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Contraloría;
+I. La Secretaría de Transparencia y Rendición de Cuentas tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica oficial de la dependencia o entidad que lleve a cabo el proceso de licitación correspondiente, así como en la página electrónica del órgano interno de control municipal o su equivalente en las distintas entidades, según corresponda, así como en Compra Net-Sinaloa, y se integrará al expediente respectivo;
 
-III. La Contraloría acreditará como testigos sociales a personas físicas quienes para obtener su registro le deberán presentar solicitud escrita, presentando copia certificada de los documentos que acrediten los siguientes requisitos:
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Secretaría de Transparencia y Rendición de Cuentas;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+III. La Secretaría de Transparencia y Rendición de Cuentas acreditará como testigos sociales a personas físicas quienes para obtener su registro le deberán presentar solicitud escrita, presentando copia certificada de los documentos que acrediten los siguientes requisitos:
 
 a) Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
 
@@ -549,11 +621,21 @@ c) No haber sido servidor público federal, estatal o municipal durante al menos
 
 d) Presentar currículum en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
 
-e) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar; y,
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-f) Las demás contenidas en el Reglamento de la presente Ley.
+e) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar;
 
-El registro para ser testigo social lo otorgará la Contraloría, la cual difundirá en su página de Internet, quienes han obtenido el registro correspondiente para fungir como tales.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+f) Las demás contenidas en el Reglamento de la presente Ley; y,
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+g) Manifestar bajo protesta de decir verdad no tener conflicto de intereses en los términos de la Ley aplicable.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+El registro para ser testigo social lo otorgará la Secretaría de Transparencia y Rendición de Cuentas, la cual difundirá en su página de Internet, quienes han obtenido el registro correspondiente para fungir como tales.
 
 El registro otorgado, tendrá una vigencia mínima de un año, a cuyo término podrá ampliarse la misma por un periodo similar, tomando en cuenta los antecedentes de la actuación del testigo social.
 
@@ -567,9 +649,13 @@ a) Proponer a las dependencias, mejoras para fortalecer la transparencia e impar
 
 b) Dar seguimiento a las recomendaciones derivadas de su participación en el procedimiento de licitación para el establecimiento de acciones en la contratación; y,
 
-c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Contraloría. Dicho testimonio deberá ser publicado dentro de diez días naturales siguientes a su participación en la página de internet de la dependencia o entidad que corresponda.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir de manera inmediata su testimonio al área de quejas de la Contraloría.
+c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría de Transparencia y Rendición de Cuentas. Dicho testimonio deberá ser publicado dentro de diez días naturales siguientes a su participación en la página de internet de la dependencia o entidad que corresponda.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir de manera inmediata su testimonio al área de quejas de la Secretaría de Transparencia y Rendición de Cuentas.
 
 ###### Artículo 41.
 
@@ -665,7 +751,11 @@ XII. Las fechas, horas y lugares de celebración del acto de presentación y ape
 
 XIII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las propuestas y, en su caso, firma del contrato, asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico, en caso de contar con él;
 
-XIV. La indicación de que no podrán participar las personas que se (sic) omitan alguno de los supuestos del artículo 72 de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+XIV. La indicación de que no podrán participar las personas físicas o morales que se encuentren en alguno de los supuestos del artículo 72 de esta Ley, así como aquéllas que hubieran sido sancionadas en los términos de los artículos 101 y 102 de esta Ley.
+
+Esta última circunstancia será aplicable durante todo el tiempo que se determine en el acuerdo o resolución de la sanción correspondiente.
 
 XV. La indicación de que las personas que pretendan participar en el procedimiento de contratación para la ejecución de una obra, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar, en su caso considerarán costos estimados apegados a las condiciones del mercado;
 
@@ -709,6 +799,16 @@ Cuando sea indispensable incluir los proyectos y documentación necesaria, para 
 
 Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán establecerse en las bases requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir para cualquier licitante.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 45 Bis.
+
+El plazo para la presentación y apertura de proposiciones de las licitaciones no podrá ser inferior a veinte días naturales, contados a partir de la fecha de publicación de la convocatoria en los medios dispuestos por la Ley.
+
+Cuando no puedan observarse los plazos indicados en este artículo porque existan razones justificadas debidamente acreditadas en el expediente por el área solicitante de los trabajos, siempre que ello no tenga por objeto limitar el número de participantes, el titular del área responsable de la contratación podrá reducir los plazos a no menos de quince días naturales, contados a partir de la fecha de publicación de la convocatoria.
+
+La determinación de estos plazos y sus cambios, deberán ser acordes con la planeación y programación previamente establecida.
+
 ###### Artículo 46.
 
 La Contratante podrá modificar la convocatoria o las bases de licitación, después de la fecha de publicación y hasta el quinto día hábil previo al acto de presentación y apertura de propuestas, siempre que lo funde y motive de manera clara y suficiente, y que no se traduzca en alguna forma de limitación a los participantes.
@@ -733,7 +833,9 @@ II. Las personas que pretendan solicitar aclaraciones a la convocatoria deberán
 
 III. Las solicitudes de aclaración, podrán entregarse personalmente en el domicilio de la convocante o enviarse, en su caso, a través del sistema electrónico autorizado, según corresponda, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones, siempre que así se haya establecido en las bases;
 
-IV. Al concluir cada junta de aclaraciones podrá señalarse la fecha y hora para la celebración de posteriores juntas, considerando que entre la última de éstas y el acto de presentación y apertura de propuestas deberá existir un plazo de al menos quince días hábiles. De resultar necesario, la fecha señalada en la convocatoria para realizar el acto de presentación y apertura de propuestas podrá diferirse;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+IV. Al concluir cada junta de aclaraciones podrá señalarse la fecha y hora para la celebración de posteriores juntas, considerando que entre la última de éstas y el acto de presentación y apertura de propuestas deberá existir un plazo de al menos siete días naturales. De resultar necesario, la fecha señalada en la convocatoria para realizar el acto de presentación y apertura de propuestas podrá diferirse;
 
 V. De cada junta de aclaraciones se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las respuestas de la convocante. Estas actas serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público y se publicará a través del sistema Compra Net-Sinaloa y de los otros medios utilizados para su publicación en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles; y,
 
@@ -787,19 +889,29 @@ El titular de la citada área dejará constancia en el expediente de la licitaci
 
 Posteriormente, la convocante remitirá el expediente integrado al Comité Técnico Resolutivo de Obra Pública para que se elabore un dictamen que servirá como base para el fallo de adjudicación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-El Comité Técnico Resolutivo de Obra Pública Estatal estará integrado por los titulares de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaria de Administración y Finanzas y de la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado, quienes en las reuniones tendrán derecho a voz y voto; y, dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes podrán intervenir en las reuniones pero solo con derecho a voz.
+El Comité Técnico Resolutivo de Obra Pública Estatal estará integrado por los titulares de la Secretaría de Desarrollo de Obras Públicas, de la Secretaria de Administración y Finanzas, y de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado, quienes tendrán derecho a voz y voto; así como por dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes sólo tendrán derecho a voz.
 
 Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área.
 
-El Comité Técnico Resolutivo de Obra Pública Municipal se integrará por los titulares del área encargada de obras públicas, de la Tesorería y de la Contraloría del H. Ayuntamiento respectivo, quienes en las reuniones tendrán derecho a voz y voto; y, dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes podrán intervenir en las reuniones pero solo con derecho a voz.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a jefe de área.
+Los Comités Técnicos Resolutivos de Obra Pública de los municipios se integrarán por los titulares del área encargada de obras públicas, de la Tesorería y del Órgano Interno de Control del Ayuntamiento respectivo, quienes tendrán derecho a voz y voto; así como por dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes sólo tendrán derecho a voz.
 
-El Comité Técnico Resolutivo de Obra Pública de los Organismos Paraestatales y Paramunicipales se integrará de la siguiente manera: Un Presidente, que será el Director, o su equivalente, del organismo paraestatal o paramunicipal; Un Secretario Ejecutivo, que será el Secretario de la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado, o su equivalente por lo que corresponde a la competencia municipal y Un vocal, que será un representante de la Secretaria de Administración y Finanzas del Gobierno del Estado o de la Tesorería en lo que corresponde a la competencia municipal quienes en las reuniones tendrán derecho a voz y voto; y, dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes podrán intervenir en las reuniones pero solo con derecho a voz.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-Los integrantes del Comité con derecho a voz y voto, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a jefe de área.
+Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a Subdirector de área.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+El Comité Técnico Resolutivo de Obra Pública de los Organismos Paraestatales y Paramunicipales se integrará de la siguiente manera: Un Presidente, que será el Director, o su equivalente, del organismo paraestatal o paramunicipal; Un Secretario Ejecutivo, que será el Secretario de la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado, o el titular del Órgano de Control Interno del Ayuntamiento respectivo, por lo que corresponde a la competencia municipal; y un vocal, que será designado por la Secretaría de Administración y Finanzas del Gobierno del Estado o por la Tesorería Municipal, según corresponda, quienes tendrán derecho a voz y voto; así como dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes sólo tendrán derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+Los integrantes del Comité con derecho a voz y voto, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a Subdirector de área.
 
 Las funciones de dichos Comités serán las siguientes:
 
@@ -887,13 +999,17 @@ No serán objeto de evaluación las condiciones establecidas por las convocantes
 
 La convocante podrá establecer en las bases de licitación criterios adicionales de evaluación, a los aquí dispuestos, de acuerdo a las características, complejidad y magnitud de los trabajos, así como definir los aspectos que tomará en consideración para aplicar los criterios respectivos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 54.
 
-Para la evaluación de las propuestas económicas, el Comité Técnico Resolutivo de Obra Pública verificará la solvencia de las propuestas económicas presentadas por los licitantes.
+Para la evaluación de las propuestas económicas, el Comité Técnico Resolutivo de Obra Pública primero verificará que las propuestas económicas presentadas por los licitantes cumplan satisfactoriamente con las condiciones y criterios establecidos por la convocante.
 
-Serán declaradas solventes siempre que estén comprendidas dentro del rango del presupuesto base de obra y el ochenta por ciento de dicho presupuesto.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-Las propuestas así declaradas se promediarán incluyendo el presupuesto base.
+Aquellas propuestas económicas que cumplan con lo establecido en el párrafo anterior, serán declaradas solventes siempre que estén comprendidas dentro del rango del presupuesto base de obra y el ochenta por ciento de dicho presupuesto.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 55.
 
@@ -903,7 +1019,9 @@ Atendiendo a las características de las obras públicas o servicios relacionado
 
 El mecanismo binario consiste en determinar la solvencia de las propuestas a partir de evaluar el cumplimiento de las condiciones legales, técnicas y económicas requeridas por la convocante.
 
-Una vez hecha la evaluación técnica y económica se adjudicará el contrato respectivo a la propuesta que sea declarada solvente porque satisface la totalidad de los requerimientos solicitados por la convocante y presenta la propuesta económica más baja del promedio que se haya determinado en términos de esta Ley, siempre que no sea inferior al noventa por ciento de dicho promedio.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+Una vez hecha la evaluación técnica y económica se adjudicará el contrato respectivo a la propuesta que sea declarada solvente porque satisface la totalidad de los requerimientos solicitados por la convocante y presenta la propuesta económica más baja con respecto al promedio determinado por las propuestas económicas declaradas solventes y el presupuesto base, siempre que no sea inferior al noventa por ciento de dicho promedio.
 
 ###### Artículo 57.
 
@@ -925,7 +1043,7 @@ La autoridad al emitir los fallos de adjudicación cuidará que en todo procedim
 
 El fallo se dará a conocer en junta pública, y a través del sistema Compra Net-Sinaloa y de los otros medios utilizados para su publicación, y a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de propuestas, en la cual se dará la lectura del fallo de la licitación, señalando a los licitantes cuyas propuestas fueron desechadas conforme al análisis detallado cualitativo y evaluativo, así como las causas fundadas y motivadas para ello, señalando las propuestas que fueron declaradas solventes, el lugar que ocupan y la propuesta ganadora.
 
-Se elaborará un acta donde se hará• constar la presencia de quienes asistieron al acto, la información dada a conocer derivada del fallo correspondiente y la constancia de entrega a los licitantes que lo soliciten, en el mismo acto, del dictamen de análisis cuantitativo y evaluatorio de las propuestas del fallo de adjudicación y de la propia acta, misma que será firmada por los servidores públicos que presidan el acto y por los asistentes al acto que quieran hacerlo, la falta de firma de los licitantes no invalidará este acto.
+Se elaborará un acta donde se hará constar la presencia de quienes asistieron al acto, la información dada a conocer derivada del fallo correspondiente y la constancia de entrega a los licitantes que lo soliciten, en el mismo acto, del dictamen de análisis cuantitativo y evaluatorio de las propuestas del fallo de adjudicación y de la propia acta, misma que será firmada por los servidores públicos que presidan el acto y por los asistentes al acto que quieran hacerlo, la falta de firma de los licitantes no invalidará este acto.
 
 La convocante pondrá a disposición de los licitantes que no hayan acudido a la junta pública en mención o de los que exista imposibilidad de hacerles entrega del escrito a que se refiere el párrafo que antecede, el dictamen y el fallo de adjudicación antes mencionados para los efectos legales correspondientes.
 
@@ -979,7 +1097,11 @@ III. Existan circunstancias que puedan provocar pérdidas o costos adicionales i
 
 IV. Su contratación mediante licitación pública ponga en riesgo la seguridad pública;
 
-V. Derivado de caso fortuito o fuerza mayor, no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto deberán limitarse a lo estrictamente necesario para afrontarla;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+V. En los casos de atención de emergencias generadas por fenómenos y catástrofes naturales, accidentes causados por el hombre, agotamiento de la vida útil de equipos o instalaciones y en cualquier otro derivado de caso fortuito o fuerza mayor, en los que no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública en el tiempo requerido para atender la emergencia de que se trate. En estos casos deberán limitarse a lo estrictamente necesario para afrontar la emergencia o eventualidad.
+
+Se entenderá que se trata de casos de emergencia la atención de fugas mayores de agua, hundimientos de vías públicas de alta circulación, reposición de luminarias en vialidades principales y zonas de alta incidencia delictiva, y situaciones en las que de cualquier forma se perjudiquen el libre tránsito de vehículos y peatones o la prestación oportuna de servicios públicos fundamentales;
 
 VI. Se hubiere rescindido el contrato respectivo por causas imputables al Contratista que hubiere resultado ganador en una licitación. En estos casos la Contratante podrá adjudicar el contrato al licitante que haya presentado la siguiente propuesta solvente más baja, y cuando así se justifique podrá modificarse el valor del contrato, pero en ningún caso podrá exceder al diez por ciento. De presentarse el incumplimiento por segunda ocasión, se podrá asignar el contrato respectivo al tercer licitante que haya presentado la siguiente propuesta solvente más baja, sin exceder al diez por ciento. Tratándose de procedimientos de contratación en los que se hayan considerado puntos y porcentajes como método para la evaluación de las propuestas, se podrá adjudicar a la propuesta que siga en calificación a la del ganador;
 
@@ -1003,9 +1125,13 @@ XIV. Se trate de servicios que tengan por objeto elaborar o concluir los estudio
 
 La Contratante podrá llevar a cabo obras públicas o servicios relacionados con las mismas, a través del procedimiento de invitación a cuando menos tres personas o por adjudicación directa, cuando el importe de cada contratación no exceda de los montos que se señalan a continuación:
 
-I. Tratándose del procedimiento de adjudicación directa hasta diez mil veces el valor diario de la Unidad de Medida y Actualización; y,
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
-II. Tratándose de invitación a tres personas, si el importe supera el monto máximo a que se refiere la fracción anterior, pero no excede de treinta mil veces el valor diario de la Unidad de Medida y Actualización.
+I. Tratándose del procedimiento de adjudicación directa hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado; y,
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+II. Tratándose de invitación a tres personas, si el importe supera el monto máximo a que se refiere la fracción anterior, pero no excede de treinta mil veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado.
 
 Para los efectos de la aplicación de este artículo, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos señalados. Los contratos no podrán ser fraccionados para quedar comprendidos en estos supuestos de excepción a la licitación pública.
 
@@ -1057,9 +1183,11 @@ V. Por administración, en cuyo caso el importe de la remuneración que deba cub
 
 Los trabajos cuya ejecución comprenda más de un ejercicio fiscal, deberán formularse en un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de las disposiciones legales que resulten aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-En casos fortuitos o de fuerza mayor y solo en estos casos, para atender situaciones de emergencia o contingencia, se podrán celebrar contratos sobre la base de precios unitarios, sin conocer con precisión el alcance y cantidades de trabajo, la totalidad de sus especificaciones, y por consiguiente no fuere factible definir un catálogo de conceptos. De resultar estrictamente necesario se podrá ordenar el inicio en la ejecución de los trabajos de manera previa a la celebración del contrato, mismo que se formalizará tan pronto como se cuente con los elementos necesarios.
+En los casos de atención de emergencias generadas por fenómenos y catástrofes naturales, accidentes causados por el hombre, agotamiento de la vida útil de equipos o instalaciones y en cualquier otro, derivado de casos fortuitos o de fuerza mayor y sólo en estos casos, para atender situaciones de emergencia o contingencia, se podrán celebrar contratos sobre la base de precios unitarios, sin conocer con precisión el alcance y cantidades de trabajo, la totalidad de sus especificaciones, y por consiguiente no fuere factible definir un catálogo de conceptos. De resultar estrictamente necesario se podrá ordenar el inicio en la ejecución de los trabajos de manera previa a la celebración del contrato, mismo que se formalizará tan pronto como se cuente con los elementos necesarios.
 
 De la misma manera se podrá aplicar el mismo procedimiento para la realización de trabajos de mantenimiento, conforme a órdenes de trabajo o servicio que emitan para tales efectos la Contratante, contando con la participación de las dependencias o entidades respectivas.
 
@@ -1203,7 +1331,9 @@ La Contratante deberá llevar el registro y control de las personas con las cual
 
 Los contratistas a que se refiere esta Ley deberán garantizar:
 
-I. El cumplimiento de los contratos. Esta garantía deberá presentarse dentro de los quince días hábiles siguientes a la fecha de celebración del contrato; y,
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+I. El cumplimiento de los contratos. Esta garantía deberá presentarse dentro de los quince días hábiles siguientes a la fecha de celebración del contrato y deberá estar constituida por el importe correspondiente al diez por ciento del monto total del contrato; y,
 
 II. Los anticipos que reciban. Esta garantía deberá presentarse dentro de los quince días hábiles siguientes a la fecha de celebración del contrato, en el caso de anticipo para único o primer ejercicio y deberá ser por la totalidad del monto anticipado.
 
@@ -1541,7 +1671,9 @@ La administración del módulo del sistema electrónico de información pública
 
 La Contratante conservará en forma ordenada y sistemática toda la documentación física e información electrónica comprobatoria de los actos y contratos materia de este ordenamiento, cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará en lo previsto por las disposiciones aplicables.
 
-Las propuestas desechadas durante la licitación pública o invitación a cuando menos tres personas, podrán ser devueltas a los licitantes que lo soliciten, una vez transcurridos treinta días hábiles contados a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna controversia legal en proceso, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la instancia. Agotados dichos términos la convocante podrá proceder a su devolución o destrucción.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+
+Las propuestas desechadas durante la licitación pública o invitación a cuando menos tres personas, podrán ser devueltas a los licitantes que lo soliciten, una vez transcurridos quince días hábiles contados a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna controversia legal en proceso, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la instancia. Agotados dichos términos la convocante podrá proceder a su devolución o destrucción.
 
 ###### Artículo 98.
 
@@ -2094,3 +2226,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las políticas, bases y lineamientos para las acciones relativas a las obras públicas y servicios relacionados con las mismas, se expedirán por la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa, dentro de los 120 días hábiles posteriores a la entrada en vigor del presente decreto.
+
+P.O. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA".]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Las políticas, bases y lineamientos para las acciones relativas a las obras públicas y servicios relacionados con las mismas, se expedirán por la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa, dentro de los sesenta días hábiles posteriores a la entrada en vigor del presente decreto.
+
+Artículo Tercero. El Reglamento de la presente Ley deberá ser reformado y publicado en el Periódico Oficial "El Estado de Sinaloa", dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Decreto.
