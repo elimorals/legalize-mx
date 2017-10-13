@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-192-de-proteccion-de-datos-personales-en-122771"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-03"
-last_updated: "2017-08-03"
+last_updated: "2017-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número 10 de la Sección I del Boletín Oficial del Estado de Sonora, el jueves 3 de agosto de 2017.
 
@@ -1677,7 +1677,7 @@ I. Los documentos que acrediten su identidad y la de su representante, en su cas
 
 II. El documento que acredite la personalidad de su representante, en su caso;
 
-III. La copia de la solicitud a través de la cual ejerció sus derechos ARCO o de portabilidad de los datos personales y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+III. (DEROGADA, B.O. 13 DE OCTUBRE DE 2017)
 
 IV. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso, y
 
@@ -2455,15 +2455,17 @@ Se derogan el Título Segundo, Capítulo Segundo, Secciones Cuarta, Quinta y Sex
 
 ###### ARTÍCULO TERCERO.
 
-Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+(DEROGADO, B.O. 13 DE OCTUBRE DE 2017)
 
 ###### ARTÍCULO CUARTO.
 
-Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año después de la entrada en vigor de ésta.
+(DEROGADO, B.O. 13 DE OCTUBRE DE 2017)
+
+> <small>(REFORMADO, B.O. 13 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO QUINTO.
 
-El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, a más tardar el 26 de enero de 2018.
 
 ###### ARTÍCULO SEXTO.
 
@@ -2478,3 +2480,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los catorce días del mes de julio del año dos mil diecisiete.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 13 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 170 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
