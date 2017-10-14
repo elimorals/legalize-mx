@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2013-11-20"
+last_updated: "2017-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -257,9 +257,11 @@ Cada Consejo Consultivo Regional podrá invitar, para que participen en sus sesi
 
 En los casos de los actos realizados por el representante del o los Presidentes Municipales deberán ser ratificados por su titular.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 12.
 
-Los Presidentes de los Consejos Consultivos Regionales serán designados por cada órgano colegiado de entre sus miembros, y siempre será un prestador de servicios turísticos.
+Quienes ocupen la Presidencia de los Consejos Consultivos Regionales serán designados por cada órgano colegiado de entre las personas que lo integran.
 
 ###### Artículo 13.
 
@@ -676,3 +678,9 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0389/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
