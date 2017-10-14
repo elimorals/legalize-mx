@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2017-07-01"
+last_updated: "2017-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,13 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
 El HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 32 Y 39 DE LA CONSTITUCION POLITICA DEL ESTADO, EN NOMBRE DEL PUEBLO Y
 
-...
+[...]
 
 Por lo anteriormente expuesto y fundado se expide el siguiente
 
@@ -205,33 +205,37 @@ Los derechos de los Diputados son:
 
 I.- Presentar iniciativas de ley, decreto o acuerdo;
 
-II.- Elegir y ser electos para integrar los diversos órganos del Congreso;
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2017)</small>
 
-III.- Formar parte de un grupo parlamentario;
+II.- Retirar iniciativas, ejerciéndolo quien o quienes suscriban la misma, pudiéndolo hacer desde el momento de su admisión y hasta antes de que la comisión a la que se haya turnado acuerde un dictamen, siempre y cuando se solicite por escrito dirigido ante el Presidente de la Comisión responsable de dictaminar;
+
+III.- Elegir y ser electos para integrar los diversos órganos del Congreso;
+
+IV.- Formar parte de un grupo parlamentario;
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- Participar con voz y voto en las sesiones del Congreso con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participarán únicamente con voz pero sin voto;
+V.- Participar con voz y voto en las sesiones del Congreso con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participarán únicamente con voz pero sin voto;
 
-V.- Ser integrante de comisiones del Congreso;
+VI.- Ser integrante de comisiones del Congreso;
 
-VI.- Participar en los trabajos, deliberaciones y debates de las comisiones;
+VII.- Participar en los trabajos, deliberaciones y debates de las comisiones;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2000)</small>
 
-VII.- Abstenerse de votar en las sesiones del Congreso o de las Comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
+VIII.- Abstenerse de votar en las sesiones del Congreso o de las Comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
 
-VIII.- Contar con el documento e insignia que los acredite como Diputados;
+IX.- Contar con el documento e insignia que los acredite como Diputados;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-IX.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo, sin que por ningún motivo puedan recibir recursos para la previsión social múltiple ciudadana, apoyos sociales o conceptos similares, por no ser una función inherente a su encargo.
+X.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo, sin que por ningún motivo puedan recibir recursos para la previsión social múltiple ciudadana, apoyos sociales o conceptos similares, por no ser una función inherente a su encargo.
 
-X.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
+XI.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
-XI.- Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la Comisión Permanente.
+XII.- Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la Comisión Permanente.
 
 ###### ARTICULO 23.
 
@@ -817,6 +821,10 @@ Estas comisiones permanentes serán por todo el ejercicio constitucional. A peti
 
 Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada comisión presentará anualmente el programa de trabajo correspondiente.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 57 BIS.- Quienes presidan las Comisiones Legislativas, serán los responsables de los dictámenes que emitan las mismas. Cualquiera de los diputados integrantes de la Legislatura, en el ejercicio de sus funciones, podrá tener acceso a los criterios técnicos que emitan las autoridades según correspondan, así como cualquier documento que vaya anexo al dictamen.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 58.
@@ -1167,9 +1175,17 @@ IV.- Análisis y estudio de la iniciativa o asunto en particular si procediere;
 
 V.- Considerandos tomados en cuenta para el apoyo, modificación o rechazo de la iniciativa o asunto;
 
-VI.- Conclusiones o puntos resolutivos; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2017)</small>
 
-VII.- Fecha y espacio para el nombre y la firma de los diputados.
+VI.- Conclusiones o puntos resolutivos;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2017)</small>
+
+VII.- Fecha y espacio para el nombre y la firma de los diputados; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2017)</small>
+
+VIII.- Los anexos correspondientes a las opiniones técnicas jurídicas y respuestas o acuses de recibido por parte de Secretarías del Poder Ejecutivo, Ayuntamientos, Organismos Autónomos y Descentralizados, en cuanto a impacto de leyes, así como impactos presupuestarios que sean remitidos por cualquiera de las autoridades mencionadas.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
@@ -1351,7 +1367,7 @@ Dado en el Poder Legislativo a los veintinueve días del mes de enero de mil nov
 
 C. ENRIQUE A. SALAZAR ABAROA, DIPUTADO PRESIDENTE.- Rúbrica.- C. JORGE LUIS PRECIADO RODRIGUEZ, DIPUTADO SECRETARIO.- Rúbrica.- C. JORGE A. GAYTAN GUDIÑO, DIPUTADO SECRETARIO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE MAYO DE 2000.
 
@@ -1532,3 +1548,9 @@ P.O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 308 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 352 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
