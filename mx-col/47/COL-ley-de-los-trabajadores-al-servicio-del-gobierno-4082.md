@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2016-03-19"
+last_updated: "2017-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -495,6 +495,10 @@ Durante su embarazo, las mujeres no realizarán trabajos que exijan un esfuerzo 
 
 Durante la lactancia, las madres trabajadoras tendrán derecho a dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 54 BIS.- Los trabajadores varones, por el nacimiento de sus hijos o en su caso de adopción de un infante, tendrán derecho a que les sea otorgado un permiso de paternidad de cinco días laborables con goce de sueldo, posteriores al alumbramiento o al día en que lo reciban.
+
 ###### ARTICULO 55.
 
 Los trabajadores que sufran enfermedades no profesionales, previa comprobación médica de los servidores correspondientes proporcionados o autorizados por la Entidad o dependencia, tendrán derecho a licencias, para dejar de concurrir a sus labores, en los siguientes términos:
@@ -617,7 +621,7 @@ d).- A trabajadores que sufran enfermedades no profesionales, en los términos d
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-IX.- Otorgar jubilaciones a los trabajadores varones que cumplan treinta años de servicio y veintiocho a las mujeres, con el cien por ciento de sus percepciones; en ningún caso el monto máximo de una pensión será superior al equivalente a dieciséis salarios mínimos diarios vigente (sic) en la Entidad por día. Asimismo, otorgar pensiones por invalidez, vejez o muerte, de conformidad con lo que disponga el reglamento correspondiente;
+IX.- Otorgar jubilaciones a los trabajadores varones que cumplan treinta años de servicio y veintiocho a las mujeres, con el cien por ciento de sus percepciones; en ningún caso el monto máximo de una pensión será superior al equivalente a dieciséis salarios mínimos diarios vigente en la Entidad por día. Asimismo, otorgar pensiones por invalidez, vejez o muerte, de conformidad con lo que disponga el reglamento correspondiente;
 
 X.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales;
 
@@ -1219,7 +1223,7 @@ En caso de no lograrse el arreglo conciliatorio, el Magistrado comisionado tendr
 
 ###### ARTICULO 152.
 
-Concluida la intervención de la parte actora o transcurrido el plazo mencionado en el articulo anterior, se concederá el uso de la palabra a la parte demandada para que por sí o por conducto del representante legal, ratifique o amplíe lo aseverado en la contestación producida, procediendo de inmediato a abrir la etapa del ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin mas limitaciones que las derivadas de la existencia, factibilidad o posibilidad de su desahogo en forma física por los servidores del Tribunal.
+Concluida la intervención de la parte actora o transcurrido el plazo mencionado en el artículo anterior, se concederá el uso de la palabra a la parte demandada para que por sí o por conducto del representante legal, ratifique o amplíe lo aseverado en la contestación producida, procediendo de inmediato a abrir la etapa del ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin mas limitaciones que las derivadas de la existencia, factibilidad o posibilidad de su desahogo en forma física por los servidores del Tribunal.
 
 Los Titulares de la Entidad o dependencia, a juicio del Tribunal, en el ofrecimiento de la prueba testimonial, podrán rendir su declaración por medio de oficio.
 
@@ -1466,3 +1470,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 La Secretaria General de Gobierno, Planeación y Finanzas, y de Educación del Gobierno del Estado de Colima, coordinadamente con la representación sindical correspondiente, dispondrá de un plazo no mayor a 30 días naturales, contados a partir del día siguiente en la entrada en vigor del presente Decreto, para establecer los mecanismos a que se refiere el artículo 137 BIS. De la Ley de Educación del Estado de Colima 69 TER. De la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, los cuales serán difundidos profusamente entre los trabajadores y organizaciones sindicales.
+
+P.O. 14 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 353 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
