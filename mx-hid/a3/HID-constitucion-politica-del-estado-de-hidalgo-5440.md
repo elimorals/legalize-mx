@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-09-18"
+last_updated: "2017-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -442,6 +442,22 @@ La persona titular de la Presidencia de la Comisión de Derechos Humanos del Est
 Toda autoridad, servidora o servidor público deberá colaborar, dentro del ámbito de su competencia con la Comisión, ninguna de ellas podrá negar la información que se le requiera, ni interferir en perjuicio de sus actividades. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias respectivas ante la autoridad competente
 
 La organización, facultades y obligaciones, así como la competencia de la Comisión serán reguladas por la Ley correspondiente y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 9 Ter.
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo del Tribunal Laboral del Poder Judicial del Estado de Hidalgo.
+
+Antes de acudir al Tribunal Laboral del Poder Judicial del Estado de Hidalgo, los trabajadores y patrones deberán asistir a la instancia conciliatoria.
+
+En el Estado de Hidalgo la función conciliatoria estará a cargo del Centro de Conciliación Laboral, como organismo descentralizado, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propio, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se regirá por la Ley en la materia.
+
+Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Gobernador someterá una terna a consideración del Congreso del Estado, el cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los integrantes del Congreso presentes, dentro del improrrogable plazo de treinta días. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Gobernador.
+
+En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia de cuando menos 5 años, acreditable en las materias de la competencia del organismo; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública, que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; ni haber laborado o haber sido miembro de asociaciones patronales o sindicatos; que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por periodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 (REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
@@ -1157,7 +1173,7 @@ Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador Gen
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
 
-VIII Bis.- Nombrar a los Comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia.
+VIII Bis. Nombrar a los Comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia.
 
 IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
@@ -1179,7 +1195,7 @@ XIII. (DEROGADA, P.O. 25 DE FEBRERO DE 2013)
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XIII BIS.- Aprobar los convenios que se celebren entre dos o más municipios del Estado de Hidalgo, derivado de los conflictos de límites territoriales que se susciten entre éstos y en los que no exista controversia jurisdiccional.
+XIII BIS. Aprobar los convenios que se celebren entre dos o más municipios del Estado de Hidalgo, derivado de los conflictos de límites territoriales que se susciten entre éstos y en los que no exista controversia jurisdiccional.
 
 XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licencia de los Diputados Propietarios;
 
@@ -1261,7 +1277,7 @@ XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, 
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XXXI.- Fiscalizar la Cuenta Pública del Estado, Municipios, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y las de cualquier persona física o moral, pública o privada que capte, recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto, y verificar el cumplimiento de los objetivos contenidos en los planes y programas, para lo cual se apoyará en la Auditoría Superior del Estado de Hidalgo y conocerá los informes que en materia de fiscalización ésta le rinda, garantizando la transparencia en el ejercicio de sus funciones.
+XXXI. Fiscalizar la Cuenta Pública del Estado, Municipios, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y las de cualquier persona física o moral, pública o privada que capte, recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto, y verificar el cumplimiento de los objetivos contenidos en los planes y programas, para lo cual se apoyará en la Auditoría Superior del Estado de Hidalgo y conocerá los informes que en materia de fiscalización ésta le rinda, garantizando la transparencia en el ejercicio de sus funciones.
 
 Las entidades fiscalizadas, deberán presentar su Cuenta Pública del año anterior ante la Auditoría Superior del Estado a más tardar el 30 de abril, del ejercicio fiscal posterior al que se trate, salvo lo previsto por la Ley de la materia.
 
@@ -1273,6 +1289,10 @@ XXXII. Legislar en materia de deuda pública, dentro del marco previsto en el ar
 
 XXXII Bis. (DEROGADA, P.O. 12 DE JUNIO DE 2017)
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+XXXII Ter. Designar al Titular del Organismo Público Descentralizado denominado Centro de Conciliación Laboral, de entre la terna que someta a su consideración el Gobernador del Estado;
+
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
 XXXIII. Autorizar, con el voto de las dos terceras partes de sus miembros presentes, los montos máximos para la contratación de compromisos de pago de los entes públicos derivados de esquemas de asociaciones público privadas, previo análisis del destino, la capacidad de pago y, en su caso, el otorgamiento de garantías o el establecimiento de fuentes de pago;
@@ -1283,13 +1303,13 @@ XXXIV. Autorizar al Estado y, en su caso, a los Municipios la celebración de co
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-XXXV.- Autorizar a los entes públicos la afectación de sus ingresos y, cuando resulte aplicable, del derecho a percibirlos, como fuente de pago, garantía o ambos, de las obligaciones o financiamientos a su cargo, siempre que en términos de la legislación aplicable dichos ingresos y/o derechos sean susceptibles de afectación.
+XXXV. Autorizar a los entes públicos la afectación de sus ingresos y, cuando resulte aplicable, del derecho a percibirlos, como fuente de pago, garantía o ambos, de las obligaciones o financiamientos a su cargo, siempre que en términos de la legislación aplicable dichos ingresos y/o derechos sean susceptibles de afectación.
 
 Asimismo, el Congreso del Estado podrá autorizar al Ejecutivo la celebración del convenio correspondiente entre el Municipio y el Estado para que éste último afecte las participaciones y aportaciones federales susceptibles de afectación que corresponden al Municipio, para ser fuente de pago, garantía o ambos, de obligaciones o financiamientos a cargo del Municipio;
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-XXXVI.- Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado; y
+XXXVI. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2017)</small>
 
@@ -1699,7 +1719,7 @@ XLV. Planificar y regular el crecimiento de los centros urbanos, otorgando los s
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-XLVI.- Recabar las participaciones y aportaciones federales que correspondan a los Ayuntamientos, que por cualquier título se perciban, para entregarlos a la Hacienda Municipal o, en caso de que hubieren sido afectadas por el Municipio, para entregarlas al mecanismo de pago o garantía correspondiente;
+XLVI. Recabar las participaciones y aportaciones federales que correspondan a los Ayuntamientos, que por cualquier título se perciban, para entregarlos a la Hacienda Municipal o, en caso de que hubieren sido afectadas por el Municipio, para entregarlas al mecanismo de pago o garantía correspondiente;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1713,11 +1733,15 @@ L. Tomar las medidas necesarias en los casos de desastre y situaciones económic
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-LI.- Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a le (sic) Ley;
+LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a le (sic) Ley;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-LII.- Designar al Consejero del Consejo de la Judicatura;
+LII. Designar al Consejero del Consejo de la Judicatura;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+LII Bis. Presentar a consideración del Congreso del Estado, la terna para la designación del Titular del Organismo Público Descentralizado denominado Centro de Conciliación Laboral;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
@@ -2123,9 +2147,9 @@ A. Son facultades del Tribunal Superior de Justicia:
 
 I. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2017)</small>
 
-II. Resolver las controversias que se susciten en materia civil, familiar, penal, mercantil y especializada en justicia para adolescentes;
+II. Resolver las controversias que se susciten en materia civil, familiar, penal, mercantil, laboral y especializada en justicia para adolescentes.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
@@ -3133,7 +3157,7 @@ Los servidores públicos del Estado de Hidalgo y sus municipios, así como de su
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
-l. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida en el presupuesto correspondiente para el Gobernador del Estado y la de éste no podrá ser mayor a la del Presidente de la República.
 
@@ -4058,3 +4082,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se deberán realizar las reformas correspondientes a la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Hidalgo a más tardar 90 días después de la entrada en vigor de este Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 230.- QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado deberá realizar las adecuaciones correspondientes a los ordenamientos secundarios para dar cumplimiento a lo previsto en el presente Decreto, dentro de los 120 días siguientes a la entrada en vigor del mismo.
+
+TERCERO. El Tribunal Laboral del Poder Judicial del Estado sustituirá legalmente las funciones de la Junta Local de Conciliación y Arbitraje, cuando lo dispongan las leyes en la materia; los asuntos que estuvieren en trámite al momento de iniciar sus funciones el Tribunal Laboral y el Centro de Conciliación Laboral serán resueltos de acuerdo con las disposiciones aplicables al momento de su inicio.
+
+CUARTO. En tanto se instituyen e inician operaciones el Tribunal Laboral y el Centro de Conciliación Laboral a que se refiere el presente Decreto, la Junta de Conciliación y Arbitraje y, en su caso, la Secretaría del Trabajo y Previsión Social continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+QUINTO. Dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto, el Titular del Ejecutivo Estatal someterá al Congreso del Estado la terna para la designación del titular del Centro de Conciliación Laboral.
+
+SEXTO. En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos en la Junta Local de Conciliación y Arbitraje, se respetarán conforme a la ley.
+
+SÉPTIMO. La Junta Local de Conciliación y Arbitraje deberá transferir los procedimientos, expedientes y documentación que, en el ámbito de su competencia tenga bajo su atención o resguardo al Tribunal Laboral y al Centro de Conciliación Laboral, los cuales se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
