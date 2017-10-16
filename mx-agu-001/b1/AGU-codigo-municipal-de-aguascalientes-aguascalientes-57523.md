@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-08-21"
+last_updated: "2017-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -9627,7 +9627,9 @@ F).- Abstenerse los ciudadanos debiendo recoger las heces fecales de sus mascota
 
 G).- Abstenerse de todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común o áreas de interés común; obtenerse (sic) de arrojar al contenedor residuos de podas.
 
-H).- Abstenerse de obstruir contenedor a menos de 3 metros de distancia mediante vehículo o cualquier objeto propiedad de los particulares en base a los criterios de la Dirección de Limpia y Aseo Público.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+H).- Por obstruir contenedor a menos de 5 metros de distancia mediante vehículo o cualquier objeto propiedad de los particulares en base a los criterios de la Dirección.
 
 > <small>(ADICIONADO CON SUS INCISOS, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -25505,15 +25507,15 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 En atención a la siguiente clasificación de infracciones, atendiendo al grupo que correspondan y en relación al mínimo y máximo establecido, se sancionará de la siguiente forma:
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
-
-I. GRUPO UNO, SANCIÓN DE TRES A DIEZ VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
+I. GRUPO UNO, SANCIÓN DE UNO A DIEZ VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
 
 a) Por no barrer diariamente los frentes de sus viviendas hasta la medianería de sus colindancias.
 
-b) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2017)</small>
+
+b) A los Establecimientos semifijos y ambulantes, por no acreditar el destino final de sus residuos, y por no entregar a los prestadores del servicio de recolección ó por depositar en el contenedor sus residuos sólidos urbanos sin contar con el permiso de la Dirección de Limpia y Aseo Público.
 
 c) Por no separar los residuos sólidos no peligrosos, susceptibles de aprovechamiento, una vez que se encuentre instrumentado por la Dirección.
 
@@ -25527,7 +25529,9 @@ f) No recoger las heces fecales de sus mascotas que sean arrojadas en la vía p�
 
 g) Todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común o áreas de interés común;
 
-h) (DEROGADO, P.O. 13 DE ENERO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2017)</small>
+
+h) Por obstruir contenedor a menos de 5 metros de distancia mediante vehículo o cualquier objeto propiedad de los particulares en base a los criterios de la Dirección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -25543,31 +25547,35 @@ c) Arrojar cualquier tipo de desecho desde el interior de los vehículos automot
 
 d) Depositar muebles o cualquier otro tipo de objeto que rebase la capacidad de los contenedores para residuos sólidos urbanos, así como cualquier tipo de animal muerto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2017)</small>
 
-III. GRUPO TRES, DE TREINTA A CINCUENTA VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
+III. GRUPO TRES, SANCIÓN DE TREINTA Y UNO A CINCUENTA VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
 
-a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+a) Por arrojar en lotes baldíos o en los contenedores, residuos procedentes de jardines o huertas, obras de construcción y remodelación o cualquier otro desecho que afecte el ambiente según los lineamientos de la Dirección de Limpia y Aseo Público;
 
-b) Por cualquier tipo de daño o destrucción de los recipientes para depósito de basura y/o para residuos sólidos urbanos que coloque o mande colocar el Municipio, o hayan sido instalados por particulares; y
+b) (DEROGADO, P.O. 16 DE OCTUBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 c) Por no asear y en su caso lavar la vía pública, si con motivo de la carga o descarga de la venta o consumo inmediato de productos, llegaran a ensuciarla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2017)</small>
 
-IV. GRUPO CUATRO, DE CINCUENTA A DOSCIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
+IV. GRUPO CUATRO, SANCIÓN DE CINCUENTA Y UNO A CIEN VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACION:
 
-a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-b) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+a) Por no asear y en su caso lavar la vía pública, si con motivo de la carga o descarga de la venta o consumo inmediato de productos, llegaran a ensuciarla;
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-c) Por no colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos generados por la actividad de establecimientos comerciales, industriales y de servicios.
+b) A los prestadores del servicio de recolección y a los Particulares por la diseminación del producto o residuos transportados en la vía pública, así como el no contar con el permiso correspondiente;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+c) Por no colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos sólidos urbanos generados por la actividad de empresas, condominios e industrias, así como por no contar con contenedores para la separación de residuos reciclables, orgánicos, inorgánicos, residuos peligrosos y de manejo especial según los lineamientos instrumentados por la dirección de Limpia y Aseo Público, cuando se trate de establecimientos comerciales, industriales, de servicios y condóminos.
 
 d) Por no entregar los residuos sólidos que generen, a los sitios autorizados por la Dirección en los casos del inciso anterior.
 
@@ -25577,7 +25585,9 @@ e) Por depositar en los contenedores residuos peligrosos biológico infecciosos;
 
 f) Quemar el contenido de los contenedores colocados en la vía pública.
 
-g) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2017)</small>
+
+g) Usar como combustible cualquier tipo de material que genere deterioro ambiental y/o que a partir de su utilización genere algún tipo de desecho inadmisible en los contenedores para desechos urbanos;
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -25585,9 +25595,9 @@ h) Depositar cualquier tipo de residuo diferente a los sólidos urbanos en los c
 
 i) A los organizadores de espectáculos públicos, por no mantener limpia el área mínima autorizada, comprendiendo también los alrededores que por causa de la actividad autorizada se vean afectados.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-j) Por no respetar los horarios y rutas que le señale la autoridad municipal.
+j) A las empresas e industrias por no respetar los horarios y rutas que por su actividad o tipo de desecho que manejen, en base a los lineamientos que le señale la Dirección de Limpia y Aseo Público;
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -25600,6 +25610,10 @@ l) Por profanar fosas en los cementerios, independientemente de su consignación
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 m) Por extraer agua de la red de agua potable sin el permiso o autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+n) Por cualquier tipo de daño o destrucción de los recipientes para depósito de basura y/o para residuos sólidos urbanos que coloquen o manden colocar (sic) municipio, o hayan sido instalados por particulares.
 
 En caso de reincidencia se aplicará hasta el doble del máximo de la sanción correspondiente. Para los efectos de estas sanciones se considera reincidente a aquella persona que habiendo sido sancionada por cometer las infracciones señaladas, viole nuevamente la misma disposición en el transcurso de seis meses.
 
@@ -27335,11 +27349,17 @@ SEGUNDO.- Las presentes reformas iniciarán en vigor, al día siguiente de su pu
 
 P.O. 21 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIOS DE "REFORMAS AL ARTÍCULO 114 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES"
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL ARTÍCULO 114 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”
 
 PRIMERO.- La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se reforman a las fracciones XXVIII, la numeración de la fracción XXIX, la numeración y texto de la fracción XXX, adicionadas mediante reforma publicada en el Periódico Oficial del Estado de Aguascalientes el 9 de enero de 2017, por lo que se realiza el corrimiento respectivo en la numeración de las subsecuentes fracciones del artículo 114 BIS del Código Municipal de Aguascalientes.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
