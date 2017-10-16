@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2017-01-16"
+last_updated: "2017-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -757,17 +757,23 @@ c).- Las demás que se establezcan con las instituciones médicas que se contrat
 
 El derecho a la prestación a que se refiere el Artículo anterior, adquiere vigencia al darse de alta el servidor público en la entidad de su adscripción y también tendrán derecho a ella los siguientes familiares:
 
-I.- La esposa o, a falta de ésta, la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-Si el servidor público o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a la prestación.
+I.- La esposa o, a falta de ésta, la concubina que se ostente como tal, con el reconocimiento y la declaración judicial correspondiente, según las disposiciones legales civiles vigentes en el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+Del mismo derecho gozará el esposo de la servidora pública o pensionista, o a falta de éste, el concubinario que se ostente como tal, con el reconocimiento y la declaración judicial correspondiente según las disposiciones legales civiles vigentes en el Estado de Aguascalientes;
 
-Del mismo derecho gozará el esposo de la servidora pública o pensionista, o a falta de éste, el concubino si reúne los requisitos del párrafo anterior;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-II.- Los hijos menores de dieciséis años del servidor público o pensionista; y
+II.- Los hijos menores de dieciocho años del servidor público o pensionista;
 
-III.- Los hijos del servidor público o pensionista hasta la edad de veinticinco años, si están realizando estudios de nivel medio o superior en cualquier rama del conocimiento en planteles del sistema educativo nacional o, si no pueden mantenerse por sí mismos debido a una enfermedad crónica, defecto físico o psíquico, hasta en tanto no desaparezca la incapacidad que padecen.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+III.- Los hijos del servidor público o pensionista hasta la edad de veinticinco años, si están realizando estudio en el grado escolar acorde a su edad, en cualquier rama del conocimiento; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+IV.- Los hijos del servidor público o pensionista declarados judicialmente en estado de interdicción hasta en tanto quede sin efectos dicha declaración judicial.
 
 ###### ARTICULO 49.
 
@@ -891,23 +897,33 @@ Para los efectos del cálculo de la pensión se estará a lo dispuesto por esta 
 
 El importe de la pensión descrita en el Artículo anterior se distribuirá entre los dependientes económicos del servidor público, de la siguiente manera:
 
-I.- La cónyuge supérstite, sola o en concurrencia con los hijos, siempre que no viva en concubinato;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-II.- A falta de la cónyuge supérstite, la concubina sola o en concurrencia con los hijos; siempre que el servidor público o pensionista le hubiere dado el tratamiento de esposa cuando menos durante los últimos cinco años y ambos hayan permanecido libres de matrimonio durante el concubinato.
+I.- La cónyuge o el cónyuge supérstite, solo o en concurrencia con los hijos, siempre que no viva en concubinato;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2017)</small>
+
+II.- A falta de la cónyuge o el cónyuge supérstite, la concubina o el concubinario solo o en concurrencia con los hijos; siempre que éstos se ostenten como tal, con el reconocimiento y la declaración judicial correspondiente, según las disposiciones legales civiles vigentes en el Estado de Aguascalientes;
 
 Si al morir el servidor público o pensionista tuviere varias concubinas, ninguna tendrá derecho a pensión;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-III.- El cónyuge supérstite, sólo o en concurrencia con los hijos, siempre que no viva en concubinato;
+III.- Los hijos menores de dieciocho años si los hay y no hayan contraido matrimonio;
 
-IV.- A falta del cónyuge supérstite, el concubinario de la servidora pública o pensionista siempre que reúna los requisitos señalados en el primer párrafo de la fracción II y fracción III de este Artículo;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-V.- Los hijos menores de dieciocho años si los hay y no hayan contraído matrimonio, o no sean menores pero estén incapacitados o imposibilitados parcial o totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos;
+IV.- Los hijos hasta la edad de veinticinco años, si están realizando sus estudios en el grado escolar acorde a su edad, en cualquier rama del conocimiento;
 
-VI.- A falta de hijos, cónyuge, concubina o concubinario, la pensión se entregará a los ascendientes directos; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-VII.- Los hijos adoptivos sólo tendrán derecho a la pensión por orfandad, cuando la adopción se haya hecho por el trabajador o pensionado antes de haber cumplido cincuenta y cinco años de edad.
+V.- Los hijos declarados judicialmente en estado de interdicción, hasta en tanto quede sin efectos dicha declaración judicial; y
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+VI.- A falta de hijos, cónyuge, concubina o concubinario, la pensión se entregará a los ascendientes directos,
+
+VII.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2017)
 
 La cantidad total a que tengan derecho los beneficiarios señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos, cuando fueran varios los beneficiarios de una pensión o alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
 
@@ -2068,3 +2084,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 155.- SE REFORMAN, ADICIONAN Y DEROGAN FRACCIONES DE LOS ARTÍCULOS 48 Y 64 DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
