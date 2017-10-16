@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2017-10-02"
+last_updated: "2017-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -91,25 +91,17 @@ La libertad del hombre y de la mujer no tiene más límite que la prohibición d
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. En el Estado de Veracruz se garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 En materia penal el proceso será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, evitar que el culpable quede impune y asegurar que se reparen los daños causados por el delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 Toda persona es inocente en tanto no se le declare culpable mediante sentencia del juez de la causa que no haya conocido el caso previamente, y ante quien se desarrollará todo el juicio, incluyendo el desahogo y valoración de pruebas. Esta función judicial de ninguna manera será delegable. Cualquier prueba obtenida en violación de derechos fundamentales será nula.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 Habrá jueces de control que garanticen los derechos de los imputados y de las víctimas y decidan sobre las medidas cautelares en los términos de la ley de la materia. La prisión preventiva sólo procederá cuando otras medidas no sean suficientes en los términos de las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
@@ -793,9 +785,9 @@ XXXI Bis. Autorizar al Poder Ejecutivo y a los ayuntamientos a contratar deuda p
 
 XXXII. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la ley;
 
-> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2017)</small>
 
-XXXIII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de (sic) Estado;
+XXXIII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado; y recibir la comparecencia de sus titulares con motivo del informe anual de actividades, sobre el estado que guarda su gestión, conforme al formato que establezca la Ley Orgánica del Poder Legislativo y su respectivo Reglamento;
 
 > <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
 
@@ -1455,7 +1447,7 @@ IV. Presidir la sesión pública y solemne convocada para el solo efecto de decl
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -1655,21 +1647,15 @@ Los titulares de las dependencias y entidades de la administración pública, co
 
 #### SECCIÓN SEGUNDA. DEL MINISTERIO PÚBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 52.
 
 El Ministerio Público en el Estado está a cargo de un órgano constitucional autónomo en los términos del artículo 67 fracción I de esta Constitución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 53.
 
 (DEROGADO, G.O. 9 DE ENERO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 54.
 
@@ -1760,8 +1746,6 @@ IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite
 V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
 
 VI. Los demás requisitos que señale la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
@@ -1981,9 +1965,13 @@ Las leyes establecerán los procedimientos y sanciones en materia electoral que 
 
 Conforme a esta Constitución y la ley, los Organismos Autónomos del Estado contarán con personalidad jurídica y patrimonio propios, tendrán autonomía técnica, presupuestal, de gestión y para emitir las reglas conforme a las cuales sistematizarán la información bajo su resguardo, y sólo podrán ser fiscalizados por el Congreso del Estado.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADO, G.O. 16 DE OCTUBRE DE 2017)</small>
 
-Estos organismos desarrollarán las actividades Estatales siguientes:
+Para efectos de que los Organismos Autónomos del Estado rindan cuentas sobre el estado que guarda su gestión, deberán presentar anualmente un informe de actividades al Congreso del Estado, conforme al formato que establezca la Ley Orgánica del Poder Legislativo y su respectivo Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE OCTUBRE DE 2017)</small>
+
+Estos Organismos desarrollarán las actividades estatales siguientes:
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
@@ -2027,7 +2015,9 @@ d) El Fiscal General será designado por el Congreso del Estado mediante el sigu
 
 Las ausencias del Fiscal General serán suplidas en los términos que señale la ley.
 
-e) El Fiscal General presentará anualmente un informe de actividades ante los poderes Legislativo y Ejecutivo del Estado y deberá comparecer ante el Congreso cuando éste así lo requiera, para informar sobre un asunto de su competencia. En este caso, la comparecencia se efectuará ante una Comisión del Congreso y la sesión no será pública, debiendo los asistentes guardar reserva sobre cualquier asunto abordado en relación con una investigación o proceso.
+> <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2017)</small>
+
+e) El Fiscal General presentará anualmente un informe de actividades ante los Poderes Legislativo y Ejecutivo del Estado en términos del segundo párrafo del presente artículo, y deberá comparecer ante el Congreso cuando éste así lo requiera para informar sobre un asunto de su competencia. En este último caso, la comparecencia se efectuará ante una Comisión del Congreso y la sesión no será pública, debiendo los asistentes guardar reserva sobre cualquier asunto abordado en relación con una investigación o proceso.
 
 f) El Ministerio Público intervendrá en los juicios que afecten a quienes las leyes otorguen especial protección.
 
@@ -2054,6 +2044,8 @@ Una vez concluido el proceso establecido en la convocatoria pública emitida, la
 > <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
 
 El Fiscal Especializado en Combate a la Corrupción durará en su encargo cinco años, sin perjuicio de que pueda ser removido a solicitud del Fiscal General o por el propio Congreso, por el voto de las dos terceras partes de los diputados presentes, cuando se actualice alguna de las causales que se establezcan en la ley para tal efecto.
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 II. El conocimiento y sustanciación de las quejas en contra de los actos u omisiones de naturaleza administrativa que violen derechos humanos, provenientes de cualquier autoridad o servidor público, la realizará la Comisión Estatal de Derechos Humanos, conforme a las siguientes bases:
 
@@ -11577,7 +11569,7 @@ CONSTITUCION Y REFORMAS.
 
 H. Córdoba, a 16 de septiembre de 1917.-M. Loyo.-Carlos I. Meléndez, Secretario.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 28 DE DICIEMBRE DE 1920.
 
@@ -12702,3 +12694,11 @@ Séptimo. Las disposiciones relacionadas con las atribuciones de fiscalización 
 Octavo. El Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado se extinguirá al día siguiente de la entrada en vigor de la ley a la que hace referencia la fracción XLII del artículo 33 de la Constitución. Hasta en tanto no entre en vigor la referida Ley, el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado continuará funcionando con su organización y facultades actuales, substanciando los asuntos que se encuentren en trámite. Al iniciar la vigencia de la Ley referida, los asuntos del Tribunal de lo Contencioso Administrativo pasarán a la competencia del Tribunal Estatal de Justicia Administrativa.
 
 Noveno. Los Magistrados que integrarán el Tribunal Estatal de Justicia Administrativa serán nombrados por el Congreso del Estado. Para tal efecto, el Gobernador remitirá las propuestas respectivas, en un plazo no mayor a sesenta días contado a partir de la entrada en vigor del presente Decreto.
+
+G.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 290 QUE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 33; ADICIONA UN SEGUNDO PÁRRAFO Y RECORRE EL SUBSECUENTE DEL ARTÍCULO 67 Y REFORMA EL INCISO E) DE LA FRACCIÓN I DEL MISMO NUMERAL, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz.
+
+Segundo. Se derogan cualquier disposición que contravenga al presente Decreto.
