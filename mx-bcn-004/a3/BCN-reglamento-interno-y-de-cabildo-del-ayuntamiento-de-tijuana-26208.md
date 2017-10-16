@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2017-09-01"
+last_updated: "2017-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1077,7 +1077,11 @@ III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios 
 
 IV.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar las unidades deportivas dentro del municipio, y
 
-V.- En general, aquellas que el Cabildo le encomiende.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2017)</small>
+
+V.- Participar en la organización del Cabildo de la Juventud y dar seguimiento a las propuestas que surjan de sus trabajos, de conformidad con los Reglamentos, acuerdos, convocatorias, lineamientos y demás normas que se emitan sobre la materia, y
+
+VI.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2008)</small>
 
@@ -1670,3 +1674,13 @@ SEGUNDO.- Túrnese para su publicación en el Periódico Oficial del Estrado (si
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaría de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERNO Y DE CABILDO PARA EL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA, REGLAMENTO INTERNO DEL INSTITUTO MUNICIPAL PARA LA JUVENTUD DE TIJUANA, BAJA CALIFORNIA Y AL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA JUVENTUD (IMJUV)".]
+
+PRIMERO.- Publíquese las reformas que se aprueban, en el Periódico Oficial del Estado de Baja California, y en la Gaceta Municipal, órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las presentes reformas entraran en vigor al día siguiente de la publicación del Reglamento del Cabildo de la Juventud de H. Ayuntamiento de Tijuana en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Una vez que entren en vigor las reformas aprobadas, por conducto de la Secretaría de Gobierno Municipal deberá notificarse a las dependencias de la administración municipal que corresponda, para la inmediata implementación de las reformas aprobadas.
