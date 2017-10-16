@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-de-proteccion-civil-para-el-municipio-1577
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-10"
-last_updated: "1997-10-10"
+last_updated: "2017-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO MUNICIPAL DE PROTECCION CIVIL PARA EL MUNICIPIO DE CADEREYTA JIMENEZ, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE CADEREYTA JIMENEZ, NUEVO LEON DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL CADEREYTA JIMENEZ, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 10 de octubre de 1997.
 
@@ -344,3 +346,15 @@ EDELMIRO CANTU SADA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 DR. HECTOR GARZA SALINAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE APRUEBA LA CREACIÓN DEL PRESENTE REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE CADEREYTA JIMÉNEZ, N.L.”]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Protección Civil del Municipio de Cadereyta Jiménez, Nuevo León, publicado en el Periódico Oficial del Estado del día 10 de octubre de 1997, sus reformas y demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese el presente reglamento en la Gaceta Municipal para su debida difusión. Por lo tanto, envíese al Periódico Oficial del Estado, para su publicación en dicho órgano y se le dé el debido cumplimiento.
