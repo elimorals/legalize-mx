@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2017-10-02"
+last_updated: "2017-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE EDUCACION DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -355,29 +357,23 @@ XXIII. Participar con la Autoridad Educativa Federal en la operación de los mec
 
 XXIV. Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y diversidad educativa; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
 
 XXV. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
 
 XXVI. Impulsar políticas públicas a fin de garantizar la entrega de útiles escolares a los niños, niñas y adolescentes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2016)</small>
+XXVII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
 
-XXVII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia; y
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XXVIII. Promover, mediante convenios, la colaboración entre centros de investigación e instituciones de educación básica, media y superior que ya cuenten con el servicio de internet, con aquellas que no lo tienen, por razón de su condición o de imposibilidades materiales, permitiendo su acceso durante las 24 horas del día a cualquier persona, a las tecnologías de la información y la comunicación para hacer posible una educación integral de los niños, jóvenes y adultos del Estado; y
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2016)</small>
-
-XXVIII. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+XIX (SIC). Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -617,8 +613,6 @@ El Ayuntamiento de cada municipio, sin perjuicio de la concurrencia de las Autor
 
 Las autoridades educativas municipales podrán celebrar convenios entre sí o con la Autoridad Educativa estatal, y esta podrá, a su vez, hacerlo con la Autoridad Educativa federal, para el mejor desarrollo del servicio educativo de acuerdo a las competencias que les otorga la Ley General de Educación y el presente ordenamiento jurídico.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO IV. De la Equidad, Inclusión y Orientaciones Educativas Fundamentales
@@ -641,8 +635,6 @@ IV. Contribuirá a la mejor convivencia humana tanto por los elementos que aport
 
 V. Será de calidad, entendiéndose por ésta, la congruencia entre los objetivos, resultados y procesos del Sistema Educativo conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 28.
@@ -650,8 +642,6 @@ V. Será de calidad, entendiéndose por ésta, la congruencia entre los objetivo
 El Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, garantizarán una mayor inclusión y equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos al prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de desventaja, ofreciéndoles apoyos específicos.
 
 Programarán e instrumentarán acciones específicas dirigidas a combatir el rezago y/o la inequidad, la ineficacia e ineficiencia educativa.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -713,19 +703,13 @@ XXII. Proporcionar materiales educativos, individuales y colectivos, para los al
 
 XXIII. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas para que reciban los cuidados médicos adecuados hasta la conclusión del puerperio, y de ser posible, para que concluyan el ciclo escolar que cursen, o bien, puedan permanecer o reingresar a la institución educativa de que se trate;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2016)</small>
 
 XXIV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2016)</small>
 
 XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2016)</small>
 
@@ -742,8 +726,6 @@ La educación que imparta el Estado de Aguascalientes será laica, al mantenerse
 El individuo es el titular del derecho a la educación y será el beneficiario de la política educativa en el Estado. Las autoridades educativas estatal y municipales deberán cumplir y vigilar en todo momento la observancia de los derechos de los educandos, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Convención Internacional de los Derechos del Niño, la Ley General de Educación, en la Constitución Política del Estado Libre y Soberano de Aguascalientes, en la Ley de Protección de los Derechos de la Niñez y de la Adolescencia, los contenidos en el presente ordenamiento y en cualesquiera otra legislación internacional; federal o estatal aplicable que los garantice y proteja.
 
 ### CAPÍTULO V. De la Atención Especial de Víctimas
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2016)</small>
 
@@ -1389,15 +1371,11 @@ Tienen derecho a la integración, a través de la Educación Especial, las perso
 
 Asimismo, se crearán programas y materiales didácticos específicos para aquellos que por su situación no se encuentren en posibilidad de acceder a la educación básica, a quienes se ofrecerá una educación que satisfaga sus necesidades para el logro de su autonomía social y productiva.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 99.
 
 Tratándose de estudiantes con discapacidad, esta educación propiciará prioritariamente su integración a los planteles de educación básica y media superior regular mediante la aplicación de métodos, técnicas y materiales específicos, la entrega de los libros de texto gratuitos correspondientes, la prestación del apoyo adicional necesario, así como la adecuación de infraestructura física básica y equipamiento conforme a la ley correspondiente. Para los educandos que, por su tipo de discapacidad no logren esa integración, la autoridad educativa procurará la satisfacción de necesidades básicas de aprendizaje para la convivencia social autónoma y productiva, enseñándoles habilidades funcionales que respondan a las demandas sociales y expectativas de la vida adulta en instituciones especiales, para ese fin:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -2496,3 +2474,11 @@ P.O. 2 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 154.- SE ADICIONA LA FRACCIÓN XXVIII DEL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
