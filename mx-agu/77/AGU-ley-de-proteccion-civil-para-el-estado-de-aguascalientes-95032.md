@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2017-07-03"
+last_updated: "2017-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -959,7 +959,9 @@ El Consejo Estatal promoverá ante el Instituto de Educación de Aguascalientes,
 
 El Sistema Educativo Estatal implementará en todas las escuelas de la Entidad el Programa Nacional de Seguridad y Emergencia Escolar, coordinado por el Instituto de Educación de Aguascalientes, apoyado por las Coordinaciones de Protección Civil. Lo anterior se realizará de acuerdo a las condiciones de riesgo que se presenten en cada localidad y conforme a los diferentes niveles de comprensión de los escolares.
 
-De igual manera las instituciones Educativas organizarán unidades internas y elaborarán programas internos de protección civil, para los fines a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+De igual manera las instituciones educativas organizarán unidades internas y elaborarán programas internos de protección civil, para los fines a que se refiere el párrafo anterior, mismos que deberán contener en forma detallada las medidas de protección y seguridad escolar establecidas en el Programa Nacional de Protección Civil y Emergencia Escolar, en concordancia con los Artículos 58, 59 y 60 de la presente Ley, con el propósito de establecer acciones de prevención, auxilio y recuperación, destinadas a salvaguardar la integridad física de la comunidad educativa, así como a proteger las instalaciones, bienes muebles e información, patrimonio de las instituciones educativas, ante la ocurrencia de cualquier situación de emergencia; de los cuales deberán rendir un informe anual a la Coordinación Estatal, para que ésta pueda integrar la red de comunicación establecida en la Fracción XI del Artículo 36 de esta Ley.
 
 ###### ARTÍCULO 79.
 
@@ -1101,9 +1103,29 @@ Los equipos contra incendios deberán de estar en óptimas condiciones para su u
 
 Todo inmueble, con una altura mayor a 15 metros, deberá contar por lo menos con un depósito de agua, aljibe o cisterna, pudiendo ser éstos accionados por bombas o hidrantes; lo anterior para permitir un adecuado y eficiente desarrollo de los servicios que prestan a la ciudadanía los Departamentos de Bomberos, mismos que emitirán su dictamen para su buen funcionamiento.
 
-### CAPÍTULO XVI. De la Inspección, Mantenimiento y Recarga de Extintores
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO XVII. Del Registro de las Organizaciones Civiles, Empresas Capacitadoras y Consultores en Materia de Protección Civil
+### CAPÍTULO XV-A. De la Investigación y la Prevención Contra Incendios
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+###### ARTÍCULO 100-A.
+
+El Consejo Estatal, a propuesta del Secretario Ejecutivo y previa aportación de opiniones de los integrantes del Sistema Estatal de Seguridad Pública, implementará un Programa Estatal de Prevención e Investigación de Incendios, en concordancia con el Programa Nacional de Prevención de Incendios Forestales, el cual deberá contar con un Protocolo de Acción ante la actualización de dichos siniestros.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+###### ARTÍCULO 100-B.
+
+Las Instituciones de Seguridad Pública del Estado y de los Municipios, así como la Fiscalía General y el personal de Protección Civil, brindarán capacitación a su personal sobre incendios intencionales, perfiles y modos de operar de los infractores, así como en su caso sobre los métodos de investigación específicos para los tipos penales protectores del equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)</small>
+
+###### ARTÍCULO 100-C.
+
+Las Instituciones de Seguridad Pública del Estado y de los Municipios así como la Fiscalía General coordinarán sus acciones en la investigación para la prevención de delitos relacionados con incendios provocados así como la investigación de dichos ilícitos para evitar y esclarecer con la máxima diligencia dichos incendios.
+
+### CAPÍTULO XVI. De la Inspección, Mantenimiento y Recarga de Extintores
 
 ###### ARTÍCULO 101.
 
@@ -1139,7 +1161,7 @@ El equipo con que deben contar las empresas, que se dediquen a la venta, renta, 
 
 Todos los extintores que se encuentren dentro de los límites del Estado de Aguascalientes, solamente podrán ser recargados por las personas físicas o morales que reúnan y cumplan con los requisitos que establece el Reglamento y los que determine la Coordinación conforme a esta Ley, mismas que deberán encontrarse legalmente establecidas en el Estado para su operación.
 
-### CAPÍTULO XVIII. De la Protección Civil en los Centros de Atención
+### CAPÍTULO XVII. Del Registro de las Organizaciones Civiles, Empresas Capacitadoras y Consultores en Materia de Protección Civil
 
 ###### ARTÍCULO 109.
 
@@ -1151,7 +1173,7 @@ El registro será obligatorio y permitirá a los particulares o dependencias pú
 
 El registro tendrá una vigencia de un año a partir de su aprobación por parte de la Coordinación, reservándose ésta el derecho de revocar el registro cuando el interesado incurra en omisiones, falta de veracidad, calidad o cumplimiento a las guías, normatividad y legislación aplicable.
 
-### CAPÍTULO XIX. Del Financiamiento y Donaciones para Protección Civil
+### CAPÍTULO XVIII. De la Protección Civil en los Centros de Atención
 
 ###### ARTÍCULO 111.
 
@@ -1193,9 +1215,9 @@ Las Coordinaciones Municipales de Protección Civil previa suscripción de los c
 
 Las infracciones cometidas en violación del presente Capítulo o de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en relación a disposiciones de protección civil, serán sancionadas en los términos de la legislación aplicable.
 
-### CAPÍTULO XX. Del Fondo de Protección Civil
+### CAPÍTULO XIX. Del Financiamiento y Donaciones para Protección Civil
 
-### CAPÍTULO XXI. De las Medidas de Seguridad
+### CAPÍTULO XX. Del Fondo de Protección Civil
 
 ###### ARTÍCULO 117.
 
@@ -1237,7 +1259,7 @@ Las autoridades estatales o municipales correspondientes, deberán de verificar 
 
 En caso de que alguna autoridad estatal, municipal o servidor público obstaculice, interfiera, desvíe o haga mal uso de los donativos recibidos tanto en efectivo como en especie, será sancionada conforme al Capítulo de sanciones de la presente Ley y el Código Penal para el Estado de Aguascalientes.
 
-### CAPÍTULO XXII. Detección de Zonas de Riesgo
+### CAPÍTULO XXI. De las Medidas de Seguridad
 
 ###### ARTÍCULO 125.
 
@@ -1267,7 +1289,7 @@ Los recursos del Fondo se erogarán observando los principios de inmediatez, igu
 
 La operación de los recursos del Fondo al ejercerse en fase de emergencia o desastre podrán ser ejecutados por el Comité Técnico de manera directa, previa solicitud que por escrito le formule el Comité Estatal de Emergencias, sujetándose a la fiscalización que realicen los órganos competentes en los términos de ésta y otras legislaciones.
 
-### CAPÍTULO XXIII. De las Inspecciones
+### CAPÍTULO XXII. Detección de Zonas de Riesgo
 
 ###### ARTÍCULO 132.
 
@@ -1299,7 +1321,7 @@ Asimismo las Coordinaciones de Protección Civil y la Secretaría de Gobierno po
 
 Cuando se apliquen las medidas de seguridad previstas en este Capítulo se precisará su temporalidad y en su caso, las acciones para su suspensión.
 
-### CAPÍTULO XXIV. De las Sanciones
+### CAPÍTULO XXIII. De las Inspecciones
 
 ###### ARTÍCULO 135.
 
@@ -1348,6 +1370,8 @@ El Estado deberá de ser dividido en zonas de peligro y riesgo, para todos los f
 ###### ARTÍCULO 143.
 
 En caso de asentamientos humanos ya establecidos en zonas de alto riesgo, las autoridades competentes con base en estudios de riesgo específicos, determinarán la realización de obras de infraestructura que sean necesarias para mitigar el riesgo a que están expuestas o, de ser el caso deberán de formular un plan a fin de determinar cuáles de ellos deben ser reubicados o remitidos a un albergue, proponiendo mecanismos financieros que permitan esta acción. Lo anterior se hará conforme a lo que se establezca en el Reglamento de esta Ley.
+
+### CAPÍTULO XXIV. De las Sanciones
 
 ###### ARTÍCULO 144.
 
@@ -1506,3 +1530,23 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 159.- SE ADICIONA LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 160.- SE REFORMA EL ARTÍCULO 78 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente día (sic) de su publicación en El Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a las diversas instituciones que conforman el Sistema Educativo Estatal, a elaborar en los términos expuestos y de acuerdo a la normatividad aplicable, un Programa Interno de Protección Civil, ello con apoyo de la Coordinación Estatal de Protección Civil, para así salvaguardar la integridad física de la comunidad educativa y proteger las instalaciones, bienes muebles e información, patrimonio de las instituciones educativas, ante la ocurrencia de cualquier situación de emergencia.
