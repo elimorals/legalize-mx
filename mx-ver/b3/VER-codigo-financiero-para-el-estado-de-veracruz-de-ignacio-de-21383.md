@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2017-10-10"
+last_updated: "2017-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 10 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1705,57 +1703,165 @@ V. Presentar ante la autoridad fiscal la información que contenga los datos de 
 
 (DEROGADO, G.O. 30 DE DICIEMBRE DE 2016)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 16 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO SEGUNDO
+### CAPÍTULO SEGUNDO. DEL IMPUESTO POR LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 106.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Es objeto de este impuesto, la prestación de servicios de hospedaje, proporcionados dentro del territorio del Estado, ya sea de manera permanente o temporal, por:
+
+I. Hoteles, hostales, moteles, posadas, mesones, o tiempo compartido;
+
+II. Albergues, campamentos y paraderos de casas rodantes; y
+
+III. Villas, búngalos, suites, casas de huéspedes, o cualquier otra instalación utilizada de manera ocasional o permanente para ese fin.
+
+En los supuestos previstos en este artículo, cuando intervenga una persona física o moral en su carácter de promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, ésta retendrá el impuesto, debiendo enterar el importe correspondiente a la autoridad fiscal.
+
+No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios, internados o cualquier similar a éstos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 107.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Para efectos de este impuesto, se entiende por prestación de los servicios de hospedaje, el otorgamiento de albergue o alojamiento a cambio de una contraprestación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 108.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Son sujetos de este impuesto las personas físicas o morales que presten los servicios a que se refiere el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 109.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+El impuesto a que se refiere este Capítulo se causará al momento en que se perciba el importe correspondiente a la contraprestación por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase y cualquier otro concepto de la misma naturaleza.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 110.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Los contribuyentes sujetos al pago de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que los contribuyentes sujetos de este impuesto efectúen a los usuarios del servicio de hospedaje por un monto equivalente al impuesto establecido en este Capítulo.
+
+Tratándose de contribuyentes que de acuerdo con las disposiciones fiscales federales expidan comprobantes simplificados, formularán una factura global diaria que contenga el orden consecutivo de operaciones, el resumen total de las ventas diarias y el desglose por separado del impuesto que se traslada por la prestación de servicios de hospedaje.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 111.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Es base de esta contribución el monto total de las contraprestaciones causadas por la prestación de servicios de hospedaje. Cuando los contribuyentes convengan en la prestación de este servicio e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a la prestación de servicios de hospedaje.
+
+En ningún caso se considera que el Impuesto al Valor Agregado forma parte de este impuesto. Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto el monto de las contraprestaciones que se reciban por concepto de hospedaje descritas en el comprobante respectivo. Cuando no se desglose este concepto, se considerará como base del impuesto el monto total que se pague.
+
+El impuesto a que se refiere este Capítulo se causará al momento en que se hagan exigibles las contraprestaciones por los servicios de hospedaje.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 112.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Este impuesto se pagará y determinará aplicando la tasa de 2% (dos por ciento) a la base gravable a que se refiere el artículo 111 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 113.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+El ingreso que perciba el Estado a través de la Secretaría, proveniente del impuesto y sus accesorios, se destinará única y exclusivamente a la promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá un Fideicomiso centro de capital, con sus respectivos fondos producto, para que sean transparentados a través de un administrador especializado, que cuente con un sistema propio para controlar el cumplimiento de los fines del Fideicomiso, operación de flujo de efectivo y el cumplimiento de la normatividad aplicable. El fideicomiso destinará un mínimo de 90% (noventa por ciento) para la difusión de actividades turísticas y hasta un máximo de 10% (diez por ciento) para gastos de operación del mismo.
+
+El patrimonio de dicho Fideicomiso podrá ser incrementado con las aportaciones que realicen el Gobierno del Estado, el Gobierno Federal a través de sus dependencias o entidades, los gobiernos municipales, los integrantes del sector hotelero de la entidad de manera directa o a través de sus organizaciones y, en general, los empresarios del sector turístico, así como los demás recursos que legalmente pueda procurarse para el cumplimiento de sus fines.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 114.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Para los efectos del ejercicio de los recursos del Fideicomiso, éste contará con un Comité Técnico que estará integrado, con voz y voto, por:
+
+I. El Gobernador del Estado, quien lo presidirá;
+
+II. El titular de la Secretaría de Turismo y Cultura;
+
+III. El titular de la Secretaría de Medio Ambiente;
+
+IV. El titular de la Secretaría de Finanzas y Planeación;
+
+V. El titular de la Secretaría de Desarrollo Económico y Portuario;
+
+VI. El titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+
+VII. El titular de la Secretaría de Infraestructura y Obras Públicas;
+
+VIII. El titular de la Secretaría de Protección Civil; y
+
+IX. Siete representantes del ramo hotelero: uno por cada una de las siete regiones en que se divide el Estado, de conformidad con la Ley de Turismo del Estado de Veracruz de Ignacio de la Llave.
+
+El titular de la Contraloría General del Estado participará en el órgano de gobierno, con voz, pero sin voto, para cumplir las funciones de comisario. Los integrantes de la Comisión Permanente de Turismo del Congreso del Estado participarán también con voz, pero sin voto, en el propio órgano de gobierno.
+
+Asimismo, a invitación del presidente del Comité Técnico, podrán asistir a las sesiones de trabajo del Comité Técnico, representantes de las dependencias e instituciones, públicas o privadas, federales o estatales, que tengan relación sustantiva con el objeto del Fideicomiso, de contribuir al fortalecimiento de una política pública orientada a difundir y mejorar la actividad turística en la entidad.
+
+Cada titular podrá nombrar un suplente en sus ausencias. En el caso del Gobernador, será el titular de la Secretaría de Gobierno o quien éste designe.
+
+En caso de empate en la toma de decisiones o determinaciones por parte de los integrantes del Comité Técnico, el presidente tendrá voto de calidad.
+
+Los cargos de los integrantes en el Comité Técnico serán honoríficos, por lo que no podrán recibir emolumento alguno en su desempeño.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 115.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+El Comité Técnico del Fideicomiso tendrá como principales facultades las siguientes:
+
+I. Elaborar y autorizar los programas de trabajo y el presupuesto de egresos que para las acciones de promoción turística a nivel institucional y regional se desarrollan con cargo al patrimonio del Fideicomiso, el cual deberá contener todas las actividades y campañas que se pretenden llevar a cabo, vigilando que dichas propuestas estén acordes a la campaña estatal de promoción turística y no afecten otras campañas;
+
+II. Implementar las normas necesarias para el buen funcionamiento del Fideicomiso, siempre y cuando no contravengan los fines del mismo;
+
+III. Establecer las bases en coordinación con la Secretaría de Turismo y Cultura, para fijar los criterios que deberán contener la campaña estatal y las campañas regionales de promoción turística;
+
+IV. Supervisar y verificar la correcta implementación de las campañas de promoción turística y programas;
+
+V. Proporcionar todos los documentos y facilitar todo lo necesario, a efecto de que se realice en forma anual una auditoría a través de la Contraloría General del Estado;
+
+VI. Revisar la información de la administración del patrimonio del Fideicomiso y pronunciarse según corresponda, responsabilizándose de informar al Fideicomitente sobre el estado que guarda la administración del Fideicomiso;
+
+VII. Conocer el calendario en que la Secretaría de Finanzas y Planeación llevará a cabo las aportaciones al patrimonio del Fideicomiso;
+
+VIII. Recibir y analizar los estados de cuenta que rinda el Fiduciario, teniendo un plazo de treinta días naturales, contados a partir de la fecha de emisión de los propios estados de cuenta, para manifestar cualquier comentario; transcurrido dicho plazo se tendrán por aprobados tácitamente dichos estados de cuenta;
+
+IX. Coadyuvar con el Fiduciario en la contabilidad de éste, aportándole la información y documentación que se requiera sin responsabilidad para el Fiduciario respecto a la exactitud o autenticidad de dicha información y documentación que le entreguen;
+
+X. Aprobar sus Reglas de Operación, que regirán la actividad del Fideicomiso; y
+
+XI. Realizar, de común acuerdo con el Fiduciario, los actos legales necesarios para el mejor cumplimiento de los fines del Fideicomiso, así como instruir al Fiduciario, a efecto de señalar a la persona que será apoderada para el caso de que sea necesaria la defensa del patrimonio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 116.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Los contribuyentes de este impuesto estarán obligados a:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción en donde se encuentre el inmueble destinado a la prestación de servicios de hospedaje, dentro de los treinta días siguientes al inicio en que se coloquen en la hipótesis de la causación del impuesto, utilizando para tal efecto las formas oficiales aprobadas por la Secretaría;
+
+II. Trasladar el impuesto a que se refiere este Capítulo, a las personas usuarias del servicio de hospedaje y enterarlo mediante declaración mensual definitiva a través de las formas autorizadas para tal efecto;
+
+III. Podrán también enterar el monto correspondiente en la Oficina Virtual de Hacienda, en las instituciones bancarias autorizadas en donde se encuentre el inmueble destinado a la prestación de servicios de hospedaje, o en las modalidades a que se refiere el artículo 23 de este Código, a más tardar el día diecisiete del mes siguiente a la causación del impuesto;
+
+IV. La obligación de presentar declaración mensual definitiva de este impuesto subsistirá aun cuando no hubiera cantidad a cubrir. Cuando con posterioridad a la presentación de la declaración mensual de pago se modifique el importe de los actos reportados en dicha declaración como resultado de devoluciones o cancelaciones de los servicios de hospedaje que hubieran sido contratados, el contribuyente podrá optar por solicitar la devolución de las cantidades pagadas indebidamente; o compensar las cantidades que tenga a su favor contra el impuesto retenido y que deba enterarse en el siguiente mes. En este caso, el contribuyente estará obligado a presentar conjuntamente con la declaración mensual de pago, el aviso de compensación ante la Oficina de Hacienda del Estado de la jurisdicción en donde se encuentre el inmueble destinado a la prestación de los servicios de hospedaje;
+
+V. Presentar, ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código, dentro del plazo de quince días siguientes en el que ocurra cualquiera de estos supuestos; y
+
+VI. Expedir comprobantes fiscales, señalando en los mismos, además de los requisitos exigidos en las disposiciones fiscales federales, el impuesto por la prestación de servicios de hospedaje que se traslada en forma expresa y por separado a quien reciba los servicios que marca este Capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 117.
 
-(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+Las personas físicas o morales que, en su carácter de promotoras o facilitadoras, intervengan en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes en su carácter de promotor o facilitador, a efecto de coadyuvar en el cumplimiento de lo establecido en el presente capítulo.
+
+Asimismo, aquellas personas físicas o morales que, en su carácter de facilitadoras o promotoras, intervengan en el cobro de las contraprestaciones por los servicios de hospedaje, deberán presentar, a más tardar el día diecisiete de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría, de conformidad con lo establecido en el artículo 111.
+
+Los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
 
 ### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
@@ -5444,3 +5550,15 @@ G.O. 21 DE JULIO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 344 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, REFERENTE AL IMPUESTO POR LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Fideicomiso señalado en el artículo 113 deberá constituirse en un plazo de sesenta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. El Ejecutivo del Estado emitirá la normatividad que establezca las bases de funcionamiento del Comité Técnico del Fideicomiso en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor de este Decreto.
