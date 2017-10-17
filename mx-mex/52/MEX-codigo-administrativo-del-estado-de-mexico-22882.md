@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-10-12"
+last_updated: "2017-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 17 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 250 PUBLICADO EN LA G.G. DE 12 DE OCTUBRE DE 2017.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2849,7 +2849,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3251,7 +3251,7 @@ III. Cuando después de la reapertura de un establecimiento, local, fábrica, co
 
 IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
 
-V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud; y
+V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
 
 VI. Reincidencia por tercera ocasión.
 
@@ -13617,7 +13617,7 @@ Las autorizaciones que correspondan a la publicidad exterior que se pretenda ins
 
 ###### Artículo 17.
 
-25 Bis.- El responsable de un inmueble que instale o permita la instalación de estructuras con fines publicitarios, sin la autorización o permiso correspondiente y demás requisitos exigidos por las disposiciones legales, incluido el dictamen de protección civil, será sancionado en términos de lo dispuesto por el Título Quinto de este Libro.
+25 Bis.- El responsable de un inmueble que instale o permita la instalación de estructuras con fines publicitarios, sin la autorización o permiso correspondiente y demás requisitos exigidos por las disposiciones legales, incluido el dictamen de protección civil, será sancionado en términos de lo dispuesto por el Titulo Quinto de este Libro.
 
 Los Municipios ordenarán los trabajos de retiro de tales instalaciones publicitarias a costa del propietario, de forma independiente a las sanciones que resulten aplicables.
 
