@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-10-13"
+last_updated: "2017-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -167,9 +167,9 @@ III. TERCER CIRCUITO:
 
 2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2017)</small>
 
-3. Treinta y un juzgados de Distrito especializados: siete de amparo en materia penal, ocho en materias administrativa y de trabajo, siete en materia civil, todos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
+3. Treinta y dos juzgados de Distrito especializados: siete de amparo en materia penal, nueve en materias administrativa y de trabajo y siete en materia civil, todos ellos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
 
 > <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2013)</small>
 
@@ -4498,6 +4498,98 @@ XXX. …
 2. a 3. ...
 
 XXXI. a XXXII. ...”
+
+D.O.F. 17 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 17/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS, ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en Materias Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
+
+PERIODO DE ÓRGANO JURISDICCIONAL AL QUE
+
+GUARDIA CORRESPONDE LA GUARDIA
+
+Del 4 al 11 de Juzgado Noveno de Distrito en Materias
+
+diciembre 2017 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 11 al 18 de Juzgado Primero de Distrito en Materias
+
+diciembre 2017 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 18 al 25 de Juzgado Segundo de Distrito en Materias
+
+diciembre 2017 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 25 de diciembre Juzgado Tercero de Distrito en Materias
+
+2017 al 1 de enero Administrativa y de Trabajo en el Estado
+
+2018 de Jalisco, con residencia en Zapopan
+
+Del 1 al 8 de Juzgado Cuarto de Distrito en Materias
+
+enero 2018 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 8 al 15 de Juzgado Quinto de Distrito en Materias
+
+enero 2018 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 15 al 22 de Juzgado Sexto de Distrito en Materias
+
+enero 2018 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 22 al 29 de Juzgado Séptimo de Distrito en Materias
+
+enero 2018 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Del 29 de enero al 5 Juzgado Octavo de Distrito en Materias
+
+de febrero de 2018 Administrativa y de Trabajo en el Estado
+
+de Jalisco, con residencia en Zapopan
+
+Y así sucesivamente en ese orden.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción III, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a II. …
+
+III. …
+
+1. a 2. …
+
+3. Treinta y dos juzgados de Distrito especializados: siete de amparo en materia penal, nueve en materias administrativa y de trabajo y siete en materia civil, todos ellos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
+
+4. …
+
+IV. a XXXII. …"
+
+SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
 ###### Artículo 10.
 
