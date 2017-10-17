@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-10-10"
+last_updated: "2017-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2993,7 +2993,11 @@ Quien falsifique la marca o contraseña que alguna autoridad use para identifica
 
 A quien falsifique llaves para adaptarlas a cualquier cerradura, el sello, las marcas u otras señas de algún particular, sin el consentimiento de quien pueda darlo, se le impondrá de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO V. Ultrajes a la Autoridad, a las Instituciones del Estado y a las Insignias Públicas
+### CAPÍTULO V. Delitos Cometidos Contra Servidores Públicos o Agentes de la Autoridad en Ejercicio de sus Funciones
+
+(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 258.
 
@@ -3205,19 +3209,19 @@ Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO V. Maltrato a los Animales Domésticos
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 277.
 
-Comete el delito de ultrajes a la autoridad, a las instituciones del Estado y a las insignias públicas quien profiere expresión directa o indirecta o ejecuta acciones con el propósito de denigrar, calumniar u ofender a un servidor público en el acto de ejercer sus funciones o con motivo de ellas, a las insignias del Estado o de un Municipio, o a cualquiera de sus instituciones.
+QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO PÚBLICO, O AGENTE DE LA AUTORIDAD, EN EL ACTO DE EJERCER LÍCITAMENTE SUS FUNCIONES O CON MOTIVO DE ELLAS, SE LE APLICARÁ DE UNO A SEIS AÑOS DE PRISIÓN, Y SANCIÓN PECUNIARIA DE CIEN A TRESCIENTAS UNIDADES DE MEDIDA DE ACTUALIZACIÓN, ADEMÁS DE LA QUE LE CORRESPONDA POR EL DELITO COMETIDO.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
-Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
-
-Se equipara al delito de ultrajes a la autoridad, a las instituciones del Estado y a las insignias públicas y se sancionará como tal, a quien a través de los sistemas de emergencia utilice teléfono fijo o celular para realizar bromas, o insultar a la autoridad.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -4739,8 +4743,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 10 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 716.- SE ADICIONA EL ARTÍCULO 204 BIS, AL CÓDIGO PENAL DE ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 716.- SE ADICIONA EL ARTÍCULO 204 BIS, AL CÓDIGO PENAL DE ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 726.- SE REFORMA EL TÍTULO DÉCIMO SEGUNDO DENOMINADO DEL CAPÍTULO V "DELITOS COMETIDOS CONTRA SERVIDORES PÚBLICOS O AGENTES DE LA AUTORIDAD EN EJERCICIO DE SUS FUNCIONES" Y EL ARTÍCULO 277 EN SU PÁRRAFO PRIMERO; DEROGA DEL MISMO ARTÍCULO 277 LOS PÁRRAFOS, SEGUNDO Y TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
