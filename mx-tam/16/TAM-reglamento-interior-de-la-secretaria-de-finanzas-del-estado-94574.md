@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-945
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-29"
-last_updated: "2015-06-09"
+last_updated: "2017-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de mayo de 2013.
 
@@ -1098,3 +1100,19 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL
 P.O. 9 DE JUNIO DE 2015.
 
 ÚNICO. El presente Acuerdo Gubernamental entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Finanzas publicado en el Periódico Oficial del Estado de Tamaulipas No. 65 de fecha 29 de mayo de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite iniciados al amparo de las atribuciones conferidas en el Reglamento que se abroga, por las unidades administrativas de la Secretaría de Finanzas, seguirán su curso normal hasta su conclusión, sin que la entrada en vigor de este Reglamento afecte la validez de dichos actos.
