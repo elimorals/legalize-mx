@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2017-03-25"
+last_updated: "2017-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -340,6 +340,10 @@ En los Municipios que se rigen por usos y costumbres, para la elección del Ayun
 ###### ARTÍCULO 32.
 
 El Ayuntamiento durará en su encargo tres años. El Ayuntamiento rendirá protesta el día primero de enero siguiente al de su elección y concluirá el treinta y uno de diciembre del año de las elecciones para su renovación.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2017)</small>
+
+Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa podrán ser electos consecutivamente para un período adicional, siempre y cuando el período del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
@@ -2754,3 +2758,9 @@ P.O. 25 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 579.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI Y SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 712.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 32 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
