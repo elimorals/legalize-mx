@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-945
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-29"
-last_updated: "2015-06-09"
+last_updated: "2017-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,75 +21,21 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ACUERDO GENERAL 6/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL QUINTO TRIBUNAL UNITARIO DEL TERCER CIRCUITO, CON RESIDENCIA EN ZAPOPAN, ESTADO DE JALISCO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2017 (ABROGADO).
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de febrero de 2012.
+Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de mayo de 2013.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 91 fracción V, y 95 de la Constitución Política del Estado de Tamaulipas; 1 numerales 1 y 2, 2 numeral 1, 3, 10 numerales 1 y 2, 11 numeral 1 y 25 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; y
 
-ACUERDO GENERAL 6/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL QUINTO TRIBUNAL UNITARIO DEL TERCER CIRCUITO, CON RESIDENCIA EN ZAPOPAN, ESTADO DE JALISCO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS.
+C O N S I D E R A N D O.
 
-CONSIDERANDO
+En virtud de la fundamentación y motivación expuestas, he tenido a bien expedir el siguiente:
 
-PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de Circuito y juzgados de Distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
-
-SEGUNDO. El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
-
-TERCERO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, 81, fracciones IV, V y XXIV y 144, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los tribunales unitarios, en cada uno de los circuitos en que se divide el territorio de la República Mexicana, así como dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los tribunales de Circuito, cuando en un mismo lugar haya varios de ellos; atribución, esta última, que ejerce a través de la Comisión de Creación de Nuevos Organos, en términos del artículo 46, fracciones II y III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, publicado el tres de febrero de dos mil doce, en el Diario Oficial de la Federación;
-
-CUARTO. A fin de dar cumplimiento al artículo 17 de la Constitución General de la República, el Pleno del Consejo de la Judicatura Federal, en sesión de seis de abril de dos mil once, aprobó el dictamen de creación de un tribunal unitario del Tercer Circuito;
-
-QUINTO. De acuerdo con la información proporcionada por la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal, en la actualidad se cuenta con la infraestructura física para la instalación de dicho tribunal unitario, lo cual hace necesario determinar los aspectos inherentes al inicio de su funcionamiento.
-
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
-
-ACUERDO
-
-PRIMERO.- El nuevo órgano jurisdiccional se denominará Quinto Tribunal Unitario del Tercer Circuito y tendrá igual residencia, competencia y jurisdicción territorial que los tribunales unitarios del Tercer Circuito que actualmente funcionan en Zapopan, Estado de Jalisco.
-
-SEGUNDO.- El Quinto Tribunal Unitario del Tercer Circuito, con sede en Zapopan, Estado de Jalisco, iniciará funciones el uno de marzo de dos mil doce, con la plantilla autorizada para ese órgano jurisdiccional.
-
-Su domicilio será el ubicado en el edificio XA, nivel 8, en Anillo Periférico Poniente Manuel Gómez Morín, número 7727, Fraccionamiento Ciudad Judicial Federal, Municipio de Zapopán, Estado de Jalisco, código postal 45010. Toda la correspondencia y trámites relacionados con los asuntos de su competencia, deberán dirigirse y realizarse en el mismo.
-
-TERCERO.- Los actuales tribunales unitarios del Tercer Circuito, conservarán la denominación, competencia y jurisdicción territorial que tienen asignada.
-
-CUARTO.- Desde la fecha señalada en el punto SEGUNDO del presente acuerdo, la Oficina de Correspondencia Común de los Tribunales Unitarios del Tercer Circuito, lo será también del nuevo órgano jurisdiccional.
-
-Todos los asuntos nuevos que se presenten en la mencionada Oficina de Correspondencia Común, en días y horas hábiles del uno al quince de marzo dos mil doce, se remitirán conforme al sistema computarizado que se lleva a cabo para esos efectos, al Quinto Tribunal Unitario del Tercer Circuito, con sede en Zapopan, Jalisco; por lo que durante ese periodo no tendrán aplicación las reglas de relación de asuntos fijadas por el Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, que regula el funcionamiento, supervisión y control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, ni sus reformas.
-
-Durante el lapso antes indicado, el Quinto Tribunal Unitario del Tercer Circuito, no recibirá los asuntos urgentes que se presenten en horas y días inhábiles, en ese sentido el turno de los asuntos en mención continua en su orden en tanto resulte aplicable lo dispuesto en el punto SEXTO del presente acuerdo.
-
-Transcurrido el plazo señalado, los asuntos nuevos que se presenten en días y horas hábiles se distribuirán entre los cinco tribunales unitarios del Tercer Circuito, conforme al sistema computarizado utilizado para tales efectos y al citado Acuerdo General 13/2007 del propio Pleno.
-
-Se faculta a la Comisión de Creación de Nuevos Organos para concluir de manera anticipada o prorrogar en su caso, el plazo de exclusión de turno de nuevos asuntos ordenado en el presente punto de acuerdo. Lo anterior con base en los estudios respectivos que presente a su consideración la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
-
-QUINTO.- Al finalizar el periodo de exclusión otorgado a los tribunales unitarios del Tercer Circuito, deberán informar a la Comisión de Creación de Nuevos Organos, a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y a la Dirección General de Estadística Judicial sobre la productividad obtenida, dentro de los tres días hábiles siguientes.
-
-SEXTO.- Se modifica el rol de guardias de los tribunales unitarios del Tercer Circuito, para recibir asuntos en días y horas inhábiles, para quedar como sigue: marzo y abril de dos mil doce, estará de guardia el Segundo Tribunal Unitario del Tercer Circuito; mayo y junio de dos mil doce, estará de guardia el Tercer Tribunal Unitario del Tercer Circuito; julio y agosto de dos mil doce, estará de guardia el Cuarto Tribunal Unitario del Tercer Circuito; septiembre y octubre de dos mil doce estará de guardia el Quinto Tribunal Unitario del Tercer Circuito; noviembre y diciembre de dos mil doce estará de guardia el Primer Tribunal Unitario del Tercer Circuito; y así sucesivamente en ese orden.
-
-El tribunal unitario que se encuentre de guardia deberá informar sobre las demandas recibidas a la oficina de correspondencia común que les presta servicio, a fin de que, cuando ésta reanude sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-SEPTIMO.- El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días hábiles de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
-
-De igual forma su titular deberá levantar por duplicado un acta administrativa del inicio de funciones del órgano jurisdiccional, cuyo formato le será proporcionado por la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, debiendo remitir un ejemplar a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
-
-OCTAVO.- El titular de dicho órgano, con asistencia de un secretario, deberá autorizar el uso de libros de gobierno que correspondan, en los que se asentará la certificación correspondiente y en los cuales se registrarán los expedientes de manera progresiva, valores y objetos que se reciban con motivo de sus funciones; comenzando su propia numeración, conforme a lo dispuesto en el Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal.
-
-NOVENO.- Se modifica el Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, en el punto SEGUNDO, apartado III. TERCER CIRCUITO, número 2, para quedar como sigue:
-
-“SEGUNDO. …
-
-III. TERCER CIRCUITO: …
-
-2.- Cinco tribunales unitarios con residencia en Zapopan”.
-
-DECIMO.- El Pleno y las Comisiones de Creación de Nuevos Organos; de Carrera Judicial; y de Administración, del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, resolverán todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente acuerdo.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -355,11 +301,11 @@ XIV. Certificar hechos y expedir las constancias respectivas de los documentos q
 
 XV. Proponer, para aprobación superior, los nombramientos y remociones del personal a su cargo;
 
-XVI Integrar, para la aprobación del titular de la Secretaría, los proyectos gubernamentales de la dependencia, en congruencia con la metodología aplicable, así como participar en el seguimiento del control del presupuesto aprobado; y
+XVI. Integrar, para la aprobación del titular de la Secretaría, los proyectos gubernamentales de la dependencia, en congruencia con la metodología aplicable, así como participar en el seguimiento del control del presupuesto aprobado; y
 
 XVII. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
 
-Las plazas de confianza de nivel operativo quedan sujetas a la autorización del titular de la dependencia, en apego a las disposiciones legales, fundamentalmente para el caso de los puestos con funciones de manejo de fondos, valores, almacenes e inventarios; (sic)
+Las plazas de confianza de nivel operativo quedan sujetas a la autorización del titular de la dependencia, en apego a las disposiciones legales, fundamentalmente para el caso de los puestos con funciones de manejo de fondos, valores, almacenes e inventarios;
 
 ###### ARTÍCULO 15.
 
@@ -535,13 +481,17 @@ XIV. Mantener comunicación permanente con las autoridades del Gobierno Federal,
 
 XV. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-La Dirección de Auditoría Fiscal de la Subsecretaría de Ingresos tiene bajo su adscripción a los Departamentos de Visitas Domiciliarias, de Programación, de Revisión de Dictámenes y el de Programas Especiales. Al titular de la Dirección, de manera directa o por conducto de sus subalternos, le corresponden las atribuciones siguientes:
+La Dirección de Auditoría Fiscal de la Subsecretaría de Ingresos tiene bajo su adscripción a los Departamentos de Visitas Domiciliarias, de Programación, de Revisión de Dictámenes, de Comercio Exterior y el de Programas Especiales. Al titular de la Dirección, de manera directa o por conducto de sus subalternos, le corresponden las atribuciones siguientes:
 
 I. Formular los Programas Operativos Anuales de fiscalización federal y estatal, a más tardar el 15 de noviembre del ejercicio inmediato anterior a aquel al que se formule el programa, estableciendo la política y los programas que deben seguir las unidades administrativas a su cargo para su ejecución;
 
-II. Apegarse a los lineamientos establecidos por las autoridades fiscales federales en materia de ingresos coordinados, por lo que respecta a las visitas domiciliarias, solicitud de información y documentación, inspecciones, actos de vigilancia, verificaciones de origen, imposición de multas y sanciones por infracciones efectuadas a los contribuyentes sujetos a los impuestos federales y en todo lo concerniente de su competencia;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+II. Apegarse a los lineamientos establecidos por las autoridades fiscales federales en materia de ingresos coordinados, por lo que respecta a las visitas domiciliarias, solicitud de información y documentación, inspecciones, actos de vigilancia, verificaciones de origen, determinación de contribuciones, imposición de multas y sanciones por infracciones a los contribuyentes sujetos a los impuestos federales y en todo lo concerniente de su competencia;
 
 III. Evaluar la operación en materia de fiscalización, considerando la forma de medición de los efectos en los sectores económicos, en las regiones y en la recaudación que produzcan las acciones contempladas en los programas operativos anuales de fiscalización y establecer las medidas correctivas que procedan;
 
@@ -553,15 +503,21 @@ VI. Ordenar y practicar visitas domiciliarias, solicitud de información y docum
 
 VII. Ordenar y practicar visitas domiciliarias a los contribuyentes a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, así como ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios, así como ordenar y practicar la clausura de los establecimientos en el caso de que el contribuyente no cuente con controles volumétricos;
 
-VIII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, solicitud de información y documentación, inspecciones, verificaciones y notificaciones descritas en las dos fracciones anteriores;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
 
-IX. Determinar contribuciones omitidas, su actualización y sus accesorios, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, e imponer sanciones por infracciones a las disposiciones fiscales, así como informar sobre la posible comisión de delitos fiscales y proporcionar información a otras autoridades fiscales;
+VIII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, notificaciones, inspecciones, verificaciones, para la realización de embargos precautorios y demás actos derivados del ejercicio de sus facultades;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+IX. Determinar contribuciones omitidas, su actualización y sus accesorios, cuotas compensatorias, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, e imponer sanciones por infracciones a las disposiciones fiscales que sean descubiertas en el ejercicio de las facultades a que se refiere este artículo, en su caso determinar conforme a la Ley Aduanera la clasificación arancelaria, así como el valor en aduana o el valor comercial de las mercancías de comercio exterior e informar sobre la posible comisión de delitos fiscales y proporcionar información a otras autoridades fiscales;
 
 X. Verificar el saldo a favor compensado; determinar y liquidar las cantidades compensadas indebidamente, incluida la actualización y recargos a que haya lugar, así como efectuar la compensación de oficio de cantidades a favor de los contribuyentes;
 
 XI. Notificar los actos relacionados con el ejercicio de sus atribuciones de comprobación;
 
-XII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes en su domicilio o en el de la Dirección de Auditoría Fiscal, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus actuaciones, todo ello para proceder a su revisión, a fin de comprobar hechos relacionados con los contribuyentes en proceso de fiscalización, además de autorizar o negar prórrogas para su presentación, conforme a las disposiciones fiscales aplicables, considerando así mismo, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2015)</small>
+
+XII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes en su domicilio o en el de la Dirección de Auditoría Fiscal, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus actuaciones, todo ello para proceder a su revisión, a fin de comprobar hechos relacionados con los contribuyentes en proceso de fiscalización, además de autorizar o negar prórrogas para su presentación, conforme a las disposiciones fiscales y aduaneras aplicables, considerando así mismo, lo siguiente:
 
 a) En el caso de que existan convenios o acuerdos celebrados con el Gobierno Federal se podrá requerir, en relación con la contribución coordinada, además de lo ya señalado, el dictamen de Contador Público registrado y los papeles de trabajo para la elaboración del mismo. En caso de que el Contador Público registrado, responsable solidario o los terceros con ellos relacionados residan fuera del Estado, se actuará de acuerdo a los lineamientos establecidos por la Secretaría de Hacienda y Crédito Público;
 
@@ -569,21 +525,29 @@ b) Para efectos de lo establecido en el inciso anterior, se podrá revisar en re
 
 c) En el supuesto de que se detecten irregularidades en el dictamen, deberá proceder de acuerdo a los lineamientos que establezca el órgano competente de la Secretaría de Hacienda y Crédito Público, respecto del Contador Público registrado que elaboró el mismo; tratándose de la revisión prevista en esta fracción, emitir el oficio donde se comunica irregularidades de su actuación profesional;
 
-XIII. Habilitar días y horas inhábiles para la práctica de diligencias relacionadas con las facultades conferidas dentro de este ordenamiento y las derivadas de la ley, de conformidad con las disposiciones fiscales aplicables;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XIII. Habilitar días y horas inhábiles para la práctica de diligencias relacionadas con las facultades conferidas dentro de este ordenamiento y las derivadas de la ley, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
 XIV. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
 
 XV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XVI. Notificar a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de revisiones de gabinete y de dictámenes, así como de visitas domiciliarias, de inspección y demás actos de comprobación que se practiquen y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XVI. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de revisiones de gabinete y de dictámenes, así como de visitas domiciliarias, de inspección, de verificación y demás actos de comprobación que se practiquen y hacer constar dichos hechos u omisiones en acta circunstanciada, oficio de observaciones o en la última acta parcial que se levante.
 
 XVII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, verificaciones, revisiones de escritorio en centros de producción, almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para venta de mercancías, mercados sobre ruedas, puestos fijos y semifijos en vía pública;
 
-XVIII. Realizar la verificación de vehículos en circulación y mercancías en transporte, aun cuando no se encuentren en movimiento, excepto aeronaves;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XVIII. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
 
 XIX. Efectuar verificaciones de origen; emitir las constancias respectivas a los servidores públicos que realicen los actos de fiscalización; levantar actas circunstanciadas con todas las formalidades establecidas en la Ley Aduanera, en el Código Fiscal de la Federación y demás disposiciones aplicables; y emitir el oficio de observaciones, así como el oficio de conclusión tratándose de revisiones de escritorio.
 
-Para efectos de lo establecido en las fracciones XV, XVI y XVII, se podrá verificar el cumplimiento en materia de restricción o regulación no arancelaria, en las materias de comercio exterior, y decretar los inicios de Procedimiento Administrativo en Materia Aduanera;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2015)</small>
+
+Para efectos de lo establecido en las fracciones XV, XVI y XVII se podrá verificar el cumplimiento en materia de restricción o regulación no arancelaria, en las materias de comercio exterior, decretar los inicios de Procedimiento Administrativo en Materia Aduanera, o el procedimiento previsto en el artículo 152 de la Ley Aduanera o del artículo que así lo prevea, y notificar dicho inicio al interesado, así como tramitar y resolver los citados procedimientos hasta su conclusión, de conformidad con la legislación federal aplicable; así mismo, se podrá ordenar y decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del artículo 151 de la Ley Aduanera o el artículo que así lo prevea, levantarlo cuando proceda y en su caso poner a disposición de los interesados los bienes; declarar que dichas mercancías y vehículos han causado abandono a favor del Fisco Federal, en su caso, declarar que las mercancías y vehículos y embarcaciones pasan a propiedad del Fisco Federal conforme a lo establecido en la Ley Aduanera y demás legislación aplicable.
 
 XX. Aplicar, en las materias de su competencia, las reglas generales y los criterios establecidos por la Subsecretaría, respecto de impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios;
 
@@ -599,13 +563,37 @@ XXV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos
 
 XXVI. Determinar la responsabilidad solidaria respecto a créditos fiscales de su competencia;
 
-XXVII. Reducir las multas determinadas a los contribuyentes, responsables solidarios o terceros relacionados con ellos, conforme a las disposiciones fiscales o aduaneras;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXVII. Reducir o condonar las multas determinadas a los contribuyentes, responsables solidarios o terceros relacionados con ellos, y aplicar la tasa de recargos que corresponda conforme a las disposiciones fiscales o aduaneras;
 
 XXVIII. Declarar la extinción de atribuciones de las autoridades fiscales para la comprobación en el cumplimiento de las disposiciones fiscales, para determinar las contribuciones omitidas y sus accesorios e imponer multas en relación con los impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios;
 
 XXIX. Dejar sin efectos las órdenes de visitas domiciliarias, los requerimientos de información que se formulen a los contribuyentes, así como las revisiones de papeles de trabajo que se hagan a los Contadores Públicos registrados, cuando legalmente se justifique y motive plenamente;
 
-XXX. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXX. Ordenar y practicar verificaciones de mercancías, dentro de la circunscripción territorial del Estado de Tamaulipas, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías de procedencia extranjera, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXI. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, que se encuentren dentro de la circunscripción territorial del Estado de Tamaulipas, en circulación y aún cuando no se encuentren en movimiento incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXII. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados precautoriamente hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente la devolución de los mismos;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXIII. Habilitar los lugares en que habrán de ser depositadas las mercancías y los vehículos que hayan sido embargados precautoriamente, los cuales adquirirán la categoría de recintos fiscales;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXIV. Transferir a la instancia competente los bienes embargados en el ejercicio de sus facultades, que hayan pasado a propiedad del Fisco Federal o Estatal, o de los que pueda disponer en términos de la normatividad aplicable, así como realizar de conformidad con las políticas, procedimientos y criterios que al afecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la instancia competente; y
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXV. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
 
 ###### ARTÍCULO 21.
 
@@ -1061,7 +1049,7 @@ VIII. Habilitar días y horas para la práctica de diligencias relacionadas con 
 
 IX. Imponer sanciones por infracciones a las disposiciones fiscales en materia de su competencia;
 
-X Autorizar, en los términos de la legislación fiscal federal o estatal, el pago diferido o en parcialidades de los créditos fiscales, previo otorgamiento de la garantía del importe del crédito fiscal y sus accesorios, sujetándose a los lineamientos establecidos por la Subsecretaría de Ingresos;
+X. Autorizar, en los términos de la legislación fiscal federal o estatal, el pago diferido o en parcialidades de los créditos fiscales, previo otorgamiento de la garantía del importe del crédito fiscal y sus accesorios, sujetándose a los lineamientos establecidos por la Subsecretaría de Ingresos;
 
 XI. Comunicar de manera inmediata a las áreas jurídicas de la Secretaría y a la Contraloría Gubernamental sobre los hechos que puedan constituir delitos de carácter fiscal, de los que sean imputables a los servidores públicos de la Oficina Fiscal en el desempeño de sus funciones y de aquellos por los que la misma Secretaría resulte ofendida;
 
@@ -1095,14 +1083,6 @@ Las ausencias de los Subsecretarios, de los Titulares de Unidad o de los Directo
 
 ## TRANSITORIOS
 
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, el uno de marzo de dos mil doce, deberá integrar el texto de la reforma al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
-
-EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 6/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Quinto Tribunal Unitario del Tercer Circuito, con residencia en Zapopan, Estado de Jalisco; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los tribunales unitarios del Circuito y sede indicados, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de ocho de febrero de dos mil doce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a veintiuno de febrero de dos mil doce.- Conste.- Rúbrica.
-
 ###### ARTÍCULO PRIMERO.
 
 El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado;
@@ -1114,3 +1094,25 @@ Los asuntos que se encuentren en trámite iniciados al amparo de las atribucione
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el veintinueve de octubre de dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.- EL SECRETARIO DE FINANZAS.- ALFREDO ROMÁN GONZÁLEZ FERNÁNDEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JUNIO DE 2015.
+
+ÚNICO. El presente Acuerdo Gubernamental entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Finanzas publicado en el Periódico Oficial del Estado de Tamaulipas No. 65 de fecha 29 de mayo de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite iniciados al amparo de las atribuciones conferidas en el Reglamento que se abroga, por las unidades administrativas de la Secretaría de Finanzas, seguirán su curso normal hasta su conclusión, sin que la entrada en vigor de este Reglamento afecte la validez de dichos actos.
