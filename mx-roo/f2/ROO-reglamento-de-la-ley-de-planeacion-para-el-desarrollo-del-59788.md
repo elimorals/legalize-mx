@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-de-planeacion-para-el-desarrollo-del-59788
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-24"
-last_updated: "2010-05-18"
+last_updated: "2017-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO DE LA LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DE LA LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el lunes 24 de septiembre de 2007.
 
@@ -109,15 +109,41 @@ El funcionamiento de los COPLADEMUN se determinará por los ayuntamientos, de ac
 
 Para efectos de la Ley y este Reglamento, además de las establecidas en el artículo 6º de la Ley de Planeación para el Desarrollo del Estado de Quintana Roo se entenderá por:
 
-I. Consejos Consultivos Estatales. Los Consejos Consultivos Estatales de Participación Social;
+I. (DEROGADA, P.O. 18 DE OCTUBRE DE 2017)
 
 II. Consejos Consultivos Municipales. Los Consejos Consultivos Municipales de Participación Social;
 
-III. Reglamento. El presente ordenamiento;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+III. Reglamento: Al Reglamento de la Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
 
 IV. Unidad de Control y Evaluación. Órgano de la Comisión Permanente del Comité que tiene por objeto de dar seguimiento al grado de cumplimiento y aplicación transparente de los recursos asignados a los programas y acciones estatales; y
 
 V. Unidad Administrativa de Planeación. Las unidades administrativas del Poder Ejecutivo, los Municipios y los Órganos Autónomos que tendrán asignadas las funciones de planeación.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+VI. COPLADE: Al Comité de Planeación para el Desarrollo del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+VII. COPLADEMUN: Al Comité de Planeación Para el Desarrollo Municipal;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+VIII. Ley: La Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+IX. Secretaría: A la Secretaría de Finanzas y Planeación;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+X. Sistema Estatal: El Sistema de Planeación Democrática del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XI. Plan Estatal: El Plan Estatal de Desarrollo;
 
 ###### Artículo 6º.
 
@@ -127,7 +153,9 @@ I. Dictamen de actualización. Es el documento que contiene los elementos de jus
 
 II. Estrategia de desarrollo. Son los principios y directrices a seguir en el proceso de planeación del desarrollo estatal, para alcanzar los objetivos y metas formulados en el corto, mediano y largo plazo;
 
-III. Estructura programática. Es el conjunto de categorías y elementos sistemáticos que permiten relacionar el gasto público con resultados, vincular las acciones del sector público con los programas, facilitar el diseño y el seguimiento de los planes y programas, así como, con las funciones encomendadas al Gobierno.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE OCTUBRE DE 2017)</small>
+
+III. Estructura programática. Es el conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en la planeación federal y estatal y en los programas y presupuestos, así como ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos. Los elementos que integran la estructura programática serán establecidos mediante el Manual de Planeación, Programación y Presupuestación del Gasto Público Estatal emitido por la Secretaría.
 
 Las categorías programáticas incluyen funciones, subfunciones, programas, subprogramas y proyectos.
 
@@ -179,6 +207,10 @@ XII. Subsidiariedad. Las autoridades y órganos responsables de la planeación c
 
 XIII. Colaboracionismo. Es la interacción entre sociedad y gobierno para comprometerse y responsabilizarse de manera conjunta a aportar recursos, ya sean materiales, tecnológicos, financieros, técnicos o humanos dirigidos al desarrollo de la comunidad.
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XIV. Perspectiva de Género.- Se refiere a las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad entre mujeres y hombres.
+
 ###### Artículo 8º.
 
 El funcionamiento del Sistema Estatal adquiere vigencia al establecerse sus elementos, conforme a lo dispuesto en los artículos 19 y 24 de la Ley, el presente Reglamento y demás ordenamiento que emitan las autoridades competentes en la materia.
@@ -207,19 +239,29 @@ VI. Cumplir, en el ámbito de sus respectivas competencias, con los planes nacio
 
 VII. Conducirse de acuerdo a lo establecido en la Ley, en el presente Reglamento, así como las demás disposiciones que sobre la materia emita la Secretaría;
 
-VIII. Participar en la elaboración de los planes estatal y municipal de desarrollo, en los programas regionales, sectoriales, institucionales, especiales y operativo anual, de acuerdo al ámbito de su competencia;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
 
-IX. Coordinar la integración y, en su caso, la actualización de los programas operativos anuales que integran su proyecto de presupuesto por programas;
+VIII. Participar en la elaboración de los planes estatal y municipal de desarrollo, en los programas regionales, sectoriales, institucionales, especiales y programas anuales, de acuerdo al ámbito de su competencia.
 
-X. Determinar e instrumentar las estrategias para llevar a cabo las acciones necesarias para el cumplimiento de las metas planteadas en los programas sectoriales, institucionales, especiales y operativos anuales;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+IX. Coordinar la integración y, en su caso, la actualización de los programas anuales que integran su proyecto de presupuesto por programas;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+X. Determinar e instrumentar las estrategias para llevar a cabo las acciones necesarias para el cuplimiento (sic) de las metas planteadas en los progamas (sic) sectorial, institucionales, especiales y programas anuales.
 
 XI. Verificar la calendarización anual del gasto elaborada por el área administrativa correspondiente, para el ejercicio de los recursos autorizados, destinados a la ejecución de los programas y proyectos que le competan y enviarlos a la Secretaría, en la fecha que determine la normatividad respectiva;
 
-XII. Vigilar y validar que el área administrativa correspondiente registre el avance del ejercicio del gasto y el alcance de las metas de acuerdo a la programación y aprobación de su programa operativo anual;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XII. Vigilar y validar que el área administrativa correspondiente registre el avance del ejercicio del gasto y el alcance de las metas de acuerdo a la programación y aprobación de su programa anual;
 
 XIII. Reportar a su órgano de control y a la Secretaría, cuando se detecte alguna acción u omisión que contravenga lo dispuesto en la Ley o en el presente Reglamento;
 
-XIV. Reportar a la Secretaría los avances, alcances y logros de las metas programadas y comprometidas en el programa operativo anual;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XIV.- Reportar a la Secretaría los avances, alcances y logros de las metas programadas y comprometidas en el programa anual;
 
 XV. Integrar, en coordinación con las demás áreas administrativas internas, el informe anual de ejecución de los planes estatal y municipal y de los programas que de éstos se deriven, el cual deberá ser enviado al Congreso del Estado en forma anexa, respectivamente, a los informes previstos en los artículos 12, 13 y 28 fracción V de la Ley;
 
@@ -239,35 +281,57 @@ II. Introducción;
 
 III. Marco jurídico:
 
-a) Relación con otros planes y programas;
+a) (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
-b) Relación de contextos o entornos nacional, estatal y municipal;
+b) (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
-c) Proceso de elaboración;
+c) (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
-d) Modelo de desarrollo; y
+d) (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
-e) Ámbito de aplicación.
+e) (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
-IV. Visión;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
+IV. Diagnóstico;
 
-V. Ejes;
+> <small>(REFORMADA [N. DE E. Y REUBICADA], P.O. 18 DE OCTUBRE DE 2017)</small>
 
-VI. Objetivos estratégicos;
+V. Misión y Visión;
 
-VII. Estrategias y líneas de acción:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2017)</small>
 
-a) Programas de desarrollo;
+VI. Ejes;
 
-b) Programas sectoriales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2017)</small>
 
-c) Programas institucionales; y
+VII. Objetivos estratégicos;
 
-d) Programas especiales y regionales, en su caso.
+> <small>(REFORMADA [N. DE E. Y REUBICADA], P.O. 18 DE OCTUBRE DE 2017)</small>
 
-VIII. Lineamientos para la evaluación y actualización de planes y programas.
+VIII. Estrategias y líneas de acción;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+IX. Indicadores y metas;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+X. Programas de desarrollo;
+
+a).- Programas sectoriales;
+
+b).- Programas institucionales; y
+
+c).- Programas especiales y regionales, en su caso.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XI. Lineamientos para la evaluación y actualización de planes y programas; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XII. Los demás aspectos que sean necesarios para el logro del objetivo del Plan.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2010)</small>
 
@@ -289,9 +353,9 @@ V. Diagnóstico;
 
 VI. Contexto:
 
-a. Espacio en que operarán; y
+a. (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
-b. Expectativas sociales y económicas.
+b. (DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 VII. Misión;
 
@@ -299,19 +363,27 @@ VIII. Visión;
 
 IX. Políticas;
 
-X. Objetivos y metas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
 
-XI. Estrategias y líneas de acción;
+X. Apartado Estratégico;
 
-XII. Bases para su coordinación y concentración;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
 
-XIII. Plazos de operación;
+XI. Bases para su coordinación y concertación;
 
-XIV. Control, seguimiento, evaluación y actualización;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
 
-XV. Indicadores de evaluación;
+XII. Control, seguimiento, evaluación y actualización;
 
-XVI. Fuentes de financiamiento del programa; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+XIII.- Mecanismos de financiamiento del programa; y
+
+XIV. (DEROGADA, P.O. 18 DE OCTUBRE DE 2017)
+
+XV. (DEROGADA, P.O. 18 DE OCTUBRE DE 2017)
+
+XVI. (DEROGADA, P.O. 18 DE OCTUBRE DE 2017)
 
 XVII. Los demás aspectos que sean necesarios para el logro del objetivo del programa.
 
@@ -321,9 +393,11 @@ Los programas sectoriales deberán formularse a partir de la integración por ob
 
 En la formulación e integración de los programas sectoriales participarán los entes públicos que tengan asignados recursos presupuestales del Estado y que serán coordinados por la Dependencia cabeza del sector correspondiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Los programas operativos anuales, se integrarán, al menos, con la siguiente estructura:
+Los programas anuales deberán realizarse conforme a los conceptos y metodologías de la Gestión para Resultados y del Presupuesto basado en Resultados, y en los términos de lo dispuesto en la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo. Los programas anuales se integraran, al menos, con la siguiente estructura:
 
 I. Presentación;
 
@@ -351,9 +425,11 @@ XII. Indicadores estratégicos de evaluación; y
 
 XIII. En general, toda la información que se considere útil para la integración del programa operativo anual de forma clara y completa.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-Para la validación y aprobación de los programas operativos anuales se deberán observar, en su elaboración, los lineamientos que señala el artículo 62 de la Ley.
+Para la validación y aprobación de los programas anuales se deberán observar, en su elaboración, los lineamientos que señala el artículo 62 de la Ley.
 
 ###### Artículo 16.
 
@@ -403,15 +479,21 @@ La etapa de formulación comprende la determinación y establecimiento de metas 
 
 Para la aprobación y validación del plan estatal y los programas que de éste se deriven, deberán observarse en su elaboración, el contenido de los lineamientos que para tal efecto establezca la Secretaría.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 23.
 
-Los programas especiales serán elaborados por el COPLADE y los COPLADEMUN, según corresponda, mediante la instrumentación de convenios de coordinación y colaboración interinstitucionales, con la finalidad de orientar recursos para atender y solucionar alguna problemática en específico.
+Los programas especiales a que se refieren los artículos 73 y 76 de la Ley, serán elaborados por los Organismos Públicos del Ejecutivo, que designe el Ejecutivo del Estado, con la finalidad de atender y solucionar alguna problemática o política pública en específico, pudiendo responder a acuerdos y convenios de colaboración interinstitucional. Se referirán, al igual que los programas sectoriales, a las políticas y objetivos del Plan Estatal, especificando objetivos, estrategias, metas e indicadores correspondientes al sector, así como responsables.
 
 #### Sección Segunda. De la instrumentación
 
 ###### Artículo 24.
 
-Las vertientes a través de las cuales se llevará a cabo la etapa de instrumentación, son las formas mediante las cuales se desagregarán en acciones específicas los contenidos generales de la planeación, identificando su temporalidad y ubicación espacial. De este modo, se vigilará que la suma adecuada de acciones asentadas en los programas operativos anuales de corto plazo, den como resultado el logro de las metas establecidas en los planes estatal y municipales y los programas que de ellos se deriven.
+Las vertientes a través de las cuales se llevará a cabo la etapa de instrumentación, son las formas mediante las cuales se desagregarán en acciones específicas los contenidos generales de la planeación, identificando su temporalidad y ubicación espacial.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES SEGUNDA PARTE DEL PÁRRAFO PRIMERO], 18 DE OCTUBRE DE 2017)</small>
+
+De este modo, se vigilará que la suma adecuada de acciones asentadas en los programas anuales de corto plazo, den como resultado el logro de las metas establecidas en los planes estatal y municipales y los programas que de ellos se deriven.
 
 ###### Artículo 25.
 
@@ -527,9 +609,11 @@ Las atribuciones de control, seguimiento y evaluación de los planes estatal y m
 
 La coordinación de las acciones de control y evaluación de los planes Estatal y Municipal y los programas que de ellos se deriven se realizará por la Unidad de Control y Evaluación de la Comisión Permanente del Comité.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-La Secretaría de la Contraloría de manera directa o a través de sus Órganos de Control y Evaluación Interna serán en el ámbito de su competencia quienes vigilen que se cumpla con la Ley de Planeación y su Reglamento.
+La Secretaría de la Contraloría de manera directa o a través de sus Órganos Internos de Control serán en el ámbito de su competencia quienes vigilen que se cumpla con la Ley de Planeación y su Reglamento.
 
 Las bases para llevar a cabo las acciones de control, serán los informes periódicos que generen las Unidades Administrativas de Planeación, para lo cual, los órganos de control interno acordarán con los titulares de dichas unidades, los procedimientos y mecanismos de control necesarios.
 
@@ -631,9 +715,11 @@ Los resultados obtenidos de la evaluación, servirán para retroalimentar las et
 
 Sin perjuicio de los plazos establecidos en el artículo 113 de la Ley, los planes estatal y municipales, así como los programas que de éstos se deriven, podrán ser evaluados en cualquier tiempo, por las autoridades competentes para ello.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 44.
 
-En el caso de los programas operativos anuales de las autoridades y órganos responsables de la planeación, serán evaluados trimestralmente, por la autoridad competente para ello, en función de sus resultados y avances cuantitativos y cualitativos.
+En el caso de los programas anuales de las autoridades y órganos responsables de la planeación, serán evaluados trimestralmente, por la autoridad competente para ello, en función de sus resultados y avances cuantitativos y cualitativos.
 
 ###### Artículo 45.
 
@@ -775,11 +861,15 @@ Buzones de opinión ciudadana
 
 Los buzones de opinión ciudadana son el mecanismo de participación, que tienen por objeto recepcionar opiniones de la población sobre los planes y programas de desarrollo y cualquier tema de especial relevancia que influya en el proceso de planeación en la Entidad.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 67.
 
-Los buzones de opinión deberán estar instalados de manera permanente en lugares visibles de las Dependencias y Entidades de la Administración Pública Estatal, en las direcciones y entidades de los Municipios, así como en las oficinas de los Órganos Autónomos.
+Los buzones de opinión podrán estar instalados de manera permanente en lugares visibles de las Dependencias y Entidades de la Administración Pública Estatal, en las direcciones y entidades de los Municipios, así como en las oficinas de los Órganos Autónomos, o habiltarse (sic) a través de plataformas electrónicas diseñadas mediante Tecnologías de la Información y Comunicación.
 
-Artículos 68. Para la manifestación de las opiniones, los ciudadanos deberán llenar los formatos respectivos, los cuales se encontrarán a un costado de los buzones o serán proporcionados por los encargados de los mismos.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+Artículos 68. Para las (sic) manifestación de las opiniones, los ciudadanos deberán llenar los formatos respectivos, los cuales se encontrarán a un costado de los buzones, estarán disponibles en la plataforma electrónica, en caso de haberse implementado, o serán proporcionados por los encargados de los mismos.
 
 ###### Artículo 69.
 
@@ -793,29 +883,29 @@ Consejos consultivos estatales
 
 ###### Artículo 71.
 
-Los consejos consultivos son instancias de participación ciudadana, que tiene por objeto emitir opiniones y formular propuestas en el proceso de planeación, al interior del Consejo Estatal.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 ###### Artículo 72.
 
-Los consejos consultivos estarán integrados por particulares, organismos, instituciones y representantes del sector y privado que gocen de reconocimiento en sus diversos ámbitos.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 ###### Artículo 73.
 
-Los consejos consultivos serán creados por el Consejo Estatal, en los términos previstos en su Reglamento Interior.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 Consejos consultivos municipales
 
 ###### Artículo 74.
 
-Los consejos consultivos municipales son instancias de participación ciudadana, que tienen por objeto emitir opiniones y formular propuestas en el proceso de planeación, al interior de los Consejos Municipales.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 ###### Artículo 75.
 
-Los consejos consultivos municipales estarán integrados por particulares, organismos, instituciones y representantes del sector social y privado que gocen de reconocimiento en sus diversos ámbitos.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 ###### Artículo 76.
 
-Los consejos consultivos municipales serán creados por los Consejos Municipales en las disposiciones legales que rijan la vida interior de éstos, en términos de la normatividad aplicable.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2017)
 
 Estudios e investigaciones académicas y sociales
 
@@ -865,10 +955,18 @@ C.P. JOSÉ ALBERTO ALONSO OVANDO
 
 LA PRESENTE HOJA DE FIRMAS FORMA PARTE INTEGRANTE DEL REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO, DE FECHA 24 DE SEPTIEMBRE DEL AÑO DOS MIL SIETE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE MAYO DE 2010.
 
 PRIMERO. La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en la presente Reforma.
+
+P.O. 18 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente decreto.
