@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-09-28"
+last_updated: "2017-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3749,7 +3749,9 @@ La compensación de que habla el Artículo anterior, sólo tendrá lugar por los
 
 Todo funcionario o empleado público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
 
-El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de.... que el Estado os ha conferido?". El interrogado contestará: "Si protesto".
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+El Gobernador del Estado protestará en los términos siguientes: "Protesto respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y los tratados internacionales en general y en materia de derechos humanos de los que el Estado Mexicano sea parte, y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: "¿Protestáis respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos; la particular del Estado, las leyes que de una y otra emanen, y los tratados internacionales en general y en materia de derechos humanos de los que el Estado Mexicano sea parte, y cumplir leal y patrióticamente con los deberes del cargo de... que el Estado os ha conferido?". El interrogado contestará: "Sí protesto".
 
 Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
@@ -4840,3 +4842,9 @@ P.O. 28 DE SEPTIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones correspondientes a las leyes pertinentes en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 709.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y se aplicará para los nuevos funcionarios y empleados que llegaren a designarse en los términos de esta Constitución y para el próximo Gobernador del Estado de Oaxaca.
