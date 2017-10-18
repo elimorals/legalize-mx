@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2017-04-26"
+last_updated: "2017-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2299,6 +2299,8 @@ Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para
 
 Del Poder Judicial.
 
+(NOTA: EL 3 DE JULIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2016, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN CONSISTENTE EN "LA FALTA DE REGULACIÓN DEL HABER DE RETIRO PARA LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA ENTIDAD"; POR LO QUE, "DEBERÁ EMITIR LAS NORMAS CORRESPONDIENTES DURANTE EL PRÓXIMO PERÍODO ORDINARIO DE SESIONES", LA CUAL SURTIÓ EFECTOS EL 4 DE JULIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 94.
@@ -2548,6 +2550,8 @@ Los Jueces de Primera Instancia deberán reunir los mismos requisitos que se est
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 Los Jueces Menores reunirán los mismos requisitos que se establecen para los Jueces de Primera Instancia, con excepción de la edad y título profesional, que serán cuando menos de veintisiete y cinco años, respectivamente.
+
+(NOTA: EL 3 DE JULIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2016, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN CONSISTENTE EN "LA FALTA DE REGULACIÓN DEL HABER DE RETIRO PARA LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA ENTIDAD"; POR LO QUE, "DEBERÁ EMITIR LAS NORMAS CORRESPONDIENTES DURANTE EL PRÓXIMO PERÍODO ORDINARIO DE SESIONES", LA CUAL SURTIÓ EFECTOS EL 4 DE JULIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -3603,6 +3607,10 @@ Toda persona tiene derecho a disponer de agua suficiente, saludable, aceptable, 
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+
+Toda persona tiene derecho a la movilidad, a gozar de ciudades sustentables que garanticen una adecuada calidad de vida y acceder a un transporte público de calidad, digno y eficiente. El Estado proveerá lo necesario para garantizar dicho acceso.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
 ###### Art. 3o.
@@ -4365,7 +4373,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -5206,3 +5214,9 @@ P.O. 26 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 246. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XXXII DEL ARTÍCULO 63, SE MODIFICA LA FRACCIÓN V DEL ARTÍCULO 85, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 119; SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES, DEL ARTÍCULO 119, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 296. SE REFORMA POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
