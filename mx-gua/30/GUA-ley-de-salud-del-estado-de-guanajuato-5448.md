@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2016-10-25"
+last_updated: "2017-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -117,9 +119,9 @@ XVI.- La prevención de discapacidades y la rehabilitación de personas con disc
 
 XVII.- La asistencia social;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra inhalantes y substancias tóxicas que provoquen dependencia;
+XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra inhalantes y substancias tóxicas que provoquen dependencia, así como del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, así como la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol;
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -753,7 +755,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación de la familia en la prevención y atención oportuna de los padecimientos de la comunidad;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+II.- Acciones de orientación y vigilancia institucional, capacitación, fomento a la lactancia materna y amamantamiento, inculcando que la leche materna sea el alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendente a mejorar el estado nutricional del grupo materno-infantil;
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones agudas en los menores de 5 años; y
 
@@ -775,9 +779,17 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excretas; y
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-V.- Las demás que coadyuven a la salud materno infantil.
+V.- La habilitación de salas de lactancia en los centros educativos y de trabajo del sector público y privado, de conformidad con lo dispuesto en la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y los Municipios; y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+VI.- Las demás que coadyuven a la salud materno-infantil.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 66 BIS.- La Secretaría de Salud del Estado impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, así como de lactancia materna, para tal efecto, promoverá la creación de redes de apoyo a la salud materno-infantil y a la lactancia materna, con la finalidad de facilitar el acceso de las familias a información en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -923,7 +935,9 @@ IV. Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en l
 
 En el Estado de Guanajuato el ejercicio de las profesiones, de las actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a:
 
-I.- Ley reglamentaria del Artículo 7 de la Constitución Política del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+I.- Ley de Profesiones para el Estado de Guanajuato;
 
 II.- Las bases de coordinación que, conforme a la Ley, se definan entre las autoridades educativas y las autoridades sanitarias del Estado;
 
@@ -931,11 +945,13 @@ III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la
 
 IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 78.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales, los certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, optometría, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales, los certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y ortesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, y embalsamiento y sus ramas, requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, optometría, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y otesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, y embalsamiento y sus ramas, requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades competentes.
 
 ###### ARTICULO 79.
 
@@ -1127,13 +1143,21 @@ I.- Educación para la salud;
 
 II.- Nutrición;
 
-III.- Control de los efectos nocivos del ambiente en la salud; y
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-IV.- Salud ocupacional;
+III.- Lactancia materna;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+IV.- Control de los efectos nocivos del ambiente en la salud;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+V.- Salud ocupacional; y
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-V.- Fomento Sanitario.
+VI.- Fomento Sanitario.
 
 ### CAPITULO IV. Efectos del Ambiente en la Salud
 
@@ -1149,9 +1173,13 @@ I.- Fomentar en la población el desarrollo de estilo de vida saludables (sic) y
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, lactancia materna, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+IV.- Capacitar al personal de las dependencias públicas en materia de lactancia materna y salud materno-infantil a fin de fomentar el funcionamiento óptimo de las salas de lactancia implementadas en cada dependencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2007)</small>
 
@@ -1165,9 +1193,9 @@ La Secretaría de Salud, en coordinación con las autoridades federales, estatal
 
 La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los niveles de educación básica, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE OCTUBRE DE 2017)</small>
 
-El Gobierno del Estado, en coordinación con las autoridades federales competentes, promoverán programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social que actúen en el ámbito del Estado.
+La Secretaría de Salud en coordinación con la Secretaría de Gobierno, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, formulará e implementará un Programa Estatal de Lactancia Materna, el cual tendrá como objeto proteger, promover y apoyar la práctica de la lactancia materna como alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida, a través de políticas públicas.
 
 ### CAPITULO V. Salud Ocupacional
 
@@ -1209,11 +1237,11 @@ VI.- En coordinación con la Secretaria de Educación del Estado de Guanajuato i
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-###### ARTICULO 111 Bis.
-
-La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
+ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
 
 Asimismo, proporcionará a la población información y conocimientos relativos a los daños provocados por el uso y consumo de ciertos productos, los efectos nocivos del ambiente en la salud, los riesgos y daños ocupacionales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 104.
 
@@ -1265,9 +1293,31 @@ Todo ciudadano tiene la obligación de denunciar, ante las autoridades sanitaria
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales y municipales competentes, así como con la autoridad en el Estado encargada de la administración del distrito de riego, orientarán a la población para evitar la contaminación de aguas superficiales y subterráneas, que utilizan para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios de basura.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO VII. Lactancia Materna
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 111 TER.- La Secretaría de Salud deberá impulsar la promoción para divulgar la importancia de la nutrición materna, la preparación para la lactancia materna y sus beneficios, dando énfasis a la superioridad de ésta sobre la alimentación con sucedáneos y evitar los mensajes engañosos que desalienten la práctica de la lactancia materna.
+
+El Sistema Estatal de Salud, deberá promover la práctica de la lactancia materna.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 111 QUÁTER.- Corresponde a la Secretaría de Salud del Estado, en materia de lactancia materna:
+
+I. Informar, formar y capacitar en materia de lactancia materna al personal del Sistema Estatal de Salud;
+
+II. Difundir y asesorar a las dependencias del Estado para la implementación de las salas de lactancia;
+
+III. Promover la sensibilización y concientización de las familias y la sociedad respecto a los beneficios de la lactancia materna;
+
+IV. Fomentar la creación y desarrollo de Bancos de Leche Materna como un servicio especializado y responsable de las acciones de promoción, protección y apoyo a la lactancia materna, así como actividades de recolección de la producción láctea de las madres y donantes, de su procesamiento, almacenamiento, control de calidad, distribución para el beneficio de los recién nacidos y como apoyo a hospitales que no cuenten con este servicio para la recolección de leche materna, su procesamiento y devolución;
+
+V. Fomentar la creación y desarrollo de lactarios hospitalarios para formar parte de la red de estatal del Banco de Leche Materna;
+
+VI. Difundir, a través de los medios masivos de comunicación sobre los beneficios de la lactancia materna exclusiva hasta los seis primeros meses y complementaria por lo menos hasta los dos años de vida; y
+
+VII. Promover en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, la lactancia materna como un derecho humano y la no discriminación por lactar en público, a través de una campaña interinstitucional y permanente.
 
 ###### ARTICULO 110.
 
@@ -1281,23 +1331,23 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO II. Enfermedades Transmisibles
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO III. Enfermedades no Transmisibles
-
 ## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 112.
 
 El Gobierno del Estado, en coordinación con las autoridades federales, municipales e instituciones competentes, promoverán, desarrollarán y difundirán investigaciones multidisciplinarias que permitan prevenir y controlar las enfermedades y accidentes ocupacionales y estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 113.
 
@@ -1343,9 +1393,7 @@ XIV.- Las demás que determinen el Consejo de Salubridad General y los tratados 
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-###### ARTICULO 113 Bis.
-
-Para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades trasmisibles a que se refiere la Ley General de Salud y la presente Ley, se estará a lo que establezca la Secretaría de Salud del Ejecutivo Federal.
+ARTICULO 113 BIS.- Para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades trasmisibles a que se refiere la Ley General de Salud y la presente Ley, se estará a lo que establezca la Secretaría de Salud del Ejecutivo Federal.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -1521,9 +1569,9 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación y otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 127.
 
@@ -1547,7 +1595,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. Programa contra el Tabaquismo
+### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1579,7 +1627,9 @@ Para mayor eficacia de las acciones a las que se refiere este Artículo, el Gobi
 
 ## TITULO NOVENO. Asistencia Social, Prevención de Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPITULO III. Programa contra la Farmacodependencia
+### CAPITULO II. Programa contra el Tabaquismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 132.
 
@@ -1631,8 +1681,6 @@ El Gobierno del Estado y los Ayuntamientos proveerán la creación de establecim
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 140.
 
 (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
@@ -1641,13 +1689,9 @@ El Gobierno del Estado y los Ayuntamientos proveerán la creación de establecim
 
 (DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 142.
 
 (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 143.
 
@@ -1657,25 +1701,17 @@ El Gobierno del Estado y los Ayuntamientos proveerán la creación de establecim
 
 (DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 145.
 
 (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 146.
 
 (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 147.
 
 (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 148.
 
@@ -1749,9 +1785,7 @@ El organismo del Gobierno Estatal, previsto en el Artículo 137 de esta Ley, ten
 
 ## TITULO DECIMO. Programas contra las Adicciones
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. Programa contra la Farmacodependencia
 
 ###### ARTICULO 157.
 
@@ -1759,21 +1793,57 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales y
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a menores de edad, adolescentes, obreros y campesinos, a través de método (sic) individuales, sociales o de comunicación masiva;
+II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a menores de edad y grupos vulnerables, a través de métodos individuales, sociales o de comunicación masiva;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo;
 
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-IV.- El ejercicio de medidas de control en el expendio de alcohol y bebidas alcohólicas, para prevenir su consumo y adquisición por parte de menores de edad y personas con discapacidad mental; y
+IV.- La promoción de los servicios de prevención, detección temprana, orientación, atención, derivación y tratamiento a personas y grupos con uso nocivo del alcohol;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+V.- El fomento de la protección de la salud considerando la educación, promoción de actitudes, factores de protección, habilidades y conductas que favorezcan estilos de vida activa y saludable en los individuos, la familia, la escuela, el trabajo y la comunidad; y
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-V.- Las demás que determine la legislación aplicable.
+VI.- Las demás que determine la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 157 BIS.- Para efectos de esta Ley, se entenderá por uso nocivo del alcohol:
+
+I.- El consumo de bebidas alcohólicas en cualquier cantidad por menores de edad;
+
+II.- El consumo en exceso de bebidas alcohólicas por mujeres embarazadas;
+
+III.- El consumo en cualquier cantidad de alcohol en personas que van a manejar vehículos de transporte público de pasajeros, así como automotores, maquinaria o que se van a desempeñar en tareas que requieren habilidades y destrezas, especialmente las asociadas con el cuidado de la salud o la integridad de terceros;
+
+IV.- El consumo de alcohol en exceso, definido en el programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo;
+
+V.- El consumo en personas con alguna enfermedad crónica como hipertensión, diabetes, enfermedades hepáticas, cáncer y otras, siempre y cuando éste haya sido prohibido por prescripción médica; y
+
+VI.- Aquel que sea determinado por la Secretaría de Salud del Estado o la Secretaría de Salud del Ejecutivo Federal.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 157 TER.- Las acciones que se desarrollen en la ejecucion del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo tendrán las siguientes finalidades:
+
+I.- Proteger la salud y el bienestar de la población frente al uso nocivo del alcohol y prevenir los riesgos a la salud que éste genera;
+
+II.- Promover medidas para evitar el consumo de bebidas alcohólicas por menores de edad o por personas incapaces, en términos de la legislación civil;
+
+III.- Promover la detección temprana, la atención oportuna y el tratamiento efectivo en los casos de uso nocivo del alcohol y de su dependencia;
+
+IV.- Fomentar las acciones de promoción y de educación para conservar y proteger la salud, así como la difusión de la información sobre daños, riesgos y costos atribuibles al uso nocivo del alcohol, con base en evidencia científica;
+
+V.- Fomentar el establecimiento de medidas para prevenir el uso nocivo del alcohol en grupos vulnerables; y
+
+VI.- Establecer los lineamientos generales para el diseño y evaluación de programas y políticas públicas contra el uso nocivo del alcohol, basadas en evidencia y en experiencia aplicada.
 
 ###### ARTICULO 158.
 
@@ -1787,7 +1857,45 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO II. Mercados y Centros de Abasto
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 158 BIS.- Para poner en práctica las acciones del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, se tendrán en cuenta los siguientes aspectos:
+
+I.- El uso de la evidencia científica acumulada a nivel internacional y nacional y la generación del conocimiento sobre las causas y las consecuencias del uso nocivo del alcohol, intervenciones efectivas y evaluación de programas o estrategias;
+
+La vulnerabilidad de los diferentes grupos de población, por género, edad y etnicidad; y
+
+III (SIC).- La vigilancia e intercambio de información y cumplimiento de normas y acuerdos entre los sectores y órdenes de gobierno involucrados.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+#### Sección Única. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 158 TER.- Son facultades de la Secretaría de Salud del Estado en el marco de la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol:
+
+I.- Establecer los límites de alcohol en sangre y en aire espirado para conducir vehículos automotores, los cuales deberán ser acordes a los que emita la Secretaría de Salud del Ejecutivo Federal y la normatividad en materia de movilidad a nivel estatal. Tratándose de vehículos que presten un servicio público, personas que hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, así como los profesionales, técnicos y auxiliares de la salud que participen en la atención médico-quirúrgica de un usuario, los límites de alcohol en sangre y aire espirado serán cero;
+
+II.- Promover la participación de la sociedad civil en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, con base en las disposiciones que para tales efectos establezca la Secretaría de Salud del Estado;
+
+III.- Proponer las políticas públicas y fiscales para la prevención y disminución del uso nocivo del alcohol; y
+
+IV.- Promover ante las autoridades estatales, la implementación de medidas y acciones que favorezcan la disminución del uso nocivo del alcohol y de los efectos de éste en terceros, tales como, limitar los horarios para consumo del alcohol, y otras que sirvan o prevengan los fines a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 158 QUATER.- Para el tratamiento de enfermedades derivadas del alcoholismo, la Secretaría de Salud del Estado fomentará la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
+
+Los centros especializados en tratamiento, atención y rehabilitación deberán:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y
+
+II. Celebrar convenios de colaboración con instituciones estatales, nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del Estado.
+
+### CAPITULO I. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1823,11 +1931,11 @@ II.- La educación a la familia para prevenir y disminuir el consumo de tabaco p
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-###### ARTICULO 160 Bis.
+ARTICULO 160 BIS.- El Consumo de tabaco se sujetará a lo dispuesto en el reglamento correspondiente y demás normatividad aplicable.
 
-El Consumo de tabaco se sujetará a lo dispuesto en el reglamento correspondiente y demás normatividad aplicable.
+### CAPITULO II. Mercados y Centros de Abasto
 
-### CAPITULO III. De las Construcciones
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 161.
 
@@ -1857,9 +1965,7 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 ## TITULO DECIMO PRIMERO. Salubridad Local
 
-### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 163.
 
@@ -1893,9 +1999,9 @@ El propietario de los establecimientos a que se refiere el Artículo Tercero, Ap
 
 La Secretaría de Salud del Estado, de conformidad con lo dispuesto por esta Ley, deberá publicar en el Periódico Oficial del Gobierno del Estado, las normas técnicas sanitarias que expida, en materia de salubridad local.
 
-### CAPITULO V. Disposición Final de Residuos Sólidos Municipales
+### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 169.
 
@@ -1923,7 +2029,9 @@ Los mercados y centros de abastos serán objeto de verificaciones sanitarias per
 
 Los vendedores locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades, se sujetará a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas sanitarias correspondientes.
 
-### CAPITULO VI. Rastros
+### CAPITULO V. Disposición Final de Residuos Sólidos Municipales
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 173.
 
@@ -1983,7 +2091,7 @@ Para la creación, ampliación o modificación de colonias o fraccionamientos, s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO VII. Agua Potable y Alcantarillado
+### CAPITULO VI. Rastros
 
 ###### ARTICULO 183.
 
@@ -2033,7 +2141,7 @@ Mientras este plazo no termine sólo podrán efectuarse las exhumaciones autoriz
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
+### CAPITULO VII. Agua Potable y Alcantarillado
 
 ###### ARTICULO 190.
 
@@ -2065,9 +2173,7 @@ La basura, por ningún motivo, se manipulará, excepto lo estrictamente indispen
 
 Para toda la actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO IX. Centros de Reinserción Social
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
 
 ###### ARTICULO 196.
 
@@ -2111,9 +2217,9 @@ Queda prohibida en el Estado la venta de carnes para consumo humano, sin que est
 
 El transporte de carne, para el comercio dentro del territorio del Estado, deberá realizarse en los vehículos que cumplan con el reglamento sanitario vigente, previa verificación de la autoridad competente.
 
-### CAPITULO X. Baños Públicos y Balneario
+### CAPITULO IX. Centros de Reinserción Social
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 203.
 
@@ -2179,7 +2285,9 @@ Los pozos o aljibes cuyas aguas se utilicen para el consumo humano, deberán cum
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO XI. Centros de Reunión y Espectáculos
+### CAPITULO X. Baños Públicos y Balneario
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 214.
 
@@ -2219,9 +2327,7 @@ Las condiciones necesarias que deben reunir estos establecimientos estarán fija
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO XI. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 218.
 
@@ -2249,7 +2355,9 @@ La Secretaría de Salud del Estado, efectuará el control sanitario en los centr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO XIII. Establecimientos de Hospedaje
+### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 222.
 
@@ -2273,9 +2381,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Le
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XIV. Transporte Estatal y Municipal
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+### CAPITULO XIII. Establecimientos de Hospedaje
 
 ###### ARTICULO 226.
 
@@ -2303,7 +2409,9 @@ Queda estrictamente prohibida la entrada a menores de cinco años a salas cinema
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XV. Gasolineras
+### CAPITULO XIV. Transporte Estatal y Municipal
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 231.
 
@@ -2333,15 +2441,7 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
-
-ARTICULO 244 A.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+### CAPITULO XV. Gasolineras
 
 ###### ARTICULO 236.
 
@@ -2365,7 +2465,15 @@ La autoridad sanitaria realizará las verificaciones que conforme a esta Ley y o
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
+
+ARTICULO 244 A.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 241.
 
@@ -2377,7 +2485,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes a que se refiere el artículo anterior y que circulen en el interior del Estado, deberán cumplir con los requisitos sanitarios que marca esta ley, las demás disposiciones legales aplicables y las normas técnicas sanitarias correspondientes.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 243.
 
@@ -2389,15 +2497,13 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO III. Certificados
-
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ## TITULO DECIMO SEGUNDO
 
-### CAPITULO UNICO. Vigilancia Sanitaria
+### CAPITULO III. Certificados
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
 
 ###### ARTICULO 245.
 
@@ -2447,9 +2553,9 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO. Vigilancia Sanitaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 257.
 
@@ -2483,9 +2589,9 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 265.
 
@@ -2521,7 +2627,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO TERCERO
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 270.
 
@@ -2613,7 +2721,7 @@ ARTICULO 278 BIS-2.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ## TITULO DECIMO CUARTO. Medidas de Seguridad Sanitaria y Sanciones Administrativas
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 279.
 
@@ -2711,7 +2819,7 @@ Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitari
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud del ser humano.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTÍCULO 291.
 
@@ -2822,6 +2930,8 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este capítulo y no se logró vencer la contumacia del infractor.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 303.
 
@@ -3095,7 +3205,7 @@ El Secretario de Salud y Seguridad Social,
 
 DR. DAVID CADENA BARQUIN.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 19 DE NOVIEMBRE DE 1993.
 
@@ -3156,3 +3266,33 @@ P.O. 25 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO Y SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 212, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 77 FRACCIÓN I Y 78 DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Ejecutivo del Estado efectuará la actualización de la Reglamentación que derive del presente Decreto dentro de los sesenta días siguientes al inicio de su vigencia.
+
+P.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 213, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, INCISO A, FRACCIÓN XVIII Y 157 FRACCIONES II Y IV; Y SE ADICIONAN LOS ARTÍCULOS 157 CON UNA FRACCIÓN V, RECORRIÉNDOSE LA ACTUAL FRACCIÓN V, COMO VI; 157 BIS, 157 TER, 158 BIS, UNA SECCIÓN ÚNICA EN EL CAPÍTULO I DEL TÍTULO DÉCIMO, DENOMINADA PROTECCIÓN DE LA SALUD DE TERCEROS Y DE LA SOCIEDAD FRENTE AL USO NOCIVO DEL ALCOHOL, QUE CONTIENE LOS ARTÍCULOS 158 TER Y 158 QUÁTER, A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO ".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN III; Y SE ADICIONAN LOS ARTÍCULOS 23 CON UNA FRACCIÓN IV, RECORRIÉNDOSE LAS ACTUALES FRACCIONES IV Y V, PARA UBICARSE COMO FRACCIONES V Y VI; 23 QUÁTER; Y 46 FRACCIONES X Y XI DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y LOS MUNICIPIOS; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 65, FRACCIÓN II Y 100, FRACCIÓN III; Y SE ADICIONAN LOS ARTÍCULOS 66 CON UNA FRACCIÓN V, RECORRIENDO LA ACTUAL FRACCIÓN V COMO FRACCIÓN VI; 66 BIS; 99, FRACCIÓN III; RECORRIÉNDOSE LAS FRACCIONES III, IV Y V, PARA UBICARSE COMO IV, V Y VI; 100, FRACCIÓN IV; 101 CON UN TERCER PÁRRAFO; EL TÍTULO SÉPTIMO CON UN CAPÍTULO VII, DENOMINADO "LACTANCIA MATERNA" INTEGRADO POR LOS ARTÍCULOS 111 TER Y 111 QUÁTER, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones y dependencias deberán habilitar su sala de lactancia a más tardar dentro de los 270 días siguientes al inicio de vigencia del presente decreto para ello podrán celebrar convenios para la habilitación conjunta de los mismos, cuando la distancia física entre las instituciones y dependencias así lo permita.
+
+###### ARTÍCULO TERCERO.
+
+El Programa Estatal de Lactancia Materna deberá ser publicado a más tardar dentro de los 180 días posteriores a la entrada en vigencia del presente decreto.
