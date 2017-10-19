@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2017-07-14"
+last_updated: "2017-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1661,7 +1661,7 @@ Este delito se perseguirá por querella.
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPÍTULO III. AMENAZAS
+### CAPÍTULO III. AMENAZAS Y COBRANZA EXTRAJUDICIAL ILÍCITA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1753,6 +1753,8 @@ Cuando quienes fingiendo la condición de secuestrador o secuestrado obtengan su
 
 Se requerirá querella cuando el delito se cometa entre cónyuges, concubinos, ascendiente y descendiente, adoptante y adoptado, tutor y pupilo, madrastra o padrastro e hijastro o bien entre hermanos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO V. TRATA DE PERSONAS
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
@@ -1762,6 +1764,18 @@ Se requerirá querella cuando el delito se cometa entre cónyuges, concubinos, a
 A quien intimide a otro con causarle daño en su persona o sus bienes jurídicos o en los de un tercero con quien se encuentre ligado por vínculos familiares, matrimonio, concubinato o estrecha amistad, se le aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
 
 Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 176
+
+a.- A quien lleve a cabo la cobranza extrajudicial ilícita, se le aplicará de uno a cuatro años de prisión y de diez a cuarenta días multa.
+
+Se entiende por cobranza extrajudicial ilícita, el uso de violencia o intimidación, ya sea personalmente o a través de cualquier medio, para requerir el pago de un crédito o una deuda derivada de una obligación contenida en las leyes, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza.
+
+No constituye intimidación, la información de las consecuencias jurídicas del incumplimiento de pago del adeudo.
+
+Si el responsable utiliza documentos o sellos oficiales falsos o incurre en usurpación de funciones públicas o de profesión, se aplicarán las reglas del concurso de delitos.
 
 ### CAPÍTULO I. VIOLACIÓN
 
@@ -3756,3 +3770,9 @@ P.O. 14 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 33, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 211, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO DEL LIBRO SEGUNDO; Y SE ADICIONA UN ARTÍCULO 176-A DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. EI presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
