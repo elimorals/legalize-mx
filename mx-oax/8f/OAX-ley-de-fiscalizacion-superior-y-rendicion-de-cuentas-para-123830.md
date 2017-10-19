@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-12383
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2017-09-21"
+last_updated: "2017-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,27 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
 
-LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
-TEXTO ORIGINAL.
+Ley publicada en el Diario Oficial de la Federación, el martes 17 de mayo de 2022.
 
-Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 21 de septiembre de 2017.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-MTRO. ALEJANDRO ISMAEL MURAT HINOJOSA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-QUE LA LEGISLATURA DEL ESTADO HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
-DECRETO NO. 699
+DECRETO
 
-LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS DECRETA:
 
-DECRETA:
+SE EXPIDE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
+
+Artículo Único.- Se expide la Ley General de Movilidad y Seguridad Vial
+
+LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
 
 ###### ARTÍCULO ÚNICO.
 
@@ -47,775 +51,1447 @@ LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-### Capítulo Único. Disposiciones Generales
+### CAPÍTULO I. Objeto de la Ley
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y tiene por objeto reglamentar los artículos 59 fracciones XXII y XXIII, y 65 BIS de la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia de revisión y fiscalización de la Cuenta Pública de las entidades fiscalizables y su gestión financiera; así como las situaciones irregulares que se denuncien en términos de esta Ley, respecto al ejercicio fiscal en curso o a ejercicios anteriores distintos al de la Cuenta Pública en revisión.
+La presente Ley es de orden público e interés social y de observancia general en todo el territorio nacional, en términos de lo dispuesto en el párrafo décimo séptimo del artículo 4o. y 73, fracción XXIX-C, de la Constitución Política de los Estados Unidos Mexicanos, en materia de movilidad y seguridad vial, y tiene por objeto establecer las bases y principios para garantizar el derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
-Adicionalmente, la presente Ley establece la organización del Órgano Superior de Fiscalización del Estado de Oaxaca, sus atribuciones, incluyendo aquellas para conocer, investigar y substanciar la comisión de faltas administrativas que detecte en sus funciones de fiscalización, en términos de esta Ley y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; así como su evaluación, control y vigilancia por parte del Congreso del Estado de Oaxaca.
+La presente Ley tendrá por objetivos:
+
+I. Sentar las bases para la política de movilidad y seguridad vial, bajo un enfoque sistémico y de sistemas seguros, a través del Sistema Nacional de Movilidad y Seguridad Vial y la información proporcionada por el Sistema de Información Territorial y Urbano para priorizar el desplazamiento de las personas, particularmente de los grupos en situación de vulnerabilidad, así como bienes y mercancías, con base en la jerarquía de la movilidad señalada en esta Ley, que disminuya los impactos negativos sociales, de desigualdad, económicos, a la salud, y al medio ambiente, con el fin de reducir muertes y lesiones graves ocasionadas por siniestros viales, para lo cual se debe preservar el orden y seguridad vial;
+
+II. Definir mecanismos de coordinación de las autoridades de los tres órdenes de gobierno y la sociedad en materia de movilidad y seguridad vial;
+
+III. Establecer la concurrencia entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de movilidad y seguridad vial, así como los mecanismos para su debida coordinación, de conformidad con lo establecido en el artículo 73, fracción XXIX-C, de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Establecer las bases para la coordinación entre integrantes del Sistema Nacional de Movilidad y Seguridad Vial a través de los planes de desarrollo, la política de movilidad y de seguridad vial con un enfoque integral a la política de desarrollo urbano y ordenamiento territorial, que sea transversal con las políticas sectoriales aplicables;
+
+V. Determinar mecanismos y acciones que promuevan y fomenten la sensibilización, la formación y la cultura de la movilidad y seguridad vial, que permitan el ejercicio pleno de este derecho;
+
+VI. Vincular la política de movilidad y seguridad vial, con un enfoque integral de la política de ordenamiento territorial y desarrollo urbano y de manera transversal con las políticas sectoriales aplicables;
+
+VII. Definir la jerarquía de la movilidad y los principios rectores a que deben sujetarse las autoridades competentes, en la implementación de esta Ley, en la expedición de disposiciones reglamentarias y en la formulación y aplicación de políticas, programas y acciones en la materia;
+
+VIII. Establecer las bases para priorizar los modos de transporte de personas, bienes y mercancías, con menor costo ambiental y social, la movilidad no motorizada, vehículos no contaminantes y la intermodalidad;
+
+IX. Establecer los mecanismos y acciones para la gestión de factores de riesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros, y
+
+X. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial.
 
 ###### Artículo 2.
 
-Para efectos de esta Ley, se entenderá por:
-
-I. Auditoría: Proceso sistemático de verificación e inspección en el que de manera objetiva se examina, obtiene y evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
-
-II. Autonomía presupuestal: La facultad del Órgano Superior de Fiscalización del Estado de Oaxaca, para decidir sobre la administración de los recursos que se le autoricen en el presupuesto para el ejercicio de sus atribuciones, en los términos contenidos en la Constitución local y esta Ley;
-
-III. Autonomía de gestión: La facultad del Órgano Superior de Fiscalización del Estado de Oaxaca, para decidir sobre su organización interna, estructura y funcionamiento;
-
-IV. Autonomía presupuestaria: La facultad del Órgano Superior de Fiscalización del Estado de Oaxaca, para proponer su presupuesto anual en congruencia con sus facultades y necesidades institucionales, siendo una garantía inamovible que su presupuesto anual asignado no sea inferior al otorgado el año inmediato anterior, más el índice inflacionario, teniendo facultades para ejercer el presupuesto aprobado, informando de ello al Congreso del Estado en los términos establecidos en ésta Ley;
-
-V. Autonomía técnica: La facultad del Órgano Superior de Fiscalización del Estado de Oaxaca para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
-
-VI. Código: Al Código de Procedimientos Administrativos del Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-VII. Comisión: La Comisión Permanente de Vigilancia del Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-VIII. Congreso del Estado: Al Honorable Congreso del Estado Libre y Soberano de Oaxaca;
-
-IX. Constitución Local: A la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-X. Cuenta Pública: El informe que los Poderes del Estado y los entes públicos estatales rinden al Congreso del Estado de Oaxaca de manera consolidada a través del Ejecutivo Estatal, así como el que rinden los Municipios, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos estatales y municipales durante el ejercicio fiscal comprendido del 1 de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a las normas de información financiera y con base en los programas aprobados;
-
-XI. Ejecutivo Estatal: Al titular del Poder Ejecutivo del Estado de Oaxaca;
-
-XII. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Estatal y sus dependencias, los municipios, la fiscalía estatal, las empresas productivas del Estado y sus subsidiarias, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
-
-XIII. Entidades fiscalizadas: Los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales y municipales, no obstante que sean o no considerados entidades paraestatales por la Ley de la materia, aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
-
-XIV. Faltas administrativas: Las graves y no graves, señaladas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
-
-XV. Fiscalía Especializada: Fiscalía Especializada en Materia de Combate a la Corrupción del Estado de Oaxaca;
-
-XVI. Fiscalización Estatal: La revisión que realiza el Órgano Superior de Fiscalización del Estado de Oaxaca, a los recursos estatales y municipales en los términos constitucionales y de esta Ley;
-
-XVII. Fondo: Al fondo para el fortalecimiento de la fiscalización;
-
-XVIII. Gestión financiera: Las acciones, tareas y procesos que, en la ejecución de los programas, realizan las entidades fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la Ley de Ingresos y el presupuesto de egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del Presupuesto de Egresos y las demás disposiciones aplicables;
-
-XIX. Hacienda Pública Estatal y Municipal: Conjunto de bienes y derechos de titularidad del Estado y los Municipios;
-
-XX. Informe de Avance de Gestión Financiera: Al informe que de manera consolidada, rinden los Poderes del Estado y los entes públicos estatales, a través del Ejecutivo Estatal, así como el que rinden los Municipios y sus entes públicos al Órgano Superior de Fiscalización del Estado de Oaxaca, sobre los avances físicos y financieros y el cumplimiento de los objetivos contenidos en los programas estatales y municipales aprobados como parte integrante de las Cuentas Públicas;
-
-XXI. Informe de Resultados: El Informe de Resultados de la Fiscalización Superior de la Cuenta Pública;
-
-XXII. Informe específico: El informe derivado de denuncias a que se refiere el tercer párrafo de la fracción I del artículo 65 BIS de la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-XXIII. Informes Individuales: Los informes de cada una de las auditorías practicadas a las entidades fiscalizadas;
-
-XXIV. Ley de Ingresos: La Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal en revisión, así como la de los Municipios;
-
-XXV. Ley: Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca;
-
-XXVI. Ley de Responsabilidades de los Servidores Públicos: Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
-
-XXVII. Órgano Constitucional Autónomo: Son los órganos creados inmediata y fundamentalmente en la Constitución Política del Estado Libre y Soberano de Oaxaca, que no se adscriben a los poderes del Estado, y que cuentan con autonomía e independencia funcional y financiera;
-
-XXVIII. Órgano Superior de Fiscalización del Estado de Oaxaca: Es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión, presupuestal y financiera, que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales;
-
-XXIX. Órgano interno de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como de la investigación, substanciación y en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
-
-XXX. Periódico Oficial del Estado: Al Periódico Oficial del Gobierno del Estado de Oaxaca;
-
-XXXI. Presupuesto de Egresos: El Presupuesto de Egresos del Estado de Oaxaca del ejercicio fiscal correspondiente, así como el de los Municipios;
-
-XXXII. Poderes del Estado: Los poderes ejecutivo, legislativo y judicial, reconocidos en la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-XXXIII. Procesos concluidos: Cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado y registrado en la contabilidad;
-
-XXXIV. Programas: Los contenidos en el presupuesto aprobado, a los que se sujeta la gestión o actividad de los Poderes del Estado, Municipios y de los entes públicos estatales y municipales, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público;
-
-XXXV. Postulados Básicos de Contabilidad Gubernamental: A las normas definidas por la autoridad competente que deben aplicarse para el registro de las transacciones y en la presentación de la información financiera que se incorpora en las Cuentas Públicas;
-
-XXXVI. Tribunal: El Tribunal de lo Contencioso Administrativo y de Cuentas;
-
-XXXVII. Unidad de Medida y Actualización: El valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes; y,
-
-XXXVIII. La Unidad: Es la instancia técnica de la Comisión que tiene a su cargo la revisión, evaluación y fiscalización del funcionamiento del Órgano Superior de Fiscalización del Estado de Oaxaca.
+Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de los que el Estado Mexicano sea parte, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 ###### Artículo 3.
 
-La fiscalización de la Cuenta Pública comprende:
+Glosario.
 
-I. La fiscalización de la gestión financiera de las entidades fiscalizadas para comprobar el cumplimiento de lo dispuesto en la Ley de Ingresos y el Presupuesto de Egresos, y demás disposiciones legales aplicables, en cuanto a los ingresos y gastos públicos, así como la deuda pública, incluyendo la revisión del manejo, la custodia y la aplicación de recursos públicos federales, estatales o municipales, así como de la demás información financiera, contable, patrimonial, presupuestaria y programática que las entidades fiscalizadas deban incluir en la Cuenta Pública, conforme a las disposiciones aplicables; y,
+Para efectos de esta Ley, se entenderá por:
 
-II. La práctica de auditorías sobre el desempeño para verificar el grado de cumplimiento de los objetivos de los programas estatales o municipales.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;
+
+II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
+
+III. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+
+IV. Atención médica prehospitalaria: Es la otorgada a las personas cuya condición clínica considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencia, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia;
+
+V. Auditorías de Seguridad Vial: Metodología aplicable a cualquier infraestructura vial para identificar, reconocer y corregir las deficiencias antes de que ocurran siniestros viales o cuando éstos ya están sucediendo. Las auditorías de seguridad vial buscan identificar riesgos de la vía con el fin de emitir recomendaciones que, al materializarse, contribuyan a la reducción de los riesgos;
+
+VI. Autoridades: Autoridades de los tres órdenes de gobierno en materia de movilidad, seguridad vial y transporte terrestre;
+
+VII. Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
+VIII. Bases de Datos sobre Movilidad y Seguridad Vial: Las bases de datos a las que se refiere el artículo 29 de la presente Ley;
+
+IX. Calle completa: Aquella diseñada para facilitar el tránsito seguro de las personas usuarias de las vías, de conformidad con la jerarquía de la movilidad, que propician la convivencia y los desplazamientos accesibles y eficientes. Consideran criterios de diseño universal, la ampliación de banquetas o espacios compartidos de circulación peatonal y vehicular libres de obstáculos, el redimensionamiento de carriles para promover velocidades seguras, carriles exclusivos para el transporte público, infraestructura ciclista y señalética adecuada y visible en todo momento;
+
+X. Desplazamientos: Recorrido de una persona asociado a un origen y un destino preestablecidos con un propósito determinado en cualquier modo de movilidad;
+
+XI. Discriminación por motivos de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+
+XII. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios en materia de movilidad y seguridad vial, que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+
+XIII. Dispositivo de seguridad: Aditamento, sistema o mecanismo dispuesto para las personas en favor de la seguridad de la vida, la salud y la integridad durante sus traslados;
+
+XIV. Dispositivos de control del tránsito: Conjunto de señales, marcas, dispositivos diversos y demás elementos que se colocan en las vías con el objeto de prevenir, regular y guiar la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento;
+
+XV. Dispositivos de seguridad vehicular: Autopartes, partes, sistemas, diseños y mecanismos en un vehículo dispuesto para producir una acción de protección en favor de la seguridad, la vida, la salud e integridad de las personas usuarias, de conformidad con lo establecido en las Normas Oficiales Mexicanas correspondientes;
+
+XVI. Educación Vial: Actividad cuya finalidad es promover una cultura vial en la población, dirigida a todas las personas usuarias de la vía, con el objetivo de generar cambios en los patrones de comportamiento social;
+
+XVII. Enfoque Sistémico: Enfoque que aborda la movilidad en su totalidad e integralidad, en el que interactúan una serie de elementos coordinados e interconectados;
+
+XVIII. Especificaciones técnicas: Parámetros a los que se encuentra sujeto el diseño, funcionalidad y uso tanto de las vías como de los modos de transporte, con el objeto de garantizar la seguridad, salud e integridad de las personas usuarias y la prevención del riesgo, considerando las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
+
+XIX. Estrategia Nacional de Movilidad y Seguridad Vial: Instrumento rector para la conducción de la Política Nacional de Movilidad y Seguridad Vial, que incluye el conjunto de acciones encaminadas a promover la movilidad y la seguridad vial, para implementarlas a través de la coordinación de los tres órdenes de gobierno;
+
+XX. Estudio de Impacto de Movilidad: El que realizan las autoridades de los tres órdenes de gobierno en el ámbito de sus funciones, con el fin de evitar o reducir los efectos negativos sobre la calidad de vida de la ciudadanía en materia de movilidad y seguridad vial;
+
+XXI. Examen de valoración integral: Conjunto de valoraciones físicas, médicas y evaluación de conocimientos en materia de reglamentos de tránsito, que las autoridades de los tres órdenes de gobierno en el ámbito de sus funciones practican a las personas aspirantes para obtener o renovar una licencia de conducir;
+
+XXII. Externalidades: Factores que inciden, afectan y son derivados de efectos secundarios que causa la actividad de la movilidad de una persona, en función del medio de transporte por el que se desplace, como emisiones, congestión, siniestros y uso de espacio público;
+
+XXIII. Factor de riesgo: Todo hecho o acción que dificulte la prevención de un siniestro de tránsito, así como la implementación de medidas comprobadas para mitigar dichos riesgos;
+
+XXIV. Gestión de la demanda de movilidad: Conjunto de medidas, programas y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
+
+XXV. Gestión de la velocidad: Conjunto de medidas integradas que llevan a las personas conductoras a circular a una velocidad segura y, en consecuencia, reducir el número de siniestros de tránsito y las lesiones graves o muertes;
+
+XXVI. Grupos en situación de vulnerabilidad: Población que enfrenta barreras para ejercer su derecho a la movilidad con seguridad vial como resultado de la desigualdad, como las personas con menores ingresos, indígenas, con discapacidad, en estado de gestación, adultas mayores, comunidad LGBTTTIQ, así como mujeres, niñas, niños y adolescentes, y demás personas que por su condición particular enfrenten algún tipo de exclusión;
+
+XXVII. Impacto de movilidad: Resultado de la evaluación de las posibles influencias o alteraciones sobre los desplazamientos de personas, bienes y mercancías que pudieran afectarse por la realización de obras y actividades privadas y públicas;
+
+XXVIII. Interseccionalidad: Conjunto de desigualdades múltiples que coinciden o interceptan en una persona o grupo, aumentando su situación desfavorecida, riesgo, exposición o vulnerabilidad al hacer uso de la vía;
+
+XXIX. Lengua de Señas Mexicana: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+
+XXX. Ley: Ley General de Movilidad y Seguridad Vial;
+
+XXXI. Motocicleta: Vehículo motorizado de dos o más ruedas utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cm cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de bicimoto, motoneta, motocicleta con sidecar, trimoto y cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies;
+
+XXXII. Movilidad: El conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas;
+
+XXXIII. Movilidad activa o no motorizada: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
+
+XXXIV. Movilidad del cuidado: Viajes realizados en la consecución de actividades relacionadas con el trabajo no remunerado, de cuidados y el cuidado de las personas que requieren de otra persona para su traslado, dependientes o con necesidades específicas;
+
+XXXV. Observatorios: Los Observatorios de Movilidad y Seguridad Vial;
+
+XXXVI. Perro de asistencia: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+
+XXXVII. Persona peatona: Persona que transita por la vía a pie o que por su condición de discapacidad o de movilidad limitada utilizan ayudas técnicas para desplazarse; incluye menores de doce años a bordo de un vehículo no motorizado;
+
+XXXVIII. Persona Permisionaria: Persona física o moral autorizada por la Secretaría de Infraestructura, Comunicaciones y Transportes para prestar servicios de autotransporte federal de carga, pasaje o turismo, o transporte privado de personas o cosas, o para operar o explotar servicios auxiliares, en las vías generales de comunicación, que para el cumplimiento de sus fines transita en vialidades de jurisdicción federal, estatal o municipal;
+
+XXXIX. Persona usuaria: La persona que realiza desplazamientos haciendo uso del sistema de movilidad;
+
+XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del artículo 2 de Ley General para la Inclusión de las Personas con Discapacidad;
+
+XLI. Personas con movilidad limitada: Toda persona cuya movilidad se ha reducido por motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio
+
+XLII. Personas usuarias vulnerables: Niñas y niños menores de doce años, personas adultas mayores y personas con movilidad limitada usuarias de vehículos de dos y tres ruedas;
+
+XLIII. Proximidad: Circunstancias que permiten a las personas usuarias desplazarse con facilidad a sus destinos;
+
+XLIV. Secretarías: Secretaría de Desarrollo Agrario, Territorial y Urbano, Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+XLV. Seguridad vehicular: Medidas enfocadas en el desempeño y protección que brinda un vehículo motorizado a las personas pasajeras y usuarias de la vía contra el riesgo de muerte o lesiones graves en caso de un siniestro de tránsito;
+
+XLVI. Seguridad vial: Conjunto de políticas y sistemas orientados a controlar los factores de riesgo, con el fin de prevenir y reducir las muertes y lesiones graves ocasionadas por siniestros de tránsito;
+
+XLVII. Sensibilización: Transmisión de información a la población, con el fin de concientizarla sobre el uso de la vía y la problemática que en ella se genera;
+
+XLVIII. Sensibilización de género: Diseño, instrumentación y ejecución de programas y políticas públicas que atiendan la problemática de las desigualdades e inequidades de género;
+
+XLIX. Señalización: Conjunto integrado de dispositivos, marcas y señales que indican la geometría de las vías, sus acotamientos, las velocidades máximas, la dirección de tránsito, así como sus bifurcaciones, cruces y pasos a nivel, garantizando su adecuada visibilidad de manera permanente;
+
+L. Servicio de transporte: Actividad mediante la cual la Secretaría de Infraestructura, Comunicaciones y Transporte o bien las entidades federativas en coordinación con los municipios y las demarcaciones territoriales de la Ciudad de México, otorgan permiso o autorización a personas físicas o morales para que suministren el servicio de transporte para satisfacer las necesidades de movilidad de las personas, bienes y mercancías, de conformidad con su normatividad aplicable;
+
+LI. Servicio de transporte público: Actividad a través de la cual la Secretaría de Infraestructura, Comunicaciones y Transportes, los gobiernos de las entidades federativas, en coordinación con los municipios, satisfacen las necesidades de transporte accesible e incluyente de pasajeros o carga en todas sus modalidades, dentro del área de su jurisdicción;
+
+LII. Servicios auxiliares: Son todos los bienes muebles o inmuebles e infraestructura, así como los servicios a los que hace referencia la Ley de Caminos, Puentes y Autotransporte Federal y que resulten complementarios a la prestación del servicio de transporte público, previstos en la legislación aplicable y que son susceptibles de autorización, permiso o concesión a particulares, por parte de los tres órdenes de gobierno;
+
+LIII. Siniestro de tránsito: Cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causan la muerte, lesiones, incluidas en las que se adquiere alguna discapacidad, o daños materiales, que puede (sic) prevenirse y sus efectos adversos atenuarse;
+
+LIV. Sistema de Información Territorial y Urbano: Sistema al que hace referencia el artículo 27 de la presente Ley;
+
+LV. Sistema Nacional: El Sistema Nacional de Movilidad y Seguridad Vial;
+
+LVI. Sistemas de movilidad: Conjunto de elementos y recursos relacionados directa o indirectamente con el tránsito y la movilidad, cuya estructura e interacción permiten el desplazamiento de personas, bienes y mercancías en el espacio público;
+
+LVII. Sistemas de retención infantil: Dispositivos de seguridad para limitar la movilidad del cuerpo para personas menores de doce años, a fin de disminuir el riesgo de lesiones en caso de colisión o desaceleración brusca del vehículo;
+
+LVIII. Sistemas seguros: Prácticas efectivas, eficientes y prioritarias, que redistribuyen responsabilidades entre los diversos actores relacionados con la movilidad y no solo con las personas usuarias, cobran especial relevancia las vías libres de riesgos, los sistemas de seguridad en el transporte, en los vehículos y las velocidades seguras;
+
+LIX. Transporte público de pasajeros: Es el medio de traslado que se ofrece a una persona o para el público en general de forma continua, uniforme, regular, permanente e ininterrumpida y sujeta a horarios establecidos o criterios de optimización mediante algoritmos tecnológicos que otorga la autoridad competente a través de entidades, concesionarios o mediante permisos;
+
+LX. Transporte: Es el medio físico a través del cual se realiza el traslado de personas, bienes y mercancías;
+
+LXI. Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+
+LXII. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
+
+LXIII. Vehículo eficiente: Vehículo que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación;
+
+LXIV. Vehículo motorizado: Vehículo de transporte terrestre de pasajeros o de carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los veinticinco kilómetros por hora;
+
+LXV. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+
+LXVI. Velocidad de operación: Velocidad establecida por las autoridades correspondientes en los reglamentos de tránsito;
+
+LXVII. Vía: Espacio físico destinado al tránsito de personas peatonas y vehículos;
+
+LXVIII. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario;
+
+LXIX. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana, y
+
+LXX. Violencias contra las mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público.
 
 ###### Artículo 4.
 
-La fiscalización de la Cuenta Pública tiene el objeto establecido en esta Ley y se llevará a cabo conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+Principios de movilidad y seguridad vial.
+
+La Administración Pública Federal, de las entidades federativas, municipal, de las demarcaciones territoriales de la Ciudad de México, y demás autoridades en la materia, de acuerdo con sus facultades, considerarán los siguientes principios:
+
+I. Accesibilidad. Garantizar el acceso pleno en igualdad de condiciones, con dignidad y autonomía a todas las personas al espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad tanto en zonas urbanas como rurales e insulares mediante la identificación y eliminación de obstáculos y barreras de acceso, discriminación, exclusiones, restricciones físicas, culturales, económicas, así como el uso de ayudas técnicas y perros de asistencia, con especial atención a personas con discapacidad, movilidad limitada y grupos en situación de vulnerabilidad;
+
+II. Calidad. Garantizar que los sistemas de movilidad, infraestructura, servicios, vehículos y transporte público cuenten con los requerimientos y las condiciones para su óptimo funcionamiento con propiedades aceptables para satisfacer las necesidades de las personas;
+
+III. Confiabilidad. Las personas usuarias de los servicios de transporte deben tener la certeza de que los tiempos de recorrido, los horarios de operación y los puntos de abordaje y descenso son predefinidos y seguros, de manera que se puedan planear los recorridos de mejor forma;
+
+IV. Diseño universal. Todos los componentes de los sistemas de movilidad deben seguir los criterios de diseño universal, a fin de incluir a todas las personas independientemente de su condición y en igualdad de oportunidades, a las calles y los servicios de movilidad, de acuerdo con las condiciones de cada centro de población; así como otorgarles las condiciones mínimas de infraestructura necesarias para ejercer el derecho a la movilidad;
+
+V. Eficiencia. Maximizar los desplazamientos ágiles y asequibles, tanto de personas usuarias como de bienes y mercancías, optimizando los recursos ambientales y económicos disponibles;
+
+VI. Equidad. Reconocer condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades, tanto para mujeres y hombres, así como otros grupos en situación de vulnerabilidad;
+
+VII. Habitabilidad. Generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad, a través de la interacción social, la diversidad de actividades y la articulación de servicios, equipamientos e infraestructura;
+
+VIII. Inclusión e Igualdad. El Estado atenderá de forma incluyente, igualitaria y sin discriminación las necesidades de todas las personas en sus desplazamientos en el espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad;
+
+IX. Movilidad activa. Promover ciudades caminables, así como el uso de la bicicleta y otros modos de transporte no motorizados, como alternativas que fomenten la salud pública, la proximidad y la disminución de emisiones contaminantes;
+
+X. Multimodalidad. Ofrecer múltiples modos y servicios de transporte para todas las personas usuarias, los cuales deben articularse e integrarse entre sí y con la estructura urbana, para reducir la dependencia del vehículo particular motorizado;
+
+XI. Participación. Establecer mecanismos para que la sociedad se involucre activamente en cada etapa del ciclo de la política pública, en un esquema basado en la implementación de metodologías de co-creación enfocadas en resolver las necesidades de las personas;
+
+XII. Perspectiva de género. Visión científica, analítica y política que busca eliminar las causas de la desigualdad, la injusticia y la jerarquización de las personas basada en el género y que promueve la igualdad entre mujeres y hombres;
+
+XIII. Progresividad. Garantizar que el derecho a la movilidad y sus derechos relacionados, estén en constante evolución, promoviéndolos de manera progresiva y gradual e incrementando constantemente el grado de su tutela, respeto, protección y garantía;
+
+XIV. Resiliencia. Lograr que el sistema de movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación breve y de bajo costo, tanto para la sociedad como para el medio ambiente;
+
+XV. Seguridad. Se deberá proteger la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible;
+
+XVI. Seguridad vehicular. Aspecto de la seguridad vial enfocado en el desempeño de protección que brinda un vehículo de motor a las personas pasajeras y usuarias vulnerables, y demás usuarias de la vía, contra el riesgo de muerte o lesiones graves en caso de siniestro;
+
+XVII. Sostenibilidad. Satisfacer las necesidades de movilidad procurando los menores impactos negativos en el medio ambiente y la calidad de vida de las personas, garantizando un beneficio continuo para las generaciones actuales y futuras;
+
+XVIII. Transparencia y rendición de cuentas. Garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la Ley General de Transparencia y Acceso a la Información Pública;
+
+XIX. Transversalidad. Instrumentar e integrar las políticas, programas y acciones en materia de movilidad y seguridad vial, desarrollados por las distintas dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, poniendo especial atención a los grupos en situación de vulnerabilidad, y
+
+XX. Uso prioritario de la vía o del servicio. Concientizar a personas usuarias de la vía y transporte público sobre la necesidad que tienen las personas con discapacidad, las personas con movilidad limitada y quien les acompaña, de usar en determinadas circunstancias, las vías de manera preferencial con el fin de garantizar su seguridad.
 
 ###### Artículo 5.
 
-Tratándose de los informes de Resultados, específicos e individuales a que se refieren las fracciones XXI, XXII y XXIII del artículo 2 de ésta Ley, la información contenida en los mismos será publicada en la página de Internet del Órgano Superior de Fiscalización del Estado de Oaxaca, en formatos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
+Enfoque Sistémico y de Sistemas seguros.
+
+Las medidas que deriven de la presente Ley tendrán como objetivo prioritario la protección de la vida y la integridad física de las personas en sus desplazamientos, el uso o disfrute en las vías públicas del país, por medio de un enfoque de prevención que disminuya los factores de riesgo y la incidencia de lesiones graves, a través de la generación de sistemas de movilidad seguros, los cuales deben seguir los siguientes criterios:
+
+I. Las muertes o lesiones graves ocasionadas por un siniestro de tránsito son prevenibles;
+
+II. Los sistemas de movilidad y de transporte y la infraestructura vial deberán ser diseñados para tolerar el error humano, para que no se produzcan lesiones graves o muerte, así como reducir los factores de riesgo que atenten contra la integridad y dignidad de los grupos en situación de vulnerabilidad;
+
+III. Las velocidades vehiculares deben mantenerse de acuerdo con los límites establecidos en la presente Ley para reducir muertes y la gravedad de las lesiones;
+
+IV. La integridad física de las personas es responsabilidad compartida de quienes diseñan, construyen, gestionan, operan y usan la red vial y los servicios de transporte;
+
+V. Las soluciones cuando se produzca un siniestro de tránsito, deben buscarse en todo el sistema, en lugar de responsabilizar a alguna de las personas usuarias de la vía;
+
+VI. Los derechos de las víctimas se deberán reconocer y garantizar de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Víctimas y los Tratados Internacionales de los que el Estado Mexicano sea parte;
+
+VII. Las decisiones deben ser tomadas conforme las bases de datos e indicadores del Sistema de Información Territorial y Urbano, para lo cual se deben establecer sistemas de seguimiento, información, documentación y control de lo relativo a la seguridad de los sistemas de movilidad. En caso de que no exista evidencia local, se deberá incorporar el conocimiento generado a nivel internacional;
+
+VIII. Las acciones de concertación son necesarias entre los sectores público, privado y social con enfoque multisectorial, a través de mecanismos eficientes y transparentes de participación, y
+
+IX. El diseño vial y servicio de transporte debe ser modificado o adaptado, incorporando acciones afirmativas sin que se imponga una carga desproporcionada o indebida, a fin de que se garantice la seguridad integral y accesibilidad de los grupos en situación de vulnerabilidad, con base en las necesidades de cada territorio.
 
 ###### Artículo 6.
 
-La fiscalización de la Cuenta Pública que realiza el Órgano Superior de Fiscalización del Estado de Oaxaca se llevará a cabo de manera posterior, salvo las excepciones establecidas en ésta ley, al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado y publicado en su página de internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
+Jerarquía de la movilidad.
 
-Sin perjuicio de lo anterior, en situaciones excepcionales establecidas en ésta Ley, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Asimismo, procederá a la revisión y fiscalización de la cuenta pública y gestión financiera de los entes fiscalizables, cuando se advierta la existencia o surjan hechos notorios sobre irregularidades que produzcan un daño o perjuicio a las Haciendas Públicas Estatal y Municipales o al patrimonio de las entidades fiscalizables. Lo anterior, sin perjuicio de que el Congreso del Estado haya aprobado o no la cuenta pública del ente fiscalizable que corresponda.
+La planeación, diseño e implementación de las políticas públicas, planes y programas en materia de movilidad deberán favorecer en todo momento a la persona, los grupos en situación de vulnerabilidad y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la siguiente jerarquía de la movilidad:
+
+I. Personas peatonas, con un enfoque equitativo y diferenciado en razón de género, personas con discapacidad y movilidad limitada;
+
+II. Personas ciclistas y personas usuarias de vehículos no motorizados;
+
+III. Personas usuarias y prestadoras del servicio de transporte público de pasajeros, con un enfoque equitativo pero diferenciado;
+
+IV. Personas prestadoras de servicios de transporte y distribución de bienes y mercancías, y
+
+V. Personas usuarias de vehículos motorizados particulares.
+
+Las autoridades de los tres órdenes de gobierno establecerán en sus respectivos reglamentos el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
 
 ###### Artículo 7.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, el Código Fiscal del Estado, la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca, así como las disposiciones relativas al derecho civil estatal, sustantivo y procesal, en ese orden.
+Sistema Nacional de Movilidad y Seguridad Vial.
+
+El Sistema Nacional de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial, de los tres órdenes de gobierno, así como con los sectores de la sociedad en la materia, a fin de cumplir el objeto, los objetivos y principios de esta Ley, la política, el Plan Nacional de Desarrollo, la Estrategia Nacional y los instrumentos de planeación específicos.
+
+A. El Sistema Nacional estará integrado por las personas titulares o representantes legales de:
+
+I. La Secretaría de Desarrollo Agrario, Territorial y Urbano;
+
+II. La Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+III. La Secretaría de Economía;
+
+IV. Por las entidades federativas, la persona que sea designada por el Ejecutivo local, y
+
+V. El Sistema podrá invitar a participar a otras autoridades de movilidad que se considere necesarias con voz y voto y las demás que se determinen sólo con voz para el debido cumplimiento del objeto de la Ley.
+
+La presidencia del Sistema Nacional será ejercida de manera rotativa, de forma anual, entre la Secretaría de Desarrollo Agrario, Territorial y Urbano y la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+B. El Sistema Nacional tendrá las siguientes facultades:
+
+I. Emitir los lineamientos para su organización y operación, donde deberán establecerse los mecanismos de participación de municipios, demarcaciones territoriales de la Ciudad de México, instancias de coordinación metropolitana y organizaciones de la sociedad civil, así como la periodicidad de sus reuniones;
+
+II. Establecer la instancia que fungirá como órgano técnico de apoyo para el seguimiento de los acuerdos y resoluciones que se emitan;
+
+III. Emitir acuerdos y resoluciones generales para el funcionamiento del Sistema Nacional;
+
+IV. Establecer las bases de planeación, operación, funcionamiento y evaluación de las políticas en materia de movilidad y seguridad vial de carácter nacional, sectorial y regional, a fin de desarrollar los objetivos del Plan Nacional de Desarrollo, los programas federales y los planes de las entidades federativas y de los municipios;
+
+V. Establecer de manera transversal los mecanismos y criterios de la vinculación de la movilidad y la seguridad vial como fenómenos multifactoriales y multidisciplinarios con el transporte, la accesibilidad, tránsito, ordenamiento territorial, desarrollo urbano, medio ambiente, cambio climático, desarrollo sostenible y espacio público, así como el ejercicio de los derechos sociales relacionados con (sic) accesibilidad, que deberán ser observados para la coordinación entre las autoridades de los tres órdenes de gobierno;
+
+VI. Diseñar y aprobar la política nacional en materia de movilidad y seguridad vial, la cual retomará las opiniones de los grupos de la sociedad civil, de los pueblos y comunidades indígenas, afromexicanas, organizaciones de personas con discapacidad y de la población en municipios insulares, según los estándares que aplican a cada grupo;
+
+VII. Formular y aprobar la Estrategia Nacional que será la base para el diseño de políticas, planes y acciones que implementen las autoridades de los tres órdenes de gobierno en la materia;
+
+VIII. Proponer variables e indicadores al Sistema de Información Territorial y Urbano en materia de movilidad y seguridad vial, así como los mecanismos de recolección, integración, sistematización y análisis de información, de conformidad con lo establecido en las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, previa opinión técnica del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, incluyendo fuentes;
+
+IX. Analizar lo contenido en el Sistema de Información Territorial y Urbano para realizar estudios, diagnósticos, proponer iniciativas, intervenciones, acciones afirmativas y ajustes razonables, para dar seguimiento y evaluación de las políticas e intervenciones dirigidas a mejorar las condiciones de la movilidad y la seguridad vial con perspectiva interseccional y de derechos humanos;
+
+X. Expedir los lineamientos que establecerán los métodos y procedimientos para guiar los proyectos y acciones en materia de movilidad, vinculados con políticas, directrices y acciones de interés metropolitano, que cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación, así como con los principios de esta Ley;
+
+XI. Determinar los distintos tipos de vías del territorio nacional, de conformidad con sus características físicas y usos, a efecto de establecer límites de velocidad de referencia, que deberán ser tomados en cuenta por las autoridades de los tres órdenes de gobierno, con el fin de garantizar la seguridad de todas las personas usuarias de éstas;
+
+XII. Formular manuales y lineamientos que orienten la política para los sistemas de movilidad en los centros de población, con perspectiva interseccional y de derechos humanos, que:
+
+a) Orienten criterios para el diseño vial que permitan la identificación de las necesidades o requerimientos de las personas usuarias de la vía;
+
+b) Promuevan la seguridad vial y la utilización adecuada de la red vial, enfoque de sistemas seguros, su infraestructura, equipamiento auxiliar, dispositivos para el control del tránsito, servicios auxiliares y elementos inherentes o incorporados a ella;
+
+c) Propongan las especificaciones técnicas del parque vehicular;
+
+d) Otras que fortalezcan la movilidad y la seguridad vial equitativa, igualitaria e incluyente;
+
+e) Establecer los lineamientos para la conformación y desarrollo de los sistemas integrados de transporte en los diferentes centros de población, así como los criterios de diseño, implementación, ejecución y evaluación de la articulación física, operacional, informativa y de imagen, que permitan el desplazamiento de personas, bienes y mercancías entre ellos;
+
+f) Promover los acuerdos y la coordinación entre las autoridades para fortalecer la regulación del transporte de carga a efecto de mejorar su eficiencia operacional y ambiental;
+
+g) Realizar el seguimiento, revisión y evaluación de programas, planes y proyectos en materia de movilidad y seguridad vial y sus impactos en los grupos en situación de vulnerabilidad, a través de los instrumentos que para tal efecto se emitan;
+
+h) Promover la coordinación efectiva de las instancias que integran el Sistema Nacional y dar seguimiento a las acciones que para tal efecto se establezcan;
+
+i) Elaborar un informe anual sobre el cumplimiento del objeto y objetivos de la presente Ley, así como del avance de la Estrategia Nacional, que será remitida a las autoridades competentes de los tres órdenes de gobierno para su conocimiento;
+
+j) Establecer los lineamientos para la práctica de auditorías e inspecciones de infraestructura y seguridad vial;
+
+XIII. En aquellas entidades federativas con territorio insular, establecer los mecanismos de participación de los municipios correspondientes dentro del Sistema, y
+
+XIV. Las demás que se establezcan para el funcionamiento del Sistema y el cumplimiento del objeto de la presente Ley.
 
 ###### Artículo 8.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca deberá emitir los criterios relativos a la ejecución de auditorías, mismos que deberán sujetarse a las disposiciones establecidas en la presente Ley y publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+De la política nacional.
+
+La política nacional de movilidad y seguridad vial se diseñará con un enfoque sistémico y ejecutará con base en los principios establecidos en esta Ley, los que para tal efecto emita el Sistema Nacional, así como a través de los mecanismos de coordinación, información y participación correspondientes, con el objetivo de garantizar el derecho a la movilidad con las condiciones establecidas por la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 9.
 
-Los entes públicos facilitarán los auxilios que requiera el Órgano Superior de Fiscalización del Estado de Oaxaca para el ejercicio de sus funciones.
+La movilidad es el derecho de toda persona a trasladarse y a disponer de un sistema integral de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias y acciones en la materia.
 
-Los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano Superior de Fiscalización del Estado de Oaxaca para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+El derecho a la movilidad tendrá las siguientes finalidades:
 
-De no proporcionar la información, los responsables serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y, en su caso, en términos de la legislación penal aplicable.
+I. La integridad física y la prevención de lesiones de todas las personas usuarias de las calles y de los sistemas de transporte, en especial de las más vulnerables;
 
-Cuando esta Ley no prevea plazo, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá fijarlo y no será inferior a diez días hábiles ni mayor a quince días hábiles contados a partir del día siguiente a que haya surtido efectos la notificación correspondiente.
+II. La accesibilidad de todas las personas, en igualdad de condiciones, con dignidad y autonomía a las calles y a los sistemas de transporte; priorizando a los grupos en situación de vulnerabilidad;
 
-Cuando derivado de la complejidad de los requerimientos de información formulados por el Órgano Superior de Fiscalización del Estado de Oaxaca, las entidades fiscalizadas soliciten, mediante escrito fundado, un plazo mayor para atender dicho requerimiento, el Órgano Superior de Fiscalización del Estado de Oaxaca lo concederá, sin que dicho plazo pueda prorrogarse en más de diez días hábiles.
+III. La movilidad eficiente de personas, bienes y mercancías;
 
-Las personas a que se refiere este artículo deberán acompañar a la información solicitada, los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud.
+IV. La preservación y restauración del equilibrio ecológico ante los efectos del cambio climático;
+
+V. La calidad de los servicios de transporte y de la infraestructura vial;
+
+VI. Eliminar factores de exclusión o discriminación al usar los sistemas de movilidad, para que todas las personas gocen y ejerzan sus derechos en igualdad de condiciones;
+
+VII. La igualdad de oportunidades en el uso de los sistemas de movilidad;
+
+VIII. Dotar a todas las localidades del país con acceso a camino pavimentado a una distancia no mayor de dos kilómetros;
+
+IX. Promover el máximo grado de autonomía de las personas en sus traslados y el uso de los servicios, y
+
+X. Promover en aquellos municipios con territorio insular los sistemas, rutas y modalidades que faciliten el acceso y la movilidad de las personas entre el territorio insular y continental.
 
 ###### Artículo 10.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca podrá imponer multas, conforme a lo siguiente:
-
-I. Cuando los servidores públicos y las personas físicas no atiendan los requerimientos a que refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá imponerles una multa mínima de cincuenta a una máxima de mil veces el valor diario de la Unidad de Medida y Actualización;
-
-II. En el caso de personas morales, públicas o privadas, la multa consistirá en un mínimo de seiscientas a nueve mil veces el valor diario de la Unidad de Medida y Actualización;
-
-III. Se aplicarán las multas previstas en este artículo a los terceros que hubieran firmado contratos para explotación de bienes públicos o recibido en concesión o subcontratado obra pública, administración de bienes o prestación de servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera el Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-IV. La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
-
-V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Finanzas del Gobierno del Estado de Oaxaca, se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado y de las demás disposiciones aplicables;
-
-VI. Para imponer la multa que corresponda, el Órgano Superior de Fiscalización del Estado de Oaxaca debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley; y,
-
-VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información a él Órgano Superior de Fiscalización del Estado de Oaxaca, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
+El derecho a la movilidad permite que las personas puedan elegir libremente la forma de trasladarse, en y entre los distintos centros de población, a fin de acceder a los bienes, servicios y oportunidades que otorgan éstos.
 
 ###### Artículo 11.
 
-La negativa a entregar información a él Órgano Superior de Fiscalización del Estado de Oaxaca, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la legislación penal y demás disposiciones aplicables.
+De la seguridad vial.
 
-Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados conforme a la legislación penal aplicable.
+La seguridad vial es el conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los siniestros de tránsito y reducir el riesgo de lesiones y muertes a causa de éstos. Para ello, las autoridades, en el marco de sus respectivas competencias, observarán las siguientes directrices:
+
+I. Infraestructura segura: Espacios viales predecibles y que reducen o minimizan los errores de las personas usuarias y sus efectos, que se explican por sí mismos, en el sentido de que su diseño fomenta velocidades de viaje seguras y ayuda a evitar errores;
+
+II. Velocidades seguras: Velocidades de desplazamiento que se adaptan a la función, nivel de seguridad y condición de cada vía. Las personas conductoras comprenden y cumplen los límites de velocidad y conducen según las condiciones;
+
+III. Vehículos seguros: Los que, con sus características, cuentan con aditamentos o dispositivos, que tienen por objeto prevenir colisiones y proteger a las personas usuarias, incluidos pasajeros, personas peatonas, ciclistas, y usuarias de vehículos no motorizados, en caso de ocurrir una colisión.
+
+IV. Personas usuarias seguras: Personas usuarias que, cumplen con las normas viales, toman medidas para mejorar la seguridad vial y exigen y esperan mejoras en la misma;
+
+V. Atención Médica Prehospitalaria: Establecimiento de un sistema de atención médica prehospitalaria y la aplicación de las normas vigentes en la materia, para la atención efectiva y oportuna de las personas lesionadas en sinestros (sic) viales, en términos de las leyes aplicables, y
+
+VI. Seguimiento, gestión y coordinación: Las autoridades competentes establecerán las estrategias necesarias para el fortalecimiento de la seguridad vial, dándoles seguimiento y evaluación. Asimismo, se coordinarán entre ellas para gestionar de manera eficaz las acciones de prevención, atención durante y posterior a los siniestros viales.
 
 ###### Artículo 12.
 
-El contenido del Informe de Avance de Gestión Financiera se referirá a los programas a cargo de los Poderes del Estado, los entes públicos estatales o municipales, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados.
+El sistema de movilidad debe contar con las condiciones necesarias que protejan al máximo posible la vida, salud e integridad física de las personas en sus desplazamientos por las vías públicas. Para ello, las autoridades competentes en el ámbito de sus facultades deberán privilegiar las acciones de prevención que disminuyan los factores de riesgo, a través de la generación de sistemas de movilidad con enfoque de sistemas seguros.
 
-Dicho informe deberá presentarse dentro de los treinta días naturales siguientes a la conclusión de cada trimestre del ejercicio fiscal, ante el Órgano Superior de Fiscalización del Estado de Oaxaca, a través de la plataforma que para tal efecto se establezca, y contendrá por lo menos la siguiente información:
+Las leyes y reglamentos en la materia deberán contener criterios científicos y técnicos de protección y prevención, así como mecanismos apropiados para vigilar, regular y sancionar aquellos hechos que constituyan factores de riesgo.
 
-I. El flujo contable de ingresos y egresos en que se ejerza el Presupuesto de Egresos; y,
+## TÍTULO SEGUNDO. De la Política Pública a través del Sistema Nacional de Movilidad y Seguridad Vial
 
-II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos.
-
-Lo anterior, sin perjuicio de lo previsto en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Contabilidad Gubernamental y otras disposiciones legales.
-
-El Órgano Superior de Fiscalización del Estado de Oaxaca realizará un análisis del Informe de Avance de Gestión Financiera treinta días posteriores a la fecha de su presentación y elaborará un informe que será turnado a la Comisión.
-
-## TÍTULO SEGUNDO. De la Cuenta Pública
-
-### Capítulo I. De la Fiscalización de la Cuenta Pública
+### CAPÍTULO II. De los principios de movilidad y seguridad vial
 
 ###### Artículo 13.
 
-Están obligados a presentar la Cuenta Pública los entes públicos fiscalizables, en los siguientes plazos:
+De la accesibilidad.
 
-I. Tratándose de la Cuenta Pública, los Poderes del Estado, Órganos Autónomos y todos aquellos entes que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas, a más tardar el último día hábil de febrero del año que corresponda la información correspondiente al año inmediato anterior atendiendo al contenido señalado en la Ley General de Contabilidad Gubernamental y a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables;
-
-II. El Ejecutivo del Estado presentará al Congreso, o en los recesos de éste a la Diputación Permanente, a más tardar el treinta de abril, la Cuenta Pública del Estado correspondiente al año inmediato anterior. Las Cuentas Públicas serán turnadas, a través de la Comisión al Órgano Superior de Fiscalización del Estado de Oaxaca para su revisión y fiscalización;
-
-III. El Órgano Superior de Fiscalización del Estado de Oaxaca, a más tardar el último día hábil del mes de noviembre del año de la presentación de la Cuenta Pública, deberá rendir al Congreso por conducto de la Comisión el Informe de Resultados de la Cuenta Pública del Estado. El Congreso a más tardar el 15 de diciembre del año de su presentación, concluirá su revisión y dictamen; y,
-
-IV. Por lo que respecta a la Cuenta Pública del último año de gobierno de cada administración, el titular del Ejecutivo presentará trimestralmente el informe de avance de la Cuenta Pública dentro de los treinta días naturales siguientes a la conclusión de cada trimestre; por lo que el Órgano Superior de Fiscalización del Estado de Oaxaca deberá rendir el informe de resultados de los dos primeros trimestres a más tardar el 15 de septiembre del año en que se presentan, debiendo el Congreso a más tardar el 30 de septiembre de ese año concluir su revisión, dictamen y votación.
-
-Tratándose del tercer trimestre el Titular del Ejecutivo presentará el informe del avance de la Cuenta Pública del Estado el día 15 de octubre, para lo cual el Órgano Superior de Fiscalización del Estado de Oaxaca, rendirá el informe de resultados a más tardar el día 7 de noviembre del año en que se presenta, debiendo el Congreso concluir su revisión, dictamen y votación a más tardar el 12 de noviembre de ese año. Por lo que respecta al cuarto trimestre el Titular del Ejecutivo la presentará el 30 de abril del año siguiente, debiendo el Órgano Superior de Fiscalización del Estado de Oaxaca, remitir el informe de resultados que corresponda el último día hábil del mes de noviembre del año de presentación y el Congreso concluirá su revisión, dictamen y votación a más tardar el 15 de diciembre del mismo año.
-
-En el caso de las Cuentas Públicas de los Municipios se observará el párrafo anterior, con la salvedad de que se presentarán la correspondiente al año anterior el último día hábil del mes de febrero, el informe de resultados del Órgano Superior de Fiscalización del Estado de Oaxaca, se presentará el último día hábil del mes de noviembre, su dictaminación y votación se realizará a más tardar al término del segundo periodo ordinario de sesiones
+Las autoridades competentes en el ámbito de sus atribuciones deberán garantizar que la movilidad esté al alcance de todas las personas en igualdad de condiciones, sin discriminación de género, edad, discapacidad o condición, a costos accesibles y con información clara y oportuna, priorizando a los grupos en situación de vulnerabilidad, tanto en zonas urbanas como rurales e insulares.
 
 ###### Artículo 14.
 
-El hecho de no presentar las cuentas públicas, no impedirá el ejercicio de las atribuciones de revisión y fiscalización de la gestión financiera y de la Cuenta Pública e imposición de sanciones por parte el Órgano Superior de Fiscalización del Estado de Oaxaca, contenidas en la Constitución Local, la presente Ley, el Código y demás disposiciones aplicables.
+Las leyes y reglamentos en la materia contendrán las previsiones necesarias para garantizar, al menos, lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+I. Que los servicios de transporte prevean vehículos y entornos con diseño universal, incluida la accesibilidad cognitiva y en su caso, con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad limitada, apoyos a la comunicación y a la información con las acciones afirmativas y los ajustes razonables que se requieran para ello;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad limitada se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, información en formatos accesibles, entre otras;
+
+III. Que se contribuya a la accesibilidad de las personas con discapacidad y movilidad limitada, aportando especificaciones de diseño universal que permitan construir un entorno incluyente, y
+
+IV. Que las modalidades de transporte en las zonas remotas y de difícil acceso, así como en los territorios insulares contemplen las rutas y los servicios más seguros, incluyentes, accesibles y asequibles para las personas.
 
 ###### Artículo 15.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca y los demás órganos internos de control respecto al ejercicio y aplicación de los recursos públicos, en el ámbito de sus respectivas competencias podrán ejercer sus facultades de revisión y fiscalización de manera indistinta, pero no simultánea.
+De la eficiencia.
+
+Las autoridades deben, en todo tiempo, maximizar los desplazamientos ágiles y asequibles, optimizando los recursos ambientales y económicos, y hacer uso de las tecnologías de la información y comunicación disponibles.
 
 ###### Artículo 16.
 
-La fiscalización de la Cuenta Pública tiene por objeto:
+De la sostenibilidad.
 
-I. Evaluar los resultados de la gestión financiera respecto de:
-
-a) La ejecución de la Ley de Ingresos y el ejercicio del Presupuesto de Egresos para verificar la forma y términos en que los ingresos fueron recaudados, obtenidos, captados y administrados; constatar que los recursos provenientes de financiamientos y otras obligaciones y empréstitos se contrataron, recibieron y aplicaron de conformidad con lo aprobado; y revisar que los egresos se ejercieron en los conceptos y partidas autorizados, incluidos, entre otros aspectos, la contratación de servicios y obra pública, las adquisiciones, arrendamientos, subsidios, aportaciones, donativos, transferencias, aportaciones a fondos, fideicomisos y demás instrumentos financieros, así como cualquier esquema o instrumento de pago a largo plazo;
-
-b) Si se cumplió con las disposiciones jurídicas aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos; recursos materiales, y demás normatividad aplicable al ejercicio del gasto público;
-
-c) Si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de recursos estatales, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, mandatos, fondos, fideicomisos, prestación de servicios públicos, operaciones o cualquier acto que las entidades fiscalizadas, celebren o realicen, relacionados con el ejercicio del gasto público estatal, se ajustaron a la legalidad, y si no han causado daños o perjuicios, o ambos, en contra de la Hacienda Pública Estatal y Municipal o, en su caso, del patrimonio de los entes públicos fiscalizables; y,
-
-d) Comprobar si el ejercicio de la Ley de Ingresos y el Presupuesto de Egresos se ha ajustado a los criterios señalados en los mismos; en particular, verificar si las cantidades correspondientes a los ingresos y a los egresos, se ajustaron o corresponden a los conceptos y a las partidas respectivas; si los programas y su ejecución se ajustaron a los términos y montos aprobados en el Presupuesto de Egresos; y si los recursos provenientes de financiamientos y otras obligaciones se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos.
-
-II. Verificar el cumplimiento de los objetivos contenidos en los programas debiendo:
-
-a) Realizar auditorías del desempeño de los programas, verificando la eficiencia y la eficacia en el cumplimiento de los objetivos de los mismos;
-
-b) Analizar si se cumplieron las metas de los indicadores aprobados en el Presupuesto de Egresos y si dicho cumplimiento tiene relación con el Plan Estatal de Desarrollo y los programas sectoriales, o con el Plan Municipal de Desarrollo;
-
-c) Verificar si se cumplieron los objetivos de los programas y las metas de gasto que promuevan la igualdad entre mujeres y hombres;
-
-d) Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus auditorías e investigaciones, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas administrativas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan; y,
-
-e) Las demás que formen parte de la fiscalización de la Cuenta Pública o de la revisión del cumplimiento de los objetivos de los programas estatales.
+Las autoridades, en sus ámbitos de competencia, deberán satisfacer los requerimientos de movilidad procurando los menores impactos negativos en la calidad de vida de las personas, en la sociedad y en el medio ambiente, asegurando las necesidades del presente sin comprometer los derechos de futuras generaciones.
 
 ###### Artículo 17.
 
-Las observaciones que, en su caso, emita el Órgano Superior de Fiscalización del Estado de Oaxaca derivado de la fiscalización superior podrán derivar en:
+Las políticas en materia de movilidad deberán fomentar la resiliencia de las personas, de la sociedad y del sistema de movilidad, frente a los efectos negativos del cambio climático.
 
-I. Acciones y previsiones, incluyendo solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía Especializada; y,
-
-II. Recomendaciones.
+Asimismo, las autoridades competentes aplicarán medidas para controlar y reducir los efectos negativos en la sociedad y en el medio ambiente, derivados de las actividades de transporte, en particular, la congestión vehicular, la contaminación del aire, la emisión de gases de efecto invernadero, entre otras.
 
 ###### Artículo 18.
 
-La Mesa Directiva del Congreso del Estado o la Diputación Permanente turnará la Cuenta Pública a la Comisión, a más tardar en dos días hábiles, contados a partir de que dé cuenta al Pleno de su recepción, y ésta tendrá el mismo plazo para turnarla al Órgano Superior de Fiscalización del Estado de Oaxaca.
+Las políticas en materia de movilidad que se determinen por las autoridades de los tres órdenes de gobierno, promoverán e incentivarán la gradual adopción de las innovaciones tecnológicas en los sistemas aplicados al transporte, vehículos, combustibles, fuentes de energía e infraestructura.
 
 ###### Artículo 19.
 
-Para la fiscalización de la Cuenta Pública, el Órgano Superior de Fiscalización del Estado de Oaxaca tendrá las atribuciones siguientes:
+De la calidad.
 
-I. Realizar, conforme al programa anual de auditorías, visitas e inspecciones aprobado, las auditorías e investigaciones. Para la práctica de Auditorías, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá solicitar información y documentación durante el desarrollo de las mismas.
-
-El Órgano Superior de Fiscalización del Estado de Oaxaca, a partir del primer día hábil del ejercicio fiscal siguiente, podrá iniciar el proceso de fiscalización, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública. Una vez que le sea entregada la Cuenta Pública, podrá realizar las modificaciones al programa anual de las auditorías que se requieran y lo hará del conocimiento de la Comisión;
-
-II. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, encuestas, métodos y sistemas necesarios para la fiscalización superior;
-
-III. Proponer al Congreso y demás entes públicos, en los términos de la Ley General de Contabilidad Gubernamental y la Ley de Archivos del Estado de Oaxaca, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías;
-
-IV. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, estatales y municipales, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo, los programas sectoriales, regionales, operativos anuales, en su caso, los Planes Municipales de Desarrollo que correspondan y demás programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos federales, estatales o municipales;
-
-V. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
-
-VI. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos y se efectúen en apego al marco jurídico fiscal, administrativo y contable aplicable;
-
-VII. Verificar obras, bienes adquiridos y servicios contratados por las entidades fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados a las entidades fiscalizadas se ejercieron en los términos de las disposiciones aplicables;
-
-VIII. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a las entidades fiscalizadas y de ser requerido, el soporte documental;
-
-IX. Requerir a terceros que hubieran contratado con las entidades fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a efecto de realizar las compulsas correspondientes;
-
-X. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio del Órgano Superior de Fiscalización del Estado de Oaxaca sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
-
-a) Las entidades fiscalizadas;
-
-b) Los órganos internos de control;
-
-c) Los auditores externos de las entidades fiscalizadas;
-
-d) Las Instituciones de crédito, fideicomisos u otras figuras del sector financiero; y
-
-e) La Secretaría de Finanzas del Gobierno del Estado.
-
-El Órgano Superior de Fiscalización del Estado de Oaxaca tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos estatales, municipales y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Titular del Órgano Superior de Fiscalización del Estado de Oaxaca y los Sub Auditores a que se refiere esta Ley.
-
-Cuando derivado de la práctica de auditorías se entregue al Órgano Superior de Fiscalización del Estado de Oaxaca información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por el Órgano Superior de Fiscalización del Estado de Oaxaca en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
-
-El incumplimiento a lo dispuesto en esta fracción será motivo de fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes;
-
-XI. Fiscalizar los recursos públicos estatales o municipales, fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
-
-XII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley y en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
-
-XIII. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
-
-XIV. Formular recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, informes de presunta responsabilidad administrativa y denuncias de hechos;
-
-XV. Promover las responsabilidades administrativas, para lo cual la Unidad Administrativa a cargo de las investigaciones del Órgano Superior de Fiscalización del Estado de Oaxaca presentará el informe de presunta responsabilidad administrativa correspondiente, ante la autoridad substanciadora del mismo Órgano Superior de Fiscalización del Estado de Oaxaca, para que ésta, de considerarlo procedente, turne y presente el expediente a la autoridad competente o, en el caso de las no graves, ante el órgano interno de control.
-
-Cuando detecte posibles responsabilidades no graves dará vista a los órganos internos de control competentes, para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan;
-
-XVI. Promover y dar seguimiento ante las autoridades competentes para la imposición que las sanciones que correspondan a los servidores públicos estatales, municipales y los particulares, y presentará denuncias y querellas penales;
-
-XVII. Recurrir, a través de la unidad administrativa a cargo de las investigaciones del Órgano Superior de Fiscalización del Estado de Oaxaca, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
-
-XVIII. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga;
-
-XIX. Participar en el Sistema Estatal de Combate a la Corrupción, así como en su Comité Coordinador, en los términos de lo dispuesto por el artículo 120 fracción I de la Constitución Política del Estado Libre y Soberano de Oaxaca y de la ley estatal en la materia, así como celebrar convenios con organismos cuyas funciones sean acordes o guarden relación con sus atribuciones y participar en foros estatales, nacionales e internacionales;
-
-XX. Solicitar, en su caso, a las entidades fiscalizadas información del ejercicio en curso, respecto de procesos concluidos, para la planeación de la fiscalización de la Cuenta Pública. Lo anterior sin perjuicio de la revisión y fiscalización que el Órgano Superior de Fiscalización del Estado de Oaxaca lleve a cabo conforme a lo establecido en ésta Ley.
-
-XXI. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales así como también poder solicitar la documentación en copias certificadas;
-
-XXII. Expedir certificaciones de los documentos que obren en los archivos del Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-XXIII. Solicitar la comparecencia de las personas que se considere, en los casos concretos que así se determine en esta Ley;
-
-XXIV. Comprobar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
-
-XXV. Fiscalizar el financiamiento público en los términos establecidos en esta Ley así como en las demás disposiciones aplicables;
-
-XXVI. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar y verificar la información contenida en los mismos;
-
-XXVII. Examinar la documentación comprobatoria y justificativa de los ingresos, egresos y otros, así como sus registros en el sistema de contabilidad gubernamental; y,
-
-XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de las Cuentas Públicas.
+Toda persona tiene derecho a buscar y acceder a información sobre el estado del sistema de movilidad, a fin de que pueda planear sus trayectos; calcular los tiempos de recorrido; conocer los horarios de operación del transporte público, la frecuencia de paso, los puntos de abordaje y descenso; evitar la congestión vial, y conocer el estado de funcionamiento del sistema de movilidad, así como la disponibilidad de los servicios auxiliares al transporte.
 
 ###### Artículo 20.
 
-Durante la práctica de auditorías, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá convocar a las entidades fiscalizadas a las reuniones de trabajo, para la revisión de los resultados preliminares.
+El sistema de movilidad deberá ofrecer múltiples opciones de servicios y modos de transporte debidamente integrados, que proporcionen disponibilidad, calidad y accesibilidad; que satisfagan las necesidades de desplazamiento y que logren un sistema de integración física, operativa, informativa, de imagen y de modo de pago.
+
+Las autoridades de los tres órdenes de gobierno procurarán proporcionar, de manera progresiva, servicios de transporte específico para personas con discapacidad.
 
 ###### Artículo 21.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca podrá grabar en audio o video, cualquiera de las reuniones de trabajo y audiencias previstas en esta Ley, para integrar el archivo electrónico correspondiente.
+De la inclusión e igualdad.
+
+El sistema de movilidad debe ser igualitario, equitativo e inclusivo, por lo que las autoridades competentes deberán garantizar la equiparación de las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, independientemente del modo que utilice para trasladarse, poniendo especial énfasis en los grupos en situación de vulnerabilidad por condición física, social, económica, género, edad u otra.
 
 ###### Artículo 22.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca, de manera previa a la fecha de presentación de los Informes individuales, dará a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados finales de las auditorías y las observaciones preliminares que se deriven de la revisión de la Cuenta Pública, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
+Para cumplir con lo anterior, las autoridades competentes deberán diseñar y operar el sistema de movilidad respetando los siguientes criterios:
 
-A las reuniones en las que se dé a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados y observaciones preliminares que se deriven de la revisión de la Cuenta Pública, se les citará por lo menos con diez días hábiles de anticipación, remitiéndoles con la misma anticipación los resultados y las observaciones preliminares de las auditorías practicadas, en las reuniones si la entidad fiscalizada estima necesario presentar información adicional, podrá solicitar al Órgano Superior de Fiscalización del Estado de Oaxaca un plazo de hasta siete días hábiles más para su exhibición. En dichas reuniones las entidades fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes. Adicionalmente, el Órgano Superior de Fiscalización del Estado de Oaxaca les concederá un plazo de cinco días hábiles para que presenten argumentaciones adicionales y documentación soporte, misma que deberán ser valoradas por esta última para la elaboración de los Informes individuales.
+I. Ajustes razonables: Para garantizar la igualdad e inclusión de los grupos en situación de vulnerabilidad, las autoridades competentes vigilarán que el sistema de movilidad se modifique y adapte en la medida necesaria y adecuada, sin que se impongan cargas desproporcionadas, cuando se requiera, para asegurar que las personas gocen o ejerzan sus derechos en igualdad de condiciones, con dignidad y autonomía.
 
-Una vez que el Órgano Superior de Fiscalización del Estado de Oaxaca valore objetivamente las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las entidades fiscalizadas, para efectos de la elaboración definitiva de los Informes individuales.
+II. Diseño universal: Todos los componentes de los sistemas de movilidad deben seguir criterios de diseño que incluyan a todas las personas, independientemente de su situación o condición y equiparando oportunidades.
 
-En caso de que el Órgano Superior de Fiscalización del Estado de Oaxaca considere que las entidades fiscalizadas no aportaron elementos suficientes para atender las observaciones preliminares correspondientes, deberá incluir en el apartado específico de los informes individuales, una síntesis de las justificaciones, aclaraciones y demás información presentada por dichas entidades.
+III. Perspectiva de género: El sistema de movilidad debe tener las condiciones adecuadas y diseñarse considerando estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en un marco de seguridad y conforme a sus necesidades, con el fin de garantizar la igualdad de género.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte deben garantizar el respeto por la pluriculturalidad y deben contemplar mecanismos que garanticen la accesibilidad de las personas indígenas, afromexicanas y sordas hablantes de lenguas de señas.
+
+V. Prioridad en el uso de la vía: El sistema de movilidad debe garantizar el uso equitativo del espacio público por parte de todas las personas usuarias, de acuerdo con la jerarquía de la movilidad y las necesidades territoriales de los centros de población.
 
 ###### Artículo 23.
 
-Lo previsto en los artículos anteriores, se realizará sin perjuicio de que el Órgano Superior de Fiscalización del Estado de Oaxaca convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
+Derechos de las víctimas de siniestros de tránsito y sus familiares.
+
+En todo proceso de carácter administrativo, penal o civil que se lleve a cabo como consecuencia de un siniestro de tránsito, las autoridades competentes deberán garantizar a las víctimas los siguientes derechos:
+
+I. Recibir la información, orientación y asesoría necesaria, de manera integral, para su eficaz atención y protección, a fin de que puedan tomar decisiones informadas y ejercer de manera efectiva todos sus derechos;
+
+II. Garantizar el respeto irrestricto a su dignidad, evitando cualquier elemento o situación que impida o dificulte el salvaguardar en todo momento el ejercicio pleno de sus derechos humanos;
+
+III. Respetar su privacidad e intimidad, en términos de lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable. Las autoridades competentes deberán evitar, en todo momento, la divulgación de la información contenida en los procesos administrativos, civiles y penales que pueda violentarla;
+
+IV. Recibir atención médica y psicológica de manera integral;
+
+V. Reparación integral del daño, en términos de la Ley General de Víctimas y demás disposiciones aplicables, para lo cual los procedimientos deben considerar las condiciones de vulnerabilidad que les afecten, y
+
+VI. Todos los demás derechos reconocidos en la Constitución, en los Tratados Internacionales en materia de derechos humanos de los que el Estado Mexicano es parte y demás instrumentos internacionales en la materia.
+
+En los procesos penales iniciados con motivo de un siniestro de tránsito en el que se hubiere actualizado algún tipo penal, las víctimas gozarán de los derechos establecidos en la Ley General de Víctimas.
+
+Para el cumplimiento de lo anterior las autoridades deberán emitir los protocolos de actuación necesarios, que serán de observancia obligatoria para todas las personas servidoras públicas que se relacionen con la materia.
 
 ###### Artículo 24.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que el Órgano Superior de Fiscalización del Estado de Oaxaca emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa a cargo de las investigaciones del Órgano Superior de Fiscalización del Estado de Oaxaca para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en los términos esta Ley.
+Estrategia Nacional de Movilidad y Seguridad Vial.
+
+La Estrategia Nacional de Movilidad y Seguridad Vial establecerá las bases para el desarrollo de la movilidad y la seguridad vial del país, en el corto, mediano y largo plazo, en congruencia con el Plan Nacional de Desarrollo, los programas sectoriales, regionales, estatales y municipales del país en materia de movilidad, seguridad vial y ordenamiento territorial, y demás aplicables, así como aquellas específicas a los grupos en situación de vulnerabilidad.
+
+La Estrategia Nacional de Movilidad y Seguridad Vial será formulada y aprobada por el Sistema Nacional y publicada en el Diario Oficial de la Federación.
 
 ###### Artículo 25.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca tendrá acceso a contratos, convenios, documentos, datos, libros, archivos y documentación justificativa y comprobatoria relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los entes públicos, así como a la demás información que resulte necesaria para la revisión y fiscalización de la Cuenta Pública siempre que al solicitarla se expresen los fines a que se destine dicha información.
+Formulación de la Estrategia Nacional de Movilidad y Seguridad Vial.
+
+Para la formulación de la Estrategia Nacional se deberá observar, al menos, lo siguiente:
+
+I. Integración de los objetivos en concordancia con los instrumentos internacionales de los que forme parte el Estado Mexicano;
+
+II. Identificación de los sistemas de movilidad de los centros de población del país e interurbanos, rurales e insulares con su respectivo diagnóstico, caracterización y delimitación de aquellos con carácter metropolitano;
+
+III. Vinculación de la movilidad y la seguridad vial con la política de desarrollo urbano y ordenamiento territorial, así como a las políticas sectoriales aplicables y demás que se requieran;
+
+IV. Establecimiento de mecanismos para el fortalecimiento de las políticas y acciones afirmativas en materia de movilidad y seguridad vial;
+
+V. Promoción de la congruencia de las políticas, programas y acciones, que, en los distintos órdenes de gobierno, deberán implementarse en materia de movilidad y seguridad vial;
+
+VI. Conformación de las estrategias que promuevan modos de transporte público sostenible y seguro, el uso de vehículos no motorizados, vehículos no contaminantes y otros modos de alta eficiencia energética;
+
+VII. Establecimiento de las bases para los mecanismos de planeación, organización, regulación, implementación, articulación intersectorial, así como la participación de la sociedad y de los sectores público, privado y social con enfoque multisectorial, ejecución, control, evaluación y seguimiento de la Estrategia, e
+
+VIII. Información sobre la movilidad y la seguridad vial que permita integrar indicadores de proceso, efectos, resultados e impacto desagregado entre los grupos en situación de vulnerabilidad y personas con discapacidad.
 
 ###### Artículo 26.
 
-Cuando conforme a esta Ley, los órganos internos de control deban colaborar con el Órgano Superior de Fiscalización del Estado de Oaxaca en lo que concierne a la revisión de la Cuenta Pública, deberá establecerse una coordinación entre ambos a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades para la realización de la auditoría que corresponda. Asimismo, deberán proporcionar la documentación que les solicite el Órgano Superior de Fiscalización del Estado de Oaxaca sobre los resultados de la fiscalización que realicen o cualquier otra que se les requiera, para realizar la auditoría correspondiente.
+Visión a largo plazo de la Estrategia Nacional.
+
+La Estrategia Nacional tendrá una visión con un horizonte a corto, mediano y largo plazo del desarrollo nacional de la movilidad y la seguridad vial. Tendrá como objetivo gestionar, desde un enfoque de sistemas seguros, la movilidad y seguridad vial, con la premisa que el cambio en su instrumentación será progresivo, las acciones y políticas deberán obedecer a un proceso iterativo. Podrá ser revisada y, en su caso, actualizada cada cuatro años o cuando ocurran cambios profundos que puedan afectar la estructura de movilidad del país. Su elaboración y modificación será conforme a lo siguiente:
+
+I. El Sistema Nacional formulará y aprobará la Estrategia Nacional;
+
+II. Una vez aprobada la Estrategia Nacional, se publicará en el Diario Oficial de la Federación, y
+
+III. Las dependencias y entidades de la Administración Pública Federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, ajustarán sus políticas y acciones a lo establecido en la Estrategia.
 
 ###### Artículo 27.
 
-Toda la información y datos que para el cumplimiento de lo previsto en los dos artículos anteriores se proporcionen al Órgano Superior de Fiscalización del Estado de Oaxaca, estarán afectos exclusivamente al objeto de esta Ley.
+Indicadores y Bases de Datos de Movilidad y Seguridad Vial contenidas en el Sistema de Información Territorial y Urbano.
+
+El Sistema de Información Territorial y Urbano es un instrumento de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano que tiene por objeto organizar, actualizar y difundir la información e indicadores sobre el ordenamiento territorial y el desarrollo urbano, donde además se integra, organiza, actualiza, publica y estandariza información de movilidad y seguridad vial, considerando características socioeconómicas, demográficas, de discapacidad y de género de las personas usuarias de la vía y los grupos en situación de vulnerabilidad, para la elaboración de la política pública, programas y acciones que garanticen los derechos, principios, directrices y objetivos de esta Ley.
+
+La información estará disponible para su consulta en el medio electrónico que defina el Sistema Nacional con el mayor nivel de desagregación posible, a efecto de promover el desarrollo de estudios e investigaciones que contribuyan a incorporar la perspectiva de género y la inclusión de grupos en situación de vulnerabilidad dentro de la planeación de los sistemas de movilidad y la seguridad vial.
+
+La protección y publicidad de la información contenida en el Sistema de Información Territorial y Urbano se realizará en términos de lo establecido en las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás legislación aplicable.
+
+El Sistema de Información Territorial y Urbano en materia de movilidad y seguridad vial estará conformado por una base de datos integrada por la información que proporcionen las autoridades federales, las entidades federativas, los municipios y las demarcaciones territoriales, en el ámbito de sus competencias, de conformidad con esta Ley y demás disposiciones que al efecto se emitan.
+
+Para el funcionamiento del Sistema de Información Territorial y Urbano en materia de movilidad y seguridad vial, las autoridades competentes, dentro del marco de sus facultades deberán suscribir los convenios de coordinación necesarios para la transmisión de la información que exista en los archivos de las diversas dependencias, entidades federales, organismos constitucionalmente autónomos, entidades federativas y municipios que posean datos e información necesaria para que las autoridades competentes elaboren las políticas de movilidad y seguridad vial.
 
 ###### Artículo 28.
 
-Las auditorías que se efectúen en los términos de esta Ley, se practicarán por el personal expresamente comisionado por el Órgano Superior de Fiscalización del Estado de Oaxaca o mediante la contratación de despachos o profesionales independientes, habilitados por la misma. Lo anterior, con excepción de aquellas auditorías en las que se maneje información en materia de seguridad estatal, seguridad pública, así como tratándose de investigaciones relacionadas con responsabilidades administrativas, las cuales serán realizadas directamente por el Órgano Superior de Fiscalización del Estado de Oaxaca.
+Integración de Indicadores y Bases de Datos de Movilidad y Seguridad Vial.
 
-En el caso de despachos o profesionales independientes, previamente a su contratación, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá cerciorarse y recabar la manifestación por escrito de éstos de no encontrarse en conflicto de intereses con las entidades fiscalizadas ni con el propio Órgano Superior de Fiscalización del Estado de Oaxaca, así como verificar que estos se encuentren inscritos en el Padrón General de Despachos o Profesionales Independientes en Auditoría Externa, a cargo de dicho Órgano Superior de Fiscalización del Estado de Oaxaca.
+La integración de indicadores y bases de datos del Sistema de Información Territorial y Urbano se integrarán por las siguientes:
 
-Asimismo, los servidores públicos del Órgano Superior de Fiscalización del Estado de Oaxaca y los despachos o profesionales independientes tendrán la obligación de abstenerse de conocer asuntos referidos a las entidades fiscalizadas en las que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo que abarque la revisión de que se trate, o en los casos en que tengan conflicto de interés en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+I. Base de Datos sobre información de movilidad, y
 
-No se podrán contratar trabajos de auditoría externos o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, cuando exista parentesco por consanguinidad o afinidad hasta el cuarto grado, o parientes civiles, entre el titular del Órgano Superior de Fiscalización del Estado de Oaxaca o cualquier mando superior de dicho órgano y los prestadores de servicios externos.
+II. Base de Datos de información y seguimiento de seguridad vial.
+
+#### Sección Segunda. De las Bases de Datos sobre Movilidad y Seguridad Vial
 
 ###### Artículo 29.
 
-Las personas a que se refiere el artículo anterior tendrán el carácter de representantes del Órgano Superior de Fiscalización del Estado de Oaxaca en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo e identificarse plenamente como personal actuante de dicho Órgano.
+Bases de Datos sobre Movilidad y Seguridad Vial.
+
+La Federación y las entidades federativas, en el ámbito de sus competencias, integrarán las bases de datos de movilidad y seguridad vial, las que contendrán, como mínimo, lo siguiente:
+
+I. La información contenida en el Registro Público Vehicular en términos de la Ley del Registro Público Vehicular, en estricto apego a las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, y demás legislación aplicable;
+
+II. Licencias de conducir, incluyendo el tipo de licencia y seguros registrados por vehículo;
+
+III. Operadores de servicios de transporte;
+
+IV. Conductores de vehículos de servicios de transporte;
+
+V. Información sobre infracciones cometidas y cumplimiento de las sanciones respectivas;
+
+VI. Información sobre siniestros de tránsito, con datos que permitan, al menos, geolocalizar el lugar del siniestro a nivel de sitio, conocer el tipo de vehículo involucrado, la existencia de personas lesionadas y de víctimas fatales, por tipo de persona usuaria y sus características sociodemográficas;
+
+VII. Información sobre encuestas de calidad en el servicio de transporte público o de uso particular, cuando existan y las leyes locales así lo prevean;
+
+VIII. Información sobre encuestas origen/destino, cuando existan y las leyes locales así lo prevean, con atención a la movilidad del cuidado;
+
+IX. Número de unidades, capacidad y rutas de transporte público o privado;
+
+X. Alta y baja de placas de vehículos nuevos o usados;
+
+XI. Información respecto de adecuaciones de infraestructura y red vial;
+
+XII. Información sobre los resultados de las auditorías e inspecciones de seguridad vial, y
+
+XIII. La información que el Sistema Nacional determine necesaria para la debida integración de las Bases de Datos.
+
+Para el caso de vehículos no motorizados, específicamente bicicletas, monopatines, y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
 
 ###### Artículo 30.
 
-Las entidades fiscalizadas deberán proporcionar al Órgano Superior de Fiscalización del Estado de Oaxaca los medios y facilidades necesarios para el cumplimiento de sus atribuciones, tales como espacios físicos adecuados de trabajo y en general cualquier otro apoyo que posibilite la realización de sus actividades.
+Reporte de los Indicadores y Bases de Datos de las entidades federativas al Sistema de Información Territorial y Urbano.
+
+Para el seguimiento, evaluación y control de la política, planes, programas y proyectos en materia de movilidad y seguridad vial, las entidades federativas, mediante los convenios de coordinación respectivos, remitirán, a través de los organismos y dependencias que correspondan en el ámbito de sus competencias, la información generada en materia de movilidad y seguridad vial.
+
+La información de las entidades federativas deberá ser remitida en datos georreferenciados y estadísticos, indicadores de movilidad, seguridad vial y gestión administrativa, así como indicadores incluidos en los instrumentos de planeación e información sobre el avance de los proyectos y programas locales.
 
 ###### Artículo 31.
 
-Durante sus actuaciones los comisionados o habilitados que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas en presencia de dos testigos, en las que harán constar hechos y omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en términos de ley.
+Criterios de Movilidad y Seguridad Vial.
+
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México integrarán la planeación de movilidad y seguridad vial en los instrumentos territoriales, metropolitanos, urbanos, rurales e insulares vigentes.
+
+Asimismo, gestionarán conjuntamente los planes, programas, estrategias y acciones de desarrollo urbano, de movilidad y de seguridad vial y desarrollarán legislación o mecanismos de coordinación y cooperación administrativa para disminuir la desigualdad que resulta de la segregación territorial.
+
+La planeación de la movilidad y de la seguridad vial realizada por cualquiera de los tres órdenes de gobierno, integrará los principios y jerarquía de la movilidad establecidos en esta Ley, observando las siguientes acciones:
+
+I. Adoptar medidas para garantizar la protección de la vida, salud y de la integridad física de todas las personas usuarias de la vía;
+
+II. Adoptar las medidas necesarias para prevenir todo tipo de violencia que atente contra la dignidad e integridad de las personas que pertenecen a los grupos en situación de vulnerabilidad;
+
+III. Impulsar programas y proyectos de movilidad con políticas de proximidad que faciliten la accesibilidad entre la vivienda, el trabajo y servicios educativos, de salud, culturales y complementarios, a fin de reducir las externalidades negativas del transporte urbano;
+
+IV. Establecer medidas que incentiven el uso del transporte público, vehículos no motorizados, vehículos no contaminantes y otros modos de movilidad de alta eficiencia energética, cuando el entorno lo permita y bajo un enfoque sistémico;
+
+V. Establecer medidas que fomenten una movilidad sustentable y que satisfagan las necesidades de desplazamiento de la población, logren un sistema de integración física, operativa, informativa, de imagen y de modo de pago conectado a las vías urbanas y metropolitanas;
+
+VI. Priorizar la planeación de los sistemas de transporte público, de la estructura vial y de la movilidad no motorizada y tracción humana;
+
+VII. Establecer acciones afirmativas y ajustes razonables en materia de accesibilidad y diseño universal, en los sistemas de movilidad y en la estructura vial, con especial atención a los requerimientos de personas con discapacidad y movilidad limitada, y otros grupos en situación de vulnerabilidad que así lo requieran;
+
+VIII. Promover la capacitación de las personas que operan los servicios de transporte público y servicios de emergencia en Lengua de Señas Mexicana;
+
+IX. Promover acciones para hacer más eficiente la distribución de bienes y mercancías, con objeto de aumentar la productividad en los centros de población y minimizar los impactos negativos de los vehículos de carga en los sistemas de movilidad; así como evitar gravar y sobre regular los servicios de autotransporte federal, transporte privado y sus servicios auxiliares regulados por la Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+X. Promover acciones que contribuyan a mejorar la calidad del medio ambiente, a través de la reducción de la contaminación del aire, las emisiones de gases de efecto invernadero, el consumo de energía y el ruido, derivados del impacto de la movilidad;
+
+XI. Promover la participación ciudadana en la toma de decisiones en materia de movilidad dentro de los procesos de planeación;
+
+XII. Incrementar la resiliencia del sistema de movilidad y seguridad vial fomentando diversas opciones de transporte;
+
+XIII. Definir estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en los sistemas de movilidad conforme a sus necesidades en un marco de seguridad;
+
+XIV. Establecer medidas para el uso de una metodología basada en la perspectiva de género, que garantice el diseño de soluciones a través de acciones afirmativas, prioritariamente con el objetivo de erradicar las violencias de género al hacer uso de la vía. Lo anterior debe tomar en consideración la interseccionalidad de las mujeres, y los principios de equidad y transversalidad;
+
+XV. Establecer mecanismos y acciones de coordinación administrativa y de concertación entre los sectores público, privado y social en materia de movilidad y seguridad vial;
+
+XVI. Garantizar que los factores como la velocidad y la circulación cercana a vehículos motorizados no pongan en riesgo a personas peatonas y usuarias de vehículos motorizados y de tracción humana, en particular a la niñez, personas adultas mayores, con discapacidad o con movilidad limitada y grupos en situación de vulnerabilidad;
+
+XVII. Promover el fortalecimiento del transporte público de pasajeros individual y colectivo para asegurar la accesibilidad igualitaria e incluyente de las personas usuarias de la vía y hacer uso de las tecnologías de la información y comunicación disponibles;
+
+XVIII. Considerar el vínculo de la movilidad con los planes o programas de desarrollo urbano, para lo cual deberán tomar en cuenta los lineamientos y estrategias contenidas en los programas de ordenamiento ecológico del territorio y protección al medio ambiente, conforme a las disposiciones jurídicas ambientales aplicables;
+
+XIX. Los planes o programas de desarrollo urbano deberán considerar las Normas Oficiales Mexicanas emitidas en materia de movilidad y transporte, y
+
+XX. Implementar estrategias de movilidad urbana, interurbana, rural e insular sostenible a mediano y largo plazo privilegiando el establecimiento de transporte colectivo, de movilidad no motorizada y de tracción humana y otros medios de alta eficiencia energética y ambiental.
 
 ###### Artículo 32.
 
-Los servidores públicos del Órgano Superior de Fiscalización del Estado de Oaxaca y, en su caso, los despachos o profesionales independientes contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
+Movilidad con perspectiva de género.
+
+En la planeación y diseño de la movilidad y la seguridad vial, así como en los diferentes componentes de los sistemas de movilidad y en la toma de decisiones, las autoridades competentes deberán fomentar y garantizar la participación de las mujeres, considerando su interseccionalidad, además de:
+
+I. Implementar acciones y mecanismos dentro de los sistemas de movilidad y seguridad vial, así como de las autoridades responsables del territorio, para fortalecer la información disponible y los diagnósticos, que promuevan la implementación de acciones afirmativas y con perspectiva de género que mejoren y hagan más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres y de la movilidad de cuidado.
+
+II. Incluir en las estrategias e instrumentos de movilidad y seguridad vial, en los tres órdenes de gobierno, acciones afirmativas y con perspectiva de género para prevenir y erradicar las violencias de género. Dichas acciones serán implementadas bajo el principio de transversalidad con las autoridades competentes en los ámbitos de seguridad ciudadana, derechos humanos, entre otras. Esto también incluirá la capacitación en la materia y sensibilización de género de las personas responsables de diseñar, operar y evaluar los sistemas de movilidad.
+
+III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y demás legislación en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por el Instituto Nacional de las Mujeres, la Comisión Nacional de los Derechos Humanos, la Secretaría de Seguridad Ciudadana, y demás dependencias e institutos estatales y municipales relevantes, así como de la sociedad civil y organismos internacionales.
+
+#### Sección Segunda. De los Instrumentos de Política Pública de Movilidad y Seguridad Vial para la Infraestructura
 
 ###### Artículo 33.
 
-Los prestadores de servicios profesionales externos que contrate, cualquiera que sea su categoría, serán responsables en los términos de las leyes aplicables por violación a la reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan.
+De los instrumentos para la Infraestructura de Movilidad y Seguridad Vial.
+
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México establecerán en su normativa aplicable que las obras de infraestructura vial urbana y carretera sean diseñadas y ejecutadas bajo los principios, jerarquía de la movilidad y criterios establecidos en la presente Ley, priorizando aquéllas que atiendan a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada territorio.
+
+Los estándares de diseño vial y dispositivos de control del tránsito deberán ser definidos por cada entidad federativa, en concordancia con las Normas Oficiales Mexicanas expedidas para tal efecto.
+
+En materia de prevención de siniestros de tránsito, los distintos órdenes de gobierno deberán establecer estrategias, planes y programas de infraestructura vial que, reconociendo la posibilidad del error humano y la interseccionalidad de las personas usuarias de la vía, se encaminen a evitar muertes, lesiones, incluidas en las que se adquiere alguna discapacidad, a través del mejoramiento de la infraestructura vial.
 
 ###### Artículo 34.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca será responsable subsidiario de los daños y perjuicios que, en términos de este capítulo, causen los servidores públicos de la misma y los despachos o profesionales independientes, contratados para la práctica de auditorías, sin perjuicio de que el Órgano Superior de Fiscalización del Estado de Oaxaca promueva las acciones legales que correspondan en contra de los responsables.
+Diseño de la red vial.
 
-### Capítulo II. Del Informe de Resultados ante el Congreso del Estado
+Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad:
+
+I. Movilidad se enfoca en el tránsito de personas y vehículos, y
+
+II. Habitabilidad se enfoca en la recreación, consumo, socialización, disfrute y acceso a los medios que permiten el ejercicio de los derechos sociales.
+
+La conducción de las autoridades competentes sobre las vías debe fortalecer ambas funciones, a través de criterios diferenciados en función de la jerarquía de la movilidad, tomando en consideración las necesidades diferenciadas de los grupos en situación de vulnerabilidad. La prioridad en el diseño y operación de las vías y carreteras están definidas en función de la jerarquía de la movilidad mediante un enfoque de sistemas seguros.
+
+### CAPÍTULO III. De la jerarquía de movilidad
 
 ###### Artículo 35.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca deberá rendir el Informe de Resultados al Congreso del Estado, por conducto de la Comisión, en los plazos establecidos en el artículo 13 de esta ley. Dicho informe tendrá el carácter de público, debiendo remitir la Comisión copia de dicho informe al Comité Coordinador y al Comité de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción.
+Criterios para el diseño de infraestructura vial.
 
-Tratándose del último año de la administración estatal, el informe de resultados se presentará en los plazos y términos establecidos en la Constitución local y en la presente Ley.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México en el ámbito de su competencia considerarán, además de los principios establecidos en la presente Ley, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
 
-A solicitud de la Comisión, el titular del Órgano Superior de Fiscalización del Estado de Oaxaca y los funcionarios que éste designe presentarán, ampliarán o aclararán el contenido del Informe de Resultados, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento del mismo, siempre y cuando no se revele información reservada, que forme parte de un proceso de abierto de investigación. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe de Resultados.
+I. Diseño universal. La construcción de infraestructura vial deberá considerar espacios de calidad, accesibles y seguros que permitan la inclusión de todas las personas sin discriminación alguna, con especial énfasis en la jerarquía de la movilidad estipulada en esta Ley y el uso equitativo del espacio público. En las vías urbanas se considerará el criterio de calle completa y las adicionales medidas que se estimen necesarias. Se procurará evitar la construcción de pasos elevados o subterráneos cuando haya la posibilidad de adecuar el diseño para hacer el cruce peatonal, así como el destinado a movilidad no motorizada y de tracción humana, y las demás necesarias para garantizar una movilidad incluyente.
+
+Las condiciones mínimas de infraestructura se ordenan de la siguiente manera:
+
+a) Aceras pavimentas (sic) reservadas para el tránsito de personas peatonas;
+
+b) Iluminación que permita el transito nocturno y seguro de personas peatonas;
+
+c) Pasos peatonales que garanticen zonas de intersección seguras entre la circulación rodada y el tránsito peatonal;
+
+d) Señales de control de tráfico peatonal, motorizado y no motorizado que regule el paso seguro de personas peatonas;
+
+II. Priorizar a los grupos en situación de vulnerabilidad. El diseño de la red vial debe garantizar que los factores como la velocidad, la circulación cercana a vehículos motorizados y la ausencia de infraestructura de calidad, no pongan en riesgo a personas peatonas ni a las personas usuarias de la vía pública que empleen vehículos no motorizados y de tracción humana;
+
+III. Participación social. En el proceso de diseño y evaluación de la infraestructura vial, se procurarán esquemas de participación social de las personas usuarias de la vía;
+
+IV. Visión integral. Los proyectos de nuevas calles o de rediseño de las existentes en las vialidades urbanas, semiurbanas y rurales, deberán considerar el criterio de calle completa, asignando secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite;
+
+V. Intersecciones seguras. Las intersecciones deberán estar diseñadas para garantizar la seguridad de todas las personas usuarias de la vía, especialmente a las y los peatones y personas con movilidad limitada y grupos en situación de vulnerabilidad;
+
+VI. Pacificación del tránsito. Los diseños en infraestructura vial, sentidos y operación vial, deberán priorizar la reducción de flujos y velocidades vehiculares, para dar lugar al transporte público y a la movilidad activa y no motorizada y de tracción humana, a fin de lograr una sana convivencia en las vías. El diseño geométrico, de secciones de carriles, pavimentos y señales deberá considerar una velocidad de diseño de 30 km/h máxima para calles secundarias y terciarias, para lo cual se podrán ampliar las banquetas, reducir secciones de carriles, utilizar mobiliario, pavimentos especiales, desviar el eje de la trayectoria e instalar dispositivos de reducción de velocidad;
+
+VII. Velocidades seguras. Las vías deben contar, por diseño, con las características, señales y elementos necesarios para que sus velocidades de operación sean compatibles con el diseño y las personas usuarias de la vía que en ella convivan;
+
+VIII. Legibilidad y autoexplicabilidad. Es la cualidad de un entorno vial que provoca un comportamiento seguro de las personas usuarias simplemente por su diseño y su facilidad de entendimiento y uso. El diseño y la configuración de una calle o carretera autoexplicable cumple las expectativas de las personas usuarias, anticipa adecuadamente las situaciones y genera conductas seguras.
+
+Las vías autoexplicables integran sus elementos de manera coherente y entendible como señales, marcas, dispositivos, geometría, superficies, iluminación y gestión de la velocidad, para evitar siniestros de tránsito y generar accesibilidad para las personas con discapacidad;
+
+IX. Conectividad. Los espacios públicos deben formar parte de una red que permita a las personas usuarias conectar sus orígenes y destinos, entre modos de transporte, de manera eficiente y fácil. También deben permitir el desplazamiento libre de personas peatonas, personas usuarias de movilidad activa o no motorizada y otros prioritarios, incluidos vehículos de emergencia;
+
+X. Permeabilidad. La infraestructura debe contar con un diseño que permita la recolección e infiltración de agua pluvial y su reutilización en la medida que el suelo y el contexto hídrico del territorio lo requiera y con las autorizaciones ambientales y de descarga de la autoridad competente;
+
+XI. Tolerancia. Las vías y sus costados deben prever la posible ocurrencia de errores de las personas usuarias, y con su diseño y equipamiento técnico procurarán minimizar las consecuencias de siniestros de tránsito;
+
+XII. Movilidad sostenible. Transporte cuyos impactos sociales, ambientales y climáticos permitan asegurar las necesidades de transporte de las generaciones actuales sin comprometer la capacidad en los recursos para satisfacer las del futuro y mejorar la calidad ambiental;
+
+XIII. Calidad. Las vías deben contar con un diseño adecuado a las necesidades de las personas, materiales de larga duración, diseño universal y acabados, así como mantenimiento adecuado para ser funcional, atractiva estéticamente y permanecer en el tiempo, y
+
+XIV. Tratamiento de condiciones climáticas. El proyecto debe incorporar un diseño con un enfoque integral que promueva y permita una menor dependencia de los combustibles fósiles, así como hacer frente a la agenda de adaptación y mitigación al cambio climático.
 
 ###### Artículo 36.
 
-El Informe de Resultados contendrá como mínimo:
+De la Infraestructura Vial.
 
-I. Un resumen de las auditorías y las observaciones realizadas;
+La infraestructura vial urbana, rural y carretera se compone de los siguientes elementos:
 
-II. Las áreas claves con riesgo identificadas en la fiscalización;
+I. Elementos inherentes: banquetas y espacios de circulación peatonal, así como los carriles de circulación vehicular y estacionamiento, y
 
-III. Un resumen de los resultados de la fiscalización del gasto público, participaciones estatales y municipales y la evaluación de la deuda fiscalizable;
+II. Elementos incorporados: infraestructura tecnológica eléctrica, mobiliario, áreas verdes y señalización.
 
-IV. La descripción de la muestra del gasto público auditado, señalando la proporción respecto del ejercicio de los poderes del Estado, la Administración Pública Estatal, el gasto estatal y el ejercido por órganos constitucionales autónomos;
+La planeación, diseño e implementación de los planes de la infraestructura por parte de la Federación, entidades federativas y municipios deberá regirse de manera que se prioricen a las poblaciones con mayor grado de vulnerabilidad, poco desarrollo tecnológico y de escasos recursos, de acuerdo con la siguiente prioridad, basada en el grado de urbanización:
 
-V. Derivado de las Auditorías, en su caso y dependiendo de la relevancia de las observaciones, un apartado donde se incluyan sugerencias al Congreso del Estado para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las entidades fiscalizadas;
+a) Rurales;
 
-VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas públicas contenidas en los Criterios Generales de Política Económica para el ejercicio fiscal correspondiente y los datos observados al final del mismo; y,
+b) Semirurales;
 
-VII. La demás información que se considere necesaria.
+c) Urbanas, y
+
+d) Predominantemente urbanas.
 
 ###### Artículo 37.
 
-El Informe de Resultados de la revisión de las respectivas Cuentas Públicas, deberán contener además de lo establecido en el artículo anterior, el resultado del examen y verificación de la aplicación de las normas y procedimientos de auditoría y técnicas de análisis financiero, para el efecto de evaluar la aplicación de los postulados básicos de contabilidad gubernamental, respecto del gasto ejercido por los Poderes del Estado y demás entidades fiscalizables.
+Estándares para la construcción de infraestructura vial.
 
-Lo establecido en este capítulo será aplicable en lo conducente al informe de resultados de la cuenta pública de los municipios.
+Toda obra en la vía pública destinada a la construcción o conservación de esta, o a la instalación o reparación de servicios, debe contemplar, previamente a su inicio, la colocación de dispositivos de desvíos, reducción de velocidades y protección de obra, conforme a las normas técnicas aplicables a la planeación.
 
-### Capítulo III. De los Informes Individuales
+Los tres órdenes de gobierno deberán estandarizar las especificaciones técnicas de seguridad en las zonas de obras viales, conforme a las normas técnicas aplicables a la planeación en concordancia con lo establecido en la presente Ley.
+
+El diseño vial de las vías públicas deberá atender a la reducción máxima de muerte o lesiones graves a las personas usuarias involucradas en siniestros de tránsito. Asimismo, deberá incorporar criterios que preserven la vida, seguridad, salud, integridad y dignidad de las personas usuarias de la vía, particularmente de los grupos en situación de vulnerabilidad.
+
+Para la construcción de nuevas carreteras y autopistas, así como para ampliaciones de aquellas ya existentes, se deberán prever pasos de fauna. En caso de carreteras y autopistas ya existentes, se colocarán reductores de velocidad en los puntos críticos.
+
+Cuando un tramo de vía de jurisdicción federal o estatal se adentre en una zona urbana, ésta deberá adaptar su vocación, velocidad y diseño, considerando la movilidad y seguridad vial de las personas que habitan en esos asentamientos.
+
+Cuando una vía de jurisdicción federal o estatal corte un asentamiento humano urbano a nivel y no existan libramientos, deberá considerarse la construcción de pasos peatonales seguros a nivel, para garantizar la permeabilidad entre las zonas urbanas.
+
+Las vías interurbanas adentradas en zonas urbanas deberán considerar según su uso, el espacio adecuado para las personas que se trasladan a pie y en bicicleta, así como en su caso, espacio para circulación, ascenso y descenso del transporte público.
+
+### CAPÍTULO I. El Sistema Nacional de Movilidad y Seguridad Vial y la política nacional, sectorial y regional
 
 ###### Artículo 38.
 
-Los informes de cada una de las auditorías practicadas a las entidades fiscalizadas, que concluyan durante el periodo respectivo deberán ser entregados al Congreso del Estado, por conducto de la Comisión, el último día hábil de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+Auditorías e inspecciones de infraestructura y seguridad vial.
 
-Dichos informes individuales, se elaborará con base en los formatos que al efecto establezca la Comisión e incluirá invariablemente los montos de los resarcimientos al erario derivados de la fiscalización de las Cuentas Públicas y en un apartado especial, la atención a las recomendaciones al desempeño. Asimismo, deberá publicarse en la página de Internet del Órgano Superior de Fiscalización del Estado de Oaxaca en la misma fecha en que sea presentado.
+Las autoridades de los tres órdenes de gobierno deberán considerar la implementación de auditorías e inspecciones, como parte de instrumentos preventivos, correctivos y evaluativos, que analicen la operación de la infraestructura de movilidad e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la presente Ley.
+
+El Sistema Nacional emitirá los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial.
 
 ###### Artículo 39.
 
-Los Informes Individuales de auditoría contendrán como mínimo lo siguiente:
+Espacios públicos de diseño universal.
 
-I. Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el dictamen de la revisión;
-
-II. Los nombres de los servidores públicos del Órgano Superior de Fiscalización del Estado de Oaxaca a cargo de realizar la auditoría o, en su caso, de los despachos o profesionales independientes contratados para llevarla a cabo;
-
-III. El cumplimiento, en su caso, de la Ley de Ingresos, el Presupuesto de Egresos y demás disposiciones jurídicas aplicables al ente fiscalizado;
-
-IV. Los resultados de la fiscalización efectuada;
-
-V. Las observaciones, recomendaciones, acciones, con excepción de los informes de presunta responsabilidad administrativa, y en su caso denuncias de hechos, y
-
-VI. Un apartado específico en cada una de las auditorías realizadas donde se incluyan una síntesis de las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones.
-
-Asimismo, considerará, en su caso, el cumplimiento de los objetivos de aquellos programas que promuevan la igualdad entre mujeres y hombres, así como la erradicación de la violencia y cualquier forma de discriminación de género.
-
-Los informes individuales a que hace referencia el presente capítulo, tendrán el carácter de públicos y se mantendrán en la página de Internet del Órgano Superior de Fiscalización del Estado de Oaxaca, en formatos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus competencias, procurarán que todos los proyectos de infraestructura vial a implementar generen espacios públicos de calidad, respetuosos del medio ambiente, accesibles, seguros, incluyentes, con perspectiva de interseccionalidad y con criterios de diseño universal y habitabilidad para la circulación de personas peatonas y vehículos no motorizados, debiendo considerar también la conectividad con la red vial, a través de intersecciones que sigan los criterios de velocidad, legibilidad, trayectorias directas, multimodalidad, continuidad de superficie, prioridad de paso, paradores seguros y visibilidad.
 
 ###### Artículo 40.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca dará cuenta al Congreso del Estado en los informes individuales de las observaciones, recomendaciones y acciones y, en su caso, de la imposición de las multas respectivas, y demás acciones que deriven de los resultados de las auditorías practicadas.
+Espacios para personas peatonas y vehículos no motorizados.
+
+A fin de garantizar la vocación de las vías, todos los proyectos de infraestructura vial urbana deberán considerar lo siguiente:
+
+I. El establecimiento de espacios para personas peatonas y vehículos no motorizados, de calidad, cómodos, accesibles y seguros, y
+
+II. Criterios que garanticen dimensiones, conexiones y espacios suficientes para el disfrute de la vía.
 
 ###### Artículo 41.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca informará al Congreso del Estado, por conducto de la Comisión, del estado que guardan las solventaciones de observaciones a las entidades fiscalizadas, respecto a cada uno de los Informes individuales que se deriven de las funciones de fiscalización.
+De los estudios técnicos.
 
-En dicho informe, el Órgano Superior de Fiscalización del Estado de Oaxaca dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe las estadísticas sobre dichas promociones identificando también las sanciones que al efecto hayan procedido.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus competencias, vincularán los estudios técnicos aplicables a la movilidad y la seguridad vial, con los principios y criterios establecidos en esta Ley.
 
-Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el número de pliegos emitidos, su estatus procesal y las causas que los motivaron.
-
-En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o las autoridades competentes, en dicho informe el Órgano Superior de Fiscalización del Estado de Oaxaca dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia, así como, en su caso, la pena impuesta.
-
-### Capítulo IV. De las Acciones y Recomendaciones derivadas de la Fiscalización
+### CAPÍTULO II. Del derecho a la movilidad
 
 ###### Artículo 42.
 
-El Titular el Órgano Superior de Fiscalización del Estado de Oaxaca enviará a las entidades fiscalizadas, dentro de un plazo de diez días hábiles siguientes a que haya sido entregado al Congreso, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de treinta días hábiles, presenten la información y realicen las consideraciones pertinentes.
+Sistemas integrados de modalidades de transporte.
 
-Con la notificación del informe individual a las entidades fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales, las cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
+Los servicios de transporte público y privado, tanto de pasajeros como de carga, podrán desarrollarse en sistemas integrados, los cuales permitirán la incorporación gradual de la articulación física, operacional, informativa, de imagen y del medio de pago de los diversos modos.
+
+Los sistemas integrados de transporte podrán considerarse dentro de la planeación e implementación de políticas y programas de movilidad y seguridad vial, y podrán operar a través de los diferentes servicios de transporte y, en su caso, bajo esquemas metropolitanos.
+
+Las autoridades estatales, municipales y de las demarcaciones territoriales tomarán en cuenta las medidas necesarias para articular, dentro de los sistemas integrados de transporte, los servicios para vehículos no motorizados y tracción humana.
 
 ###### Artículo 43.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca al promover o emitir las acciones a que se refiere esta Ley, observará lo siguiente:
+Del servicio de transporte público.
 
-I. A través de las solicitudes de aclaración, requerirá a las entidades fiscalizadas que presenten información adicional para atender las observaciones que se hayan realizado;
+El servicio público de tránsito es la actividad técnica, realizada directamente por la administración pública, encaminada a satisfacer la necesidad de carácter general de disfrutar de seguridad vial en la vía pública y poder circular por ella libremente atendiendo a la jerarquía de esta Ley, mediante la adecuada regulación de la circulación, así como del uso y disfrute del espacio público, las vías, la infraestructura, los servicios y los sistemas de movilidad. El cumplimiento uniforme y continuo de este servicio debe ser permanentemente asegurado, regulado y controlado.
 
-II. Tratándose de los pliegos de observaciones, determinará en cantidad líquida los daños o perjuicios, o ambos a la Hacienda Pública Estatal o Municipal o en su caso, al patrimonio de los entes públicos;
+Las autoridades competentes establecerán los requisitos para que las personas prestadoras del servicio de transporte público garanticen un servicio seguro y de calidad, de acuerdo con requerimientos técnicos de seguridad para su operación con base en el principio de inclusión e igualdad, a fin de resguardar la vida, salud e integridad física de toda persona.
 
-III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
+Las autoridades competentes deberán establecer que las tarifas que se determinen para el servicio de transporte público sean publicadas para conocimiento de todas las personas usuarias en los Periódicos o Gacetas Oficiales de las entidades federativas, con la debida anticipación.
 
-IV. A través del informe de presunta responsabilidad administrativa, el Órgano Superior de Fiscalización del Estado de Oaxaca promoverá ante el Tribunal, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas;
+Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán proveer en las localidades rurales e insulares transporte público gratuito, a niñas, niños y adolescentes, evitando a las y los menores de edad caminatas mayores a 30 minutos o un kilómetro para educación primaria y 60 minutos o tres kilómetros para educación secundaria y media superior, con el fin de garantizar el derecho a la movilidad y el derecho a la educación.
 
-V. En caso de que el Órgano Superior de Fiscalización del Estado de Oaxaca determine la existencia de daños o perjuicios, o ambos, a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
-
-VI. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y,
-
-VII. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos.
+Asimismo, deberán establecer rutas de transporte público destinadas a facilitar a las personas trabajadoras el desplazamiento a sus centros de trabajo.
 
 ###### Artículo 44.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca deberá pronunciarse en un plazo de ciento veinte días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las acciones y recomendaciones.
+Control de los servicios de transporte.
+
+Cada autoridad en materia de transporte en los tres órdenes de gobierno definirá las categorías de servicios de movilidad en función de su propio contexto, y regulará su operación, y los instrumentos que se requieran, considerando la garantía al derecho a la movilidad de las personas, el control de las externalidades generadas por cada servicio, así como el cumplimiento de los estándares establecidos en esta Ley.
+
+Los instrumentos de control expedidos para la operación de servicios de autotransporte federal y sus servicios auxiliares, incluyen la cobertura en vías de jurisdicción estatal y municipal, por lo que las entidades federativas, municipios y demarcaciones de la Ciudad de México no podrán sobre regularlos, ni gravar el tránsito de personas o cosas que atraviesen su demarcación territorial, así como tampoco podrán prohibir la entrada o salida a su territorio de ninguna mercancía nacional o extranjera.
 
 ###### Artículo 45.
 
-Antes de emitir sus recomendaciones, el Órgano Superior de Fiscalización del Estado de Oaxaca analizará con las entidades fiscalizadas las observaciones que dan motivo a las mismas. En las reuniones de resultados preliminares y finales las entidades fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes del Órgano Superior de Fiscalización del Estado de Oaxaca, las actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención. Lo anterior, sin perjuicio de que dicho Órgano Superior de Fiscalización del Estado de Oaxaca pueda emitir recomendaciones en los casos en que no logre acuerdos con las entidades fiscalizadas.
+Instrumentos de control de operación del transporte.
 
-La información, documentación o consideraciones aportadas por las entidades fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por los cuales no resulta factible su implementación.
+Para una adecuada operación de los servicios de transporte, las autoridades competentes deberán definir los instrumentos que se usen para los siguientes procesos:
 
-Dentro de los treinta días posteriores a la conclusión del plazo a que se refiere el artículo que antecede, el Órgano Superior de Fiscalización del Estado de Oaxaca enviará al Congreso un reporte final sobre las recomendaciones correspondientes a la Cuenta Pública en revisión, detallando la información a que se refiere el párrafo anterior.
+I. Protocolos de prevención y atención de discriminación y violencia contra las personas usuarias de la vía;
+
+II. Control y registro vehicular y revisión físico-mecánica y de emisiones, y
+
+III. Control y registro de conductores.
 
 ###### Artículo 46.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca, podrá promover en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente.
+De la información del transporte.
 
-### Capítulo V. De la conclusión de la revisión de la Cuenta Pública
+Las autoridades competentes de los tres órdenes de gobierno, establecerán unidades de información y quejas para que las personas usuarias denuncien cualquier irregularidad en la prestación del servicio de transporte público. Para ello, se observarán los principios de accesibilidad, prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención a la persona quejosa y se le deberá informar sobre las resoluciones adoptadas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando se trate de personas hablantes de lenguas indígenas o de Lengua de Señas Mexicana o regional, la atención deberá prestarse asegurando que la comunicación se lleve a cabo en su propia lengua.
+
+### CAPÍTULO III. Estrategia Nacional de Movilidad y Seguridad Vial
 
 ###### Artículo 47.
 
-La Comisión realizará un análisis de los informes individuales, en su caso, de los informes específicos, y del Informe de Resultados. A juicio de la Comisión, se podrá solicitar a las Comisiones Permanentes del Congreso una opinión sobre aspectos o contenidos específicos de dichos informes.
+Modernización del parque vehicular.
 
-El análisis de la Comisión podrá incorporar aquellas sugerencias que juzgue conveniente y que haya hecho el Órgano Superior de Fiscalización del Estado de Oaxaca, para modificar disposiciones legales que pretendan mejorar la gestión financiera y el desempeño de las entidades fiscalizadas.
+A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros de tránsito, las autoridades competentes podrán promover mecanismos y programas para la renovación del parque vehicular de prestadores del servicio de transporte público de pasajeros y de carga.
+
+Las autoridades competentes podrán establecer los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de los sistemas de transporte, además de implementar las medidas necesarias para fomentar la renovación.
+
+#### Sección Tercera. De los Instrumentos de Política Pública de Movilidad y Seguridad Vial del Tránsito
 
 ###### Artículo 48.
 
-En aquellos casos en que la Comisión detecte errores en el Informe de Resultados o bien, considere necesario aclarar o profundizar el contenido del mismo, podrá solicitar al Órgano Superior de Fiscalización del Estado de Oaxaca la entrega por escrito de las explicaciones pertinentes, así como la comparecencia del Titular y de otros servidores públicos de la misma, las ocasiones que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura del Informe de Resultados.
+Modalidades a la circulación de vehículos.
 
-La Comisión podrá formular recomendaciones al Órgano Superior de Fiscalización del Estado de Oaxaca, las cuales serán incluidas en las conclusiones sobre el Informe de Resultados.
+Las autoridades competentes podrán regular y ordenar la circulación de vehículos mediante el establecimiento de modalidades al flujo vehicular en días, horarios y vías, cuando así lo estimen pertinente, con objeto de mejorar las condiciones ambientales, de salud y de seguridad vial en puntos críticos o derivado de la realización de otras actividades públicas.
+
+La regulación y ordenamiento de la circulación se podrán aplicar considerando el impacto vial y ambiental de cada tipo de vehículo, dando preferencia a vehículos eficientes, sin que ello implique tramitar la expedición de permisos adicionales para la movilidad de bienes y mercancías.
+
+Para efectos del párrafo anterior, las autoridades de los tres órdenes de gobierno deberán reconocer los permisos otorgados por éstas para suministrar los servicios de transporte.
 
 ###### Artículo 49.
 
-La Comisión someterá a votación del Pleno el dictamen correspondiente a más tardar antes de la conclusión del segundo periodo ordinario de sesiones del año siguiente al de la presentación de la Cuenta Pública.
+Medidas mínimas de tránsito.
 
-La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría, mismas que seguirán el procedimiento previsto en la presente Ley y el Código.
+La Federación, las entidades federativas y los municipios deberán incluir en sus reglamentos de tránsito disposiciones respecto de las medidas mínimas de tránsito, así como su aplicación y supervisión de éstas, atendiendo y salvaguardando la seguridad, protegiendo la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible.
 
-El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe de Resultados y recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
+Las autoridades de los tres órdenes de gobierno establecerán, en su normativa aplicable, las sanciones correspondientes a quienes infrinjan las medidas mínimas establecidas en el presente artículo.
 
-### Capítulo VI. De la revisión de las situaciones excepcionales
+Por lo anterior los reglamentos de tránsitos y demás normatividades aplicables tendrán que regirse bajo las siguientes características mínimas:
+
+I. Que las personas conductoras cuenten con licencia o permiso de conducir vigente, la cual deberá ser la adecuada para el tipo de vehículo que se pretenda operar;
+
+II. La preferencia del paso de personas peatonas en el cruce de vías públicas de acuerdo con el diseño y funcionalidad de éstas, de conformidad con la jerarquía de la movilidad;
+
+III. El establecimiento de límites de velocidad con base en evidencia científica de carácter nacional o internacional, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias; por lo que las velocidades máximas no deberán rebasar las siguientes:
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+a) 20 km/h en zonas de hospitales, asilos, albergues y casas hogar.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+b) 20 km/h en zonas y entornos escolares en vías secundarias y calles terciarias; y hasta 30 km/h en zonas y entornos escolares en vías primarias y carreteras.
+
+c) 30 km/h en calles secundarias y calles terciarias.
+
+d) 50 km/h en avenidas primarias sin acceso controlado.
+
+e) 80 km/h en carriles centrales de avenidas de acceso controlado.
+
+f) 80 km/h en carreteras estatales fuera de zonas urbanas; 50 km/h dentro de zonas urbanas.
+
+g) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción federal.
+
+h) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
+
+IV. La utilización del cinturón de seguridad de forma obligatoria para todos los pasajeros de vehículos motorizados, de acuerdo con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
+
+V. El uso de tecnologías como medio auxiliar para la prevención y captación de infracciones a fin de prevenir y mitigar factores de riesgo que atenten contra la integridad, dignidad o libertad de las personas;
+
+VI. Que cualquier persona menor de doce años o que por su constitución física lo requiera, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
+
+VII. El uso de sistemas de sujeción para sillas de ruedas en el transporte público;
+
+VIII. Que todos los vehículos motorizados cuenten con los estándares establecidos en la Norma Oficial Mexicana aplicable;
+
+IX. El uso obligatorio de casco para personas conductoras y pasajeros de motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia;
+
+X. La prohibición de hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, así como leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice mediante tecnología de manos libres;
+
+XI. En el caso de que sea necesaria la utilización de dispositivos electrónicos o de comunicación para la prestación del servicio de transporte, el teléfono celular o cualquier otro tipo de dispositivo electrónico deberá estar debidamente colocado en un sujetador que facilite su manipulación y que no obstaculice la visibilidad al conducir;
+
+XII. La obligación de las entidades federativas y los municipios de realizar pruebas de alcoholemia de manera permanente con el objetivo de evitar la conducción de cualquier tipo de vehículos bajo el efecto del alcohol. Para tal efecto queda prohibido conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, salvo las siguientes consideraciones:
+
+a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre.
+
+b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
+
+La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud Federal;
+
+XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas y demás leyes aplicables, y
+
+XIV. Medidas para la prevención y mitigación de factores de riesgo.
+
+Las entidades federativas y municipios podrán prever en los convenios de coordinación metropolitana, la armonización de los reglamentos aplicables.
+
+Las autoridades evaluarán la medida y proporcionalidad de las sanciones de tránsito que se establezcan.
+
+### CAPÍTULO IV. Sistema de Información Territorial y Urbano
+
+#### Sección Primera. Movilidad y Seguridad Vial dentro del Sistema de Información Territorial y Urbano
 
 ###### Artículo 50.
 
-Para los efectos de lo previsto en el párrafo segundo de la fracción I, del artículo 65 BIS de la Constitución Local, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley, el Órgano Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
+Dispositivos de diseño, control y seguridad del tránsito.
 
-En ese tenor, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá acompañar al requerimiento los documentos o evidencias presentados por los denunciantes al enviar el requerimiento antes mencionado a las entidades fiscalizables. Las denuncias podrán presentarse ante el Congreso, la Comisión o directamente en el Órgano Superior de Fiscalización del Estado de Oaxaca.
-
-Con base en el informe de situación excepcional, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá, en su caso, fincar las responsabilidades que procedan en términos de la presente ley o promover otras responsabilidades ante las autoridades competentes.
+Las autoridades competentes de los tres órdenes de gobierno, en las regulaciones que se emitan sobre el diseño vial seguro, establecerán la utilización de dispositivos de control del tránsito y dispositivos de seguridad vial de manera progresiva, acordes a la evidencia internacional, con el objeto de establecer estándares nacionales.
 
 ###### Artículo 51.
 
-Se entenderá por situaciones excepcionales aquellos casos en los cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
+De la acreditación y obtención de licencias y permisos de conducir.
 
-I. Desvío de recursos hacia fines distintos a los autorizados;
+La Federación, las entidades federativas y los municipios, establecerán en su normativa aplicable que todas las personas que realicen el trámite para obtener o renovar una licencia o permiso de conducir, deberán acreditar el examen de valoración integral que demuestre su aptitud para ello, así como el examen teórico y práctico de conocimientos y habilidades necesarias, antes de la fecha de expedición o renovación de la licencia o permiso. Asimismo, podrán establecer que las licencias no tengan una vigencia mayor a cinco años de forma general y de dos años en el caso de licencias para la conducción de vehículos de emergencia, incluyendo aquellos para actividades de atención médica o policiaca y vehículos de transporte escolar.
 
-II. Irregularidades en la captación o en el manejo y utilización de los recursos públicos;
+Para personas con discapacidad, el examen de valoración deberá realizarse en formatos accesibles, para lo cual las autoridades competentes deberán emitir los lineamientos respectivos.
 
-III. Actos presuntamente irregulares en la contratación y ejecución de obras, contratación y prestación de servicios públicos, adquisición de bienes, y otorgamiento de permisos, licencias y concesiones entre otros;
-
-IV. La Comisión recurrente de irregularidades en el ejercicio de los recursos públicos;
-
-V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio; y
-
-VI. Cuando se presuma la comisión de un delito relacionado con el ejercicio de los recursos públicos.
-
-El Órgano Superior de Fiscalización del Estado de Oaxaca informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+Las autoridades competentes establecerán en sus respectivos reglamentos de tránsito que a las personas que sean sorprendidas manejando bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente, se les retire la licencia o permiso para conducir por un periodo no menor a un año y por un periodo no menor a seis meses en caso de conductores de transporte público o transporte de carga.
 
 ###### Artículo 52.
 
-Las denuncias que se presenten deberán estar sustentadas con documentos y evidencias que presenten y en su caso se anuncien, mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, en los supuestos establecidos en esta Ley.
+Regulación para la emisión de acreditación y obtención de licencias y permisos de conducir.
 
-El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
+La Federación, las entidades federativas y los municipios, emitirán las disposiciones que regulen lo siguiente:
 
-I. El ejercicio en que se presentan los presuntos hechos irregulares; y,
+I. Contenidos de los exámenes de valoración integral teórico y práctico de conocimientos y habilidades necesarias, atendiendo a los diferentes tipos de licencias y permisos, así como los requisitos de emisión y renovación;
 
-II. Descripción de los presuntos hechos irregulares.
+II. Protocolos para realizar los exámenes, así como para su evaluación;
 
-Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. El Órgano Superior de Fiscalización del Estado de Oaxaca deberá proteger en todo momento la identidad del denunciante.
+III. Un apartado específico con los requisitos que garantizan que las personas con discapacidad pueden obtener su licencia en igualdad de condiciones, y
+
+IV. Las licencias que expidan las autoridades competentes podrán ser impresas en material plástico o de forma digital, mediante aplicaciones tecnológicas, mismas que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate y tendrán plena validez en territorio nacional.
 
 ###### Artículo 53.
 
-El Titular del Órgano Superior de Fiscalización del Estado de Oaxaca, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de dicho órgano, autorizará, en su caso, la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
+Del registro e información de la atención médica prehospitalaria.
+
+Las autoridades responsables de la atención médica prehospitalaria deberán registrar e informar mensualmente a las respectivas plataformas, la fecha y hora de recepción de cada llamada de emergencia en la materia; la fecha y hora de arribo al sitio del siniestro de tránsito; la cinemática del trauma; el número de víctimas involucradas y las características de las lesiones, de acuerdo con los lineamientos que al respecto emitan las autoridades competentes.
+
+La información y registros generados en relación con la atención médica prehospitalaria estarán disponibles en el Sistema de Información Territorial y Urbano garantizando la protección de la información que corresponda, en términos de lo establecido en las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable.
 
 ###### Artículo 54.
 
-Las entidades fiscalizadas estarán obligadas a proporcionar la información que les solicite el Órgano Superior de Fiscalización del Estado de Oaxaca, dentro de los plazos que para tal efecto les fije.
+De los estándares de vehículos nuevos.
+
+Los vehículos nuevos que se comercialicen en el territorio nacional deberán cumplir con los dispositivos, sistemas y estándares de seguridad que se establezcan en las Normas Oficiales Mexicanas correspondientes, de acuerdo con lo establecido en la Ley de Infraestructura de la Calidad, tomando como base los criterios internacionales en la materia. La regulación técnica que para tal efecto se emita, deberá contener las especificaciones relativas a los dispositivos, sistemas y estándares de seguridad que se deberán incorporar en los vehículos nuevos, la cual deberá establecerse de acuerdo con los estándares, recomendaciones y mejores prácticas internacionales.
+
+La autoridad competente promoverá que en las Normas Oficiales Mexicanas se incluyan mecanismos para garantizar la seguridad de las personas usuarias de las vías, enfatizando en la seguridad de quienes son más vulnerables y deberá tomar en cuenta los principios establecidos en esta Ley, así como los acuerdos y experiencias internacionales relativos a la seguridad de los vehículos, con lo que deben determinarse los riesgos especialmente graves para la seguridad vehicular.
+
+La actualización de los dispositivos, sistemas y estándares de seguridad en los vehículos nuevos que se comercialicen en territorio mexicano se regirán de acuerdo con las Normas Oficiales Mexicanas correspondientes, con el fin de responder a los avances tecnológicos en seguridad vehicular que demuestren salvar vidas y reducir lesiones graves a nivel internacional.
+
+Las autoridades competentes, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes, deberán establecer un sistema de evaluación de vehículos nuevos, independiente de fabricantes y concesionarios. Asimismo, las Normas Oficiales Mexicanas establecerán los requisitos de información que los fabricantes, importadores y personas concesionarias de vehículos nuevos deberán dar a conocer respecto del desempeño de protección y la seguridad de los vehículos, con un sistema de información de fácil comprensión.
+
+Las autoridades federales y de las entidades federativas, en el ámbito de sus competencias, deberán verificar la seguridad de los vehículos nuevos y en circulación, de acuerdo con las disposiciones normativas vigentes y aplicables.
+
+#### Sección Cuarta. De los Instrumentos en materia de Movilidad y Seguridad Vial en la Gestión de la Demanda
 
 ###### Artículo 55.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca tendrá las atribuciones señaladas en esta Ley para la realización de las auditorías a que se refiere este Capítulo.
+Gestión de la demanda de movilidad.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca, deberá reportar en los informes correspondientes, el estado que guarden las observaciones, detallando las acciones relativas a dichas auditorías, así como la relación que contenga la totalidad de denuncias recibidas.
+La gestión de la demanda de movilidad busca reducir el uso de modos de transporte de carga y pasajeros menos eficientes y fomentar los más sustentables y seguros. Las autoridades federales, de las entidades federativas y municipales y de las demarcaciones territoriales de la Ciudad de México, deberán implementar medidas enfocadas en reducir emisiones y demás externalidades negativas previstas en esta Ley y la Ley General de Cambio Climático.
 
 ###### Artículo 56.
 
-De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, el Órgano Superior de Fiscalización del Estado de Oaxaca rendirá un informe al Congreso, a más tardar a los 10 días hábiles posteriores a la conclusión de la auditoría. Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas y penales a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
+Zonas y tramos de vía de gestión de la demanda de movilidad.
+
+Las zonas de gestión de la demanda son polígonos en los que se regula el flujo de vehículos motorizados en función de sus emisiones contaminantes o tamaño, mediante sistemas de control vial y regulación del tránsito, a fin de disminuir el uso y el impacto social y ambiental negativo que implica su circulación.
+
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el marco de sus facultades, podrán implementar zonas de tránsito controlado en zonas de alta demanda de viajes de las ciudades, a fin de priorizar la gestión de la seguridad vial, la movilidad peatonal, ciclista y de transporte colectivo, reducir el volumen vehicular o los vehículos con mayor impacto ambiental y de riesgo vial, mediante las disposiciones que para tal efecto emita la autoridad competente.
+
+Se podrán implementar sistemas de control vial y regulación del tránsito, usando cámaras y lectores digitales de placas o lectura visual, por parte de agentes públicos u operadores privados en los términos que se establezcan en la normatividad aplicable.
+
+Lo establecido en la presente disposición se realizará sin perjuicio de la productividad, competitividad y el mantenimiento de la regularidad de la vida cotidiana de los centros de población de conformidad con lo dispuesto en esta Ley.
 
 ###### Artículo 57.
 
-Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
+Instrumentos económicos y financieros en materia de movilidad y seguridad vial.
 
-## TÍTULO TERCERO. De la Determinación de Daños y Perjuicios y del Fincamiento de Responsabilidades
+La Federación, entidades federativas y municipios y las demarcaciones territoriales de la Ciudad de México de conformidad con lo establecido en las leyes en la materia y en el ámbito de sus facultades, podrán considerar la implementación de los instrumentos económicos y financieros, públicos y privados, de carácter nacional o internacional necesarios para mejorar la eficiencia y equidad en el acceso de los sistemas de movilidad, la renovación vehicular, la gestión de la seguridad vial y la sostenibilidad.
 
-### Capítulo I. De la Determinación de Daños y Perjuicios contra la Hacienda Pública Estatal, Municipal o al patrimonio de los entes públicos
+## TÍTULO TERCERO. De la Distribución de Competencias
+
+### CAPÍTULO V. Planeación y Programación de la Movilidad y la Seguridad Vial
+
+#### Sección Primera. Política de Movilidad y Seguridad Vial
 
 ###### Artículo 58.
 
-Si de la fiscalización que realice el Órgano Superior de Fiscalización del Estado de Oaxaca se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, el Órgano Superior de Fiscalización del Estado de Oaxaca procederá a:
+Impacto a la movilidad y a la seguridad vial.
 
-I. Promover ante el Tribunal, en los términos de Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México en sus respectivas disposiciones normativas, preverán la elaboración de estudios de evaluación del impacto en la movilidad y la seguridad vial, lo cual tendrá por objeto analizar y evaluar las posibles influencias o alteraciones generadas por la realización de obras y actividades privadas y públicas, sobre los desplazamientos de las personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida, la accesibilidad, la competitividad, y los demás aspectos previstos en esta Ley.
 
-II. Determinar en su caso la existencia de daños, perjuicios, o ambos, a la Hacienda Pública Estatal y Municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades Administrativas del Estado y sus Municipios;
-
-III. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada, por los probables delitos que se detecten derivado de sus auditorías; y,
-
-IV. Coadyuvar con la Fiscalía Especializada en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la Fiscalía Especializada recabará previamente la opinión del Órgano Superior de Fiscalización del Estado de Oaxaca, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
-
-Previamente a que la Fiscalía Especializada determine declinar su competencia, abstenerse de investigar los hechos denunciados, archivar temporalmente las investigaciones o decretar el no ejercicio de la acción penal, deberá hacerlo del conocimiento el Órgano Superior de Fiscalización del Estado de Oaxaca para que exponga las consideraciones que estime convenientes.
-
-El Órgano Superior de Fiscalización del Estado de Oaxaca podrá impugnar ante la autoridad competente las omisiones de la Fiscalía Especializada en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
-
-Las denuncias penales de hechos presuntamente ilícitos deberán presentarse por parte del Órgano Superior de Fiscalización del Estado de Oaxaca cuando se cuente con los elementos que establezcan las leyes en dichas materias.
-
-Las resoluciones del Tribunal podrán ser recurridas por el Órgano Superior de Fiscalización del Estado de Oaxaca, cuando lo considere pertinente, conforme a lo dispuesto en la legislación aplicable.
+#### Sección Quinta. Instrumentos financieros
 
 ###### Artículo 59.
 
-La promoción del procedimiento a que se refiere la fracción I del artículo anterior, tienen por objeto resarcir el monto de los daños y perjuicios estimables en dinero que se hayan causado a la Hacienda Pública Estatal, Municipal o, en su caso, al patrimonio de los entes públicos.
+Instrumentos de financiamiento.
 
-Lo anterior, sin perjuicio de las demás sanciones administrativas que, en su caso, el Tribunal imponga a los responsables.
-
-Las sanciones que imponga el Tribunal se fincarán independientemente de las demás sanciones a que se refiere el artículo anterior que, en su caso, impongan las autoridades competentes.
+Serán instrumentos de financiamiento público los programas, acciones y proyectos de inversión relacionados con la movilidad y la seguridad vial que desarrollen las autoridades competentes de los tres órdenes de gobierno.
 
 ###### Artículo 60.
 
-La unidad administrativa del Órgano Superior de Fiscalización del Estado de Oaxaca a cargo de las investigaciones promoverá el informe de presunta responsabilidad administrativa y, en su caso, penales a los servidores públicos del Órgano Superior de Fiscalización del Estado de Oaxaca, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información en los casos previstos en esta Ley.
+Priorización de las acciones y recursos en materia de movilidad y seguridad vial.
+
+Los programas, acciones y proyectos de infraestructura relacionados con la movilidad y la seguridad vial se enfocarán prioritariamente en lo siguiente:
+
+I. Implementar mejoras a la infraestructura para la movilidad no motorizada y peatonal, así como efectuar acciones para la integración y fortalecimiento del servicio de transporte público, de los municipios y demarcaciones territoriales de la Ciudad de México, con el fin de promover su uso y cumplir con el objeto de esta Ley;
+
+II. La mejora de la infraestructura para la movilidad, servicios auxiliares y el transporte que promuevan el diseño universal y la seguridad vial;
+
+III. Desarrollar políticas para reducir siniestros de tránsito, así como proyectos estratégicos de infraestructura para la movilidad y seguridad vial, priorizando aquellos enfocados en proteger la vida e integridad de las personas usuarias de las vías, donde se considere los factores de riesgo;
+
+IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al fortalecimiento y a mejorar las condiciones del transporte público, su integración con el territorio, así como la distribución eficiente de bienes y mercancías;
+
+V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos;
+
+VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial, y
+
+VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos conforme a la jerarquía de la movilidad.
 
 ###### Artículo 61.
 
-Las responsabilidades que se finquen a los servidores públicos de los entes públicos y del Órgano Superior de Fiscalización del Estado de Oaxaca, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
+Programas federales de inversión.
+
+Las dependencias y entidades de la Administración Pública Federal incorporarán en la ejecución de sus programas de inversión y obras de infraestructura para la movilidad, los principios y las políticas establecidas en esta Ley.
+
+#### Sección Sexta. De la sensibilización, educación y formación en materia de movilidad y seguridad vial
 
 ###### Artículo 62.
 
-La unidad administrativa a cargo de las investigaciones del Órgano Superior de Fiscalización del Estado de Oaxaca promoverá el informe de presunta responsabilidad administrativa ante la unidad del propio Órgano encargada de fungir como autoridad substanciadora, cuando los pliegos de observaciones no sean solventados por las entidades fiscalizadas.
+De la sensibilización, educación y formación.
 
-Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, diseñarán, implementarán, ejecutarán, evaluarán y darán seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías.
 
-El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte del Tribunal, se regirá por lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+Para el cumplimiento de lo anterior, se promoverá la participación de personas especialistas y la academia en el diseño e implementación de programas, campañas y acciones en materia de educación vial, movilidad, y perspectiva de género que generen el desarrollo de políticas sostenibles e incluyentes con especial atención a los grupos en situación de vulnerabilidad, orientadas al peatón, la bicicleta, al transporte público y al uso racional del automóvil particular.
 
 ###### Artículo 63.
 
-De conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la unidad administrativa del Órgano Superior de Fiscalización del Estado de Oaxaca a la que se le encomiende la substanciación ante el Tribunal, deberá ser distinta de la que se encargue de las labores de investigación.
+De la sensibilización.
 
-Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca, deberá contener una unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca le confiere a las autoridades investigadoras; así como una unidad que ejercerá las atribuciones que la citada Ley otorga a las autoridades substanciadoras. Los titulares de las unidades referidas deberán cumplir para su designación con los requisitos que se prevén esta Ley.
+La sensibilización en materia de movilidad y seguridad vial tiene como objetivo transmitir información a la población, en formatos accesibles y pertinencia intercultural y lingüística, con el fin de concientizarla sobre el uso de la vía, así como las acciones de prevención de siniestros y demás problemas que se generan en ésta.
+
+Las políticas, programas, campañas y acciones de sensibilización sobre movilidad y seguridad vial deberán observar los siguientes criterios:
+
+I. Mensajes sustentados en evidencia científica y territorial;
+
+II. Explicación de las causas y consecuencias en materia de movilidad y seguridad vial;
+
+III. Adopción de prácticas que propicien un ambiente seguro para la movilidad activa y no motorizada;
+
+IV. Respeto entre las personas usuarias de la vía y hacia los elementos de policía de tránsito y prestadores de servicio de transporte público de pasajeros, y
+
+V. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad.
 
 ###### Artículo 64.
 
-Los órganos internos de control deberán informar al Órgano Superior de Fiscalización del Estado de Oaxaca, dentro de los treinta días hábiles siguientes de recibido el informe de presunta responsabilidad administrativa, el número de expediente con el que se inició la investigación o procedimiento respectivo.
+De la educación.
 
-Asimismo, los órganos internos de control deberán informar al Órgano Superior de Fiscalización del Estado de Oaxaca de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se emita dicha resolución.
+La educación en materia de movilidad y seguridad vial tiene como objetivo transmitir una serie de conocimientos que todas las personas usuarias de la vía deben incorporar al momento de transitar por ésta, la cual deberá ser con perspectiva interseccional.
+
+Las políticas, programas, campañas y acciones de educación en materia de movilidad y seguridad vial deberán observar los siguientes criterios:
+
+I. Desarrollar contenidos sobre los factores de riesgo en la movilidad y seguridad vial;
+
+II. Concientizar, especialmente a los conductores de vehículos motorizados, del conocimiento y respeto por las normas de tránsito y dispositivos para el control del tránsito vial por parte de todas las personas usuarias de la vía;
+
+III. Priorizar el uso de la infraestructura para la movilidad conforme a la jerarquía de la movilidad establecida en esta Ley;
+
+IV. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a las niñas, adolescentes y mujeres en la vía pública, con el fin de prevenir y erradicar las violencias de género en sus desplazamientos por las vías;
+
+V. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a las personas con discapacidad y con movilidad limitada;
+
+VI. Adoptar desplazamientos sustentables y seguros promoviendo la movilidad activa y no motorizada;
+
+VII. Fomentar el cumplimiento de los programas de verificación y protección al medio ambiente, y
+
+VIII. Promover la participación ciudadana, de manera igualitaria e incluyente, involucrando activamente a la población en el mejoramiento de su entorno social.
 
 ###### Artículo 65.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca, en los términos de la Ley del Sistema Estatal de Combate a la Corrupción, incluirá en la plataforma estatal digital, la información relativa a los servidores públicos y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas a que hace referencia el presente Capítulo.
+De la formación.
 
-### Capítulo II. Del Recurso de Reconsideración
+La formación en materia de movilidad y seguridad vial implica que el personal técnico y/o profesional cuenta con capacitación en dichas materias, así como en perspectiva de género y necesidades de los grupos en situación de vulnerabilidad.
+
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas atribuciones, promoverán acciones y mecanismos en coordinación con las dependencias y entidades competentes, las concesionarias, las permisionarias, los sectores privado y social, para que el personal técnico y/o profesional en materia de movilidad y seguridad vial acredite su capacidad técnica y operativa.
+
+### CAPÍTULO I. De la Distribución de Competencias y Coordinación
 
 ###### Artículo 66.
 
-La tramitación del recurso de reconsideración, en contra de las multas impuestas por el Órgano Superior de Fiscalización del Estado de Oaxaca, se sujetará a las disposiciones siguientes:
+De la Federación.
 
-I. Se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá:
+Corresponde a la Federación, en las respectivas atribuciones de sus dependencias:
 
-a) La mención de la autoridad administrativa que impuso la multa;
+I. Promover, regular, coordinar, conducir y evaluar la política y gestión en materia de movilidad y seguridad del orden federal, de acuerdo con sus objetivos, metas, estrategias y acciones;
 
-b) El nombre y firma autógrafa del recurrente;
+II. Celebrar convenios de coordinación y concertación con las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en materia de la presente Ley;
 
-c) El domicilio que señala para oír y recibir notificaciones;
+III. Promover la difusión sobre los factores de riesgo y la prevención en materia de seguridad vial;
 
-d) La multa que se recurre y la fecha en que se le notificó;
+IV. Promover que las políticas y acciones relacionadas con la movilidad y seguridad vial que las dependencias y entidades de la Administración Pública Federal ejecuten en coordinación con los gobiernos de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, así como con los sectores social y privado, cumplan con el objetivo establecido en la presente Ley y en el Plan Nacional de Desarrollo;
 
-e) Los agravios que a juicio de la entidad fiscalizada y, en su caso, de los servidores públicos, o del particular, persona física o moral, les cause la sanción impugnada.
+V. Promover que la construcción de obras de infraestructura y equipamiento para la movilidad urbana, interurbana, rural e insular; así como la construcción, mejoramiento y conservación de las vías generales de comunicación, se ejecuten de acuerdo con los principios y jerarquía de la movilidad establecidos en la presente Ley;
 
-f) Asimismo, se acompañará copia de la resolución impugnada y de la constancia de notificación respectiva; y
+VI. Proponer los mecanismos de financiamiento necesarios en materia de movilidad y seguridad vial;
 
-g) Anexar las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con la sanción recurrida.
+VII. La expedición de las Normas Oficiales Mexicanas y la vigilancia de su cumplimiento en las materias de movilidad y seguridad vial, y
 
-Cuando no se cumpla con alguno de los requisitos establecidos en este artículo para la presentación del recurso de reconsideración, el Órgano Superior de Fiscalización del Estado de Oaxaca prevendrá por una sola vez al inconforme para que, en un plazo de cinco días naturales, subsane la irregularidad en que hubiere incurrido en su presentación.
-
-II. Una vez desahogada la prevención que corresponda y que en su caso proceda, el Órgano Superior de Fiscalización del Estado de Oaxaca, en un plazo que no excederá de quince días naturales, acordará sobre la admisión o el desechamiento del recurso. En este último caso, cuando se ubique en los siguientes supuestos:
-
-a) Se presente fuera del plazo señalado;
-
-b) El escrito de impugnación no se encuentre firmado por el recurrente;
-
-c) Los actos impugnados no afecten los intereses jurídicos del promovente;
-
-d) No se exprese agravio alguno; o
-
-e) Si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida;
-
-III. El Órgano Superior de Fiscalización del Estado de Oaxaca al acordar sobre la admisión de las pruebas documentales y supervenientes ofrecidas, desechará de plano las que no fueren ofrecidas conforme a derecho y las que sean contrarias a la moral o al derecho; y,
-
-IV. Desahogadas las pruebas, si las hubiere, el Órgano Superior de Fiscalización del Estado de Oaxaca examinará todos y cada uno de los agravios hechos valer por el recurrente y emitirá resolución dentro de los sesenta días naturales siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los veinte días naturales siguientes a su emisión.
-
-El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, el Órgano Superior de Fiscalización del Estado de Oaxaca lo sobreseerá sin mayor trámite.
+VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 67.
 
-La resolución que ponga fin al recurso tendrá por efecto confirmar, modificar o revocar la multa impugnada.
+De las Entidades Federativas.
+
+Corresponde a las entidades federativas:
+
+I. Integrar el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 7 del presente ordenamiento;
+
+II. Gestionar la seguridad vial y la movilidad urbana, interurbana, rural e insular, en el ámbito de su competencia, con base en lo establecido en esta Ley y demás disposiciones legales en la materia;
+
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+IV. Participar con las autoridades federales, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los Convenios de Coordinación Metropolitanos, en los términos previstos en esta Ley y demás disposiciones legales aplicables;
+
+V. Armonizar los programas de ordenamiento territorial que le competen con lo dispuesto en ésta y otras leyes aplicables;
+
+VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, para la implementación de acciones específicas, obras e inversiones en la materia;
+
+VII. Desarrollar estrategias, programas y proyectos para la movilidad y la seguridad vial, con prioridad en el uso del transporte público y los modos no motorizados;
+
+VIII. Asignar, gestionar y administrar recursos públicos, en coordinación con los municipios y las demarcaciones territoriales de la Ciudad de México, bajo los criterios de la presente Ley, para implementar acciones y proyectos en materia de movilidad y seguridad vial, infraestructura, servicios auxiliares y transporte;
+
+IX. Establecer la reglamentación para los estudios de impacto de movilidad y seguridad vial con perspectiva de género;
+
+X. Impulsar la consolidación de los sistemas de movilidad en los centros de población;
+
+XI. Otorgar licencias y permisos para conducir, en las modalidades de su competencia, para el transporte de pasajeros, de carga y de uso particular, así como el registro para que los vehículos circulen conforme a las leyes y reglamentos correspondientes bajo los criterios de la presente Ley;
+
+XII. Establecer, con base en los estudios correspondientes, las tarifas del servicio público de transporte de pasajeros, así como los servicios auxiliares;
+
+XIII. Establecer los acuerdos y medidas necesarias para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público, mercantil y privado de transporte de pasajeros y de carga, de conformidad con la legislación aplicable;
+
+XIV. Incentivar la circulación de vehículos eficientes ambientalmente, establecer el marco normativo y programas correspondientes para su adecuada operación; así como la implementación de su infraestructura vial y equipamiento necesario, en coordinación con las autoridades competentes;
+
+XV. Expedir las normas y lineamientos que deberán cumplir los vehículos motorizados que cuenten con registro en la entidad federativa, en materia de protección al medio ambiente;
+
+XVI. Armonizar las leyes o los reglamentos de tránsito aplicables en su territorio, con lo establecido en la presente Ley;
+
+XVII. Diseñar e implementar, de manera conjunta con las entidades federativas colindantes, mecanismos de coordinación para el cobro de infracciones de tránsito;
+
+XVIII. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore al Sistema de Información Territorial y Urbano a los que se refiere esta Ley;
+
+XIX. Realizar los operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Sistema Nacional;
+
+XX. Instrumentar y articular, en concordancia con la política nacional, las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
+
+XXI. Fortalecer el transporte público de pasajeros, individual y colectivo, para la inclusión de los grupos en situación de vulnerabilidad, destinándoles lugares exclusivos;
+
+XXII. Establecer medidas de accesibilidad, inclusión y condiciones de diseño universal para las personas con discapacidad y con movilidad limitada, así como otros grupos en situación de vulnerabilidad, dentro de los servicios de transporte público de pasajeros individual y colectivo, para garantizar su desplazamiento seguro en las vías, y
+
+XXIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 68.
 
-La interposición del recurso suspenderá la ejecución de la multa recurrida, siempre y cuando el recurrente garantice en cualquiera de las formas establecidas por la Ley aplicable el pago de la multa.
+De los municipios.
+
+Corresponde a los municipios las siguientes atribuciones:
+
+I. Participar en el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 7 del presente ordenamiento y los lineamientos que establezca el Sistema Nacional;
+
+II. Formular, aprobar, administrar y ejecutar los programas municipales en materia de movilidad y seguridad vial, conforme a lo establecido en el Plan Nacional de Desarrollo, la Estrategia Nacional, los programas de la entidad federativa correspondiente y los Convenios de Coordinación Metropolitanos; así como conducir, evaluar y vigilar la política conforme a lo establecido por esta Ley, sus principios y jerarquía de la movilidad;
+
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+IV. Participar con las autoridades federales, de las entidades federativas y de otros municipios en la planeación, regulación, instrumentación e implementación de los Convenios de Coordinación Metropolitanos;
+
+V. Constituir las instancias locales y de coordinación metropolitana para la implementación de acciones integrales, acciones afirmativas transversales en materia de movilidad, en apego a esta Ley y demás disposiciones legales;
+
+VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México para la implementación de acciones específicas, obras e inversiones en la materia, así como aquellas que prioricen la movilidad de los grupos en situación de vulnerabilidad;
+
+VII. Facilitar y participar en los sistemas de movilidad de las entidades federativas, en los términos que establece esta Ley, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen;
+
+VIII. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados;
+
+IX. Asignar, gestionar y administrar recursos para apoyar e implementar acciones y proyectos en materia de movilidad, su infraestructura, servicios auxiliares, operación y capacitación de las personas operadoras, transporte y seguridad vial, promoviendo una mejor utilización de las vías conforme a la jerarquía de la movilidad;
+
+X. Establecer los mecanismos necesarios para mejorar la seguridad vial, de conformidad con la jerarquía de la movilidad y sus necesidades;
+
+XI. Realizar estudios para el diseño, modificación y adecuación de las vías en los centros de población, de conformidad con lo establecido en esta Ley y las necesidades territoriales;
+
+XII. Implementar dispositivos para el control del tránsito que deban ser utilizados en los centros de población de su competencia;
+
+XIII. Establecer la categoría, sentidos de circulación, señalética y demás características de las vías en su territorio;
+
+XIV. Expedir las autorizaciones, licencias o permisos para la realización de obras de infraestructura para la movilidad, con estricto apego a las normas jurídicas locales, planes o programas;
+
+XV. Realizar estudios de impacto de movilidad en el ámbito de su competencia, incluyendo criterios de sustentabilidad, perspectiva de género, entre otros que se consideren relevantes;
+
+XVI. Autorizar las áreas de transferencia para el transporte en su territorio;
+
+XVII. Regular el servicio del estacionamiento en vía pública;
+
+XVIII. Impulsar la accesibilidad e inclusión de personas con discapacidad y personas con movilidad limitada a los servicios públicos de transporte de pasajeros, así como su desplazamiento seguro y efectivo en las vías a través de infraestructura adecuada;
+
+XIX. Mantener, en el ámbito de sus atribuciones, las vías libres de obstáculos y elementos que impidan, dificulten, generen un riesgo u obstaculicen el tránsito peatonal y vehicular, excepto en aquellos casos debidamente autorizados y respetando la jerarquía de la movilidad;
+
+XX. Instrumentar programas y campañas de cultura de la movilidad, que fomenten la prevención de los siniestros de tránsito;
+
+XXI. Implementar programas especiales de seguridad vial en los entornos escolares y puntos de alta afluencia de personas;
+
+XXII. Prever en su legislación aplicable, que los desarrollos inmobiliarios cuenten con el criterio de calle completa;
+
+XXIII. En los municipios insulares, coordinar con las autoridades acciones de movilidad asequible, incluyente, segura y sustentable entre sus municipios y el territorio continental, y
+
+XXIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 69.
 
-Contra las resoluciones que pongan fin al Recurso de Reconsideración establecido en éste Capítulo, procede el Juicio de Inconformidad ante el Tribunal, el que deberá tramitarse en los términos dispuestos en la ley aplicable.
+De las demarcaciones territoriales de la Ciudad de México.
 
-### Capítulo III. De la Prescripción de Responsabilidades
+Corresponde a las demarcaciones territoriales de la Ciudad de México:
+
+I. Participar en el Sistema Nacional, de conformidad con lo establecido en el artículo 7 del presente ordenamiento y los lineamientos que establezca el Sistema Nacional;
+
+II. Promover la elaboración, implementación y evaluación de planes integrales de seguridad vial, en el ámbito de su competencia;
+
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+IV. Promover, en coordinación con las entidades federativas y con otros municipios o demarcaciones territoriales de la Ciudad de México, cursos de capacitación a las personas que atiendan a víctimas de siniestros de tránsito;
+
+V. Coordinarse con otros municipios y demarcaciones territoriales de la Ciudad de México para alcanzar los objetivos y prioridades previstos en los planes o programas en materia de movilidad, y los demás que de éstos deriven;
+
+VI. Evaluar y vigilar el cumplimiento de los planes y programas de su competencia, en materia de movilidad y seguridad vial, y
+
+VII. Las demás previstas para el cumplimiento de la presente Ley.
+
+### CAPÍTULO II. Convenios de Coordinación Metropolitanos
 
 ###### Artículo 70.
 
-La acción para fincar las responsabilidades derivadas de esta Ley e imponer las sanciones por faltas administrativas graves prescribirá en términos de la Ley General de Responsabilidades Administrativas.
+Secretaría de Desarrollo Agrario, Territorial y Urbano.
 
-El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+Corresponden a la Secretaría de Desarrollo Agrario, Territorial y Urbano las siguientes atribuciones:
 
-En todos los casos, la prescripción a que alude este precepto se interrumpirá en los términos establecidos en la Ley General de Responsabilidades Administrativas.
+I. Integrar el Sistema Nacional, de conformidad con lo establecido en el artículo 7 del presente ordenamiento;
+
+II. Diseñar, en conjunto con las dependencias que integren el Sistema Nacional, los instrumentos y mecanismos necesarios para el diagnóstico, información, seguimiento y evaluación de las políticas, programas y acciones de movilidad y seguridad vial en el territorio nacional, de conformidad con lo establecido en la presente Ley;
+
+III. Brindar asesoría técnica a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, para la implementación de obras de infraestructura y equipamiento que cumplan con los requisitos establecidos en el Título Segundo de la presente Ley;
+
+IV. Coordinarse con los gobiernos de las entidades federativas y municipios, a fin de establecer lineamientos de señalización vial, dispositivos de seguridad y diseño en las vías públicas de su competencia;
+
+V. Participar, en coordinación con los integrantes del Sistema Nacional, en la evaluación de las acciones, planes, programas y políticas públicas en materia de movilidad y seguridad vial;
+
+VI. Brindar asesorías y asistencia técnica a los gobiernos de las entidades federativas, de los municipios y demarcaciones territoriales de la Ciudad de México que lo soliciten, para la ejecución y planeación de programas, obras de infraestructura, equipamiento y servicios en materia de movilidad y seguridad vial;
+
+VII. Emitir, en conjunto con las dependencias que integren el Sistema Nacional, los lineamientos técnicos para la realización de las auditorías de seguridad vial, a efecto de proveer de una metodología homologada a nivel nacional;
+
+VIII. Colaborar, con las dependencias federales correspondientes, en el establecimiento de la normatividad en materia de seguridad vehicular e incorporación de dispositivos, atendiendo a las mejores prácticas internacionales en la materia;
+
+IX. Desarrollar, en coordinación con los integrantes del Sistema Nacional, políticas de movilidad, con base en los programas y acciones que emita la Secretaría de Medio Ambiente y Recursos Naturales, que tengan como objetivo evitar el congestionamiento vial y contribuir en la disminución de los índices de contaminación ambiental;
+
+X. Promover e impulsar, en coordinación con los integrantes del Sistema Nacional, el establecimiento de sistemas de transporte público, uso de vehículos no motorizados de transporte y otros medios de alta eficiencia energética y ambiental;
+
+XI. Realizar, en coordinación con los integrantes del Sistema Nacional, estudios, investigaciones y proyectos para la implementación de mecanismos que mejoren los desplazamientos en las vías, el transporte público y la seguridad vial;
+
+XII. Suscribir, en coordinación con los integrantes del Sistema Nacional, convenios de colaboración con instituciones de investigación y educación superior, organismos e instituciones nacionales e internacionales públicas y privadas, a efecto de realizar planes, proyectos, programas de investigación académica, desarrollo tecnológico, transferencia de conocimiento y capacitación en materia de movilidad, transporte y seguridad vial;
+
+XIII. Realizar programas y campañas para fomentar una nueva cultura de movilidad segura y activa a fin de promover la seguridad vial, para lo cual deberá coordinarse con las autoridades correspondientes de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como con otras dependencias y entidades o el sector privado;
+
+XIV. Colaborar, a través del convenio respectivo con la Secretaría de Educación Pública en la incorporación de contenidos relacionados con la movilidad y la seguridad vial dentro de los planes de estudio de todos los niveles educativos, y
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 71.
 
-Las responsabilidades distintas a las mencionadas en el artículo anterior, que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
+Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+Corresponden a la Secretaría de Infraestructura, Comunicaciones y Transportes, las siguientes atribuciones:
+
+I. Integrar el Sistema Nacional, de conformidad con lo establecido en el artículo 7 del presente ordenamiento;
+
+II. Participar, en coordinación con los integrantes del Sistema Nacional, en la realización, manuales y lineamientos técnicos de diseño vial e infraestructura, así como otros en materia de movilidad y seguridad, con el objetivo de homologar las disposiciones a nivel nacional;
+
+III. Diseñar, en conjunto con las dependencias que integren el Sistema Nacional, la Estrategia Nacional;
+
+IV. Impulsar el desarrollo de la movilidad y seguridad vial en la regulación del autotransporte federal;
+
+V. Participar en el diseño de las políticas públicas en materia de movilidad y seguridad vial, educación vial, y en especial, aquellas relacionadas con la regulación del autotransporte federal;
+
+VI. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades federales o estatales en las materias de su competencia, en relación con la movilidad y seguridad vial;
+
+VII. Emitir, en conjunto con las dependencias que integren el Sistema Nacional, los lineamientos técnicos para la realización de las auditorías de seguridad vial, a efecto de proveer de una metodología homologada a nivel nacional;
+
+VIII. Fungir como instancia revisora de las acciones, planes, programas y políticas públicas en materia de seguridad vial que impliquen vías generales de comunicación de conformidad con lo establecido en la Ley de Caminos, Puentes y Autotransporte Federal;
+
+IX. Coordinar la planificación, construcción, mejoramiento y conservación de caminos, puentes y vías férreas de jurisdicción federal que se adentren en los centros de población, con las entidades federativas, los municipios, para el cumplimiento de lo establecido en esta Ley;
+
+X. Coordinar la planificación de rutas e infraestructuras que se adentren a los centros de población en zonas insulares, con las entidades federativas, los municipios, para el cumplimiento de lo establecido en esta Ley;
+
+XI. Realizar los operativos de alcoholimetría, con base en los límites establecidos por la Secretaría de Salud, en las vías de su competencia;
+
+XII. Participar en el sistema de evaluación de vehículos nuevos previsto en el artículo 54 de esta Ley;
+
+XIII. Realizar campañas en materia de prevención de siniestros de tránsito;
+
+XIV. Vigilar el cumplimiento de la regulación de los periodos de trabajo y descanso de las personas conductoras del transporte público y privado de carga y de pasajeros en el ámbito de su competencia, y
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ## TÍTULO CUARTO. De las Funciones del Congreso del Estado en la Fiscalización de la Cuenta Pública
 
-### Capítulo Único. De la Comisión
+### CAPÍTULO III. De la participación social de las entidades federativas, municipios, demarcaciones territoriales y zonas metropolitanas
 
 ###### Artículo 72.
 
-Para los efectos de lo dispuesto en el artículo 59 fracción XXII de la Constitución Local, el Congreso del Estado contará con la Comisión que tendrá las atribuciones de coordinar las relaciones entre aquélla y el Órgano Superior de Fiscalización del Estado de Oaxaca; evaluar el desempeño de esta última; constituir el enlace que permita garantizar la debida coordinación entre ambos órganos, y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
+Secretaría de Seguridad y Protección Ciudadana.
+
+Corresponden a la Secretaría de Seguridad y Protección Ciudadana, las siguientes atribuciones:
+
+I. Remitir al Sistema Nacional la información contenida en el Registro Público Vehicular;
+
+II. Mantener actualizada la información contenida en el Registro Público Vehicular, con el objetivo de coadyuvar al cumplimiento de los principios de la presente Ley;
+
+III. Participar, en el marco de sus competencias, en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades federales o estatales, en relación con la movilidad y seguridad vial;
+
+IV. Participar, en el marco de sus competencias, en la celebración de convenios de coordinación con las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, para la realización de acciones en la materia objeto de esta Ley;
+
+V. Colaborar, en el marco de sus competencias, con las autoridades competentes de los tres órdenes de gobierno, en la prevención de las violencias de género en los sistemas de movilidad, y
+
+VI. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 73.
 
-Son atribuciones de la Comisión:
+Secretaría de Salud.
 
-I. Ser el conducto de comunicación entre el Congreso del Estado y el Órgano Superior de Fiscalización del Estado de Oaxaca;
+Corresponden a la Secretaría de Salud, a través del Secretariado Técnico del Consejo Nacional para la Prevención de Accidentes, las siguientes atribuciones:
 
-II. Recibir de la Mesa Directiva del Congreso del Estado o de la Diputación Permanente, las Cuentas Públicas y turnarla al Órgano Superior de Fiscalización del Estado de Oaxaca;
+I. Elaborar guías de práctica clínica y protocolos que permitan mejorar la calidad de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
 
-III. Dictaminar las Cuentas Públicas y los Informes de Avances de Gestión Financiera, con base en el Informe de Resultados de la Revisión y Fiscalización que formule y entregue el Titular del Órgano Superior de Fiscalización del Estado de Oaxaca a la Comisión;
+II. Elaborar e implementar los programas de capacitación para el personal de salud responsable de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
 
-IV. Analizar el programa anual de fiscalización de la Cuenta Pública del Estado y Municipios y conocer los programas estratégico y anual de actividades que para el debido cumplimiento de sus funciones y atribuciones, elabore el Órgano Superior de Fiscalización del Estado de Oaxaca, así como sus modificaciones, y evaluar su cumplimiento. Con respeto a los procedimientos, alcances, métodos, lineamientos y resoluciones de procedimientos de fiscalización podrá formular observaciones cuando dichos programas omitan áreas relevantes de la Cuenta Pública;
+III. Realizar campañas, en coordinación con el Sistema Nacional, en materia de prevención de siniestros de tránsito, así como evitar manejar bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente;
 
-V. Citar, al Titular del Órgano Superior de Fiscalización del Estado de Oaxaca para conocer en lo específico de los informes individuales y del Informe de Resultados;
+IV. Celebrar convenios de cooperación y coordinación en la materia;
 
-VI. Recibir el proyecto de presupuesto anual del Órgano Superior de Fiscalización del Estado de Oaxaca y turnarlo en sus términos a la Junta de Coordinación Política del Congreso del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal, así como analizar el informe anual de su ejercicio;
+V. Capacitar a quienes realicen las auditorías de seguridad vial y estudios de mejoramiento de sitios con elevada incidencia de siniestros de tránsito, en materias de su competencia;
 
-VII. Evaluar el desempeño del Órgano Superior de Fiscalización del Estado de Oaxaca respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías; proveer lo necesario para garantizar su autonomía presupuestaria, financiera técnica y de gestión y requerir informes sobre la evolución de los trabajos de fiscalización.
+VI. Fijar los límites de alcohol en la sangre y aire expirado, con base en lo establecido en el artículo 49, que deberán ser los referentes en los operativos de alcoholimetría en todo el territorio nacional, y
 
-La evaluación del desempeño tendrá por objeto conocer si el Órgano Superior de Fiscalización del Estado de Oaxaca cumple con las atribuciones que conforme a la Constitución Local y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos Estatales y Municipales que ejerzan;
-
-VIII. Proponer al Pleno del Congreso del Estado el Reglamento Interior de la Unidad Técnica;
-
-IX. Proponer a la Junta de Coordinación Política del Congreso del Estado la contratación o remoción del personal de la Unidad Técnica, misma que auxiliará a la Comisión en el desempeño de sus funciones;
-
-X. Ordenar a la Unidad la práctica de auditorías al Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-XI. Aprobar el programa de actividades de la Unidad Técnica y requerirle todo tipo de información relativa a sus funciones; de igual forma, aprobar políticas, lineamientos y manuales que dicha Unidad requiera para el ejercicio de sus funciones;
-
-XII. Aprobar los indicadores que utilizará la Unidad Técnica para la evaluación del desempeño del Órgano Superior de Fiscalización del Estado de Oaxaca y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto y los indicadores de la Unidad;
-
-XIII. Analizar la información, en materia de fiscalización, contabilidad y auditoría gubernamentales, así como de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos vinculados con los resultados de la fiscalización;
-
-XIV. Emitir la convocatoria, desahogar el procedimiento y presentar al Pleno el dictamen relativo a la terna de aspirantes para ocupar el cargo de Auditor Superior y los Sub Auditores; y,
-
-XV. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
+VII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 74.
 
-La Comisión a través de la Unidad realizará las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño.
+Mecanismos de coordinación y colaboración.
+
+Las atribuciones en materia de movilidad y seguridad vial serán ejercidas de manera concurrente por la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos y esta Ley, así como a través de los mecanismos de coordinación y colaboración que se generen, respetando de manera irrestricta la institucionalidad de cada orden de gobierno.
+
+Para tal efecto, las autoridades en materia de movilidad y seguridad vial, en sus respectivos ámbitos de competencia, serán las siguientes:
+
+I. La Secretaría de Desarrollo Agrario, Territorial y Urbano;
+
+II. La Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+III. La Secretaría de Seguridad y Protección Ciudadana;
+
+IV. La Secretaría de Salud, a través del Secretariado Técnico del Consejo Nacional para la Prevención de Accidentes;
+
+V. La Secretaría de Medio Ambiente y Recursos Naturales;
+
+VI. Las dependencias o entidades competentes de las entidades federativas;
+
+VII. Las dependencias competentes de los municipios y las demarcaciones territoriales de la Ciudad de México, y
+
+VIII. Los institutos de planeación de las entidades federativas, de los municipios y los de carácter metropolitano.
+
+Las atribuciones en materia de esta Ley de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, se ejercerán a través de las dependencias y entidades que señalen sus propios ordenamientos o que sean designadas para tal efecto.
 
 ## TÍTULO QUINTO. Del Órgano Superior de Fiscalización del Estado de Oaxaca
 
@@ -823,135 +1499,65 @@ La Comisión a través de la Unidad realizará las observaciones y las recomenda
 
 ###### Artículo 75.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca del Estado de Oaxaca, es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión, presupuestal y financiera que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales.
+Convenios de coordinación metropolitanos.
+
+En el caso de las zonas metropolitanas que correspondan a una entidad federativa, su planeación y regulación en materia de movilidad y seguridad vial se podrá realizar de manera conjunta y coordinada entre municipios, a través de sus instancias de gobernanza establecidas por la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, mediante convenios de coordinación que para tal efecto se elaboren, con apego a lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 76.
 
-Al frente del Órgano Superior de Fiscalización del Estado de Oaxaca habrá un titular, designado conforme a lo previsto en el artículo 65 BIS de la Constitución Política del Estado Libre y Soberano de Oaxaca, por el voto de las dos terceras partes de los miembros del Congreso del Estado.
+Convenios de coordinación metropolitanos interestatales e intermunicipales.
+
+En el caso de que la zona metropolitana, delimitada formalmente, sea de carácter interestatal, las autoridades estatales que convergen convendrán entre ellas, la distribución de sus atribuciones en la materia. Los convenios que para tal efecto se acuerden, deberán guardar congruencia con la presente Ley y demás disposiciones jurídicas aplicables, a fin de generar una adecuada coordinación en la implementación de políticas públicas, acciones e inversiones que propicien el desarrollo y regulación de la movilidad y seguridad vial dentro de su territorio.
 
 ###### Artículo 77.
 
-La designación del Titular del Órgano Superior de Fiscalización del Estado de Oaxaca se sujetará al procedimiento siguiente:
+Naturaleza de los convenios de coordinación metropolitanos.
 
-I. La Comisión formulará la convocatoria pública correspondiente, a la que se le dará la máxima difusión y deberá estar apegada a lo establecido en la presente Ley y la Constitución Local.
-
-La Comisión podrá consultar a las organizaciones de la sociedad civil y académicas que estime pertinente, para postular a los candidatos idóneos para ocupar el cargo;
-
-II. A partir del primer día hábil posterior a la última publicación de la convocatoria, durante un plazo de siete días hábiles se recibirán las solicitudes de los aspirantes, las cuales deberán contar con los documentos y requisitos que se señalen en la convocatoria, para ocupar el cargo de Titular del Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-III. Concluido el plazo anterior y recibidas las solicitudes, la Comisión dentro de los cinco días naturales siguientes, procederá a la revisión y análisis de las mismas, a efecto de verificar que los aspirantes reúnan los requisitos establecidos en la convocatoria. Hecho lo anterior, la Comisión publicará la lista que contenga los nombres de los aspirantes que cumplan con los requisitos. Dicha publicación se realizará en los estrados y la página electrónica oficial del Congreso del Estado;
-
-IV. Dentro de los cinco días naturales siguientes a la publicación de la lista, la Comisión citará a los aspirantes a una entrevista, en donde entregarán un ensayo en los términos previstos en la convocatoria;
-
-V. Dentro de los tres días siguientes a la conclusión de las entrevistas de los candidatos, la Comisión remitirá al Pleno Legislativo, una terna para elegir al Titular del Órgano Superior de Fiscalización del Estado de Oaxaca; y,
-
-VI. La persona designada para ocupar el cargo, protestará ante el Pleno del Congreso del Estado.
+Los convenios de coordinación metropolitanos celebrados por los tres órdenes de gobierno, podrán establecer las autoridades que serán las encargadas de la planeación, diseño, ejecución, operación, monitoreo y evaluación de la política de movilidad y seguridad vial a nivel metropolitano prevista (sic) en esta Ley y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 78.
 
-En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Titular del Órgano Superior de Fiscalización del Estado de Oaxaca, haya obtenido la votación de las dos terceras partes de los miembros del Congreso del Estado, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
+Observatorios Ciudadanos de Movilidad y Seguridad Vial.
+
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México promoverán la creación de Observatorios con la participación de la sociedad, pueblos y comunidades indígenas y afromexicanas, zonas insulares, personas con discapacidad y las organizaciones que les representan, instituciones académicas y de investigación, colegios de profesionistas con incidencia directa en la materia de esta Ley, organismos empresariales del sector ligado a la movilidad, la seguridad vial y al transporte de bienes y mercancías, organizaciones de la sociedad civil organizada y los gobiernos respectivos, para el estudio, investigación y propuestas; evaluación de las políticas públicas, programas y acciones; capacitación a la comunidad; difusión de información y conocimientos sobre la problemática de la movilidad, la seguridad vial, la accesibilidad, la eficiencia, la sostenibilidad, la calidad y la inclusión e igualdad y sus implicaciones en el ordenamiento territorial, y en general sobre la aplicación de la presente Ley.
 
 ###### Artículo 79.
 
-El Titular del Órgano Superior de Fiscalización del Estado de Oaxaca durará en el encargo siete años y podrá ser nombrado nuevamente por una sola vez y, en su caso, será removido por el Congreso del Estado por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado Libre y Soberano de Oaxaca. Si esta situación se presenta estando en receso el Congreso del Estado, la Diputación Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
+A fin de garantizar la participación efectiva de la sociedad, las leyes de las entidades federativas deberán tomar en cuenta a las instituciones de planeación y de participación ciudadana establecidas en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, sin limitar la posibilidad de crear otros organismos que se consideren necesarios.
 
 ###### Artículo 80.
 
-Durante el receso del Congreso del Estado, el Sub Auditor que corresponda conforme al Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca, ejercerá el cargo hasta en tanto designe al titular del Órgano Superior de Fiscalización del Estado de Oaxaca en el siguiente periodo de sesiones.
-
-El Titular del Órgano Superior de Fiscalización del Estado de Oaxaca será suplido en sus ausencias temporales por los Sub Auditores, en el orden que señale el Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca. En caso de falta definitiva, la Comisión dará cuenta al Congreso del Estado para que designe, en términos de esta Ley, al Auditor que concluirá el encargo.
+Las autoridades correspondientes deberán proporcionar a los Observatorios la información sobre el proceso de reglamentación de la movilidad, del transporte y del tránsito, los planes de desarrollo urbano, de ordenamiento territorial metropolitanos (sic), los actos administrativos y autorizaciones de uso de suelo, así como las bases de datos que forman la plataforma de información de la entidad federativa correspondiente, municipio, demarcación territorial y zona metropolitana.
 
 ###### Artículo 81.
 
-Para ser Titular del Órgano Superior de Fiscalización del Estado de Oaxaca se requiere satisfacer los siguientes requisitos:
-
-I. Ser ciudadano oaxaqueño en pleno ejercicio de sus derechos civiles y políticos;
-
-II. Tener por lo menos treinta y cinco años cumplidos el día de la designación;
-
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
-
-IV. Haber residido en el estado durante los cinco años anteriores al día de la designación;
-
-V. No haber sido Secretario de la Administración Pública Estatal, Fiscal General del Estado o Fiscal Especial, Senador, Diputado Federal, Diputado Local, titular o en su caso Comisionado de algún órgano constitucionalmente autónomo; dirigente, titular de las finanzas o administración de algún partido político, ni haber sido postulado para cargo de elección popular; todo lo anterior, al menos tres años previos al día de su nombramiento;
-
-VI. Contar al momento de su designación con una experiencia efectiva de cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas; administración pública, financiera o manejo de recursos;
-
-VII. Contar el día de su designación, con título de antigüedad mínima de cinco años, y cédula profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización expedidos por autoridad o institución legalmente facultada para ello; y,
-
-VIII. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
+Los Observatorios podrán llevar a cabo, de manera conjunta con los institutos de planeación de las entidades federativas, municipales, multimunicipales y metropolitanos, procesos de consulta y deliberación sobre temas de movilidad y seguridad vial.
 
 ###### Artículo 82.
 
-El Titular del Órgano Superior de Fiscalización del Estado de Oaxaca tendrá las siguientes atribuciones:
+Las entidades federativas establecerán las regulaciones específicas a que se sujetará la creación y operación de los Observatorios, con base en esta Ley.
 
-I. Representar a él Órgano Superior de Fiscalización del Estado de Oaxaca ante las entidades fiscalizadas, autoridades federales y locales, municipios y demás personas físicas y morales, públicas o privadas;
+## Transitorios
 
-II. Elaborar el proyecto de presupuesto anual del Órgano Superior de Fiscalización del Estado de Oaxaca atendiendo a las previsiones del ingreso y del gasto público estatal y las disposiciones aplicables;
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-III. Administrar los bienes y recursos a cargo del Órgano Superior de Fiscalización del Estado de Oaxaca y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la misma, sujetándose a lo dispuesto en las leyes en la materia, así como gestionar la incorporación, destino y desincorporación de los bienes afectos a su servicio;
+Segundo. El Congreso de la Unión y las Legislaturas de las entidades federativas, en un plazo no mayor a 180 días, contados a partir de la entrada en vigor de la presente Ley, deberán aprobar las reformas necesarias a las leyes de su competencia, a fin de armonizarlas con lo dispuesto en esta Ley.
 
-IV. Aprobar el programa anual de actividades, el programa anual de auditorías y el plan estratégico, que abarcará un plazo mínimo de tres años. Una vez aprobados serán enviados a la Comisión para su conocimiento;
+Tercero. El Sistema Nacional de Movilidad y Seguridad Vial deberá emitir la Estrategia Nacional de Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
 
-V. Expedir de conformidad con lo establecido en esta Ley y hacerlo del conocimiento de la Comisión, el Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, además de establecer la forma en que deberán ser suplidos estos últimos en sus ausencias, su organización interna y funcionamiento, debiendo publicarlo en el Periódico Oficial del Estado;
+Cuarto. El Sistema Nacional de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
 
-VI. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento del Órgano Superior de Fiscalización del Estado de Oaxaca, los que deberán ser conocidos previamente por la Comisión y publicados en el Periódico Oficial del Estado.
+Quinto. En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley, las Secretarías integrantes del Sistema Nacional de Movilidad y Seguridad Vial, las entidades federativas, así como los municipios, deberán integrar los registros, indicadores y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
 
-Asimismo, expedir las normas para el ejercicio, manejo y aplicación del presupuesto del Órgano Superior de Fiscalización del Estado de Oaxaca, ajustándose a las disposiciones aplicables del Presupuesto de Egresos y de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, así como informando a la Comisión sobre el ejercicio de su presupuesto, y cuando la Comisión le requiera información adicional;
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, y en caso de que se realice alguna modificación a la estructura orgánica de las dependencias y entidades de la Administración Pública Federal, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se incrementará su presupuesto regularizable ni se autorizarán ampliaciones al presupuesto de las mismas para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor de la presente Ley.
 
-VII. Nombrar al personal de mandos medios, mandos superiores, Auditores Especiales y demás personal del Órgano Superior de Fiscalización del Estado de Oaxaca, quienes no deberán haber sido sancionados con la inhabilitación para el ejercicio de un puesto o cargo público;
+Ciudad de México, a 5 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
-VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere al Órgano Superior de Fiscalización del Estado de Oaxaca; así como establecer los elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías, tomando en consideración las propuestas que formulen las entidades fiscalizadas y las características propias de su operación;
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-IX. Ser el enlace entre el Órgano Superior de Fiscalización del Estado de Oaxaca y la Comisión;
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-X. Solicitar a las entidades fiscalizadas, servidores públicos, y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización de la Cuenta Pública se requiera;
-
-XI. Solicitar a las entidades fiscalizadas el auxilio que necesite para el ejercicio expedito de las funciones de revisión y fiscalización superior;
-
-XII. Ejercer las atribuciones que corresponden al Órgano Superior de Fiscalización del Estado de Oaxaca en los términos de la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y del Reglamento Interior de la propia Auditoría Superior del Estado;
-
-XIII. Tramitar, instruir y resolver el recurso de reconsideración interpuesto en contra de las multas que se impongan conforme a esta Ley;
-
-XIV. Recibir de la Comisión las Cuentas Públicas y los Informes de Avance de Gestión Financiera del Estado y Municipios para su revisión y fiscalización superior;
-
-XV. Formular y entregar al Congreso del Estado, por conducto de la Comisión, el Informe de Resultados a más tardar el 20 de febrero del año siguiente de la presentación de la Cuenta Pública;
-
-XVI. Formular y entregar al Congreso del Estado, por conducto de la Comisión, los Informes Individuales los últimos días hábiles de junio, octubre y el 20 de febrero siguientes a la presentación de la Cuenta Pública Estatal;
-
-XVII. Autorizar, previa denuncia, la revisión durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores conforme lo establecido en la presente Ley;
-
-XVIII. Concertar y celebrar, en los casos que estime necesario, convenios con las entidades fiscalizadas y los Órganos Internos de Control, con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de su facultad fiscalizadora, la que podrá ejercer de manera directa; así como convenios de colaboración con los organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homólogas o con éstas directamente, con el sector privado y con colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio de carácter multinacional;
-
-XIX. Dar cuenta comprobada al Congreso del Estado, a través de la Comisión, de la aplicación de su presupuesto aprobado, dentro de los treinta primeros días del mes siguiente al que corresponda su ejercicio;
-
-XX. Solicitar a la Secretaría de Finanzas del Estado el cobro de las multas que se impongan en los términos de esta Ley;
-
-XXI. Instruir la presentación de las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos. Preferentemente lo hará cuando concluya el procedimiento administrativo;
-
-XXII. Expedir la política de remuneraciones, prestaciones y estímulos del personal de confianza del Órgano Superior de Fiscalización del Estado de Oaxaca, observando lo aprobado en el Presupuesto de Egresos correspondiente y a las disposiciones de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
-
-XXIII. Elaborar para su envío a la Comisión el plan estratégico del Órgano Superior de Fiscalización del Estado de Oaxaca;
-
-XXIV. Presentar el recurso de revisión administrativa respecto de las resoluciones que emita el Tribunal;
-
-XXV. Recurrir las determinaciones de la Fiscalía Especializada y del Tribunal de lo Contencioso Administrativo y de Cuentas, de conformidad con las leyes aplicables.
-
-XXVI. Transparentar y dar seguimiento a todas las denuncias, quejas, solicitudes, y opiniones realizadas por los particulares o la sociedad civil organizada, salvaguardando en todo momento los datos personales;
-
-XXVII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas de las entidades sujetas a fiscalización;
-
-XXVIII. Formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción en términos de lo dispuesto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley del Sistema Estatal de Combate a la Corrupción;
-
-XXIX. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley del Sistema Estatal de Combate a la Corrupción y al Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan;
-
-XXX. Elaborar en cualquier momento estudios y análisis, así como publicarlo;
-
-XXXI. Promover Amparo o Controversia Constitucional;
-
-XXXII. Las demás que señale esta Ley y demás disposiciones legales aplicables.
-
-De las atribuciones previstas a favor del Titular del Órgano Superior de Fiscalización del Estado de Oaxaca en esta Ley, sólo las mencionadas en las fracciones II, IV, V, VI, VII, VIII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIV y XXVII de este artículo son de ejercicio exclusivo del Titular del Órgano Superior de Fiscalización del Estado de Oaxaca y, por tanto, no podrán ser delegadas.
+D.O.F. 8 DE MAYO DE 2023.
 
 ###### Artículo 83.
 
@@ -1174,3 +1780,15 @@ SEPTIMO.- Para dar cumplimiento a lo dispuesto en el artículo 12 de la presente
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de Agosto de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elía Romeron Guzmán, Secretaria.- Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 13 de Septiembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 49 DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 90 días naturales para realizar las adecuaciones a su normatividad correspondiente.
