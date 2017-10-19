@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2016-10-25"
+last_updated: "2017-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -75,9 +77,9 @@ Laicidad y gratuidad en la educación pública
 
 La educación que imparta el Estado será laica y gratuita.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-Todo individuo tiene derecho a recibir educación de calidad. El Estado y los municipios están obligados a prestar servicios educativos que garanticen el máximo logro de aprendizaje de los educandos, para que todos puedan cursar la educación preescolar, primaria, secundaria y media superior. Estos servicios se prestarán en el marco de lo establecido en la Constitución Política del Estado de Guanajuato y demás disposiciones aplicables.
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad. El Estado y los municipios están obligados a prestar servicios educativos que garanticen el máximo logro de aprendizaje de los educandos, para que todos puedan cursar la educación preescolar, primaria, secundaria y media superior. Estos servicios se prestarán en el marco de lo establecido en la Constitución Política del Estado de Guanajuato y demás disposiciones aplicables.
 
 Orientación de la Educación
 
@@ -203,15 +205,15 @@ Concurrencia operativa
 
 Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, se deberá observar lo dispuesto por la Ley General del Servicio Profesional Docente.
 
-Equidad, acceso y permanencia educativa
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+Equidad, acceso, tránsito y permanencia educativa
 
 ###### Artículo 11.
 
-Las autoridades educativas establecerán las condiciones que permitan a cada individuo el goce y ejercicio pleno del derecho a la educación, a una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, permanencia en los servicios educativos, y además la culminación de la escolaridad.
+Las autoridades educativas establecerán las condiciones que permitan a cada individuo el goce y ejercicio pleno del derecho a la educación, a una mayor equidad educativa y su plena inclusión y participación en la sociedad, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, y además la culminación de la escolaridad.
 
 Fines de la educación
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -241,8 +243,6 @@ X. Desarrollar en los educandos la capacidad de hacer análisis crítico, objeti
 
 XI. Desarrollar la capacidad creativa hacia la innovación, la expresión y las habilidades del pensamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XII. Fomentar una conciencia de respeto a los derechos humanos de la persona y de la sociedad como medio de conservar la paz y la convivencia humana; así como la difusión de los derechos humanos de las niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
@@ -257,19 +257,21 @@ XVI. Propiciar en el educando el conocimiento de sí mismo y la ubicación en su
 
 XVII. Impulsar que los educandos desarrollen la autoestima, la responsabilidad familiar, el respeto y la tolerancia a las diferencias, a favor de la construcción de una cultura de igualdad entre los géneros con equidad;
 
-XVIII. Fomentar la cultura de la legalidad y de la paz, con el objeto de concientizar a los educandos sobre los efectos e influencias nocivas que provoca la delincuencia en la sociedad;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+XVIII. Fortalecer los programas interinstitucionales destinados a la formación de la cultura de la legalidad, la inclusión y la no discriminación, la paz y protección del ambiente;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+XVIII-1. Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
 
 XIX. Fomentar en los educandos una cultura de respeto a las normas de vialidad;
 
 XX. Fomentar en los educandos la cultura de respeto a la no violencia y del acceso de las mujeres a una vida libre de violencia; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXI. Apoyar a las niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -365,11 +367,11 @@ La SICES evaluará en su ámbito de competencia, la calidad de los servicios edu
 
 Mecanismos de coordinación
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-La Secretaría, la SICES, los organismos descentralizados del sector educativo, los municipios y los particulares establecerán mecanismos de coordinación para lograr condiciones que permitan una mayor equidad educativa, con el propósito de garantizar a la población las oportunidades de acceso, promoción, permanencia y egreso en los servicios educativos.
+La Secretaría, la SICES, los organismos descentralizados del sector educativo, los municipios y los particulares establecerán mecanismos de coordinación para lograr condiciones que permitan una mayor equidad educativa, con el propósito de garantizar a la población las oportunidades de acceso, tránsito, promoción, permanencia y egreso en los servicios educativos.
 
 Equidad y discapacidad
 
@@ -385,9 +387,21 @@ I. Atender de manera especial las escuelas en que, por estar en localidades aisl
 
 II. Desarrollarán programas de apoyo a los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+II-1. Desarrollarán, bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 96;
+
 III. Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
 IV. Prestarán servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+IV-1. Garantizar el acceso a la educación básica y media superior, aun cuando los solicitantes carezcan de documentos académicos o de identidad, esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
+
+Además, ofrecerán opciones que faciliten la obtención de los documentos referidos en el párrafo anterior, así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos.
+
+La SICES promoverá acciones similares para el caso de la educación superior.
 
 V. Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
 
@@ -432,6 +446,10 @@ XXI. Contarán en el marco de la educación especial, con elementos que facilite
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 XXII. Realizarán acciones que tiendan a no impedir la inscripción de personas con la condición del espectro autista en los planteles educativos públicos y privados.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+Dichas acciones estarán dirigidas, de manera preferente a quienes abandonaron el sistema regular y se encuentren en situación de rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos, de género, preferencia sexual, creencias religiosas o prácticas culturales.
 
 Programas compensatorios
 
@@ -809,9 +827,11 @@ VII. La infraestructura física educativa.
 
 Obligaciones de los educandos
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 55.
 
-Los educandos deberán cumplir con la normatividad que regula su acceso, permanencia, promoción y egreso del Sistema Educativo Estatal.
+Los educandos deberán cumplir con la normatividad que regula su acceso, tránsito, permanencia, promoción y egreso del Sistema Educativo Estatal.
 
 Formación Integral de los educandos
 
@@ -1291,9 +1311,13 @@ XLVII. Promover e impulsar en los educandos y demás integrantes de la comunidad
 
 XLVIII. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los docentes hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano y demás legislación aplicable a los niños, adolescentes y jóvenes; y
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+XLIX. Vigilar que las autoridades escolares en instituciones educativas, tratándose de educación básica, cumplan con las normas de control escolar, las cuales deberán facilitar la inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos; y
+
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
-XLIX. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+L. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -1611,21 +1635,25 @@ La educación inicial tiene como propósito favorecer y estimular el desarrollo 
 
 Educación Especial
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 96.
 
-La educación especial estará destinada a alumnos con discapacidades transitorias o permanentes, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones con equidad social incluyente y con perspectiva de género.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y con perspectiva de género.
 
 Las autoridades educativas, atendiendo a la demanda de estos servicios, establecerán de manera creciente centros de servicios de educación especial o sus equivalentes con la infraestructura física educativa y recursos necesarios en cada municipio.
 
 Comprenderá los servicios y programas que brinden orientación y apliquen recursos financieros, materiales, técnicos y educativos para garantizar la inclusión educativa.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
 
-La prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General para la Inclusión de las Personas con Discapacidad, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato, Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y demás normativa.
+La formación continua y capacitación de maestros promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
+La prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, en la Ley General de la Infraestructura Física Educativa, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato, Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y demás normativa.
 
-La educación especial incluye la orientación a los padres, tutores o quienes ejerzan la patria potestad, así como a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+La educación especial incorporará los enfoques de inclusión e igualdad sustantiva, incluye la capacitación y orientación a los padres, tutores o quienes ejerzan la patria potestad, así como a los maestros y personal de escuelas de educación básica y media superior regulares que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+Quienes presten servicios educativos en el marco del sistema educativo estatal atenderán las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, en la Ley General de la Infraestructura Física Educativa, en la Ley de Inclusión para las personas con Discapacidad en el Estado de Guanajuato y en las demás normas aplicables.
 
 Educación Indígena
 
@@ -1661,11 +1689,13 @@ Las autoridades estatales y municipales organizarán servicios permanentes de pr
 
 Formación para el trabajo
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 99.
 
-La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados.
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados, esta formación incluirá un capítulo especial dirigido a personas con discapacidad.
 
-Tratándose de la formación para el trabajo, se aplicará lo previsto por la Ley General de Educación y demás disposiciones aplicables. La coordinación de este servicio estará a cargo de la dependencia o entidad que determine el Ejecutivo Estatal.
+La coordinación de este servicio estará a cargo de la dependencia o entidad que determine el Ejecutivo Estatal.
 
 Medidas presupuestarias y administrativas
 
@@ -1797,11 +1827,11 @@ La Secretaría y la SICES, en coordinación, impulsarán la investigación cient
 
 Tránsito educativo
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 115.
 
-La Secretaría y las instituciones de educación media superior, la SICES y las instituciones de educación superior, facilitarán el tránsito de los educandos entre un mismo tipo o modalidad educativo a otro de conformidad con las disposiciones normativas establecidas.
+La Secretaría y las instituciones de educación media superior, la SICES y las instituciones de educación superior, facilitarán el tránsito de los educandos entre un mismo tipo o modalidad educativo a otro de conformidad con las disposiciones normativas establecidas. Asimismo, la Secretaría y la SICES podrán suscribir los acuerdos o convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia.
 
 Prestación y promoción de servicios educativos
 
@@ -1975,9 +2005,11 @@ Los educadores y el personal directivo de cada institución educativa deberán i
 
 Expedición de documentos
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 133.
 
-Las instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes y con base a las disposiciones normativas aplicables.
+Las instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes y deberán registrarse en el Sistema Estatal de Información Educativa, con base a las disposiciones normativas aplicables.
 
 Revalidación de estudios
 
@@ -2005,9 +2037,19 @@ La Secretaría podrá otorgar equivalencias, únicamente cuando estén referidas
 
 Autoridad competente
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 138.
 
 La facultad de revalidar y establecer equivalencias de estudios corresponde al Ejecutivo Estatal por conducto de la Secretaría en los términos de esta Ley y demás normativa aplicable.
+
+La Secretaría e instituciones educativas, públicas o particulares, que otorguen revalidaciones y equivalencias, promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad. Además, promoverán la utilización de mecanismos electrónicos de verificación de autenticidad de documentos expedidos fuera y dentro del sistema educativo estatal.
+
+Las revalidaciones y equivalencias otorgadas en términos del presente artículo, de conformidad con la Ley General de Educación, tendrán validez en toda la República.
+
+La Secretaría podrá autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida.
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema Estatal de Información Educativa en los términos que establezca la Secretaría.
 
 ## TÍTULO SEXTO. PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES
 
@@ -2039,7 +2081,9 @@ I. Tratándose de instituciones que requieran autorización, estas deberán suje
 
 II. En el caso de instituciones que no requieran de autorización deberán poner a consideración sus planes y programas de estudios para determinar lo conducente;
 
-III. Que el inmueble que se destine a la institución educativa reúna las condiciones higiénicas, de seguridad y pedagógicas y se acredite la posesión legal del mismo, mediante el instrumento jurídico correspondiente, que garantice al menos el egreso de una generación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2017)</small>
+
+III. Que el inmueble que se destine a la institución educativa reúna las condiciones higiénicas, de seguridad, pedagógicas, de accesibilidad; y se acredite la posesión legal del mismo, mediante el instrumento jurídico correspondiente, que garantice al menos el egreso de una generación.
 
 Para los efectos del párrafo anterior, los particulares deberán obtener el dictamen de infraestructura física educativa, que emita la autoridad en la materia, de conformidad con las disposiciones normativas.
 
@@ -2089,9 +2133,11 @@ En el caso de interrupción del plazo, se reanudará el cómputo de éste a part
 
 Personal e instalaciones para la educación inicial
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 145.
 
-En la educación inicial deberán contar con personal que acredite la preparación adecuada para impartir educación y con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; facilitar la inspección y vigilancia de las autoridades; así como, cumplir con lo establecido en la Ley General de Educación y demás disposiciones normativas.
+En la educación inicial deberán contar con personal que acredite la preparación adecuada para impartir educación y con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de accesibilidad y pedagógicas que la autoridad educativa determine, presentar las evaluaciones que correspondan de conformidad con lo dispuesto en la Ley General de Educación y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa; facilitar la inspección y vigilancia de las autoridades; así como, cumplir con lo establecido en la Ley General de Educación y demás disposiciones normativas.
 
 Procedencia de la autorización y el reconocimiento de validez oficial de estudios
 
@@ -2173,9 +2219,11 @@ En caso de incumplimiento por parte del particular, se atenderá conforme a lo d
 
 Publicaciones de las instituciones y resultados
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 152.
 
-Para garantizar la difusión oportuna y eficiente de las instituciones a las que se les haya otorgado autorización o reconocimiento de validez oficial de estudios, la Secretaría publicará antes del inicio de cada ciclo escolar, la relación de las mismas, en el Periódico Oficial del Gobierno del Estado, en medios electrónicos y los que ésta determine. Asimismo, publicará oportunamente y en cada caso, la inclusión o la supresión de las instituciones a las que revoquen o retiren las autorizaciones o reconocimientos respectivos.
+Para garantizar la difusión oportuna y eficiente de las instituciones a las que se les haya otorgado autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que hayan autorizado a revalidar o equiparar estudios, la Secretaría publicará antes del inicio de cada ciclo escolar, la relación de las mismas, en el Periódico Oficial del Gobierno del Estado, en medios electrónicos y los que ésta determine. Asimismo, publicará oportunamente y en cada caso, la inclusión o la supresión de las instituciones a las que revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 De igual manera indicarán en dicha publicación, los nombres de los educadores que obtengan resultados suficientes, una vez que apliquen las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por esta Ley, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones aplicables.
 
@@ -2325,9 +2373,9 @@ XV. Omitir el registro de instituciones educativas, así como de planes y progra
 
 XVI. Incumplir con las medidas correctivas derivadas de las visitas de inspección;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-XVII. Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos; y
+XVII. Expulsar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para su atención; y
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -2501,7 +2549,7 @@ Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artí
 
 GERARDO GABRIEL GIL MORALES
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 2 DE JULIO DE 2013.
 
@@ -2664,3 +2712,13 @@ P.O. 25 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO Y SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único.- El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 SEGUNDO PÁRRAFO, 11, 12 FRACCIÓN XVIII, 21, 55, 96, 99, 115, 133, 138, 141 FRACCIÓN III, 145, 152 Y 159 FRACCIÓN XVII, SE ADICIONAN UNA FRACCIÓN XVIII-1 AL ARTÍCULO 12, LAS FRACCIONES II-1, IV-1 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 22, Y UNA FRACCIÓN XLIX, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 77, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado adecuará los reglamentos y demás disposiciones normativas necesarias para el cumplimiento de esta reforma, en un término que no exceda de noventa días, contados a partir de la entrada en vigor del presente decreto.
+
+Artículo Tercero. Con base en lo dispuesto en la fracción II-1 del artículo 22, contenido en el presente Decreto, las autoridades educativas podrán coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidas a atender a las personas en situación de vulnerabilidad a las que se refiere el último párrafo del mismo artículo.
