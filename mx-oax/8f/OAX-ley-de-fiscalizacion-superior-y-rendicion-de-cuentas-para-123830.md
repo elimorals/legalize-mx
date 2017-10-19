@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-12383
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2017-09-21"
+last_updated: "2017-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE OCTUBRE DE 2017.]</small>
 
 Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 21 de septiembre de 2017.
 
@@ -1095,9 +1095,59 @@ Las entidades fiscalizadas y personas con interés jurídico tendrán la faculta
 
 El titular de la Unidad será designado por el Pleno del Congreso del Estado a propuesta de la Comisión, la que presentará una terna de candidatos que deberán cumplir con los requisitos que esta Ley establece para los Sub Auditores del Órgano Superior de Fiscalización del Estado de Oaxaca. Lo anterior, se llevará a cabo a través de los procedimientos y plazos que fije la misma Comisión.
 
-El reglamento de la Unidad que expida el Congreso del Estado establecerá la competencia de las áreas a que alude el párrafo anterior y aquellás otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
 
-Artículo 101 (sic).- Los servidores públicos de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control. El ingreso a la Unidad será mediante concurso público.
+La Comisión abrirá registro público para que las organizaciones de la sociedad civil o académicas se inscriban para participar como observadores del proceso para la integración de la terna referida en el párrafo anterior, para lo cual se procederá mediante el método de insaculación para elegir cinco observadores.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+El titular de la Unidad durará en su encargo cuatro años y podrá desempeñar nuevamente ese cargo por otro período de cuatro años. Podrá ser removido por el Pleno del Congreso cuando por negligencia deje de cumplir con sus funciones y atribuciones establecidas en ésta Ley.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 98.
+
+El titular de la Unidad será responsable administrativamente ante la Comisión y la (sic) el propio Congreso, al cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por ésta, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 99.
+
+Son atribuciones del Titular de la Unidad:
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+I. Planear y programar auditorías a las diversas áreas que integran el Órgano Superior de Fiscalización del Estado de Oaxaca;
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+II. Requerir a las unidades administrativas del Órgano Superior de Fiscalización del Estado de Oaxaca la información necesaria para cumplir con sus atribuciones;
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma;
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+IV. Proporcionar la información y documentación que obre en sus archivos a los Diputados que se la soliciten, conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca; y,
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+V. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 100.
+
+Para el ejercicio de las atribuciones que tiene conferidas, la Unidad contará con los servidores públicos, las unidades administrativas y los recursos económicos que a propuesta de la Comisión apruebe el Congreso del Estado y se determinen en el presupuesto de la misma.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2017)</small>
+
+El reglamento de la Unidad que expida el Congreso del Estado establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+
+###### Artículo 101.
+
+Los servidores públicos de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control. El ingreso a la Unidad será mediante concurso público.
 
 ### Capítulo III. De las relaciones con la Auditoría Superior de la Federación
 
