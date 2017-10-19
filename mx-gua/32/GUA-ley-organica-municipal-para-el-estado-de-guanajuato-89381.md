@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2017-06-20"
+last_updated: "2017-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1807,13 +1807,19 @@ VI. Expedir, por acuerdo del Ayuntamiento o del Presidente Municipal, copias cer
 
 VII. Compilar las leyes, decretos, reglamentos, periódicos oficiales del gobierno del estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
 
-VIII. Expedir las constancias de residencia que soliciten los habitantes del Municipio, en su ausencia serán expedidas por el funcionario que se faculte por el acuerdo respectivo;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+VIII. Expedir las constancias de residencia que soliciten los habitantes del Municipio, así como las cartas de origen, en su ausencia serán expedidas por el funcionario que se faculte por el acuerdo del Ayuntamiento;
 
 IX. Autenticar con su firma los acuerdos y comunicaciones del Ayuntamiento y del presidente municipal;
 
 X. Entregar al término de su gestión, los libros y documentos que integrarán el Archivo Municipal, en acta circunstanciada, en los términos de la entrega-recepción previstos en esta Ley; y
 
 XI. Las demás que les confiere esta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+Las cartas de origen se expedirán en atención a los requisitos establecidos por la Secretaría de Relaciones Exteriores.
 
 Requisitos para ser tesorero municipal
 
@@ -3630,3 +3636,19 @@ P.O. 20 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 193, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 101 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. La presente reforma entrará en vigor al día siguiente al de su publicación en el periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 214, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 128 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de la vigencia
+
+PRIMERO. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Ajustes de los Ayuntamientos
+
+SEGUNDO. El Congreso del Estado por conducto de la Junta de Enlace en Materia Financiera, promoverá, en el mes de octubre del ejercicio fiscal de 2017, que los ayuntamientos del Estado impulsen los ajustes necesarios a sus leyes de ingresos municipales, a efecto de que el concepto de <<cartas de origen>>, sea contemplado para su debida emisión.
+
+Inclusión del concepto en leyes de ingresos
+
+TERCERO. Los Ayuntamientos del Estado deberán contemplar en sus leyes de ingresos para el ejercicio fiscal 2018 la tarifa del concepto de <<cartas de origen>>, señalado en el presente decreto.
