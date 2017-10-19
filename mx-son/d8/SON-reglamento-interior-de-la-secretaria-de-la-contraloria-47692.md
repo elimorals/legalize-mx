@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2016-02-29"
+last_updated: "2017-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL, PUBLICADO EN EL B.O. DE 9 DE AGOSTO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -83,11 +85,21 @@ I.- Unidades Administrativas:
 
 5.1 Dirección de Quejas y Denuncias
 
-6.- Dirección General de Responsabilidades y Situación Patrimonial;
+> <small>(REFORMADO, B.O. 19 DE OCTUBRE DE 2017)</small>
+
+6.- Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 19 DE OCTUBRE DE 2017)</small>
 
 6.1 Dirección de Responsabilidades
 
-7.- Dirección General de Información e Integración;
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 19 DE OCTUBRE DE 2017)</small>
+
+6.2 Dirección de Situación Patrimonial
+
+> <small>(REFORMADO, B.O. 19 DE OCTUBRE DE 2017)</small>
+
+7.- Coordinación Ejecutiva de Investigación de Faltas Administrativas;
 
 8.- Dirección General de Órganos de Control y Vigilancia;
 
@@ -361,17 +373,17 @@ XXV.- Las demás que le confieran las disposiciones normativas aplicables y las 
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 19 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7°.
 
-Al frente de cada Dirección General, habrá un Director General, quien técnica y administrativamente será responsable del funcionamiento de la Unidad Administrativa a su cargo, y se auxiliará, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto.
+Al frente de cada Coordinación Ejecutiva y Dirección General, habrá un Coordinador (a) Ejecutivo y Director (a) General, respectivamente, quienes técnica y administrativamente serán responsables del funcionamiento (sic) la unidad administrativa a su cargo, y se auxiliarán, según corresponda, del personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 19 DE OCTUBRE DE 2017)</small>
 
-###### Artículo 8°.
+###### Artículo 8.
 
-Los Directores Generales tendrán las siguientes atribuciones genéricas:
+Los Coordinadores (as) Ejecutivos y Directores (as) Generales tendrán las siguientes atribuciones genéricas:
 
 I. Planear, programar, presupuestar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa bajo su responsabilidad, de conformidad con los lineamientos que fije el Titular de la Secretaría;
 
@@ -423,27 +435,27 @@ XXIV. Vigilar la correcta aplicación del presupuesto, así como el buen uso del
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2008)</small>
 
-XXV.- Expedir; cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo, así como de los documentos originales que tenga ante su vista, previo cotejo de los mismos y copia certificada que quede para constancia en el archivo de la unidad administrativa correspondiente;
+XXV. Expedir; cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo, así como de los documentos originales que tenga ante su vista, previo cotejo de los mismos y copia certificada que quede para constancia en el archivo de la unidad administrativa correspondiente;
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2008)</small>
 
-XXVI.- Desempeñar las funciones y comisiones que el Secretario le encomiende, manteniéndolo informado sobre el desarrollo de las mismas;
+XXVI. Desempeñar las funciones y comisiones que el Secretario le encomiende, manteniéndolo informado sobre el desarrollo de las mismas;
 
 > <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2008)</small>
 
-XXVII.- Participar en la esfera de su competencia, en la elaboración de los programas a cargo de la Secretaría;
+XXVII. Participar en la esfera de su competencia, en la elaboración de los programas a cargo de la Secretaría;
 
 > <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
-XXVIII.- Representar al Secretario en los actos o reuniones que le sean asignados y, por acuerdo expreso, desarrollar las responsabilidades y facultades que le sean delegadas;
+XXVIII. Representar al Secretario en los actos o reuniones que le sean asignados y, por acuerdo expreso, desarrollar las responsabilidades y facultades que le sean delegadas;
 
 > <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
-XXIX.- Atender oportunamente las solicitudes de información pública que les turne el Titular de la Unidad de Enlace de la Secretaría, de conformidad con lo dispuesto por la normatividad en materia de acceso a la información; y
+XXIX. Atender oportunamente las solicitudes de información pública que les turne el Titular de la Unidad de Enlace de la Secretaría, de conformidad con lo dispuesto por la normatividad en materia de acceso a la información; y
 
 > <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
-XXX.- Las demás que le confieran las disposiciones legales aplicables y le atribuyan expresamente el Secretario, dentro de la esfera de sus atribuciones.
+XXX. Las demás que le confieran las disposiciones legales aplicables y le atribuyan expresamente el Secretario, dentro de la esfera de sus atribuciones.
 
 ###### Artículo 8° Bis.
 
@@ -731,95 +743,129 @@ XXIV. Coordinar el otorgamiento de capacitación, asesoría y apoyos técnicos a
 
 XXV. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
 
+> <small>(REFORMADO, B.O. 19 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-La Dirección General de Responsabilidades y Situación Patrimonial estará adscrita al Titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
+La Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial estará adscrita al o la Titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
 
-I. Recibir, tramitar y resolver las quejas y/o denuncias presentadas con motivo del incumplimiento de las obligaciones de los servidores públicos, mediante la instrucción del procedimiento administrativo de determinación de responsabilidades a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, practicando todas las diligencias que se estimen procedentes, hasta dictar resolución, y en su caso imponer de acuerdo con lo dispuesto en dicha Ley, las sanciones que correspondan;
+I. Iniciar, sustanciar y resolver los procedimientos administrativos de responsabilidades, en los términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, y la Ley Estatal de Responsabilidades, según corresponda. Las audiencias derivadas de los mismos, serán bajo la dirección del o la Titular de la Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial, así como de manera indistinta por los o las Titulares de las Direcciones de Responsabilidades y Situación Patrimonial;
 
-II. Remitir a la unidad administrativa que corresponda de esta Secretaría las quejas y/o denuncias y demás constancias que se recibieren y que no están apoyadas en pruebas suficientes, para que en ejercicio de sus atribuciones lleven a cabo las investigaciones que resulten procedentes, y que una vez subsanadas dichas omisiones, se proceda a instruir el procedimiento administrativo de responsabilidad correspondiente;
+II. Admitir, en su caso, los informes de Presunta Responsabilidad Administrativa que le sean turnados por los órganos internos de control y la Coordinación de Investigación de Faltas Administrativas;
 
-III. Comunicar a las autoridades y particulares que presenten quejas o denuncias, el incumplimiento de algún requisito de procedibilidad que impida la radicación del procedimiento administrativo de responsabilidad contra servidores públicos, para que se subsane, a efecto de que se determine lo que corresponda;
+III. Prevenir mediante acuerdo debidamente fundado y motivado a la autoridad investigadora cuando advierta que el Informe de Presunta Responsabilidad Administrativa, contiene omisiones, requiere aclaraciones en los hechos narrados o carece de alguno de los requisitos señalados en la Ley Estatal de Responsabilidades, para que éste sea subsanado;
 
-IV. Remitir a la autoridad competente, las quejas y/o denuncias y demás constancias que recibiere, cuando su conocimiento no corresponda a la Secretaría en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones jurídicas aplicables;
+IV. Remitir a la autoridad competente las quejas, denuncias y los Informes de Presunta Responsabilidad Administrativa, cuando su conocimiento no sea competencia de esta Coordinación Ejecutiva en los términos de la Ley Estatal de Responsabilidades y de las demás disposiciones jurídicas aplicables;
 
-V. Llevar el registro, control y resguardo de la información sobre la situación patrimonial de los servidores públicos, recibiendo para ello las declaraciones respectivas;
+V. Solicitar mediante exhorto la colaboración de las autoridades competentes del lugar de la preparación o desahogo de las pruebas, así como para realizar las notificaciones que deban llevarse a cabo en lugares que se encuentren fuera de su ámbito jurisdiccional;
 
-VI. Verificar la información presentada en las declaraciones de situación patrimonial y solicitar información y aclaraciones cuando resulte necesario;
+VI. Decretar las medidas cautelares y hacer uso de los medios de apremio, en términos de la Ley Estatal de Responsabilidades;
 
-VII. Formular y proponer al Secretario los proyectos de normas, formatos y medios electrónicos conforme a los cuales deberán efectuarse las declaraciones de situación patrimonial, así como los manuales e instructivos correspondientes;
+VII. Brindar capacitación, asesoría y apoyo a los servidores públicos que lo requieran en materia de declaración de situación patrimonial y de intereses;
 
-VIII. Ordenar y llevar a cabo las investigaciones, visitas de inspección y auditorías que de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios procedan, con relación a la situación patrimonial de los servidores públicos del Estado;
+VIII. Remitir al Tribunal de Justicia Administrativa del Estado de Sonora, una vez desahogada la audiencia inicial, los autos originales de los expedientes de procedimientos de responsabilidad administrativa integrados con motivo de los Informes de Presunta Responsabilidad Administrativa, tratándose de faltas administrativas calificadas como graves;
 
-IX. Tramitar y resolver los procedimientos que se deriven de las investigaciones señaladas en la fracción anterior, y en su caso, imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, cuando se adviertan hechos por los que se determine que el servidor público incurrió en responsabilidad administrativa;
+IX. Ordenar la realización de diligencias para mejor proveer, disponiendo de la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la falta administrativa y la responsabilidad de quien la hubiere cometido, en los términos de la Ley Estatal de Responsabilidades y demás legislación aplicable en la materia;
 
-X. Emitir las declaraciones que corresponda hacer a la Secretaría en los términos de los artículos 95 y 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+X. Atraer por instrucción del o la Titular de la Secretaría, la sustanciación y resolución de los procedimientos de responsabilidad administrativa que sean competencia de los Órganos Internos de Control u Órganos de Control y Desarrollo Administrativo;
 
-XI. Tramitar y resolver los recursos que le corresponda conocer a la Secretaría, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+XI. Tramitar y resolver los incidentes y recursos que le corresponda conocer en los términos de la Ley Estatal de Responsabilidades y de la demás normatividad aplicable;
 
-XII. Llevar el registro y padrón de los servidores públicos inhabilitados, en el que se inscribirán los casos de inhabilitaciones impuestas por la Secretaría, así como los que sean reportados por la Federación, los Poderes Legislativo y Judicial del Estado y por los municipios del mismo, y expedir las constancias respectivas, previa solicitud;
+XII. Llevar el registro y padrón de los servidores públicos inhabilitados, en el que se inscribirán los casos de inhabilitaciones impuestas por la Secretaría o por los órganos internos de control de las dependencias y entidades, así como los que sean reportados por la Federación, los Poderes Legislativo y Judicial del Estado, por los municipios del mismo y por los organismos autónomos, y expedir las constancias respectivas, previa solicitud;
 
-XIII. Crear, mantener actualizado y hacer público, un registro de servidores públicos del Estado que hayan sido sancionados con motivo de algún acto u omisión que constituya responsabilidad administrativa, expidiendo las constancias que contengan el antecedente de sanción, al solicitarse la correspondiente de inhabilitación;
+XIII. Llevar el registro y actualización del padrón de los servidores públicos de la Administración Pública Estatal a los que se les haya impuesto sanciones diversas a la inhabilitación, para efectos de la reincidencia a considerarse en términos de las disposiciones legales aplicables, así como proporcionar la información que sea requerida por una autoridad en ejercicio de sus funciones;
 
 XIV. Expedir, cuando proceda, las constancias que le soliciten relativas a la inhabilitación o no inhabilitación para ocupar un empleo, cargo o comisión en el servicio público;
 
-XV. Elaborar y presentar los informes previos y justificados a cargo de la Unidad Administrativa, así como los recursos que deban interponerse en los juicios de amparo en los que la Dirección General fuere parte, en virtud de asuntos derivados de la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, e intervenir en el cumplimiento de las resoluciones respectivas;
+XV. Elaborar y presentar los informes previos y justificados que le competan, así como las demandas y los recursos que deban interponerse en los juicios de amparo en los que esta Coordinación Ejecutiva fuere parte, en virtud de asuntos derivados de la aplicación de la Ley Estatal de Responsabilidades y de la demás normatividad aplicable, intervenir en el cumplimiento de las resoluciones respectivas;
 
-XVI. Presentar, previo acuerdo de su superior jerárquico, las quejas, observaciones, denuncias o querellas que deban hacerse al Ministerio Público, los Municipios y los Poderes Legislativo y Judicial, según corresponda, respecto de hechos que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido o impliquen violación a lo dispuesto por las leyes y reglamentos vigentes respecto de las obligaciones que, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión, deben observar los servidores públicos del Estado y de los Municipios; o que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
+XVI. Presentar directamente o solicitar el apoyo de la Coordinación Ejecutiva de Investigación para la presentación de las quejas, observaciones, denuncias o querellas que deban hacerse al Ministerio Público, a los municipios, los Poderes Legislativo y Judicial u organismos autónomos, según corresponda, de hechos que pudieran constituir ilícitos del orden penal en los que el Estado resulte ofendido o impliquen violación a lo dispuesto por las leyes y reglamentos vigentes respecto de las obligaciones que, para salvaguardar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia en el desempeño de su empleo, cargo o comisión, deben observar los servidores públicos del Estado, o que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
-XVII. Establecer mecanismos de coordinación con la Procuraduría General de Justicia del Estado para la investigación de hechos que puedan constituir delitos, que se detectaren en las acciones inherentes a la Secretaría, coadyuvando en representación de la misma en los procedimientos penales correspondientes; y
+XVII. Solicitar la colaboración de la Fiscalía General de Justicia del Estado o de cualquier otra institución pública o educativa, que permita el acceso a los instrumentos tecnológicos que se requieran para la apreciación de las pruebas documentales presentadas, a efecto de determinar la autenticidad de cualquier documento que sea cuestionado por las partes y de que emitan, a través de alguno de los peritos en la ciencia, arte, técnica, industria, oficio o profesión adscritos a las mismas, un dictamen sobre las cuestiones o puntos controvertidos por las partes;
 
-XVIII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+XVIII. Emitir la declaración a que se refiere el artículo 34 de la Ley Estatal de Responsabilidades, cuando los servidores públicos de las dependencias y entidades de la Administración Pública Estatal no cumplan con su obligación de presentar la declaración de situación patrimonial, en los términos de dicha ley;
+
+XIX. Recibir mediante la plataforma tecnológica respectiva y los formatos correspondientes las declaraciones de situación patrimonial, de intereses y constancia de declaración fiscal de los servidores públicos de la Administración Pública Estatal, y llevar el registro, control y resguardo de dicha información, de acuerdo con lo establecido por la Ley Estatal de Responsabilidades;
+
+XX. Supervisar que las declaraciones de situación patrimonial y de intereses de los servidores públicos de la Administración Pública Estatal, se presenten conforme a los formatos, normas, manuales e instructivos emitidos por la autoridad competente;
+
+XXI. Coordinar la integración del padrón de servidores públicos de la Administración Pública Estatal para la presentación de las declaraciones de situación patrimonial, de intereses y la constancia de presentación de declaración fiscal, y coadyuvar en estas materias, cuando se requiera, con los Poderes Legislativo y Judicial, los Municipios del Estado y con los organismos autónomos;
+
+XXII. Practicar las verificaciones aleatorias de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los servidores públicos que se encuentren en el sistema de evolución patrimonial y, de no existir ninguna anomalía, expedir la certificación correspondiente para su anotación en dicho sistema. En caso contrario, requerirá las aclaraciones conducentes, y de no subsanarse las anomalías detectadas, lo denunciará a la autoridad investigadora que corresponda, de conformidad con la Ley Estatal de Responsabilidades;
+
+XXIII. Verificar el cumplimiento de la obligación de presentar la declaración de situación patrimonial, de intereses, y constancia de presentación de declaración fiscal, según corresponda, y en caso de incumplimiento sin causa justificada, lo denunciará a la autoridad investigadora correspondiente, para que se inicien las investigaciones por la presunta falta administrativa;
+
+XXIV. Proponer en materia de responsabilidades, así como de declaración de situación patrimonial y de intereses, la celebración de bases y convenios de coordinación con otras autoridades competentes; y,
+
+XXV. Las demás que le confieran las disposiciones legales y las que le atribuya expresamente el o la Titular de la Secretaría.
+
+Por instrucciones de quien presida la Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial las atribuciones señaladas en las fracciones XXII y XXIII se podrán efectuar por conducto de la Dirección de Situación Patrimonial.
 
 ###### Artículo 15.
 
 (DEROGADO, B.O. 19 DE JUNIO DE 2008)
 
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 19 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 15 Bis.
 
-La Dirección General de Información e Integración estará adscrita al titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
+La Coordinación Ejecutiva de Investigación de Faltas Administrativas estará adscrita al o la Titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
 
-I. Coadyuvar con las Direcciones Generales adscritas a la Secretaría de la Contraloría y con los Órganos de Control y Desarrollo Administrativo, en la realización de investigaciones que deban efectuarse para determinar si las conductas de los servidores públicos contravienen disposiciones del marco normativo que les es aplicable y puedan éstas generar responsabilidades administrativas;
+I. Practicar de oficio o a petición de parte a partir de las denuncias o de las auditorías realizadas por las autoridades competentes, o por auditores externos, las investigaciones por presuntas faltas administrativas cometidas por servidores (as) públicos (as) y particulares por conductas sancionables en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, y la Ley Estatal de Responsabilidades, según corresponda, para lo cual podrá solicitar a las unidades administrativas competentes de la Secretaría la práctica de visitas de verificación, inspección o auditorías, así como cualquier tipo de operativo específico que se requiera;
 
-II. Orientar y asesorar a los Órganos de Control y Desarrollo Administrativo sobre las acciones correspondientes en materia de investigación;
+II. Emitir los programas, guías y metodologías para la realización de las investigaciones para determinar la existencia de faltas administrativas;
 
-III. Formular programas, guías y metodologías para la realización de investigaciones;
+III. Programar, investigar y ejecutar acciones y diligencias específicas de oficio, o en coordinación con otras autoridades investigadoras, tendientes a prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en que incurran los y las servidores (as) públicos (as) y/o los particulares por conductas sancionables en términos de la Ley Estatal de Responsabilidades;
 
-IV. Programar, asesorar, orientar y participar en la ejecución de acciones para verificar el cumplimiento de obligaciones de los servidores públicos, en coordinación con las unidades administrativas de la Secretaría que así lo requieran;
+IV. Expedir copias certificadas de los documentos que obren en sus archivos, así como emitir las constancias de la información a su cargo que se encuentre en los medios magnéticos o electrónicos, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora, Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Sonora, y demás disposiciones aplicables;
 
-V. Analizar el contenido de los informes de los resultados de investigación y detectar conductas de servidores públicos que puedan constituir responsabilidades administrativas;
+V. Requerir información y documentación relacionada con los hechos objeto de la investigación a las dependencias y entidades paraestatales, así como a cualquier ente público federal, estatal y municipal o, en su caso, solicitarla a los particulares, de conformidad con la normatividad aplicable;
 
-VI. Implementar programas de capacitación en materia de investigación de las conductas de los servidores públicos que puedan constituir responsabilidades Administrativas;
+VI. Hacer uso de las medidas previstas en el artículo 137 de la Ley Estatal de Responsabilidades, a efecto de hacer cumplir sus determinaciones;
 
-VII. Coordinar la formulación de estudios y requerimientos necesarios para llevar a cabo la contratación tecnológica especializada, a fin de mejorar los procedimientos de investigación a cargo de la Secretaría, así como para la protección y seguridad de la información y documentación que obtenga con motivo de sus funciones;
+VII. Orientar y asesorar a las unidades administrativas de la Secretaría designadas como autoridades investigadoras cuando así lo requieran, en la realización de las investigaciones que deban efectuarse para prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en que incurran los y las servidores (as) públicos (as), por conductas sancionables en términos de la Ley Estatal de Responsabilidades;
 
-VIII. Cotejar y certificar, por conducto de los auditores adscritos a esta Dirección General, los papeles de trabajo que se generen por los actos de investigaciones a su cargo, con los documentos originales que obren en la dependencia o entidad correspondiente haciendo constar la autenticidad de dichos documentos;
+VIII. Proponer en materia de investigación, la celebración de bases y convenios de coordinación con otras autoridades competentes;
 
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+IX. Incorporar a las investigaciones que realice en términos del presente artículo, las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas nacionales e internacionales;
 
-IX.- Solicitar y obtener y, en su caso, resguardar para su posterior estudio y análisis, todos los documentos, datos, archivos electrónicos e informes relacionados con la investigación que se esté realizando, que obre en poder de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, así como solicitar las compulsas que se requieran de los archivos que obren en poder de aquéllos y de las personas físicas o morales que hayan tenido alguna participación en los hechos que se investiguen;
+X. Recibir y atender denuncias presentadas en contra de los y las titulares de las autoridades investigadoras, así como del personal de su adscripción.
 
-X. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con las dependencias y entidades federales, Procuraduría General de la República, con los Gobiernos de las Entidades Federativas y Municipios, así como con los demás órganos, entidades o instituciones autónomas, y órganos gubernamentales extranjeros u organizaciones internacionales y agencias extranjeras en materia de intercambio de información y capacitación en técnicas de investigación;
+XI. Elaborar y presentar ante la autoridad sustanciadora el Informe de Presunta Responsabilidad Administrativa acompañando el expediente respectivo, cuando de las investigaciones realizadas se determine la existencia de actos u omisiones que constituyan presuntas faltas administrativas, en términos de la Ley Estatal de Responsabilidades;
 
-XI. Practicar las investigaciones que se le encomienden sobre las conductas de servidores públicos que puedan constituir responsabilidades administrativas y requerir información a las dependencias, las entidades y a la Procuraduría General de Justicia, así como a las demás instituciones, organismos autónomos, y Autoridades Federales y Municipales, de acuerdo a los convenios o acuerdos que tenga celebrados la Secretaría;
+XII. Dictar los acuerdos que correspondan, incluido el de conclusión y archivo del expediente, así como el de calificación de las faltas administrativas como graves o no graves, y emitir el Informe de Presunta Responsabilidad Administrativa;
 
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+XIII. Citar al denunciante, cuando lo estime necesario, para la ratificación de la denuncia presentada por actos u omisiones posiblemente constitutivos de faltas administrativas cometidas por servidores (as) públicos (as) de las dependencias, entidades y/o particulares por conductas sancionables en términos de la Ley de (sic) Estatal de Responsabilidades;
 
-XII.- Denunciar ante la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a investigaciones o auditorias que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, y presentar la denuncia correspondiente ante el Ministerio Público;
+XIV. Ordenar la práctica de las actuaciones y diligencias que se requieran en la investigación correspondiente;
 
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+XV. Solicitar a las autoridades sustanciadoras o resolutoras las medidas cautelares y, en su caso, realizar las diligencias para mejor proveer, siempre y cuando las ordenen las autoridades correspondientes;
 
-XIII.- Solicitar y desahogar las comparecencias y declaraciones de cuanta persona resulte necesaria en el transcurso de las investigaciones y, en su caso, recurrir a los medios de apremio previstas en el artículo 90 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+XVI. Practicar las investigaciones a petición de la Dirección de Situación Patrimonial en aquéllos casos en los que se detecte la posible existencia de faltas administrativas derivado del análisis de las declaraciones a las que hace referencia el artículo 33 de la Ley Estatal de Responsabilidades;
 
-> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+XVII. Recibir y atender el recurso de inconformidad que se interponga con motivo de la calificación de las Faltas Administrativas no Graves, así como interponer los recursos que le corresponden en términos de la Ley Estatal de Responsabilidades;
 
-XIV.- Solicitar las medidas de apremio previstas en la Ley de Responsabilidades .de los Servidores Públicos del Estado y de los Municipios, a efecto de hacer cumplir sus determinaciones; y
+XVIII. Presentar ante las autoridades competentes las denuncias y querellas por hechos probablemente constitutivos de delito que resulten de las investigaciones a cargo de la Secretaría y que afecten los intereses del Estado y/o Federación, así como otorgar el perdón legal en los casos en que sea procedente;
 
-> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+XIX. Dictaminar mediante acuerdo los casos en que no proceda formular denuncia o querella, siempre que existan razones fundadas y motivadas para emitir el dictamen en ese sentido;
 
-XV.- Las demás que confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+XX. Coadyuvar con las autoridades investigadoras en la tramitación e investigación de las quejas y denuncias y con cualquier otra autoridad competente en los procedimientos instruidos por hechos o conductas que afecten los intereses del Estado y/o de la Federación;
+
+XXI. Proporcionar, en el ámbito de sus atribuciones, asesoría jurídica en materia penal o en cuestiones vinculadas con ésta, a las unidades administrativas de la Secretaría y a las autoridades investigadoras siempre que así lo requieran;
+
+XXII. Requerir a las unidades administrativas, entes públicos o a servidores (as) públicos (as) de la Secretaría, información, documentos, expedientes o dictámenes que, en su caso, le solicite el Ministerio Público en el ámbito de sus atribuciones;
+
+XXIII. Dar seguimiento de las denuncias o querellas que como resultado del ejercicio de sus atribuciones se formularon ante el Ministerio Público;
+
+XXIV. Coordinar, administrar y dar seguimiento oportuno al Sistema de Denuncias Ciudadanas del Estado de Sonora habilitado para ese fin;
+
+XXV. Remitir a la autoridad competente las quejas y denuncias, cuando su conocimiento no sea competencia de esta Coordinación Ejecutiva en los términos de la Ley Estatal de Responsabilidades y de las demás disposiciones jurídicas aplicables;
+
+XXVI. Atraer por instrucción del o la Titular de la Secretaría, la investigación de los procedimientos de responsabilidad administrativa, que sean competencia de los Órganos Internos de Control u Órganos de Control y Desarrollo Administrativo;
+
+XXVII. Recibir y tramitar de oficio o a petición de parte, las quejas o denuncias en contra de servidores (as) públicos (as) del Poder Ejecutivo, con motivo de presuntas irregularidades cometidas en el ejercicio de sus funciones que hayan sido detectadas en auditorías realizadas por las Unidades de Auditoría Gubernamental, de Obra Pública, así como las del Instituto Superior de la Auditoría de la Federación y de la Función Pública; incluyendo las detectadas por Faltas cometidas por particulares a las que alude la Ley Estatal de Responsabilidades; y
+
+XXVIII. Las demás que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende el o la Titular de la Secretaría.
 
 > <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1204,3 +1250,13 @@ B.O. 29 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN XXXVII, INCISO A, ARTÍCULO 6°; REFORMA EL ARTÍCULO 10, 18 Y 19; Y DEROGA FRACCIÓN IV, INCISO B, ARTÍCULO 6°; DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Los recursos humanos, materiales, financieros y presupuestales con que cuentan las Direcciones Generales de Información e Integración y de Responsabilidades y Situación Patrimonial pasarán a formar parte de la Coordinación Ejecutiva de Investigación de Faltas Administrativas y Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial, respectivamente.
+
+TERCERO.- Las menciones o referencias que se hagan a las Direcciones Generales de Información e Integración y de Responsabilidades y Situación Patrimonial de la Secretaría de la Contraloría en las leyes, reglamentos, lineamientos, acuerdos, manuales, circulares, oficios, y/o cualesquier documento, sellos, instrumentos jurídicos y disposiciones jurídicas de cualquier naturaleza, se entenderán hechas a la Coordinación Ejecutiva de Investigación de Faltas Administrativas y Coordinación Ejecutiva de Sustanciación y Resolución de Responsabilidades y Situación Patrimonial, respectivamente.
