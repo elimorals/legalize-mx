@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-municipio-de-el-56543"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-27"
-last_updated: "2007-07-27"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA MUNICIPIO DE EL CARMEN, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE EL CARMEN, N.L., PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE PARTICIPACION CIUDADANA MUNICIPIO DE EL CARMEN, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de julio de 2007.
 
@@ -324,3 +326,15 @@ DR. FÉLIX GARZA AYALA
 SECRETARIA DEL R. AYUNTAMIENTO
 
 C. IMELDA VILLARREAL FERNÁNDEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE EL CARMEN, N.L.”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y su cumplimiento es obligatorio dentro del territorio de este municipio.
+
+SEGUNDO.- Se abroga el Reglamento de Participación Ciudadana del Municipio de El Carmen, Nuevo León, publicado en el Periódico Oficial del Estado del día 27 de Julio de 2007 y sus reformas y demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese el presente reglamento en el portal electrónico de Internet del municipio para cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León y en la Tabla de Avisos para su debida difusión. Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría del Ayuntamiento, para su publicación en dicho órgano y se le dé el debido cumplimiento.
