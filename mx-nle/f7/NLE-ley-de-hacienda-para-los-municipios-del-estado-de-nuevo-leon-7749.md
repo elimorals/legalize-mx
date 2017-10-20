@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-02-24"
+last_updated: "2017-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 24 DE FEBRERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2543,7 +2541,7 @@ Por el excedente de 150 metros, Pagarán por cada metro cuadrado o fracción de 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-En ningún caso la cantidad a pagar Será mayor a 1 ,400 cuotas
+En ningún caso la cantidad a pagar Será mayor a 1,400 cuotas
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -2983,7 +2981,7 @@ Cuando el Municipio efectúe los servicios a los que se refiere el párrafo ante
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Lotes baldíos con superficie hasta 1 ,000 metros cuadrados, por cada metro cuadrado 0.84 cuotas
+a) Lotes baldíos con superficie hasta 1,000 metros cuadrados, por cada metro cuadrado 0.84 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3116,6 +3114,10 @@ Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parq
 (ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 Dicha tarifa deberá pagarse de manera proporcional conforme los meses completos del año que hayan transcurrido.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+Los Ayuntamientos dentro de del (sic) ámbito de sus facultades podrán considerar dentro de las bases generales para el otorgamiento de subsidios de contribuciones y demás ingresos municipales tarifas especiales para el estacionamiento de vehículos de personas con discapacidad hasta por un 100% de los derechos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -3969,7 +3971,7 @@ P.O. 30 DE DICIEMBRE DE 2016.
 
 (NOTA: EL 21 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 232, PUBLICADO EL TRES DE FEBRERO DE DOS MIL DIECISIETE EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
 CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -3988,3 +3990,9 @@ Así mismo, de conformidad con lo establecido en el Artículo 100, fracción IX 
 Durante el ejercicio fiscal 2017 en los Municipios donde se haya aprobado una actualización de los valores unitarios de suelo o construcción en los usos de suelo de casa habitación, cuya vigencia inició el 1 de enero de 2017, el impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Junio, sin recargos. En el caso de que se pague a más tardar el día 5° del mes de Abril, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Mayo, gozará de una reducción del 10% de la misma.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 294. SE REFORMA POR ADICIÓN DE UN PÁRRAFO TERCERO INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 65 BIS 1, DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
