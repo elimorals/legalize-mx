@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2016-05-02"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2016.
-
-> <small>[N. DE E. SE SUGIERE CONSULTAR LAS NOTAS QUE HACEN REFERENCIA A CADA ARTÍCULO EN EL EXTRA DEL P.O. DE 2 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -669,7 +667,7 @@ Todos los Municipios podrán solicitar al Instituto, que de manera subsidiaria d
 
 Además de lo señalado en el artículo 76 de la Ley General, y en el artículo 19 del presente ordenamiento, así como, en la Ley General de Partidos Políticos, los partidos políticos locales, las agrupaciones políticas, y las personas morales constituidas en asociación civil creadas por los ciudadanos que pretendan postular una candidatura independiente, conforme a su naturaleza jurídica, deberán poner a disposición del público la siguiente información:
 
-I. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargo de elección popular;
+I. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular;
 
 II. Los informes anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña que se presentan ante la autoridad electoral, y
 
@@ -907,7 +905,7 @@ VIII. Afecte la recaudación de las contribuciones;
 
 (ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-IX. Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto se adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
+IX. Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto sea adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
 
 (F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
@@ -935,7 +933,7 @@ XIII. Se contiene en los expedientes de las denuncias y procedimientos de juicio
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-XIV. Obstruya los procedimientos para fincar responsabilidad a Servidores Públicos, en tanto no se haya dictado la resolución administrativa; y
+XIV. Obstruya los procedimientos para fincar responsabilidad a los Servidores Públicos, en tanto no se haya dictado la resolución administrativa, y
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
@@ -1198,6 +1196,10 @@ IX. Las demás que se desprendan de la normatividad aplicable.
 ###### Artículo 69.
 
 El Instituto es un órgano público, dotado de autonomía constitucional, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el ejercicio del derecho de acceso a la información y la protección de datos personales, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley General y esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+El titular del Instituto deberá integrar el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y de cualquier otro Sistema u Órgano colegiado que por disposición de Ley este obligado a pertenecer.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -1647,13 +1649,15 @@ XIII. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de
 
 XIV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realización y desarrollo de sus atribuciones;
 
-(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XV. Otorgar los nombramientos del personal del instituto, y
+XV. Otorgar los nombramientos que correspondan al personal del Instituto;
 
-(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XVI. Las demás que le confiera esta ley u otras disposiciones aplicables.
+XVI. Integrar y participar en el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, conforme a lo establecido en la Ley de la materia, e informar al Consejo General de las acciones realizadas; y
+
+XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
@@ -1741,7 +1745,7 @@ XIX.- Las demás que le otorgue esta Ley, la Ley de responsabilidades de los Ser
 
 ###### Artículo 98.
 
-El Consejo Consultivo Ciudadano es un órgano honorífico, de consulta y opinión del Instituto, el cual se integra por cinco Consejeros que gocen de reconocido prestigio en organizaciones de la sociedad civil o la academia, preferentemente con experiencia en las materias de transparencia, acceso a la información pública, protección de datos personales, y derechos humanos.
+El Consejo Consultivo Ciudadano es un órgano honorífico, de consulta y opinión del Instituto, el cual se integra por cinco Consejeros que gocen de reconocido prestigio en organizaciones de la sociedad civil o la academia, preferentemente con experiencia en las materias de transparencia, acceso a la información pública, protección de datos personales y derechos humanos.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -1779,7 +1783,7 @@ El Consejo Consultivo Ciudadano contará con un Presidente y un Secretario Técn
 
 ###### Artículo 103.
 
-El presidente del Consejo Consultivo Ciudadano convocará a sesión cuando menos una vez al mes, requiriendo para ello la asistencia de la mayoría de sus integrantes para sesionar válidamente y ejercer sus atribuciones. Las sesiones podrán ser ordinarias y extraordinarias.
+El Presidente del Consejo Consultivo Ciudadano convocará a sesión cuando menos una vez al mes, requiriendo para ello la asistencia de la mayoría de sus integrantes para sesionar válidamente y ejercer sus atribuciones. Las sesiones podrán ser ordinarias y extraordinarias.
 
 Las sesiones extraordinarias podrán convocarse a solicitud del presidente del Consejo General del Instituto, o por solicitud que al presidente del Consejo formulen por lo menos tres de sus miembros cuando estimen que hay razones de importancia para ello y así se justifique en un escrito de petición.
 
@@ -1825,7 +1829,7 @@ X. Las demás que le señalen las disposiciones normativas aplicables.
 
 ###### Artículo 107.
 
-El presidente del Consejo Consultivo Ciudadano tiene las siguientes atribuciones y obligaciones.
+El Presidente del Consejo Consultivo Ciudadano tiene las siguientes atribuciones y obligaciones.
 
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1847,7 +1851,7 @@ IV. Vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo Consul
 
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
-V. Mantener comunicación con el consejo General a través de su presidente; así como con los integrantes del Consejo Consultivo Ciudadano;
+V. Mantener comunicación con el Consejo General a través de su presidente; así como con los integrantes del Consejo Consultivo Ciudadano;
 
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
@@ -1887,7 +1891,7 @@ VII. Las demás que establezca el Reglamento Interno del Consejo Consultivo Ciud
 
 (F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-###### ARTÍCULO 109.
+###### Artículo 109.
 
 Los sujetos obligados no podrán establecer en los procedimientos de acceso a la información, mayores requisitos ni plazos superiores a los estrictamente establecidos en la Ley General ni en esta ley, a efecto de garantizar que el acceso sea sencillo, pronto y expedito.
 
@@ -2684,3 +2688,9 @@ SÉPTIMO. Los sujetos obligados se incorporarán a la Plataforma Nacional de Tra
 En tanto entren en vigor los Lineamientos que se refieren en el párrafo anterior, los sujetos obligados deberán mantener y actualizar en sus respectivas páginas de Internet, la información pública de oficio, conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca con fecha quince de marzo de dos mil ocho mediante Decreto número 221.
 
 OCTAVO. El Consejo Consultivo Ciudadano, integrado mediante Decreto número 1300 de la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, publicado el cinco de septiembre de dos mil quince en el Periódico Oficial del Gobierno del Estado de Oaxaca, deberá emitir sus Lineamientos de operación interna, en un plazo no mayor a treinta días naturales siguientes a la publicación del presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
