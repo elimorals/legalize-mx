@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2016-11-10"
+last_updated: "2017-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -235,11 +235,27 @@ Las mujeres disfrutarán de un descanso de un mes antes de la fecha que aproxima
 
 En el período de lactancia, y hasta por un plazo de seis meses, las mujeres tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos.
 
-> <small>(ADICIONADO, D.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O. 20 DE OCTUBRE DE 2017)</small>
 
-###### ARTICULO 32 Bis.
+Los hombres gozarán de un permiso de paternidad de ocho días hábiles con goce íntegro de sueldo, contados a partir del nacimiento de su hijo, el cual deberá ser acreditado con documento idóneo.
 
-Las mujeres trabajadoras gozarán de un permiso al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificar este permiso, se deberé presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
+> <small>(ADICIONADO, D.O. 20 DE OCTUBRE DE 2017)</small>
+
+Los trabajadores al servicio del estado disfrutarán de un permiso de ocho días hábiles cuando se trate de la adopción de un infante, contados a partir de la entrega física del menor por parte de la institución oficialmente responsable, que deberá acreditarlo con documento idóneo.
+
+> <small>(ADICIONADO, D.O. 20 DE OCTUBRE DE 2017)</small>
+
+Cuando no se ejerza el derecho a gozar del permiso por paternidad o adopción, en ningún caso podrá reclamarse pago compensatorio alguno derivado de dicha situación.
+
+> <small>(REFORMADO, D.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 32 bis.- Las mujeres trabajadoras gozarán del permiso de un día al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificar este permiso, se deberá presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
+
+Los hombres trabajadores también gozarán del permiso de un día al año, con goce íntegro de sueldo para someterse a la realización de exámenes médicos de prevención y detección de cáncer de próstata; para justificar este permiso, deberán presentar el documento que se señala en el párrafo anterior.
+
+Todos los trabajadores gozarán de permiso con goce de sueldo para acudir a citas médicas cuya finalidad sea la práctica de quimioterapias, radioterapias o procedimiento oncológico diverso en contra de cualquier tipo de cáncer cuando algún hijo menor de edad padezca tal enfermedad. Para justificar dicho permiso bastará con presentar constancia médica expedida por institución pública o privada.
+
+Los permisos señalados en este artículo no podrán ser sujetos de compensación económica en caso de no ser ejercidos.
 
 ###### ARTICULO 33.
 
@@ -1332,3 +1348,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Ampliación de beneficios
 
 El beneficio otorgado en el presente Decreto, podrá ser extensivo a las mujeres trabajadoras de las entidades paraestatales del estado, en tanto éstas adecuan su normatividad interna que las regula.
+
+D.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 528/2017 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN".]
+
+Entrada en vigor
+
+Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del gobierno del estado.
+
+Ampliación de beneficios
+
+Segundo. El beneficio otorgado en el presente decreto, podrá ser extensivo a todos los trabajadores de las entidades paraestatales del estado, en tanto éstas adecuan su normatividad interna que las regula.
