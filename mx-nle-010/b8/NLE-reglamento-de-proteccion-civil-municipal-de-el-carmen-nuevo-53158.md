@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-el-carmen-nuevo-531
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-15"
-last_updated: "2007-01-15"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,348 +22,556 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE EL CARMEN, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE EL CARMEN, NUEVO LEON
+LEY NÚMERO 921 QUE REGULA EL SERVICIO DE LIMPIA PÚBLICA EN LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE QUE NO CUENTEN CON REGLAMENTACIÓN EN ESA MATERIA
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de enero de 2007.
+Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 10 de noviembre de 2016.
 
-EL CIUDADANO PRESIDENTE MUNICIPAL DE EL CARMEN NUEVO LEÓN, A LOS HABITANTES DE ESTE MUNICIPIO HACE SABER QUE:
+Al margen un sello que dice: Estados Unidos Mexicanos.— Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-EN EL SALÓN DE SESIONES DEL R. AYUNTAMIENTO DEL MUNICIPIO DEL CARMEN, NUEVO LEÓN, EN SESIÓN ORDINARIA NO. 1 HA SIDO APROBADO POR UNANIMIDAD EL SIGUIENTE REGLAMENTO QUE SE LE HIZO MODIFICIÓN (SIC), POR LO QUE MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO A LOS 31 DÍAS DEL MES DE OCTUBRE DEL 2006.
+Xalapa-Enríquez, noviembre 7 de 2016
 
-REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE EL CARMEN, NUEVO LEON.
+Oficio número I-017/2016
 
-### CAPITULO I. DE LA CONSTITUCION
+Flavino Ríos Alvarado, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-###### ARTÍCULO 1.
+Que la Sexagésima Tercera Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
 
-EL PRESENTE REGLAMENTO TIENE POR OBJETO LA PREVENCION Y ATENCION DE DESASTRES EN EL TERRITORIO MUNICIPAL, CREANDOSE PARA TAL EFECTO, EL SISTEMA MUNICIPAL DE PROTECCION CIVIL COMO UN ORGANO CONSULTIVO DE COORDINACION DE ACCIONES O INSTRUMENTO DE PARTICIPACION CIUDADANA.
+Al margen un sello que dice: Estados Unidos Mexicanos.— Poder Legislativo.— Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
-###### ARTÍCULO 2.
+LA SEXAGÉSIMATERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-EL SISTEMA MUNICIPAL DE PROTECCION CIVIL SERA OPERADO POR UN CONSEJO MUNICIPAL DE PROTECCION CIVIL Y ESTARA INTEGRADO COMO SIGUE:
+LEY NÚMERO 921 QUE REGULA EL SERVICIO DE LIMPIA PÚBLICA EN LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE QUE NO CUENTEN CON REGLAMENTACIÓN EN ESA MATERIA.
 
-A) DIRECTIVA
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-PRESIDENTE: EL PRESIDENTE MUNICIPAL EN FUNCIONES.
+### CAPÍTULO I. OBJETO Y APLICACIÓN DE LA LEY
 
-SECRETARIO EJECUTIVO: EL SECRETARIO DEL R. AYUNTAMIENTO.
+###### Artículo 1.
 
-SECRETARIO TECNICO: EL DIRECTOR MUNICIPAL DE PROTECCIÓN CIVIL.
+La presente Ley es de orden público e interés general y tiene por objeto regular el manejo y la disposición de desechos, así como la administración del servicio de Limpia Pública en los municipios del Estado de Veracruz de Ignacio de la Llave que no cuenten con reglamentación en esa materia.
 
-B) CUERPO DEL CONSEJO
+###### Artículo 2.
 
-DESCRIPCION DEL COMITE INTEGRANTES DEL COMITÉ
+En los términos establecidos por esta Ley, serán responsables todos los individuos que generen un daño ambiental, con motivo de sus actos u omisiones relacionados con la utilización o prestación del servicio de Limpia Pública en el territorio veracruzano.
 
-COMITE DE EVALUACION DE DAÑOS: RESPONSABLE DE DESARROLLO URBAN (SIC), OBRAS PÚBLICAS Y ECOLOGÍA MUNICIPAL.
+###### Artículo 3.
 
-COMITE DE SEGURIDAD: DIRECCION DE SEGURIDAD PUBLICA Y VIALIDAD MUNICIPAL, POLICIA RURAL DEL ESTADO, POLICIA MINISTERIAL DEL ESTADO, POLICIA FEDERAL DE CAMINOS, CAPITANIA DE PUERTOS, SECRETARIA DE LA DEFENSA NACIONAL.
+Asimismo, esta norma fijará las bases para realizar la separación, barrido, recolección, transporte, selección y destino final con el fin de mejorar el servicio de Limpia Pública en el estado.
 
-COMITE DE BUSQUEDA, SALVAMENTO Y ASISTENCIA: RESPONSABLE DEL DEPARTAMENTO DE BOMBEROS DEL MUNICIPIO, DEPARTAMENTO DE SEGURIDAD PUBLICA MUNICIPAL, SECRETARIA DE LA DEFENSA NACIONAL.
+###### Artículo 4.
 
-COMITE DE SERVICIOS ESTRATEGICOS, EQUIPAMIENTO Y BIENES: DIRECCION O DEPARTAMENTO DE DESARROLLO URBANO, OBRAS PUBLICAS Y ECOLOGIA MUNICIPAL, SECRETARIA DE SERVICIOS MUNICIPALES, COMISION FEDERAL DE ELECTRICIDAD, BOMBEROS DE EL CARMEN N.L., SECRETARIA DE LA DEFENSA NACIONAL, OFICINA LOCAL DE TELEFONIA, OFICINA LOCAL DE AGUA Y DRENAJE Y SCT.
+En todo lo no previsto en la presente Ley, se aplicarán, en lo conducente, los criterios, principios y demás disposiciones contenidas en:
 
-COMITE DE SALUD: RESPONSABLE Ó DIRECCION MUNICIPAL DE DESARROLLO SOCIAL Y HUMANO, IMSS, ISSTE (SIC), SECRETARIA DE SALUD ESTATAL, HOSPITAL CIVIL.
+I. Ley Estatal de Protección Ambiental;
 
-COMITE DE APROVISIONAMIENTO Y ALBERGUES: DIF MUNICIPAL, IMSS, ISSTE (SIC), HOSPITAL CIVIL, SECRETARIA DE SALUD.
+II. Ley de Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Veracruz de Ignacio de la Llave;
 
-COMITE DE COMUNICACION SOCIAL DE EMERGENCIA: SECRETARIA DEL AYUNTAMIENTO, RADIO GOBIERNO, DIFUSORAS LOCALES, Y PERSONAL LOCAL.
+III. Ley Orgánica del Municipio Libre;
 
-COMITE DE RECONSTRUCCION INICIAL Y VUELTA A LA NORMALIDAD: DEPARTAMENTO Ó DIRECCION DE DESARROLLO URBANO, OBRAS PUBLICAS Y ECOLOGIA MUNICIPAL, SECRETARIA DE SERVICIOS PUBLICOS MUNICIPAL, OFICINA LOCAL DE AGUA Y DRENAJE, C.F.E., SEDENA., DIF.
+IV. Código de Procedimientos Administrativos, en su caso; y
 
-C) GRUPOS DE VOLUNTARIOS
+V. Los demás ordenamientos aplicables en la materia.
 
-LOS GRUPOS DE VOLUNTARIOS NO INCLUIDOS DENTRO DE LOS COMITES MENCIONADOS EN EL INCISO “B” PRESTARAN AUXILIO A LOS COMITES A PETICION DE CUALQUIER MIEMBRO DE LA DIRECTIVA DEL CONSEJO MENCIONADO EN EL INCISO “A” ENTENDIENDOSE PARA LOS EFECTOS DE ESTE REGLAMENTO A GRUPOS DE VOLUNTARIOS COMO LAS ORGANIZACIONES Y ASOCIACIONES LEGALMENTE CONSTITUIDAS QUE CUENTAN CON EL RECONOCIMIENTO OFICIAL DE LA DIRECCION MUNICIPAL DE PROTECCION CIVIL, CUYO OBJETO SOCIAL SEA PRESTAR SUS SERVICIOS EN PROTECCION CIVIL DE MANERA COMPROMETIDA Y ALTRUISTA, SIN RECIBIR RENUMERACION (SIC) ALGUNA, Y QUE PARA TAL EFECTO CUENTAN CON LOS CONOCIMIENTOS, PREPARACION Y EQUIPOS NECESARIOS E IDONEOS.
+###### Artículo 5.
 
-###### ARTÍCULO 3.
+Para los efectos de esta Ley se entenderá por:
 
-FUNCIONES DEL CONSEJO:
+I. Almacenamiento: Retención temporal de los residuos, en lugares propicios, para prevenir daños al ambiente, los recursos naturales y a la salud de la población;
 
-A) CONSTITUIRSE COMO UN ORGANISMO AUXILIAR DE CONSULTA DEL GOBIERNO Y LA ADMINISTRACION MUNICIPAL EN MATERIA DE PROTECCION CIVIL Y SER UN MECANISMO DE INTEGRACION, CONCERTACION Y COORDINACION DE LOS SECTORES PUBLICO SOCIAL Y PRIVADO EN LA EJECUCION DE ACCIONES PARA LA PREVENCION Y ATENCION DE DESASTRES.
+II. Ayuntamiento: Corporación o grupo de personas integrado por un presidente, síndico y uno o más regidores que se encarga de administrar (sic) gobernar un municipio;
 
-B) ALERTAR Y COORDINAR LA PARTICIPACION CIUDADANA EN LA FORMULACION Y EJECUCION DE LOS PROGRAMAS DESTINADOS A SATISFACER LAS NECESIDADES PRESENTES Y FUTURAS DE PROTECCION CIVIL DE LA POBLACION DEL MUNICIPIO.
+III. Barrido: Limpieza de las calles y áreas públicas, mediante utensilios manuales o mecánicos;
 
-C) ELABORAR Y PRESENTAR PARA SU APROBACION AL AYUNTAMIENTO EL PLAN MUNICIPAL DE CONTINGENCIAS.
+IV. Basura: Conjunto de desechos que entran en descomposición, contaminan, ponen en riesgo la salud y que no se pueden reciclar o aprovechar;
 
-D) INTEGRAR Y MANTENER ACTUALIZADO EL ATLAS MUNICIPAL DE LOS RIESGOS DE DESASTRE FACTIBLES EN EL MUNICIPIO Y LAS POSIBLES CONSECUENCIAS QUE PUEDAN DERIVARSE DE CADA UNO DE ELLOS, A EFECTO DE ORGANIZAR ACCIONES PARA ELIMINARLOS O DISMINUIR EL IMPACTO DE LOS MISMOS EN LA POBLACION Y SUS BIENES Y A LA NATURALEZA.
+V. Basurero a Cielo Abierto: Lugar donde los habitantes aprovechan para hacer la acumulación de basura indebidamente;
 
-E) INVENTARIAR Y HACER POSIBLE LA DISPONIBILIDAD PERMANENTE DEL MAYOR NUMERO DE RECURSOS MATERIALES Y HUMANOS NECESARIOS PARA LA PREVENCION Y ATENCION DE DESASTRE.
+VI. Beneficio: En la utilidad se diferencia entre los ingresos resultantes de las ventas de los productos y los gastos que ocasiona su producción;
 
-F) ARTICULAR POLITICAS Y ACCIONES INSTITUCIONALES EN MATERIA DE PROTECCION CIVIL A EFECTO DE QUE SE EVITE EN LO POSIBLE ACCIONES AISLADAS O DISPERSAS QUE DIFICULTEN UNA ADECUADA SUMA DE ESFUERZOS.
+VII. Centros de Acopio: Sitios destinados a recepción de residuos, con el fin de garantizar su pureza, mediante captación previa a su integración al caudal urbano de desechos por recolección;
 
-G) COORDINAR LAS ACCIONES DE SALVAMENTO Y AUXILIAR, CUANDO SE PRESENTEN FENOMENOS DE DESASTRE.
+VIII. Centro de Transferencia: Conjunto de equipos e instalaciones donde se lleva a cabo el transbordo de residuos, de los vehículos recolectores a vehículos de carga de mayor capacidad, para transportarlos hasta los sitios de destino final. En estos centros podría haber instalaciones para el aprovechamiento de los residuos;
 
-H) FOMENTAR EL SENTIMIENTO DE SOLIDARIDAD COMO UN ELEMENTO ESENCIAL PARA LA UNIDAD DE LA COLECTIVIDAD DEL MUNICIPIO EN LA PREVENCION Y ATENCION A SINIESTROS.
+IX. Concesionario: Persona física o moral a quien mediante concesión se le autoriza para efectuar una o todas las actividades que comprenden los servicios de Limpia Pública;
 
-I) IMPULSAR ACCIONES DE CAPACITACION ESPECIALIZADA EN OPERACIONES DE RESCATE DENTRO DE LOS CUERPOS INSTITUCIONALES DE PROTECCION CIVIL, LA CAPACITACION DE MAYOR NUMERO DE SECTORES DE LA POBLACION PARA QUE LOS CIUDADANOS CONOZCAN DE MEDIDAS PREVENTIVAS DE ACCIDENTES O COMO ACTUAR CUANDO ELLOS OCURRAN DESARROLLAR UNA AMPLIA DIVULGACION DE LOS ASPECTOS DE PROTECCION CIVIL QUE PONDERE LA EDUCACION DE LOS NIÑOS.
+X. Consumo: Utilizar géneros para el sustento;
 
-###### ARTÍCULO 4.
+XI. Contenedor: Recipiente localizado en zonas habitacionales, comerciales y lugares públicos, con capacidad para admitir temporalmente residuos;
 
-EL CONSEJO MUNICIPAL DE PROTECCION CIVIL FORMA PARTE DEL SISTEMA ESTATAL DE PROTECCION CIVIL Y SUS ACTUACIONES SERAN EN COLABORACION Y COORDINACION CON LOS NIVELES ESTATAL Y FEDERAL DEL SISTEMA Y ES NORMADO POR ESTE REGLAMENTO.
+XII. Destino Final: Lugar debidamente autorizado, reservado al manejo, tratamiento, valorización y reciclado de residuos;
 
-###### ARTÍCULO 5.
+XIII. Estado: Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
 
-EL CONSEJO MUNICIPAL DE PROTECCION CIVIL SESIONARA ORDINARIAMENTE POR LO MENOS DOS VECES AL AÑO, Y EN FORMA EXTRAORDINARIA PODRA SESIONAR EN CUALQUIER MOMENTO A CONVOCATORIA DE CUALQUIER MIEMBRO DE SU DIRECTIVA.
+XIV. Extracción: Consiste en separar una materia prima, productos con ciertas propiedades análogas;
 
-### CAPITULO II. DEL CONSEJO
+XV. Ley: Precepto establecido por la autoridad competente, en que se manda o se prohíbe algo en consonancia con la justicia;
 
-###### ARTÍCULO 6.
+XVI. Limpia Pública: Preservación permanente de las condiciones higiénico-sanitarias en los lugares públicos, desde la recolección hasta el destino final de los residuos sólidos;
 
-CUANDO EL MUNICIPIO, CUALQUIERA DE SUS CENTROS DE POBLACION O PARTE DE ESTOS SE ENCUENTRE ANTE LA PRESENCIA DE UN SINIESTRO QUE POR SU MAGNITUD AFECTE GRAVEMENTE A LA POBLACION, EL PRESIDENTE DEL CONSEJO EMITIRA PREVIO EL DIAGNOSTICO Y LA EVALUACION DE LA EMERGENCIA POR EL PROPIO CONSEJO, LA DECLARATORIA DE DESASTRE, PARA LA ZONA AFECTADA.
+XVII. Lixiviados: Líquidos provenientes de los residuos, generados por degradación, y arribados por el flujo superficial o por percolación, disueltos o en suspensión, que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en que se depositan los residuos, constituyendo un riesgo potencial para la salud humana y demás organismos vivos;
 
-### CAPITULO III. DE LOS CIUDADANOS
+XVIII. Lugares Públicos: Espacios de uso común y libre tránsito, incluyendo parques, plazas y jardines;
 
-###### ARTÍCULO 7.
+XIX. Medio Ambiente: Todo lo que rodea a un ser vivo. Entorno que afecta y condiciona especialmente las circunstancias de vida de la sociedad;
 
-ES OBLIGACION DE LOS CIUDADANOS DEL MUNICIPIO PRESTAR TODA CLASE DE COLABORACION A LAS DEPENDENCIAS Y CONSEJO MUNICIPAL DE PROTECCION CIVIL ANTE SITUACIONES DE DESASTRE, SIEMPRE Y CUANDO ELLO NO IMPLIQUE UN PERJUICIO EN SU PERSONA O EN SU PATRIMONIO.
+XX. Municipio: Conjunto de habitantes de un término jurisdiccional, regido por un Ayuntamiento;
 
-### CAPITULO IV. DE LAS ATRIBUCIONES DE LA DIRECCION DE PROTECCION CIVIL
+XXI. Parques: Áreas de uso público constituidas en los centros de población para obtener y preservar el equilibrio ecológico de los ecosistemas, esparcimiento de la población y belleza natural;
 
-###### ARTÍCULO 8.
+XXII. Pepena: Acción insalubre de realizar la separación manual de subproductos contenidos en los residuos sólidos;
 
-CUANDO UN DESASTRE SE DESARROLLE O SE ORIGINE EN PROPIEDAD PRIVADA SUS PROPIETARIOS O ENCARGADOS ESTAN OBLIGADOS A FACILITAR EL ACCESO A LOS CUERPOS DE RESCATE Y PROPORCIONAR TODA CLASE DE INFORMACION Y AYUDA A SU ALCANCE A LA AUTORIDAD.
+XXIII. Pepenador: Persona que selecciona y recolecta todo tipo de materia prima;
 
-### CAPITULO V. REGULACIONES DE SEGURIDAD PARA CENTROS DE POBLACION
+XXIV. Personas Físicas: Todo ser humano nacido, vivo o viable;
 
-###### ARTÍCULO 9.
+XXV. Personas Morales: Toda entidad a la que la ley reconoce personalidad jurídica propia, distinta de la de sus componentes;
 
-CUANDO EL ORIGEN DE UN DESASTRE SE DEBA A ACCIONES REALIZADAS POR ALGUNA PERSONA INDEPENDIENTEMENTE DE LAS ACCIONES A QUE HAYA LUGAR SE HARA ACREEDOR A LAS MULTAS QUE IMPONGAN LAS AUTORIDADES COMPETENTES; ASI COMO, DE LA RESPONSABILIDAD QUE RESULTE DE DAÑOS A TERCEROS Y DAÑOS CAUSADOS A LA INFRAESTRUCTURA URBANA.
+XXVI. Plantas de Selección: Lugar donde se seleccionan los desechos para reciclarlos o transformarlos;
 
-###### ARTÍCULO 10.
+XXVII. Plantas de Transferencia: Son centros de recepción de residuos, ubicados en el entorno de las poblaciones. Cuya finalidad es permitir la carga y descarga de los vehículos para trasladarlos al destino final;
 
-ES COMPETENCIA DE LA DIRECCION DE PROTECCION CIVIL REALIZAR VISITAS DE INSPECCION EN TODO TIEMPO EN AQUELLOS LUGARES PUBLICOS O PRIVADOS QUE SE PRESUMA CONSTITUYAN UN PUNTO DE RIESGO PARA LA SEGURIDAD O SALUD PUBLICA, O PARA CERCIORARSE DE QUE LAS PERSONAS FÍSICAS O MORALES CUMPLAN LAS MEDIDAS PREVENTIVAS QUE POR OBLIGACION TENGAN QUE RESPETAR.
+XXVIII. Producción: Acto o conjunto de actos mediante los cuales se crea riqueza, en sus diversos procesos de extracción, obtención y transformación;
 
-###### ARTÍCULO 11.
+XXIX. Recolección: Acción que tiene por objeto recoger los residuos hacia el vehículo o equipo que los conducirá a las instalaciones necesarias para su manejo o disposición final;
 
-EL PRESIDENTE DE LA DIRECTIVA DEL CONSEJO EN CONJUNTO CON EL DIRECTOR DE PROTECCION CIVIL PODRA INTERVENIR INSTALACIONES, PROCEDER A LA DESTRUCCION O DECOMISO DE MATERIALES, CLAUSURAR ESTABLECIMIENTOS, AISLAR O EVACUAR AREAS O ZONAS Y DEMAS MEDIDAS DE SEGURIDAD URGENTES, A CRITERIO DE LA PROPIA AUTORIDAD, CUANDO ELLO SEA NECESARIO PARA COMBATIR UN PUNTO DE RIESGO QUE POR SU MAGNITUD CONSTITUYA A UN PELIGRO GRAVE PARA LA SALUD O LA SEGURIDAD DE LA POBLACION.
+XXX. Residuos: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo y tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-###### ARTÍCULO 12.
+XXXI. Residuos Domésticos: Desechos generados en las viviendas;
 
-LOS DEPOSITOS O ALMACENES DE GAS, COMBUSTIBLE, SOLVENTES, MADERAS, EXPLOSIVOS O DE CUALQUIER MATERIAL QUE POR SU NATURALEZA O CANTIDAD SEA ALTAMENTE FLAMABLE O EXPLOSIVO, DEBERAN ACONDICIONARSE ESPECIALMENTE PARA TAL FIN, GUARDANDO LAS MEDIDAS DE SEGURIDAD QUE CORRESPONDAN, ESTANDO OBLIGADOS LOS PROPIETARIOS, POSEEDORES O RESPONSABLES DE DEPOSITOS O ALMACENES, A MOSTRAR LA LICENCIA O PERMISO VIGENTE EXPEDIDO POR LA AUTORIDAD QUE CORRESPONDE LA SEGURIDAD DE PREVENCION DE ACCIDENTES AL PERSONAL DE INSPECCION DIRECCION DE PROTECCION CIVIL.
+XXXII. Residuos Especiales: Desechos que requieren de un manejo diferente al que se presta a los residuos sólidos municipales;
 
-TALES DEPOSITOS O ALMACENES DEBERAN UBICARSE EN LOS PARQUES INDUSTRIALES O EN LAS AFUERAS DE LOS CENTROS DE POBLACION.
+XXXIII. Residuos Municipales: Desechos considerados peligrosos y no peligrosos;
 
-###### ARTÍCULO 13.
+XXXIV. Residuos Orgánicos: Desechos de naturaleza vegetal o animal, cuya composición química predominante es a base de carbono;
 
-ES OBLIGACION DE LOS PROPIETARIOS, ARRENDATARIOS O USUFRUCTUARIOS, DE TERRENOS BALDIOS Y DE EDIFICACIONES HABITADAS O ABANDONADAS, DENTRO DE LOS CENTROS DE POBLACION EN EL MUNICIPIO, EL MANTENER LOS PATIOS LIBRES DE MATERIALES INCENDIABLES COMO HIERBAS O PASTOS SECOS, MADERAS, LLANTAS, SOLVENTES Y BASURA ENTRE OTROS.
+XXXV. Residuos Sólidos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques;
 
-###### ARTÍCULO 14.
+XXXVI. Relleno Sanitario: Obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico del territorio y a las normas oficiales mexicanas;
 
-ES OBLIGACION DE TODOS LOS ESTABLECIMIENTOS COMO INDUSTRIAS, ALMACENES, GASOLINERAS, COMERCIOS, HOTELES, CENTRO DE ESTUDIO, CENTRO DE SALUD, OFICINAS PUBLICAS, SALONES DE FIESTA, ASÍ COMO CUALQUIER OTRO LOCAL PUBLICO PRIVADO, Y EN GENERAL, A CUALQUIER INSTALACION, CONSTRUCCION, SERVICIO U OBRA, EN LOS QUE
+XXXVII. Residuos Urbanos: Desechos domésticos y otros no peligrosos generados en la ciudad;
 
-(SIC) DEBIDO A SU PROPIA NATURALEZA, AL USO A QUE SE DESTINEN, O A LA CONCURRENCIA MASIVA DE PERSONAS DONDE PUEDA EXISTIR RIESGO. EL CONTAR CON UNIDADES INTERNAS DE PROTECCION CIVIL DEBIDAMENTE AVALADAS POR LAS AUTORIDADES DE PROTECCION CIVIL Y DEBERAN CUMPLIR CON LOS SIGUIENTES REQUISITOS:
+XXXVIII. Reúso: Prolongación de la vida útil de productos, materiales y substancias por medio de su reutilización para fines idénticos o semejantes;
 
-I. CAPACITACION: EL PERSONAL QUE INTEGRA LAS UNIDADES INTERNAS DE PROTECCION CIVIL DEBERA ESTAR DEBIDAMENTE CAPACITADO MEDIANTE UN PROGRAMA ESPECIFICO DE CARACTER TEORICO - PRACTICO, INDUCTIVO, FORMATIVO Y DE CONSTANTE ACTUALIZACION.
+XXXIX. SEDEMA: Secretaría de Medio Ambiente del Estado de Veracruz;
 
-II. BRIGADAS: CADA UNIDAD INTERNA DE PROTECCION CIVIL DEBERA CONTAR CUANDO MENOS CON LAS BRIGADAS DE PRIMEROS AUXILIOS, DE PREVENCION, COMBATE DE INCENDIOS Y DE EVACUACION DEL INMUEBLE, Y LA DE RESCATE, COORDINADAS ESTAS POR EL (LOS) JEFE (S) DE PISO Y EL RESPONSABLE DEL INMUEBLE.
+XL. Separación: Formar grupos homogéneos de cosas que estaban mezcladas con otras;
 
-III. SIMULACROS: LAS UNIDADES INTERNAS DE PROTECCION CIVIL DEBERAN REALIZAR EJERCICIOS Y SIMULACROS CUANDO MENOS DOS VECES POR AÑO EN CADA INMUEBLE, ENTENDIDOS ESTOS COMO UNA REPRESENTACION IMAGINARIA DE LA PRESENCIA DE UNA EMERGENCIA, MEDIANTE LOS CUALES SE PONDRA A PRUEBA LA CAPACIDAD DE LAS BRIGADAS DE PROTECCION CIVIL.
+XLI. Trabajador: Es toda persona que preste un servicio físico, intelectual o de ambos géneros en virtud del nombramiento que le sea expedido;
 
-###### ARTÍCULO 15.
+XLII. Transformación: Hacer cambiar de forma a una cosa;
 
-PARA LA EJECUCION DE SALVAMENTO Y AUXILIO DE POBLACION, EL MUNICIPIO CONTARA CON UN DEPARTAMENTO DE BOMBEROS QUE SE COORDINARA CON LA DIRECCION DE PROTECCION CIVIL:
+XLIII. Transporte: Acción de trasladar los residuos a los centros de transferencia, tratamiento o a los sitios de destino final; y
 
-I.- ES OBLIGACION DE LOS RESPONSABLES O DUEÑOS DE CAMIONES PIPA AL ACARREO DE AGUA Y EL PRESTAR EL AUXILIO AL DEPARTAMENTO DE BOMBEROS EN EL MOMENTO QUE LES SEA SOLICITADO POR CUALQUIER INTEGRANTE DE PROTECCION CIVIL
+XLIV. Tratamiento: Procedimiento empleado en una experiencia o en la elaboración de un producto.
 
-II.- ES OBLIGACION DE LOS RESPONSABLES DE EXPENDIOS DE COMBUSTIBLES EL PROVEER DE LOS MISMOS A CUALQUIER BRIGADA DE EMERGENCIA DEBIDAMENTE IDENTIFICADA QUE EN LOS MOMENTOS DE UNA CONTINGENCIA LO REQUIERA PARA LLEVAR A CABO LAS ACTIVIDADES DE AUXILIO, EL VALOR DE LOS COMBUSTIBLES SERA RESTITUIDO POR LAS DEPENDENCIAS CORRESPONDIENTES DESPUES DE HABER ATENDIDO LA EMERGENCIA
+## TÍTULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS Y RESPONSABILIDADES
 
-###### ARTÍCULO 16.
+### CAPÍTULO I. DEL EJECUTIVO DEL ESTADO
 
-LOS ELEMENTOS DEL PATRONATO DE BOMBEROS Y DEMAS PERSONAL ADSCRITO A LA DIRECCION MUNICIPAL DE PROTECCION CIVIL, DEBERAN PORTAR EL UNIFORME DE PROTECCION CIVIL Y LA PLACA O GAFETE DE IDENTIFICACION PERSONAL CUANDO SE ENCUENTRE EN SERVICIO Y DISTINGUIR CON LOS COLORES PROPIOS, LOGOTIPO Y NUMERO DE IDENTIFICACION GRANDE Y VISIBLE LOS VEHICULOS QUE UTILICEN.
+###### Artículo 6.
 
-###### ARTÍCULO 17.
+El Ejecutivo del Estado, a través de la SEDEMA tendrá las siguientes facultades y obligaciones:
 
-LOS ELEMENTOS QUE INTEGRAN EL SISTEMA MUNICIPAL DE PROTECCION CIVIL DEBERAN
+A. Conducir la política ambiental del Estado con orden, transparencia y profesionalismo;
 
-I.- ATENDER EL LLAMADO DE AUXILIO DE LOS CIUDADANOS Y REALIZAR TODAS AQUELLAS ACCIONES TECNICAS Y HUMANAMENTE POSIBLES PARA PROTEGER LA VIDA Y EL PATRIMONIO DE LAS PERSONAS EN CASO DE DESASTRE O SITUACIONES DE RIESGO.
+B. Crear políticas públicas, en el sentido de promover programas y campañas en materia de Limpia Pública;
 
-II.- AUXILIAR A OTRAS ENTIDADES MUNICIPALES, ESTATALES Y FEDERALES PARA EL CUMPLIMIENTO DEBIDO A SUS FUNCIONES.
+C. Realizar planes de trabajo para la protección y conservación del medio ambiente;
 
-III.- PROTEGER LAS INSTITUCIONES PUBLICAS Y SUS BIENES.
+D. Fortalecer la unión de los tres niveles de gobierno para desarrollar proyectos sustentables con sentido social, tomando en cuenta siempre la opinión de los trabajadores; y
 
-IV.- OBSERVAR EN SUS ACTUACIONES UN TRATO RESPETUOSO HACIA LAS PERSONAS.
+E. Promover la capacitación de personas, sindicatos y organizaciones de todos los sectores para contribuir en el mejoramiento de Limpia pública y así contar con un mejor ecosistema.
 
-V.- VELAR POR EL CUMPLIMIENTO DE LAS DISPOSICIONES ESTABLECIDAS EN EL PRESENTE REGLAMENTO Y LAS DISPOSICIONES ADMINISTRATIVAS MUNICIPALES.
+### CAPÍTULO II. DE LOS AYUNTAMIENTOS
 
-VI.- ACTUAR CON OBJETIVIDAD, RESPONSABILIDAD Y VERTICALIDAD AL MOMENTO DE EMITIR DICTAMENES QUE EVALUEN CONDICIONES DE SEGURIDAD, Y
+###### Artículo 7.
 
-VII. LAS QUE EXPRESAMENTE LES FACULTEN LOS ORDENAMIENTOS LEGALES APLICABLES.
+De conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables en la materia, corresponde a los ayuntamientos:
 
-###### ARTÍCULO 18.
+I. La utilización exclusiva de los Rellenos sanitarios, qué será a través de la Dirección correspondiente, y con las demás funciones estipuladas en los reglamentos internos de los ayuntamientos;
 
-QUEDA PROHIBIDO PARA LOS RESPONSABLES MUNICIPALES DE LA PROTECCION CIVIL, LO SIGUIENTE:
+II. Diseñar y construir sitios de destino final para la basura;
 
-I.- INVADIR LA JURISDICCION QUE CONFORME A LAS LEYES CORRESPONDE A OTRA AUTORIDAD, A MENOS QUE SEA PETICION O EN AUXILIO DE ELLA.
+III. Exhortar a sus habitantes a colaborar con los servicios de Limpia Pública;
 
-II.- EXIGIR O RECIBIR DE CUALQUIER PERSONA, ESPONTANEA GRATIFICACION O DADIVA, ALGUNA POR LOS SERVICIOS QUE POR OBLIGACION DEBEN PRESTAR.
+IV. Difundir programas de separación de la basura para contribuir con la preservación del Medio Ambiente;
 
-III.- CUMPLIR ENCOMIENDAS AJENAS A SUS FUNCIONES INSTITUCIONALES O SOMETERSE AL MANDO DE PERSONAS DIVERSAS A SUS SUPERIORES EN RANGO, Y
+V. Establecer y difundir entre sus habitantes los mecanismos y procedimientos para llevar a cabo una correcta separación de la basura en orgánica e inorgánica;
 
-IV.- ORDENAR O CUMPLIR SERVICIOS FUERA DEL MUNICIPIO ASI COMO QUE INVADAN CUALQUIER OTRA ESFERA COMPETENCIAL.
+VI. Sancionar a los ciudadanos que se dediquen al negocio de los basureros clandestinos;
 
-###### ARTÍCULO 19.
+VII. Prohibir los basureros clandestinos;
 
-LA DIRECCION MUNICIPAL DE PROTECCION CIVIL RECIBIRA LAS DENUNCIAS CIUDADANAS QUE TRATEN SOBRE UN INMINENTE RIESGO A LA POBLACION CIVIL Y SE AVOCARA A SU RESOLUCION.
+VIII. Impedir la pepena en zonas urbanas, rurales y subrurales;
 
-### CAPITULO VI. DEL SALVAMENTO Y AUXILIO
+IX. Establecer las funciones del área administrativa correspondiente que se encargará de los servicios de Limpia Pública;
 
-###### ARTÍCULO 20.
+X. Fortalecer y mejorar cada año el servicio de Limpia Pública;
 
-LA DIRECCION MUNICIPAL DE PROTECCION CIVIL INFORMARA A LOS DENUNCIANTES DE LA SOLUCION QUE SE LE HAYA DADO A LA DENUNCIA PRESENTADA.
+XI. Aprobar y autorizar los centros de acopio que se dedican a la compra de desechos industriales;
 
-###### ARTÍCULO 21.
+XII. Atender las propuestas y proyectos de los Trabajadores de Limpia Pública, para mejora del servicio;
 
-LA INSPECCION Y VIGILANCIA EN LOS INMUEBLES SERA EJERCIDA POR LOS INTEGRANTES DEL CONSEJO MUNICIPAL DE PROTECCION CIVIL ACTUANDO DENTRO DE SU AREA DE COMPETENCIA Y ENTREGARA
+XIII. Especificar las sanciones pecuniarias y administrativas;
 
-(SIC) REPORTE AL DIRECTOR MUNICIPAL DE PROTECCION CIVIL PARA SU SEGUIMIENTO.
+XIV. Solo podrá prestar el servicio de Limpia Pública, el personal adscrito a los ayuntamientos, así como aquellas personas físicas o morales que autorice la entidad pública, mediante las concesiones que deban de licitar los ayuntamientos para dicho servicio, con el objeto de organizar los contratos y las bases de la concesión otorgada;
 
-###### ARTÍCULO 22.
+XV. Realizar encuestas y foros de consulta para el mejoramiento de la Limpia Pública, de todos los sectores de la sociedad, sobre todo a los que tengan experiencia en el ramo; y
 
-CUANDO EXISTA UN RIESGO INMINENTE QUE REPERCUTA EN LA SALUD PUBLICA EL CONSEJO MUNICIPAL DE PROTECCION CIVIL PODRA ORDENAR COMO MEDIDAS DE SEGURIDAD A FIN DE PROTEGER EL BIENESTAR Y SALUD DE LOS HABITANTES DEL MUNICIPIO. LAS SIGUIENTES
+XVI. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la política ambiental en el Estado y en la participación corresponsable de la sociedad.
 
-I.- LA SUSPENSION DE TRABAJOS O SERVICIOS.
+### CAPÍTULO III. DE LOS HABITANTES
 
-II.- LA CLAUSURA TEMPORAL O DEFINITIVA, PARCIAL O TOTAL DE LAS FUENTES DE RIESGO A LA SALUD PUBLICA.
+###### Artículo 8.
 
-III.- LA INTERVENCION DE LA AUTORIDAD COMPETENTE DE ACUERDO A LOS TERMINOS DE LEYES RELATIVAS.
+Será responsabilidad de las personas físicas, morales públicas y privadas, que se encuentren en el territorio veracruzano:
 
-IV.- LA DESOCUPACION O DESALOJO DE CASAS, EDIFICIOS, ESTABLECIMIENTOS O, EN GENERAL, DE CUALQUIER PREDIO.
+I. Separar los desechos en orgánicos e inorgánicos;
 
-###### ARTÍCULO 23.
+II. Colocar botes en colores referidos y los vidrios ponerlos en cajas de cartón cerrados con la leyenda peligro;
 
-LA PERSONA O PERSONAS DESIGNADAS PARA PRACTICAR VISITAS DE INSPECCION O EJECUTAR MEDIDAS DE SEGURIDAD, DEBERAN ESTAR PROVISTAS DE ORDEN ESCRITA EXPEDIDA POR LA AUTORIDAD COMPETENTE EN LA QUE SE DEBERA PRECISAR EL LUGAR O ZONA EN QUE SE EFECTUARA LA INSPECCION, EL OBJETO DE LA VISITA, Y LAS DISPOSICIONES LEGALES QUE LA FUNDAMENTEN.
+III. Depositar la basura única y exclusivamente en los lugares destinados para tal efecto por el Ayuntamiento;
 
-###### ARTÍCULO 24.
+IV. Reclamar el derecho a disfrutar de un ambiente sano y saludable;
 
-LAS PERSONAS A QUE SE REFIERE EL ARTÍCULO ANTERIOR, EN EL EJERCICIO DE SUS FUNCIONES, TENDRAN LIBRE ACCESO A LOS EDIFICIOS, ESTABLECIMIENTOS Y EN GENERAL A LOS LUGARES EN QUE SE REALICEN LOS ACTOS QUE MOTIVAN LA VISITA O EN QUE SE APLICARA LA MEDIDA DE SEGURIDAD.
+V. Los habitantes que sean propietarios o poseedores de edificios, casas, predios, o locales comerciales a cualquier título tendrán la obligación de conservar limpios sus bienes inmuebles, así como sus frentes;
 
-LOS PROPIETARIOS, RESPONSABLES, ENCARGADOS U OCUPANTES DE LOS INMUEBLES, OBRAS O ESTABLECIMIENTOS ESTARAN OBLIGADOS A PERMITIR EL ACCESO Y DAR FACILIDADES A LAS PERSONAS MENCIONADAS PARA EL DESARROLLO DE SU LABOR, ASÍ COMO LA INFORMACION QUE CONDUZCA A LA VERIFICACION DEL CUMPLIMIENTO DE LAS NORMAS DE ESTE REGLAMENTO.
+VI. Respetar estrictamente los horarios destinados para la recolección de la basura que sean establecidos por la Dirección respectiva;
 
-###### ARTÍCULO 25.
+VII. Una vez colocada la basura en los recipientes y en los lugares donde debe ser recogida, ninguna persona podrá desorganizarla;
 
-EN LA DILIGENCIA DE INSPECCION SE DEBERA OBSERVAR LAS SIGUIENTES REGLAS:
+VIII. Se podrán incinerar residuos de cualquier clase dentro del Estado de Veracruz, siempre y cuando la autoridad correspondiente otorgue un permiso;
 
-I.- LA PERSONA O PERSONAS A QUIENES SE HAYA ENCOMENDADO LA INSPECCION DEBERAN EXHIBIR SU NOMBRAMIENTO O DESIGNACION POR LA AUTORIDAD COMPETENTE, QUE LOS ACREDITE LEGALMENTE PARA DESEMPEÑAR SU FUNCION.
+IX. Tratar al personal del departamento de Limpia Pública con cortesía y respeto, quienes otorgarán igual trato a la ciudadanía;
 
-II.- EN EL ACTA QUE SE LEVANTE CON MOTIVO DE LA INSPECCION SE HARAN CONSTAR LAS CIRCUNSTANCIAS
+X. Abstenerse de acumular o tirar desechos o materiales de cualquier tipo en la vía pública;
 
-(SIC) DE LA DILIGENCIA, LAS DEFICIENCIAS O IRREGULARIDADES OBSERVADAS Y, EN SU CASO, LAS MEDIDAS DE SEGURIDAD QUE SE EJECUTEN.
+XI. Depositar la basura, para su recolección, en bolsas adecuadas, los desechos inorgánicos se separarán en bolsas de color verde, y los desechos orgánicos en bolsas de color negro, o cualquier otro color o en recipientes destinados especialmente para ello;
 
-### CAPITULO XI. DE LAS SANCIONES ADMINISTRATIVAS
+XII. Las personas físicas o morales que se promuevan por medio de propaganda, tales como: volantes, folletos o cualquier otro medio publicitario que pueda arrojarse a la vía pública, deberán imprimir en estos, su leyenda "no tires este volante, conserva limpia tu ciudad, material reciclable"; y
 
-###### ARTÍCULO 26.
+XIII. Recolectar las heces de sus mascotas de los lugares públicos y depositarlos en los sitios adecuados, de lo contrario serán sancionados con multa y obligados a realizar la limpieza del lugar.
 
-LAS AUTORIDADES MUNICIPALES FACULTADAS PARA LA APLICACION DEL PRESENTE REGLAMENTO SERAN:
+## TÍTULO TERCERO
 
-I.- EL PRESIDENTE MUNICIPAL.
+### CAPÍTULO I. SEPARACIÓN Y BARRIDO DE BASURA
 
-II.- EL SECRETARIO DEL AYUNTAMIENTO.
+###### Artículo 9.
 
-III.- EL DIRECTOR MUNICIPAL DE PROTECCION CIVIL.
+Conforme a lo estipulado por esta ley, la basura se clasificará de la siguiente manera:
 
-IV.- EL R. AYUNTAMIENTO.
+I. Orgánica: Toda materia que entra en descomposición; y
 
-V.- EL CONSEJO DE PROTECCION CIVIL EN SESION.
+II. Inorgánica: Material que se considera desecho, necesita eliminarse, y no es biodegradable.
 
-EN CASO DE VIOLACION A CUALQUIERA DE LAS DISPOSICIONES DE ESTE REGLAMENTO LAS AUTORIDADES CITADAS PODRAN:
+###### Artículo 10.
 
-A).- DE ACUERDO A LA GRAVEDAD DEL CASO, OTORGAR A LOS PARTICULARES UN PLAZO DETERMINADO PARA CORREGIR LAS DEFICIENCIAS DETECTADAS O EVITAR EL DAÑO.
+Los residuos líquidos no peligrosos deberán ser separados y entregados en envases desechables cerrados en los lugares señalados por el Ayuntamiento.
 
-B).- APLICAR LAS SANCIONES QUE SE MARCAN EN EL ARTÍCULO SIGUIENTE.
+###### Artículo 11.
 
-###### ARTÍCULO 27.
+Los residuos líquidos no peligrosos deberán desecharse en el desagüe, evitando ser mezclados con los residuos sólidos.
 
-EN CASO DE QUE SE DETERMINE LA APLICACION DE SANCIONES, ESTAS SE HARAN RESPETANDO EL DERECHO DE AUDIENCIA, BAJO LOS SIGUIENTES TERMINOS:
+###### Artículo 12.
 
-I.- AMONESTACION.
+Se comprenderán como desechos líquidos no peligrosos, los siguientes: refrescos, café, jugos, agua, y demás bebidas azucaradas.
 
-II.- MULTA POR EL EQUIVALENTE DE DIEZ A DIEZ MIL CUOTAS DE SALARIO MÍNIMO GENERAL VIGENTE PARA ESTA ZONA.
+###### Artículo 13.
 
-III.- ARRESTO ADMINISTRATIVO HASTA POR 20 HORAS.
+De acuerdo con el artículo 8, fracción I del presente ordenamiento, es competencia de los habitantes la separación de basura en el lugar donde habitan, sin embargo, el Ayuntamiento tendrá la obligación de proporcionar en los lugares públicos, depósitos o contenedores para depositar los desechos, mismos que tendrán la leyenda inscrita de "orgánico e inorgánico".
 
-###### ARTÍCULO 28.
+###### Artículo 14.
 
-LOS CASOS NO PREVISTOS EN EL PRESENTE REGLAMENTO Y QUE PRESENTEN UN POTENCIAL RIESGO A LA POBLACION CIVIL SERAN RESUELTOS POR EL CONSEJO MUNICIPAL DE PROTECCION CIVIL.
+El barrido se realizará de manera manual o mecanizado en centros históricos, bulevares, avenidas, aceras, plazas, jardines, parques y lugares públicos.
 
-### CAPITULO XII. DEL RECURSO DE INCONFORMIDAD
+###### Artículo 15.
 
-###### ARTÍCULO 29.
+Los horarios y zonas para realizar el barrido serán determinados por la Dirección correspondiente de Limpia Pública.
 
-LAS PERSONAS FISICAS Y MORALES QUE SE CONSIDEREN AFECTADAS POR LA APLICACION DEL PRESENTE REGLAMENTO PODRAN DENTRO DEL TERMINO DE 15 DÍAS CONTADOS A PARTIR DEL DIA SIGUIENTE EN QUE QUEDE LEGALMENTE NOTIFICADA LA RESOLUCION O ACUERDO, INTERPONER POR ESCRITO ANTE LA MISMA AUTORIDAD QUE EMITE EL FALLO O DETERMINACION EL RECURSO DE INCONFORMIDAD
+###### Artículo 16.
 
-###### ARTÍCULO 30.
+El Ayuntamiento dará a conocer a los habitantes el programa de las zonas, rutas y horas del barrido en el Municipio.
 
-DENTRO DE LOS 5 DIAS SIGUIENTES DE INTERPUESTO EL RECURSO, EL INCONFORME PODRA APORTAR TODAS LAS PRUEBAS RECONOCIDAS POR LA LEY, Y QUE CONSIDERE PERTINENTES EXCEPCION HECHA DE LA CONFESIONAL A CARGO DE LA AUTORIDAD, A EFECTO DE FORTALECER LOS ELEMENTOS EN QUE SE FUNDA SU RECURSO
+###### Artículo 17.
 
-###### ARTÍCULO 31.
+Se hará merecedor de una multa, el ciudadano que no barra el frente de su casa habitación, mínimo dos veces a la semana.
 
-LA AUTORIDAD TENDRA UN PLAZO MAXIMO DE 3 DIAS PARA ADMITIR O DESECHAR LAS PRUEBAS APORTADAS POR EL RECURRENTE, DEBIENDO EN TODO CASO, FUNDAR LAS CAUSAS DE DESECHAMIENTO DE PRUEBAS
+###### Artículo 18.
 
-###### ARTÍCULO 32.
+El Ayuntamiento designará a los trabajadores aptos para que vigilen que la ciudadanía efectué el barrido del frente de su casa habitación.
 
-EN UN PLAZO IMPRORROGABLE DE 5 DIAS, DEBERAN DESAHOGARSE TODAS LAS PRUEBAS ADMITIDAS CONFORME AL ARTÍCULO ANTERIOR
+###### Artículo 19.
 
-###### ARTÍCULO 33.
+Los trabajadores de Limpia Pública y jefes de manzana tendrán la facultad para levantar un reporte a los habitantes que hagan caso omiso de lo que establece el artículo 17 del presente ordenamiento.
 
-LA AUTORIDAD DEBERA RESOLVER SOBRE LA PROCEDENCIA O IMPROCEDENCIA DEL RECURSO, DENTRO DEL TERMINO DE 15 DIAS SIGUIENTES, CONTADOS A PARTIR DE QUE FUERON DEBIDAMENTE DESAHOGADAS TODAS LAS PRUEBAS
+## TÍTULO CUARTO
 
-###### ARTÍCULO 34.
+### CAPÍTULO I. RECOLECCIÓN Y TRANSPORTE
 
-EN EL CASO DE QUE LA AUTORIDAD RESUELVA SOBRE LA PROCEDENCIA DEL RECURSO, SE DEBERA RESTITUIR AL RECURRENTE EN SU DERECHO, EN LO QUE ES MATERIALMENTE POSIBLE, Y EN CASO CONTRARIO, RESARCIR LOS DAÑOS CAUSADOS, CONFORME A LAS BASES DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE NUEVO LEON
+###### Artículo 20.
 
-###### ARTÍCULO 35.
+La recolección de la basura es una labor de los trabajadores de Limpia Pública y estos operarán, conforme al proyecto de rutas establecidas por el Ayuntamiento, que contendrán frecuencia, horarios y esquemas de ejecución, mismos que deben ser del conocimiento de la comunidad.
 
-EN CASO DE QUE SE DECRETE LA IMPROCEDENCIA DEL RECURSO, QUEDAN A SALVO LOS DERECHOS DEL RECURRENTE PARA QUE LOS EJERCITE EN LA VIA Y TERMINOS QUE CORRESPONDA
+###### Artículo 21.
 
-### CAPITULO XIII. DE LA DECLARATORIA DE ZONA DE DESASTRE
+Las rutas establecidas por la Dirección correspondiente a la Limpia Pública, deberán ser publicadas para el conocimiento de la ciudadanía.
 
-###### ARTÍCULO 36.
+###### Artículo 22.
 
-SE CONSIDERA ZONA DE DESASTRE DE NIVEL MUNICIPAL, AQUELLA EN LA QUE PARA HACER FRENTE A LAS CONSECUENCIAS DE UN AGENTE O FENOMENO PERTURBADOR NO SE REQUIERA DE LA AYUDA ESTATAL, EN ESTE CASO EL PRESIDENTE MUNICIPAL EMITIRA UNA DECLARATORIA DE ZONA DE DESASTRE A NIVEL MUNICIPAL
+Los que recolecten la basura deberán ser previamente autorizados por el Ayuntamiento y pagarán sus respectivas cuotas, de acuerdo a los factores como volumen y zona habitacional, entre otros.
 
-###### ARTÍCULO 37.
+###### Artículo 23.
 
-EN EL CASO DONDE EL MUNICIPIO NO PUEDA HACER FRENTE A LAS CONSECUENCIAS DE UN AGENTE O FENOMENO PERTURBADOR, SOLICITARA AL GOBERNADOR DEL ESTADO QUE FORMULE LA DECLARATORIA DE ZONA DE DESASTRE PARA RECIBIR LA ASISTENCIA REQUERIDA.
+El recolector anunciará anticipadamente, con un toque de campana o un sonido distintivo que proporcionará la Dirección correspondiente, la llegada del vehículo de Limpia Pública.
 
-### CAPITULO VII. DE LAS OBLIGACIONES DE LOS INTEGRANTES
+###### Artículo 24.
 
-###### ARTÍCULO 38.
+Queda prohibido recolectar basura en carretas o cualquier tipo de transporte mecánico o motorizado que no esté autorizado como transporte especializado.
 
-PARA QUE EL PRESIDENTE MUNICIPAL EMITA LA DECLARATORIA MENCIONADA EN EL ARTÍCULO 33 DE ESTE REGLAMENTO, DEBERA AGOTARSE EL SIGUIENTE PROCEDIMIENTO
+###### Artículo 25.
 
-I) QUE LAS DEPENDENCIAS MUNICIPALES ENCABEZADAS POR EL SECRETARIO DEL AYUNTAMIENTO, REALICEN UNA EVALUACION DE LOS DAÑOS CAUSADOS
+Al escuchar el sonido distintivo, los habitantes tendrán tiempo suficiente para depositar los desechos en los lugares especificados por el Ayuntamiento.
 
-II) QUE DE LA EVALUACION, RESULTE NECESARIA LA AYUDA DE LA ADMINISTRACION MUNICIPAL
+###### Artículo 26.
 
-###### ARTÍCULO 39.
+Los habitantes no podrán depositar los residuos en los lugares específicos, sin que se dé el toque de campana o sonido anticipado.
 
-LAS MEDIDAS QUE LA ADMINISTRACION MUNICIPAL PODRA ADOPTAR, CUANDO SE HAYA DECLARADO FORMALMENTE ZONA DE DESASTRE A NIVEL MUNICIPAL SON LAS SIGUIENTES
+###### Artículo 27.
 
-A) ATENCION MÉDICA INMEDIATA Y GRATUITA
+Los Encargados de recolectar la basura, no podrán introducirla al transporte, si esta no se encuentra debidamente separada de acuerdo con el artículo 9 de esta ley.
 
-B) ALOJAMIENTO, ALIMENTACION Y RECREACION
+###### Artículo 28.
 
-C) RESTABLECIMIENTO DE LOS SERVICIOS PUBLICOS AFECTADOS
+Los vehículos de recolección deberán pasar a la planta de selección antes de llegar al destino final.
 
-D) SUSPENSION TEMPORAL DE LAS RELACIONES LABORALES, SIN PERJUICIO PARA EL TRABAJADOR
+###### Artículo 29.
 
-E) SUSPENSION DE LAS ACTIVIDADES ESCOLARES EN TANTO SE VUELVE A LA NORMALIDAD, Y
+Las plantas de selección se encargarán de separar los desechos que se puedan transformar y reciclar.
 
-F) LAS DEMAS QUE DETERMINE EL CONSEJO MUNICIPAL DE PROTECCION CIVIL
+###### Artículo 30.
 
-ESTE REGLAMENTO SE PUBLICÓ EN EL PERIODICO OFICIAL DEL ESTADO EN FECHA 01 DE NOVIEMBRE DE 2006
+Las instalaciones de las plantas de selección se ubicarán en lugares estratégicos del territorio estatal. El ejecutivo estatal, en coordinación de los Ayuntamientos, establecerán los sitios para ello y delimitarán sus zonas de influencia.
 
-DR. FELIX GARZA AYALA
+###### Artículo 31.
 
-PRESIDENTE MUNICIPAL
+El transporte tiene como finalidad llevar los desechos a un destino final.
 
-C. IMELDA VILLARREAL FERNÁNDEZ
+###### Artículo 32.
 
-SECRETARIA DEL R. AYUNTAMIENTO
+Para transportar los residuos, es fundamental que los vehículos sean especializados, en los cuales se contengan herméticamente los desechos hasta depositarlos en el destino final.
 
-### CAPITULO VII (SIC). DE LOS SERVIDORES PUBLICOS
+Los residuos especiales serán transportados en unidades cubiertas, que eviten la propagación de malos olores y escurrimientos.
 
-### CAPITULO IX (SIC). DE LAS DENUNCIAS CIUDADANAS
+###### Artículo 33.
 
-### CAPITULO X. DE LA INSPECCION Y VIGILANCIA
+Para transportar los residuos, los vehículos deberán contar con los siguientes requisitos:
+
+I. Estar en buen estado, con sus respectivos mantenimientos;
+
+II. En los contenedores habrán diferentes tipos de depósitos para introducir la basura en el lugar que le corresponde de acuerdo con su clasificación;
+
+III. Deberán contar con servicios mecánicos, de acuerdo con el manual de servicios;
+
+IV. Ser vehículos cerrados; en caso de volteo deberán contar con un equipo que cubra los desechos; y
+
+V. Equipos de seguridad y de primeros auxilios.
+
+###### Artículo 34.
+
+Queda estrictamente prohibido, que el transporte recolector se desvíe de las rutas y lugares estipulados por la Dirección correspondiente.
+
+###### Artículo 35.
+
+Serán amonestados de acuerdo al presente ordenamiento, los que transporten basura a cielo abierto y en carretas.
+
+###### Artículo 36.
+
+Los centros de transferencia serán los lugares de recepción de residuos, cuya finalidad es permitir que los vehículos recolectores descarguen o carguen antes y después, para trasladarlos al destino final.
+
+###### Artículo 37.
+
+Queda prohibido recolectar o depositar en cualquiera de los lugares temporales de almacenamiento y, sobre todo, en los sitios municipales de disposición final, residuos infectos (sic) contagiosos, provenientes de clínicas, hospitales o consultorios públicos o privados.
+
+## TÍTULO QUINTO
+
+### CAPÍTULO I. DESTINO FINAL
+
+###### Artículo 38.
+
+El destino final es el lugar, donde depositan todos los residuos del municipio, comúnmente llamado relleno sanitario, plantas de transformación, de selección o reciclaje.
+
+###### Artículo 39.
+
+En su caso, a solicitud del Ayuntamiento, el Congreso del Estado podrá autorizar la concesión de la prestación del servicio de rellenos sanitarios.
+
+###### Artículo 40.
+
+Las personas morales que adquieran la concesión del relleno sanitario se sujetarán a las normas establecidas sobre las concesiones en la Ley Orgánica de (sic) Municipio Libre.
+
+###### Artículo 41.
+
+El lugar donde se ubicará el destino final de la basura, será autorizado por el Ayuntamiento, el cual deberá analizar los factores tendientes a la preservación del medio ambiente y la salud de la sociedad.
+
+###### Artículo 42.
+
+Ninguna persona podrá tener acceso al relleno sanitario sin contar con una previa autorización del Ayuntamiento o en su caso del concesionario.
+
+## TÍTULO SEXTO
+
+### CAPÍTULO I. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES DEL SERVICIO DE LIMPIA PÚBLICA
+
+###### Artículo 43.
+
+Los derechos de los trabajadores se regirán de acuerdo a la Ley Estatal del Servicio Civil en Veracruz, por la Ley Federal del Trabajo como supletoria y por las condiciones fijadas en esta Ley.
+
+###### Artículo 44.
+
+Serán trabajadores del servicio de Limpia Pública todo aquel que se encuentre laborando para la Dirección encargada del servicio o para el sindicato.
+
+###### Artículo 45.
+
+Los trabajadores presentarán ante el Ayuntamiento sus proyectos y opiniones que consideren convenientes para el mejor desempeño de sus funciones y la mejor organización, administración y reglamentación del servicio de Limpia Pública.
+
+###### Artículo 46.
+
+El trabajador del servicio de Limpia Pública tendrá derecho a:
+
+I. Capacitaciones;
+
+II. Adiestramiento;
+
+III. Identificación de la Dirección correspondiente o de su sindicato;
+
+IV. Uniformes de calidad;
+
+V. Mejor salario;
+
+VI. Servicios de salud;
+
+VII. Días de descanso;
+
+VIII. Seguridad social; y
+
+IX. Vivienda.
+
+###### Artículo 47.
+
+El operador del vehículo deberá cuidar de forma adecuada su herramienta prestada para desempeñar sus actividades laborales de Limpia Pública.
+
+###### Artículo 48.
+
+Los trabajadores podrán conformar, de manera independiente, asociaciones civiles o cooperativas para poder obtener, parcial o totalmente la concesión del servicio de Limpia Pública.
+
+###### Artículo 49.
+
+No se les podrá discriminar laboral y socialmente a los trabajadores de Limpia Pública, por el desempeño de su labor, en razón de que son servidores públicos tan importantes como los del resto de la administración pública municipal.
+
+###### Artículo 50.
+
+El Ayuntamiento o, en su caso, el sindicato, impartirá a los trabajadores dos veces al año, como mínimo, cursos de capacitación para el trabajo y de desarrollo humano.
+
+###### Artículo 51.
+
+Las decisiones que se tomen sobre asuntos del servicio de Limpia Pública, ya sea por el Ayuntamiento, la Dirección Correspondiente o el Concesionario, deberán ser consultadas previamente con los trabajadores, para poder tener mejor eficiencia en las medidas que se adopten al respecto.
+
+###### Artículo 52.
+
+Las Condiciones Generales de Trabajo establecerán las obligaciones y derechos de los trabajadores.
+
+###### Artículo 53.
+
+En las Condiciones Generales de Trabajo deberán establecerse como obligaciones de los trabajadores, por lo menos, las siguientes:
+
+I. Desempeñar sus labores con capacidad y cuidado;
+
+II. Conservar en buen estado los Instrumentos y uniformes de trabajo;
+
+III. Asistir puntualmente a sus labores;
+
+IV. Auxiliar y observar buenas costumbres durante sus funciones;
+
+V. Sujetarse a la ley y reglamentos de la materia;
+
+VI. Mejorar el servicio de Limpia Pública; y
+
+VII. Mantener una buena relación entre sus compañeros.
+
+## TÍTULO SÉPTIMO
+
+### CAPÍTULO I. DE LAS INFRACCIONES
+
+###### Artículo 54.
+
+Se consideran infracciones a la presente Ley, las siguientes:
+
+I. Arrojar a la vía pública y fuera de los depósitos destinados para ello, toda clase de desperdicios, escombros y residuos en general;
+
+II. Llevar a cabo, sin la autorización correspondiente, cualquier actividad que como consecuencia ensucie la vía pública, o en su caso, no realizar el aseo inmediato del lugar, una vez terminadas sus actividades;
+
+III. Extraer de las bolsas o de cualquier recipiente colector ubicado en la vía pública, los desperdicios contenidos en ellos;
+
+IV. Tener en desaseo paraderos, bases o terminales de vehículos en la vía pública, los responsables directos de esta infracción serán los concesionarios del servicio urbano;
+
+V. Arrojar tierra y desechos, producto de la limpieza y barrido, a las coladeras pluviales; y
+
+VI. En general, cualquier incumplimiento a las disposiciones contenidas en el presente ordenamiento y demás disposiciones legales aplicables. Las infracciones a que se refiere este capítulo, se aplicarán independientemente de las que establezcan otras disposiciones legales aplicables y en su caso las de carácter penal.
+
+## TÍTULO OCTAVO
+
+### CAPÍTULO I. DE LAS SANCIONES
+
+###### Artículo 55.
+
+Las violaciones a la presente Ley serán sancionadas administrativamente de conformidad con el Código de Procedimientos Administrativos del Estado de Veracruz. Y demás disposiciones legales aplicables, tal como lo señala el artículo cuatro de esta Ley.
+
+###### Artículo 56.
+
+En la imposición de las sanciones se tomarán en cuenta la gravedad de la falta, la capacidad económica y los antecedentes del infractor.
+
+###### Artículo 57.
+
+Las sanciones a los infractores de esta Ley serán:
+
+I. Apercibimiento y Amonestación;
+
+II. Multa hasta de 20 a 50 días de salario mínimo general vigente, de acuerdo con la zona geográfica correspondiente, pero si el infractor es jornalero, ejidatario y obrero, la multa no excederá de 10 a 15 salarios mínimos;
+
+III. La suspensión temporal o cancelación del permiso o licencia del establecimiento, la cual podrá imponerse, entre otras causas, cuando el infractor incurra en forma reiterada en violaciones al presente ordenamiento normativo.
+
+###### Artículo 58.
+
+Contra los actos y resoluciones administrativas que dicten o ejecuten las dependencias y entidades de la Administración Pública municipal en la aplicación de esta Ley, los particulares afectados tendrán la opción de interponer, conforme a las disposiciones del Código de Procedimientos Administrativos, el recurso de inconformidad ante la propia autoridad o el Juicio Contencioso Administrativo.
+
+T R A N S I T O R I O S
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Los municipios que no cuenten con reglamentación en materia de limpia pública tendrán un plazo de sesenta días, contado a partir de la entrada en vigor de esta Ley, para acordar en sesión del Cabildo si les es aplicable lo dispuesto en la misma o para, en su caso, expedir sus Reglamentos de Limpia Pública.
+
+Los ayuntamientos de los municipios que cuenten, a la entrada de vigor de esta Ley, con reglamentos de limpia pública podrán adecuar las disposiciones de los mismos para incorporar lo previsto en la presente Ley.
+
+DADO EN EL SALÓN DE SESIONES DE LA LXIII LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS TREINTA Y UN DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL DIECISÉIS.
+
+OCTAVIA ORTEGA ARTEAGA
+
+DIPUTADA PRESIDENTA
+
+RÚBRICA.
+
+ANA CRISTINA LEDEZMA LÓPEZ
+
+DIPUTADA SECRETARIA
+
+RÚBRICA.
+
+Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/00001682 de las Diputadas Presidenta y Secretaria de la Sexagésima Tercera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los siete días del mes de noviembre del año dos mil dieciséis.
+
+A t e n t a m e n t e
+
+Dr. Flavino Ríos Alvarado
+
+Gobernador del Estado
+
+Rúbrica.
