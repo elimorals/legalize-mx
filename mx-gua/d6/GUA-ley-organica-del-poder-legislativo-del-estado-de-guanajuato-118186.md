@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2017-04-04"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -753,7 +753,9 @@ IV. Presentar a la Mesa Directiva y al Pleno, proyectos de puntos de acuerdo, pr
 
 V. Proponer al Pleno la integración de las comisiones legislativas permanentes y especiales;
 
-VI. Proponer al Pleno para su aprobación, los nombramientos de los titulares de la Secretaría General y de la Contraloría Interna;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+VI. Proponer al Pleno para su aprobación, el nombramiento del titular de la Secretaría General;
 
 VII. Proponer la terna para la designación del titular de la Auditoría Superior del Estado y, en su caso, su ratificación para un segundo periodo;
 
@@ -1679,7 +1681,9 @@ VI. Las demás que acuerde el Pleno.
 
 En los casos en que se solicite la comparecencia ante el Congreso del Estado de servidores públicos mencionados en la fracción XII del artículo 63 de la Constitución Política para el Estado de Guanajuato, cuando se discuta o estudie un asunto relativo a las funciones que aquellos ejerzan, se les citará previamente por conducto de la Presidencia de la Mesa Directiva, previa solicitud de la Junta de Gobierno y Coordinación Política al Pleno para su aprobación.
 
-El acuerdo de la Junta de Gobierno y Coordinación Política deberá ser emitido en la reunión inmediata siguiente, fundando y motivando el sentido de la resolución.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+El acuerdo de la Junta de Gobierno y Coordinación Política deberá ser emitido en la reunión inmediata siguiente.
 
 ###### Artículo 150.
 
@@ -2079,9 +2083,11 @@ Los empates en las votaciones que no sean para elegir personas a un cargo, se de
 
 Para que un proyecto tenga carácter de Ley, decreto o acuerdo se requiere que sea aprobado en votación nominal por más de la mitad del número de Diputados presentes; salvo los casos previstos en la Constitución Política para el Estado de Guanajuato, la Ley de Fiscalización Superior del Estado de Guanajuato, otras leyes y la presente Ley, exijan un porcentaje especial. Los Diputados tienen derecho a solicitar que el razonamiento de su voto se asiente en el acta, y podrá pedirlo al momento de terminar la votación.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 203.
 
-Ningún diputado podrá abstenerse de votar estando en la sesión, a no ser que tenga interés personal en el asunto que sea objeto de proposición o dictamen o haya fijado su posición política, la cual deberá de quedar registrada en el acta correspondiente. Tampoco podrá retirarse de la sesión durante las votaciones.
+Ningún diputado podrá abstenerse de votar estando en la sesión o reunión de comisión, a no ser que tenga interés personal en el asunto que sea objeto de proposición o dictamen o haya fijado su posición política, la cual deberá de quedar registrada en el acta o minuta correspondiente. Tampoco podrá retirarse durante las votaciones.
 
 ### Capítulo VI. Expedición de Leyes
 
@@ -2947,9 +2953,17 @@ económico-administrativas, jurídicas o financieras, expedido por autoridad o i
 
 V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
 
-VI. No ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a (sic) puesto de elección popular, ni ministro de ningún culto religioso, en los tres- años anteriores a su designación.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-La designación del titular de la Contraloría Interna del Poder Legislativo se hará mediante la elección de una terna propuesta por la Junta de Gobierno y Coordinación Política.
+VI. No ser o haber sido militante de partido o asociación política a nivel nacional, estatal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+La designación del titular de la Contraloría Interna del Poder Legislativo se hará mediante la elección de una terna propuesta por la Junta de Gobierno y Coordinación Política, que derivará de consulta pública cuyas bases serán publicadas en el Periódico Oficial de Gobierno del Estado además de la amplia difusión en la página de internet del Congreso del Estado y periódicos de mayor circulación, dicha consulta deberá ser expedida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñe el titular de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
 
 ###### Artículo 288.
 
@@ -3116,3 +3130,9 @@ P.O. 4 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 180, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 217 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 72, 149, SEGUNDO PÁRRAFO; 203 Y 287, FRACCIÓN VI Y PÁRRAFO TERCERO Y SE ADICIONAN (SIC) UN PÁRRAFO CUARTO AL ARTÍCULO 287 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficia (sic) del Gobierno del Estado.
