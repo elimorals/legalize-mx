@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-12-31"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL EXTRA DEL P.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -2530,3 +2532,21 @@ OCTAVO. La Sala Especializada de Justicia Indígena se integrara conforme al Dé
 NOVENO. El tribunal presupuestará las partidas necesarias para la dirección de igualdad de género y la sala de justicia indígena.
 
 DÉCIMO. Se abrogan todas las disposiciones que se opongan a lo que establece el presente decreto.
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 702.- MEDIANTE EL CUAL SE CREA LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se abroga la Ley de Justicia Administrativa para el Estado de Oaxaca aprobada mediante el DECRETO No 197, de la QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, publicada en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el treinta y uno de diciembre de dos mil cinco.
+
+CUARTO. El Gobernador del Estado proveerá lo necesario para el cumplimiento de lo dispuesto en el presente Decreto.
+
+QUINTO. Los procedimientos que se encuentren en trámite a la entrada en vigor de la presente Ley serán tramitados y concluidos conforme a las disposiciones legales vigentes a su inicio.
+
+SEXTO. Los actuales Magistrados del Tribunal Contencioso Administrativo y de Cuentas del Estado de Oaxaca continuarán en funciones hasta que concluya el periodo para el cual fueron elegidos.
+
+SÉPTIMO. Se derogan las disposiciones de igual o menor jerarquía que se oponga a lo establecido en el presente Decreto.
