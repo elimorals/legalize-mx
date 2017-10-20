@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-servicio-profesional-de-carrera-policial-del-810
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-13"
-last_updated: "2011-04-13"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 13 de abril de 2011.
 
@@ -183,7 +185,7 @@ d) Policía de Carrera.
 
 La organización operativa se sustenta bajo un esquema de jerarquización terciaria, cuya célula básica se compone por tres elementos, quienes junto con el mando, constituyen la primera unidad operativa que es la Escuadra. El modelo terciario permite incorporar unidades operativas de mando y subordinación en efecto multiplicador por cada tres unidades operativas, como se muestra a continuación:
 
-> <small>N. DE E. VEASE CUADRO EN LA CUARTA SECCION DEL P.O. DE 13 DE ABRIL DE 2011, PAGINA 4.</small>
+> <small>[N. DE E. VÉASE CUADRO EN LA CUARTA SECCIÓN DEL P.O. DE 13 DE ABRIL DE 2011, PÁGINA 4.]</small>
 
 ###### Artículo 13.
 
@@ -205,7 +207,7 @@ VI. El ingreso al nivel jerárquico correspondiente, de acuerdo a su nivel de es
 
 VII. Las edades de retiro óptimas para cada categoría, conforme a las leyes locales aplicables.
 
-> <small>N. DE E. VEASE CUADRO EN LA CUARTA SECCION DEL P.O. DE 13 DE ABRIL DE 2011, PAGINA 4.</small>
+> <small>[N. DE E. VÉASE CUADRO EN LA CUARTA SECCIÓN DEL P.O. DE 13 DE ABRIL DE 2011, PÁGINA 4.]</small>
 
 ### CAPÍTULO V. DE LOS NIVELES DE MANDO
 
@@ -229,7 +231,7 @@ IV. Subordinados: Escala Básica.
 
 Los ascensos dentro de la Carrera Policial se deberán sujetar, independientemente del proceso establecido para tal fin, a los siguientes requisitos en cuanto a edad, antigüedad, escolaridad, formación inicial y continua, tal como se presenta en la tabla siguiente:
 
-> <small>N. DE E. VEASE TABLA EN LA CUARTA SECCION DEL P.O. DE 13 DE ABRIL DE 2011, PAGINA 5.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA CUARTA SECCIÓN DEL P.O. DE 13 DE ABRIL DE 2011, PÁGINA 5.]</small>
 
 Las categorías y jerarquías o grados del área operativa de Prevención y Reacción definen los siguientes perfiles de manera general:
 
@@ -599,7 +601,7 @@ El ingreso, es el procedimiento de integración de los aspirantes a la estructur
 
 ###### Artículo 58.
 
-La autoridad competente expedirá el alta administrativa, correspondiente al personal de cada institución de seguridad pública con el grado que les corresponda, constituyéndose en el documento formal que se otorga al integrante de nuevo ingreso; (sic)
+La autoridad competente expedirá el alta administrativa, correspondiente al personal de cada institución de seguridad pública con el grado que les corresponda, constituyéndose en el documento formal que se otorga al integrante de nuevo ingreso;
 
 ###### Artículo 59.
 
@@ -1162,3 +1164,13 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 MANUEL GARCÍA RUIZ
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento del Servicio Profesional de Carrera Policial del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha el (sic) 13 de abril de 2011, tomo CLI, cuarta sección, número 47, y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
