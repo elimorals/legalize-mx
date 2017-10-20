@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2016-10-31"
+last_updated: "2017-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -293,6 +293,16 @@ Cuando exista urgencia sobre la designación o nombramiento de servidores públi
 
 Se entiende por urgencia cuando la falta del servidor público, impida, interfiera o ponga en riesgo una función pública trascendental para el Estado.
 
+> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 33 Ter.
+
+Conforme a lo previsto en la Constitución Política del Estado Libre y Soberano de México, y la Ley del Sistema Anticorrupción del Estado de México y Municipios corresponde a la Legislatura del Estado designar por el voto de las dos terceras partes de sus miembros presentes, a los Titulares de los Órganos Internos de Control de los Organismos a los que la Constitución reconoce Autonomía y que ejerzan recursos del Presupuesto de Egresos del Estado.
+
+Dicho procedimiento se sustanciará bajo los principios de publicidad y transparencia, mediante la expedición de la Convocatoria respectiva misma que contendrá los lineamientos y plazos para tal efecto.
+
+La Convocatoria será aprobada por el Pleno de la Legislatura a propuesta de la Junta de Coordinación Política.
+
 > <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 34.
@@ -403,7 +413,7 @@ El Presidente de la Directiva, lo será también de la Legislatura.
 
 ###### Artículo 43.
 
-Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del periodo; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del periodo respectivo, antes de la primera sesión.
+Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -787,9 +797,9 @@ XV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador 
 
 XVI.- Coordinar las tareas legislativas, políticas y administrativas de la Legislatura; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 2017)</small>
 
-XVII.- Las demás que le confieran la ley, el reglamento o la Asamblea.
+XVII.- Proponer al Pleno la convocatoria para la designación de los Titulares de los Órganos Internos de Control de los Organismos con Autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, en los términos establecidos en la Constitución Política del Estado Libre y Soberano de México, las leyes que regulan dichos organismos, la presente Ley y el Reglamento del Poder Legislativo del Estado Libre y Soberano de México; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE OCTUBRE DE 2016)</small>
 
@@ -798,6 +808,10 @@ XVIII.- Poder otorgar de manera anual, en representación de la Legislatura, dur
 > <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2016)</small>
 
 Cuando se considere que sea digno de reconocerse en el mismo año en que ya se hubiese otorgado dicho galardón, la Junta de Coordinación Política, mediante acuerdo, podrá entregar de manera excepcional la Orden Mexiquense de la Medalla de Honor "José María Luis Mora".
+
+> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2017)</small>
+
+XIX.- Las demás que le confieran la ley, el reglamento o la Asamblea.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2180,3 +2194,15 @@ G.G. 31 DE OCTUBRE DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 251.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Contralores de los Organismos con Autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos del Estado y que fueron designados por la Legislatura, que se encuentren en funciones a la entrada en vigor del Decreto 202 de la "LIX" Legislatura, continuarán en su encargo en los términos en los que fueron nombrados, teniéndose ratificados como Titulares de los Órganos Internos de Control de los Organismos con Autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos del Estado.
+
+CUARTO.- El Poder Legislativo proveerá lo necesario para la sustanciación de los procesos de designación de los Titulares de los Órganos Internos de Control de los Organismos con Autonomía reconocidos en la Constitución y que ejerzan recursos del Presupuesto de Egresos del Estado previstos en este Decreto.
