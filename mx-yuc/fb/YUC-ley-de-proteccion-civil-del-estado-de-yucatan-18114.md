@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-civil-del-estado-de-yucatan-18114"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-16"
-last_updated: "2016-12-28"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Diario Oficial el Lunes 16 de Agosto de 1999.
 
@@ -1550,3 +1552,43 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 525/2017 POR EL QUE SE EMITE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de ley
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de Protección Civil del Estado de Yucatán, promulgada mediante decreto 213 del Poder Ejecutivo y publicada en el diario oficial del estado el 16 de agosto de 1999.
+
+Tercero. Abrogación de decreto
+
+A partir de la entrada en vigor de este decreto, quedará abrogado el decreto que crea la Comisión Intersecretarial de Atención a Desastres y establece las Bases para el Funcionamiento del Fondo para la Atención de Emergencias y Desastres del Estado de Yucatán, expedido mediante decreto 682 del Poder Ejecutivo y publicado en el diario oficial del estado, el 2 de junio de 2006. Sin embargo, continuará vigente para los asuntos que, a la entrada en vigor de este decreto, se encuentren en trámite.
+
+Cuarto. Abrogación de acuerdo
+
+A partir de la entrada en vigor de este decreto, quedará abrogado el Acuerdo que establece las Reglas de Operación del Fondo para la Atención de Emergencias y Desastres del Estado de Yucatán, expedido mediante acuerdo 93 del Poder Ejecutivo y publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el 22 de enero de 2007. Sin embargo, continuará vigente en tanto se expiden las reglas de operación del Fondo para la Atención de Emergencias y Desastres del Estado de Yucatán.
+
+Quinto. Expedición del reglamento
+
+El Gobernador del Estado deberá expedir en un plazo de noventa días naturales, contados a partir de la entrada en vigor de este decreto, el reglamento de esta ley.
+
+Sexto. Expedición de las reglas de operación
+
+El Secretario General de Gobierno deberá expedir en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este decreto, las reglas de operación del Fondo Estatal de Protección Civil y del Fondo para la Atención de Emergencias y Desastres del Estado de Yucatán.
+
+Séptimo. Instalación del Consejo Estatal
+
+El Consejo Estatal de Protección Civil se instalará en un plazo de sesenta días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Octavo. Obligación normativa
+
+El Consejo Estatal de Protección Civil deberá expedir su reglamento interno en un plazo de noventa días naturales, contados a partir de su instalación.
+
+Noveno. Designación del coordinador
+
+El director de la Unidad Estatal de Protección Civil ejercerá el cargo de coordinador de Protección Civil.
