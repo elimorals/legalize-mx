@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2017-10-17"
+last_updated: "2017-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -369,11 +369,7 @@ Para el acto a que se refiere el párrafo anterior, el Ayuntamiento en funciones
 
 ###### ARTÍCULO 37.
 
-Una vez terminada la sesión solemne de protesta, el Presidente Municipal saliente hará entrega formal de la administración al Presidente electo, ante los concejales que concluyan e inicien su ejercicio.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
-
-La Entrega-Recepción se sujetará a lo establecido en el Título Octavo de esta Ley.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2017)
 
 ###### ARTÍCULO 38.
 
@@ -455,7 +451,9 @@ Una vez electas las autoridades auxiliares, el Ayuntamiento facultará al Presid
 
 XVIII.- Expedir el Reglamento para la elección y reconocimiento de los representantes de los núcleos rurales, barrios, colonias y fraccionamientos, garantizando la participación de las mujeres en la elección y su incorporación como representantes;
 
-XIX.- Aprobar el nombramiento o remoción del Secretario, Tesorero y Responsable de la Obra Pública, a propuesta del Presidente Municipal;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XIX.- Aprobar el nombramiento o remoción del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal, a propuesta del Presidente Municipal.
 
 XX.- Resolver en los términos convenientes para la comunidad, los casos de concesión de servicios públicos de su competencia, con excepción de los de seguridad pública y tránsito;
 
@@ -463,9 +461,9 @@ XX.- Resolver en los términos convenientes para la comunidad, los casos de conc
 
 XXI.- Elaborar y presentar ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XXII.- Remitir al Congreso del Estado a más tardar el último día hábil del mes de febrero, la Cuenta Pública Municipal del año anterior para su revisión y fiscalización;
+XXII.- Remitir al Congreso del Estado a más tardar el último día hábil del mes de febrero, la Cuenta Pública Municipal del año anterior para su revisión y fiscalización. El Congreso del Estado publicará en su portal de internet la cuenta pública municipal, para facilitar su consulta pública.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -625,9 +623,17 @@ LXXVI.- Otorgar la dispensa de la garantía del interés fiscal en términos de 
 
 LXXVII.- Promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento; por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos que establecen los criterios y mecanismos para emitir acuerdos de carácter general en situaciones de emergencia por la ocurrencia de sequía, así como las medidas preventivas y de mitigación, que podrán implementar los usuarios de las aguas nacionales para lograr un uso eficiente del agua durante sequía, publicados en el Diario Oficial de la Federación el 22 de noviembre de 2012; y
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+LXXVIII.- Promover e instalar los Comités de contraloría social;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+LXXIX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales.
+
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXVIII.- Las demás que les señalen las leyes y reglamentos municipales.
+LXXX.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -813,7 +819,9 @@ XVII.- Limpia y Disposiciones de Residuos Sólidos;
 
 XVIII.- Gaceta Municipal y Publicaciones;
 
-XIX.- Transparencia y Acceso a la Información y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XIX.- Rendición de Cuentas, Transparencia y Acceso a la Información;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -878,6 +886,10 @@ II.- El haberse dictado en su contra orden de aprehensión, auto de sujeción a 
 III.- Cuando así lo disponga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y la Ley de fiscalización Superior del Estado; y
 
 IV.- El incumplimiento de una resolución judicial en materia electoral.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+V.- El incumplimiento de una resolución en materia de Transparencia y Acceso a la Información Pública, dictada por el órgano garante de transparencia del Estado, así como el órgano garante a nivel nacional.
 
 ###### ARTÍCULO 61.
 
@@ -1065,7 +1077,9 @@ IX.- Vigilar la recaudación de ingresos en todos los ramos de la administració
 
 X.- Proponer al Ayuntamiento las comisiones en las que deben actuar sus integrantes;
 
-XI.- Proponer a consideración del Ayuntamiento para su aprobación los nombramientos del Secretario, Tesorero, Responsable de la Obra Pública. Los demás servidores públicos serán nombrados directamente por el Presidente Municipal;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XI.- Proponer a consideración del Ayuntamiento para su aprobación los nombramientos del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal. Los demás servidores públicos serán nombrados directamente por el Presidente Municipal;
 
 XII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano;
 
@@ -1121,9 +1135,13 @@ XXX.- Celebrar convenios con autoridades fiscales estatales o municipales para l
 
 XXXI.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XXXII.- Atender los requerimientos de Información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio.
+
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXXII.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+XXXIII.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 ###### ARTÍCULO 69.
 
@@ -1181,7 +1199,9 @@ X.- Regularizar ante la autoridad competente, la propiedad de los bienes inmuebl
 
 XI.- Admitir, tramitar y resolver los recursos administrativos a que se refiere esta Ley, con excepción de los contenidos en disposiciones fiscales;
 
-XII.- Vigilar que los servidores públicos municipales obligados, presenten oportunamente su declaración patrimonial, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XII.- Vigilar que los servidores públicos municipales obligados, presenten oportunamente su declaración de evolución patrimonial, de intereses y constancia de presentación de declaración fiscal, conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -1211,9 +1231,13 @@ XVIII.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de l
 
 XIX.- Celebrar convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos, y
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XX.- Las demás que señalen las disposiciones legales y reglamentarias aplicables.
+XX.- Atender los requerimientos de información del Contralor Interno Municipal y de los comités de contraloría social, y demás que le señalen las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XXI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables
 
 ###### ARTÍCULO 72.
 
@@ -1251,9 +1275,13 @@ XI.- Vigilar que las peticiones realizadas a la administración pública municip
 
 XII.- En materia indígena se encargarán de asegurar y promover los derechos de los pueblos y comunidades indígenas que integran el municipio, así como su desarrollo y oportunidades en total equidad, salvaguardando en todo momento el respeto a sus sistemas normativos internos y en general; a su cultura originaria, y
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XIII.- Atender los requerimientos de información del Contralor Interno Municipal y de los comités de contraloría social.
+
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2012)</small>
 
-XIII.- Las demás que se señalen en la presente Ley y demás disposiciones normativas emitidas por el Ayuntamiento.
+XIV.- Las demás que se señalen en la presente Ley y demás disposiciones normativas emitidas por el Ayuntamiento.
 
 ###### ARTÍCULO 74.
 
@@ -1410,6 +1438,10 @@ I.- La secretaría del Ayuntamiento;
 II.- La tesorería municipal; y
 
 III.- La responsable de la obra pública municipal.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+IV.- Contraloría Interna Municipal
 
 Cuando las posibilidades económicas de un Municipio no permitan el funcionamiento de más dependencias administrativas, los concejales realizarán las actividades relativas a la regiduría o comisión que les haya asignado el Ayuntamiento, pero no así las correspondientes al secretario y tesorero.
 
@@ -1827,11 +1859,159 @@ Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediant
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales, en consecuencia están obligados a vigilar los actos relacionados con la administración de dichos fondos.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO IV BIS. DEL ÓRGANO INTERNO DE CONTROL MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 BIS.- Las funciones de supervisión, evaluación y control de los recursos municipales estarán a cargo de un órgano interno de control municipal, el cual será responsable de analizar, revisar y evaluar las funciones de la administración pública municipal, verificando la correcta aplicación del gasto municipal.
+
+El órgano interno municipal es el mecanismo que promueve e integra la participación plural y democrática de la sociedad.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 TER.- Los Municipios con población de veinte mil habitantes o más, deberán contar con una Contraloría Interna Municipal, la cual tendrá un titular denominado Contralor Interno Municipal, quien será designado por la mayoría de los integrantes del Ayuntamiento; y por los comités de contraloría social, los cuales serán electos en asamblea general, por los ciudadanos del Municipio.
+
+En los Municipios con población menor de veinte mil habitantes, las funciones de la Contraloría Interna Municipal serán realizadas por la Comisión de Rendición de Cuentas, Transparencia y Acceso a la Información, la Comisión que se acuerde en sesión de cabildo o el Ayuntamiento y el Tesorero Municipal de conformidad con lo dispuesto en el artículo 126 de la presente Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+#### Sección Primera. De la Contraloría Municipal
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 QUATER.- La Contraloría Interna Municipal, tendrá las siguientes atribuciones:
+
+I.- La revisión y fiscalización de la hacienda pública municipal, para verificar que se haya recibido, recaudado, administrado, ejercido y aplicado los recursos económicos que conforme a los diversos ordenamientos legales y normatividades le corresponden al Municipio;
+
+II.- Vigilar que el patrimonio municipal esté debidamente resguardado, valuado y registrado en el sistema de contabilidad municipal y se refleje en los estados financieros del Municipio y demás informes que deban de emitirse de conformidad con la normatividad emitida por el Consejo Nacional de Armonización Contable;
+
+III.- Comprobar que todos los ingresos y egresos del Municipio, estén debidamente comprobados, justificados y registrados en el sistema de contabilidad gubernamental y se reflejen en los estados financieros e informes que deban emitirse periódicamente de conformidad con las normas emitidas por el Consejo Nacional de Armonización Contable;
+
+IV.- Vigilar que se cumpla con la Ley de Ingresos del Municipio y el Presupuesto Anual de Egresos del Municipio, realizando un análisis de las desviaciones detectadas y en su caso emitir las recomendaciones que procedan a las áreas implicadas.
+
+V.- Establecer las políticas, lineamientos, objetivos y acciones en materia de control interno, transparencia, rendición de cuentas, prevención y combate a la corrupción;
+
+VI.- Ordenar y realizar auditorías a las Dependencias y Entidades de la Administración Pública Municipal, con el propósito de proponer medidas correctivas en sus operaciones y el cumplimiento de los objetivos contenidos en sus programas, así como corroborar la correcta aplicación de los recursos provenientes de programas federales, estatales y los concertados con la federación conforme a sus reglas de operación;
+
+VII.- Vigilar que los recursos financieros destinados a la ejecución de programas, prestación de servicios y la administración Municipal, sean enfocados a los objetivos propuestos y se apliquen con oportunidad, eficacia honestidad, transparencia y rendición de cuentas;
+
+VIII.- Vigilar que la Tesorería Municipal y demás áreas implicadas cumplan con las normas y disposiciones en materia de sistemas de registro, contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes;
+
+IX.- Supervisar que la ejecución de los convenios celebrados entre el Ayuntamiento del Municipio con el Gobierno del Estado y con la Federación se cumplan en sus términos acordados;
+
+X.- Evaluar, supervisar, verificar, física y financieramente, el avance e información de los programas e inversión y obra pública, así como la aplicación de los recursos a ellos destinados, autorizados previamente y conforme a las disposiciones legales en la materia;
+
+XI.- Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Municipio con recursos propios o con recursos provenientes de convenios con el Estado, con la federación o de cualquier otra índole;
+
+XII.- Vigilar el cumplimiento de las observaciones y recomendaciones emitidas por la Auditoría Superior de Fiscalización del Estado de Oaxaca;
+
+XIII.- Supervisar que los proveedores de bienes y servicios, y contratistas, cumplan lo estipulado en los contratos que celebren con el Ayuntamiento del Municipio o sus dependencias y entidades;
+
+XIV.- Participar en las licitaciones públicas convocadas para seleccionar a los proveedores de bienes, servicios y obras públicas, con el objeto de vigilar y validar que los procedimientos para las adjudicaciones que se asignen, se realicen con estricto apego a las leyes y demás ordenamientos legales aplicables.
+
+XV.- Recibir y registrar en la plataforma nacional las declaraciones patrimoniales, de intereses y fiscal en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+
+XVI.- Reglamentar y participar en el procedimiento de Entrega-Recepción de las oficinas de las Dependencias y Entidades de la Administración Pública Municipal, en los términos de las disposiciones legales, aplicando en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
+
+XVII.- Reglamentar y participar en el procedimiento de Entrega-Recepción de la Administración Pública Municipal, en los términos de la presente ley y demás disposiciones legales aplicables;
+
+XVIII.- Vigilar que la prestación de los servicios públicos sea conforme a los principios de legalidad, transparencia, honradez e imparcialidad, y atender e investigar las quejas, denuncias, peticiones, recomendaciones y sugerencias que presente cualquier interesado en relación con las responsabilidades de los servidores públicos de las dependencias, y entidades de la Administración Pública Municipal, e investigar los actos, omisiones o conductas de los servidores públicos y, en su caso, fincar responsabilidades administrativas, para imponer sanciones de acuerdo con las disposiciones aplicables;
+
+XIX.- Vigilar que las obras públicas se realicen de acuerdo a la planeación, programación, presupuesto y especificaciones convenidas, debiendo supervisar desde la contratación, autorización y anticipo de pago de estimaciones, hasta su finiquito y entrega, sin demérito de la responsabilidad directa del Responsable de la Obra Pública Municipal.
+
+XX.- Vigilar e investigar los actos, omisiones o conductas de los servidores públicos y particulares que constituyan alguna responsabilidad administrativa, aplicando las sanciones en los términos de las disposiciones legales, y en su caso, formular la denuncia o querella correspondiente ante el Ministerio Público o promover las acciones legales que procedan ante el Tribunal de lo Contencioso Administrativo y de Cuentas;
+
+XXI.- Llevar el registro y control de los servidores públicos sancionados;
+
+XXII.- Llevar el registro y control de los proveedores, contratistas y particulares que hayan sido sancionados;
+
+XXIII.- Imponer las sanciones que conforme a derecho procedan;
+
+XXIV.- Formar parte del Comité de Transparencia y Acceso a la Información Pública del Municipio y sancionar en su caso a los servidores públicos, que por negligencia u omisión incumplan con dar respuesta a las solicitudes de acceso a la información pública o de protección de datos personales o con las resoluciones emitidas por el órgano local y federal garantes de este derecho o los tribunales federales;
+
+XXV.- Vigilar que las Dependencias y Entidades Municipales, cumplan para la celebración de sus contratos con lo dispuesto en las leyes y normatividad aplicable;
+
+XXVI.- Informar permanentemente al Ayuntamiento del resultado de las evaluaciones y auditorías realizadas, y proponer las medidas correctivas que procedan;
+
+XXVII.- Fomentar entre los servidores públicos municipales, la cultura de la legalidad, ética y calidad en el servicio público, a través de programas y acciones para la atención eficiente y de calidad, que el Ayuntamiento, sus Dependencias y Entidades de la Administración Pública Municipal deban proporcionar a la ciudadanía;
+
+XXVIII.- Cumplir con la (sic) obligaciones que le impone la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal; y,
+
+XXIX.- Las demás que en el ámbito de su competencia le confieran el Ayuntamiento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 QUINQUIES.- Para ser Contralor Municipal se requiere cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano, con 30 años cumplidos al día de su designación y estar en pleno ejercicio de sus derechos;
+
+II. Tener título y cédula profesional en las profesiones de Contaduría Pública, Derecho, Administración Pública o Economía;
+
+III. Tener al día de su designación tres años de experiencia mínima en el ejercicio de su profesión relacionada en materia de auditoría pública y fiscalización;
+
+IV. Ser de reconocida honorabilidad, responsabilidad en el ejercicio de su profesión y en el desempeño de sus funciones públicas; y
+
+V. No haber sido sentenciado por delito doloso, ni haber sido inhabilitado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 SEXDECIES (SIC).- El titular de la Contraloría Interna Municipal durante el ejercicio de su función no podrá desempeñar otro cargo remunerado dentro de la administración pública federal, estatal o municipal; así como participar en actividades proselitistas a favor de partidos políticos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+#### Sección Segunda. De los Comités de Contraloría Social
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 SEPTENDECIES.- Los ayuntamientos promoverán la constitución de comités de contraloría social, los que se encargaran de supervisar la obra pública estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 OCTODECIES.- Los comités de contraloría social estarán integrados por tres ciudadanos del Municipio, los cuales serán electos mediante asamblea general de manera democrática, por localidad, agencia, núcleo rural, congregación, ranchería, cuadra, manzana, barrio, colonia o fraccionamiento, de la obra a ejecutar.
+
+El cargo de integrante del comité será honorífico y no podrán ser integrantes de los comités las personas que sean dirigentes de organizaciones políticas o servidores públicos federales, estatales o municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 NOVODECIES.- En cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 VICIES.- Los comités de contraloría social tendrán las siguientes atribuciones:
+
+I. Vigilar que la obra pública se realice de acuerdo al expediente técnico y dentro de la normatividad correspondiente;
+
+II. Participar como observador en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
+
+III. Requerir al Ayuntamiento toda la documentación inherente y necesaria de los expedientes técnicos de las obras y demás información necesaria para la realización de su función.
+
+Los integrantes del Ayuntamiento están obligados a atender los requerimientos de información que le realicen los comités de contraloría social; en caso de incumplimiento o negativa a un requerimiento se iniciara el procedimiento administrativo de responsabilidad correspondiente y serán objeto de sanciones en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+IV. Hacer visitas de inspección y llevar registro de sus resultados;
+
+V. Verificar la calidad con que se realiza la obra pública;
+
+VI. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observe durante el desempeño de sus funciones o las quejas que reciba de la ciudadanía, con motivo de las obras objeto de supervisión;
+
+VII. Integrar un archivo con la documentación que se derive de la supervisión de las obras;
+
+VIII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos el resultado del desempeño de sus funciones; y
+
+IX. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 126 UNVICIES.- Los comités de contraloría social deberán coadyuvaran (sic) con la Contraloría Municipal, en el desempeño de las funciones que establece el artículo 75 QUATER de esta ley.
+
+El Ayuntamiento, a través de las autoridades correspondiente (sic) que construyan las obras o realicen las acciones, explicarán a los comités de contraloría social, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
+
+Asimismo, la Auditoría Superior de Fiscalización del Estado, la Secretaría de la Contraloría y Transparencia Gubernamental deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
+
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
-
-### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 127.
 
@@ -1875,7 +2055,7 @@ El control presupuestal comprenderá las asignaciones, transferencias, compromis
 
 Los libros o los registros contables deberán de conservarse durante 5 años por el Ayuntamiento en su archivo administrativo y no podrán por ningún motivo, modificarse o destruirse. Al término de ese lapso, la documentación se remitirá al Archivo General del Estado.
 
-### CAPÍTULO I. DE LAS BASES GENERALES
+### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 132.
 
@@ -1887,7 +2067,7 @@ El Ayuntamiento acordará la contratación de deuda pública por mayoría califi
 
 ## TÍTULO SÉPTIMO. DEL ORDEN JURÍDICO Y LA JUSTICIA MUNICIPAL
 
-### CAPÍTULO II. DE LOS BANDOS DE POLICÍA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
+### CAPÍTULO I. DE LAS BASES GENERALES
 
 ###### ARTÍCULO 134.
 
@@ -1921,7 +2101,7 @@ El Ayuntamiento contará con una Gaceta Municipal, para realizar la publicación
 
 El Ayuntamiento deberá destinar recursos de su Presupuesto de Egresos para la operación, organización y funcionamiento de la Gaceta Municipal. Expedirá también el Reglamento respectivo.
 
-### CAPÍTULO III. DE LA JUSTICIA MUNICIPAL Y LOS ALCALDES
+### CAPÍTULO II. DE LOS BANDOS DE POLICÍA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
 ###### ARTÍCULO 138.
 
@@ -1993,7 +2173,7 @@ VII.- Pago al erario municipal por el daño causado, sin perjuicio de las demás
 
 Para la imposición de las sanciones a que se refiere el presente Capítulo se deberán tomar en cuenta las condiciones particulares del infractor, la gravedad y las circunstancias en la comisión de la infracción.
 
-### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
+### CAPÍTULO III. DE LA JUSTICIA MUNICIPAL Y LOS ALCALDES
 
 ###### ARTÍCULO 144.
 
@@ -2027,7 +2207,7 @@ V.- Conocer como defensor del ciudadano de las quejas que se presenten contra el
 
 Se expedirá por el Ayuntamiento un Reglamento para el Procedimiento conciliatorio ante los Alcaldes, pudiéndose aplicar en forma supletoria la Ley de Mediación para el Estado de Oaxaca respecto de estos actos.
 
-### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
+### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
 
 ###### ARTÍCULO 147.
 
@@ -2043,7 +2223,7 @@ b) Cuando una elección se declare nula por las autoridades electorales; y
 
 c) cuando no se verifique la elección extraordinaria prevista en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, el Congreso designará un Concejo Municipal para que ejerza las funciones del ayuntamiento por el tiempo de su ejercicio constitucional.
 
-### CAPÍTULO VI. RESOLUCIÓN DE CONFLICTOS ENTRE AYUNTAMIENTO Y LOS PODERES EJECUTIVO Y JUDICIAL
+### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
 ###### ARTÍCULO 149.
 
@@ -2093,7 +2273,7 @@ V.- No aparezca firmado, a menos que se firme antes del vencimiento del plazo pa
 
 La interposición del recurso administrativo de revocación suspenderá la ejecución del acto, acuerdo o resolución impugnados.
 
-### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
+### CAPÍTULO VI. RESOLUCIÓN DE CONFLICTOS ENTRE AYUNTAMIENTO Y LOS PODERES EJECUTIVO Y JUDICIAL
 
 ###### ARTÍCULO 153.
 
@@ -2149,7 +2329,7 @@ IV.- El día y hora señalados para la reanudación de la audiencia las partes e
 
 La Comisión de Gobernación dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
 
-### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
+### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
 
 ###### ARTÍCULO 159.
 
@@ -2171,7 +2351,7 @@ La integración y facultades de los Consejos Municipales estarán determinadas p
 
 Cada Municipio establecerá una Unidad de Protección Civil, la cual tendrá atribuciones que determine la Ley de la materia.
 
-### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
+### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
 
 ###### ARTÍCULO 164.
 
@@ -2181,15 +2361,13 @@ Son deberes del Cronista o del Consejo de Cronistas: llevar un registro de hecho
 
 Son atribuciones y derechos del Cronista o del Consejo e (sic) Cronistas: usar como emblema el escudo del Municipio en su papelería oficial, proponer al Ayuntamiento el otorgamiento de testimonios y reconocimientos a ciudadanos distinguidos y obtener del Ayuntamiento la ayuda necesaria para el desempeño de su labor.
 
-### CAPÍTULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
 ###### ARTÍCULO 165.
 
 Los Ayuntamientos están obligados a observar y dar cumplimiento a las disposiciones contenidas en las Leyes de Transparencia y Acceso a la Información Pública; de Protección de Datos Personales; y de Archivos.
 
-### CAPÍTULO I. DEL COMITÉ INTERNO
-
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+### CAPÍTULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 166.
 
@@ -2209,13 +2387,15 @@ Los servidores públicos municipales deberán presentar su declaración patrimon
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO II. DE LA COMISIÓN MUNICIPAL DE ENTREGA-RECEPCIÓN
+### CAPÍTULO I. DEL COMITÉ INTERNO
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 169.
 
-La administración saliente constituirá en sesión de cabildo dentro de los quince días hábiles siguientes a la expedición de las constancias de mayoría y validez al Ayuntamiento electo, un Comité Interno de Entrega, formado por un integrante de cada área que constituya el Municipio, con la finalidad de realizar las acciones previas tendientes a facilitar la Entrega-Recepción.
+La administración saliente, treinta días hábiles previos a la conclusión de su mandato, en Sesión Extraordinaria de Cabildo, constituirá un Comité Interno de Entrega, formado por un integrante de cada área que constituya el Municipio, encabezado por el Presidente Municipal en funciones, con la finalidad de realizar las acciones previas tendientes a facilitar la Entrega-Recepción.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE ENERO DE 2015)</small>
 
 Dicho Comité tendrá además las siguientes obligaciones:
 
@@ -2227,11 +2407,13 @@ III. Dar seguimiento al calendario de actividades para evaluar su cumplimiento, 
 
 IV. Elaborar un informe de los trabajos realizados de acuerdo al calendario de actividades, con corte a los quince días hábiles siguientes a la constitución de dicho Comité, del año en que concluya la gestión.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 El Comité Interno concluirá sus funciones una vez conformada la Comisión Municipal de Entrega-Recepción, debiendo proporcionar a ésta, la información y documentación hasta esa fecha integrada.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO III. DEL ACTA DE ENTREGA-RECEPCIÓN
+### CAPÍTULO II. DE LA COMISIÓN MUNICIPAL DE ENTREGA-RECEPCIÓN
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2275,13 +2457,13 @@ Las actividades que desarrollen los integrantes de la Comisión Municipal del Ay
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO IV. DE LOS BIENES Y DOCUMENTACIÓN SUJETOS A ENTREGA
+### CAPÍTULO III. DEL ACTA DE ENTREGA-RECEPCIÓN
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 174.
 
-En la fecha a que se refiere el primer párrafo del artículo 37 de esta Ley, los sujetos obligados, deberán llevar a cabo un acto formal en el que se hará entrega de la Administración Municipal al Presidente electo mediante acta circunstanciada, misma que deberá sujetarse a lo dispuesto en los artículos 175, 176 y 177 del presente ordenamiento.
+El día uno de enero del año que corresponda o en la fecha que sus Sistemas Normativos Indígenas señale (sic) como fecha para el cambio de la administración municipal, los sujetos obligados, deberán llevar a cabo un acto formal en el que se hará entrega de la Administración Municipal al Presidente electo mediante acta circunstanciada, misma que deberá sujetarse a lo dispuesto en los artículos 175, 176 y 177 del presente ordenamiento.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2329,7 +2511,7 @@ III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Ent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO V. DE LAS ACLARACIONES
+### CAPÍTULO IV. DE LOS BIENES Y DOCUMENTACIÓN SUJETOS A ENTREGA
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2433,7 +2615,7 @@ Corresponde a las Autoridades Municipales entrantes, al recibir la Administraci�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO VI. DE LA VIGILANCIA
+### CAPÍTULO V. DE LAS ACLARACIONES
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2443,11 +2625,11 @@ Los integrantes del Cabildo que manejen recursos humanos, materiales y/o financi
 
 Si los servidores públicos mencionados con anterioridad, no procedieran de conformidad con el párrafo anterior, se entenderá que están conformes con la Entrega-Recepción.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 180.
 
-Los servidores públicos de la administración saliente tienen la obligación de atender los requerimientos de aclaraciones o justificaciones que se les hagan, dentro del plazo que se menciona en el artículo anterior, de no hacerlo incurrirán en responsabilidad, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca.
+Los servidores públicos de la administración saliente tienen la obligación de atender los requerimientos de aclaraciones o justificaciones que se les hagan, dentro del plazo de 15 días hábiles, contados a partir de la fecha en que se les notifique el requerimiento, de no hacerlo incurrirán en responsabilidad y serán sancionados en los términos de las Leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2457,13 +2639,19 @@ La Entrega-Recepción no exime a los servidores públicos de la administración 
 
 El Ayuntamiento entrante recibirá los bienes y recursos municipales tal y como los encuentre física o documentalmente, pues la recepción no implica que se deslinde responsabilidad alguna o que se avale la información contenida en el expediente de Entrega-Recepción.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 182.
 
-En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, el Ayuntamiento entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo a la Auditoría Superior del Estado, copia certificada de dichas actuaciones.
+El servidor público entrante, tendrá la obligación de recibir los recursos, bienes y documentación que le entregue la administración saliente en la fecha señalada por la ley o según sus sistemas normativos internos, para lo cual se procederá conforme a lo establecido en el artículo 169 de este ordenamiento legal.
 
-La Auditoría Superior del Estado, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a 15 días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, la Auditoría Superior del Estado procederá a promover las responsabilidades que correspondan.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, la administración entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo a la Auditoría Superior del Estado, copia certificada de dichas actuaciones.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+El Órgano Superior de Fiscalización del Estado, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a quince días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, la Auditoría Superior del Estado procederá a promover las responsabilidades que correspondan.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2481,21 +2669,51 @@ d) Estado de la obra pública ejecutada y en proceso; y
 
 e) Situación que guardan las aportaciones estatales y federales, con sus respectivos comprobantes.
 
-Una vez recibida esta documentación, la Auditoría Superior del Estado deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de 30 días hábiles.
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+f) Inventario de bienes muebles e inmuebles;
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+g) Sellos Oficiales utilizados por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+Una vez recibida esta documentación, la Auditoría Superior de Fiscalización del Estado deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de diez días hábiles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO VII. DE LAS RESPONSABILIDADES
+### CAPÍTULO VI. DE LA VIGILANCIA
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 184.
 
-Corresponde a la Auditoría Superior del Estado, vigilar dentro del ámbito de competencia que le confiere el presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
+Corresponde a la Auditoría Superior de Fiscalización del Estado, vigilar dentro del ámbito de competencia que le confiere el presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
 
-I. Requerir a los sujetos obligados, la información y documentación necesaria para conocer el cumplimiento de las disposiciones de esta Ley; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+I. Requerir a los sujetos obligados, la información y documentación necesaria para conocer el cumplimiento de las disposiciones de esta Ley;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2015)</small>
 
 II. Promover los procedimientos de responsabilidades que deriven del incumplimiento de las obligaciones establecidas en esta Ley, o de las disposiciones que al efecto emita, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+III. Publicar en el periódico oficial del Gobierno del Estado de Oaxaca, las guías y lineamientos correspondientes;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+IV. Ser depositario de la información señalada en el artículo 183 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+V. Brindar la capacitación y orientación necesaria para el debido cumplimiento del proceso de entrega-recepción; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+VI. Promover los procedimientos de responsabilidades que deriven del incumplimiento de las obligaciones establecidas en esta Ley, o de las disposiciones que al efecto emita, de conformidad con las disposiciones legales aplicables, y en su caso, dar vista a la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2503,13 +2721,19 @@ II. Promover los procedimientos de responsabilidades que deriven del incumplimie
 
 Para efectos del presente Título, son facultades del Síndico Municipal, las siguientes:
 
-I. Vigilar que los titulares de las áreas administrativas provean la información y documentos relativos a la Entrega-Recepción;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+I. Vigilar la integración del Comité Interno de Entrega, asimismo, que los titulares de las áreas administrativas provean la información y documentos relativos a la Entrega-Recepción;
 
 II. Supervisar que los sujetos obligados cumplan en tiempo y forma las disposiciones establecidas en esta Ley y las que emita la Auditoría Superior del Estado; y
 
 III. Informar al Ayuntamiento de los avances en el cumplimiento del proceso de Entrega-Recepción.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTÍCULO 186.
 
@@ -2533,7 +2757,9 @@ Para efectos de esta Ley existe responsabilidad relacionada con el proceso de En
 
 a) No establecer el Comité Interno de Entrega;
 
-b) No establecer de forma coordinada la Comisión Municipal de Entrega-Recepción;
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+
+b) No establecer de forma coordinada la Comisión Municipal de Entrega-Recepción, con excepción tratándose del supuesto en que el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca no haya validado la elección correspondiente.
 
 c) No proporcionar el apoyo relacionado con la información y documentación que requiera la Comisión Municipal de Entrega-Recepción;
 
@@ -2764,3 +2990,11 @@ P.O. 17 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 712.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 32 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 704.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Órgano Superior de Fiscalización del Estado, deberá emitir las guías y lineamientos a que se refiere la fracción III del artículo 184, en un plazo de noventa días naturales a partir de la publicación del presente Decreto.
