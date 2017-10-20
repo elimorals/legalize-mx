@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-administrador-de-54521"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-23"
-last_updated: "2007-02-23"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL COMITE ADMINISTRADOR DE INFRAESTRUCTURA PUBLICA Y EDUCATIVA DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL COMITE ADMINISTRADOR DE INFRAESTRUCTURA PUBLICA Y EDUCATIVA DE BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL COMITÉ ADMINISTRADOR DE INFRAESTRUCTURA PÚBLICA Y EDUCATIVA DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2007.
 
@@ -31,7 +33,7 @@ EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE 
 
 CONSIDERANDO
 
-.
+[...]
 
 SÉPTIMO.- Que en razón de que cada una de las unidades administrativas se encuentran representadas por un titular, es menester hacer una exacta distribución de las tareas encomendadas a su estructura orgánica, a efecto de lograr así mayores y mejores resultados que puedan verse reflejados en las funciones del personal que labora dentro del organismo, por lo que se expide el siguiente:
 
@@ -728,3 +730,17 @@ Bernardo H. Martínez Aguirre
 SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
 Arturo Espinoza Jaramillo
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Comité Administrador de Infraestructura Pública y Educativa de Baja California, publicado en el Periódico Oficial del Estado de Baja California en fecha 23 de febrero de 2007.
+
+TERCERO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente ordenamiento, serán resueltos por la unidad administrativa que corresponda, conforme a las atribuciones que el Reglamento en vigor le confiere.
+
+CUARTO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
