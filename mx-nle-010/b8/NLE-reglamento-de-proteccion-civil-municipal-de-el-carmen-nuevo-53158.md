@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-el-carmen-nuevo-531
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-15"
-last_updated: "2007-01-15"
+last_updated: "2017-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE EL CARMEN, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE EL CARMEN, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE EL CARMEN NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PROTECCIÓN CIVIL MUNICIPAL DE EL CARMEN, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de enero de 2007.
 
@@ -367,3 +369,15 @@ PRESIDENTE MUNICIPAL
 C. IMELDA VILLARREAL FERNÁNDEZ
 
 SECRETARIA DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE EL CARMEN NUEVO LEÓN".
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y su cumplimiento es obligatorio dentro del territorio de este municipio.
+
+SEGUNDO.- Se abroga el Reglamento de Protección Civil del Municipio de El Carmen, Nuevo León, publicado en el Periódico Oficial del Estado del día 15 de Enero de 2007 y sus reformas y demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese el presente reglamento en el portal electrónico de Internet del municipio para cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León y en la Tabla de Avisos para su debida difusión. Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría del Ayuntamiento, para su publicación en dicho órgano y se le dé el debido cumplimiento.
