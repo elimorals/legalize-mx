@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-07-29"
+last_updated: "2017-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE JULIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1753,11 +1751,17 @@ XXX. Informar permanentemente al Titular del Ejecutivo del resultado de las eval
 
 XXXI. Fomentar entre los servidores públicos del Estado, la cultura de la legalidad, ética y calidad en el servicio público, a través de programas y acciones para la atención eficiente y de calidad, que las Dependencias y Entidades de la Administración Pública Estatal deban proporcionar a la ciudadanía;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias, Entidades y Órganos Auxiliares de la Administración Pública Estatal, que considere necesarias para el mejor ejercicio de sus atribuciones; el nombramiento, remoción y rotación de los delegados, así como, del personal que integre cada una de las delegaciones será facultad exclusiva del Titular de esta Secretaría, y
+XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias, Entidades y Órganos Auxiliares de la Administración Pública Estatal, que considere necesarias para el mejor ejercicio de sus atribuciones; el nombramiento, remoción y rotación de los delegados, así como del personal que integre cada una de las delegaciones será facultad exclusiva del titular de esta Secretaría;
 
-XXXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XXXIII. Integrar a través de su Titular el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, formar parte del Sistema Nacional de Fiscalización, informando periódicamente al Titular del Ejecutivo las acciones implementadas, y cumplir con todas las obligaciones que le impongan la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2017)</small>
+
+XXXIV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas para el Estado y Municipios de Oaxaca, y demás disposiciones normativas aplicables.
 
 ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
@@ -2645,7 +2649,7 @@ Los módulos de maquinaria que por estructura pertenecen a la Coordinación Gene
 
 La Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, adscrita a la Gubernatura y los recursos materiales, financieros y humanos con que venía operando, se transfieren al área de Comunicación Social de la Jefatura de la Gubernatura, facultándose a las Secretarías de la Contraloría y Transparencia Gubernamental, Administración y Finanzas, para que lleven a cabo los actos necesarios para la extinción y la transferencia, ordenados en este transitorio, de igual manera los actos jurídicos y administrativos realizados por la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, se entenderán que se refieren a la Jefatura de la Gubernatura.
 
-Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Direcció General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
+Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
 
 Por lo que todos los recursos materiales, financieros y humanos con que venían operando dentro de la estructura de la Secretaría General de Gobierno se deberán transferir a la Consejería Jurídica del Gobierno del Estado; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
 
@@ -2976,3 +2980,9 @@ OCTAVO. Se faculta al Titular de la Secretaría de Finanzas para que, en términ
 Las Secretarías citadas en el párrafo que antecede, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
 
 NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
