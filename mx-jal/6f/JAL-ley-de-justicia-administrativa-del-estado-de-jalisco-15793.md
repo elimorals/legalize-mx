@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2016-10-11"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -855,9 +853,21 @@ III. Admitan o rechacen la intervención del coadyuvante o del tercero;
 
 IV. Conceden o nieguen la suspensión del acto o resolución impugnada, o contra las que fijen las garantías en el trámite de la suspensión;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+
 V. Resuelvan sobre la posibilidad o imposibilidad de la autoridad para cumplir con la sentencia;
 
-VI. Resuelvan sobre la procedencia o improcedencia del cumplimiento sustituto, o fijen en cantidad líquida la indemnización por tal concepto.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+VI. Resuelvan sobre la procedencia o improcedencia del cumplimiento sustituto, o fijen en cantidad líquida la indemnización por tal concepto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+VII. Admitan, desechen o tengan por no interpuesta la solicitud para declarar que ha operado la afirmativa ficta; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+VIII. Resuelvan la calificación del cumplimiento de la sentencia que declaró que ha operado la afirmativa ficta.
 
 ###### Artículo 90.
 
@@ -947,7 +957,7 @@ El pleno, dentro de un término igual al señalado para la formulación del proy
 
 ### CAPÍTULO XVII. DE LOS PROCEDIMIENTOS ESPECIALES
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 103.
 
@@ -975,9 +985,11 @@ Al Actuario que sin causa justificada incumpla con la obligación de notificar u
 
 ###### Artículo 108.
 
-La afirmativa ficta se declara respecto de la solicitud de emitir actos regulativos, ante la omisión de la autoridad de emitir una resolución de manera expresa dentro de los plazos previstos por la norma aplicable al caso específico, o en su defecto por la Ley del Procedimiento Administrativo del estado de Jalisco y sus Municipios.
+La afirmativa ficta se declara respecto de la solicitud de emitir actos regulativos, ante la omisión de la autoridad de emitir una resolución de manera expresa dentro de los plazos previstos por las normas aplicables al caso específico, o en su defecto por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, y siempre que se anexen a la solicitud los documentos que acrediten los requisitos que para la emisión del acto regulativo están previstos por la normatividad que aplica al caso específico.
 
-Cuando se declare que opera la afirmativa ficta, se entiende que se emite el acto administrativo para los efectos solicitados por el promovente y contemplados por la Ley.
+Cuando se declare que opera la afirmativa ficta, sólo será para los efectos de que se ordene a la autoridad que le compete la emisión del acto regulativo, que en un término improrrogable de cinco días naturales, de forma fundada y motivada, lo emita en los términos solicitados conforme a sus facultades legales.
+
+Vencido el plazo otorgado por el Tribunal, la autoridad notificará el cumplimiento de la sentencia, y aquel calificará que se haya acatado en todos sus términos.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
 
@@ -985,19 +997,35 @@ Cuando se declare que opera la afirmativa ficta, se entiende que se emite el act
 
 Al escrito del particular que solicite la declaración de que ha operado la afirmativa ficta, deberá acompañar en todo caso:
 
-I. El documento fundatorio de su acción, en el que conste fehacientemente la recepción legítima de su solicitud por la autoridad correspondiente;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-II. Copia de los documentos que se entregaron a la autoridad, que acrediten el cumplimiento de los requisitos que la ley señala para acceder a la petición del acto de que se trate; y
+I. El documento en que funda su acción, en el que conste fehacientemente la recepción directa y legítima de la solicitud por la autoridad a la que compete la emisión del acto regulativo;
 
-III. El documento en el que conste, que el particular acudió ante la autoridad a solicitar la expedición del acto, por haber transcurrido los plazos señalados por la Ley aplicable al caso concreto.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+II. Constancia de recepción y copia de los documentos que se entregaron a la autoridad, que acrediten que se anexaron los requisitos que la norma señala para acceder a la petición del acto de que se trate; y
+
+III. (DEROGADA, P.O. 21 DE OCTUBRE DE 2017)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Además el solicitante deberá manifestar en su escrito si existen terceros afectados o con un interés incompatible al acto regulativo que se solicita.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 110.
 
-Recibido el escrito de solicitud de la declaratoria, el Tribunal en un término de tres días resolverá sobre su admisión si se acompañaron los documentos señalados en el artículo anterior, en caso contrario apercibirá al promovente para que los presente en un término de tres días o tendrá por no presentada la solicitud.
+Recibido el escrito de solicitud de la declaratoria, el Tribunal en un término de tres días resolverá sobre su admisión.
 
-En el acuerdo que tenga por recibido la solicitud, el Tribunal mandará notificar a la autoridad señalada, para efecto de que manifieste lo que a su derecho corresponda, en un término de tres días hábiles.
+Cuando la solicitud consista en la emisión de actos regulativos eventuales o por un tiempo no mayor a treinta días de vigencia, el término para su admisión será de veinticuatro horas.
+
+El acuse de recibo será la única prueba para acreditar la recepción de la solicitud ante la autoridad administrativa y la entrega de anexos para demostrar los requisitos para la emisión del acto regulativo. En ningún caso serán admisibles como prueba en que se funda la acción, certificaciones de hechos otorgadas por notarios o corredores públicos, constancias ante testigos o cualquier otro tipo de documento distinto al acuse.
+
+En el acuerdo que tenga por recibida la solicitud, el Tribunal dejará constancia de la fecha en que la autoridad facultada para emitir el acto regulativo recibió directa y legítimamente la solicitud del particular y mandará notificar a la autoridad señalada así como a los terceros afectados, para efecto de que manifiesten lo que a su derecho corresponda, en un término de cinco días hábiles.
+
+Para los casos de actos regulativos eventuales o con una vigencia no mayor a treinta días, el término para dichas manifestaciones será de dos días hábiles; el Tribunal, con o sin manifestaciones de las partes, pronunciará su resolución en un plazo no mayor a tres días.
+
+No será procedente el dictado de ninguna medida cautelar para efectos de que el solicitante realice la actividad regulativa solicitada.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
 
@@ -1005,7 +1033,17 @@ En el acuerdo que tenga por recibido la solicitud, el Tribunal mandará notifica
 
 La afirmativa ficta debe declararse en todo caso en que el particular, haya cumplido con los requisitos señalados y si han transcurrido efectivamente los plazos establecidos en la Ley aplicable al caso concreto o por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
-Para acreditar y declarar que opera la afirmativa ficta, invariablemente es necesario asegurarse que a la petición se anexaron las constancias y documentos, que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como que la petición se presentó ante la autoridad competente.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Para acreditar y declarar que opera la afirmativa ficta, deberá acreditarse que a la petición se anexaron las constancias y documentos con que se cumplen todos los requisitos establecidos en las normas aplicables al caso específico, así como que la petición se presentó ante la autoridad competente para emitir el acto regulativo solicitado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Transcurrido el término para que la autoridad y terceros afectados realicen las manifestaciones que a su derecho corresponda, el Tribunal en un término no mayor de quince días emitirá la resolución que corresponda para los efectos señalados en el segundo párrafo del artículo 108 de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+En caso de que la autoridad señalada no diere cumplimiento en los términos y condiciones que señala esta ley, a lo ordenado por el Tribunal al declarar que opero la afirmativa ficta, será sancionada por la desobediencia cometida con las penas que el Código Penal establece para el delito de abuso de autoridad.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -1019,13 +1057,17 @@ En contra de la resolución que dicte el Tribunal declarando o negando que haya 
 
 En aquellos casos, en que se requiera la publicación del acto administrativo, como requisito para su validez, en la resolución que declare que ha operado la afirmativa ficta, el Tribunal remitirá la sentencia al Ejecutivo para la inmediata publicación del acto en el Diario Oficial del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 114.
 
-En el caso de que cualquier autoridad administrativa del Estado o de los municipios se niegue a recibir o dar constancia de la presentación de un ocurso de particular que contenga una solicitud respecto de un acto administrativo, el particular puede presentarla ante el Tribunal, manifestando bajo protesta de decir verdad, que la autoridad competente se negó a tal recepción.
+En el caso de que cualquier autoridad administrativa del Estado o de los municipios se niegue a recibir o dar constancia de la presentación de un ocurso de particular que contenga una solicitud respecto de un acto administrativo, el particular puede presentarla ante el Tribunal, manifestando bajo protesta de decir verdad, que la autoridad se negó a tal recepción, acompañando copia simple de su solicitud y anexos para que obre como constancia ante el Tribunal.
 
-El Tribunal recibe la solicitud con sus anexos, y la remite a la autoridad señalada por el particular, para que cumpla con el procedimiento administrativo a que halla (sic) lugar y resuelva la petición en forma fundada y motivada, dentro de los plazos señalados por la ley especial. Lo anterior independientemente de que la autoridad siga el procedimiento de responsabilidad aplicable, en contra del servidor que se negó a recibir la solicitud.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+El Tribunal recibe la solicitud con sus anexos y en un plazo no mayor a cinco días la remite a la autoridad, para que cumpla con el procedimiento administrativo a que haya lugar y resuelva la petición en forma fundada y motivada, dentro de los plazos señalados por las normas aplicables al caso específico. Lo anterior independientemente de que la autoridad siga el procedimiento de responsabilidad aplicable, en contra del servidor que se negó a recibir la solicitud.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
 
 Los plazos a que se refiere el párrafo anterior, inician a partir del día siguiente al en que la autoridad reciba el escrito del Tribunal, otorgando formal acuse de recibo del cual se deja copia en el mismo Tribunal a disposición del particular.
 
@@ -1164,3 +1206,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26437/LXI/17 QUE REFORMA LOS ARTÍCULOS 89, 108, 109, 110, 111 Y 114 DE LA LEY DE JUSTICIA ADMINISTRATIVA; Y REFORMA EL ARTÍCULO 33 Y DEROGA EL ARTÍCULO 33 BIS DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, AMBAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
