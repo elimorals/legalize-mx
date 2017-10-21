@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-10-10"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1521,9 +1521,11 @@ VI. La generación, manejo y disposición final de residuos de lenta degradació
 
 VII. Que el riego agrícola que se realice con aguas tratadas cumpla con la normatividad aplicable, igual en los casos de riego de áreas verdes y centros recreativos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 92.
 
-Será atribución de la SEGAM, con la participación que corresponda a la SDARH, a los Servicios Coordinados de Salud Publica en el Estado y a los ayuntamientos, vigilar que no se utilicen en el territorio estatal plaguicidas y fertilizantes cuya aplicación no esté permitida de acuerdo a la normatividad ambiental; asimismo, vigilar la observancia y cumplimiento de las disposiciones normativas vigentes en las actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos.
+Será atribución de la SEGAM, con la participación que corresponda a la SEDARH, a los Servicios Coordinados de Salud Pública en el Estado, y a los ayuntamientos, vigilar que se utilicen en el territorio estatal plaguicidas y fertilizantes que sean compatibles con los ecosistemas y no causen efectos dañinos en la salud humana; así como la no aplicación de los que se encuentran identificados como prohibidos por la normatividad ambiental; asimismo, vigilar la observancia y cumplimiento de las disposiciones normativas vigentes en las actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos.
 
 Los envases que hayan contenido insumos fitosanitarios o plaguicidas e insumos de nutrición vegetal, previo dictamen de laboratorio acreditado donde se especifique su no peligrosidad, deberán someterse al procedimiento de lavado a que se refiere la Norma Oficial Mexicana que corresponda, así como en su caso a las disposiciones que establezca el CESPLAFEST.
 
@@ -3036,5 +3038,13 @@ P.O. 10 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0709.- SE REFORMA EL ARTÍCULO 98 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
