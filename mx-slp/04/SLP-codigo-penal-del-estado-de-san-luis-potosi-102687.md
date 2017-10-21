@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-10-17"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1467,6 +1467,10 @@ Cuando el cadáver no se encuentre o por otro motivo no se haga la necropsia, ba
 
 Inmediatamente después que la necropsia se hubiere practicado o, en su caso, dispensado, se entregará el cadáver a los familiares o a quienes invoquen título o motivo suficiente, previa autorización del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Con el fin de preservar la evidencia que pudiera revelar nuevas líneas de investigación para el esclarecimiento de los hechos, el agente del Ministerio Público prohibirá estrictamente, bajo su criterio y responsabilidad, la cremación de todo cadáver respecto del que se presuma la comisión de un homicidio, en tanto se dicte sentencia firme. Quien incurra en esta conducta se le impondrá la pena señalada en el párrafo último del artículo 208 de este Código.
+
 ###### ARTÍCULO 129.
 
 Siempre que se verifiquen las circunstancias del artículo anterior se tendrá como mortal una lesión, aunque se pruebe:
@@ -1540,6 +1544,10 @@ Además de las sanciones señaladas en el presente artículo, el sujeto activo p
 Igualmente al servidor público que retarde o entorpezca maliciosamente, o por negligencia la procuración o impartición de justicia, tratándose de este delito, se le impondrá pena de prisión de cuatro a ocho años, y multa de quinientos a mil unidades de Medida de Actualización, además será destituido, e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión público.
 
 En el caso de que no se acredite el delito de feminicidio, se aplicarán las reglas del delito de homicidio.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Además, con el fin de preservar evidencia que pudiera revelar nuevas líneas de investigación para el esclarecimiento de los hechos, el agente del Ministerio Público prohibirá estrictamente, bajo su criterio y responsabilidad, la cremación de todo cadáver respecto del que se presuma la comisión de un feminicidio, en tanto se dicte sentencia firme. Quien incurra en esta conducta se le impondrá la pena señalada en el párrafo último del artículo 208 de este Código.
 
 ### CAPÍTULO III. Lesiones
 
@@ -3221,7 +3229,7 @@ QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
+> <small>(DEROGADO TERCER PÁRRAFO. P.O. 17 DE OCTUBRE DE 2017)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -4754,5 +4762,13 @@ P.O. 17 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 726.- SE REFORMA EL TÍTULO DÉCIMO SEGUNDO DENOMINADO DEL CAPÍTULO V "DELITOS COMETIDOS CONTRA SERVIDORES PÚBLICOS O AGENTES DE LA AUTORIDAD EN EJERCICIO DE SUS FUNCIONES" Y EL ARTÍCULO 277 EN SU PÁRRAFO PRIMERO; DEROGA DEL MISMO ARTÍCULO 277 LOS PÁRRAFOS, SEGUNDO Y TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 731.- SE ADICIONAN LOS ARTÍCULOS 128 Y 135 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 116 Y ADICIONAN A LOS 114 Y 116 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
