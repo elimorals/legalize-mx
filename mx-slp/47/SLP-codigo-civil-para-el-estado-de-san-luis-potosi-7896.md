@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2017-07-19"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -123,7 +123,17 @@ Irrenunciables, por que ni siquiera la voluntad basta para privar su eficacia.
 
 ART. 19.- El nombre de las personas físicas se forma con el nombre propio y sus apellidos.
 
-El nombre propio, será impuesto por quien declare el nacimiento de una persona, respetando la voluntad de los progenitores, pudiendo ser simple o compuesto y los apellidos serán el del padre y el de la madre o, en su caso, sólo los de aquél o los de ésta en el supuesto de reconocimiento por separado.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+El nombre propio será impuesto por quien declare el nacimiento de una persona, respetando la voluntad de los progenitores, pudiendo ser simple o compuesto y los apellidos serán el del padre y el de la madre, en el orden que de común acuerdo determinen o, en su caso, sólo los de aquél, o los de ésta, en el supuesto de reconocimiento por separado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+El acuerdo de los progenitores respecto al orden de los apellidos, deberá mantenerse para todos los hijos de la misma filiación.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+En caso de que no exista acuerdo respecto del orden de los apellidos, se asentará en el acta el primer apellido del padre, seguido del primer apellido de la madre.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -10498,3 +10508,11 @@ P.O. 19 DE JULIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 730.- SE REFORMA EL ARTÍCULO 19 DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
