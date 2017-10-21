@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-10-10"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4083,6 +4083,10 @@ Además de las sanciones descritas en el presente artículo, el sujeto activo pe
 
 Comete el delito de robo el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la Ley. Se tendrá por consumado el robo, desde el momento en que el activo tenga en su poder lo robado, aún cuando lo abandone o lo desapoderen de él.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Para los efectos del delito de robo, se considerará cosa mueble todo objeto susceptible de ser trasladado de un lugar a otro, ya sea que se mueva por sí mismo o por efecto de una fuerza exterior, incluyendo los objetos que hayan estado adheridos a un bien inmueble.
+
 ###### Art. 234.
 
 Se considerará como robo para los efectos de la sanción:
@@ -4105,25 +4109,29 @@ IV. Enajenar o traficar de cualquier manera con vehículo o vehículos, a sabien
 
 V. Detentar, poseer, custodiar, falsificar, alterar, tramitar o efectuar actos tendientes a obtener la documentación con la que se pretenda acreditar la propiedad o identificación de uno o más vehículos robados;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-VI. Trasladar el o los vehículos robados o remarcados de una entidad federativa a otra, o al extranjero; y
+VI. Trasladar el o los vehículos robados o remarcados de una entidad federativa a otra, o al extranjero;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-VII. Utilizar el o los vehículos automotores robados a sabiendas de su origen ilícito.
+VII. Utilizar el o los vehículos automotores robados a sabiendas de su origen ilícito; y
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2017)</small>
 
-Para efectos de la sanción de las fracciones I y II de este artículo, se aplicarán las sanciones establecidas en el artículo 235 de este Código.
+VIII. La posesión, adquisición, transportación, comercialización o el almacenamiento de cosa mueble robada, a sabiendas de esta circunstancia.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-Para efectos de la sanción de las últimas cinco fracciones a que se refiere el presente artículo, se impondrán las penas señaladas en el artículo 236 Bis, inciso c) de este código.
+Para efectos de la sanción de las fracciones I, II y VIII de este artículo, se aplicarán las sanciones establecidas en el artículo 235 de este Código.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-Si en los actos que se describen en las fracciones III, IV, V, VI y VII, participa algún servidor público, que tenga o haya tenido a su cargo en los tres últimos años, funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de la sanción que le corresponde, se le aumentará en una mitad más y se inhabilitará para desempeñar cualquier empleo, cargo o comisión público por un periodo de cinco años.
+Para efectos de la sanción de las fracciones III, IV, V, VI y VII a que se refiere el presente artículo, se impondrán las penas señaladas en el artículo 236 Bis, inciso c) de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+Si en los actos que se describen en las fracciones III, IV, V, VI, VII y VIII, participa algún servidor público, que tenga o haya tenido a su cargo en los tres últimos años, funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de la sanción que le corresponde, se le aumentará en una mitad más y se inhabilitará para desempeñar cualquier empleo, cargo o comisión público por un periodo de cinco años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
@@ -6412,3 +6420,9 @@ P.O. 10 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26431/LXI/17, MEDIANTE EL CUAL REFORMA LOS ARTÍCULOS 142-A Y 224, Y SE ADICIONA EL ARTÍCULO 135 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26439/LXI/17 QUE REFORMA LOS ARTÍCULOS 233 Y 234 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
