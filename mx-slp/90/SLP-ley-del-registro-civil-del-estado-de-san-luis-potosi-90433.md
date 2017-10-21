@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2016-11-08"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -33,7 +33,9 @@ DECRETO 1165
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Como consecuencia de lo anterior, es necesario derogar del Título Décimo Primero los capítulos I a VIII y los artículo del 466 a 549, del Código Familiar para el Estado. Y con el propósito de hacer congruente el capítulo IX del Título en comento, es necesario reformar la denominación del mismo, por el tema que atiende, es decir De la Rectificación de las Actas del Registro Civil, para que de esta manera quede integrado el capítulo correspondiente, cuya aplicación por ser de naturaleza jurisdiccional, compete al Poder Judicial del Estado.
 
@@ -1043,6 +1045,10 @@ Cuando se trate de un acta de divorcio emitida por autoridad extranjera se estar
 
 Ninguna inhumación o cremación se hará sin autorización escrita del Oficial, quien se asegurará suficientemente del fallecimiento mediante el certificado de defunción que expida el médico. No se procederá a la inhumación o cremación sino después de que transcurran dieciocho horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+En los casos en que se presuma que la defunción se haya cometido por un homicidio, o feminicidio, el agente del Ministerio Público, bajo su criterio y responsabilidad, solicitará al Oficial que plasme la prohibición en el acta de defunción para realizar la cremación del cadáver, lo anterior de conformidad con lo que establecen los artículos, 128 párrafo último, y 135 párrafo último, del Código Penal del Estado.
+
 ###### ARTÍCULO 115.
 
 En el acta de defunción se asentarán los datos que el Oficial recabe de la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, los parientes del fallecido, si los hay, o los vecinos.
@@ -1065,9 +1071,17 @@ V. La clase de enfermedad que determinó la muerte, y especificadamente el lugar
 
 VI. La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
 
-VII. El nombre, apellidos, domicilio y número de cédula profesional del médico que certifica la defunción, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
 
-VIII. Tratándose de extranjeros se dará aviso a la autoridad federal correspondiente
+VII. El nombre, apellidos, domicilio y número de cédula profesional del médico que certifica la defunción;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+VIII. Tratándose de extranjeros se dará aviso a la autoridad federal correspondiente, y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+IX. La prohibición para realizar cremación del cadáver, en los casos a los que aluden los párrafos últimos de los artículos, 128, y 135, del Código Penal del Estado.
 
 ###### ARTÍCULO 117.
 
@@ -1451,7 +1465,7 @@ Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 31 DE DICIEMBRE DE 2013.
 
@@ -1480,3 +1494,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 731.- SE ADICIONAN LOS ARTÍCULOS 128 Y 135 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 116 Y ADICIONAN A LOS 114 Y 116 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
