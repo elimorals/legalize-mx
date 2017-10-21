@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2017-10-11"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -323,7 +323,9 @@ II.- El auxilio de la fuerza pública;
 
 III.- El cateo por orden escrita;
 
-IV.- El arresto hasta por quince días.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+IV.- El arresto hasta por treinta y seis horas.
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
@@ -4395,7 +4397,35 @@ Será el acuerdo del Supremo Tribunal el que decida las quejas contra los jueces
 
 ART. 974.- La queja contra los secretarios o ejecutores será resuelta de plano por el juez que conozca del asunto, oyendo el informe del acusado.
 
-ART. 975.- Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho o procediere recurso ordinario contra la resolución reclamada, será desechada por el superior, el que impondrá al quejoso y a su abogado, solidariamente, multa que no exceda de cien pesos.
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+ART. 974 BIS.- La resolución del recurso a que se refiere este capítulo se fundará en derecho, y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la facultad de invocar hechos notorios; a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento.
+
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados, y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
+
+Igualmente podrá revocar los actos recurridos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+
+No se podrán revocar o modificar los actos reclamados en la parte no impugnada por el recurrente.
+
+La resolución expresará con claridad los actos que se modifiquen y, si la modificación es parcial, se indicará la parte correspondiente de manera clara y precisa.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+ART. 974 TER.- La resolución que ponga fin al recurso podrá:
+
+I. Desecharlo por improcedente; tenerlo por no interpuesto; o sobreseerlo, en su caso;
+
+II. Confirmar el acto impugnado;
+
+III. Mandar reponer el procedimiento o que se emita una nueva resolución;
+
+IV. Dejar sin efectos el acto recurrido, o
+
+V. Modificar el acto recurrido, o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+
+ART. 975.- Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho, o procediere recurso ordinario contra la resolución reclamada, será desechada por el superior, el que impondrá al quejoso y a su abogado, solidariamente, multa que no exceda de cincuenta y cinco días del valor de la unidad de medida y actualización vigente.
 
 ART. 976.- Si el juez no rinde el informe a que se refiere este Capítulo, será apremiado por el superior para que lo haga, remitiéndole copia del escrito de queja; y si después de transcurrido el término que prudentemente se le señale, tampoco lo rinde, incurrirá en la sanción que expresa el artículo anterior, la que se le aplicará al resolverse el recurso.
 
@@ -5059,11 +5089,15 @@ Tratándose de violencia familiar prevista en el artículo 12 del Código Famili
 
 Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2017)</small>
+
+ART. 1140.- Podrá acudirse al Juez de lo Familiar, por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que, en su caso, le presenten, se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento, o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, en tanto se resuelve el Juicio. Tratándose de menores de edad, o incapaces, la pensión provisional alimenticia se fijará de oficio.
+
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que, en su caso, le presenten, se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento, o por disposición de la ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, en tanto se resuelve el juicio.
-
 Tratándose de deudores alimentarios que hayan dejado de cumplir con sus obligaciones en materia de alimentos por un período mayor de sesenta días, el Juez de lo Familiar hará tal circunstancia del conocimiento del Instituto Nacional de Migración, así como al Instituto de Migración y Enlace Internacional del Estado, mediante oficio, para que procedan conforme al artículo 48 fracción VI de la Ley de Migración.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 Será optativo para las partes, acudir asesoradas y, en este supuesto, quien les asesore, necesariamente deberá ser abogado o licenciado en derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
 
@@ -5660,6 +5694,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 723.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 118 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 728.- SE REFORMA LOS ARTÍCULOS, 71 Y 975 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 729.- SE REFORMA EL ARTÍCULO 1140, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
