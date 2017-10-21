@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2014-12-20"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -317,25 +317,19 @@ Cuando de acuerdo a lo establecido en la presente ley para la tramitación de un
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2008)
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-Transcurrido el plazo a que hace referencia el artículo 31 de la presente ley sin que se haya emitido el acto regulador, operará la afirmativa ficta.
+Transcurrido el plazo a que hace referencia el artículo 31 de la presente ley sin que se haya emitido el acto regulativo, el interesado podrá solicitar la afirmativa ficta.
 
-Operada la afirmativa ficta, el administrado podrá iniciar la actividad respecto de la cual realizó su solicitud, siempre y cuando le notifique a la autoridad administrativa silente del inicio de sus actividades.
+Para que proceda la afirmativa ficta el particular además de cumplir con las disposiciones jurídicas que rijan la actividad que se pretende realizar, debe cubrir las obligaciones fiscales originadas por la autorización de la misma y las que sean consecuencia de su ejercicio, las cuales deberá pagar a la autoridad de acuerdo con las leyes de ingresos que correspondan.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-Lo anterior no exime al particular de cumplir con las disposiciones jurídicas que rijan dicha actividad, así como tampoco lo releva del cumplimiento de las obligaciones fiscales originadas por la autorización de la misma ni de las que sean consecuencia de su ejercicio, las cuales deberá pagar directamente a la autoridad al notificarle el inicio de sus actividades, mediante la entrega del certificado de depósito de las contribuciones consignadas ante la Secretaría Planeación, Administración y Finanzas que, en su caso, se generen de acuerdo con las leyes de ingresos respectivas.
-
-Los originales de los acuses de recibido tanto de la solicitud de la autorización tramitada, como de la notificación por escrito señalada en el segundo párrafo del presente artículo, además del certificado de depósito de las contribuciones correspondientes, en conjunto, serán considerados como la autorización administrativa para realizar la actividad solicitada.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+Los permisos, licencias o autorizaciones que emita la autoridad silente en cumplimiento a la declaratoria de afirmativa ficta pronunciada por el Tribunal de Justicia Administrativa acreditarán el derecho del particular para ejercer la actividad solicitada y podrá iniciar la actividad respecto de la cual realizó su solicitud.
 
 ###### Artículo 33
 
-Bis. Las autorizaciones a las que se refiere el artículo anterior podrán ser combatidas ante el Tribunal de lo Administrativo, en términos de lo dispuesto por el artículo 33 de la Ley de Justicia Administrativa del estado de Jalisco.
+Bis. (DEROGADO, P.O. 21 DE OCTUBRE DE 2017)
 
 ###### Artículo 34.
 
@@ -1452,3 +1446,9 @@ SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del 
 P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26437/LXI/17 QUE REFORMA LOS ARTÍCULOS 89, 108, 109, 110, 111 Y 114 DE LA LEY DE JUSTICIA ADMINISTRATIVA; Y REFORMA EL ARTÍCULO 33 Y DEROGA EL ARTÍCULO 33 BIS DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, AMBAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
