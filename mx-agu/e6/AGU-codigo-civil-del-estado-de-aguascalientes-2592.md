@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2017-08-21"
+last_updated: "2017-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -361,11 +361,11 @@ La Dirección General del Registro Civil tendrá bajo su control, inspección y 
 
 DE LAS ACTAS DE NACIMIENTO.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 50.
 
-Niñas, niños y adolescentes desde su nacimiento, tienen derecho a contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primera copia certificada de su acta de nacimiento.
+Toda persona desde su nacimiento, tiene derecho a contar con nombre y los apellidos que le correspondan, así como a ser inscrito en el Registro Civil respectivo de forma inmediata y gratuita, y a que se le expida en forma ágil y sin costo la primera copia certificada de su acta de nacimiento.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -373,13 +373,15 @@ Niñas, niños y adolescentes desde su nacimiento, tienen derecho a contar con n
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste, al lugar donde se encuentre aquél.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los 90 días de ocurrido el mismo.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los 90 días de ocurrido el mismo, a falta de éstos, los ascendientes en línea recta, dentro de los 180 días siguientes a la fecha en que ocurrió aquél.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 52.
 
-A las personas que estando obligadas a declarar el nacimiento y lo hagan fuera del término fijado en el artículo anterior, se les aplicarán una multa de treinta a cincuenta días de salario mínimo general vigente en el Estado.
+La expedición de la constancia de inexistencia de registro de nacimiento para el caso de los registros extemporáneos realizados fuera de los términos previstos en (sic) Artículo anterior, será gratuita.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -7385,7 +7387,7 @@ Es válido el testamento hecho por una persona con discapacidad intelectual en u
 
 ###### Artículo 1221.
 
-Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar. La .solicitud a que se refiere este Artículo podrá ser hecha también por el incapacitado, acompañando un dictamen médico que afirme hallarse en el estado de lucidez necesario. En todo caso se hará constar en acta formal el resultado del reconocimiento.
+Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar. La solicitud a que se refiere este Artículo podrá ser hecha también por el incapacitado, acompañando un dictamen médico que afirme hallarse en el estado de lucidez necesario. En todo caso se hará constar en acta formal el resultado del reconocimiento.
 
 ###### Artículo 1222.
 
@@ -17184,3 +17186,11 @@ P.O. 21 DE AGOSTO DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 161.- SE REFORMA Y ADICIONA EL ARTÍCULO 7º DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2017".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
