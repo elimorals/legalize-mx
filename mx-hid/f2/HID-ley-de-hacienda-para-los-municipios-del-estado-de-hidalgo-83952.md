@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2016-12-31"
+last_updated: "2017-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -41,7 +41,9 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -154,6 +156,10 @@ VIII.- Los adquirentes de predios en relación al impuesto y sus accesorios inso
 ###### ARTÍCULO 12.
 
 Están exentos del pago del impuesto predial los bienes propiedad de la Federación, del Estado y de los municipios, siempre que estos estén destinados a prestar un servicio público.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 12 BIS.- Se aplicará un descuento adicional a la cuota del impuesto predial, del 5% a lo establecido en la Ley de Ingresos de cada Municipio por concepto del pago anual anticipado, cuando los sujetos obligados, demuestren que utilizan energías limpias al interior de su inmueble.
 
 ###### ARTÍCULO 13.
 
@@ -813,9 +819,15 @@ Se entiende por este derecho la contraprestación económica que da el particula
 
 Los derechos que se causan por los servicios que presta el Registro del Estado Familiar, dentro y fuera de la oficina se pagarán de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio de acuerdo con el Artículo 5º de esta Ley.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
-Las autoridades municipales exentarán de cobro el derecho por el registro de nacimiento.
+Las autoridades municipales exentarán de cobro los derechos por:
+
+a) Registro de nacimiento;
+
+b) Realización del procedimiento administrativo de corrección de actas; y
+
+c) Búsqueda de actas cuando las personas no presenten datos sobre el registro.
 
 ###### ARTÍCULO 99.
 
@@ -1826,3 +1838,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 23 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 235 QUE ADICIONA EL ARTÍCULO 12 BIS Y REFORMA EL ARTÍCULO 98 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO; ASÍ COMO EL ARTÍCULO 25 DE LA LEY ESTATAL DE DERECHOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
