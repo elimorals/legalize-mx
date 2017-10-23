@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2017-07-03"
+last_updated: "2017-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -49,7 +49,9 @@ La presente Ley es de orden público e interés general, sus disposiciones son d
 
 I. Reglamentar las facultades que la Ley General de Cambio Climático otorga al Estado.
 
-II. Garantizar el derecho a un medio ambiente sano y establecer las bases para la elaboración y aplicación de políticas públicas para la adaptación al cambio climático y la regulación de emisiones de gases y compuestos de efecto invernadero.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+
+II. Garantizar el derecho a un medio ambiente sano y establecer las bases para la elaboración y aplicación de políticas públicas con perspectiva de género, para la adaptación al cambio climático y la regulación de emisiones de gases y compuestos de efecto invernadero.
 
 III. Regular las acciones para la mitigación y adaptación.
 
@@ -97,15 +99,21 @@ VIII. Ley: Ley de Cambio Climático para el Estado de Aguascalientes;
 
 IX. Ordenamiento Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio, ya sea: el país como un todo, o una división administrativa del mismo;
 
-X. Procuraduría: Procuraduría Estatal de Protección al Ambiente;
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2017)</small>
 
-XI. Programa Estatal: Programa Estatal de Acción contra el Cambio Climático;
+X. Perspectiva de Género: Instrumento teórico y metodológico que analiza las relaciones de género para identificar las desigualdades y sus orígenes, a fin de dimensionar la vulnerabilidad de mujeres y hombres ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos, para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
 
-XII. Reglamento: Reglamento de la Ley de Cambio Climático para el Estado de Aguascalientes;
+XI. Procuraduría: Procuraduría Estatal de Protección al Ambiente;
 
-XIII. Secretaría: Secretaría de Medio Ambiente del Estado de Aguascalientes;
+XII. Programa Estatal: Programa Estatal de Acción contra el Cambio Climático;
 
-XIV. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
+XIII. Reglamento: Reglamento de la Ley de Cambio Climático para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+
+XIV. Secretaría: Secretaria de Medio Ambiente del Estado de Aguascalientes; y
+
+XV. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
 
 ###### Artículo 3º.
 
@@ -211,7 +219,9 @@ Corresponde a los municipios, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política municipal en materia de cambio climático en concordancia con la política nacional y estatal;
 
-II. Formular e instrumentar políticas y acciones para enfrentar al cambio climático en congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional, el Programa Estatal y con las leyes aplicables, en las siguientes materias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2017)</small>
+
+II. Formular e instrumentar políticas y acciones con perspectiva de género para enfrentar el cambio climático en congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional, el Programa Estatal y con las leyes aplicables, en las siguientes materias:
 
 a) Prestación del servicio de agua potable y saneamiento;
 
@@ -391,7 +401,9 @@ Son atribuciones de la Comisión:
 
 I. Formular y establecer periódicamente un Programa General de Trabajo a propuesta del Presidente.
 
-II. Aprobar las políticas integrales y metas de cambio climático para el Estado y su incorporación en la Estrategia Estatal de Cambio Climático considerando los compromisos suscritos por el Estado en la materia y las recomendaciones de instancias nacionales o internacionales;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+
+II. Aprobar las políticas integrales y metas de cambio climático con perspectiva de género para el Estado y su incorporación en la Estrategia Estatal de Cambio Climático considerando los compromisos suscritos por el Estado en la Materia y las recomendaciones de instancias nacionales o internacionales;
 
 III. Garantizar la coordinación entre leyes, programas, medidas y acciones de adaptación y mitigación al cambio climático por parte de las dependencias de la administración pública estatal, así como con los programas creados por el gobierno federal para la elaboración de la Estrategia Estatal de Cambio Climático.
 
@@ -431,9 +443,11 @@ II. La proyección en mediano y largo plazo que tendrán previsiones a diez, vei
 
 #### SECCIÓN I. De la Estrategia
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-La política climática del Estado en materia de mitigación y adaptación al cambio climático se plasmará en la Estrategia Estatal de Cambio Climático. Dicha Estrategia integrará, para cada periodo de referencia, las estrategias y políticas sectoriales en los ámbitos a los que es de aplicación la presente Ley.
+La política climática del Estado en materia de mitigación y adaptación al cambio climático será formulada con perspectiva de género y se plasmará en la Estrategia Estatal de Cambio Climático. Dicha Estrategia integrará, para cada periodo de referencia, las estrategias y políticas sectoriales en los ámbitos a los que es de aplicación la presente Ley.
 
 La Estrategia será aprobada por el Titular del Poder Ejecutivo a propuesta de la Secretaría y será remitida a los integrantes de la Comisión del Medio Ambiente y Recursos Naturales del Poder Legislativo.
 
@@ -726,3 +740,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 162.- SE REFORMA Y ADICIONA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
