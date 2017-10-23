@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-01-09"
+last_updated: "2017-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL ARTÍCULO QUINTO DEL DECRETO 80 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -585,6 +583,8 @@ El pago de los servicios prestados por el Registro Público de la Propiedad debe
 
 #### SECCIÓN CUARTA. DEL REGISTRO DEL ESTADO FAMILIAR
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
 Los Derechos por la prestación de los servicios del Estado, a través (sic) Registro del Estado Familiar, se causarán y pagarán de la siguiente forma:
@@ -613,9 +613,7 @@ V.- Por la expedición de constancia de inexistencia de registro en libro. 0.65 
 
 VI.- Por copia fotostática de constancias en libro. 0.65 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-VII.- Por la realización del procedimiento administrativo de corrección de actas. 1.3 u.m.a.´s;
+VII.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -625,19 +623,21 @@ VIII.- Por inscripción de resolución administrativas (sic) 1.3 u.m.a.´s;
 
 IX.- Por la inscripción de capitulaciones patrimoniales. 0.65 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+X.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2017)
 
-X.- Por la búsqueda del acta, cuando no se presentan datos del registro:
+a) (DEROGADO, P.O. 23 DE OCTUBRE DE 2017)
 
-a) Por los tres primeros años. 0.65 u.m.a.´s;
-
-b) Por cada año adicional posterior al tercer año al que se refiere el inciso inmediato anterior. 0.65 u.m.a.´s
+b) (DEROGADO, P.O. 23 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XI.- Por inscripción de sentencia y/o instrumento público. 2.6 u.m.a.´s.
 
 La expedición a que se refiere la fracción IV del presente artículo se hará dentro de las 16 horas hábiles siguientes, sin perjuicio del principio de prelación que a otro acto corresponda.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2017)</small>
+
+La realización del procedimiento administrativo de corrección de actas y la búsqueda de actas cuando las personas no presenten datos sobre el registro estará exentos de cobro.
 
 #### SECCIÓN QUINTA. DEL ARCHIVO GENERAL DE NOTARÍAS
 
@@ -2170,3 +2170,9 @@ PRIMERO.- El presente Decreto entrará en vigor una vez que las disposiciones re
 PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2017, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL "QUE ADICIONA EL ARTÍCULO 12 BIS Y REFORMA EL ARTÍCULO 98 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO; ASÍ COMO EL ARTÍCULO 25 DE LA LEY ESTATAL DE DERECHOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
