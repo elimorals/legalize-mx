@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-117831"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2017-02-20"
+last_updated: "2017-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extraordinario de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2016.
 
@@ -109,9 +109,9 @@ III. Registro de nacimiento a domicilio 585
 
 IV. Registro de nacimiento en las oficinas del Registro Civil GRATUITO
 
-(NOTA: EL 3 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
 
-V. REGISTRO EXTEMPORÁNEO DE NACIMIENTO 325
+V. Registro extemporáneo de nacimiento GRATUITO
 
 VI. Registro extemporáneo de defunción 330
 
@@ -175,9 +175,11 @@ XXI. Gestión por trámite de constancia de inexistencia y actas
 
 certificadas solicitadas a otros Estados 125
 
-XXII. Expedición de constancia de soltería, de inexistencia de
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
 
-nacimiento y/o inexistencia de hijos 140
+XXII. Expedición de constancia de soltería 140
+
+o de inexistencia de hijos
 
 XXIII. Expedición de copias certificadas de los registros que obran
 
@@ -207,13 +209,17 @@ de la implementación de campañas especiales o programas sociales
 
 para la regularización del estado civil de las personas GRATUITO
 
-XXIX. Registros extemporáneos de nacimiento y regularización
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
 
-de matrimonios derivados de la implementación de campañas
+XXIX. Regularización de matrimonios GRATUITO
 
-especiales o programas sociales para la regularización
+derivado de la implementación de campañas
 
-del estado civil de las personas GRATUITO
+especiales o programas sociales
+
+para la regularización del estado civil
+
+de las personas
 
 XXX. Expedición de la primera copia certificada del registro de
 
@@ -222,6 +228,12 @@ nacimiento en formato único para menores de edad GRATUITO
 XXXI. Expedición de la Clave Única del Registro
 
 de Población (CURP) GRATUITO
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+
+XXXII. Expedición de constancia de GRATUITO
+
+inexistencia de registro de nacimiento
 
 ### CAPÍTULO V. De los Derechos de la Secretaría de Finanzas
 
@@ -584,3 +596,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan Derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 161.- SE REFORMA Y ADICIONA EL ARTÍCULO 7º DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2017”.]
+
+P.O. 23 DE OCTUBRE DE 2017.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
