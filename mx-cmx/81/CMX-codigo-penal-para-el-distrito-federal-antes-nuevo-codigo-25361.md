@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-09-01"
+last_updated: "2017-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE OCTUBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2066,19 +2066,25 @@ Cuando los actos de corrupción a los que se refiere este artículo, se realicen
 
 No constituye corrupción el empleo de los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 185.
 
-Se impondrán prisión de cinco a siete años y de quinientos a mil días multa, al que:
+Se impondrán prisión de cinco a siete años y de quinientos a mil veces la unidad de medida y actualización, al que:
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2007)</small>
 
 I. Emplee directa o indirectamente los servicios de menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, en cantinas, tabernas, bares, centro de vicio, discotecas o cualquier otro lugar nocivo en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional; o
 
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2007)</small>
+
 II. Acepte o promueva que su hijo, pupilo o personas que estén bajo su guarda, custodia o tutela, menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, laboren en cantinas, tabernas, bares, centro de vicio, discotecas o cualquier otro lugar nocivo en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2017)</small>
 
-III. Al que organice o realice eventos, reuniones o convivios al interior de inmuebles particulares con la finalidad de obtener una ganancia derivada de la venta y consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
+III. Al que organice o realice eventos, reuniones o convivios al interior de inmuebles particulares o en la vía pública con la finalidad de obtener una ganancia derivada de la venta y consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
 
 Para efectos de este artículo, se considera como empleado a los menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente preste sus servicios en tales lugares.
 
@@ -5785,3 +5791,13 @@ III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sen
 QUINTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 
 SEXTO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- En tanto no entre en vigor la unidad de medida y actualización se utilizara la unidad de cuenta vigente en la Ciudad de México.
