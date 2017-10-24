@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2017-08-04"
+last_updated: "2017-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE OCTUBRE DE 2017.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -511,19 +511,23 @@ Para el registro de nacimiento a domicilio deberá estarse a lo dispuesto en el 
 
 (DEROGADO, G.O. 13 DE ENERO DE 2004)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE OCTUBRE DE 2017)</small>
 
-###### ARTICULO 58.
+###### Artículo 58.
 
-El acta de nacimiento contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres propios y los apellidos paterno y materno que le correspondan; asimismo, en su caso, la razón de si el registrado se ha presentado vivo o muerto y la impresión digital del mismo. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
+El acta de nacimiento contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres propios y los apellidos de los progenitores en el orden de prelación que ellos convengan, el Juez del Registro Civil deberá especificar, de forma expresa, el orden que acuerden, el orden de los apellidos acordado se considerará para los demás hijos e hijas del mismo vínculo asimismo, en su caso, la razón de si el registrado se ha presentado vivo o muerto y la impresión digital del mismo. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO, G.O. 24 DE OCTUBRE DE 2017)</small>
 
-El juez del registro civil, exhortará a quien presente al menor que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien que exponga al registrado a ser objeto de burla.
+Cuando no haya acuerdo entre los progenitores, el juez dispondrá el orden de los apellidos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2017)</small>
 
-En el caso del artículo 60 de este Código, el Juez del Registro Civil pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
+El Juez del Registro Civil, exhortará a quien presente al menor que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien que exponga al registrado a ser objeto de burla.
+
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2017)</small>
+
+En el caso del artículo 60 de este Código, el Juez del Registro Civil pondrá el primer apellido de los progenitores de acuerdo al orden de prelación que ellos convengan o los dos apellidos del que lo reconozca.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14609,7 +14613,7 @@ Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 
 G.O. 23 DE JULIO DE 2012.
 
-DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓGIGO CIVIL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -14786,3 +14790,11 @@ G.O. 4 DE AGOSTO DE 2017.
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
