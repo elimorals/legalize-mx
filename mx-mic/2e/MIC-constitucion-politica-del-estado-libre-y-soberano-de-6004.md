@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2016-11-18"
+last_updated: "2017-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -531,8 +533,6 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 
 En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.</small>
-
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 31.
@@ -554,8 +554,6 @@ La revisión y dictamen de las cuentas públicas se hará con base en el Informe
 ###### Artículo 32.
 
 (DEROGADO, P.O. 7 DE MARZO DE 2003)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.</small>
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
@@ -737,8 +735,6 @@ VIII.- Dictar normas para la administración, conservación y enajenación de lo
 
 IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 X.- Aprobar las leyes de ingresos de los municipios, así como revisar, fiscalizar y dictaminar las cuentas públicas de las haciendas municipales y de los Concejos Municipales a más tardar el treinta y uno de marzo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 134 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior de Michoacán, seguirá su curso en términos de lo dispuesto en dicho artículo;
@@ -761,8 +757,6 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 
 X-B.- Emitir las normas que establezcan los procedimientos para resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) de la fracción anterior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 X-C.- Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción;
@@ -775,13 +769,9 @@ XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualment
 
 El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 La revisión de las Cuentas Públicas la realizará el Congreso del Estado de Michoacán de Ocampo a través de la Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -861,8 +851,6 @@ XXIII A.- Elegir, reelegir y privar del encargo, a los Magistrados del Tribunal 
 
 XXIII-B.- Elegir, reelegir y destituir del cargo, a los comisionados del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 XXIII-C.- Elegir y destituir del encargo, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos de control de los organismos autónomos previstos en el Capítulo I del Título Tercero A de esta Constitución;
@@ -874,8 +862,6 @@ XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
 XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -933,13 +919,9 @@ XXXVI.- Ratificar el nombramiento del Procurador General de Justicia que haga el
 
 XXXVII.- Solicitar al Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, la remoción del Procurador General de Justicia; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 XXXVIII.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1065,8 +1047,6 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primero
 
 Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, al Gobernador substituto que deberá concluir el período respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo, y a falta de éste lo hará el Secretario de Finanzas.
@@ -1116,8 +1096,6 @@ VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
 VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1205,8 +1183,6 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir por sí o a través de persona física o moral, o en cualquier forma, en las elecciones para favorecer a partido político o candidato alguno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2013)</small>
 
 VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, y a falta de éste el encargado será el Secretario de Finanzas.
@@ -1244,8 +1220,6 @@ III.- Haber cumplido veinticinco años de edad el día de su designación;
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
 IV.- No haber sido condenado por delito no culposo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
@@ -1286,8 +1260,6 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 ###### Artículo 67.
 
 Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, en los menores de materia civil, en los comunales, en los de justicia penal para adolescentes y en los de ejecución de sanciones penales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1689,8 +1661,6 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 Se procurará que los agentes del Ministerio Público, los Jueces y Defensores Públicos tengan conocimientos en lenguas, culturas y sistemas normativos indígenas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control interno, cuyo titular será electo por el Congreso del Estado, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
@@ -1708,8 +1678,6 @@ Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
 
 #### SECCION I. Del Tribunal de Justicia Administrativa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1750,8 +1718,6 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCION III. Del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1837,8 +1803,6 @@ Las personas que cubran las vacantes temporales de alguno de los magistrados que
 
 El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. Para tal fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales en estos casos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
@@ -1893,13 +1857,9 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 Las leyes establecerán los mecanismos para la instauración de la defensoría indígena, a través de la formación, capacitación y prestación de servicios jurídicos y administrativos, mediante un sistema interdisciplinario de traductores intérpretes en lenguas originarias y extranjeras, y expertos en culturas y sistemas normativos indígenas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ## TITULO CUARTO. De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción y Patrimonial del Estado
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1912,8 +1872,6 @@ Las leyes establecerán los mecanismos para la instauración de la defensoría i
 Se consideran servidores públicos a los representantes de elección popular, a los funcionarios, empleados y; en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier índole en los Poderes Legislativo, Ejecutivo y Judicial, sean de naturaleza centralizada o paraestatal, así como a los servidores públicos de los ayuntamientos y entidades paramunicipales y de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y por el manejo indebido de recursos públicos y la deuda pública
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de conflicto de intereses ante las autoridades competentes y en los términos que determine la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1929,8 +1887,6 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 III. Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, Auditoría Superior de Michoacán o los órganos de control respecto de las conductas a las que se refiere el presente artículo. La ley establecerá los mecanismos para incentivar la denuncia pública y su salvaguarda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 106.
@@ -1941,23 +1897,17 @@ Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue c
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente a aquel servidor público al que se le haya acreditado la comisión del delito de enriquecimiento ilícito. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
 En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitida por el Senado de la República, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 108.
 
 Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, los Magistrados, los Consejeros del Poder Judicial, los Jueces de Primera Instancia, Jueces Menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos (sic) o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1977,8 +1927,6 @@ El procedimiento de juicio político estará reglamentado por la Ley.
 
 Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia serán definitivas e inatacables.
 
-(N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 109.
@@ -1993,13 +1941,9 @@ Los procedimientos para la aplicación de las sanciones mencionadas con anterior
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia este artículo. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Artículo 109 bis.- Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y, en su caso, municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2025,13 +1969,9 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 El Procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 106 de esta Constitución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2181,8 +2121,6 @@ II.- Administrar libremente su hacienda, la cual se formará de los rendimientos
 
 a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 Los ayuntamientos podrán celebrar convenios con la Secretaría de Finanzas, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
@@ -2204,8 +2142,6 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
 
 II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables e impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2385,6 +2321,10 @@ Es obligación del poder público garantizar el desarrollo integral estatal, med
 
 En el desarrollo económico estatal, concurrirán los sectores público, social y privado, correspondiendo al Gobierno del Estado procurar la armonía entre ellos para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero y segundo de este artículo, todas las autoridades en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezca la Ley en la materia.
+
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
 
 Los recursos económicos de que dispongan los Gobiernos Estatal y Municipales así como sus respectivas administraciones públicas paraestatales y paramunicipales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
@@ -2433,8 +2373,6 @@ El Estado está facultado para celebrar esos convenios con sus municipios, a efe
 
 En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Secretaría de Finanzas conforme lo determine la Ley.
@@ -2447,8 +2385,6 @@ El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según 
 
 #### SECCION I. De la Secretaría de Finanzas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 ###### Artículo 132.
@@ -2458,8 +2394,6 @@ Habrá en el Estado, una Secretaría de Finanzas a quien corresponderá la recau
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
 #### SECCION II. De la Auditoría Superior de Michoacán
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2479,8 +2413,6 @@ Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que det
 
 La Auditoría Superior de Michoacán tendrá a su cargo:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
 I. Fiscalizar los ingresos, egresos, patrimonio, deuda y el manejo, la custodia y la aplicación de fondos y recursos de las entidades a que se refiere el artículo anterior, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas, subprogramas, obras y acciones;
@@ -2491,13 +2423,9 @@ II. Realizar auditorías, visitas, inspecciones, y revisiones de ingresos y gast
 
 III. Fiscalizar los fondos y valores públicos que ejerzan los particulares;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 IV.- De conformidad con lo que disponga el Congreso del Estado de Michoacán de Ocampo, suscribir convenios con la Auditoría Superior de la Federación para la fiscalización de recursos federales, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, recursos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2515,8 +2443,6 @@ La Auditoría Superior de Michoacán deberá entregar al Congreso del Estado de 
 
 VI. Investigar los actos u omisiones que pudieran implicar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 VII. Imponer los medios de apremio que establezca la ley; y derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Michoacán y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos;
@@ -2531,21 +2457,15 @@ IX. Emitir los lineamientos y procedimientos técnicos, que deberán observar la
 
 X. Determinar los montos, recibir, registrar y custodiar las fianzas que deban presentar los empleados que manejen fondos públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso del Estado, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación del Informe General Ejecutivo; o en su caso, en los términos del artículo 8° de esta Constitución, la ley fijará las sanciones aplicables a quienes infrinjan esta disposición.
 
 El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 El Congreso del Estado designará al Titular de la Auditoría Superior de Michoacán con el voto de las dos terceras partes de los diputados presentes. El Congreso del Estado emitirá convocatoria pública, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
 
@@ -2799,8 +2719,6 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 ###### Artículo 159.
@@ -2816,8 +2734,6 @@ En el caso de la fracción V del artículo 76 de la Constitución Federal, asumi
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 I.- El Presidente de la última Legislatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2013)</small>
 
@@ -3863,10 +3779,22 @@ TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 18 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 170.- MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 170.- MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 379 POR EL QUE "SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, RECORRIÉNDOSE EN EL ORDEN SUBSECUENTE LOS EXISTENTES".]
+
+Primero. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
+
+Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
