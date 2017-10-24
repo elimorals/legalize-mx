@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-sociedad-de-convivencia-para-el-distrito-federal-52256"
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-16"
-last_updated: "2006-11-16"
+last_updated: "2017-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52256&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2006-11-14"
 ---
 # LEY DE SOCIEDAD DE CONVIVENCIA PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO ÚNICO Y TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE SOCIEDAD DE CONVIVENCIA PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. EL 24 DE OCTUBRE DE 2017, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 5 DE DICIEMBRE DE 2018.]</small>
+
 LEY DE SOCIEDAD DE CONVIVENCIA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE OCTUBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de noviembre de 2006.
 
@@ -209,3 +211,13 @@ TERCERO.- Publíquese la presente ley en la Gaceta Oficial del Distrito Federal,
 Recinto de la Asamblea Legislativa del Distrito Federal, al día nueve del mes de noviembre del año dos mil seis.- POR LA MESA DIRECTIVA.- DIP. JOSÉ ANTONIO ZEPEDA SEGURA, PRESIDENTE.- DIP. MARÍA DE LA PAZ QUIÑONES CORNEJO, SECRETARIA.- DIP. ESTHELA DAMIÁN PERALTA, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de noviembre de dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.
+
+G.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE SOCIEDAD DE CONVIVENCIA PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE SOCIEDAD DE CONVIVENCIA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SECUNDO.- Se abrogará la Ley de Sociedad de Convivencia para el Distrito Federal cuando entre en vigor la Ley de Sociedad de Convivencia para la Ciudad de México.
+
+TERCERO.- El presente decreto entrará en vigor el día 5 de diciembre de 2018, de conformidad con lo dispuesto en el párrafo segundo del Artículo Décimo Primero Transitorio de la Constitución Política de la Ciudad de México.
