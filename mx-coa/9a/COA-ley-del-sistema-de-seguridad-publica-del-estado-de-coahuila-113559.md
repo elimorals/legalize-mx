@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2017-04-11"
+last_updated: "2017-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -1203,11 +1203,11 @@ III. Investigación: bajo la conducción y mando del Ministerio Público, la per
 
 IV. Reacción: para lo que garantizarán, mantendrán y restablecerán la paz y el orden públicos, y ejecutarán los mandamientos ministeriales y judiciales; y
 
-V. Seguridad penitenciaria: que comprende la protección de los centros penitenciarios y de internamiento para adolescentes;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+V. Custodia penitenciaria y guías técnicos: que comprende la protección de los centros penitenciarios y de internamiento para adolescentes;
 
 VI. Procesal: que implica la protección de las instalaciones, el personal de los tribunales así como de los intervinientes en el proceso penal, y, de requerirse, el traslado y la vigilancia de los imputados.
-
-> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA AL ARTÍCULO 76 PUBLICADA EN EL P.O. 11 DE ABRIL DE 2017, SE ADVIERTE QUE SE REESTRUCTURARON LOS NUMERALES DE ESTE ARTÍCULO]</small>
 
 ###### Artículo 76.
 
@@ -1227,7 +1227,9 @@ a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de C
 
 4. Procesal;
 
-5. De seguridad penitenciaria.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+5. De Custodia penitenciaria y guías técnicos.
 
 b) El Cuerpo Especializado de Seguridad Pública de la PRONNIF; y
 
@@ -3796,3 +3798,11 @@ P.O. 11 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 962.- SE MODIFICAN LA FRACCIÓN V DEL ARTÍCULO 75; EL NUMERAL 5 EN EL INCISO A) FRACCIÓN I DEL ARTÍCULO 76, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN LA FRACCIÓN XVI DEL ARTÍCULO 2; EL INCISO A) EN LA FRACCIÓN III DEL ARTÍCULO 6; LOS PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES III, VII Y XI DEL ARTÍCULO 57; EL PRIMER PÁRRAFO DEL ARTÍCULO 58; LOS ARTÍCULOS 59, 60; LAS FRACCIONES X Y XI DEL ARTÍCULO 62; Y LAS FRACCIONES IV Y V DEL ARTÍCULO 66, DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las autoridades penitenciarias en el ámbito de sus atribuciones realizarán las acciones tendientes a las modificaciones en los Reglamentos interiores de los Centros Penitenciarios y Centros de Internamiento Especializados en Adolescentes.
