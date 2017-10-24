@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-seguridad-publica-84061
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-26"
-last_updated: "2011-11-26"
+last_updated: "2017-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARíA DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento No. 12 del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre del 2011.
 
 MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberano de Colima de Colima (sic), con fundamento en los artículos 58 fracción II de la Constitución Política del Estado Libre y Soberano del Estado de Colima; artículos 2° y 25 de la Ley Orgánica de la Administración Pública del Estado de Colima, artículos 117, 118, 119, y demás aplicables de la Ley del Sistema de Seguridad Pública para el Estado de Colima, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En merito de lo anterior, es propósito del Ejecutivo a mi cargo, promover e impulsar todas las medidas que tengan por objeto disminuir los índices delictivos del Estado, abatir la impunidad y recobrar la confianza y la credibilidad de la comunidad en sus instituciones de justicia, así como darle expresión normativa a la voluntad del legislador, razón por la cual he tenido a bien expedir el siguiente:
 
@@ -1088,3 +1092,33 @@ GRAL. DE DIV. D.E.M. RET
 RAÚL PINEDO DÁVILA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría publicado en el Periódico Oficial "El Estado de Colima" el 26 de noviembre de 2011, así como todas aquellas disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO. Las acciones que se llevan a cabo para la aplicación del presente Decreto, se sujetarán preferentemente a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos del ejercicio fiscal correspondiente para la Secretaría, y deberán sujetarse a las disposiciones fiscales vigentes.
+
+CUARTO. En tanto entra en funciones la Dirección General del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo (C5), la referencia que el presente Reglamento hace con relación a esta Dirección General, resultará aplicable a la entonces denominada Dirección General de Operaciones e Inteligencia.
+
+QUINTO. En tanto entra en funcionamiento la Dirección General del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo (C5), la denominación oficial que deberá mantener el Centro de Seguridad y Emergencias será la de Centro de Atención de Llamadas de Emergencia Central Colima; por su parte, el Subcentro de Atención de Llamadas de Emergencia ubicado en el municipio de Manzanillo mantendrá como denominación oficial la de Centro de Atención de Llamadas de Emergencia Manzanillo.
+
+El Acuerdo mediante el cual se establece la entrada en vigor del funcionamiento de la Dirección General del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo (C5), deberá publicarse en el periódico oficial "El Estado de Colima".
+
+SEXTO. En un período máximo de 90 días contados a partir de la entrada en vigor del presente Reglamento, se deberán realizar los trámites administrativos y de gestión que correspondan a fin de regularizar la adscripción de los recursos humanos, materiales y financieros que hasta antes de su entrada en vigor posibilitan el funcionamiento del Centro de Seguridad y Emergencias y del Subcentro de Atención de Llamadas de Emergencia ubicado en el municipio de Manzanillo; debiéndose adscribir dichos recursos a los ahora denominados Centro de Atención de Llamadas de Emergencia Central Colima y Centro de Atención de Llamadas de Emergencia Central Manzanillo, respectivamente.
+
+SÉPTIMO. Para todos los efectos legales, en tanto no sean reformadas las disposiciones legales que correspondan, se entenderá por Dirección General de Prevención y Reinserción Social a la Dirección General del Sistema Estatal Penitenciario.
+
+OCTAVO. Para todos los efectos legales, en tanto no sean reformadas las disposiciones legales que correspondan, se entenderá por Patronato Integral de Reincorporación Social al Patronato del Sistema Estatal Penitenciario.
+
+NOVENO. Para todos los efectos legales, en tanto no sean reformadas las disposiciones legales que correspondan, se entenderá por Instituto para el Tratamiento de Menores Infractores al Instituto Especializado en la Ejecución de Medidas para Adolescentes.
+
+DÉCIMO. Para todos los efectos legales, en tanto no sean reformadas las disposiciones legales que correspondan, se entenderá por Instituto de Capacitación Policial al Instituto de Formación, Capacitación y Profesionalización Policial.
+
+DÉCIMO PRIMERO. Para todos los efectos legales, en tanto no sean reformadas las disposiciones legales que correspondan, se entenderá por Dirección General de la Policía Estatal Preventiva a la Policía Estatal Acreditada.
