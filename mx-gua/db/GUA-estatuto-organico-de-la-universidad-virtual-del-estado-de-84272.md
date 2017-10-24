@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2017-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -305,7 +305,9 @@ II. Aprobar, a propuesta del Secretario Académico, el plan de desarrollo de los
 
 III. Suscribir los certificados de estudios, títulos, grados académicos, menciones honoríficas y demás documentos escolares oficiales que otorgue la UVEG, en términos de la normatividad aplicable;
 
-IV. Ser el representante legal de la UVEG y delegar dicha representación en el Abogado General. Así mismo podrá otorgar y revocar mandatos y poderes generales o especiales;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+IV. Ser el representante legal de la UVEG y podrá delegar dicha representación en el Abogado General, así como en los abogados adscritos o no a la Universidad. Asimismo podrá otorgar, sustituir y revocar mandatos y poderes generales o especiales;
 
 V. Llevar a cabo acciones de vinculación con los sectores público, privado y social;
 
@@ -493,7 +495,9 @@ IX. Revisar y gestionar los documentos que requieran ser publicados en el Perió
 
 X. Elaborar los informes previos y justificados que deba rendir el Rector dentro de los juicios de amparo, así como en aquéllos en los que sean autoridades responsables funcionarios y servidores públicos de la UVEG, por actos que se emitan en cumplimiento de sus funciones;
 
-XI. Absolver posiciones, a nombre del Rector, cuando se trate de hechos que se demanden a la UVEG;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+XI. Absolver posiciones a nombre de la UVEG así como del Rector, esta facultad también podrá ser ejercida de manera conjunta o separadamente por abogados, ya sean adscritos a la Universidad o bien, terceros;
 
 XII. Analizar con el Secretario o Director de la unidad administrativa de que se trate, la separación o suspensión del personal a su cargo, que se propondrá al Rector;
 
@@ -502,6 +506,10 @@ XIII. Dar vista a las autoridades competentes de los hechos ocurridos derivados 
 XIV. Asesorar y tramitar los registros de propiedad industrial, patentes, marcas, certificados de invención y derechos de autor que requiera la UVEG; y
 
 XV. Apoyar a todas las unidades administrativas de la UVEG en la solución de conflictos de carácter laboral.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+XVI. Otorgar, delegar o revocar los poderes generales y especiales que le hayan sido conferidos; sustituir las facultades que les sean conferidas por el Rector, en las personas que considere conveniente, para que actúen en defensa de los intereses de la Universidad, para cumplir con los fines de su creación, sean adscritos a la Universidad o terceros.
 
 #### Sección Segunda. Contraloría Interna
 
@@ -1754,3 +1762,11 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 201, POR EL QUE SE REFORMAN LOS ARTÍCULOS 16 Y 19 FRACCIÓN XIX, DEL DECRETO GUBERNATIVO NÚMERO 40, MEDIANTE EL CUAL SE CREA LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN IV Y 21 FRACCIÓN XI; SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 21, TODOS ELLOS DEL DECRETO GUBERNATIVO NÚMERO 193, MEDIANTE EL CUAL SE EXPIDE EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
