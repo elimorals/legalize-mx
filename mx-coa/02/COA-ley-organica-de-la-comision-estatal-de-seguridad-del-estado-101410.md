@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-estatal-de-seguridad-del-estado-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-10"
-last_updated: "2017-04-11"
+last_updated: "2017-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA COMISION ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.XXX
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de junio de 2014.
 
@@ -81,7 +83,9 @@ XIV. Secretaría: Secretaría de Gobierno del Estado de Coahuila de Zaragoza.
 
 XV. Secretario: Titular de la Secretaría de Gobierno del Estado de Coahuila de Zaragoza; y
 
-XVI. Unidad Desconcentrada: Unidad Desconcentrada de Ejecución de Penas y Reinserción Social.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+XVI. Titular de la Unidad del Sistema: Titular de la Unidad del Sistema Estatal Penitenciario.
 
 ###### Artículo 3.
 
@@ -243,7 +247,9 @@ d) Dirección General del Centro de Comunicaciones, Cómputo, Control y Comando
 
 III. Órganos Desconcentrados
 
-a) Unidad Desconcentrada de Ejecución de Penas y Reinserción Social
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+a) Unidad del Sistema Estatal Penitenciario
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
@@ -1497,17 +1503,23 @@ b) Coordinación General de Fuerza Coahuila
 
 ### CAPÍTULO I. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN D E (SIC) PENAS Y REINSERCIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 57.
 
-La Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, tendrá a su cargo la operación del sistema penitenciario del estado; así como la de los Centros de Internación, Diagnóstico y Tratamiento de Adolescentes en los términos de la Ley de la materia, así como la ejecución y vigilancia de las medidas cautelares decretadas por autoridad judicial, en los términos previstos por las disposiciones aplicables. Estará bajo la dirección de un Titular, quien tendrá la categoría de Comisario General.
+La Unidad del Sistema Estatal Penitenciario, tendrá a su cargo la operación de los Centros Penitenciarios del estado; así como la de los Centros de Internamiento Especializados en Adolescentes, en los términos de la Ley de la materia, así como la ejecución y vigilancia de las medidas cautelares decretadas por autoridad judicial, en los términos previstos por las disposiciones aplicables. Estará bajo la dirección de un Titular, quien tendrá la categoría de Comisario General.
 
-El Titular de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social será nombrado y removido por el Gobernador del Estado, a propuesta del Comisionado y tendrá a su cargo el ejercicio de las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE OCTUBRE DE 2017)</small>
+
+El Titular de la Unidad del Sistema Estatal Penitenciario será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Gobierno y tendrá a su cargo el ejercicio de las atribuciones siguientes:
 
 I. Ejecutar, vigilar y coordinar el cumplimiento de las resoluciones de privación o restricción de la libertad, impuestas en el curso del proceso, en el lugar que designe el juez;
 
 II. Ejecutar, vigilar y coordinar las penas, sus modalidades y las medidas de seguridad impuestas por el juez en sentencia definitiva;
 
-III. Organizar, supervisar y administrar los establecimientos penitenciarios en el estado;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+III. Organizar, supervisar y administrar los establecimientos penitenciarios y centros de internamiento especializados en adolescentes en el estado;
 
 IV. Elaborar y someter a consideración del Gobernador y del Comisionado, la normatividad y demás disposiciones de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
 
@@ -1515,7 +1527,9 @@ V. Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda pers
 
 VI. Proponer los reglamentos interiores de los establecimientos penitenciarios, con estricto apego al principio de no discriminación y vigilar su exacta aplicación;
 
-VII. Aplicar los tratamientos adecuados a las personas internas, sus actividades culturales, sociales, deportivas, entre otras; garantizando que estos tratamientos estén libres de estereotipos de género;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+VII. Aplicar los tratamientos adecuados a las personas privadas de la libertad, sus actividades culturales, sociales, deportivas, entre otras; garantizando que estos tratamientos estén libres de estereotipos de género;
 
 VIII. Proporcionar la información estadística criminal al Registro de Seguridad Pública del Estado;
 
@@ -1523,15 +1537,19 @@ IX. Coordinar, vigilar y supervisar las funciones y atribuciones de los director
 
 X. Proponer o, en su caso, hacer llegar al juez de ejecución las solicitudes de beneficios de libertad anticipada previstos en esta Ley;
 
-XI. Estudiar y presentar al juez de ejecución, para su aprobación, los informes que le rindan los consejos técnicos interdisciplinarios, sobre el otorgamiento de beneficios a cada interno;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
+
+XI. Estudiar y presentar al juez de ejecución, para su aprobación, los informes que le rindan los comités técnicos interdisciplinarios, sobre el otorgamiento de beneficios a cada persona privada de la libertad;
 
 XII. Rendir un informe mensual al Comisionado, sobre las labores realizadas por la Unidad, sin perjuicio de que se le requiera información en cualquier momento; y
 
 XIII. Las demás que otras leyes y reglamentos establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-El Titular de la Unidad Desconcentrada, deberá satisfacer los siguientes requisitos:
+El Titular de la Unidad del Sistema Estatal Penitenciario, deberá satisfacer los siguientes requisitos:
 
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
 
@@ -1551,13 +1569,17 @@ VIII. Aprobar los exámenes y evaluaciones que le aplique el Centro de Evaluaci�
 
 IX. Los demás requisitos que señalen las leyes y los demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 59.
 
-La Unidad Desconcentrada, para el desempeño de sus funciones contará con las unidades administrativas establecidas en la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Estado de Coahuila de Zaragoza y las demás que estime pertinentes para el cumplimiento de sus atribuciones; así como con el personal que se requiera, y el presupuesto lo permita.
+La Unidad del Sistema Estatal Penitenciario, para el desempeño de sus funciones contará con las unidades administrativas establecidas en la Ley Nacional de Ejecución Penal, Reglamento del Sistema Estatal Penitenciario y las demás que estime pertinentes para el cumplimiento de sus atribuciones; así como con el personal que se requiera, y el presupuesto lo permita.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 60.
 
-Las atribuciones de las unidades señaladas en el artículo que antecede serán las establecidas específicamente en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila y demás ordenamientos jurídicos aplicables.
+Las atribuciones de las unidades señaladas en el artículo que antecede serán las establecidas específicamente en el Reglamento de la Unidad del Sistema Estatal Penitenciario y demás ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2016)</small>
 
@@ -1597,13 +1619,13 @@ VIII. Supervisar que los integrantes de las instituciones de seguridad pública 
 
 IX. Supervisar que los integrantes de las instituciones de seguridad pública estatales bajo su mando, cumplan con los requisitos de permanencia, establecidos en la Ley del Sistema de Seguridad Pública del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
 
-X. Coadyuvar con la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, en la vigilancia, ejecución de operativos de revisión, cateos, restauración del orden, traslados de internos, dentro del marco de la legalidad, conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+X. Coadyuvar con la Unidad del Sistema Estatal Penitenciario, en la vigilancia, ejecución de operativos de revisión, cateos, restauración del orden, traslados de personas privadas de la libertad, dentro del marco de la legalidad, conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
 
-XI. Supervisar la protección de los Centros Penitenciarios y de los Centros de Internación, Diagnóstico y Tratamiento para Adolescentes;
+XI. Supervisar la protección de los Centros Penitenciarios y de los Centros de Internamiento Especializados en Adolescentes;
 
 XII. Diseñar e instruir estrategias operativas para la prevención del delito y combate a la delincuencia común y organizada con base en los insumos de inteligencia policial;
 
@@ -1741,13 +1763,13 @@ II. En términos de las disposiciones jurídicas aplicables, realizar las labore
 
 III. Bajo las órdenes del Juez de la causa, vigilar y proteger el orden y la seguridad en las salas y recintos de la autoridad judicial en donde se desahoguen las audiencias y actuaciones judiciales;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
 
-IV. Auxiliar a las autoridades penitenciarias para llevar a cabo el traslado de reos entre los Centros Penitenciarios, así como del Centro de Internación, Tratamiento y Adaptación de Adolescentes;
+IV. Auxiliar a las autoridades penitenciarias para llevar a cabo el traslado de personas privadas de la libertad entre los Centros Penitenciarios, así como de los Centros de Internamiento Especializados en Adolescentes;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2017)</small>
 
-V. Auxiliar a las autoridades penitenciarias para el traslado de reos de los Centros Penitenciarios y del Centro de Internación, Tratamiento y Adaptación de Adolescentes a las salas de audiencia de los juzgados federales y estatales que así lo soliciten;
+V. Auxiliar a las autoridades penitenciarias para el traslado de personas privadas de la libertad de los Centros Penitenciarios y de los Centros de Internamiento Especializados en Adolescentes a las salas de audiencia de los juzgados federales y estatales que así lo soliciten;
 
 VI. (DEROGADA, P.O. 9 DE MARZO DE 2016)
 
@@ -1896,3 +1918,11 @@ P.O. 11 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 24 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 962.- SE MODIFICAN LA FRACCIÓN V DEL ARTÍCULO 75; EL NUMERAL 5 EN EL INCISO A) FRACCIÓN I DEL ARTÍCULO 76, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN LA FRACCIÓN XVI DEL ARTÍCULO 2; EL INCISO A) EN LA FRACCIÓN III DEL ARTÍCULO 6; LOS PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES III, VII Y XI DEL ARTÍCULO 57; EL PRIMER PÁRRAFO DEL ARTÍCULO 58; LOS ARTÍCULOS 59, 60; LAS FRACCIONES X Y XI DEL ARTÍCULO 62; Y LAS FRACCIONES IV Y V DEL ARTÍCULO 66, DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las autoridades penitenciarias en el ámbito de sus atribuciones realizarán las acciones tendientes a las modificaciones en los Reglamentos interiores de los Centros Penitenciarios y Centros de Internamiento Especializados en Adolescentes.
