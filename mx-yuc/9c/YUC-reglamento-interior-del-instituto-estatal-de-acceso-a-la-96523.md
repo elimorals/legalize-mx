@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-96523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-20"
-last_updated: "2015-04-01"
+last_updated: "2017-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O. DE 9 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 20 de diciembre de 2012.
 
@@ -1272,3 +1274,13 @@ D.O. 1 DE ABRIL DE 2015.
 Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo.- Quedan sin efectos todas las disposiciones legales emitidas por el Instituto, que se contrapongan a las establecidas en el presente Reglamento.
+
+D.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]
+
+Artículo Primero. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. - A partir de la entrada en vigor del presente Reglamento, queda abrogado el diverso publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el día 20 de diciembre de 2012, así como sus subsecuentes reformas.
+
+Artículo Tercero. - Quedan sin efecto todas las disposiciones legales emitidas por el Instituto, que se contrapongan a las establecidas en el presente Reglamento.
