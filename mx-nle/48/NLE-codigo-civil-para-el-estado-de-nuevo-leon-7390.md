@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2017-06-12"
+last_updated: "2017-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -764,6 +764,10 @@ La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civ
 ###### Art. 52.
 
 Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en las Leyes Federales en cuanto a su legalización, debiendo inscribirse en la Oficialía de la adscripción de su domicilio.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2017)</small>
+
+En el caso de las actas de inscripción de nacimiento en el extranjero se podrá desprender el apellido materno a petición de parte; el Oficial del Registro Civil estará obligado a hacer del conocimiento del interesado la presente disposición y en su caso si la parte interesada lo solicita, podrá incluir tanto el apellido paterno como el materno en el acta correspondiente.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -17331,9 +17335,15 @@ P.O. 26 DE MAYO DE 2017.
 
 P.O. 12 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚM. 263. SE REFORMA EL ARTÍCULO 739 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, POR ADICIÓN DE LAS FRACCIONES VII A X, Y SE REFORMAN LOS ARTÍCULOS 134 Y 740; Y SE REFORMA POR ADICIÓN DE UN CUARTO PÁRRAFO AL ARTÍCULO 957 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 263. SE REFORMA EL ARTÍCULO 739 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, POR ADICIÓN DE LAS FRACCIONES VII A X, Y SE REFORMAN LOS ARTÍCULOS 134 Y 740; Y SE REFORMA POR ADICIÓN DE UN CUARTO PÁRRAFO AL ARTÍCULO 957 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 295. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DEL REGISTRO CIVIL; Y SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 52 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
