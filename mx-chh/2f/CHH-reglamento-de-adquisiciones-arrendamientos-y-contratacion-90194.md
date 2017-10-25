@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-adquisiciones-arrendamientos-y-contratacion-90194
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-17"
-last_updated: "2015-12-09"
+last_updated: "2017-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 17 de noviembre de 2012.
 
@@ -742,3 +742,15 @@ P.O. 9 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. IEE/CE12/2015 DEL CONSEJO ESTATAL DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA, MEDIANTE EL CUAL SE APRUEBA MODIFICAR EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA, PARA ADECUARLO A LA NORMATIVIDAD ELECTORAL VIGENTE.”]
 
 Artículo Primero.- Este Reglamento iniciará su vigencia el mismo día de su aprobación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO N° IEE/CE43/2017 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL”.]
+
+PRIMERO. El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Reglamento de Adquisiciones, Arrendamiento y Contratación de Servicios del Instituto Estatal Electoral, emitido el once de octubre de dos mil doce, quedará abrogado, al entrar en vigor el presente reglamento.
+
+TERCERO. En tanto entre en vigor el presente reglamento, los procedimientos de contratación que se inicien o que se encuentren en curso, serán regulados conforme al Reglamento de Adquisiciones, Arrendamiento y Contratación de Servicios del Instituto Estatal Electoral, emitido el once de octubre de dos mil doce.
