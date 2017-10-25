@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2017-06-17"
+last_updated: "2017-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -343,7 +343,7 @@ VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o lo
 
 VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores residentes en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa popular.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE AGOSTO DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. LA FRACCIÓN VI NO CUENTA CON UN SEGUNDO PÁRRAFO], P.O. 7 DE AGOSTO DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
@@ -815,7 +815,7 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -1437,9 +1437,9 @@ IX.- Dirección de Fomento Económico Municipal.
 
 X.- Dirección o Departamento de Ecología.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2017)</small>
 
-XI.- Dirección de Educación.
+XI.- Dirección de Educación y Cultura.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1843,29 +1843,51 @@ X.- En coordinación con la Dirección de Seguridad Pública Municipal, establec
 
 XI.- Las demás que le señalen expresamente otras leyes o reglamentos.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE OCTUBRE DE 2017)</small>
 
-ARTÍCULO 74 TER.- Son atribuciones y obligaciones de la Dirección de Educación:
+ARTÍCULO 74 TER.- Son atribuciones y obligaciones de la Dirección de Educación y Cultura:
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 I. Promover y prestar servicios educativos de cualquier tipo o modalidad, sin perjuicio de la concurrencia de las autoridades educativas federal y local.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 II. Editar libros y otros materiales didácticos distintos a los libros de texto gratuito.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 III. Crear, organizar y dirigir bibliotecas, hemerotecas, casas de cultura y otros similares.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 IV. Diseñar e implementar programas de fomento cultural.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 V. Promover la investigación que sirva como base en la innovación educativa.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 VI. Promover la investigación y desarrollo de la ciencia, tecnología y la innovación.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 VII. Fomentar la creación de programas de educación para la salud, así como de protección del medio ambiente.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 VIII. Impulsar programas de alfabetización, educación para adultos, educación para y en el trabajo y la productividad.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 IX. Diseñar programas para la dotación de becas a alumnos que se encuentren en situación de vulnerabilidad.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 X. Proponer al Presidente Municipal la celebración de convenios de coordinación y concertación con los sectores público, social y privado para el mejoramiento de la infraestructura educativa en el municipio.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 XI. Las demás establecidas en el presente Código, legislación federal y local aplicable.
 
@@ -4737,7 +4759,7 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 
 P.O. 17 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCLC/0324/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 125, PÁRRAFO SEGUNDO, NUMERAL 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, ASÍ COMO EL ARTÍCULO 11 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, A FIN DE DENOMINAR AL MUNICIPIO DE BATOPILAS COMO BATOPILAS DE MANUEL GÓMEZ MORÍN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCLC/0324/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 125, PÁRRAFO SEGUNDO, NUMERAL 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, ASÍ COMO EL ARTÍCULO 11 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, A FIN DE DENOMINAR AL MUNICIPIO DE BATOPILAS COMO BATOPILAS DE MANUEL GÓMEZ MORÍN”.]
 
 PRIMERO.- Conforme lo dispone el artículo 202, último párrafo de la Constitución Política del Estado, remítase sin más trámite el presente Decreto para su debida publicación en el Periódico Oficial del Estado.
 
@@ -4746,3 +4768,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Remítase copia del presente Decreto al Instituto Nacional de Estadística y Geografía, para los efectos a que haya lugar.
 
 CUARTO.- Envíese copia del presente Decreto a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado, para su conocimiento.
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFCOD/0394/2017 I P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 60 FRACCIÓN XI Y 74 TER DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
