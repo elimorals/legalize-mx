@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2017-05-26"
+last_updated: "2017-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
 DECRETO
 
-Núm ..225
+Núm... 225
 
 Artículo Único.- Se expide la Ley del Registro Civil para el Estado de Nuevo León, para quedar como sigue:
 
@@ -388,6 +388,10 @@ Al hacer las anotaciones respectivas, el Director y los Oficiales se darán avis
 ###### Artículo 37.
 
 Para el registro de los actos del estado civil, celebrados por mexicanos en el extranjero, habrá un formato especial denominado "Inscripción de Actos celebrados por mexicanos en el Extranjero" en el cual se transcribirá íntegramente el contenido de los documentos o constancias que exhiban los interesados. Con ellas se formará un libro especial que contendrá indistintamente todas las actas que con este motivo se hayan inscrito.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2017)</small>
+
+En el caso de las actas de inscripción de nacimiento en el extranjero se podrá desprender el apellido materno a petición de parte; el Oficial del Registro Civil estará obligado a hacer del conocimiento del interesado la presente disposición y en su caso si la parte interesada lo solicita, podrá incluir tanto el apellido paterno como el materno en el acta correspondiente.
 
 ###### Artículo 38.
 
@@ -840,3 +844,9 @@ P.O. 26 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 257. SE REFORMA EL ARTÍCULO 178 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 17 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 295. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DEL REGISTRO CIVIL; Y SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 52 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
