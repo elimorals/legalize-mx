@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2016-12-31"
+last_updated: "2017-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -281,7 +281,9 @@ extemporáneos del estado civil; reposición y
 
 expedición de constancia de trámite. $190.00
 
-El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las oficialías y por el Departamento de Brigadas se otorgará gratuitamente, lo anterior, de conformidad a lo establecido en el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2017)</small>
+
+El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las Oficialías y por el Departamento de Brigadas, se otorgarán gratuitamente, de conformidad a lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
 
 #### Sección Segunda. Servicios que presta la Dirección del Registro Público de la Propiedad y de Comercio
 
@@ -3606,3 +3608,11 @@ Artículo Primero.- El presente Decreto entrará en vigor el primero de enero de
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 Artículo Tercero.- Hasta en tanto entre en funciones la Oficialía Mayor del Estado de Chiapas, la Secretaría de Hacienda proporcionará los servicios que se establecen en el artículo 47 A del presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 008 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12 DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
