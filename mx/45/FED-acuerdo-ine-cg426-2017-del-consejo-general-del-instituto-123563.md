@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg426-2017-del-consejo-general-del-instituto-123563
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-09-29"
-last_updated: "2017-09-29"
+last_updated: "2017-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123563&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2017-09-08"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITE LA CONVOCATORIA PARA EL REGISTRO DE CANDIDATURAS INDEPENDIENTES A LA PRESIDENCIA DE LA REPÚBLICA, SENADURÍAS O DIPUTACIONES FEDERALES POR EL PRINCIPIO DE MAYORÍA RELATIVA PARA EL PROCESO ELECTORAL FEDERAL 2017-2018.
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 25 DE OCTUBRE DE 2017, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 29 de septiembre de 2017.
 
@@ -32,10 +34,6 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITE
 ANTECEDENTES
 
 […]
-
-CONSIDERANDO
-
-[...]
 
 Por lo expuesto y con fundamento en lo establecido por los artículos 35, fracción II y 41, párrafo segundo, Base V, apartado A; 55; 58 y 82; y décimo transitorio de la Constitución Política de los Estados Unidos Mexicanos; 3, párrafo 1, inciso c), 7, párrafo 3; 10, párrafo 1; 30, párrafo 2; 35, párrafo 1; 42, párrafo 844, párrafo 1, inciso t); 237, párrafos 1, inciso a) y 2; 241, párrafo 1, inciso b), in fine; 251; 267, párrafo 1; 360, párrafos 1 y 2; 361, párrafo 1; 362, párrafo 1, incisos a) y b); 363, párrafo 1; 366, párrafo 1; 367, párrafos 1 y 2; 368, párrafos 1, 2, 3, 4 y 5; 369, párrafos 1, 2, y 3; 370, párrafo 1; 371; 372; 374; 375; 381, párrafo 1, 382, párrafo 1; 383, párrafos 1 y 2; 384; 386; 387, párrafos 1 y 2; 388, párrafo 1; 390, párrafo 1; 391, párrafo 1; 392, párrafo 1; 393, párrafo 1, incisos b) y c); 394; 407; 408; 412; 416; 420; 421; 422; 424; y 432, párrafo 1, de la Ley General de Instituciones y Procedimientos Electorales; 286 y 287, párrafo 1 del Reglamento de Elecciones; y en ejercicio de la atribución que le confiere el artículo 44, párrafo 1, inciso jj) de dicha Ley, el Consejo General del Instituto Nacional Electoral emite el siguiente:
 
@@ -130,3 +128,73 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 Liga para consultar los anexos:
 
 http://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-8-septiembre-2017/
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. F. 25 DE OCTUBRE DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG455/2017, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se modifica el Acuerdo INE/CG426/2017 así como las bases cuarta y quinta de la Convocatoria a las Ciudadanas y los Ciudadanos con interés en postularse como Candidatas o Candidatos Independientes a la Presidencia de la República, Senadurías o Diputaciones Federales por el principio de mayoría relativa.
+
+SEGUNDO. Se modifican las fechas para la presentación de la manifestación de intención, expedición de constancia de aspirante, así como la fecha límite para recabar el apoyo ciudadano, conforme a lo siguiente:
+
+Cargo Fecha límite Fecha de expedición Fecha límite
+
+manifestación de constancia para recabar
+
+de intención apoyo
+
+ciudadano
+
+Presidenta o 14 de octubre 15 de octubre 12 de febrero
+
+Presidente de 2017 de 2017 de 2018
+
+Senador o 15 de octubre 16 de octubre 14 de enero
+
+Senadora de 2017 de 2017 de 2018
+
+Diputado o 10 de octubre 11 de octubre 10 de diciembre
+
+Diputada de 2017 de 2017 de 2017
+
+Lo anterior, salvo que la manifestación de intención se presente el último día y de ella derive requerimiento, en cuyo caso deberá emitirse a más tardar en las fechas que se indican en la tabla siguiente.
+
+Cargo En caso de presentarse el último día y que
+
+exista requerimiento
+
+Presidenta o Presidente 18 de octubre de 2017
+
+Senador o Senadora 19 de octubre de 2017
+
+Diputado o Diputada 14 de octubre de 2017
+
+En los supuestos en que la constancia de aspirante haya sido emitida con posterioridad a la fecha indicada en la primera tabla del presente Punto de Acuerdo, la conclusión del período para recabar el apoyo ciudadano se recorrerá el número de días que corresponda para garantizar el cumplimiento de los plazos establecidos en la Ley.
+
+TERCERO. En aquellos casos en que la autoridad electoral haya expedido la constancia de aspirante a candidata o candidato a Diputada o Diputado por el principio de mayoría relativa el 5 de octubre de dos mil diecisiete, la fecha límite para recabar el apoyo ciudadano es el día 4 de diciembre del presente año.
+
+CUARTO. En aquellos casos en que la constancia de aspirante se hubiere emitido el día 6 de octubre, el período para recabar el apoyo de la ciudadanía iniciará el 12 de octubre y concluirá el 10 de diciembre. Para este efecto habrá de notificarse a estos aspirantes el presente Acuerdo a través del correo electrónico y el domicilio proporcionado por los mismos en su manifestación de intención.
+
+QUINTO. Respecto a las manifestaciones de intención presentadas hasta el 4 de octubre por las y los ciudadanos para una candidatura independiente a una diputación federal por el principio de mayoría relativa y que resulten procedentes, los funcionarios electorales deberán emitir la constancia de aspirante el 11 de octubre de 2017, a efecto de que las y los aspirantes procedan a recabar el apoyo ciudadano a partir del 12 de octubre y hasta el 10 de diciembre del presente año.
+
+SEXTO. Por lo que hace a las manifestaciones de intención presentadas hasta el 4 de octubre por las personas interesadas en postularse para una candidatura independiente a una diputación federal por el principio de mayoría relativa y que fueron objeto de requerimiento, en caso de que el mismo no sea desahogado en tiempo y forma o que con la respuesta no se subsanen las observaciones formuladas, se tendrá por no presentada la manifestación de intención quedando a salvo el derecho de la persona interesada para presentar una nueva a más tardar el día 10 de octubre de 2017.
+
+SÉPTIMO. Ante la posibilidad de que se vean afectados los plazos o términos relacionados con la calendarización programada para llevar a cabo las actividades en materia de fiscalización, se instruye a la Comisión de Fiscalización para que realice el análisis y, en su caso, haga los ajustes correspondientes garantizando que los dictámenes de fiscalización de los aspirantes a candidatos independientes sean conocidos por el Consejo General previo a la sesión de registro de candidaturas.
+
+OCTAVO. Se instruye al Secretario Ejecutivo para que realice un análisis a efecto de verificar si, en el caso que nos ocupa o, algún otro relacionado podría afectarse un plazo o término calendarizado y, en su caso, realice la propuesta de modificación al Consejo General.
+
+NOVENO. En acatamiento a lo ordenado en la sentencia SUP/AG112/2017, se instruye a la Secretaría Ejecutiva para que por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos realice las gestiones institucionales que correspondan, incluso ante la Comisión Nacional Bancaria y de Valores para que el ciudadano Miguel Nava Alvarado pueda aperturar la cuenta bancaria necesaria para su registro como aspirante a candidato independiente. Lo anterior a fin de que no se trastoquen los derechos político electorales del referido ciudadano, situación que deberá tomarse en cuenta en la revisión de la carta de intención que se presente como aspirante.
+
+DÉCIMO. Comuníquese vía electrónica de inmediato el presente Acuerdo a las Juntas Locales y Distritales del Instituto Nacional Electoral para su cumplimiento en el ámbito de su competencia.
+
+DÉCIMO PRIMERO. Se instruye a las Juntas Locales y Distritales del Instituto Nacional Electoral que de inmediato, por los medios que consideren pertinentes, hagan del conocimiento de la ciudadanía el presente Acuerdo.
+
+DÉCIMO SEGUNDO. El presente Acuerdo entrará en vigor el día de su aprobación por este Consejo General.
+
+DÉCIMO TERCERO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias a efecto de difundir el presente Acuerdo a través de su publicación en el Diario Oficial de la Federación, así como los aspectos más relevantes de la convocatoria en la página electrónica y redes sociales del Instituto, en tres periódicos de circulación nacional y en un diario de cada entidad federativa.
+
+DÉCIMO CUARTO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento a la (sic) sentencias emitidas en el Juicio para la protección de los derechos político-electorales del ciudadano identificado con el número de expediente SUP-JDC-872/2017, así como en la diversa dictada en el expediente SUP-AG-112/2017.
