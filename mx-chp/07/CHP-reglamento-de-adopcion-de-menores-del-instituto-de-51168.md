@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-adopcion-de-menores-del-instituto-de-51168"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-21"
-last_updated: "2006-06-21"
+last_updated: "2017-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE ADOPCION DE MENORES, DEL INSTITUTO DE DESARROLLO HUMANO DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE ADOPCION DE MENORES DEL INSTITUTO DE DESARROLLO HUMANO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de junio de 2006.
 
@@ -39,7 +39,7 @@ Considerando.
 
 En consecuencia, es propósito del Poder Ejecutivo del Estado, promover e impulsar todas las medidas que tengan por objeto llenar los vacíos normativos existentes, a fin de otorgar certeza jurídica en los procesos de adopción, así como, darle expresión jurídica a la voluntad del legislador; por ello, he tenido a bien expedir el siguiente:
 
-Reglamento de Adopción de Menores del Instituto De (sic) Desarrollo Humano del Estado de Chiapas
+Reglamento de Adopción de Menores del Instituto De Desarrollo Humano del Estado de Chiapas
 
 ### Capítulo I. Disposiciones Generales
 
@@ -419,7 +419,7 @@ A los solicitantes que no cumplan con la obligación de reincorporar al menor o 
 
 ###### Artículo 38.
 
-Los servidores públicos que intervengan en la adopción de los menores albergados en la Casa Hogar o Centros Asistenciales del Instituto, que infrinjan las disposiciones del presente Reglamento o las Leyes aplicables n la materia, serán denunciados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y demás Leyes aplicables al caso.
+Los servidores públicos que intervengan en la adopción de los menores albergados en la Casa Hogar o Centros Asistenciales del Instituto, que infrinjan las disposiciones del presente Reglamento o las Leyes aplicables en la materia, serán denunciados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y demás Leyes aplicables al caso.
 
 ## Transitorios
 
@@ -434,3 +434,19 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de mayo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NO. 005 LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+Artículo Tercero.- Se abroga el Reglamento de Adopción de Menores del Instituto de Desarrollo Humano del Estado de Chiapas, publicado mediante publicación número 2691 A 2006, en la Segunda Sección del Periódico Oficial número 368, el día miércoles 21 de junio del año 2006.
+
+Artículo Cuarto.- El Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas deberá quedar instalado en un plazo no mayor a 45 días hábiles, de acuerdo a la estructura que le ha sido asignada por el presente Decreto.
+
+Artículo Quinto.- En un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, el Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas deberá presentar al titular del Poder Ejecutivo del Estado el proyecto del Reglamento de la presente Ley.
