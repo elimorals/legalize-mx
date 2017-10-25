@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fomento-a-la-actividad-artesanal-para-el-estado-de-60670
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2011-09-28"
+last_updated: "2017-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE DESARROLLO Y PROTECCIÓN A LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2008.
 
@@ -145,7 +147,7 @@ Las artesanías producidas y elaboradas en el Estado, son patrimonio cultural de
 
 Para el rescate de la cultura artesanal, esta Ley fomentará acciones encaminadas a:
 
-l. Preservar y proteger el patrimonio artístico, simbólico, folklórico e histórico del Estado, representado por las artesanías que identifican a las diversas comunidades, regiones y grupos étnicos, con capacidad para transformar la naturaleza, creando nuevas expresiones artísticas populares;
+I. Preservar y proteger el patrimonio artístico, simbólico, folklórico e histórico del Estado, representado por las artesanías que identifican a las diversas comunidades, regiones y grupos étnicos, con capacidad para transformar la naturaleza, creando nuevas expresiones artísticas populares;
 
 II. Promover y desarrollar la obra artesanal de las comunidades como reconocimiento del patrimonio cultural de sus habitantes;
 
@@ -215,7 +217,7 @@ Para tal fin, el Instituto será el encargado de procurar lo necesario para que 
 
 El Instituto elaborará y operará el Registro Estatal de Artesanos, el cual contendrá la siguiente información:
 
-l. Las ramas artesanales que se practican en el Estado;
+I. Las ramas artesanales que se practican en el Estado;
 
 II. El número de artesanos económicamente activos;
 
@@ -362,3 +364,19 @@ Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su pu
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- El Instituto Casa Chiapas, llevará a cabo lo conducente para la actualización de su marco jurídico.
+
+P.O. 25 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 006 LEY DE DESARROLLO Y PROTECCIÓN A LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Fomento a la Actividad Artesanal del Estado de Chiapas, publicada en el Periódico Oficial número 083, Tomo III, mediante el Decreto número 140, de fecha 05 de Marzo de 2008.
+
+Artículo Tercero.- Los Municipios del Estado, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones legales y normativas aplicables.
+
+Artículo Cuarto.- La Secretaría de Economía y el Instituto Casa de las Artesanías de Chiapas, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
+
+Artículo Quinto.- El titular de la Secretaría de Economía, deberá someter a consideración y aprobación del Ejecutivo del Estado, el proyecto del reglamento de la presente Ley, en un plazo no mayor a noventa días hábiles siguientes a la publicación de la misma.
+
+Artículo Sexto.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones legales aplicables.
