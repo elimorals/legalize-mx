@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-123513
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2017-09-26"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -1393,7 +1393,13 @@ III. Requerir al servidor público de la Auditoría Superior que emitió el acto
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco"; con excepción de:
+
+l. El artículo 17 de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios, que entrará en vigor al día 23 de octubre de 2017; y
+
+II. En consecuencia, se derogan los artículos 15, fracción VI; 28; 29; y 31 de la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco y sus Municipios, con efectos a partir del día 23 de octubre de 2017.
 
 SEGUNDO. Las cuenta (sic) públicas 2017 y anteriores se regirán conforme a la Ley derogada mediante el presente decreto.
 
@@ -1448,3 +1454,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (Rubrica)
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26495/LXI/17 QUE REFORMA LOS ARTÍCULOS TRANSITORIOS, PRIMERO DEL DECRETO NÚMERO 26433/LXI/17 Y PRIMERO DEL DECRETO NÚMERO 26434/LXI/17".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
