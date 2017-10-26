@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2016-07-01"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -638,6 +638,44 @@ III.- Otorgar incentivos a quien realice acciones para fomentar la protección, 
 IV.- Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental; y
 
 V.- Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de los ecosistemas, de tal manera que se garantice su integridad y equilibrio, así como la salud y el bienestar de la población.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 25-A.
+
+Se consideran instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente.
+
+Los instrumentos económicos tendrán por objeto orientar la política ambiental estatal y municipal a la atención de situaciones ambientales prioritarias, para propiciar el mejoramiento de las condiciones de vida de los habitantes del estado, mediante la captación, generación, asignación, canalización y aplicación de mayores recursos económicos para la realización de proyectos, medidas o acciones con la finalidad de:
+
+I.- Prevenir la contaminación del agua, el aire o el suelo;
+
+II.- Proteger el ambiente y los recursos naturales;
+
+III.- Preservar y restaurar el equilibrio ecológico;
+
+IV.- Uso eficiente del agua y de la energía;
+
+V.- Ordenar y administrar sustentablemente el territorio;
+
+VI.- Conservar y restaurar los espacios naturales y de las áreas naturales protegidas;
+
+VII.- Proteger y preservar las especies nativas de los ecosistemas del Estado;
+
+VIII. Aprovechar fuentes renovables de energía, o
+
+IX. Promover la educación y cultura ambiental.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 25-B.
+
+El diseño, desarrollo y aplicación de los instrumentos financieros, fiscales o de mercado de los que haga uso el titular del Poder Ejecutivo en coordinación con los ayuntamientos incluirán mecanismos de organización y operación conforme a la Ley de Planeación para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 25-C.
+
+El titular del Poder Ejecutivo en coordinación con los ayuntamientos en el ámbito de sus respectivas competencias, podrán desarrollar los diferentes mecanismos para la mezcla de recursos financieros con la finalidad de diseñar, desarrollar y aplicar proyectos encaminados a favorecer la política ambiental en el Estado.
 
 #### SECCION CUARTA. DE LA REGULACION AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
@@ -2466,3 +2504,11 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTO, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN.”]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 219, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 25-A, 25-B Y 25-C A LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
