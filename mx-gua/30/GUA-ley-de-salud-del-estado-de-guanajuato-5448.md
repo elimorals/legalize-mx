@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2017-10-19"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -923,13 +923,179 @@ III. Actuar con negligencia y realizar acciones que pongan en riesgo la salud de
 
 IV. Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y demás ordenamientos aplicables.
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2017)</small>
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPÍTULO IX. Del Centro Estatal de Trasplantes y de la Actividad en Materia de Donación, Extracción y Trasplante de Órganos y Tejidos
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 76 Sexies.
+
+La donación, la extracción y el trasplante de órganos y tejidos humanos procedentes de donadores vivos o fallecidos, se regirán por los principios de gratuidad, altruismo, confidencialidad y factibilidad, establecidos en la Ley General de Salud, sus disposiciones reglamentarias, esta Ley y demás normas aplicables, tomando en cuenta el interés superior de la niñez.
+
+Todo servidor público involucrado en el proceso de donación, extracción y trasplante de órganos y tejidos deberá ser sensible a las circunstancias por las que transitan los familiares de las personas que han perdido la vida en los casos en que ésta se presuma vinculada con la comisión de hechos posiblemente constitutivos de delito, así como en los demás supuestos contemplados por la Ley General de Salud y su reglamento en materia de trasplantes, y que deseen donar los órganos y tejidos del fallecido, a fin de brindarles una atención adecuada.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 76 Septies.
+
+El Centro Estatal de Trasplantes es la unidad administrativa desconcentrada del Instituto de Salud Pública del Estado de Guanajuato, que tiene por objeto coordinar las acciones de donación, extracción y trasplante en el Estado, para garantizar la transparencia, accesibilidad, oportunidad, efectividad, calidad y seguridad en los procesos de donación, extracción y trasplante de órganos y tejidos.
+
+El Centro Estatal de Trasplantes funcionará de conformidad a lo contemplado en la presente Ley, así como en atención con los procedimientos que al efecto se establezcan en su reglamento interno, y tendrá las siguientes facultades:
+
+I.- Operar el Sistema y Subsistema Estatal de Trasplantes;
+
+II.- Integrar, en coordinación con el Consejo Estatal de Trasplantes, el Programa Estatal de Trasplantes;
+
+III.- Establecer el Sistema de Información y Evaluación del Programa Estatal de Trasplantes;
+
+IV.- Establecer mecanismos para el fortalecimiento de las actividades que, en materia de donación, extracción y trasplante de órganos y tejidos, realicen las unidades hospitalarias y promover la capacitación del personal cuyas actividades se enfoquen al área de donación, extracción y trasplante de órganos y tejidos, tanto en materia de salud como jurídica;
+
+V.- Promover proyectos de investigación en materia de donación, extracción y trasplante de órganos y tejidos;
+
+VI.- Promover la cultura de la donación de órganos y tejidos;
+
+VII.- Promover que los establecimientos de salud públicos o privados cuenten con licencia sanitaria para realizar la donación, extracción y trasplante de órganos y tejidos; y
+
+VIII.- Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 76 Octies.
+
+El Centro Estatal de Trasplantes contará con un Consejo Estatal de Trasplantes, que tiene por objeto promover, apoyar y coordinar las acciones de los sectores público, social y privado en materia de donación, extracción y trasplante de órganos.
+
+En todas las resoluciones que acuerde el Consejo, se tomará en cuenta, primordialmente, el interés superior de la niñez, los principios rectores de la Organización Mundial de la Salud sobre trasplante de células, tejidos y órganos humanos y la Declaración de Estambul sobre el Tráfico de Órganos y el Turismo de Trasplantes. El Consejo establecerá los mecanismos necesarios para garantizar estos principios.
+
+El Consejo funcionará de conformidad con los procedimientos que para esos efectos se establezcan en el reglamento interno respectivo y contará con las siguientes facultades:
+
+I.- Aprobar su reglamento interior y establecer las comisiones de trabajo que estime necesarias para cumplir con su objeto;
+
+II.- Elaborar el Programa Estatal de Trasplantes, en coordinación con el Centro Estatal de Trasplantes;
+
+III.- Promover el diseño, instrumentación y operación del Sistema Estatal de Trasplantes;
+
+IV.- Proponer a las autoridades competentes la modificación de normas y procedimientos para facilitar el proceso de donación, extracción y trasplante, además de proponer la realización de actividades educativas, de investigación y difusión de la cultura de la donación de órganos y tejidos;
+
+V.- Establecer mecanismos para la sistematización y difusión de la normatividad e información científica y técnica en materia de trasplantes;
+
+VI.- Promover la coordinación de acciones de las dependencias y entidades públicas estatales en la instrumentación y evaluación del Programa Estatal de Trasplantes, además de promover la coordinación con las instituciones de los sectores público, social y privado, que lleven a cabo acciones en relación con dicho Programa; y
+
+VII.- Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 76 Nonies.
+
+El Consejo Estatal de Trasplantes se integrará por:
+
+I.- El titular de la Secretaría de Salud, quien será el Presidente;
+
+II.- El titular de la XII Región Militar de la Secretaría de la Defensa Nacional;
+
+III.- El titular de la Secretaría de Educación;
+
+IV.- El titular de la Secretaría de Innovación, Ciencia y Educación Superior;
+
+V.- El Director de la División de Ciencias de la Salud de la Universidad de Guanajuato;
+
+VI.- El delegado en el Estado de Guanajuato del Instituto Mexicano del Seguro Social;
+
+VII.- El delegado en el Estado de Guanajuato del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+VIII.- Un representante de la Procuraduría General de Justicia del Estado de Guanajuato;
+
+IX.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+X.- Un representante de las instituciones privadas de salud del Estado;
+
+XI.- Un representante de la comunidad médica del Estado;
+
+XII.- Un representante de la sociedad civil; y
+
+XIII.- El titular del Centro Estatal de Trasplantes.
+
+La Procuraduría de los Derechos Humanos del Estado será invitada permanente.
+
+El titular y los delegados referidos en las fracciones II, VI y VII integrarán el Consejo, previa invitación por parte del Presidente.
+
+Los representantes referidos en las fracciones X, XI y XII serán nombrados a través del procedimiento de convocatoria pública que se establezca en el reglamento interior.
+
+El Presidente, atendiendo al tema que se vaya a tratar, podrá invitar a las sesiones del Consejo, a representantes de los sectores público, social o privado, así como a ciudadanos que por su perfil o trayectoria profesional coadyuven al cumplimiento de su objeto, con carácter permanente, previo acuerdo del Consejo, o con carácter transitorio, quienes únicamente tendrán derecho a voz.
+
+El Consejo contará además con un Secretario Técnico nombrado con base en las disposiciones y facultades que se establezcan en el reglamento interno.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 76 Decies.
+
+Los Comités Internos de Coordinación para la Donación, y de Trasplantes de los establecimientos de salud, según corresponda, serán los responsables de realizar la distribución y la asignación de órganos y tejidos, de acuerdo con lo dispuesto en la Ley General de Salud, sus disposiciones reglamentarias, así como en la presente Ley.
+
+Para la asignación de órganos y tejidos de donador fallecido, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados, así como la ubicación hospitalaria e institucional del donador.
+
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a las bases de datos hospitalarias, institucionales, estatales y nacional, las que se integrarán con los datos de los pacientes registrados en el Centro Nacional de Trasplantes.
+
+El principio del interés superior de la niñez será una consideración primordial para estos comités, respecto a la distribución y asignación de órganos y tejidos para trasplantes.
+
+Los Comités Internos de Coordinación para la Donación, y los Comités Internos de Trasplantes, vigilarán que los órganos y tejidos de donadores que hayan perdido la vida teniendo hasta dieciocho años de edad, les sean asignados a receptores que tengan hasta dieciocho años de edad, en caso de que no exista urgencia de trasplante. Así mismo, para la asignación y distribución de órganos y tejidos provenientes de donadores que hayan perdido la vida entre los diecinueve y los treinta y cinco años de edad, serán considerados como receptores los pacientes pediátricos, salvo que exista una causa médica debidamente justificada.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 76 Undecies.- Los coordinadores hospitalarios de la donación y extracción de órganos y tejidos para trasplantes notificarán al Ministerio Público, de manera inmediata la identificación de un donador fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de hechos posiblemente constitutivos de delito, así como en los demás supuestos contemplados por la Ley General de Salud y su reglamento en materia de trasplantes.
+
+Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 76 Duodecies.- En los casos en que deba intervenir el Ministerio Público con motivo del proceso de donación que se pretenda realizar, conforme a la Ley General de Salud, éste definirá el personal que corresponda para realizar las diligencias respectivas y, acudir con carácter prioritario al establecimiento de salud, a fin de contar con los elementos suficientes que permitan emitir la determinación a que haya lugar, y hacerla del conocimiento de la autoridad sanitaria.
+
+Para efectos de lo dispuesto en el párrafo anterior, la autoridad sanitaria deberá proporcionar al Ministerio Público, o a la autoridad jurisdiccional, según corresponda, la siguiente documentación técnico administrativa:
+
+I.- Electroencefalograma que demuestre ausencia total de actividad eléctrica;
+
+II.- Cualquier otro estudio de gabinete que demuestre la falta de actividad cerebral o ausencia del flujo arterial encefálicoo (sic) cerebral;
+
+III.- Certificado de pérdida de la vida;
+
+IV.- Consentimiento para disposición de órganos y tejidos de cadáveres con fines de trasplante;
+
+V.- Estudio e interpretación confirmatorio de muerte encefálica; y
+
+VI.- Las demás que específicamente determine el protocolo de atención que al efecto aplique la Procuraduría General de Justicia.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 76 Terdecies.- La Procuraduría General de Justicia del Estado de Guanajuato y el Centro Estatal de Trasplantes determinarán los lineamientos de actuación para atender las solicitudes de intervención para la donación y extracción de órganos y tejidos de seres humanos con fines de trasplantes, en los casos en que la causa de la pérdida de la vida del donador se presuma vinculada con la comisión de hechos posiblemente constitutivos de delito, así como en los demás supuestos contemplados por la Ley General de Salud y su reglamento en materia de trasplantes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 76 Quaterdecies.- Si un establecimiento de salud no cuenta con licencia sanitaria para realizar la extracción de órganos y tejidos en términos de la Ley General de Salud, sus disposiciones reglamentarias, la presente Ley y demás normas aplicables, se permitirá el traslado en ambulancia del donador con pérdida de la vida a un establecimiento con licencia, a fin de que se pueda concretar la donación.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 76 Quindecies.- El Centro Estatal de Trasplantes establecerá los mecanismos necesarios que permitan identificar, asesorar y vigilar que todo paciente que se encuentre en los primeros lugares de las bases de datos para trasplante de donador cadavérico, en instituciones de salud tanto públicas como privadas, cumpla con los requisitos legales y administrativos aplicables y cuente con el protocolo de trasplante actualizado, que le permitan encontrarse en igualdad de condiciones para garantizar su acceso efectivo al trasplante.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 76 Sexiesdecies.- Para efectos de este capítulo, la pérdida de la vida tiene efectos jurídicos similares a los del concepto de muerte, y ocurre cuando se presentan la muerte encefálica o el paro cardíaco irreversible.
+
+La muerte encefálica se determina cuando se verifican los siguientes signos:
+
+I.- Ausencia completa y permanente de conciencia;
+
+II.- Ausencia permanente de respiración espontánea;
+
+III.- Ausencia de los reflejos del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nocioceptivos; y
+
+IV.- Los demás supuestos establecidos en la Ley General de Salud.
+
+Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ## TITULO CUARTO. Recursos Humanos para la Salud
 
-### CAPITULO III. Formación, Capacitación y Actualización de los Recursos Humanos para la Salud
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 77.
 
@@ -967,7 +1133,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares, así como
 
 Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO UNICO
+### CAPITULO III. Formación, Capacitación y Actualización de los Recursos Humanos para la Salud
 
 ###### ARTICULO 81.
 
@@ -994,8 +1160,6 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 Las autoridades sanitarias del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Guanajuato, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 86.
 
@@ -1041,9 +1205,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO QUINTO. Investigación para la Salud
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 91.
 
@@ -1105,7 +1269,9 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ## TITULO SEXTO. Información para la Salud
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 96.
 
@@ -1129,7 +1295,7 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 ## TITULO SEPTIMO. Promoción de la Salud
 
-### CAPITULO III. Nutrición
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 98.
 
@@ -1159,9 +1325,7 @@ V.- Salud ocupacional; y
 
 VI.- Fomento Sanitario.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. Nutrición
 
 ###### ARTICULO 100.
 
@@ -1197,7 +1361,7 @@ La Secretaría de Salud formulará un programa para la salud destinado a la pobl
 
 La Secretaría de Salud en coordinación con la Secretaría de Gobierno, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, formulará e implementará un Programa Estatal de Lactancia Materna, el cual tendrá como objeto proteger, promover y apoyar la práctica de la lactancia materna como alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida, a través de políticas públicas.
 
-### CAPITULO V. Salud Ocupacional
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1233,15 +1397,9 @@ V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo
 
 VI.- En coordinación con la Secretaria de Educación del Estado de Guanajuato impartirá, en los meses de enero y septiembre de cada año, pláticas o cursos de capacitación dirigidos a los padres de familia sobre la preparación adecuada de alimentos balanceados y con mayores contenidos nutrimentales, por personal capacitado de la Secretaria de Salud y con la especialidad correspondiente, con la finalidad de implementar hábitos, prácticas y una cultura de alimentación sana, en beneficio de los educandos.
 
-### CAPITULO VI. Fomento Sanitario
+### CAPITULO V. Salud Ocupacional
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
-
-Asimismo, proporcionará a la población información y conocimientos relativos a los daños provocados por el uso y consumo de ciertos productos, los efectos nocivos del ambiente en la salud, los riesgos y daños ocupacionales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 104.
 
@@ -1293,6 +1451,28 @@ Todo ciudadano tiene la obligación de denunciar, ante las autoridades sanitaria
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales y municipales competentes, así como con la autoridad en el Estado encargada de la administración del distrito de riego, orientarán a la población para evitar la contaminación de aguas superficiales y subterráneas, que utilizan para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios de basura.
 
+### CAPITULO VI. Fomento Sanitario
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
+
+Asimismo, proporcionará a la población información y conocimientos relativos a los daños provocados por el uso y consumo de ciertos productos, los efectos nocivos del ambiente en la salud, los riesgos y daños ocupacionales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2017)</small>
+
+###### ARTICULO 110.
+
+La Secretaría de Salud Estatal, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollan actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberán reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 111.
+
+El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO VII. Lactancia Materna
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
@@ -1319,35 +1499,21 @@ VI. Difundir, a través de los medios masivos de comunicación sobre los benefic
 
 VII. Promover en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, la lactancia materna como un derecho humano y la no discriminación por lactar en público, a través de una campaña interinstitucional y permanente.
 
-###### ARTICULO 110.
-
-La Secretaría de Salud Estatal, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollan actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberán reunir, de conformidad con lo que establezcan los reglamentos respectivos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
-###### ARTICULO 111.
-
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
 ### CAPITULO I. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
 ### CAPITULO II. Enfermedades Transmisibles
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
-
-### CAPITULO III. Enfermedades no Transmisibles
-
 ###### ARTICULO 112.
 
 El Gobierno del Estado, en coordinación con las autoridades federales, municipales e instituciones competentes, promoverán, desarrollarán y difundirán investigaciones multidisciplinarias que permitan prevenir y controlar las enfermedades y accidentes ocupacionales y estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 113.
 
@@ -1569,9 +1735,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación y otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 127.
 
@@ -1595,9 +1759,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 130.
 
@@ -1627,7 +1791,7 @@ Para mayor eficacia de las acciones a las que se refiere este Artículo, el Gobi
 
 ## TITULO NOVENO. Asistencia Social, Prevención de Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPITULO II. Programa contra el Tabaquismo
+### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1785,7 +1949,9 @@ El organismo del Gobierno Estatal, previsto en el Artículo 137 de esta Ley, ten
 
 ## TITULO DECIMO. Programas contra las Adicciones
 
-### CAPITULO III. Programa contra la Farmacodependencia
+### CAPITULO II. Programa contra el Tabaquismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 157.
 
@@ -1895,9 +2061,7 @@ II. Celebrar convenios de colaboración con instituciones estatales, nacionales 
 
 La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del Estado.
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. Programa contra la Farmacodependencia
 
 ###### ARTICULO 159.
 
@@ -1933,7 +2097,7 @@ II.- La educación a la familia para prevenir y disminuir el consumo de tabaco p
 
 ARTICULO 160 BIS.- El Consumo de tabaco se sujetará a lo dispuesto en el reglamento correspondiente y demás normatividad aplicable.
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1965,7 +2129,9 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 ## TITULO DECIMO PRIMERO. Salubridad Local
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 163.
 
@@ -1999,9 +2165,7 @@ El propietario de los establecimientos a que se refiere el Artículo Tercero, Ap
 
 La Secretaría de Salud del Estado, de conformidad con lo dispuesto por esta Ley, deberá publicar en el Periódico Oficial del Gobierno del Estado, las normas técnicas sanitarias que expida, en materia de salubridad local.
 
-### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 169.
 
@@ -2029,9 +2193,9 @@ Los mercados y centros de abastos serán objeto de verificaciones sanitarias per
 
 Los vendedores locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades, se sujetará a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas sanitarias correspondientes.
 
-### CAPITULO V. Disposición Final de Residuos Sólidos Municipales
+### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 173.
 
@@ -2091,7 +2255,9 @@ Para la creación, ampliación o modificación de colonias o fraccionamientos, s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO VI. Rastros
+### CAPITULO V. Disposición Final de Residuos Sólidos Municipales
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 183.
 
@@ -2141,7 +2307,7 @@ Mientras este plazo no termine sólo podrán efectuarse las exhumaciones autoriz
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VII. Agua Potable y Alcantarillado
+### CAPITULO VI. Rastros
 
 ###### ARTICULO 190.
 
@@ -2173,7 +2339,7 @@ La basura, por ningún motivo, se manipulará, excepto lo estrictamente indispen
 
 Para toda la actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
+### CAPITULO VII. Agua Potable y Alcantarillado
 
 ###### ARTICULO 196.
 
@@ -2217,9 +2383,7 @@ Queda prohibida en el Estado la venta de carnes para consumo humano, sin que est
 
 El transporte de carne, para el comercio dentro del territorio del Estado, deberá realizarse en los vehículos que cumplan con el reglamento sanitario vigente, previa verificación de la autoridad competente.
 
-### CAPITULO IX. Centros de Reinserción Social
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
 
 ###### ARTICULO 203.
 
@@ -2285,9 +2449,9 @@ Los pozos o aljibes cuyas aguas se utilicen para el consumo humano, deberán cum
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO X. Baños Públicos y Balneario
+### CAPITULO IX. Centros de Reinserción Social
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 214.
 
@@ -2327,7 +2491,9 @@ Las condiciones necesarias que deben reunir estos establecimientos estarán fija
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO XI. Centros de Reunión y Espectáculos
+### CAPITULO X. Baños Públicos y Balneario
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 218.
 
@@ -2355,9 +2521,7 @@ La Secretaría de Salud del Estado, efectuará el control sanitario en los centr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO XI. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 222.
 
@@ -2381,7 +2545,9 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Le
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XIII. Establecimientos de Hospedaje
+### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 226.
 
@@ -2409,9 +2575,7 @@ Queda estrictamente prohibida la entrada a menores de cinco años a salas cinema
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XIV. Transporte Estatal y Municipal
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+### CAPITULO XIII. Establecimientos de Hospedaje
 
 ###### ARTICULO 231.
 
@@ -2441,7 +2605,9 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XV. Gasolineras
+### CAPITULO XIV. Transporte Estatal y Municipal
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 236.
 
@@ -2465,15 +2631,7 @@ La autoridad sanitaria realizará las verificaciones que conforme a esta Ley y o
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
-
-ARTICULO 244 A.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+### CAPITULO XV. Gasolineras
 
 ###### ARTICULO 241.
 
@@ -2485,7 +2643,15 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes a que se refiere el artículo anterior y que circulen en el interior del Estado, deberán cumplir con los requisitos sanitarios que marca esta ley, las demás disposiciones legales aplicables y las normas técnicas sanitarias correspondientes.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
+
+ARTICULO 244 A.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 243.
 
@@ -2497,13 +2663,11 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ## TITULO DECIMO SEGUNDO
 
-### CAPITULO III. Certificados
-
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 245.
 
@@ -2553,9 +2717,9 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO UNICO. Vigilancia Sanitaria
+### CAPITULO III. Certificados
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
 
 ###### ARTICULO 257.
 
@@ -2589,9 +2753,9 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO. Vigilancia Sanitaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 265.
 
@@ -2627,9 +2791,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO TERCERO
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 270.
 
@@ -2721,7 +2885,9 @@ ARTICULO 278 BIS-2.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ## TITULO DECIMO CUARTO. Medidas de Seguridad Sanitaria y Sanciones Administrativas
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 279.
 
@@ -2819,7 +2985,7 @@ Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitari
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud del ser humano.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTÍCULO 291.
 
@@ -2931,7 +3097,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 303.
 
@@ -3014,6 +3180,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### ARTICULO 312.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de las sanciones administrativas que procedan.
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 313.
 
@@ -3296,3 +3464,13 @@ Las instituciones y dependencias deberán habilitar su sala de lactancia a más 
 ###### ARTÍCULO TERCERO.
 
 El Programa Estatal de Lactancia Materna deberá ser publicado a más tardar dentro de los 180 días posteriores a la entrada en vigencia del presente decreto.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 222, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN AL TÍTULO TERCERO, UN CAPÍTULO IX DENOMINADO “DEL CENTRO ESTATAL DE TRANSPLANTES (SIC) Y DE LA ACTIVIDAD EN MATERIA DE DONACIÓN, EXTRACCIÓN Y TRANSPLANTE (SIC) DE ÓRGANOS Y TEJIDOS”, QUE CONTIENEN LOS ARTÍCULOS 76 SEXIES, 76 SEPTIES, 76 OCTIES, 76 NONIES, 76 DECIES, 76 UNDECIES, 76 DUODECIES, 76 TERDECIES, 76 QUATERDECIES, 76 QUINDECIES Y 76 SEXIESDECIES, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de noventa días, contados a partir del inicio de vigencia del presente Decreto.
+
+Artículo Tercero. El Consejo Estatal de Trasplantes deberá celebrar su primera sesión ordinaria dentro de los treinta días posteriores a la entrada en vigor del presente Decreto.
