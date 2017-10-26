@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-118011"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2017-02-21"
+last_updated: "2017-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2017
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2016.
 
@@ -2211,13 +2211,77 @@ SEXTO. En el caso de que el Gobierno del Estado de Jalisco perciba durante el 20
 
 SÉPTIMO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos extraordinarios a obtener, se autoriza al Poder Ejecutivo a ejercer para el presente ejercicio 2017, las autorizaciones contenidas en los Decretos 25528/LX/15, publicado en el periódico oficial "El Estado de Jalisco" el día 9 de octubre de 2015, y el Decreto 25801/LXI/16 publicado en el periódico oficial "El Estado de Jalisco" el día 15 de marzo de 2016, así como a incluir en el registro de ingresos por financiamiento, los montos que por saldos pendientes de ejercer se vayan disponiendo con base en la presente autorización, destinándose los mismos a los rubros, obras y acciones de inversión pública especificados en los decretos señalados, de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-OCTAVO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos extraordinarios a obtener, se autoriza al Poder Ejecutivo a ejercer para el presente ejercicio 2017, la autorización contenida en los Decretos19985 (sic) publicado en el periódico oficial "El Estado de Jalisco" el día 22 de mayo de 2003, modificado por similares No. 20564, publicado en el periódico oficial "El Estado de Jalisco" el día 24 de julio de 2004, No. 21915/LVIII/07, publicado en el periódico oficial "El Estado de Jalisco" el día 9 de octubre de 2007, No. 23528/LIX/11 publicado en el periódico oficial "El Estado de Jalisco" el día 5 de mayo de 2011, No. 24505 publicado en el periódico oficial "El Estado de Jalisco" del 19 de noviembre de 2013, No. 24976/LX/14 publicado en el periódico oficial "El Estado de Jalisco" del 23 de septiembre de 2014 y No. 25801/LX/16 publicado en el periódico oficial "El Estado de Jalisco" el día 15 de mayo de 2016, correspondientes a la autorización para obtener financiamiento por el monto máximo señalado en dichos decretos y cuyo destino serán el pago de los rubros, obras y acciones de inversión pública productiva dentro de los Programas de Saneamiento o Abastecimiento, financiamiento que podrá contraerse directamente o bien, mediante el aval y solidaridad al Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado (SIAPA), organismo descentralizado al cual, una vez analizada su capacidad de pago, se autoriza el ejercicio de esta autorización legislativa para el financiamiento de las obras que correspondan a su ámbito de competencia, de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+OCTAVO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos extraordinarios a obtenerse, se autoriza al Poder Ejecutivo y al Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado (SIAPA) a ejercer para el presente ejercicio 2017, los recursos extraordinarios que se obtengan en términos de las operaciones de financiamiento contraídas con base en la autorización contenida en los Decretos 19985 (sic) publicado en el periódico oficial "El Estado de Jalisco" el día 22 de mayo de 2003, y sus modificatorios No. 20564, publicado en el periódico oficial "El Estado de Jalisco" el día 24 de julio de 2004, No. 21915/LVIII/07, publicado en el periódico oficial "El Estado de Jalisco" el día 9 de octubre de 2007, No. 23528/LIX/11 publicado en el periódico oficial "El Estado de Jalisco" el día 5 de mayo de 2011, No. 24505, publicado en el periódico oficial "El Estado de Jalisco" el día 19 de noviembre de 2013, No. 24976/LX/14 publicado en el periódico oficial "El Estado de Jalisco" del 23 de septiembre de 2014 y N° 25801/LX/16, publicado en el periódico oficial "El Estado de Jalisco" el día 15 de marzo de 2016, operaciones que son las siguientes:
+
+a) Contrato de Crédito Simple celebrado con Banco Nacional de Obras y Servicios Públicos S.N.C., de fecha 11 de julio del 2005, por un monto de hasta $1,750’000,000.00 (Mil setecientos cincuenta millones de pesos 00/100 M. N.), con número de registro 132/2005 de fecha 12 de julio de 2005.
+
+b) Contrato de Crédito Simple celebrado con Banco Nacional de Obras y Servicios Públicos S.N.C., de fecha 14 de febrero de 2007, por un monto de hasta $1,920’000,000.00 (Mil novecientos veinte millones de pesos 00/100 M. N.), con número de registro 017/2007 de fecha 20 de febrero de 2007.
+
+c) Contrato de Crédito Simple celebrado con Banco Nacional de México, S. A., integrante del Grupo Financiero Banamex (Banamex) de fecha 17 de agosto del 2016, por un monto de hasta $800’000,000.00 (Ochocientos millones de pesos 00/100 M. N.), con número de registro P14-1016044 de fecha 20 de octubre de 2016.
+
+En relación al financiamiento adquirido mediante el Contrato de Crédito Simple celebrado con Banco Nacional de México, S. A., integrante del Grupo Financiero Banamex (Banamex) de fecha 17 de agosto de 2016, por un monto de hasta $800’000,000.00 (Ochocientos millones de pesos 00/100 M. N.), previo análisis del destino de los recursos, se autoriza al SIAPA y al Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, el realizar los actos jurídicos necesarios a efecto de modificar el listado de obras que serán objeto de financiamiento para quedar como sigue:
+
+No. Obra de Drenaje Pluvial y Saneamiento
+
+1 Canal Pluvial Atemajac y colectores sanitarios tramo de Calzada Federalismo
+
+a Av. Alcalde
+
+2 Canal Pluvial Atemajac y colectores sanitarios tramo de Av. Alcalde a
+
+Periférico Norte
+
+3 Colector Pluvial Acueducto de 1.50 de diámetro, longitud aproximada de
+
+170 m.. incluye tramo en cajón de concreto para cruce de carril central de
+
+Av. Patria.
+
+4 Colector Pluvial Felipe Zetter, 0.60 m. a 1.22 m. de diámetro,
+
+longitud aproximada de 523 m.; y de 1.22 m. de diámetro con
+
+descarga a canal Santa Catalina longitud aproximada de 686 m.
+
+5 Colector Pluvial Copérnico, diámetros desde 2.13 m. a 1.50 m., con una
+
+longitud de 2,600 m.
+
+6 Ampliación del vaso regulador El Deán (400,000 metros cúbicos) profundidad
+
+promedio de 4.80 m. y separación de flujos en colonia Ferrocarril.
+
+7 Colector Pluvial Aviación de 1.50 m. de diámetro con una longitud de
+
+1,100 m.
+
+8 Depósito Pluvial San Andrés (Parque San Rafael) con capacidad de 21,343
+
+metros cúbicos.
+
+9 Desazolve del canal Santa Catalina
+
+10 Desazolve del canal Patria, tramo de Av. Acueducto a Av. Federalismo
+
+11 Colector Pluvial Arcos del Milenio.
+
+12 Colector Pluvial López de Legazpi.
+
+13 Actualización de proyectos y evaluaciones socioeconómicas.
+
+Las obras anteriores, se reconocen y entenderán incluidas en el Programa de Saneamiento de la Zona Metropolitana de Guadalajara, con el rubro específico de Plan Integral del Manejo de Inundaciones; en caso (sic) nuevas economías o ajuste en costo de las obras anteriores se autoriza que, en su caso, se inviertan en otras obras o acciones que tengan el mismo objeto, prevención de inundaciones o saneamiento de aguas, el SIAPA por conducto de su Director General deberá informar a este Congreso las adecuaciones en costo a las obras autorizadas y la reasignación presupuestal respectiva, previo acuerdo de su Junta de Gobierno y dentro de los 30 días siguientes a que se realice la reasignación correspondiente.
+
+El presente artículo transitorio no podrá interpretarse como la autorización para el acceso a mayor financiamiento o para la contratación de nuevas operaciones de crédito.
 
 NOVENO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos extraordinarios a obtener, se autoriza al Gobierno del Estado de Jalisco a afectar durante el ejercicio fiscal de 2017, las participaciones presentes y futuras que en ingresos federales le correspondan del Fondo General de Participaciones (Ramo 28), como fuente de pago de las cantidades dispuestas al amparo del crédito en cuenta corriente, irrevocable y contingente que sea contratada por el organismo público descentralizado denominado Sistema del Tren Eléctrico Urbano con el aval del Estado de Jalisco, en el monto, plazo, destino y los demás términos establecidos en la autorización contenida en decreto 24819/LX/13, publicado en el periódico oficial "El Estado de Jalisco", el día 1 de febrero de 2014, de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 DÉCIMO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos se autoriza al Gobierno del Estado de Jalisco a ejercer durante el ejercicio fiscal de 2017, la contratación de la línea de crédito en cuenta corriente, irrevocable y contingente, de conformidad con el plazo y destino y demás condiciones y términos establecidos en el decreto 24996/LX/14, publicado en el periódico oficial "El Estado de Jalisco", el día 22 de noviembre de 2014, hasta por la cantidad de $280'000,000.00 (doscientos ochenta millones de pesos 00/100 M.N.), destinado al Programa de Apoyo Financiero para la Renovación y Modernización Integral del Transporte Público Colectivo en todas sus modalidades, así como afectar en garantía y fuente de pago las participaciones presentes y futuras que en ingresos federales le correspondan del Fondo General de Participaciones (Ramo 28)y/o (sic) de los recursos a que se refiere el artículo 4o.-A, fracción I, de la Ley de Coordinación Fiscal, respecto de las cantidades dispuestas al amparo del crédito en cuenta corriente, irrevocable y contingente que sea contratada, de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-DÉCIMO PRIMERO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos se autoriza al Gobierno del Estado de Jalisco a ejercer durante el ejercicio fiscal de 2017, la contratación de la línea de crédito en cuenta corriente, irrevocable y contingente, de conformidad con el plazo y destino y demás condiciones y términos establecidos en el decreto 24996/LX/14, publicado en el periódico oficial "El Estado de Jalisco", el día 22 de noviembre de 2014, hasta por la cantidad de $100'000,000.00 (Cien millones de pesos 00/100 M.N.),destinado al Programa de Apoyo Financiero para la Renovación y Modernización Integral del Transporte Público de Taxis en todas sus modalidades, así como afectar en garantía y fuente de pago el porcentaje necesario y suficiente de las participaciones presentes y futuras que en ingresos federales le correspondan del Fondo General de Participaciones (Ramo 28) y/o de los recursos a que se refiere el artículo 4o.-A, fracción I, de la Ley de Coordinación Fiscal respecto de las cantidades dispuestas al amparo del crédito en cuenta corriente, irrevocable y contingente que sea contratada, de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+DÉCIMO PRIMERO. Una vez analizada la capacidad de pago del Estado y el destino de los recursos se autoriza al Gobierno del Estado de Jalisco a ejercer durante el ejercicio fiscal de 2017, la contratación de la línea de crédito en cuenta corriente, irrevocable y contingente, de conformidad con el plazo y destino y demás condiciones y términos establecidos en el decreto 24997/LX/14, publicado en el periódico oficial "El Estado de Jalisco", el día 22 de noviembre de 2014, hasta por la cantidad de $100'000,000.00 (Cien millones de pesos 00/100 M.N.),destinado al Programa de Apoyo Financiero para la Renovación y Modernización Integral del Transporte Público de Taxis en todas sus modalidades, así como afectar en garantía y fuente de pago el porcentaje necesario y suficiente de las participaciones presentes y futuras que en ingresos federales le correspondan del Fondo General de Participaciones (Ramo 28) y/o de los recursos a que se refiere el artículo 4o.-A, fracción I, de la Ley de Coordinación Fiscal respecto de las cantidades dispuestas al amparo del crédito en cuenta corriente, irrevocable y contingente que sea contratada, y/o el monto o porcentaje necesario de ingresos remanentes de afectaciones previas de ingresos coordinados o bien, ingresos propios, esto de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 DÉCIMO SEGUNDO. En caso de que el Gobierno del Estado de Jalisco perciba durante el 2017, provenientes de Instituciones Financieras, recursos adicionales a los dispuestos en la fracción VII del artículo 1° de ésta Ley, por el Financiamiento del Programa de Abastecimiento de Agua para la zona conurbada de Guadalajara, éstos serán ingresados a la Hacienda Pública Estatal, como Financiamiento y se destinarán exclusivamente, al referido programa, para lo cual el Gobierno del Estado los considerará como parte del monto total del Financiamiento al Proyecto.
 
@@ -2275,6 +2339,8 @@ ROBERTO LÓPEZ LARA
 
 > <small>[N. DE E. VÉANSE ANEXOS EN EL P.O. 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 95 A LA 105.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LOS ANEXOS, P.O. 26 DE OCTUBRE DE 2017, PÁGINA 6.]</small>
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE ENERO DE 2017.
@@ -2288,3 +2354,9 @@ P.O. 21 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26298/LXI/17 QUE REFORMAN LOS ARTÍCULOS 12 FRACCIÓN III, 17 FRACCIÓN I, INCISOS A) TERCER PÁRRAFO, B) SEGUNDO PÁRRAFO, C) SEGUNDO PÁRRAFO, J) SEGUNDO PÁRRAFO Y 18 TERCER PÁRRAFO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, EJERCICIO FISCAL 2017.”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26498/LXI/17 QUE REFORMA LOS ARTÍCULOS OCTAVO Y DÉCIMO PRIMERO TRANSITORIOS, ASÍ COMO EL ANEXO F DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2017”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
