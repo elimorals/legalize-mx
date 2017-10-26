@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2017-09-26"
+last_updated: "2017-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -319,7 +319,7 @@ IV. Devolver con observaciones a la Auditoría Superior, previa aprobación del 
 
 V. Proponer al Pleno del Congreso del Estado, los proyectos de dictamen de decreto que aprueban o rechazan una cuenta pública o los estados financieros de las entidades auditables y elevar a crédito fiscal las observaciones de la Auditoría Superior que hayan ocasionado daño al erario o patrimonio público;
 
-VI. Al dictaminar las cuentas públicas, ejercer las facultades de fiscalización a que se refiere esta ley, de tal manera que pueda ser calificado el desempeño de la gestión pública, con base a los indicadores de medición objetivos, que de manera fundada y motivada propicien una mejora gubernamental y un mayor impacto de los programas de gobierno en el beneficio colectivo;
+VI. (DEROGADA POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 26495/LXI/, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2017)
 
 VII. Expedir certificaciones de los documentos que obren en su archivo, por conducto de su Presidente;
 
@@ -511,43 +511,11 @@ Las autoridades concurrentes podrán celebrar convenios de colaboración a fin d
 
 ###### Artículo 28.
 
-Al frente de la Auditoría Superior habrá un Auditor Superior, designado por el voto de las dos terceras partes de los diputados integrantes del Congreso del Estado.
-
-Durará en su encargo siete años, pudiendo ser reelecto por una sola vez, para el periodo inmediato, y podrá ser removido, exclusivamente, por las causas graves que previene el Título Octavo de la Constitución Política y la Ley de Responsabilidades de los Servidores Públicos, ambos, ordenamientos del Estado de Jalisco.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 26495/LXI/, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2017)
 
 ###### Artículo 29.
 
-Para ser titular de la Auditoría Superior, se requiere cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, ser nativo del Estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
-
-II. Tener cuando menos treinta años cumplidos al día de su designación;
-
-III. Poseer el día de su designación, con antigüedad mínima de cinco años, título profesional de licenciatura en Contaduría Pública, Derecho o Abogacía, Administración Pública o Economía, expedido por la autoridad o institución legalmente facultada para ello;
-
-IV. Tener título profesional registrado en la Dirección de Profesiones del Estado;
-
-V. Tener, al momento de su designación, experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
-
-VI. No haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro considerado como grave por la legislación penal, lo inhabilitará para el cargo cualquiera que haya sido la pena;
-
-VII. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
-
-VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal Electoral, Integrante del Consejo de la Judicatura, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
-
-IX. No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado Federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
-
-X. No tener, al momento de su designación, parentesco de consanguinidad en línea recta y colateral hasta el cuarto grado ni de afinidad, con los titulares de las entidades sujetas auditables y fiscalizables;
-
-XI. No haber desempeñado cargo de elección popular en el Estado en los tres años anteriores a su designación;
-
-XII. No haber sido, durante los últimos seis años, miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber formado parte de los órganos electorales con derecho a voto durante dicho lapso, y
-
-XIII. Durante el ejercicio de su encargo, el Auditor Superior no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados.
-
-El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad, honestidad, confiabilidad y experiencia técnica en la materia.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 26495/LXI/, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2017)
 
 ###### Artículo 30.
 
@@ -555,23 +523,7 @@ Para la designación del Auditor Superior, la Comisión, emitirá una convocator
 
 ###### Artículo 31.
 
-De los candidatos propuestos o de las solicitudes en lo particular para ocupar el cargo de Auditor Superior, se deberá verificar que cumplan con los requisitos establecidos por esta ley, además se deberá realizar un análisis detallado y valorado de cada uno de los aspirantes, debiendo contemplar:
-
-I. Los antecedentes académicos;
-
-II. Experiencia laboral en materia de esta ley;
-
-III. Aprobar con un mínimo 80 sobre 100 un examen por oposición que debe contemplar:
-
-a) Conocimientos jurídicos del sistema jurídico jalisciense y nacional, y
-
-b) Conocimientos de administración pública, economía, de contabilidad y gasto público, auditoría, responsabilidades y fiscalización.
-
-De los aspirantes que hayan aprobado serán sometidos a la consideración de la Asamblea, remitiendo los expedientes para acreditar que los ciudadanos planteados cumplen con los requisitos establecidos por esta ley y que tienen aptitud para ocupar dicho cargo.
-
-El Congreso del Estado, por acuerdo de las dos terceras partes de los diputados integrantes de la Legislatura, elegirá al Auditor Superior, dentro de un término improrrogable de treinta días. En caso de que el Congreso no resolviere dentro de dicho término, se entenderá que rechaza la totalidad de los candidatos propuestos.
-
-En caso de que el Congreso rechace la totalidad de los candidatos propuestos, la Comisión someterá una nueva lista, integrada por una terna de los candidatos que hayan obtenido mayor cantidad de votos, en un término improrrogables de treinta días. El Congreso del Estado, por acuerdo de las dos terceras partes de los diputados integrantes, elegirá al Auditor Superior.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 26495/LXI/, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2017)
 
 ###### Artículo 32.
 
@@ -1647,7 +1599,7 @@ P.O. 4 DE MARZO DE 2017.
 
 P.O. 26 DE SEPTIEMBRE DE 2017.
 
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “DECRETO 26434/LXI/17, QUE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y ABROGA LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "DECRETO 26434/LXI/17, QUE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y ABROGA LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1655,7 +1607,13 @@ Se abroga la Ley de Fiscalización Superior y Auditoría Pública del Estado de 
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+> <small>(REFORMADO POR DECRETO NÚMERO 26495/LXI/17, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco"; con excepción de:
+
+I. El articulo 17 de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios, que entrará en vigor al día 23 de octubre de 2017; y
+
+II. En consecuencia, se derogan los artículos 15, fracción VI; 28; 29; y 31 de la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco y sus Municipios, con efectos a partir del día 23 de octubre de 2017.
 
 SEGUNDO. Las cuenta (sic) públicas 2017 y anteriores se regirán conforme a la Ley derogada mediante el presente decreto.
 
@@ -1672,3 +1630,11 @@ Dentro de los tres meses anteriores a que termine el periodo de tres años que s
 SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 SÉPTIMO. El Comité Coordinador del Sistema Estatal Anticorrupción deberá expedir lineamientos, bases y principios que garanticen la óptima armonización e implementación del Sistema Estatal Anticorrupción en un plazo no mayor a tres años.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26495/LXI/17 QUE REFORMA LOS ARTÍCULOS TRANSITORIOS, PRIMERO DEL DECRETO NÚMERO 26433/LXI/17 Y PRIMERO DEL DECRETO NÚMERO 26434/LXI/17”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
