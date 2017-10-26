@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-tribunal-de-justicia-administrativa-del-123514
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-26"
-last_updated: "2017-09-26"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección IV al Número 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -617,7 +619,13 @@ II. Ejercer libremente la profesión de abogado, patrocinar asuntos judiciales p
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco"; con excepción de:
+
+I. El artículo 24 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco, que entrará en vigor al día 23 de octubre de 2017, y
+
+II. En consecuencia, se derogan los artículos 60, 61 y 62 de la Ley Orgánica del Poder Judicial del Estado de Jalisco, con efectos a partir del día 23 de octubre de 2017.
 
 SEGUNDO. El Tribunal de lo Administrativo del Estado de Jalisco, perteneciente al Poder Judicial del Estado, se transforma en el Tribunal de Justicia Administrativa del Estado de Jalisco, como organismo constitucional autónomo, para todos los efectos jurídicos a que haya lugar.
 
@@ -682,3 +690,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26495/LXI/17 QUE REFORMA LOS ARTÍCULOS TRANSITORIOS, PRIMERO DEL DECRETO NÚMERO 26433/LXI/2017 Y PRIMERO DEL DECRETO NÚMERO 26434/LXI/17”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
