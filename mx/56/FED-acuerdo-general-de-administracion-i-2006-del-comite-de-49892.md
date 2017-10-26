@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2006-del-comite-de-49892"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-01-30"
-last_updated: "2006-01-30"
+last_updated: "2017-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-01-30"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION I/2006 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [PLAN DE PENSIONES COMPLEMENTARIAS DE LOS SERVIDORES PUBLICOS DE MANDO SUPERIOR]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN, DE SIETE DE SEPTIEMBRE DE DOS MIL DIECISIETE, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA SERVIDORES PÚBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN I/2006, DEL TREINTA DE ENERO DE DOS MIL SEIS, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE LOS SERVIDORES PÚBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: TOMO I, MARZO DE 2014, PÁGINA 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIII, Febrero de 2006, página 1985.
 
@@ -542,3 +544,23 @@ TERCERO.- En ningún caso el monto de la pensión complementaria, adicionada a l
 CUARTO.- Intégrese de inmediato el texto de esta reforma al Acuerdo General de Administración 1/2006, del treinta de enero de dos mil seis, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el Plan de Pensiones Complementarias de los Servidores Públicos de Mando Superior de este Alto Tribunal.
 
 QUINTO.- Publíquese el engrose de este acuerdo en el Semanario Judicial de la Federación y su Gaceta, y para su difusión en medios electrónicos.
+
+D.O.F. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN, DE SIETE DE SEPTIEMBRE DE DOS MIL DIECISIETE, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA SERVIDORES PÚBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. Este Acuerdo entrará en vigor al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+TERCERO. Se abroga el Acuerdo General de Administración I/2006, del treinta de enero de dos mil seis que regula el plan de pensiones complementarias de los servidores públicos de mando superior de este Alto Tribunal.
+
+CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en este Acuerdo.
+
+QUINTO. El Comité de Gobierno podrá modificar el contenido del presente Acuerdo cuando así lo requiera el funcionamiento del Plan.
+
+SEXTO. Las modificaciones que en lo sucesivo se realicen al presente Acuerdo deberán incorporarse al texto de este instrumento, a efecto de que se sustituyan o adicionen en el articulado la o las disposiciones que se modifiquen, las que deberán suprimirse.
+
+A los acuerdos generales que tengan por objeto modificar este Acuerdo no se les asignará número alguno, bastando para efectos de su identificación, con la fecha de su publicación en el Diario Oficial de la Federación.
+
+SÉPTIMO. Las personas que a la fecha de entrada en vigor de este Acuerdo estén recibiendo una pensión complementaria, la seguirán recibiendo bajo los términos, condiciones y regulación con las que les fue otorgada aplicando el artículo 28 de este Acuerdo.
