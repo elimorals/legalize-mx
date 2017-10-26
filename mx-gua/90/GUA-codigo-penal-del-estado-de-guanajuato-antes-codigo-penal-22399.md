@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2017-10-19"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -99,7 +99,7 @@ Quienes al realizar una conducta prevista como delito en las leyes penales sean 
 
 ###### Artículo 7o.
 
-Cuando se realice una conducta tipificada penalmente por otra ley y que deban aplicar los tribunales del Estado, será esa la que se aplique, observándose, en su caso, las disposiciones generales de este Código en lo previsto por aquélla.
+Cuando se realice una conducta tipificada penalmente por otra ley y que deban aplicar los tribunales del Estado, será esa la que se aplique, observándose, en su caso, las disposiciones generales de este Código en lo no previsto por aquélla.
 
 ## TÍTULO SEGUNDO. EL DELITO
 
@@ -1481,13 +1481,17 @@ IV.- Se dé tormento al ofendido.
 
 V.- Se causen por envenenamiento, contagio, estupefacientes o psicotrópicos.
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+VI.- Se cometan en agravio de periodistas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado, si tuvieren como finalidad obstaculizar o impedir el ejercicio de la libertad de expresión del ofendido, o en razón del desempeño de su profesión.
+
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
 
-VI.- Se causen por la asistencia y con motivo de la realización de un espectáculo público, bien sea con inmediatez previa a su desarrollo, durante éste o con posterioridad inmediata al mismo.
+VII.- Se causen por la asistencia y con motivo de la realización de un espectáculo público, bien sea con inmediatez previa a su desarrollo, durante éste o con posterioridad inmediata al mismo.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
 
-En el caso a que se refiere la fracción VI, además de las punibilidades previstas por los artículos 140 y 150 de este Código, según corresponda, se aplicará la relativa a la prohibición de asistir a eventos con fines de espectáculo público hasta por un tiempo igual al de la pena de prisión impuesta.
+En el caso a que se refiere la fracción VII, además de las punibilidades previstas por los artículos 140 y 150 de este Código, según corresponda, se aplicará la relativa a la prohibición de asistir a eventos con fines de espectáculo público hasta por un tiempo igual al de la pena de prisión impuesta.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2523,7 +2527,7 @@ a) La víctima por razón de su edad, discapacidad o cualquiera otra circunstanc
 
 b) La víctima presente lesiones que por lo menos tarden en sanar más de quince días, dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular o pongan en peligro la vida;
 
-c) La víctima sea una mujer embarazado o durante los tres meses siguientes al parto;
+c) La víctima sea una mujer embarazada o durante los tres meses siguientes al parto;
 
 d) Se cometa con la participación de dos o más personas;
 
@@ -2681,17 +2685,17 @@ La misma sanción se impondrá a los administradores o encargados de agencias fu
 
 ## TÍTULO TERCERO. DE LOS DELITOS CONTRA LAS VÍAS DE COMUNICACIÓN DE USO PÚBLICO Y VIOLACIÓN DE CORRESPONDENCIA
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO. DELITO CONTRA LA LIBRE EXPRESIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 230.
 
 A quien destruya, deteriore, obstruya, impida o altere el funcionamiento de cualquier vía de comunicación de uso público, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-### CAPÍTULO II. SEDICIÓN
+### CAPÍTULO I. REBELIÓN
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 231.
 
@@ -2707,7 +2711,7 @@ Se requerirá querella de parte ofendida cuando se trate de ascendientes y desce
 
 ## TÍTULO CUARTO. DE LOS DELITOS DE FALSIFICACIÓN Y CONTRA LA FE PÚBLICA
 
-### CAPÍTULO III. MOTÍN
+### CAPÍTULO II. SEDICIÓN
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2721,7 +2725,7 @@ II.- Enajene, adquiera o haga uso de sellos o marcas oficiales falsos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO IV. TERRORISMO
+### CAPÍTULO III. MOTÍN
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2731,7 +2735,7 @@ A quien con el fin de obtener provecho o causar daño imite o simule un document
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impondrá prisión de tres a diez años y de treinta a cien días multa.
+Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impodrá (sic) prisión de tres a diez años y de treinta a cien días multa.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2777,7 +2781,9 @@ VI.- Adquiera, utilice o posea equipos electromagnéticos o electrónicos para s
 
 Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
 
-### CAPÍTULO V. REGLAS GENERALES
+### CAPÍTULO IV. TERRORISMO
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 235.
 
@@ -2785,11 +2791,9 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE MARZO DE 2016)</small>
 
+### CAPÍTULO V. REGLAS GENERALES
+
 ### CAPÍTULO I. COHECHO
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO II. PECULADO
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2797,9 +2801,19 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO III. CONCUSIÓN
+### CAPÍTULO II. PECULADO
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 240
+
+d.- Se aplicará de nueve meses a cuatro años de prisión y de doscientos a trescientos días multa, a quien:
+
+I.- Utilizando violencia evite se ejerza la actividad periodística.
+
+II.- Obstaculice, impida o reprima la libertad de expresión.
+
+El presente delito se perseguirá por querella.
 
 ###### Artículo 236.
 
@@ -2831,7 +2845,7 @@ III.- Posea material de pornografía infantil, que no tenga otro destino que su 
 
 ###### Artículo 237.
 
-A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o a un incapaz, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, a realizar una conducta sexual, al uso de substancias de cualquier naturaleza dañosa a la salud, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
+A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o a un incapaz, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, a realizar una conducta sexual, al uso de substancias de cualquier naturaleza dañosas a la salud, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2847,9 +2861,9 @@ Las sanciones que señalan los artículos anteriores se aumentarán hasta en una
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO III. CONCUSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 239
 
@@ -2861,13 +2875,13 @@ a.- Además de las sanciones impuestas a quienes incurran en los delitos descrit
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
+### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 240.
 
-A quien explote el cuerpo de otra persona por medio del comercio camal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de cinco a treinta días multa.
+A quien explote el cuerpo de otra persona por medio del comercio carnal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de cinco a treinta días multa.
 
 Si la víctima fuere menor de dieciocho años o incapaz, se castigará con pena de cuatro a ocho años de prisión y de cuarenta a ochenta días multa. Si emplea la violencia, las penas se aumentarán hasta una mitad más.
 
@@ -2883,23 +2897,27 @@ b.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+## TÍTULO SÉPTIMO. DEL DELITO CONTRA LA LIBRE EXPRESIÓN
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO VI. ABANDONO DE FUNCIONES PÚBLICAS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+#### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
+
+## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
+
 ### CAPÍTULO VII. FALSEDAD ANTE UNA AUTORIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
-#### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
-
-## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
-
-### CAPÍTULO VIII. VARIACIÓN DE NOMBRE O DOMICILIO
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 241.
 
@@ -2915,7 +2933,7 @@ III.- Separar de sus cargos a alguno de los funcionarios del Estado, mencionados
 
 No se aplicará sanción por el delito de rebelión a quien habiéndose alzado deponga las armas antes de ser tomado prisionero.
 
-### CAPÍTULO IX. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
+### CAPÍTULO VIII. VARIACIÓN DE NOMBRE O DOMICILIO
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2923,23 +2941,23 @@ No se aplicará sanción por el delito de rebelión a quien habiéndose alzado d
 
 A quienes en forma tumultuaria y violenta resistan o ataquen a la autoridad para impedir u obstaculizar el ejercicio de sus funciones, se les aplicará de tres meses a tres años de prisión y de tres a treinta días multa.
 
-### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
+### CAPÍTULO IX. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 244.
 
 A quienes para ejercitar un derecho o pretendido derecho tumultuariamente empleen violencia en las personas o en las cosas, se les aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
 
-### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
+### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 245.
 
 A quien por cualquier medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un sector de ella, para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación, se le impondrá prisión de tres a quince años y de treinta a ciento cincuenta días multa.
 
-### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2949,9 +2967,9 @@ A quienes sean responsables de los delitos previstos en este título, se les san
 
 Tratándose de personas extranjeras se aumentará hasta un tercio de la punibilidad prevista para cada delito.
 
-## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
+## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
 
-### CAPÍTULO XIII. ABUSO DE AUTORIDAD
+### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2961,17 +2979,17 @@ Al servidor público que por sí o por medio de otro solicite, reciba o acepte p
 
 A quien dé o haga promesas, dádivas o ventajas a un servidor público para que haga u omita un acto lícito o ilícito relacionado con sus funciones, se le aplicará la misma pena de prisión establecida en el párrafo anterior.
 
-### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
+### CAPÍTULO XIII. ABUSO DE AUTORIDAD
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 248.
 
 Al servidor público que disponga de un bien que hubiere recibido en razón de su cargo, se le impondrá de dos a diez años de prisión y de veinte a cien días multa; así como destitución del empleo o cargo e inhabilitación por el mismo término de la pena privativa de libertad impuesta.
 
-### CAPÍTULO XV. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 249.
 
@@ -2979,7 +2997,9 @@ Al servidor público que con tal carácter, exija por sí o por medio de otro, d
 
 Si lo exigido indebidamente se convirtiera en provecho propio o de un particular, la pena será de tres a ocho años de prisión y de treinta a ochenta días multa, destitución e inhabilitación hasta seis años para obtener otro cargo público.
 
-### CAPÍTULO XVI. DISPOSICIONES COMUNES
+### CAPÍTULO XV. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 250.
 
@@ -2991,9 +3011,7 @@ Para efectos del párrafo anterior, se computarán entre los bienes que adquiera
 
 Las mismas sanciones se aplicarán a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido ilícitamente, a sabiendas de esa circunstancia.
 
-### CAPÍTULO I. TORTURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+### CAPÍTULO XVI. DISPOSICIONES COMUNES
 
 ###### Artículo 251.
 
@@ -3001,23 +3019,27 @@ A quien indebidamente se atribuya y ejerza funciones públicas, se le sancionar�
 
 Se sancionará con prisión de tres a doce años y de treinta a ciento veinte días multa a quien indebidamente se atribuya y ejerza funciones de seguridad pública.
 
-### CAPÍTULO II. INTIMIDACIÓN
+### CAPÍTULO I. TORTURA
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 252.
 
 A quien injustificadamente abandone las funciones públicas que legalmente tenga conferidas, se le sancionará con prisión de seis meses a dos años y de cinco a veinte días multa.
 
-### CAPÍTULO III. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO II. INTIMIDACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 253.
 
 A cualquier persona que en la promoción, declaración, informe, peritaje, traducción o interpretación que haga ante la autoridad competente se conduzca falsamente, oculte o niegue intencionadamente la verdad, se le impondrá de dos a ocho años de prisión y de veinte a ochenta días multa.
 
 Lo previsto en este artículo no es aplicable a quien tenga el carácter de inculpado.
+
+### CAPÍTULO III. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO IV. FRAUDE PROCESAL
 
@@ -3031,23 +3053,19 @@ Lo previsto en este artículo no es aplicable a quien tenga el carácter de incu
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
+
 ### CAPÍTULO VII. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
-
-### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 254.
 
 A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre o domicilio, designe otro distinto, altere las señales materiales que lo individualizan o niegue de cualquier modo el verdadero, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
-### CAPÍTULO IX. ENCUBRIMIENTO
+### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 255.
 
@@ -3055,9 +3073,9 @@ A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
+### CAPÍTULO IX. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 256.
 
@@ -3065,9 +3083,9 @@ A quien empleando la violencia física o moral se oponga a que una autoridad eje
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO I. DEFRAUDACIÓN FISCAL
+### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 257.
 
@@ -3087,21 +3105,21 @@ III.- Valiéndose de la información que posea por razón de su empleo, cargo o 
 
 A quien con actos materiales entorpezca o se oponga a la ejecución de obras o trabajos públicos legalmente ordenados por una autoridad, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
 
-### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
+### CAPÍTULO I. DEFRAUDACIÓN FISCAL
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 260.
 
 A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
 ###### Artículo 261.
 
 Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión, de veinte a ochenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
 
-### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### Artículo 262.
 
@@ -3115,9 +3133,9 @@ En todo caso, la reparación del daño referida en la fracción VI del artículo
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 2 DE NOVIEMBRE DE 2001, SE APRECIA LA EXISTENCIA DE ESTE CAPÍTULO.
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 262
 
@@ -3131,7 +3149,7 @@ b.- Si se suspende el ocultamiento de manera espontánea dentro de las setenta y
 
 > <small>N. DE E. EL CONTENIDO DE ESTE CAPÍTULO EXISTÍA DESDE EL TEXTO ORIGINAL EN EL CAPÍTULO XV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 12 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER CAPÍTULO XVI.</small>
 
-### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3139,11 +3157,11 @@ b.- Si se suspende el ocultamiento de manera espontánea dentro de las setenta y
 
 Para los efectos de este Código, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados del Estado y de los municipios y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal o en organismos descentralizados, desconcentrados, autónomos, fideicomisos públicos o empresas de participación estatal mayoritaria u organizaciones y sociedades asimiladas a éstas.
 
-## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL
+## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
-### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 264.
 
@@ -3162,6 +3180,10 @@ No se considerarán causas excluyentes de responsabilidad del delito de tortura 
 No se considerarán tortura los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentes a éstas o a un acto legítimo de autoridad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
+
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 264 Bis.
 
@@ -3315,9 +3337,7 @@ A quien para hacer efectivo un derecho o pretendido derecho que deba ejercitar p
 
 Este delito se perseguirá por querella.
 
-## TÍTULO SEXTO. DE LOS DELITOS CONTRA EL AMBIENTE
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL
 
 ###### Artículo 279.
 
@@ -3348,6 +3368,10 @@ No se impondrá pena alguna a quien hubiere omitido el pago total o parcial de a
 ###### Artículo 283.
 
 La autoridad fiscal sólo podrá otorgar el perdón cuando las personas procesadas por delitos contra la hacienda pública, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien, a su juicio quede debidamente garantizado el interés fiscal.
+
+## TÍTULO SEXTO. DE LOS DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 284.
 
@@ -3487,7 +3511,7 @@ III.- Descargue o deposite residuos de manejo especial, residuos sólidos urbano
 
 IV.- Ocasione un incendio que dañe a los recursos, vegetación, cuencas hidrológicas o ecosistemas forestales.
 
-Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le in habilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
+Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le inhabilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3555,7 +3579,7 @@ I.- La muerte o mutilación de un animal vertebrado resultado de actividades lí
 
 II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
 
-III.- La muerte o mutilación de un animal vertebrado par causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
+III.- La muerte o mutilación de un animal vertebrado por causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
 
 IV.- El sacrificio de un animal vertebrado para consumo humano.
 
@@ -3776,3 +3800,9 @@ P.O. 19 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 211, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO DEL LIBRO SEGUNDO; Y SE ADICIONA UN ARTÍCULO 176-A DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. EI presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 216, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 153 EN SU ÚLTIMO PÁRRAFO; Y SE ADICIONAN UNA FRACCIÓN VI AL ARTÍCULO 153, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN VI PARA QUEDAR COMO VII; Y UN TÍTULO SÉPTIMO DENOMINADO “DEL DELITO CONTRA LA LIBRE EXPRESIÓN”, INTEGRADO POR EL CAPÍTULO ÚNICO DENOMINADO “DELITO CONTRA LA LIBRE EXPRESIÓN”, DENTRO DE LA SECCIÓN TERCERA DEL LIBRO SEGUNDO, QUE CONTENDRÁ UN ARTÍCULO 240-D, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
