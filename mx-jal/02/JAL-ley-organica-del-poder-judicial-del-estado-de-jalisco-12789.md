@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2017-09-26"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -3235,9 +3235,15 @@ P.O. 4 DE MARZO DE 2017.
 
 P.O. 26 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 26433/LXI/17, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 2, 3, 11, 15, 16 B, 16 F, 16 H, 16 J, 23, 136, 148, 178, 196, 197, 201, 203, 206, 207, 209, 213, 215, 238, 239, 240, 241 Y 243, Y DEROGA LOS ARTÍCULOS 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, Y 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO.”]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26433/LXI/17, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 2, 3, 11, 15, 16 B, 16 F, 16 H, 16 J, 23, 136, 148, 178, 196, 197, 201, 203, 206, 207, 209, 213, 215, 238, 239, 240, 241 Y 243, Y DEROGA LOS ARTÍCULOS 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, Y 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO".]
 
-PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco"; con excepción de:
+
+I. El artículo 24 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco, que entrará en vigor al (sic) día 23 de octubre de 2017; y
+
+II. En consecuencia, se derogan los artículos 60, 61 y 62 de la Ley Orgánica del Poder Judicial del Estado de Jalisco, con efectos a partir del día 23 de octubre de 2017.
 
 SEGUNDO. El Tribunal de lo Administrativo del Estado de Jalisco, perteneciente al Poder Judicial del Estado, se transforma en el Tribunal de Justicia Administrativa del Estado de Jalisco, como organismo constitucional autónomo, para todos los efectos jurídicos a que haya lugar.
 
@@ -3262,3 +3268,11 @@ Los procedimientos y asuntos no jurisdiccionales en curso ante el Pleno del Trib
 QUINTO. Se faculta al Poder Ejecutivo del Estado para realizar todas las adecuaciones y modificaciones reglamentarias, administrativas y presupuestales, así como las gestiones ante las autoridades fiscales federales, que sean necesarias para el cumplimiento del presente decreto, en cuanto a la transformación del Tribunal de lo Administrativo del Estado como órgano del Poder Judicial del Estado, en el tribunal de Justicia Administrativa del Estado como organismo constitucional autónomo, con el apoyo de la intervención que se requiera por parte de la representación oficial del propio Tribunal.
 
 SEXTO. En tanto el Tribunal de Justicia Administrativa del Estado no expida o armonice sus disposiciones reglamentarias en los términos del presente decreto, se estará en lo que no lo contradiga a lo que determine el Reglamento vigente.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26495/LXI/17 QUE REFORMA LOS ARTÍCULOS TRANSITORIOS, PRIMERO DEL DECRETO NÚMERO 26433/LXI/17 Y PRIMERO DEL DECRETO NÚMERO 26434/LXI/17”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
