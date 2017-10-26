@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2017-10-19"
+last_updated: "2017-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -643,15 +643,19 @@ Las ausencias del presidente municipal por licencia, permiso o causa justificada
 
 Presidente municipal provisional
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 53.
 
-En el caso de falta del presidente municipal por licencia, permiso o causa justificada por más de quince días y hasta por dos meses, el síndico o el primer síndico en los ayuntamientos en que existan dos, asumirá el cargo de presidente municipal provisional. Para ocupar el lugar del síndico o primer síndico se convocará al suplente.
+En el caso de falta del presidente municipal por licencia, permiso o causa justificada, por más de quince días y hasta por sesenta y cinco días, el síndico o el primer síndico en los ayuntamientos en que existan dos, asumirá el cargo de presidente municipal provisional. Para ocupar el lugar del síndico o primer síndico se convocará al suplente.
 
 Presidente municipal interino
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 54.
 
-La falta del presidente municipal por más de dos meses, por licencia, permiso o causa justificada, será cubierta por un presidente municipal interino, propuesto por los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones, el cual será designado por mayoría simple de votos.
+La falta del presidente municipal por más de sesenta y cinco días, por licencia, permiso o causa justificada, será cubierta por un presidente municipal interino, propuesto por los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones, el cual será designado por mayoría simple de votos.
 
 El presidente municipal interino entrará en funciones a partir del momento en que la licencia, permiso o causa justificada surta sus efectos legales.
 
@@ -1121,9 +1125,13 @@ VIII. De Contraloría; y
 
 IX. De Igualdad de Género.
 
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2017)</small>
 
-X. De Medio Ambiente.
+X. De Medio Ambiente; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+XI. De Derechos Humanos.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -1308,6 +1316,32 @@ IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
 V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
 
 VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+Atribuciones de la comisión de Derechos Humanos
+
+###### Artículo 83
+
+12. Atribuciones de la Comisión de Derechos Humanos:
+
+I. Conocer sobre los asuntos relacionados con derechos humanos en el Municipio;
+
+II. Proponer al Ayuntamiento campañas de difusión y promoción de derechos humanos;
+
+III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+IV. Promover y divulgar en el Municipio información en materia derechos humanos;
+
+V. Fomentar acciones en favor de una cultura de respeto, protección y garantía de los Derechos Humanos, en el marco del ámbito municipal;
+
+VI. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones;
+
+VII. Proponer la adecuación de reglamentos y la normativa aplicable en el municipio para reconocer, proteger, garantizar y difundir los derechos humanos que reconocen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Guanajuato, así como los contenidos en los tratados, convenciones o acuerdos internacionales que el Senado haya ratificado;
+
+VIII. Dar seguimiento a las recomendaciones que la Comisión Nacional de los Derechos Humanos o la Procuraduría de los Derechos Humanos del Estado de Guanajuato, formulen a las autoridades municipales; y
+
+IX. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 ### Capítulo X. De la Desaparición de Ayuntamientos o Concejos Municipales
 
@@ -1755,13 +1789,19 @@ VII. Seguridad Pública;
 
 VIII. Medio Ambiente;
 
-IX. Oficialía Mayor o la dependencia que realice funciones análogas a ésta;
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2017)</small>
 
-X. Unidad de acceso a la información pública; y
+IX. Derechos Humanos;
 
-XI. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+X. Oficialía Mayor o la dependencia que realice funciones análogas a ésta;
 
-Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a IX de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
+XI. Unidad de acceso a la información pública; y
+
+XII. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+
+Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a X de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
 
 Obligación de proporcionar información
 
@@ -3652,3 +3692,41 @@ SEGUNDO. El Congreso del Estado por conducto de la Junta de Enlace en Materia Fi
 Inclusión del concepto en leyes de ingresos
 
 TERCERO. Los Ayuntamientos del Estado deberán contemplar en sus leyes de ingresos para el ejercicio fiscal 2018 la tarifa del concepto de <<cartas de origen>>, señalado en el presente decreto.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 220, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XI, DEL ARTÍCULO 83, EL ARTÍCULO 83-12 Y UNA FRACCIÓN IX, RECORRIÉNDOSE LAS ACTUALES FRACCIONES IX, X, XI COMO X, XI, Y XII AL ARTÍCULO 124; SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 83 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 124 TODOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de la vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación normativa
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos contarán con un plazo de noventa días para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+Instalación de la comisión
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos que no cuenten con una Comisión ordinaria de Derechos Humanos, deberán instalarla, dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 221, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 53 Y 54 PRIMER PÁRRAFO DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Ajustes de los Ayuntamientos
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos tendrán el término de 60 días para realizar las modificaciones a la reglamentación municipal correspondiente, a fin de que sea congruente con el presente Decreto.
