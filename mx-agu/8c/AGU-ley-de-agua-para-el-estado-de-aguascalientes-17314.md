@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2017-07-03"
+last_updated: "2017-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -125,237 +127,51 @@ XXIV. Uso doméstico: la utilización del agua potable en casa-habitación para 
 
 XXV. Usuario: la persona, física o moral que utilice los servicios públicos.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 "A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE, SE DEROGA EL TÍTULO SEGUNDO DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EN FECHA 24 DE JULIO DE 2000, QUEDANDO EXTINTO EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DENOMINADO "INSTITUTO DEL AGUA DEL ESTADO".]</small>
+
+> <small>(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)</small>
+
 ## TITULO SEGUNDO. DEL INSTITUTO DEL AGUA DEL ESTADO
+
+> <small>(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 4o.
 
-Se crea el Instituto del Agua del Estado como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con domicilio en el Estado de Aguascalientes.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 5o.
 
-El Instituto tendrá las siguientes atribuciones:
-
-I. Proponer las acciones relativas a la planeación y programación hidráulica, en el ámbito de su competencia, que habrán de tratarse en el seno del Consejo de Cuenca correspondiente;
-
-II. Suplir al titular del Ejecutivo Estatal en los Consejos de Cuenca y acudir a las sesiones a las que sea invitado;
-
-III. Representar al Ejecutivo Estatal en las actividades de coordinación y concertación con cualesquiera órgano que tenga relación con los asuntos del agua;
-
-IV. Ejecutar obras de infraestructura hidráulica, en los términos de los convenios que al efecto se celebren con la Federación, Municipios y usuarios;
-
-V. Promover y fomentar el uso eficiente y preservación del agua, y la creación de una cultura del agua como recurso escaso y vital;
-
-VI. Asistir técnicamente a las unidades y distritos de riego, y de temporal; así como asesorar a los usuarios de riego con el objeto de propiciar un aprovechamiento racional del agua;
-
-VII. Apoyar en la consolidación y desarrollo técnico a las asociaciones de usuarios de distritos y unidades de riego y drenaje;
-
-VIII. Representar al Estado en los comités hidráulicos de los distritos de riego;
-
-IX. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos, en los términos de Ley;
-
-X. Promover el establecimiento, y difusión de la normatividad en lo referente a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado y saneamiento y su reuso;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
-
-X Bis.- Efectuar periódicamente en coordinación con los municipios, los estudios sobre del comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas y en caso de presentarse comportamientos dinámicos extraordinarios, deberá informar de manera inmediata a las dependencias y entidades competentes.
-
-XI. Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los prestadores de los servicios;
-
-XII. Promover y apoyar en la creación, desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores municipales e intermunicipales para la prestación de los servicios públicos;
-
-XIII. Promover la participación social y privada en la prestación de los servicios públicos;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-XIV. Promover y desarrollar programas de orientación permanente, con el objeto de preservar la calidad del agua, considerando las Normas Oficiales Mexicanas en materia de salud, y a su vez, propiciando su aprovechamiento racional;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-XV. Promover la potabilización del agua, considerando las Normas Oficiales Mexicanas en materia de salud, así como promover que el tratamiento de las aguas residuales se apegue a la normatividad correspondiente para evitar riesgos de contaminación al medio ambiente;
-
-XVI. Coadyuvar con los organismos operadores municipales e intermunicipales, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos para la prestación de los servicios públicos;
-
-XVII. Promover, apoyar y, en su caso, gestionar ante las dependencias y entidades federales, las asignaciones, concesiones y permisos correspondientes con objeto de dotar de agua a los centros de población y asentamientos humanos;
-
-XVIII. Conocer de todos los asuntos que en forma general o específica interesen al buen funcionamiento de los servicios públicos;
-
-XIX. Emitir opinión sobre el contenido de disposiciones jurídicas y proyectos de éstas relativas al recurso del agua y la prestación de los servicios públicos;
-
-XX. Prestar los servicios públicos en los términos de la Sección Cuarta del Capítulo III del Título Tercero de la presente Ley;
-
-XXI. Cuando preste los servicios públicos, determinar las cuotas y tarifas de conformidad con lo establecido en la Sección Tercera, Capítulo V, Título Tercero de esta Ley;
-
-XXII. Elaborar y mantener actualizado un padrón de la infraestructura utilizada para la prestación de los servicios públicos;
-
-XXIII. Recabar y mantener actualizada la información relacionada con los servicios públicos;
-
-XXIV. Promover la construcción y aprovechamiento de sistemas de riego tecnológicamente avanzados;
-
-XXV. Promover el diseño y construcción de la infraestructura destinada a la recarga, de acuerdo a la normatividad aplicable;
-
-XXVI. Promover la modernización de los distritos y unidades de riego;
-
-XXVII. Promover la utilización de las aguas residuales para el riego de áreas agrícolas y otros usos permitidos, previo el cumplimiento de las normas oficiales;
-
-XXVIII. Fomentar y promover actividades de investigación en materia del agua;
-
-XXIX. Establecer programas permanentes de capacitación, en forma paralela a la construcción de obras hidráulicas, con el fin de lograr un mejor aprovechamiento de las mismas;
-
-XXX. Vigilar el transporte y distribución de agua en vehículos cisternas, de conformidad con la norma oficial mexicana vigente y en coordinación con las autoridades competentes;
-
-XXXI. Participar en la elaboración de los planes y programas para la conservación y el uso sustentable de las aguas de jurisdicción estatal; y
-
-XXXII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado en los términos de Ley y de los convenios que al efecto se celebren.
-
-Para el ejercicio de sus atribuciones, el Instituto podrá celebrar acuerdos de coordinación con los Municipios.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 6o.
 
-El patrimonio del Instituto estará constituido por:
-
-I. Los activos que actualmente forman parte de su patrimonio;
-
-II. Las aportaciones federales, estatales y municipales que en su caso se realicen, así como las aportaciones que los organismos operadores municipales o intermunicipales lleven a cabo;
-
-III. Los ingresos por la prestación de los servicios públicos y reuso de las aguas residuales tratadas o por cualquier otro servicio que el Instituto preste al usuario;
-
-IV. Los créditos que obtenga para el cumplimiento de sus fines;
-
-V. Las donaciones, herencias, legados y demás aportaciones de los particulares, así como los subsidios, multas y adjudicaciones a favor del Instituto;
-
-VI. Los remanentes, frutos, utilidades, productos, intereses y ventas que obtengan de su propio patrimonio; y
-
-VII. Los demás bienes y derechos que adquiera por cualquier título legal.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 7o.
 
-El Instituto contará con:
-
-I. Un Consejo Directivo;
-
-II. Un Consejo Consultivo;
-
-III. Un Director General;
-
-IV. Un Comisario Público;
-
-V. El personal técnico y administrativo que requiera para su funcionamiento.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 8o.
 
-El Consejo Directivo se integrará por los siguientes miembros:
-
-I. El Gobernador del Estado, quien lo presidirá;
-
-II. Los titulares de las dependencias y organismos de la administración pública estatal competentes en materia de planeación, finanzas, infraestructura urbana, desarrollo rural, ecología, desarrollo económico y salud;
-
-III. Un representante del Ayuntamiento de la Capital y uno del órgano operador municipal;
-
-IV. Un representante de los usuarios, por cada uso del agua;
-
-V. Un representante común designado por los organismos operadores municipales o intermunicipales; y
-
-VI. El Presidente del Consejo Consultivo del Instituto.
-
-Los representantes a que se refiere la fracción IV serán designados en la forma y por el período que se señale en el Reglamento Interno del Instituto.
-
-Por cada representante propietario habrá un suplente.
-
-Se podrá invitar a formar parte del Consejo Directivo, con voz, pero sin voto, a representantes de las dependencias federales, estatales o municipales, así como a representantes de los usuarios que formen parte del Consejo Consultivo.
-
-El Consejo Directivo sesionará y tomará sus resoluciones conforme a las reglas que se establezcan en el Reglamento Interno.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 9o.
 
-Son facultades del Consejo Directivo:
-
-I. Analizar y aprobar la planeación y programación hidráulica, que le presente el Director General, que habrán de tratarse en el Consejo de Cuenca correspondiente;
-
-II. Analizar y aprobar las acciones, que someta a su consideración el Director General, necesarias para la ejecución de las funciones que transfiera la Federación al Gobierno de (sic) Estado, a través de los convenios de descentralización o coordinación que celebren;
-
-III. Otorgar poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la Ley, así como revocarlos y sustituirlos; además, en su caso, para efectuar los trámites para la desincorporación de los bienes del dominio público que se quieran enajenar;
-
-IV. Cuando preste los servicios públicos, determinar las cuotas y tarifas de conformidad con lo establecido en la Sección Tercera, Capitulo V, Titulo Tercero de esta Ley;
-
-V. Emitir opinión sobre disposiciones jurídicas, relativas a los servicios públicos;
-
-VI. En los casos en que preste los servicios públicos, analizar y aprobar el Proyecto Estratégico de Desarrollo del Instituto que le presente el Director General y supervisar que se actualice periódicamente;
-
-VII. Resolver en el ámbito de su competencia los asuntos que en materia de servicios públicos y reuso someta a su consideración el Director General;
-
-VIII. Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos y realización de las obras;
-
-IX. Administrar el patrimonio del Instituto y cuidar de su adecuado manejo;
-
-X. Conocer y, en su caso, autorizar el proyecto de programa y presupuesto anual de ingresos y egresos del Instituto, conforme a la propuesta formulada por el Director General;
-
-XI. Aprobar los proyectos de inversión del organismo;
-
-XII. Examinar y aprobar los estados financieros y los informes que deba presentar el Director General, previo conocimiento del informe del Comisario, y ordenar su publicación en el Periódico Oficial del Gobierno del Estado y en uno de los diarios locales de mayor circulación;
-
-XIII. Aprobar y expedir el Reglamento Interno del organismo y sus modificaciones, así como los manuales de organización, de procedimientos y de servicios al público;
-
-XIV. Nombrar y remover al Director General del Instituto, a propuesta del Gobernador del Estado; y
-
-XV. Las demás que le asignen la presente Ley y otras disposiciones.
-
-El Consejo Directivo del Instituto tendrá además las atribuciones necesarias para cumplir su objetivo, en los términos de la presente Ley y sesionará y operará de conformidad con su Reglamento Interno.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 10.
 
-El Director General del Instituto, además de los requisitos establecidos por la Ley de Entidades Paraestatales del Estado, deberá ser mayor de treinta y cinco años, con experiencia técnica, administrativa y profesional comprobada en materia del agua, y tendrá las siguientes atribuciones:
-
-I. Ejercer la representación legal del organismo, con las facultades que le confiere la ley y las demás disposiciones de la materia;
-
-II. Presentar al Consejo Directivo, para su aprobación, las acciones de planeación y programación hidráulica que habrán de tratarse en el Consejo de Cuenca correspondiente; así como aquéllas necesarias para la ejecución de las funciones que la Federación transfiera al Gobierno del Estado;
-
-III. Publicar en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación de la localidad, las cuotas y tarifas determinadas por el Consejo Directivo, cuando el Instituto preste los servicios públicos;
-
-IV. En los casos en que preste los servicios públicos elaborar el Proyecto Estratégico de Desarrollo del Instituto y actualizarlo periódicamente;
-
-V. Supervisar la ejecución del Proyecto Estratégico de Desarrollo aprobado por el Consejo Directivo;
-
-VI. Coordinar las actividades técnicas, administrativas y financieras del Instituto para lograr una mayor eficiencia, eficacia y economía del mismo;
-
-VII. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento del Instituto;
-
-VIII. Gestionar y obtener, conforme a la legislación aplicable y previa autorización del Consejo Directivo; el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
-
-IX. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo Directivo las erogaciones extraordinarias;
-
-X. Realizar el pago a la Federación de los derechos por el uso o aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación aplicable;
-
-XI. Ejecutar los acuerdos del Consejo Directivo;
-
-XII. Convocar a reuniones del Consejo Directivo, por propia iniciativa o a petición de dos o más miembros del Consejo Directivo o del Comisario;
-
-XIII. Rendir el informe anual de actividades del Instituto, así como rendir los informes sobre el cumplimiento de acuerdos del Consejo Directivo; resultados de los estados financieros; avance en las metas establecidas en el Proyecto Estratégico de Desarrollo, en los programas de operación autorizados por el propio Consejo Directivo; cumplimiento de los pogramas (sic) de obras y erogaciones en las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente período;
-
-XIV. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
-
-XV. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en la Sección Cuarta, del Capitulo V, del Titulo Tercero de esta Ley;
-
-XVI. Ordenar que se practiquen, en forma regular y periódica, muestreos y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para garantizar y optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
-
-XVII. Realizar las actividades que se requieran para lograr que el organismo preste a la comunidad servicios adecuados y eficientes;
-
-XVIII. Fungir como Secretario del Consejo Directivo con voz, pero sin voto, para lo cual se le citará a todas las sesiones;
-
-XIX. Someter a la aprobación del Consejo Directivo el proyecto del Reglamento Interno del organismo y sus modificaciones; y
-
-XX. Las demás que le señale el Consejo Directivo, esta Ley y el Reglamento Interno.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 11.
 
-El Comisario Público se designará y tendrá las atribuciones respectivas, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, y participará en las sesiones del Consejo Directivo con voz, pero sin voto.
-
-Será el responsable de las funciones regulatorias de los servicios públicos cuando el Instituto preste temporalmente dichos servicios y se auxiliará del personal técnico que él mismo designe.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 12.
 
-El Instituto contará con un Consejo Consultivo que se integrará a nivel estatal o regional con los representantes de los sectores social y privado de los distritos y unidades de riego y de los usuarios de los servicios públicos, y del Consejo Consultivo Estatal de Gestión Ambiental. En su integración y funcionamiento se aplicará en lo conducente lo dispuesto en los Artículos 32 y 33 de la presente Ley, así como lo que señale al efecto el Reglamento Interno.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
 ## TITULO TERCERO. DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -1834,3 +1650,81 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 164.- LEY ÓRGANICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 28 de diciembre del 2010 en el Periódico Oficial del Estado de Aguascalientes, mediante Decreto Número 19.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos legales a que haya lugar, la Secretaría de la Juventud será sustituida por el Instituto de la Juventud del Estado de Aguascalientes en el cumplimiento de sus obligaciones y el ejercicio de sus atribuciones en su respectiva materia.
+
+El Congreso del Estado a partir de la publicación del presente Decreto y a más tardar antes de su inicio de vigencia, deberá expedir la Ley que crea el Instituto de la Juventud del Estado de Aguascalientes.
+
+Hasta en tanto se expida el ordenamiento referido, seguirá vigente el Artículo 15, en su Fracción XVI, así como la Sección Décima Sexta denominada "De la Secretaría de la Juventud", y el Artículo 43 BIS de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010 en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+A partir del primero de enero del año dos mil diecinueve, se deroga el Título Segundo de la Ley de Agua para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 24 de julio de 2000, quedando extinto el Organismo Público Descentralizado del Gobierno del Estado denominado "Instituto del Agua del Estado".
+
+Los recursos humanos, financieros y materiales que se encuentran asignados al Instituto, pasarán a formar parte de la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, debiendo realizarse dichas transferencias a partir de la entrada en vigencia del presente Decreto, las cuales deberán concluir a más tardar el día treinta y uno de diciembre del año dos mil dieciocho.
+
+Los ingresos que perciba el Instituto, contemplados en la Ley de Ingresos para el Estado de Aguascalientes para el ejercicio fiscal 2018, a partir de la fecha de entrada en vigor del presente Decreto, se entenderán como percibidos para todos los efectos legales por la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, no obstante lo anterior, en el período de transición, el Instituto podrá recaudar los ingresos correspondientes, mismos que deberán ser transferidos a la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Media (sic) Ambiente y Agua, según corresponda.
+
+Las Unidades Administrativas del Instituto que se transfieran a la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, transferirán los expedientes, asuntos y procedimientos pendientes a su cargo, para que sean asumidos por la Secretaría correspondiente.
+
+La transferencia de los recursos humanos, materiales y financieros se realizarán a través de acuerdos administrativos que establecerán los términos y condiciones bajo los cuales deban realizarse dichas transferencias hasta la total liquidación del organismo.
+
+###### ARTÍCULO QUINTO.
+
+A la entrada en vigor del presente Decreto se realizarán las transferencias de personal, de recursos financieros y materiales de una Entidad o Dependencia a otra, según proceda.
+
+Los acuerdos celebrados entre las Dependencias y las Entidades, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto se realizarán las transferencias de personal, de recursos financieros y materiales de las Unidades Administrativas de una Dependencia a otra, según proceda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las obligaciones laborales de cada Entidad o Dependencia que se extinga o transforme, serán asumidas por la respectiva Dependencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que se realice a la Dependencia o Entidad que corresponda.
+
+En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Secretaría de Administración y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+A la entrada en vigor del presente Decreto, deberán haberse emitido todos aquéllos acuerdos administrativos y actos jurídicos con motivo de las transferencias del personal y recursos materiales y financieros a que se refieren los artículos que anteceden, mismas que serán coordinadas y vigiladas por la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Cuando esté siendo sustanciado un asunto competencia de alguna Dependencia o Entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por otra u otras, deberán transferirse los expedientes en trámite y el archivo a la Dependencia o Entidad correspondiente, la cual deberá concluir dichos asuntos y dictar la resolución respectiva.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación a los expedientes, asuntos, procedimientos y recursos instaurados ante la Secretaría de Fiscalización y Rendición de Cuentas, que serán asumidos por la Contraloría del Estado, ésta publicará en el Periódico Oficial del Estado, el Acuerdo de Inicio de Funciones, que hará las veces de notificación de que dicha Contraloría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador del Estado deberá expedir los reglamentos interiores de las Dependencias de nueva creación a que se refiere el presente ordenamiento, así como adecuar los de las Dependencias cuyas atribuciones se reforman o modifican; dichas acciones deberán estar concluidas en su totalidad a la entrada en vigor del presente Decreto. Entre tanto, se aplicarán los reglamentos que han regido en lo que no contravengan al presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración será la encargada de dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada Dependencia de manera funcional, previa autorización presupuestal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, las Dependencias deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar para dar cumplimiento al presente Decreto.
+
+ARTÍICULO (SIC) DÉCIMO CUARTO.- Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
