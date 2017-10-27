@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2017-10-02"
+last_updated: "2017-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE ELECCIONES Y PARTICIPACION CIUDADANA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE OCTUBRE DE 2017 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE OCTUBRE 2017.]</small>
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -7882,6 +7882,10 @@ P.O. 2 DE OCTUBRE DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- La Secretaría de Hacienda, deberá llevar a cabo las acciones necesarias para destinar los recursos correspondientes al financiamiento público de los partidos políticos a que se hace alusión en el numeral 12, del artículo 52 de este Código, para el auxilio de la población chiapaneca y la reconstrucción de las comunidades que resulten afectadas.
+
+> <small>(F. DE E., P.O. 27 DE OCTUBRE 2017)</small>
+
+La eliminación del financiamiento público a que hace referencia el presente Decreto, para la atención solidaria de los damnificados y a la reconstrucción de sus comunidades, derivado del sismo de 8.2 grados en la escala de Richter, acontecimiento ocurrido el 07 de septiembre de 2017, comenzará a partir del ejercicio presupuestal 2018.
 
 Artículo Tercero.- El Consejo Ciudadano a que hace referencia el párrafo 12 del artículo 52, del presente Código, será integrado conforme a los requisitos y procedimientos que establezca el Congreso del Estado.
 
