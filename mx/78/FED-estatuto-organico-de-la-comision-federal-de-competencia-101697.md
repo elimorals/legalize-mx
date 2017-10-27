@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-101697"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-08"
-last_updated: "2014-07-08"
+last_updated: "2017-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-07-07"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2017.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de julio de 2014.
 
@@ -77,9 +77,13 @@ III. Direcciones Generales Técnicas: las Direcciones Generales de Asuntos Jurí
 
 IV. Direcciones Generales de Investigación: las Direcciones Generales de Inteligencia de Mercados, de Investigaciones de Mercado, de Investigaciones de Prácticas Monopólicas Absolutas y de Mercados Regulados que dependerán y estarán adscritas a la Autoridad Investigadora;
 
-V. Direcciones Generales de Coordinación: las Direcciones Generales de Promoción a la Competencia, y de Planeación y Evaluación que dependerán de la Unidad de Planeación, Vinculación y Asuntos Internacionales;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-VI. Ley: la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el veintitrés de mayo de dos mil catorce o, en su caso, la publicada en el Diario Oficial de la Federación el veinticuatro de diciembre de dos mil doce, incluyendo sus reformas;
+V. Direcciones Generales de Coordinación: las Direcciones Generales de Promoción a la Competencia, de Planeación y Evaluación, y de Comunicación Social, que dependerán de la Unidad de Planeación, Vinculación y Asuntos Internacionales;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VI. Ley: la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el veintitrés de mayo de dos mil catorce o, en su caso, la publicada en el Diario Oficial de la Federación el veinticuatro de diciembre de mil novecientos noventa y dos, incluyendo sus reformas, según corresponda;
 
 VII. Presidente: el Comisionado Presidente de la Comisión; y
 
@@ -105,9 +109,17 @@ B. Unidad de Planeación, Vinculación y Asuntos Internacionales;
 
 a. Direcciones Generales de Coordinación:
 
-1. De Promoción a la Competencia; y
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-2. De Planeación y Evaluación.
+1. De Promoción a la Competencia;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+2. De Planeación y Evaluación; y
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+3. De Comunicación Social.
 
 III. Autoridad Investigadora;
 
@@ -135,11 +147,17 @@ c. De Estudios Económicos.
 
 V. Dirección General de Asuntos Contenciosos;
 
-VI. Contraloría Interna;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-VII. Unidad de Enlace;
+VI. Órgano Interno de Control;
 
-VIII. Comité de Información;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Unidad de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VIII. Comité de Transparencia;
 
 IX. Delegaciones en el interior de la República Mexicana; y
 
@@ -155,7 +173,9 @@ I. Garantizar la libre concurrencia y competencia económica; prevenir y combati
 
 II. Ordenar medidas para eliminar barreras a la competencia y la libre concurrencia; determinar la existencia y regular el acceso a insumos esenciales, así como ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos en las proporciones necesarias para eliminar efectos anticompetitivos;
 
-III. Solicitar el sobreseimiento de los procedimientos que se hayan iniciado de conformidad con el artículo 254 bis del Código Penal Federal en los casos que la Comisión sea denunciante o querellante;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+III. Solicitar el sobreseimiento de los procedimientos que se hayan iniciado de conformidad con el artículo 254 bis del Código Penal Federal en los casos que la Comisión sea denunciante o querellante; así como en los casos que proceda, otorgar el perdón en los procedimientos penales en que la Comisión sea parte;
 
 IV. Crear los órganos y unidades administrativas necesarias para su desempeño profesional, eficiente y eficaz, de acuerdo con su presupuesto autorizado;
 
@@ -185,9 +205,13 @@ XVI. Opinar sobre la incorporación de medidas protectoras y promotoras en mater
 
 XVII. Promover, en coordinación con las Autoridades Públicas, que sus actos administrativos observen los principios de libre concurrencia y competencia económica;
 
-XVIII. Realizar u ordenar la realización estudios, trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XIX. Elaborar el programa anual de trabajo y el informe trimestral de actividades que deberá ser presentado a los Poderes Ejecutivo y Legislativo Federal por conducto del Presidente;
+XVIII. Realizar u ordenar la realización de estudios, trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XIX. Aprobar el programa anual de trabajo y los informes trimestrales de actividades que deberán ser presentados a los Poderes Ejecutivo y Legislativo Federal por conducto del Presidente;
 
 XX. Calificar las excusas que presenten los Comisionados, el titular de la Autoridad Investigadora o el Secretario Técnico, así como resolver los incidentes de recusación que sean promovidos en los términos de las Disposiciones Regulatorias;
 
@@ -209,7 +233,9 @@ XXVIII. Autorizar, a solicitud de cualquiera de los Comisionados, el ejercicio d
 
 XXIX. Aprobar la promoción de controversias constitucionales, en términos de lo previsto por el inciso I), de la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXX. Ordenar que se haga del conocimiento del Consejero Jurídico del Ejecutivo Federal, a través de la Dirección General de Asuntos Contenciosos, de actos o normas generales emitidas por un Estado, el Distrito Federal o un Municipio que puedan resultar contrarias a lo dispuesto, entre otros, por los artículos 28 y 117, fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos o que invadan facultades de la Federación;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXX. Ordenar que se haga del conocimiento del Consejero Jurídico del Ejecutivo Federal, a través de la Dirección General de Asuntos Contenciosos, de actos o normas generales emitidas por un Estado, la Ciudad de México o un Municipio o demarcaciones territoriales que puedan resultar contrarias a lo dispuesto, entre otros, por los artículos 28 y 117, fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos o que invadan facultades de la Federación;
 
 XXXI. Nombrar y remover de su cargo a los titulares de la Secretaría Técnica, de la Autoridad Investigadora y de la Dirección General de Asuntos Contenciosos;
 
@@ -219,13 +245,19 @@ XXXIII. Emitir las Disposiciones Generales para el reclutamiento, selección y p
 
 XXXIV. Aprobar, a propuesta del Presidente, el establecimiento y circunscripción territorial de las Delegaciones en el interior de la República Mexicana; así como conocer de los nombramientos de los titulares que haga el Presidente;
 
-XXXV. Emitir lineamientos internos en materia de organización de archivos y de transparencia y acceso a la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXXVI. Conocer los informes de las revisiones y auditorías que realice el Contralor Interno;
+XXXV. Emitir lineamientos en materia de organización de archivos, así como de transparencia y acceso a la información;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXVI. Conocer los informes de las revisiones y auditorías que realice el Titular del Órgano Interno de Control;
 
 XXXVII. Aprobar comités con carácter consultivo o resolutivo, en los que determinará su integración, así como sus reglas de operación y funcionamiento;
 
-XXXVIII. Interpretar la Ley, este Estatuto, las Disposiciones Regulatorias; así como las directrices, guías, lineamientos y criterios técnicos a que se refiere la Ley; y
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXVIII. Interpretar la Ley, este Estatuto, las Disposiciones Regulatorias; así como las directrices, guías, lineamientos y criterios técnicos a que se refiere la Ley, o cualquier otro ordenamiento que expida conforme a sus facultades; y
 
 XXXIX. Las demás que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
@@ -269,15 +301,19 @@ El Secretario Técnico levantará acta de las sesiones del Pleno, en la que se a
 
 El acta de cada sesión será sometida a la aprobación del Pleno en sesión posterior.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 11.
 
-El Presidente turnará los asuntos al Comisionado Ponente de manera rotatoria, siguiendo el orden que corresponda, conforme a lo siguiente:
+El Presidente turnará los asuntos al Comisionado Ponente, siguiendo el orden que corresponda, conforme a lo siguiente:
 
 I. Tratándose de procedimientos seguidos en forma de juicio, de incidentes, de opiniones formales y de aquellos procedimientos tramitados con posterioridad a la emisión del dictamen preliminar, una vez que se emita el acuerdo de integración del expediente;
 
 II. Tratándose de opiniones, una vez que se emita el acuerdo de recepción o el que tenga por presentada la documentación e información faltante en términos de la fracción III del artículo 98 de la Ley; y
 
-III. Tratándose de concentraciones, una vez que se emita o se entienda por emitido el acuerdo de recepción o de admisión, según corresponda.
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+III. En los casos de concentraciones, una vez que se liste el asunto para resolución del Pleno.
 
 El Comisionado Ponente deberá de presentar el proyecto de resolución al Pleno para su aprobación o modificación, antes de la sesión del Pleno; el Comisionado Ponente incorporará al proyecto de resolución las modificaciones o correcciones sugeridas por el Pleno. Para tales efectos, el Comisionado Ponente contará con el apoyo técnico de las Direcciones Generales Operativas, según corresponda.
 
@@ -309,23 +345,31 @@ X. Dirigir la política de comunicación social de la Comisión;
 
 XI. Participar y coordinar con las dependencias competentes en la negociación y discusión de tratados o convenios internacionales en materia de competencia económica;
 
-XII. Dar cuenta al Comité de Evaluación de la vacante de Comisionado o a la Cámara de Diputados del Congreso de la Unión de la vacante de Contralor Interno;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XII. Dar cuenta al Comité de Evaluación de la vacante de Comisionado, o a la Cámara de Diputados del Congreso de la Unión de la vacante de Titular del Órgano Interno de Control;
 
 XIII. Proponer anualmente al Pleno, para su aprobación, el anteproyecto de presupuesto de la Comisión; remitir a la Secretaría de Hacienda y Crédito Público el proyecto de presupuesto aprobado por el Pleno;
 
-XIV. Presentar, para aprobación del Pleno, el proyecto del programa anual de trabajo y los proyectos de informes de actividades;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XIV. Presentar, para aprobación del Pleno, el proyecto del programa anual de trabajo y los proyectos de informes trimestrales de actividades;
 
 XV. Presentar a los poderes Ejecutivo y Legislativo el programa anual de trabajo y, trimestralmente, un informe de los avances de las actividades de la Comisión;
 
 XVI. Comparecer anualmente ante la Cámara de Senadores del Congreso de la Unión en términos del artículo 93 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XVII. Recibir del Contralor Interno, los informes de las revisiones y auditorías que se realicen y hacerlos del conocimiento del Pleno;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XVII. Recibir del Titular del Órgano Interno de Control, los informes de las revisiones y auditorías que se realicen y hacerlos del conocimiento del Pleno;
 
 XVIII. Nombrar y remover a los titulares de las Delegaciones de la Comisión en el interior de la República Mexicana;
 
 XIX. Implementar anualmente la estrategia y agenda de la Comisión en materia de rendición de cuentas;
 
-XX. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, procedimientos y normas en materia de organización de archivos, transparencia y acceso a la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XX. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, procedimientos y normas en materia de organización de archivos, transparencia y acceso a la información pública;
 
 XXI. Presentar al Pleno las solicitudes de opinión formal que sean formuladas en los términos del artículo 106, fracción I de la Ley;
 
@@ -335,11 +379,15 @@ XXIII. Nombrar y remover a los titulares de la Unidad de Planeación, Vinculaci�
 
 XXIV. Nombrar o aprobar el nombramiento, y en su caso remover, a quienes se desempeñarán como servidores públicos a su cargo, de conformidad con la normativa aplicable;
 
-XXV. Promover y coordinar las relaciones de la Comisión con las distintas dependencias y entidades de la Administración Pública Federal, de los Estados, del Distrito Federal, de los municipios, o de otros organismos públicos o privados, en lo relativo a los procedimientos de la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXV. Promover y coordinar las relaciones de la Comisión con las distintas dependencias y entidades de la Administración Pública Federal, de los Estados, de la Ciudad de México, de los municipios, o de otros organismos públicos o privados, en lo relativo al cumplimiento del objeto de la Ley;
 
 XXVI. Solicitar el apoyo de autoridades extranjeras en los procedimientos que se lleven ante la Comisión;
 
-XXVII. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, del Distrito Federal o municipales cuando sea necesario para el desempeño eficaz de las facultades de la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXVII. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, de la Ciudad de México, municipales o de las demarcaciones territoriales cuando sea necesario para el desempeño eficaz de las facultades de la Comisión;
 
 XXVIII. Convocar las sesiones del Pleno;
 
@@ -401,9 +449,11 @@ Los Comisionados no podrán intervenir en las investigaciones que se encuentren 
 
 ### Capítulo V. De la Autoridad Investigadora y la Secretaría Técnica
 
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
-La Autoridad Investigadora y la Secretaría Técnica, de acuerdo con lo establecido en el presente Estatuto, serán apoyadas para el ejercicio de sus funciones por las Direcciones Generales Operativas que les correspondan las cuales se auxiliaran del personal técnico y operativo necesario, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes, para el eficaz desarrollo de sus atribuciones.
+La Autoridad Investigadora y la Secretaría Técnica, de acuerdo con lo establecido en el presente Estatuto, serán apoyadas para el ejercicio de sus funciones por las Direcciones Generales Operativas que les correspondan, las cuales se auxiliarán del personal técnico y operativo necesario, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes, para el eficaz desarrollo de sus atribuciones.
 
 #### Sección Primera. De la Autoridad Investigadora
 
@@ -413,9 +463,11 @@ La Autoridad Investigadora es la encargada de iniciar, sustanciar, turnar, coord
 
 La Autoridad Investigadora deberá proporcionar al Presidente y al Pleno la información necesaria para la realización de los programas anuales de trabajo, informes de actividades y la demás información que le sea requerida para el eficaz cumplimiento del objeto de la Comisión, sin que en ningún caso pueda revelar la estrategia o líneas de investigación de las investigaciones en curso.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 17.
 
-Corresponde a la Autoridad Investigadora:
+Corresponde al Titular de la Autoridad Investigadora:
 
 I. Recibir, admitir a trámite, tener por no presentada, o desechar por notoria improcedencia las denuncias o solicitudes que se presenten ante la Comisión;
 
@@ -439,9 +491,13 @@ X. Ampliar los plazos en los procedimientos que se encuentren en el ámbito de s
 
 XI. Comisionar a los servidores públicos a su cargo para que lleven a cabo el desahogo de diligencias;
 
-XII. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, del Distrito Federal o municipales, en auxilio de las actividades correspondientes a sus atribuciones;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XIII. Solicitar opiniones, información y documentación a cualquier autoridad nacional o extranjera para sustanciar sus procedimientos;
+XII. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, de la Ciudad de México, municipales o de las demarcaciones territoriales, en auxilio de las actividades correspondientes a sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XIII. Solicitar opiniones, información y documentación a cualquier autoridad nacional o extranjera;
 
 XIV. Expedir copias certificadas o realizar cotejos de documentos o información que obren en sus archivos, relacionados con los expedientes a su cargo;
 
@@ -479,17 +535,25 @@ XXX. Proporcionar información que le sea requerida por cualquier autoridad admi
 
 XXXI. Proponer al Presidente la celebración de bases de concertación y colaboración con otras dependencias, entidades, instituciones u organismos públicos o privados nacionales o internacionales, con el objeto de facilitar el despacho de los asuntos que les correspondan;
 
-XXXII. Clasificar y resguardar la información y documentos que haya obtenido en el ejercicio de sus atribuciones de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXII. Identificar, conforme a lo previsto en la Ley, así como clasificar, de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública, la información y documentos que haya recibido u obtenido en el ejercicio de sus atribuciones;
 
 XXXIII. Ordenar la realización de análisis forenses técnicos integrales de información digital e identificar la existencia de información relevante de acuerdo a los análisis realizados y elaborar reportes técnicos, derivados de los resultados obtenidos;
 
 XXXIV. Recopilar, sistematizar y estandarizar información sobre los mercados, sobre actos específicos de los agentes económicos y de la información compilada por las Direcciones Generales de Investigación de la Comisión para su uso estratégico;
 
-XXXV. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, procedimientos y normas en materia de organización de archivos, transparencia y acceso a la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXXVI. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración del proyecto de informe trimestral de la Comisión, así como en el programa de trabajo anual y los informes especiales que se requieran;
+XXXV. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, procedimientos y normas en materia de organización de archivos, transparencia y acceso a la información pública;
 
-XXXVII. Ejecutar las actividades previstas en los lineamientos que establezca el Pleno en materia de Comités de Seguimiento y Proyectos Institucionales y cumplir con las metas que se establezcan;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXVI. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración de los proyectos de informes trimestrales de actividades de la Comisión, así como en el programa anual de trabajo y los informes especiales que se requieran;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXVII. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales y cumplir con las metas que se establezcan;
 
 XXXVIII. Contribuir en las evaluaciones y estudios que realice la Comisión;
 
@@ -515,11 +579,17 @@ XLVIII. Participar en eventos públicos nacionales o internacionales por acuerdo
 
 XLIX. Coadyuvar con la Dirección General de Asuntos Contenciosos en la defensa jurídica de las resoluciones y determinaciones de la Comisión, así como cualquier otro asunto en que tenga interés la Comisión;
 
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XLIX BIS. Expedir las copias certificadas respecto de los expedientes correspondientes a las investigaciones que tramite o hubiere tramitado cuando sean requeridas por el Poder Judicial de la Federación;
+
 L. Aplicar y cumplir con la Ley, sus Disposiciones Regulatorias y este Estatuto; y
 
 LI. Las demás atribuciones de las unidades administrativas a él adscritas, así como las que señalen la Constitución Política de los Estados Unidos Mexicanos, la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
-Son indelegables las facultades señaladas en las fracciones I a V, VIII, X, XIV a XVIII, XX, XXII, XXIII, XXVIII, XXIX, XXXI, XXXV, XXXVI, XXXIX a XLVII de este artículo.
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+Son indelegables las facultades señaladas en las fracciones I a V, VIII, X, XIV a XVIII, XX, XXII, XXIII, XXVIII, XXIX, XXXI, XXXV, XXXVI y XXXIX a XLVII de este artículo.
 
 #### Sección Segunda. De la Secretaría Técnica
 
@@ -541,13 +611,17 @@ III. Contar con título profesional o de posgrado en las áreas de derecho, econ
 
 IV. Haberse desempeñado durante al menos cinco años, en cuestiones profesionales, de servicio público o académicas relacionadas con el objeto de la Ley;
 
-V. No haber sido Secretario de Estado, Procurador General de la República, Senador, Diputado federal o local, dirigente de un partido o asociación política, gobernador de algún estado o Jefe de Gobierno del Distrito Federal, durante el año previo a su nombramiento; y
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+V. No haber sido Secretario de Estado, Procurador General de la República, Senador, Diputado federal o local, dirigente de un partido o asociación política, gobernador de algún estado o Jefe de Gobierno de la Ciudad de México, durante el año previo a su nombramiento; y
 
 VI. No haber ocupado algún cargo en las empresas que hayan estado sujetas a alguno de los procedimientos previstos en la Ley, durante los últimos tres años previos a su nombramiento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde a la Secretaría Técnica:
+Corresponde al Secretario Técnico:
 
 I. Nombrar y remover a los titulares de las Direcciones Generales Técnicas;
 
@@ -569,7 +643,9 @@ IX. Tramitar el procedimiento del artículo 106 de la Ley;
 
 X. Tramitar los incidentes relativos al cumplimiento y la ejecución de las resoluciones de la Comisión, así como cualquier otro incidente en los términos de las Disposiciones Regulatorias;
 
-XI. Turnar a las Direcciones Generales Técnicas los asuntos de su competencia y emitir proyectos de dictámenes respecto de los mismos;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XI. Turnar a las Direcciones Generales Técnicas los asuntos de su competencia y emitir dictámenes respecto de los mismos;
 
 XII. Dirigir y coordinar a las Direcciones Generales Técnicas para la integración de los expedientes, dentro del ámbito de su competencia;
 
@@ -587,7 +663,9 @@ XVIII. Ampliar los plazos en los procedimientos que se encuentren en el ámbito 
 
 XIX. Comisionar a los servidores públicos a su cargo;
 
-XX. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales del Distrito Federal o municipales en auxilio de sus facultades;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XX. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, de la Ciudad de México, municipales o de las demarcaciones territoriales en auxilio de sus facultades;
 
 XXI. Solicitar a cualquier autoridad nacional o extranjera opiniones, información y documentación necesaria para sustanciar los procedimientos de su competencia;
 
@@ -595,7 +673,9 @@ XXII. Expedir copias certificadas o realizar cotejos de documentos o informació
 
 XXIII. Requerir, en términos del artículo 69 del Código Fiscal de la Federación, a la Autoridad Fiscal, la información necesaria para el cálculo del monto de las multas a las que hace referencia la Ley;
 
-XXIV. Presentar denuncias y querellas ante la Procuraduría General de la República respecto de probables conductas delictivas en materia de libre concurrencia y competencia económica;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXIV. Presentar denuncias y querellas ante las autoridades competentes;
 
 XXV. Dar aviso al Pleno sobre materias que puedan ser objeto de controversias constitucionales y coadyuvar en el ámbito de su competencia con la Dirección General de Asuntos Contenciosos;
 
@@ -605,15 +685,29 @@ XXVII. Dar cuenta y levantar actas de las sesiones del Pleno y de las votaciones
 
 XXVIII. Llevar el libro o sistema de registro de las actas del Pleno;
 
-XXIX. Realizar las versiones públicas de las actas y versiones estenográficas de las sesiones del Pleno;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXIX. Realizar las versiones públicas de las versiones estenográficas de las sesiones del Pleno para someterlas a aprobación del Comité de Transparencia;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXIX BIS. Solicitar la publicación en la página de Internet de las versiones públicas de las sesiones y resoluciones del Pleno;
 
 XXX. Expedir copias certificadas de las resoluciones y acuerdos de Pleno;
 
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXX BIS. Expedir las copias certificadas respecto de los expedientes correspondientes a los procedimientos que tramite o hubiere tramitado cuando sean requeridas por el Poder Judicial de la Federación;
+
 XXXI. Proponer al Pleno los proyectos de opinión a las que se refiere el artículo 12, fracciones XII, XIII, XIV, XV, XVI, XVIII y XIX de la Ley;
 
-XXXII. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, de procedimientos y las normas en materia de organización de archivos, de transparencia y acceso a la información pública gubernamental; así como coordinar y tramitar su consulta pública;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXXIII. Clasificar y resguardar la información y documentos que haya obtenido en el ejercicio de sus atribuciones de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública gubernamental;
+XXXII. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, de procedimientos y las normas en materia de organización de archivos, de transparencia y acceso a la información pública; así como coordinar y tramitar su consulta pública;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXIII. Identificar, conforme a lo previsto en la Ley, así como clasificar, de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública, la información y documentos que haya recibido u obtenido en el ejercicio de sus atribuciones;
 
 XXXIV. Elaborar, integrar y publicar la lista de notificaciones de los acuerdos de trámite que se colocarán a la vista del público en las oficinas de la Comisión y en su página de Internet;
 
@@ -623,9 +717,13 @@ XXXVI. Proponer al Presidente la celebración de bases de concertación y colabo
 
 XXXVII. Solicitar a las Direcciones Generales a su cargo el estudio de anteproyectos y proyectos normativos, iniciativas de ley, actos de autoridad, leyes, reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general en materia de competencia económica y libre concurrencia;
 
-XXXVIII. Coordinar los trabajos de las Direcciones Generales Técnicas para la elaboración de las opiniones y someterlas a consideración del Pleno;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXXIX. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración del proyecto de informe trimestral de actividades de la Comisión, así como en el programa anual de trabajo y los informes especiales que se requieran;
+XXXVIII. Coordinar los trabajos de las Direcciones Generales Técnicas para la elaboración de proyectos de opinión y someterlos a consideración del Pleno;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXIX. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración de los proyectos de informes trimestrales de actividades de la Comisión, así como en el programa anual de trabajo y los informes especiales que se requieran;
 
 XL. Tener a su cargo la operación y control de la Oficialía de Partes de la Comisión;
 
@@ -633,7 +731,9 @@ XLI. Custodiar el archivo de los expedientes físicos y electrónicos de los doc
 
 XLII. Tener a su cargo un registro de poderes de representantes legales y personas autorizadas en términos de las disposiciones aplicables;
 
-XLIII. Ejecutar las actividades previstas en los lineamientos que establezca el Pleno en materia de Comités de Seguimiento y Proyectos Institucionales, y cumplir con las metas que se establezcan;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XLIII. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales, y cumplir con las metas que se establezcan;
 
 XLIV. Nombrar o aprobar el nombramiento, y en su caso determinar la remoción, de quienes se desempeñarán como servidores públicos a su cargo, de conformidad con la normativa aplicable;
 
@@ -669,7 +769,9 @@ Son indelegables las facultades señaladas en las fracciones I, II, XI a XIV, XV
 
 La Unidad de Planeación, Vinculación y Asuntos Internacionales dependerá jerárquicamente del Presidente y tendrá a su cargo la promoción de la política de competencia económica a nivel nacional e internacional así como su difusión; además de realizar la planeación de la Comisión fijando metas institucionales y su seguimiento.
 
-Asimismo tendrá a su cargo la coordinación y supervisión de las Delegaciones que se establezcan fuera del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+Asimismo, tendrá a su cargo la coordinación y supervisión de las Delegaciones que se establezcan fuera de la Ciudad de México.
 
 La Unidad de Planeación, Vinculación y Asuntos Internacionales estará a cargo del Jefe de Unidad de Planeación, Vinculación y Asuntos Internacionales, quien será apoyado para el ejercicio de sus facultades de las Direcciones Generales de Coordinación.
 
@@ -685,11 +787,17 @@ III. Supervisar el debido trámite de los asuntos de su responsabilidad, cuidand
 
 IV. Coordinar los programas y preparar los materiales de información, difusión, apoyo y comunicación interna y externa de la Comisión;
 
-V. Solicitar estudios que evalúen el desempeño de la facultades otorgadas a la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-VI. Integrar los estudios y reportes necesarios para los informes de difusión del Presidente o de otros servidores públicos de la Comisión sobre la aplicación y evaluación de la política de competencia económica;
+V. Solicitar estudios que evalúen el desempeño de las facultades otorgadas a la Comisión;
 
-VII. Diseñar y proponer las metas institucionales y coordinar los mecanismos para su cumplimiento y su evaluación;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VI. Integrar los estudios y reportes necesarios para los informes de difusión del Presidente de la Comisión sobre la aplicación y evaluación de la política de competencia económica;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Presentar los mecanismos institucionales para evaluar el cumplimiento de los programas anuales de trabajo y demás documentos de planeación estratégica institucional;
 
 VIII. Definir, coordinar y supervisar la contratación de consultorías para la realización de estudios especializados en materia de competencia económica y libre concurrencia;
 
@@ -697,13 +805,19 @@ IX. Auxiliar al Presidente en el establecimiento de enlaces y mecanismos de coop
 
 X. Apoyar al Presidente en la coordinación de la política y programas en materia de comunicación social de la Comisión;
 
-XI. Planear y supervisar la edición y distribución del informe trimestral de actividades de la Comisión, del programa anual de trabajo, de las publicaciones especiales y demás documentos que determine el Presidente para la promoción de la política de competencia económica;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XII. Coordinar la participación de la Comisión en los asuntos de negociación y cooperación internacional en materia de competencia y libre concurrencia;
+XI. Planear y supervisar la edición y distribución de los informes trimestrales de actividades de la Comisión, del programa anual de trabajo, de las publicaciones especiales y demás documentos que determine el Presidente para la promoción de la política de competencia económica;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XII. Diseñar la estrategia y coordinar la participación de la Comisión en los asuntos de negociación y cooperación internacional en materia de competencia y libre concurrencia;
 
 XIII. Coordinar y apoyar la celebración o participación de la Comisión en conferencias, congresos y seminarios relacionados con la competencia y libre concurrencia, nacionales o internacionales, así como la participación de servidores públicos de la Comisión en estos eventos;
 
-XIV. Ejecutar las actividades previstas en los lineamientos que establezca el Pleno en materia de Comités de Seguimiento y Proyectos Institucionales, y cumplir con las metas que se establezcan;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XIV. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales, y cumplir con las metas que se establezcan;
 
 XV. Realizar estudios sobre las políticas y legislaciones de otros países en materia de competencia y libre concurrencia, así como asesorar sobre estas materias a los órganos y unidades administrativas de la Comisión que lo requieran;
 
@@ -711,13 +825,21 @@ XVI. Coordinar la relación de la Comisión con las autoridades competentes, res
 
 XVII. Programar y coordinar los mecanismos de información, divulgación y promoción de la competencia económica en el ámbito nacional e internacional;
 
-XVIII. Publicar en la página de Internet de la Comisión los acuerdos, lineamientos, directrices, criterios técnicos, resoluciones o cualquier otro documento que deba ser publicado de conformidad con la Ley, las Disposiciones Regulatorias o este Estatuto;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XIX. Auxiliar al Presidente en la recepción y análisis de los informes relativos a las revisiones y auditorías y demás informes que el Contralor Interno le entregue, así como aquellos asuntos relacionados con observaciones e informes de la Auditoría Superior de la Federación;
+XVIII. Publicar en la página de Internet de la Comisión los acuerdos, lineamientos, directrices, criterios técnicos, resoluciones o cualquier otro documento que deba ser publicado de conformidad con la Ley, las Disposiciones Regulatorias, este Estatuto y demás disposiciones aplicables;
 
-XX. Coadyuvar con la Autoridad Investigadora y la Secretaría Técnica en la elaboración de los proyectos de estudios o trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXI. Proponer al Presidente anualmente la estrategia y agenda de la Comisión en materia de rendición de cuentas, que facilite la evaluación externa de las actividades de la Comisión;
+XIX. Diseñar y establecer la estrategia institucional que facilite la gestión y prevención de riesgos; así como auxiliar al Presidente en la recepción y análisis de los informes relativos a las revisiones y auditorías y demás informes relacionados con el desempeño institucional que el Titular del Órgano Interno de Control le entregue, y aquellos asuntos relacionados con observaciones e informes de la Auditoría Superior de la Federación o de otros auditores externos;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XX. Coadyuvar con la Secretaría Técnica en la elaboración de los proyectos de estudios o trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXI. Proponer al Presidente la estrategia y agenda de la Comisión en materia de rendición de cuentas, que facilite la evaluación externa de las actividades de la Comisión;
 
 XXII. Coordinar y supervisar la política y programas en materia de coordinación regional entre las Delegaciones y la Comisión, así como establecer las medidas necesarias para la mejor atención de los asuntos regionales;
 
@@ -725,7 +847,23 @@ XXIII. Informar al Presidente del desempeño de las Delegaciones fuera de la Ciu
 
 XXIV. Formar, mantener, custodiar y acrecentar el acervo biblio-hemerográfico de la Comisión;
 
-XXV. Coordinar y supervisar la elaboración y publicación de estadísticas, indicadores e información que faciliten la evaluación de la actuación de la Comisión; y (sic)
+XXV. Coordinar y supervisar la elaboración y publicación de estadísticas, indicadores e información que faciliten la evaluación de la actuación de la Comisión; y
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXV BIS. Proponer al Presidente el anteproyecto de programa anual de trabajo y los anteproyectos de informes trimestrales de actividades;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXV BIS 1. Conducir las relaciones de la Comisión en el ámbito internacional y fungir como enlace entre la Comisión y agencias u autoridades internacionales en la materia;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXV BIS 2. Auxiliar al Presidente en la coordinación de la suscripción de convenios o acuerdos interinstitucionales para el cumplimiento del objeto de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXV BIS 3. Participar en grupos interinstitucionales, con el fin de promover y proteger el proceso de competencia económica y libre concurrencia en los mercados;
 
 XXVI. Nombrar o aprobar el nombramiento y, en su caso, determinar la remoción, de quienes se desempeñarán como servidores públicos a su cargo, de conformidad con la normativa aplicable; y
 
@@ -773,17 +911,29 @@ XIV. Colaborar, con las demás Direcciones Generales, para su posterior envío a
 
 XV. Expedir copias certificadas de las constancias que integren los expedientes a su cargo y realizar cotejos de documentos o información para integrarlos a los expedientes;
 
-XVI. Elaborar los reportes de avance de las actividades a su cargo establecidas en los Lineamientos de los Comités de Seguimiento de Proyectos Institucionales;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XVII. Colaborar con el Pleno, el Presidente, la Autoridad Investigadora, la Secretaría Técnica o la Unidad de Planeación, Vinculación y Asuntos Internacionales, según corresponda su adscripción, para el cumplimiento de las obligaciones establecidas en la normativa de transparencia y acceso a la información pública gubernamental;
+XVI. Elaborar los reportes de avance y la evidencia documental de las acciones a su cargo, establecidas en el Programa Anual de Trabajo vigente y demás documentos de planeación institucional;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XVII. Colaborar con el Pleno, el Presidente, la Autoridad Investigadora, la Secretaría Técnica o la Unidad de Planeación, Vinculación y Asuntos Internacionales, según corresponda su adscripción, para el cumplimiento de las obligaciones establecidas en la normativa de transparencia y acceso a la información pública;
 
 XVIII. Nombrar a los servidores públicos que estarán a su cargo, con la aprobación del titular del órgano o unidad administrativa de su adscripción de conformidad con la normativa aplicable;
 
 XIX. Proponer al titular del órgano o unidad administrativa el ingreso, promociones y licencias del personal a su cargo;
 
-XX. Auxiliar al Pleno y al Presidente en la elaboración del programa anual de trabajo y del informe trimestral de actividades que deberá ser presentado a los Poderes Ejecutivo y Legislativo Federal por conducto del Comisionado Presidente;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXI. Clasificar y resguardar la información y documentos que haya obtenido en el ejercicio de sus atribuciones de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública gubernamental;
+XX. Auxiliar al Pleno y al Presidente en la elaboración del programa anual de trabajo y de los informes trimestrales de actividades que deberán ser presentados a los Poderes Ejecutivo y Legislativo Federal por conducto del Presidente;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXI. Identificar, conforme a lo previsto en la Ley, así como clasificar, de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública, la información y documentos que haya recibido u obtenido en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXI BIS. Coadyuvar con la Dirección General de Comunicación Social en la administración de contenidos del portal de Internet de la Comisión;
 
 XXII. Aplicar los mecanismos de cooperación y coordinar acciones conjuntas con instituciones o autoridades públicas, nacionales o extranjeras y solicitar información a las mismas cuando así lo requiera la naturaleza y eficaz tramitación de los asuntos que tengan a su cargo; y
 
@@ -811,7 +961,9 @@ VII. Integrar el expediente para su envío a la Autoridad Investigadora o a la S
 
 VIII. Comisionar a uno o varios de los servidores públicos de su adscripción, según corresponda, para que lleven a cabo el desahogo (sic) las diligencias ordenadas;
 
-IX. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, del Distrito Federal o municipales cuando sea necesario para el desempeño eficaz de las facultades de la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IX. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales, de la Ciudad de México, municipales o de las demarcaciones territoriales cuando sea necesario para el desempeño eficaz de las facultades de la Comisión;
 
 X. Dictar las medidas necesarias para encauzar legalmente el procedimiento; y
 
@@ -825,7 +977,9 @@ Corresponde a las Direcciones Generales de Investigación, excepción hecha de l
 
 I. Tramitar los asuntos e investigaciones que les turne, delegue o encomiende la Autoridad Investigadora;
 
-II. Elaborar y someter a la consideración de la Autoridad Investigadora los proyectos de dictámenes de probable responsabilidad y de dictámenes preliminares o, en su caso, el proyecto de resolución de cierre;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+II. Elaborar y someter a la consideración de la Autoridad Investigadora los proyectos de dictámenes de probable responsabilidad y de dictámenes preliminares o, en su caso, el proyecto de dictamen de cierre;
 
 III. Desahogar las pruebas y las diligencias a que se refieren las fracciones III y IV del artículo 83 de la Ley;
 
@@ -833,7 +987,9 @@ IV. Asistir a las audiencias orales y presentar alegatos, así como desahogar la
 
 V. Proponer a la Autoridad Investigadora las medidas cautelares que resulten necesarias en los términos de la Ley y las Disposiciones Regulatorias;
 
-VI. Procurar y propiciar la coadyuvancia del denunciante en el procedimiento seguido en forma de juicio; y
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VI. Procurar y propiciar la coadyuvancia del denunciante en el procedimiento seguido en forma de juicio, en los casos en que resulte aplicable; y
 
 VII. Las demás que le delegue o encomiende el titular de la Autoridad Investigadora y las que se señalen en la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
@@ -855,7 +1011,9 @@ Corresponde al Titular de la Dirección General de Investigaciones de Prácticas
 
 I. Tramitar las investigaciones por prácticas monopólicas absolutas; y
 
-II. Tramitar el procedimiento correspondiente al beneficio de reducción del importe de multas a que se refiere el artículo 103 de la Ley.
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+II. Tramitar el procedimiento correspondiente al beneficio de reducción del importe de multas a que se refiere el artículo 103 de la Ley, incluyendo ampliar el plazo al que hace referencia el artículo 114 de las Disposiciones Regulatorias.
 
 ###### ARTÍCULO 29.
 
@@ -871,15 +1029,23 @@ Corresponde a la Dirección General de Inteligencia de Mercados:
 
 I. Coadyuvar con las Direcciones Generales de Investigación en las investigaciones derivadas del ejercicio de sus atribuciones y emitir los reportes correspondientes;
 
-II. Proporcionar a las Direcciones Generales de Investigación asesoría técnica para el desempeño de las funciones de investigación de la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-III. Recopilar, sistematizar y estandarizar información sobre los mercados, sobre actos específicos de los agentes económicos, y de la información compilada por las distintas áreas de la Comisión para su uso estratégico;
+II. Proporcionar a las Direcciones Generales de Investigación y a la Oficina de Coordinación, asesoría técnica para el desempeño de las funciones de investigación de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+III. Recibir, recopilar, sistematizar y estandarizar información, documentación o cualquier otro elemento sobre los mercados, sobre actos específicos de los agentes económicos, y de la información compilada por las distintas áreas de la Comisión;
 
 IV. Proporcionar información de carácter estratégico para el desarrollo de líneas de indagación de probables prácticas anticompetitivas;
 
-V. Gestionar, recopilar y realizar análisis forenses técnicos integrales de información digital;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-VI. Coadyuvar con la Dirección General de Administración en la elaboración de políticas, ordenamientos y lineamientos referentes a la protección de información digital, al acceso y resguardo de las instalaciones de la Comisión, así como en la implementación de sistemas de control de confianza para el personal adscrito a la Dirección General de Inteligencia de Mercados;
+V. Realizar análisis forenses de información digital;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VI. Coadyuvar con la Dirección General de Administración en la elaboración de políticas, ordenamientos y lineamientos referentes a la protección de información digital, al acceso y resguardo de las instalaciones de la Comisión, así como en la implementación de sistemas de control de confianza para el personal de la Comisión;
 
 VII. Auxiliar en la búsqueda, preservación y obtención de indicios, elementos de convicción o pruebas necesarias en el trámite de los procedimientos contenidos en la Ley;
 
@@ -909,7 +1075,9 @@ V. Auxiliar en la verificación del cumplimiento de las resoluciones de la Comis
 
 VI. Auxiliar a la Secretaría Técnica en la verificación de la aplicación de las medidas de apremio que impongan las Direcciones Generales Técnicas;
 
-VII. Auxiliar a la Secretaría Técnica en materia de transparencia y acceso a la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Auxiliar a la Secretaría Técnica en materia de transparencia y acceso a la información pública;
 
 VIII. Auxiliar en la ejecución de las resoluciones emitidas por el Pleno;
 
@@ -929,7 +1097,9 @@ III. Asesorar a los distintos órganos y unidades administrativas de la Comisió
 
 IV. Coadyuvar con la demás Direcciones Generales Técnicas en la elaboración de opiniones sobre anteproyectos y proyectos normativos, así como iniciativas de ley, actos de autoridad, del marco institucional vigente, de leyes, reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general, cuando la Secretaría Técnica lo requiera y presentar el resultado de su estudio;
 
-V. Elaborar, por instrucciones del Secretario Técnico, propuestas de opiniones sobre competencia y libre concurrencia en prácticas comerciales;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+V. Elaborar, por instrucciones del Secretario Técnico, propuestas de opiniones sobre competencia y libre concurrencia;
 
 VI. Estudiar los mercados correspondientes de los sectores económicos regulados;
 
@@ -975,13 +1145,19 @@ A la Dirección General de Asuntos Contenciosos le corresponderá la defensa jur
 
 Corresponde a la Dirección General de Asuntos Contenciosos:
 
-I. Representar a la Comisión, así como a cualquiera de sus órganos, unidades administrativas o servidores públicos en toda clase de procedimientos judiciales, incluyendo los juicios de amparo, procedimientos administrativos, contenciosos administrativos, civiles, penales y laborales en que se vean involucrados con motivo de sus funciones así como cualquier otro asunto en que tenga interés la Comisión; ejercitar, entre otras, las acciones, excepciones y defensas que competan a la Comisión; formular escritos de demanda o contestación de demanda en toda clase de procedimientos judiciales o contenciosos administrativos, ofrecer pruebas, formular alegatos e interponer todo tipo de medios de impugnación que procedan ante los tribunales y autoridades y, en general, atender la tramitación de los juicios y procedimientos referidos;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+I. Representar a la Comisión, así como a cualquiera de sus órganos, unidades administrativas o servidores públicos en toda clase de procedimientos judiciales, incluyendo los juicios de amparo, procedimientos administrativos, contenciosos administrativos, civiles, penales y laborales en que se vean involucrados con motivo de sus funciones, así como cualquier otro asunto en que tenga interés la Comisión; ejercitar, entre otras, las acciones, excepciones y defensas que competan a la Comisión; formular escritos de demanda o contestación de demanda en toda clase de procedimientos judiciales o contenciosos administrativos, ofrecer pruebas, formular alegatos e interponer todo tipo de medios de impugnación que procedan ante los tribunales y autoridades; y, en general, atender la tramitación de los juicios y procedimientos referidos;
 
 II. Apoyar al Presidente en la promoción de las controversias constitucionales, en términos de lo previsto por el inciso I), de la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y representar a la Comisión en el trámite de las mismas;
 
-III. Apoyar en la remisión y solicitud de expedientes al Instituto Federal de Telecomunicaciones, así como en la remisión de expedientes al Tribunal de Circuito Especializado en materia de competencia económica, radiodifusión y telecomunicaciones, a fin de se proceda en los términos del artículo 5 de la Ley;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-IV. Hacer del conocimiento del Consejero Jurídico del Ejecutivo Federal, previa autorización del Pleno, de actos o normas generales emitidas por un Estado, el Distrito Federal o un Municipio que puedan resultar contrarias a lo dispuesto, entre otros, por los artículos 28 y 117, fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos o que invadan facultades de la Federación;
+III. Apoyar en la remisión y solicitud de expedientes al Instituto Federal de Telecomunicaciones, así como en la remisión de expedientes al Tribunal de Circuito Especializado en materia de competencia económica, radiodifusión y telecomunicaciones, a fin de que se proceda en los términos del artículo 5 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IV. Hacer del conocimiento del Consejero Jurídico del Ejecutivo Federal, previa autorización del Pleno, los actos o normas generales emitidas por los Estados, la Ciudad de México, Municipios o demarcaciones territoriales que puedan resultar contrarias a lo dispuesto, entre otros, por los artículos 28 y 117, fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos o que invadan facultades de la Federación;
 
 V. Representar a la Comisión, previa autorización del Pleno, en las acciones colectivas de conformidad con lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles;
 
@@ -989,9 +1165,19 @@ VI. Elaborar los informes previos y con justificación, así como los medios de 
 
 VII. Coadyuvar con las demás Direcciones Generales, en el análisis de anteproyectos y proyectos normativos, así como iniciativas de ley, actos de autoridad, proyectos de iniciativas de leyes o decretos, así como de reglamentos, acuerdos, normas oficiales mexicanas y demás disposiciones de observancia general en materia de competencia económica y libre concurrencia;
 
-VIII. Formular, presentar y ratificar denuncia o querella ante el Ministerio Público competente de hechos que puedan constituir delitos, así como coadyuvar en el transcurso de la investigación;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VIII. Formular, presentar y ratificar denuncia o querella ante el Ministerio Público competente sobre hechos que puedan constituir delitos, con excepción de lo previsto en el artículo 254 bis del Código Penal Federal, así como coadyuvar en el transcurso de la investigación y dentro de los procedimientos penales;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VIII BIS. Participar en los Mecanismos Alternativos de Solución de Controversias en materia penal, en representación de la Comisión, y celebrar acuerdos reparatorios, previa aprobación del órgano o unidad administrativa involucrada en el conflicto de que se trate;
 
 IX. Asesorar a los distintos órganos y unidades administrativas de la Comisión que lo soliciten, emitiendo opinión jurídica respecto de cuestiones contenciosas que deriven del funcionamiento de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XI BIS. Fungir o designar al funcionario que funja dentro de los procedimientos penales en los que la Comisión sea parte, como asesor jurídico de ésta, o de cualquiera de sus órganos, unidades administrativas o servidores públicos con motivo de sus funciones;
 
 X. Emitir opinión en los asuntos laborales relativos al personal, incluyendo las prácticas y levantamiento de constancias y actas administrativas, así como sobre las bajas y demás sanciones que procedan respecto del personal;
 
@@ -1003,11 +1189,13 @@ XIII. Las demás que le deleguen o encomienden el Pleno o el Presidente, así co
 
 #### Sección Tercera. De la Dirección General de Administración
 
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 #### Sección Cuarta. De las Direcciones Generales de Coordinación
 
 ###### ARTÍCULO 37.
 
-La Dirección General de Administración dependerá jerárquicamente del Presidente y será responsable del ejercicio del presupuesto asignado por la Cámara de Diputados del Congreso de la Unión; y establecerá y aplicará las medidas técnicas y administrativas en materia de recursos humanos, financieros, materiales y de tecnologías de la información y comunicaciones.
+La Dirección General de Administración dependerá jerárquicamente del Presidente; será responsable del ejercicio del presupuesto asignado por la Cámara de Diputados del Congreso de la Unión; y establecerá y aplicará las medidas técnicas y administrativas en materia de gestión de talento, recursos humanos, financieros, materiales y de tecnologías de la información y comunicaciones.
 
 ###### ARTÍCULO 38.
 
@@ -1035,23 +1223,35 @@ X. Cumplir con las normas generales y demás disposiciones internas que se emita
 
 XI. Efectuar los pagos derivados del ejercicio del presupuesto de gasto corriente de manera puntual y oportuna;
 
-XII. Proveer de manera oportuna los pagos y prestaciones a los servidores públicos; así como resolver sobre la aplicación de los descuentos y retenciones, y en su caso, la recuperación de las cantidades correspondientes a salarios no devengados;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XIII. Proporcionar de manera oportuna los recursos materiales para el desempeño óptimo de las unidades administrativas;
+XII. Proveer los pagos y prestaciones a los servidores públicos; así como resolver sobre la emisión o suspensión de pagos, la aplicación de descuentos y retenciones legales, así como los autorizados u ordenados por mandamiento judicial o de autoridad administrativa competente, la aplicación de los descuentos y retenciones, y en su caso, la recuperación de las cantidades correspondientes a salarios no devengados;
 
-XIV. Proporcionar los sistemas de tecnologías de la información y comunicaciones que la Comisión requiera para su mejor funcionamiento; así como, proponer mejoras y actualizaciones a la infraestructura tecnológica y/o a los procesos operativos de la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XIII. Proporcionar los recursos materiales, de tecnologías de la información y comunicaciones para el desempeño óptimo de las unidades administrativas;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XIV. Proporcionar los sistemas de tecnologías de la información, comunicaciones y de seguridad de la información que la Comisión requiera para su funcionamiento; así como, proponer mejoras y actualizaciones a la infraestructura tecnológica y/o a los procesos operativos de la Comisión;
 
 XV. Normar y supervisar el registro contable de las operaciones financieras y presupuestales en el sistema de contabilidad que para tal efecto se lleve;
 
-XVI. Mantener actualizados los sistemas de tecnologías de la información y comunicaciones de la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XVI. Mantener actualizados los sistemas de tecnologías de la información, comunicaciones y de sistemas de gestión de la seguridad de la información de la Comisión;
 
 XVII. Custodiar la documentación original derivada de las operaciones administrativas y de los contratos y convenios que realicen en cumplimiento de sus funciones;
 
-XVIII. Ejecutar las actividades previstas en los lineamientos que establezca el Pleno en materia de Comités de Seguimiento y Proyectos Institucionales y cumplir con las metas que se establezcan;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XVIII. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales y cumplir con las metas que se establezcan;
 
 XIX. Atender, difundir y operar los asuntos relacionados con los programas de capacitación de los servidores públicos de la Comisión, así como fomentar su participación en actividades culturales, deportivas y recreativas e implementar el sistema de comunicación interna;
 
-XX. Expedir y tramitar las constancias de los nombramientos de los servidores públicos, los movimientos del personal, credenciales de identificación y los asuntos de terminación de los efectos del nombramiento, de conformidad con las disposiciones jurídicas aplicables; así como emitir y, en su caso, certificar las constancias relativas al puesto o cargo que ocupen o hayan ocupado, sueldos y demás actividades inherentes de conformidad con los procedimientos y la normativa aprobados para estos efectos;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XX. Expedir los oficios y constancias de nombramientos del personal de la Comisión, los movimientos del personal, credenciales de identificación y los asuntos de terminación de los efectos del nombramiento, de conformidad con las disposiciones jurídicas aplicables; así como emitir y, en su caso, certificar las constancias relativas al puesto o cargo que ocupen o hayan ocupado, sueldos y demás actividades inherentes de conformidad con los procedimientos y la normativa aprobados para estos efectos;
 
 XXI. Administrar los mecanismos de reclutamiento, selección y permanencia del personal, servicio social y prácticas profesionales, así como los de estímulos y recompensas establecidos conforme a las normas y procedimientos aplicables;
 
@@ -1063,9 +1263,13 @@ XXIV. Ejecutar los programas administrativos para el control, operación, manten
 
 XXV. Cumplir con las obligaciones fiscales ateniéndose a las disposiciones legales aplicables e informar cuando el Presidente le requiera de dicho cumplimiento;
 
-XXVI. Fungir, previa delegación del Presidente, como representante legal de la Comisión en asuntos fiscales, así como para los trámites que deben realizarse ante las instituciones bancarias para la administración de recursos;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XXVII. Analizar e integrar las propuestas de modificación a la estructura orgánica y ocupacional de los órganos y unidades administrativas de la Comisión, conforme a las disposiciones aplicables;
+XXVI. Fungir, previa delegación del Presidente, como representante legal de la Comisión en los asuntos tendientes al cumplimiento de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXVII. Analizar y aprobar las propuestas de modificación a la estructura orgánica y ocupacional de los órganos y unidades administrativas de la Comisión, conforme a las disposiciones aplicables;
 
 XXVIII. Cumplir con las disposiciones que se emitan para el mejor desempeño de sus funciones;
 
@@ -1078,6 +1282,10 @@ XXXI. Administrar los servicios de correspondencia, comedores, impresión y tran
 XXXII. Proponer y supervisar los procedimientos administrativos que agilicen y faciliten la atención regional de los asuntos de su competencia;
 
 XXXIII. Tomar conocimiento y llevar el control de lo relativo al ingreso, promoción, remoción y licencia de los servidores públicos de la Comisión, así como a la implementación de sistemas de control de confianza, conforme a lo establecido en la normativa aplicable;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+XXXIII BIS. Realizar toda clase de actas administrativas donde se hagan constar hechos o actos de los servidores públicos de la Comisión para los efectos legales que corresponda, así como sobre las bajas de dichos servidores públicos;
 
 XXXIV. Emitir disposiciones operativas internas, así como el manual de organización institucional, de acuerdo a la estructura organizacional aprobada por el Pleno; y
 
@@ -1103,9 +1311,13 @@ Corresponde a la Dirección General de Promoción a la Competencia:
 
 I. Proponer, establecer y supervisar los procedimientos administrativos que agilicen y faciliten la atención regional de los asuntos en materia de competencia y libre concurrencia;
 
-II. Auxiliar al Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales en la coordinación y supervisión de las delegaciones que se establezcan fuera del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-III. Promover y coordinar los mecanismos e iniciativas de cooperación en materia de competencia y libre concurrencia con los gobiernos de los Estados y del Distrito Federal;
+II. Auxiliar al Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales en la coordinación y supervisión de las delegaciones que se establezcan fuera de la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+III. Promover y coordinar los mecanismos e iniciativas de cooperación en materia de competencia y libre concurrencia con los gobiernos de los Estados y de la Ciudad de México;
 
 IV. Fomentar, coordinar, facilitar y fortalecer enlaces y supervisar la implementación de los mecanismos de cooperación entre la Comisión y las instituciones públicas o privadas, nacionales o extranjeras en materia de competencia y libre concurrencia;
 
@@ -1117,7 +1329,21 @@ VII. Elaborar, coordinar y ejecutar campañas de publicidad a favor de la cultur
 
 VIII. Coadyuvar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la implementación de los mecanismos de información, divulgación y promoción de la competencia y libre concurrencia en el ámbito nacional e internacional;
 
-IX. Establecer y mantener la relación de la Comisión con las autoridades competentes, respecto a los mecanismos para la ejecución y seguimiento de las sanciones y medidas de apremio previstas en la Ley, en auxilio de los titulares de la Autoridad Investigadora, la Secretaría Técnica y las Direcciones Generales respectivas; y
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IX. Establecer y mantener la relación de la Comisión con las autoridades competentes, respecto a los mecanismos para la ejecución y seguimiento de las multas como sanción y multas como medidas de apremio previstas en la Ley, en auxilio de los titulares de la Autoridad Investigadora, la Secretaría Técnica y las Direcciones Generales respectivas;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IX BIS. Elaborar y dar seguimiento a los convenios o acuerdos interinstitucionales que se realicen para el cumplimiento del objeto de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IX BIS 1. Apoyar en la preparación de la participación del Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales, o en su caso representar a la Comisión, en los grupos interinstitucionales cuando lo designe el Presidente de la Comisión o algún instrumento jurídico distinto a la Ley;
+
+> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IX BIS 2. Publicar en la página de Internet de la Comisión los acuerdos, lineamientos, directrices, criterios técnicos, resoluciones o cualquier otro documento de conformidad con la Ley, las Disposiciones Regulatorias, este Estatuto y demás disposiciones aplicables; y
 
 X. Las demás que le deleguen o encomienden el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales; así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
@@ -1125,155 +1351,269 @@ X. Las demás que le deleguen o encomienden el Presidente o el Jefe de la Unidad
 
 Corresponde a la Dirección General de Planeación y Evaluación:
 
-I. Supervisar, en coordinación con los órganos y unidades administrativas de la Comisión, la aplicación de las líneas estratégicas de acción y el cumplimiento de metas;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-II. Apoyar en los trabajos de planeación estratégica institucional para la definición de objetivos, metas, líneas de acción e indicadores;
+I. Supervisar, en coordinación con los órganos y unidades administrativas de la Comisión, la aplicación de las acciones estratégicas para el cumplimiento de las metas y los objetivos institucionales;
 
-III. Elaborar y proponer al Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales el programa anual de trabajo y los informes trimestrales de actividades;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-IV. Fomentar, coordinar y facilitar la evaluación de las actividades de la Comisión, por parte de instituciones públicas o privadas nacionales o extranjeras;
+II. Coordinar los trabajos de planeación estratégica institucional para la definición de objetivos, metas, líneas de acción e indicadores;
 
-V. Generar y publicar estadísticas, indicadores e información que permitan la evaluación externa de las actividades que lleva a cabo la Comisión;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-VI. Planear e instrumentar anualmente la estrategia y agenda de la Comisión en materia de rendición de cuentas;
+III. Elaborar y proponer al Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales el anteproyecto de programa anual de trabajo y los anteproyectos de informes trimestrales de actividades;
 
-VII. Elaborar los informes sobre el desempeño y gestión de la Comisión, en cumplimiento de las disposiciones en materia de planeación y evaluación;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-VIII. Apoyar al Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales en la publicación de la página de Internet de la Comisión los acuerdos, lineamientos, directrices, criterios técnicos, resoluciones o cualquier otro documento de conformidad con la Ley, las Disposiciones Regulatorias o este Estatuto;
+IV. Promover y coordinar la evaluación de las actividades de la Comisión, por parte de instituciones públicas o privadas, nacionales o extranjeras;
 
-IX. Presentar al Presidente el mapa de riesgos de la Comisión y la estrategia de seguimiento respectiva;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+V. Generar y publicar estadísticas, indicadores e información que permitan la evaluación de las actividades que lleva a cabo la Comisión;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VI. Planear e instrumentar la estrategia y agenda de la Comisión en materia de rendición de cuentas;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Elaborar los informes sobre el desempeño y gestión de la Comisión, en cumplimiento de las disposiciones en materia de planeación, evaluación, seguimiento y control;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+VIII. Implementar los mecanismos institucionales para evaluar el cumplimiento de los programas anuales de trabajo y demás documentos de planeación estratégica institucional;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+IX. Diseñar y establecer la estrategia institucional que facilite la gestión y prevención de riesgos, así como auxiliar al Presidente en la recepción y análisis de los informes relativos a las revisiones y auditorías y demás informes relacionados con el desempeño institucional que el Titular del Órgano Interno de Control le entregue, y aquellos asuntos relacionados con observaciones e informes de la Auditoría Superior de la Federación o de otros auditores externos;
 
 X. Realizar estudios cualitativos y cuantitativos de la política de competencia; y
 
 XI. Las demás que le delegue o encomienden el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
-### Capítulo VIII. De la Contraloría Interna
+> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+Artículo 41 BIS. Corresponde a la Dirección General de Comunicación Social:
+
+I. Ejecutar la política de comunicación social y de relaciones públicas que determine el Presidente, de conformidad con las disposiciones jurídicas en la materia;
+
+II. Informar a la opinión pública sobre los asuntos de la competencia de la Comisión en los términos de las disposiciones aplicables;
+
+III. Diseñar las publicaciones que determine el Presidente;
+
+IV. Captar, analizar y procesar la información de los medios de comunicación, referente a los acontecimientos de interés de la Comisión; y
+
+V. Las demás que le delegue o encomiende el Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+### Capítulo VIII. Del Órgano Interno de Control
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 42.
 
-La Contraloría tendrá como objeto la fiscalización y vigilancia de los ingresos y egresos de la Comisión, la verificación del ejercicio del gasto que realice la Comisión, así como del régimen de responsabilidades de los servidores públicos.
+Para el despacho de los asuntos de su competencia, el Órgano Interno de Control tendrá adscritas a su cargo el Área de Responsabilidades, el Área de Auditoría Interna, el Área de Control Interno y el Área de Quejas, quienes a su vez se auxiliarán de los servidores públicos a su cargo y de los recursos necesarios para el cumplimiento de su objeto, lo que estará sujeto a la disponibilidad presupuestaria de la Comisión.
 
-La Contraloría estará a cargo de un Titular, quien será nombrado en términos del artículo 40 de la Ley; será apoyado para el ejercicio de sus funciones por las Direcciones de Contraloría, y contará con los recursos necesarios para el cumplimiento de su objeto.
+Para efectos de las atribuciones que la Ley y la Ley General de Responsabilidades Administrativas le confieren al Órgano Interno de Control de la Comisión, serán consideradas como Autoridades Investigadoras, Substanciadoras y Resolutoras, las siguientes:
 
-El Titular de la Contraloría y el personal a su cargo estarán sujetos a las causas de destitución, de responsabilidad administrativa, así como a las prohibiciones señaladas en los artículos 44, 45 y 46 de la Ley.
+I. Autoridades Investigadoras:
+
+a) Titular del Órgano Interno de Control; y
+
+b) el Titular del Área de Quejas.
+
+II. Autoridades Substanciadoras:
+
+a) Titular del Órgano Interno de Control; y
+
+b) el Titular del Área de Responsabilidades.
+
+III. Autoridades Resolutoras en materia de faltas administrativas no graves:
+
+a) Titular del Órgano Interno de Control; y
+
+b) el Titular del Área de Responsabilidades.
+
+El Titular del Órgano Interno de Control en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora o Resolutora en un mismo asunto, y garantizará la independencia entre quienes ejerzan dichas funciones.
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 43.
 
-. Corresponde al titular de la Contraloría, además de las atribuciones de las unidades administrativas que le están adscritas:
+Corresponde al Titular del Órgano Interno de Control, además de las atribuciones de las unidades administrativas que le están adscritas:
 
-I. Sustanciar los procedimientos que se deriven del ejercicio de sus atribuciones, supervisar su debido trámite, y cuidar la uniformidad de criterios;
+I. Las establecidas en la Ley a cargo del Órgano Interno de Control;
 
-II. Turnar a las Direcciones de Contraloría los asuntos de su competencia;
+II. Nombrar y remover a los servidores públicos a su cargo;
 
-III. Coordinar a las Direcciones de Contraloría para la realización de auditorías, inspecciones, integración de los expedientes, informes, pliegos de observaciones, evaluaciones, recomendaciones, atender e investigar quejas y denuncias y resolver en materia de inconformidades;
+III. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a las áreas a su cargo;
 
-IV. Presentar al Pleno los resultados de su gestión;
+IV. Declarar sin efectos nombramientos o contratos en casos de omisión en la declaración correspondiente en términos de la normativa aplicable en materia de responsabilidades administrativas de servidores públicos;
 
-V. Proponer al Pleno los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+V. Resolver los recursos de revisión que se interpongan en contra de las resoluciones emitidas por el Titular del Área de Responsabilidades en las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas de la Comisión, en los términos previstos en las disposiciones jurídicas aplicables;
 
-VI. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública gubernamental que le sean aplicables en el ejercicio de sus atribuciones; y
+VI. Tramitar los procedimientos de conciliación previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, Ley de Obras Públicas y Servicios Relacionados con las Mismas y en toda otra disposición normativa aplicable a la Comisión en materia de Contrataciones Públicas;
 
-VII. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, la Ley, y otros ordenamientos aplicables.
+VII. Conocer e investigar los procedimientos de sanción a proveedores, licitantes o contratistas;
+
+VIII. Recibir denuncias por hechos probablemente constitutivos de faltas administrativas a cargo de los servidores públicos o de los particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas; investigar y calificar las faltas administrativas que detecte, así como llevar a cabo las acciones que procedan conforme a dicho ordenamiento;
+
+IX. Sustanciar, en su caso y en términos de Ley General de Responsabilidades Administrativas, el procedimiento de responsabilidad administrativa e imponer las sanciones respectivas, cuando se trate de faltas Administrativas no graves, así como remitir al Tribunal Federal de Justicia Administrativa los procedimientos de responsabilidad administrativa cuando se refieran a faltas administrativas graves y por conductas de particulares sancionables conforme a la Ley General de Responsabilidades Administrativas, para su resolución en términos de dicho ordenamiento;
+
+X. Ordenar y realizar, por sí o por conducto de las áreas a su cargo, inspecciones, auditorías y visitas de verificación e informar de su resultado a los titulares de las unidades administrativas auditadas y al Presidente;
+
+XI. Requerir información, datos, documentos y demás elementos necesarios a las áreas de la Comisión e incluso a diversos organismos gubernamentales o personas jurídicas para el cumplimiento de sus funciones;
+
+XII. Emitir las resoluciones que procedan respecto de los recursos de revocación que se interpongan en contra de las resoluciones por la comisión de faltas administrativas no graves emitidas en los procedimientos de responsabilidad administrativa;
+
+XIII. Atender y, en su caso, proporcionar la información y documentación que soliciten las (sic) órganos e instancias que integran el Sistema Nacional Anticorrupción;
+
+XIV. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública que le sean aplicables en el ejercicio de sus atribuciones, guardando estricta reserva sobre la información y documentos que conozcan, así como de sus actuaciones y observaciones derivadas del ejercicio de sus funciones;
+
+XV. Emitir cuando así proceda constancia de no inhabilitación, previa consulta al Registro de Servidores Públicos Sancionados;
+
+XVI. Expedir las copias certificadas o realizar cotejos de documentos para el cumplimiento de sus funciones;
+
+XVII. Llevar a cabo la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales; y
+
+XVIII. Las demás que se señalen en otras disposiciones jurídicas aplicables en materia de responsabilidad administrativa de los servidores públicos, en lo que no contravengan lo dispuesto en la Ley.
+
+> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 43 BIS. Corresponde a las Áreas adscritas al Órgano Interno de Control:
+
+I. Elaborar e integrar, en el ámbito de sus atribuciones, los informes que deba presentar el Titular del Órgano Interno de Control;
+
+II. Recibir y dar respuesta puntual a las consultas y solicitudes de opinión que le formulen las diferentes unidades administrativas de la Comisión, en el ámbito de sus atribuciones;
+
+III. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión, así como solicitar la colaboración y apoyo de otras autoridades o instituciones, públicas o privadas, para el cumplimento de sus funciones;
+
+IV. Expedir copias certificadas, certificaciones, cotejar o compulsar los documentos existentes en los archivos de las áreas a su cargo, observando lo dispuesto por la normativa de transparencia y acceso a la información pública tratándose de información reservada o confidencial; llevar los registros de los asuntos de su competencia, así como administrar los sistemas informáticos que requiera para realizar sus funciones;
+
+V. Las establecidas en la Ley General de Responsabilidades Administrativas y demás aplicables en la materia para los Órganos Internos de Control;
+
+VI. Coordinar y supervisar los actos de su competencia, y mantener informado al Titular del Órgano Interno de Control sobre el desarrollo de sus actividades;
+
+VII. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública que le sean aplicables en el ejercicio de sus atribuciones, guardando estricta reserva sobre la información y documentos que conozcan, así como de sus actuaciones y observaciones derivadas del ejercicio de sus funciones; y
+
+VIII. Las demás que le confiera el Titular del Órgano Interno de Control, este Estatuto y otras disposiciones jurídicas aplicables, en el ámbito de sus respectivas atribuciones.
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 44.
 
-Las Direcciones de Contraloría serán la Dirección de Quejas y Responsabilidades de los Servidores Públicos y la Dirección de Auditoría.
+Corresponde al Titular del Área de Responsabilidades:
 
-La Dirección de Quejas y Responsabilidades de los Servidores Públicos será la unidad administrativa dependiente de la Contraloría encargada de promover la transparencia y el apego a la legalidad de los servidores públicos, mediante la atención de quejas, denuncias, resolución de procedimientos administrativos de responsabilidades y de inconformidades.
+I. Las establecidas en la Ley General de Responsabilidades Administrativas para las Autoridades Substanciadoras o Resolutoras;
+
+II. Dictar las resoluciones en los recursos de revocación interpuestos en contra de las resoluciones emitidas en los procedimientos de responsabilidad administrativa por la comisión de faltas administrativas no graves;
+
+III. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas, de conformidad con las disposiciones jurídicas aplicables;
+
+IV. Iniciar, instruir y resolver el procedimiento de intervención de oficio, si así lo considera conveniente por presumir la inobservancia de las disposiciones en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
+
+V. Tramitar, instruir y resolver los procedimientos administrativos de sanción a personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas y demás disposiciones en materia de Contrataciones Públicas, e imponer las sanciones correspondientes;
+
+VI. Tramitar los procedimientos de conciliación en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con los mismos derivados de las solicitudes de conciliación que presenten los proveedores o contratistas por incumplimiento a los contratos o pedidos celebrados con la Comisión;
+
+VII. Instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas y la normatividad aplicable a la Comisión en materia de Contrataciones Públicas y someterlos a la resolución del Titular del Órgano Interno de Control;
+
+VIII. Declarar sin efectos nombramientos o contratos en casos de omisión en la declaración correspondiente en términos de la normativa aplicable en materia de responsabilidades administrativas de servidores públicos;
+
+IX. Llevar a cabo la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones o actos que emita el Titular y/o las Áreas del Órgano Interno de Control, con excepción de aquella que le corresponda al Área de Quejas en materia de responsabilidades administrativas; y
+
+X. Interponer el recurso de revisión de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
-Corresponde a la Dirección de Quejas y Responsabilidades de los Servidores Públicos:
+Corresponde al Titular del Área de Auditoría Interna:
 
-I. Tramitar, hasta su conclusión los asuntos que les sean turnados por el Titular de la Contraloría;
+I. Verificar que el ejercicio de gasto de la Comisión se realice conforme a la normativa aplicable, los programas aprobados y montos autorizados;
 
-II. Investigar, en coordinación con la Dirección de Auditoría, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de recursos de la Comisión;
+II. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-III. Proponer al Titular de la Contraloría las sanciones a que habrán de sujetarse los responsables previo procedimiento de responsabilidades;
+III. Verificar, conforme a los criterios y disposiciones aplicables en materia de auditoría y fiscalización, la correcta y legal aplicación de los bienes de la Comisión;
 
-IV. Recibir quejas o denuncias, así como desahogar los procedimientos a que haya lugar relacionados con el uso y disposición de los ingresos y recursos de la Comisión;
+IV. Promover, ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-V. Requerir información y practicar visitas a las áreas de la Comisión para el cumplimento de sus funciones, previa autorización del Titular de la Contraloría;
+V. Comunicar al Área de Quejas, para los efectos de sus respectivas atribuciones, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión, que en el ejercicio de sus funciones llegase a conocer;
 
-VI. Recibir, tramitar inconformidades, procedimientos y recursos administrativos que se promuevan en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios relacionados con las mismas, y sus Reglamentos;
+VI. Ordenar y realizar las auditorías en cumplimiento de sus atribuciones;
 
-VII. Proponer al Titular de la Contraloría las resoluciones sobre los procedimientos establecidos en la fracción anterior;
+VII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
 
-VIII. Integrar el registro de los servidores públicos de la Comisión que hayan sido sancionados por la Contraloría;
+VIII. Ordenar y realizar la verificación en materia de adquisiciones, arrendamientos, servicios y obras públicas, conforme a lo establecido en las disposiciones jurídicas aplicables;
 
-IX. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión, en los términos de la normativa aplicable, en coordinación con la Dirección de Auditoría;
+IX. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, así como llevar a cabo las verificaciones procedentes en caso de detectar anomalías;
 
-X. Llevar el registro, seguimiento y evaluación de la situación patrimonial de los servidores públicos de la Comisión en coordinación con la Dirección General de Administración;
+X. Proponer al Titular del Órgano Interno de Control incorporaciones al Plan Anual de Trabajo y de evaluación de dicho Órgano; y
 
-XI. Emitir los procedimientos, formatos y medios, conforme los cuales se presentarán las declaraciones de situación patrimonial;
+XI. Llevar a cabo la defensa jurídica de los actos que realice en el ejercicio de sus funciones.
 
-XII. Integrar el registro a que se refiere el artículo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
-
-XIII. Atender las solicitudes de las diferentes Unidades Administrativas de la Comisión en los asuntos de su competencia;
-
-XIV. Proponer al Titular de la Contraloría el anteproyecto de presupuesto de dicha Unidad Administrativa;
-
-XV. Proponer al Titular de la Contraloría los informes previo y anual de resultados de su gestión;
-
-XVI. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública gubernamental; y
-
-XVII. Las demás que le delegue o encomiende el titular de la Contraloría, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 46.
 
-La Dirección de Auditoría será la unidad administrativa dependiente de la Contraloría que se encarga de fiscalizar la rendición de cuentas del ejercicio de los recursos de la Comisión.
+Corresponde al Titular del Área de Control Interno:
+
+I. Evaluar los mecanismos establecidos por la Comisión, con el objeto de adoptar las medidas necesarias para el fortalecimiento del control interno, y con ello la prevención de faltas administrativas y hechos de corrupción de los servidores públicos de la Comisión, en términos de lo establecido en el Sistema Nacional Anticorrupción;
+
+II. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
+
+V. Asesorar a la Comisión en los procesos que involucren el ejercicio de recursos presupuestales;
+
+VI. Asesorar a la Comisión en materia de control interno, administración de riesgos, integridad, prevención, disuasión y detección de actos de corrupción, para sugerir acciones que tiendan a su fortalecimiento institucional y control interno y con ello la prevención de faltas administrativas y hechos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión institucional;
+
+VII. Valorar las recomendaciones que realice el Comité Coordinador del Sistema Nacional Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional y control interno y con ello la prevención de faltas administrativas y hechos de corrupción; y
+
+VIII. Llevar a cabo la defensa jurídica de los actos que realice en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 47.
 
-Corresponde a la Dirección de Auditoría:
+Corresponde al Titular del Área de Quejas:
 
-I. Tramitar, hasta su conclusión los asuntos que les sean turnados por el Titular de la Contraloría;
+I. Las establecidas en la Ley General de Responsabilidades Administrativas para las autoridades investigadoras;
 
-II. Proponer al Titular de la Contraloría los procedimientos que se requieran para la revisión y fiscalización de los recursos a cargo de las Unidades Administrativas de la Comisión;
+II. Investigar, de conformidad con las disposiciones jurídicas aplicables, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
 
-III. Auxiliar al Titular de la Contraloría en la verificación del ejercicio del gasto de la Comisión;
+III. Recibir denuncias e investigar las infracciones a las disposiciones que regulan las contrataciones públicas de la Comisión por parte de los licitantes, proveedores o contratistas y resolver lo que en derecho proceda respecto de la existencia o no de presuntas infracciones a la normatividad y, en su caso, promover ante la autoridad competente el inicio del procedimiento respectivo;
 
-IV. Formular pliegos de observaciones en materia administrativa y presentarlos al Titular de la Contraloría;
+IV. Conocer previamente a la presentación de una inconformidad, las irregularidades que a juicio de los interesados se hayan cometido en los procedimientos de adjudicación de adquisiciones, arrendamientos y servicios, así como respecto de obras públicas y servicios relacionados con las mismas que lleve a cabo la Comisión a efecto de que dichas irregularidades se corrijan cuando así proceda;
 
-V. Revisar las operaciones presupuestales que realice la Comisión, y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen, e informar al Titular de la Contraloría;
+V. Recibir las declaraciones de situación patrimonial y de intereses de los servidores públicos de la Comisión e inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de todos los servidores públicos de la Comisión, en los términos que al efecto fije la Secretaría Ejecutiva del Sistema Nacional Anticorrupción;
 
-VI. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia, aplicación de recursos de la Comisión;
+VI. Realizar una verificación aleatoria de las declaraciones de situación patrimonial, de intereses y la constancia de presentación de declaración fiscal de los servidores públicos, así como de su evolución patrimonial, emitiendo en su caso la certificación correspondiente por no detectarse anomalía o iniciar la investigación respectiva, en caso de detectarlas;
 
-VII. Analizar los informes de avance de la gestión financiera;
+VII. Solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, así como la relativa a la declaración patrimonial y de intereses, incluyendo la de los cónyuges, concubinas o concubinarios y dependientes económicos directos del declarante;
 
-VIII. Analizar el cumplimiento de los objetivos y metas fijadas en el presupuesto de egresos de la Comisión;
+VIII. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley Federal de Procedimiento Administrativo; y
 
-IX. Elaborar un informe de verificación de las obras, bienes adquiridos o arrendados y servicios contratados para comprobar que las inversiones autorizadas se apliquen efectivamente;
+IX. Llevar a cabo la defensa jurídica de los acuerdos o resoluciones que emita ante las diversas instancias jurisdiccionales, así como presentar denuncias ante el Ministerio Público, actuando como coadyuvante del mismo en el procedimiento penal respectivo.
 
-X. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable; en coordinación con la Dirección de Quejas y Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-XI. Atender por instrucción del Titular de la Contraloría, las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
+### Capítulo IX. De los Órganos de Transparencia de la Comisión
 
-XII. Proponer al Titular de la Contraloría el anteproyecto de presupuesto de dicho órgano;
-
-XIII. Proponer al Titular de la Contraloría los informes previo y anual de resultados de su gestión;
-
-XIV. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública gubernamental; y
-
-XV. Las demás que le delegue o encomiende el titular de la Contraloría, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
-
-### Capítulo IX. Unidad de Enlace y el Comité de Información
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-Para la implementación eficaz de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la Comisión contará con:
+El Secretario Técnico será el titular de Unidad de Transparencia de la Comisión y ejercerá las funciones que se establezcan en las leyes que emita el Congreso de la Unión en materia de transparencia y protección de datos personales, así como en las normas internas de la Comisión o cualquier otro ordenamiento aplicable.
 
-I. Una Unidad de Enlace que será el vínculo entre la Comisión y el solicitante de información, cuyo titular será el Secretario Técnico, y
-
-II. Un Comité de Información que supervisará y aprobará la clasificación que realicen las áreas de la información en poder de la Comisión, en términos de las disposiciones administrativas que en materia de transparencia y acceso a la información pública gubernamental emita la Comisión.
-
-El Comité de Información estará integrado por un servidor público designado por el Presidente, quien fungirá como Presidente del Comité de Información, el titular de la Unidad de Enlace y un representante de la Contraloría Interna. Los integrantes del Comité de Información podrán nombrar a sus suplentes, en caso de ausencia temporal.
-
-Para la determinación de los demás órganos de transparencia, sus facultades, criterios y procedimientos institucionales se estará a lo dispuesto por las disposiciones administrativas del Pleno de la Comisión.
+Los demás órganos de transparencia de la Comisión se regirán conforme al Reglamento emitido por el Pleno en esta materia.
 
 ### Capítulo X. De las Suplencias y los cargos provisionales
 
-### Capítulo XI. Delegaciones fuera del Distrito Federal
+### Capítulo XI. Delegaciones fuera de la Ciudad de México
 
 ###### ARTÍCULO 49.
 
@@ -1291,11 +1631,19 @@ III. El titular de la Unidad de Planeación, Vinculación y Asuntos Internaciona
 
 IV. Los Directores Generales serán suplidos por los Directores Generales Adjuntos o de Área que designen mediante acuerdo de suplencia.
 
-Cuando el presente Estatuto haga referencia a los titulares de la Autoridad Investigadora, de la Secretaría Técnica, de la Unidad de Planeación, Vinculación y Asuntos Internacionales, de la Contraloría, y de las Direcciones Generales, se entenderá que también se refiere al servidor público que los supla en los términos del presente Estatuto.
+> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+El Titular del Órgano Interno de Control de la Comisión será suplido por ausencia o por vacancia, en su orden, por los Titulares de las Áreas de Responsabilidades, de Quejas, de Auditoría Interna, y de Control Interno, respectivamente. Dicho orden podrá alterarse con el fin de mantener en todo momento la separación entre autoridades investigadoras y autoridades substanciadoras o resolutoras en cada asunto. Los Titulares señalados serán suplidos en su ausencia por el servidor público designado para tales efectos por el Titular del Órgano Interno de Control o, en su defecto, por el servidor público con el segundo nivel de mayor jerarquía adscrito al área de que se trate. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo y, a igualdad de antigüedad, el de mayor edad.
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+Cuando el presente Estatuto haga referencia a los titulares de la Autoridad Investigadora, de la Secretaría Técnica, de la Unidad de Planeación, Vinculación y Asuntos Internacionales, del Órgano Interno de Control y de las Direcciones Generales, se entenderá que también se refiere al servidor público que los supla en los términos del presente Estatuto.
 
 ###### ARTÍCULO 51.
 
 Sin perjuicio de lo previsto por otras normas aplicables, en casos de ausencia temporal o impedimento, los demás servidores públicos de la Comisión serán suplidos conforme al acuerdo correspondiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1341,13 +1689,17 @@ En el caso de que los servidores públicos de la Comisión, para el despacho de 
 
 I. Siempre deberán estar presentes al menos dos servidores públicos;
 
-II. Las solicitudes de reunión se realizarán vía correo electrónico institucional en la que se asentará la identificación del expediente, los agentes económicos, o representante legales que solicitan la reunión, personas que asistirán, servidores públicos con quienes pretende reunirse y el motivo de la reunión; y
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+II. Las solicitudes de reunión se realizarán vía correo electrónico institucional en la que se asentará la identificación del expediente, los agentes económicos, o representantes legales que solicitan la reunión, nombre de las personas que asistirán, servidores públicos con quienes pretende reunirse y el motivo de la reunión; y
 
 III. El servidor público guardará constancia de la entrevista, a fin de integrarla al registro de la Comisión, y deberá señalar fecha y hora de la reunión y comunicarlo al solicitante vía correo electrónico institucional.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 57.
 
-La Autoridad Investigadora no estará sujeta a las reglas de contacto antes señaladas cuando se trate de reuniones de las que puedan derivar elementos de identificación de fuentes derivadas del beneficio de reducción del importe de multas tratándose de prácticas monopólicas absolutas.
+La Autoridad Investigadora no estará sujeta a las reglas de contacto sobre entrevistas señaladas en el artículo 56 del presente Estatuto, cuando se trate de reuniones de las que puedan derivar elementos de identificación de fuentes que provengan del beneficio de reducción de sanciones, tratándose de prácticas monopólicas absolutas.
 
 Las entrevistas de la Autoridad Investigadora que se realicen respecto de los supuestos señalados anteriormente, podrán llevarse a cabo en lugares distintos a las oficinas de la Comisión, siempre y cuando estén presentes al menos dos servidores públicos.
 
@@ -1412,3 +1764,11 @@ DÉCIMO SEGUNDO.- El “Calendario de suspensión de labores para el año dos mi
 Publíquese.- Así lo acordó en sesión del siete de julio de dos mil catorce y firma el Pleno de la Comisión por unanimidad de votos, salvo en el caso del párrafo segundo del artículo 6 en la parte que señala “El Pleno determinará mediante lineamientos la forma en la que los Comisionados presencien la sesión a través de medios electrónicos, cuando exista imposibilidad para que se encuentren físicamente en la misma”, respecto de la cual se manifestaron en contra los Comisionados Eduardo Martínez Chombo y Francisco Javier Núñez Melgoza; con la ausencia del Comisionado Alejandro Ildefonso Castañeda Sabido, quien votó en términos de lo dispuesto por el artículo 18 de la Ley; con fundamento en los artículos citados en los considerandos del presente Estatuto; ante la fe del Secretario Ejecutivo, conforme a lo establecido en el artículo 19, fracción IV del Estatuto Orgánico de la Comisión Federal de Competencia Económica publicado en el Diario Oficial de la Federación el diecinueve de septiembre de dos mil trece.
 
 La Presidente, Alejandra Palacios Prieto.- Rúbrica.- Los Comisionados: Jesús Ignacio Navarro Zermeño, Martín Moguel Gloria, Benjamín Contreras Astiazarán, Francisco Javier Núñez Melgoza, Eduardo Martínez Chombo.- Rúbricas.- El Secretario Ejecutivo, Pedro Adalberto González Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
