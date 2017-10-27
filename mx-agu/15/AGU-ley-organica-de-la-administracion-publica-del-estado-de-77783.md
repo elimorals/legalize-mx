@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2017-05-08"
+last_updated: "2017-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+[NOTA 1: EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EL 27 DE OCTUBRE DE 2017; Y ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EL 27 DE OCTUBRE DE 2017, "SEGUIRÁ VIGENTE EL ARTÍCULO 15, EN SU FRACCIÓN XVI, ASÍ COMO LA SECCIÓN DÉCIMA SEXTA DENOMINADA "DE LA SECRETARÍA DE LA JUVENTUD", Y EL ARTÍCULO 43 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EL 28 DE DICIEMBRE DE 2010 EN EL PERIÓDICO OFICIAL DEL ESTADO."]
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -441,7 +445,7 @@ X. Las demás que expresamente señalen esta Ley, las leyes del Estado y el Regl
 
 Los Titulares de las Coordinaciones Generales y Direcciones Generales y de los cargos públicos homologados a éstos, tendrán las atribuciones comunes siguientes:
 
-l. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de la unidad administrativa a su cargo, de acuerdo con los lineamientos que le indiquen sus superiores, en términos de la legislación aplicable;
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de la unidad administrativa a su cargo, de acuerdo con los lineamientos que le indiquen sus superiores, en términos de la legislación aplicable;
 
 II. Acordar con la autoridad superior que corresponda por razones de adscripción, la resolución de los asuntos de su competencia, y proponer las medidas de desarrollo administrativo necesarias para el mejor funcionamiento de la Coordinación General o Dirección General a su cargo;
 
@@ -2322,3 +2326,81 @@ La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorru
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
 
 Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+P.O. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 164.- LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 28 de diciembre del 2010 en el Periódico Oficial del Estado de Aguascalientes, mediante Decreto Número 19.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos legales a que haya lugar, la Secretaría de la Juventud será sustituida por el Instituto de la Juventud del Estado de Aguascalientes en el cumplimiento de sus obligaciones y el ejercicio de sus atribuciones en su respectiva materia.
+
+El Congreso del Estado a partir de la publicación del presente Decreto y a más tardar antes de su inicio de vigencia, deberá expedir la Ley que crea el Instituto de la Juventud del Estado de Aguascalientes.
+
+Hasta en tanto se expida el ordenamiento referido, seguirá vigente el Artículo 15, en su Fracción XVI, así como la Sección Décima Sexta denominada "De la Secretaría de la Juventud", y el Artículo 43 BIS de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010 en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+A partir del primero de enero del año dos mil diecinueve, se deroga el Título Segundo de la Ley de Agua para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 24 de julio de 2000, quedando extinto el Organismo Público Descentralizado del Gobierno del Estado denominado "Instituto del Agua del Estado".
+
+Los recursos humanos, financieros y materiales que se encuentran asignados al Instituto, pasarán a formar parte de la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, debiendo realizarse dichas transferencias a partir de la entrada en vigencia del presente Decreto, las cuales deberán concluir a más tardar el día treinta y uno de diciembre del año dos mil dieciocho.
+
+Los ingresos que perciba el Instituto, contemplados en la Ley de Ingresos para el Estado de Aguascalientes para el ejercicio fiscal 2018, a partir de la fecha de entrada en vigor del presente Decreto, se entenderán como percibidos para todos los efectos legales por la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, no obstante lo anterior, en el período de transición, el Instituto podrá recaudar los ingresos correspondientes, mismos que deberán ser transferidos a la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Media (sic) Ambiente y Agua, según corresponda.
+
+Las Unidades Administrativas del Instituto que se transfieran a la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, transferirán los expedientes, asuntos y procedimientos pendientes a su cargo, para que sean asumidos por la Secretaría correspondiente.
+
+La transferencia de los recursos humanos, materiales y financieros se realizarán a través de acuerdos administrativos que establecerán los términos y condiciones bajo los cuales deban realizarse dichas transferencias hasta la total liquidación del organismo.
+
+###### ARTÍCULO QUINTO.
+
+A la entrada en vigor del presente Decreto se realizarán las transferencias de personal, de recursos financieros y materiales de una Entidad o Dependencia a otra, según proceda.
+
+Los acuerdos celebrados entre las Dependencias y las Entidades, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto se realizarán las transferencias de personal, de recursos financieros y materiales de las Unidades Administrativas de una Dependencia a otra, según proceda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las obligaciones laborales de cada Entidad o Dependencia que se extinga o transforme, serán asumidas por la respectiva De­ pendencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que se realice a la Dependencia o Entidad que corresponda.
+
+En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Secretaría de Administración y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+A la entrada en vigor del presente Decreto, deberán haberse emitido todos aquéllos acuerdos administrativos y actos jurídicos con motivo de las transferencias del personal y recursos materiales y financieros a que se refieren los artículos que anteceden, mismas que serán coordinadas y vigiladas por la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Cuando esté siendo sustanciado un asunto competencia de alguna Dependencia o Entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por otra u otras, deberán transferirse los expedientes en trámite y el archivo a la Dependencia o Entidad correspondiente, la cual deberá concluir dichos asuntos y dictar la resolución respectiva.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación a los expedientes, asuntos, procedimientos y recursos instaurados ante la Secretaría de Fiscalización y Rendición de Cuentas, que serán asumidos por la Contraloría del Estado, ésta publicará en el Periódico Oficial del Estado, el Acuerdo de Inicio de Funciones, que hará las veces de notificación de que dicha Contraloría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador del Estado deberá expedir los reglamentos interiores de las Dependencias de nueva creación a que se refiere el presente ordenamiento, así como adecuar los de las Dependencias cuyas atribuciones se reforman o modifican; dichas acciones deberán estar concluidas en su totalidad a la entrada en vigor del presente Decreto. Entre tanto, se aplicarán los reglamentos que han regido en lo que no contravengan al presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración será la encargada de dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada Dependencia de manera funcional, previa autorización presupuestal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, las Dependencias deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar para dar cumplimiento al presente Decreto.
+
+ARTÍICULO (SIC) DÉCIMO CUARTO.- Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
