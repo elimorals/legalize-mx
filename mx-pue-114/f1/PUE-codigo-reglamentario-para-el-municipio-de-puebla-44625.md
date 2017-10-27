@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-10-05"
+last_updated: "2017-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10927,7 +10927,9 @@ III. Afectación. La determinación del uso de suelo señalada en el Programa Mu
 
 IV. Aguas Residuales. Las aguas de composición variada provenientes de las descargas de uso público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y, en general, de cualquier uso, así como la mezcla de ellas.
 
-V. Alineamiento. La línea que señala el límite de una propiedad respecto a una vía pública establecida en cualquier plano autorizado o registro oficial existente en una dependencia municipal, estatal o federal.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+V. Alineamiento. La línea que señala el límite de un inmueble respecto a una vía pública establecida en cualquier plano autorizado o registro oficial existente en una dependencia municipal, estatal o federal.
 
 VI. Área Común. La superficie de terreno o las instalaciones existentes en un conjunto de edificios constituido bajo el régimen de propiedad en condominio, cuyos derechos de propiedad y aprovechamiento comparten las y los condóminos en la forma que se establece en su misma constitución.
 
@@ -10935,7 +10937,9 @@ VII. Área Común de Uso Restringido. La propiedad común solamente para una par
 
 VIII. Área de Donación. La superficie de terreno que los fraccionadores deberán donar a título gratuito al H. Ayuntamiento para destinarlas de manera permanente como áreas verdes y equipamiento urbano, de conformidad con lo que se establezca en la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla y el Programa Municipal de Desarrollo Urbano Sustentable vigente.
 
-IX. Área Neta. La superficie de terreno que resulte de descontar de la superficie total del fraccionamiento, la ocupada por vías públicas, obras hidráulicas y sanitarias, así como las restricciones que presente.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+IX. Área Neta. La superficie de terreno utilizable que resulte de descontar de la superficie total del fraccionamiento, la ocupada por vías públicas, obras hidráulicas y sanitarias, así como las restricciones que presente.
 
 X. Área Patrimonial. Aquellas que se encuentran en el Municipio y en donde existieron o existen vestigios de arte, tradición y cultura del pasado, son áreas que sirvieron de asentamiento de fundaciones y que dejaron huella en el urbanismo, arquitectura, mano de obra y uso de materiales, incluye los ubicados en Juntas Auxiliares y otros polígonos con programas específicos aprobados por Cabildo.
 
@@ -11071,7 +11075,9 @@ XLIX. Espacio Público. Las áreas, espacios abiertos o predios de los asentamie
 
 L. Estudio de Impacto Urbano Territorial. El documento de carácter técnico en el que se justifica la realización de un proyecto específico de acción urbanística o construcción en el Municipio de Puebla a través del cual se analizan las externalidades e impactos que genera una obra o proyecto que por su proceso constructivo, funcionamiento o magnitud, rebase la capacidad de la infraestructura, los servicios públicos o los equipamientos urbanos existentes, así como las medidas de mitigación, restauración o compensación necesarias.
 
-LI. Expediente Único. El proceso eficiente y eficaz de atención para la obtención de permisos de construcción para obras nuevas mayores a 50.1 m2 de construcción que se integra de constancia de alineamiento y número oficial, licencia de uso de suelo, asignación de medidas de mitigación, plan de manejo para disposición final de residuos sólidos de la construcción, en general y licencia de obra mayor.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+LI. Expediente Único. El proceso eficiente y eficaz de atención para la obtención de permisos de construcción para obras nuevas mayores a 50.01 m2 de construcción que se integra de constancia de alineamiento y número oficial, licencia de uso de suelo, asignación de medidas de mitigación, plan de manejo para disposición final de residuos sólidos de la construcción, en general y licencia de obra mayor.
 
 F
 
@@ -11081,7 +11087,9 @@ LIII. Fundación. La acción de establecer un asentamiento humano.
 
 LIV. Fusión. La unión en un solo predio de dos o más predios colindantes, para constituir una unidad de mayor extensión.
 
-LV. Fraccionamiento. La división de un terreno, que requiera del trazo de una o más vías públicas para generar manzanas y lotes, así como de la ejecución de obras de urbanización, infraestructura, y equipamiento urbano, independientemente de su superficie y régimen de propiedad.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+LV. Fraccionamiento. La división de un terreno en más de diez unidades y/o que requiera del trazo de una o más vías públicas para generar manzanas y lotes, así como de la ejecución de obras de urbanización, infraestructura, y equipamiento urbano, independientemente de su superficie y régimen de propiedad.
 
 G
 
@@ -11101,7 +11109,9 @@ LX. IMAV. El Inventario Municipal de Áreas Verdes. El instrumento administrativ
 
 LXI. IMPLAN. El Instituto Municipal de Planeación de Puebla.
 
-LXII. Incorporación de Tierras al Desarrollo Urbano Municipal. El procedimiento por el que un predio rústico o localizado en el área de expansión o de reserva de crecimiento de un centro de población se transforma en área urbana o urbanizable, señalado en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+LXII. Incorporación de Tierras al Desarrollo Urbano Municipal. El procedimiento por el que un predio rústico o localizado en el área de expansión o de reserva de crecimiento de un centro de población se transforma en área urbana o urbanizable, señalado en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley de Desarrollo Urbano Sustentable del Estado de Puebla y la normativa aplicable.
 
 LXIII. Infraestructura Urbana. Los sistemas, redes, flujos y elementos físicos de organización y distribución de bienes y servicios que permite el uso o construcción de espacios para el desarrollo de las actividades sociales, productivas, culturales y ambientales que se realizan en los centros de población.
 
@@ -11193,7 +11203,9 @@ C. Reservas. Las áreas no aprovechadas de un centro de población que serán ut
 
 CI. Residuos de Manejo Especial Generados por la Construcción. Son aquéllos generados en los procesos de la construcción, mantenimiento y demolición en general y que no reúnen las características para ser considerados peligrosos, ni residuos sólidos urbanos.
 
-CII. Residuo Sólido Urbano. El material generado en las casas habitación, que resultan de sus actividades domésticas, de los productos que consumen y de sus envases, embalajes y empaques los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y espacios públicos.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+CII. Residuo Sólido Urbano (RSU). El material generado en las casas habitación, que resultan de sus actividades domésticas, de los productos que consumen y de sus envases, embalajes y empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y espacios públicos.
 
 CIII. Resiliencia. Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos.
 
@@ -11311,7 +11323,9 @@ V. Expedir las constancias de uso del suelo, así como licencias de uso de suelo
 
 VI. Fijar el trazo, ejes, niveles, alineamientos y demás características de las vías públicas
 
-VII. Fijar los requisitos técnicos a que deberán sujetarse la solicitud y expedición de constancias, licencias y permisos de su competencia
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Fijar los requisitos técnicos a que deberán sujetarse la solicitud y expedición de constancias, licencias, permisos, factibilidades, dictámenes, resolutivos y autorizaciones de su competencia;
 
 VIII. Verificar el cumplimiento de las normas de utilización aplicables a los usos y destinos condicionados, consignándolos en las licencias, permisos o autorizaciones que este expida
 
@@ -11331,7 +11345,9 @@ XV. Ordenar que se impongan las medidas de seguridad necesarias a efecto de corr
 
 XVI. Imponer sanciones por infracciones cometidas en contra de las disposiciones señaladas en el presente Capítulo y las de la legislación aplicables, así como dar vista a las autoridades competentes, para la aplicación de las sanciones que en materia penal se deriven de las faltas y violaciones de las disposiciones jurídicas de desarrollo urbano, ordenación ecológica y medio ambiente
 
-XVII. Ordenar la ejecución de retiros y/o demoliciones de obras privadas que se hayan realizado en contravención a las disposiciones establecidas en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el presente Capítulo y los demás ordenamientos federales, estatales y municipales aplicables y que las/los propietarios o poseedores en desacato no hayan cumplido
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+XVII. Ordenar el retiro y/o demoliciones de cualquier construcción que se haya realizado en contravención a las disposiciones establecidas en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el presente Capítulo y los demás ordenamientos federales, estatales y municipales aplicables y que las/los propietarios o poseedores en desacato no hayan cumplido;
 
 XVIII. Expedir, modificar y revocar, cuando lo considere procedente, los acuerdos, resoluciones, circulares y disposiciones administrativas aplicables para el debido cumplimiento del presente Capítulo
 
@@ -11341,7 +11357,9 @@ XX. Participar en el reconocimiento de asentamientos humanos y la regularizació
 
 XXI. Proponer a la comisión a través de la/el Secretario los proyectos, estudios técnicos y programas que permitan mejorar los procesos para vigilar, controlar y ordenar el desarrollo urbano municipal
 
-XXII. Revocar o dejar sin efecto las licencias, autorizaciones y permisos cuando las mismas contravengan la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el PMDUS y los Programas Parciales que se deriven del mismo
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+XXII. Revocar o dejar sin efecto las constancias, licencias, permisos, factibilidades, dictámenes, resolutivos y autorizaciones; cuando las mismas contravengan la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el PMDUS y los Programas Parciales que se deriven del mismo;
 
 XXIII. Solicitar el uso de la fuerza pública, cuando sea necesario, para hacer cumplir sus determinaciones
 
@@ -11373,19 +11391,29 @@ V. Expedir., modificar y revocar, cuando lo considere procedente, los acuerdos, 
 
 VI. Las demás que le confieren el Capítulo 26 del presente COREMUN y las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 663.
 
 Para la aplicación del presente Capítulo la/el Gerente tendrá las siguientes facultades:
 
-I. Otorgar las factibilidades de uso de suelo establecidas en el presente Capítulo respecto a las acciones urbanísticas, construcciones, instalación de anuncios y establecimientos comerciales en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio
+l. Otorgar las factibilidades de uso de suelo establecidas en el presente Capítulo respecto a las acciones urbanísticas, construcciones, instalación de anuncios y establecimientos comerciales en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio;
 
-II. Solicitar a la/el Director ordene inspecciones a obras en proceso y/o terminadas en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio a efecto de determinar infracciones cometidas en contra de las disposiciones señaladas en el presente Capítulo
+II. Solicitar a la/el Director ordene inspecciones a obras en proceso y/o terminadas en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio a efecto de determinar infracciones cometidas en contra de las disposiciones señaladas en el presente Capítulo;
 
-III. Proponer al H. Ayuntamiento los proyectos, estudios técnicos y programas que permitan mejorar los procesos para vigilar, controlar y ordenar el Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio, y
+III. Proponer al H. Ayuntamiento los proyectos, estudios técnicos y programas que permitan mejorar los procesos para vigilar, controlar y ordenar el Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio;
 
-IV. Las demás que le confieren las disposiciones legales aplicables.
+IV. Solicitar a la UOMPC el dictamen de riesgo de los inmuebles ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio de Puebla;
+
+V. Asesorar a los propietarios y poseedores de inmuebles ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio de Puebla, en las diferentes etapas de las intervenciones que se realicen a dichos inmuebles;
+
+VI. Promover la cooperación y el intercambio de prácticas referenciales respecto a la promoción y conservación del patrimonio cultural;
+
+VII. Promover la creación y difusión de centros de capacitación en técnicas de construcción artesanal, protección, conservación y restauración del patrimonio cultural del Municipio, alentando la participación ciudadana para propiciar el conocimiento, revalorización, fortalecimiento y promoción del Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio de Puebla;
+
+VIII. Promover concursos, certámenes y otorgar reconocimientos a personas físicas o morales que hayan destacado en actividades tendientes a la conservación y preservación del Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio de Puebla, y
+
+IX. Las demás que le confieren las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -11477,23 +11505,23 @@ De las/los Directores Responsables de Obra y Corresponsables
 
 La Dirección ejercerá sus facultades de administración del suelo y expedición de licencias de construcción con el auxilio de profesionales en el ramo de la construcción, quienes serán nombrados DRO, cuya responsiva de participación en un proyecto u obra garantiza que se realiza en apego a las disposiciones técnicas y normativas del marco legal aplicable.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 668.
 
-Las obras públicas y privadas que requieran licencia de construcción, invariablemente deben realizarse bajo la responsabilidad de un profesional registrado ante la CAADROC, conforme a la siguiente clasificación:
+Las obras públicas y privadas que requieran licencia de construcción de conformidad con lo señalado en el presente Capítulo, invariablemente deben realizarse bajo la responsabilidad de un profesionista registrado ante la CAADROC, conforme a la siguiente clasificación:
 
-I. Director/a Responsable de Obra "C". En obras de vivienda, servicios o bodegas no mayores a 500m2 de superficie y hasta tres niveles con altura máxima a 10 m
+l. Director Responsable de Obra "C".- Para las obras menores a 500m2 de superficie de construcción;
 
-II. Director/a Responsable de Obra "B". En obras de cualquier naturaleza a excepción de las que estén expresamente señaladas en la fracción tercera y que requieran de la participación de un DRO
+II. Director Responsable de Obra "B".- Para las obras mencionadas en la fracción anterior, además de las que cuentan con superficie mayor a 500 m2 y menores a 5000 m2 de construcción;
 
-III. Director/a Responsable de Conservación de Patrimonio Edificado "B". En las obras de mantenimiento, preservación y consolidación mayores a 100 m2 de inmuebles ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio
+III. Director Responsable de Obra "A".- Además de las señaladas en las fracciones anteriores, paran (sic) las obras mayor a 5,000 m2 de construcción y la obra pública;
 
-IV. Director/a Responsable de Obra "A". En obras con altura mayor a 35.00 m, salas de espectáculos con capacidad mayor a 1,000 espectadores desarrollos turísticos, comerciales industriales y de servicio mayores a 5,000 m2, fraccionamientos y unidades de vivienda mayores a 500 unidades hospitales y unidades de salud con capacidad superior a 12 camas (sic) obras públicas
+IV. Director Responsable de Conservación de Patrimonio Edificado.- Para todas las intervenciones, incluida obra pública que se realicen en inmuebles con categoría 1, 2 y 4-Relevante ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio, las que colinden con bienes de valor patrimonial, para mantenimiento, restauración, aseguramiento, reestructuración, integración, reintegración, consolidación, anastilosis, adecuación, introducción de nuevos sistemas de instalaciones y servicios, actualización de sitios históricos y revitalización, y
 
-V. Director/a Responsable de Conservación de Patrimonio Edificado "A". Para todas las edificaciones nuevas y existentes dentro del Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio, las que colinden con bienes de valor patrimonial, para mantenimiento, restauración, aseguramiento, reestructuración, integración, reintegración, consolidación, anastilosis, adecuación, introducción de nuevos sistemas de instalaciones y servicios, actualización de sitios históricos y revitalización, y
+V. Corresponsable.- En la elaboración de estudios técnicos de su especialidad en los tipos que el proyecto ejecutivo y la licencia lo requieran. La intervención del corresponsable especializado será requerida en las construcciones que sean coordinadas por la/el DRO.
 
-VI. Corresponsable. En la elaboración de estudios técnicos de su especialidad en los tipos que el proyecto ejecutivo y la licencia lo requieran. La intervención del corresponsable especializado será requerida en las construcciones que sean coordinadas por la/el DRO de obra.
+Para las obras privadas en inmuebles con categoría 3, 4 y 5 ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio de Puebla, se solicitará la responsiva del DRO y Corresponsables que se necesiten de acuerdo al tipo de obra de que se trate.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -11503,15 +11531,17 @@ VI. Corresponsable. En la elaboración de estudios técnicos de su especialidad 
 
 La/El Director de Desarrollo Urbano y los servidores públicos encargados de la supervisión de obras y el análisis para la emisión de licencias de construcción deberán tener calidad de DRO o Corresponsable. Adicionalmente, todos las/los funcionarios adscritos a la Dirección deberán recibir capacitación especializada en materia de la legislación y los procedimientos administrativos aplicables, conforme a lo establecido en este Capítulo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 670.
 
-Para obtener el registro como DRO, las y los aspirantes deben cumplir con los siguientes requisitos:
+Para obtener la calidad de DRO y registrarse en el padrón respectivo, las y los aspirantes deben cumplir con los siguientes requisitos:
 
 Tabla Requisitos DRO.
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 36.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 11.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -11519,47 +11549,49 @@ Tabla Requisitos DRO.
 
 La experiencia deberá computarse a partir de la emisión de su carta de pasante, o acreditando haber sido residente de obra, superintendente de construcción, o en su caso director en el sector público o privado de obras.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 672.
 
-Las y los aspirantes a obtener el registro como Corresponsable deben cumplir los siguientes requisitos:
+Para obtener la calidad de Corresponsable y registrarse en el padrón respectivo, las y los aspirantes deben cumplir con los siguientes requisitos:
+
+Tabla de requisitos para Corresponsables.
 
 Requisitos
 
-Solicitud por escrito ante CAADROC x
+l. Solicitud por escrito ante CAADROC; X
 
-Currículum Vitae x
+II. Currículum Vitae; X
 
-Copia simple de identificación oficial x
+III. Copia simple de identificación oficial; X
 
-Copia simple de la cédula profesional x
+IV. Copia simple de la cédula profesional o Carta de pasante en su caso; X
 
-Ser miembro activo de un Colegio de Profesionistas debidamente registrado ante la SEP x
+V. Ser miembro activo de un Colegio de Profesionistas debidamente registrado ante la Secretaría de Educación Pública; X
 
-Tomar curso de inducción x
+VI. Tomar curso de inducción y aprobarlo con calificación mínima del 80%;X
 
-Evaluación del curso de inducción aprobada con calificación mínima del 80% x
+VII. Años de experiencia** 5
 
-Años de experiencia ** 5
+VIII. Copia simple del título profesional o Carta de pasante en su caso, de acuerdo a la lista siguiente: X
 
-Copia simple del título profesional de acuerdo a la lista siguiente:
+a) Seguridad Estructural: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal
 
-Seguridad Estructural: arquitecto, ingeniero arquitecto, ingeniero civil, ingeniero militar, ingeniero constructor e ingeniero municipal
+b) Desarrollo Urbano Sustentable: Diseñador Urbano Ambiental Y Urbanista, Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal
 
-Desarrollo Urbano Sustentable: diseñador urbano ambiental y urbanista, arquitecto, ingeniero arquitecto, ingeniero civil, ingeniero militar, ingeniero constructor e ingeniero municipal
+c) Diseño Arquitectónico: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal
 
-Diseño Arquitectónico: arquitecto, ingeniero arquitecto, ingeniero civil, ingeniero militar, ingeniero constructor e ingeniero municipal
+d) Instalaciones Mecánicas: Ingeniero Mecánico, Mecánico Electricista, Ingeniero Civil con especialidad en la materia;
 
-Instalaciones Mecánicas: ingeniero mecánico, mecánico electricista, ingeniero civil
+e) Instalaciones Eléctricas: Ingeniero Mecánico Electricista, Ingeniero Electricista, o Ingeniero Industrial en Electricidad;
 
-Instalaciones Eléctricas: ingeniero mecánico electricista, ingeniero electricista, o ingeniero industrial en electricidad
+f) Instalaciones Hidráulicas y Sanitarias: Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal, Ingeniero Mecánico o Mecánico Electricista;
 
-Instalaciones Hidráulicas y Sanitarias: arquitecto, ingeniero civil, ingeniero militar, ingeniero constructor e ingeniero municipal, ingeniero mecánico o mecánico electricista
+g) Instalaciones de Gas: Ingeniero Mecánico, Ingeniero Mecánico Electricista, Ingeniero Químico o Ingeniero Químico Industrial, Ingenieros Civiles;
 
-Instalaciones de Gas: ingeniero mecánico, ingeniero mecánico electricista, ingeniero químico o ingeniero químico industrial, ingenieros civiles
+h) Geotecnia: Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal, Arquitecto con posgrado en el área de Geotecnia o Mecánica de Suelos;
 
-Geotecnia: ingeniero arquitecto, ingeniero civil, ingeniero militar, ingeniero constructor e ingeniero municipal, arquitecto con posgrado en el área de geotecnia o mecánica de suelos
+i) Restauración: Especialización académica correspondiente como restaurador y/o conservador de sitios y monumentos, u otras, afines a la disciplina o experiencia en obras de restauración, o acreditar experiencia en la especialidad a consideración de la CAADROC y del Comité Técnico correspondiente.
 
 ** La experiencia deberá computarse a partir de la emisión de su carta de pasante, o acreditando haber sido residente de obra, superintendente de construcción, o en su caso director en el sector público o privado de obras.
 
@@ -11591,11 +11623,11 @@ El comité técnico de cursos y exámenes de la CAADROC podrá proponer los cont
 
 En un término no mayor a cinco días hábiles, contados a partir de que concluya el curso de inducción, se aplicará una evaluación sobre los temas planteados. El contenido de dicha evaluación será propuesta a la CAADROC por el comité técnico de cursos y exámenes en el mes de enero de cada año.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 676.
 
-Durante los meses de enero y febrero de cada ejercicio fiscal, las/los DRO y las/los Corresponsables deberán refrendar su registro ante la CAADROC, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos.
+Los DRO y los Corresponsables deberán refrendar su registro ante la CAADROC, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -11637,7 +11669,9 @@ V. Responder de cualquier violación a las disposiciones de este Capítulo, debi
 
 VI. Llevar y mantener actualizada la bitácora de obra en la versión que corresponda
 
-VII. Colocar en un lugar visible de la obra un letrero con dimensiones mínimas de 90 x 60 cm., con nombre de los Corresponsables, así como los números de registro, número de licencia de la obra y ubicación de la misma
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Colocar en un lugar visible de la obra un letrero con dimensiones mínimas de 90 x 60 cm., con el nombre del proyecto (en su caso), alineamiento y número oficial, número y vigencia de la licencia de obra, nombre y número de registro del DRO, nombre y número de registro de los Corresponsables;
 
 VIII. Supervisar la obra mínimo una vez a la semana, registrando los eventos en la bitácora correspondiente
 
@@ -11687,127 +11721,131 @@ b.1.2. Subgrupo B2: Las demás fuera de este grupo.
 
 II. Corresponsable en Desarrollo Urbano Sustentable, cuya actividad y especialización se relacionen con estudios y/o proyectos del entorno urbano:
 
-a) Planeación y administración del desarrollo urbano y ordenamiento territorial movilidad urbana, impacto vial imagen urbana, paisajismo y patrimonio urbano impactos y riesgos ambientales, ordenamiento ecológico y vulnerabilidad en los asentamientos humanos impacto urbano o impacto urbano-ambiental en los siguientes caso (sic):
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-- Conjuntos habitacionales a partir de 10 viviendas
+a) Planeación y administración del desarrollo urbano y ordenamiento territorial; movilidad urbana, impacto vial; imagen urbana, paisajismo y patrimonio urbano; impactos y riesgos ambientales, ordenamiento ecológico y vulnerabilidad en los asentamientos humanos; impacto urbano o impacto urbano-ambiental en los siguientes casos:
 
-- Fraccionamientos
+1. Conjuntos habitacionales a partir de 100 viviendas;
 
-- Hospitales
+2. Hospitales;
 
-- Panteones
+3. Panteones;
 
-- Clínicas
+4. Clínicas;
 
-- Centros de Salud
+5. Centros de Salud;
 
-- Edificaciones para exhibiciones
+6. Edificaciones para exhibiciones;
 
-- Estaciones y terminales de transporte terrestre
+7. Estaciones y terminales de transporte terrestre;
 
-- Aeropuertos
+8. Aeropuertos;
 
-- Estudios cinematográficos y de televisión
+9. Estudios cinematográficos y de televisión;
 
-- Centros comerciales
+10. Centros comerciales;
 
-- Instalaciones deportivas
+11. Instalaciones deportivas;
 
-- Templos
+12. Templos;
 
-- Salas de espectáculos
+13. Salas de espectáculos;
 
-- Edificios públicos con salas de reunión de más de 200 personas y espacios abiertos de uso público de cualquier magnitud y
+14. Edificios públicos con salas de reunión de más de 200 personas y espacios abiertos de uso público de cualquier magnitud, y
 
-- Obra pública
+15. Obra pública.
 
-III. Corresponsable en Diseño Arquitectónico, cuya actividad y especialización se relacionen con el diseño para los siguientes casos:
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-- Conjuntos Habitacionales a partir de 10 viviendas
+III. Corresponsable en Diseño Arquitectónico. cuya actividad y especialización se relacionen con el diseño para los siguientes casos:
 
-- Fraccionamientos
+a) Conjuntos Habitacionales a partir de 100 viviendas;
 
-- Hospitales
+b) Hospitales;
 
-- Panteones
+c) Panteones;
 
-- Clínicas
+d) Clínicas;
 
-- Centros de Salud
+e) Centros de Salud;
 
-- Edificaciones para Exhibiciones
+f) Edificaciones para Exhibiciones;
 
-- Baños Públicos
+g) Baños Públicos;
 
-- Estaciones y Terminales de Transporte Terrestre
+h) Estaciones y Terminales de Transporte Terrestre;
 
-- Aeropuertos
+i) Aeropuertos;
 
-- Estudios Cinematográficos y de Televisión
+j) Estudios Cinematográficos y de Televisión;
 
-- Centros Comerciales
+k) Centros Comerciales;
 
-- Instalaciones Deportivas
+l) Instalaciones Deportivas;
 
-- Templos
+m) Templos;
 
-- Salas de Espectáculos
+n) Salas de Espectáculos;
 
-- Edificios Públicos con Salas de Reunión de más de 200 Personas
+o) Edificios Públicos con Salas de Reunión de más de 200 Personas;
 
-- Espacios abiertos de uso público de cualquier magnitud
+p) Espacios abiertos de uso público de cualquier magnitud;
 
-- El resto de las edificaciones que tengan más de 2,000 m2 construidos, o más de 20 m de altura sobre el nivel medio de banqueta o con capacidad para más de 200 concurrentes en locales cerrados o más de 800 concurrentes en locales abiertos
+q) El resto de las edificaciones que tengan más de 2,000 m2 construidos, o más de 20 m de altura sobre el nivel medio de banqueta o con capacidad para más de 200 concurrentes en locales cerrados o más de 800 concurrentes en locales abiertos, y
 
-- Obra pública.
+r) Obra pública.
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 IV. Corresponsables en Instalaciones Hidráulicas y Sanitarias. Para todas aquellas obras cuya superficie, gasto en litros por segundo y el grado de complejidad del proyecto lo requieran, ajustado a lo previsto en la normatividad existente. Su participación estará sujeta a lo establecido en el presente Capítulo.
 
-- Para fraccionamientos
+a) Conjuntos habitacionales a partir de 100 viviendas;
 
-- Conjuntos habitacionales a partir de diez viviendas
+b) Baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos;
 
-- Baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos
+c) Hospitales, clínicas, centros de salud públicos y privados;
 
-- Hospitales, clínicas, centros de salud públicos y privados
+d) Aeropuertos;
 
-- Aeropuertos
+e) Edificios públicos;
 
-- Edificios públicos
+f) Industria pesada y mediana;
 
-- Industria pesada y mediana
+g) Plantas o naves industriales;
 
-- Plantas o naves industriales
+h) Cárcamos, bombas e instalaciones deportivas;
 
-- Cárcamos, bombas e instalaciones deportivas
+i) Edificios de dormitorios;
 
-- Edificios de dormitorios
+j) Teatros;
 
-- Teatros
+k) Centros de convenciones;
 
-- Centros de convenciones
+l) Cines, centros comerciales;
 
-- Cines, centros comerciales
+m) Auditorios;
 
-- Auditorios
+n) Instituciones educativas;
 
-- Instituciones educativas
+o) Gasolineras;
 
-- Gasolineras
+p) Mercados;
 
-- Mercados
+q) Hoteles y moteles;
 
-- Hoteles y moteles
+r) Instalaciones para exhibiciones permanentes, y
 
-- Instalaciones para exhibiciones permanentes y
+s) Crematorios y panteones.
 
-- Crematorios y panteones
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-V. Corresponsables en Instalaciones Eléctricas. Para las construcciones que cuenten con instalaciones eléctricas en cualquiera de los niveles de tensión de operación cualquiera que sea su uso, público o privado
+V. Corresponsables en Instalaciones Eléctricas. Para las construcciones que cuenten con instalaciones eléctricas en cualquiera de los niveles de tensión de operación cualquiera que sea su uso, público o privado, que requieran un nuevo transformador de flujo eléctrico;
 
 VI. Corresponsables en Instalaciones Mecánicas. En toda edificación que cuente con elevadores de pasajeros, de carga, industriales, residenciales o con escaleras o rampas electromecánicas, compresores, equipos de combustión, subestaciones, condicionamiento de aire, ecosistemas
 
-VII. Corresponsables en Instalaciones de Gas. Para los sistemas de distribución de gas natural por ductos y en toda construcción que cuente con instalaciones fijas de aprovechamiento de gas natural o de gas Licuado de Petróleo (L.P.)., ya sea con recipientes de almacenamiento fijos o portátiles, instalaciones de gas subterráneas, ya sean en vía pública o propiedad privada
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+VII. Corresponsables en Instalaciones de Gas. Para los sistemas de distribución de gas natural por ductos y en toda construcción que cuente con instalaciones fijas de aprovechamiento de gas natural o de gas Licuado de Petróleo (L.P.), ya sea con recipientes de almacenamiento fijos o portátiles, instalaciones de gas subterráneas, ya sean en vía pública o propiedad privada, a partir de 10 viviendas;
 
 VIII. Corresponsables en Geotecnia. Para aquellas obras que se refieran a los siguientes casos:
 
@@ -11834,6 +11872,10 @@ j) De profundidad y que existan construcciones colindantes a las cuales se pueda
 k) Muros de contención de más de 3 m de altura
 
 l) Elaborar dictámenes previos a la realización de los trabajos de obra pública para construcción y pavimentación de calles.
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+IX. Corresponsable en Restauración. Para todas las edificaciones nuevas y existentes dentro del Centro Histórico, Áreas Patrimoniales y Monumentos en el Municipio de Puebla, para mantenimiento, restauración, aseguramiento, reestructuración, integración, reintegración, consolidación, anastilosis, adecuación, introducción de nuevos sistemas de instalaciones y servicios, actualización de sitios históricos y revitalización.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -11975,7 +12017,9 @@ El funcionamiento de la CAADROC deberá observar las siguientes consideraciones:
 
 I. Todos los cargos de la CAADROC deberán ser representados por un titular y en sus ausencias por un suplente
 
-II. Todos los miembros de la CAADROC deberán tener registro de DRO o Corresponsable, a excepción de los mencionados en las fracciones I, IV y VI de este artículo
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+II. Todos los miembros de la CAADROC deberán tener registro de DRO o Corresponsable, a excepción de los mencionados en las fracciones I, IV y VII de este artículo;
 
 III. El periodo para la gestión de los representantes de Colegios y de los Consejos Ciudadanos será por dos años y podrán ser ratificados para el periodo inmediato siguiente sin que el total de su gestión exceda de cuatro años, haya sido como titular o suplente
 
@@ -12049,7 +12093,9 @@ XI. Validar las listas oficiales de DRO y Corresponsables, conforme a los proced
 
 Los Comités Técnicos señalados en el artículo anterior quedarán integrados de la siguiente forma:
 
-I. El Comité Técnico de Admisión, estará integrado por un mínimo de tres DRO, cuyo registro tenga cinco años de antigüedad
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+l. El Comité Técnico de Admisión, estará integrado por un mínimo de tres DRO "A";
 
 II. Los Comités Técnicos de Apoyo de Corresponsables en Seguridad Estructural, Desarrollo Urbano Sustentable, Diseño Arquitectónico, Instalaciones Hidráulicas y Sanitarias, Instalaciones Eléctricas, Instalaciones Mecánicas, Instalaciones de Gas y Geotecnia, se formarán cada cual, con tres profesionales especialistas en la correspondiente disciplina
 
@@ -12167,15 +12213,19 @@ b) El H. Ayuntamiento podrá crear los fideicomisos que considere pertinentes pa
 
 DE LA VERIFICACIÓN Y SUPERVISIÓN DE OBRA
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 697.
 
-Para el cumplimiento de sus facultades de vigilancia y control del desarrollo urbano, la Dirección substanciará procedimientos administrativos encaminados a determinar probables infracciones y la aplicación de sanciones para lo cual realizará a través del personal designado lo siguiente:
+Para el cumplimiento de sus facultades de inspección, vigilancia y control del desarrollo urbano, la Dirección substanciará procedimientos administrativos encaminados a determinar probables infracciones y la aplicación de sanciones para lo cual realizará a través del personal designado lo siguiente:
 
-I. Diligencia de verificación a las obras terminadas, y
+I. Diligencia de inspección y verificación a las obras terminadas, y
 
-II. Diligencia de supervisión a las obras en proceso.
+II. Diligencia de inspección y supervisión a las obras en proceso.
+
+Para tal efecto las diligencias señaladas en las fracciones anteriores, se practicarán, en las obras en proceso y obras terminadas, fraccionamientos, cambios de uso de suelo u otros aprovechamientos de inmuebles que violen la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, los Programas de Desarrollo Urbano aplicables y el presente Código.
+
+La actuación de la Dirección podrá ser de forma oficiosa, o a través de denuncia ciudadana contemplada en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla y el presente Capítulo.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -12183,31 +12233,39 @@ II. Diligencia de supervisión a las obras en proceso.
 
 El artículo anterior, se implementará sin demérito de las facultades revisoras de la Contraloría Municipal, quien de igual manera podrá practicar auditorías y revisiones a obra pública en proceso y terminada. Los contratistas estarán obligados a dar acceso al personal designado para tal efecto, así como proporcionará la documentación legalmente solicitada
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 699.
 
-La diligencia de verificación a las obras terminadas tiene como objetivo que la autoridad constate que la acción urbanística o la edificación se haya realizado en apego a los términos de la licencia emitida por la autoridad competente y si cumple con la normatividad aplicable.
+La diligencia de inspección y verificación a las obras terminadas tiene como objetivo que la autoridad constate que la acción urbanística o la edificación se haya realizado en apego a los términos de la licencia emitida por la autoridad competente y si cumple con la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 700.
 
-La diligencia de supervisión a las obras en proceso tiene como objetivo que la autoridad constate en el sitio, la ejecución de la obra con apego a los términos de la licencia emitida por la autoridad competente se cumplan con las condicionantes determinadas en la licencia de uso de suelo y cuente con las medidas de seguridad e higiene establecidas en el COREMUN.
+La diligencia de inspección y supervisión a las obras en proceso tiene como objetivo que la autoridad constate en el sitio, la ejecución de la obra con apego a los términos de la licencia emitida por la autoridad competente; se cumplan con las condicionantes determinadas en la licencia de uso de suelo y cuente con las medidas de seguridad e higiene establecidas en el COREMUN.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 701.
 
-Las diligencias de verificación a las obras terminadas se desahogarán de la siguiente forma:
+Las diligencias de inspección y verificación a las obras terminadas se desahogarán de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 I. Cuando el Director de Desarrollo Urbano tenga conocimiento de una queja ciudadana o denuncia popular por los medios oficiales, designará a un supervisor adscrito a la Dirección a visitar el sitio, supervisar la obra y realizar las consultas necesarias al archivo documental y cartográfico, ya sea físico o digital, mediante una orden por escrito, que deberá estar fundada y motivada, en la que exprese los datos de ubicación de la obra terminada y estar dirigida de manera genérica al propietario, poseedor o responsable de la construcción
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 II. La/El supervisor asignado consultará en el archivo documental y cartográfico ya sea físico o digital de la Dirección si la obra cuenta con licencia de uso de suelo y licencia de construcción, la fecha, los términos y condicionantes en que fueron expedidas.
 
 En caso de que la obra no cuente con licencias, verificará si la obra es factible de regularizarse de conformidad con el uso de suelo determinado en el PMDUS la factibilidad de la construcción dependerá de la revisión de los documentos que en su oportunidad presente el propietario o poseedor y de las características de la misma construcción
 
-III. En el caso de que la/el supervisor detecte que la obra no cuenta con licencia de construcción o se trate de un espacio público, lo comunicará al Director, quien expedirá la orden de clausura, siguiendo el procedimiento señalado en el artículo 708, sin que medie la visita al sitio señalada en las fracciones siguientes
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+III. En el caso de que la/el supervisor detecte que la obra no cuenta con licencia de construcción, se trate de un espacio público, o inmuebles ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio de Puebla que sean categorías, 1, 2 y 4-Relevante, lo comunicará al Director, quien expedirá la orden de clausura, como medida de seguridad de inmediata ejecución, con carácter temporal preventivo, de conformidad con el procedimiento señalado en el artículo 708, sin que medie la visita al sitio señalada en las fracciones siguientes;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 IV. Posteriormente, la/el supervisor se presentará en el sitio de la obra, se identificará, exhibirá la orden de visita a la persona con quien se entiende la diligencia, solicitará a este que se identifique y le pedirá que nombre libremente dos testigos que lo asistan.
 
@@ -12220,6 +12278,8 @@ c) Si dentro de la obra se encuentra una persona que no acredite su personalidad
 d) En caso de que la persona con quien se entiende la diligencia se niegue a nombrar a los testigos o los designados se negaran a serlo, se asentará en el acta administrativa y
 
 e) La persona con quien se entiende la diligencia está obligada a permitir al inspector el acceso a la construcción sujeta a la visita y a proporcionar la información y documentación que les sea requerida.
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 V. Enseguida la/el supervisor iniciará la verificación ocular de la obra, levantando un reporte sobre las características de la edificación, que se mencionan a continuación:
 
@@ -12235,7 +12295,11 @@ e) El estado de conservación de la construcción.
 
 El reporte formará parte del acta administrativa que el inspector debe levantar para hacer constar la diligencia.
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+
 VI. La/El supervisor dará oportunidad al propietario o poseedor para manifestar lo que a su derecho convenga, bajo protesta de decir verdad, en relación a los hechos asentados en el acta administrativa, o bien, a ejercer su derecho a reservarse la manifestación ambos casos se expresarán en el acta, y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 VII. La/El supervisor, el visitado y en su caso, los testigos, firmarán de conformidad el acta administrativa y se entregará una copia al visitado.
 
@@ -12265,11 +12329,11 @@ IV. Pagar las sanciones económicas que le generen las infracciones detectadas.
 
 (DEROGADO, P.O. 10 DE ABRIL DE 2017)
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 703.
 
-Transcurrido el término sin que el propietario o poseedor haya dado cumplimiento al artículo anterior el Director de Desarrollo Urbano ordenará la clausura temporal de la obra, de conformidad con el procedimiento señalado en el artículo 708 del presente Capítulo.
+Transcurrido el término sin que el propietario o poseedor haya dado cumplimiento al artículo 702, el Director ordenará la clausura temporal de la obra, como medida de seguridad de inmediata ejecución, con carácter temporal preventivo, de conformidad con el procedimiento señalado en el artículo 708 del presente Capítulo.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -12279,15 +12343,21 @@ Las personas que se autocorrijan espontáneamente, es decir, sin mediar requerim
 
 Sin embargo, la autoridad sancionará las infracciones cometidas por construcciones realizadas en contravención de las disposiciones técnicas establecidas en el PMDUS, en el presente Capítulo y sus NTC.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 705.
 
-La diligencia de supervisión de obras en proceso se desahogará de la siguiente forma:
+La diligencia de inspección y supervisión de obras en proceso se desahogará de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 I. Todas las obras de construcción en proceso, ya sean públicas o privadas, deberán ser supervisadas por la Dirección hasta su terminación en el procedimiento señalado en el presente Capítulo
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+
 II. La Dirección indicará en la licencia de construcción el tipo de bitácora autorizada para cada obra. Esta bitácora deberá mantenerse actualizada y su liberación servirá para la expedición de la constancia de terminación de obra
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 III. El Procedimiento de supervisión de obras en proceso se iniciará por los dos supuestos siguientes:
 
@@ -12295,17 +12365,25 @@ a. Para el seguimiento programado de obras con licencia emitida por la Direcció
 
 b. Para la atención de quejas ciudadanas o denuncia popular en obras que cuenten o no con licencia emitida por la Dirección.
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+
 IV. Para el inicio del procedimiento en los casos señalados en la fracción anterior, el Director de Desarrollo Urbano designará a un supervisor adscrito a la Dirección a visitar el sitio, supervisar la obra y realizar las consultas necesarias al archivo documental y cartográfico ya sea físico o digital, mediante una orden por escrito, que deberá estar fundada y motivada, en la que exprese los datos de ubicación de la obra terminada y estar dirigida de manera genérica al propietario, poseedor, o responsable de la construcción
 
 La orden de supervisión será única, por cada obra y se expedirá al inicio del procedimiento administrativo, no se requiere una orden por cada visita.
 
 El cambio de designación de supervisor constará por escrito y deberá contener los mismos datos que la orden emitida anteriormente.
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+
 V. En el caso de los procedimientos iniciados por queja o denuncia, el supervisor asignado consultará en el archivo documental y cartográfico, ya sea físico o digital de la Dirección si la obra cuenta con licencia de uso de suelo y licencia de construcción, la fecha, los términos y condicionantes en que fueron expedidas.
 
 Si la obra no cuenta con licencias, verificará si ésta es factible de regularizarse de conformidad con el uso de suelo determinado en el PMDUS la factibilidad de la construcción dependerá de la revisión de los documentos que en su oportunidad presente el propietario o poseedor y de las características de la misma construcción
 
-VI. En el caso de que el supervisor detecte que la obra no cuenta con licencia de construcción o se trate de un espacio público, lo comunicará al Director, quien expedirá la orden de clausura, siguiendo el procedimiento señalado en el artículo 708 sin que medie la visita al sitio señalada en las fracciones siguientes
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+VI. En el caso de que el supervisor detecte que la obra no cuenta con licencia de construcción, se trate de un espacio público, o inmuebles ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos del Municipio de Puebla que sean categorías, 1, 2 y 4-Relevante, lo comunicará al Director, quien expedirá la orden de clausura, como medida de seguridad de inmediata ejecución, con carácter temporal preventivo, de conformidad con el procedimiento señalado en el artículo 708 sin que medie la visita al sitio señalada en las fracciones siguientes;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 VII. Posteriormente, el supervisor se presentará en el sitio de la obra, se identificará, exhibirá la orden de visita a la persona con quien se entiende la diligencia, solicitará a éste que se identifique y le pedirá que nombre libremente dos testigos que lo asistan.
 
@@ -12316,6 +12394,8 @@ b) Cuando en el sitio de la obra no se encuentre persona que reciba el citatorio
 c) En caso de que la persona con quien se entiende la diligencia se niegue a nombrar a los testigos o los designados se negaran a serlo, el supervisor podrá asignarlos y se asentará en el acta administrativa y
 
 d) La persona con quien se entiende la diligencia está obligada a permitir al supervisor el acceso a la construcción sujeta a la visita y a proporcionar la información y documentación que les sea requerida.
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 VIII. Enseguida el inspector iniciará la verificación ocular de la obra, levantando un reporte sobre las características de la edificación, que se mencionan a continuación:
 
@@ -12331,7 +12411,11 @@ e) Las demás que sean de notoria trascendencia.
 
 El reporte formará parte del acta administrativa que el inspector debe levantar para hacer constar la diligencia.
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+
 IX. La/El supervisor dará oportunidad al propietario, representante legal o DRO, para manifestar lo que a su derecho convenga, bajo protesta de decir verdad, en relación a los hechos asentados en el acta administrativa, o bien a ejercer su derecho a reservarse la manifestación ambos casos se expresarán en el acta
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 X. La/El supervisor, el visitado y en su caso, los testigos firmarán de conformidad el acta administrativa y se entregará una copia al visitado.
 
@@ -12339,21 +12423,25 @@ Si el visitado o los testigos se niegan a firmar el acta o se niegan a recibir l
 
 Cada visita se asentará en un acta administrativa y cuando proceda en la bitácora de obra autorizada.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 706.
 
-En caso de que en la diligencia de supervisión se hayan detectado anomalías en el proceso constructivo, o diferencias entre el proyecto autorizado y la etapa en que se encuentra la construcción asentadas en el acta administrativa y en la bitácora autorizada por la Dirección, el visitado tendrá un término de tres días hábiles contados a partir del día siguiente a aquél en el que se practique la visita para realizar las siguientes acciones:
+En caso de que en la diligencia de inspección y supervisión se hayan detectado anomalías en el proceso constructivo, o diferencias entre el proyecto autorizado y la etapa en que se encuentra la construcción asentadas en el acta administrativa y en la bitácora autorizada por la Dirección, el visitado tendrá un término de tres días hábiles contados a partir del día siguiente a aquél en el que se practique la visita para realizar las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 I. Realizar las correcciones técnicas de las anomalías detectadas, y
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+
 II. Realizar manifestaciones que a su derecho convenga, oponer excepciones o en su caso exhibir las pruebas de documentación que considere pertinentes a fin de desvirtuar los hechos asentados en el acta administrativa correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 707.
 
-Si el visitado no da cumplimiento en el plazo señalado en el artículo anterior, se ordenará la suspensión de la obra y se dará vista a la CAADROC, siguiendo el procedimiento señalado en el artículo 708 del presente Capítulo.
+Si el visitado no da cumplimiento en el plazo señalado en el artículo anterior, se ordenará la suspensión de la obra, siguiendo el procedimiento señalado en el artículo 708 del presente Capítulo. En caso de que la obra cuente con DRO se dará vista del procedimiento a la CAADROC.
 
 ###### Artículo 707 Bis.
 
@@ -12451,7 +12539,11 @@ DE LAS SANCIONES
 
 Las sanciones aplicables por actos contrarios a las disposiciones normativas establecidas en el presente Capítulo, el PMDUS y los Programas Parciales vigentes que de él deriven, previo procedimiento administrativo, son las siguientes:
 
+Tabla sanciones.
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINAS 55 A LA 59.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 18.]</small>
 
 Nota 1: En el caso de aplicación de sanciones para DRO y Corresponsables, cuando se acumulen dos amonestaciones en el periodo de un año, procede la inhabilitación para ejercer por dos años.
 
@@ -12471,11 +12563,11 @@ Nota 1: La omisión de proporcionar información sobre proyectos, licencias, DRO
 
 (DEROGADO, P.O. 10 DE ABRIL DE 2017)
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 720.
 
-Las infracciones cometidas por Notarios Públicos y las dependencias Federales y Estatales en el ejercicio de sus funciones contra las disposiciones establecidas en el PMDUS y el presente Libro serán sancionadas de conformidad con la legislación aplicable, para lo cual el Director deberá notificar a las instancias correspondientes cuando tenga conocimiento correspondientes (sic).
+Las infracciones cometidas por Notarios Públicos y las dependencias Federales y Estatales en el ejercicio de sus funciones contra las disposiciones establecidas en el PMDUS, programas parciales que de él deriven y el presente Libro serán sancionadas de conformidad con la legislación aplicable, para lo cual el Director deberá notificar a las instancias correspondientes cuando tenga conocimiento correspondientes (sic).
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -12701,7 +12793,9 @@ d) Las acciones específicas necesarias para la conservación, mejoramiento y cr
 
 II. Una vez elaborado el proyecto, el IMPLAN lo someterá a la opinión del Consejo Municipal de Desarrollo Urbano, quien emitirá por escrito sus consideraciones y recomendaciones, las cuales deberán aceptarse o rechazarse de manera fundamentada
 
-III. En cuanto se haya agotado lo establecido en la fracción anterior, la Secretaría someterá el proyecto a consulta pública, para lo cual emitirá una convocatoria que se publicará a través de medios de comunicación impresos y digitales de amplia difusión, así como en la página electrónica oficial del H. Ayuntamiento, invitando al público en general a conocer, participar en foros públicos y emitir los planteamientos que consideren al respecto en un término de 10 días hábiles como mínimo. Las opiniones recibidas serán tomadas en cuenta o rechazadas de manera fundamentada en los siguientes 30 días hábiles contados a partir de aquel en que se cerró la convocatoria
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+III. En cuanto se haya agotado lo establecido en la fracción anterior, el IMPLAN someterá el proyecto a consulta pública, para lo cual emitirá una convocatoria que se publicará a través de medios de comunicación impresos y digitales de amplia difusión, así como en la página electrónica oficial del H. Ayuntamiento, invitando al público en general a conocer, participar en foros públicos y emitir los planteamientos que consideren al respecto en un término de 10 días hábiles como mínimo. Las opiniones recibidas serán tomadas en cuenta o rechazadas de manera fundamentada en los siguientes 30 días hábiles contados a partir de aquel en que se cerró la convocatoria;
 
 IV. El IMPLAN, deberá solicitar a a (sic) la dependencia competente del Gobierno del Estado su manifestación respecto a la congruencia del mismo con el programa estatal aplicable. Una vez obtenido el dictamen favorable, someterá a la consideración del Cabildo través (sic) de la Comisión, la aprobación de la propuesta del programa, proporcionando todos los elementos técnicos y legales que la justifique
 
@@ -12787,11 +12881,11 @@ Se permitirá la densificación de acuerdo a la siguiente Tabla.
 
 Se podrá considerar la acumulación de los porcentajes establecidos para cada una de las variables tipificadas por las características del predio.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 751.
 
-Se podrá aumentar el COS hasta el 100% y el CUS según las necesidades del proyecto arquitectónico con el pago de los derechos según la Ley de Ingresos del ejercicio fiscal correspondiente.
+Se podrá aumentar el COS hasta el 100% y el CUS según las necesidades del proyecto arquitectónico con el pago de los derechos según la Ley de Ingresos del ejercicio fiscal correspondiente, siempre que cumplan con las disposiciones establecidas en el PMDUS.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -12889,9 +12983,11 @@ Esta zona se clasifica en dos usos predominantes, los cuales han sido determinad
 
 La aplicación de usos y destinos del suelo se realizará con base en la zonificación secundaria establecida en el PMDUS, conforme a las características de cada zona:
 
-La autorización de proyectos urbanos se realizará solo en los predios que permite el Decreto Presidencial que la declara Área Natural Protegida y dependerá de la resolución de la manifestación de impacto ambiental emitida por la dependencia federal competente.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-Los fraccionamientos nuevos de cualquier tipo que se realicen en esta zona deberán donar a favor del Municipio el 20% de la superficie neta del predio que cumpla con las características señaladas con el artículo 802 o en su caso cumplir con los lineamientos de compensación y la Ley de Ingresos para el ejercicio fiscal correspondiente.
+La autorización de proyectos urbanos se realizará solo en los predios que permite el Decreto Presidencial que la declara Área Natural Protegida, cumpliendo las disposiciones señaladas en el Plan de manejo respectivo y además, dependerá de la resolución de la manifestación de impacto ambiental emitida por la dependencia federal competente.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 > <small>[N. DE E. VÉASE IMAGEN EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 72.]</small>
 
@@ -12905,9 +13001,11 @@ Corresponde a la poligonal contenida en el Decreto del Ejecutivo del Estado, que
 
 La aplicación de usos y destinos del suelo se realizará con base en la zonificación secundaria establecida en el PMDUS, conforme a las características de cada zona.
 
-La autorización de proyectos urbanos se realizará solo en los predios que permite el Decreto Estatal que la declara Área Natural Protegida y dependerá de la resolución de la manifestación de impacto ambiental emitida por la dependencia estatal competente.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-Los fraccionamientos nuevos de cualquier tipo que se realicen en esta zona deberán donar a favor del Municipio el 20% de la superficie neta del predio que cumpla con las características señaladas con el artículo 802 o en su caso cumplir con los lineamientos de compensación y la Ley de Ingresos para el ejercicio fiscal correspondiente.
+La autorización de proyectos urbanos se realizará solo en los predios que permite el Decreto Presidencial que la declara Área Natural Protegida, cumpliendo las disposiciones señaladas en el Plan de manejo respectivo y además, dependerá de la resolución de la manifestación de impacto ambiental emitida por la dependencia federal competente.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 > <small>[N. DE E. VÉASE IMAGEN EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 73.]</small>
 
@@ -12923,7 +13021,7 @@ La aplicación de usos y destinos del suelo se realizará con base en la zonific
 
 La autorización de proyectos urbanos se realizará solo en los predios que permite el Decreto Estatal que la declara Área Natural Protegida y dependerá de la resolución de la manifestación de impacto ambiental emitida por la dependencia estatal competente.
 
-Los fraccionamientos nuevos de cualquier tipo que se realicen en esta zona deberán donar a favor del Municipio el 20% de la superficie neta del predio que cumpla con las características señaladas con el artículo 802 o en su caso cumplir con los lineamientos de compensación y la Ley de Ingresos para el ejercicio fiscal correspondiente.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 > <small>[N. DE E. VÉASE IMAGEN EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 74.]</small>
 
@@ -12937,15 +13035,9 @@ Corresponde a la poligonal contenida en el Decreto del Ejecutivo del Estado, que
 
 La autorización de densidades se fundamentará en el Programa Parcial del Centro Histórico, Áreas Patrimoniales y Monumentos vigente, y dependerá de la categoría, calidad e integridad constructivas del inmueble, además de su ubicación en el esquema territorial en el que se pueden distinguir dos zonas: la de negocios y servicios al centro y la zona de los barrios que la rodea.
 
-Los fraccionamientos nuevos de cualquier tipo que se realicen en esta zona deberán donar a favor del Municipio el 20% de la superficie neta del predio que cumpla con las características señaladas con el artículo 802 o en su caso cumplir con los lineamientos de compensación y la Ley de Ingresos para el ejercicio fiscal correspondiente.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-Las categorías de integridad constructiva son:
-
-Histórico. Siglos XVI al XIX
-
-Artístico o Moderno. Siglo XX primera mitad
-
-Contemporáneo. Siglo XX segunda mitad y XXI
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 > <small>[N. DE E. VÉASE IMÁGEN EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 75.]</small>
 
@@ -13011,11 +13103,13 @@ a) En las cubiertas podrán autorizarse las siguientes obras:
 
 2. Cubiertas y azoteas planas, con pendiente inferior al 5% y con pretiles rectos y horizontales, debiendo respetarse las bóvedas y cúpulas que se localizan en la construcción.
 
-b) No es permisible realizar las siguientes obras en cubiertas:
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-1. Construcciones o instalaciones en azoteas que sean visibles desde la calle, tales como: jardineras, terrazas o balcones, instalaciones para tanques de gas, antenas, elementos emisores y receptores de centrales de radio, televisión o teléfono, jaulas para tendederos, cuartos de servicio, bodegas o cualquier elemento que altere el perfil de las fachadas, permitiéndose sólo cuando se encuentren fuera del campo visual del conjunto urbano, previa autorización de la Dirección.
+b) No se permitirá realizar las siguientes obras en cubiertas:
 
-2. Agregar otro nivel o cualquier tipo de construcciones en las azoteas, así como techar los patios con cubiertas no reversibles de manera parcial o total, ni se podrán colocar tinacos, tanques estacionarios, antenas, cables o cualquier otro elemento que modifique la imagen urbana.
+1. Construcciones o instalaciones en azoteas que sean visibles desde la calle, tales como: jardineras, terrazas o balcones remetidos en menos de 7 m del paño de la fachada hacia atrás, instalaciones para tanques de gas, antenas, elementos emisores y receptores de centrales de radio, televisión o teléfono, jaulas para tendederos, cuartos de servicio, bodegas o cualquier elemento que altere el perfil de las fachadas, permitiéndose sólo cuando se encuentren fuera del campo visual del conjunto urbano, siempre y cuando cumpla con las normas mínimas de protección civil, previa autorización de la Dirección.
+
+2. Agregar otro nivel o cualquier tipo de construcciones en las azoteas, así como techar los patios con cubiertas no reversibles de manera parcial o total, ni se podrán colocar tinacos, tanques estacionarios, antenas, cables o cualquier otro elemento que altere los perfiles urbanos, pudiendo colocarse siempre que no queden a la vista desde el nivel de calle u otras azoteas, siempre y cuando cumpla con las normas mínimas de protección civil.
 
 c) Podrán autorizarse las siguientes obras con relación a la proporción, reintegración y adecuación del inmueble:
 
@@ -13071,17 +13165,9 @@ II. Actualizar su carácter arquitectónico y urbano
 
 III. Se deberá conservar la traza original, considerando que ésta se encuentra definida por los parámetros de los inmuebles construidos en cada manzana
 
-IV. Un representante de cada uno de los siguientes Consejos de Participación Ciudadana:
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-a) De Desarrollo Urbano
-
-b) De Ecología
-
-c) Del Centro Histórico y Patrimonio Cultural
-
-d) De Obras y Servicios Públicos
-
-e) De Movilidad
+IV. Construir la infraestructura adecuada para la prestación de los servicios públicos, preferentemente inducida o con las técnicas que permitan respetar y conservar el contexto urbano;
 
 V. Dotación del equipamiento e infraestructura necesarios para lograr la recuperación e imagen urbana del Centro Histórico, Áreas Patrimoniales y Monumentos.
 
@@ -13129,7 +13215,9 @@ i) La relación entre vanos y macizos para propuestas de obra nueva será la que
 
 j) Se autorizará para el acceso de los vehículos, en las nuevas construcciones, un solo portón, de no más de dos m ochenta cm de ancho, y su altura deberá ser por lo menos igual a los cerramientos de las ventanas, y no deberá sobrepasar los cerramientos de los portones de los edificios históricos vecinos. Para predios de más de veinte metros de frente, podrán autorizarse dos portones separados, previa autorización del INAH y la Dirección
 
-k) En el caso de inmuebles específicamente dedicados a estacionamientos, se podrán autorizar dos vanos para acceso y salida de vehículos, de no más de dos metros ochenta cm de ancho, en función de cada proyecto, en particular predominando el macizo sobre el vano
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+k) Para la construcción de estacionamientos públicos o privados se deberá dejar el 10% de la superficie del terreno para permitir la ventilación de los gases emitidos por los vehículos; este 10% podrá ser cubierto con rejillas para aprovechar la utilización máxima de la superficie, esto no cuantificará como incremento de coeficientes y podrá repetirse el sistema de rejillas en cada nivel, siempre que se respete la altura autorizada. Asimismo, se podrán autorizar dos vanos para acceso y salida de vehículos, de no más de dos metros ochenta cm de ancho, en función de cada proyecto, en particular predominando el macizo sobre el vano;
 
 l) Se autorizarán demoliciones de edificios contemporáneos construidos con sistemas modernos, cuando existan estudios integrales que definan el destino del espacio en cuestión, así como la solución formal y su integración con el contexto previa factibilidad emitida por la Gerencia
 
@@ -13139,17 +13227,25 @@ n) Las fachadas de las nuevas edificaciones deberán ser proyectadas tomando en 
 
 o) Se podrán construir niveles adicionales en edificios contemporáneos sujetándose a lo establecido en el programa parcial del Centro Histórico debiendo respetarse los perfiles urbanos
 
-p) No se deberán introducir elementos arquitectónicos fuera de escala, que perturben monumentos o ambientes monumentales
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-q) No se autorizan nuevos volados, marquesinas o toldos fijos en planta baja
+p) No se deberán introducir elementos arquitectónicos fuera de escala, que perturben monumentos o ambientes monumentales, en caso de requerir las terrazas al frente del inmueble se permitirá solo la colocación de sombrillas sin cubiertas con estructuras fijas ni pérgolas, siempre y cuando cumpla con las normas mínimas de protección civil;
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+q) No se autorizan nuevos volados, marquesinas o toldos fijos en planta baja. Los tapancos mientras sean reversibles no serán cuantificados para calcular el coeficiente de utilización del suelo (CUS). Las cubiertas reversibles colocadas en los patios de cualquier inmueble histórico, artístico o contemporáneo, no serán cuantificadas para calcular el coeficiente de utilización del suelo (CUS);
 
 r) Las cornisas, balcones y rejas de ventanas no deberán sobresalir del paño de fachada más de treinta cm en planta baja, y más de sesenta cm en niveles superiores y
 
-s) Las instalaciones y los servicios deberán quedar ocultos desde cualquier ángulo visual del entorno como tinacos, tanques estacionarios, antenas, tendederos, zotehuelas o cualquier otro elemento que altere la imagen urbana.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+s) Las instalaciones y los servicios deberán quedar ocultos desde cualquier ángulo visual del entorno como tinacos y tanques estacionarios, para nuevas instalaciones se deberán sustituir por hidroneumáticos; los tanques estacionarios podrán quedar en un patio o lugar ventilado, asimismo deberán ocultarse las antenas, tendederos, zotehuelas o cualquier otro elemento que altere la imagen urbana.
 
 III. Se requerirá la autorización previa de la Dirección, para efectuar retiro o liberaciones parciales, tanto de elementos en el interior, como en fachadas o volúmenes hacia la vía pública. También se requerirá de la autorización correspondiente, en caso de que sea necesario liberar algún elemento agregado que no sea original del inmueble histórico, y cuya liberación sea benéfica para la revalorización del mismo.
 
-IV. Las antenas y elementos emisores o receptores de centrales de radio, televisión y teléfono, deberán situarse fuera del Centro Histórico, Áreas Patrimoniales y Monumentos Históricos, en puntos retirados de edificios y conjuntos históricos, y cuando ya existan estas instalaciones en el interior de dicha zona, no se permitirá su ampliación y se fomentará su reubicación fuera de la zona
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+IV. Las antenas y elementos emisores o receptores de centrales de radio, televisión y teléfono de más de tres mts. de altura, deberán situarse fuera del Centro Histórico, Áreas Patrimoniales y Monumentos, en puntos retirados de edificios y conjuntos históricos, y cuando ya existan estas instalaciones en el interior de dicha zona, no se permitirá su ampliación y se fomentará su reubicación fuera de la zona, para lo que deberán cumplir con las normas mínimas de protección civil;
 
 V. Toda obra colindante con un monumento histórico quedará sujeta al estudio y análisis de posibles perjuicios estructurales que pudiera causarle y
 
@@ -13433,17 +13529,25 @@ VII. No se autoriza la demolición de inmuebles históricos para crear nuevos es
 
 VIII. No se permitirá el estacionamiento de camiones de carga, mudanzas, autobuses foráneos y suburbanos en las calles o plazas deberán tener su propio estacionamiento fuera del Centro Histórico, Áreas Patrimoniales y Monumentos y sólo se permitirá el estacionamiento de autobuses escolares y de promoción turística, durante el ascenso y descenso del pasaje.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 776.
 
-Se complementarán las obras de recuperación, con un alumbrado público adecuado en plazas, calles y edificios suprimiendo éstas donde sea posible, los tendidos aéreos de líneas de CFE de Electricidad, Teléfonos de México y Televisión por cable, preferentemente bajo la dirección de proyectos de iluminación para los monumentos, coordinadamente con la iluminación pública aprobados por la Dirección, bajo los siguientes lineamientos:
+Se complementarán las obras de recuperación, con un alumbrado público adecuado en plazas, calles y edificios; los tendidos aéreos de líneas de CFE de Electricidad, Teléfonos de México y Televisión por cable, preferentemente bajo la dirección de proyectos de iluminación para los monumentos, coordinadamente con la iluminación pública aprobados por la Dirección, bajo los siguientes lineamientos:
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
 a) Se hará una revisión integral, de todas las redes, instalaciones eléctricas y cableado, del Centro Histórico, Áreas Patrimoniales y Monumentos.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+
 b) Se dará especial atención al alumbrado público, dotando a la totalidad del Centro Histórico, Áreas Patrimoniales y Monumentos de este servicio, favoreciendo de esta forma la seguridad pública y mejoramiento de la imagen urbana.
 
-c) Los cables y conductos visibles o aéreos deberán tratarse cuidando la integridad de los edificios y el entorno.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+c) Los cables y conductos visibles o aéreos deberán tratarse cuidando la integridad de los edificios y el entorno. Los tendidos aéreos de redes no podrán realizarse en diagonal, deberán de seguir el alineamiento de las calles y atravesar las calles en sentido ortogonal, es decir a 90 grados respecto al paramento de las fachadas. Quedando estrictamente prohibido tender líneas aéreas en donde existan redes subterráneas.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
 d) La iluminación de los anuncios, letreros, aparadores y vitrinas que sean visibles desde la vía pública, para inmuebles históricos o de reciente construcción, para ser autorizados deberán cumplir con los siguientes requisitos:
 
@@ -13825,11 +13929,11 @@ V. Deberá guardar como mínimo una relación de 1:3 m lineales respecto al fren
 
 El área de donación puede ubicarse en un lugar distinto al fraccionamiento, pero dentro de la misma zona señalada en el Título II del presente Capítulo, siempre y cuando lo autorice expresamente la Dirección, y siempre que el predio propuesto cumpla con las características señaladas en las fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 804.
 
-En caso de que, a consideración de la Dirección, la superficie del área a donar no sea susceptible de aprovechamiento, el fraccionador podrá realizar la donación en numerario, en términos de lo señalado en los Lineamientos de compensación.
+En caso de que, a consideración de la Dirección, la superficie del área a donar no sea susceptible de aprovechamiento, el fraccionador podrá realizar la donación en numerario, permuta de predios, y/o pago en obras y servicios, los cuales podrán determinarse y realizarse de manera conjunta o indistinta, en términos de lo señalado en los Lineamientos de compensación.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -13849,15 +13953,17 @@ La Dirección deberá publicar, en términos de la normativa aplicable en materi
 
 Los permisos para fraccionamientos serán registrados en el SIGM desde su gestión, y el seguimiento de su ejecución se realizará en términos del procedimiento de supervisión de obra establecido en el Título I del presente Capítulo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 808.
 
-Los cambios de proyecto para fraccionamiento se autorizarán:
+La Dirección autorizará cambios de proyecto, bajo los siguientes supuestos:
 
-I. Cuando no se haya vencido la vigencia del permiso, y
+l. Cuando no se haya vencido la vigencia del permiso;
 
-II. Cuando no se hayan concluido las obras de urbanización, o bien, se realicen la (sic) adecuaciones a la infraestructura en caso de requerirlo.
+II. Cuando no se hayan concluido las obras de urbanización, o bien, se realicen la (sic) adecuaciones a la infraestructura en caso de requerirlo; o
+
+III. Cuando surjan razones técnicas o comerciales, presentando los elementos técnicos o jurídicos justificatorios.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -13959,7 +14065,9 @@ Los conjuntos habitacionales, por su régimen de propiedad, se clasifican en:
 
 I. Condominio. El que se integra de unidades privativas y elementos comunes a los condóminos, y que se constituye en los términos señalados en la Ley que Regula el Régimen de Propiedad en Condominio del Estado de Puebla, y
 
-II. Privado. En el que todos sus elementos de suelo y construcción pertenecen a un mismo propietario o copropietarios en los términos señalados en la Ley que Regula el Régimen de Propiedad en Condominio del Estado de Puebla.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+II. Privado. En el que todos sus elementos de suelo y construcción pertenecen a un mismo propietario o copropietarios en los términos señalados en el Código Civil del Estado Libre y Soberano de Puebla.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -14007,11 +14115,11 @@ Las viviendas señaladas en el párrafo anterior podrán ser subdivididas, siemp
 
 Las viviendas constituidas en régimen de propiedad en condominio podrán fusionarse con sus áreas comunes de uso restringido colindantes, proyectadas originalmente para estacionamiento y/o patio de servicios, siempre y cuando para unirlas físicamente se realicen adecuaciones que no afecten la estructura de los mismos y de los elementos constructivos colindantes también podrán construir sobre dichas áreas ampliaciones de la misma vivienda, cubos de luz, estancias o instalación de elementos de ornato.Se (sic) podrá ampliar la vivienda cubriendo los cubos de luz siempre y cuando no den a piezas habitables que perjudiquen la iluminación y ventilación directa.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 826.
 
-Las acciones de fusión en viviendas en régimen de propiedad en condominio no modificarán la distribución de porcentajes de unidades privativas e indivisos, y para la obtención de licencias se deberá presentar el reglamento de condóminos en el que se permita realizar dichas acciones, además de la aprobación por escrito de los vecinos colindantes.
+Las acciones de fusión en viviendas en régimen de propiedad en condominio no modificarán la distribución de porcentajes de unidades privativas e indivisos, y para la obtención de licencias se deberá presentar el reglamento de condóminos en el que se permita realizar dichas acciones, además de la aprobación de la mesa directiva, en caso de no existir mesa directiva, escrito de los vecinos colindantes.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -15243,9 +15351,15 @@ III. La recámara no debe ser paso obligado para acceder a otro local diferente 
 
 IV. Cuando la vivienda tenga más de una recámara, al menos un baño, o medio baño, debe ser accesible desde espacios de circulación de la vivienda, y
 
-V. Estancia, comedor y cocina pueden constituir un espacio común pero con funcionalidad claramente definida y separada según las actividades particulares de cada espacio superpuesto.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+V. Se podrá considerar a la estancia, comedor y cocina como un espacio común de la misma vivienda, pero con funcionalidad claramente definida y separada según las actividades particulares de cada espacio superpuesto.
+
+Tabla. Dimensiones mínimas para espacios habitables y auxiliares
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 116.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 22.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -15475,6 +15589,8 @@ Tabla 2. Criterios para usos habitacionales.
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 120.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 23.]</small>
+
 Notas:
 
 1. Cuando se trate de ampliaciones a vivienda unifamiliar exclusivamente, no se requerirá el suministro de cajón adicional que corresponde
@@ -15535,15 +15651,17 @@ Tabla 5. Requisitos máximos de estacionamiento en baños públicos
 
 Se deberá proporcionar un área de estacionamiento y maniobras para el suministro de energéticos, las cuales deben estar separadas del estacionamiento público con un mínimo de 3 m.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 960.
 
-El criterio de estacionamientos en edificios para hospitales, restaurantes y otros servicios y sitios de reunión, se aplicará de acuerdo a la siguiente tabla:
+El criterio para la previsión de cajones de estacionamiento en edificios para hospitales, restaurantes y otros servicios y sitios de reunión, se aplicará de acuerdo a la siguiente tabla:
 
-Tabla 6 Requisitos de estacionamiento en hospitales restaurantes y otros servicios y sitios de reunión
+Tabla 6. Requisitos de estacionamiento en hospitales, restaurantes y otros servicios y sitios de reunión.
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINAS 122 Y 123.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 24.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16197,11 +16315,13 @@ XIII. Cuando se requiera evaluar mediante pruebas de carga la seguridad de una e
 
 DE LOS TRÁMITES ADMINISTRATIVOS
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1032.
 
-Para cumplir sus facultades de expedición de constancias, factibilidades, licencias y permisos, la Dirección debe realizar el análisis de la información contenida en los diferentes instrumentos públicos y privados que le permitan contar con el conocimiento del territorio municipal, iniciando desde lo general hasta lo particular.
+Para cumplir sus facultades de expedición de constancias, licencias, permisos, factibilidades, dictámenes y resolutivos, la Dirección debe realizar el análisis de la información contenida en los diferentes instrumentos públicos y privados que le permitan contar con el conocimiento del territorio municipal, iniciando desde lo general hasta lo particular.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
 El control de la información territorial para los efectos del desarrollo urbano corresponde a la Dirección quien utilizará para la gestión administrativa, el SIGM autorizado por el H. Ayuntamiento, el que debe integrarse como mínimo por lo siguiente:
 
@@ -16233,7 +16353,9 @@ III. Factibilidad de uso de suelo
 
 IV. Dictamen de integración vial
 
-V. Dictamen de rectificación de medidas y colindancias de predios con afectación porvialidades (sic)
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+V. Dictamen de rectificación de medidas y colindancias para predios con afectación por vialidades;
 
 VI. Factibilidad para la introducción de servicios públicos
 
@@ -16275,9 +16397,19 @@ XIX. Constancia de cambio de régimen
 
 XX. Permiso de preventa de lotes en fraccionamientos
 
-XXI. Permiso de venta de lotes en fraccionamientos, y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+XXI. Permiso de venta de lotes en fraccionamientos;
 
 XXII. Constancia de terminación de obra.
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+XXIII. Expediente Único, y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+XXIV. Municipalización.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16285,17 +16417,17 @@ XXII. Constancia de terminación de obra.
 
 Los trámites administrativos a que se refiere el presente artículo podrán solicitarse indistintamente de manera individual o en conjunto, no obstante la Dirección debe realizar de forma interna aquellos que se requieran como pasos previos para la obtención del trámite solicitado por el ciudadano, sin perjuicio del cobro de los derechos generados por los servicios prestados por la Dirección, sin que exceda, para su respuesta, entre todos del término de 120 días hábiles, en los que no se cuenta los periodos de suspensión del trámite, por solventación o aclaración de requisitos.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1035.
 
-La Dirección deberá realizar las diligencias necesarias en sus archivos documentales y cartograficos, fisicos y digitales a efecto de integrar un expediente histórico por predio. En caso de que el predio no se encuentre identificado geográficamente en el SIGM, la Dirección podrá requerir al solicitante, los antecedentes que soporten su identificación geográfica real, para lo cual debe notificárselo por escrito, mencionando las circunstancias del caso, los trámites internos que deberá realizar para lograr la ubicación, así como el tiempo estimado en que se llevará a cabo el análisis.
+La Dirección deberá realizar las diligencias necesarias en sus archivos documentales y cartográficos, físicos y digitales a efecto de integrar un expediente histórico por predio.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1036.
 
-En todos los casos de predios ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos se deberá presentar Factibilidad expedida por la Gerencia y Factibilidad expedida por el INAH.
+En caso de que el predio no se encuentre identificado geográficamente en el SIGM, la Dirección podrá requerir al solicitante, los antecedentes que soporten su identificación geográfica real, para lo cual debe notificárselo por escrito, mencionando las circunstancias del caso, los trámites internos que deberá realizar para lograr la ubicación, así como el tiempo estimado en que se llevará a cabo el análisis.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16317,11 +16449,13 @@ En la recepción de la solicitud de cualquier trámite administrativo, el person
 
 La Dirección deberá recibir las solicitudes con sus anexos tal como las presente el interesado siempre que reúna los requisitos señalados en la fichas de trámites y servicios validadas por (sic) Contraloría Municipal y publicadas en la página oficial del H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1039.
 
-En caso de haber errores u omisiones en el momento de realizar el análisis de la información, se deberá informar al promovente en el plazo no mayor a cinco días hábiles, para que dichas omisiones sean solventadas por el ciudadano dentro de un plazo no mayor a diez días hábiles, transcurrido dicho plazo sin que se solvente se cancelará el trámite y el interesado deberá solicitarlo nuevamente. Esta notificación podrá ser de manera personal o vía correo electrónico, si así lo manifiesta el interesado en su solicitud.
+En caso de haber errores u omisiones en el momento de realizar el análisis de la información, se deberá informar al promovente en el plazo no mayor a cinco días hábiles, para que dichos errores y omisiones sean corregidos o solventadas por el ciudadano dentro de un plazo no mayor a diez días hábiles, transcurrido dicho plazo sin que se corrija o solvente se cancelará el trámite y el interesado deberá solicitarlo nuevamente. Esta notificación podrá ser de manera personal o vía correo electrónico, si así lo manifiesta el interesado en su solicitud.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
 Para que surtan efecto las notificaciones de la Dirección, a que se refiere el párrafo inmediato anterior, el solicitante deberá acusarlas de recibido por la misma vía, bastando su firma en las de forma personal o confirmación vía correo electrónico.
 
@@ -16347,7 +16481,9 @@ III. Título que acredite la propiedad o posesión, y
 
 IV. En los casos que se requieran permisos federales, estatales o municipales, como requisito previo, se notificará al solicitante y se dará por terminado el trámite dejando a salvo los derechos del interesado para que una vez obtenidos aquellos, acuda nuevamente a la dirección a iniciar la gestión.
 
-V. En caso de predios ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos se deberá presentar factibilidad expedida por la Gerencia y factibilidad de INAH.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+V. En caso de predios ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos se deberá presentar factibilidad expedida por la Gerencia, previa autorización otorgada por el INAH para tal efecto.
 
 Todos los documentos señalados en el presente artículo deben presentarse en original para su cotejo y copia simple legible, o en su caso, copia digital escaneada en formato PDF resolución de 100 a 150 DPI.
 
@@ -16395,13 +16531,15 @@ IV. Cuando dos o más predios se fusionen en una sola unidad, el número oficial
 
 V. Cuando un número oficial haya sido asignado a dos o más predios, la Dirección determinará siguiendo la regla de la fracción I del presente artículo, qué número oficial le corresponde a cada uno de ellos, sin perjuicio de los procedimientos y
 
-VI. Para la asignación de Número Oficial en la Centro Histórico, Áreas Patrimoniales y Monumentos se respetará el número que tenga reconocido en el Decreto Presidencial de fecha 18 de Noviembre de 1977.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+VI. Para la asignación de Número Oficial en el Centro Histórico, Áreas Patrimoniales y Monumentos se respetará el número que tenga reconocido en el Decreto Presidencial de fecha 18 de Noviembre de 1977 y el Decreto expedido por el Ejecutivo del Estado en el que se declara como Zona Típica Monumental.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1047.
 
-El número oficial asignado se colocará al frente de los inmuebles y con las placas oficiales expedidas por la Dirección de no contar la Dirección con éstas, serán a cargo del interesado. En edificios públicos y edificios que por su naturaleza generen intensa concentración de usuarios.
+El número oficial asignado se colocará al frente de los inmuebles y con las placas oficiales expedidas por la Dirección; de no contar la Dirección con éstas, serán a cargo del interesado. En edificios públicos y edificios que por su naturaleza generen intensa concentración de usuarios, deberán tener nomenclatura en braille, para servicio y uso de personas ciegas y/o débiles visuales.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16435,7 +16573,9 @@ IV. La superficie del predio
 
 V. Las medidas y colindancias históricas y las actuales
 
-VI. Su ubicación georeferenciada
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+VI. Su ubicación georreferenciada;
 
 VII. Las afectaciones y restricciones que recaigan en el predio
 
@@ -16503,7 +16643,11 @@ También se expedirá factibilidad de uso de suelo para escuelas de cualquier ni
 
 La factibilidad de uso de suelo se expedirá de conformidad con lo señalado en la siguiente tabla:
 
+Tabla Factibilidad de uso de suelo.
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 140.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 26.]</small>
 
 Nota: En caso de que las obras no acrediten la antigüedad de cinco años, se deberá presentar licencia de uso de suelo y constancia de construcción existente.
 
@@ -16671,17 +16815,21 @@ La Licencia de uso de suelo contendrá las normas y condiciones bajo las cuales 
 
 La Licencia de uso de suelo se expedirá de conformidad con lo señalado en la siguiente tabla:
 
+Tabla Licencia de uso de suelo.
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 144.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 27.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
 Licencia de Uso de Suelo Específico.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1073.
 
-La Dirección expedirá la Licencia de uso de suelo específico para autorizar la construcción o adecuación de un establecimiento de comercio o servicios.
+La Dirección expedirá la Licencia de uso de suelo específico para autorizar establecimientos de los giros determinados en la carta Urbana que forma parte del PMDUS.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16689,7 +16837,11 @@ La Dirección expedirá la Licencia de uso de suelo específico para autorizar l
 
 La licencia de uso de suelo específico se expedirá de conformidad con lo señalado en la siguiente tabla:
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 145.]</small>
+Tabla uso de suelo específico.
+
+> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 144.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 27.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16735,7 +16887,11 @@ La Dirección expedirá el permiso de fraccionamiento para autorizar la partici�
 
 El permiso para fraccionamiento se expedirá de conformidad con lo señalado en la siguiente tabla:
 
+Tabla de fraccionamientos.
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 146.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINAS DE LA 27 A LA 28.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16749,7 +16905,11 @@ La Dirección expedirá el Permiso de subdivisión para autorizar la partición 
 
 El Permiso para la subdivisión se expedirá de conformidad con lo señalado en la siguiente tabla:
 
+Tabla de subdivisión
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 147.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 28.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16797,7 +16957,11 @@ La Dirección expedirá el permiso de lotificación para autorizar la partición
 
 El Permiso para la lotificación se expedirá de conformidad con lo señalado en la siguiente tabla:
 
+Tabla de lotificación.
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 148.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 29.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16821,17 +16985,17 @@ El permiso para la licencia de urbanización se expedira de conformidad con lo s
 
 Licencia de Obra Mayor
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1089.
 
-Para efectos del presente apartado se consideran obras mayores:
+Se consideran obras mayores, las siguientes:
 
-I. Edificación de cualquier tipo a partir de 50 m2
+I. Edificación de cualquier tipo a partir de 50.01 m2;
 
-II. Ampliación de edificios a partir de 50, y
+II. Ampliación de construcciones a partir de 50.01 m2;
 
-III. Instalación de cualquier elemento de manera permanente sobre el suelo como: Antenas de Telecomunicaciones Puentes peatonales.
+III. Instalación de cualquier elemento fijado al suelo (por ejemplo: casetas, antenas de telecomunicaciones, puentes peatonales o paraderos).
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -16845,7 +17009,11 @@ La Dirección expedirá la Licencia de obra mayor respecto a la construcción de
 
 El Permiso para la Licencia de obra mayor se expedirá de conformidad con lo señalado en la siguiente tabla:
 
+Tabla de obra mayor .
+
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINAS DE LA 149 Y 150.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 29.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -17155,11 +17323,11 @@ NOTAS.
 
 2. Las constancias, factibilidades y dictámenes no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1121.
 
-Si del análisis de cualquiera de los trámites realizados en la Dirección se detecta que un predio resulta afectado por una proyección de vialidad, equipamiento urbano o servicios públicos, deberán expresar claramente esta condición de aprovechamiento futuro por utilidad pública, por lo que el propietario podrá construir sobre la parte afectada bajo su propia cuenta y riesgo.
+Si del análisis de cualquiera de los trámites realizados en la Dirección se detecta que un predio resulta afectado por una proyección de vialidad, equipamiento urbano o servicios públicos, en los documentos que expida la Dirección deberá expresar claramente esta condición de aprovechamiento futuro por utilidad pública, por lo que el propietario en caso de construir sobre la parte afectada bajo su propia cuenta y riesgo (sic).
 
 ###### Artículo 1122.
 
@@ -17313,7 +17481,9 @@ I. Fotografías a color 3 interiores y 4 exteriores, por cada unidad
 
 II. Avance de obra, y
 
-III. Copia de la solicitud de liberación del Plan de manejo de residuos de la construcción.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+III. Copia de la solicitud de liberación de la Regularización total o parcial por la disposición final de residuos de la construcción, mantenimiento y demolición en general, cumpliendo con los requisitos establecidos en la cédula del trámite, aprobada por la Contraloría Municipal, así como la legislación estatal y federal aplicable.
 
 La licencia de obra por el que se regularice, estará vigente dependiendo del tipo de obra que se trate.
 
@@ -17327,11 +17497,13 @@ Una construcción sólo podrá ser regularizada por una única vez, las siguient
 
 Plan de Residuos de Manejo Especial Generados por la Construcción y Asignación de Medidas de Mitigación
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1142.
 
-Toda obra de construcción, mantenimiento y demolición deberá contar con un Plan de Manejo para la disposición final de RSU elaborado en los términos señalados en el Capítulo 26 del COREMUN, así como la legislación estatal y federal aplicable.
+Toda obra de construcción, mantenimiento y demolición en general, deberá contar con un Plan de Manejo para la disposición final de RSU, elaborado en los términos señalados en el Capítulo 26 del COREMUN y deberá cumplir con los requisitos establecidos en la cédula del trámite, aprobada por Contraloría Municipal, así como la legislación estatal y federal aplicable.
+
+En caso de que la autoridad conozca de obras en proceso o terminadas, en las que el propietario o poseedor haya gestionado el Plan de Manejo respectivo, se hará acreedor a una sanción por contaminar con residuos de construcción, mantenimiento y/o demolición, por no depositarlos en los sitios implementados por la autoridad ambiental, independientemente de que la obra sea factible o no de regularizar.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -17339,13 +17511,15 @@ Toda obra de construcción, mantenimiento y demolición deberá contar con un Pl
 
 La Dirección de MA resolverá sobre el Plan de Manejo en un término máximo de tres días hábiles y tendrá la misma vigencia de la Licencia de construcción.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 1144.
 
-El Plan de Manejo y su resolución se presentaran a la Dirección durante la ejecución de la obra, en la Bitácora se hará constar su entrega, así como el cumplimiento de las condicionantes señaladas.
+El Plan de Manejo, su resolución y la asignación de medidas de mitigación se presentarán a la Dirección de MA al término de la obra y se hará constar de su entrega en la Constancia de Liberación de Obra en Materia Ambiental, cumpliendo con los requisitos establecidos en la cédula del trámite, aprobada por la Contraloría Municipal, así como la legislación estatal y federal aplicable.
 
-En caso de incumplimiento, la Dirección notificará a la Dirección de MA para iniciar el procedimiento administrativo que determine probables infracciones a la normativa.
+En caso de incumplimiento a lo señalado en el párrafo anterior, la Dirección notificará a la Dirección de MA para iniciar el procedimiento administrativo que determine probables infracciones a la normativa.
+
+La Dirección de MA resolverá sobre el Plan de Manejo Especial de las obras realizadas en terrenos con superficie menor a 4,999 m2, siempre y cuando exista la celebración del Convenio entre los órdenes de gobierno municipal y estatal, en la que se ordenará la realización de acciones dirigidas.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -17363,9 +17537,21 @@ I. Número determinado de plantas y/o árboles que serán ingresadas a alguno de
 
 II. Numerario equivalente al costo de las plantas y/o árboles que se requieren para compensar el impacto ecológico, que se ingresará a las cajas de la Tesorería Municipal en los términos señalados en la Ley de Ingresos del Municipio de Puebla, para el ejercicio fiscal correspondiente, y
 
-III. Medidas compensatorias para la regeneración de suelo contaminado.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
 
-El monto recaudado por el concepto señalado en la fracción II se destinará única y exclusivamente para la adquisición y cuidado de árboles y plantas en los términos que apruebe Cabildo.
+III. Medidas compensatorias para la regeneración de suelo contaminado y/o para la recarga del manto freático, pudiendo ser cualquiera de las mencionadas a continuación, de manera individual o conjunta:
+
+a) Obras y servicios de rehabilitación de áreas verdes municipales;
+
+b) Instalación de humedales en áreas verdes municipales;
+
+c) Para el caso de las zonas de aparcamiento pavimentado, se fomentará la integración de captadores pluviales para infiltrar el agua de lluvia directamente al terreno, así como el sembrado de árboles en el mismo predio, y
+
+d) Para el caso de las obras públicas que provoquen la reducción de áreas libres, áreas verdes o mejoramiento de vialidades, se deberán proyectar infiltradores pluviales de acuerdo a la superficie que ocupe.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+
+El monto recaudado por el concepto señalado en la fracción II se destinará única y exclusivamente para la rehabilitación de áreas verdes municipales, adquisición o cuidado de árboles y plantas en los términos que apruebe (sic) Cabildo.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -24211,7 +24397,7 @@ Los esquilmos y desperdicios de la matanza corresponden en propiedad al Ayuntami
 
 ###### Artículo 1651.
 
-Si el servicio de rastro lo presta el Ayuntamiento, se hará ingresar mensualmente a la Tesorería Municipal el producto de la venta de los esquilmos, rindiendo un informe de tallado (sic) del manejo de esas materias residuales.
+Si el servicio de rastro lo presta el Ayuntamiento, se hará ingresar mensualmente a la Tesorería Municipal el producto de la venta de los esquilmos, rindiendo un informe de tallado (sic) el manejo de esas materias residuales.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -33709,13 +33895,13 @@ VIII. Premio al "Mérito Empresarial" y "Mérito Emprendedor";
 
 IX. Premio al "Mérito Laboral";
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+
+X. Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia";
+
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
 
 XI. Premio Municipal de Investigación Histórica: “Hugo Leicht”,
-
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
-
-XI. Premio Municipal de Investigación Histórica;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
 
@@ -37176,3 +37362,11 @@ P.O. 5 DE OCTUBRE DE 2017.
 PRIMERO. Las disposiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Para efectos del cobro de derechos, productos y contribuciones de la cobertura del SOAPAP se mantendrá la Estructura tarifaria aprobada por el H. Congreso del Estado en todo lo que no se oponga al presente Capítulo.
+
+P.O. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE OCTUBRE DE 2017, POR EL CUAL APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL LIBRO TERCERO, CAPÍTULO 17 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. La presente reforma, adición y derogación de diversas disposiciones del Libro Tercero, Capítulo 17 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se concede un plazo de tres meses para que la Secretaría de Desarrollo Urbano y Sustentabilidad realice las propuestas de modificaciones y actualizaciones necesarias a su Reglamento Interno y el Manual de Procedimientos respectivo, y los presente ante el H. Ayuntamiento para su aprobación, así como la reingeniería interna para la correcta aplicación de la presente reforma.
