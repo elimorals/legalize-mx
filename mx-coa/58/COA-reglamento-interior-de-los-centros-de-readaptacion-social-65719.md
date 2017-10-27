@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-los-centros-de-readaptacion-social-65719
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2017-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LOS CENTROS DE READAPTACION SOCIAL DEL ESTADO DE COAHUILA
 
-REGLAMENTO INTERIOR DE LOS CENTROS DE READAPTACION SOCIAL DEL ESTADO DE COAHUILA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LOS CENTROS PENITENCIARIOS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 27 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LOS CENTROS DE READAPTACIÓN SOCIAL DEL ESTADO DE COAHUILA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 12 de diciembre de 2008.
 
@@ -1071,7 +1073,7 @@ IX. Verificar la correcta clasificación clínico-criminológica de los internos
 
 X. Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-### CAPÍTULO IV. DEL CONSEJO TÉCNICO INTERDISCIPLlNARIO
+### CAPÍTULO IV. DEL CONSEJO TÉCNICO INTERDISCIPLINARIO
 
 ###### ARTÍCULO 58.
 
@@ -2522,3 +2524,15 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LOS CENTROS PENITENCIARIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente reglamento interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de los Centros de Readaptación Social del Estado de Coahuila, publicado en el Periódico Oficial del Gobierno del Estado el 12 de diciembre de 2008.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente reglamento.
