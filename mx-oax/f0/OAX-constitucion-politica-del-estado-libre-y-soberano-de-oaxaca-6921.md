@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-10-18"
+last_updated: "2017-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3719,17 +3719,27 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 Todos los servidores públicos del Estado y de los Municipios, de sus dependencias, así como las entidades paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E., ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
-Dicha remuneración será determinada anual y equitativamente en los Presupuestos de Egresos correspondientes, bajo las siguientes bases:
+Dicha remuneración será determinada anual y equitativamente en los Presupuestos de Egresos correspondientes, observando en todo momento el principio de austeridad, por lo que el Congreso del Estado vigilará que se cumpla con dicho principio al momento de aprobarlos, bajo las siguientes bases:
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 III. Ningún servidor publico podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 136 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado o presidente Municipal en el presupuesto correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que estas se encuentren asignadas por la Ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formaran parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivos como en especie.
 
@@ -4845,6 +4855,14 @@ SEGUNDO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones co
 
 P.O. 18 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 709.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 709.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y se aplicará para los nuevos funcionarios y empleados que llegaren a designarse en los términos de esta Constitución y para el próximo Gobernador del Estado de Oaxaca.
+
+P.O. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 738.- MEDIANTE EL CUAL SE REFORMA EL ARTICULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Se derogan todas las disposiciones constitucionales y legales que se opongan al presente Decreto.
