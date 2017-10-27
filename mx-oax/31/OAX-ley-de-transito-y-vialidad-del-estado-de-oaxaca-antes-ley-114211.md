@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2016-04-11"
+last_updated: "2017-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE OAXACA - ANTES LEY DE TRANSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA -
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -309,7 +311,7 @@ IX. Emitir informes y dictaminar sobre las causas probables de los accidentes de
 
 X. Auxiliar e instruir a las personas y a los conductores de vehículos, para facilitarles la circulación y la vialidad, con el menor peligro posible;
 
-XI. Recoger y asegurar en garantía vehículos de motor, tarjeta de circulación, placas y/o licencia de manejo en los casos previstos en esta Ley y su Reglamento; y
+XI. (DEROGADA, P.O. 27 DE OCTUBRE DE 2017)
 
 XII. Las que les confieran su superior jerárquico, y les señalen esta Ley, su Reglamento y demás disposiciones normativas aplicables.
 
@@ -411,9 +413,11 @@ IV. Cuando se trate de un vehículo con el cual se realice servicio público de 
 
 Los vehículos de motor asegurados se devolverán hasta que se cumplan los requisitos cuyo incumplimiento motivó la infracción, previo pago de las infracciones correspondientes, y acreditar con documento idóneo la propiedad del vehículo.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 25.
 
-Los integrantes de la Policía Vial Estatal, están facultados para asegurar en el siguiente orden: permiso para circular, tarjeta de circulación, la licencia de manejo, o placas a los conductores que infrinjan esta Ley o su reglamento.
+En ningún caso se asegurarán como garantía del pago de las infracciones el permiso para circular, la tarjeta de circulación, la licencia de manejo o placas, a los conductores que infrinjan esta Ley o su Reglamento.
 
 ###### Artículo 26.
 
@@ -1044,3 +1048,13 @@ Tlalixtac de Cabrera, Centro, Oax., 25 de febrero del 2016.
 SECRETARIO GENERAL DE GOBIERNO
 
 ING. CARLOS SANTIAGO CARRASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 732.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO. Se deroga toda disposición legal o reglamentaria, de carácter estatal o municipal que se oponga al presente Decreto.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
