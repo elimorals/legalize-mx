@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2017-06-07"
+last_updated: "2017-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1703,6 +1703,48 @@ Cuando la víctima del delito de homicidio sea del sexo femenino o menor de edad
 
 Si además del homicidio, se cometen en perjuicio de la víctima otros delitos, deberá imponerse pena por cada delito cometido aún y cuando con ello se exceda el máximo de la pena de prisión.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+Artículo 126 bis.
+
+A quien prive de la vida a una mujer por razones de género, se le impondrá de treinta a sesenta años de prisión y la reparación integral del daño.
+
+Existen razones de género cuando se presente cualquiera de las siguientes circunstancias:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo.
+
+II. Antes o después a la privación de la vida, a la víctima se le hayan infligido lesiones, mutilaciones o cualquier otro acto que atente contra la dignidad humana.
+
+III. Existan antecedentes o datos que establezcan que el activo ejerció sobre la víctima de forma anterior a la privación de la vida, violencia física, psicológica, económica, patrimonial o de cualquier tipo; independientemente de que exista denuncia o haya sido del conocimiento de alguna autoridad.
+
+IV. Por misoginia.
+
+Además se aumentará de uno a veinte años la pena de prisión impuesta, cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Si una servidora o servidor público, aprovechándose de su cargo, interviniere en cualquier etapa del hecho delictivo.
+
+II. Si fuere cometido por dos o más personas.
+
+III. Si fuere cometido en presencia de personas con quienes la víctima tuviere vínculo de parentesco por consanguinidad, afinidad, civil o una relación afectiva o sentimental de hecho, a sabiendas de esta relación.
+
+IV. Cuando la víctima fuere menor de edad o adulta mayor; de pueblos originarios; estuviere embarazada; sufriere discapacidad física, mental, intelectual o sensorial; o se encuentre en cualquier otra condición especial.
+
+V. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, cualquier otra relación de hecho o amistad, laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad.
+
+VI. Si la víctima, por cualquier medio, fue sometida a prácticas que alteraran su estructura corporal con menosprecio al cuerpo de la víctima.
+
+VII. Si la víctima se encontraba bajo el cuidado o responsabilidad del agente, utilizando los medios o circunstancias que su cargo o situación personal le proporcionen.
+
+VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+
+IX. El cuerpo de la víctima sea expuesto, depositado, arrojado o exhibido en circunstancias tales que pueda ser visto por otras personas.
+
+X. El cuerpo de la víctima sea enterrado u ocultado.
+
+XI. Cuando la víctima se encuentre en estado de indefensión.
+
+Si faltaren las razones de género, se estará a la punibilidad prevista para el homicidio.
+
 ### CAPÍTULO II. LESIONES
 
 ###### Artículo 127.
@@ -1783,9 +1825,9 @@ La riña es la contienda de obra entre dos o más personas con el propósito de 
 
 ###### Artículo 136.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2017)</small>
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia, o de periodistas; así mismo, en los supuestos de la fracción X del presente artículo:
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia, o de periodistas; así mismo, en los supuestos de las fracciones X y XI del presente artículo:
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -1835,7 +1877,9 @@ IX. Cuando dolosamente se cometan en perjuicio de periodistas o de empleados o t
 
 X. Cuando en el momento de la privación de la vida, o posterior a ello, se realice la decapitación, mutilación, quemaduras, descuartizamiento o se utilicen mensajes intimidatorios dirigidos a la población, que atenten contra la dignidad humana por la exhibición de la causa de muerte.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+XI. Cuando se cometa por razones de género contra una persona con identidad de género distinta a su sexo.
 
 ###### Artículo 137.
 
@@ -5004,3 +5048,15 @@ P.O. 7 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCOD/0388/2017 I P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Chihuahua, a través de la Fiscalía General del Estado, en el ámbito de su competencia y capacidades, de acuerdo al Resolutivo 18 de la Sentencia emitida por la Corte Interamericana de Derechos Humanos en el caso González y Otras (“Campo Algodonero”) Vs. México, verificará la estandarización de sus protocolos para la investigación del Feminicidio.
