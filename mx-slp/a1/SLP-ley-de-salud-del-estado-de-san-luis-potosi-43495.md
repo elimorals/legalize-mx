@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-10-11"
+last_updated: "2017-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -2625,9 +2625,11 @@ Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificad
 
 Los propietarios o poseedores de los edificios y locales, o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 199.
 
-No se permitirá la construcción o adaptación de edificios para albergue o explotación de animales dentro de las zonas urbanas, excepción hecha de las construcciones destinadas a parques zoológicos, o bien para actividades transitorias tales como: ferias, circos o exposiciones, las cuales deberán sujetarse a las disposiciones reglamentarias respectivas.
+No se permitirá la construcción o adaptación de edificios para albergue o explotación de animales dentro de las zonas urbanas, excepción hecha de las construcciones destinadas a parques zoológicos, o bien para actividades transitorias tales como: ferias o exposiciones, las cuales deberán sujetarse a las disposiciones reglamentarias respectivas.
 
 ###### ARTICULO 200.
 
@@ -3367,7 +3369,9 @@ El Centro de Control de Rabia y otras Zoonosis tendrá entre otras, las siguient
 
 I. Atender quejas contra animales agresores;
 
-II. Capturar animales agresores y callejeros, en apoyo de las actividades de los ayuntamientos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+II. Animales agresores y callejeros evitando en dicho proceso acciones de maltrato y crueldad animal que lastimen su bienestar, apoyo a las actividades de los ayuntamientos;
 
 III. Observar clínicamente a los animales capturados o identificados como agresores, por el tiempo que determine la norma oficial mexicana sanitaria correspondiente;
 
@@ -4330,6 +4334,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 724.- SE REFORMA EL ARTÍCULO 5° EN SU FRACCIÓN XXX, LA DENOMINACIÓN DEL CAPÍTULO XV, Y EL ARTÍCULO 382; Y ADICIONA, A Y LOS ARTÍCULOS 181 EL PÁRRAFO SEGUNDO, 304 TER, 304 QUÁTER, Y 304 QUINQUE, DE LA LEY DE SALUD DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0734.- SE REFORMAN LOS ARTÍCULOS 199 Y 321 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
