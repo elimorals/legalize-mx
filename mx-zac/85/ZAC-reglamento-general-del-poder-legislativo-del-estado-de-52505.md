@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2017-08-26"
+last_updated: "2017-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -37,7 +39,9 @@ RESULTANDO PRIMERO.- Con fecha 21 de septiembre del año 2006, los Diputados Jua
 
 RESULTANDO SEGUNDO.- En fecha 21 de septiembre del 2006, por acuerdo del Presidente de la Quincuagésima Octava Legislatura, mediante el memorándum número 2496 y con fundamento en lo dispuesto por el artículo 56 fracción I y 59 párrafo primero, fracción I de nuestro Reglamento General, la Iniciativa de referencia fue turnada a la Comisión Legislativa de Puntos Constitucionales para su estudio y dictamen.
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo antes expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado de Zacatecas; 17, fracción I de la Ley Orgánica del Poder Legislativo, en nombre del Pueblo es de Decretarse y se DECRETA
 
@@ -1285,7 +1289,9 @@ El Magistrado representante de las entidades públicas, previo procedimiento se�
 
 En caso de no haberse enviado la propuesta de candidatos dentro de los plazos señalados en los artículos 148 y 149 de la Ley del Servicio Civil del Estado, los Magistrados del Tribunal de Conciliación y Arbitraje del Estado, serán designados por la Legislatura de una terna que proponga la Comisión de Régimen Interno.
 
-### Capítulo IV. De los nombramientos y remociones de los servidores públicos del Poder Judicial del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+### Capítulo IV. Del nombramiento y remoción de magistrados de tribunales diversos del Estado
 
 #### Sección primera. Del nombramiento y remoción de los magistrados del Tribunal Superior de Justicia del Estado
 
@@ -1319,17 +1325,65 @@ Los Magistrados del Tribunal de Justicia Electoral del Estado de Zacatecas será
 
 (DEROGADO, P.O. 15 DE MARZO DE 2017)
 
-#### Sección tercera. Del nombramiento y remoción de los magistrados del Tribunal de lo Contencioso Administrativo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+#### Sección tercera. Del nombramiento y remoción de los magistrados del Tribunal de Justicia Administrativa del Estado de Zacatecas
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 153.
 
-El Magistrado propietario y los supernumerarios del Tribunal de lo Contencioso Administrativo del Estado y Municipios, serán nombrados por las dos terceras partes de los miembros presentes de la Legislatura, previa terna que proponga el Tribunal Superior de Justicia del Estado, de conformidad con la Constitución, la Ley y la Ley del Tribunal de lo Contencioso Administrativo del Estado y Municipios.
+Los Magistrados del Tribunal de Justicia Administrativa del Estado se integrará con tres Magistrados y serán nombrados por las dos terceras partes de los miembros presentes de la Legislatura, durarán en su encargo siete años y deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 154.
 
-En lo relativo al proceso de las ternas, se aplicará el artículo 149 del presente Reglamento.
+El procedimiento de designación de los Magistrados deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
 
-### Capítulo V. Del nombramiento y remoción de los servidores públicos de los organismos públicos autónomos del Estado
+> <small>(ADICIONADO [N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN], P.O. 28 DE OCTUBRE DE 2017)</small>
+
+La Legislatura contará con veinte días para conformar una lista de ocho candidatos, la cual deberá integrarse mediante convocatoria pública abierta, que se sujetará a lo siguiente:
+
+I. La Comisión de Régimen Interno formulará la Convocatoria y será sometida a la consideración del Pleno para su aprobación. La Convocatoria deberá ser publicada en el Periódico Oficial, Órgano del Gobierno del Estado, en el portal de internet de la Legislatura y, preferentemente, en uno de los periódicos de mayor circulación en la Entidad;
+
+II. Conforme a la Convocatoria se establecerá una etapa de registro de candidatos, quienes deberán cumplir con los requisitos de elegibilidad señalados en la misma y presentar la documentación necesaria.
+
+Corresponderá a la Comisión de Seguridad Pública y Justicia verificar el cumplimiento de los requisitos previstos en la Convocatoria.
+
+En las bases de la Convocatoria se establecerá que será motivo de descalificación, la falta de alguno de los documentos solicitados o su presentación fuera del plazo y forma estipulados, así como la posibilidad de que dentro del plazo de 24 horas lo subsanen.
+
+En caso de que no se registren candidatos será la Comisión de Régimen Interno quien determinará otro método para integrar la lista;
+
+III. Una vez que la Comisión de Seguridad Pública y Justicia realice la revisión de los requisitos de elegibilidad, emitirá un dictamen de idoneidad en donde se justifique y señalen los elementos que se tomaron en cuenta para su determinación.
+
+IV. Aprobado el dictamen a que se refiere la fracción que antecede, la Comisión de Régimen Interno presentará al Pleno, para su aprobación, en su caso, la Lista de ocho candidatos por magistrado a designar; y
+
+V. El dictamen será sometido a la consideración del Pleno, para su discusión y votación en términos de la Ley y este Reglamento.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+Si el Gobernador del Estado no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de cinco personas y designará provisionalmente a los tres Magistrados, quienes ejercerán sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. Los Magistrados designados podrán formar parte de la lista.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes el Gobernador formulará una lista de cinco personas y la enviará a la consideración de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+La Legislatura con base en la lista y previa comparecencia de las personas propuestas, designará a los tres Magistrados que integrarán el Tribunal de Justicia Administrativa del Estado dentro del plazo de diez días.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+En caso de que el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar a los Magistrados de entre los candidatos de la lista que en un principio envió al Gobernador.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a los Magistrados de entre los candidatos de la lista a que se refiere el párrafo anterior o, en su caso, de la lista de cinco personas que puso a consideración de la Legislatura.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+### Capítulo V. Del nombramiento y remoción del Presidente, consejeros y titulares de órganos internos de control de los organismos constitucionales autónomos del Estado
 
 #### Sección primera. Del nombramiento y remoción del Presidente y consejeros de la Comisión Estatal de Derechos Humanos
 
@@ -1359,7 +1413,49 @@ El Consejero Presidente y los consejeros electorales serán designados y removid
 
 (DEROGADO, P.O. 15 DE MARZO DE 2017)
 
-#### Sección primera. De las licencias y permisos de los diputados
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+#### Sección tercera. De la designación de los titulares de los órganos internos de control de los organismos constitucionales autónomos
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 158 Bis.
+
+La Legislatura designará por el voto de las dos terceras partes de sus miembros presentes a los titulares de los órganos internos de control de los organismos constitucionales autónomos.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 158 Ter.
+
+La designación de los titulares de los órganos internos de control se sujetará al procedimiento siguiente:
+
+I. La Comisión de Régimen Interno formulará, para la aprobación del Pleno, la convocatoria para la designación del titular del órgano interno de control respectivo, en cuyas bases se establecerá la obligación para que los aspirantes acrediten haber realizado su declaración de intereses, conforme a la Ley General de Responsabilidades Administrativas;
+
+II. La convocatoria será pública y abierta, contemplará todas las etapas del procedimiento, las fechas límite y los plazos improrrogables, así como los documentos que presentarán los aspirantes para acreditar los requisitos legales exigibles al cargo;
+
+III. Para ser titular de los órganos internos de control, se deberán satisfacer los requisitos de elegibilidad establecidos en la legislación propia del organismo de que se trate;
+
+IV. Una vez aprobada la convocatoria por la mayoría de los miembros presentes del Pleno, la Mesa Directiva ordenará su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, en el portal de internet de la Legislatura y, preferentemente, en uno de los periódicos de mayor circulación en el Estado;
+
+V. Conforme a la convocatoria, se abrirá el periodo para recibir solicitudes de aspirantes, acompañadas de su declaración de intereses. Enseguida, el Presidente turnará los expedientes a las Comisiones de Transparencia y Acceso a la Información Pública y la de Vigilancia, para efecto de examinar y determinar quiénes de los aspirantes satisfacen los requisitos exigidos para el cargo.
+
+Cuando dichas comisiones se cercioren que alguno de los aspirantes no cumple con algún o algunos de los requisitos, requerirá al interesado, por cualquier medio, para que en un plazo de 24 horas lo subsane, de lo contrario procederá de inmediato a desechar la solicitud.
+
+En caso de que no se registren aspirantes, será la Comisión de Régimen Interno quien determinará otra forma de integrar la lista de candidatos;
+
+VI. Concluidas las etapas anteriores, las mencionadas comisiones emitirán un acuerdo, que por lo menos, establecerá lo siguiente:
+
+a) La lista de los aspirantes que hayan cumplido con los requisitos exigidos para ocupar el cargo,
+
+b) Forma y plazos para que los aspirantes cuya solicitud hubiere sido desechada, les sea devuelta su documentación personal, e (sic)
+
+c) El día y hora donde los aspirantes considerados en la lista del inciso a) de esta fracción, acudirán a las entrevistas ante comisiones, con el objeto de expresar los motivos por los cuales se interesan en ocupar el cargo y las razones que justifican su idoneidad;
+
+VII. Desahogadas las entrevistas, las comisiones procederán a integrar y revisar los expedientes. Acto seguido, emitirán el dictamen que contenga la lista de candidatos aptos para ser sometidos a la consideración del Pleno;
+
+VIII. En la sesión correspondiente el dictamen a que se refiere la fracción anterior se someterá a la consideración del Pleno y se procederá a su discusión y votación en los términos de la Ley y el Reglamento;
+
+IX. Aprobado el dictamen, en su caso, la persona cuya candidatura haya sido aprobada por el Pleno, rendirá la protesta de ley en los términos del artículo 158 de la Constitución.
 
 ### Capítulo VI. Del nombramiento y remoción de los integrantes de los Ayuntamientos
 
@@ -1373,7 +1469,7 @@ El dictamen que emita la comisión versará únicamente sobre la elegibilidad de
 
 ### Capítulo VII. De las licencias
 
-#### Sección segunda. De las licencias y faltas del Gobernador
+#### Sección primera. De las licencias y permisos de los diputados
 
 ###### Artículo 160.
 
@@ -1403,13 +1499,13 @@ Informada la Mesa Directiva de lo anterior, dentro de las veinticuatro horas sig
 
 Cuando la autorización se haya otorgado por tiempo indeterminado, el diputado con licencia deberá notificar por escrito a la Mesa Directiva sobre su reincorporación, con diez días de anticipación. La Mesa Directiva seguirá el procedimiento previsto en este artículo.
 
-#### Sección tercera. De las licencias de los Magistrados del Tribunal Superior de Justicia del Estado
+#### Sección segunda. De las licencias y faltas del Gobernador
 
 ###### Artículo 164.
 
 El Gobernador no podrá dejar el territorio del Estado ni el ejercicio de sus funciones sino con permiso de la Legislatura o de la Comisión Permanente; salvo que su ausencia del territorio sea por menos de quince días, en cuyo caso, no se necesitará dicho permiso, ni se le considerará separado de sus funciones.
 
-#### Sección cuarta. De las licencias de los Magistrados del Tribunal Estatal Electoral
+#### Sección tercera. De las licencias de los Magistrados del Tribunal Superior de Justicia del Estado
 
 ###### Artículo 165.
 
@@ -1417,13 +1513,13 @@ Cuando las ausencias de los Magistrados del Tribunal Superior de Justicia del Es
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE MARZO DE 2017)</small>
 
-#### Sección quinta. De las licencias de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y Municipios
+#### Sección cuarta. De las licencias de los Magistrados del Tribunal Estatal Electoral
 
 ###### Artículo 166.
 
 (DEROGADO, P.O. 15 DE MARZO DE 2017)
 
-#### Sección Primera. De la declaración de Gobernador electo y la expedición del Bando Solemne
+#### Sección quinta. De las licencias de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y Municipios
 
 ###### Artículo 167.
 
@@ -1455,9 +1551,31 @@ Recibidas las solicitudes de ratificación de los nombramientos, la Secretaría 
 
 De rechazarse la ratificación solicitada, se hará del conocimiento del Gobernador a efecto de que remita las nuevas designaciones, siguiendo el procedimiento mencionado en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 170 Bis.
+
+La designación que haga el Gobernador del Estado respecto del cargo de Titular del Órgano Interno de Control del Poder Ejecutivo, será aprobada en sesión del Pleno de la Legislatura por la mayoría de sus miembros presentes.
+
+El Gobernador del Estado dentro de las cuarenta y ocho horas siguientes a la designación, la hará del conocimiento a la Legislatura. Recibida dicha notificación el Presidente de la Mesa Directiva dará cuenta de su recepción al Pleno y la turnará a las Comisiones de Transparencia y Acceso a la Información Pública y Vigilancia.
+
+Una vez recibido el escrito de designación por las comisiones, dentro de los cinco días siguientes a su recepción, procederán a analizarlo con su respectivo expediente y, de considerarlo pertinente, citarán a la persona propuesta, con la finalidad de contar con elementos objetivos de juicio para determinar la procedencia o no de la designación.
+
+Hecho lo anterior, dichas comisiones formularán el dictamen de elegibilidad, el cual se someterá a la consideración del Pleno en los términos de la legislación interna.
+
+En caso de que el Dictamen sea aprobado por el Pleno, se citará a la persona designada para que rinda la protesta de ley, de acuerdo con lo establecido en el artículo 158 de la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 170 Ter.
+
+En caso de que el Pleno no aprobara tal designación, dentro de las cuarenta y ocho horas siguientes a la respectiva sesión, se hará la notificación correspondiente al Gobernador del Estado, para que dentro del plazo de cinco días hábiles haga nueva designación.
+
+Recibida esta nueva designación en la Legislatura, dentro del plazo establecido en el párrafo anterior, discutirá y resolverá sobre su aprobación. En caso de que no se aprobara nuevamente, el Gobernador podrá designar provisionalmente un encargado del despacho y dentro de los treinta días naturales siguientes a la desaprobación, hará una nueva designación y la notificará inmediatamente a la Legislatura, quien podrá rechazarla solo porque no cumple con los requisitos de elegibilidad y, de no ser así, la designación emitida por el Gobernador del Estado tendrá carácter definitivo.
+
 ### Capítulo X. De las declaratorias
 
-#### Sección segunda. De la declaración de suspensión y desaparición de Ayuntamientos
+#### Sección Primera. De la declaración de Gobernador electo y la expedición del Bando Solemne
 
 ###### Artículo 171.
 
@@ -1467,7 +1585,7 @@ La Legislatura y, en su caso, la Comisión Permanente expedirá el decreto que c
 
 El Bando Solemne se publicará en el Periódico Oficial, Órgano del Gobierno del Estado y se difundirá en todo el territorio del Estado.
 
-#### Sección primera. Del informe del Poder Legislativo
+#### Sección segunda. De la declaración de suspensión y desaparición de Ayuntamientos
 
 ###### Artículo 173.
 
@@ -1591,15 +1709,17 @@ La multa será notificada por el Presidente a la Oficialía Mayor de Gobierno o 
 
 ### Capítulo XIV. De los Informes
 
-#### Sección segunda. Del informe del Gobernador
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+#### Sección primera. Del informe del Poder Legislativo
 
 ###### Artículo 184.
 
 En la última sesión del mes de diciembre de cada año, en sesión solemne, el Presidente rendirá ante el Pleno el informe anual del trabajo desarrollado por la Legislatura, salvo en el último año de ejercicio legislativo, caso en el cual el informe deberá rendirse durante el último mes del segundo periodo ordinario del año que concluye la Legislatura.
 
 A la ceremonia serán invitados los titulares de los poderes Ejecutivo y Judicial, así como los de los organismos públicos autónomos. La sesión solemne se desarrollará de conformidad con lo establecido en el artículo 88 de este Reglamento.
+
+#### Sección segunda. Del informe del Gobernador
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 185.
 
@@ -2572,3 +2692,15 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente al de
 Artículo segundo. La Legislatura del Estado deberá disponer en el Reglamento General del Poder Legislativo del Estado de Zacatecas, a más tardar noventa días posteriores a la entrada en vigor de la presente reforma, el procedimiento correspondiente para enajenar o desincorporar algún bien mueble del Poder Legislativo.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO.- 212 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo tercero. Los titulares de los órganos internos de control de los organismos constitucionales autónomos, serán designados y tomarán protesta ante el Pleno de la Legislatura, dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto.
+
+Artículo cuarto. Para los efectos del párrafo tercero del artículo 113 de la Constitución Política del Estado Libre y Soberano de Zacatecas y artículo segundo transitorio de la Ley de Justicia Administrativa del Estado de Zacatecas, la Comisión de Régimen Interno y Concertación Política, integrará tres listas de ocho candidatos, cada una de ellas, para los Magistrados que durarán en su encargo 3, 5 y 7 años, misma que será puesta a la consideración del Pleno.
