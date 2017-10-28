@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-10-21"
+last_updated: "2017-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3683,9 +3683,17 @@ III. Realice, una obra civil, o de servicio, que no cuente con una autorización
 
 IV. Expida autorización de cualquiera de los actos señalados en las fracciones anteriores, sin observar la normatividad aplicable;
 
-V. Realice obras de construcción, edificación, infraestructura o asentamientos humanos en zona determinada sin observar los análisis de riesgo, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2017)</small>
 
-VI. Expida autorización sin observar los análisis de riesgo; y los atlas, municipales, estatales, y el nacional.
+V. Realice obras de construcción, edificación, infraestructura o asentamientos humanos en zona determinada sin observar los análisis de riesgo;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+VI. Expida autorización sin observar los análisis de riesgo; y los atlas, municipales, estatales, y el nacional, y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2017)</small>
+
+VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas verdes; bienes de dominio público; o lugares que tengan legal, o administrativamente reconocido su valor paisajístico, ecológico, artístico, histórico, o cultural, o que por los mismos motivos hayan sido considerados de especial protección.
 
 ### CAPÍTULO XV. Intimidación
 
@@ -4772,3 +4780,11 @@ P.O. 21 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0733.- SE REFORMA EL ARTÍCULO 308 EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 308 LA FRACCIÓN VII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
