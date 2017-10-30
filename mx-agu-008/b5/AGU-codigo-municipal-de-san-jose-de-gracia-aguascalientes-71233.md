@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2015-02-16"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -269,13 +269,11 @@ Los organismos auxiliares ejercerán las atribuciones que les corrieran las auto
 
 El Honorable Ayuntamiento es el Órgano Colegiado del Gobierno y de la Administración Pública Municipal, que tendrá la característica de Órgano Supremo de Gobierno del Municipio de San José de Gracia y cuenta con competencia exclusiva sobre su territorio y población, en términos de lo dispuesto por la Constitución Federal y demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-El Honorable Ayuntamiento se integrará por un Presidente Municipal y los regidores y síndicos que establezcan la constitución local y las disposiciones electorales.
-
-Para efecto de lo anterior serán electos por el principio de mayoría relativa y proporcional en los términos de la propia constitución; y en su caso, podrá haber uno o dos síndicos según lo disponga el número de habitantes con que cuente el Municipio en el momento de las elecciones.
-
-Los servidores públicos integrantes del Ayuntamiento durarán en su encargo tres años y tomarán posesión de su cargo el día señalado en las leyes que en materia Municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado.
+Los presidentes municipales, regidores y síndicos, que resulten electos en la elección constitucional del año 2016, iniciarán sus funciones el 1° de enero del año 2017 y concluirán su período constitucional el 14 de octubre del año 2019, los cuales tendrán derecho a la reelección consecutiva por un período más; y los electos en el año 2019 iniciarán sus funciones el 15 de octubre de ese mismo año y concluirán su período constitucional el 14 de octubre del año 2021 y así sucesivamente.
 
 ###### ARTÍCULO 27.
 
@@ -1521,17 +1519,39 @@ A. Subdirección de Desarrollo Social
 
 3. Área de Desarrollo Económico
 
-XII. DIRECCIÓN DE OBRAS PÚBLICAS
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XII. DIRECCIÓN DE OBRAS PÚBLICAS.
 
 A. Subdirección de Obras Públicas
 
-1. Área de Desarrollo Urbano
+B. Supervisión de Obra
 
-2. Área de Proyectos y Supervisión de Obras
+C. Área de Proyectos, Gestión, Licitación, Construcción y Conservación.
 
 XIII. DIRECCIÓN DE TURISMO
 
 A. Subdirección de Turismo
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XIV. DIRECCIÓN DE DESARROLLO URBANO Y PLANEACION.
+
+A. Área de Planeación
+
+B. Área de Reglamentos de imagen Urbana
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+DIRECCIÓN DE TURISMO
+
+XV.- SECRETARÍA DE CULTURA Y DEPORTE
+
+A.- Encargado de Deporte
+
+B.- Área de Acción Cívica
+
+C.- Área de Logística y Giras
 
 ### CAPÍTULO I. De Las Facultades de las Dependencias de la Administración Pública Municipal
 
@@ -2079,97 +2099,7 @@ XXIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por condu
 
 Corresponde a la Dirección de Obras Públicas:
 
-A. En materia de Planeación y Desarrollo Urbano:
-
-I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos de suelo, y de protección al ambiente;
-
-II. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la autorización y supervisión de subdivisiones, fraccionamientos, condominios y desarrollos especiales así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
-
-III. En el ámbito de fraccionamientos y subdivisiones, vigilar el cumplimiento con lo dispuesto en el Código Urbano y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización;
-
-IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización y Urbanización;
-
-V. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones:
-
-a) Alineamiento y Compatibilidad Urbanística;
-
-b) Anuncios;
-
-c) Fusión de Predios;
-
-d) Subdivisión de predios;
-
-e) Relotificación de Predios;
-
-f) Licencias para la construcción, reparación, remodelación y demolición de inmuebles;
-
-g) Realización de obras, instalaciones y reparaciones en la vía pública;
-
-h) Números oficiales para los inmuebles;
-
-VI. Determinar el tipo de construcciones que se puedan edificar en el Municipio;
-
-VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano;
-
-VIII. Llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
-
-IX. Inspeccionar y supervisar obras, de urbanización, edificación y construcciones en general;
-
-X. Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se apegue a las características previamente registradas;
-
-XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias;
-
-XII. Ordenar y aplicar la suspensión temporal preventiva, o la clausura parcial o total, de obras de urbanización y edificación, en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código;
-
-XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código;
-
-XIV. Ordenar y ejecutar las demoliciones en inmuebles en los casos previstos en este Código;
-
-XV. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos en este Código, o en caso contrario negarla;
-
-XVI. Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas por el presente Código y demás disposiciones jurídicas aplicables;
-
-XVII. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
-
-XVIII. Expedir y aplicar las normas y especificaciones técnicas complementarias de urbanización y edificación para el debido cumplimiento en lo relativo a la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios y desarrollos especiales, así como de las construcciones;
-
-XIX. Determinar los requisitos y procedimientos para autorizar la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
-
-XX. Ejercer las atribuciones que otorga al Municipio el Código Urbano, en cuanto al desarrollo urbano y asentamientos humanos;
-
-XXI. Proponer las obras y servicios públicos que sean necesarios para el desarrollo urbano;
-
-XXII. Proveer los elementos para la exacta observancia de la planeación urbana;
-
-XXIII. Establecer una adecuada coordinación con las dependencias y organismos de gobierno federal y estatal, que realicen acciones de desarrollo urbano y vivienda;
-
-XXIV. Realizar el procedimiento de conservación de predios y edificaciones;
-
-XXV. Supervisar la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de estas, que realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales;
-
-XXVI. Supervisar los trabajos de edificación que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales;
-
-XXVII. Dictaminar sobre las obras de urbanización de los fraccionamientos previamente a su municipalización, desarrollos especiales, así como de los condominios, antes de entregarse a los condóminos;
-
-XXVIII. Establecer y verificar en fraccionamientos, condominios y desarrollos especiales los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
-
-XXIX. Requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios y desarrollos especiales;
-
-XXX. Coordinar los Comités y Subcomités en materia Urbana;
-
-XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido;
-
-XXXII. Suscribir convenios de reubicación cuando existan conflictos respecto al uso de suelo;
-
-XXXIII. Garantizar el cumplimiento de lo establecido en el Código Urbano y en el presente Código;
-
-XXXIV. Expedir autorización de uso de suelo a estacionamientos públicos;
-
-XXXV. Autorizar, ordenar, controlar y retirar toda clase de anuncios públicos o privados;
-
-XXXVI. Autorizar, ordenar, controlar y retirar el mobiliario urbano; y,
-
-XXXVII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+A. (DEROGADO, P.O. 30 DE OCTUBRE DE 2017)
 
 B. En materia de Obra Pública:
 
@@ -2188,6 +2118,78 @@ VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obr
 VII. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad operativa, con las demás instancias municipales; y,
 
 VIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 155 CUAR (SIC).- Corresponde a la DIRECCIÓN DE DESARROLLO URBANO Y PLANEACIÓN lo siguiente:
+
+I. Realizar diagnósticos sobre la problemática pública en el Municipio, en materia de desarrollo urbano.
+
+II. Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+
+III. Coordinar la elaboración de los programas de desarrollo urbano de la cabecera y comunidades del Municipio de San José de Gracia, Ags.;
+
+IV. Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
+
+V. Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
+
+VI. Promover la creación de reservas territoriales en el Municipio;
+
+VII. Organizar los Programas Operativos Anuales;
+
+VIII. Preparar los proyectos derivados de los Programas Operativos Anuales;
+
+IX. Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
+
+X. Realizar diagnósticos municipales;
+
+XI. Recopilar y mantener actualizada la información estadística necesaria para la planeación municipal;
+
+XII. Relacionar la Administración Pública Municipal con los ciudadanos, a fin de que estos participen en el proceso de planeación democrática del desarrollo;
+
+XIII. Construir y operar las bases de datos estadísticos municipales;
+
+XIV. Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
+
+XV. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de construcciones y de protección al ambiente;
+
+XVI. Ejercer las atribuciones que le otorga el Código Urbano del Estado al Municipio; en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+
+XVII. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
+
+XVIII. Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
+
+XIX. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
+
+XX. Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
+
+XXI. Inspeccionar obras, edificios y construcciones en general;
+
+XXII. Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
+
+XXIII. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
+
+XXIV. Ordenar la realización de visitas de inspección y la aplicación de medidas de seguridad;
+
+XXV. Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
+
+XXVI. Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
+
+XXVII. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+
+XXVIII. Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
+
+XXIX. Realizar acciones tendientes a la educación ambiental en el Municipio, en su caso, en colaboración con las instituciones educativas y culturales;
+
+XXX. Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos naturales en el Municipio, buscando en todo el desarrollo municipal sustentable;
+
+XXXI. Promover campañas de reciclaje ecológico y de limpieza de ríos y afluentes y demás lugares afectados por basuras o desechos;
+
+XXXII. Autorizar, ordenar, controlar y retirar el mobiliario urbano;
+
+XXXIII. Expedir autorización de uso de suelo a estacionamientos públicos;
+
+XXXIV. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 #### SECCIÓN DÉCIMO SEGUNDA. Dirección de Turismo
 
@@ -2243,59 +2245,65 @@ XXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por condu
 
 #### SECCIÓN DÉCIMA TERCERA. Dirección del Deporte
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-ARTÍCULO 156 BIS.- Corresponde a la Dirección del Deporte lo siguiente:
+ARTÍCULO 156 BIS.- Corresponde a la Secretaría de Cultura y Deporte lo siguiente:
 
-I. Proponer, coordinar y evaluar las acciones en materia de deporte, cultura física y recreación para la población del Municipio;
+I. Las que conforme a la Ley le correspondan, en materia de cultura física y deporte;
 
-II. Fomentar la actividad deportiva en las instituciones educativas y en la población en general.
+II. Convocar a las dependencias y entidades del sector público y a las instituciones de los sectores social y privado;
 
-III. Coordinar, mantener y promover la utilización de las diversas instalaciones deportivas públicas municipales;
+III. Proponer, dirigir, ejecutar, evaluar y vigilar la política municipal de cultura física y deporte;
 
-IV. Gestionar recursos y aplicarlos a la mejora de las instalaciones y al fomento de la práctica deportiva;
+IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, del Estado y los Municipios de la entidad, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
 
-V. Fomentar la creación de las escuelas deportivas municipales especializadas en algunas disciplinas;
+V. Integrar el Programa Municipal de Cultura Física y Deporte;
 
-VI. Organizar eventos deportivos tendientes al fomento del deporte y la participación ciudadana en las actividades de la activación física;
+VI. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales;
 
-VII. Impulsar y estimular los valores deportivos del municipio;
+VII. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
 
-VIII. Conformar y agrupar ligas de asociaciones deportivas;
+VIII. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte;
 
-IX. Atender solicitudes de la ciudadanía para efectos del préstamo de instalaciones deportivas;
+IX. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público municipal y la asignación de los recursos para los mismos fines.
 
-X. Elaborar un registro municipal de los atletas de alto rendimiento y seleccionados a las olimpiadas en todas sus fases;
+X. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Municipio;
 
-XI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XI. Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
+
+XII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+XIII. Organizar eventos deportivos tendientes al fomento del deporte y la participación ciudadana en las actividades de la activación física.
+
+XIV. Impulsar y estimular los valores deportivos y culturales del Municipio.
+
+XV. Atender solicitudes de la ciudadanía para efectos del préstamo de instalaciones deportivas.
+
+XVI. Fomentar la creación de las escuelas deportivas municipales especializadas en algunas disciplinas.
+
+XVII. Coordinar, mantener y promover la utilización de las diversas instalaciones deportivas públicas municipales.
+
+XVIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE FEBRERO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA CUARTA. Dirección de Desarrollo Agropecuario
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-ARTÍCULO 156 TER.- Corresponde a la Dirección de Desarrollo Agropecuario lo siguiente:
+ARTÍCULO 156 TER.- Para ser Secretario de Cultura y Deporte del Municipio de San José de Gracia, Ags., se requiere de lo siguiente:
 
-I. Promover proyectos productivos en el área rural del Municipio.
+I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del Municipio de San José de Gracia;
 
-II. Proponer al H. Ayuntamiento a través del Presidente Municipal programas y planes de trabajo que tiendan a promover el desarrollo rural integral y agropecuario del Municipio;
+II. Contar con título de licenciatura debidamente registrado.
 
-III. Gestionar recursos y aplicarlos a los proyectos y programas agropecuarios en el Municipio;
+III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo, a juicio del Ayuntamiento;
 
-IV. Establecer una estrecha coordinación y comunicación con las dependencias y organismos públicos y privados que tengan como finalidad apoyar el desarrollo rural;
+IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
 
-V. Organizar y coordinar los fondos de apoyo provenientes de los programas productivos destinados a fortalecer a las comunidades rurales;
+V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y,
 
-VI. Promover los proyectos orientados al desarrollo rural y agropecuario a través de programas de colaboración y participación del Municipio, el Estado y la Federación;
-
-VII. Organizar foros temáticos para identificar las demandas del sector en forma conjunta con las instituciones y/o dependencias que corresponda;
-
-VIII. Promover cursos de capacitación que incidan en el desarrollo de lascomunidades (sic) rurales;
-
-IX. Llevar a cabo la aprobación y realización de acciones conjuntas con el Consejo Municipal de Desarrollo Agropecuario, a efecto de beneficiar a los sectores y grupos marginados que son prioritarios, tales como jóvenes, mujeres madres de familia, adultos mayores, y personas con capacidades diferentes;
-
-X. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACION PÚBLICA DESCENTRALIZADA Y DESCONCENTRADA
 
@@ -13526,3 +13534,9 @@ P.O. 16 DE FEBRERO DE 2015.
 ###### ARTICULO UNICO
 
 Las presentes reformas y adiciones al Código Municipal de San José de Gracia, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO QUE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA".]
+
+[LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
