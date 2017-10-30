@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-prestacion-de-los-servicios-de-guarderia-109
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "2009-12-29"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10913&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1997-06-27"
 ---
 # REGLAMENTO PARA LA PRESTACION DE LOS SERVICIOS DE GUARDERIA
 
-REGLAMENTO PARA LA PRESTACION DE LOS SERVICIOS DE GUARDERIA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2009.
+REGLAMENTO PARA LA PRESTACIÓN DE LOS SERVICIOS DE GUARDERÍA
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 30 de junio de 1997.
 
@@ -31,7 +33,7 @@ El H. Consejo Técnico, en la sesión celebrada el día 23 de octubre de 1996, d
 
 "Este Consejo Técnico, con fundamento en los artículos 240 fracciones VIII y XXII, 252 y 253 fracciones VI y XV de la Ley del Seguro Social, y con las sugerencias de los señores consejeros, aprueba los proyectos de los reglamentos siguientes: de Servicios Médicos; para la Prestación de los Servicios de Guardería, y para el Trámite y Resolución de las Quejas Administrativas ante el Instituto Mexicano del Seguro Social.
 
-.
+[...]
 
 REGLAMENTO PARA LA PRESTACIÓN DE LOS SERVICIOS DE GUARDERÍA
 
@@ -50,8 +52,6 @@ I. Ley. La Ley del Seguro Social.
 II. Instituto. El Instituto Mexicano del Seguro Social.
 
 III. Reglamentos. Los emitidos por el Presidente de la República en ejercicio de las facultades conferidas por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, en relación a la Ley del Seguro Social y aquéllos que emita el Consejo Técnico del Instituto en uso de sus atribuciones.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -239,15 +239,15 @@ La dependencia responsable de la operación de las guarderías en cada delegaci�
 
 I. Cuando se detecte la existencia o la posibilidad de un padecimiento epidémico entre los menores, de tal manera que se haga indispensable aislar el área que ocupa la guardería por el tiempo que los servicios médicos institucionales consideren necesario.
 
-II. Cuando a juicio del Instituto sea necesario ejecutar obras de reparación, ampliación, remodelación o reacondicionamiento del inmueble que ocupa la guardería, durante las cuales sea imposible la prestación del servicio en condiciones normales para los menores o se ponga en riesgo su seguridad.
+> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2017)</small>
+
+II. Cuando a Juicio del Instituto sea necesario ejecutar obras de reparación, ampliación, remodelación, o reacondicionamiento del inmueble que ocupa la guardería, durante las cuales sea imposible la prestación del servicio en condiciones normales para los menores, conforme a lo establecido por la normatividad vigente emitida por el Instituto, o se ponga en riesgo la seguridad de éstos.
 
 III. Cuando sobrevenga algún fenómeno natural, calamidad o causa operativa que impida la prestación del servicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
-
-En los casos a que se refiere la fracción II de este artículo, el Instituto, previo acuerdo del H. Consejo Técnico, mientras dure la suspensión temporal, cuando ésta se deba, a juicio del Instituto, a que esté en riesgo la seguridad de los menores, empleados de la guardería y, en general, de las personas que requieran asistir a dicho inmueble, otorgará a los trabajadores una ayuda en efectivo equivalente a la cuota que cubre el Instituto a los prestadores de servicios de guardería en la localidad correspondiente, a fin de que se proporcionen a sus hijos los cuidados necesarios durante su jornada de trabajo.
+En los casos a que se refiere la fracción III de este artículo, el Instituto, previo acuerdo del H. Consejo Técnico, otorgará a los trabajadores una ayuda en efectivo conforme a los lineamientos que para tal efecto se emitan, a fin de que se proporcionen a sus hijos los cuidados necesarios durante su jornada de trabajo.
 
 ### CAPÍTULO V. DE LAS SANCIONES Y SUSPENSIONES
 
@@ -309,14 +309,28 @@ PRIMERO. El presente Reglamento entrará en vigor el primero de julio de mil nov
 
 SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan a la observancia del presente Reglamento.
 
-.
+[...]
 
 Los presentes Reglamentos se expiden en la Ciudad de México, D.F., a 27 de junio de 1997.- En cumplimiento a lo dispuesto por el H. Consejo Técnico en el Acuerdo citado, y de conformidad con la solicitud de la Dirección Jurídica contenida en su oficio 3,012, de fecha 18 de octubre de 1996".- El Secretario General del Instituto Mexicano del Seguro Social, Juan Moisés Calleja García.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 29 DE DICIEMBRE DE 2009.
 
 Primero.- Las modificaciones y adiciones a este Reglamento, entrarán en vigor el primero de enero de dos mil diez.
 
-Segundo.- Se autoriza a la Dirección General para que, a partir de la entrada en vigor de las modificaciones y adiciones aprobadas al Reglamento para la Prestación de los Servicios de Guardería, por conducto de las Delegaciones respectivas, haga entrega de la ayuda a que se refiere el segundo párrafo del artículo 31 de dicho ordenamiento. Tercero.- La Dirección General, por conducto de las Direcciones de Prestaciones Económicas y Sociales y de Finanzas, deberá informar trimestralmente a este Organo de Gobierno, el importe total de las ayudas otorgadas en los términos del presente Acuerdo, con la finalidad de que se autoricen las modificaciones presupuestarias requeridas para el cumplimiento del mismo. Cuarto.- Se instruye a la Dirección de Prestaciones Económicas y Sociales para que emita los lineamientos respectivos que, en su caso, sean indispensables para el cumplimiento del presente Acuerdo. Quinto.- Se instruye a la Dirección Jurídica, a efecto de que lleve a cabo los trámites conducentes ante las instancias respectivas, para la publicación de las modificaciones y adiciones al Reglamento a que se refiere el punto Primero del presente Acuerdo, en el Diario Oficial de la Federación. (sic)
+Segundo.- Se autoriza a la Dirección General para que, a partir de la entrada en vigor de las modificaciones y adiciones aprobadas al Reglamento para la Prestación de los Servicios de Guardería, por conducto de las Delegaciones respectivas, haga entrega de la ayuda a que se refiere el segundo párrafo del artículo 31 de dicho ordenamiento. Tercero.- La Dirección General, por conducto de las Direcciones de Prestaciones Económicas y Sociales y de Finanzas, deberá informar trimestralmente a este Organo de Gobierno, el importe total de las ayudas otorgadas en los términos del presente Acuerdo, con la finalidad de que se autoricen las modificaciones presupuestarias requeridas para el cumplimiento del mismo. Cuarto.- Se instruye a la Dirección de Prestaciones Económicas y Sociales para que emita los lineamientos respectivos que, en su caso, sean indispensables para el cumplimiento del presente Acuerdo. Quinto.- Se instruye a la Dirección Jurídica, a efecto de que lleve a cabo los trámites conducentes ante las instancias respectivas, para la publicación de las modificaciones y adiciones al Reglamento a que se refiere el punto Primero del presente Acuerdo, en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO ACDO.AS1.HCT.290317/50.P.DPES DICTADO EN LA SESIÓN ORDINARIA CELEBRADA EL 29 DE MARZO DE 2017, MEDIANTE EL CUAL SE AUTORIZA LA REFORMA DE LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO, DEL ARTÍCULO 31, DEL REGLAMENTO PARA LA PRESTACIÓN DE LOS SERVICIOS DE GUARDERÍA".]
+
+Primero.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se autoriza a la Dirección General para que, a partir de la entrada en vigor de la reforma aprobada al Reglamento para la Prestación de los Servicios de Guardería, por conducto de las Delegaciones respectivas, haga entrega de la ayuda a que se refiere el último párrafo del artículo 31 de dicho ordenamiento.
+
+Tercero.- Se instruye a la Dirección de Prestaciones Económicas y Sociales, para que emita los lineamientos respectivos para el cumplimiento del artículo 31 que se reforma mediante el presente Acuerdo.
+
+Cuarto.- Se instruye a las Direcciones de Prestaciones Económicas y Sociales y de Finanzas, deberán informar semestralmente a este Órgano de Gobierno, el importe total de las ayudas otorgadas en los términos del presente Acuerdo con la finalidad de que, en su caso, se autoricen las modificaciones presupuestarias requeridas para el cumplimiento del mismo.
+
+Quinto.- Se instruye a la Dirección Jurídica para que realice los trámites necesarios ante las instancias competentes, para la publicación de las modificaciones al Reglamento a que se refiere el punto Primero del presente Acuerdo, en el Diario Oficial de la Federación.
