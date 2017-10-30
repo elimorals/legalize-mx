@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2016-12-29"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -2515,3 +2515,17 @@ La formulación de Programas Presupuestarios, la implementación del presupuesto
 ###### ARTÍCULO SEXTO.
 
 Las reformas y adiciones al artículo 28, en materia de suelo de conservación, entrará en vigor a partir del año 2018.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante el Ejercicio Fiscal 2017, las fechas límite establecidas en el párrafo segundo del artículo 56 de esta Ley, se amplían a más tardar el 15 de noviembre de 2017, tratándose de Obra Pública por Contrato y el 30 de Noviembre de 2017, para el resto de los conceptos de gasto.
+
+G.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO TRANSITORIO SÉPTIMO AL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 29 DE DICIEMBRE DE 2016".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
