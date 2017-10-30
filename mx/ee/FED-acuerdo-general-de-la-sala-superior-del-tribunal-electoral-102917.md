@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-1029
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-10-22"
-last_updated: "2014-10-22"
+last_updated: "2017-10-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102917&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-13"
 
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN 4/2014, DE VEINTINUEVE DE SEPTIEMBRE DE DOS MIL CATORCE, POR EL QUE SE APRUEBAN LAS REGLAS APLICABLES A LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES COMPETENCIA DE LA SALA REGIONAL ESPECIALIZADA Y SUS IMPUGNACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de octubre de 2014.
 
@@ -75,9 +75,13 @@ TERCERO. Asignación Preliminar. Una vez que la Sala Regional reciba el aviso so
 
 La asignación preliminar se realizará en riguroso orden alfabético de los apellidos de los Magistrados integrantes de la Sala Regional y en orden cronológico y sucesivo de presentación de cada expediente, conforme con la fecha y hora de recepción del aviso de admisión en la Secretaría General de Acuerdos de dicho órgano jurisdiccional. Al efecto, se aplicarán, en lo conducente, las reglas de turno establecidas en el artículo 77 del Reglamento Interno del Tribunal Electoral y se atenderá al carácter nacional, local o distrital del Órgano del Instituto que instruyó el procedimiento.
 
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2017)</small>
+
 CUARTO. Recurso de revisión en contra del desechamiento de la queja o denuncia y otras determinaciones del Instituto. En caso de interposición de algún recurso de revisión contra el desechamiento de la queja o denuncia de un procedimiento especial sancionador, así como de cualquier otra determinación, como es la relativa a las medidas cautelares, el órgano del Instituto competente para tramitarlo, dará por vía electrónica el aviso a que se refiere el artículo 17, párrafo 1, inciso a), de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a la Sala Superior, marcando copia a la Sala Regional.
 
-Asimismo, durante el proceso federal electoral, dada la naturaleza de la materia de impugnación y la prontitud con que debe resolverse, en conformidad con el artículo 17 constitucional, dentro de las veinticuatro horas siguientes a su presentación, dicho órgano enviará a la Sala Superior por la vía más expedita el escrito original de demanda, con sus anexos, y la copia de la resolución impugnada, con la documentación relacionada que obre en su poder. Una vez transcurridos los plazos establecidos para el trámite, hará llegar el informe circunstanciado; en su caso, los escritos de tercero interesado, y demás documentación relacionada, en términos de la citada ley adjetiva.
+Asimismo, durante el proceso federal electoral, dada la naturaleza de la materia de impugnación y la prontitud con que debe resolverse, en conformidad con el artículo 17 constitucional, dentro de las veinticuatro horas siguientes a su presentación, dicho órgano enviará a la Sala Superior por la vía más expedita el escrito original de demanda, con sus anexos, la copia de la resolución impugnada, con la documentación relacionada que obre en su poder, así como el informe circunstanciado correspondiente, tomando en consideración que la Sala Superior debe contar oportunamente con todos los elementos que le permitan un análisis completo de la controversia y la pronta resolución de dichos asuntos.
+
+En su caso, una vez transcurridos los plazos establecidos para el trámite, hará llegar los escritos de tercero interesado, y demás documentación relacionada, en términos de la citada ley adjetiva.
 
 La resolución que emita la Sala Superior respecto del recurso de revisión será notificada por correo electrónico a la Sala Regional. En caso que se determine la revocación del desechamiento decretado por el Instituto, para el efecto de que se admita y resuelva en el fondo el respectivo procedimiento especial sancionador, se proceda a su asignación preliminar, en términos del artículo anterior.
 
@@ -122,3 +126,13 @@ EL SUSCRITO, SUBSECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL 
 Lo que certifico por instrucciones del Magistrado José Alejandro luna Ramos, Presidente de este órgano jurisdiccional y en ejercicio de las facultades previstas en el artículo 202, de la Ley Orgánica del Poder Judicial de la Federación, y 14, fracción IV, del Reglamento Interior del Tribunal Electoral del Poder Judicial de la Federación, para los efectos legales procedentes. DOY FE.
 
 México, Distrito Federal, a trece de octubre de dos mil catorce.- El Subsecretario General de Acuerdos, Gabriel Mendoza Elvira.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 11/2017, DE DIECIOCHO DE OCTUBRE DE DOS MIL DIECISIETE, POR EL CUAL SE MODIFICA EL DIVERSO 4/2014, POR EL QUE SE APRUEBAN LAS REGLAS APLICABLES A LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES COMPETENCIA DE LA SALA REGIONAL ESPECIALIZADA Y SUS IMPUGNACIONES."]
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis Relevantes en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de la Sala Superior y de las Salas Regionales, y en las páginas de Internet e Intranet de este órgano jurisdiccional.
