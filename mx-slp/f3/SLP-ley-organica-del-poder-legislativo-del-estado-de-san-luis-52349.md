@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2017-06-17"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -613,7 +613,7 @@ Los diputados gozarán del fuero que les reconoce la Constitución; y serán inv
 
 ###### ARTICULO 54.
 
-Los diputados serán responsables por delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones, pero no podrán ser detenidos, ni ejercitarse acción penal en su contra, ni ser privados de su libertad hasta que, seguido el procedimiento constitucional, se decida su separación del cargo y, consecuentemente, su sujeción a la acción de los tribunales competentes.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2017)
 
 ### Capítulo II. De los Grupos Parlamentarios
 
@@ -2446,3 +2446,11 @@ P.O. 17 DE JUNIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0708.- SE REFORMA (SIC) LOS ARTÍCULOS 57, 124, 127 Y 128; Y DEROGA DE LOS ARTÍCULOS 127 SUS PÁRRAFOS, PRIMERO, SEGUNDO, CUARTO, Y SEXTO, Y 128 SUS FRACCIONES, I, Y II, Y PÁRRAFO ÚLTIMO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ MISMO SE DEROGA EL ARTÍCULO 54, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
