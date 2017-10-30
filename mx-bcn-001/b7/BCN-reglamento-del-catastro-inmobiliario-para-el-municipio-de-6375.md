@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-catastro-inmobiliario-para-el-municipio-de-6375"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-27"
-last_updated: "2017-08-04"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL CATASTRO INMOBILIARIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 1995.
 
@@ -387,6 +387,8 @@ CATASTRAL 02 Sector o Colonia
 
 003 Número de Departamento (opcional)
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)
+
 ###### ARTICULO 32.
 
 Las operaciones de deslinde catastral y las de valuación de inmuebles de carácter individual se desarrollarán conforme a las siguientes reglas:
@@ -417,6 +419,8 @@ II.- Por edictos publicados en el Periódico Oficial del Estado o en uno de los 
 
 III.- Por instructivo, para lo cual se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la fecha y hora en que habrá de realizarse las operaciones de deslinde catastral, o las circunstancias a que se refiere el artículo 34 de la Ley. El anuncio deberá contener la identificación y domicilio de la Dirección de Administración Urbana, Ecología y Medio Ambiente y en su caso, del solicitante o promovente interesado.
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)
+
 ###### ARTICULO 34.
 
 Los trabajos topográficos y operaciones de deslinde, la rectificación o aclaración de linderos, así como la valuación de los bienes inmuebles, podrán realizarse por los peritos registrados en el padrón a que se refiere la fracción X del artículo 6, previa autorización general otorgada por el Ayuntamiento en los términos del presente Reglamento.
@@ -439,7 +443,7 @@ III.- La Dirección no podrá certificar documentos, planos o deslindes de predi
 
 IV.- La Dirección suspenderá administrativamente los efectos de las certificaciones de deslindes medidas y colindancias otorgadas, cuando exista sobreposición de planos o duda sobre la identidad del predio, dejando a salvo los derechos de los particulares, para que los hagan valer por la vía y forma que mejor convenga a sus intereses.
 
-V.- La Dirección mantendrá en custodia los planos, documentos y productos cartográficos exhibidos por los particulares con el propósito de obtener la certificación solicitada, pero si a partir de la fecha de recepción, transcurren más de tres meses sin que el solicitante pague los derechos correspondientes o comparezca o recoger la certificación y documentación exhibida, la Secretaría podrá desecharlos sin responsabilidad a su cargo.
+V.- La Dirección mantendrá en custodia los planos, documentos y productos cartográficos exhibidos por los particulares con el propósito de obtener la certificación solicitada, pero si a partir de la fecha de recepción, transcurren más de tres meses sin que el solicitante pague los derechos correspondientes o comparezca a recoger la certificación y documentación exhibida, la Secretaría podrá desecharlos sin responsabilidad a su cargo.
 
 ###### ARTICULO 36.
 
@@ -503,11 +507,13 @@ p).- Cuadro de distribución de superficies: Lotificada, Servicios Públicos, Ca
 
 ### Capítulo Septimo. DEL REGISTRO Y AUTORIZACION DE PERITOS
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 37.
 
-(sic) Dirección de Administración Urbana, Ecología y Medio Ambiente llevará un registro de los peritos que cuenten con autorización para la realización de trabajos topográficos y otro para la realización de trabajos de valuación.
+La Secretaría de Administración Urbana llevará un registro de los peritos que cuenten con autorización para la realización de trabajos topográficos.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 38.
 
@@ -519,13 +525,9 @@ II.- Acreditar como mínimo tres años de experiencia en el ejercicio profesiona
 
 III.- Acreditar que posee conocimientos sobre la Ley de Desarrollo Urbano, Ley de Catastro Inmobiliario, Ley de Hacienda Municipal y del presente Reglamento, así como de las normas técnicas y manuales operativos de catastro, emitidos por la autoridad conforme a la Ley.
 
-IV.- No haber sido condenado en sentencia ejecutoriada por delito intencional alguno.
+IV.- No haber sido condenado en sentencia ejecutoriada por delito grave, dentro del ejercicio de sus funciones.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
-
-V.- Solicitar ante la Dirección de Administración Urbana, Ecología y Medio Ambiente, el registro y la aplicación de las pruebas de evaluación que correspondan, a fin de obtener el dictamen a que se refiere el artículo 41 de este Reglamento y;
-
-VI.- Realizar el pago de los derechos de inscripción o revalidación en el padrón de peritos que corresponda.
+(REPUBLICADO, P.O. 30 DE OCTUBRE DE 2017)
 
 ###### ARTICULO 39.
 
@@ -557,15 +559,17 @@ VI.- Refrendar su registro cada año o cuando lo determine la Dirección de Admi
 
 VII.- Señalar y mantener su domicilio laboral en la Ciudad de Ensenada, B.C.. (sic)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 41.
 
-La Dirección de Administración Urbana, Ecología y Medio Ambiente en materia de peritaje tendrá además, las siguientes atribuciones:
+La Secretaría de Administración Urbana en materia de peritaje tendrá además, las siguientes atribuciones:
 
 I. Verificar que los aspirantes a obtener el registro de perito cumplan con los requisitos establecidos en este Reglamento.
 
 II.- Otorgar y refrendar mediante acuerdo administrativo el registro correspondiente.
+
+(REPUBLICADA, P.O. 30 DE OCTUBRE DE 2017)
 
 III.- Llevar un registro de los trabajos topográficos, operaciones de deslinde, rectificaciones de linderos y valuaciones concedidas a cada perito registrado.
 
@@ -579,6 +583,8 @@ VI.- Verificar que los trabajos concedidos se hayan realizado conforme a las esp
 
 VII.- Determinar la suspensión de los efectos de inscripción en el padrón de peritos, en los casos a que se refiere el artículo siguiente.
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)
+
 ###### ARTICULO 42.
 
 Procede la suspensión de los efectos del registro otorgado como perito deslindador o valuador, cuando se presente alguno de los siguientes supuestos:
@@ -591,7 +597,9 @@ II.- El trabajo pericial se presente incompleto y no cumpla con las reglas a que
 
 III.- Cuando a juicio de la Dirección no hubiere cumplido con las obligaciones a que se refiere el artículo 40 de este Reglamento.
 
-IV.- Intervenga en trabajos y avaluos que conforme al artículo 43 debiera de abstenerse.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+IV.- Intervenga en trabajos y avalúos que conforme al artículo 43 debiera de abstenerse.
 
 V.- Cuando firma los trabajos a él encomendados sin tener participación alguna en su realización.
 
@@ -599,9 +607,11 @@ VI.- Cuando delega en terceras personas la realización y ejecución del trabajo
 
 VII.- Cuando incurra en violaciones a este Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 43.
 
-Todo perito se abstendrá de conocer y realizar el trabajo catastral, topográfico, deslinde o avaluo cuando:
+Todo perito se abstendrá de conocer y realizar el trabajo catastral, topográfico, deslinde o avaluó cuando:
 
 I.- El o su cónyuge, parientes consanguíneos, colaterales o por afinidad tengan interés directo o indirecto en el asunto de que se trate.
 
@@ -844,3 +854,9 @@ P.O. 4 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE DIVERSOS ARTÍCULOS DE (SIC) REGLAMENTO DE CATASTRO INMOBILIARIO PARA EL MUNICIPIO DE ENSENADA, B.C.".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN Y DEROGACIÓN DE DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CATASTRO INMOBILIARIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California
