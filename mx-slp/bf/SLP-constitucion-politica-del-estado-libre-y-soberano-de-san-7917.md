@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2017-10-02"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -993,8 +995,6 @@ XIII.- Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto 
 
 XIV.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras o inversiones de beneficio social, salvo los que contrate en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
 XV.- Autorizar al Gobernador, así como a los ayuntamientos, para contratar empréstitos a nombre del Estado, y el Municipio, siempre que se destinen a inversiones públicas productivas, y a su refinanciamiento o reestructura, mismas que se deberán realizar bajo las mejores condiciones del mercado, inclusive los que contraigan los organismos descentralizados, empresas públicas, y fideicomisos; y en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios. Lo anterior con base en la ley correspondiente, por los conceptos, y hasta por los montos que el Congreso del Estado apruebe. El Gobernador del Estado informará de su ejercicio al rendir la cuenta pública. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente.
@@ -1012,8 +1012,6 @@ XVII.- Autorizar al Ejecutivo para enajenar bienes inmuebles propiedad del Estad
 XVIII.- Aprobar el Plan Estatal de Desarrollo, en el plazo y con el procedimiento que disponga esta Constitución, y la ley de la materia;
 
 XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les corresponden y aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XX.- (DEROGADA, P.O. 18 DE MAYO DE 2006)
 
@@ -1075,13 +1073,13 @@ XXXVIII.- Recibir la protesta de ley que ante él deban rendir los servidores p�
 
 XXXIX.- Designar el día anterior al de la clausura de cada período de sesiones ordinarias, a los integrantes de la Diputación Permanente que ha de funcionar en el receso del Congreso;
 
-XL.- Instaurar los juicios políticos y en su caso aplicar las sanciones a que se refiere el Artículo 128 de esta Constitución, y hacer la declaración de procedencia de las acusaciones penales contra servidores públicos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XL.- Instaurar los juicios políticos y, en su caso, aplicar las sanciones a que se refiere el artículo 128 de esta Constitución;
 
 XLI.- Conceder premios y reconocimientos por servicios eminentes e importantes prestados a la humanidad, a la Nación, al Estado o a la comunidad;
 
 XLII.- Trasladar, a solicitud del Ejecutivo, la residencia de los Poderes del Estado cuando sea necesario por circunstancias extraordinarias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -2267,8 +2265,6 @@ En todos los casos señalados en este artículo, invariablemente si el supuesto 
 
 ### CAPÍTULO ÚNICO. Del Tribunal Estatal de Justicia Administrativa
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
@@ -2299,21 +2295,17 @@ DE LAS RESPONSABILIDADES, JUICIO POLÍTICO, Y SISTEMA ANTICORRUPCIÓN
 
 Se entiende por servidores públicos: los representantes de elección popular; los titulares del Supremo Tribunal de Justicia, y demás tribunales del Estado; los titulares de los organismos autónomos reconocidos por esta Constitución; los funcionarios y empleados, y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública, estatal o municipal, incluyendo sus entidades; quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-El Gobernador del Estado, mientras permanezca en el desempeño de su encargo, sólo podrá ser acusado por violaciones graves a la Constitución Política del Estado; por oponerse a la libertad electoral; por la comisión de delitos graves del orden común y por el manejo indebido de fondos y recursos públicos.
+El Gobernador del Estado, mientras permanezca en el desempeño de su encargo, podrá ser acusado por actos u omisiones que perjudiquen el buen despacho, o los intereses públicos fundamentales, ello mediante juicio político, e imponérsele las sanciones previstas por esta Constitución.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2004)</small>
 
 La responsabilidad del estado por los daños que con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
 
 Los servidores públicos que establezca la ley, estarán obligados a presentar, bajo protesta de decir verdad, su declaración, patrimonial, y de intereses, ante las autoridades competentes, y en los términos que determine la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -2325,8 +2317,6 @@ I. El Sistema contará con un Comité Coordinador integrado por los titulares de
 
 II. El Sistema contará, a su vez, con un Comité de Participación Ciudadana integrado por el número de ciudadanos que establezca la normatividad aplicable, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, y serán designados en términos de la legislación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 125.
@@ -2337,15 +2327,11 @@ Los servidores públicos y particulares que incurran en responsabilidad frente a
 
 I.- Cuando, en el ejercicio de sus funciones, los servidores públicos a que alude el artículo 126 de esta Constitución incurran en actos u omisiones que perjudiquen el buen despacho o los intereses públicos fundamentales, se les impondrán, mediante juicio político, las sanciones a que alude el propio precepto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
 II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, sancionada en los términos de la legislación aplicable.
 
 Las leyes determinarán los casos y las circunstancias en las que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Se sancionará con el decomiso y la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -2356,8 +2342,6 @@ Las faltas administrativas graves serán investigadas y substanciadas por la Aud
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 90 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización, sobre el manejo, la custodia y aplicación de recursos públicos.
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -2389,43 +2373,35 @@ En los casos a que se refiere el segundo párrafo del Artículo 110 de la Consti
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2017)</small>
-
 ###### ARTÍCULO 127.
 
-Para proceder penalmente contra los secretarios de despacho, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción, y en delitos electorales, diputados, magistrados del Supremo Tribunal de Justicia, presidentes municipales, Auditor Superior del Estado, y titulares de los organismos constitucionales autónomos, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo tramite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+(DEROGADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+En los casos a que se refiere el artículo 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso del Estado, y previa la integración de cualquier otro elemento pertinente, se remitirán a las autoridades federales competentes para que actúen conforme a la ley. Tratándose del Gobernador del Estado, se procederá en los términos del artículo 128 de esta Constitución.
 
-En los casos a que se refiere el artículo 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso y previa la integración de cualquier otro elemento pertinente, se remitirán a las autoridades federales competentes para que actúen conforme a la ley. Tratándose del Gobernador del Estado, se procederá en los términos del artículo 128 de esta Constitución.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-Las declaraciones y resoluciones del Congreso no son recurribles.
+Si la sentencia fuese absolutoria, será rehabilitado en los términos que dispone la ley.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo. Si la sentencia fuese absolutoria, será rehabilitado en los términos que disponga la ley.
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-En las demandas del orden civil no se requerirá declaración de procedencia.
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 128.
 
-Por lo que se refiere al Gobernador del Estado, en los supuestos de los artículos 110, párrafo segundo y 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso, procederá como sigue:
+Por lo que se refiere al Gobernador del Estado, en el supuesto del artículo 110 párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso Local, procederá a imponer las sanciones correspondientes aprobadas por el voto de cuando menos las dos terceras partes del Congreso del Estado, aplicando las disposiciones conducentes de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-I.- En el primer caso, se impondrán las sanciones correspondientes aprobadas por el voto de cuando menos las dos terceras partes del Congreso del Estado, aplicando para ello las disposiciones conducentes de la Ley Federal de Responsabilidades de los Servidores Públicos; y
+I. (DEROGADA, P.O. 30 DE OCTUBRE DE 2017)
 
-II.- En el segundo caso, por el voto de cuando menos las dos terceras partes del total de los integrantes del Congreso del Estado, se determinará si ha lugar o no a formación de causa; en caso negativo, se suspenderá todo trámite ulterior, sin que ello sea obstáculo para que la acusación siga su curso al concluir el ejercicio del encargo.
+II. (DEROGADA, P.O. 30 DE OCTUBRE DE 2017)
 
-En caso positivo, será separado de su encargo y puesto a disposición de las autoridades competentes.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2589,7 +2565,7 @@ El Srio. General de Gobierno,
 
 JOSE GONZALEZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE MARZO DE 1923.
 
@@ -3317,7 +3293,7 @@ P.O. 10 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0658.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 102 BIS, Y 102 TER, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 30 EN SU PÁRRAFO SEGUNDO Y 44 EN SU FRACCIÓN IV EL INCISO H) DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí, y el Consejo Estatal Electoral y de Participación Ciudadana, deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
 
@@ -3342,3 +3318,11 @@ Quien ocupe el cargo de Procurador General de Justicia del Estado al momento de 
 QUINTO. En tanto no inicie la vigencia de las leyes secundarias, continuarán aplicándose las disposiciones constitucionales y legales referentes a la Procuraduría General de Justicia del Estado.
 
 SEXTO. En tanto se modifican las leyes secundarias, las referencias que en éstas se hagan de la Procuraduría General de Justicia del Estado, se entenderán hechas a la Fiscalía General del Estado; y las que se hagan del Procurador General de Justicia del Estado, se entenderán hechas al Fiscal General del Estado.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0708.- SE REFORMA (SIC) LOS ARTÍCULOS 57, 124, 127 Y 128; Y DEROGA DE LOS ARTÍCULOS 127 SUS PÁRRAFOS, PRIMERO, SEGUNDO, CUARTO, Y SEXTO, Y 128 SUS FRACCIONES, I, Y II, Y PÁRRAFO ÚLTIMO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ MISMO SE DEROGA EL ARTÍCULO 54, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
