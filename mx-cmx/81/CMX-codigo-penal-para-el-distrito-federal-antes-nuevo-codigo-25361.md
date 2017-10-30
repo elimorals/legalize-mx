@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-10-24"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1472,7 +1472,7 @@ Tampoco integran los elementos del cuerpo del delito previstos en el párrafo an
 
 ### CAPÍTULO I. OMISIÓN DE AUXILIO O DE CUIDADO
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 144.
 
@@ -1600,9 +1600,9 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
-###### ARTÍCULO 156.
+###### Artículo 156.
 
-A quien abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla, se le impondrán de tres meses a tres años de prisión si no resultare lesión o daño alguno. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela.
+A quien abandone a una persona incapaz de valerse por sí misma, incluyendo a las personas adultas mayores y/o con discapacidad, teniendo la obligación de cuidarla, se le impondrán de tres meses a tres años de prisión si no resultare lesión o daño alguno. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1614,9 +1614,11 @@ A quien después de lesionar a una persona, culposa o fortuitamente, no le prest
 
 ARTÍCULO 157 BIS. En el caso de que el sujeto activo de los delitos de Abandono de Persona y Omisión de Auxilio fuese respecto a la víctima pariente consanguíneo en línea recta, o colateral hasta el cuarto grado, cónyuge, concubina o concubinario, persona con la que mantenga una relación de hecho, adoptante o adoptada o integrante de una sociedad de convivencia perderá los derechos como acreedor alimentario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 158.
 
-Al que exponga en una institución o ante cualquier otra persona a un incapaz de valerse por sí mismo, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrá de tres meses a un año de prisión.
+Al que exponga en una institución o ante cualquier otra persona, a un incapaz de valerse por sí mismo, incluyendo a las personas adultas mayores y/o con discapacidad, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrá de tres meses a un año de prisión.
 
 Los ascendientes o tutores que entreguen en una casa de expósitos a un menor de doce años que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
@@ -5801,3 +5803,11 @@ PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgac
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- En tanto no entre en vigor la unidad de medida y actualización se utilizara la unidad de cuenta vigente en la Ciudad de México.
+
+G.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL; DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
