@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-archivo-municipal-para-el-ayuntamiento-de-65932"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-02"
-last_updated: "2009-01-02"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DEL ARCHIVO MUNICIPAL PARA EL AYUNTAMIENTO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ARCHIVOS DEL MUNICIPIO DE PLAYAS DE ROSARITO, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ARCHIVOS DEL MUNICIPIO DE PLAYAS DE ROSARITO, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL PARA EL AYUNTAMIENTO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2009.
 
@@ -402,3 +402,17 @@ El Secretario del Ayuntamiento dispondrá de un plazo no mayor de sesenta días 
 ###### ARTICULO TERCERO.
 
 El Secretario del Ayuntamiento dispondrá de un plazo no mayor de noventa días contados a partir de la entrada en vigor de este Reglamento para proponer al H. Ayuntamiento a través del C. Presidente Municipal el Manual de Procedimientos del Archivo Municipal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL SISTEMA MUNICIPAL DE ARCHIVOS PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA".]
+
+PRIMERO.- EI Presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento de Archivo Municipal para Playas de Rosarito de fecha 2 de Enero del 2009.
+
+TERCERO.- Se instruye a la Oficialía Mayor, al Instituto de Arte y Cultura, a la Tesorería Municipal, y las dependencias municipales, para que realicen las adecuaciones administrativas requeridas requieran (sic) para (sic) organización del Sistema Municipal de Archivos, en el ámbito de su competencia.
+
+CUARTO.- Se instruye a la Dirección de Normatividad adscrita a la Sindicatura Municipal de este Ayuntamiento a que realice la revisión y actualización correspondiente de la Norma Técnica No. 28 de Destrucción de Documentos de manera que se haga compatible con este ordenamiento.
