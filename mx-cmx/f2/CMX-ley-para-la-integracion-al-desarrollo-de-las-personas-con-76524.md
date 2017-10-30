@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2017-05-11"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -70,125 +70,129 @@ La creación de las condiciones adecuadas para la plena integración al desarrol
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE MAYO DE 2017)</small>
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2017)</small>
 
-I. Accesibilidad.- Acceso de las personas con discapacidad y personas con movilidad limitada, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales. Este se llevará a cabo a través de medidas pertinentes que incluyan la identificación y eliminación de obstáculos y barreras de acceso, aplicándose a los edificios, las vías públicas, el transporte y otras instalaciones exteriores e interiores como escuelas, viviendas, instalaciones médicas y lugares de trabajo, los servicios de información, comunicaciones y de otro tipo, incluidos los servicios electrónicos y de emergencia;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-II. Acciones Afirmativas.- Apoyos directos y programas de apoyo de carácter específico, destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad, para su inclusión y participación plena en los ámbitos de la vida política, económica, social, educativa, cultural y deportiva, los cuales deben ser de carácter temporal, de acuerdo a la situación particular que se busque combatir;
-
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
-
-III. Administración Pública de la Ciudad de México.- El conjunto de Dependencias, Entidades y Órganos que integran la Administración Centralizada, Desconcentrada, Descentralizada y Paraestatal de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-IV. Ajustes Razonables.- Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran, en un caso particular, para garantizar a las personas con discapacidad el goce y ejercicio pleno de todos sus derechos humanos y libertades fundamentales, en igualdad de condiciones con las demás personas. La denegación de ajustes razonables será considerada una forma de discriminación.
-
-V. Ayudas Técnicas.- Dispositivos tecnológicos, materiales y asistencia humana o animal, que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales (auditiva y visual) o intelectuales de las personas con discapacidad;
-
-VI. Barreras Físicas.- Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, interiores o exteriores, así como el uso y disfrute de los servicios comunitarios;
-
-VII. Barreras Sociales y Culturales.- Las actitudes de rechazo, indiferencia o discriminación hacia las personas con discapacidad, debido a los prejuicios, por parte de los integrantes de la sociedad, que impiden su inclusión y participación en la comunidad, desconociendo sus derechos y libertades fundamentales;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-VIII. Comunicación.- Lenguaje escrito, oral y la Lengua de Señas Mexicana, la visualización de textos, el Sistema de Escritura Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
-
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
-
-IX. Condiciones Adecuadas.- Todas las medidas, acciones y programas encaminados o dirigidos a eliminar las barreras físicas, sociales y culturales, del entorno social en el que desempeñan sus actividades las personas con discapacidad;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-X. Consejo.- Consejo Consultivo del Instituto de las Personas con Discapacidad de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XI. Constancia de Discapacidad y Funcionalidad.- Documento clínico de carácter oficial, personal e intransferible, emitido por la Secretaría de Salud de la Ciudad de México, así como por otras instituciones públicas del sector salud, el cual certifica el tipo y grado de discapacidad de las personas, así como su nivel de funcionalidad;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XII. Credencial.- Documento que identifica a las personas con discapacidad que viven en la Ciudad de México, la cual agiliza la obtención de los apoyos de carácter social, la realización de trámites y la solicitud de beneficios, prestaciones y servicios públicos, entre otros, exclusivos para este grupo poblacional;
-
-XIII.- Deporte Adaptado.- Todas aquellas disciplinas deportivas que han sido adecuadas y reglamentadas para que puedan ser practicadas por las personas con algún tipo de discapacidad;
-
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XIV. DIF-CDMX.- Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XV. Discapacidad.- Resulta de la interacción entre las personas con alguna deficiencia de carácter físico, sensorial, cognitivo-intelectual y psicosocial, con las barreras debidas a la actitud y al entorno, que impiden su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XVI. Discriminación por Motivos de Discapacidad.- Cualquier distinción, exclusión o restricción, por motivos de discapacidad, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XVII. Diseño Universal.- Diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XVIII. Educación Inclusiva.- Aquella que propicia la implementación de ajustes razonables para la inclusión de las personas con discapacidad en los planteles de educación, mediante la aplicación de sistemas, métodos, técnicas y materiales específicos que propicien su autonomía y participación plena en igualdad de condiciones como parte de la comunidad;
-
-XIX.- Equiparación de Oportunidades para la Integración Social.- Todos los procesos y acciones mediante las cuales se crean o se generan condiciones necesarias para que las personas con discapacidad puedan gozar y ejercer sus derechos y libertades fundamentales bajo un marco de igualdad con el resto de la población;
-
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XX. Instituto.- Instituto de las Personas con Discapacidad de la Ciudad de México;
+I. Abandono.- Todo acto de aislamiento o hacinamiento sistemático, permanente, consciente y deliberado hacia las personas con discapacidad, entendidos como una exclusión o como actos discriminatorios o de menosprecio hacia su persona.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE MAYO DE 2017)</small>
 
-XXI. Lengua de Señas Mexicana.- Lengua de la comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística. Forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral utilizada en nuestro país o en el extranjero;
+II. Accesibilidad.- Acceso de las personas con discapacidad y personas con movilidad limitada, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales. Este se llevará a cabo a través de medidas pertinentes que incluyan la identificación y eliminación de obstáculos y barreras de acceso, aplicándose a los edificios, las vías públicas, el transporte y otras instalaciones exteriores e interiores como escuelas, viviendas, instalaciones médicas y lugares de trabajo, los servicios de información, comunicaciones y de otro tipo, incluidos los servicios electrónicos y de emergencia;
 
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXII. Lenguaje.- Se entenderá como tal, tanto el lenguaje oral como la Lengua de Señas Mexicana y otras formas de comunicación no verbal;
-
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
-
-XXIII. Medidas Contra la Discriminación.- La realización de ajustes razonables y la prohibición de conductas que tengan como objetivo o efecto, atentar contra la dignidad de una persona con discapacidad, crear un entorno intimidatorio, hostil, degradante u ofensivo por su condición o situación de vida;
-
-XXIV. Organizaciones de y para Personas con Discapacidad.- Todas aquellas figuras asociativas, constituidas legalmente, para salvaguardar los derechos y libertades fundamentales de las personas con discapacidad, que buscan facilitar su participación en las decisiones relacionadas con la elaboración aplicación y evaluación de programas y políticas públicas, para el desarrollo e integración social de las personas con discapacidad;
+III. Acciones Afirmativas.- Apoyos directos y programas de apoyo de carácter específico, destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad, para su inclusión y participación plena en los ámbitos de la vida política, económica, social, educativa, cultural y deportiva, los cuales deben ser de carácter temporal, de acuerdo a la situación particular que se busque combatir;
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXV. Persona con Discapacidad.- Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, sensorial, cognitivo-intelectual o psicosocial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con las demás personas;
+IV. Administración Pública de la Ciudad de México.- El conjunto de Dependencias, Entidades y Órganos que integran la Administración Centralizada, Desconcentrada, Descentralizada y Paraestatal de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+V. Ajustes Razonables.- Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran, en un caso particular, para garantizar a las personas con discapacidad el goce y ejercicio pleno de todos sus derechos humanos y libertades fundamentales, en igualdad de condiciones con las demás personas. La denegación de ajustes razonables será considerada una forma de discriminación.
+
+VI. Ayudas Técnicas.- Dispositivos tecnológicos, materiales y asistencia humana o animal, que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales (auditiva y visual) o intelectuales de las personas con discapacidad;
+
+VII. Barreras Físicas.- Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, interiores o exteriores, así como el uso y disfrute de los servicios comunitarios;
+
+VIII. Barreras Sociales y Culturales.- Las actitudes de rechazo, indiferencia o discriminación hacia las personas con discapacidad, debido a los prejuicios, por parte de los integrantes de la sociedad, que impiden su inclusión y participación en la comunidad, desconociendo sus derechos y libertades fundamentales;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+IX. Comunicación.- Lenguaje escrito, oral y la Lengua de Señas Mexicana, la visualización de textos, el Sistema de Escritura Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXVI. Prevención.- La adopción de medidas encaminadas a impedir que en una persona se produzcan afecciones parciales o totales, temporales o permanentes, en sus facultades físicas, intelectuales, psicosociales o sensoriales;
+X. Condiciones Adecuadas.- Todas las medidas, acciones y programas encaminados o dirigidos a eliminar las barreras físicas, sociales y culturales, del entorno social en el que desempeñan sus actividades las personas con discapacidad;
 
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXVII. Progresividad.- Principio mediante el cual se da una aplicación paulatina de acciones que se deban tomar para garantizar los derechos de las personas con discapacidad. Será aplicado en la medida de los máximos recursos de que puedan disponer los órganos de Gobierno de la Ciudad de México, en todos sus niveles, para llevar a cabo las acciones que correspondan, de conformidad con lo dispuesto en la presente Ley;
+XI. Consejo.- Consejo Consultivo del Instituto de las Personas con Discapacidad de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XII. Constancia de Discapacidad y Funcionalidad.- Documento clínico de carácter oficial, personal e intransferible, emitido por la Secretaría de Salud de la Ciudad de México, así como por otras instituciones públicas del sector salud, el cual certifica el tipo y grado de discapacidad de las personas, así como su nivel de funcionalidad;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XIII. Credencial.- Documento que identifica a las personas con discapacidad que viven en la Ciudad de México, la cual agiliza la obtención de los apoyos de carácter social, la realización de trámites y la solicitud de beneficios, prestaciones y servicios públicos, entre otros, exclusivos para este grupo poblacional;
+
+XIV.- Deporte Adaptado.- Todas aquellas disciplinas deportivas que han sido adecuadas y reglamentadas para que puedan ser practicadas por las personas con algún tipo de discapacidad;
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXVIII. Rehabilitación.- El proceso que contiene un conjunto de medidas de tipo médico, psicológico, educativo, laboral y social, de duración variable, cuya finalidad es permitir que una persona con discapacidad adquiera, mejore y/o mantenga la máxima independencia, autonomía, capacidad física, mental, intelectual y sensorial, que le permita una inclusión plena y efectiva en la sociedad;
+XV. DIF-CDMX.- Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XVI. Discapacidad.- Resulta de la interacción entre las personas con alguna deficiencia de carácter físico, sensorial, cognitivo-intelectual y psicosocial, con las barreras debidas a la actitud y al entorno, que impiden su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XVII. Discriminación por Motivos de Discapacidad.- Cualquier distinción, exclusión o restricción, por motivos de discapacidad, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XVIII. Diseño Universal.- Diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XIX. Educación Inclusiva.- Aquella que propicia la implementación de ajustes razonables para la inclusión de las personas con discapacidad en los planteles de educación, mediante la aplicación de sistemas, métodos, técnicas y materiales específicos que propicien su autonomía y participación plena en igualdad de condiciones como parte de la comunidad;
+
+XX.- Equiparación de Oportunidades para la Integración Social.- Todos los procesos y acciones mediante las cuales se crean o se generan condiciones necesarias para que las personas con discapacidad puedan gozar y ejercer sus derechos y libertades fundamentales bajo un marco de igualdad con el resto de la población;
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXIX. Sensibilización.- Es el proceso de toma de conciencia dirigido a la sociedad en general, para fomentar actitudes receptivas (o incluyentes) y percepciones positivas de las personas con discapacidad y del respeto a su dignidad y derechos inherentes;
+XXI. Instituto.- Instituto de las Personas con Discapacidad de la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE MAYO DE 2017)</small>
+
+XXII. Lengua de Señas Mexicana.- Lengua de la comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística. Forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral utilizada en nuestro país o en el extranjero;
 
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXX. Símbolos de los Tipos de Discapacidad.- Figuras estilizadas en las que se señala el tipo de discapacidad, ya sea física, psicosocial, intelectual o sensorial, cuyas especificaciones serán establecidas en el reglamento de esta Ley;
+XXIII. Lenguaje.- Se entenderá como tal, tanto el lenguaje oral como la Lengua de Señas Mexicana y otras formas de comunicación no verbal;
 
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXXI. Símbolo Internacional de Accesibilidad.- Figura humana estilizada con los brazos abiertos que simboliza la inclusión para las personas en todas partes. Se puede usar para representar la accesibilidad de la información, los servicios, las tecnologías de la comunicación y el acceso físico;
+XXIV. Medidas Contra la Discriminación.- La realización de ajustes razonables y la prohibición de conductas que tengan como objetivo o efecto, atentar contra la dignidad de una persona con discapacidad, crear un entorno intimidatorio, hostil, degradante u ofensivo por su condición o situación de vida;
+
+XXV. Organizaciones de y para Personas con Discapacidad.- Todas aquellas figuras asociativas, constituidas legalmente, para salvaguardar los derechos y libertades fundamentales de las personas con discapacidad, que buscan facilitar su participación en las decisiones relacionadas con la elaboración aplicación y evaluación de programas y políticas públicas, para el desarrollo e integración social de las personas con discapacidad;
+
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XXVI. Persona con Discapacidad.- Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, sensorial, cognitivo-intelectual o psicosocial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con las demás personas;
+
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XXVII. Prevención.- La adopción de medidas encaminadas a impedir que en una persona se produzcan afecciones parciales o totales, temporales o permanentes, en sus facultades físicas, intelectuales, psicosociales o sensoriales;
 
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXXII. Sistema de Escritura Braille.- Sistema para la comunicación, representado mediante signos en relieve, para su lectura en forma táctil, generalmente utilizado por las personas con discapacidad visual.
+XXVIII. Progresividad.- Principio mediante el cual se da una aplicación paulatina de acciones que se deban tomar para garantizar los derechos de las personas con discapacidad. Será aplicado en la medida de los máximos recursos de que puedan disponer los órganos de Gobierno de la Ciudad de México, en todos sus niveles, para llevar a cabo las acciones que correspondan, de conformidad con lo dispuesto en la presente Ley;
 
-XXXIII. Trabajo Integral.- Todo programa o proyecto encaminado a dar empleo a las personas con discapacidad, garantizando igualmente su permanencia, fomentando su desarrollo laboral en igualdad de condiciones que las demás personas trabajadoras; y
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXXIV. Trabajo protegido.- Todo aquel programa o proyecto encaminado a dar empleo a las personas con discapacidad que no pueden ser incorporadas al trabajo común, por no alcanzar a cubrir los requerimientos de productividad y que se caracteriza por la subvención que hace el gobierno o los particulares a las "fuentes de trabajo.
+XXIX. Rehabilitación.- El proceso que contiene un conjunto de medidas de tipo médico, psicológico, educativo, laboral y social, de duración variable, cuya finalidad es permitir que una persona con discapacidad adquiera, mejore y/o mantenga la máxima independencia, autonomía, capacidad física, mental, intelectual y sensorial, que le permita una inclusión plena y efectiva en la sociedad;
+
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XXX. Sensibilización.- Es el proceso de toma de conciencia dirigido a la sociedad en general, para fomentar actitudes receptivas (o incluyentes) y percepciones positivas de las personas con discapacidad y del respeto a su dignidad y derechos inherentes;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XXXI. Símbolos de los Tipos de Discapacidad.- Figuras estilizadas en las que se señala el tipo de discapacidad, ya sea física, psicosocial, intelectual o sensorial, cuyas especificaciones serán establecidas en el reglamento de esta Ley;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XXXII. Símbolo Internacional de Accesibilidad.- Figura humana estilizada con los brazos abiertos que simboliza la inclusión para las personas en todas partes. Se puede usar para representar la accesibilidad de la información, los servicios, las tecnologías de la comunicación y el acceso físico;
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
+XXXIII. Sistema de Escritura Braille.- Sistema para la comunicación, representado mediante signos en relieve, para su lectura en forma táctil, generalmente utilizado por las personas con discapacidad visual.
+
+XXXIV. Trabajo Integral.- Todo programa o proyecto encaminado a dar empleo a las personas con discapacidad, garantizando igualmente su permanencia, fomentando su desarrollo laboral en igualdad de condiciones que las demás personas trabajadoras; y
+
+XXXV. Trabajo protegido.- Todo aquel programa o proyecto encaminado a dar empleo a las personas con discapacidad que no pueden ser incorporadas al trabajo común, por no alcanzar a cubrir los requerimientos de productividad y que se caracteriza por la subvención que hace el gobierno o los particulares a las "fuentes de trabajo.
 
 ###### Artículo 5°.
 
@@ -343,6 +347,10 @@ IV. Contar con peritos especializados en las diversas discapacidades, apoyo de i
 ###### Artículo 13.
 
 La Procuraduría General de Justicia del Distrito Federal, deberá atender de manera especializada los delitos cometidos en contra o por personas con discapacidad, donde se garanticen todos sus derechos que como ofendido, como probable responsable o imputado le correspondan, durante todo el procedimiento penal.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+El aislamiento, abandono, hacinamiento o desalojo de las personas con discapacidad, por parte de sus familiares o tutores, serán sancionados conforme a lo establecido en el Código Penal para el Distrito Federal.
 
 Las agencias del Ministerio Público que atiendan los delitos cometidos contra o por personas con discapacidad, deberá contar con las instalaciones adecuadas que garanticen la accesibilidad universal a las personas con discapacidad, así como con todo el personal y material especializado que permita la atención adecuada y el ejercicio de sus derechos que como ofendido, probable responsable o como imputado le correspondan.
 
@@ -1319,3 +1327,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su cono
 TERCERO.- El Instituto de las Personas con Discapacidad de la Ciudad de México conserva todos los derechos y obligaciones del Instituto para la Integración al Desarrollo de las personas con Discapacidad del Distrito Federal y demás facultades que le otorgaban otros ordenamientos al Instituto para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal deberá considerar en el Decreto de Presupuesto de Egresos para el ejercicio fiscal correspondiente, la asignación suficiente para garantizar la emisión de la Credencial Única a la que hace referencia el artículo 57 Quater.
+
+G.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL; DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
