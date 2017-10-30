@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "2017-01-06"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -391,11 +391,19 @@ Los Magistrados del Tribunal, solo podrán ser removidos de sus cargos, en los t
 
 La comisión de Responsabilidades y Situación Patrimonial, es el órgano del Tribunal, en lo que a la materia se refiere y en lo relativo a vigilancia y disciplina, en los términos de este Reglamento.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 42.
 
-El Pleno del Tribunal fungirá como Comisión de Responsabilidades y Situación Patrimonial, y será presidida por el Magistrado que para tal efecto se designe por mayoría de votos de sus integrantes en la primera sesión de Pleno del Tribunal cada año. La Comisión será de carácter permanente y sesionará en las oficinas sede del Tribunal, cuantas veces sea necesario.
+El Pleno del Tribunal fungirá como Comisión de Responsabilidades y Situación Patrimonial, y será presidida por el Magistrado que para tal efecto se designe por mayoría de votos de sus integrantes en la primera sesión de Pleno del Tribunal cada año. La Comisión será de carácter de (sic) permanente y sesionará en las oficinas sede del Tribunal, cuantas veces sea necesario.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+El Titular de la Unidad Administrativa, fungirá como Secretario de la Comisión y asistirá a las sesiones de la Comisión con voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+Las ausencias del Titular de la Unidad Administrativa serán cubiertas por el Secretario General de Acuerdos, quien fungirá como Secretario de la Comisión.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
@@ -598,3 +606,9 @@ P.O. 6 DE ENERO DE 2017.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Publíquese además en el Boletín del Tribunal y en su página de internet oficial, para su difusión.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE MODIFICACIÓN Y ADICIÓN DEL ARTÍCULO 42 DEL REGLAMENTO INTERNO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO".]
+
+ÚNICO.- LA PRESENTE ADICIÓN ENTRARÁ EN VIGOR A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
