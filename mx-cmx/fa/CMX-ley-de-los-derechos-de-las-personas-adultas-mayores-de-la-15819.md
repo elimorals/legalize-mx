@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2017-10-05"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -101,6 +101,10 @@ VIII. Integración social.- El conjunto de acciones que realizan las dependencia
 > <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2016)</small>
 
 IX. Clínica de Atención Geriátrica: Clínica de Atención Geriátrica de la Ciudad de México. Espacio de atención médica para los adultos mayores, para así garantizar su bienestar a través servicios especializados en geriatría y gerontología.
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+X. Abandono.- Todo acto de aislamiento o hacinamiento sistemático, permanente, consciente y deliberado hacia las personas adultas mayores, entendidos como una exclusión o como actos discriminatorios o de menosprecio hacia su persona.
 
 ## TITULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
@@ -226,7 +230,9 @@ II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor pa
 
 III. Conocer los derechos de las personas adultas mayores, previstos en la presente ley, así como los que se encuentran contemplados en nuestra Constitución y demás ordenamientos para su debida observancia; y
 
-IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono, hacinamiento o desalojo de la persona adulta mayor o actos jurídicos que pongan en riesgo su persona, bienes y derechos. Dichos actos serán sancionados conforme a lo establecido en el Código Penal para el Distrito Federal.
 
 ###### Artículo 9.
 
@@ -727,3 +733,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, con el objeto de garantizar el equilibrio presupuestal.
+
+G.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL; DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
