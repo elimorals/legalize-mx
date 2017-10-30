@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-comision-disciplinaria-y-de-carrera-77458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-19"
-last_updated: "2017-08-18"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de noviembre de 2010.
 
@@ -319,7 +319,9 @@ IV. Informar al superior jerárquico, de manera inmediata, las omisiones, actos 
 
 V. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
-VI. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+VI. Mantener en buen estado y regresar al banco de armas; el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
 
 VII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
 
@@ -335,7 +337,9 @@ XII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciuda
 
 XIII. Dar su nombre, grado y cargo a cualquier persona que se lo solicite, así como portar siempre su identificación y mostrarla si se requiere;
 
-XIV. Proceder, aun cuando se encuentre franco, a la detención de los delincuentes a quienes sorprenda en flagrancia, evitando poner en riesgo su integridad física;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XIV. Proceder, aun cuando se encuentre franco, a la detención de los delincuentes a quienes sorprenda en flagrancia evitando poner en riesgo su integridad física;
 
 XV. Actuar con la decisión necesaria y sin demora en la protección de las personas, de sus bienes y derechos;
 
@@ -347,7 +351,25 @@ XVIII. Abstenerse de usar armamento, equipo o vehículos de dudosa procedencia o
 
 XIX. Utilizar equipo, vehículos o accesorios propios del trabajo para un uso distinto del expresamente señalado, sin la respectiva autorización de su inmediato superior.
 
-XX. El Miembro de Seguridad Pública deberá de evitar tratos y compañías con personas de dudosa o mala conducta social
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XX. El Miembro de Seguridad Pública deberá de evitar tratos y compañías con personas de dudosa o mala conducta social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XXI. Los miembros deberán llenar correctamente los documentos oficiales que elabore;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XXII. Los miembros deberán registrar las actividades que realicen en un Informe Policial Homologado con el fin de proporcionar a la barandilla correspondiente un instrumento que brinde seguridad y certeza jurídica, cuando sea necesario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XXIII. Los miembros deberán remitir a la autoridad que corresponda los documentos que elabore en el desempeño de sus funciones así como los trámites legales a los que haya lugar para su análisis;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XXVI (SIC). Los documentos oficiales elaborados por los miembros deberán estar debidamente fundados en las normas vigentes aplicables y motivados en hechos veraces;
 
 La Sindicatura Municipal, podrá atraer para su conocimiento, instrucción y resolución, los procedimientos para la aplicación de correcciones disciplinarias por la trascendencia que tuviere o por el interés público. En este caso, el Director se abstendrá de sustanciar el procedimiento disciplinario y de la imposición de correcciones disciplinarias, remitiendo a la Sindicatura Municipal la información, documentación y demás medios de prueba que tuviere respecto a la falta de que se trate.
 
@@ -603,17 +625,17 @@ A efecto de llevar a cabo el desahogo del procedimiento de separación definitiv
 
 ### CAPITULO PRIMERO. DE SU COMPETENCIA E INTEGRACION
 
-> <small>[N. DE E. DE ANÁLISIS AL ACUERDO PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2017, SE ADVIERTE QUE LA FRACCIÓN III DEL PRESENTE ARTÍCULO CONTABA CON CINCO INCISOS, POR LO QUE SE SUGIERE CONSULTAR SU CRONOLOGÍA.]</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 29.
 
-La Comisión es un órgano colegiado que tiene por objeto conocer y resolver las controversias que se susciten con relación a los procedimientos de carrera policial y régimen disciplinario de los Miembros de la Dirección que está integrada por:
+La Comisión es un órgano colegiado que tiene por objeto conocer y resolver las controversias que se susciten con relación a los procedimientos de carrera policial y régimen disciplinario de los Miembros de la Dirección de Seguridad Pública Municipal de Ensenada, Baja California.
+
+Dicha Comisión está integrada de la siguiente manera:
 
 I.- Un Presidente, que será el Director;
 
 II.- Un Secretario Técnico, que será el Jefe del Departamento de Responsabilidades y de Situación Patrimonial de la Sindicatura Municipal.
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
 III.- Cinco Vocales, que serán:
 
@@ -621,7 +643,13 @@ A) El Titular de la Sindicatura Municipal.
 
 B) El Regidor Coordinador de la Comisión de Seguridad, Tránsito y Transporte.
 
-C) Un Representante, de la (sic) Subdirecciones operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
+C) Un Representante, de las unidades operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
+
+D) Un representante de la Asociación de Policía legalmente constituida a la cual pertenezca el miembro sujeto a procedimiento.
+
+E) El Presidente del Comité Ciudadano de Seguridad Pública de Ensenada Baja California.
+
+Todos los integrantes tendrán derecho a voz y voto, a excepción del Secretario técnico y el representante de cualquiera de las asociaciones, que tendrán derecho a voz pero sin voto.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -990,3 +1018,9 @@ P.O. 18 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 012/2017, RELATIVO A LA REFORMA DEL ARTÍCULO 31 DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- la presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 16 Y 19 DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente REFORMA QUE MODIFICA EL ARTÍCULO 16 Y 29 DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Bajo California y/o Gaceta Municipal.
