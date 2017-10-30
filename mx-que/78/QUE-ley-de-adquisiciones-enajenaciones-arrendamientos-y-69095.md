@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2017-09-01"
+last_updated: "2017-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -266,6 +266,10 @@ VIII. Cuando se hubiese rescindido el contrato o no se haya formalizado el mismo
 > <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
 
 IX. En tratándose de los contratos previstos por el segundo párrafo del artículo 3 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, cuando así se haya resuelto por el Pleno del mismo.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+X. Cuando en un procedimiento de licitación pública se ponga en riesgo la seguridad del Estado o municipios, en los términos de las disposiciones aplicables.
 
 ###### Artículo 23.
 
@@ -1278,3 +1282,11 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA LA FRACCIÓN X AL ARTÍCULO 22 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
