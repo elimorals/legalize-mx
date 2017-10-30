@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-instituto-metropolitano-de-80646"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-11"
-last_updated: "2016-03-11"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de febrero de 2011.
 
@@ -107,9 +107,9 @@ XXVI. Proporcionar al Municipio el sustento técnico para la implementación de 
 
 XXVII. Difundir y comercializar información, estudios, planes, proyectos, ensayos, servicios y demás productos derivados de su actividad, que sean de interés general, susceptibles de ser publicados.
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-XXVIII. Todas aquellas que, en apoyo a las dependencias de la administración pública municipal centralizada, le encomiende el Ayuntamiento o el Ejecutivo Municipal a través de la Secretaría de Desarrollo Urbano y Ecología y sean inherentes a su objeto.
+XXVIII.- Todas aquellas que, en apoyo a las dependencias de la administración pública municipal centralizada, le encomiende el Ayuntamiento o el Ejecutivo Municipal a través de la Secretaría de Desarrollo Urbano y Ecología, la Secretaría de Movilidad Urbana Sustentable y sean inherentes a su objeto.
 
 DE SU ESTRUCTURA ORGANICA
 
@@ -119,9 +119,9 @@ Para su funcionamiento y operación, el Instituto Metropolitano de Planeación s
 
 DE LA JUNTA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-###### Artículo 6.
+###### ARTÍCULO 6.
 
 La Junta de Gobierno del Instituto se integrará de la siguiente manera:
 
@@ -141,15 +141,13 @@ III. Un representante del sector académico (Universidades);
 
 IV. Un representante del sector Empresarial;
 
-V. Un representante del sector social (OSC’S)
+V. Un representante del sector social (OSC'S).
 
 Los integrantes de la Junta de Gobierno pertenecientes a la Administración Pública, serán nombrados al inicio de la Administración Municipal, durante el tiempo que estén en el cargo.
 
-Con el fin de asegurar la continuidad de las acciones de planeación, y lograr el equilibrio en materia de decisiones, así como definir un proceso de renovación escalonado, cada (sic)
+Con el fin de asegurar la continuidad de las acciones de planeación, y lograr el equilibrio en materia de decisiones, así como definir un proceso de renovación escalonado, cada representante de los sectores académico, empresarial y de los organismos sociales de la ciudad será elegido durante el mes decimoctavo de la administración municipal y durarán en su encargo tres años, sin posibilidad de reelección.
 
-Representante de los sectores académico, empresarial y de los organismos sociales de la ciudad será elegido durante el mes decimoctavo de la administración municipal y durarán en su encargo tres años, sin posibilidad de reelección.
-
-El o la Secretario(a) de Desarrollo Urbano y Ecología del Ayuntamiento fungirá como representante del Ejecutivo Municipal en la Junta de Gobierno, con derecho a voz y voto en ausencia de éste.
+El Secretario de Movilidad Urbana Sustentable del Ayuntamiento fungirá como representante del Ejecutivo Municipal en la Junta de Gobierno, con derecho a voz y voto en ausencia de éste.
 
 Los Regidores y las Regidoras podrán designar suplente que los represente en las sesiones de la Junta de Gobierno, quien tendrá derecho a voz y a voto en su ausencia.
 
@@ -766,3 +764,11 @@ PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
+
+P.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA SECRETARÍA DE MOVILIDAD URBANA SUSTENTABLE MUNICIPAL, EL REGLAMENTO INTERNO DE LA SECRETARÍA DE MOVILIDAD URBANA SUSTENTABLE MUNICIPAL, ASIMISMO SE APRUEBA LA ABROGACIÓN DEL REGLAMENTO INTERNO DE LA DIRECCIÓN MUNICIPAL DEL TRANSPORTE PÚBLICO DE TIJUANA; ASÍ COMO LA REFORMA A DIVERSOS REGLAMENTOS MUNICIPALES".]
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+QUINTO.- El presente acuerdo, en lo que se refiere a los puntos primero, segundo y tercero entrará en vigor al día siguiente de su publicación en et Periódico Oficial del Estado y deberán publicarse en un periódico local de mayor circulación, así como en la Gaceta Municipal, órgano de difusión del Ayuntamiento de Tijuana. Se deroga toda disposición contraria a lo establecido en el presente punto.
