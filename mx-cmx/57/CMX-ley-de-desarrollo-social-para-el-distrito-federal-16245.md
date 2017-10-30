@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2017-07-05"
+last_updated: "2017-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -408,19 +408,23 @@ III. Un servidor público de la Secretaría quien fungirá como Secretario Técn
 
 IV. Los titulares de la Secretaría de Desarrollo Urbano y Vivienda; de Desarrollo Económico; de Salud; de Desarrollo Rural y Equidad para las Comunidades; de Obras y Servicios Públicos; de Medio Ambiente; de Finanzas; de Trabajo y Fomento al Empleo; de Coordinación de Planeación del Desarrollo Territorial, del Instituto de las Mujeres, del Instituto de la Juventud, de la Procuraduría Social y del Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
 
-V. Tres diputados designados por la Asamblea Legislativa; de entre los miembros de las Comisiones relacionadas con el Desarrollo Social; y
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+V. Los presidentes de las comisiones de Desarrollo Social; de Atención a Grupos Vulnerables; y de Vigilancia y Evaluación de las Políticas y Programas Sociales de la Asamblea Legislativa del Distrito Federal.
+
+A las sesiones que por su competencia se requiera la participación de los Diputados miembros de otras comisiones de la Asamblea Legislativa del Distrito Federal, se les convocará con derecho de voz.
 
 VI. Tres representantes de cada uno de los siguientes sectores:
 
-— Organizaciones Civiles;
+- Organizaciones Civiles;
 
-— Organizaciones Sociales;
+- Organizaciones Sociales;
 
-— Instituciones de Asistencia Privada;
+- Instituciones de Asistencia Privada;
 
-— Instituciones académicas de educación superior;
+- Instituciones académicas de educación superior;
 
-— Grupos Empresariales, y
+- Grupos Empresariales, y
 
 VII. Un representante de cada uno de los Consejos Delegacionales de Desarrollo Social.
 
@@ -493,6 +497,18 @@ En los grupos de trabajo se podrá invitar a participar a propuesta de los miemb
 ###### Artículo 17.
 
 Las normas relativas a la organización y funcionamiento del Consejo, estarán previstas en el reglamento de la Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 17 Bis.
+
+El Consejo se reunirá de manera obligatoria dos veces por año de forma ordinaria, previa convocatoria de su Presidente y de forma extraordinaria cuando el Presidente lo estime conveniente; con el objeto de evaluar de manera semestral, los avances y resultados establecidos en el Programa General (sic) Desarrollo, los programas sectoriales y cualquier otro instrumentos (sic) de planeación de la política de Desarrollo Social, para los fines de establecer las metas y los objetivos para los siguientes seis meses y dar seguimiento a los acuerdos generados por el mismo Consejo.
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 17 Ter.
+
+La Administración Pública del Distrito Federal velará por el cumplimiento de los acuerdos del Consejo de Desarrollo Social, sin que éstos tengan carácter vinculatorio; procurará dar observancia y deberán publicarse en la Gaceta Oficial de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1259,3 +1275,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de (sic) Ciudad de México, para su c
 TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada "Por Tu Familia, Desarme Voluntario" y su modalidad "Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa".
 
 CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
+
+G.O. 30 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
