@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-118011"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2017-10-26"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2017
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2016.
 
@@ -976,6 +976,10 @@ a) Pasante: $76.00
 b) Provisional: $160.00
 
 c) Definitiva y posgrados: $436.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Se exceptúan del pago de este derecho, a las personas profesionistas que tramiten su cédula profesional definitiva.
 
 V. Por la autorización de libros de protocolo ordinario o abierto especial y de registro de certificaciones, por cada uno: $408.00
 
@@ -2360,3 +2364,9 @@ P.O. 26 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26498/LXI/17 QUE REFORMA LOS ARTÍCULOS OCTAVO Y DÉCIMO PRIMERO TRANSITORIOS, ASÍ COMO EL ANEXO F DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2017”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26500/LXI/17 QUE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 25559 MEDIANTE EL QUE SE EXPIDIÓ LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2017”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
