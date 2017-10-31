@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2017-07-19"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -203,7 +201,9 @@ VI. Requerir informes o documentación a otras autoridades, Secretarías, Depend
 
 VII. Brindar atención integral a las víctimas del delito, de conformidad con la normatividad aplicable hasta la reparación del daño;
 
-VIII. Adoptar o, en su caso, ordenar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos, e implementarlas hacia sus propios funcionarios cuando se requiera;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Adoptar o, en su caso, ordenar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos, e implementarlas hacia sus propios funcionarios cuando se requiera, en coordinación con las autoridades competentes y conforme a la normativa aplicable;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -433,7 +433,9 @@ II. Recibir las denuncias sobre los hechos que pudieran ser constitutivos de del
 
 III. Realizar la detención en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que le otorga la Ley, así como informar por cualquier medio al Ministerio Publico sobre la detención, e inscribir inmediatamente las mismas en el registro que al efecto establezcan las disposiciones aplicables, así mismo preservar el lugar de los hechos o hallazgos, tomando las providencias necesarias para recolectar, resguardar, procesar y trasladar indicios respetando la cadena de custodia;
 
-IV. Prestar auxilio y protección a víctimas, ofendidos o testigos del delito;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. Prestar auxilio y protección a víctimas, ofendidos o testigos del delito, en coordinación con las autoridades competentes y conforme a la normativa aplicable;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -479,7 +481,9 @@ a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones
 
 b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;
 
-c) Procurar que reciban atención médica y psicológica cuando sea necesaria, y
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria, en coordinación con las autoridades competentes y conforme a la normativa aplicable, y
 
 d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
 
@@ -591,7 +595,9 @@ Con independencia de ello, la Fiscalía Anticorrupción contará con la estructu
 
 El Reglamento establecerá la integración, funciones y atribuciones de cada una de las Unidades Administrativas, así como de los titulares que las integran. La Fiscalía Anticorrupción se regirá por su propio Reglamento Interior.
 
-Cada Unidad Administrativa, contará con los Directores, Coordinadores, Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, operadores de justicia alternativa, asesores jurídicos y demás personal que sea necesario para el cumplimiento de sus funciones, conforme a la disponibilidad presupuestaria y lo previsto en el Reglamento.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Cada Unidad Administrativa, contará con los Directores, Coordinadores, Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, operadores de justicia alternativa y demás personal que sea necesario para el cumplimiento de sus funciones, conforme a la disponibilidad presupuestaria y lo previsto en el Reglamento.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -815,13 +821,11 @@ VII. Aprobar examen de control de confianza en los términos que establezcan las
 
 El personal a que se refiere el presente artículo será nombrado y removido por el Fiscal General, conforme a la normativa aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 38.
 
-Los operadores de justicia alternativa deberán cumplir los requisitos que se señalan en el artículo anterior, con excepción de lo dispuesto en las fracciones II y VII, en virtud de no adquirir la calidad de Ministerio Público y demás supuestos que establece la normativa aplicable, quienes deberán de contar con título y cédula profesional de la especialidad de que se trate.
-
-Asimismo los asesores jurídicos que prestan asistencia a las victimas u ofendidos del delito, deberán cumplir los requisitos que se señalan en el artículo 37 de esta Ley, con excepción de lo dispuesto en la fracción VII, en virtud de no adquirir la calidad de Ministerio Público y demás supuestos que establece la normativa aplicable.
+Los operadores de justicia alternativa deberán cumplir los requisitos que se señalan en el artículo anterior, con excepción de lo dispuesto en las fracciones II y VII, en virtud de no adquirir la calidad de agentes del Ministerio Público y demás supuestos que establece la normativa aplicable, quienes deberán de contar con título y cédula profesional de la especialidad de que se trate.
 
 ###### Artículo 39.
 
@@ -1526,3 +1530,57 @@ VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normativ
 VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
 
 VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS CINCO.- POR EL QUE SE REFORMA DE MANERA INTEGRAL LA LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS, INCLUYENDO SU DENOMINACIÓN; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS."]
+
+PRIMERA. Una vez aprobadas la reforma integral a la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos y reformas de Ley Orgánica de la Fiscalía General del Estado de Morelos, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Dentro de un plazo de 10 días hábiles, contados a partir del inicio de la vigencia de este Decreto, la persona titular de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, deberá solicitar en el Registro Público de Organismos Descentralizados del Estado de Morelos a cargo de la Secretaría de Hacienda, la inscripción del presente instrumento, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+CUARTA. Dada la nueva configuración de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos se abroga el "Decreto número mil seiscientos setenta y cuatro, por el que se designan a cinco Comisionados para Integrar el Consejo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5237, de 19 de noviembre de 2014, dejando sin efecto las designaciones realizadas por virtud de dicho Decreto.
+
+Al efecto se instruye a la Secretaría de Servicios Legislativos Parlamentarios y a la Dirección Jurídica, ambas del Congreso del Estado de Morelos, para que notifique el contenido de la presente Disposición Transitoria a los Ciudadanos cuya designación se deja insubsistente. Ello sin perjuicio de que el Decreto número mil seiscientos setenta y cuatro, así como las designaciones por virtud del cual se realizan, queden sin efectos desde el momento mismo en que el presente Decreto inicie su vigencia.
+
+QUINTA. Se abroga el "Acuerdo parlamentario por el que se designa a dos Diputados que integrarán el Consejo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, conforme a lo establecido en la fracción III, del artículo 102, de la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5439, de 12 de octubre de 2016.
+
+SEXTA. Por única ocasión, para la designación del Comisionado Ejecutivo, el Gobernador del Estado deberá proponer al Congreso del Estado, dentro de un plazo de 30 días hábiles, contados a partir del inicio de vigencia del presente Decreto, una persona respaldada por los colectivos de víctimas, expertos y organizaciones de la sociedad civil del estado de Morelos especializadas en la materia, sin que exista impedimento alguno para considerar para ello a la actual persona titular de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
+
+El Congreso del Estado, dentro de un plazo de treinta días hábiles, contados a partir de que reciba la propuesta respectiva, previa revisión de los requisitos previstos en el artículo 118 de la Ley de Víctimas del Estado de Morelos, deberá decidir sobre la designación del Comisionado Ejecutivo, quien por única ocasión durará en su cargo tres años.
+
+Concluido el plazo de duración en el cargo de la persona designada conforme al párrafo anterior como Comisionado Ejecutivo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos; deberá designarse un nuevo titular en los términos señalados en el artículo 118 de la citada Ley.
+
+La persona titular de la ahora Coordinación Ejecutiva estará a cargo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, en tanto no sea designado el Comisionado Ejecutivo.
+
+Asimismo, hasta en tanto no se nombre Comisionado Ejecutivo las autorizaciones para acceder a los recursos del Fondo, serán emitidas de manera conjunta entre la persona titular de la Coordinación Ejecutiva y el servidor público responsable del Fondo.
+
+SÉPTIMA. En todos los instrumentos legales, administrativos y jurídicos en donde se haga referencia a la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos se entenderá a la Ley de Víctimas del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos a la persona titular de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, se entenderán conferidas al Comisionado Ejecutivo del citado Organismo, siempre que no contravengan lo dispuesto en el presente Decreto.
+
+OCTAVA. En un plazo no mayor de 30 días hábiles, contados a partir de la vigencia del presente Decreto, se deberá instalar la Junta de Gobierno de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos; sin que para tal efecto sea necesaria la presencia del representante de la Asamblea Consultiva, por esta única ocasión, en virtud de estar presente la mayoría de sus integrantes, así como su Presidente.
+
+NOVENA. En un plazo no mayor de 180 días hábiles, contados a partir de la instalación de la Junta de Gobierno de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, se deberán realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados a que refiere la Disposición Transitoria Tercera. Así mismo, en dicho plazo deberá de adecuarse el Reglamento de la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos en materia de Asesoría Jurídica, Registro y Reparación Económica.
+
+DÉCIMA. Se autoriza al Gobernador del Estado para que se constituya en garante avalista, deudor solidario, subsidiario o sustituto de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, para que en garantía del cumplimiento de todas y cada una de las obligaciones a su cargo, derivadas del pago por concepto de cuotas y aportaciones a favor del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, solicite a la Secretaría de Hacienda y Crédito Público, afecte a favor de dicho Organismo, las participaciones presentes y futuras que en ingresos federales le correspondan.
+
+En la firma del instrumento jurídico que formalice el acto materia de esta Disposición Transitoria, comparecerán en nombre y representación del Gobernador del Estado, las instituciones y los servidores públicos competentes, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, y por la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, el Comisionado Ejecutivo.
+
+La garantía de cumplimiento a las obligaciones que se contraen con la incorporación de los trabajadores de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se establecerá con los recursos que a favor de dicho organismo se señalen en el Presupuesto de Egresos del Gobierno del Estado.
+
+Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, al régimen obligatorio del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, exclusivamente en el caso que la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos no cubra de manera oportuna las cuotas correspondientes.
+
+Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado Organismo, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
+
+UNDÉCIMA. La Fiscalía General del Estado de Morelos deberá realizar las adecuaciones reglamentarias; y administrativas necesarias que den cumplimiento a las modificaciones aprobadas en el presente Decreto.
+
+DUODÉCIMA. El Comisionado Ejecutivo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, deberá gestionar las adecuaciones necesarias a la estructura orgánica de dicha Comisión.
+
+DECIMOTERCERA. La Comisión Ejecutiva, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, publicará la Convocatoria a que se refiere el artículo 123 de la Ley.
+
+Constituida la Asamblea Consultiva designará de entre sus integrantes al miembro que los ha de representar en la Junta de Gobierno.
+
+DECIMOCUARTA. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos y la Secretaría de Hacienda del Poder Ejecutivo Estatal deberán hacer las previsiones presupuestales necesarias.
+
+DECIMOQUINTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
