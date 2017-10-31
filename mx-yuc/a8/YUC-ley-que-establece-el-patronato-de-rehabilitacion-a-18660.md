@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-establece-el-patronato-de-rehabilitacion-a-18660"
 country: "mx"
 rank: "ley"
 publication_date: "1971-02-22"
-last_updated: "1979-11-16"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY QUE ESTABLECE EL PATRONATO DE REHABILITACION A INFRACTORES DEL CODIGO DE DEFENSA SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE SERVICIOS POSTPENALES DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE ESTABLECE EL PATRONATO DE REHABILITACIÓN A INFRACTORES DEL CÓDIGO DE DEFENSA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE NOVIEMBRE DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 22 de febrero de 1971.
 
@@ -256,3 +258,23 @@ Lic. RAUL HEREDIA CARRILLO.
 D.O. 16 DE NOVIEMBRE DE 1979.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 538/2017 POR EL QUE SE EMITE LA LEY DE SERVICIOS POSTPENALES DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Esta ley entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+Se abroga la Ley que establece el Patronato de Rehabilitación a Infractores del Código de Defensa Social, publicada el 22 de febrero de 1971 en el diario oficial del estado.
+
+Tercero. Obligación normativa
+
+El gobernador deberá regular a la autoridad encargada de la prestación de los servicios postpenales en un plazo de treinta días naturales, contado a partir de la entrada en vigor de esta ley.
+
+Cuarto. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en esta ley.
