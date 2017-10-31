@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2016-04-10"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -761,7 +761,7 @@ y alcantarillado: $288.00
 
 II.- Cambio de régimen a propiedad en condominio a que se refiere la Ley Sobre el Régimen de Propiedad en Condominio del Estado de Baja California Sur:
 
-> <small>N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DEL 2015, PÁGINA 14.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DEL 2015, PÁGINA 14.]</small>
 
 Para los efectos de esta Fracción, se entenderá por unidad, la unidad de propiedad exclusiva a que se refiere el Artículo 2° Fracción XVI de la Ley referida.
 
@@ -855,7 +855,7 @@ Por los servicios prestados por la Comisión Estatal para la Protección contra 
 
 Tarifa:
 
-l. Por Curso de Capacitación, por persona, (máximo 20 personas) de:
+I. Por Curso de Capacitación, por persona, (máximo 20 personas) de:
 
 a) Manejadores de Alimentos; $288.00
 
@@ -1353,13 +1353,19 @@ derechos y por cada uno de ellos se cubrirá el
 
 pago de: $182.00
 
-Los actos del Registro Civil de nacimiento y defunción que se realicen por gestión de instituciones públicas de salud y los matrimonios gestionados por el Sistema para el Desarrollo Integral de la Familia en su carácter de institución de asistencia social, quedarán exentas de pago siempre que se realicen colectivamente como resultado de programas encaminados a fomentar la unión familiar.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2017)</small>
+
+Los actos del Registro Civil de nacimiento y defunción que se realicen por gestión de instituciones públicas de salud y los matrimonio (sic) gestionados por el Sistema para el Desarrollo Integral de la Familia en su carácter de institución de asistencia social, quedarán exentas de pago siempre que se realicen colectivamente como resultado de programas encaminados a fomentar la unión familiar. De igual forma quedarán exentos de pago de derechos cuando la expedición del acta de nacimiento se realice a solicitud de los Órganos Jurisdiccionales del Estado, Congreso del Estado, alguna autoridad del orden Estatal o Federal para el cumplimiento de sus funciones en tutela de los derechos del niño, niña y adolescentes.
 
 Quedarán exentos de pago de derechos los actos de registro y levantamiento del Registro Civil, en sus oficinas y en horas hábiles por:
 
 a) Nacimiento; y
 
 b) Defunción.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2017)</small>
+
+Quedará exenta de pago de derechos la expedición de la primera copia del acta certificada de nacimiento del niño, niña o adolescente. Este beneficio se aplicará aún y cuando el registro sea extemporáneo, en cuyo caso el registro quedará exento de pago.
 
 III.- Registro Público de la Propiedad
 
@@ -1930,3 +1936,11 @@ B.O. 10 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2337 SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5 Y 6 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja california Sur.
+
+B.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 2472 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II Y SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
