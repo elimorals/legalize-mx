@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2015-04-22"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -43,9 +43,11 @@ LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL EST
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley así como los reglamentos, normas, convenios, acuerdos y programas que se expidan conforme a ella son de orden público e interés social y de carácter obligatorio; y tienen por objeto, regular, fomentar y posibilitar la instrumentación de la política estatal en la prevención de desastres y protección civil, bajo los principios establecidos en la presente Ley, en concordancia con la política nacional, además de los siguientes objetivos específicos:
+La presente Ley es de orden público e interés social y de observancia general en el Estado y tiene por objeto regular, fomentar y posibilitar la instrumentación de la política estatal en la prevención de desastres y protección civil, bajo los principios establecidos en la misma, en concordancia con la política nacional, además de los objetivos específicos siguientes:
 
 I. Establecer la concurrencia de la facultad del Estado y los municipios en la elaboración y ejecución de políticas públicas en materia de prevención de desastres y protección civil, contemplando en el desarrollo de estas acciones, el enfoque de género y respeto a los derechos humanos de los pueblos y comunidades Indígenas y de los pueblos afromexicanos.
 
@@ -57,7 +59,9 @@ IV. Consolidar las bases de integración y funcionamiento de los sistemas estata
 
 V. Establecer las normas y principios para fomentar la cultura de la prevención de riesgos, la protección civil y la autoprotección de sus habitantes, que reduzca en la medida de lo posible la vulnerabilidad de la población y fortalezca sus capacidades y resiliencia; y
 
-VI. Contribuir al cumplimiento de los compromisos internacionales celebrados por el Estado Mexicano en materia de reducción del riesgo de desastres, cambio climático, y demás relacionados con la protección civil.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Contribuir al cumplimiento de los compromisos nacionales e internacionales, celebrados por el Estado Mexicano en materia de reducción del riesgo de desastres, cambio climático y demás relacionado con la protección civil.
 
 ###### Artículo 2.
 
@@ -75,165 +79,177 @@ El pago de los derechos por los servicios que se presten en materia de prevenci�
 
 Será responsabilidad de cada presidente municipal incluir en el respectivo proyecto de presupuesto de egresos los recursos destinados al fortalecimiento de la protección civil municipal.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 4.
 
 Para los efectos de la interpretación y aplicación de la presente Ley se entenderá por:
 
-I. Agente regulador: Lo constituyen las acciones, instrumentos, normas, obras y, en general, todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente; a reducir los riesgos y a controlar y prevenir los efectos adversos de un fenómeno perturbador;
+I. Agente Regulador: lo constituyen las acciones, instrumentos, normas, obras y, en general, todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente; a reducir los riesgos y a controlar y prevenir los efectos adversos de un fenómeno perturbador;
 
-II. Afectado: Persona que ha sufrido en su persona, las que de ella dependen, o en sus propiedades y bienes, daños y pérdidas por efectos de un desastre;
+II. Afectado: Persona que ha sufrido en sí, en las personas que de ella dependen, o en sus propiedades y bienes, daños y pérdidas por efectos de un desastre con motivo de un fenómeno natural o antropogénico;
 
-III. Atlas Estatal o Municipales de Riesgos: Sistema de información Integral sobre la descripción de la naturaleza y desarrollo de fenómenos perturbadores, del estudio de la vulnerabilidad y grado de exposición de un sistema afectable, que permiten establecer el nivel de riesgo esperado, resultado de un análisis científico con enfoque geográfico espacial temporal, que facilita a este sistema ser una herramienta técnica de apoyo para la toma de decisiones que permita reforzar la reducción de riesgos de desastres, enfocada al establecimiento de políticas de desarrollo sustentables y sostenibles en el Estado o en un municipio;
+III. Atlas Estatal o Municipales de Riesgos: sistema de información integral sobre la descripción de la naturaleza y desarrollo de fenómenos perturbadores, del estudio de la vulnerabilidad y grado de exposición de un sistema afectable, que permiten establecer el nivel del riesgo esperado, resultado de un análisis científico con enfoque geográfico espacial temporal, que facilita a este sistema ser una herramienta técnica de apoyo para la toma de decisiones que permitan reforzar la reducción de riesgos de desastres, enfocada al establecimiento de políticas de desarrollo sustentables y sostenibles en el Estado o en un municipio;
 
-IV. Auxilio: Respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre por parte de grupos especializados públicos o privados, o, por las unidades internas de protección civil así como las acciones para salvaguardar los demás agentes afectables;
+IV. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil así como las acciones para salvaguardar a los demás agentes afectables;
 
-V. Cambio Climático: Cambio en el clima atribuible directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
+V. Cambio Climático: cambio en el clima atribuible directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
 
-VI. Centro Estatal o Municipal de Comunicaciones: Es la instancia operativa de comunicación, alertamiento, información, apoyo permanente y enlace entre los integrantes del sistema estatal o municipal en las tareas de prevención, auxilio y recuperación, en los términos del Reglamento de esta Ley;
+VI. Centro Estatal o Municipal de Comunicaciones: es la instancia operativa de comunicación, alertamiento, información, apoyo permanente y enlace entre los integrantes del sistema estatal o municipal en las tareas de prevención, auxilio y recuperación, en los términos del Reglamento de esta Ley;
 
-VII. Centro Estatal o Municipal de Operaciones: Es un espacio físico que integra sistemas, equipos, documentos y demás instrumentos, en el cual los integrantes del sistema estatal o municipal coordinan las acciones de auxilio y toman las decisiones para atender la emergencia;
+VII. Centro Estatal o Municipal de Operaciones: es un espacio físico que integra sistemas, equipos, documentos y demás instrumentos, en el cual los integrantes del sistema estatal o municipal coordinan las acciones de auxilio y toman las decisiones para atender la emergencia;
 
-VIII. Consejo Consultivo: Al Consejo Consultivo Permanente de Protección Civil como órgano asesor del Consejo Estatal, que está integrado por el conjunto de profesionistas dedicados al estudio de algún tipo de fenómeno perturbador, que cuentan con la capacidad técnica y científica para emitir juicios respecto del origen, evolución y consecuencias de dichos fenómenos, los cuales coadyuvarán, en su caso, con el Consejo Estatal;
+VIII. CENAPRED: al Centro Nacional de Prevención de Desastres;
 
-IX. Consejo Estatal: Al Consejo Estatal de Protección Civil;
+IX. Consejo Consultivo: Al Consejo Consultivo Permanente de Protección Civil como órgano asesor del Consejo Estatal;
 
-X. Consejo Municipal: Al Consejo Municipal de Protección Civil;
+X. Consejo Estatal: al Consejo Estatal de Protección Civil;
 
-XI. Comité de Seguridad y Emergencia Escolar: Grupo de Trabajo formado por autoridades docentes y padres de familia, responsable de organizar y coordinar el Programa Interno de Seguridad y Emergencia Escolar;
+XI. Consejo Municipal: al Consejo Municipal de Protección Civil;
 
-XII. Comité Comunitario de Protección Civil: Grupo de ciudadanos que se ha organizado para coadyuvar a las tareas de gestión integral de riesgos de su comunidad, incluyendo la elaboración de mapas de percepción de riesgos, análisis de vulnerabilidades y amenazas, protocolos locales de preparación y respuesta, estrategias locales de prevención de desastres, así como en tareas de alertamiento, ayuda humanitaria y auto-evaluación de daños en su localidad. Su integración y capacitación forma parte de las responsabilidades de las coordinaciones municipales de protección civil;
+XII. Comité Escolar: al Comité Escolar de Gestión de Riesgos de Desastres, es el equipo formado con personal docente, administrativo y padres de familia, responsables de coordinar acciones de prevención, mitigación, preparación, respuesta y recuperación de la comunidad educativa ante emergencias o desastres;
 
-XIII. Continuidad de Operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un fenómeno perturbador puedan continuar funcionando de manera parcial, recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
+XIII. Comité Comunitario de Protección Civil: grupo de ciudadanos que se ha organizado para coadyuvar a las tareas de gestión integral de riesgos de su comunidad, incluyendo la elaboración de mapas de percepción de riesgos, análisis de vulnerabilidades y amenazas, protocolos locales de preparación y respuesta, estrategias locales de prevención de desastres, así como en tareas de alertamiento, ayuda humanitaria y auto-evaluación de daños en su localidad. Su integración y capacitación forman parte de las responsabilidades de las coordinaciones municipales de protección civil;
 
-XIV. Coordinación Estatal: A la Coordinación Estatal de Protección Civil de Oaxaca;
+XIV. Comité Hospitalario: al Comité Hospitalario que se forme en los hospitales para la Prevención de Riesgos y Atención a Emergencias y Desastres, instancia responsable de planear, dirigir, asesorar y coordinar las actividades hospitalarias relacionadas con los preparativos para los desastres que se hayan ocurrido en la institución médica que corresponda, promoviendo la participación de todos los funcionarios y personas de servicios en las diferentes actividades de preparación y respuesta que el hospital deba efectuar en función de posibles eventos adversos;
 
-XV. Coordinación Municipal: A la Coordinación Municipal de Protección Civil;
+XV. Continuidad de Operaciones: al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un fenómeno perturbador, puedan continuar funcionando de manera parcial, recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XVI. Damnificado: Persona afectada por un fenómeno perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes, de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
+XVI. Coordinación Estatal: a la Coordinación Estatal de Protección Civil de Oaxaca;
 
-XVII. Delegación Regional: La Delegación Regional de Protección Civil tiene la representación de la Coordinación Estatal en la región donde se establezca, y es la encargada de coordinar las actividades de prevención, capacitación y, en su caso, de auxilio, conforme a los riesgos a que es propensa la región;
+XVII. Coordinación Municipal: a la Coordinación Municipal de Protección Civil;
 
-XVIII. Denuncia Civil: El derecho de toda persona de hacer del conocimiento de la autoridad competente hechos o actos que puedan producir riesgo o perjuicio en su persona o la de terceros, sus bienes y el medio ambiente o entorno;
+XVIII. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
-XIX. Desastre: Al resultado de la ocurrencia de uno o más fenómenos perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada causan daños, que por su magnitud, exceden la capacidad de respuesta de la comunidad afectada;
+XIX. Delegación Regional: la Delegación Regional de Protección Civil tiene la representación de la Coordinación Estatal en la región donde se establezca, y es la encargada de coordinar las actividades de prevención, capacitación y, en su caso, de auxilio, conforme a los riesgos a que es propensa la región;
 
-XX. Donativo: La aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales a través de los centros de acopio autorizados o en las instituciones de crédito para ayudar al Estado, municipios o comunidades en emergencia o desastre;
+XX. Desastre: al resultado de la ocurrencia de uno o más fenómenos perturbadores severos y o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada causan daños, que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
-XXI. Enfoque de género en la protección civil: Instrumento teórico y metodológico que analiza las relaciones de genero para identificar las desigualdades entre mujeres y hombres, y sus orígenes, a fin de dimensionar la vulnerabilidad específicas de cada uno ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos, para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
+XXI. Dictamen de riesgo y vulnerabilidad: instrumento jurídico y técnico que tiene como finalidad determinar la naturaleza y grado de riesgo, a través de un análisis de riesgos de posibles amenazas y la evaluación de las condiciones existentes de vulnerabilidad que conjuntamente podrían afectar a la población;
 
-XXII. Emergencia: Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un fenómeno perturbador;
+XXII. Donativo: la aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales a través de los centros de acopio autorizados o en las instituciones de crédito para ayudar al Estado, municipios o comunidades en emergencia o desastre;
 
-XXIII. Estado: Al Estado Libre y Soberano de Oaxaca;
+XXIII. Enfoque de género en la protección civil: instrumento teórico y metodológico que analiza las relaciones de genero para identificar las desigualdades entre mujeres y hombres, y sus orígenes, a fin de dimensionar la vulnerabilidad específicas de cada uno ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
 
-XXIV. Estrategia local, municipal o sectorial de reducción de riesgos de desastre: Es el conjunto de medidas, ordenadas cronológicamente, que en un plazo dado podrán ser implementadas para reducir las vulnerabilidades causantes de los riesgos de desastre a nivel de una localidad, un municipio, una región o un sector temático del gobierno estatal. Dicha estrategia deberá también señalar en qué instrumentos de política pública se insertarán las medidas preventivas seleccionadas, quiénes serán los responsables de implementarla, cuándo y cómo lo harán, a fin de eventualmente institucionalizarse como parte de las políticas públicas de un municipio o el Estado.
+XXIV. Emergencia: situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un fenómeno perturbador;
 
-XXV. Evacuado: Persona que, con carácter preventivo y provisional, ante la posibilidad o certeza de una emergencia o desastre, se retira o es retirado de su lugar de alojamiento usual para garantizar su seguridad y supervivencia;
+XXV. Estado: al Estado Libre y Soberano de Oaxaca;
 
-XXVI. Fenómeno Antropogénico: Fenómeno perturbador producido por la actividad humana;
+XXVI. Estrategia Local, Municipal o Sectorial de Reducción de Riesgos de Desastre: es el conjunto de medidas, ordenadas cronológicamente, que en un plazo dado podrán ser implementadas para reducir las vulnerabilidades causantes de los riesgos de desastre a nivel de una localidad, un municipio, una región o un sector temático del gobierno estatal. Dicha estrategia deberá también señalar en qué instrumentos de política pública se insertarán las medidas preventivas seleccionadas, quiénes serán los responsables de implementarla, cuándo y cómo lo harán, a fin de eventualmente institucionalizarse como parte de las políticas públicas de un municipio o el Estado;
 
-XXVII. Fenómeno Perturbador: Acontecimiento de origen natural o humano que puede afectar a las personas, sus bienes y entorno y transformar su estado normal en un estado de desastre;
+XXVII. Evacuado: persona que, con carácter preventivo y provisional, ante la posibilidad o certeza de una emergencia o desastre, se retira o es retirado de su lugar de alojamiento usual para garantizar su seguridad y supervivencia;
 
-XXVIII. Fenómeno Geológico: Fenómeno perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, erupciones volcánicas, tsunamis, inestabilidad de laderas, flujos, caídos o derrumbes, hundimientos, subsidencia y agrietamientos;
+XXVIII. Fenómeno Antropogénico: fenómeno perturbador producido por la actividad humana;
 
-XXIX. Fenómeno Hidrometeorológico: Fenómeno perturbador que se genera por la acción de los agentes atmosféricos, tales como: ciclones tropicales, lluvias extremas, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías, ondas cálidas y gélidas y tornados;
+XXIX. Fenómeno Perturbador: acontecimiento de origen natural o humano que puede afectar a las personas, sus bienes y entorno y transformar su estado normal en un estado de desastre;
 
-XXX. Fenómeno Químico-Tecnológico: Fenómeno perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
+XXX. Fenómeno Geológico: fenómeno perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, erupciones volcánicas, tsunamis, inestabilidad de laderas, flujos, caídos o derrumbes, hundimientos, subsidencia y agrietamientos;
 
-XXXI. Fenómeno Sanitario-Ecológico: Fenómeno perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+XXXI. Fenómeno Hidrometeorológico: fenómeno perturbador que se genera por la acción de los agentes atmosféricos, tales como: ciclones tropicales, lluvias extremas, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías, ondas cálidas y gélidas y tornados;
 
-XXXII. Fenómeno Socio-Organizativo: Fenómeno perturbador que se genera con motivo de errores humanos o por acciones premeditadas que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
+XXXII. Fenómeno Químico-Tecnológico: fenómeno perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
 
-XXXIII. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres niveles de gobierno así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+XXXIII. Fenómeno Sanitario-Ecológico: fenómeno perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-XXXIV. Gestión Integral de Riesgos de Oaxaca (GIRO): La plataforma intersectorial para gestionar los riesgos de desastres en el Estado, que contempla un sistema de información de desarrollo, vinculado con el Atlas Estatal de Riesgos, un método de transferencia de riesgos a seguros y una estrategia con herramientas, con el fin de generar una política pública de prevenir o reducir los riesgos de desastres en la planeación e inversión en el desarrollo y recuperación;
+XXXIV. Fenómeno Socio-Organizativo: fenómeno perturbador que se genera con motivo de errores humanos o por acciones premeditadas que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
 
-XXXV. Grupos Voluntarios: Las personas físicas o morales que se han acreditado ante las autoridades competentes y que cuentan con personal, conocimientos, experiencia y equipo necesarios para prestar de manera altruista y comprometida sus servicios en acciones de protección civil;
+XXXV. Gestión Integral de Riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres niveles de gobierno así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible que combatan las causas estructurales de los desastres y fortalezcan la resiliencia de la sociedad, involucra las etapas de análisis de riesgo, reducción, manejo de eventos adversos y recuperación ante la ocurrencia de desastres;
 
-XXXVI. Grupos Vulnerables: Es el grado en que algunos grupos de personas pueden ser más susceptibles a las pérdidas, los daños, el sufrimiento y la muerte, en casos de desastre. Se da en función de las condiciones físicas, económicas, sociales, políticas, técnicas, ideológicas, culturales, educativas, ecológicas e institucionales. La vulnerabilidad se relaciona con la capacidad de un individuo o de una comunidad para enfrentar amenazas específicas en un momento dado, según su condición de edad, sexo, estado civil y origen étnico, tales como personas de la tercera edad, personas con discapacidades, mujeres, niños, pueblos indígenas, personas con enfermedades mentales, personas con VIH/SIDA, trabajadores migrantes, minorías sexuales, entre otros.
+XXXVI. Giro: a la Plataforma de Gestión Integral de Riesgos de Oaxaca
 
-XXXVI (SIC). Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+XXXVII. Grupos Voluntarios: las personas físicas o morales que se han acreditado ante las autoridades competentes y que cuentan con personal, conocimientos, experiencia y equipo necesarios para prestar de manera altruista y comprometida sus servicios en acciones de protección civil;
 
-XXXVII. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+XXXVIII. Grupos Vulnerables: es el grado en que algunos grupos de personas pueden ser más susceptibles a las pérdidas, los daños, el sufrimiento y la muerte, en casos de desastre. Se da en función de las condiciones físicas, económicas, sociales, políticas, técnicas, ideológicas, culturales, educativas, ecológicas e institucionales. La vulnerabilidad se relaciona con la capacidad de un individuo o de una comunidad para enfrentar amenazas específicas en un momento dado, según su condición de edad, sexo, estado civil y origen étnico, tales como personas de la tercera edad, personas con discapacidades, mujeres, niños, pueblos indígenas, personas con enfermedades mentales, personas con VIH/SIDA, trabajadores migrantes, minorías sexuales, entre otros;
 
-XXXVIII. Infraestructura Estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional;
+XXXIX. Hospital Seguro: establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
 
-XXXIX. Instrumentos Financieros de Gestión de Riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el gobierno federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
+XL. Identificación de Riesgos: reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
-XL. Instrumentos de administración y transferencia de riesgos: Son aquellos programas o mecanismos financieros que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+XLI. Infraestructura Estratégica: aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional;
 
-XLI. Inventario Estatal de Necesidades de Infraestructura: Inventario integrado por las obras de infraestructura que son consideradas estratégicas para disminuir el riesgo de la población y su patrimonio;
+XLII. Instrumentos Financieros de Gestión de Riesgos: son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el gobierno federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
 
-XLII. Ley: La Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca;
+XLIII. Instrumentos de Administración y Transferencia de Riesgos: son aquellos programas o mecanismos financieros que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
 
-XLIII. Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la ocurrencia de un fenómeno perturbador sobre un agente afectable;
+XLIV. Inventario Estatal de Necesidades de Infraestructura: inventario integrado por las obras de infraestructura que son consideradas estratégicas para disminuir el riesgo de la población y su patrimonio;
 
-XLIV. Norma Técnica: El conjunto de reglas científicas o tecnológicas de carácter obligatorio para el Estado, emitidas por la Coordinación Estatal, en las que se establecen los requisitos, especificaciones, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o en el uso y destino de bienes;
+XLV. Ley: la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca;
 
-XLV. Peligro: Probabilidad de ocurrencia de un fenómeno perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+XLVI. Ley General: la Ley General de Protección Civil;
 
-XLVI. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+XLVII. Mitigación: es toda acción orientada a disminuir el impacto o daños ante la ocurrencia de un fenómeno perturbador sobre un agente afectable;
 
-XLVII. Prevención: Conjunto de acciones y mecanismos implementados con la finalidad de Identificar los peligros, las vulnerabilidades y los riesgos, eliminarlos o reducirlos y evitar o mitigar su impacto destructivo sobre las personas, bienes e infraestructura, y en el medio ambiente, así como anticiparse a los procesos sociales de construcción de los mismos;
+XLVIII. Norma Técnica: el conjunto de reglas científicas o tecnológicas de carácter obligatorio para el Estado, emitidas por la Coordinación Estatal, en las que se establecen los requisitos, especificaciones, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o en el uso y destino de bienes;
 
-XLVIII. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+XLIX. Peligro: probabilidad de ocurrencia de un fenómeno perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
 
-XLIX. Programa Interno de Protección Civil: Es un instrumento de planeación y operación circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
+L. Plan Escolar de Gestión de Riesgos y Desastres: es el instrumento mediante el cual la población escolar establece objetivos, políticas, estrategias, acciones y metas para implementar y dar seguimiento a los procesos básicos de la gestión de riesgos, como conocer e intervenir en las condiciones de riesgo, prepararse para realizar una respuesta efectiva en caso de emergencias y desastres, así como prepararse para una pronta recuperación;
 
-L. Programa Interno de Seguridad y Emergencia Escolar: Instrumento de protección civil que se circunscribe al ámbito de las instituciones educativas y por medio del cual se desarrollan acciones de carácter preventivo, auxilio y recuperación ante situaciones de emergencia o desastre, que pongan en riesgo la integridad física y psicológica de la comunidad educativa, así como sus bienes e información vital;
+LI. Plan Municipal: al Plan Municipal de Prevención y Reducción de Riesgos de Desastres, instrumento metodológico que se implementa en los Municipios con base en las etapas de gestión integral de riesgos de desastres, que analiza posibles riesgos que pudieran afectar a la población, sus bienes y entorno que permite prevenir y mitigar su impacto y recuperación, así como la implementación de mecanismos de respuesta oportunos, eficaces y apropiados;
 
-LI. Programa Estatal: Al Programa Estatal de Prevención de Riesgos y Protección Civil;
+LII. Plataforma de Gestión Integral de Riesgos de Oaxaca (GIRO): al sistema de información de desarrollo, vinculado con el Atlas Estatal de Riesgos, así como un método de transferencia de riesgos a seguros y una estrategia con herramientas, con el fin de generar una política pública de prevenir o reducir los riesgos de desastres en la planeación e inversión en el desarrollo y recuperación;
 
-LII. Programa Municipal: Al Programa Municipal de Prevención de Riesgos y Protección Civil;
+LIII. Preparación: actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
 
-LIII. Programa Nacional: Al Programa Nacional de Protección Civil;
+LIV. Prevención: conjunto de acciones y mecanismos implementados con la finalidad de Identificar los peligros, las vulnerabilidades y los riesgos, eliminarlos o reducirlos y evitar o mitigar su impacto destructivo sobre las personas, bienes e infraestructura, y en el medio ambiente, así como anticiparse a los procesos sociales de construcción de los mismos;
 
-LIV. Protección Civil: Es la acción solidaria y participativa que en consideración tanto de los riesgos de origen natural o antropogénico como de los efectos adversos de los fenómenos perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional y del Sistema Estatal, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población así como sus bienes, la infraestructura, la planta productiva y el medio ambiente;
+LV. Previsión: tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
 
-LV. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un fenómeno perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+LVI. Programa Interno de Protección Civil: es un instrumento de planeación y operación circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
 
-LVI. Recuperación: Proceso que inicia después de la emergencia o el desastre, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+LVII. Programa Estatal: al Programa Estatal de Prevención de Riesgos y Protección Civil;
 
-LVII. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades, que nos permite eliminar o reducir mediante acciones preparación y mitigación el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de prevención, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos y el desarrollo de sistemas de alertamiento;
+LVIII. Programa Municipal: al Programa Municipal de Prevención de Riesgos y Protección Civil;
 
-LVIII. Refugio Temporal: La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
+LIX. Programa Nacional: al Programa Nacional de Protección Civil;
 
-LIX. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+LX. Protección Civil: es la acción solidaria y participativa que en consideración tanto de los riesgos de origen natural o antropogénico como de los efectos adversos de los fenómenos perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional y del Sistema Estatal, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes, la infraestructura, la planta productiva y el medio ambiente;
 
-LX. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un fenómeno perturbador;
+LXI. Reconstrucción: la acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un fenómeno perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
 
-LXI. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+LXII. Recuperación: proceso que inicia después (sic) la emergencia o el desastre, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
 
-LXII. Reglamento: Al Reglamento de esta Ley;
+LXIII. Reducción de Riesgos: intervención preventiva de individuos, instituciones y comunidades, que nos permite eliminar o reducir mediante acciones de preparación y mitigación el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de prevención, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos y el desarrollo de sistemas de alertamiento;
 
-LXIII. Secretaría: A la Secretaría General de Gobierno;
+LXIV. Refugio Temporal: la instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
 
-LXIV. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+LXV. Resiliencia: es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
 
-LXV. Sistema Nacional: Al Sistema Nacional de Protección Civil;
+LXVI. Riesgo: daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un fenómeno perturbador;
 
-LXVI. Sistema Estatal: Al Sistema Estatal de Protección Civil;
+LXVII. Riesgo Inminente: aquel riesgo que según la opinión de una instancia técnica especializada debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
 
-LXVII. Sistema Municipal: Al Sistema Municipal de Protección Civil;
+LXVIII. Reglamento: al Reglamento de esta Ley;
 
-LXVIII. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación, afectando a su población y equipo con posible afectación a instalaciones circundantes;
+LXIX. Secretaría: a la Secretaría General de Gobierno;
 
-LXIX. Subprograma de Auxilio: Subprograma sustantivo que se refiere al conjunto de actividades destinadas principalmente a rescatar y salvaguardar a la población que se encuentra en peligro. Su instrumento operativo son los planes de emergencia y sus funciones son: alertamiento, evaluación de daños, coordinación de emergencia; seguridad, protección, salvamento y advertencia, servicios estratégicos; equipamiento y bienes; salud; aprovisionamiento; comunicación social; de emergencia; reconstrucción y vuelta a la normalidad;
+LXX. Simulacro: representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
 
-LXX. Subprograma de Prevención: Subprograma sustantivo de la Protección Civil, se refiere al conjunto de medidas destinadas a evitar o mitigar el impacto de las calamidades de origen natural o humano sobre la población y sus bienes, los servicios públicos, la planta productiva y la naturaleza. Sus funciones se desarrollan en dos procesos que son: la evaluación y la mitigación de riesgos;
+LXXI. Sistema Nacional: al Sistema Nacional de Protección Civil;
 
-LXXI. Subprograma de Recuperación o Restablecimiento: El proceso orientado a la reconstrucción y mejoramiento del sistema afectado, población y entorno así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros;
+LXXII. Sistema Estatal: al Sistema Estatal de Protección Civil;
 
-LXXII. Términos de Referencia: Conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Coordinación Estatal, en las que se establecen las especificaciones, parámetros y límites permisibles que en las actividades o bienes a que se refiere esta Ley y su Reglamento, deberán observar las personas obligadas en materia de protección civil según el ámbito de aplicación correspondiente;
+LXXIII. Sistema Municipal: al Sistema Municipal de Protección Civil;
 
-LXXIII. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+LXXIV. Siniestro: situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación, afectando a su población y equipo con posible afectación a instalaciones circundantes;
 
-LXXIV. Unidad Sectorial de Reducción de Riesgos de Desastre: Es el equipo especializado dentro de la estructura de las secretarías del gobierno estatal, así como sus instancias desconcentradas y autónomas, que tiene el mandato de realizar el análisis específico de riesgo para su sector, diseñar las medidas preventivas que reduzcan los riesgos más importantes, pilotearlas y acompañar su implementación a nivel normativo, programático e institucional.
+LXXV. Subprograma de Auxilio: subprograma sustantivo que se refiere al conjunto de actividades destinadas principalmente a rescatar y salvaguardar a la población que se encuentra en peligro. Su instrumento operativo son los planes de emergencia y sus funciones son: alertamiento, evaluación de daños, coordinación de emergencia; seguridad, protección, salvamento y advertencia, servicios estratégicos; equipamiento y bienes; salud; aprovisionamiento; comunicación social; de emergencia; reconstrucción y vuelta a la normalidad;
 
-LXXV. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un fenómeno perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+LXXVI. Subprograma de Prevención: subprograma sustantivo de la Protección Civil, se refiere al conjunto de medidas destinadas a evitar o mitigar el impacto de las calamidades de origen natural o humano sobre la población y sus bienes, los servicios públicos, la planta productiva y la naturaleza. Sus funciones se desarrollan en dos procesos que son: la evaluación y la mitigación de riesgos;
 
-LXXVI. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres; y
+LXXVII. Subprograma de Recuperación o Restablecimiento: El proceso orientado a la reconstrucción y mejoramiento del sistema afectado, población y entorno, así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros;
 
-LXXVII. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño originado por un fenómeno perturbador; según las especificaciones establecidas en el Reglamento de esta Ley.
+LXXVIII. Términos de Referencia: conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Coordinación Estatal, en las que se establecen las especificaciones, parámetros y límites permisibles que en las actividades o bienes a que se refiere esta Ley y su Reglamento, deberán observar las personas obligadas en materia de protección civil según el ámbito de aplicación correspondiente;
+
+LXXIX. Unidad Interna de Protección Civil: el órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+
+LXXX. Unidad Sectorial de Reducción de Riesgos de Desastre: es el equipo especializado dentro de la estructura de las secretarías del gobierno estatal, así como sus instancias desconcentradas y autónomas, que tiene el mandato de realizar el análisis específico de riesgo para su sector, diseñar las medidas preventivas que reduzcan los riesgos más importantes, pilotearlas y acompañar su implementación a nivel normativo, programático e institucional;
+
+LXXXI. Vulnerabilidad: susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un fenómeno perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+
+LXXXII. Zona de Desastre: espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres; y
+
+LXXXIII. Zona de Riesgo: espacio territorial determinado en el que existe la probabilidad de que se produzca un daño originado por un fenómeno perturbador, según las especificaciones establecidas en el Reglamento de esta Ley.
 
 ###### Artículo 5.
 
@@ -261,9 +277,11 @@ VII. Corresponsabilidad entre sociedad y gobierno; y,
 
 VIII. Honradez y respeto a los derechos humanos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 7.
 
-Las políticas públicas en materia de gestión integral de riesgos y protección civil se ceñirán al Plan Nacional de Protección Civil y al Programa Estatal de Prevención de Riesgos y Protección Civil, identificando para ello las siguientes prioridades:
+Las políticas públicas en materia de gestión integral de riesgos y protección civil se ceñirán al Plan Nacional de Protección Civil y al Programa Estatal, identificando para ello las siguientes prioridades:
 
 I. La identificación y análisis de riesgos, integrado en la plataforma de información de Gestión Integral de Riesgos Oaxaca (GIRO), como sustento para la implementación de medidas de prevención y mitigación;
 
@@ -289,19 +307,33 @@ II. Promover la incorporación de la Gestión Integral de Riesgos en el desarrol
 
 III. Contemplar en el proyecto de Presupuesto de Egresos del Estado de cada ejercicio fiscal, recursos para el óptimo funcionamiento y operación de los Instrumentos Financieros de Gestión de Riesgos, con el fin de promover y apoyar la realización de acciones de orden preventivo así como las orientadas tanto al auxilio de la población en situación de emergencia como a la atención de los daños provocados por los desastres de origen natural; disponiendo de la utilización y destino de tales recursos en los términos de lo dispuesto por la normatividad administrativa en la materia;
 
-IV. Solicitar las declaratorias de emergencia o desastre de origen natural en los términos establecidos en la Ley General y en la normatividad administrativa;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-V. Promover ante la eventualidad de los desastres de origen natural, la realización de acciones dirigidas a una estrategia integral de transferencia de riesgos, a través de herramientas tales como la estrategia de Gestión Integral de Riesgos de Oaxaca (GIRO), la identificación de la infraestructura por asegurar, medidas para su reducción y definición de los esquemas de retención y aseguramiento, entre otros; y
+IV. Solicitar las declaratorias de emergencia o desastre de origen natural en los términos de la normatividad aplicable, a través del Titular de Poder Ejecutivo, el Secretario General de Gobierno o en su caso por el Titular de la Coordinación Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Promover ante la eventualidad de los desastres de origen natural, la realización de acciones dirigidas a una estrategia integral de transferencia de riesgos, a través de herramientas tales como la estrategia de Gestión Integral de Riesgos de Oaxaca (GIRO), la identificación de la infraestructura por asegurar, medidas para su reducción y definición de los esquemas de retención y aseguramiento, entre otros;
 
 VI. Dictar los lineamientos generales en materia de protección civil para fomentar que el principio de la Gestión Integral de Riesgos y la Continuidad de Operaciones, sea una política pública transversal para que se realicen acciones de desarrollo sustentable y sostenible, que incidan de manera prioritaria en acciones de ordenamiento territorial, planeación urbano-regional y conservación y empleo de los recursos naturales.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Solicitar al Ejecutivo Federal, el apoyo necesario para desarrollar acciones de atención de emergencias y recuperación cuando los efectos de un desastre lo requieran, y;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Las que le otorguen la presente Ley y otras disposiciones normativas aplicables.
 
 ###### Artículo 9.
 
 Los Poderes Ejecutivo, Legislativo y Judicial del Estado, municipios, organismos públicos descentralizados, y los sectores privado y social así como la población en general, deberán coadyuvar para que las acciones de prevención de riesgos y protección civil, se realicen en forma coordinada y eficaz, en los términos de ésta Ley y su reglamento, en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-La Coordinación Estatal deberá promover la socialización de la protección civil con los procesos de información, a fin de impulsar acciones a favor del aprendizaje de mecanismos de autoprotección, mediante el aprovechamiento de los tiempos oficiales en los medios de comunicación electrónicos.
+La Coordinación Estatal deberá promover la socioformación de la protección civil con los procesos de información, a fin de impulsar acciones a favor del aprendizaje de mecanismos de autoprotección, mediante el aprovechamiento de los tiempos oficiales en los medios de comunicación electrónicos.
 
 ###### Artículo 11.
 
@@ -365,17 +397,27 @@ Las autoridades de protección civil mencionadas en el presente artículo, de ac
 
 En el auxilio a la población en casos de emergencia o desastre las instancias de coordinación deberán actuar en forma conjunta y ordenada en términos de lo dispuesto en la presente Ley y en los demás ordenamientos legales aplicables.
 
-En caso de riesgo inminente, las autoridades estatales o municipales deberán ejecutar las acciones de prevención y auxilio que se requieran, a fin de proteger la vida de la población y sus bienes, los servicios estratégicos, la planta productiva y el medio ambiente, para evitar o mitigar los efectos del impacto y garantizar su funcionamiento.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+En caso de riesgo, las autoridades estatales o municipales deberán ejecutar las acciones de prevención y auxilio que se requieran, a fin de proteger la vida de la población y sus bienes, los servicios estratégicos, la planta productiva y el medio ambiente, para evitar o mitigar los efectos del impacto y garantizar su funcionamiento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-Las autoridades municipales serán el primer nivel de respuesta ante la presencia de un fenómeno perturbador dentro de sus respectivas jurisdicciones.
+Las autoridades municipales serán el primer nivel de respuesta ante la presencia de un riesgo o ante la ocurrencia de un fenómeno perturbador natural o antropogénico, dentro de sus respectivas jurisdicciones.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+En caso de que la emergencia o desastre supere la capacidad de respuesta del municipio se acudirá a la instancia estatal; si ésta a su vez se ve rebasada, se acudirá a las instancias federales correspondientes, quienes actuarán de acuerdo con los programas establecidos para tal efecto y conforme a las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 17.
 
-El Sistema Estatal es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen corresponsablemente las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con los Poderes Legislativo, Ejecutivo y Judicial, de los organismos constitucionales autónomos, de los Municipios, a fin de efectuar acciones coordinadas en materia de gestión integral de riesgos, entre la cual está la prevención de riesgos, protección civil, y la recuperación.
+El Sistema Estatal forma parte del Sistema Nacional, y es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen corresponsablemente las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con los Poderes Legislativo, Ejecutivo y Judicial, de los organismos constitucionales autónomos, de los municipios, a fin de efectuar acciones coordinadas en materia de gestión integral de riesgos, entre las cuales están la prevención de riesgos, protección civil y la recuperación.
 
 ###### Artículo 18.
 
@@ -407,9 +449,13 @@ Los integrantes del Sistema Estatal deberán compartir con la autoridad competen
 
 El gobernador del Estado y los presidentes municipales tendrán dentro de su jurisdicción la responsabilidad sobre la integración y funcionamiento de los sistemas de protección civil conforme a lo que establezca la presente Ley.
 
-Igualmente, en cada uno de sus ámbitos se asegurarán del correcto funcionamiento de los Consejos y Coordinaciones de Protección Civil en términos de la presente ley.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La Coordinación Estatal de Protección Civil con sustento en las Leyes y disposiciones locales, propiciarán una distribución estratégica de las tareas entre las Delegaciones Regionales ubicadas con criterios basados en la localización de los riesgos, necesidades y recursos disponibles.
+Igualmente, en cada uno de sus ámbitos se asegurarán del correcto funcionamiento de los Consejos y Coordinaciones Estatal y municipales de Protección Civil en términos de la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Coordinador Estatal con sustento en las Leyes y disposiciones locales, propiciará una distribución estratégica de las tareas entre las Delegaciones Regionales ubicadas con criterios basados en la localización de los riesgos, necesidades y recursos disponibles.
 
 ###### Artículo 22.
 
@@ -431,19 +477,31 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario General de Gobierno, quien fungirá como Secretario Ejecutivo;
 
-III. El titular de la Coordinación Estatal de Protección Civil, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. El Director de Comunicación Social del Gobierno del Estado, quien fungirá como Vocal Ejecutivo;
+III. El Coordinador Estatal de Protección Civil de Oaxaca, quien fungirá como Secretario Técnico;
 
-V. Los titulares de las secretarías de la administración pública del Estado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. El Titular de la Coordinación General de Comunicación Social, quien fungirá como Vocal Ejecutivo;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Los Titulares de las dependencias y entidades de la Administración Pública Estatal;
 
 VI. El Diputado Presidente de la Comisión Permanente relacionada con la protección civil;
 
-VII. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VIII. El Director del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+VII. El Titular de la Fiscalía General del Estado de Oaxaca.
 
-IX. Los Titulares de las Dependencias y Entidades Públicas Federales en el Estado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. El Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IX. Los Titulares de las Delegaciones de las Dependencias Federales y Entidades de la Administración Pública Federal en el Estado;
 
 X. Los presidentes municipales o administradores municipales de las localidades donde se realice la sesión de Consejo Estatal de Protección Civil o haya ocurrido el siniestro; y,
 
@@ -455,7 +513,9 @@ Los integrantes del Consejo Estatal a que se refiere la fracción XI participar�
 
 El Consejo Estatal tendrá las siguientes atribuciones:
 
-I. Aprobar el Programa Estatal de Prevención de Riesgos y Protección Civil, y vigilar el cumplimiento de sus objetivos y metas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Aprobar el Programa Estatal, así como vigilar el cumplimiento de sus objetivos y metas anualmente;
 
 II. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los objetivos y fines de la prevención de riesgos y protección civil;
 
@@ -465,7 +525,9 @@ IV. Impulsar el otorgamiento del Premio Estatal de Protección Civil, a las pers
 
 V. Fungir como órgano de consulta y de coordinación de acciones del Gobierno Estatal para convocar, concertar, inducir e integrar las actividades de los diversos participantes e interesados en la materia, a fin de garantizar la consecución del objetivo del Sistema Estatal;
 
-VI. Coordinar las instancias que integran el Sistema Estatal y dar seguimiento a las acciones que para tal efecto se establezcan, como la plataforma de Gestión Integral de Riesgos de Oaxaca.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Coordinar las instancias que integran el Sistema Estatal con los sistemas municipales para programar y realizar acciones regionales que para tal efecto se establezcan, como la Plataforma de Gestión Integral de Riesgos de Oaxaca;
 
 VII. Establecer mecanismos de vinculación entre los sistemas estatal y municipal de prevención de riesgos y protección civil;
 
@@ -473,13 +535,31 @@ VIII. Fomentar la participación comprometida y corresponsable de todos los sect
 
 IX. Convocar, coordinar y armonizar con pleno respeto a sus respectivas atribuciones a los Poderes Legislativo y Judicial así como a los municipios y a los diversos grupos sociales locales organizados, para la definición y ejecución de acciones que se convenga realizar en materia de prevención de riesgos y protección civil;
 
-X. Promover el estudio, investigación y capacitación en materia de prevención de riesgos y protección civil, identificando sus problemas y tendencias, proponiendo normas y programas que permitan su solución;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+X. Promover el estudio, la investigación y la capacitación en materia de protección civil, identificando sus problemas y tendencias, y proponiendo las normas y programas que permitan su solución;
 
 XI. Promover el desarrollo y consolidación de una cultura de prevención de riesgos y protección civil;
 
-XII. Crear grupos de trabajo para el apoyo de sus funciones; y,
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+XII. Crear grupos de trabajo para el apoyo de sus funciones;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XIII. Asesorar y apoyar a los municipios, en su caso, para la integración del Sistema Municipal de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XIV. Unificar criterios y acciones entre las dependencias y entidades de la Administración Pública Estatal que intervienen en regular, supervisar y evaluar las actividades de protección civil bajo el enfoque de la Gestión Integral de Riesgos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XV. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XVI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 ###### Artículo 26.
 
@@ -493,23 +573,39 @@ III. Coordinar las acciones que se desarrollen en el Consejo Estatal y las del S
 
 IV. Celebrar convenios, acuerdos de colaboración y coordinación con autoridades federales, de otras entidades federativas y municipales así como con personas físicas o morales, de naturaleza pública o privada, nacionales o extranjeras, conforme a las normas aplicables;
 
-V. Sancionar los acuerdos que se adopten en el seno del Consejo Estatal y del Sistema Estatal; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VI. Las demás funciones que se deriven de esta Ley, sus reglamentos y disposiciones aplicables.
+V. Sancionar los acuerdos que se adopten en el seno del Consejo Estatal y del Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Rendir un informe anual sobre los trabajos del Consejo Estatal; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 ###### Artículo 27.
 
 Corresponde al Secretario Ejecutivo:
 
-I. Dar cumplimiento a los acuerdos del Consejo Estatal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-II. Vigilar el cumplimiento de las disposiciones y acuerdos del Consejo Estatal;
+I. Presidir las sesiones del Consejo Estatal en ausencia del Presidente;
 
-III. Presentar a consideración del Consejo Estatal el programa de trabajo y vigilar su desarrollo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Vigilar y dar cumplimiento a las disposiciones y acuerdos del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Presentar a consideración del Programa Estatal y vigilar el cumplimiento de su desarrollo;
 
 IV. Elaborar los trabajos que le encomiende el Presidente del Consejo Estatal y resolver las consultas que se sometan a su consideración;
 
-V. Rendir un informe anual sobre los trabajos del Consejo Estatal; y,
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Elaborar y presentar el Reglamento Interno del Consejo Estatal, en el pleno del mismo para su aprobación correspondiente.
 
 VI. Las demás funciones que le confieran el Consejo Estatal o el Presidente del Consejo Estatal.
 
@@ -525,15 +621,29 @@ III. Dar cuenta de los requerimientos de la Coordinación Estatal;
 
 IV. Registrar los acuerdos del Consejo y sistematizarlos para su seguimiento;
 
-V. Ordenar y clasificar programas, estudios e investigaciones que se presenten en el Consejo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Ordenar y clasificar programas, estudios e investigaciones científicas que se presenten en el Consejo Estatal;
 
 VI. Llevar el registro de los recursos disponibles para casos de siniestro o desastre, y firmar junto con el Presidente la celebración de convenios, acuerdos y resoluciones sobre esta materia;
 
 VII. Formular la convocatoria a las sesiones, incluyendo el orden del día;
 
-VIII. Convocar por instrucciones del Presidente del Consejo Estatal a las sesiones; y,
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IX. Las demás funciones que se deriven de esta Ley, su reglamento y disposiciones aplicables.
+VIII. Convocar por instrucciones del Presidente del Consejo Estatal a las sesiones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IX. Llevar el archivo y control de los diversos programas de prevención de riesgos y protección civil.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+X. Informar periódicamente al Secretario Ejecutivo del Consejo Estatal, el cumplimiento de sus funciones y actividades realizadas; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 ###### Artículo 29.
 
@@ -543,7 +653,13 @@ I. Comités Científicos de Prevención de Riesgos: Integrados por profesionista
 
 II. Comités lntersectoriales de Prevención de Riesgos y Recuperación de Desastres: se integran por representantes de dependencias federales, estatales o municipales con la finalidad de identificar y resolver situaciones de riesgos y de desastres de origen geológico, hidrometeorológico, químico tecnológico, sanitario ecológico y socio organizativos, con soluciones integrales que favorezcan un desarrollo sustentable y sostenible en el tiempo.
 
-III. Comité de Seguimiento y Evaluación del GIRO: el cual estará integrado por los titulares de las Dependencias que por sus funciones y facultades tengan injerencia directa en la aplicación de políticas de desarrollo del estado y tengan la capacidad de toma de decisiones trascendentales para la mejora de esta estrategia de apoyo en la Gestión Integral de Riesgo en el estado de Oaxaca.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Comité de Seguimiento y Evaluación del GIRO: el cual estará integrado por los titulares de las dependencias federales, estatales o municipales que por sus funciones y facultades tengan injerencia directa en la aplicación de políticas de desarrollo del Estado y tengan la capacidad de toma de decisiones trascendentales para la mejora de esta estrategia de apoyo en la Gestión Integral de Riesgo en el Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+La integración, facultades y obligaciones de los comités, estarán previstas en el Reglamento de la presente Ley.
 
 ###### Artículo 30.
 
@@ -557,11 +673,29 @@ La primera sesión ordinaria será convocada para el mes de febrero con motivo d
 
 En situación de emergencia, el Consejo Estatal se constituirá en sesión permanente a fin de determinar las acciones que procedan para garantizar el auxilio a la población afectada y los trabajos de recuperación procedentes.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Para la existencia del quórum legal y poder llevar a cabo las sesiones ordinarias se requerirá la presencia de la mitad más uno de los integrantes del Consejo Estatal de Protección Civil y para las sesiones extraordinarias bastará con una tercera parte de los integrantes de dicho Consejo, máxime cuando el Consejo Estatal se encuentre constituido en sesión permanente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+La convocatoria para las sesiones ordinarias se hará del conocimiento de los integrantes del Consejo Estatal cuando menos cinco días hábiles antes de su celebración y las de carácter extraordinario podrán hacerse el mismo día.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Consejo Estatal tomará sus decisiones por mayoría de votos de los Consejeros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-Por cada miembro del Consejo Estatal de Protección Civil habrá un suplente, el que será designado mediante oficio por su titular y contará con las mismas facultades en ausencia de aquel.
+Por cada Consejero Propietario del Consejo Estatal habrá un suplente, el que será designado mediante oficio por su titular y contará con las mismas facultades en ausencia de aquel.
 
 El oficio de designación estará dirigido al Presidente del Consejo Estatal. El cargo de suplente será indelegable, por lo que no podrán acreditarse representantes de éste en las sesiones.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Presidente del Consejo Estatal en los casos que así considere, autorizará al Secretario Ejecutivo suplirlo en sus funciones y a su vez el Secretario Ejecutivo designará al Secretario Técnico para que este último lo sustituya en sus funciones.
 
 ### Capítulo IV. De la Coordinación Estatal de Protección Civil
 
@@ -573,11 +707,163 @@ El oficio de designación estará dirigido al Presidente del Consejo Estatal. El
 
 Se crea la Coordinación Estatal de Protección Civil de Oaxaca, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría General de Gobierno, con domicilio en la Ciudad de Oaxaca de Juárez y Delegaciones Regionales en el interior del Estado; tendrá a su cargo la organización, coordinación y operación del Sistema Estatal de Protección Civil; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo una entidad paraestatal con ámbito competencial en todo el Estado con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos, de desastres y protección civil.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS, FRACCIONES Y NUMERALES], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Para el cumplimiento de sus atribuciones y objetivos, la Coordinación Estatal se organizará de acuerdo con las siguientes bases:
+
+A). Contará con:
+
+I. Una Junta Directiva;
+
+II. Un Coordinador Estatal, y
+
+III. La estructura orgánica que requiera para su funcionamiento.
+
+B). La Junta Directiva será la máxima autoridad de la Coordinación Estatal.
+
+1. Estará integrada por:
+
+I. Un Presidente, que será el Secretario General de Gobierno;
+
+II. Un Secretario Técnico, que será el Coordinador Estatal;
+
+III. Los vocales siguientes:
+
+Vocal A, el Titular de la Secretaría de Finanzas;
+
+Vocal B, el Titular de la Secretaría de Administración;
+
+Vocal C, el Titular de la Secretaría de Seguridad Pública;
+
+Vocal D, el Titular de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+
+Vocal E, el Titular de la Secretaría de Salud;
+
+Vocal F, el Titular de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+
+1. Un Comisario, que será el Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+2. Cada miembro propietario de la Junta Directiva designará un suplente mediante oficio dirigido al Presidente de la Junta Directiva; siempre que el Suplente no esté impedido legalmente para ese efecto, cuyo cargo será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones de la Junta Directiva.
+
+Los acuerdos de la Junta Directiva se tomarán por mayoría de votos y el quórum se integrará con la asistencia de la mitad más uno de sus miembros con derecho a voto, siempre que entre ellos se encuentre el Presidente de la misma o su suplente.
+
+La Junta Directiva celebrará sesiones ordinarias trimestralmente, las cuales serán convocadas por el Presidente. Podrán celebrarse sesiones extraordinarias, cuando el Presidente lo estime conveniente o a petición de una tercera parte de los miembros de la misma; dichas sesiones serán convocadas a través del Secretario Técnico por instrucciones del Presidente. Sus integrantes participarán en las sesiones con voz y voto; excepto el Secretario Técnico y el Comisario, quienes tendrán voz pero no voto. En caso de empate, el Presidente tendrá voto de calidad.
+
+Las convocatorias y el orden del día se comunicarán por escrito cuando menos con cinco días hábiles de anticipación tratándose de sesiones ordinarias y de un día natural si se trata de sesiones extraordinarias, indicando la convocatoria en cada caso lugar, fecha y hora en que se celebrará la sesión, remitiéndose la documentación correspondiente. Tratándose de sesiones extraordinarias, se indicará el asunto específico que las motiva.
+
+Los integrantes de la Junta Directiva desempeñarán su cargo de manera honorífica y por lo tanto no recibirán retribución ni emolumento alguno.
+
+3. La Junta Directiva tendrá las siguientes atribuciones indelegables:
+
+I. Autorizar la publicación del Reglamento Interno previa revisión y validación de la Secretaria de Administración y Consejería Jurídica del Gobierno del Estado, así como la publicación de los manuales de organización y procedimientos de la Coordinación Estatal, previa revisión y validación de la Secretaría de Administración.
+
+II. Aprobar los planes y programas de trabajo de la Coordinación Estatal, así como sus modificaciones;
+
+III. Autorizar la publicación de los estados financieros, inventarios, previo informe y validación del comisario y demás informes que deba presentar el Coordinador Estatal;
+
+IV. Conocer y resolver en definitiva los asuntos que someta a su consideración el Coordinador Estatal;
+
+V. Aprobar el establecimiento de las Delegaciones Regionales de la Coordinación Estatal, previa validación de las Instancias Normativas y competentes, y
+
+VI. Las que confiere esta Ley, su reglamento, decretos, acuerdos y demás disposiciones legales aplicables.
+
+4. El Presidente de la Junta Directiva tendrá las siguientes atribuciones:
+
+I. Presidir las sesiones de la Junta Directiva;
+
+II. Representar a la Junta Directiva;
+
+III. Vigilar que las sesiones de la Junta Directiva sean convocadas con la oportunidad debida, autorizando el proyecto del orden del día a la que se sujetarán las sesiones;
+
+IV. Proponer a la Junta Directiva las medidas adecuadas para el mejor funcionamiento de la Coordinación Estatal;
+
+V. Someter a la aprobación de la Junta Directiva los asuntos o negocios cuando su importancia y cuantía así lo requieran, y
+
+VI. Las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones normativas aplicables.
+
+5. El Secretario Técnico tendrá las siguientes atribuciones:
+
+I. Convocar por instrucciones del Presidente de la Junta Directiva, a las sesiones ordinarias y extraordinarias que se requieran;
+
+II. Elaborar el proyecto del orden del día del día (sic) de las sesiones de la Junta Directiva para su aprobación por el Presidente del Órgano de Gobierno y levantar las actas de las sesiones remitiéndolas para su correspondiente firma, y
+
+III. Las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones normativas aplicables.
+
+6. El Coordinador Estatal como Servidor Público será nombrado y removido por el Gobernador del Estado.
+
+7. El Coordinador Estatal tiene la Representación Legal de la Coordinación Estatal de conformidad con la Ley y será el ejecutor de los acuerdos y decisiones de la Junta Directiva, con las siguientes facultades:
+
+I. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la Coordinación Estatal;
+
+II. Ejercitar las acciones y poner las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Coordinación Estatal;
+
+III. Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas;
+
+IV. Otorgar poderes generales y especiales para la realización de actos inherentes al objeto de la Coordinación Estatal, incluyendo aquellos que requieran autorización o cláusula especial, previa autorización de la Junta Directiva, siempre y cuando los que los realicen no se encuentren facultados por la normatividad;
+
+V. Sustituir o revocar poderes generales o especiales. El Coordinador Estatal ejercerá las atribuciones a que se refiere este artículo, bajo su más estricta responsabilidad, informando siempre de ello a la Junta Directiva, y
+
+VI. Las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones normativas aplicables.
+
+8. Corresponde al Coordinador Estatal:
+
+I. Planear, organizar, dirigir y supervisar las actividades técnicas, operativas, administrativas y financieras de la Coordinación Estatal;
+
+II. Administrar los recursos de la Coordinación Estatal provenientes de diversas fuentes, implementando mecanismos de transparencia para su aplicación;
+
+III. Celebrar los contratos, convenios y demás actos jurídicos inherentes al objeto de la Coordinación Estatal, previo acuerdo de la Junta directiva;
+
+IV. Dar cumplimiento a los Planes, Programas y Acuerdos aprobados por la Junta Directiva;
+
+V. Presentar ante la Junta Directiva para su autorización y su publicación en el Periódico Oficial del Gobierno del Estado, el proyecto de Reglamento Interno de la Coordinación Estatal, los manuales de organización y procedimientos, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado;
+
+VI. Presentar ante la Junta Directiva y demás autoridades que señalen las disposiciones normativas aplicables, los estados financieros que le permitan conocer de manera permanente la situación financiera, operativa y administrativa de la Coordinación Estatal;
+
+VII. Proponer el establecimiento de Delegaciones Regionales de Protección Civil en el Estado, con el objeto de hacer más eficientes las acciones procedentes en la materia;
+
+VIII. Proporcionar la información y dar acceso a la documentación que le sea requerida por la autoridad competente;
+
+IX. Promover la capacitación y actualización constante para el personal de las diferentes áreas de la Coordinación Estatal;
+
+X. Conocer, dar seguimiento y resolver las quejas que en materia de protección civil le sean presentadas, de acuerdo con su ámbito de competencia.
+
+XI. Conceder, negar o revocar el registro y la autorización de personas físicas o morales certificadas en materia de gestión integral de riesgo y protección civil, investigación e identificación sobre vulnerabilidades y riesgos, asesoría en la elaboración de planes municipales de prevención de riesgos y programas internos y especiales de protección civil y asesoría para la elaboración del atlas de riesgos municipales;
+
+XII. Conceder, negar o revocar el registro y la autorización de los coordinadores municipales de protección civil;
+
+XIII. Autorizar los programas internos de seguridad, de emergencia escolar y los especiales de protección civil, así como los planes hospitalarios para casos de emergencias y desastres;
+
+XIV. Ordenar la práctica de visitas de inspección a fin de vigilar el cumplimiento de las disposiciones en materia de protección civil, emitiendo las correspondientes órdenes de inspección;
+
+XV. Comisionar al personal capacitado en gestión integral de riesgos y protección civil, en las actividades operativas que la Coordinación Estatal requiera;
+
+XVI. Autorizar a los inspectores para imponer y ejecutar las acciones y medidas de seguridad necesarias para evitar que cualquier acción u omisión de personas físicas o morales pongan en riesgo la vida, la propiedad de las personas, el medio ambiente y los servicios estratégicos del Estado, conforme a lo establecido por esta Ley y su reglamento; lo anterior sin perjuicio de lo que establezcan otras disposiciones legales aplicables;
+
+XVII. Conocer y resolver sobre el recurso de revisión, interpuesto por los interesados afectados en contra de los actos y las resoluciones que ejecute o dicte la Coordinación estatal;
+
+XVIII. Solicitar las declaratorias de emergencias o desastres de origen natural en los términos de la normatividad aplicable; y
+
+XIX. Las demás que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones normativas aplicables, o las que le encomiende la Junta Directiva.
+
+9. El patrimonio de la Coordinación Estatal estará integrado por:
+
+I. Los bienes muebles e inmuebles que les sean asignados así, como los que adquiera la Coordinación Estatal con motivo de sus funciones y que estén enfocados específicamente al cumplimiento de sus objetivos;
+
+II. El presupuesto aprobado por el Congreso del Estado, en el presupuesto de egresos del Gobierno del Estado de Oaxaca en el ejercicio fiscal que corresponda;
+
+III. Las aportaciones, transferencias y subsidios que reciba de los gobiernos federal, estatal y municipal;
+
+IV. Los bienes que adquiera, respecto de otras entidades públicas o particulares por concepto de donación, compra-venta, cesión o cualquier otro título legal, y
+
+V. Los ingresos que genere su propio patrimonio.
+
 ###### Artículo 34.
 
 La Coordinación Estatal tiene como objetivos fundamentales:
 
-I. Intervenir en la planeación, programación y presupuestación del Sistema Estatal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Intervenir en la planeación, programación y presupuestación del Sistema Estatal, observando entre otras cosas, coadyuvar al equipamiento de los municipios para la prevención y combate de los fenómenos perturbadores naturales o antropogénicos;
 
 II. Ejecutar las políticas del gobierno del Estado en la organización, coordinación y operación del Sistema Estatal, apoyando su actuación en la presente Ley, su Reglamento y demás normas aplicables.
 
@@ -585,13 +871,19 @@ III. Promover la cultura de prevención de riesgos de desastres y corresponsabil
 
 IV. Sensibilizar y dar seguimiento a los procesos de transversalización de la prevención en las inversiones, proyectos, programas, leyes y demás instrumentos privados, sociales y públicos de desarrollo dentro del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+La Coordinación Estatal para el eficaz cumplimiento de sus objetivos, se auxiliará de los servidores públicos que requiera, conforme a su presupuesto aprobado y normatividad aplicable.
+
 ###### Artículo 35.
 
 Para la atención de sus obligaciones, la Coordinación Estatal tendrá las siguientes atribuciones:
 
 I. Garantizar el correcto funcionamiento del Sistema Estatal a través de la supervisión y coordinación de acciones de protección civil que realicen los diversos órdenes de gobierno, mediante la adecuada Gestión Integral del Riesgo de Desastre, incorporando la participación activa y comprometida de la sociedad, tanto en lo individual como en lo colectivo;
 
-II. Verificar los avances en el cumplimiento del Programa Estatal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Verificar los avances en el cumplimiento de los Programas Estatal y Municipal, por lo que deberá a más tardar en el mes de agosto de cada año, rendir un informe anual a los poderes Ejecutivo y Legislativo sobre los avances e impedimentos Jurídicos y financieros para el cumplimiento del Programa Estatal;
 
 III. Coordinar el monitoreo y recibir los reportes sobre la situación que guardan los servicios vitales, los sistemas estratégicos y, en general, la entidad durante todas las horas y días del año;
 
@@ -615,7 +907,9 @@ XII. Gestionar ante las autoridades correspondientes, la incorporación y amplia
 
 XIII. Impulsar la creación de la Escuela Estatal de Protección Civil y Gestión Integral de Riesgos de Desastre.
 
-XIV. Fomentar en la población una cultura de prevención de riesgos de desastres y protección civil que brinde herramientas que permitan salvaguardar su vida, posesiones y entorno ante los riesgos derivados de fenómenos naturales y humanos. Para esta tarea, debe considerarse el apoyo de las instituciones y organizaciones de la sociedad civil, que cuenten con una certificación de competencia del Centro Nacional de Prevención de Desastres (CENAPRED);
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XIV. Fomentar en la población una cultura de prevención de riesgos, desastres y protección civil que brinde herramientas que permitan salvaguardar su vida, posesiones y entorno ante los riesgos derivados de fenómenos naturales y humanos. Para esta tarea, debe considerarse el apoyo de las instituciones y organizaciones de la sociedad civil, que cuenten con una certificación de competencia del CENAPRED;
 
 XV. Promover, coordinadamente con las personas morales, la constitución de mecanismos tendientes a la obtención de recursos que sirvan para fomentar una cultura de prevención de riesgos y protección civil y, en su caso, para coadyuvar en la gestión de los riesgos;
 
@@ -643,7 +937,9 @@ XXVI. Coordinar y regular la instalación de refugios temporales para brindar pr
 
 XXVII. Participar en la evaluación y cuantificación de los daños ocasionados por los desastres generados por fenómenos perturbadores de origen natural o humano, cuando así lo determinen las disposiciones específicas aplicables;
 
-XXVIII. Presentar las solicitudes que deberán formularse en términos de la Ley General de Protección Civil, así como la presente Ley y su Reglamento, para que sean emitidas las correspondientes declaratorias de emergencia y desastre;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XXVIII. Presentar la solicitud que deberá formularse en términos de la Ley General, así como la presente Ley y su Reglamento, para que sean emitidas las correspondientes declaratorias de emergencia y desastres;
 
 XXIX. Promover la creación de un fideicomiso para administrar de manera transparente toda donación destinada a la prevención de riesgos y protección civil del Estado de Oaxaca;
 
@@ -655,19 +951,29 @@ XXXII. Fomentar y regular la integración, participación y registro de los grup
 
 XXXIII. Brindar asesoría, capacitación y demás servicios en materia de prevención de riesgos de desastre y protección civil, a las dependencias y entidades de la administración pública federal, estatal, municipal, sectores privados y sociales;
 
-XXXIV. Emitir dictámenes en materia de protección civil, en términos de la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXXV. Dar opinión técnica favorable por parte del Gobernador del Estado, para el uso y manejo de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente;
+XXXIV. Emitir dictámenes de riesgo y vulnerabilidad en materia de prevención de riesgos de desastres y protección civil, en términos de la presente Ley y su reglamento;
 
-XXXVI. Acreditar y registrar a las personas físicas o morales que cuenten con los conocimientos, capacidad técnica y práctica en materia de prevención de riesgos de desastre, gestión integral de riesgo y protección civil, en términos de la presente Ley y su reglamento;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXXVII. Conceder, negar o revocar la acreditación y registro a personas físicas o morales, para ejercer la actividad de asesoría y capacitación, así como para emitir dictámenes en materia de prevención de riesgos de desastre y protección civil, en términos de la presente Ley y su Reglamento.
+XXXV. Otorgar opinión técnica o reporte de análisis de riesgo para la emisión de la conformidad del Gobernador del Estado, para el uso y/o manejo de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional pueda otorgar el permiso correspondiente;
 
-A las personas físicas o morales que cuenten con la acreditación y registro a que se refiere el párrafo anterior, deberán ser evaluadas anualmente en términos de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XXXVI. Acreditar, registrar y revalidar a las personas físicas y morales que cuenten con los conocimientos, capacidad técnica y práctica en materia de prevención de riesgos y desastres, gestión integral de riesgo y protección civil, en términos de la presente Ley y su reglamento;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XXXVII. Conceder, negar o revocar la acreditación y registro de personas físicas o morales, para ejercer la actividad de asesoría y capacitación, así como para emitir dictámenes de riesgo y vulnerabilidad en materia de prevención de riesgos y protección civil en términos de la presente Ley y su Reglamento;
 
 XXXVIII. Brindar asesoría para la conformación de las Unidades Internas de Protección Civil, los comités sectoriales de prevención de riesgos de desastres, así como los Comités de Seguridad y Emergencia Escolar, en las dependencias y entidades de la Administración Pública del Estado, así como en las instituciones y organismos de los sectores social y privado;
 
-XXXIX. Autorizar y supervisar los Programas Internos, de Seguridad y Emergencia Escolar así como los Especiales y los Planes Hospitalarios de Emergencias y Desastres, de prevención de riesgos y protección civil, en términos de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XXXIX. Autorizar, supervisar y revalidar, o en su caso reponer las constancias de los Programas Internos, de Seguridad y Emergencia Escolar, así como los Especiales y los Planes Hospitalarios de Emergencias y Desastres, de Prevención de Riesgos y Protección Civil, en términos de esta Ley y su Reglamento;
+
+En caso de incumplimiento u omisión de algunos de los lineamientos establecidos por los Sistemas Nacional, Estatal y Municipal se revocarán los documentos con validez oficial que se hayan autorizado de los programas en materia de prevención de riesgos de desastres y protección civil;
 
 XL. Atender la práctica de simulacros en los establecimientos públicos y privados, que permitan orientar y auxiliar a la población en caso de siniestro y de estado de emergencia;
 
@@ -679,25 +985,71 @@ XLIII. Practicar visitas de inspección a fin de vigilar el cumplimiento de las 
 
 XLIV. Emprender las medidas necesarias para evitar que cualquier acción u omisión de personas físicas o morales, públicas o privadas, pongan en peligro la vida, la propiedad y el medio ambiente de los habitantes del Estado, implementando las medidas de seguridad o sanciones que procedan; lo anterior sin perjuicio de lo que establezcan otras disposiciones legales aplicables;
 
-XLV. En el ámbito de su competencia y en coordinación con las dependencias y entidades responsables, participar en el ordenamiento territorial y de los asentamientos humanos, en los términos que lo dispone la presente Ley y su Reglamento, acatando en todo momento la reducción de los riesgos de desastre detectados en el respectivo Atlas de Riesgos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XLV. En el ámbito de su competencia y en coordinación con las dependencias y entidades responsables, integrar en el Atlas de Riesgos correspondiente, la cartografía e información del ordenamiento ecológico regional del territorio del Estado de Oaxaca;
 
 XLVI. Expedir certificados, opiniones, constancias y diplomas de conformidad con la presente Ley, su Reglamento y demás ordenamientos aplicables;
 
 XLVII. Promover los convenios con personas y organismos e instituciones públicas privadas y sociales en materia de prevención de riesgos y protección civil;
 
-XLVIII. Participar en la Comisión Intersectorial y su Comité Técnico de cambio climático, y el seguimiento a sus programas, planes y acuerdos, vinculado a la Ley Estatal de Cambio Climático; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XLIX. Las demás que señalen los ordenamientos aplicables o que le atribuyan el Gobernador del Estado o el Consejo Estatal dentro de la esfera de sus facultades.
+XLVIII. Participar en la Comisión Intersectorial y su Comité Técnico de cambio climático, y el seguimiento a sus programas, planes y acuerdos, vinculado a la Ley Estatal de Cambio Climático;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XLIX. Proponer la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de desastres;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+L. La Coordinación Estatal y las Coordinaciones Municipales supervisarán y participarán de forma coordinada en los eventos o espectáculos públicos, funciones y diversiones de tipo cultural, artístico, deportivo, recreativo y otros donde se lleve a cabo la afluencia o concentración masiva de personas con los organizadores, encargados, interesados, o quien haga las veces de éstos, con el objeto de asegurar se apliquen las medidas y recomendaciones en materia de prevención integral de riesgos y protección civil que se establecen en los programas especiales con la finalidad de prevenir la seguridad pública, la seguridad de los habitantes y la asistencia médica, para la prevención de desastres;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LI. Asesorar y validar los programas municipales;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LII. Hacer efectivas las multas por infracciones a las disposiciones contenidas en la presente Ley.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LIII. La Coordinación Estatal deberá rendir e integrar la Información relacionada con los avances de gestión e indicadores del programa presupuestario y remitirlo a la Secretaría de Finanzas para su integración a los informes y Cuenta Pública a que se refiere la Ley de Fiscalización Superior del Estado de Oaxaca, en los términos señalados por la Ley de Contabilidad Gubernamental y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LIV. Emitir oficios de trámite y vialidad de los programas internos de protección civil para los sectores públicos y privados en términos de esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LV.- Expedir nombramientos internos y honoríficos de los delegados regionales de protección civil en el Estado; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LVI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Artículo 35 bis. La Coordinación Estatal coordinará esfuerzos con la Secretaría de Seguridad Pública y los ayuntamientos de los municipios para la implementación de los cuerpos de bomberos municipales.
 
 ###### Artículo 36.
 
 Para el debido cumplimiento de sus atribuciones, la Coordinación Estatal operará en todo el Estado durante todas las horas y días del año.
 
-Las atribuciones y funciones específicas de la Coordinación Estatal derivadas de esta ley, se establecerán en su Reglamento.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Las atribuciones y funciones específicas del Coordinador Estatal derivadas de esta Ley, se establecerán en su Reglamento Interno.
+
+> <small>(REFORMADO [N. DE E. ESTA PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 37.
 
-La Coordinación Estatal de Protección Civil, brindará los servicios de asesoría, capacitación y demás en la materia de prevención de riesgos de desastres y protección civil, a las entidades y dependencias de la administración pública federal, estatal y municipal, sector social y personas en general de manera gratuita. Por lo que respecta al sector privado, deberán cubrir los costos por los servicios establecidos en la Ley Estatal de Derechos en vigor.
+La Coordinación Estatal, brindará los servicios de asesoría, capacitación y demás en materia de prevención de riesgos de desastres y protección civil, a las entidades y dependencias de la administración pública federal, estatal y municipal, sector social y personas en general de manera gratuita. Por lo que respecta al sector privado, deberán cubrir los costos por los servicios establecidos en la Ley Estatal de Derechos en vigor.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Coordinador Estatal expedirá los documentos con validez oficial que correspondan cuando se acrediten los conocimientos adquiridos en los temas impartidos por la Coordinación Estatal, los cuales tendrán una vigencia de un año, a partir de la fecha de su expedición.
 
 ### CAPÍTULO I. DE LOS INSTRUMENTOS, ATLAS DE RIESGOS ESTATAL Y MUNICIPALES Y PROGRAMAS DE PROTECCIÓN CIVIL
 
@@ -813,6 +1165,10 @@ b) Tesorero; y,
 
 c) El Contralor.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Para el cumplimiento del siguiente capítulo, la Coordinación Estatal deberá verificar la integración y debido funcionamiento de los Consejos Municipales de Protección Civil en la prevención y combate a los fenómenos perturbadores naturales o antropogénicos, estableciendo acciones de prevención y detección de riesgo, sobre todo en lugares de mayor afluencia civil como mercados y escuelas.
+
 VI. Adicionalmente, a invitación del Presidente, participarán con voz:
 
 a. Los representantes de las dependencias o entidades públicas federales y estatales asentadas en el municipio o en la región;
@@ -835,7 +1191,9 @@ III. Convocar, coordinar y armonizar, con pleno respeto la participación de los
 
 IV. Elaborar y aprobar el Atlas Municipal de Riesgos, en un plazo máximo de tres meses, de haber iniciado el periodo municipal constitucional, y actualizarlos anualmente en términos del Reglamento de la presente ley;
 
-V. Elaborar, aprobar, actualizar y evaluar el Programa Municipal de Protección Civil así como vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Elaborar y actualizar el Programa y su Plan Municipal de su jurisdicción;
 
 VI. Promover el estudio y la investigación en materia de protección civil, identificando los principales riesgos existentes en su demarcación, sus causas y tendencias, y proponer las medidas que permitan su reducción, así como la institucionalización de las mismas en los programas, planes, reglamentos, bandos municipales y acuerdos de cabildo correspondientes, esto sin descuidar la ampliación del conocimiento sobre los elementos básicos de la gestión integral de riesgos de desastre por parte del Sistema Municipal y el fortalecimiento de su estructura;
 
@@ -853,13 +1211,19 @@ XI. Las demás que le señalen esta Ley y los reglamentos respectivos.
 
 El Consejo Municipal se reunirá en sesiones ordinarias o extraordinarias a convocatoria de su Presidente, o en su caso, del Secretario Ejecutivo.
 
-Las sesiones ordinarias se deberán celebrar semestralmente, debiendo incluir en el orden del día los asuntos relevantes que se presenten y las propuestas para actualizar el Atlas Municipal de Riesgos, así como los informes de las direcciones de área y de otras instancias relevantes del Gobierno Municipal sobre los avances en el Plan Municipal y las estrategias preventivas en su municipio.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Las sesiones ordinarias se deberán celebrar semestralmente, debiendo incluir en el orden del día asuntos relevantes que se presenten y las propuestas para actualizar el Atlas Municipal de Riesgos, así como los informes de las direcciones de área y de otras instancias relevantes del Gobierno Municipal sobre los avances en el Programa Municipal y las estrategias preventivas en su municipio.
 
 La convocatoria para las sesiones ordinarias se hará del conocimiento de los integrantes del Consejo Municipal cuando menos cinco días hábiles antes de su celebración y las de carácter extraordinario podrán hacerse el mismo día.
 
 Las sesiones extraordinarias se realizarán cuando la situación lo requiera, a propuesta de cualquiera de sus miembros.
 
 En situación de emergencia el Consejo Municipal se constituirá en sesión permanente a fin de determinar las acciones que procedan para garantizar el auxilio a la población afectada de las comunidades respectivas y su adecuada recuperación.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Para la existencia del quórum legal y poder llevar a cabo las sesiones ordinarias se requerirán la presencia de una tercera parte de los integrantes del Consejo Municipal de Protección Civil y para las sesiones extraordinarias bastará con el número de Consejeros que asistan, máxime cuando el Consejo Municipal se encuentre constituido en sesión permanente.
 
 ###### Artículo 49.
 
@@ -873,9 +1237,13 @@ I. Convocar y presidir las sesiones;
 
 II. Coordinar el Sistema Municipal;
 
-III. Procurar que la Coordinación Municipal cuente con una estructura suficiente, que permita en la medida de lo posible el cumplimiento del objetivo del Sistema Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. Informar de inmediato a la Coordinación Estatal la situación que prevalezca en el Municipio, derivada de la ocurrencia de algún fenómeno perturbador en el momento en que ocurra;
+III. Procurar que la Coordinación Municipal cuente con una estructura suficiente, que permita en la medida de lo posible el cumplimiento del objetivo del Sistema Municipal;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. Informar de inmediato a la Coordinación Estatal la situación que prevalezca en el Municipio, derivada de la ocurrencia de algún fenómeno perturbador natural o antropogénico en el momento que ocurra;
 
 V. Solicitar el apoyo del Gobierno Estatal cuando la capacidad de respuesta del municipio sea rebasada;
 
@@ -885,7 +1253,9 @@ VII. Atender de manera pronta y expedita las solicitudes y requerimientos que le
 
 VIII. Enviar a la Coordinación Estatal informe sobre la vigilancia respecto al grado de cumplimiento de los programas internos así como de las verificaciones o inspecciones, medidas de seguridad y sanciones que se hayan realizado y aplicado por parte de su Coordinación Municipal de Protección Civil, respecto de los inmuebles mencionados en el artículo 68 de la presente Ley, en términos del reglamento de la misma;
 
-IX. Las demás funciones que se deriven de esta Ley, su Reglamento, y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IX. Las demás atribuciones que se deriven de esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 51.
 
@@ -919,7 +1289,9 @@ XII. Las demás que le atribuyan la Ley y los reglamentos respectivos.
 
 Corresponde al Secretario Técnico del Consejo Municipal:
 
-I. Someter a consideración del Consejo las actas de las sesiones;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Someter a consideración del Consejo Municipal las actas de las sesiones;
 
 II. Desarrollar y actualizar el Atlas Municipal de Riesgos;
 
@@ -939,11 +1311,17 @@ Cada Municipio establecerá una Coordinación de Protección Civil, la cual tend
 
 Los integrantes de la Coordinación Municipal se obligarán a realizar estrategias preventivas, incluyendo proyectos y/o actividades de reducción de vulnerabilidad ante los peligros, en beneficio de la población del Municipio al inicio de sus funciones, los cuales estarán obligados a concluir y operar en el tiempo que conlleve su desarrollo incentivando la continuidad de éstos en administraciones subsecuentes.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Es responsabilidad de cada Consejo Municipal coordinar en una primera instancia, las acciones para la atención de los riesgos y/o emergencias en su demarcación, siempre y cuando no se afecten servicios estratégicos del Estado, ni se prevea un encadenamiento de calamidades que pueda afectar a otro Municipio o Entidad Federativa, en cuyo caso, la coordinación será establecida por la Coordinación Estatal sin menoscabo de la responsabilidad de aquél.
+
 ## TÍTULO TERCERO
 
 DE LOS INSTRUMENTOS, ATLAS DE RIESGOS ESTATAL Y MUNICIPALES, PROGRAMAS Y CULTURA DE PROTECCIÓN CIVIL Y PREVENCIÓN DE RIESGOS DE DESASTRES.
 
 ### Capítulo II. Cultura de Protección Civil y Prevención de Riesgos de Desastres
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 55.
 
@@ -951,41 +1329,61 @@ Se consideran instrumentos de Gestión Integral de Riesgos y de protección civi
 
 I. Los Atlas de Riesgos del Estado y de los Municipios los cuales son de creación y uso obligatorio;
 
-II. Los procedimientos operativos ante fenómenos destructivos o de riesgo de diverso origen, en términos de los Programas Nacional y Estatal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Los procedimientos operativos ante fenómenos destructivos o de riesgo de diverso origen, en términos de los Programas Nacional, Estatal y Municipal;
 
 III. Las normas técnicas complementarias y términos de referencia;
 
 IV. Las estrategias de transversalización de la prevención y los manuales de procedimientos para las instituciones públicas y privadas, sociales y académicas que se deriven de las comisiones del Consejo Estatal;
 
-V. Los planes y programas de capacitación, difusión y divulgación hacia los habitantes del Estado; y,
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VI. Las publicaciones, grabaciones y todo material impreso, audiovisual que coadyuve a las acciones de la protección civil y, en general, todo aquello que contribuya a la difusión y la divulgación de la cultura preventiva.
+V. Los planes de atención de emergencia y programas de capacitación, difusión y divulgación hacia los habitantes del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Las publicaciones, grabaciones y todo material impreso, audiovisual que coadyuve a las acciones de la protección civil y, en general, todo aquello que contribuya a la difusión y la divulgación de la cultura preventiva, y;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Los Programas Municipales en cada uno de los Municipios.
 
 ###### Artículo 56.
 
 Los Atlas de Riesgos Estatal y Municipales son instrumentos de consulta técnica obligatoria que permiten evitar o reducir la construcción social del riesgo en los procesos de planeación y desarrollo urbano, tanto para las autoridades municipales y agrarias favoreciendo la sustentabilidad y sostenibilidad de la población y del medio ambiente.
 
-Para el señalamiento y delimitación de las áreas necesarias para el asentamiento humano, así como la localización y relocalización del área de urbanización, las autoridades agrarias acudirán con las autoridades municipales de su jurisdicción, o en su defecto, con la Coordinación Estatal de Protección Civil para consultar dicha herramienta.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Para el señalamiento y delimitación de las áreas necesarias para el asentamiento humano, así como la localización y relocalización del área de urbanización, las autoridades municipales de su jurisdicción, o en su defecto, con la Coordinación Estatal para consultar dicha herramienta.
 
 ###### Artículo 57.
 
 Los Atlas de Riesgo Estatal y Municipales estarán conformados de modo tal que, su uso y manejo incentiven la gestión integral del riesgo en sus etapas de Análisis y reducción de riesgos, manejo de eventos adversos y recuperación de la población ante la ocurrencia de riesgos, integrándose en la plataforma de información de Gestión Integral de Riesgos de Oaxaca (GIRO), como sustento para la implementación de medidas de prevención y mitigación;
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-El contexto técnico de Atlas de Riesgo permite a este ser una herramienta de apoyo para el fortalecimiento de la prevención enfocada a la mitigación de las vulnerabilidades de los sistemas afectables. El cumplimiento cabal del alcance de estos objetivos en dicho documento son atribuciones propias de supervisión, revisión y validación de la Coordinación Estatal de Protección Civil.
+El contexto técnico de Atlas de Riesgo permite a éste ser una herramienta de apoyo para el fortalecimiento de la prevención enfocada a la mitigación de las vulnerabilidades de los sistemas afectables. El cumplimiento cabal del alcance de estos objetivos en dicho documento son atribuciones propias de supervisión, revisión y validación de la Coordinación Estatal.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 59.
 
-Para garantizar que los Atlas de Riesgos Estatal y Municipales cumplan con los alcances mencionados en su definición, estos documentos deberán cumplir en su totalidad con los alcances técnicos, procedimientos de cálculo del riesgo, establecidos en los lineamientos emitidos por el Centro Nacional de Prevención de Desastres, del Sistema Nacional de Protección Civil.
+Para garantizar que los Atlas de Riesgos Estatales y Municipales cumplan con los alcances mencionados en su definición, estos documentos deberán cumplir con su totalidad con los alcances técnicos, procedimientos de cálculo del riesgo, establecidos en los lineamientos emitidos por el CENAPRED.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 60.
 
-La Coordinación Estatal de Protección Civil establecerá los mecanismos de coordinación con las dependencias respectivas que permitan establecer los procedimientos de seguimiento, revisión, validación y autorización corresponsable de los Atlas de Riesgos Municipales, mecanismos que están definidos en el reglamento de esta ley.
+La Coordinación Estatal establecerá los mecanismos de coordinación con las dependencias respectivas que permitan establecer los procedimientos de seguimiento, revisión, validación y autorización corresponsable de los Atlas de Riesgos Municipales, mecanismos que están definidos en el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 61.
 
-Los mecanismos de coordinación que se establecen en el Reglamento de esta Ley entre la Coordinación Estatal de Protección Civil y las dependencias respectivas para la elaboración de los Atlas de Riesgos Estatal y Municipales, permitirán avalar la homogenización de los sistemas geográficos de referenciación de la información que ellos se apliquen, que permita que estos documentos contribuyan a la alimentación y actualización de información del Atlas Nacional de Riesgos del país y a la plataforma de información de Gestión Integral de Riesgos de Oaxaca (GIRO).
+Los mecanismos de coordinación que se establecen en el Reglamento de esta Ley entre la Coordinación Estatal y las dependencias respectivas para la elaboración de los Atlas de Riesgos Estatal y Municipales, permitirán avalar la homogenización de los sistemas geográficos de referenciación de la información que ellos se apliquen, que permita que estos documentos contribuyan a la alimentación y actualización de información del Atlas de Riesgos del país y a la plataforma de información de Gestión Integral de Riesgos de Oaxaca (GIRO).
 
 ###### Artículo 62.
 
@@ -1009,21 +1407,39 @@ Los instrumentos citados en el párrafo anterior servirán de base para elaborar
 
 Los objetivos, políticas, líneas de acción, metas y demás aspectos que deban contener los Programas Estatal y Municipales serán establecidos en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 67.
 
-Los Programas Estatal y Municipales estarán vinculados al Sistema Nacional de Protección Civil, a la Ley General de Protección Civil, su Reglamento y demás disposiciones jurídicas publicadas.
+Los programas Estatal y Municipales se integrarán por el conjunto de políticas, estrategias y lineamientos que regulen las acciones del sector público, privado y social en materia de prevención integral de riesgos y protección civil aplicables a nivel Estatal y Municipal, los cuales estarán vinculados al Sistema Nacional, a la Ley General, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Plan Municipal es un componente del Programa Municipal, el cual deberá ser elaborado y ejecutado por los Integrantes del Sistema Municipal, en el cual se establezcan metas y objetivos específicos para la prevención de riesgos de desastres.
 
 ###### Artículo 68.
 
 Las dependencias y entidades del sector público federal ubicadas dentro del territorio del Estado, así como las del sector público estatal y municipal, los propietarios, administradores, arrendatarios, poseedores o quien haga las funciones de éstos; de inmuebles pertenecientes a los sectores industrial, de servicios y sociales, que de acuerdo a la naturaleza de su giro y actividad que realizan sean considerados de riesgo; aquellas que manejen o almacenen sustancias peligrosas y, en general, de todos los inmuebles que por su uso y destino concentren o reciban afluencia masiva de personas, están obligados a contar con una Unidad Interna y a elaborar un Programa Interno o especial, según corresponda.
 
-Dichos programas serán autorizados y supervisados por las Coordinaciones Estatal y municipales de su jurisdicción, así como revalidado anualmente ante la Coordinación Estatal en los términos de esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Programa Estatal será autorizado por la Coordinación Estatal, así como los Programas Municipales a su vez serán autorizados por las Coordinaciones Municipales, ambos programas serán supervisados para su cumplimiento por la Coordinación Estatal en los términos de esta Ley y su Reglamento.
 
 Para que las Coordinaciones Municipales puedan aprobar los programas internos y especiales, deberán contar con la autorización de la Coordinación Estatal en los términos que se establezcan en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Las Unidades Internas y Comités de Seguridad y Emergencia Escolar deberán de conformarse de acuerdo a los lineamientos establecidos por el Sistema Nacional de Protección Civil y con el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Los Programas Estatales y Municipales contendrán la observancia de las fases que se implementan en la Gestión Integral de Riesgos ante la ocurrencia de un fenómeno perturbador natural o antropogénico.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 69.
 
-Las instituciones educativas públicas y privadas de todos los niveles deberán contar con un Comité de Seguridad y Emergencia Escolar y elaborar un Programa Interno de Seguridad y Emergencia Escolar que será autorizado y supervisado por la Coordinación Estatal, así como revalidado anualmente, en los términos de esta Ley y su Reglamento.
+Las instituciones educativas públicas y privadas de todos los niveles deberán contar con un Comité Escolar y elaborar un Plan Escolar de Gestión de Desastres, que será autorizado y supervisado por la Coordinación Estatal, así como revalidarlo anualmente, en los términos de esta Ley y su Reglamento.
 
 ###### Artículo 70.
 
@@ -1031,9 +1447,15 @@ Todos los inmuebles que se mencionan en los dos artículos anteriores deberán c
 
 Toda omisión a las disposiciones señaladas en el párrafo anterior, ocasionará la aplicación de las sanciones previstas en esta Ley y los reglamentos respectivos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 71.
 
-Los Hospitales, clínicas y sanatorios, deberán contar con un Comité Hospitalario para Prevención de Riesgos y Atención a Emergencias y Desastres, quien será el órgano encargado de elaborar el Plan de Hospitales Seguros, autorizado, y supervisado, por la Coordinación Estatal de Protección Civil en términos del Reglamento de ésta Ley.
+Los hospitales, clínicas y sanatorios deberán contar con un Comité Hospitalario, quien será el órgano encargado de elaborar el Plan de Hospitales Seguros, autorizado y supervisado por la Coordinación Estatal en términos del Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Los Comités Hospitalarios, para la elaboración de su programa interno, deberán tomar en consideración los lineamientos establecidos en el Programa Hospital Seguro, así como lo que se establezca en esta Ley y su Reglamento.
 
 ###### Artículo 72.
 
@@ -1041,13 +1463,25 @@ Los programas especiales se establecerán para atender de manera particular un e
 
 De manera previa a la autorización de licencia para eventos o espectáculos públicos, funciones y diversiones de tipo cultural, artístico, deportivo, recreativo y otros donde se lleve a cabo la afluencia o concentración masiva de personas, los organizadores, encargados, interesados, o quien haga las veces de éstos, deberán contar con un Programa Especial que se presentará para su aprobación ante la Coordinación Estatal o la Coordinación Municipal correspondiente, en términos de la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 72 Bis.
+
+Los organizadores de proselitismo político, de espectáculos de afluencia masiva, así como de carreras y arrancones con vehículos de motor, para su autorización están obligados a contar con programas especiales de protección civil, los cuales presentarán para su evaluación y autorización, ante las Coordinaciones Estatal y Municipales que corresponda, por lo menos con treinta días antes del inicio del espectáculo, para garantizar la seguridad de las personas asistentes.
+
+A fin de garantizar la seguridad e integridad de las personas, se prohíbe la realización de las carreras y arrancones con vehículos de motor en vías públicas, para lo cual las Coordinaciones Estatal y Municipales, llevarán a cabo las medidas necesarias con el objeto de clausurar el desarrollo de dichos eventos, y en caso de una probable comisión de delitos presentará la denuncia que haya lugar ante las autoridades correspondientes.
+
+Con excepción de aquellos que se lleven a cabo en los autódromos y lugares legalmente establecidos para tal fin y que no representen riesgo alguno a la población, para lo cual los organizadores de estos cumplirán con las condiciones, requisitos y medidas de seguridad que para tal efecto establezcan las disposiciones legales aplicables.
+
 ###### Artículo 73.
 
 Las políticas, bases y lineamientos específicos para la elaboración de los Programas Internos y Especiales estarán determinados por la Coordinación Estatal en términos de esta Ley, su Reglamento y demás normas aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 74.
 
-Las autoridades competentes deberán solicitar a la Coordinación Estatal el Dictamen de Riesgos y Vulnerabilidad antes del otorgamiento de licencia de construcción para los inmuebles referidos en los artículos 68, 69 y 71 de esta Ley.
+Las autoridades competentes deberán solicitar al interesado, el reporte de Análisis de riesgos emitido por la Coordinación Estatal y la autorización en materia de impacto ambiental emitido por la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, antes del otorgamiento de la licencia de construcción para los inmuebles referidos en los artículos 68, 69 y 71 de ésta Ley.
 
 ###### Artículo 75.
 
@@ -1063,6 +1497,10 @@ Los Programas Internos, de Seguridad y Emergencia Escolar y Especiales, que se m
 
 El contenido y las especificaciones de los Programas Internos y Especiales de Protección Civil serán establecidos en el reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Para la autorización de dichos programas es necesario acreditar con documentación vigente las condiciones estructurales y no estructurales de los inmuebles, así como la relacionada a las instalaciones eléctricas y de gas, validadas por un Director Responsable de Obra o por una Unidad Verificadora, según sea el caso, quienes deberán contar con su registro, certificación o acreditación ante las instancias correspondientes del Estado de Oaxaca, vigente al año en que se solicite la autorización o revalidación del programa respectivo.
+
 ###### Artículo 78.
 
 Para que los particulares puedan ejercer la actividad de asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil, deberán estar autorizados así como contar con el registro expedido por la Coordinación Estatal, previo pago de los derechos correspondientes establecidos en la Ley Estatal de Derechos.
@@ -1077,7 +1515,7 @@ En el Reglamento de la presente ley se establecerá el trámite y requisitos par
 
 ###### Artículo 79.
 
-Un objetivo prioritario del Sistema Estatal es fomentar una cultura preventiva, que convoque y sume el interés de la población así como la participación activa individual y colectiva, con un enfoque de equidad de género e intercultural.
+Un objetivo prioritario del Sistema Estatal es fomentar una cultura preventiva y protección civil, que convoque y sume el interés de la población, así como la participación activa individual y colectiva, con un enfoque de equidad de género e intercultural.
 
 ###### Artículo 80.
 
@@ -1107,9 +1545,11 @@ La profesionalización y acreditación de los integrantes de las Coordinaciones 
 
 El ingreso, formación, permanencia, promoción, evaluación y todos aquellos aspectos que se consideren pertinentes para la profesionalización de los servidores públicos se establecerán en el Reglamento de la presente Ley, aplicándose en forma supletoria la Ley del Servicio Profesional de Carrera en la Administración Pública Federal vigente, en lo que no contravenga a la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 82.
 
-Aquellos servidores públicos que desempeñen actividades de prevención de riesgos de desastres, investigación, evaluación, asesoría, capacitación, revisión, supervisión y atención de emergencias en la Coordinación Estatal o Municipal de Protección Civil, deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil (ENAPROC).
+Aquellos servidores que desempeñen actividades de prevención de riesgos de desastres, investigación, evaluación, asesoría, capacitación, revisión, supervisión y atención de emergencias en la Coordinación Estatal y Municipal, deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil (ENAPROC).
 
 ###### Artículo 83.
 
@@ -1121,9 +1561,11 @@ El titular de la Coordinación Municipal deberá contar por lo menos con una for
 
 No obstante, en aquellos municipios que dada su condición económica, política, geográfica, social y cultural, no reúnan dichos requisitos, la persona que sea designada para ser titular de la coordinación municipal de protección civil, deberá ser debidamente capacitada en la Coordinación Estatal, en términos de esta ley y su Reglamento, para poder desempeñar el cargo conferido.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 85.
 
-Los servidores públicos estatales y municipales de protección civil tienen prohibido brindar asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil, de forma particular mientras se encuentre en el ejercicio de sus funciones. La contravención a ésta disposición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+Los servidores públicos estatales y municipales de protección civil tienen prohibido brindar asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil de forma particular mientras se encuentren en el ejercicio de sus funciones. La contravención a esta disposición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la Ley del Servicio Civil para los Empleados de Gobierno del Estado.
 
 ###### Artículo 86.
 
@@ -1137,9 +1579,27 @@ I. Capacitación en materia de protección civil o relacionada con la gestión i
 
 II. Investigación e identificación sobre vulnerabilidades y riesgos;
 
-III. Asesoría en la elaboración de planes municipales de prevención de riesgos y programas internos y especiales de protección civil; y,
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Asesoría en la elaboración de los Programas Municipales y programas internos y especiales de protección civil, y;
 
 IV. Asesoría para la elaboración de Atlas de Riesgos Municipales.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Toda persona física o moral obligatoriamente está sujeta a:
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Informar a las autoridades competentes de cualquier alto riesgo, siniestro o de la ocurrencia de un desastre;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Colaborar con la Coordinación Estatal o la Coordinación Municipal para el debido cumplimiento de los programas de protección civil y sus líneas de acción;
 
 ### CAPÍTULO II. DEL FONDO ESTATAL DE PREVENCIÓN DE RIESGOS Y PROTECCIÓN CIVIL
 
@@ -1207,6 +1667,8 @@ Todas las organizaciones civiles, cualquiera que fuere su denominación, pueden 
 
 ### Capítulo III. De las Donaciones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 97.
 
 Cuando uno o varios municipios se encuentren ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno natural perturbador, y ha sido superada la capacidad operativa y financiera del Estado para atender por sí solo la contingencia, el gobierno del Estado solicitará el apoyo del gobierno federal para acceder a los recursos de los Instrumentos Financieros de Gestión de Riesgos, para prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo, en los términos que marca la Ley General, esta Ley y su Reglamento.
@@ -1215,9 +1677,11 @@ Cuando uno o varios municipios se encuentren ante la inminencia, alta probabilid
 
 El titular de la Coordinación Estatal deberá realizar los procedimientos necesarios con la prontitud debida, a efecto de que el gobierno del Estado, pueda solicitar al gobierno federal la Declaratoria de Emergencia o Desastre, según corresponda, en los términos de la Ley General, la presente Ley y su Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 99.
 
-La responsabilidad de informar a la Coordinación Estatal de forma inmediata sobre la ocurrencia y efectos de un fenómeno perturbador, recae directamente en las autoridades municipales a través del Presidente del Consejo Municipal o del Director de la Coordinación Municipal correspondiente.
+La responsabilidad de informar a la Coordinación Estatal de forma inmediata sobre la ocurrencia y efectos de un fenómeno perturbador, recae directamente en las autoridades municipales a través del Presidente del Consejo Municipal o del Coordinador Municipal de Protección Civil.
 
 Lo anterior, sin perjuicio de la responsabilidad que tiene la Coordinación Estatal de dar seguimiento a los fenómenos perturbadores que llegara a identificar.
 
@@ -1249,9 +1713,11 @@ Los ingresos que perciba la Coordinación Estatal por concepto de derechos, ser�
 
 ### CAPÍTULO I. DE LAS INSPECCIONES
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 104.
 
-Las autoridades de protección civil establecerán las bases y lineamientos con apego a lo establecido en la Ley General y la Ley de Cambio Climático para el Estado de Oaxaca, para emitir las convocatorias, recepción, administración, control y distribución de donativos y donaciones que se aporten con fines altruistas para la prevención de riesgos, atención de emergencias o desastres, dirigidos a la población más vulnerable.
+Las autoridades de protección civil establecerán las bases y lineamientos con apego a lo establecido en la Ley General, esta Ley y la Ley de Cambio Climático para el Estado de Oaxaca, para emitir las convocatorias, recepción, administración, control y distribución de donativos y donaciones que aporten con fines altruistas para la prevención de riesgos, atención de emergencias o desastres, dirigidos a la población más vulnerable.
 
 Los donativos y donaciones a los que se refiere el párrafo anterior se sujetarán al tratamiento fiscal en materia de aportaciones previsto en el Código Financiero, en las disposiciones de política exterior tratándose de aportaciones de origen internacional y en las demás disposiciones normativas aplicables.
 
@@ -1267,13 +1733,17 @@ La determinación de zonas de riesgo tiene por objeto delimitar geográficamente
 
 El Gobierno del Estado deberá identificar, concentrar, sistematizar y difundir la información de riesgos que se disponga a nivel federal, estatal, municipal y comunitario que permita promover el desarrollo de los Atlas Estatal y Municipales de Riesgos con un enfoque de cambio climático, que posibilite a las autoridades competentes regular el ordenamiento territorial, la edificación y los asentamientos.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 107.
 
-Se considerará como una falta grave la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas Municipales y Estatal y no cuenten con la autorización de la autoridad correspondiente, por lo que tales conductas serán sancionadas de conformidad con el Código Penal del Estado Libre y Soberano de Oaxaca.
+Se considerará como una falta grave el permiso que otorguen las autoridades municipales o agrarias para la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas Municipales y Estatal y no cuenten con la autorización de la autoridad correspondiente. Lo anterior con independencia de las sanciones penales que la normatividad aplicable establezca.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 108.
 
-En el Atlas Estatal de Riesgos deberán establecerse los diferentes niveles de peligro, vulnerabilidad y riesgo para todos los fenómenos que influyan en las distintas zonas, vinculados con la Ley de Cambio Climático para el Estado de Oaxaca. Dichos instrumentos deberán ser tomados en consideración por las autoridades competentes para la autorización o no de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
+En el Atlas Estatal de Riesgos deberán establecerse los diferentes niveles de peligro, vulnerabilidad y riesgo para todos los fenómenos que influyan en las distintas zonas, vinculados con la Ley de cambio climático para el Estado de Oaxaca. Dichos instrumentos así como el Dictamen de riesgo y vulnerabilidad emitido por la Coordinación Estatal y la autorización en materia de impacto ambiental emitido por la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, deberán ser tomados en consideración por las autoridades competentes para la autorización u otorgamiento de la Licencia de Construcción de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
 
 ###### Artículo 109.
 
@@ -1283,21 +1753,55 @@ En el caso de asentamientos humanos ya establecidos en Zonas de Riesgo, las auto
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 110.
 
-La Coordinación Estatal y las Coordinaciones Municipales correspondientes, indistintamente deberán realizar visitas de inspección para verificar el cumplimiento de las disposiciones de esta Ley, con estricto apego a lo establecido en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y a lo establecido en el Capítulo XI de la Ley de Justicia Administrativa para el Estado de Oaxaca, así como al Reglamento de la presente Ley.
+La Coordinación Estatal y las Coordinaciones Municipales correspondientes, deberán ordenar las inspecciones necesarias en los establecimientos de comercio, empresas y a los inmuebles que se encuentren en mal estado o aquellos que tengan afluencia de personas de forma masiva, con el objeto de evaluar los riesgos y evitar desastre o siniestro que tenga como resultado lesiones o muerte de las personas usuarias.
 
 ###### Artículo 111.
 
 Los términos fijados en esta Ley, salvo los expresamente previstos, se computarán por días hábiles, estando habilitadas cualquier hora del día y de la noche para efectuar las diligencias que la misma prevé.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 112.
 
-La Coordinación Estatal y las Coordinaciones Municipales que correspondan, en el ejercicio de sus funciones de vigilancia e inspección, aplicarán las sanciones que correspondan en términos de la presente Ley, sin perjuicio de las facultades que confieran a otras dependencias o entidades los ordenamientos federales, locales y municipales.
+La Coordinación Estatal y las Coordinaciones Municipales que correspondan en el ejercicio de sus funciones de vigilancia e inspección, aplicarán las sanciones que correspondan en términos de la presente Ley, sin perjuicio de las facultades que confieran a otras dependencias o entidades los ordenamientos federales, locales y municipales, previo procedimiento de inspección.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Las coordinaciones deberán de contar con inspectores quienes deberán evaluar los riesgos, previa orden que les expida por escrito la coordinación que le corresponda, en las que se precisarán el lugar o la zona, la fecha y hora en que ha de realizarse la inspección, el objeto de la visita, el alcance que debe tener con los límites establecidos constitucionalmente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+La orden expedida por la coordinación competente deberá ser notificada en los términos establecidos por el Código de Procedimientos Civiles para el Estado de Oaxaca.
 
 ###### Artículo 113.
 
 En caso de que el visitado por razón de su actividad sea regulado por otras leyes o disposiciones legales, la autoridad de protección civil que realice la inspección deberá hacer del conocimiento de la autoridad competente, las irregularidades o violaciones que considere que ha cometido el visitado para que esta autoridad proceda conforme al ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 113 Bis.
+
+Los inspectores durante el ejercicio de sus funciones y en los términos señalados en la orden de inspección, tendrán libre acceso a los edificios, establecimientos comerciales, industriales y de servicios, transportes y, en general, a todos los lugares en que sea necesario practicar visitas.
+
+Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes sujetos a verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor, previo informe de los inspectores de los motivos de la visita.
+
+Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo tratándose de caso fortuito.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 113 Ter.
+
+Cuando exista una situación de peligro que ponga en riesgo a las personas, a los servicios estratégicos o a los bienes de interés general, no será necesario notificar al interesado, debiendo presentar únicamente la orden de inspección por escrito para practicar una inspección.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 113 Quater.
+
+Si del acta de inspección se desprende la necesidad de volver a realizar otra visita, el inspector regresará al establecimiento con el objeto de vigilar el cumplimiento de las observaciones asentadas en el acta anterior correspondiente y en su caso informar a efecto de determinar las sanciones que correspondan.
 
 ### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
@@ -1305,13 +1809,17 @@ En caso de que el visitado por razón de su actividad sea regulado por otras ley
 
 La Coordinación Estatal o las Coordinaciones Municipal de Protección Civil que correspondan, con base en los resultados de la visita de inspección, podrá dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 115.
 
-En caso de riesgo inminente, la Coordinación Estatal o las Coordinaciones Municipales que correspondan ejecutarán las medidas de seguridad que sean necesarias a fin de proteger la vida de la población, sus bienes, la planta productiva y el medio ambiente, y garantizar el funcionamiento de los servicios estratégicos de la comunidad.
+En caso de riesgo latente o inminente, la Coordinación Estatal o las Coordinaciones Municipales que correspondan ejecutarán las acciones y medidas de seguridad que sean necesarias a fin de proteger la vida de la población, sus bienes, la planta productiva y el medio ambiente, y garantizar el funcionamiento de los servicios estratégicos de la comunidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 116.
 
-En los casos previstos en el artículo anterior, la Coordinación Estatal o las Coordinaciones Municipales podrán aplicar en coordinación con las instancias correspondientes, las siguientes medidas de seguridad:
+En los casos previstos en el artículo anterior, la Coordinación Estatal o las Coordinaciones Municipales, podrán aplicar, una o más, según sea el caso, de las siguientes medidas de seguridad;
 
 I. Identificación del tipo de riesgo, los peligros y vulnerabilidades que lo componen, así como las posibles medidas reductoras para manejarlo;
 
@@ -1329,11 +1837,23 @@ VII. La suspensión temporal, parcial o total de trabajos, actividades y servici
 
 VIII. La evacuación, concentración o dispersión de la población;
 
-IX. El aseguramiento de objetos, productos, substancias y los diversos tipos de agentes que pudieran provocar desastres, en el caso que su poseedor o detentador no cuente con la autorización correspondiente para su uso, explotación, almacenamiento o transportación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IX. El aseguramiento de los objetos, productos, substancias y los diversos tipos de agentes que pudieran provocar desastres, en el caso que su poseedor o detentador no cuente con la autorización correspondiente para su uso, explotación, almacenamiento o transportación;
 
 Dichos objetos, productos, substancias y los diversos tipos de agentes que pudieran provocar desastres quedarán a disposición de las autoridades competentes en el lugar idóneo para su resguardo; y,
 
-X. Las demás acciones que se consideren necesarias para aplicar la prevención y protección civil.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+X. La existencia de equipos de seguridad, luces de emergencia, salidas de emergencia, y equipo de seguridad personal, y;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XI. Las demás acciones que se consideren necesarias para aplicar la prevención y la protección civil.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Lo anterior sin perjuicio de que no se haya podido llevar a cabo la diligencia de inspección por causas imputables al dueño, representante, encargado, etc., del inmueble donde se haya detectado algún riesgo que ponga en peligro la vida de las personas, sus bienes, el entorno ecológico, la planta productiva y el sistema estratégico del Estado.
 
 ###### Artículo 117.
 
@@ -1345,7 +1865,7 @@ DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA.
 
 ###### Artículo 118.
 
-Las personas físicas o morales así como las autoridades municipales que no cumplan las disposiciones de esta Ley y su Reglamento y demás normas complementarias, se harán acreedoras a las sanciones previstas en este capítulo.
+Las personas física o moral así como las autoridades de la Administración Pública Estatal y Municipal que no cumplan las disposiciones de esta Ley y su reglamento y demás normas complementarias, se harán acreedoras a las sanciones previstas en este capítulo.
 
 ###### Artículo 119.
 
@@ -1353,7 +1873,9 @@ Las sanciones administrativas podrán consistir en:
 
 I. Amonestación con apercibimiento;
 
-II. Multa;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Multa de 25 a 50 veces el valor de la unidad de medida y actualización vigente.
 
 III. Multa adicional por cada día que persista la infracción;
 
@@ -1369,7 +1891,9 @@ Sin perjuicio de lo establecido por el artículo 22 de la Constitución Polític
 
 La Coordinación Estatal o la Coordinación Municipal que corresponda aplicará las sanciones establecidas en este capítulo, considerando:
 
-I. Los daños que se hubieren producido o puedan producirse;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Los daños que se hubieren producido o puedan producirse a la vida humana, sus bienes y su entorno;
 
 II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
 
@@ -1434,6 +1958,12 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 ###### Artículo 130.
 
 Lo relativo a este Título se estará a lo previsto por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 131.
+
+Las dependencias y entidades de la Administración Pública Estatal que falten a las sesiones del Consejo Estatal de Protección Civil y sean notificadas por el Secretario Técnico al Consejo Estatal, se ajustarán a las sanciones previstas en esta Ley y su reglamento a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 TRANSITORIOS:
 
@@ -1516,3 +2046,19 @@ El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las o
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
 
 CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 727.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas.
+
+TERCERO. La junta directiva de la Coordinación Estatal, deberá Instalarse dentro del término de treinta días naturales a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. El reglamento de la presente Ley deberá publicarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. Se hará del conocimiento a través del Consejo Estatal a las dependencias y entidades de la Administración Pública Estatal el contenido del artículo 131 de la presente Ley, a efecto de que lo tengan en cuenta al aprobar los programas institucionales.
+
+SEXTO. El personal que presta sus servicios a la Coordinación Estatal, se regirá por la Ley del Servicio Civil para los Empleados del Gobierno del Estado y se respetarán sus derechos laborales adquiridos con anterioridad a la presente reforma.
