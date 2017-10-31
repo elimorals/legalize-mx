@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2017-07-01"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -125,7 +125,7 @@ El Fiscal General intervendrá por sí o por conducto de los Fiscales o agentes 
 
 ###### Artículo 4º.
 
-La Fiscalia General del Estado está a cargo de un Fiscal General, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los siguientes órganos que tendrán las facultades y atribuciones establecidas en el reglamento de la presente ley:
+La Fiscalía General del Estado está a cargo de un Fiscal General, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los siguientes órganos que tendrán las facultades y atribuciones establecidas en el reglamento de la presente ley:
 
 I. La Fiscalía General del Estado;
 
@@ -155,13 +155,17 @@ VII. La Fiscalía de Derechos Humanos;
 
 VIII. La Fiscalía de Reinserción Social;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IX. Las agencias del Ministerio Público; y
+IX. La Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-X. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
+X. Las agencias del Ministerio Público; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XI. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -703,9 +707,111 @@ XV. Las demás que le confieran las leyes y reglamentos.
 
 Los funcionarios públicos que determine el reglamento de esta ley podrán emitir o suscribir instrumentos jurídicos, de acuerdo con sus atribuciones, que faciliten el funcionamiento y operación de la Fiscalía General del Estado, siempre que no se trate de las facultades indelegables del Fiscal General.
 
-### CAPÍTULO IV. ORGANISMOS AUXILIARES DE LA FISCALÍA GENERAL DEL ESTADO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO V. DE LOS AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO IV. DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 22-A.
+
+La Fiscalía Especializada en Combate a la Corrupción del Estado de Jalisco de conformidad con los artículos 53 y 107 Ter de la Constitución Política del Estado de Jalisco será la responsable de investigar y perseguir las conductas que el Código Penal del Estado y demás ordenamientos especiales tipifican como delitos relacionados con hechos de corrupción.
+
+La Fiscalía Especializada funcionará con autonomía técnica, de gestión, administrativa, operativa y presupuestal de la Fiscalía General del Estado, por tanto no existirá jerarquía ni preeminencia de una respecto de la otra; y contará con las agencias del ministerio público, áreas y unidades administrativas especializadas que señale su Reglamento Interno, así como con los recursos humanos, financieros y materiales que requiera para su efectiva operación, de acuerdo a su disponibilidad presupuestal.
+
+La Fiscalía Especializada se regirá conforme a su propio Reglamento Interno respecto a su organización interior y funcionamiento, mismo que será emitido por el Fiscal Especial y remitido al Titular del Poder Ejecutivo para su sanción y publicación en el Periódico Oficial.
+
+El anteproyecto de presupuesto de egresos de la Fiscalía General deberá adjuntar el anteproyecto de presupuesto de la Fiscalía Especializada, formulado por el Titular de esta última, para su inclusión en la iniciativa de Presupuesto de Egresos del Estado.
+
+Cuando se presente una denuncia por la comisión de un delito en materia de hechos de corrupción, en contra del Fiscal General, el Fiscal Especial en Combate a la Corrupción será el competente para conocer el asunto, integrar la investigación correspondiente y resolver lo conducente.
+
+Cuando se presente una denuncia contra el titular o algún servidor público o elemento operativo de la Fiscalía Especializada en Combate a la Corrupción por la comisión de un delito en materia de hechos de corrupción, la Fiscalía Central será la competente para conocer el asunto, integrar la investigación correspondiente y resolver lo conducente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 22-B.
+
+Para ser Fiscal Especial en Combate a la Corrupción se requiere cumplir con los mismos requisitos que establece la Constitución Política del Estado para los Magistrados del Supremo Tribunal de Justicia del Estado.
+
+El Fiscal Especial en Combate a la Corrupción durará en su cargo siete años, sin posibilidad de reelección; y sólo podrá ser removido del cargo por el Congreso del Estado, a petición del Poder Ejecutivo, por causa grave que la Ley establezca.
+
+Para elegir al Fiscal Especial en combate a la Corrupción, se observará lo siguiente:
+
+I. El Congreso del Estado deberá emitir convocatoria pública a la sociedad;
+
+II. Una vez recibidas las solicitudes y los expedientes de los aspirantes, éstos serán remitidos en copia al Comité de Participación Social del Sistema Estatal Anticorrupción para que analice los perfiles y emita un informe con sus opiniones técnicas; y simultáneamente se enviará copia al Gobernador del Estado;
+
+III. El Comité de Participación Social deberá enviar al Gobernador el informe a que se refiere el inciso anterior;
+
+IV. El Gobernador del Estado deberá remitir al Congreso una terna con su propuesta para ocupar el cargo de Fiscal Especial en Combate a la Corrupción, tomando en cuenta las opiniones técnicas del Comité de Participación Social;
+
+V. Una vez recibida la terna, el Congreso del Estado, previa comparecencia de las personas propuestas, elegirá en votación por cédula a quien ocupará la titularidad de la Fiscalía Especializada en Combate a la Corrupción; y
+
+VI. En caso de que el Congreso del Estado no resuelva en el plazo que señale la convocatoria o ninguno de los propuestos para el cargo alcance la mayoría requerida, el Gobernador enviaría una nueva terna con personas distintas. Si el Congreso del Estado no elige en el plazo señalado en la convocatoria o ninguno alcanza la votación requerida, se designará al Fiscal Especial de entre los propuestos en ambas ternas, mediante insaculación ante la Asamblea.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 22-C.
+
+El Fiscal Especial en Combate a la Corrupción, respecto de los asuntos materia de su competencia, por sí o por conducto de los funcionarios que designe, ejercerá las facultades siguientes:
+
+I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada;
+
+II. Investigar y perseguir los delitos por hechos de corrupción; conducir a las policías en la investigación de los delitos de su competencia y solicitar el apoyo de las mismas cuando sea necesario; ejercer la acción penal ante los tribunales, en esta materia; y en general, ejercer las facultades y atribuciones que la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales en la materia, las leyes generales, la Constitución del Estado de Jalisco, el Código Penal del Estado de Jalisco, el Código Nacional de Procedimientos Penales, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que la ley considera como delitos en materia de corrupción;
+
+III. Coordinar su actuar con las instancias del sistema estatal anticorrupción;
+
+IV. Dirigir, coordinar y realizar la investigación para la obtención de datos o medios de prueba vinculados a hechos que probablemente constituyan delitos que la ley considera como delitos en materia de corrupción;
+
+V. Formular los requerimientos de información y de documentos relativos al sistema financiero o de naturaleza fiscal, a que se refiere el artículo 142, fracción II, de la Ley de Instituciones de Crédito y demás disposiciones análogas;
+
+VI. Solicitar a las autoridades fiscales y administrativas, así como a las personas físicas o jurídicas, la información que resulte necesaria para sus investigaciones, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable;
+
+VII. Requerir a los particulares la información que resulte útil o necesaria para sus investigaciones, por sí o a través del personal que se encuentre a cargo de la investigación;
+
+VIII. Solicitar las medidas cautelares que procedan, en términos de la legislación aplicable, así como la constitución de garantías para los efectos de la reparación del daño;
+
+IX. Autorizar en definitiva que los agentes del Ministerio Público decreten el no ejercicio de la acción penal, de conformidad a la disposición procesal penal correspondiente;
+
+X. Autorizar la formulación de conclusiones no acusatorias en los procesos penales o, en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales;
+
+XI. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XIII. Establecer mecanismos de cooperación y colaboración con autoridades federales, de las entidades federativas y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
+
+XIV. Celebrar convenios con instituciones u organismos públicos o privados, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos;
+
+XV. Suscribir los instrumentos jurídicos que faciliten el funcionamiento y operación de la Fiscalía Especializada;
+
+XVI. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización a que se refiere el artículo 33 de esta ley, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+XVII. Nombrar al personal de la Fiscalía Especializada en Combate a la Corrupción;
+
+XVIII. Supervisar el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción;
+
+XIX. Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, de la Ciudad de México, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
+
+XX. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de delitos relacionados con hechos de corrupción;
+
+XXI. Diseñar e implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de corrupción en el ámbito de su competencia;
+
+XXII. Diseñar e implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+XXIII. Diseñar e implementar estrategias y líneas de acción para combatir los hechos en materia de corrupción;
+
+XXIV. Participar como integrante en el Comité Coordinador del Sistema Anticorrupción del Estado de Jalisco;
+
+XXV. Decidir sobre el destino de los recursos que le sean asignados, de conformidad con las leyes aplicables;
+
+XXVI. Recibir y tramitar las denuncias que presenten ante la Fiscalía por hechos u omisiones que pudieran ser constitutivos de delito;
+
+XXVII. Diseñar e implementar proyectos, estudios y programas permanentes de información, fomento a la cultura de la denuncia y de la legalidad, así como de prevención de delitos relacionados con hechos de corrupción; y
+
+XXVIII. Las demás que en su caso le confieran otras disposiciones aplicables.
+
+### CAPÍTULO V. ORGANISMOS AUXILIARES DE LA FISCALÍA GENERAL DEL ESTADO
 
 ###### Artículo 23.
 
@@ -713,7 +819,7 @@ En la investigación de los delitos o en el ejercicio de la acción penal, será
 
 Todas las autoridades del Estado están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones.
 
-### CAPÍTULO VI. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
+### CAPÍTULO VI. DE LOS AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 24.
 
@@ -757,7 +863,7 @@ Los agentes del Ministerio Público podrán actuar válidamente, en la investiga
 
 La policía estatal con todas las áreas especializadas que la integran, se encuentra bajo la autoridad y mando del Ministerio Público en la investigación y persecución de los delitos, teniendo la organización y atribuciones establecidas en esta ley, su reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO VII. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
+### CAPÍTULO VII. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 ###### Artículo 27.
 
@@ -771,7 +877,7 @@ Los procedimientos para la selección, ingreso, formación, capacitación, actua
 
 El servicio civil y profesional de carrera en la Fiscalía General del Estado, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para los servidores públicos que la integran, en los términos de las leyes y reglamentos aplicables.
 
-### CAPÍTULO VIII. DE LOS RECONOCIMIENTOS, FALTAS Y SANCIONES DEL PERSONAL
+### CAPÍTULO VIII. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
 
 ###### Artículo 30.
 
@@ -853,7 +959,7 @@ III. En los casos no previstos se resolverán por acuerdo del fiscal correspondi
 
 En caso de ausencia del Fiscal General, éste será suplido por el Fiscal Central hasta por treinta días.
 
-### CAPÍTULO IX. DE LAS INCOMPATIBILIDADES Y EXCUSAS
+### CAPÍTULO IX. DE LOS RECONOCIMIENTOS, FALTAS Y SANCIONES DEL PERSONAL
 
 ###### Artículo 40.
 
@@ -874,6 +980,8 @@ Los servidores de la Fiscalía General del Estado, podrán ser separados de su c
 ###### Artículo 43.
 
 Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación o reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido, de conformidad con el artículo 123 apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPÍTULO X. DE LAS INCOMPATIBILIDADES Y EXCUSAS
 
 ###### Artículo 44.
 
@@ -1240,3 +1348,25 @@ P. O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26375/LXI/17 QUE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26499/LXI/17 QUE REFORMA EL ARTÍCULO 4° Y ADICIONA UN CAPÍTULO IV, RECORRIENDO LA NUMERACIÓN DE LOS CAPÍTULOS DEL V AL X Y SE ADICIONAN LOS ARTÍCULOS 22-A, 22-B Y 22-C A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. Los recursos humanos, materiales y financieros con los que cuenta la unidad de investigación contra la corrupción, prevista en el artículo 7 fracción I de la Ley Orgánica de la Fiscalía General del Estado de Jalisco y 26 fracción IV del Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Jalisco, serán transferidos a la Fiscalía Especializada en Combate a la Corrupción. El personal operativo y administrativo adscrito o comisionado a las unidades o áreas de la Fiscalía Central en materia de investigación contra la corrupción, incluyendo al personal ministerial y de investigación en materia de estos ilícitos, será transferido a la Fiscalía Especializada en Combate a la Corrupción; respetándose los derechos laborales o aquellos relativos a la relación jurídico-administrativa que tienen con la Fiscalía General.
+
+Las denuncias recibidas y las carpetas de investigación abiertas con fecha anterior a la entrada en vigor del presente decreto, relativas a los delitos relacionados con hechos por corrupción o de servidores públicos, seguirán su trámite en la Fiscalía General del Estado. Las denuncias recibidas y las carpetas de investigación abiertas con fecha posterior a la entrada en vigor del presente decreto, en su oportunidad deberán remitirse a la Fiscalía Especial en Combate a la Corrupción.
+
+La transferencia de que habla el primer párrafo de este artículo, así como la remisión de que trata el segundo párrafo, se realizarán en la fecha en que entre en funciones el Fiscal Especial en Combate a la Corrupción.
+
+Se autoriza al Gobernador del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones presupuestales necesarias para el cumplimiento del presente decreto. De igual forma se asignarán a esta nueva Fiscalía Especializada en Combate a la Corrupción, los recursos materiales y financieros respectivos que garanticen su correcta operación.
+
+TERCERO. Las referencias que otras normas de Jalisco hagan a la institución encargada de la investigación de los delitos relacionados con hechos de corrupción y al titular de la investigación correspondiente, conducción y mando de las policías en el ejercicio de esta función y al ejercicio de la acción penal en la materia ante los tribunales competentes, se entenderán referidas a la Fiscalía Especializada en Combate a la Corrupción del Estado de Jalisco y a su titular el Fiscal Especial.
+
+CUARTO. Por única ocasión, el Fiscal Especial en Combate a la Corrupción electo para el primer periodo, durará en su cargo ocho años.
+
+QUINTO. Para todos los efectos a que haya lugar, el Fiscal Especial en Combate a la Corrupción se entenderá como sinónimo de Fiscal Especializado en Combate a la Corrupción.
+
+SEXTO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
