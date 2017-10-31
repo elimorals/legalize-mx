@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2017-06-22"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -414,6 +414,10 @@ En las poblaciones en que no haya Oficial del Registro Civil, el niño será pre
 El acta de nacimiento deberá contener lugar y fecha del registro, hora, día, mes, año y lugar de nacimiento; el sexo, el nombre que se le imponga y los apellidos del padre y de la madre, cuando proceda, o los apellidos de la madre, cuando lo presente individualmente como hijo extramatrimonial; la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro de Población que se asigne al registrado.
 
 Contendrá además, nombre, edad, domicilio y nacionalidad de los padres y testigos; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos. Si la presentación la realiza persona distinta se anotará su nombre, edad, domicilio y parentesco con el registrado.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Oficial del Registro Civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 ###### Artículo 67.
 
@@ -15865,8 +15869,16 @@ B.O. 20 DE MARZO DE 2017.
 
 B.O. 22 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 2441 SE REFORMA EL ARTÍCULO 373 DEL CÓDIGO PENAL Y SE REFORMA EL ARTÍCULO 1102 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2441 SE REFORMA EL ARTÍCULO 373 DEL CÓDIGO PENAL Y SE REFORMA EL ARTÍCULO 1102 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 2472 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II Y SE ADICIONA UN ULTIMO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
