@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2016-12-28"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -753,6 +755,12 @@ IV.- Vigilar la ejecución de los planes y programas, y
 
 V.- Regular de manera conjunta y coordinada con el Estado, y con otros Municipios, las zonas de conurbación.
 
+> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+E) De igualdad de género:
+
+Cumplir con las atribuciones establecidas en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán, y demás disposiciones legales aplicables.
+
 ###### Artículo 42.
 
 Son obligaciones del Ayuntamiento en materia de servicios y obra pública:
@@ -909,6 +917,10 @@ IX.- Fomentar la cultura de la prevención contra la corrupción entre los funci
 
 X.- Las demás que les asignen las diversas leyes.
 
+> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+Artículo 46 A.- Es obligación del Ayuntamiento, en materia de igualdad, crear la instancia municipal para el empoderamiento de las mujeres como un organismo público descentralizado, organismo desconcentrado o unidad administrativa, de conformidad con su disponibilidad presupuestaria, responsable de promover y fomentar la igualdad de género, mediante la incorporación de la perspectiva de género, la igualdad sustantiva y la de género, y la transversalidad en las políticas públicas, programas y demás instrumentos de planeación municipales.
+
 ###### Artículo 47.
 
 Son obligaciones del Ayuntamiento, en materia de protección civil:
@@ -989,9 +1001,17 @@ III.- Desarrollo Urbano y Obras Públicas;
 
 IV.- Seguridad Pública y Tránsito;
 
-V.- Servicios Públicos, y
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2017)</small>
 
-VI.- Salud y Ecología.
+V.- Servicios públicos;
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI.- Salud y ecología, y
+
+> <small>(ADICIONADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII.- Igualdad de género.
 
 ###### Artículo 52.
 
@@ -1869,15 +1889,19 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 #### SECCIÓN PRIMERA. DEL SISTEMA MUNICIPAL DE PLANEACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 108.
 
-Los Ayuntamientos organizarán en el ámbito de su jurisdicción, un sistema municipal de planeación que garantice el desarrollo dinámico, integral, sustentable y equitativo. Para tal efecto observará las bases siguientes:
+Los ayuntamientos establecerán, en el ámbito de su jurisdicción, un Sistema Municipal de Planeación que garantice el desarrollo integral, dinámico, equitativo y sustentable. Para tal efecto, observarán las siguientes bases:
 
 I.- El desarrollo municipal deberá estar dirigido a propiciar el mejoramiento económico, social y cultural de sus habitantes;
 
 II.- La planeación será democrática y deberá considerar las aspiraciones y demandas sociales para la elaboración de planes y programas, se apoyará en los mecanismos de participación y consulta ciudadana establecidos en las leyes, así como en los usos y costumbres propios de las comunidades;
 
-III.- Los instrumentos de planeación municipal deberán ser armónicos con los relativos a los ámbitos estatal y federal, y
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+III.- Los instrumentos de planeación municipal deberán ser armónicos con los relativos a los ámbitos federal y estatal, e incorporar el enfoque de derechos humanos y la perspectiva de género.
 
 IV.- El establecimiento de sus propios órganos consultivos para la formulación, seguimiento y evaluación de sus instrumentos de planeación.
 
@@ -3488,3 +3512,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 541/2017 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE IGUALDAD".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día primero de marzo de dos mil dieciocho, previa su publicación en el Diario Oficial del Estado.
+
+Segundo. Cumplimiento
+
+Los Ayuntamientos del Estado de Yucatán contarán con noventa días posteriores a la entrada en vigor para la aplicación de las disposiciones contenidas en este Decreto.
