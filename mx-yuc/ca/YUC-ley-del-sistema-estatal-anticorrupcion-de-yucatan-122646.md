@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-anticorrupcion-de-yucatan-122646"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -711,9 +711,13 @@ Segundo. Integración de la comisión de selección
 
 El Congreso del estado, en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto, deberá designar a los integrantes de la comisión de selección a que se refiere el artículo 25 de la Ley del Sistema Estatal Anticorrupción de Yucatán.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 31 DE OCTUBRE DE 2017)</small>
+
 Tercero. Integración del Comité de Participación Ciudadana
 
-Por única ocasión, para garantizar el nombramiento escalonado, la comisión de selección, en un plazo de treinta días naturales, contado a partir de la designación de sus integrantes, deberá seleccionar a los integrantes del Comité de Participación Ciudadana, de conformidad con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE OCTUBRE DE 2017)</small>
+
+Por única ocasión, para garantizar el nombramiento escalonado, la comisión de selección, en un plazo de hasta sesenta días naturales, contado a partir de la designación de sus integrantes, deberá seleccionar a los integrantes del Comité de Participación Ciudadana, de conformidad con lo siguiente:
 
 a) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2018, quien presidirá el Comité de Participación Ciudadana.
 
@@ -754,3 +758,11 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 539/2017 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN".]
+
+Artículo único. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
