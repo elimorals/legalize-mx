@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-comision-estatal-de-derechos-humanos-de-baja-2858"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-20"
-last_updated: "2014-10-20"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 31 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de diciembre de 1992.
 
@@ -742,3 +744,13 @@ B.O. 30 DE JUNIO DE 2014.
 B.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2473 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se Abroga la Ley de la Comisión Estatal de Derechos Humanos de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de diciembre de 1992, salvo lo que se estipula en el artículo transitorio siguiente.
+
+Tercero.- Los procedimientos que se iniciaron con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones de la Ley anterior.
