@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-movilidad-y-transporte-del-estado-96536
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2017-01-10"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -41,7 +41,9 @@ GUADALAJARA, JALISCO, A 8 DE NOVIEMBRE DE 2013
 
 Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado de Jalisco, con fundamento en lo dispuesto por los artículos 36, 46 y 50 fracciones VIII y XXVI de la Constitución Política; 1°,2°, 3° fracción I, 4°, 8°, 11 fracciones III y XII, 12 fracciones I y XIV, 13 fracción IV y 26 de la Ley Orgánica del Poder Ejecutivo; y 1°, 2°, 3° y demás aplicables de la Ley de Movilidad y Transporte, todos los ordenamientos invocados del Estado de Jalisco, y
 
-CONSIDERANDO: ...
+CONSIDERANDO:
+
+[...]
 
 Por lo anteriormente expuesto, tengo a bien expedir el siguiente
 
@@ -3419,9 +3421,9 @@ IX. Pagar los derechos correspondientes.
 
 Los prestadores del servicio podrán realizar el trámite a través de la empresa de redes de transporte que gestione los servicios de transporte que brinde; requiriéndose para ello, la anuencia por escrito del particular que opte por realizar el registro por conducto de ésta.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Artículo 218 ter. Las autorizaciones para prestar servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles no procederán cuando la Secretaría con base a los estudios y datos proporcionados por el Instituto determine que su autorización provocará un impacto negativo a ésta como a otras modalidades previstas en la Ley.
+Artículo 218 ter. Las autorizaciones para prestar servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles no procederán cuando la Secretaría con base a los estudios y datos proporcionados por el Instituto determine que su autorización provocará un impacto negativo a ésta como a otras modalidades previstas en la Ley, lo anterior previa opinión emitida por la Comisión Federal de Competencia Económica.
 
 ###### Artículo 219.
 
@@ -3785,9 +3787,9 @@ VIII. Certificado que acredite el cumplimiento del programa de verificación veh
 
 IX. Los demás requisitos que deban presentarse para su autorización, así como los requisitos que para esos efectos establezca el Reglamento del Registro Estatal de Movilidad y Transporte.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Artículo 264 quater. Los conductores de este servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán acreditar haber cursado y aprobado la capacitación correspondiente, así como la obtención de la licencia de manejo acorde a la modalidad del servicio y el gafete expedido por la Secretaría.
+Artículo 264 quáter. Las obligaciones relativas a la inscripción ante el Registro Estatal de Movilidad y Transporte, a cargo de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, previstas en el Reglamento de la Ley de Movilidad y Transporte, así como en el Reglamento del Registro Estatal de Movilidad, podrán realizarse simultáneamente con el trámite que por sí mismo el prestador del servicio o a través de la Empresa de Redes de Transporte a la que se encuentre afiliado, realicen ante la Secretaría para obtener la autorización prevista en el numeral 144 bis de la Ley de Movilidad y Transporte del Estado de Jalisco, previo el pago de los derechos que en cada caso se generen.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -4583,7 +4585,7 @@ El Registro Estatal de Movilidad y Transporte es una Unidad Administrativa de la
 
 La inscripción de los vehículos en el Estado de Jalisco se tendrá por realizada cuando conste así en la base de datos de la Secretaría en materia de finanzas. Esta información será utilizada por el Registro a efecto de poder llevar a cabo sus atribuciones en los términos de su propio Reglamento.
 
-En los casos de los vehículos con los cuales se preste algún tipo servicio (sic) de transporte público en cualquiera de sus modalidades, además, se cumplirá con los requisitos que señala la Ley y el presente Reglamento así como el Reglamento del Registro Estatal.
+En los casos de los vehículos con los cuales se preste algún tipo (sic) servicio de transporte público en cualquiera de sus modalidades, además, se cumplirá con los requisitos que señala la Ley y el presente Reglamento así como el Reglamento del Registro Estatal.
 
 ###### Artículo 331.
 
@@ -5190,3 +5192,9 @@ P.O. 10 DE ENERO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. A partir de la fecha en que entre en vigor el presente acuerdo, se dejan sin efectos las disposiciones que (sic) opongan al mismo.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DIGELAG ACU 040/2017 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO.- Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
