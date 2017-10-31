@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-10-23"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -267,11 +267,13 @@ X. DECIMO CIRCUITO:
 
 XI. DECIMOPRIMER CIRCUITO:
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
 
-1. Cinco tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
+1. Seis tribunales colegiados especializados: uno en materia penal, tres en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
 
-2. Dos tribunales unitarios con sede en Morelia.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
+
+2. Tres tribunales unitarios con sede en Morelia.
 
 3. Nueve juzgados de Distrito en el Estado de Michoacán: seis con residencia en Morelia y tres con sede en Uruapan.
 
@@ -849,9 +851,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cuatro juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla.
 
-> <small>(REFORMADO, D.O.F. 28 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; un tribunal unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región, se integrará por un tribunal colegiado de Circuito Auxiliar, con sede en Guadalajara, Jalisco; un tribunal unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
 > <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
@@ -4648,6 +4650,88 @@ XXVIII. ...
 2. a 3. ...
 
 XXIX. a XXXII. ..."
+
+D.O.F. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 23/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL UNITARIO DEL DECIMOPRIMER CIRCUITO, CON RESIDENCIA EN MORELIA, MICHOACÁN; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO INDICADO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil diecisiete, con excepción de lo previsto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+CUARTO. Se reforma el numeral SEGUNDO, fracción XI, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a X. …
+
+XI. …
+
+1. …
+
+2. Tres tribunales unitarios con sede en Morelia.
+
+3. …
+
+XII. a XXXII. …”
+
+D.O.F. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 27/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEXTO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN MORELIA, MICHOACÁN, Y SU TRANSFORMACIÓN EN TERCER TRIBUNAL COLEGIADO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO DEL DECIMOPRIMER CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA SEMIESPECIALIZACIÓN Y CIRCUITO INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil diecisiete, con excepción de lo previsto en el artículo 1, el cual entrará en vigor en la fecha señalada en el mismo; y los Transitorios CUARTO y QUINTO, de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tercer Tribunal Colegiado en Materias Administrativa y de Trabajo del Decimoprimer Circuito, formará parte del Pleno del Decimoprimer Circuito a partir del uno de noviembre de dos mil diecisiete, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. La Secretaría Ejecutiva de Adscripción certificará la nueva adscripción de los magistrados del Tribunal Colegiado que se transforma.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción XI, número 1; y QUINTO, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a X. …
+
+XI. …
+
+1. Seis tribunales colegiados especializados: uno en materia penal, tres en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
+
+2. a 3. …
+
+XII. a XXXII. …
+
+QUINTO. …
+
+1. a 2. …
+
+3. El Centro Auxiliar de la Tercera Región, se integrará por un tribunal colegiado de Circuito Auxiliar, con sede en Guadalajara, Jalisco; un tribunal unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+4. a 11. …
+
+…"
+
+SÉPTIMO. Se reforma el numeral PRIMERO, primer párrafo; y se deroga el inciso a) de la fracción I, del numeral PRIMERO, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+"PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región, está conformado por un tribunal Colegiado de Circuito Auxiliar, con sede en Guadalajara, Jalisco; un Tribunal Unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+…
+
+I. …
+
+a) Derogado.
+
+b) …
+
+II. a III. …"
 
 ###### Artículo 10.
 
