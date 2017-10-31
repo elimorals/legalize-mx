@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2017-03-01"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE MORELOS -- ANTES LEY DE ATENCION Y REPARACION A VICTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS --
 
-LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS
+> <small>[N. DE E. EL DECRETO NÚMERO DOS MIL DOSCIENTOS CINCO, EXPEDIDO POR LA QUINCUAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -39,229 +41,267 @@ I.- DEL PROCESO LEGISLATIVO...
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
 
-LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-### CAPÍTULO I. DE LA APLICACIÓN, OBJETO E INTERPRETACIÓN
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 1.
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Morelos, en términos de lo dispuesto por los artículos 1o., párrafo tercero, 17, y 20 de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados y ratificados por el Estado Mexicano, y otras leyes en materia de víctimas y tiene los siguientes objetivos:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-I. Regular, reconocer y garantizar los derechos de las víctimas del delito y violaciones a Derechos Humanos, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral, restitución de los derechos violados, debida diligencia, no repetición y todos los demás derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de Derechos Humanos de los que los Estados Unidos Mexicanos es parte, en la Ley General de Víctimas y demás instrumentos de Derechos Humanos vinculantes para el Estado de Morelos;
+###### Artículo 1.
 
-II. Establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger, atender, garantizar, impulsar y propiciar el ejercicio efectivo y constante de los derechos de las víctimas mediante el establecimiento de principios rectores, ejes de acción y mecanismos de coordinación entre el Estado y sus Municipios, independientemente de la coordinación que se articule con la Federación;
+La presente Ley es de orden público, interés social y de observancia general en el estado de Morelos, en términos de lo dispuesto por los artículos 1°, párrafo tercero, 17, 20 y 73, fracción XXIX-X, de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales celebrados y ratificados por el Estado Mexicano y otras leyes en materia de víctimas.
 
-III. Implementar los mecanismos para que todas las autoridades estatales en el ámbito de sus respectivas competencias cumplan con las obligaciones de prevenir, investigar, sancionar y lograr la reparación integral, velar por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral. Los Municipios deberán regular y garantizar estas obligaciones en el ámbito de sus competencias;
+La presente Ley obliga, en sus respectivas competencias, a todas las autoridades del estado de Morelos, así como a cualquiera de sus Secretarías, Dependencias, Entidades, órganos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral; quienes deberán actuar conforme a los principios y criterios establecidos en esta Ley, así como brindar atención inmediata, en especial, en materias de salud, educación y asistencia social, en caso contrario quedarán sujetos a las responsabilidades administrativas, civiles, penales o de cualquier otra naturaleza a que haya lugar.
 
-La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. Garantizar un efectivo ejercicio del derecho de las víctimas a la justicia en estricto cumplimiento de las reglas del debido proceso;
+###### Artículo 2.
 
-V. Establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas; y
+El objeto de esta Ley es:
 
-VI. Establecer las sanciones que correspondan al incumplimiento por acción o por omisión de cualquiera de las disposiciones fijadas en esta ley.
+I. Reconocer y garantizar los derechos de las víctimas del delito y violaciones a derechos humanos, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral, restitución de los derechos violados, debida diligencia, no repetición y todos los demás derechos consagrados en la Constitución Federal, los Tratados Internacionales de Derechos Humanos de los que los Estados Unidos Mexicanos es parte, la Constitución Local, la Ley General de Víctimas y demás instrumentos de derechos humanos vinculantes para el estado de Morelos;
 
-###### ARTÍCULO 2.
+II. Establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que todas las autoridades en el ámbito de sus respectivas competencias cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral;
 
-Los preceptos contenidos en la presente Ley deben ser respetados y cumplidos por todo servidor público e institución, pública o privada, los que estarán obligados a garantizar la protección de las víctimas, proporcionándoles ayuda, asistencia y reparación integral en el orden estatal.
+III. Garantizar un efectivo ejercicio del derecho de las víctimas a la justicia en estricto cumplimiento de las reglas del debido proceso;
 
-###### ARTÍCULO 3.
+IV. Establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas, y
 
-Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de Derechos Humanos de los que los Estados Unidos Mexicanos es parte, y en la Ley General de Víctimas, favoreciendo en todo tiempo la protección más amplia de los derechos de las víctimas de uno o más delitos.
+V. Establecer las sanciones respecto al incumplimiento por acción o por omisión de cualquiera de sus disposiciones.
 
-###### ARTÍCULO 4.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-En caso de incompatibilidad entre normas que protejan a víctimas, se aplicará siempre la que más favorezca a la persona.
+###### Artículo 3.
 
-###### ARTÍCULO 5.
+Esta Ley se interpretará de conformidad con la Constitución Federal y con los Tratados Internacionales de Derechos Humanos de los que los Estados Unidos Mexicanos es parte, y en la Ley General de Víctimas favoreciendo en todo tiempo la protección más amplia de los derechos de las personas.
 
-Se denominarán víctimas directas cualquier persona física que individual o colectivamente haya sufrido directamente algún daño o menoscabo económico, físico, mental, emocional o, en general, cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a los Derechos Humanos reconocidos en la Constitución y en los Tratados Internacionales de los que el Estado mexicano sea parte.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Los familiares o personas físicas a cargo o que tengan una relación inmediata con la víctima directa, tanto formal como informal, que de alguna forma sufra un daño es una víctima indirecta.
+###### Artículo 4.
 
-Se considera víctima potencial aquella que peligre en su esfera de derechos por auxiliar, impedir o detener la violación de un derecho de una víctima o la comisión de un delito y, por lo tanto, objeto de medidas de protección y atención.
+Se denominarán víctimas directas cualquier persona física que individual o colectivamente haya sufrido directamente algún daño o menoscabo económico, físico, mental, emocional o, en general, cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución y en los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+Son víctimas indirectas los familiares o personas físicas a cargo o que tengan una relación inmediata con la víctima directa, tanto formal como informal, que de alguna forma sufra un daño.
 
-El ofendido en razón de la comisión de un delito, podrá tener la calidad de víctima directa, indirecta o potencial.
+Se considera víctima potencial aquella que peligre en su esfera de derechos por auxiliar, impedir o detener la violación de un derecho de una víctima o la comisión de un delito.
 
-La calidad de víctimas se adquiere con la acreditación del daño o menoscabo de los derechos en los términos establecidos en la presente Ley, independientemente de que se identifique, aprehenda o condene al responsable del daño, o de su participación en algún procedimiento judicial o administrativo. Dicha calidad tampoco se pierde al existir algún nexo entre la víctima y una persona condenada o vinculada a una investigación por comisión de un delito.
+Son víctimas los grupos, comunidades u organizaciones sociales que hubieran sido afectadas en sus derechos, intereses o bienes jurídicos colectivos como resultado de la comisión de un delito o la violación de derechos.
 
-###### ARTÍCULO 6.
+La calidad de víctima se adquiere con la acreditación del daño o menoscabo de los derechos en los términos establecidos en la presente Ley, independientemente de que se identifique, aprehenda o condene al responsable del daño, o de su participación en algún procedimiento judicial o administrativo. Dicha calidad tampoco se pierde al existir algún nexo entre la víctima y una persona condenada o vinculada a una investigación por comisión de un delito.
 
-Los mecanismos, medidas y procedimientos establecidos en esta Ley, se determinarán, implementarán y evaluarán, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas, tales como:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Dignidad: La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
+###### Artículo 5.
 
-En virtud de la dignidad humana de la víctima, todas las autoridades del Estado están obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación. Igualmente, todas las autoridades del Estado y sus Municipios están obligadas a garantizar que no se vea disminuido el mínimo existencial al que la víctima tiene derecho, ni sea afectado el núcleo esencial de sus derechos.
+Los mecanismos, medidas y procedimientos establecidos en esta Ley, se determinarán, implementarán y evaluarán, de conformidad con los siguientes principios:
 
-Buena fe: Las autoridades presumirán la buena fe de las víctimas. Los servidores públicos que intervengan con motivo del ejercicio de derechos de las víctimas no deberán criminalizarla o responsabilizarla por su situación de víctima y deberán brindarle los servicios de ayuda, atención y asistencia desde el momento en que lo requieran, así como respetar y permitir el ejercicio efectivo de sus derechos.
+I. Dignidad: La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
 
-Complementariedad: Los mecanismos, medidas y procedimientos contemplados en esta Ley, en especial los relacionados con la asistencia, ayuda, protección, atención y reparación integral a las víctimas, deberán realizarse de manera armónica, eficaz y eficiente entendiéndose siempre como complementarias y no excluyentes.
+En virtud de la dignidad humana de la víctima, todas las autoridades del Estado están obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación. Igualmente, todas las autoridades del Estado y sus Municipios están obligadas a garantizar que no se vea disminuido el mínimo existencial al que la víctima tiene derecho, ni sea afectado el núcleo esencial de sus derechos;
 
-Tanto las reparaciones individuales, administrativas o judiciales, como las reparaciones colectivas deben ser complementarias para alcanzar la integralidad que busca la reparación.
+II. Buena fe: Las autoridades presumirán la buena fe de las víctimas. Los servidores públicos que intervengan con motivo del ejercicio de derechos de las víctimas no deberán criminalizarla o responsabilizarla por su situación de víctima y deberán brindarle los servicios de ayuda, atención y asistencia desde el momento en que lo requieran, así como respetar y permitir el ejercicio efectivo de sus derechos;
 
-Debida diligencia: El Estado deberá realizar todas las actuaciones necesarias dentro de un tiempo razonable para lograr el objeto de esta Ley, en especial la prevención, ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como sujeto titular de derecho.
+III. Complementariedad: Los mecanismos, medidas y procedimientos contemplados en esta Ley, en especial los relacionados con la asistencia, ayuda, protección, atención y reparación integral a las víctimas, deberán realizarse de manera armónica, eficaz y eficiente entendiéndose siempre como complementarias y no excluyentes.
 
-El Estado deberá remover los obstáculos que impidan el acceso real y efectivo de las víctimas a las medidas reguladas por la presente Ley, realizar prioritariamente acciones encaminadas al fortalecimiento de sus derechos, contribuir a su recuperación como sujetos en ejercicio pleno de sus derechos y deberes, así como evaluar permanentemente el impacto de las acciones que se implementen a favor de las víctimas.
+Tanto las reparaciones individuales, administrativas o judiciales, como las reparaciones colectivas deben ser complementarias para alcanzar la integralidad que busca la reparación;
 
-Enfoque diferencial y especializado: Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad y otros, en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas.
+IV. Debida diligencia: El Estado deberá realizar todas las actuaciones necesarias dentro de un tiempo razonable para lograr el objeto de esta Ley, en especial la prevención, ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como sujeto titular de derecho.
 
-Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de Derechos Humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior de la infancia.
+El Estado deberá remover los obstáculos que impidan el acceso real y efectivo de las víctimas a las medidas reguladas por la presente Ley, realizar prioritariamente acciones encaminadas al fortalecimiento de sus derechos, contribuir a su recuperación como sujetos en ejercicio pleno de sus derechos y deberes, así como evaluar permanentemente el impacto de las acciones que se implementen a favor de las víctimas;
 
-Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad.
+V. Debido Proceso y deber de investigar: El Estado, a través de los órganos competentes, debe garantizar un proceso justo y eficaz que responda a los principios de celeridad, razonabilidad y garantía de derechos. El Estado tiene la obligación de investigar y sancionar a los responsables de la comisión de delitos y violaciones a los derechos humanos;
 
-Enfoque transformador: Las autoridades que deban aplicar la presente Ley realizarán, en el ámbito de sus respectivas competencias, los esfuerzos necesarios encaminados a que las medidas de ayuda, protección, atención, asistencia y reparación integral a las que tienen derecho las víctimas, contribuyan a la eliminación de los esquemas de discriminación y marginación que pudieron ser la causa de los hechos victimizantes.
+VI. Enfoque diferencial y especializado: Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad y otros, en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas.
 
-Gratuidad: Todas las acciones, mecanismos, procedimientos y cualquier otro trámite que implique el derecho de acceso a la justicia y demás derechos reconocidos en esta Ley, serán gratuitos para la víctima.
+Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior de la infancia.
 
-Igualdad y no discriminación: En el ejercicio de los derechos y garantías de las víctimas y en todos los procedimientos a los que se refiere la presente Ley, las autoridades se conducirán sin distinción, exclusión o restricción, ejercida por razón de sexo, raza, color, orígenes étnicos, sociales, nacionales, lengua, religión, opiniones políticas, ideológicas o de cualquier otro tipo, género, edad, preferencia u orientación sexual, Estado civil, condiciones de salud, pertenencia a una minoría nacional, patrimonio y discapacidades, o cualquier otra que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial deberá fundarse en razones de enfoque diferencial.
+Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad;
 
-Integralidad, indivisibilidad e interdependencia: Todos los derechos contemplados en esta Ley se encuentran interrelacionados entre sí. No se puede garantizar el goce y ejercicio de los mismos sin que a la vez se garantice el resto de los derechos.
+VII. Enfoque transformador: Las autoridades que deban aplicar la presente Ley realizarán, en el ámbito de sus respectivas competencias, los esfuerzos necesarios encaminados a que las medidas de ayuda, protección, atención, asistencia y reparación integral a las que tienen derecho las víctimas, contribuyan a la eliminación de los esquemas de discriminación y marginación que pudieron ser la causa de los hechos victimizantes;
+
+VIII. Gradualidad: Implica la responsabilidad estatal de diseñar herramientas operativas y garantizar los recursos presupuestales que permitan la escalonada implementación de los programas, planes y proyectos de atención, asistencia y reparación, sin desconocer la obligación de implementarlos en todo el Estado en un plazo determinado y respetando el principio constitucional a la igualdad. La gradualidad de la política tendrá en cuenta el grado de vulnerabilidad y los enfoques diferenciales;
+
+IX. Gratuidad: Todas las acciones, mecanismos, procedimientos y cualquier otro trámite que implique el derecho de acceso a la justicia y demás derechos reconocidos en esta Ley, serán gratuitos para la víctima;
+
+X. Igualdad y no discriminación: En el ejercicio de los derechos y garantías de las víctimas y en todos los procedimientos a los que se refiere la presente Ley, las autoridades se conducirán sin distinción, exclusión o restricción, ejercida por razón de sexo, raza, color, orígenes étnicos, sociales, nacionales, lengua, religión, opiniones políticas, ideológicas o de cualquier otro tipo, género, edad, preferencia u orientación sexual, estado civil, condiciones de salud, pertenencia a una minoría nacional, patrimonio y discapacidades, o cualquier otra que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial deberá fundarse en razones de enfoque diferencial;
+
+XI. Integralidad, indivisibilidad e interdependencia: Todos los derechos contemplados en esta Ley se encuentran interrelacionados entre sí. No se puede garantizar el goce y ejercicio de los mismos sin que a la vez se garantice el resto de los derechos.
 
 La violación de un derecho pondrá en riesgo el ejercicio de otros.
 
-Para garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada.
+Para garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada;
 
-Máxima protección: Toda autoridad de los órdenes de gobierno deberá velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los Derechos Humanos.
+XII. Interés superior de la niñez: El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 
-Las autoridades adoptarán en todo momento medidas para garantizar la seguridad, protección, bienestar físico y psicológico así como la intimidad de las víctimas.
+Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales;
 
-Mínimo existencial: Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia.
+XIII. Máxima protección: Toda autoridad de los órdenes de gobierno deberá velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los derechos humanos.
 
-No criminalización: Las autoridades no deberán agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
+Las autoridades adoptarán en todo momento medidas para garantizar la seguridad, protección, bienestar físico y psicológico, así como la intimidad de las víctimas;
 
-Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas al crimen organizado o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse.
+XIV. Mínimo existencial: Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia;
 
-Victimización secundaria: Las características y condiciones particulares de la víctima no podrán ser motivo para negarle su calidad. El Estado tampoco podrá exigir mecanismos o procedimientos que agraven su condición ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni la expongan a sufrir un nuevo daño por la conducta de los servidores públicos.
+XV. No criminalización: Las autoridades no deberán agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
 
-Participación conjunta: Para superar la vulnerabilidad de las víctimas, el Estado deberá implementar medidas de ayuda, atención, asistencia y reparación integral con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
+Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas al crimen organizado o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse;
 
-Progresividad y no regresividad: Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados.
+XVI. Victimización secundaria: Las características y condiciones particulares de la víctima no podrán ser motivo para negarle su calidad. El Estado tampoco podrá exigir mecanismos o procedimientos que agraven su condición ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni la expongan a sufrir un nuevo daño por la conducta de los servidores públicos;
 
-Publicidad: Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los Derechos Humanos de las víctimas o las garantías para su protección.
+XVII. Participación conjunta: Para superar la vulnerabilidad de las víctimas, el Estado deberá implementar medidas de ayuda, atención, asistencia y reparación integral con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
 
-El Estado deberá implementar mecanismos de difusión eficaces a fin de brindar información y orientación a las víctimas acerca de los derechos, garantías y recursos, así como acciones, mecanismos y procedimientos con los que cuenta, los cuales deberán ser dirigidos a las víctimas y publicitarse de forma clara y accesible.
+La víctima tiene derecho a colaborar con las investigaciones y las medidas para lograr superar su condición de vulnerabilidad, atendiendo al contexto, siempre y cuando las medidas no impliquen un detrimento a sus derechos;
 
-Rendición de cuentas: Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas.
+XVIII. Prioridad: Se atenderá y reparará de forma prioritaria a aquellas víctimas con mayores dificultades económicas o mayor nivel de vulnerabilidad;
 
-Transparencia: Todas las acciones, mecanismos y procedimientos que lleve a cabo el Estado en ejercicio de sus obligaciones para con las víctimas, deberán instrumentarse de manera que garanticen el acceso a la información, así como el seguimiento y control correspondientes.
+XIX. Progresividad y no regresividad: Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados;
 
-Las autoridades deberán contar con mecanismos efectivos de rendición de cuentas y de evaluación de las políticas, planes y programas que se instrumenten para garantizar los derechos de las víctimas; y
+XX. Publicidad: Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los derechos humanos de las víctimas o las garantías para su protección.
 
-Trato preferente: Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.
+El Estado deberá implementar mecanismos de difusión eficaces a fin de brindar información y orientación a las víctimas acerca de los derechos, garantías y recursos, así como acciones, mecanismos y procedimientos con los que cuenta, los cuales deberán ser dirigidos a las víctimas y publicitarse de forma clara y accesible;
 
-### CAPÍTULO II. DE LOS CONCEPTOS, PRINCIPIOS Y DEFINICIONES
+XXI. Rendición de cuentas: Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas;
 
-###### ARTÍCULO 7.
+XXII. Sostenibilidad: El desarrollo de las medidas a las que se refiere la presente Ley, deberá hacerse en tal forma que asegure la sostenibilidad fiscal, con el fin de darles, en su conjunto, continuidad y progresividad, a efectos de garantizar su viabilidad y efectivo cumplimiento;
 
-Son también principios rectores:
+XXIII. Transparencia: Todas las acciones, mecanismos y procedimientos que lleve a cabo el Estado en ejercicio de sus obligaciones para con las víctimas, deberán instrumentarse de manera que garanticen el acceso a la información, así como el seguimiento y control correspondientes.
 
-Debido Proceso y deber de investigar. El Estado, a través de los órganos competentes, debe garantizar un proceso justo y eficaz que responda a los principios de celeridad, razonabilidad y garantía de derechos. El Estado tiene la obligación de investigar y sancionar a los responsables de la comisión de delitos y violaciones a los Derechos Humanos.
+Las autoridades deberán contar con mecanismos efectivos de rendición de cuentas y de evaluación de las políticas, planes y programas que se instrumenten para garantizar los derechos de las víctimas, y
 
-Gradualidad. El principio de gradualidad implica la responsabilidad estatal de diseñar herramientas operativas y garantizar los recursos presupuestales que permitan la escalonada implementación de los programas, planes y proyectos de atención, asistencia y reparación, sin desconocer la obligación de implementarlos en todo el Estado en un plazo determinado y respetando el principio constitucional a la igualdad. La gradualidad de la política tendrá en cuenta el grado de vulnerabilidad y los enfoques diferenciales.
+XXIV. Trato preferente: Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.
 
-Prioridad. Se atenderá y reparará de forma prioritaria a aquellas víctimas con mayores dificultades económicas o mayor nivel de vulnerabilidad.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Sostenibilidad. El desarrollo de las medidas a las que se refiere la presente Ley, deberá hacerse en tal forma que asegure la sostenibilidad fiscal, con el fin de darles, en su conjunto, continuidad y progresividad, a efectos de garantizar su viabilidad y efectivo cumplimiento.
+###### Artículo 6.
 
-###### ARTÍCULO 8.
+Para los efectos de esta Ley se entenderá por:
 
-Para los efectos de esta Ley, se entenderá por:
+I. Asesor Jurídico Estatal, al Asesor Jurídico Estatal de Atención a Víctimas o equivalente en el estado de Morelos adscrito a la Comisión Ejecutiva Estatal;
 
-I. Atención: La acción de dar información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso a los derechos a la verdad, a la justicia y a la reparación integral, cualificando el ejercicio de los mismos;
+II. Asesoría Jurídica Estatal, a la Asesoría Jurídica de Atención a Víctimas del Estado de Morelos;
 
-II. Asistencia: El conjunto integrado de mecanismos, procedimientos, programas, medidas y recursos de orden político, económico, social y cultural, entre otros, a cargo del Estado, orientado a restablecer la vigencia efectiva de los derechos de las víctimas y brindarles condiciones para llevar una vida digna y garantizar su incorporación a la vida social, económica y política. Entre estas medidas, las víctimas contarán con asistencia médica especializada incluyendo la psiquiátrica, psicológica, traumatológica y tanatológica;
+III. Asistencia, al conjunto integrado de mecanismos, procedimientos, programas, medidas y recursos de orden político, económico, social y cultural, entre otros, a cargo del Estado, orientado a restablecer la vigencia efectiva de los derechos de las víctimas y brindarles condiciones para llevar una vida digna y garantizar su incorporación a la vida social, económica y política. Entre estas medidas, las víctimas contarán con asistencia médica especializada incluyendo la psiquiátrica, psicológica, traumatológica y tanatológica;
 
-III. Daño: Muerte o lesiones corporales, daños o perjuicios morales y materiales, con excepción de los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por esas medidas, en la medida en que los daños deriven o resulten;
+IV. Atención, a la acción de dar información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso a los derechos a la verdad, a la justicia y a la reparación integral, cualificando el ejercicio de los mismos;
 
-IV. Delito: Conducta típica, antijurídica y culpable que sanciona la legislación penal del Estado de Morelos;
+V. Código Nacional, al Código Nacional de Procedimientos Penales;
 
-V. Entorno familiar: Aquellas personas que tengan una relación de parentesco en línea recta o colateral, o bien una relación inmediata formal o informal con la víctima directa del delito o la violación de Derechos Humanos;
+VI. Comisión Ejecutiva Estatal, a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos en términos del artículo 108 de esta Ley;
 
-VI. Núcleo esencial: Aquella parte, esencial, de un derecho fundamental, que no puede ser restringida o limitada. Es el mínimo de garantía de ese derecho, sin el cual la persona no podría desarrollarse o vivir como ser humano;
+VII. Comisión Ejecutiva Federal, a la Comisión Ejecutiva de Atención a Víctimas creada por la Ley General;
 
-VII. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delito o constituir una violación a los Derechos Humanos reconocidos por la Constitución y los Tratados Internacionales de los que el Estado Mexicano forma parte;
+VIII. Comisionado Ejecutivo, a la persona titular del (sic) Comisión Ejecutiva Estatal;
 
-VIII. Compensación: Erogación económica a que la víctima tenga derecho en los términos de esta Ley;
+IX. Compensación, a la erogación económica a que la víctima tenga derecho en los términos de esta Ley;
 
-IX. Violación de Derechos Humanos: Todo acto u omisión que afecte los Derechos Humanos reconocidos en la Constitución o en los Tratados Internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público;
+X. Constitución Local, a la Constitución Política del Estado Libre y Soberano de Morelos;
 
-X. Derecho a la información: El Estado debe garantizar el derecho y acceso a la información por parte de la víctima, sus representantes y abogados, en su caso, con el objeto de posibilitar la materialización de sus derechos, en el marco de las normas que establecen reserva legal y regulan el manejo de información confidencial;
+XI. Constitución, a la Constitución Política de los Estados Unidos Mexicanos;
 
-XI. Derecho a la justicia: Es deber del Estado garantizar y adelantar una investigación efectiva que conduzca al esclarecimiento de las violaciones descritas en la presente Ley, la identificación de los responsables y su respectiva sanción. Las víctimas tendrán acceso a las medidas de atención, asistencia y reparación contempladas en esta Ley o en otros instrumentos legales sobre la materia, sin perjuicio de su ejercicio del derecho de acceso a la justicia;
+XII. Daño, a la muerte o lesiones corporales, daños o perjuicios morales y materiales, con excepción de los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros y los costos; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por su implementación, en la medida en que los daños deriven o resulten;
 
-XII. Derecho a la verdad: Las víctimas individuales y colectivas, sus familiares y la sociedad en general, tienen el derecho imprescriptible e inalienable a conocer la verdad acerca de los motivos y las circunstancias en que se cometieron las violaciones que se describen en la presente Ley y, en caso de fallecimiento o desaparición, acerca de la suerte que corrió la víctima y al esclarecimiento de su paradero; y
+XIII. Delito, a la conducta típica, antijurídica y culpable que sanciona la legislación penal aplicable;
 
-XIII. Derecho a la reparación integral: Las víctimas tienen derecho a ser reparadas de manera adecuada, diferenciada, transformadora y efectiva por el daño que han sufrido como consecuencia de las violaciones descritas en la presente Ley. La reparación comprende las medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima dependiendo de la vulneración en sus derechos y las características del hecho victimizante.
+XIV. Derecho a la información, a la facultad de las víctimas, sus representantes y abogados, de exigir del Estado el acceso a la información necesaria que posibilite la materialización de sus derechos; lo anterior en el marco de las normas que establecen reserva legal y regulan el manejo de información confidencial;
 
-Para propósitos de esta Ley se entenderá por:
+XV. Derecho a la justicia, a la facultad de las víctimas de exigir del Estado garantice y prosiga una investigación efectiva que conduzca al esclarecimiento de las violaciones descritas en la presente Ley, la identificación de los responsables y su respectiva sanción;
 
-a) Asesor Jurídico estatal: Al Asesor Jurídico estatal de Atención a Víctimas o equivalente en el Estado de Morelos;
+XVI. Derecho a la reparación integral, a la facultad de las víctimas de exigir del Estado repare de manera adecuada, diferenciada, transformadora y efectiva el daño que han sufrido como consecuencia de las violaciones descritas en la presente Ley;
 
-b) Asesoría Jurídica Estatal: A la Asesoría Jurídica Estatal de Atención a Víctimas;
+XVII. Derecho a la verdad, a la facultad de las víctimas de exigir del Estado el conocimiento de los motivos y las circunstancias en que se cometieron las violaciones que se describen en la presente Ley y, en caso de desaparición, el esclarecimiento de su paradero;
 
-c) Centros de Atención Integral a Víctimas: A los espacios públicos al alcance de las víctimas, ubicados en diferentes lugares del territorio del Estado de Morelos, en donde confluyen las instituciones encargadas de la aplicación de la presente Ley, para prestarles atención integral;
+XVIII. Entorno familiar, a aquellas personas que tengan una relación de parentesco en línea recta o colateral, o bien una relación inmediata formal o informal con la víctima directa del delito o la violación de derechos humanos;
 
-d) Comisión Ejecutiva Estatal: A la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
+XIX. Estado, al Gobierno del Estado de Morelos;
 
-e) Constitución: A la Constitución Política de los Estados Unidos Mexicanos;
+XX. Estatuto Orgánico, al Estatuto Orgánico de la Comisión Ejecutiva Estatal;
 
-f) Fondo: Al Fondo de Ayuda, Asistencia y Reparación Integral;
+XXI. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
-g) Instituciones: A todas las oficinas, dependencias, órganos, organismos o cualquier otra área del poder público, incluyendo los tres poderes del Estado, los órganos constitucionales autónomos y aquellos que tienen autonomía académica;
+XXII. Fondo Federal, al Fondo de Ayuda, Asistencia y Reparación Integral en los términos de la Ley General de Víctimas;
 
-h) Ley: A esta Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos;
+XXIII. Fondo, al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Morelos;
 
-i) Modelo: Al Modelo Integral de Atención en Salud;
+XXIV. Gobernador del Estado, a la persona titular del Poder Ejecutivo Estatal;
 
-j) Programa de Atención: Al Programa Único de Ayuda, Asistencia y Atención Integral a Víctimas;
+XXV. Hecho victimizante, a los actos u omisiones que dañan, menoscaban o ponen en peligro bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que el Estado mexicano forma parte;
 
-k) Programa de Protección: Al Programa de Protección a Víctimas, Testigos, Defensores y Defensoras de Derechos Humanos y Servidores Públicos del Estado de Morelos;
+XXVI. Instituciones, a todas las Secretarías, Dependencias, Entidades, órganos, organismos o cualquier otra área del poder público, incluyendo a los tres Poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos y aquellos que tienen autonomía académica;
 
-l) Reglamento: Al Reglamento de la presente Ley;
+XXVII. Ley General, a la Ley General de Víctimas;
 
-m) Registro Único de Víctimas del Estado de Morelos: Al Mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas del delito y de violaciones de Derechos Humanos al Sistema creado por la Ley General de Víctimas de forma complementaria al Registro Nacional de Víctimas;
+XXVIII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-n) Servidores Públicos: A toda persona que desempeñe cualquier empleo, cargo o comisión en los Poderes del Estado, los organismos constitucionales autónomos, los ayuntamientos, las instituciones de educación superior y las instituciones de educación superior con autonomía académica; y
+XXIX. Ley, al presente instrumento Jurídico;
 
-o) Sistema: Sistema Nacional de Atención a Víctimas.
+XXX. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos u otros correspondientes a las áreas de la Comisión Ejecutiva Estatal;
 
-###### ARTÍCULO 9.
+XXXI. Modelo, al Modelo Integral de Atención en Salud creado por la Comisión Ejecutiva Estatal;
 
-Los derechos de las víctimas que prevé la presente Ley son de carácter enunciativo y no limitativo y deberán ser interpretados de conformidad con lo dispuesto en el Artículo 3 de este cuerpo normativo, favoreciendo en todo tiempo la protección más amplia de sus derechos.
+XXXII. Núcleo esencial, a aquella parte esencial de un derecho fundamental, que no puede ser restringida o limitada. Es el mínimo de garantía de ese derecho, sin el cual la persona no podría desarrollarse o vivir como ser humano;
+
+XXXIII. Programa de Protección, al Programa de Protección a Víctimas, Testigos, Periodistas, Defensores y Defensoras de Derechos Humanos y Servidores Públicos del Estado de Morelos;
+
+XXXIV. Programa Integral, al Programa de Ayuda, Asistencia, Atención y Reparación Integral a Víctimas;
+
+XXXV. Recursos de Ayuda, a los gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstos en esta Ley, con cargo al Fondo;
+
+XXXVI. Registro Estatal de Víctimas, al mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas del delito y de violaciones de derechos humanos al Sistema Nacional creado por la Ley General de forma complementaria al Registro Nacional de Víctimas, en términos del artículo 124 de esta Ley;
+
+XXXVII. Reglamento, al Reglamento de la presente Ley;
+
+XXXVIII. Reparación Integral, a aquellas medidas que tienden a remendar los daños sufridos como consecuencia de las violaciones descritas en la presente Ley, garantizando a la víctima la compensación de las consecuencias de la medida o situación que ha configurado la vulneración de sus derechos, dependiendo de si el daño ocasionado es en el plano material o inmaterial, conforme lo establecido en el artículo 72 de la presente Ley;
+
+XXXIX. Servidores Públicos, a toda persona que desempeñe cualquier empleo, cargo o comisión en las instituciones;
+
+XL. Sistema Estatal, al Sistema Estatal de Atención a Víctimas;
+
+XLI. Sistema Nacional, al Sistema Nacional de Atención a Víctimas, y
+
+XLII. Violación de Derechos Humanos, a todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución o en los Tratados Internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO II. DE LOS DERECHOS EN LO GENERAL DE LAS VÍCTIMAS
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 7.
+
+Los derechos de las víctimas que prevé la presente Ley son de carácter enunciativo y no limitativo y deberán ser interpretados de conformidad con lo dispuesto en el artículo 3 de esta Ley, favoreciendo en todo tiempo la protección más amplia de sus derechos.
 
 Las víctimas tendrán, entre otros, los siguientes derechos:
 
-I. A una investigación pronta y eficaz que lleve, en su caso, a la identificación y enjuiciamiento de los responsables de violaciones de los Derechos Humanos y a su reparación integral;
+I. A una investigación pronta y eficaz que lleve, en su caso, a la identificación y enjuiciamiento de los responsables de violaciones de los derechos humanos y a su reparación integral;
 
-II. A ser reparadas de manera integral, adecuada diferenciada, transformadora y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de las violaciones a Derechos Humanos;
+II. A ser reparadas por el Estado de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de las violaciones a derechos humanos;
 
-III. A conocer la verdad de lo ocurrido acerca de los hechos en que les fueron violados sus Derechos Humanos para lo cual la autoridad deberá informar los resultados de las investigaciones y de los derechos que en su favor contemplan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, así como en las leyes de la materia;
+III. A conocer la verdad de lo ocurrido acerca de los hechos en que les fueron violados sus derechos humanos, para lo cual la autoridad deberá informar los resultados de las investigaciones y de los derechos que en su favor contemplan la Constitución, la Constitución Local, así como en la normativa de la materia;
 
-IV. A que se les brinde protección y se salvaguarde su vida y su integridad corporal;
+IV. A que se les brinde protección y se salvaguarde su vida y su integridad corporal en los casos previstos en el artículo 34 de la Ley Federal contra la Delincuencia Organizada;
 
-V. A ser tratadas con humanidad y respeto de su dignidad y sus Derechos Humanos por parte de los servidores públicos y, en general, por el personal de las instituciones públicas responsables del cumplimiento de esta Ley, así como por parte de los particulares que cuenten con convenios para brindar servicios a las víctimas;
+V. A ser tratadas con humanidad y respeto de su dignidad y sus derechos humanos por parte de los servidores públicos y, en general, por el personal de las instituciones responsables del cumplimiento de esta Ley, así como por parte de los particulares que cuenten con convenios para brindar servicios a las víctimas;
 
 VI. A solicitar y a recibir ayuda, asistencia y atención en forma oportuna, rápida, equitativa, gratuita y efectiva por personal especializado en atención al daño sufrido desde la comisión del hecho victimizante, con independencia del lugar en donde ella se encuentre; así como a que esa ayuda, asistencia y atención no dé lugar, en ningún caso, a una nueva afectación;
 
 VII. A la verdad, a la justicia y a la reparación integral a través de recursos y procedimientos accesibles, apropiados, suficientes, rápidos y eficaces;
 
-VIII. A la protección del Estado, incluido su bienestar físico y psicológico y la seguridad de su entorno, con respeto a su dignidad y privacidad de la víctima, con independencia de que se encuentre dentro de un proceso penal o de cualquier otra índole. Lo anterior incluye el derecho a la protección de su intimidad contra injerencias ilegítimas, así como derecho a contar ella y sus familiares con medidas de protección eficaces cuando su vida, integridad o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de víctima o del ejercicio de sus derechos;
+VIII. A la protección del Estado, incluido su bienestar físico y psicológico y la seguridad de su entorno, con respeto a su dignidad y privacidad de la víctima, con independencia de que se encuentre dentro de un proceso penal o de cualquier otra índole. Lo anterior incluye el derecho a la protección de su intimidad contra injerencias ilegítimas, así como derecho a contar, ella y sus familiares, con medidas de protección eficaces cuando su vida, integridad o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de víctima o del ejercicio de sus derechos;
 
 IX. A solicitar y a recibir información clara, precisa y accesible sobre las rutas y los medios de acceso a los procedimientos, mecanismos y medidas que se establecen en la presente Ley;
 
-X. A solicitar, acceder y recibir, en forma clara y precisa, toda la información oficial necesaria para lograr el pleno ejercicio de cada uno de sus derechos;
+X. A solicitar, acceder y recibir, en forma clara y precisa, toda la información oficial necesaria para lograr el pleno ejercicio de cada uno de sus derechos, conforme la normativa aplicable;
 
-XI. A obtener en forma oportuna, rápida y efectiva todos los documentos que requiera para el ejercicio de sus derechos, respetando los procedimientos que establezcan las leyes;
+XI. A obtener en forma oportuna, rápida y efectiva todos los documentos que requiera para el ejercicio de sus derechos, respetando los procedimientos que establezca la normativa aplicable;
 
-XII. A conocer el Estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente;
+XII. A conocer el estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente;
 
 XIII. A ser efectivamente escuchada por la autoridad respectiva, cuando se encuentre presente en la audiencia, diligencia o en cualquier otra actuación y antes de que la autoridad se pronuncie;
 
-XIV. A ser notificado de las resoluciones que se dicten en el Sistema relativas a las solicitudes de ingreso y de medidas de ayuda, de asistencia y reparación integral que se dicten;
+XIV. A ser notificada de las resoluciones relativas a las solicitudes de ingreso al Registro Estatal de Víctimas y de medidas de ayuda, de asistencia y de reparación integral que se dicten;
 
 XV. A que su consulado sea inmediatamente notificado conforme a las normas internacionales que protegen el derecho a la asistencia consular, cuando se trate de víctimas extranjeras;
 
@@ -269,109 +309,145 @@ XVI. A la reunificación familiar cuando por razón de su tipo de victimización
 
 XVII. A retornar a su lugar de origen o a reubicarse en condiciones de voluntariedad, seguridad y dignidad;
 
-XVIII. A acudir y a participar en escenarios de diálogo institucional;
+XVIII. A acudir y participar en escenarios de diálogo institucional;
 
 XIX. A ser beneficiaria de las acciones afirmativas y programas sociales públicos para proteger y garantizar sus derechos;
 
 XX. A participar en la formulación, implementación y seguimiento de la política pública de prevención, ayuda, atención, asistencia y reparación integral;
 
-XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores y población indígena;
+XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, la población indígena y las personas en situación de desplazamiento interno;
 
 XXII. A no ser discriminadas ni limitadas en sus derechos;
 
 XXIII. A recibir tratamiento especializado que le permita su rehabilitación física y psicológica con la finalidad de lograr su reintegración a la sociedad;
 
-XXIV. A acceder a los mecanismos de justicia disponibles para determinar la responsabilidad en la comisión del delito o de la violación de los Derechos Humanos;
+XXIV. A acceder a los mecanismos de justicia disponibles para determinar la responsabilidad en la comisión del delito o de la violación de los derechos humanos;
 
 XXV. A tomar decisiones informadas sobre las vías de acceso a la justicia o mecanismos alternativos;
 
 XXVI. A una investigación pronta y efectiva que lleve a la identificación, captura, procesamiento y sanción de manera adecuada de todos los responsables del daño, al esclarecimiento de los hechos y a la reparación del daño;
 
-XXVII. A participar activamente en la búsqueda de la verdad de los hechos y en los mecanismos de acceso a la justicia que estén a su disposición, conforme a los procedimientos establecidos en la ley de la materia;
+XXVII. A participar activamente en la búsqueda de la verdad de los hechos y en los mecanismos de acceso a la justicia que estén a su disposición, conforme a los procedimientos establecidos en la normativa aplicable;
 
 XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e instancias correspondientes y a que éstas, en su caso, sean consideradas en las decisiones que afecten sus intereses;
 
 XXIX. A ejercer los recursos legales en contra de las decisiones que afecten sus intereses y el ejercicio de sus derechos;
 
-XXX. A que se les otorgue, en los casos que procedan, la ayuda provisional y humanitaria;
+XXX. A que se les otorgue la ayuda provisional de los Recursos de Ayuda de la Comisión Ejecutiva Estatal o de la Comisión Ejecutiva Federal en los términos de la normativa aplicable;
 
 XXXI. A recibir gratuitamente la asistencia de un intérprete o traductor de su lengua, en caso de que no hablen el idioma español o tengan discapacidad auditiva, verbal o visual;
 
 XXXII. A trabajar de forma colectiva con otras víctimas para la defensa de sus derechos, incluida su reincorporación a la sociedad;
 
-XXXIII. A participar con espacios colectivos donde se proporcione el apoyo individual o colectivo y que le permitan relacionarse con otras víctimas;
+XXXIII. A participar con espacios colectivos donde se proporcione el apoyo individual o colectivo que le permita relacionarse con otras víctimas;
 
-XXXIV. A recibir la protección de su identidad, datos personales y confidencialidad; y
+XXXIV. Toda comparecencia ante el órgano investigador, el juez o tribunal, organismo público de protección de los derechos humanos, o ante cualquiera otra autoridad o perito que requiera la presencia de la Víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo o la normativa aplicable;
 
-XXXV. Los demás señalados por las normas internacionales, federales y locales.
+XXXV. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes; de los intervinientes o colaboradores en un procedimiento penal; así como de las personas o familiares cercanas a todos ellos, se otorgará además de los dispuesto por esta Ley en términos de la normativa aplicable;
 
-### CAPÍTULO III. DE LOS DERECHOS DE LAS VÍCTIMAS
+XXXVI. Tener acceso ágil, eficaz y transparente a los fondos de ayuda federal y estatal en términos de esta Ley;
 
-###### ARTÍCULO 10.
+XXXVII. A recibir la protección de su identidad, datos personales y confidencialidad, y
+
+XXXVIII. Los demás señalados por la Constitución, los Tratados Internacionales, la Ley General, las normas federales y locales.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 8.
 
 La información y asesoría a las víctimas deberán brindarse en forma gratuita y por profesionales conocedores de los derechos de las víctimas, garantizándoles a ellas siempre un trato respetuoso de su dignidad y el acceso efectivo al ejercicio pleno y tranquilo de todos sus derechos.
 
-###### ARTÍCULO 11.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 9.
 
 Toda persona tendrá derecho a saber si sus datos personales se encuentran en los archivos estatales y, en ese caso, después de ejercer su derecho de consulta, a impugnar la legitimidad de las informaciones y contenidos que le conciernan, ejerciendo el derecho que corresponda. La autoridad garantizará que el documento modificado después de la impugnación incluya una referencia clara a las informaciones y contenidos del documento cuya validez se impugna y ambos se entregarán juntos cuando se solicite el primero. Para casos de personas fallecidas, este derecho podrá ser ejercido por sus familiares considerando las relaciones de parentesco que establece el Código Familiar para el Estado Libre y Soberano de Morelos.
 
-## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS VÍCTIMAS A LA AYUDA, ASISTENCIA Y ATENCIÓN
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 12.
+### CAPÍTULO III. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
-Las víctimas recibirán ayuda inmediata de acuerdo con las necesidades que tengan relación directa con el hecho victimizante. Desde el momento en el que las autoridades tengan conocimiento del delito o de la violación de los derechos, deberán:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-I. Garantizar la satisfacción de sus necesidades de alimentación;
+###### Artículo 10.
 
-II. Atender el aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia; y
+Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión Ejecutiva Estatal o la Comisión Ejecutiva Federal, según corresponda, de acuerdo con las necesidades que tengan relación directa con el hecho victimizante.
 
-III. Proporcionar transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos.
+Desde el momento en el que las autoridades tengan conocimiento del delito o de la violación de los derechos, deberán garantizar la satisfacción de sus necesidades de:
+
+I. Alimentación;
+
+II. Aseo personal;
+
+III. Manejo de abastecimientos;
+
+IV. Atención médica y psicológica de emergencia;
+
+V. Transporte de emergencia, y
+
+VI. Alojamiento transitorio en condiciones dignas y seguras.
 
 Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género, diferencial y especializado, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
-Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán ayuda médica y psicológica especializada de urgencia en los términos de la presente Ley.
+Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 
-Las medidas de ayuda, asistencia, atención y demás establecidas en esta Ley, se brindarán exclusivamente por las instituciones públicas de la entidad y Municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
+Las medidas de ayuda inmediata, ayuda, asistencia, atención, rehabilitación y demás establecidas en esta Ley, se brindarán exclusivamente por las instituciones públicas de la Entidad o Municipios, en el ámbito de sus competencias, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
 
-###### ARTÍCULO 13.
+Las víctimas podrán requerir que las medidas materia de esta Ley le sean proporcionadas por una institución distinta a aquélla o aquéllas que hayan estado involucradas en el hecho victimizante, ya sea de carácter público o privado, a fin de evitar un nuevo proceso de victimización.
 
-Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral a la (sic) que tuvieran derecho las víctimas.
+En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva Estatal podrá autorizar que la víctima acuda a una institución de carácter privado con cargo al Fondo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+La Comisión Ejecutiva Estatal deberá otorgar, con cargo al Fondo los Recursos de Ayuda, medidas de ayuda provisional, ayuda, asistencia, atención y rehabilitación que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho victimizante. La Comisión Ejecutiva Estatal requerirá a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 143 de esta Ley.
 
-###### ARTÍCULO 14.
+La Comisión Ejecutiva Estatal podrá solicitar por escrito a la Comisión Ejecutiva Federal, para que esta última cubra con cargo a su Fondo, medidas de ayuda inmediata cuando la primera no cuente con disponibilidad de recursos, y se comprometa a resarcirlos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley General.
 
-En el Estado de Morelos se creará un Programa Único de Ayuda, Asistencia y Atención Integral para las Víctimas, y sus familias, compuesto por los servicios de salud, alojamiento y alimentación, transporte, protección, asesoría y acompañamiento jurídico. Así como de medidas de asistencia y atención tendientes a restablecer a la víctima en el ejercicio pleno de sus derechos y a promover la superación de su condición, dentro de las que se encuentran medidas en materia de: educación; económicas y de desarrollo; de atención y asistencia en materia de procuración y administración de justicia.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 15.
+###### Artículo 11.
 
-Los Centros de Atención Integral a Víctimas deberán estar al alcance de las víctimas en diferentes lugares de Morelos. Estos centros contarán con el personal competente y capacitado para atender a víctimas en materia psicológica, médica, jurídica así como derivar a las instituciones competentes a las víctimas para que reciban la ayuda, asistencia y atención apropiada y especializada. Para este fin se debe establecer rutas únicas de atención que deben estar contempladas en el Programa Único de Atención a Víctimas diseñado por la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
+Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral a la que tuvieran derecho las víctimas, por lo tanto, el costo o las erogaciones en que incurra el Estado en la prestación de los servicios de atención y asistencia, en ningún caso serán descontados de la compensación a que tuvieran derecho las víctimas.
 
-La Comisión Ejecutiva de Atención y Reparación a Víctimas reglamentará lo referente al funcionamiento y responsabilidades de estos centros.
+El Estado debe cubrir las erogaciones derivadas de las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación que brinde la Comisión Ejecutiva Estatal a través de los Recursos de Ayuda.
 
-###### ARTÍCULO 16.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-El Estado de Morelos ofrecerá y prestará ayuda, asistencia y atención, independientemente de que la víctima presente o no denuncia por los hechos que las motivan.
+###### Artículo 12.
 
-Todas las medidas de ayuda, asistencia, atención, protección o servicios otorgados por las instituciones públicas, del Estado y de los Municipios, a las víctimas por cualquier hecho, serán gratuitos. Ésas recibirán un trato digno con independencia de su capacidad socio-económica y sin exigir otras condiciones previas que las establecidas en la presente Ley.
+En el estado de Morelos se creará un Programa Integral para las víctimas y sus familias conforme a la normativa aplicable, compuesto por los servicios de salud, alojamiento y alimentación, transporte, protección, asesoría y acompañamiento jurídico. Así como de medidas de asistencia y atención tendientes a restablecer a la víctima en el ejercicio pleno de sus derechos y a promover la superación de su condición, dentro de las que se encuentran medidas en materia de educación; económicas y de desarrollo; de atención y asistencia en materia de procuración y administración de justicia. Asimismo, fijará una metodología que permita establecer un plan individual de reparación integral para cada víctima, en el que se determinen los derechos vulnerados y el daño causado, y se establezcan las medidas necesarias para garantizar la reparación integral.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Sin perjuicio de las competencias del Ministerio Público, se crea la figura del Representante Especial para niños, niñas y adolescentes que deberá acompañar a los menores de edad en todo lo que se refiere a la aplicación de la presente Ley. Cualquier persona, servidor público, institución pública o privada que tenga conocimiento de un hecho que afecte a los niños, niñas y adolescentes, deberá comunicar al representante, de forma inmediata, la situación de que se trate, para garantizar la ayuda, asistencia y atención de aquéllos, conforme al reglamento que se expida.
+###### Artículo 13.
 
-###### ARTÍCULO 18.
+El Estado ofrecerá y prestará ayuda, asistencia y atención, independientemente de que la víctima presente o no denuncia por los hechos que las (sic) motivan.
+
+Todas las medidas de ayuda, asistencia, atención, protección o servicios otorgados por las instituciones, del Estado y de los Municipios, a las víctimas por cualquier hecho, serán gratuitos. Ésas recibirán un trato digno con independencia de su capacidad socio-económica y sin exigir otras condiciones previas que las establecidas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO IV. DE LAS MEDIDAS DE AYUDA INMEDIATA
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 14.
 
 La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, menores de edad, adultos mayores y población indígena.
+Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
-###### ARTÍCULO 19.
+Las medidas de ayuda inmediata previstas en el presente Capítulo podrán cubrirse con cargo a los Recursos de Ayuda, según corresponda, en coordinación con las autoridades correspondientes en el ámbito de sus competencias.
 
-Las instituciones hospitalarias públicas del Estado de Morelos y sus Municipios tienen la obligación de dar atención de urgencia a las víctimas que lo requieran, de acuerdo a los protocolos de atención, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 20.
+###### Artículo 15.
+
+Las instituciones hospitalarias públicas del estado de Morelos y sus Municipios tienen la obligación de dar atención de urgencia a las víctimas que lo requieran, de acuerdo a los protocolos de atención, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 16.
 
 Los servicios de emergencia médica, odontológica, quirúrgica y hospitalaria consistirán en:
 
@@ -385,375 +461,415 @@ IV. Honorarios médicos, en caso de que el sistema de salud más accesible para 
 
 V. Servicios de análisis médicos, laboratorios e imágenes diagnósticas;
 
-VI. Unidades móviles de atención hospitalaria;
+VI. Transporte y ambulancia;
 
-VII. Servicios de atención mental en los casos en que, como consecuencia del delito o la violación a sus Derechos Humanos, la persona quede gravemente afectada psicológica o psiquiátricamente;
+VII. Servicios de atención mental en los casos en que, como consecuencia del delito o la violación a sus derechos humanos, la persona quede gravemente afectada psicológica o psiquiátricamente;
 
-VIII. Servicios odontológicos reconstructivos por los daños causados como consecuencia del hecho delictivo o la violación a los Derechos Humanos;
+VIII. Servicios odontológicos reconstructivos por los daños causados como consecuencia del hecho delictivo o la violación a los derechos humanos;
 
-IX. Servicios que se prevean en la Ley General de Víctimas y en la presente Ley, con absoluto respeto de la voluntad de la víctima;
+IX. Servicios de interrupción voluntaria del embarazo en los casos permitidos por la normativa aplicable, con absoluto respeto de la voluntad de la víctima, y
 
-X. La atención para la salud sexual de las víctimas; y
+X. La atención para los derechos sexuales y reproductivos de las víctimas.
 
-XI. En caso de que la unidad médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus costos hayan sido cubiertos por la víctima, o en caso de la fracción IV, a las autoridades Estatales o Municipales, según corresponda, lo reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
+En caso de que la unidad médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus costos hayan sido cubiertos por la víctima, o en el caso de que haya hecho el pago de los honorarios a que se refiere la fracción IV, las autoridades estatales o municipales, según corresponda, lo reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La Comisión Ejecutiva Estatal, velará por la aplicación eficaz del Modelo de Atención Integral en Salud con enfoque psicosocial, de educación de prevención y promoción y asistencia social definido por la Comisión Ejecutiva establecida en la Ley General de Víctimas, en concordancia con los programas de salud establecidos en la Ley General de la Salud.
+###### Artículo 17.
 
-El acompañamiento psicosocial deberá ser transversal al proceso de reparación y prolongarse en el tiempo de acuerdo con las necesidades de las víctimas, sus familiares y la comunidad.
+La Comisión Ejecutiva Estatal definirá y garantizará la creación del Modelo con enfoque psicosocial, de educación y asistencia social, el cual deberá contemplar los mecanismos de articulación y coordinación entre las diferentes autoridades obligadas e instituciones de asistencia pública que conforme al Reglamento de esta Ley presten los servicios subrogados a los que ella hace referencia. Este modelo deberá contemplar el servicio a aquellas personas que no sean beneficiarias de un sistema de prestación social o será complementario cuando los servicios especializados necesarios no puedan ser brindados por el sistema al cual pertenece.
 
-El Modelo deberá incluir lo siguiente:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-1. Proactividad. Los servicios de atención deben buscar el acercamiento a las víctimas.
+###### Artículo 18.
 
-2. Atención individual, familiar y comunitaria. Se deberá garantizar una atención de calidad por parte de profesionales con formación técnica específica y experiencia relacionada, especialmente cuando se trate de víctimas de violencia sexual, para lo cual deberá contar con un componente de atención psicosocial para atención de víctimas. Se deberá incluir entre sus prestaciones la terapia individual, familiar y acciones comunitarias según protocolos de atención que deberán diseñarse e implementarse localmente en función del tipo de violencia y del marco cultural de las víctimas.
+El Estado, a través de sus instituciones de salud pública, así como aquellos Municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias, estarán obligadas a otorgar el carnet que identifique a las víctimas ante el sistema de salud, con el fin de garantizar la asistencia y atención urgentes para efectos reparadores.
 
-3. Gratuidad. Se garantizará a las víctimas el acceso gratuito a los servicios del Modelo de Atención Integral en Salud a Víctimas, incluyendo el acceso a medicamentos en los casos en que esto fuera requerido y la financiación de los gastos de desplazamiento cuando sea necesario.
+El proceso de credencialización se realizará de manera gradual y progresiva dando prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicho carnet y requieran atención inmediata deberán ser atendidas de manera prioritaria.
 
-4. Duración. La atención estará sujeta a las necesidades particulares de las víctimas y al dictamen emitido por el equipo de profesionales.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-5. Ingreso. Se diseñará un mecanismo de ingreso e identificación que defina la condición de beneficiario del Modelo de Atención Integral en Salud y permita el acceso a los servicios de atención.
+###### Artículo 19.
 
-6. Multidisciplinariedad. Se crearán mecanismos de prestación de servicios constituidos por profesionales en psicología y psiquiatría, con el apoyo de trabajadores sociales, médicos, enfermeras, promotores comunitarios entre otros profesionales, en función de las necesidades locales, garantizando la integralidad de acción para el adecuado cumplimiento de sus fines.
+En materia de asistencia y atención médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud, la Ley de Salud del Estado de Morelos y demás normativa aplicable para los usuarios de los servicios de salud, y tendrá los siguientes derechos adicionales:
 
-Las autoridades de salud en el Estado, bajo la coordinación de la Comisión Ejecutiva Estatal, reglamentarán la estructura, funciones y la forma en que operará el Modelo de Atención Integral en Salud.
+I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de las unidades médicas públicas, estatales y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridos por cada víctima. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente Ley, las cuales, si así lo determina el profesionista, se continuarán brindando hasta el final del tratamiento;
 
-###### ARTÍCULO 22.
-
-En materia de asistencia y atención médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud, para los usuarios de los servicios de salud y tendrá los siguientes derechos adicionales:
-
-I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de las unidades médicas públicas estatales y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los Derechos Humanos sufridos por cada víctima. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente Ley, las cuales, si así lo determina el profesionista, se continuarán brindando hasta el final del tratamiento;
-
-II. El Estado de Morelos, a través de sus organismos, dependencias y entidades de Salud Pública, así como aquellos Municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán otorgar citas médicas, en el menor tiempo posible y no mayor al contemplado en la Ley General de Víctimas, previa solicitud, salvo que sean casos de atención de urgencia en salud, en cuyo caso la atención será inmediata;
+II. El Estado a través de sus unidades médicas públicas, estatales y municipales, que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán otorgar citas médicas, en el menor tiempo posible y no mayor al contemplado en la Ley General, previa solicitud, salvo que sean casos de atención de urgencia en salud, en cuyo caso la atención será inmediata;
 
 III. Una vez realizada la valoración médica general o especializada, según sea el caso, y la correspondiente entrega de la receta médica, se hará la entrega inmediata de los medicamentos a los cuales la víctima tenga derecho y se le canalizará a los especialistas necesarios para el tratamiento integral;
 
-IV. Se le proporcionará material médico quirúrgico, incluida prótesis, órtesis y demás instrumentos o aparatos que requiera para su movilidad conforme al diagnóstico dado por el especialista en la materia, así como los servicios de análisis médicos, laboratorios e imágenes diagnósticas y los servicios odontológicos reconstructivos que requiera por los daños causados como consecuencia del hecho punible o la violación a sus Derechos Humanos;
+IV. Se le proporcionará material médico quirúrgico, incluida prótesis, órtesis y demás instrumentos o aparatos que requiera para su movilidad conforme al diagnóstico dado por el especialista en la materia, así como los servicios de análisis médicos, laboratorios e imágenes diagnósticas y los servicios odontológicos reconstructivos que requiera por los daños causados como consecuencia del hecho punible o la violación a sus derechos humanos;
 
-V. Las autoridades Estatales y, en su caso, las Municipales, proporcionarán atención permanente en salud mental en los casos en que, como consecuencia del hecho victimizante, quede gravemente afectada psicológica y/o psiquiátricamente en la forma en que se determine en el Reglamento;
+V. Las autoridades estatales y, en su caso, las municipales, proporcionarán atención permanente en salud mental en los casos en que, como consecuencia del hecho victimizante, quede gravemente afectada psicológica o psiquiátricamente en la forma en que se determine en el Reglamento;
 
-VI. La atención materno-infantil permanente cuando sea el caso, incluyendo programas de nutrición; y
+VI. La atención materno-infantil permanente cuando sea el caso, incluyendo programas de nutrición, y
 
-VII. En aquellos lugares en donde no se cuente con infraestructura hospitalaria o médica, se deberán garantizar las condiciones necesarias de acceso al servicio de salud o atención para evitar que las víctimas tengan que recorrer grandes distancias y que permita atender a las víctimas de urgencia, para después hacer la debida derivación a centros de salud especializados, conforme a la normatividad aplicable.
+VII. En aquellos lugares en donde no se cuente con infraestructura hospitalaria o médica, se deberán garantizar las condiciones necesarias de acceso al servicio de salud o atención para evitar que las víctimas tengan que recorrer grandes distancias y que permita atender a las víctimas de urgencia, para después hacer la debida canalización a centros de salud especializados, conforme a la normativa aplicable.
 
-### CAPÍTULO II. DE LAS MEDIDAS EN MATERIA DE SALUD
+No podrá negarse la garantía de ejercer los derechos que protege este artículo a ninguna víctima que se encuentre fuera de su jurisdicción de derechohabientes.
 
-###### ARTÍCULO 23.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-A toda víctima de violación o cualquier otra conducta que afecte su integridad física o psicológica, se le garantizará el acceso a los servicios de la profilaxis post exposición para Virus de Inmunodeficiencia Humana y aquellos que se contemplen y prevean de conformidad con lo estipulado en la Ley General de Víctimas y lo previsto en la presente Ley, con absoluto respeto a la voluntad de la víctima; asimismo, se le realizará práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
+###### Artículo 20.
 
-En cada una de las entidades públicas que brinden servicios, asistencia y atención a las víctimas, se dispondrá de personal capacitado en el tratamiento de la violencia sexual con un enfoque transversal de género.
+A toda víctima de violación sexual, o cualquier otra conducta que afecte su integridad física o psicológica, se le garantizará el acceso a los servicios de anticoncepción de emergencia y de interrupción voluntaria del embarazo en los casos permitidos por la ley, con absoluto respeto a la voluntad de la víctima; asimismo, se le realizará práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
 
-### CAPÍTULO III. DE LAS MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
+En cada una de las instituciones públicas que brinden servicios, asistencia y atención a las víctimas, se dispondrá de personal capacitado en el tratamiento de la violencia sexual con un enfoque transversal de género.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-En caso de que la institución médica a la que acude o es enviada la víctima no cumpla con lo señalado en los artículos anteriores y sus costos hayan sido cubiertos por la víctima, el Fondo de Ayuda, Asistencia y Reparación Integral creado en esta Ley se los reembolsará de manera completa y rápida.
+###### Artículo 21.
 
-###### ARTÍCULO 25.
+El Estado, a través de sus instituciones de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, definirán los procedimientos para garantizar de manera gratuita los servicios de asistencia médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar de acuerdo al concepto médico y valoración, que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con las conductas.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de la Familia y demás instituciones públicas que existan y brinden estos servicios en el ámbito Estatal o Municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o desplazadas de su lugar de residencia por causa del hecho punible cometido contra ellas o de la violación de sus Derechos Humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se podrán establecer convenios de coordinación con instituciones privadas para la prestación de estos servicios.
+###### Artículo 22.
 
-### CAPÍTULO IV. DE LAS MEDIDAS EN MATERIA DE TRANSPORTE
+En caso de que la institución médica a la que acude o es enviada la víctima no cumpla con lo señalado en los artículos anteriores y sus gastos hayan sido cubiertos por la víctima, la autoridad competente, se los reembolsará de manera completa y expedita, teniendo dicha autoridad, el derecho de repetir contra los responsables.
 
-###### ARTÍCULO 26.
+Las normas reglamentarias aplicables establecerán el procedimiento necesario para solicitar el reembolso a que se refiere este artículo.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, creará los albergues para la Familia. De acuerdo con el diagnóstico elaborado, se adaptarán las medidas y requerimientos necesarios para su funcionamiento y se reglamentará la materia.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La atención de que sean objeto las mujeres, los niños, niñas y adolescentes, los discapacitados y los grupos étnicos, deberá contar con programas especiales que obedezcan a las necesidades propias de cada grupo poblacional.
+### CAPÍTULO V. DE LAS MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
 
-###### ARTÍCULO 27.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Cuando la víctima se encuentre en un lugar distinto a su lugar de residencia y desee regresar, el Ejecutivo Estatal cubrirá los gastos correspondientes, garantizando, en todos los casos, que el medio de transporte usado por la víctima para su regreso sea el más seguro y el que le cause menos molestia de acuerdo con sus condiciones. El Titular del Poder Ejecutivo del Estado reglamentará lo concerniente a los procedimientos necesarios que permitan garantizar que dicho retorno sea de carácter voluntario, seguro y digno.
+###### Artículo 23.
 
-###### ARTÍCULO 28.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de la Familia y las instituciones de las que dependen las casas de refugio y acogida que existan y brinden estos servicios en el ámbito estatal o municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia por causa del delito cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia, exista una solución duradera y pueda retornar libremente en condiciones seguras y dignas a su hogar.
 
-Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de Derechos Humanos sufrida, las autoridades del orden Estatal o Municipal, de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato las medidas ordinarias, extraordinarias o procesales que sean necesarias para evitar que la víctima sufra alguna lesión o daño.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las medidas de protección a las víctimas se deberán implementar con base en los siguientes principios:
+### CAPÍTULO VI. DE LAS MEDIDAS EN MATERIA DE TRASLADO
 
-I. Principio de protección: Considera primordial la protección de la vida, la integridad física, la libertad y la seguridad de las personas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-II. Principio de necesidad y proporcionalidad: Las medidas de protección deben responder al nivel de riesgo o peligro en que se encuentre la persona destinataria y deben ser aplicadas en cuanto sean necesarias para garantizar su seguridad o reducir los riesgos existentes;
+###### Artículo 24.
 
-III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser clasificada como confidencial para los fines de la investigación o del proceso respectivo; y
+Cuando la víctima se encuentre en un lugar distinto a su lugar de residencia y desee regresar al mismo, el Poder Ejecutivo Estatal cubrirá los gastos correspondientes, garantizando, en todos los casos, que el medio de transporte usado por la víctima para su regreso sea el más seguro y el que le cause menor molestia de acuerdo con sus condiciones. El Gobernador del Estado reglamentará lo concerniente a los procedimientos necesarios que permitan garantizar que dicho retorno sea de carácter voluntario, seguro y digno.
 
-IV. Principio de oportunidad y eficacia: Las medidas deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima y deben ser otorgadas e implementadas a partir del momento y durante el tiempo que garanticen su objetivo.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Serán sancionados administrativa, civil o penalmente, de conformidad con las leyes aplicables, los servidores públicos estatales o municipales que contribuyan a poner en riesgo la seguridad de las víctimas, ya sea a través de intimidación, represalias, amenazas directas, negligencia, o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
+###### Artículo 25.
 
-###### ARTÍCULO 29.
+La Comisión Ejecutiva Estatal cubrirá los gastos relacionados con los apoyos de traslados de las víctimas, que comprenden los conceptos de transportación, hospedaje y alimentación, cuando la víctima tenga que trasladarse por las siguientes causas:
 
-El Estado de Morelos, creará y reglamentará el Programa de Protección de Víctimas, Testigos, Defensores y Defensoras de Derechos Humanos y Servidores Públicos del Estado de Morelos. Este programa tendrá como objetivo implementar las medidas de protección integral a la población objeto referida, que intervengan en los procedimientos administrativos y judiciales de atención, asistencia, apoyo y reparación, a través de los cuales las víctimas reclaman sus derechos. En el caso de Defensores y Defensoras de Derechos Humanos, el sólo ejercicio de la actividad fundamenta la protección si de ella se deviene un riesgo. Las medidas de protección serán determinadas según el nivel de riesgo evaluado para cada caso particular y en la medida en que exista amenaza contra sus derechos fundamentales a la vida, la integridad física, la libertad y la seguridad personal, atendiendo a la normatividad existente sobre la materia.
+I. Formular denuncia o querella a efecto de que tengan reconocida su calidad procesal;
 
-Como Coordinadora del Programa, la Procuraduría General de Justicia del Estado, llevará un registro de todas las medidas adoptadas y velará porque las acciones adelantadas por otras entidades para garantizar la protección se realicen de forma coordinada, integral y efectiva.
+II. Desahogar diligencias o comparecer ante el Ministerio Público, sus autoridades auxiliares o bien para acudir ante las autoridades judiciales, las Comisiones Nacional o Estatal de Derechos Humanos u otra autoridad relacionada con los hechos victimizantes;
 
-Las medidas adoptadas deberán ser acordes con la amenaza que tratan de evitar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad.
+III. Solicitar medidas de seguridad o protección de las autoridades competentes, cuando la víctima considere que existe un probable riesgo a su vida o integridad física o psicoemocional, y
 
-Cuando las mujeres soliciten protección y esta sea aprobada, se deberá tener en cuenta el enfoque diferenciado y que las medidas respondan a este.
+IV. Recibir atención especializada o de tratamiento por alguna institución, pública o privada, cuando así sea autorizado en términos de (sic) artículo 10 de esta Ley, para el apoyo médico, psicológico o social que requiera.
 
-Para otorgar dicha protección y definir sus aspectos, se deberá realizar un estudio por la autoridad correspondiente para determinar el nivel de riesgo que se podrá definir como ordinario y extraordinario. Dicho Programa será reglamentado por el Poder Ejecutivo del Estado de Morelos a partir de la vigencia de la presente Ley, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva Estatal.
+En caso de que la Comisión Ejecutiva Estatal no haya cubierto los gastos referidos, la Comisión Ejecutiva Federal de conformidad con los lineamientos que para tal efecto se emitan, deberá brindar la ayuda a que se refiere el presente artículo, con cargo al Fondo; debiendo la Comisión Ejecutiva Estatal realizar el reintegro de los gastos respectivos, en términos de lo dispuesto por el artículo 39 Bis de la Ley General.
 
-###### ARTÍCULO 30.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO VII. DE LAS MEDIDAS EN MATERIA DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 26.
+
+Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, las autoridades del orden estatal o municipal de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas de protección que sean necesarias para evitar que la víctima sufra alguna lesión o daño; para su implementación deberán observarse los principios a que refiere la Ley General.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 27.
+
+El Programa de Protección será expedido por el Gobernador del Estado, su elaboración será coordinada por la Secretaría de Gobierno del Poder Ejecutivo Estatal, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva Estatal y conforme a la normativa aplicable.
+
+Tendrá como objeto implementar las medidas de protección integral a la población materia de su objeto, que intervengan en los procedimientos administrativos y judiciales de ayuda, atención, asistencia y reparación, a través de los cuales las víctimas reclaman sus derechos. En el caso de Periodistas, personas defensoras de derechos humanos, el sólo ejercicio de la actividad fundamenta la protección si de ella se deviene un riesgo. Las medidas de protección serán determinadas según el nivel de riesgo evaluado para cada caso particular y en la medida en que exista amenaza contra sus derechos fundamentales a la vida, la integridad física, la libertad y la seguridad personal, atendiendo a la normativa existente sobre la materia.
+
+La Comisión Ejecutiva Estatal llevará un registro de todas las medidas adoptadas y velará porque las acciones implementadas por otras autoridades para garantizar la protección se realicen de forma coordinada, integral y efectiva.
+
+Las medidas adoptadas deberán ser acordes con la amenaza que tratan de evitar y tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 28.
 
 Cuando las autoridades judiciales, administrativas o del Ministerio Público tengan conocimiento de situaciones de riesgo señaladas en el siguiente artículo, remitirán de inmediato tal información a la autoridad competente designada de acuerdo a los programas de protección, para que inicien el procedimiento urgente conducente a la protección de la víctima, de acuerdo a la evaluación de riesgo.
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 29.
 
 Las medidas de protección podrán extenderse al núcleo familiar, siempre que ello sea necesario, según el nivel de riesgo evaluado para cada caso particular y exista amenaza contra los derechos fundamentales a la vida, la integridad física, la libertad y la seguridad personal de los miembros del mismo. El estudio técnico de nivel de riesgo gozará de carácter reservado y confidencial.
 
-### CAPÍTULO V. DE LAS MEDIDAS EN MATERIA DE PROTECCIÓN
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 32.
+###### Artículo 30.
 
-El programa de protección deberá incluir los siguientes criterios:
+El Programa de Protección deberá incluir los siguientes criterios:
 
 I. Adopción de las medidas proporcionales al nivel de riesgo de la víctima antes, durante y después de su participación en procesos jurisdiccionales o administrativos;
 
 II. Valoración e identificación del riesgo y factores que lo generan, debiendo ser evaluado periódicamente y las medidas actualizadas de acuerdo a dicha evaluación;
 
-III. Protección, sin discriminación alguna, de las víctimas y testigos cuya vida, seguridad y libertad estén en riesgo con ocasión a su participación en procesos judiciales o administrativos contemplados en la normatividad relacionada con dichos programas. Por consiguiente, el programa establecerá las medidas sin perjuicio del tipo de delito que se investigue o juzgue, del presunto responsable del hecho, de la fecha de ocurrencia del delito o del procedimiento judicial o administrativo para el reclamo de los derechos, siempre y cuando exista un claro nexo causal entre las amenazas y la participación de la víctima o testigo;
+III. Protección, sin discriminación alguna, de las víctimas y testigos cuya vida, seguridad y libertad estén en riesgo con ocasión a su participación en procesos judiciales o administrativos contemplados en la normatividad relacionada con dichos programas. Por consiguiente, el Programa de Protección establecerá las medidas sin perjuicio del tipo de delito que se investigue o juzgue, del presunto responsable del hecho, de la fecha de ocurrencia del delito o del procedimiento judicial o administrativo para el reclamo de los derechos, siempre y cuando exista un claro nexo causal entre las amenazas y la participación de la víctima o testigo;
 
 IV. Adopción de los criterios necesarios para la evaluación de riesgo y las decisiones sobre las medidas que deberán atender y tomar en consideración los aspectos diferenciales por género, capacidad y cultura;
 
 V. Coordinación permanente con los programas de atención a víctimas, con el fin de atender el trauma causado por el hecho victimizante y la situación de riesgo generada;
 
-VI. Las medidas de protección deberán ser oportunas, específicas, adecuadas y eficientes para la protección de los beneficiarios del programa. Una vez decidida la medida de protección por parte de la autoridad que corresponda, la víctima o testigo podrá sugerir medidas alternativas o complementarias a la decidida si considera que ésta no resulta adecuada para las circunstancias particulares del caso. Por la autoridad que corresponda determinará su conveniencia, viabilidad y aplicabilidad;
+VI. Las medidas de protección deberán ser oportunas, específicas, adecuadas y eficientes para la protección de los beneficiarios del Programa de Protección. Una vez decidida la medida de protección por parte de la autoridad que corresponda, la víctima o testigo podrá sugerir medidas alternativas o complementarias a la decidida si considera que ésta no resulta adecuada para las circunstancias particulares del caso. Por la autoridad que corresponda determinará su conveniencia, viabilidad y aplicabilidad;
 
-VII. Las entrevistas realizadas con las víctimas dentro del marco del programa de protección deberán efectuarse en espacios que garanticen la seguridad y confidencialidad, en particular cuando involucren a mujeres, niñas, niños y adolescentes; y
+VII. Las entrevistas realizadas con las víctimas dentro del marco del programa de protección deberán efectuarse en espacios que garanticen la seguridad y confidencialidad, en particular cuando involucren a mujeres, niñas, niños y adolescentes, y
 
 VIII. Se deberá dar información permanente a las autoridades jurisdiccionales y administrativas que atiendan los procesos de investigación que ocasionaron o agravaron el riesgo, con la finalidad de que en el transcurso del mismo se tenga en cuenta la situación de la víctima y testigo. Especialmente, se tendrán en cuenta las razones que puedan impedir o dificultar la participación de aquellos en las diligencias y se adoptarán las oportunas medidas de apremio que lo garanticen.
 
-###### ARTÍCULO 33.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las autoridades Estatales y Municipales brindarán de inmediato a las víctimas información y asesoría completa y clara sobre los recursos y procedimientos judiciales, administrativos o de otro tipo a los cuales ellas tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima. Las autoridades Estatales y Municipales garantizarán a las víctimas la información y asesoría completa en los términos del presente artículo.
+###### Artículo 31.
+
+Las autoridades estatales y municipales brindarán de inmediato a las víctimas información y asesoría completa y clara sobre los recursos y procedimientos judiciales, administrativos o de otro tipo a los cuales ellas tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima.
+
+Las autoridades estatales y municipales garantizarán a las víctimas la información y asesoría completa en los términos del presente artículo.
 
 Para el efecto se adoptarán los criterios y mecanismos establecidos por la Comisión Ejecutiva Estatal.
 
-## TÍTULO TERCERO. DE LAS MEDIDAS DE ASISTENCIA Y ATENCIÓN TENDIENTES A RESTABLECER A LA VÍCTIMA EN EL EJERCICIO PLENO DE SUS DERECHOS Y A PROMOVER LA SUPERACIÓN DE SU CONDICIÓN
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 34.
+### CAPÍTULO VIII. DE LAS MEDIDAS DE ASISTENCIA Y ATENCIÓN
 
-Las autoridades Estatales y Municipales garantizarán que el acceso de las víctimas al Registro se haga de manera efectiva, rápida y diferencial con el fin de permitirles disfrutar de las medidas de asistencia y atención establecidas en la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 35.
+###### Artículo 32.
 
-Conforme a los lineamientos desarrollados por la Comisión Ejecutiva Estatal, las diferentes secretarías y dependencias del ejecutivo estatal y los Municipios deberán contar con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación.
+La Comisión Ejecutiva Estatal como responsable de la creación y gestión del Registro Estatal de Víctimas garantizará que el acceso de las víctimas a dicho Registro se haga de manera efectiva, rápida y diferencial con el fin de permitirles disfrutar de las medidas de asistencia y atención establecidos (sic) en la presente Ley.
 
-###### ARTÍCULO 36.
+El Sistema Estatal de Seguridad Pública recabará y concentrará información estadística sobre víctimas asistidas por la Comisión Ejecutiva Estatal, por modalidades de asistencia, ayuda o reparación y por tipo de delito o violación de derechos que la motivare. La información tendrá carácter público y en ningún caso incluirá datos personales.
 
-Las políticas y acciones establecidas en este Capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo, si como consecuencia del delito o de la violación a Derechos Humanos se interrumpen los estudios.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 37.
+###### Artículo 33.
+
+Conforme a los lineamientos desarrollados por la Comisión Ejecutiva Estatal, las diferentes instituciones del Poder Ejecutivo Estatal y los Municipios deberán contar con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y, en particular, el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 34.
+
+Todas las medidas de asistencia, atención, protección o servicios otorgados por las instituciones a las víctimas por cualquier hecho, serán gratuitos y éstas recibirán un trato digno con independencia de su capacidad socio-económica y sin exigir condición previa para su admisión a éstos que las establecidas en la presente Ley.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LAS MEDIDAS DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 35.
+
+Las políticas y acciones establecidas en este Capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo, si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante, particularmente a niñas, niños y adolescentes, mujeres, personas con discapacidad, migrantes, indígenas y personas en situación de desplazamiento interno. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 36.
 
 Las instituciones del sistema educativo estatal impartirán educación de manera tal que permita a la víctima incorporarse con prontitud a la sociedad y, en su oportunidad, desarrollar una actividad productiva.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Todas las autoridades educativas, en el ámbito de sus competencias, prestarán especial cuidado a los planteles escolares que, por la particular condición de la asistencia y atención a víctimas, enfrenten mayor posibilidad de atrasos o deserciones, debiendo promover las acciones necesarias para compensar los problemas educativos derivados de dicha condición.
+###### Artículo 37.
 
-###### ARTÍCULO 39.
+Todas las autoridades educativas en el ámbito de sus competencias otorgarán apoyos especiales a las escuelas que, por la particular condición de la asistencia y atención a víctimas, enfrenten mayor posibilidad de atrasos o deserciones, debiendo promover las acciones necesarias para compensar los problemas educativos derivados de dicha condición.
 
-La víctima o sus familiares, de conformidad con la presente Ley, tendrán el derecho de recibir becas completas en instituciones públicas de estudio, como mínimo hasta la educación media superior para sí o los dependientes que lo requieran. Igualmente, se buscará garantizar mecanismos de apoyo económicos para que las víctimas accedan a la educación preescolar, primaria, secundaria y media superior.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 40.
+###### Artículo 38.
 
-El Poder Ejecutivo del Estado, a través de sus Secretarías, Dependencias, Entidades y Organismos de Educación, así como aquellos Municipios que cuenten con la infraestructura y la capacidad de prestación de tales servicios, en el marco de sus competencias, deberán entregar a los niños, niñas y adolescentes víctimas los respectivos paquetes escolares y uniformes, para garantizar las condiciones dignas y su permanencia en el sistema educativo.
+Se establecerá un programa de becas permanente para el caso de las víctimas directas e indirectas que se encuentren cursando los niveles de educación primaria, secundaria, preparatoria o universidad en instituciones públicas, con la finalidad de que puedan continuar con sus estudios. Estos apoyos continuarán hasta el término de su educación superior.
 
-###### ARTÍCULO 41.
+El Estado a través de sus instituciones correspondientes y de los particulares con autorización o con reconocimiento de validez oficial de estudios, está obligado a prestar servicios educativos para que gratuitamente, cualquier víctima o sus hijos menores de edad, en igualdad efectiva de condiciones de acceso y permanencia en los servicios educativos que el resto de la población, pueda cursar la educación preescolar, la primaria y la secundaria. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución y conforme a la distribución de la función social educativa establecida en la Ley de Educación aplicable.
 
-La víctima o sus hijos menores de edad deberán tener acceso a los libros de texto y demás materiales educativos complementarios que las autoridades educativas determinen.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 42.
+###### Artículo 39.
 
-El Poder Ejecutivo Estatal, a través de sus Secretarías, Dependencias, Entidades y Organismos de Educación, y las Instituciones de Educación Superior, en el marco de su autonomía, establecerán los apoyos para que las víctimas participen en los procesos de selección, admisión y matrícula, que permitan a las víctimas que así lo requieran acceder a los Programas Académicos ofrecidos por estas Instituciones, para lo cual incluirán medidas de exención del pago de formulario de inscripción y de derechos de grado y podrán implementar medidas para el acceso preferencial de las víctimas.
+El Poder Ejecutivo Estatal, a través de sus instituciones de Educación, así como aquellos Municipios que cuenten con la infraestructura y la capacidad de prestación de tales servicios, en el marco de sus competencias, deberán entregar a niños, niñas y adolescentes víctimas los respectivos paquetes escolares y uniformes, para garantizar las condiciones dignas y su permanencia en el sistema educativo.
 
-###### ARTÍCULO 43.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las Instituciones de Educación Superior Privada podrán crear Programas Específicos de becas cuyos beneficiarios sean población víctima, que contribuyan para el desarrollo integral de los mismos.
+###### Artículo 40.
 
-###### ARTÍCULO 44.
+La víctima o niñas, niños o adolescentes que estén bajo su patria potestad o custodia deberán tener acceso a los libros de texto y demás materiales educativos complementarios que las autoridades educativas determinen.
 
-El Poder Ejecutivo del Estado de Morelos, dentro de la Política de Desarrollo Social, tendrá la obligación de garantizar que toda víctima reciba los beneficios de dicha política conforme a sus necesidades, particularmente para atender a las víctimas que hayan sufrido daños graves como consecuencia del hecho victimizante.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 45.
+###### Artículo 41.
+
+El Poder Ejecutivo Estatal, a través de sus instituciones de Educación, y las Instituciones de Educación Superior, en el marco de su autonomía, establecerán apoyos para que las víctimas participen en los procesos de selección, admisión y matrícula, que permitan a las víctimas que así lo requieran acceder a los Programas Académicos ofrecidos por estas Instituciones, para lo cual incluirán medidas de exención de pagos, como los pagos de inscripción y de derechos de grado y deberán implementar medidas para el acceso preferencial de las víctimas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 42.
+
+En los casos en que la víctima esté cursando sus estudios en una institución de educación privada, se realizarán las acciones conducentes a efecto de que el programa permanente a que se refiere el artículo 38 de esta Ley, considere becas para las víctimas que las beneficien hasta la conclusión del ciclo escolar en curso.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS MEDIDAS ECONÓMICAS Y DE DESARROLLO
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 43.
+
+El Poder Ejecutivo Estatal, dentro de la política de desarrollo social, tendrá la obligación de garantizar que toda víctima reciba los beneficios de dicha política conforme a sus necesidades, particularmente para atender a las víctimas que hayan sufrido daños graves como consecuencia del hecho victimizante.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 44.
 
 Son derechos para el desarrollo social, la educación, la salud, la alimentación, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social, así como los relativos a la no discriminación, en los términos de la Constitución y de los Tratados Internacionales de Derechos Humanos.
 
-###### ARTÍCULO 46.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las Secretarías, Dependencias y Entidades del Poder Ejecutivo Estatal, en sus respectivos ámbitos, formularán y aplicarán políticas y programas de asistencia, que incluyan oportunidades de desarrollo productivo e ingreso en beneficio de las víctimas, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables para ello.
+###### Artículo 45.
 
-###### ARTÍCULO 47.
+Las Instituciones, en sus respectivos ámbitos, formularán y aplicarán políticas y programas de asistencia, que incluyan oportunidades de desarrollo productivo e ingreso en beneficio de las víctimas, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables para ello.
 
-Las Autoridades Estatales y Municipales del Estado de Morelos, están obligadas a proporcionar la información necesaria de los programas aludidos en el artículo precedente, sus reglas de acceso, operación, recursos y cobertura.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-## TÍTULO CUARTO. DEL ACCESO A LA JUSTICIA
+###### Artículo 46.
 
-###### ARTÍCULO 48.
+Las Autoridades estatales y municipales del estado de Morelos, están obligadas a proporcionar la información necesaria de los programas aludidos en el artículo precedente, sus reglas de acceso, operación, recursos y cobertura, sin que pueda por ningún motivo excluir de dichos programas a las víctimas.
 
-Las víctimas tienen derecho a acceder a la justicia en los términos de la Constitución, de modo que se les garantice el ejercicio de su derecho a conocer la verdad, a que se realice con la debida diligencia una investigación inmediata y exhaustiva del delito o de las violaciones de Derechos Humanos sufridas por ellas; a que los autores de los delitos y de las violaciones de derechos, con el respeto al debido proceso, sean enjuiciados y sancionados; y a obtener una reparación integral por los daños sufridos.
+Las víctimas estarán sujetas a lo que determinen las leyes fiscales respectivas.
 
-Las víctimas tendrán acceso a los mecanismos de justicia de los cuales disponga el Estado, incluidos los procedimientos jurisdiccionales y administrativos. La legislación en la materia que regule su intervención en los diferentes procedimientos deberá facilitar su participación.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 49.
+#### SECCIÓN TERCERA. DE LAS MEDIDAS EN MATERIA DE PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-Para garantizar los derechos establecidos en el artículo precedente, los Poderes del Estado de Morelos garantizarán a las víctimas el acceso a los mecanismos y procedimientos previstos en la Constitución, en las normas previstas en los Tratados Internacionales en los que el Estado Mexicano sea parte y en las Leyes Federales y Locales.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 50.
+###### Artículo 47.
 
-Del mismo modo, las víctimas gozarán de los siguientes derechos:
+Las víctimas tienen derecho a acceder a la justicia en los términos de la Constitución, de modo que se les garantice el ejercicio de su derecho a conocer la verdad, a que se realice con la debida diligencia una investigación inmediata y exhaustiva del delito o de las violaciones de derechos humanos sufridas por ellas; a que los autores de los delitos y de las violaciones de derechos, con el respeto al debido proceso, sean enjuiciados y sancionados; y a obtener una reparación integral por los daños sufridos.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+Las víctimas tendrán acceso a los mecanismos de justicia de los cuales disponga el Estado, incluidos los procedimientos judiciales y administrativos. La legislación en la materia que regule su intervención en los diferentes procedimientos deberá facilitar su participación.
 
-I. A ser informadas, cuando así lo solicite de manera clara, precisa y accesible, de sus derechos por el Ministerio Público, Asesor Jurídico, Juez o Tribunal o con la primera autoridad con la que tenga contacto que conozca del hecho delictivo, tan pronto este ocurra. El Ministerio Público deberá comunicar a la víctima los derechos que le reconocen la Constitución, los Tratados Internacionales y esta Ley a su favor, dejando constancia en la carpeta de investigación de este hecho, con total independencia de que exista o no un probable responsable de los hechos;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-II. A que se les repare el daño en forma expedita, proporcional y justa. En los casos en que la autoridad judicial dicte una sentencia condenatoria, no podrá absolver al responsable de dicha reparación. Si la víctima o su Asesor Jurídico no solicitaren la reparación del daño, el Ministerio Público está obligado a hacerlo;
+###### Artículo 48.
 
-III. A coadyuvar con el Ministerio Público para que se les reciban todos los datos o elementos de prueba con los que cuenten, tanto en la investigación como en el proceso y se desahoguen las diligencias correspondientes;
+Para garantizar los derechos establecidos en el artículo precedente, las Instituciones garantizarán a las víctimas el acceso a los mecanismos y procedimientos previstos en la Constitución, en los Tratados Internacionales de los que el Estado Mexicano sea parte y demás normativa aplicable.
 
-IV. A intervenir en el juicio como partes plenas, ejerciendo durante el mismo sus derechos. Así mismo, tendrán derecho a que se les otorguen todas las facilidades para la presentación de denuncias o querellas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+###### Artículo 49.
 
-V. A ser asesoradas y representadas en cualquier etapa del procedimiento por un Asesor Jurídico. En los casos en que no quieran o no pueda contratar un abogado, les será proporcionado dicho servicio por el Estado, en términos de la legislación aplicable.
+En materia de acceso a la justicia, corresponde al Estado, en el ámbito de su competencia:
 
-VI. A tener derecho a la Segunda Instancia y a otros recursos ordinarios y extraordinarios en los mismos casos y condiciones que el procesado y en los demás que establezcan las leyes;
+I. Promover la formación y especialización de agentes de la Policía Estatal y Municipal investigadora, agentes del Ministerio Público, Peritos y de todo el personal encargado de la procuración de justicia en materia de derechos humanos;
 
-VII. A impugnar ante la Autoridad Judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento, con independencia de que se haya reparado o no el daño;
+II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con la normativa aplicable;
 
-VIII. A comparecer en la fase de la investigación o al juicio y a que sean adoptadas medidas para minimizar las molestias causadas, proteger su intimidad, identidad y otros datos personales;
+III. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia;
 
-IX. A que se garantice su seguridad, así como la de sus familiares y la de los testigos en su favor, contra todo acto de amenaza, intimidación o represalia;
+IV. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
 
-X. A rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia, teniendo la obligación el juzgador de resguardar sus datos personales y, si lo solicitan, hacerlo por medios electrónicos;
+V. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-XI. A expresar libremente sus opiniones y preocupaciones ante las autoridades e instancias correspondientes de procuración e impartición de justicia y a que ésas, en su caso, sean consideradas en las decisiones que afecten a sus intereses;
+VI. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
 
-XII. A rendir o ampliar sus declaraciones de modo que quede garantizada su seguridad, que en cualquier caso se extenderá a sus datos personales y a aquellos otros aspectos que el juzgador considere necesarios; la declaración podrá hacerse por medios electrónicos, si así lo autoriza el Ministerio Público o el Juzgador;
+VII. Promover la cultura de respeto a los derechos humanos de las víctimas y garantizar la seguridad de quienes denuncian;
 
-XIII. A obtener copia simple gratuita y de inmediato de las diligencias en las que intervenga y de las actuaciones que requiera;
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
-XIV. A solicitar medidas precautorias o cautelares para la seguridad y protección de las víctimas y testigos de cargo, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
+IX. Las demás previstas para el cumplimiento de la presente Ley y las normas reglamentarias aplicables.
 
-XV. A ofrecer o solicitar la práctica de pruebas a través de peritajes independientes, acreditados ante Organismo Nacional o Internacional de Protección de los Derechos Humanos;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XVI. A que se les informe sobre la realización de las audiencias donde se vaya a resolver sobre sus derechos y a estar presentes en las mismas;
+###### Artículo 50.
 
-XVII. A que se les notifique toda resolución que pueda afectar sus derechos y a impugnar dicha resolución;
+Además de los derechos reconocidos en la Constitución, el Código Nacional y la Ley General, las víctimas gozarán de los siguientes:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+I. A expresar libremente sus opiniones y preocupaciones ante las autoridades e instancias correspondientes de procuración e impartición de justicia y a que ésas, en su caso, sean consideradas en las decisiones que afecten a sus intereses, y
 
-XVIII. En los casos que impliquen graves violaciones a los Derechos Humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar también que grupos de esos expertos revisen, informen y lleven a cabo recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas;
+II. A ofrecer o solicitar la práctica de pruebas a través de peritajes independientes, acreditados ante organismo nacional o internacional de protección de los derechos humanos.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+La Comisión Ejecutiva Estatal podrá cubrir los gastos que se originen con motivo de la contratación de expertos independientes o peritos con cargo al Fondo.
 
-XIX. Cuando las víctimas no se expresen en el idioma español, se dispondrá de la presencia de traductores o intérpretes durante todo el proceso. Las sentencias serán traducidas para dicha comprensión;
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal estatal o nacional capacitado en la materia.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XX. A comunicarse, ínmedíatamente (sic) después de haberse cometido el delito, con un familiar, e incluso con su Asesor Jurídico;
+###### Artículo 51.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+En los casos en que el imputado se sustraiga de la acción de la justicia se observará lo dispuesto en la Ley General, sin perjuicio de lo previsto por el Código Nacional.
 
-XXI. A que se le proporcione asistencia migratoria cuando tenga otra nacionalidad;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+###### Artículo 52.
 
-XXII. A solicitar el traslado de la autoridad al lugar en donde se encuentre, para ser ínterrogada o participar en el acto para el cual fue citada, cuando por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica se dificulte su comparecencia, a cuyo fin deberá requerir la dispensa, por sí o por un tercero, con anticipación, y
+Las víctimas tienen derecho a intervenir en el proceso penal y ser reconocidas como sujetos procesales en el mismo, así como a ser representadas por un Asesor Jurídico Estatal, o en su caso, por el Ministerio Público, y ser notificadas personalmente de los actos o resoluciones dictados por la autoridad competente, de conformidad con lo previsto en la Constitución, los Tratados Internacionales de Derechos Humanos, la Ley General, el Código Nacional y demás normativa aplicable.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXIII. Los demás que establezcan otras disposiciones aplicables.
+###### Artículo 53.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+Las víctimas tendrán derecho a que se considere su discapacidad temporal o permanente, física o mental, así como su condición de niñas, niños, adolescentes o adultos mayores. Así mismo, a que se respete un enfoque transversal de género y las diferencias culturales, religiosas, de credo, étnicas, entre otras igualmente relevantes. Cuando sea necesario, el Estado proporcionará intérpretes y traductores. Las víctimas no podrán ser discriminadas por ninguna causa de conformidad a la Constitución y los Tratados Internacionales de Derechos Humanos, la presente Ley y las demás disposiciones jurídicas aplicables en la materia.
 
-En el caso de que las víctimas sean personas menores de dieciocho años, el órgano jurisdiccional o el Ministerio Público tendrán en cuenta los principios del interés superior de los niños o adolescentes, la prevalencia de sus derechos, su protección integral y los derechos consagrados en la Constitución.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+###### Artículo 54.
 
-Para los delitos que impliquen violencia contra las mujeres, se deberán observar todos los derechos que en su favor establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos y demás disposiciones aplicables.
+Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse y, en caso de aceptar su realización, a ser acompañadas en todo momento por su asesor jurídico o la persona que consideren.
 
-###### ARTÍCULO 51.
+La Comisión Ejecutiva Estatal, podrá cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo.
 
-Cuando el imputado se sustraiga de la acción de la justicia, deje de presentarse ante la autoridad jurisdiccional competente que conozca de su caso los días que se hubieran señalado para tal efecto u omita comunicar a la autoridad jurisdiccional competente los cambios de domicilio que tuviere o se ausentase del lugar del juicio sin autorización de la autoridad jurisdiccional competente, esta última ordenará, sin demora alguna, que se garantice la suma con la cual se hará frente a la reparación del daño a la víctima que se fije en sentencia o en la resolución que ponga fin al procedimiento.
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal estatal o nacional capacitado en la materia.
 
-En los casos en que la garantía fuese hecha por hipoteca o prenda, previo proceso aplicable, la autoridad jurisdiccional competente remitirá dichos bienes a la autoridad fiscal correspondiente para su cobro, el cual deberá entregarse sin dilación a la víctima, una vez se produzca alguna de las resoluciones señaladas en el párrafo anterior. En los mismos términos los fiadores están obligados a pagar en forma inmediata la reparación del daño, aplicándose para su cobro, en todo caso, el Procedimiento Económico Coactivo que las Leyes Fiscales señalen.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 52.
+###### Artículo 55.
 
-Las víctimas tienen derecho a intervenir en el proceso penal y deberán ser reconocidas como sujetos procesales en el mismo, en los términos de la Constitución y de los Tratados Internacionales de Derechos Humanos, pero si no se personaran en el mismo, serán representadas por un Asesor Jurídico o en su caso por el Ministerio Público y serán notificadas personalmente de todos los actos y resoluciones que pongan fin al proceso, de los recursos interpuestos, ya sean ordinarios o extraordinarios, así como de las modificaciones en las medidas cautelares que se hayan adoptado por la existencia de un riesgo para su seguridad, vida o integridad física o modificaciones a la sentencia.
+Las víctimas tendrán derecho a optar por la solución de conflictos conforme a las reglas de la justicia alternativa, a través de instituciones como la conciliación y la mediación, a fin de facilitar la reparación del daño, la reconciliación de las partes y las medidas de no repetición. Para tal efecto, se tendrán en cuenta las disposiciones contenidas en (sic) normativa aplicable.
 
-###### ARTÍCULO 53.
+No podrá celebrarse la conciliación ni la mediación a menos de que quede acreditado, a través de los medios idóneos, que la víctima está en condiciones de tomar esa decisión y en los casos en que la Ley lo prohíba.
 
-Las víctimas tendrán derecho a que se consideren su discapacidad temporal o permanente, físicas, o mentales, así como su condición de niñas, niños y adolescentes o adultos mayores. Así mismo, a que se respete un enfoque transversal de género y las diferencias culturales, religiosas, de credo, étnicas, entre otras igualmente relevantes. Cuando sea necesario, el Estado proporcionará intérpretes y traductores. Las víctimas no podrán ser discriminadas por ninguna causa de conformidad a la Constitución y los Tratados Internacionales de Derechos Humanos, la presente Ley y las demás aplicables en la materia.
+La Fiscalía General llevará un registro y una auditoría puntual sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, notificando, en todo, caso la Comisión Ejecutiva Estatal, a las instancias de protección a las mujeres y la defensa de niñas, niños y adolescentes y la familia, a fin de que se verifique que la víctima tuvo la asesoría necesaria para la toma de dicha decisión. Los servidores públicos que conduzcan a las víctimas a tomar estas decisiones sin que éstas estén conscientes de las consecuencias que conllevan, serán sancionados conforme a lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-###### ARTÍCULO 54.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse y, en caso de aceptar su realización, a ser acompañadas en todo momento por el Asesor Jurídico o la persona que consideren.
+###### Artículo 56.
 
-###### ARTÍCULO 55.
+La Fiscalía General creará un Programa Especial para el trato jurídico de casos de violencia sexual. Dicho Programa deberá prever una asistencia diferenciada a las víctimas de este delito, informar a la víctima y su representante de todos los aspectos jurídicos, asistenciales, terapéuticos u otros relevantes relacionados con su caso, desde que se tenga conocimiento del hecho delictivo.
 
-Toda comparecencia ante el Órgano Investigador, el Juez o Tribunal o ante cualquiera otra autoridad o perito que requiera la presencia de la víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refieren las leyes laborales.
+La Comisión Ejecutiva Estatal deberá revisar el Programa Especial a que se refiere el párrafo anterior, previamente a su publicación en el órgano de difusión oficial del Poder Ejecutivo Estatal, en la que se dará cuenta de dicha revisión.
 
-###### ARTÍCULO 56.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las víctimas tendrán derecho a optar por la solución de conflictos conforme a las reglas de la Justicia Alternativa, a través de Instituciones como la Conciliación y la Mediación, a fin de facilitar la reparación del daño y la reconciliación de las partes y las medidas de no repetición.
-
-Para el efecto, se tendrán en cuenta las disposiciones contenidas en la Ley de Justicia Alternativa en Materia Penal para el Estado de Morelos.
-
-No podrá celebrarse la conciliación ni la mediación a menos de que quede acreditado, a través de los medios idóneos, que la víctima está en condiciones de tomar esa decisión y en los casos en que la Ley lo prohíba. La Procuraduría General de Justicia del Estado llevará un registro y una auditoría puntual sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, notificando en todo caso a las instancias de protección a la mujer y la defensa del menor y la familia, a fin de que se verifique que la víctima tuvo la asesoría necesaria para la toma de dicha decisión. Los servidores públicos que conduzcan a las víctimas a tomar estas decisiones sin que éstas estén conscientes de las consecuencias que conllevan, serán sancionados conforme a lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos.
-
-###### ARTÍCULO 57.
-
-Se creará una estrategia especial para el trato jurídico de casos de violencia sexual. Dicho Programa deberá prever una asistencia diferenciada a las víctimas de este delito, informar a la víctima y su representante de todos los aspectos jurídicos, asistenciales, terapéuticos u otros relevantes relacionados con su caso, desde que se tenga conocimiento del hecho delictivo.
-
-###### ARTÍCULO 58.
+###### Artículo 57.
 
 Para garantizar el derecho a la justicia de víctimas de manera efectiva, en los casos en que se investiguen delitos que involucren violencia sexual, toda autoridad aplicará, como mínimo, las siguientes reglas:
 
-I. Cuando por razones de seguridad o porque la naturaleza del delito dificulte la descripción de los hechos en la audiencia pública o cuando la presencia del inculpado genere alteraciones en el Estado de ánimo de las víctimas, el Ministerio Público, Juez o Magistrado, en el expediente, decretará de oficio o a petición de parte, que la declaración se rinda en un recinto cerrado, en presencia solo del Ministerio Público, de la Defensa, del Ministerio Público y del propio Juez o Magistrado. En este caso, la víctima deberá ser informada que su declaración será grabada por medio de audio o video, quedando esta reproducción debidamente custodiada como parte de la documentación del Procedimiento;
+I. Para todas las víctimas que participen en el proceso o que declaren como testigos, se deberá contar con la presencia de personal con especialidad y experiencia en situaciones traumáticas, en disciplinas como psicología, trabajo social, psiquiatría, entre otros, y
 
-II. Para todas las víctimas que participen en el proceso o que declaren como testigos, se deberá contar con la presencia de personal especializado y experto en situaciones traumáticas, tales como psicólogos, trabajadores sociales, psiquiatras o terapeutas, entre otros;
+II. La víctima tiene derecho a elegir el género de la persona ante la cual desea rendir declaración.
 
-III. La víctima deberá tener derecho a elegir el género de la persona ante la cual desea rendir declaración; y
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. La Institución encargada de la representación de las víctimas deberá hacer una reestructuración interna que garantice el cumplimiento de las garantías establecidas en la Ley.
-
-###### ARTÍCULO 59.
-
-En los casos en que se investiguen delitos que involucren violencia sexual contra las víctimas, el Ministerio Público, Juez o Magistrado, en sus respectivos casos, aplicarán las siguientes reglas:
-
-I. El consentimiento de la víctima respecto del hecho victimizante no podrá inferirse de ninguna palabra o conducta de la misma cuando la violencia, la amenaza, la coacción o el aprovechamiento de un entorno coercitivo hayan disminuido su capacidad para dar un consentimiento voluntario y libre;
-
-II. El consentimiento no podrá inferirse de ninguna palabra o conducta de la víctima cuando ésta sea incapaz de dar un consentimiento voluntario y libre;
-
-III. El silencio o la falta de resistencia no implicará necesariamente un consentimiento por parte de la víctima; y
-
-IV. La credibilidad, la honorabilidad o la disponibilidad sexual de la víctima o de un testigo no podrá inferirse de la naturaleza del compromiso anterior o posterior de la víctima o de un testigo.
-
-Las autoridades competentes deberán crear un protocolo para la investigación de delitos contra la libertad, integridad y formación sexual, en el que se contemplen medidas jurídicas y psicológicas y aspectos como el fortalecimiento de la asistencia a las víctimas durante todas las etapas del procedimiento y acciones específicas para la atención de mujeres.
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-###### ARTÍCULO 60.
+###### Artículo 58.
 
 Las víctimas deben ser informadas sobre los siguientes aspectos:
 
-I. Las entidades y organizaciones a las que puede dirigirse para obtener asesoría y apoyo especializado;
+I. Las Instituciones y organizaciones a las que puede dirigirse para obtener asesoría y apoyo especializado;
 
-II. Los servicios y garantías a que tiene derecho o que puede encontrar en las distintas entidades y organizaciones;
+II. Los servicios y garantías a que tiene derecho o que puede encontrar en las distintas Instituciones y organizaciones;
 
 III. El lugar, la forma, las autoridades y requisitos necesarios para presentar una denuncia;
 
 IV. Las actuaciones subsiguientes a la denuncia y los derechos y mecanismos que como víctima puede utilizar en cada una de ellas. Las autoridades deben informar a las mujeres y los menores de edad sobre su derecho a no ser confrontados con el agresor o sus agresores;
 
-V. Las Autoridades ante las cuales puede solicitar protección y los requisitos y condiciones mínimos que debe acreditar para acceder a los programas correspondientes;
+V. Las autoridades ante las cuales puede solicitar protección y los requisitos y condiciones mínimos que debe acreditar para acceder a los programas correspondientes;
 
-VI. Las Entidades y las autoridades que pueden brindarle orientación, asesoría jurídica o servicios de representación judicial gratuitos;
+VI. Las Instituciones y las autoridades que pueden brindarle orientación, asesoría jurídica o servicios de representación judicial gratuitos;
 
 VII. Las Instituciones competentes y los derechos de los familiares de las víctimas en la búsqueda, exhumación e identificación en casos de desaparición forzada y de las medidas de prevención para la recuperación de las víctimas;
 
@@ -779,7 +895,7 @@ XVII. De la exhumación de restos o cadáveres que pudieran corresponder a un fa
 
 XVIII. De las medidas vigentes para la protección de las víctimas y testigos y los mecanismos para acceder a ellas;
 
-XIX. De las resoluciones sobre medidas cautelares que recaigan sobre bienes destinados a la reparación; y
+XIX. De las resoluciones sobre medidas cautelares que recaigan sobre bienes destinados a la reparación, y
 
 XX. De las demás actuaciones judiciales que afecten los derechos de las víctimas.
 
@@ -789,175 +905,219 @@ Frente a los delitos contra la libertad, integridad y formación sexual, así co
 
 Toda información, asesoría y acompañamiento jurídico deberá garantizar la confidencialidad de las solicitudes que se realicen.
 
-La mujer víctima podrá en todo momento estar acompañada por una persona de su confianza.
+Las personas en situación de víctima podrán en todo momento estar acompañadas por una persona de su confianza.
 
-###### ARTÍCULO 61.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La Procuraduría General de Justicia del Estado deberá tomar las decisiones correspondientes para que, en unión y colaboración con otras Instituciones del Estado competentes en la materia y las Autoridades del Orden Federal, se adopte un sistema o estrategia para combatir eficazmente el crimen organizado y acabar con los índices de impunidad, en beneficio con las víctimas y la sociedad en general. Para ello deberán fortalecer las herramientas investigativas y de persecución de las más graves violaciones a los Derechos Humanos y el Derecho Internacional Humanitario.
+###### Artículo 59.
 
-## TÍTULO QUINTO. DEL DERECHO A LA VERDAD
+La Fiscalía General deberá tomar las decisiones correspondientes para que, en unión y colaboración con otras Instituciones competentes en la materia y las autoridades federales, se adopte un sistema o estrategia para combatir eficazmente el crimen organizado y acabar con los índices de impunidad, en beneficio de las víctimas y la sociedad en general. Para ello deberán fortalecer las herramientas investigativas y de persecución de las más graves violaciones a los derechos humanos y el Derecho Internacional Humanitario, conforme la normativa aplicable.
 
-###### ARTÍCULO 62.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las víctimas y la sociedad en general tienen el derecho de conocer los hechos constitutivos del delito y de las violaciones a Derechos Humanos de que fueron objeto, la identidad de los responsables, las circunstancias que hayan propiciado su comisión, así como tener acceso a la justicia en condiciones de igualdad.
+### CAPÍTULO IX. DEL DERECHO A LA VERDAD
 
-Las víctimas tienen el derecho imprescriptible a conocer la verdad y a recibir información específica sobre las violaciones de derechos o los delitos que las afectaron directamente, incluidas las circunstancias en que ocurrieron los hechos y, en los casos de personas fallecidas, desaparecidas, ausentes, no localizadas, extraviadas o fallecidas, a conocer su destino o paradero o el de sus restos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 63.
+###### Artículo 60.
 
-El Estado, a través de sus Instituciones, de oficio, tiene la obligación de iniciar de manera eficaz y urgente las acciones para lograr la localización y el rescate de la víctima que haya sido reportada como desaparecida. Toda víctima de desaparición tiene derecho a que las autoridades desplieguen las acciones pertinentes para su protección con el objetivo de preservar, al máximo posible, su vida y su integridad física y psicológica.
+Las víctimas y la sociedad en general tienen el derecho de conocer los hechos constitutivos del delito y de las violaciones a derechos humanos de que fueron objeto, la identidad de los responsables, las circunstancias que hayan propiciado su comisión, así como tener acceso a la justicia en condiciones de igualdad.
 
-Esto incluye la instrumentación de protocolos de búsqueda conforme a la legislación aplicable y los tratados internacionales de los que (sic) Estado Mexicano sea parte.
+Las víctimas tienen el derecho imprescriptible a conocer la verdad y a recibir información específica sobre las violaciones de derechos o los delitos que las afectaron directamente, incluidas las circunstancias en que ocurrieron los hechos y, en los casos de personas, desaparecidas, ausentes, no localizadas, extraviadas o fallecidas, a conocer su destino o paradero o el de sus restos.
 
-Esta obligación incluye la realización de las exhumaciones de cementerios, fosas clandestinas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cuerpos u osamentas de las víctimas. Las exhumaciones deberán realizarse con la debida diligencia y competencia y conforme a las normas y protocolos internacionales sobre la materia, buscando garantizar siempre la correcta ubicación, recuperación y posterior identificación de los cuerpos u osamentas bajo estándares científicos reconocidos internacionalmente.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí o a través de sus asesores jurídicos o representantes; a ser informadas sobre los protocolos y procedimientos que serán aplicados y a designar peritos independientes, acreditados ante organismo nacional o internacional de protección a los Derechos Humanos o expertos en el mismo campo, que contribuyan al mejor desarrollo de las mismas.
+###### Artículo 61.
 
-Una vez identificados plenamente y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley y en la codificación penal adjetiva, la entrega de los cuerpos u osamentas de las víctimas a sus familiares deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar, en su caso, los restos de las víctimas ya identificados, de conformidad con lo que establezca el Reglamento de esta Ley.
+En los casos de desapariciones forzadas o de víctimas reportadas como desaparecidas se estará a lo dispuesto por la Ley General de Víctimas, el Código Nacional y demás normativa aplicable.
 
-A efectos de garantizar las investigaciones, la autoridad competente deberá informar a los familiares acerca de la imposibilidad de cremación de los restos hasta en tanto no exista una resolución emitida por autoridad judicial competente debidamente ejecutoriada. En caso de reclamación por parte de un gobierno extranjero para la cremación de cadáveres identificados o sin identificar, la autoridad estatal dará curso a la petición de conformidad con lo dispuesto en las leyes aplicables.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración especial de ausencia por desaparición, se sujetarán a lo que dispongan las leyes aplicables, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
-
-###### ARTÍCULO 64.
+###### Artículo 62.
 
 Las víctimas y la sociedad tienen derecho a conocer la verdad histórica de los hechos.
 
 Las víctimas tienen derecho a participar activamente en la búsqueda de la verdad de los hechos y en los diferentes mecanismos previstos en los ordenamientos legales en los cuales se les permitirá expresar sus opiniones y preocupaciones cuando sus intereses sean afectados. Las víctimas deberán decidir libremente su participación y tener la información suficiente sobre las implicaciones de cada uno de estos mecanismos.
 
-###### ARTÍCULO 65.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Para garantizar el ejercicio pleno de este derecho de las víctimas, sus familiares y la sociedad, el Estado generará mecanismos para la investigación independiente, imparcial y efectiva, que cumpla, entre otros, con los siguientes objetivos:
+###### Artículo 63.
 
-I. El esclarecimiento histórico preciso de las violaciones de Derechos Humanos, la dignificación de las víctimas y la recuperación de la memoria histórica;
+Para garantizar el ejercicio pleno de este derecho de las víctimas, sus familiares y la sociedad, el Estado generará condiciones para que pueda tener lugar una investigación independiente, imparcial y efectiva, que cumpla con la normativa aplicable y, entre otros, con los siguientes objetivos:
+
+I. El esclarecimiento histórico preciso de las violaciones de derechos humanos, la dignificación de las víctimas y la recuperación de la memoria histórica;
 
 II. La determinación de la responsabilidad individual o institucional de los hechos;
 
 III. El debate sobre la historia oficial donde las víctimas de esas violaciones puedan ser reconocidas y escuchadas;
 
-IV. La contribución a la superación de la impunidad mediante la recomendación de formulación de políticas de investigación; y
+IV. La contribución a la superación de la impunidad mediante la recomendación de formulación de políticas de investigación, y
 
 V. La recomendación de las reparaciones, reformas institucionales y otras políticas necesarias para superar las condiciones que facilitaron o permitieron las violaciones de derechos.
 
 Para el cumplimiento de estos objetivos deberán realizarse consultas que incluyan la participación y la opinión de las víctimas, grupos de víctimas y de sus familiares.
 
-La autoridad competente para la investigación garantizará los derechos de las víctimas y de los testigos, asegurando su presencia y declaración voluntarias. Así mismo se garantizará la confidencialidad de las víctimas y los testigos para proteger su dignidad e integridad, adoptándose las medidas oportunas para salvaguardar su seguridad. La autoridad referida deberá adoptar las medidas oportunas e incluso diseñar los protocolos de actuación necesarios que preserven la cadena de custodia de las diligencias y pruebas desahogadas para su utilización posterior en los procedimientos penales que correspondan.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 66.
+###### Artículo 64.
 
-Las Organizaciones de la Sociedad Civil, tales como Asociaciones Profesionales, Gremiales y Sindicales, Organizaciones No Gubernamentales e Instituciones Académicas y otras de similar naturaleza, podrán proporcionar a la autoridad competente los resultados que arrojen sus investigaciones, con el fin de contribuir a la búsqueda y conocimiento de la verdad. Las autoridades deberán dar las garantías necesarias para que esta actividad se pueda realizar de forma libre e independiente.
+Las Organizaciones de la Sociedad Civil, tales como Asociaciones Profesionales, Gremiales y Sindicales, Organizaciones No Gubernamentales e Instituciones Académicas y otras de similar naturaleza, podrán proporcionar a la autoridad competente los resultados que arrojen sus investigaciones, con el fin de contribuir a la búsqueda y conocimiento de la verdad.
 
-###### ARTÍCULO 67.
+Las autoridades deberán dar las garantías necesarias para que esta actividad se pueda realizar de forma libre e independiente.
 
-Las autoridades están obligadas a la preservación de los archivos relativos a las violaciones de los Derechos Humanos, así como a respetar y garantizar el derecho de acceder a los mismos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 65.
+
+Las autoridades están obligadas a la preservación de los archivos relativos a las violaciones de los derechos humanos, así como a respetar y garantizar el derecho de acceder a los mismos.
 
 El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, alteración o falsificación; permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos y contribuir a garantizar la acción de la justicia.
 
 Cuando la consulta de los archivos persiga favorecer la investigación histórica, las formalidades de autorización tendrán por única finalidad salvaguardar la integridad y la seguridad de las víctimas y de otras personas y, en ningún caso, podrán aplicarse las formalidades de autorización con fines de censura.
 
-Los Tribunales Nacionales e Internacionales, los Organismos Nacionales e Internacionales de Derechos Humanos, así como los investigadores que trabajen en esta responsabilidad, podrán consultar libremente los archivos relativos a las violaciones de los Derechos Humanos. Este acceso será garantizado cumpliendo los requisitos pertinentes para proteger la vida privada, incluidos en particular las seguridades de confidencialidad proporcionadas a las víctimas y a otros testigos como condición previa de su testimonio.
+Los Tribunales Nacionales e Internacionales, los Organismos Nacionales e Internacionales de Derechos Humanos, así como los investigadores que trabajen en esta responsabilidad, podrán consultar libremente los archivos relativos a las violaciones de los derechos humanos. Este acceso será garantizado cumpliendo los requisitos pertinentes para proteger la vida privada, incluidos en particular las seguridades de confidencialidad proporcionadas a las víctimas y a otros testigos como condición previa de su testimonio.
 
-En ningún caso, las Instituciones del Estado de Morelos podrán impulsar o promover ejercicios orientados a la construcción de una historia o verdad oficial que niegue, vulnere o restrinja los principios constitucionales de pluralidad, participación y solidaridad y los derechos de libertad de expresión y pensamiento de las personas.
+En ningún caso, las Instituciones del estado de Morelos podrán impulsar o promover ejercicios orientados a la construcción de una historia o verdad oficial que niegue, vulnere o restrinja los principios constitucionales de pluralidad, participación y solidaridad y los derechos de libertad de expresión y pensamiento de las personas.
 
-###### ARTÍCULO 68.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-De conformidad con el la Ley General de Víctimas, se creará el Archivo de la Verdad del Estado de Morelos. Dicho archivo deberá contar con dos subarchivos de verdad judicial y verdad histórica.
+###### Artículo 66.
 
-De conformidad con el respeto y dignidad de las víctimas, en los casos donde exista reserva procesal especial o garantía del derecho a la intimidad y protección de la víctima, se mantendrá la estricta confidencialidad de los archivos y documentos. Se garantizará la protección de los datos personales de las víctimas contenidos en los archivos.
+De conformidad con la Ley General, se creará el Archivo de la Verdad del Estado de Morelos, de acuerdo con lo dispuesto por la Ley Estatal de Documentación y Archivos de Morelos y demás normativa aplicable. Dicho archivo deberá contar con dos sub archivos, el de verdad judicial y el de verdad histórica.
 
-Los jueces y magistrados deberán enviar a dicho archivo la documentación de cada caso una vez finalizado el procedimiento.
+Dicho archivo estará a cargo del Instituto Estatal de Documentación de Morelos, y la Comisión Ejecutiva Estatal participará en su creación.
 
-Se deberá garantizar a las víctimas el acceso a dicho archivo para consulta en todo momento, de forma gratuita. Debe mantenerse en todo caso la seguridad y protección a las víctimas y testigos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 69.
+###### Artículo 67.
 
-Se creará la Casa de la Memoria Histórica del Estado de Morelos, como establecimiento público de orden estatal, como parte de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos. La Casa de la Memoria Histórica del Estado de Morelos tendrá como sede principal la ciudad de Cuernavaca.
+Se creará la Casa de la Memoria Histórica del Estado de Morelos, como establecimiento público de orden estatal a cargo de la Secretaría de Cultura del Poder Ejecutivo Estatal. La Casa de la Memoria Histórica del Estado de Morelos tendrá como sede principal la ciudad de Cuernavaca.
 
-###### ARTÍCULO 70.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La Casa de la Memoria Histórica del Estado de Morelos tendrá como objeto fomentar actividades educativas, pedagógicas, museísticas y culturales dirigidas a la reconstrucción de la memoria sobre las violaciones a los Derechos Humanos.
+###### Artículo 68.
 
-El Poder Ejecutivo del Estado de Morelos, por conducto de la Secretaría de Cultura definirá la estructura y funcionamiento de la Casa de Memoria.
+La Casa de la Memoria Histórica del Estado de Morelos tendrá como objeto fomentar actividades educativas, pedagógicas, museísticas y culturales dirigidas a la reconstrucción de la memoria sobre las violaciones a los derechos humanos.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE EDUCACIÓN
+El Poder Ejecutivo Estatal, por conducto de su Secretaría de Cultura, definirá la estructura y funcionamiento de la Casa de la Memoria.
 
-###### ARTÍCULO 71.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 69.
 
 Son funciones específicas de la Casa de la Memoria Histórica del Estado de Morelos:
 
 I. Diseñar, crear y administrar un Museo de la Memoria Histórica (sic) Estado de Morelos, destinado a lograr el fortalecimiento de la memoria colectiva;
 
-II. Diseñar, crear y administrar acciones encaminadas a fortalecer los Derechos Humanos y la Memoria Histórica, mediante el acopio, preservación y custodia de los materiales que recoja o de manera voluntaria sean entregados por personas físicas o colectivas, que se refieran o documenten todos los temas relacionados con las violaciones de derecho (sic) humanos en el Estado de Morelos, así como con la respuesta estatal ante tales violaciones; y
+II. Diseñar, crear y administrar acciones encaminadas a fortalecer los derechos humanos y la memoria histórica, mediante el acopio, preservación y custodia de los materiales que recoja o de manera voluntaria sean entregados por personas físicas o colectivas, que se refieran o documenten todos los temas relacionados con las violaciones de derecho humanos en el estado de Morelos, así como con la respuesta estatal ante tales violaciones, y
 
-III. Suscribir convenios, contratos o cualquier otro acto jurídico que se requiera para la ejecución de sus funciones y el desarrollo de su encomienda;
+III. Suscribir convenios, contratos o cualquier otro acto jurídico que se requiera para la ejecución de sus funciones y el desarrollo de su encomienda.
 
-Los documentos que no tengan carácter reservado o confidencial y se encuentren en archivos privados y públicos en los que consten las violaciones de Derechos Humanos, serán constitutivos del patrimonio documental bibliográfico;
+Los documentos que no tengan carácter reservado o confidencial y se encuentren en archivos privados y públicos en los que consten las violaciones de derechos humanos, serán constitutivos del patrimonio documental bibliográfico.
 
-###### ARTÍCULO 72.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se instituye el día 28 de marzo de cada año como el Día Estatal de Conmemoración de las Víctimas del Estado de Morelos, como medida de satisfacción y mecanismo de garantía de no repetición de los hechos violentos del pasado, sin que exista suspensión de actividades laborales o escolares.
+###### Artículo 70.
 
-## TÍTULO SEXTO. DEL DERECHO A LA REPARACIÓN INTEGRAL
+Se instituye el día 28 de marzo de cada año como el Día de Conmemoración de las Víctimas del Estado de Morelos, como medida de satisfacción y mecanismo de garantía de no repetición de los hechos violentos del pasado, sin que exista suspensión de actividades laborales o escolares.
 
-###### ARTÍCULO 73.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las víctimas tienen derecho a ser reparadas de manera oportuna, plena, diferenciada, transformadora, integral y efectiva por el daño que han sufrido como consecuencia del delito o hecho victimizante o de las violaciones de Derechos Humanos que han sufrido, comprendiendo medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición.
+### CAPÍTULO X. DEL DERECHO A LA REPARACIÓN INTEGRAL
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 71.
+
+Las víctimas tienen derecho a ser reparadas de manera oportuna, plena, diferenciada, transformadora, integral y efectiva por el daño que han sufrido como consecuencia del delito o hecho victimizante o de las violaciones de derechos humanos que han sufrido, comprendiendo medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición.
 
 La determinación de medidas obedecerá al desarrollo del enfoque diferencial y propender por la reconstrucción del proyecto de vida de la víctima y su entorno familiar con enfoque transformador.
 
-###### ARTÍCULO 74.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Para los efectos de la presente Ley, la reparación integral comprenderá:
+###### Artículo 72.
 
-I.- La restitución que busque devolver a la víctima a la situación anterior a la comisión del delito o a la violación de sus Derechos Humanos;
+Para los efectos de la presente Ley la reparación integral comprenderá:
 
-II.- La rehabilitación que facilite a la víctima hacer frente a los efectos sufridos por causa del hecho punible o de las violaciones de Derechos Humanos;
+I. La restitución que busque devolver a la víctima a la situación anterior a la comisión del delito o a la violación de sus derechos humanos;
 
-III.- La indemnización o compensación que se otorgue a la víctima de forma apropiada y proporcional a la gravedad del hecho punible cometido o de la violación de Derechos Humanos sufrida y teniendo en cuenta las circunstancias de cada caso. Ésta se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia del delito o de la violación de Derechos Humanos;
+II. La rehabilitación que facilite a la víctima hacer frente a los efectos sufridos por causa del hecho punible o de las violaciones de derechos humanos;
 
-IV.- La satisfacción que reconozca y restablezca la dignidad de las víctimas; y
+II (SIC). La compensación que se otorgue a la víctima de forma apropiada y proporcional a la gravedad del hecho punible cometido o de la violación de derechos humanos sufrida y teniendo en cuenta las circunstancias de cada caso. Ésta se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia del delito o de la violación de derechos humanos;
 
-V.- Las medidas de no repetición que persigan la no reiteración del hecho punible o la violación de derechos sufrida por la víctima.
+IV. La satisfacción que reconozca y restablezca la dignidad de las víctimas, y
 
-ARTÍCULO 75 Para los efectos de la presente Ley, la reparación colectiva se entenderá como un derecho del que son titulares los grupos, comunidades u organizaciones sociales que hayan sido afectadas por la violación de los derechos individuales de los miembros de los colectivos o cuando el daño comporte un impacto colectivo. La restitución de los derechos afectados estará orientada a la reconstrucción del tejido social y cultural colectivo que reconozca la afectación en la capacidad institucional de garantizar el goce, la protección y la promoción de los derechos en las comunidades, grupos y pueblos afectados.
+V. Las medidas de no repetición que persigan la no reiteración del hecho punible o la violación de derechos sufrida por la víctima.
 
-Las medidas colectivas tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los Derechos Humanos.
+Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo al Fondo de la Comisión Ejecutiva Federal o al Fondo, según corresponda, en los términos previstos en la Ley General y esta Ley.
 
-###### ARTÍCULO 76.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Para la determinación e implementación de medidas objeto de reparación integral, el Poder Ejecutivo del Estado, a través de la Comisión Ejecutiva Estatal, elaborará el Plan de Atención y Reparación Integral a Víctimas.
+###### Artículo 73.
 
-El Plan fijará una metodología que permita establecer para cada víctima un plan individual de reparación, donde se determinen los derechos vulnerados, el daño y se establezcan las medidas necesarias para garantizar la reparación integral y los términos. Las personas colectivas objeto de reparación también deberán ser objeto de plan individual.
+Para los efectos de la presente Ley, la reparación colectiva se entenderá como un derecho del que son titulares los grupos, comunidades u organizaciones sociales que hayan sido afectadas por la violación de los derechos individuales de los miembros de los colectivos o cuando el daño comporte un impacto colectivo. La restitución de los derechos afectados estará orientada a la reconstrucción del tejido social y cultural colectivo que reconozca la afectación en la capacidad institucional de garantizar el goce, la protección y la promoción de los derechos en las comunidades, grupos y pueblos afectados.
 
-Las medidas desarrolladas en el marco del Plan de Reparación Integral se desarrollarán con cargo al Fondo de Reparaciones.
+Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
-###### ARTÍCULO 77.
+Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo al Fondo.
 
-Las Autoridades Estatales y Municipales apoyarán los gastos funerarios de las víctimas directas cuando la causa de muerte sea homicidio y cuando sus familiares no tengan los medios para solventar los gastos. Por ningún motivo se impedirá a las víctimas indirectas ver los restos de sus familiares.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 78.
+###### Artículo 74.
+
+Para la determinación e implementación de medidas objeto de reparación integral, la Comisión Ejecutiva Estatal se apegará a lo establecido en el Programa Integral, conforme a la normativa aplicable.
+
+El Programa Integral fijará una metodología que permita establecer para cada víctima un plan individual de reparación integral, donde se determinen los derechos vulnerados, el daño y se establezcan las medidas necesarias para garantizar la reparación integral y los términos. Las personas colectivas objeto de reparación también deberán ser objeto de plan individual.
+
+Las medidas desarrolladas en el marco del plan individual o colectivo de reparación integral se desarrollarán con cargo al Fondo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 75.
+
+Las autoridades estatales y municipales donde se haya cometido el hecho victimizante apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa en todos los casos en los cuales la muerte sobrevenga como resultado del hecho victimizante. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar, así como aquellos relacionados con sus tradiciones religiosas y culturales.
+
+Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. El pago de los apoyos económicos aquí mencionados, se gestionará conforme lo establezcan las normas reglamentarias correspondientes a los Recursos de Ayuda de la Comisión Ejecutiva Estatal.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LAS MEDIDAS DE RESTITUCIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 76.
 
 Las víctimas tendrán derecho a la restitución en sus derechos conculcados, así como en sus bienes y propiedades si hubieren sido despojadas de ellos.
 
 Las medidas de restitución comprenden, según corresponda:
 
-I.- Restablecimiento de la libertad;
+I. Restablecimiento de la libertad, en caso de secuestro o desaparición de personas;
 
-II.- Restablecimiento de derechos civiles y políticos;
+II. Restablecimiento de los derechos jurídicos;
 
-III.- Restablecimiento de la identidad;
+III. Restablecimiento de derechos civiles y políticos;
 
-IV.- Restablecimiento de la vida y unidad familiar;
+IV. Restablecimiento de la identidad;
 
-VI (SIC).- Regreso digno y seguro al lugar de residencia;
+V. Restablecimiento de la vida y unidad familiar;
 
-VII.- Reintegración en el empleo; y
+VI. Regreso digno y seguro al lugar original de residencia u origen;
 
-VIII.- Devolución de todos los bienes o valores de su propiedad que hayan sido incautados o recuperados por las autoridades, incluyendo sus frutos y accesorios y, si no fuere posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el juzgador podrá condenar a la entrega de un objeto igual al que fuese materia de delito, sin necesidad de recurrir a prueba pericial.
+VII. Reintegración en el empleo;
+
+VIII. Devolución de todos los bienes o valores de su propiedad que hayan sido incautados o recuperados por las autoridades, incluyendo sus frutos y accesorios y, si no fuere posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el juzgador podrá condenar a la entrega de un objeto igual al que fuese materia de delito, sin necesidad de recurrir a prueba pericial, y
+
+IX. Restablecimiento de su salud.
 
 En los casos en que una autoridad judicial competente revoque una sentencia condenatoria, se eliminarán de los registros los respectivos antecedentes penales.
 
-###### ARTÍCULO 79.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE REHABILITACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 77.
 
 Las medidas de rehabilitación incluyen, entre otras y según proceda, las siguientes:
 
@@ -965,107 +1125,175 @@ I. Atención médica, psicológica y psiquiátrica especializadas;
 
 II. Servicios y asesoría jurídicos tendientes a facilitar el ejercicio de los derechos de las víctimas y a garantizar su disfrute pleno y tranquilo;
 
-III. Servicios sociales orientados a garantizar el pleno restablecimiento de los derechos de la víctima en su condición de persona y ciudadano; y
+III. Servicios sociales orientados a garantizar el pleno restablecimiento de los derechos de la víctima en su condición de persona y ciudadano;
 
 IV. Programas de educación y capacitación laboral orientados a la formación de las víctimas con el fin de garantizar su plena reintegración a la sociedad y la realización de su proyecto de vida;
 
-La atención médica, psicológica y psiquiátrica especializada a que se refiere la fracción I del presente artículo, se desarrollará a través del Modelo de Atención Integral en Salud contemplado en correspondiente numeral de esta Ley. Dicho Modelo deberá determinar las medidas individuales, físicas y mentales, que permitan a las víctimas, su familia y entorno social superar las secuelas de la victimización y desempeñarse en su entorno familiar, cultural, laboral y social y ejercer sus derechos y libertades básicas de manera individual o colectiva.
+V. Programas de capacitación laboral orientados a lograr la plena reintegración de la víctima a la sociedad y la realización de su proyecto de vida, y
 
-Los servicios y asesoría jurídicos tendientes a facilitar el ejercicio de los derechos de las víctimas y a garantizar su disfrute pleno y tranquilo será prEstado (sic) por la Asesoría Jurídica en términos de lo previsto por el correspondiente numeral de esta Ley.
+VI. Todas aquellas medidas tendientes a reintegrar a la víctima a la sociedad, incluido su grupo, o comunidad.
+
+La atención médica, psicológica y psiquiátrica especializada a que se refiere la fracción I del presente artículo, se desarrollará a través del Modelo. La reglamentación del Modelo deberá atender, en su caso, las medidas individuales, físicas y de atención mental, que permitan a las víctimas, su familia y entorno social superar las secuelas de la victimización y desempeñarse en su entorno familiar, cultural, laboral y social y ejercer sus derechos y libertades básicas de manera individual o colectiva.
+
+Los servicios y asesoría jurídicos tendientes a facilitar el ejercicio de los derechos de las víctimas y a garantizar su disfrute pleno y tranquilo será prestado (sic) por la Asesoría Jurídica Estatal en términos de lo previsto por esta Ley.
 
 Las demás acciones enunciadas en el presente artículo serán desarrolladas por la Comisión Ejecutiva Estatal.
 
-###### ARTÍCULO 80.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 78.
 
 En materia de rehabilitación se dará trato preferencial y diferenciado a las mujeres, los niños y niñas víctimas y a los hijos de las víctimas y a personas dependientes de éstas.
 
-###### ARTÍCULO 81.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La indemnización o la compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la violación de Derechos Humanos o de la comisión de los delitos considerados como graves, en el ámbito de la competencia estatal, contra la vida, la libertad y la integridad física o mental, al igual que los casos donde la víctima haya fallecido o quedado física o mentalmente incapacitada como consecuencia del delito, incluyendo el error judicial, a los que se refiere la Ley General de Víctimas.
+#### SECCIÓN TERCERA. DE LAS MEDIDAS DE COMPENSACIÓN
 
-Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínimo:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-I.- La reparación del daño sufrido en la integridad física de la víctima;
+###### Artículo 79.
 
-II.- La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación integral, entendiendo por ése, aquellos efectos nocivos de los hechos del caso que no tienen carácter económico o patrimonial y no pueden ser tasados en términos monetarios. El daño moral comprende tanto los sufrimientos y las aflicciones causados a las víctimas directas e indirectas, como el menoscabo de valores muy significativos para las personas y toda perturbación que no sea susceptible de medición pecuniaria;
+La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la comisión de los delitos a los que se refiere el artículo 86 de esta Ley o de la violación de derechos humanos, incluyendo el error judicial, de conformidad con lo que establece esta Ley y su Reglamento. Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínimo:
 
-III.- El resarcimiento de los perjuicios ocasionados o lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión;
+I. La reparación del daño sufrido en la integridad física de la víctima;
 
-IV.- La pérdida de oportunidades, en particular las de educación y prestaciones sociales;
+II. La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación integral, entendiendo por éste, aquellos efectos nocivos de los hechos del caso que no tienen carácter económico o patrimonial y no pueden ser tasados en términos monetarios. El daño moral comprende tanto los sufrimientos y las aflicciones causados a las víctimas directas e indirectas, como el menoscabo de valores muy significativos para las personas y toda perturbación que no sea susceptible de medición pecuniaria;
 
-V.- Los daños patrimoniales generados como consecuencia de delitos o violaciones a Derechos Humanos;
+III. El resarcimiento de los perjuicios ocasionados o lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión;
 
-VI.- El pago de los gastos y costas judiciales, incluyendo los honorarios de la asistencia letrada cuando ésta sea privada;
+IV. La pérdida de oportunidades, en particular las de educación y prestaciones sociales;
 
-VII.- El pago de los tratamientos médicos o terapéuticos que, como consecuencia del delito o de la violación a los Derechos Humanos, sean necesarios para la recuperación de la salud psicológica y física de la víctima, y
+V. Los daños patrimoniales generados como consecuencia de delitos o violaciones a derechos humanos;
 
-VIII.- Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione su asistencia al juicio o tratamiento, si la víctima reside en Municipio distinto al del enjuiciamiento o donde recibe la atención, respectivamente.
+VI. El pago de los gastos y costas judiciales del Asesor Jurídico cuando éste sea privado;
 
-Los niños, niñas y adolescentes víctimas tienen el derecho a obtener una indemnización o compensación. Los padres o, en su defecto, la autoridad competente, podrán elevar la solicitud, como representantes legales del niño, niña o adolescente, de la indemnización o compensación a la que ellos tengan derecho. La entidad judicial u órgano competente ordenará, en todos los casos, la constitución de un encargo fiduciario o fondo establecido a favor del beneficiario, asegurándose que se trate del que haya obtenido en promedio los mayores rendimientos financieros en los últimos seis meses. Los costos de administración del encargo serán a cargo del Estado. La suma de dinero les será entregada una vez alcancen la mayoría de edad.
+VII. El pago de los tratamientos médicos o terapéuticos que, como consecuencia del delito o de la violación a los derechos humanos, sean necesarios para la recuperación de la salud psíquica y física de la víctima, y
 
-###### ARTÍCULO 82.
+VIII. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en Municipio distinto al del enjuiciamiento o donde recibe la atención.
 
-En el caso de que se abra procedimiento judicial, surgirá la obligación de indemnizar o compensar una vez se dicte sentencia que haya causado ejecutoria y en los términos de la misma. En el caso de que el responsable se hubiera sustraído a la acción de la justicia, la autoridad judicial fijará la indemnización o compensación cuando dicha situación se consolide, mediante la correspondiente resolución. Todas las víctimas de violaciones a los Derechos Humanos serán compensadas, en los términos y montos que determine la resolución que emita en su caso:
+Las normas reglamentarias aplicables establecerán el procedimiento y el monto de gasto comprobable mínimo que no deberá ser mayor al veinticinco por ciento del monto total.
 
-a) Un Órgano Jurisdiccional Nacional;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-b) Un Órgano Jurisdiccional Internacional o reconocido por los Tratados Internacionales ratificados por el Estado Mexicano;
+###### Artículo 80.
 
-c) Un Organismo Público de Protección de los Derechos Humanos; y
+La compensación subsidiaria a las víctimas de los delitos señaladas en el artículo 86 de esta Ley, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y los montos señalados en el artículo 84 de esta Ley.
 
-d) Un Organismo Internacional de Protección de los Derechos Humanos reconocido por los Tratados Internacionales ratificados por el Estado Mexicano, cuando su resolución no sea susceptible de ser sometida a la consideración de un órgano jurisdiccional internacional previsto en el mismo Tratado en el que se encuentre contemplado el organismo en cuestión.
+En los casos de la fracción VIII, cuando se hayan cubierto con los Recursos de Ayuda, no se tomarán en consideración para la determinación de la compensación.
 
-En casos en que la víctima demuestre extrema vulnerabilidad con ocasión de la ocurrencia del acto delictivo, la Comisión Ejecutiva Estatal podrá reconocer, en calidad de indemnización provisional y anticipada, los montos a que diera lugar de manera parcial o total. En caso de que no se cumplan los elementos contenidos en este artículo, la víctima estará obligada a realizar la devolución de la indemnización anticipada, lo anterior sin perjuicio de las responsabilidades civiles y administrativas que de los mismos hechos pudieran derivar y conforme lo dispuesto por la presente Ley.
+La Comisión Ejecutiva Estatal expedirá los lineamientos respectivos a efecto de que a la víctima no se le cause mayores cargas de comprobación.
 
-Las Normas Reglamentarias Estatales, de acuerdo a los Lineamientos Federales aplicables, establecerán el procedimiento y el monto de gasto comprobable mínimo, que no deberá ser mayor al veinticinco por ciento del monto total.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La compensación subsidiaria a las víctimas de los delitos, señaladas en la Ley General de Víctimas, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y las condiciones señaladas en la misma.
+###### Artículo 81.
 
-###### ARTÍCULO 83.
+Niñas, niños y adolescentes, así como las personas incapaces víctimas tienen el derecho a obtener una compensación. Los padres, tutores o la autoridad competente, según sea el caso, podrán elevar la solicitud de la compensación a que el niño, niña o adolescente y persona incapaz tenga derecho, como representantes legales.
+
+La Comisión Ejecutiva Estatal creará en todos los casos, la constitución de una subcuenta dentro del Fondo a nombre de cada niña, niño y adolescente, así como persona incapaz víctima. Los costos de la administración serán a cargo del Estado.
+
+La compensación para cada niño, niña y adolescente podrá ser utilizada para garantizar su sano desarrollo y cubrir sus necesidades primarias antes de que cumplan la mayoría de edad, para lo cual la Comisión Ejecutiva Estatal reglamentará el acceso al mismo.
+
+La compensación así como las medidas de asistencia y ayuda para la persona incapaz víctima, podrán ser solicitadas por su representante legal o tutor y podrán ser utilizadas para garantizar sus necesidades primarias, para lo cual la Comisión Ejecutiva Estatal reglamentará el acceso al mismo.
+
+Si al cumplir la mayoría de edad existiera remanente de la compensación a la que tienen derecho, la Comisión Ejecutiva Estatal deberá entregarla en términos de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 82.
+
+Todas las víctimas de violaciones a los derechos humanos serán compensadas, en los términos y montos que determine la resolución que emita en su caso:
+
+I. Un Órgano Jurisdiccional Nacional;
+
+II. Un Órgano Jurisdiccional Internacional o reconocido por los Tratados Internacionales ratificados por México;
+
+III. Un Organismo Público de Protección de los Derechos Humanos, y
+
+IV. Un Organismo Internacional de Protección de los Derechos Humanos reconocido por los Tratados Internacionales ratificados por el Estado Mexicano, cuando su resolución no sea susceptible de ser sometida a la consideración de un órgano jurisdiccional internacional previsto en el mismo Tratado en el que se encuentre contemplado el organismo en cuestión.
+
+Lo anterior sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme a lo dispuesto por la presente Ley.
+
+En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el artículo 84.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 83.
 
 Cuando se trate de resoluciones judiciales que determinen la compensación a la víctima a cargo del sentenciado, la autoridad judicial ordenará la reparación con cargo al patrimonio de éste o, en su defecto, con cargo a los recursos que, en su caso, se obtengan de la liquidación de los bienes decomisados al sentenciado.
 
-###### ARTÍCULO 84.
+Sólo en caso de que no se actualicen los supuestos anteriores, se estará en lo dispuesto en el artículo 84 de esta Ley.
 
-La Comisión Ejecutiva Estatal fijará el monto del pago de una compensación en forma subsidiaria a cargo del fondo respectivo en términos de la presente Ley, así como de las normas reglamentarias correspondientes, tomando en cuenta:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-a) La determinación del Ministerio Público cuando el responsable se haya sustraído a la acción de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad; y
+###### Artículo 84.
 
-b) La resolución firme emitida por la autoridad judicial.
+La Comisión Ejecutiva Estatal fijará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo en términos de la presente Ley, así como de las normas reglamentarias correspondientes, tomando en cuenta:
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+I. La determinación del Ministerio Público cuando el responsable se haya sustraído a la acción de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad, y
 
-La resolución de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de noventa días contados a partir de la emisión de la resolución. El monto de la compensación subsidiaria a la que se podrá obligar al Estado será hasta de quinientas veces el valor diario de la Unidad de Medida y Actualización, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+II. La resolución firme emitida por la autoridad judicial.
 
-###### ARTÍCULO 85.
+El dictamen de resolución de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de noventa días, contados a partir de la determinación o resolución firme correspondiente.
 
-La Comisión Ejecutiva Estatal ordenará la compensación subsidiaria cuando la víctima, que no haya sido reparada, exhiba ante ella todos los elementos a su alcance que lo demuestren y presente ante la Comisión sus alegatos. La víctima podrá presentar, entre otros:
+El monto de la compensación subsidiaria a la que se podrá obligar al Estado será hasta de quinientas veces el valor mensual de la Unidad de Medida y Actualización, la cual deberá ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
 
-I.- Las constancias del agente del Ministerio Público que competa, de las que se desprenda que las circunstancias de hecho hacen imposible la judicialización de la carpeta de investigación con o sin detenido;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-II.- La sentencia firme de la autoridad judicial competente, en la que se señalen los conceptos a reparar. En el incidente o expediente respectivo la reparación obtenida y como consecuencia de ello los conceptos que el sentenciado no pudo reparar; o
+###### Artículo 85.
 
-III. La resolución emitida por autoridad competente u organismo público de protección de los Derechos Humanos de donde se desprenda que no ha obtenido la reparación del daño, ya sea de la persona directamente responsable de satisfacer dicha reparación o de las autoridades responsables de la compensación subsidiaria de conformidad con lo que establece esta Ley.
+La Comisión Ejecutiva Estatal ordenará la compensación subsidiaria cuando la víctima, que no haya sido reparada, exhiba ante ella todos los elementos a su alcance que lo demuestren y presente sus alegatos. La víctima podrá presentar, entre otros:
 
-###### ARTÍCULO 86.
+I. Las constancias del agente del Ministerio Público que competa, de las que se desprenda que las circunstancias de hecho hacen imposible la judicialización de la carpeta de investigación con o sin detenido;
 
-La compensación subsidiaria a favor de las víctimas de delitos, se cubrirá con cargo al Fondo en términos de la Ley y su Reglamento en los términos que disponga la Comisión Ejecutiva Estatal.
+II. La sentencia firme de la autoridad judicial competente, en la que se señalen los conceptos a reparar. En el incidente o expediente respectivo, la reparación obtenida y como consecuencia de ello los conceptos que el sentenciado no pudo reparar, o
 
-###### ARTÍCULO 87.
+III. La resolución emitida por autoridad competente u organismo público de protección de los derechos humanos de donde se desprenda que no ha obtenido la reparación del daño, ya sea de la persona directamente responsable de satisfacer dicha reparación o de las autoridades responsables de la compensación subsidiaria de conformidad con lo que establece esta Ley.
 
-El Estado tendrá derecho a exigir que el sentenciado restituya al Fondo los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 88.
+###### Artículo 86.
+
+El Estado compensará a través de la Comisión Ejecutiva Estatal, de forma subsidiaria el daño causado a la víctima de los delitos que ameriten prisión preventiva oficiosa o en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, daño o menoscabo al libre desarrollo de su personalidad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física o mental como consecuencia del delito, cuando así lo determine la autoridad judicial.
+
+La Comisión Ejecutiva Federal podrá cubrir la compensación subsidiaria para asegurar su cumplimiento, con cargo al Fondo Federal, cuando la Comisión Ejecutiva Estatal lo solicite por escrito en términos de lo previsto en la fracción XVII del artículo 81 de la Ley General.
+
+La compensación subsidiaria a favor de las víctimas de delitos se cubrirá con cargo al Fondo en términos de la Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 87.
+
+El Estado a través de la Comisión Ejecutiva Estatal tendrá la obligación de exigir que el sentenciado restituya al Fondo los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 88.
 
 La obtención de la compensación subsidiaria no extingue el derecho de la víctima a exigir reparación de cualquier otra naturaleza.
 
-###### ARTÍCULO 89.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 89.
+
+En casos en que la víctima demuestre extrema vulnerabilidad con ocasión de la ocurrencia del acto delictivo, la Comisión Ejecutiva Estatal podrá reconocer, en calidad de compensación provisional y anticipada, los montos a que diera lugar de manera parcial o total. En caso de que no se cumplan los elementos contenidos en este artículo, la víctima estará obligada a realizar la devolución de la compensación provisional y anticipada, lo anterior sin perjuicio de las responsabilidades civiles y administrativas que de los mismos hechos pudieran derivar y conforme lo dispuesto por la presente Ley.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SATISFACCIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 90.
 
 Las medidas de satisfacción serán aquellas acciones que proporcionen bienestar y contribuyan a mitigar el daño de la víctima. Las medidas de satisfacción deberán ser interpretadas a mero título enunciativo, lo cual implica que a las mismas se pueden adicionar otras.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 91.
+
 Las medidas de satisfacción comprenden, entre otras y según corresponda:
 
-I. La verificación de los hechos y la revelación pública y completa de la verdad, en la medida en que esa revelación no provoque más daños o amenace la seguridad y los intereses de la víctima, de sus familiares, de los testigos o de personas que han intervenido para ayudar a la víctima o para impedir que se produzcan nuevos delitos o nuevas violaciones de Derechos Humanos;
+I. La verificación de los hechos y la revelación pública y completa de la verdad, en la medida en que esa revelación no provoque más daños o amenace la seguridad y los intereses de la víctima, de sus familiares, de los testigos o de personas que han intervenido para ayudar a la víctima o para impedir que se produzcan nuevos delitos o nuevas violaciones de derechos humanos;
 
 II. La búsqueda de las personas desaparecidas y de los cuerpos u osamentas de las personas asesinadas, así como la ayuda para recuperarlos, identificarlos y volver a inhumarlos según el deseo explícito o presunto de la víctima o las prácticas culturales de su familia y comunidad;
 
@@ -1075,27 +1303,37 @@ IV. Una disculpa pública de parte del Estado, los autores y otras personas invo
 
 V. Apoyo para la reconstrucción del movimiento y tejido social de las comunidades campesinas y pueblos y comunidades originarias, atendiendo a un enfoque diferencial. Se deberá en todo momento contar con la participación de las víctimas para el diseño, elaboración, creación e implementación de las medidas de satisfacción;
 
-VI. La aplicación de sanciones judiciales o administrativas a los responsables de las violaciones de Derechos Humanos;
+VI. La aplicación de sanciones judiciales o administrativas a los responsables de las violaciones de derechos humanos;
 
 VII. La realización de actos que conmemoren el honor, la dignidad, el sufrimiento y la humanidad de las víctimas, tanto vivas como muertas;
 
-VIII. Reconocimiento público del carácter de víctima, de su dignidad, nombre y honor, ante la comunidad y el ofensor; y
+VIII. Reconocimiento público del carácter de víctima, de su dignidad, nombre y honor, ante la comunidad y el ofensor, y
 
 IX. Efectuar las publicaciones a que haya lugar.
 
-###### ARTÍCULO 90.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se entiende por reparación simbólica toda prestación realizada a favor de las víctimas o de la comunidad en general que tienda a asegurar la preservación de la memoria histórica, la no repetición de los hechos victimizantes, la aceptación pública de los hechos, la solicitud de perdón público y el restablecimiento de la dignidad de las víctimas.
+###### Artículo 92.
 
-###### ARTÍCULO 91.
+Se entiende por reparación simbólica toda prestación realizada a favor de las víctimas o de la comunidad en general tendente a asegurar la preservación de la memoria histórica, la no repetición de los hechos victimizantes, la aceptación pública de los hechos, la solicitud de perdón público y el restablecimiento de la dignidad de las víctimas.
 
-A cargo del Sistema Estatal para el Desarrollo Integral de la Familia se creará el programa especial para el encuentro y reconstrucción del tejido social, el cual tendrá por finalidad establecer acciones y herramientas que contribuyan a la reconstrucción de la memoria en espacios colectivos, elaborar un plan de acción que incluya actividades para la dignificación de las víctimas y su reconocimiento.
+Las medidas de reparación simbólica, ya sean individuales o colectivas, podrán cubrirse con cargo al Fondo, conforme lo establezca el Reglamento y la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 93.
+
+A cargo del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos se creará el programa especial para el encuentro y reconstrucción del tejido social, el cual tendrá por finalidad establecer acciones y herramientas que contribuyan a la reconstrucción de la memoria en espacios colectivos, elaborar un plan de acción que incluya actividades para la dignificación de las víctimas y su reconocimiento.
 
 El proyecto de presupuesto de egresos del Estado y su correspondiente aprobación deberán garantizar una partida presupuestal para realizar los ajustes institucionales y financieros para el desarrollo de este programa.
 
-### CAPÍTULO VI. DE LAS GARANTÍAS DE NO REPETICIÓN
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 92.
+#### SECCIÓN QUINTA. DE LAS MEDIDAS DE NO REPETICIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 94.
 
 Las medidas de no repetición son aquellas que se adoptan para que las víctimas no vuelvan a ser objeto de violaciones a sus derechos y que contribuyen a prevenir o evitar la repetición de actos de la misma naturaleza. Estas consistirán en las siguientes:
 
@@ -1103,33 +1341,37 @@ I. El ejercicio de un control efectivo por las autoridades civiles de las corpor
 
 II. La garantía de que todos los procedimientos penales y administrativos se ajusten a la normatividad internacional, federal y local relativas a la competencia, independencia e imparcialidad de las autoridades judiciales y a las garantías del debido proceso;
 
-III. El fortalecimiento de la independencia del Poder Judicial;
+III. El fortalecimiento de la independencia del Poder Judicial Estatal;
 
-IV. La limitación en la participación los Poderes del Estado, de los dirigentes políticos que hayan planeado, instigado, ordenado o cometido graves violaciones de los Derechos Humanos;
+IV. La limitación en la participación (sic) los Poderes del Estado, de los dirigentes políticos que hayan planeado, instigado, ordenado o cometido graves violaciones de los derechos humanos;
 
-V. La exclusión en la participación en el gobierno o en las corporaciones de seguridad de los militares, agentes de inteligencia y cualquier otro personal de seguridad declarados responsables de planear, instigar, ordenar o cometer graves violaciones de los Derechos Humanos;
+V. La exclusión en la participación en el gobierno o en las corporaciones de seguridad de los militares, agentes de inteligencia y cualquier otro personal de seguridad declarados responsables de planear, instigar, ordenar o cometer graves violaciones de los derechos humanos;
 
 VI. La protección de los profesionales del derecho, la salud y la información que coadyuven con los objetivos de esta Ley;
 
-VII. La protección de los defensores de los Derechos Humanos;
+VII. La protección de los defensores de los derechos humanos;
 
-VIII. La educación, de modo prioritario y permanente, de todos los sectores de la sociedad respecto de los Derechos Humanos y la capacitación en esta materia de los servidores públicos encargados de hacer cumplir la ley, así como las corporaciones de seguridad;
+VIII. La educación, de modo prioritario y permanente, de todos los sectores de la sociedad respecto de los derechos humanos y la capacitación en esta materia de los servidores públicos encargados de hacer cumplir la ley, así como las corporaciones de seguridad;
 
-IX. La promoción de la observancia de los códigos de conducta y de las normas éticas, en particular los definidos en normas internacionales de protección de Derechos Humanos, por los servidores públicos, incluido el personal de corporaciones de seguridad, los establecimientos penitenciarios, los medios de información, el personal de servicios médicos, psicológicos y sociales, además del personal de empresas comerciales;
+IX. La promoción de la observancia de los códigos de conducta y de las normas éticas, en particular los definidos en normas internacionales de protección de derechos humanos, por los servidores públicos, incluido el personal de corporaciones de seguridad, los establecimientos penitenciarios, los medios de información, el personal de servicios médicos, psicológicos y sociales, además del personal de empresas comerciales;
 
 X. La promoción de mecanismos destinados a prevenir, vigilar y resolver por medios pacíficos los conflictos sociales;
 
-XI. La revisión y reforma de las Leyes, Normas u Ordenamientos Legales que contribuyan a las violaciones manifiestas de las Normas Internacionales de Derechos Humanos o las permitan; y
+XI. La revisión y reforma de las leyes, normas u ordenamientos legales que contribuyan a las violaciones manifiestas de las normas internacionales de derechos humanos o las permitan, y
 
-XII. Profesionalización y actualización de las corporaciones de seguridad en materia de respeto, garantía y protección de los Derechos Humanos.
+XII. Profesionalización y actualización de las corporaciones de seguridad en materia de respeto, garantía y protección de los derechos humanos.
 
-###### ARTÍCULO 93.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-El Estado de Morelos creará un Sistema de Alertas que tenga por finalidad realizar estudios sobre el comportamiento delictivo en el Estado y monitoreo a la violación de Derechos Humanos, generando alertas tempranas de prevención e intervención de las autoridades competentes. Este sistema deberá contemplar, más allá de un enfoque policial, la seguridad humana, aspectos sociales y de otra índole.
+###### Artículo 95.
 
-###### ARTÍCULO 94.
+El estado de Morelos creará un Sistema de Alertas que tenga por finalidad realizar estudios sobre el comportamiento delictivo en el Estado y monitoreo a la violación de derechos humanos, generando alertas tempranas de prevención e intervención de las autoridades competentes. Este sistema deberá contemplar, más allá de un enfoque policial, la seguridad humana, aspectos sociales y de otra índole.
 
-Se entienden como medidas que buscan garantizar la no repetición de los delitos ni de las violaciones a los Derechos Humanos las siguientes:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 96.
+
+Se entienden como medidas que buscan garantizar la no repetición de los delitos ni de las violaciones a los derechos humanos las siguientes:
 
 I. Supervisión de la autoridad;
 
@@ -1137,83 +1379,125 @@ II. Prohibición de ir a un lugar determinado u obligación de residir en él en
 
 III. Determinación y caución de no ofender;
 
-IV. La asistencia a cursos de capacitación sobre Derechos Humanos; y
+IV. La asistencia a cursos de capacitación sobre derechos humanos, y
 
 V. La asistencia a tratamiento de rehabilitación dictada por un Juez y sólo en caso de que la adicción hubiera sido la causa de la comisión del delito o el hecho victimizante, en los términos de la normatividad aplicable.
 
-###### ARTÍCULO 95.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 97.
 
 Se entiende por supervisión de la autoridad, la consistente en la observación y orientación de los condenados, ejercidas por personal especializado, con la finalidad de coadyuvar a la protección de la víctima y la comunidad.
 
 Esta medida se establecerá cuando la privación de la libertad sea sustituida por otra sanción, se reduzca la pena privativa de libertad o se conceda la suspensión condicional de la pena.
 
-El Poder Ejecutivo del Estado garantizará la implementación de esta medida de acuerdo a los lineamientos del área de Reinserción Social.
+El Poder Ejecutivo Estatal garantizará la implementación de esta medida de acuerdo a los lineamientos del área de Reinserción Social.
 
-###### ARTÍCULO 96.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Durante la tramitación del procedimiento, el Ministerio Público y el Juez, dentro de los límites y condiciones que se fijen en la resolución respectiva, adoptarán las medidas necesarias para proteger la integridad física y moral de la víctima y podrán exigir al imputado o condenado, respectivamente, una garantía de no ofender o de acceder a un lugar determinado o que resida en él, siempre que ello pueda afectar a la seguridad de las víctimas.
+###### Artículo 98.
 
-###### ARTÍCULO 97.
+Cuando una persona haya sido sentenciada por delitos o violación a los derechos humanos, cometidos bajo el influjo o debido al abuso de sustancias alcohólicas, estupefacientes, psicotrópicos o similares, independientemente de la pena que corresponda, se le aplicarán cursos y tratamientos para evitar su reincidencia y fomentar su deshabituación o desintoxicación, sin perjuicio de lo previsto por el Código Nacional.
 
-Cuando el sujeto haya sido sentenciado por delitos o violación a los Derechos Humanos, cometidos bajo el influjo o debido al abuso de sustancias alcohólicas, estupefacientes, psicotrópicos o similares, independientemente de la pena que corresponda, aplicarán cursos y tratamientos para evitar su reincidencia y fomentar su deshabituación o desintoxicación.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-## TÍTULO SÉPTIMO. DE LA ATENCIÓN INTEGRAL A LAS VÍCTIMAS
+### CAPÍTULO XI. DE LA PARTICIPACIÓN DEL ESTADO EN EL SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN DEL ESTADO EN EL SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 98.
+###### Artículo 99.
 
-De conformidad a las obligaciones derivadas de la creación del Sistema Nacional de Atención a Víctimas como máxima Institución en los Estados Unidos Mexicanos, en el marco de la Ley General de Víctimas, el Poder Ejecutivo del Estado de Morelos está obligado a:
+En términos de lo dispuesto en el artículo 118 de la Ley General y derivado de la participación del Estado en el Sistema Nacional, las autoridades del estado de Morelos, conforme el ámbito de su competencia, están obligadas a:
 
-I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral, para la adecuada atención y protección a las víctimas;
+I. Garantizar el ejercicio pleno de los derechos de las víctimas;
 
-II. Ejercer sus facultades reglamentarias para la aplicación de la presente Ley;
+II. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral, para la adecuada atención y protección a las víctimas;
 
-III. Coadyuvar en la adopción y consolidación del Sistema;
+III. Garantizar el cabal cumplimiento de la presente Ley;
 
-IV. Participar en la elaboración del Programa;
+IV. Ejercer su facultad reglamentaria para la aplicación de la presente Ley;
 
-V. Fortalecer e impulsar la creación de las instituciones públicas y privadas que prestan atención a las víctimas;
+V. Coadyuvar en la adopción y consolidación del Sistema Nacional;
 
-VI. Promover, en coordinación con el gobierno federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los Derechos Humanos de las víctimas de acuerdo con el Programa;
+VI. Participar en la elaboración del Programa de Atención Integral a Víctimas que realice el Gobierno Federal;
 
-VII. Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
+VII. Asegurar la difusión y promoción de los derechos de las víctimas indígenas con base en el reconocimiento de la composición pluricultural del Estado;
 
-VIII. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema;
+VIII. Fortalecer e impulsar la creación de instituciones públicas y privadas que prestan atención a las víctimas;
 
-IX. Promover programas de información a la población en la materia;
+IX. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las víctimas de acuerdo con el Programa de Atención Integral a Víctimas que realice el Gobierno Federal;
 
-X. Impulsar programas reeducativos integrales de los imputados;
+X. Impulsar programas locales para el adelanto y desarrollo de las mujeres, así como su empoderamiento, y mejorar con ello su calidad de vida;
 
-XI. Difundir por todos los medios de comunicación el contenido de esta Ley;
+XI. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional;
 
-XII. Rendir ante el Sistema un informe anual sobre los avances de los programas locales;
+XII. Promover programas de información a la población en la materia;
 
-XIII. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones que al efecto se realicen;
+XIII. Impulsar programas reeducativos integrales de los imputados;
 
-XIV. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los Derechos Humanos, en la ejecución de los programas estatales;
+XIV. Difundir por todos los medios de comunicación el contenido de esta Ley y la Ley General;
 
-XV. Recibir de las organizaciones privadas las propuestas y recomendaciones sobre atención y protección de las víctimas, a fin de mejorar los mecanismos en la materia;
+XV. Rendir ante el Sistema Nacional un informe anual sobre los avances de los programas locales que deriven de la presente Ley;
 
-XVI. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para su elaboración;
+XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones que al efecto se realicen;
 
-XVII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley; y
+XVII. Impulsar la participación de las organizaciones civiles dedicadas a la promoción y defensa de los derechos humanos, en la ejecución de los programas estatales;
 
-XVIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y aplicables a la materia, que les conceda la Ley u otros ordenamientos legales.
+XVIII. Recibir de las organizaciones civiles las propuestas y recomendaciones sobre atención y protección de las víctimas, a fin de mejorar los mecanismos en la materia;
 
-### CAPÍTULO III. DE LAS MEDIDAS ECONÓMICAS Y DE DESARROLLO
+XIX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para su elaboración;
 
-###### ARTÍCULO 99.
+XX. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y
 
-Corresponden a los Municipios, de conformidad con lo dispuesto en la Ley General de Víctimas, las siguientes competencias:
+XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia, y aplicables a la materia, que les conceda la Ley u otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 100.
+
+Las instituciones competentes en las materias de seguridad pública, procuración de justicia, desarrollo económico, desarrollo social, desarrollo integral de la familia, salud, educación, cultura, conforme el ámbito de su competencia, deberán:
+
+I. Organizar, desarrollar, dirigir y adecuar las medidas necesarias, a través de planes, programas, líneas de acción, convenios de cooperación y coordinación, entre otros, para garantizar los derechos de las víctimas de delitos o de violación a sus derechos humanos;
+
+II. Llevar a cabo las acciones necesarias tendientes a capacitar a su personal para asegurar el acceso a los servicios especializados que éstas proporcionen a las víctimas, y con ello lograr el pleno ejercicio de sus derechos y garantizar su reinserción a la vida cotidiana;
+
+III. Canalizar a las víctimas a las instituciones que les prestan ayuda, atención y protección especializada;
+
+IV. Generar, tomar, realizar e implementar las acciones que sean necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos y el respeto irrestricto de los derechos establecidos en la presente Ley;
+
+V. Implementar programas de prevención y erradicación de la violencia, especialmente la ejercida contra niñas, niños, adolescentes, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar;
+
+VI. Participar, ejecutar y dar seguimiento activamente a las acciones del Programa que les corresponda, con la finalidad de diseñar nuevos modelos de prevención y atención a las víctimas, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+
+VII. Definir y promover al interior de cada institución política que promuevan el respeto irrestricto de los derechos humanos, con base en los principios establecidos en la presente Ley, a fin de fomentar la cultura de los derechos humanos y el respeto a la dignidad de las personas;
+
+VIII. Denunciar ante la autoridad competente, cuando tenga conocimiento de violaciones a derechos humanos, y en el caso de nacionales que se encuentren en el extranjero, se deberán establecer los mecanismos de información para que conozcan a dónde acudir en caso de encontrarse en calidad de víctimas;
+
+IX. Apoyar a las autoridades encargadas de efectuar la investigación del delito o de violaciones a derechos humanos, proporcionando la información que sea requerida por la misma;
+
+X. Generar los espacios públicos para cumplir, en el ámbito de sus atribuciones lo que mandata la Ley;
+
+XI. Brindar las medidas de atención prioritaria, determinadas por la Comisión Ejecutiva Estatal, en términos de esta Ley, y
+
+XII. Las demás previstas para el cumplimiento de la presente Ley, las normas reglamentarias respectivas y el Programa Integral.
+
+Las instituciones del sector salud, de manera integral e interdisciplinaria brindarán atención médica, psicológica y servicios integrales a las víctimas, asegurando que en la prestación de los servicios se respeten sus derechos humanos.
+
+Las instituciones de seguridad pública deberán salvaguardar la integridad y patrimonio de las víctimas en situación de peligro cuando se vean amenazadas por disturbios y otras situaciones que impliquen violencia o riesgos inminentes o durante la prevención de la comisión de algún delito o violación a sus derechos humanos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 101.
+
+Corresponden a los Municipios, de conformidad con lo dispuesto en la Ley General, las siguientes competencias:
 
 I. Instrumentar y articular, en concordancia con las políticas nacional y estatal, la política municipal para la adecuada atención y protección a las víctimas;
 
-II. Coadyuvar con los Gobiernos Federal y Estatal, en la adopción y consolidación del Sistema;
+II. Coadyuvar con los Gobiernos Federal y Estatal, en la adopción y consolidación del Sistema Nacional;
 
 III. Promover, en coordinación con las autoridades estatales, cursos de capacitación a las personas que atienden a víctimas;
 
-IV. Ejecutar las acciones necesarias para el cumplimiento del Programa;
+IV. Ejecutar las acciones necesarias, en el ámbito de su competencia, para coadyuvar en el cumplimiento del Programa de Atención Integral a Víctimas que realice el Gobierno Federal y el Programa Integral;
 
 V. Apoyar la creación de programas de reeducación integral para los imputados;
 
@@ -1221,15 +1505,19 @@ VI. Apoyar la creación de refugios seguros para las víctimas;
 
 VII. Participar y coadyuvar en la protección y atención a las víctimas;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
-IX. Las demás aplicables a la materia, que les conceda la Ley u otros ordenamientos legales aplicables.
+IX. Las demás aplicables a la materia, que les conceda la Ley u otros ordenamientos jurídicos aplicables.
 
-###### ARTÍCULO 100.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Las competencias y obligaciones del Estado y de los Municipios, así como de sus servidores públicos, tales como Ministerio Público, Magistrados, Jueces, asesores jurídicos de las víctimas y las policías, se encuentran consagradas en la Ley General de Víctimas, los cuales hacen parte integral de la presente Ley.
+###### Artículo 102.
 
-###### ARTÍCULO 101.
+Las competencias y obligaciones del Estado y de los Municipios, así como de sus servidores públicos, tales como Ministerio Público, integrantes del Poder Judicial Estatal, Asesores Jurídicos de las víctimas, funcionarios del organismo de protección de derechos humanos en el Estado, y las policías, se encuentran consagradas en la Ley General y el Código Nacional, por lo que deberán observarse en todo momento a fin de dar cumplimiento a la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 103.
 
 A la víctima le corresponde:
 
@@ -1237,415 +1525,899 @@ I. Actuar de buena fe;
 
 II. Cooperar con las autoridades que buscan el respeto de su derecho a la justicia y a la verdad, siempre que no implique un riesgo para su persona, familia o bienes;
 
-III. Conservar los bienes objeto de aseguramiento cuando éstos le hayan sido devueltos o puestos bajo su custodia, así como no cremar los cuerpos de familiares a ellos entregados, cuando la autoridad así lo requiera y por el lapso que se determine necesario; y
+III. Conservar los bienes objeto de aseguramiento cuando éstos le hayan sido devueltos o puestos bajo su custodia, así como no cremar los cuerpos de familiares a ellos entregados, cuando la autoridad así lo requiera y por el lapso que se determine necesario;
 
-IV. Cuando tenga acceso a información reservada o confidencial, respetar y guardar la secrecía de la misma.
+IV. Cuando tenga acceso a información reservada o confidencial, respetar y guardar la secrecía de la misma, y
+
+V. Lo que establezcan otros ordenamientos jurídicos en la materia.
 
 Todo empleador de una víctima, sea público o privado, deberá permitir y respetar que la misma haga uso de los mecanismos, acciones y procedimientos reconocidos para hacer efectivos sus derechos y garantías, aunque esto implique ausentismo.
 
-###### ARTÍCULO 102.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se crea la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, con funciones y objeto de coordinar los instrumentos, políticas, servicios y acciones para garantizar los derechos en materia de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos, con autonomía técnica, ejecutiva, administrativa, presupuestal y de gestión, para la consecución de su objeto, la realización de sus funciones y la emisión de los actos de autoridad que conforme a su normatividad correspondan.
+### CAPÍTULO XII. DEL SISTEMA ESTATAL DE ATENCIÓN A VÍCTIMAS
 
-El organismo tendrá su sede en la ciudad de Cuernavaca, pero con capacidad de establecer oficinas en diversas localidades de la entidad, conforme lo determine su órgano máximo de gobierno.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Para ese efecto, el organismo contará con dos instancias de dirección:
+###### Artículo 104.
 
-I. El Consejo; y
+El Sistema Estatal de Atención a Víctimas será la instancia superior de coordinación y formulación de políticas públicas relacionadas con las víctimas, y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral a las víctimas en el estado de Morelos. Así como la coordinación de instrumentos, políticas, servicios y acciones entre las instituciones y organismos ya existentes y los creados por la Ley General, para la protección de los derechos de las víctimas.
 
-II. La Coordinación Ejecutiva.
+El Sistema Estatal está constituido por todas las instituciones y entidades públicas estatales y municipales, organismos autónomos, y demás organizaciones públicas o privadas, encargadas de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas, a que se refiere el artículo 106 de esta Ley.
 
-El Consejo se integrará de la siguiente manera:
+Para la operación del Sistema Estatal y el cumplimiento de sus atribuciones, el Sistema Estatal contará con una Comisión Ejecutiva quien conocerá y resolverá los asuntos de su competencia, de conformidad con las disposiciones aplicables.
 
-I. El Gobernador Constitucional del Estado o el servidor público que éste designe, quien lo presidirá;
+En el caso de víctimas de desplazamiento interno que se encuentren en una entidad federativa distinta de su Entidad de origen la Comisión Ejecutiva Estatal en el ámbito de sus competencias, cuando proceda, garantizará su debido registro, atención y reparación, en términos de esta Ley.
 
-II. El Titular de la Secretaría de Desarrollo Social;
+El Sistema Estatal deberá realizar las acciones necesarias para guardar la vinculación necesaria, conforme el ámbito de su competencia, con el Sistema Nacional, respecto de las determinaciones y decisiones que en este último se tomen a favor de las víctimas.
 
-III. Dos Diputados del Congreso del Estado, designados por el Pleno de la Asamblea Legislativa, a propuesta de los integrantes del órgano político de la misma; y
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, así como los sectores social y privado, deberán coordinarse para establecer los mecanismos de organización, supervisión, evaluación y control de los servicios en materia de protección, ayuda, asistencia y atención, acceso a la justicia, a la verdad y reparación integral a víctimas, previstos en esta Ley.
 
-IV. Los cinco comisionados a que se hace alusión en el siguiente artículo.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-En el Estatuto Orgánico se establecerán las disposiciones para el funcionamiento del Consejo, así como la estructura orgánica del organismo, en la que se incluirá al órgano de control respectivo.
+###### Artículo 105.
 
-El Gobernador del Estado, designará al titular de la Coordinación Ejecutiva, en los términos dispuestos en el Estatuto Orgánico, con apego a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Morelos, respecto de los requisitos a cumplir y atribuciones de los titulares de los organismos auxiliares.
+Para el cumplimiento de su objeto el Sistema Estatal, en el ámbito de su competencia, tendrá las siguientes atribuciones:
 
-El Titular del Ejecutivo Estatal expedirá el Reglamento de esta Ley.
+I. Promover la coordinación y colaboración entre las instituciones, entidades públicas federales, estatales y municipales, organismos autónomos encargados de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014) (F. DE E., P.O. 9 DE ABRIL DE 2014)
+II. Formular propuestas para la elaboración del Programa Integral y demás instrumentos programáticos relacionados con la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
 
-###### ARTÍCULO 103.
+III. Analizar y evaluar los resultados que arrojen las evaluaciones que se realicen a la Comisión Ejecutiva Estatal;
 
-Los cinco comisionados a que se refiere la fracción IV, del artículo anterior, integrantes del Consejo de la Comisión Ejecutiva Estatal, durarán en el cargo tres años, pudiendo ser designados por un período más; anualmente, la Comisión Estatal Ejecutiva dispondrá de una partida presupuestal suficiente para cubrir las costas o aportaciones económicas que resulten convenientes con su función, sin que represente de manera alguna una retribución a su actividad.
+IV. Elaborar propuestas de reforma a instrumentos legales o reglamentarios en materia de atención a víctimas para someterlos a las autoridades competentes;
 
-La sustitución de los comisionados se hará de manera alternada, tres en la primera sustitución y dos en la siguiente.
+V. Integrar los comités que sean necesarios para el desempeño de sus funciones;
 
-El Ejecutivo Estatal enviará al Congreso del Estado, previa convocatoria pública, una terna por cada comisionado a elegir, atendiendo el procedimiento que se establezca en el Estatuto Orgánico. El Congreso elegirá a cada comisionado por el voto aprobatorio de las dos terceras partes de sus integrantes.
+VI. Promover estrategias para el desarrollo profesional y la especialización de los miembros de las instituciones de atención a víctimas;
 
-Una vez cerrada la convocatoria, el Ejecutivo deberá publicar la lista de las propuestas recibidas.
+VII. Promover que las disposiciones jurídicas pertinentes prevean un procedimiento ágil, eficaz y uniforme para la imposición de sanciones administrativas al personal de las instituciones de atención a víctimas, por incumplimiento de los deberes previstos en esta Ley y demás que se establezcan en los ordenamientos correspondientes;
 
-Para garantizar que en la Comisión Ejecutiva Estatal estén representados colectivos de víctimas, especialistas y expertos que trabajen en la atención a víctimas, ésta se conformará con las propuestas presentadas al Ejecutivo Estatal, en los siguientes términos:
+VIII. Impulsar la participación de la comunidad en las actividades de atención a víctimas;
 
-I.- Tres comisionados especialistas en derecho, psicología, Derechos Humanos, sociología o especialidades equivalentes con experiencia en la materia de esta Ley, propuestos por las universidades públicas del Estado de Morelos y la Comisión de Derechos Humanos del Estado de Morelos; y
+IX. Proponer criterios de cooperación y coordinación para la atención médica, psicológica y jurídica de víctimas, así como de gestoría de trabajo social respecto de las mismas;
 
-II.- Dos comisionados representando a colectivos de víctimas, propuestos por organizaciones no gubernamentales con actividad acreditada en atención a víctimas de al menos cinco años.
+X. Fomentar la cultura de respeto a las víctimas y a sus derechos;
 
-Para la elección de los comisionados, a la Comisión de Justicia y Derechos Humanos del Congreso se turnarán las ternas, verificando el cumplimiento de los requisitos para su selección.
+XI. Formular estrategias de coordinación en materia de atención a víctimas;
 
-En su conformación, el Ejecutivo y el Congreso estatales garantizarán la representación de las diversas regiones geográficas del Estado, así como de las diversas especializaciones sobre hechos victimizantes.
+XII. Establecer lineamientos para el desahogo de procedimientos de atención a víctimas;
 
-Para ser comisionado se requiere:
+XIII. Expedir sus reglas de organización y funcionamiento;
 
-I.- Ser ciudadano mexicano y tener veintiún años cumplidos;
+XIV. Promover la uniformidad de criterios jurídicos con relación a la materia de la presente Ley;
 
-II.- Tener su residencia en la Entidad y no haber sido condenado por la comisión de un delito doloso;
+XV. Coordinar la elaboración de diagnósticos que permitan evaluar las problemáticas concretas que enfrentan las víctimas en términos de violaciones a los derechos humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño en la Entidad;
 
-III.- Haberse desempeñado de manera destacada en actividades profesionales, de servicio público, en organizaciones de la sociedad civil o académicas relacionadas con la materia de esta Ley; y
+XVI. Promover la celebración de convenios de coordinación entre la Comisión Ejecutiva Federal y la Comisión Ejecutiva Estatal para establecer las reglas de reintegración de los recursos erogados por la Comisión Ejecutiva Federal a través del Fondo Federal, ya sea por conceptos de Recursos de Ayuda o de compensación subsidiaria, en términos de lo previsto en la fracción XVII del artículo 81 de la Ley General;
 
-IV.- No haber ocupado cargo público ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+XVII. Generar diagnósticos específicos sobre las necesidades estatales y municipales en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones de ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral, de tal manera que sea disponible y efectiva. Estos diagnósticos servirán de base para la canalización o distribución de recursos y servicios de atención a víctimas;
 
-En la elección de los comisionados deberá garantizarse el respeto a los principios contenidos en la presente Ley.
+XVIII. Aprobar la propuesta, que someta a su consideración el Comisionado Ejecutivo, de la plataforma que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel estatal a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los derechos humanos, atención, asistencia, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley, y
 
-### CAPÍTULO ÚNICO. DE LOS DERECHOS DE LAS VÍCTIMAS EN EL PROCESO PENAL
+XIX. Las demás que le otorga esta Ley, su Reglamento, así como demás normativa aplicable.
 
-###### ARTÍCULO 104.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La Comisión Ejecutiva Estatal, para su adecuada función, tendrá las siguientes atribuciones:
+###### Artículo 106.
 
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por el Sistema Nacional de Víctimas;
+El Sistema Estatal se integrará de la siguiente manera:
 
-II. Garantizar el acceso a los servicios multidisciplinarios y especializados que el Estado proporcionará a las víctimas de delitos o de violaciones de Derechos Humanos, para lograr su reincorporación a la vida social;
+I. Del Poder Ejecutivo Estatal:
 
-III. Elaborar anualmente el Plan de Atención y Reparación Integral a Víctimas con el objeto de crear, reorientar, dirigir, planear, coordinar, ejecutar y supervisar las políticas públicas en materia de atención a víctimas y proponerlo para su aprobación al Sistema Nacional;
+a) El Gobernador del Estado quien lo presidirá;
 
-IV. Proponer políticas públicas en el Estado de prevención de delitos y violaciones a Derechos Humanos, así como de atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral a víctimas u ofendidos de acuerdo con los principios establecidos en esta Ley;
+b) La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
 
-V. Diseñar un mecanismo de seguimiento y evaluación de las obligaciones previstas en esta Ley;
+c) La persona titular de la Fiscalía General del Estado de Morelos;
 
-VI. Desarrollar las medidas previstas en esta Ley para la protección inmediata de las víctimas, cuando su vida o su integridad se encuentren en riesgo;
+d) La persona titular de la Comisión Estatal de Seguridad Pública;
 
-VII. Coordinar a las instituciones competentes para la atención de una problemática específica, de acuerdo con los principios establecidos en esta Ley, así como los de coordinación, concurrencia y subsidiariedad;
+II. Del Poder Legislativo Estatal:
 
-VIII. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
+a) Una persona representante de la Comisión de Atención a Víctimas del Congreso del Estado;
 
-IX. Realizar las acciones necesarias para la adecuada operación del Registro Estatal de Víctimas;
+III. Del Poder Judicial Estatal:
 
-X. Cumplir las directrices para alimentar de información el Registro Nacional de Víctimas;
+a) La persona titular del Consejo de la Judicatura del Poder Judicial Estatal;
 
-XI. Proporcionar un informe anual a la Comisión Intersecretarial, sobre los avances del Plan y demás obligaciones previstas en esta Ley;
+IV. Organismos Públicos:
 
-XII. Vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+a) El Presidente de la Comisión de Derechos Humanos del Estado de Morelos;
 
-XIII. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes, a los funcionarios que incumplan con lo dispuesto en la presente Ley;
+V. La persona titular del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, y
 
-XIV. Nombrar, de entre las propuestas que le presente quien sea titular de la Coordinación Ejecutiva, a los titulares del Fondo, Asesoría Jurídica y del Registro estatales, y demás responsables de las dependencias que establezca la estructura orgánica;
+VI. El Comisionado Ejecutivo de la Comisión Ejecutiva Estatal.
 
-XV. Aprobar el Estatuto Orgánico de la Comisión Ejecutiva Estatal;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XVI. Proponer al Titular del Poder Ejecutivo los proyectos de Reglamento de la presente Ley y otros reglamentos que resulten necesarios, así como sus reformas y adiciones;
+###### Artículo 107.
 
-XVII. Fijar medidas, lineamientos o directrices de carácter obligatorio que faciliten condiciones dignas, integrales y efectivas para la atención y asistencia de las víctimas, que permitan su recuperación y restablecimiento para lograr el pleno ejercicio de su derecho a la justicia, a la verdad y a la reparación integral;
+Los integrantes del Sistema Estatal se reunirán en Pleno o en comisiones de conformidad con lo establecido en el Reglamento de esta Ley.
 
-XVIII. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos estatales y municipales;
+El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar y en forma extraordinaria, cada que una situación urgente así lo requiera. Los integrantes tienen obligación de comparecer a las sesiones.
 
-XIX. Establecer medidas que contribuyan a garantizar la reparación integral, efectiva y eficaz de las víctimas que hayan sufrido un daño como consecuencia de la comisión de un delito o de la violación de sus Derechos Humanos;
+El quórum para las reuniones del Sistema Estatal se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto.
+
+Corresponderá al Presidente del Sistema Estatal la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema. Los integrantes del mismo podrán formular propuestas de acuerdos que permitan el mejor funcionamiento del Sistema Estatal.
+
+El Presidente del Sistema Estatal será suplido en sus ausencias por la persona titular de la Secretaría de Gobierno, por lo cual esta última deberá nombrar, a su vez, al servidor público que lo supla ante el Sistema, a fin de evitar la concentración de votos en su sola persona para la toma de decisiones. El resto de los integrantes del Sistema deberán asistir personalmente.
+
+Al desarrollo de las sesiones del Sistema Estatal se podrá invitar, con derecho a voz, pero sin voto, a representantes de otras instituciones federales, estatales y municipales; instituciones; asociaciones; organizaciones no gubernamentales y, en general, a cualquier persona con reconocida experiencia, cuando los temas a tratar así lo requieran; siempre que así lo acuerde el Pleno del Sistema Estatal.
+
+Las sesiones y demás formas de operación del Sistema Estatal se realizarán conforme lo determine el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO XIII. DE LA COMISIÓN EJECUTIVA ESTATAL
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LA NATURALEZA Y DEL OBJETO
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 108.
+
+La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, creada como un Organismo Público Descentralizado de la Administración Pública Estatal, sectorizado por Acuerdo del Gobernador del Estado a la Secretaría o Dependencia del sector correspondiente; cuenta con personalidad jurídica y patrimonio propios, con autonomía técnica, ejecutiva, administrativa, presupuestal y de gestión, para la consecución de su objeto, la realización de sus funciones y la emisión de los actos de autoridad que conforme a su normativa correspondan.
+
+La Comisión Ejecutiva Estatal tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 1 de esta Ley y conforme el ámbito de su competencia. Asimismo fungirá como órgano operativo del Sistema Estatal.
+
+La Comisión Ejecutiva Estatal tiene la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal.
+
+La Comisión Ejecutiva Estatal tendrá su sede en la ciudad de Cuernavaca, Morelos, y podrá establecer oficinas en otros Municipios de la Entidad, cuando así lo autorice la Junta de Gobierno, de acuerdo a su disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 109.
+
+El patrimonio de la Comisión Ejecutiva se integra:
+
+I. Con los recursos que le asigne el Congreso del Estado a través del Presupuesto de Egresos del Estado de Morelos;
+
+II. Los bienes muebles e inmuebles que le sean asignados, y
+
+III. Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título jurídico.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 110.
+
+La Comisión Ejecutiva Estatal tiene las siguientes funciones y facultades:
+
+I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por el Sistema Estatal o el Sistema Nacional, según corresponda;
+
+II. Garantizar el acceso a los servicios multidisciplinarios y especializados que el Estado proporcionará a las víctimas de delitos o de violaciones de derechos humanos, para lograr su reincorporación a la vida social;
+
+III. Elaborar el Programa Integral con el objeto de crear, reorientar, dirigir, planear, coordinar, ejecutar y supervisar las políticas públicas en materia de atención a víctimas y proponerlo para su aprobación al Sistema Estatal;
+
+IV. Proponer al Sistema Estatal, una política estatal integral y políticas públicas de prevención de delitos y violaciones a derechos humanos, así como de atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral a víctimas u ofendidos de acuerdo con los principios establecidos en esta Ley;
+
+V. Instrumentar los mecanismos, medidas, acciones, mejoras y demás políticas acordadas por el Sistema Estatal o Nacional, según corresponda;
+
+VI. Diseñar y proponer al Sistema Estatal, un mecanismo de seguimiento y evaluación de las obligaciones previstas en esta Ley;
+
+VII. Proponer al Sistema Estatal las medidas previstas en esta Ley para la protección inmediata de las víctimas, cuando su vida o su integridad se encuentren en riesgo;
+
+VIII. Coordinar, en su caso, a las instituciones competentes para la atención de una problemática específica, de acuerdo con los principios establecidos en esta Ley, así como los de coordinación, concurrencia y subsidiariedad;
+
+IX. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
+
+X. Realizar las acciones necesarias para la adecuada operación del Registro Estatal de Víctimas y de la Asesoría Jurídica Estatal;
+
+XI. Cumplir las directrices para alimentar de información el Registro Nacional de Víctimas;
+
+XII. Proporcionar un informe anual al Sistema Estatal, sobre los avances del Programa Integral y demás obligaciones previstas en esta Ley;
+
+XIII. Vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+
+XIV. Solicitar a la autoridad competente se apliquen las medidas disciplinarias y sanciones correspondientes, a los funcionarios que incumplan con lo dispuesto en la presente Ley;
+
+XV. Elaborar anualmente las tabulaciones de montos compensatorios en los términos de esta Ley y su Reglamento;
+
+XVI. Hacer recomendaciones al Sistema Estatal, mismo que deberá dar respuesta oportuna a aquéllas;
+
+XVII. Elaborar el proyecto de Reglamento de la presente Ley y sus reformas y adiciones para su expedición por parte del Gobernador del Estado;
+
+XVIII. Promover la coordinación entre las Instituciones para el cumplimiento de la Ley;
+
+XIX. Establecer medidas que contribuyan a garantizar la reparación integral, efectiva y eficaz de las víctimas que hayan sufrido un daño como consecuencia de la comisión de un delito o de la violación de sus derechos humanos;
 
 XX. Fijar las directrices que faciliten el acceso efectivo de las víctimas a la verdad y a la justicia;
 
 XXI. Emitir los lineamientos para la canalización oportuna y eficaz del capital humano, recursos técnicos, administrativos y económicos que sean necesarios para el cumplimiento de las acciones, planes, proyectos y programas de atención, asistencia, acceso a la justicia, a la verdad y reparación integral de las víctimas en los ámbitos estatal y municipal;
 
-XXII. Crear una plataforma que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel estatal a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los Derechos Humanos, atención, asistencia, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley;
+XXII. Alimentar una plataforma que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel estatal a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los derechos humanos, atención, asistencia, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley;
 
-XXIII. Adoptar las acciones necesarias para garantizar el ingreso de las víctimas al Registro;
+XXIII. Adoptar las acciones necesarias para garantizar el ingreso de las víctimas al Registro Estatal de Víctimas;
 
-XXIV. Coadyuvar en la elaboración de los protocolos generales de actuación para la prevención, atención e investigación de delitos o violaciones a los Derechos Humanos;
+XXIV. Coadyuvar en la elaboración de los protocolos generales de actuación para la prevención, atención e investigación de delitos o violaciones a los derechos humanos.
 
-XXV. Elaborar los manuales, lineamientos, programas y demás acciones, acorde a lo establecido por la normatividad de la materia en sus protocolos;
+Las autoridades estatales y municipales deberán adecuar sus manuales, lineamientos, programas y demás acciones, a lo establecido en estos protocolos, debiendo adaptarlos a la situación local siempre y cuando contengan el mínimo de procedimientos y garantías que los protocolos generales establezcan para las víctimas;
 
-XXVI. Analizar y generar, en casos de graves violaciones a Derechos Humanos o delitos graves cometidos contra un grupo de víctimas, programas integrales emergentes de ayuda, atención, asistencia, protección, acceso o justicia, a la verdad y reparación integral;
+XXV. Proponer al Sistema Estatal, en casos de graves violaciones a derechos humanos o delitos graves cometidos contra un grupo de víctimas, programas integrales emergentes de ayuda, atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral;
 
-XXVII. Constituir y coordinar los Comités Especiales de atención a víctimas de delitos o violaciones de Derechos Humanos previstos en esta Ley;
+XXVI. Realizar diagnósticos específicos en materia de asistencia, atención y reparación a víctimas, a partir de los datos que genere el Registro Estatal de Víctimas, que permitan mejorar las políticas públicas de la materia;
 
-XXVIII. Realizar un diagnóstico estatal que permita evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito o de violaciones a los Derechos Humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño;
+XXVII. Recibir y brindar asesoría a las organizaciones de la sociedad civil que se dedican a la ayuda, atención y asistencia a favor de las víctimas;
 
-XXIX. Generar diagnósticos específicos sobre las necesidades estatales y municipales en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones de ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral, de tal manera que sea disponible y efectiva. Estos diagnósticos servirán de base para la canalización o distribución de recursos y servicios de atención a víctimas;
+XXVIII. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas, la supervisión deberá ser permanente;
 
-XXX. Brindar apoyo a las organizaciones de la sociedad civil que se dedican a la ayuda, atención y asistencia a favor de las víctimas, priorizando aquellas que se encuentren en lugares donde las condiciones de acceso a la ayuda, asistencia, atención y reparación integral es difícil debido a las condiciones precarias de desarrollo y marginación;
+XXIX. Colaborar con la Comisión Federal en los asuntos a que se refiere al (sic) artículo 88 Bis de la Ley General;
 
-XXXI. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas. La supervisión deberá ser permanente y los comités u órganos específicos que se instauren al respecto, emitirán recomendaciones que deberán ser respondidas por las instituciones correspondientes;
+XXX. Celebrar convenios de coordinación, colaboración y concertación con las entidades e instituciones federales, así como con las entidades e instituciones homólogas de las entidades federativas, incluidos los organismos autónomos de protección de los derechos humanos que sean necesarios para el cumplimiento de su objeto;
 
-XXXII. Recibir y evaluar los informes rendidos por quien sea titular de la Coordinación Ejecutiva, incluyendo las incidencias del Fondo, de la Asesoría Jurídica y del Plan y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia; y
+XXXI. Elaborar un programa de divulgación, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el Registro Estatal de Víctimas. Las entidades encargadas de recibir y tramitar la inscripción de datos en el Registro garantizarán la implementación de este programa a nivel estatal y municipal, y
 
-XXXIII. Las demás que se deriven de la normatividad aplicable.
+XXXII. Las demás que le confiera la presente Ley y su Reglamento, el Estatuto Orgánico y demás normativa aplicable.
 
-###### ARTÍCULO 105.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Para coadyuvar a la Comisión Estatal Ejecutiva y fungir como vínculo con las secretarías, dependencias y entidades de la Administración Pública Estatal, el Titular del Poder Ejecutivo del Estado integrará, con fundamento en ejercicio de las facultades que se le otorgan en la Ley Orgánica de la Administración del Estado de Morelos, una Comisión Intersecretarial, compuesta por los Titulares de las Secretarías de Gobierno, Hacienda, Educación, Salud y Cultura o cualquiera otra, conforme a lo dispuesto en el Acuerdo que al efecto emita el Gobernador Constitucional del Estado, quienes podrán nombrar representantes con nivel mínimo de Director General.
+###### Artículo 111.
 
-La Comisión Intersecretarial se constituirá como órgano consultivo y de coordinación operativa de la Comisión Ejecutiva Estatal, coadyuvando a la concreción de los objetivos de esta Ley, a efecto de consolidar la planeación, establecimiento y realización de las políticas públicas, acciones y medidas conjuntas necesarias.
+Con relación a la fracción XXV del artículo anterior, en los casos de graves violaciones a los derechos humanos o delitos cometidos contra un grupo de víctimas, las organizaciones no gubernamentales, los Poderes Ejecutivo y Legislativo del Estado, los Municipios o cualquier otra institución pública o privada que tenga entre sus fines la defensa de los derechos humanos, podrán proponer el establecimiento de programas emergentes de ayuda, atención, asistencia, protección, acceso a la justicia, acceso a la verdad y reparación integral de las víctimas conforme el procedimiento establecido en el Reglamento y a cargo del Fondo.
 
-###### ARTÍCULO 106.
+Estos programas también podrán ser creados por la Comisión Ejecutiva Estatal a propuesta del Comisionado Ejecutivo cuando del análisis de la información con que se cuente determine que se requiere la atención especial de determinada situación o grupos de víctimas.
 
-La Comisión Intersecretarial, para su adecuada función, tendrá las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-I. Las que en términos del presente ordenamiento correspondan al Poder Ejecutivo, con excepción de las que no sean delegables;
+###### Artículo 112.
 
-II. La coordinación y colaboración entre las instituciones, entidades públicas estatales y municipales, organismos autónomos encargados de la protección, ayuda, asistencia, atención, defensa de los Derechos Humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
+Los diagnósticos estatales que elabore la Comisión Ejecutiva Estatal deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio o que enfrentan ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad, de delitos tales como violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
 
-III. Formular propuestas a la Comisión Ejecutiva Estatal sobre la elaboración del Plan de Atención y Reparación Integral a Víctimas y demás instrumentos programáticos relacionados con la protección, ayuda, asistencia, atención, defensa de los Derechos Humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
+Los diagnósticos servirán de base para crear programas especiales, reorganizar o redireccionar acciones, políticas públicas o leyes que de acuerdo a su naturaleza y competencia llevan a cabo los integrantes del Sistema Estatal, así como para canalizar o distribuir los recursos necesarios.
 
-IV. Integrar los Comités Especiales y los que sean necesarios para el desempeño de sus funciones;
+La Comisión Ejecutiva Estatal podrá también contar con la asesoría de grupos de expertos en temas específicos, solicitar opiniones de organismos estatales, nacionales o internacionales públicos de derechos humanos, instituciones u organizaciones públicas o privadas nacionales o extranjeras con amplia experiencia en cierta problemática relacionada con la atención, asistencia, justicia, verdad y reparación integral a las víctimas. Los recursos destinados para tal efecto deberán ser públicos, monitoreables y de fácil acceso para la sociedad civil.
 
-V. Impulsar la participación de la comunidad en las actividades de atención a víctimas;
+Se deberá procurar en todo momento, además de la especialización técnica y científica, el aporte de los grupos de víctimas y organizaciones de base que trabajen directamente con víctimas.
 
-VI. Proponer a la Comisión Ejecutiva Estatal la emisión de criterios de cooperación y coordinación para la atención médica, psicológica y jurídica de las víctimas del delito, así como la gestoría de trabajo social respecto de las mismas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VII. Fomentar la cultura de respeto a las víctimas y a sus derechos;
+#### SECCIÓN SEGUNDA. DE LA ESTRUCTURA ORGÁNICA
 
-VIII. Adoptar estrategias de coordinación en materia de combate a la corrupción y de atención a víctimas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IX. Proponer programas de cooperación internacional en materia de atención a víctimas;
+###### Artículo 113.
 
-X. Promover la uniformidad de criterios jurídicos al interior del Poder Ejecutivo del Estado en las materias que regula esta Ley; y
+El gobierno, la administración y la vigilancia de la Comisión Ejecutiva Estatal, según corresponda, estarán a cargo de:
 
-XI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
+I. Una Junta de Gobierno;
 
-### CAPÍTULO II. DEL REGISTRO ESTATAL DE VÍCTIMAS
+II. Un Comisionado Ejecutivo, y
 
-###### ARTÍCULO 107.
+III. Un Órgano Interno de Control.
 
-Se crea el Registro Único de Víctimas del Estado de Morelos, como mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de Derechos Humanos al Sistema creado por la Ley General de Víctimas, de forma complementaria al Registro Nacional de Víctimas.
+La Comisión Ejecutiva Estatal además contará con un Comité Interdisciplinario Evaluador que tendrá por objeto las atribuciones específicas señaladas en la Sección Sexta de este Capítulo y una Asamblea Consultiva, en términos de la Sección Séptima, como órgano de consulta y vinculación con las víctimas y la sociedad.
 
-Para dar cumplimiento a la presente disposición, el Estado de Morelos deberá:
+Para el desempeño de sus funciones y cumplimiento de su objeto, la Comisión Ejecutiva Estatal contará también con las unidades administrativas que se establezcan en su Estatuto Orgánico y los Manuales Administrativos, de acuerdo a lo que disponga la Junta de Gobierno y la suficiencia presupuestal autorizada para ello.
 
-I. Unificar los registros y sistemas de información que actualmente tienen las diferentes instituciones y dependencias con presencia en el Estado, así como la Comisión de Derechos Humanos del Estado de Morelos. Se debe prestar especial atención a la información en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación;
+El nivel y categoría de cada servidor público que forme parte de la Comisión Ejecutiva Estatal serán determinados por las Secretarías de Administración y de Hacienda, ambas del Poder Ejecutivo Estatal, conforme el ámbito de sus respectivas competencias y de acuerdo a la suficiencia presupuestal correspondiente, observando en todo tiempo lo dispuesto por el párrafo final del artículo 74 de la Constitución Local.
 
-II. Poner a disposición la información del Registro Único de Víctimas del Estado de Morelos, al Registro Nacional de Víctimas contemplado en la Ley General de Víctimas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-III. Elaborar un plan de divulgación, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el Registro Estatal de Víctimas. Este plan debe estar enfocado no sólo en las víctimas que soliciten su ingreso, sino a los diferentes servidores públicos, asesores jurídicos, integrantes de organizaciones de víctimas y la población en general;
+###### Artículo 114.
 
-IV. Garantizar que las personas que soliciten el ingreso en el Registro Estatal de Víctimas sean atendidas y orientadas de forma digna y respetuosa;
+A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, la Comisión Ejecutiva Estatal contará con un Fondo, una Asesoría Jurídica Estatal y un Registro Estatal de Víctimas para la atención a víctimas, los cuales estarán a cargo de las unidades administrativas correspondientes, en los términos que disponga la normativa aplicable.
 
-V. Disponer de los medios tecnológicos y administrativos necesarios para la toma de la declaración, de acuerdo con los parámetros que la Comisión Ejecutiva del Sistema Nacional de Atención a Víctimas defina y el formato que suministrarán para el efecto;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VI. Orientar a la persona que solicite el ingreso sobre el trámite y efectos de la inscripción en el registro;
+#### SECCIÓN TERCERA. DE LA JUNTA DE GOBIERNO
 
-VII. Recabar la información necesaria sobre las circunstancias de tiempo, modo y lugar que generaron el hecho victimizante, así como su caracterización socioeconómica, con el propósito de contar con información precisa que facilite su valoración, de conformidad con el principio de participación conjunta consagrado en esta Ley y en la Ley General de Víctimas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VIII. Indagar las razones por las cuales no se llevó a cabo con anterioridad la solicitud de registro;
+###### Artículo 115.
 
-IX. Verificar los requisitos mínimos de legibilidad en los documentos aportados por el declarante y relacionar el número de anexos que se adjunten con la declaración;
+La Junta de Gobierno es la máxima autoridad de la Comisión Ejecutiva Estatal y se integra por:
 
-X. Bajo ninguna circunstancia negarse a recibir la solicitud de registro a las víctimas a las que se refiere la presente Ley;
+I. El Gobernador del Estado, quien lo presidirá por sí o a través del representante que al efecto designe;
 
-XI. Garantizar la confidencialidad, reserva y seguridad de la información y abstenerse de hacer uso de la información contenida en la solicitud de registro o del proceso de inscripción para obtener provecho para sí o para terceros, o por cualquier uso ajeno a lo previsto en esta Ley y a las relativas a la protección de datos personales;
+II. La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
 
-XII. Dar cumplimiento a las disposiciones y medidas dictadas por la Comisión Ejecutiva Estatal para garantizar la integración y preservación de la información administrada y sistematizada en el Registro;
+III. La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-XIII. Entregar una copia, recibo o constancia de su solicitud de registro a las víctimas o a quienes hayan realizado la solicitud; y
+IV. La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
 
-XIV. Cumplir con las demás obligaciones que determine la Comisión Ejecutiva Estatal.
+V. La persona titular de la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-### CAPÍTULO ÚNICO
+VI. La persona titular de la Fiscalía General, y
 
-###### ARTÍCULO 108.
+VII. Un representante de la Asamblea Consultiva.
 
-Las solicitudes de ingreso en el Registro Único de Víctimas del Estado de Morelos se realizarán en forma totalmente gratuita y en ningún caso el servidor público responsable podrá negarse a recibir la solicitud de registro.
+En las sesiones de la Junta de Gobierno el Comisionado Ejecutivo participará como Secretario Técnico de la misma, también participará el Comisario Público, ambos con derecho a voz pero sin voto.
 
-###### ARTÍCULO 109.
+Los cargos de los integrantes de la Junta de Gobierno serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
-El Poder Ejecutivo del Estado de Morelos, a través de sus organismos, dependencias y entidades de Salud Pública, así como los Municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias, serán las entidades obligadas a otorgar el documento que identifique a las víctimas ante el sistema, conforme al Registro Estatal de Víctimas, con el fin de garantizar todos los derechos a los que se refiere la presente Ley.
+Por cada integrante propietario señalado en las fracciones de la I a la V, deberá designarse por escrito un suplente, el cual contará con las mismas facultades que el propietario. Dichos suplentes deberán contar con el nivel jerárquico inmediato inferior de Subsecretaría, Dirección General o su equivalente.
 
-###### ARTÍCULO 110.
+Para el caso de que el representante que designe el Gobernador para fungir como presidente de la Junta de Gobierno, sea un integrante de esta última en términos del presente artículo, dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
+
+Al desarrollo de las sesiones, la Junta de Gobierno podrá invitar, con derecho a voz, pero sin voto, a representantes de otras instituciones federales, estatales o municipales; asociaciones; organizaciones no gubernamentales y, en general, a cualquier persona con reconocida experiencia, con el objeto de aportar ideas para un mejor desempeño de la Comisión Ejecutiva Estatal y, en su caso, cuando los temas a tratar así lo requieran.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 116.
+
+La Junta de Gobierno sesionará en forma ordinaria cuando menos seis veces al año y de manera extraordinaria las veces que sea necesario, cuando se trate de asuntos urgentes o de imperiosa necesidad, a propuesta de su Presidente o alguno de sus integrantes, en la forma y términos que establezca el Estatuto Orgánico y demás normativa aplicable.
+
+La Junta de Gobierno sesionará legalmente con la asistencia de la mitad más uno de la totalidad de sus integrantes, siempre que esté presente su Presidente; los acuerdos se aprobarán por mayoría de votos de sus miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 117.
+
+La Junta de Gobierno, además de las señaladas en la Ley Orgánica y otros ordenamientos jurídicos aplicables, cuenta con las atribuciones no delegables siguientes:
+
+I. Proponer al Gobernador del Estado el proyecto de Reglamento de la presente Ley y otros ordenamientos e instrumentos jurídicos que resulten necesarios, elaborados por la Comisión Ejecutiva Estatal, así como sus reformas y adiciones;
+
+II. Aprobar las disposiciones normativas que el Comisionado Ejecutivo someta a su consideración;
+
+III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva Estatal que proponga el Comisionado Ejecutivo;
+
+IV. Conocer de los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Ejecutiva Estatal de acuerdo con esta Ley;
+
+V. Emitir las recomendaciones pertinentes sobre los informes periódicos que presente el Comisionado Ejecutivo, a fin de garantizar un óptimo y eficaz funcionamiento, y
+
+VI. Las demás que le confiera la presente Ley y su Reglamento, el Estatuto Orgánico y demás normativa aplicable.
+
+En ningún caso la Junta de Gobierno tendrá competencia para conocer de los recursos de ayuda y la reparación integral que la Comisión Ejecutiva Estatal otorgue a las víctimas.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN CUARTA. DEL COMISIONADO EJECUTIVO
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 118.
+
+La Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo que será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que enviará el Gobernador del Estado, previa consulta pública a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia.
+
+Para ser Comisionado Ejecutivo, además de los requisitos que establece al efecto la Ley Orgánica, deberán reunirse los siguientes:
+
+I. Contar con título profesional;
+
+II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+
+III. Contar con experiencia y conocimientos en la materia de esta Ley, y
+
+IV. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+
+Las ausencias temporales del Comisionado Ejecutivo se regirán conforme a lo dispuesto en el Estatuto Orgánico.
+
+En la elección del Comisionado Ejecutivo, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+
+El Comisionado Ejecutivo se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 119.
+
+El Comisionado Ejecutivo para el desarrollo de las actividades de la Comisión Ejecutiva Estatal designará a las personas responsables del Fondo, la Asesoría Jurídica y el Registro Estatal de Víctimas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 120.
+
+El Comisionado Ejecutivo tendrá, además de las atribuciones que le concede la Ley Orgánica, las siguientes:
+
+I. Crear los lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de las funciones de la Comisión Ejecutiva;
+
+II. Notificar a los integrantes del Sistema Estatal los acuerdos asumidos y dar seguimiento a los mismos;
+
+III. Coordinar las funciones del Registro Estatal de Víctimas, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho Registro;
+
+IV. Coordinar las acciones para el cumplimiento de las funciones de la Comisión Ejecutiva;
+
+V. Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva Estatal a solicitar su inscripción en el Registro Estatal de Víctimas, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
+
+VI. Suscribir los convenios de colaboración, coordinación o concertación o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+
+VII. Aplicar las medidas que sean necesarias para garantizar que las funciones de la Comisión Ejecutiva Estatal se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
+
+VIII. Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva Estatal;
+
+IX. Determinar a propuesta del Comité Interdisciplinario Evaluador, los Recursos de Ayuda y la reparación integral que la Comisión Ejecutiva Estatal otorgue a las víctimas. Para lo cual, el Comisionado Ejecutivo se podrá apoyar de la asesoría de la Asamblea Consultiva;
+
+X. Otorgar el documento que identifique a las víctimas ante el Sistema Estatal, conforme al Registro Estatal de Víctimas, con el fin de garantizar todos los derechos a los que se refiere la presente Ley;
+
+XI. Aprobar la selección de los servidores públicos adscritos a la Asesoría Jurídica Estatal conforme la normativa aplicable;
+
+XII. Hacer públicos los informes sobre las incidencias del Fondo, de la Asesoría Jurídica Estatal y el Registro Estatal de Víctimas, a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia, y
+
+XIII. Las demás que se requiera para el eficaz cumplimiento de las funciones de la Comisión Ejecutiva Estatal en términos de la legislación aplicable.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 121.
+
+El control interno de la Comisión Ejecutiva Estatal corresponderá al Órgano Interno de Control, el cual estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 la Ley Orgánica, mismo que tendrá las funciones que señale esta última, el Estatuto Orgánico y demás normativa aplicable.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN SEXTA. DEL COMITÉ INTERDISCIPLINARIO EVALUADOR
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 122.
+
+La Comisión Ejecutiva Estatal contará con un Comité Interdisciplinario Evaluador, que estará integrado por personal de la Comisión Ejecutiva Estatal y tendrá las siguientes atribuciones:
+
+I. Elaborar los proyectos de dictamen de acceso a los recursos del Fondo para el otorgamiento de los Recursos de Ayuda;
+
+II. Elaborar los proyectos de dictamen de reparación integral y, en su caso, la compensación, previstas en la Ley y el Reglamento;
+
+III. Elaborar los proyectos de dictamen para la creación de fondos de emergencia, y
+
+IV. Las demás establecidas en la Ley y el Reglamento.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA ASAMBLEA CONSULTIVA
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 123.
+
+La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión Ejecutiva Estatal.
+
+La Asamblea Consultiva estará integrada por cinco representantes de colectivos de víctimas, organizaciones de la sociedad civil y académicos del estado de Morelos, quienes serán electos por la Junta de Gobierno y cuyo cargo tendrá carácter honorífico.
+
+Para efectos del párrafo anterior, la Comisión Ejecutiva Estatal emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Periódico Oficial del Gobierno del Estado.
+
+La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
+
+Las bases de la convocatoria pública deben ser emitidas por el Comisionado Ejecutivo y atender, cuando menos, a criterios de experiencia estatal, nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas, así como experiencia laboral, académica o de conocimientos especializados, en materias afines a la Ley.
+
+La elección de los miembros de la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
+
+Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de la Ley, las personas integrantes durarán en su cargo dos años, y podrán ser ratificadas sólo por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO XIV. DEL REGISTRO ESTATAL DE VÍCTIMAS
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 124.
+
+El Registro Estatal de Víctimas es el mecanismo administrativo y técnico a cargo de la unidad administrativa correspondiente de la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos al Sistema Nacional creado por la Ley General de Víctimas.
+
+El Registro Estatal de Víctimas constituye un soporte fundamental para garantizar que las víctimas tengan un acceso oportuno y efectivo a las medidas de ayuda, asistencia, atención, acceso a la justicia y reparación integral previstas en esta Ley.
+
+El Registro Estatal de Víctimas es la unidad administrativa encargada de llevar y salvaguardar el padrón de víctimas, a nivel estatal, e inscribir los datos de las víctimas del delito y de violaciones a derechos humanos del orden estatal.
+
+La Comisión Ejecutiva Estatal estará obligado (sic) a intercambiar, sistematizar, analizar y actualizar la información que diariamente se genere en materia de víctimas del delito y de violaciones a derechos humanos para la debida integración del Registro Estatal de Víctimas.
+
+El Comisionado Ejecutivo dictará las medidas necesarias para la integración y preservación de la información administrada y sistematizada en el Registro Estatal de Víctimas.
+
+Los integrantes del Sistema Estatal estarán obligados a compartir la información en materia de víctimas que obren en sus bases de datos con el Registro Estatal de Víctimas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 125.
+
+Será responsabilidad de las entidades e instituciones que reciban solicitudes de ingreso al Registro Estatal de Víctimas:
+
+I. Garantizar que las personas que solicitan el ingreso en el Registro Estatal de Víctimas sean atendidas de manera preferencial y orientadas de forma digna y respetuosa;
+
+II. Para las solicitudes de ingreso en el Registro Estatal de Víctimas tomadas en forma directa, diligenciar correctamente, en su totalidad y de manera legible, el formato único de declaración diseñado por la Comisión Ejecutiva Estatal;
+
+III. Disponer de los medios tecnológicos y administrativos necesarios para la toma de la declaración, de acuerdo con los parámetros que la Comisión Ejecutiva Estatal determine;
+
+IV. Remitir el original de las declaraciones tomadas en forma directa, el siguiente día hábil a la toma de la declaración a la Comisión Ejecutiva Estatal;
+
+V. Orientar a la persona que solicite el ingreso sobre el trámite y efectos de la diligencia;
+
+VI. Recabar la información necesaria sobre las circunstancias de tiempo, modo y lugar que generaron el hecho victimizante, así como su caracterización socioeconómica, con el propósito de contar con información precisa que facilite su valoración, de conformidad con el principio de participación conjunta consagrado en esta Ley;
+
+VII. Indagar las razones por las cuales no se llevó a cabo con anterioridad la solicitud de registro;
+
+VIII. Verificar los requisitos mínimos de legibilidad en los documentos aportados por el declarante y relacionar el número de folios que se adjunten con la declaración;
+
+IX. Garantizar la confidencialidad, reserva y seguridad de la información y abstenerse de hacer uso de la información contenida en la solicitud de registro o del proceso de diligenciamiento para obtener provecho para sí o para terceros, o por cualquier uso ajeno a lo previsto en esta Ley, y a las relativas a la Protección de Datos Personales;
+
+X. Entregar una copia o recibo o constancia de su solicitud de registro a las víctimas o a quienes hayan realizado la solicitud;
+
+XI. Garantizar el derecho de la víctima a conocer todas las actuaciones que se realicen a lo largo del proceso de registro. Cuando sea un tercero quien solicite el ingreso, deberá notificársele por escrito si fue aceptado o no el mismo, y
+
+XII. Cumplir con las demás obligaciones que determine la Comisión Ejecutiva Estatal.
+
+Bajo ninguna circunstancia la autoridad podrá negarse a recibir la solicitud de registro a las víctimas a que se refiere la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 126.
+
+Las solicitudes de ingreso se realizarán en forma totalmente gratuita ante la Comisión Ejecutiva Estatal. Si la Comisión Ejecutiva Estatal advirtiera que la solicitud realizada deriva de la comisión de delitos federales o de violaciones donde participen autoridades federales, remitirá inmediatamente dicha solicitud a la Comisión Ejecutiva Federal, realizando las acciones conducentes a efecto de no revictimizar a la víctima.
+
+La información que acompaña la incorporación de datos al Registro Estatal de Víctimas se consignará en el formato único de declaración diseñado o adoptado por la Comisión Ejecutiva Estatal y su utilización será obligatoria por parte de las autoridades responsables de garantizar el ingreso al mismo, de conformidad con lo dispuesto en la normativa aplicable. El formato único de incorporación al registro deberá ser accesible a toda persona y de uso simplificado y buscará recoger la información necesaria para que la víctima pueda acceder plenamente a todos sus derechos, incluidos los que se le reconocen en la presente Ley.
+
+La solicitud de inscripción de la víctima no implica de oficio su ingreso al Registro Estatal de Víctimas. Para acceder a las medidas de atención, asistencia y reparación integral previstos en esta Ley, deberá realizarse el ingreso, y valoración por parte de la autoridad correspondiente en cumplimiento de las disposiciones de la presente Ley.
+
+El ingreso al Registro podrá solicitarse y tramitarse de manera personal y directa por la víctima, o a través de representante que, además de cumplir con las disposiciones aplicables, esté debidamente inscrito en el padrón de representantes que al efecto establezca la Comisión Ejecutiva Estatal, conforme a lo que se determine en las disposiciones reglamentarias correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 127.
 
 El Registro Estatal de Víctimas recabará e integrará su información, entre otras, por las siguientes fuentes:
 
-I. Las solicitudes de ingreso hechas directamente por las víctimas del delito o de violaciones de Derechos Humanos, a través de su representante legal o de algún familiar o persona de confianza ante la Comisión Ejecutiva Estatal;
+I. Las solicitudes de ingreso hechas directamente por las víctimas del delito o de violaciones de derechos humanos, o a través de su representante legal o de algún familiar o persona de confianza ante la Comisión Ejecutiva Estatal;
 
-II. Las solicitudes de ingreso que presente cualquier autoridad Estatal o Municipal; y
+II. Las solicitudes de ingreso que presente cualquier autoridad estatal o municipal, y
 
 III. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley, que se encuentren en cualquier institución o entidad del ámbito estatal así como de la Comisión de Derechos Humanos del Estado de Morelos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
 
-Las entidades productoras y usuarias de la información sobre las víctimas a nivel estatal y que posean registros de víctimas, pondrán a disposición del Registro Estatal de Víctimas la información que producen y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
+Las entidades e instituciones generadoras y usuarias de la información sobre las víctimas a nivel estatal y que posean registros de víctimas, pondrán a disposición del Registro Estatal de Víctimas la información que generan y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
 
-###### ARTÍCULO 111.
+En los casos en que existiere soporte documental de los registros que reconocen la calidad de víctima, deberá entregarse copia digital al Registro Estatal de Víctimas. En caso que estos soportes no existan, las entidades a que se refiere este artículo certificarán dicha circunstancia.
 
-Para ser tramitada la incorporación de datos al Registro Estatal de Víctimas deberá, como mínimo, contener los establecidos en la Ley General de Víctimas.
+Dichas entidades serán responsables por el contenido de la información que transmiten al Registro Estatal de Víctimas.
 
-###### ARTÍCULO 112.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-La solicitud de inscripción de la víctima no implica de oficio su ingreso definitivo al Registro. Presentada la solicitud, deberá ingresarse la misma al Registro y se procederá a la valoración de la información recogida en el formato único junto con la documentación remitida que acompañe dicho formato.
+###### Artículo 128.
 
-Para adelantar esa valoración, la Comisión Ejecutiva Estatal, podrá solicitar la información que considere necesaria a cualquiera de las autoridades estatales o municipales, las que estarán en el deber de suministrarla en un plazo que no supere los diez días naturales.
+Para que las autoridades competentes del estado de Morelos u otras que se faculten por la presente Ley, procedan a la inscripción de datos de la víctima en el Registro Estatal de Víctimas se deberá, como mínimo, tener la siguiente información:
 
-Si hubiera una duda razonable sobre los hechos, se escuchará a la víctima o a quien haya solicitado el ingreso en el Registro, quien podrá concurrir ante la Comisión Ejecutiva Estatal. En caso de hechos probados o de naturaleza pública, deberá aplicarse el principio de buena fe a que hace referencia esta Ley.
+I. Los datos de identificación de cada una de las víctimas que solicitan su ingreso o en cuyo nombre se solicita el ingreso. En caso que la víctima por cuestiones de seguridad solicite que sus datos personales no sean públicos, se deberá asegurar la confidencialidad de sus datos. En caso de que se cuente con ella, se deberá mostrar una identificación oficial;
 
-La realización del proceso de valoración al que se hace referencia en los párrafos anteriores, no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima.
+II. En su caso, el nombre completo, cargo y firma del servidor público de la Institución que recibió la solicitud de inscripción de datos al Registro Estatal de Víctimas y el sello de dicha Institución;
 
-###### ARTÍCULO 113.
+III. La firma y huella dactilar de la persona que solicita el registro; en los casos que la persona manifieste no poder o no saber firmar, se tomará como válida la huella dactilar;
+
+IV. Las circunstancias de modo, tiempo y lugar previas, durante y posteriores a la ocurrencia de los hechos victimizantes;
+
+V. El funcionario que recabe la declaración la asentará en forma textual, completa y detallada en los términos que sea emitida;
+
+VI. Los datos de contacto de la persona que solicita el registro, y
+
+VII. La información del parentesco o relación afectiva con la víctima de la persona que solicita el registro, cuando no es la víctima quien lo hace. En caso que el ingreso lo solicite un servidor público deberá detallarse nombre, cargo e institución a la que pertenece.
+
+En el caso de faltar información, la Comisión Ejecutiva Estatal pedirá a la institución que tramitó inicialmente la inscripción de datos, que complemente dicha información en el plazo máximo de diez días hábiles. Lo anterior no afecta, en ningún sentido, la garantía de los derechos de las víctimas que solicitaron en forma directa al Registro Estatal de Víctimas o en cuyo nombre el ingreso fue solicitado.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 129.
+
+Presentada la solicitud, deberá ingresarse la misma al Registro, y se procederá a la valoración de la información recogida en el formato único junto con la documentación remitida que acompañe dicho formato.
+
+Para mejor proveer, la Comisión Ejecutiva Estatal, podrá solicitar la información que considere necesaria a cualquiera de las autoridades del orden federal, local y municipal, las que estarán en el deber de suministrarla en un plazo que no supere los diez días hábiles, lo anterior en términos de lo dispuesto por el artículo 101 de la Ley General.
+
+Si hubiera una duda razonable sobre la ocurrencia de los hechos se escuchará a la víctima o a quien haya solicitado la inscripción, quienes podrán asistir ante la Comisión Ejecutiva Estatal. En caso de hechos probados o de naturaleza pública deberá aplicarse el principio de buena fe a que hace referencia esta Ley.
+
+La realización del proceso de valoración al que se hace referencia en los párrafos anteriores, no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima, conforme lo establece esta Ley.
 
 No se requerirá la valoración de los hechos de la declaración cuando:
 
 I. Exista sentencia condenatoria o resolución por parte de la autoridad jurisdiccional o administrativa competente;
 
-II. Exista una determinación de la Comisión de Derechos Humanos del Estado de Morelos, que dé cuenta de los hechos, incluidas recomendaciones, conciliaciones o medidas precautorias;
+II. Exista una determinación de la Comisión Nacional de los Derechos Humanos o de las comisiones estatales en esta materia que dé cuenta de esos hechos, incluidas recomendaciones, conciliaciones o medidas precautorias;
 
-III. La víctima haya sido reconocida como tal por el Ministerio Público, por una autoridad judicial, la Comisión de Derechos Humanos del Estado de Morelos o la Comisión Nacional de los Derechos Humanos, aún cuando no se haya dictado sentencia o resolución;
+III. La víctima haya sido reconocida como tal por el Ministerio Público, por una autoridad judicial, o por un organismo público de derechos humanos, aun cuando no se haya dictado sentencia o resolución;
 
-IV. Cuando la víctima cuente con informe que le reconozca tal carácter, emitido por algún Organismo internacional de protección de Derechos Humanos al que el Estado Mexicano le reconozca competencia; y
+IV. Cuando la víctima cuente con informe que le reconozca tal carácter emitido por algún mecanismo internacional de protección de derechos humanos al que México le reconozca competencia, y
 
-V. Cuando la autoridad responsable de la violación a los Derechos Humanos le reconozca tal carácter.
+V. Cuando la autoridad responsable de la violación a los derechos humanos le reconozca tal carácter.
 
-###### ARTÍCULO 114.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se podrá cancelar la inscripción en el Registro Estatal de Víctimas cuando, después de realizada la valoración contemplada en el Artículo 111, incluido haber escuchado a la víctima o a quien haya solicitado la inscripción, la Comisión Ejecutiva Estatal encuentre que la solicitud de registro es contraria a la verdad respecto de los hechos victimizantes de tal forma que sea posible colegir que la persona no es víctima. La negación se hará en relación con cada uno de los hechos y no podrá hacerse de manera global o general.
+###### Artículo 130.
 
-La decisión que cancela el ingreso en el Registro deberá ser fundada y motivada. Deberá notificarse personalmente y por escrito a la víctima, a su representante legal, a la persona debidamente autorizada por ella para notificarse o a quien haya solicitado la inscripción, con el fin de que la víctima pueda interponer, si lo desea, Recurso de Reconsideración de la decisión ante la Comisión Ejecutiva Estatal, para que ésta sea aclarada, modificada, adicionada o revocada de acuerdo al procedimiento que establezca el Reglamento de la presente Ley.
+Se podrá cancelar la inscripción en el Registro Estatal de Víctimas cuando, después de realizada la valoración contemplada en el artículo anterior, incluido haber escuchado a la víctima o a quien haya solicitado la inscripción, la Comisión Ejecutiva Estatal encuentre que la solicitud de registro es contraria a la verdad respecto de los hechos victimizantes de tal forma que sea posible colegir que la persona no es víctima. La negación se hará en relación con cada uno de los hechos y no podrá hacerse de manera global o general.
 
-La notificación se hará en forma directa. En el caso de no existir otro medio más eficaz para hacer la notificación personal, se le enviará a la víctima una citación a la dirección, al número de telefónico o a la dirección de correo electrónico que figuren en el formato único de declaración o en los demás sistemas de información, a fin de que comparezca a la diligencia de notificación personal. El envío de la citación se hará dentro de los cinco días siguientes a la adopción de la decisión de no inclusión y de la diligencia de notificación se dejará constancia en el expediente.
+La decisión que cancela el ingreso en el Registro Estatal de Víctimas deberá ser fundada y motivada. Deberá notificarse personalmente y por escrito al interesado, a su representante legal, a la persona debidamente autorizada por ella para notificarse o a quien haya solicitado la inscripción, con el fin de que la víctima pueda interponer, si lo desea, recurso de reconsideración conforme lo establezca el Reglamento.
 
-### CAPÍTULO III. DEL INGRESO DE LA VÍCTIMA AL REGISTRO
+La notificación se hará en forma directa. En el caso de no existir otro medio más eficaz para hacer la notificación personal se le enviará a la víctima una citación a la dirección, al número de fax o al correo electrónico que figuren en el formato único de declaración o en los demás sistemas de información a fin de que comparezca a la diligencia de notificación personal. El envío de la citación se hará dentro de los cinco días siguientes a la adopción de la decisión de no inclusión y de la diligencia de notificación se dejará constancia en el expediente.
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-El ingreso de la víctima al registro se hará por la denuncia, la queja o el conocimiento de los hechos que podrá realizar la propia víctima, la autoridad, la Comisión de Derechos Humanos del Estado de Morelos o un tercero que tenga conocimiento sobre los hechos.
+###### Artículo 131.
 
-###### ARTÍCULO 116.
+La información sistematizada en el Registro Estatal de Víctimas incluirá:
 
-Toda autoridad que tenga contacto con la víctima estará obligada a recibir su declaración, la cual consistirá en una narración de los hechos con los detalles y elementos de prueba que la misma ofrezca, la cual se hará constar en el formato único de declaración.
+I. El relato del hecho victimizante, como quedó registrado en el formato único de declaración. El relato inicial se actualizará en la medida en que se avance en la respectiva investigación penal o a través de otros mecanismos de esclarecimiento de los hechos;
 
-El Ministerio Público, los Defensores Públicos, los asesores jurídicos de las víctimas y la Comisión de Derechos Humanos del Estado de Morelos, no podrán negarse a recibir dicha declaración y enviar el Formato Único a la entidad correspondiente de acuerdo a lo establecido (sic) la presente Ley.
+II. La descripción del daño sufrido;
 
-Cuando la víctima sea mayor de 12 años, podrá solicitar su ingreso al sistema por sí misma o a través de sus representantes.
+III. La identificación del lugar y la fecha en donde se produjo el hecho victimizante;
 
-En los casos de víctimas menores de 12 años, se podrá solicitar su ingreso a través de su representante legal o a través de las autoridades mencionadas en esta Ley.
+IV. La identificación de la víctima o víctimas del hecho victimizante;
 
-Cuando las autoridades citadas no se encuentren accesibles, disponibles o se nieguen a recibir la declaración, la víctima podrá acudir a cualquier otra autoridad federal, estatal o municipal para realizar su declaración, las cuales tendrán las obligaciones que la Ley General de Víctimas determine.
+V. La identificación de la persona o Institución que solicitó el registro de la víctima, cuando no sea ella quien lo solicite directamente;
 
-###### ARTÍCULO 117.
+VI. La identificación y descripción detallada de las medidas de ayuda y de atención que efectivamente hayan sido garantizadas a la víctima;
+
+VII. La identificación y descripción detallada de las medidas de reparación que, en su caso, hayan sido otorgadas a la víctima, y
+
+VIII. La identificación y descripción detallada de las medidas de protección que, en su caso, se hayan brindado a la víctima.
+
+La información que se asiente en el Registro Estatal de Víctimas deberá garantizar que se respeta el enfoque diferencial.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN ÚNICA. DEL INGRESO AL REGISTRO ESTATAL DE VÍCTIMAS
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 132.
+
+El ingreso de la víctima al Registro Estatal de Víctimas se hará por la denuncia, la queja o el conocimiento de los hechos que podrá realizar la propia víctima, la autoridad, la Comisión de Derechos Humanos del Estado de Morelos o un tercero que tenga conocimiento sobre los hechos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 133.
+
+Toda autoridad que tenga contacto con la víctima estará obligada a recibir su declaración, la cual consistirá en una narración de los hechos con los detalles y elementos de prueba que la misma ofrezca, que se hará constar en el formato único de declaración.
+
+El Ministerio Público, los Defensores Públicos, los asesores jurídicos de las víctimas y la Comisión de Derechos Humanos del Estado de Morelos, no podrán negarse a recibir dicha declaración.
+
+Cuando la víctima sea mayor de 12 años, podrá solicitar su ingreso al Registro Estatal de Víctimas por sí misma o a través de sus representantes. En los casos de víctimas menores de 12 años, se podrá solicitar su ingreso a través de su representante legal o a través de las autoridades mencionadas en esta Ley.
+
+Cuando las autoridades citadas no se encuentren accesibles, disponibles o se nieguen a recibir la declaración, la víctima podrá acudir a cualquier otra autoridad federal, estatal o municipal para realizar su declaración, las cuales tendrán las obligaciones que la Ley General y demás normativa de la materia determine.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 134.
 
 Una vez recibida la denuncia, queja o el conocimiento de los hechos, deberán ponerla en conocimiento de la autoridad más inmediata en un término que no excederá de veinticuatro horas.
 
 En el caso de las personas que se encuentren bajo custodia del Estado, estarán obligados a recibir su declaración las autoridades que estén a cargo de los centros de reinserción social.
 
-Cuando un servidor público, sin ser autoridad ministerial o judicial, tenga conocimiento de un hecho de violación a los Derechos Humanos, como tortura, otros tratos o penas crueles, inhumanos o degradantes, detención arbitraria, desaparición forzada, ejecución arbitraria, violencia sexual, deberá denunciarlo de inmediato ante la autoridad competente.
+Cuando un servidor público, sin ser autoridad ministerial o judicial, tenga conocimiento de un hecho de violación a los derechos humanos, como tortura, otros tratos o penas crueles, inhumanos o degradantes, detención arbitraria, desaparición forzada, ejecución arbitraria, violencia sexual, deberá denunciarlo de inmediato ante la autoridad competente, conforme a la normativa aplicable.
 
-###### ARTÍCULO 118.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Para efectos de esta Ley, el otorgamiento de la calidad de víctima se realiza por la determinación de cualquiera de las siguientes autoridades:
+###### Artículo 135.
 
-I. El Juzgador penal mediante sentencia ejecutoriada;
+Para efectos de esta Ley, el reconocimiento de la calidad de víctima se realiza por la determinación de cualquiera de las siguientes autoridades:
 
-II. El Juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
+I. El juzgador penal, mediante sentencia ejecutoriada;
 
-III. El Ministerio Público;
+II. El juzgador penal o de paz que tiene conocimiento de la causa;
 
-IV. La Comisión de Derechos Humanos del Estado de Morelos; y
+III. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
-V. Los organismos internacionales de protección de Derechos Humanos a los que el Estado de Mexicano les reconozca competencia.
+IV. Los organismos públicos de protección de los derechos humanos;
 
-La Comisión Ejecutiva Estatal deberá estudiar el caso y, de ser procedente, dar el reconocimiento de la condición de víctima. A dicho efecto deberá tener en cuenta los informes de los jueces de lo familiar, de los que se desprendan las situaciones para poder determinar que la persona que lo ha solicitado, podrá adquirir la condición de víctima.
+V. Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia;
 
-###### ARTÍCULO 119.
+VI. La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
 
-El reconocimiento de la calidad de víctima:
+VII. La Comisión Ejecutiva Estatal, y
 
-I. Permitirá acceder a todos los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de la Ley General de Víctimas y esta Ley y sus disposiciones reglamentarias;
+VIII. El Ministerio Público.
 
-II. Facilitará el acceso a los recursos del fondo y la reparación integral, de conformidad con lo previsto en la Ley General de Víctimas, la presente Ley y sus reglamentaciones. El procedimiento y los elementos a acreditar se determinarán en el Reglamento correspondiente; y
+El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los recursos del Fondo y a la reparación integral de conformidad con lo previsto en la presente Ley y en el Reglamento.
 
-III. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desapariciones, privación de la libertad y todos aquellos que impidan a la víctima acceder adecuadamente a la defensa de sus derechos y el juez de la causa o la autoridad responsable del procedimiento ordenarán suspender de inmediato, todos los juicios y procedimientos administrativos y detendrán los plazos de prescripción y caducidad en que aquella se vea involucrada, y todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de ejercer adecuadamente los derechos en dichos juicios y procedimientos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-## TÍTULO OCTAVO. DEL FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN DEL ESTADO DE MORELOS
+###### Artículo 136.
 
-### CAPÍTULO I. DE SU CREACIÓN, OBJETO E INTEGRACIÓN
+El reconocimiento de la calidad de víctima tendrá como efecto:
 
-###### ARTÍCULO 120.
+I. Acceder a todos los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de la Ley General de Víctimas, esta Ley y sus disposiciones reglamentarias;
 
-Se crea el Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Morelos.
+II. Acceder a los recursos del Fondo y a la reparación integral, de conformidad con lo previsto en la presente Ley y en el Reglamento, y
 
-###### ARTÍCULO 121.
+III. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato, suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
 
-El Fondo tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones a los Derechos Humanos en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 122.
+### CAPÍTULO XV. DEL FONDO
 
-Para ser beneficiario del apoyo del Fondo, además de los requisitos que al efecto establece la Ley General de Víctimas, esta Ley y sus reglamentaciones, las víctimas deberán estar inscritas en el Registro a efecto de que la Comisión Ejecutiva Estatal realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de la ayuda, asistencia, protección, reparación integral y en su caso, la compensación.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 123.
+###### Artículo 137.
 
-El Fondo de Ayuda, Asistencia y Reparación Integral se conformará con:
+El Fondo estará a cargo de la unidad administrativa que determine el Estatuto Orgánico, y administrado por una institución fiduciaria en términos del artículo 143 de la presente Ley, teniendo por objeto brindar los recursos de ayuda y de reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos en el estado de Morelos, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Morelos en el rubro correspondiente, en un porcentaje no inferior al 0.14 por ciento del total de los mismos, sin que pueda disponerse de dichos recursos para fines diversos a los señalados por esta Ley;
+La víctima podrá acceder de manera subsidiaria al Fondo en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
-II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales, en términos de lo previsto por la Ley de Extinción de Dominio en Favor del Estado de Morelos;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad, de conformidad con las reglas que rigen el Fondo Auxiliar para la Administración de Justicia del Estado de Morelos y la normatividad aplicable;
+###### Artículo 138.
 
-IV. Recursos provenientes de multas y sanciones pecuniarias impuestas por la autoridad administrativa o judicial cuando se violen deberes reconocidos por esta Ley, en términos de la normatividad aplicable;
+Para ser beneficiario del apoyo del Fondo, además de los requisitos que al efecto establece la Ley General de Víctimas, esta Ley y su Reglamento, las víctimas deberán estar inscritas en el Registro Estatal de Víctimas a efecto de que la Comisión Ejecutiva Estatal realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de la ayuda, asistencia, protección, reparación integral y, en su caso, la compensación.
 
-V. Recursos provenientes de multas y sanciones impuestas al Estado por violaciones a Derechos Humanos, que en términos de esta Ley y su Reglamento se establezcan;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VI. Donaciones o aportaciones en efectivo o especie realizadas por terceros, personas físicas o morales, de carácter público, privado o social, nacional o extranjera, de manera altruista;
+###### Artículo 139.
 
-VII. El monto establecido en la sentencia condenatoria en aplicación de la Ley de Extinción de Dominio en favor del Estado de Morelos en la proporción que la misma establezca;
+El Fondo se conformará con:
 
-VIII. El monto de la reparación integral del daño cuando el beneficiario renuncie a ella o no lo reclame dentro del plazo legal establecido;
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Morelos en el rubro en un porcentaje no inferior al 0.14 por ciento del total de los mismos, sin que pueda disponerse de dichos recursos para un fin diverso, y sin que pueda ser disminuido;
 
-IX. Las subastas públicas respecto de objetos o valores que se encuentren a disposición de autoridades investigadoras o judiciales, siempre y cuando no hayan sido reclamados por quien tenga derecho a ello, en términos de Ley;
+II. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Nacional o en la normativa aplicable;
 
-X. Las sumas recuperadas por el Estado en los juicios de carácter civil, que se dirijan en contra de los servidores públicos que hayan sido encontrados como responsables de haber cometido violaciones a los Derechos Humanos;
+III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad, de conformidad con las reglas que rigen el Fondo Auxiliar para la Administración de Justicia del Estado de Morelos y la normativa aplicable;
 
-XII (SIC). Los rendimientos que generen los recursos del Fondo; y
+IV. El monto de las reparaciones del daño no reclamadas;
 
-XIII. Los montos que se recuperen en virtud del derecho de repetición en los términos de Ley.
+V. Las aportaciones que a este fin hagan en efectivo o en especie las personas físicas o morales de carácter público, privado o social nacionales o extranjeros de manera altruista;
 
-Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspondiente al Ejercicio Fiscal vigente al momento de la solicitud. La Comisión Ejecutiva Estatal velará por la optimización del uso de los recursos, priorizando en todo momento aquellos casos de mayor gravedad.
+VI. Los rendimientos que generen los recursos que obren en el Fondo;
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+VII. Los montos que se recuperen en virtud del derecho de repetición en los términos de esta Ley, y
 
-###### ARTÍCULO 124.
+VIII. Los demás recursos que se determinen en las disposiciones aplicables.
 
-El Fondo estará exento de toda imposición de carácter fiscal local, así como de los diversos gravámenes que pudieren estar sujetas las operaciones que se realicen con el Estado de Morelos.
+La constitución del Fondo será con independencia de la existencia de otros ya establecidos para la atención a víctimas. La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los de esta Ley se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley y las disposiciones correspondientes.
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN
+Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspondiente al ejercicio fiscal vigente al momento de la solicitud. La Comisión Ejecutiva Estatal velará por la maximización del uso de los recursos del Fondo, priorizando en todo momento aquellos casos de mayor gravedad.
 
-###### ARTÍCULO 125.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Los recursos del Fondo serán administrados y operados por la Comisión Ejecutiva Estatal a través de un fideicomiso público, de acuerdo a la reglamentación que para tal efecto se expida.
+###### Artículo 140.
 
-###### ARTÍCULO 126.
+El Fondo estará exento de toda imposición de carácter fiscal y parafiscal, así como de los diversos gravámenes a que puedan estar sujetas las operaciones que se realicen por el Fondo.
 
-El manejo, administración y ejercicio de los recursos del Fondo y su fiscalización se regirá por lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 127.
+###### Artículo 141.
 
-El Titular del Fondo, tendrá las atribuciones y deberes que el Reglamento de esta Ley le confiera. En especial tendrá las obligaciones y atribuciones siguientes:
+La Comisión Ejecutiva deberá emitir las reglas de operación para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
 
-I. Administrar cautelosamente los recursos que conforman el Fondo a fin de permitir el cumplimiento efectivo del objeto de ésta Ley;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 142.
+
+Cuando la situación lo amerite, en términos de lo establecido en el Reglamento, el Comisionado Ejecutivo, previo dictamen a que se refiere el artículo 122, fracción III, podrá crear un fondo de emergencia para el otorgamiento de los Recursos de Ayuda, el cual tendrá adjudicado parte de los recursos del Fondo por un tiempo determinado. El ejercicio de los recursos del fondo de emergencia no estará supeditado al dictamen a que se refiere el artículo 122, fracción I, de esta Ley.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LA ADMINISTRACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 143.
+
+El Fondo será administrado por una institución fiduciaria siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+
+La Comisión Ejecutiva Estatal proveerá a las víctimas que corresponda los recursos para cubrir las medidas a que se refiere esta Ley, con cargo al Fondo. La víctima deberá comprobar el ejercicio del monto a más tardar a los treinta días posteriores de haber recibido el recurso. El Reglamento establecerá los criterios de comprobación, dentro de los cuales deberá señalar aquellos en los que los organismos públicos de protección de derechos humanos podrán auxiliar en la certificación del gasto.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 144.
+
+Los recursos del Fondo serán administrados y operados por medio de un fideicomiso público.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 145.
+
+El fideicomitente del Fondo deberá:
+
+I. Vigilar que los recursos que conforman el Fondo se administren y ejerzan adecuadamente a fin de permitir el cumplimiento efectivo del objeto de esta Ley;
 
 II. Gestionar lo pertinente para que los recursos asignados al Fondo ingresen oportunamente al mismo;
 
-III. Presentar periódicamente informes y rendición de cuentas ante el Pleno de la Comisión Ejecutiva Estatal;
+III. Presentar periódicamente informes y rendición de cuentas a la Junta de Gobierno, y
 
-IV. Crear mecanismos e incentivos para nutrir de recursos el Fondo; y
+IV. Realizar las previsiones necesarias a fin de procurar la solvencia del Fondo.
 
-V. Realizar las previsiones necesarias a fin de procurar la solvencia del Fondo.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 128.
+###### Artículo 146.
 
-Los recursos del Fondo se aplicarán para otorgar apoyos de carácter económico a la víctima, las cuales podrán ser de ayuda, asistencia o reparación integral, en los términos de la Ley General de Víctimas, la presente Ley y conforme el Reglamento que la desarrolle.
+Los recursos del Fondo se aplicarán también para otorgar a la víctima los de ayuda inmediata, asistencia y atención, y en los casos de víctimas de delitos o de violación a derechos humanos a la medida de compensación, en los términos de la Ley General, la presente Ley y sus Reglamentos respectivos.
 
-El Titular del Fondo será el responsable de entregar la indemnización o compensación que corresponda otorgar a la víctima, previa autorización que al respecto emita la Comisión Ejecutiva Estatal. El pago de las indemnizaciones se regirá en los términos dispuestos por la presente Ley.
+La Comisión Ejecutiva Estatal determinará el apoyo o asistencia que corresponda otorgar a la víctima de los recursos del Fondo incluida la compensación, previa opinión que al respecto emita el Comité Interdisciplinario Evaluador.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 129.
+###### Artículo 147.
 
-Para acceder a los recursos del Fondo, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva Estatal de acuerdo a los términos que se establezcan en el Reglamento de esta Ley.
+El Fondo será fiscalizado anualmente por la Entidad Superior de Auditoría y Fiscalización.
 
-Las resoluciones del (sic) Comisión Ejecutiva Estatal, serán apelables en los términos que señale el Reglamento que al efecto se emita.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 130.
+###### Artículo 148.
+
+El Estado se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al Fondo.
+
+Para tal efecto, se aportarán al Estado los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
+
+El Ministerio Público estará obligado a ofrecer los elementos probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor del Estado en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
+
+En el caso de las compensaciones por error judicial, éstas se cubrirán con cargo al presupuesto del Poder Judicial correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 149.
+
+El Estado ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación conforme a las disposiciones aplicables, sin perjuicio de que dicho cobro pueda reclamarse por la víctima en la vía civil, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en términos de las disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 150.
+
+El Reglamento precisará el funcionamiento, alcance y criterios específicos de asignación de recursos del Fondo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 151.
+
+De los recursos que constituyan el patrimonio del Fondo, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse al Fondo Federal, de acuerdo con lo establecido en la presente Ley y la Ley General.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA ACCEDER AL FONDO
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 152.
+
+Para acceder a los recursos del Fondo, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva Estatal de acuerdo a los términos que se establezcan en esta Ley y su Reglamento.
+
+Las determinaciones de la Comisión Ejecutiva Estatal respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resoluciones administrativas definitivas. Contra dichas resoluciones procederá el juicio de amparo.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 153.
+
+En cuanto reciba una solicitud, la Comisión Ejecutiva Estatal la turnará al Comité Interdisciplinario Evaluador, para la integración del expediente que servirá de base para la determinación del Comisionado Ejecutivo en torno a los Recursos de Ayuda, Asistencia y Atención y, en su caso, la reparación que requiera la víctima.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 154.
+
+El Comité Interdisciplinario Evaluador deberá integrar dicho expediente en un plazo no mayor de cuatro días, el cual deberá contener como mínimo:
+
+I. Los documentos presentados por la víctima;
+
+II. Descripción del daño o daños que haya sufrido la víctima;
+
+III. Detalle de las necesidades que requiera la víctima para enfrentar las consecuencias del delito o de la violación a sus derechos humanos, y
+
+IV. En caso de contar con ello, relación de partes médicos o psicológicos donde detallen las afectaciones que tiene la víctima con motivo de la comisión del delito o de la violación a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 155.
+
+En el caso de la solicitud de ayuda o apoyo deberá agregarse, además:
+
+I. Estudio de trabajo social elaborado por el Comité Interdisciplinario Evaluador en el que se haga una relación de las condiciones de victimización que enfrenta la víctima y las necesidades que requiere satisfacer para enfrentar las secuelas de la victimización;
+
+II. Dictamen médico donde se especifique las afectaciones sufridas, las secuelas y el tratamiento, prótesis y demás necesidades que requiere la persona para su recuperación;
+
+III. Dictamen psicológico en caso de que la víctima requiera atención a la salud mental donde se especifique las necesidades que requieren ser cubiertas para la recuperación de la víctima, y
+
+IV. Propuesta de resolución que se propone adopte la Comisión Ejecutiva Estatal donde se justifique y argumente jurídicamente la necesidad de dicha ayuda.
+
+La víctima sólo estará obligada a entregar la información, documentación y pruebas que obren en su poder. Es responsabilidad del Comité Interdisciplinario Evaluador lograr la integración de la carpeta respectiva.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 156.
+
+Recibida la solicitud, ésta pasará a evaluación del Comité Interdisciplinario Evaluador para que integre la carpeta con los documentos señalados en el artículo anterior, analice, valore y concrete las medidas que se otorgarán en cada caso.
+
+El Reglamento de esta Ley especificará el procedimiento que se seguirá para el otorgamiento de la ayuda.
+
+La Comisión Ejecutiva Estatal deberá integrar el expediente completo en un plazo no mayor a veinte días hábiles y resolver con base a su dictamen la procedencia de la solicitud.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 157.
+
+Las solicitudes para acceder a los recursos del Fondo en materia de reparación serán procedentes siempre que la víctima:
+
+I. Cuente con sentencia ejecutoria en la que se indique que sufrió el daño por dichos ilícitos, así como el monto a pagar u otras formas de reparación;
+
+II. No haya alcanzado el pago total de los daños que se le causaron;
+
+III. No haya recibido la reparación integral del daño por cualquier otra vía, lo que podrá acreditarse con el oficio del juez de la causa penal o con otro medio fehaciente, y
+
+IV. Presente solicitud de asistencia, ayuda o reparación integral, siempre y cuando dicha solicitud sea avalada por la Comisión Ejecutiva Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 158.
 
 Las solicitudes que se presenten en términos de este Capítulo se atenderán considerando:
 
@@ -1657,91 +2429,181 @@ III. La imposibilidad de trabajar como consecuencia del daño;
 
 IV. El número y la edad de los dependientes económicos;
 
-V. El enfoque diferencial; y
+V. El enfoque diferencial, y
 
 VI. Los recursos disponibles en el Fondo.
 
-###### ARTÍCULO 131.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Si el Estado no pudiese hacer efectiva total o parcialmente la orden de reparación integral, establecida por mandato judicial o por acuerdo de la Comisión Ejecutiva Estatal, deberá justificar la razón y tomar las medidas suficientes para cobrar su valor o gestionar lo pertinente a fin de lograr que se concrete la reparación integral de la víctima.
+#### SECCIÓN TERCERA. DE LA REPARACIÓN
 
-## TÍTULO NOVENO. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO ÚNICO
+###### Artículo 159.
 
-###### ARTÍCULO 132.
+Si el Estado no pudiese hacer efectivo total o parcialmente la orden de reparación integral establecida por mandato judicial o por acuerdo de la Comisión Ejecutiva Estatal, se deberá justificar la razón y tomar las medidas suficientes para cobrar su valor o gestionar lo pertinente a fin de lograr que se concrete la reparación integral de la víctima.
 
-El Gobierno del Estado de Morelos garantizará:
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-I.- La inclusión dentro de sus programas de formación y capacitación contenidos temáticos sobre los principios, derechos, mecanismos, acciones y procedimientos reconocidos por la Ley General de Víctimas y la presente Ley, así como las disposiciones específicas de Derechos Humanos contenidos en la Constitución y Tratados Internacionales, protocolos específicos y demás instrumentos del Derecho Internacional de los Derechos Humanos; y
+###### Artículo 160.
 
-II.- El diseño e implementación de un sistema de seguimiento que logre medir el impacto de la capacitación en los miembros de sus respectivas dependencias. A dicho efecto deberá tenerse en cuenta, entre otros aspectos, las denuncias y quejas hechas contra dichos servidores públicos, las sanciones impuestas, las entrevistas y sondeos directos practicados a las víctimas.
+Cuando la determinación y cuantificación del apoyo y reparación no haya sido dada por autoridad judicial u organismo nacional o internacional de protección de los derechos humanos, ésta deberá ser realizada por la Comisión Ejecutiva Estatal. Si la misma no fue documentada en el procedimiento penal, dicha Comisión procederá a la documentación e integración del expediente conforme lo señalan los artículos 153, 154 y 179 de esta Ley.
 
-###### ARTÍCULO 133.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Todo procedimiento de ingreso, selección, permanencia, estímulo, promoción y reconocimiento de servidores públicos que, por su competencia, tengan trato directo o brinden su servicio a víctimas en cumplimento de medidas de asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberá incluir, dentro de los criterios de valoración, un rubro relativo a Derechos Humanos.
+###### Artículo 161.
 
-###### ARTÍCULO 134.
+Cuando parte del daño sufrido se explique a consecuencia del actuar u omitir de la víctima, dicha conducta podrá ser tenida en cuenta al momento de determinar la compensación.
 
-El Poder Ejecutivo del Estado, creará un programa continuado de capacitación y formación para servidores públicos que atienden víctimas. Este programa deberá garantizar como mínimo:
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 162.
+
+Cuando el daño haya sido causado por más de un agente y no sea posible identificar la exacta participación de cada uno de ellos, se establecerá una responsabilidad subsidiaria frente a la víctima, y se distribuirá el monto del pago de la compensación en partes iguales entre todos los cocausantes previo acuerdo de la Comisión Ejecutiva Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 163.
+
+Las medidas de ayuda y asistencia podrán ser de diversa índole, en cumplimiento de las disposiciones de esta Ley y su Reglamento. La reparación integral deberá cubrirse mediante moneda nacional, con la excepción de que se podrá pagar en especie de acuerdo a la resolución dictada por la Comisión Ejecutiva Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 164.
+
+La Comisión Ejecutiva Estatal tendrá facultades para cubrir las necesidades en términos de asistencia, ayuda y reparación integral, a través de los programas gubernamentales federales, estatales o municipales con que se cuente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 165.
+
+Cuando proceda el pago de la reparación, el Fondo registrará el fallo judicial que lo motivó y el monto de la compensación, que será de consulta pública.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO XVI. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 166.
+
+Los integrantes del Sistema Estatal que tengan contacto con la víctima en cumplimento de medidas de atención, asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberán garantizar:
+
+I. La inclusión dentro de sus programas de formación y capacitación contenidos temáticos sobre los principios, derechos, mecanismos, acciones y procedimientos reconocidos por la Ley General de Víctimas y la presente Ley, así como las disposiciones específicas de derechos humanos contenidos en la Constitución y los Tratados Internacionales, protocolos específicos y demás instrumentos del derecho internacional de los derechos humanos, y
+
+II. El diseño e implementación de un sistema de seguimiento que logre medir el impacto de la capacitación en los miembros de sus respectivas instituciones. A dicho efecto deberá tenerse en cuenta, entre otros aspectos, las denuncias y quejas hechas contra dichos servidores públicos, las sanciones impuestas, las entrevistas y sondeos directos practicados a las víctimas.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 167.
+
+Todo procedimiento de ingreso, selección, permanencia, estímulo, promoción y reconocimiento de servidores públicos que, por su competencia, tengan trato directo o brinden su servicio a víctimas en cumplimento de medidas de asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberá incluir, dentro de los criterios de valoración, un rubro relativo a derechos humanos.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 168.
+
+El Poder Ejecutivo Estatal expedirá un programa continuado de capacitación y formación para servidores públicos que atienden víctimas, que elaborará la Comisión Ejecutiva Estatal y que deberá garantizar como mínimo:
 
 I. La formación en derechos de las víctimas a la verdad, la justicia y la reparación integral;
 
-II. Enfoque diferencial para mujeres, niños, niñas, jóvenes, comunidades o pueblos originarios y otros grupos vulnerables;
+II. Enfoque diferencial para mujeres, niñas, niños, adolescentes, jóvenes, comunidades o pueblos originarios y otros grupos vulnerables;
 
-III. Procedimientos administrativos y judiciales;
+III. Normativa internacional, nacional y estatal en la materia, y
 
-IV. Normatividad internacional, nacional y estatal relacionada; y
+IV. Rutas y procedimientos de atención a víctimas.
 
-V. Rutas y procedimientos de atención a víctimas.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 135.
+###### Artículo 169.
 
-El Poder Ejecutivo del Estado, implementará una estrategia integral de divulgación de los derechos de las víctimas en todo el territorio estatal que permita a las mismas, a las organizaciones y a la población en general, el conocimiento de los derechos contemplados en la presente Ley y otras normas relacionadas.
+El Poder Ejecutivo Estatal, implementará una estrategia integral de divulgación de los derechos de las víctimas en todo el territorio estatal que permita a las mismas, a las organizaciones y a la población en general, el conocimiento de los derechos contemplados en la presente Ley y otras normas relacionadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 136.
+###### Artículo 170.
 
-La Fiscalía General del Estado de Morelos y la Comisión Estatal de Seguridad Pública, deberán disponer lo pertinente para que los contenidos temáticos señalados en la Ley General de Víctimas, la presente Ley y sus reglamentaciones pertinentes, sean parte de las estrategias, políticas y modelos de profesionalización, así como los de supervisión de los programas correspondientes en los institutos de capacitación.
+La Fiscalía General y la Comisión Estatal de Seguridad Pública deberán disponer lo pertinente para que los contenidos temáticos señalados en la Ley General de Víctimas, la presente Ley y sus reglamentaciones pertinentes, sean parte de las estrategias, políticas y modelos de profesionalización, así como los de supervisión de los programas correspondientes en los institutos de capacitación.
 
-Se dispondrá en la legislación de la materia, la creación de una Subprocuraduría de Apoyo a las Víctimas y Defensa de los Derechos Humanos, dependiente de la Procuraduría General de Justicia, con el fin de implementar adecuadamente los derechos establecidos en la presente Ley.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO II. DE LAS MEDIDAS DE RESTITUCIÓN
+###### Artículo 171.
 
-###### ARTÍCULO 137.
+Las autoridades encargadas de los servicios periciales estatales deberán capacitar a sus funcionarios y empleados con el objeto de que la víctima reciba atención especializada de acuerdo al tipo de victimización sufrido, y tenga expeditos los derechos que le otorga la Constitución Local, la Constitución y los Tratados Internacionales de Derechos Humanos.
 
-Los Institutos y Academias que sean responsables de la capacitación, formación, actualización y especialización de los servidores públicos ministeriales, policiales y periciales estatales y municipales, deberán coordinarse entre sí con el objeto de cumplir cabalmente los Programas Rectores de Profesionalización señalados en la Ley General del Sistema Nacional de Seguridad Pública, la Ley General de Víctimas y los lineamientos mínimos impuestos por el presente Capítulo de esta Ley.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Así mismo, deberán proponer convenios de colaboración con universidades, mediante la creación de cátedras u otras iniciativas y otras instituciones educativas, públicas o privadas, nacionales o extranjeras, con el objeto de brindar formación académica integral y de excelencia a los servidores públicos de sus respectivas dependencias.
+###### Artículo 172.
 
-###### ARTÍCULO 138.
+Los institutos y academias que sean responsables de la capacitación, formación, actualización y especialización de los servidores públicos ministeriales, policiales y periciales, estatales y municipales, deberán coordinarse entre sí con el objeto de cumplir cabalmente los Programas Rectores de Profesionalización señalados en la Ley General del Sistema Nacional de Seguridad Pública, la (sic) Sistema de Seguridad Pública del Estado de Morelos y los lineamientos mínimos impuestos por esta Ley.
 
-Como parte de la asistencia, atención y reparación integral, se brindará a las víctimas formación, capacitación y orientación ocupacional. A tal efecto, y sin perjuicio de las iniciativas públicas que correspondan, se diseñarán programas en coordinación con entidades o empresas privadas que se integren al programa.
+Asimismo, deberán proponer convenios de colaboración con universidades y otras instituciones educativas, públicas o privadas, nacionales o extranjeras, con el objeto de brindar formación académica integral y de excelencia a los servidores públicos de sus respectivas Instituciones.
 
-La formación y capacitación se realizará con enfoque diferencial y transformador. Se ofrecerá a la víctima, programas en virtud de su interés, condición y contexto, atendiendo a la utilidad de dicha capacitación o formación. El objeto es brindar a la víctima herramientas idóneas que ayuden a hacer efectiva la atención y la reparación integral, así como favorecer el fortalecimiento y resiliencia de la víctima.
+Las obligaciones enunciadas en el presente artículo rigen también para las instituciones homólogas de capacitación, formación, actualización y especialización de los miembros del Poder Judicial Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 173.
+
+La Comisión de Derechos Humanos del Estado de Morelos deberá coordinarse con la Comisión Nacional de Derechos Humanos, con el objeto de cumplir cabalmente con las atribuciones que le confiere la presente Ley.
+
+Dichas instituciones deberán realizar sus labores prioritariamente enfocadas a que la asistencia, apoyo, asesoramiento y seguimiento sea eficaz y permita un ejercicio real de los derechos de las víctimas.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 174.
+
+Como parte de la asistencia, atención y reparación integral, se brindará a las víctimas formación, capacitación y orientación ocupacional. A tal efecto, y sin perjuicio de las iniciativas públicas que correspondan, se diseñarán programas en coordinación con instituciones o empresas privadas que se integren al programa.
+
+La formación y capacitación se realizará con enfoque diferencial y transformador. Se ofrecerá a la víctima programas en virtud de su interés, condición y contexto, atendiendo a la utilidad de dicha capacitación o formación. El objeto es brindar a la víctima herramientas idóneas que ayuden a hacer efectiva la atención y la reparación integral, así como favorecer el fortalecimiento y resiliencia de la víctima.
 
 Asimismo, deberá brindarse a la víctima orientación ocupacional específica que le permita optar sobre los programas, planes y rutas de capacitación y formación más idóneos conforme su interés, condición y contexto.
 
-Para el cumplimiento de lo descrito, se aplicarán lo programas existentes en los tres órdenes de gobierno al momento de la expedición de la presente Ley, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma.
+Para el cumplimiento de lo descrito se aplicarán los programas existentes en los distintos órdenes de gobierno, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la presente Ley. Cuando el Estado no cuente con el soporte necesario para el cumplimiento de las obligaciones aquí referidas, se deberán crear los programas y planes específicos.
 
-## TÍTULO DÉCIMO. DE LA ASESORÍA JURÍDICA ESTATAL DE ATENCIÓN A VÍCTIMAS
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XVII. DE LA ASESORÍA JURÍDICA ESTATAL
 
-###### ARTÍCULO 139.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se crea la Asesoría Jurídica de Atención a Víctimas del Estado de Morelos, como área especializada en asesoría jurídica para víctimas, dependiente de la Comisión Ejecutiva Estatal.
+###### Artículo 175.
 
-###### ARTÍCULO 140.
+La Asesoría Jurídica de Atención a Víctimas del Estado de Morelos, es la unidad administrativa especializada en asesoría jurídica para víctimas, dependiente de la Comisión Ejecutiva Estatal.
 
-La Asesoría Jurídica del Estado de Morelos, estará integrada por Asesores Jurídicos estatales de Atención a Víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con las áreas administrativas que se requieran para el desempeño de sus funciones, en los términos que señale el Reglamento.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 141.
+###### Artículo 176.
 
-La víctima tendrá derecho a nombrar un Asesor Jurídico, el cual elegirá libremente desde su solicitud de ingreso al Sistema.
+La Asesoría Jurídica Estatal estará integrada por Asesores Jurídicos Estatales de Atención a Víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con las áreas administrativas que se requieran para el desempeño de sus funciones, en los términos que señale el Reglamento.
 
-La víctima tendrá el derecho de que su Asesor Jurídico comparezca a todos los actos en los que sea requerido.
+Con independencia de lo anterior, cuando no se cuente con el personal profesional necesario, la Asesoría Jurídica podrá contar, de manera excepcional, con el servicio de particulares para ejercer las funciones de asesores jurídicos, en términos de lo dispuesto por la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 177.
+
+La Asesoría Jurídica Estatal tiene a su cargo las siguientes funciones:
+
+I. Coordinar el servicio de Asesoría Jurídica para Víctimas en asuntos del fuero local, a fin de garantizar los derechos de las víctimas contenidos en esta Ley, la Ley General, Tratados Internacionales y demás normativa aplicable;
+
+II. Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, civil, laboral, familiar, administrativa y de derechos humanos del fuero local, a fin de garantizar el acceso a la justicia, a la verdad y la reparación integral;
+
+III. Seleccionar, en coordinación y con la aprobación del Comisionado Ejecutivo, a los servidores públicos adscritos a la Asesoría Jurídica Estatal, así como capacitarlos;
+
+IV. Designar por cada Unidad Investigadora del Ministerio Público del Estado, por cada Juzgado Local que conozca de materia penal y Visitaduría de la Comisión de Derechos Humanos del Estado de Morelos, cuando menos a un Asesor Jurídico Estatal y al personal de auxilio necesario;
+
+V. Celebrar convenios de coordinación con todos aquellos que pueden coadyuvar en la defensa de los derechos de las víctimas, y
+
+VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 178.
+
+La víctima tendrá derecho a solicitar a la Comisión Ejecutiva Estatal que le proporcione un Asesor Jurídico Estatal, en caso de que no quiera o no pueda contratar un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro Estatal de Víctimas. En este caso la Comisión Ejecutiva Estatal deberá nombrarle uno a través de la Asesoría Jurídica Estatal.
+
+La víctima tendrá el derecho de que su abogado particular o asesor jurídico asignado, según corresponda, comparezca a todos los actos en los que sea requerida.
 
 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o no pueden contratar a un abogado particular y en especial a:
 
@@ -1751,61 +2613,77 @@ II. Los trabajadores jubilados o pensionados, así como sus cónyuges;
 
 III. Los trabajadores eventuales o subempleados;
 
-IV. Los miembros de los pueblos o comunidades originarios; y
+IV. Los miembros de los pueblos o comunidades originarios, y
 
 V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
-###### ARTÍCULO 142.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Se establece la figura del Asesor Jurídico Estatal de Atención a Víctimas, el cual tendrá las funciones siguientes:
+###### Artículo 179.
+
+Se crea la figura del Asesor Jurídico Estatal de Atención a Víctimas, el cual tendrá las funciones siguientes:
 
 I. Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
 
-II. Representar a la víctima de manera integral en todos los procedimientos y juicios en los que sea parte, para lo cual deberá realizar todas las acciones legales y administrativas tendientes a su defensa, incluyendo las que correspondan en materia de Derechos Humanos tanto en el ámbito nacional como internacional;
+II. Representar a la víctima de manera integral en todos los procedimientos y juicios en los que sea parte, para lo cual deberá realizar todas las acciones legales y administrativas tendientes a su defensa, incluyendo las que correspondan en materia de derechos humanos tanto en el ámbito nacional como internacional;
 
-III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa;
+III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral, administrativa o cualquier otra necesaria al efecto;
 
-IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención y reparación integral, y en su caso, tramitarlas ante las autoridades judiciales y administrativas;
+IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención y reparación integral y, en su caso, tramitarlas ante las autoridades judiciales y administrativas;
 
-V. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención, que sean necesarias para garantizar la integridad física y psiquiátrica y psicológica de las víctimas, así como su plena recuperación;
+V. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención, que sean necesarias para garantizar la integridad física, psiquiátrica y psicológica de las víctimas, así como su plena recuperación;
 
-VI. Informar y asesorar al entorno familiar de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta Ley, en los tratados internacionales y demás leyes aplicables;
+VI. Informar y asesorar al entorno familiar de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta Ley, en los Tratados Internacionales y demás normativa aplicable;
 
 VII. Llevar un registro puntual de las acciones realizadas y formar un expediente del caso;
 
 VIII. Tramitar y entregar copias de su expediente a la víctima, en caso de que ésta las requiera;
 
-IX. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público; y
+IX. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, conforme la normativa aplicable, y
 
 X. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
-###### ARTÍCULO 143.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-El Gobernador Constitucional del Estado de Morelos, reglamentará lo pertinente acerca de la conformación, garantía de capacidad institucional y funciones de la Asesoría Jurídica de Atención a las Víctimas del Estado de Morelos, determinando los ajustes institucionales necesarios y respetando los criterios generales establecidos por la Ley General de Víctimas.
+###### Artículo 180.
 
-La estructura, operación, funcionamiento, atribuciones y facultades de la Asesoría Jurídica de Atención a Víctimas del Delito del Estado de Morelos, se establecerán en el Reglamento que al efecto se emita.
+El Gobernador del Estado, reglamentará lo pertinente acerca de la conformación, garantía de capacidad institucional y funciones de la Asesoría Jurídica Estatal, determinando los ajustes institucionales necesarios y respetando los criterios generales establecidos por la Ley General de Víctimas.
 
-## TÍTULO UNDÉCIMO. DISPOSICIONES FINALES
+La estructura, operación, funcionamiento, atribuciones y facultades de la Asesoría Jurídica Estatal, se establecerán en el Reglamento que al efecto se emita.
 
-###### ARTÍCULO 144.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-El Estado de Morelos, garantizará los recursos necesarios para la implementación de la presente Ley, con el objetivo de permitir el fortalecimiento institucional, el capital humano, los recursos técnicos, materiales y otros que resulten necesarios.
+### CAPÍTULO XVIII. DE LAS DISPOSICIONES FINALES
 
-###### ARTÍCULO 145.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 181.
+
+El Estado garantizará los recursos necesarios para la implementación de la presente Ley, con el objetivo de permitir el fortalecimiento institucional, el capital humano, los recursos técnicos, materiales y otros que resulten necesarios.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 182.
 
 Las personas públicas o privadas que colaboren por medio de donaciones u otro acto tendiente a apoyar e incrementar los fondos financieros para la implementación, operación y cumplimiento de la presente Ley, podrán acceder a los beneficios tributarios que las leyes de la materia establezcan.
 
-La Comisión Ejecutiva Estatal creará, mecanismos para la generación de recursos o aportes con el fin de atender al cumplimiento de los objetivos fijados en esta Ley
+La Comisión Ejecutiva Estatal creará mecanismos para la generación de recursos o aportes con el fin de atender al cumplimiento de los objetivos fijados en esta Ley.
 
-###### ARTÍCULO 146.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-El Poder Ejecutivo del Estado de Morelos, brindará apoyo técnico a los Municipios del Estado de Morelos, con el fin de desarrollar bajo el principio de corresponsabilidad las acciones contenidas en la presente Ley y en la Ley General de Víctimas.
+###### Artículo 183.
 
-###### ARTÍCULO 147.
+El Poder Ejecutivo Estatal brindará apoyo técnico a los Municipios del estado de Morelos, con el fin de desarrollar, bajo el principio de corresponsabilidad, las acciones contenidas en la presente Ley y en la Ley General de Víctimas.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 184.
 
 Los servidores públicos que en el marco del proceso penal o cualquier otro tipo de actuación jurisdiccional o administrativa afecten derechos de las víctimas, responderán ante las instancias competentes por las acciones u omisiones en que incurran.
 
-###### ARTÍCULO 148.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 185.
 
 Incurrirán en responsabilidad administrativa los servidores públicos que:
 
@@ -1813,31 +2691,39 @@ I. Impidan u obstaculicen el acceso de las víctimas y sus representantes a la i
 
 II. Proporcionen información falsa a las víctimas o sobre los hechos que produjeron la victimización;
 
-III. Discriminen por razón de la victimización; o
+III. Discriminen por razón de la victimización, o
 
 IV. Se nieguen, cuando estén obligados a ello, a dar una disculpa pública que incluya el reconocimiento de los hechos y la aceptación de responsabilidades.
 
-###### ARTÍCULO 149.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Es deber del Estado de Morelos:
+###### Artículo 186.
 
-I.- Garantizar la participación efectiva de las víctimas en el diseño, implementación, ejecución y seguimiento al cumplimiento de la Ley y los planes, proyectos y programas que se creen con ocasión de la misma;
+Es deber del estado de Morelos:
 
-II.- Hacer uso de los mecanismos democráticos previstos en la Constitución y la Ley que garanticen la disposición de los medios e instrumentos necesarios para la elección de sus representantes en las instancias de decisión y seguimiento previstas en esta Ley, el acceso a la información, el diseño de espacios de participación adecuados para la efectiva participación de las víctimas en los niveles estatal y municipal; y
+I. Garantizar la participación efectiva de las víctimas en el diseño, implementación, ejecución, seguimiento y evaluación del cumplimiento de la Ley y los planes, proyectos y programas que se creen con ocasión de la misma;
 
-III.- Llevar a cabo ejercicios de rendición de cuentas sobre el cumplimiento de los planes, proyectos y programas que se diseñen y ejecuten en el marco de esta Ley.
+II. Hacer uso de los mecanismos democráticos previstos en la Constitución, la Constitución Local y demás normativa aplicable que garanticen la disposición de los medios e instrumentos necesarios para la elección de sus representantes en las instancias de decisión y seguimiento previstas en esta Ley, el acceso a la información, el diseño de espacios de participación adecuados para la efectiva participación de las víctimas en los niveles estatal y municipal, y
 
-###### ARTÍCULO 150.
+III. Llevar a cabo ejercicios de rendición de cuentas sobre el cumplimiento de los planes, proyectos y programas que se diseñen y ejecuten en el marco de esta Ley.
 
-La Comisión Ejecutiva Estatal, diseñará un protocolo de participación efectiva a fin de que se brinden las condiciones necesarias para el derecho a la participación.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 151.
+###### Artículo 187.
 
-Si con posterioridad al reconocimiento de la indemnización administrativa, se demostrare que la persona no tenía la calidad de víctima o de beneficiario o lo hubiere acreditado de manera engañosa o fraudulenta, se revocarán las medidas de compensación otorgadas, se ordenará el reintegro de los recursos que se hubieren reconocido y entregado por este concepto y se remitirán copias autorizadas copias (sic) a la autoridad competente para la investigación y el deslinde o fincamiento de responsabilidad a que haya lugar, en términos de lo dispuesto en el Reglamento de la presente Ley.
+La Comisión Ejecutiva Estatal diseñará un protocolo de participación efectiva a fin de que se brinden las condiciones necesarias para el derecho a la participación.
 
-###### ARTÍCULO 152.
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Los servidores públicos que atiendan a víctimas en el Estado de Morelos, serán objeto de medidas que busquen contrarrestar el impacto que genera la atención y el acompañamiento de las víctimas en este tipo de procesos, lo que se preverá en el Reglamento que al efecto se emita.
+###### Artículo 188.
+
+Si con posterioridad al reconocimiento de la compensación, se demostrare que la persona no tenía la calidad de víctima o de beneficiario o lo hubiere acreditado de manera engañosa o fraudulenta, se revocarán las medidas de compensación otorgadas, se ordenará el reintegro de los recursos que se hubieren reconocido y entregado por este concepto y se remitirán copias autorizadas a la autoridad competente para la investigación y el deslinde o fincamiento de responsabilidad a que haya lugar, en términos de lo dispuesto en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 189.
+
+Los servidores públicos que atiendan a víctimas en el estado de Morelos, serán objeto de medidas que busquen contrarrestar el impacto que genera la atención y el acompañamiento de las víctimas en este tipo de procesos, lo que se preverá en el Reglamento que al efecto se emita.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -1885,13 +2771,13 @@ ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE MARZO DE 2014.
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Todas las referencias hechas en el marco normativa estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
 
@@ -1917,12 +2803,6 @@ TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se h
 
 P.O. 1 DE MARZO DE 2017.
 
-### CAPÍTULO III. DE LAS MEDIDAS DE REHABILITACIÓN
-
-### CAPÍTULO IV. DE LAS MEDIDAS DE INDEMNIZACIÓN O COMPENSACIÓN
-
-### CAPÍTULO V. DE LAS MEDIDAS DE SATISFACCIÓN
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y SIETE POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DELO (SIC) ARTÍCULO 84 DE LA LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
 Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
@@ -1932,3 +2812,57 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS CINCO POR EL QUE SE REFORMA DE MANERA INTEGRAL LA LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS, INCLUYENDO SU DENOMINACIÓN; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Una vez aprobadas la reforma integral a la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos y reformas de (sic) Ley Orgánica de la Fiscalía General del Estado de Morelos, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Dentro de un plazo de 10 días hábiles, contados a partir del inicio de la vigencia de este Decreto, la persona titular de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, deberá solicitar en el Registro Público de Organismos Descentralizados del Estado de Morelos a cargo de la Secretaría de Hacienda, la inscripción del presente instrumento, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+CUARTA. Dada la nueva configuración de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos se abroga el "Decreto número mil seiscientos setenta y cuatro, por el que se designan a cinco Comisionados para Integrar el Consejo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5237, de 19 de noviembre de 2014, dejando sin efecto las designaciones realizadas por virtud de dicho Decreto.
+
+Al efecto se instruye a la Secretaría de Servicios Legislativos Parlamentarios y a la Dirección Jurídica, ambas del Congreso del Estado de Morelos, para que notifique el contenido de la presente Disposición Transitoria a los Ciudadanos cuya designación se deja insubsistente. Ello sin perjuicio de que el Decreto número mil seiscientos setenta y cuatro, así como las designaciones por virtud del cual se realizan, queden sin efectos desde el momento mismo en que el presente Decreto inicie su vigencia.
+
+QUINTA. Se abroga el "Acuerdo parlamentario por el que se designa a dos Diputados que integrarán el Consejo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, conforme a lo establecido en la fracción III, del artículo 102, de la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5439, de 12 de octubre de 2016.
+
+SEXTA. Por única ocasión, para la designación del Comisionado Ejecutivo, el Gobernador del Estado deberá proponer al Congreso del Estado, dentro de un plazo de 30 días hábiles, contados a partir del inicio de vigencia del presente Decreto, una persona respaldada por los colectivos de víctimas, expertos y organizaciones de la sociedad civil del estado de Morelos especializadas en la materia, sin que exista impedimento alguno para considerar para ello a la actual persona titular de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
+
+El Congreso del Estado, dentro de un plazo de treinta días hábiles, contados a partir de que reciba la propuesta respectiva, previa revisión de los requisitos previstos en el artículo 118 de la Ley de Víctimas del Estado de Morelos, deberá decidir sobre la designación del Comisionado Ejecutivo, quien por única ocasión durará en su cargo tres años.
+
+Concluido el plazo de duración en el cargo de la persona designada conforme al párrafo anterior como Comisionado Ejecutivo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos; deberá designarse un nuevo titular en los términos señalados en el artículo 118 de la citada Ley.
+
+La persona titular de la ahora Coordinación Ejecutiva estará a cargo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, en tanto no sea designado el Comisionado Ejecutivo.
+
+Asimismo, hasta en tanto no se nombre Comisionado Ejecutivo las autorizaciones para acceder a los recursos del Fondo, serán emitidas de manera conjunta entre la persona titular de la Coordinación Ejecutiva y el servidor público responsable del Fondo.
+
+SÉPTIMA. En todos los instrumentos legales, administrativos y jurídicos en donde se haga referencia a la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos se entenderá a la Ley de Víctimas del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos a la persona titular de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, se entenderán conferidas al Comisionado Ejecutivo del citado Organismo, siempre que no contravengan lo dispuesto en el presente Decreto.
+
+OCTAVA. En un plazo no mayor de 30 días hábiles, contados a partir de la vigencia del presente Decreto, se deberá instalar la Junta de Gobierno de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos; sin que para tal efecto sea necesaria la presencia del representante de la Asamblea Consultiva, por esta única ocasión, en virtud de estar presente la mayoría de sus integrantes, así como su Presidente.
+
+NOVENA. En un plazo no mayor de 180 días hábiles, contados a partir de la instalación de la Junta de Gobierno de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, se deberán realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados a que refiere la Disposición Transitoria Tercera. Así mismo, en dicho plazo deberá de adecuarse el Reglamento de la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos en materia de Asesoría Jurídica, Registro y Reparación Económica.
+
+DÉCIMA. Se autoriza al Gobernador del Estado para que se constituya en garante avalista, deudor solidario, subsidiario o sustituto de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, para que en garantía del cumplimiento de todas y cada una de las obligaciones a su cargo, derivadas del pago por concepto de cuotas y aportaciones a favor del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, solicite a la Secretaría de Hacienda y Crédito Público, afecte a favor de dicho Organismo, las participaciones presentes y futuras que en ingresos federales le correspondan.
+
+En la firma del instrumento jurídico que formalice el acto materia de esta Disposición Transitoria, comparecerán en nombre y representación del Gobernador del Estado, las instituciones y los servidores públicos competentes, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, y por la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, el Comisionado Ejecutivo.
+
+La garantía de cumplimiento a las obligaciones que se contraen con la incorporación de los trabajadores de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se establecerá con los recursos que a favor de dicho organismo se señalen en el Presupuesto de Egresos del Gobierno del Estado.
+
+Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, al régimen obligatorio del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, exclusivamente en el caso que la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos no cubra de manera oportuna las cuotas correspondientes.
+
+Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado Organismo, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.
+
+UNDÉCIMA. La Fiscalía General del Estado de Morelos deberá realizar las adecuaciones reglamentarias y administrativas necesarias que den cumplimiento a las modificaciones aprobadas en el presente Decreto.
+
+DUODÉCIMA. El Comisionado Ejecutivo de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, deberá gestionar las adecuaciones necesarias a la estructura orgánica de dicha Comisión.
+
+DECIMOTERCERA. La Comisión Ejecutiva, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, publicará la Convocatoria a que se refiere el artículo 123 de la Ley.
+
+Constituida la Asamblea Consultiva designará de entre sus integrantes al miembro que los ha de representar en la Junta de Gobierno.
+
+DECIMOCUARTA. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos y la Secretaría de Hacienda del Poder Ejecutivo Estatal deberán hacer las previsiones presupuestales necesarias.
+
+DECIMOQUINTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
