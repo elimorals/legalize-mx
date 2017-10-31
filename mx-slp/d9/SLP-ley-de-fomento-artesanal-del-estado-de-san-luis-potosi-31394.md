@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-artesanal-del-estado-de-san-luis-potosi-31394"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-24"
-last_updated: "2014-10-07"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de mayo de 2003.
 
@@ -51,19 +51,33 @@ Las disposiciones de esta Ley son de orden público e interés social; y tiene p
 
 Para los efectos de la presente Ley se entenderá por:
 
-Ley: la Ley de Fomento Artesanal del Estado de San Luis Potosí.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Casa: la Casa de las Artesanías del Estado de San Luis Potosí.
+I. Artesanía: la obra creada por medio de un trabajo manual con materias primas naturales, industriales o artificiales que no forman parte de una producción en serie, y se observa como una manifestación de cultura y tradición;
 
-Consejo: el Consejo Consultivo para el Desarrollo Artesanal de San Luis Potosí.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Artesano: la persona física que haciendo uso de su ingenio y/o destreza, transforme manualmente materias primas naturales en productos que reflejen la belleza, tradición y cultura del Estado de San Luis Potosí, auxiliándose de herramientas e instrumentos de cualquier naturaleza.
+II. Artesano: la persona física que haciendo uso de su ingenio y/o destreza, transforme manualmente materias primas naturales en productos que reflejen la belleza, tradición y cultura del Estado de San Luis Potosí, auxiliándose de herramientas e instrumentos de cualquier naturaleza;
 
-Artesanía: la obra creada por medio de un trabajo manual con materias primas naturales, industriales o artificiales que no forman parte de una producción en serie, y se observa como una manifestación de cultura y tradición.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Producción Artesanal: la actividad económica de transformación con predominio del trabajo manual que utiliza herramientas primarias, cuyo proceso se realiza con materia de origen natural y complemento industrial, la que es considerada como una manifestación cultural y tradicional.
+III. Casa: la Casa de las Artesanías del Estado de San Luis Potosí;
 
-Registro: Registro de Artesanos del Estado de San Luis Potosí.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. Consejo: el Consejo Consultivo para el Desarrollo Artesanal de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Ley: la Ley de Fomento Artesanal del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Producción Artesanal: la actividad económica de transformación con predominio del trabajo manual que utiliza herramientas primarias, cuyo proceso se realiza con materia de origen natural y complemento industrial, la que es considerada como una manifestación cultural y tradicional, y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Registro: Registro de Artesanos del Estado de San Luis Potosí.
 
 ###### ARTICULO 3º.
 
@@ -109,7 +123,9 @@ La Casa tiene a su cargo las siguientes facultades:
 
 I. Diseñar, administrar y promover programas que tengan por objeto fortalecer y difundir la actividad artesanal, tanto al interior de la Entidad como fuera de la misma;
 
-II. Celebrar acuerdos o convenios con los gobiernos federal, estatales o municipales, así como con organizaciones privadas, con el fin de beneficiar el desarrollo de la actividad artesanal en la Entidad y fuera de ésta;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Celebrar acuerdos o convenios con gobiernos a nivel internacional, federal, estatal o municipal, así como con organizaciones privadas, con el fin de beneficiar el desarrollo de la actividad artesanal en la Entidad y fuera de ésta;
 
 III. Impulsar la investigación y adopción de nuevas técnicas y diseños relacionados con la producción artesanal, a través de la calidad y la autenticidad de la artesanía potosina;
 
@@ -117,7 +133,9 @@ IV. Aprovechar los medios masivos de comunicación para difundir la actividad ar
 
 V. Organizar, capacitar, apoyar y asesorar técnica y financieramente, en forma directa o coordinada con otras instancias públicas o privadas, a los artesanos para que se integren en micro o pequeñas empresas artesanales;
 
-VI. Planear, fomentar, asesorar y apoyar la celebración de eventos de carácter regional, estatal, nacional o internacional que promocionen la artesanía potosina;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Impulsar la artesanía potosina, organizar, planear, fomentar, asesorar y apoyar la celebración al menos de tres eventos o ferias anuales, la primera que se llevara a cabo en alguno de los cincuenta y ocho municipios del Estado; la segunda que se llevara a cabo en alguna de las treinta y dos entidades federativas de la república; y la tercera que será de corte internacional;
 
 VII. Proteger, racionalizar y rehabilitar en su caso, en coordinación con los propios artesanos, las fuentes de recursos naturales que se utilizan en la elaboración de artesanías;
 
@@ -153,13 +171,25 @@ I. Un Presidente, que será el Gobernador del Estado;
 
 II. Un Vicepresidente, que será el Secretario de Desarrollo Económico;
 
-III. Un Secretario, que será el Director General de la Casa de las Artesanías;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. Once vocales designados por el Presidente a propuesta del Vicepresidente de la Junta de Gobierno, los cuales representarán a cada una de las ramas de producción artesanal que se señalan en el artículo 29 de esta Ley, y
+III. Un Primer Secretario, que será el Secretario de Cultura;
 
-V. Un Contralor Interno, designado por la Contraloría General del Estado.
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-Cada uno de los miembros propietarios de la Junta, con excepción del Presidente y Vicepresidente, deberán nombrar su respectivo suplente. Las ausencias del Presidente serán cubiertas por el Vicepresidente.
+IV. Un Segundo Secretario, que será el Secretario de Turismo;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Un Secretario Técnico, que será el Director General de la Casa de las Artesanías;
+
+VI. Once vocales designados por el Presidente a propuesta del Vicepresidente de la Junta de Gobierno, los cuales representarán a cada una de las ramas de producción artesanal que se señalan en el artículo 29 de esta Ley, y
+
+VII. Un Contralor Interno, designado por la Contraloría General del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Cada uno de los miembros propietarios de la Junta deberá nombrar su respectivo suplente.
 
 ###### ARTICULO 11.
 
@@ -167,9 +197,11 @@ Los miembros de la Junta de Gobierno participarán en sus sesiones con voz y vot
 
 Los vocales de la Junta de Gobierno durarán en su cargo tres años, al término de los cuales podrán ser ratificados o removidos por acuerdo de la propia Junta de Gobierno. Los nombramientos de los miembros serán honoríficos por lo que no percibirán remuneración alguna derivada de este compromiso.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTICULO 12.
 
-La Junta de Gobierno sesionará en la forma y términos previstos en el Reglamento Interior de la Casa.
+La Junta de Gobierno sesionará al menos tres veces al año en forma cuatrimestral en la forma y términos previstos en el Reglamento Interior de la Casa.
 
 Las reuniones serán convocadas y presididas por el Presidente. En su ausencia, las convocará y presidirá el Vicepresidente.
 
@@ -586,3 +618,11 @@ P.O. 7 DE OCTUBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 736.- SE REFORMA Y ADICIONA LA LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
