@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2017-07-13"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -513,17 +515,21 @@ C. La de Protección al Medio Ambiente, que será presidida por el Presidente Mu
 
 D. Comisión de Fomento y Difusión de Derechos Humanos;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
-E. Las que con tal carácter establezca el Ayuntamiento, que serán presididas por el integrante que determine.
+E. Comisión de Atención a la Mujer;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+F. Las que con tal carácter establezca el Ayuntamiento, que serán presididas por el integrante que determine.
 
 II. Transitorias, las que el ayuntamiento establezca para la atención de problemas específicos o en situaciones eventuales, las que serán presididas por el integrante que determine.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 65.
 
-El Ayuntamiento deberá establecer en su reglamento interior las Comisiones previstas en los incisos A, B, C y D de la fracción I del artículo anterior, así como aquellas otras que en su caso establezca con el carácter de permanentes. Las de carácter transitorio las establecerá mediante el acuerdo correspondiente.
+El Ayuntamiento deberá establecer en su reglamento interior las Comisiones previstas en los apartados A, B, C, D y E de la fracción I del artículo anterior, así como aquellas otras que en su caso establezca con el carácter de permanentes. Las de carácter transitorio las establecerá mediante el acuerdo correspondiente.
 
 ###### ARTÍCULO 66.
 
@@ -1155,8 +1161,6 @@ V. Programas municipales de desarrollo urbano;
 
 VI. Programas directores de centros urbanos de población;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
 VII. Programas de trabajo, operativos, sectoriales, institucionales y especiales que se requieran para la ejecución de los planes;
@@ -1181,21 +1185,15 @@ V. Conservación del suelo, flora, fauna y reforestación;
 
 Los planes y programas deberán como mínimo contemplar:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
 I. Objetivos generales y particulares a corto, mediano y largo plazo; metas; y unidades responsables para su ejecución;
 
 II. Procedimientos para el logro de los objetivos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
 III. Alineación con los objetivos de la planeación municipal y, en su caso, con la estatal y federal;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
@@ -1203,15 +1201,11 @@ IV. Recursos requeridos para su cumplimiento y su forma de financiamiento;
 
 V. Los estudios, elementos técnicos y consideraciones en que se sustenten, en especial los relativos al aprovechamiento de los recursos humanos y naturales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
 VI. Órganos municipales responsables del seguimiento de su ejecución y evaluación del cumplimiento de los objetivos y metas;
 
 VII. Vigencia;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
@@ -1713,8 +1707,6 @@ Corresponde al Cabildo aprobar anualmente el Presupuesto de Egresos Municipal pa
 
 El Presupuesto de Egresos Municipal deberá contemplar:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
 I. Los programas en que se señalen objetivos, metas, unidades responsables para su ejecución y los recursos financieros asignados;
@@ -1728,8 +1720,6 @@ IV. Situación de la deuda pública;
 V. El catálogo de puestos y sueldos de la Administración Pública Municipal, comprendido dentro del tabulador correspondiente e incluyendo los relativos a los integrantes del Ayuntamiento y autoridades auxiliares;
 
 VI. Las reglas a las que deberá sujetarse el Ayuntamiento, las autoridades auxiliares y las dependencias y entidades de la Administración Pública Municipal en el ejercicio del gasto;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
 
@@ -2111,8 +2101,6 @@ XII. Las demás que resulten de esta ley u otros ordenamientos aplicables, así 
 
 El Bando Municipal podrá modificarse en cualquier tiempo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 188
@@ -2269,7 +2257,7 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 13 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 186 POR EL QUE "SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 43; EL PÁRRAFO PRIMERO DEL ARTÍCULO 44; LA FRACCIÓN I DEL ARTÍCULO 48; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 49; LA FRACCIÓN II DEL ARTÍCULO 106; LA FRACCIÓN II DEL ARTÍCULO 108; LA GRACCIÓN XXII DEL ARTÍCULO 124; EL PÁRRAFO PRIMERO Y LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 128; LOS ARTÍCULOS 133 Y 134; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136; EL ARTÍCULO 137; EL PÁRRAFO TERCERO DEL ARTÍCULO 141; EL PÁRRAFO PRIMERO DEL ARTÍCULO 142; LOS ARTÍCULOS 143, 145, 146, 149; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 150; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 158; LA FRACCIÓN XI DEL ARTÍCULO 188 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 125; LAS FRACCIONES XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX Y XXXI AL ARTÍCULO 128; LOS ARTÍCULOS 128 BIS, 128 TER Y 128 QUÁTER; UNA FRACCIÓN XII AL ARTÍCULO 188, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE"]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 186 POR EL QUE "SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 43; EL PÁRRAFO PRIMERO DEL ARTÍCULO 44; LA FRACCIÓN I DEL ARTÍCULO 48; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 49; LA FRACCIÓN II DEL ARTÍCULO 106; LA FRACCIÓN II DEL ARTÍCULO 108; LA FRACCIÓN XXII DEL ARTÍCULO 124; EL PÁRRAFO PRIMERO Y LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 128; LOS ARTÍCULOS 133 Y 134; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136; EL ARTÍCULO 137; EL PÁRRAFO TERCERO DEL ARTÍCULO 141; EL PÁRRAFO PRIMERO DEL ARTÍCULO 142; LOS ARTÍCULOS 143, 145, 146, 149; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 150; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 158; LA FRACCIÓN XI DEL ARTÍCULO 188 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 125; LAS FRACCIONES XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX Y XXXI AL ARTÍCULO 128; LOS ARTÍCULOS 128 BIS, 128 TER Y 128 QUÁTER; UNA FRACCIÓN XII AL ARTÍCULO 188, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE"]
 
 PRIMERO.- El presente decreto entrará en vigor el 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado.
 
@@ -2278,3 +2266,11 @@ SEGUNDO.- Los titulares de los Órganos Internos de Control de los Municipios qu
 TERCERO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, los Municipios deberán armonizar el respectivo marco reglamentario.
 
 CUARTO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 210 POR EL QUE "SE REFORMA EL APARTADO "E" Y SE ADICIONA UN APARTADO "F" A LA FRACCIÓN I DEL ARTÍCULO 64 Y SE REFORMA EL ARTÍCULO 65 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
