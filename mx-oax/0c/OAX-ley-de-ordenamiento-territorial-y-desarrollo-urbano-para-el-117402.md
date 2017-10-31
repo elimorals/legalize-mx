@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2016-10-17"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -63,6 +63,14 @@ V. Fijar las bases para vincular los criterios de conservación del medio ambien
 
 VI. Definir las bases para la participación de los sectores público, social y privado en el ordenamiento territorial y el desarrollo urbano.
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Garantizar el derecho a la ciudad a todos los habitantes de un asentamiento humano o centro de población, el acceso a la vivienda, Infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Fijar las bases de coordinación para generar estrategias de riesgo y resiliencia urbana, así como prever la asesoría y el apoyo a las autoridades municipales y ciudadanía en la materia.
+
 ###### ARTÍCULO 2.
 
 El ordenamiento territorial y el desarrollo urbano en el Estado de Oaxaca promoverán las condiciones para mejorar la calidad de vida de la población urbana y rural, mediante:
@@ -101,125 +109,167 @@ I. El ordenamiento territorial del Estado;
 
 II. La planeación y zonificación del desarrollo urbano y el ordenamiento territorial de los asentamientos humanos del Estado;
 
-III. Las acciones de fundación, crecimiento, conservación, reubicación y mejoramiento de los centros de población, necesarias para la ejecución o cumplimiento de los planes de ordenamiento territorial y de desarrollo urbano;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. Las acciones u obras necesarias para la introducción, ejecución, ampliación, prolongación, integración, funcionamiento o mantenimiento de la infraestructura para la movilidad, hidráulica, sanitaria, de energía, comunicaciones, para el cumplimiento o ejecución de los planes de ordenamiento territorial y de desarrollo urbano;
+III. Las acciones de fundación, crecimiento, conservación, reubicación y mejoramiento de los centros de población, necesarias para la ejecución o cumplimiento de los programas de ordenamiento territorial y de desarrollo urbano;
 
-V. Las acciones u obras necesarias para la dotación, construcción, conservación o mantenimiento del equipamiento administrativo, educativo, de salud, asistenciales, de recreación y abasto, de carácter público, para el cumplimiento o ejecución de los planes de ordenamiento territorial y de desarrollo urbano;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VI. Las acciones u obras necesarias para la introducción, prestación, funcionamiento o mantenimiento de los servicios públicos, equipamiento e infraestructura social, básica y productiva, para el cumplimiento o ejecución de los planes de ordenamiento territorial y de desarrollo urbano;
+IV. El fomento, impulso y ejecución de las acciones u obras necesarias para la introducción, ejecución, ampliación, prolongación, integración, funcionamiento o mantenimiento de la Infraestructura para la movilidad urbana sustentable, hidráulica, sanitaria, de energía, y comunicaciones, para el cumplimiento o ejecución de los programas de ordenamiento territorial y de desarrollo urbano;
 
-VII. Coadyuvar con las autoridades competentes en la adopción de medidas para prevenir o atender desastres;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Las acciones u obras necesarias para la dotación, construcción, conservación o mantenimiento del equipamiento administrativo, educativo, de salud, asistenciales, de recreación y abasto, de carácter público, para el cumplimiento o ejecución de los programas de ordenamiento territorial y de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Las acciones u obras necesarias para la introducción, prestación, funcionamiento o mantenimiento de los servicios públicos, equipamiento e infraestructura social, básica y productiva, para el cumplimiento o ejecución de los programas de ordenamiento territorial y de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Coadyuvar con las autoridades competentes en la adopción de medidas para prevenir o atender desastres con base en la resiliencia urbana;
 
 VIII. El financiamiento de las obras y servicios para el desarrollo urbano;
 
 IX. Las acciones u obras dirigidas a la creación de reservas territoriales para el desarrollo urbano y la vivienda y la adquisición legal de suelo para su urbanización;
 
-X. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XI. Las acciones u obras necesarias para la protección, conservación o restauración del patrimonio artístico, cultural o histórico, así como de la imagen urbana de los centros de población.
+X. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XI. Las acciones u obras necesarias para la protección, conservación o restauración del patrimonio artístico, cultural o histórico, así como de la imagen urbana de los centros de población, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XII. Las demás previstas en la Ley General de Asentamientos Humanos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Acción urbana: el proceso de aprovechamiento y acondicionamiento del territorio para el asentamiento humano, mediante la introducción o mejoramiento de infraestructura, equipamiento o servicios, así como por la fusión, subdivisión, lotificación, relotificación, parcelación, conjuntos urbanos y fraccionamientos de terrenos, edificación o construcción u otros tendientes a la transformación, uso o aprovechamiento del suelo;
+I. Acción urbanística: actos o actividades tendientes al uso o aprovechamiento del suelo dentro de áreas urbanizadas o urbanizables, tales como subdivisiones, parcelaciones, fusiones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones en general, así como de construcción, ampliación, remodelación, reparación, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que por su naturaleza están determinadas en los programas de desarrollo urbano o cuentan con los permisos correspondientes, comprende también la realización de obras de equipamiento, infraestructura o servicios urbanos;
 
-II. Área rural: superficie de suelo en estado natural o con usos agropecuarios o extractivos que no cuenta con redes de infraestructura y servicios públicos urbanos, ni usos distintos a la producción primaria;
+II. Área urbanizable: territorio para el crecimiento urbano contiguo a los límites del área urbanizada del centro de población determinado en los programas de desarrollo urbano, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión;
 
-III. Asentamiento humano: el establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
+III. Área urbanizada: territorio ocupado por los asentamientos humanos con redes de infraestructura, equipamientos y servicios;
 
-IV. Autoridad municipal: el Presidente Municipal o el funcionario que tenga asignada la atribución en los términos de las disposiciones orgánicas municipales;
+IV. Asentamiento humano: establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
-V. Centro de población: la superficie comprendida por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros, así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
+V. Autoridad municipal: integrantes del ayuntamiento o servidores públicos de los municipios del Estado, que tengan asignadas las atribuciones a que se refiere esta Ley, en los términos de las disposiciones orgánicas municipales;
 
-VI. Centros de población estratégicos: son los centros de población definidos en el Plan Estatal de Ordenamiento Territorial, que desempeñan una función primordial en el ordenamiento de los asentamientos humanos del Estado, ya sea por estar integrados en sistemas urbanos intermunicipales o porque cumplen o se prevea que cumplan funciones regionales en la prestación de servicios, en el desarrollo de las actividades productivas y en la distribución de la población;
+VI. Barrio: área urbanizada de un centro de población dotado de identidad y características propias;
 
-VII. Comisión de Zona Metropolitana o Conurbada: organismo público de carácter técnico, creado con la finalidad de conjuntar esfuerzos de coordinación y cooperación técnica dentro de su ámbito de competencia, para llevar a cabo proyectos y obras estratégicas de beneficio común;
+VII. Centro de población: superficie comprendida por las áreas urbanizadas y las que se reserven para su expansión;
 
-VIII. Conservación: La acción tendiente a mantener el equilibrio ecológico y los valores históricos y culturales, preservando el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población;
+VIII. Centros de población estratégicos: superficies comprendidas por áreas urbanizadas y las que se reserven para su expansión, las cuales tienen características de relevancia socioeconómica y se les otorga ese reconocimiento en los programas de ordenamiento territorial y desarrollo urbano;
 
-IX. Conurbación: la continuidad física y demográfica que formen o tiendan a formar dos o más centros de población localizados en dos o más municipios;
+IX. Consejo Estatal: Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano de Oaxaca;
 
-X. Corresponsable de obra: persona física con título y cédula profesional designada por un Director Responsable de Obra ante la autoridad competente, que otorga su responsiva relativa al ámbito de su intervención profesional en la ejecución de obras públicas y/o privadas.
+X. Conservación: acción tendente a preservar las zonas con valores históricos y culturales, así como proteger y mantener el equilibrio ecológico en las zonas de servicios ambientales;
 
-XI. Crecimiento urbano: la expansión física de un asentamiento humano existente;
+XI. Conurbación: continuidad física y demográfica que formen o tiendan a formar dos o más centros de población;
 
-XII. Desarrollo regional: el proceso de transformación de las condiciones económicas y sociales, determinado por decisiones de inversión y tecnología, que pretende el aprovechamiento equitativo y racional de los recursos naturales y del trabajo del hombre en su ámbito territorial. Para promoverlo, el Estado y los municipios habrán de contar con las capacidades económicas y administrativas que les permitan incidir en la distribución de la población y las actividades productivas para alcanzar mejores niveles de bienestar y progreso;
+XII. Crecimiento: acción tendente a ordenar y regular las zonas para la expansión física de los centros de población;
 
-XIII. Desarrollo territorial: es el proceso permanente que tiene como fin contribuir a mejorar el nivel de vida de la población, mediante la facilitación de la inversión productiva y la certeza jurídica, el fortalecimiento de los vínculos entre sector urbano y sector rural, la protección de los recursos naturales y la prevención de riesgos por desastres y el desarrollo de capacidades de gestión descentralizada del territorio por quienes se encuentran más cerca de él;
+XIII. Densificación: acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y, en su caso, adecuando los espacios públicos y sus infraestructuras;
 
-XIV. Desarrollo urbano: la ocupación o transformación del territorio para la realización de actividades urbanas, mediante la construcción, remodelación, mejoramiento o demolición de obras; la introducción o mejoramiento de equipamiento o infraestructura; el fraccionamiento, fusión, subdivisión, lotificación o relotificación de predios; el cambio de régimen de propiedad inmobiliaria, así como otras tendientes a la conservación o modificación del uso o aprovechamiento del suelo;
+XIV. Desarrollo metropolitano: proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas, que, por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
 
-XV. Destinos: los fines públicos a que se prevé dedicar determinadas zonas o predios de un centro de población;
+XV. Desarrollo regional: proceso de crecimiento económico en dos o más centros de población determinados, garantizando el mejoramiento de la calidad de vida de la población, la preservación del ambiente, así como la conservación y reproducción de los recursos naturales;
 
-XVI. Dictamen de congruencia: documento mediante el cual el Ejecutivo del Estado, a través de la Secretaría, revisa y resuelve sobre el contenido de un plan de ordenamiento territorial o de desarrollo urbano respecto de las disposiciones de la presente ley y las políticas y estrategias establecidas en el instrumento superior jerárquico y en el Plan Estatal de Ordenamiento Territorial;
+XVI. Desarrollo urbano: proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
-XVII. Dictamen de impacto urbano de centro de población: es el acto administrativo mediante el cual el municipio revisa y resuelve, con base a la manifestación de impacto urbano de centro de población que se le presente, la realización de proyectos de mediana y gran escala garantizando, evitando y/o minimizando los impactos generados a las características de la estructura vial, hidráulica, sanitaria, social y económica, así como de la imagen urbana existentes, en beneficio de los habitantes de un centro de población;
+XVII. Destinos: fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población o asentamiento humano;
 
-XVIII. Dictamen de impacto urbano regional: es el acto administrativo mediante el cual la Secretaría revisa y resuelve, con base a la manifestación de impacto urbano regional que se le presente, la realización de aquellas acciones urbanas públicas o privadas que por su efecto, magnitud y características modifique o altere el funcionamiento integral y eficaz de la vialidad, la infraestructura, los servicios públicos, los usos de suelo y el equipamiento urbano en dos o más municipios o en un centro de población en relación con su entorno regional;
+XVIII. Dictamen de congruencia: acto mediante el cual la Secretaría, determina si un instrumento de planeación o proyecto de infraestructura está acorde con el contenido de los programas de ordenamiento territorial y de desarrollo urbano dependiendo de su jerarquía;
 
-XIX. Director Responsable de Obra: persona física con título y cédula profesional con autorización y registro de la Secretaría, que otorga su responsiva relativa al ámbito de su intervención profesional, en la ejecución de obras públicas y privadas.
+XIX. Dictamen de impacto urbano: acto que emite la autoridad municipal competente, mediante el cual revisa y resuelve la realización de proyectos en su territorio;
 
-XX. Equipamiento urbano: conjunto de inmuebles y espacios, predominantemente de uso público, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
+XX. Dictamen de impacto urbano regional: acto que emite la Secretaría, mediante el cual revisa y resuelve, respecto de las acciones urbanísticas públicas o privadas; y que generen efectos en dos o más centros de población;
 
-XXI. Espacio público: es el conjunto de áreas, bienes y elementos que son patrimonio común y que se destinan a satisfacer las necesidades culturales, de movilidad, de acceso a un medio ambiente adecuado, de integración social y de recreación de la comunidad en los centros de población;
+XXI. Equipamiento urbano: conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
 
-XXII. Fundación: la acción de establecer un nuevo asentamiento humano;
+XXII. Espacio edificable: suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
 
-XXIII. Incorporación: es el proceso mediante el cual un predio o área urbanizable se convierte en urbanizada mediante su habilitación con servicios e infraestructura y las cesiones que para fines públicos se establecen en esta Ley, a través de alguno de los planes o acciones urbanas que la misma incluye;
+XXIII. Espacio público: conjunto de áreas, espacios abiertos, predios que son patrimonio común y que se destinan al uso, disfrute o aprovechamiento colectivo, de acceso universal y libre tránsito;
 
-XXIV. Infraestructura: las redes y sistemas de instalaciones como tuberías, ductos, canales, cables y obras complementarias necesarias para la distribución y suministro de agua potable y sus tomas domiciliarias, energía eléctrica, alumbrado público, el desalojo del drenaje sanitario de las edificaciones y el desalojo del drenaje pluvial de un centro de población o parte de él;
+XXIV. Estado: Estado Libre y Soberano de Oaxaca;
 
-XXV. Infraestructura para la movilidad: las vías públicas e instalaciones que permiten los desplazamientos de bienes y personas, necesarios para el desarrollo de las actividades en un centro de población o parte de él;
+XXV. Fundación: acción de establecer un nuevo asentamiento humano;
 
-XXVI. Licencia de uso del suelo: es el documento fundamentado técnica y legalmente, expedido por la autoridad competente mediante la cual se autoriza un uso dentro de un centro de población;
+XXVI. Gestión integral de riesgos: conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-XXVII. Licencia de construcción: es el documento expedido por los municipios, por medio del cual se autoriza a los propietarios de inmuebles para construir, ampliar, modificar, reparar o demoler una edificación o instalación de un predio;
+XXVII. Gobernanza Metropolitana: conjunto de normas y mecanismos de dirección que tienen como objeto asegurar la coordinación de los tres órdenes de gobierno y la participación social en la toma de decisiones relativas a la (sic) zonas metropolitanas y conurbadas;
 
-XXVIII. Mejoramiento: la acción tendiente a reordenar o renovar las zonas de un centro de población de incipiente desarrollo o deterioradas física o funcionalmente, así como para dar acceso legal a la tierra y dotar a los pobladores de satisfactores y servicios básicos;
+XXVIII. Incorporación: procedimiento mediante el cual un predio o Área urbanizable se convierte en urbanizada mediante su habilitación con servicios e infraestructura y las cesiones que para fines públicos se establecen en esta Ley, a través de alguno de los programas o acciones urbanísticas que la misma incluye;
 
-XXIX. Metropolización: concepto geográfico que denota el crecimiento físico, demográfico y funcional de las zonas metropolitanas o grandes ciudades que se caracterizan por su elevada complejidad;
+XXIX. Infraestructura: sistemas y redes de organización y distribución de bienes y servicios en los centros de población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión;
 
-XXX. Obras de urbanización: la construcción e introducción de infraestructura urbana, vialidad, guarniciones y banquetas, nomenclatura, habilitación y señalamiento vial, equipamiento y arbolado de los espacios públicos, plazas, parques, jardines y camellones;
+XXX. Infraestructura para la movilidad: sistemas de vías públicas e instalaciones que permiten los desplazamientos de bienes y personas, necesarios para el desarrollo de las actividades en un Centro de población o parte de él;
 
-XXXI. Ordenamiento territorial: es la herramienta de planeación para cumplir los propósitos de desarrollo territorial en el Estado de Oaxaca;
+XXXI. Instituto Catastral: Instituto Catastral del Estado de Oaxaca;
 
-XXXII. Planeación: es el proceso sistemático de elaboración de un plan. Dicha actividad consiste en o diseñar un esquema global coherente y congruente, el conjunto de acciones requeridas para alcanzar un objetivo que se sitúa en el futuro. La definición del objetivo mismo forma parte de ella;
+XXXII. Instituto Registral: Instituto de la Función Registral del Estado de Oaxaca;
 
-XXXIII. Planificación: es un proceso de toma de decisiones para alcanzar un futuro deseado, teniendo en cuenta la situación actual y los factores internos y externos que pueden influir en el logro de los objetivos;
+XXXIII. Ley: Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca;
 
-XXXIV. Planes de ordenamiento territorial y de desarrollo urbano: el conjunto de instrumentos de planeación en materia de ordenamiento territorial y de desarrollo urbano que contempla esta Ley;
+XXXIV. Ley General de Asentamientos Humanos: Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
 
-XXXV. Polígonos de actuación urbana concertada: son una modalidad en la instrumentación del desarrollo urbano que tiene por objeto planear y ejecutar de manera integral, mediante la estructuración, ordenación o reordenación de la infraestructura, la división del suelo, la zonificación y normas de usos y destinos del suelo, la ubicación de edificios y la imagen urbana de un sector territorial de un centro de población o de una región determinada por los programas de desarrollo urbano;
+XXXV. Licencia de uso del suelo: documento expedido por las autoridades municipales, mediante el cual se fundamenta técnica y legalmente la autorización de uso de suelo en un centro de población;
 
-XXXVI. Provisiones: las áreas que serán utilizadas para el crecimiento o la fundación de un centro de población;
+XXXVI. Mejoramiento: acción tendente a reordenar, renovar, consolidar y dotar de Infraestructura, equipamientos y servicios, las zonas de un centro de población de incipiente desarrollo o deteriorada física o funcionalmente, así como para dar acceso legal a la tierra y dotar a los pobladores de satisfactores y servicios básicos;
 
-XXXVII. Proyectista: persona física con título y cédula profesional, que otorga su responsiva relativa al ámbito de su intervención profesional del proyecto ejecutivo, en las obras públicas y/o privadas;
+XXXVII. Metropolización: acción de reconocer el crecimiento físico, demográfico y funcional de las zonas metropolitanas o grandes ciudades que se caracterizan por su elevada complejidad y su relevancia en materia de desarrollo urbano;
 
-XXXVIII. Proyecto ejecutivo: es un conjunto de estudios multidisciplinarios, que contiene estudios preliminares, de factibilidad, proyecto arquitectónico y de ingenierías, expresados en planos, memorias de cálculo y memorias descriptivas que crean las especificaciones para el desarrollo y correcta ejecución de una obra;
+XXXVIII. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
 
-XXXIX. Reagrupamiento parcelario: es el proceso físico y jurídico de fusión de predios comprendidos en un área determinada y su posterior subdivisión o fraccionamiento y adjudicación con el propósito de ejecutar acciones para la conservación, mejoramiento o crecimiento de los centros de población; el reagrupamiento supone una asociación voluntaria o forzosa de propietarios de predios necesarios para la ejecución de un proyecto mediante la distribución de las cargas y beneficios de sus participantes;
+XXXIX. Obras de urbanización: construcción e introducción de infraestructura urbana, vialidad, guarniciones y banquetas, nomenclatura, habilitación y señalamiento vial, equipamiento y arbolado de los espacios públicos, plazas, parques, jardines y camellones;
 
-XL. Secretaría: Secretaría de las Infraestructuras y el Ordenamiento territorial Sustentable;
+XL. Ordenamiento territorial: política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias de desarrollo socioeconómico y la preservación ambiental; a través del sistema de planeación para cumplir los propósitos de desarrollo territorial en el Estado;
 
-XLI. Senescente: persona que en razón de su avanzada edad padece disminución o limitación de sus facultades de locomoción, visión o audición;
+XLI. Patrimonio natural y cultural: sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental o de otra naturaleza, definidos y regulados por la legislación correspondiente;
 
-XLII. Servicios urbanos: las actividades públicas operativas, tales como: transporte, recolección de basura, distribución de agua, drenaje y alcantarillado, vigilancia, bomberos y otros;
+XLII. Planeación: procedimiento técnico de análisis, elección de alternativas y estrategias, para diseñar un esquema global, coherente y sistemático para la toma de decisiones, que permitirá la elaboración de los programas de ordenamiento territorial y de desarrollo urbano;
 
-XLIII. U.M.A.: Unidad de Medida y Actualización. Derivado de la desindexación del salario mínimo;
+XLIII. Polígono de actuación: área determinada en los programas de ordenamiento territorial y de desarrollo urbano, que se constituye por un conjunto de unidades espaciales delimitadas, de uno o más centros de población, identificados conforme a esta Ley, para un fin específico;
 
-XLIV. Usos del suelo: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población;
+XLIV. Programas de ordenamiento territorial y de desarrollo urbano: instrumentos que integran el Sistema Estatal de Planeación de Ordenamiento Territorial y de Desarrollo Urbano establecido en esta Ley;
 
-XLV. Zona no urbanizable: superficie de suelo en estado natural o sujeto a actividades productivas agropecuarias o extractivas, establecidas en los planes de ordenamiento territorial y de desarrollo urbano, que no deben ser utilizadas para efectos urbanos, salvo estudios que lo justifiquen por cumplir con funciones relativas al equilibrio ecológico; arqueológicas e históricas o expuestas a riesgos naturales o antropogénicos;
+XLV. Provisiones: áreas que serán utilizadas para la fundación de un centro de población;
 
-XLVI. Zona metropolitana: Grupo de dos o más municipios en los cuales se ubica una ciudad cuya área se extiende sobre los límites del municipio al cual pertenece originalmente; o un solo municipio dentro del cual se ubica totalmente una ciudad mayor de 100 mil de habitantes;
+XLVI. Proyecto ejecutivo: conjunto de planos y documentos que conforman los proyectos arquitectónicos y de ingeniería de una obra, catálogo de conceptos, factibilidad, así como la suscripción e información suficiente para que esta se pueda llevar a cabo;
 
-XLVII. Zona de reserva para el crecimiento urbano: superficie de suelo en estado natural o sujeto a actividades productivas agropecuarias o extractivas, establecidas en los planes de ordenamiento territorial y de desarrollo urbano, que tienen la factibilidad de ser urbanizadas en una etapa futura, para alojar el crecimiento de la población y sus actividades productivas;
+XLVII. Reagrupamiento de predios: fusión de predios que se puede promover para la ejecución de los programas de desarrollo urbano, a través de la integración de la propiedad de inmuebles con la finalidad de lograr un desarrollo urbano integrado;
 
-XLVIII. Zona urbana: superficie de suelo ubicada dentro de los centros de población que desempeñe una función de habitación, producción, comercio o algún otro tipo de servicio comunitario, y que forma parte del conjunto de edificaciones y trazado de calles, incluyéndose los cascos antiguos y las superficies que aun no estando edificadas han sido objeto de traza vial y urbanización con la aprobación de la autoridad competente, siempre que estén así establecidas en los planes de ordenamiento territorial y de desarrollo urbano; y
+XLVIII. Reducción de riesgos: esfuerzos sistemáticos dirigidos al análisis y a la gestión de los factores causales de los desastres, lo que incluye la reducción del grado de exposición a las amenazas, la disminución de la vulnerabilidad de la población y la propiedad, y una gestión sensata de los suelos y del medio ambiente;
 
-XLIX. Zonas de riesgo: son las superficies de suelo de un centro de población o de un municipio, identificadas como tales en los planes de ordenamiento territorial y de desarrollo urbano, que por su ubicación representan peligro, debido a factores antropogénicos o naturales, que pueden causar perjuicios a las personas o a sus bienes.
+XLIX. Reglamento: Reglamento de la Ley;
+
+L. Reservas: áreas de un centro de población que serán utilizadas para su crecimiento;
+
+LI. Resiliencia: capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
+
+LII. Secretaría: Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+
+LIII. Secretaría del Medio Ambiente: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
+
+LIV. Servicios urbanos: actividades operativas y prestaciones públicas, eficientes, de calidad, seguras y proporcionadas en condiciones de equidad, directamente por la autoridad competente o concesionada para satisfacer necesidades colectivas en los centros de población;
+
+LV. Sistema General: Sistema General de Planeación Territorial, previsto en la Ley General de Asentamientos Humanos;
+
+LVI. U.M.A.: Unidad de Medida y Actualización;
+
+LVII. Uso de suelo: fin particular a que podrán destinarse determinadas zonas o predios de un centro de población;
+
+LVIII. Zonificación: determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos de suelo y destinos, así como la delimitación de las áreas de crecimiento, conservación, consolidación y mejoramiento;
+
+LIX. Zonificación primaria: determinación de las áreas que integran y delimitan un centro de población, comprendiendo las áreas urbanizadas y áreas urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias, y
+
+LX. Zonificación secundaria: determinación de los usos de suelo en un espacio edificable y no edificable, así como la definición de los destinos específicos.
 
 ### CAPÍTULO SEGUNDO.. DE LAS AUTORIDADES
 
@@ -243,13 +293,29 @@ I. Decretar la fundación de los nuevos centros de población y/o reubicaciones,
 
 II. Establecer el régimen aplicable a los procesos de metropolización y conurbación entre centros de población de varios municipios de la propia entidad, con la participación de los municipios correspondientes;
 
-III. Aprobar el Plan Estatal de Ordenamiento Territorial, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. Participar en el ámbito de su competencia, en la definición del régimen aplicable a los procesos de conurbación entre centros de población situados en territorios municipales de dos o más entidades federativas, según la fracción VI del artículo 115 constitucional y con apego a la Ley General de Asentamientos Humanos; y
+III. Aprobar el Programa Estatal de Ordenamiento Territorial, en los términos de esta Ley;
 
-V. Las demás que le atribuyan esta Ley y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. Participar en el ámbito de su competencia, en la definición del régimen aplicable a los procesos de conurbación entre centros de población situados en territorios municipales de dos o más entidades federativas, según la fracción VI del artículo 115 constitucional y con apego a la Ley General de Asentamientos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Establecer en las leyes de la materia, mecanismos tendentes a garantizar la seguridad jurídica y la máxima transparencia en los actos de autoridad relacionados con las diferentes acciones urbanísticas, así como aquellas que permitan contribuir al financiamiento e instrumentación del Ordenamiento territorial, Desarrollo urbano y metropolitano en condiciones de equidad, para la recuperación de las inversiones públicas e incremento de valor de la propiedad inmobiliaria generado por la consolidación y el Crecimiento urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. Participar en las instancias de coordinación en los términos de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Las demás que les señalen la Ley General de Asentamientos Humanos, esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 #### Sección II. Del Poder Ejecutivo del Estado
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
@@ -257,129 +323,177 @@ Corresponde al Ejecutivo del Estado, ejercer a través de la dependencia corresp
 
 I. Establecer las políticas generales a las que se sujetará el ordenamiento territorial y la regulación del desarrollo urbano en el Estado, así como coordinar las políticas e instrumentos en materia de ordenamiento territorial y de desarrollo urbano que establece esta Ley;
 
-II. Promover ante la Legislatura del Estado la fundación de nuevos centros de población o reubicación de centros de población preexistentes, previstos en los planes de ordenamiento territorial y de desarrollo urbano;
+II. Promover ante la Legislatura del Estado la fundación de nuevos centros de población o reubicación de centros de población preexistentes, previstos en los programas de ordenamiento territorial y de desarrollo urbano;
 
-III. Someter el proyecto del Plan Estatal de Ordenamiento Territorial a la aprobación del Congreso;
+III. Someter el proyecto del Programa Estatal de Ordenamiento Territorial a la aprobación del Congreso;
 
-IV. Participar de manera conjunta y coordinada con la Federación, los estados y los municipios, en la planeación del desarrollo urbano de las conurbaciones interestatales, en los términos de lo que establece la ley General de Asentamientos Humanos;
+IV. Participar de manera conjunta y coordinada con la Federación, los Estados y los municipios, en la Planeación del Desarrollo urbano de las conurbaciones interestatales, en los términos de lo que establece la Ley General de Asentamientos Humanos;
 
-V. Participar, junto con los municipios involucrados, en la formulación, consulta, aprobación y ejecución de los planes de desarrollo urbano de las zonas metropolitanas y conurbadas interestatales;
+V. Participar, junto con los municipios involucrados en la formulación, consulta, aprobación y ejecución de los programas de desarrollo urbano de las zonas metropolitanas y conurbadas interestatales;
 
-VI. Participar en la regularización de la tenencia de la tierra urbana; en coordinación con los municipios conforme a lo previsto en la presente ley;
+VI. Participar en la regularización de la tenencia de la tierra urbana en coordinación con la Autoridad municipal, conforme a lo previsto en la presente Ley;
 
-VII. Formular los proyectos y programas emanados del Plan Estatal de Ordenamiento Territorial, los demás planes y programas, competencia del sector, así como sus respectivas propuestas de modificación y actualización, considerando la opinión emitida por el Consejo Estatal de Ordenamiento Territorial;
+VII. Formular los proyectos y programas emanados del Programa Estatal de Ordenamiento Territorial, y los demás programas, competencia del sector, así como sus respectivas propuestas de modificación y actualización, considerando la opinión emitida por el Consejo Estatal;
 
-VIII. Formular, administrar, evaluar y dar seguimiento a la aplicación del Plan Estatal de Ordenamiento Territorial;
+VIII. Formular, administrar, evaluar y dar seguimiento a la aplicación del Programa Estatal de Ordenamiento Territorial;
 
-IX. Coordinar los trabajos del Consejo Estatal de Ordenamiento Territorial del Estado de Oaxaca;
+IX. Coordinar los trabajos del Consejo Estatal;
 
-X. Promover la participación ciudadana en la elaboración, evaluación y actualización de los planes de ordenamiento territorial y de desarrollo urbano;
+X. Promover la participación ciudadana en la elaboración, evaluación y actualización de los programas de ordenamiento territorial y de desarrollo urbano;
 
 XI. Aprobar las políticas para planear y regular el ordenamiento territorial del Estado y de los asentamientos humanos en él comprendidos;
 
-XII. Definir las políticas para la fundación, conservación, reubicación, mejoramiento y crecimiento de los centros de población, así como verificar su inclusión y cumplimiento en los planes de ordenamiento territorial y de desarrollo urbano;
+XII. Definir las políticas para la fundación, conservación, reubicación, mejoramiento y crecimiento de los centros de población, así como verificar su inclusión y cumplimiento en los programas de ordenamiento territorial y de desarrollo urbano;
 
-XIII. Ejecutar y evaluar las políticas generales de desarrollo urbano y regional, en particular, las de ordenamiento territorial y de los asentamientos humanos, de dosificación de suelo, vivienda, infraestructura, equipamiento y de servicios públicos;
+XIII. Ejecutar y evaluar las políticas generales de desarrollo urbano y regional, en particular las de Ordenamiento territorial y de los asentamientos humanos, de dosificación de suelo, vivienda, Infraestructura, equipamiento y de servicios públicos;
 
-XIV. Prever el ordenamiento territorial del Estado y planear el desarrollo urbano de los asentamientos humanos en él comprendidos, con apego a las disposiciones legales en materia de asentamientos humanos, medio ambiente y protección civil, además de considerar la composición pluricultural étnica en el Estado;
+XIV. Prever el ordenamiento territorial del Estado y planear el desarrollo urbano de los asentamientos humanos en él comprendidos, con apego a las disposiciones legales en materia de asentamientos humanos, medio ambiente, protección civil, y las normas oficiales mexicanas, además de considerar la composición pluricultural étnica en el Estado;
 
-XV. Elaborar y ejecutar en coordinación con los municipios correspondientes, los planes de centros de población estratégicos, así considerados por el Plan Estatal de Ordenamiento Territorial, que estén integrados en sistemas urbanos intermunicipales o que cumplan funciones regionales en materia de ordenamiento territorial y de desarrollo urbano;
+XV. Elaborar y ejecutar en coordinación con los municipios correspondientes, los programas de Centros de Población Estratégicos, así considerados por el Programa Estatal de Ordenamiento Territorial, que estén integrados en sistemas urbanos intermunicipales o que cumplan funciones regionales en materia de ordenamiento territorial y de desarrollo urbano;
 
-XVI. Verificar y dictaminar la congruencia entre los distintos planes y programas con el Plan Estatal de Ordenamiento Territorial, así como evaluar el cumplimiento de los planes que integran el Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano;
+XVI. Verificar y dictaminar la congruencia entre los distintos programas con el Programa Estatal de Ordenamiento Territorial, así como evaluar el cumplimiento de los programas que integran el Sistema Estatal de Planeación del Ordenamiento Territorial y de Desarrollo Urbano;
 
-XVII. Proteger, vigilar y preservar en coordinación con las autoridades federales competentes y los municipios respectivos, las zonas, sitios y edificaciones que signifiquen para la comunidad un testimonio valioso de su historia y su cultura;
+XVII. Proteger, vigilar y preservar en coordinación con las autoridades federales competentes y la Autoridad municipal respectiva, las zonas, sitios y edificaciones que signifiquen para la comunidad un testimonio valioso de su historia y su cultura;
 
-XVIII. Opinar con base en los planes y programas de Ordenamiento Territorial y de Desarrollo Urbano, con respecto al uso y destino el suelo, a solicitud de la autoridad municipal, respecto a las obras relativas a la explotación de minas, bancos de materiales, generación de energía alternativa y convencional;
+XVIII. Opinar con respecto al uso y destino del suelo con base en los Programas de ordenamiento territorial y de desarrollo urbano, a solicitud de la Autoridad municipal, respecto a las obras relativas a la explotación de minas, bancos de materiales, generación de energía alternativa y convencional;
 
-XIX. Dictaminar, en su caso, por causa de utilidad pública la apertura, prolongación, ampliación o cualquier modificación de una vía pública, a solicitud de la autoridad competente en los términos de la presente Ley y de sus reglamentos;
+XIX. Dictaminar, en su caso, por causa de utilidad pública la apertura, prolongación, ampliación o cualquier modificación de una vía pública, a solicitud de la autoridad competente en los términos de la presente Ley y de su Reglamento;
 
-XX. Definir los lineamientos y procedimientos para la atención de asentamientos humanos irregulares, en coordinación con la autoridad municipal, conforme a lo previsto en la presente Ley y demás normas aplicables;
+XX. Definir los lineamientos y procedimientos para la atención de asentamientos humanos irregulares, en coordinación con la Autoridad municipal, conforme a lo previsto en la presente Ley y demás normas aplicables;
 
-XXI. Promover y participar en la realización de obras de infraestructura, equipamiento y en la dotación de servicios públicos en el Estado, sujetándose a las disposiciones de los planes de ordenamiento territorial y de desarrollo urbano;
+XXI. Promover y participar en la realización de obras de Infraestructura, equipamiento y en la dotación de servicios públicos en el Estado, sujetándose a las disposiciones de los Programas de ordenamiento territorial y de desarrollo urbano;
 
-XXII. Promover ante la autoridad federal competente la expropiación de los bienes ejidales o comunales y, el uso y destino de inmuebles de propiedad federal que fueren necesarios para la realización de acciones de ordenamiento territorial y de desarrollo urbano;
+XXII. Promover ante la autoridad federal competente la expropiación de los bienes ejidales o comunales y, el uso y destino de inmuebles de propiedad federal que fueren necesarios para la realización de acciones de Ordenamiento territorial y de Desarrollo urbano;
 
-XXIII. Fomentar la participación concertada de los sectores público, social y privado en el ordenamiento territorial y el desarrollo urbano de la entidad;
+XXIII. Fomentar la participación concertada de los sectores público, social y privado en el Ordenamiento territorial y el Desarrollo urbano del Estado;
 
-XXIV. Vigilar el cumplimiento de las disposiciones de la presente Ley y elaborar sus reglamentos, así como la revisión y actualización de los mismos;
+XXIV. Vigilar el cumplimiento de las disposiciones de la presente Ley y emitir la reglamentación correspondiente, así como la revisión y actualización de la misma;
 
-XXV. Apoyar y asesorar a los municipios que lo soliciten en la administración urbana, en la formulación de sus planes de ordenamiento territorial y de desarrollo urbano y reglamentos municipales en las materias que regula la presente Ley;
+XXV. Apoyar y asesorar a las autoridades municipales que lo soliciten en la administración urbana, en la formulación de sus Programas de ordenamiento territorial y de desarrollo urbano, así como de los reglamentos municipales en las materias que regula la presente Ley;
 
-XXVI. Hacer las proposiciones que se estimen pertinentes para la actualización del Plan Nacional de Desarrollo y de los Programas Nacionales que en la materia de ordenamiento territorial, desarrollo urbano y vivienda corresponda;
+XXVI. Hacer las proposiciones que se estimen pertinentes para la actualización del Plan Nacional de Desarrollo y de los programas nacionales que en la materia de Ordenamiento territorial, Desarrollo urbano y vivienda corresponda;
 
-XXVII. Coordinarse con la Federación, otras entidades federativas y con sus municipios, en la planeación y regulación del ordenamiento territorial y el desarrollo urbano de los centros de población;
+XXVII. Coordinarse con la Federación, otras entidades federativas y con sus municipios, en la Planeación y regulación del Ordenamiento territorial y el Desarrollo urbano de los centros de población.
 
-XXVIII. Participar en la celebración de convenios con la Federación, otras entidades federativas y los municipios del Estado, para el cumplimiento de los objetivos y metas en materia de ordenamiento territorial y de desarrollo urbano que establezca el Plan Estatal de Ordenamiento Territorial y esta Ley;
+Así como para la ejecución de acciones, obras e inversiones en materia de Infraestructura, equipamiento y Servicios urbanos, incluyendo las relativas a la Movilidad y a la accesibilidad universal;
 
-XXIX. Elaborar las declaratorias de zonas metropolitanas y zonas conurbadas intermunicipales, y coordinarse con la federación y otras entidades federativas en la elaboración de las interestatales;
+XXVIII. Participar en la celebración de convenios con la Federación, otras Entidades Federativas y los municipios del Estado, para el cumplimiento de los objetivos y metas en materia de Ordenamiento territorial y de Desarrollo urbano que establezca el Programa Estatal de Ordenamiento Territorial y esta Ley;
+
+XXIX. Participar en la Planeación y regulación de las zonas metropolitanas y conurbadas, en los términos previstos en la Ley General de Asentamientos Humanos;
 
 XXX. Evaluar las manifestaciones de impacto urbano regional, y emitir las resoluciones correspondientes, de acuerdo con esta Ley;
 
 XXXI. Promover, evaluar y vigilar la observancia de la planeación urbana del Estado, en los términos de la presente Ley y demás disposiciones relativas;
 
-XXXII. Formular, conducir e instrumentar la política integral de suelo y reservas territoriales para el desarrollo urbano en el Estado, en coordinación con otras autoridades estatales y municipales competentes, así como promover, impulsar y coordinar los esfuerzos de las diferentes instituciones de los sectores público, social y privado, en la ejecución de acciones que promuevan la disposición, habilitación y financiamiento de suelo apto y oportuno para los distintos usos y necesidades urbanos;
+XXXII. Formular, conducir e instrumentar la política integral de suelo y reservas territoriales para el Desarrollo urbano en el Estado, en coordinación con otras autoridades estatales y municipales competentes, así como promover, impulsar y coordinar los esfuerzos de las diferentes instituciones de los sectores público, social y privado, en la ejecución de acciones que promuevan la disposición, habilitación y financiamiento de suelo apto y oportuno para los distintos usos y necesidades urbanas;
 
-XXXIII. Participar con las autoridades municipales en la emisión de dictámenes y opiniones en los términos de la Ley Agraria, para la incorporación de suelo ejidal o comunal al ordenamiento territorial y al desarrollo urbano, asegurando la congruencia de dichas incorporaciones con lo dispuesto en los programas de desarrollo urbano;
+XXXIII. Participar con las autoridades municipales en la emisión de dictámenes y opiniones en los términos de la Ley Agraria, para la incorporación de suelo ejidal o comunal al Ordenamiento territorial y al Desarrollo urbano, asegurando la congruencia de dichas incorporaciones con lo dispuesto en los programas de desarrollo urbano;
 
-XXXIV. Promover ante la instancia correspondiente o imponer, en su caso, las medidas de seguridad y sanciones administrativas a los infractores de las disposiciones jurídicas y de los planes de ordenamiento territorial y de desarrollo urbano, conforme lo prevea la presente Ley, las leyes relativas en la materia y sus reglamentos;
+XXXIV. Promover ante la instancia correspondiente o imponer, en su caso, las medidas de seguridad y sanciones administrativas a los infractores de las disposiciones jurídicas y de los Programas de ordenamiento territorial y de desarrollo urbano, conforme lo prevea la presente Ley, las leyes relativas en la materia y sus reglamentos;
 
-XXXV. Formular, administrar y actualizar un Sistema de Información y Evaluación del Ordenamiento Territorial y el Desarrollo Urbano del Estado de Oaxaca;
+XXXV. Formular, administrar y actualizar un Sistema de Información y Evaluación del Ordenamiento Territorial y el Desarrollo Urbano del Estado;
 
-XXXVI. Autorizar el registro, clasificación, revalidación o refrendo y reclasificación de los Directores Responsables de Obra en el Estado previa opinión de la Comisión de Admisión de Directores Responsables de Obra, el cual será válido en todo el Estado; para tal efecto, integrará el padrón estatal correspondiente;
+XXXVI. Autorizar el registro, clasificación, revalidación o refrendo y reclasificación de los Directores Responsables de Obra en el Estado previa opinión de la Comisión de Admisión de Directores Responsables de Obra, el cual será válido en todo el Estado; para tal efecto, se integrará el padrón estatal correspondiente;
 
-XXXVII. Celebrar con las autoridades estatales y municipales competentes, los convenios necesarios en la ejecución de los planes de ordenamiento territorial y de desarrollo urbano, que deban realizarse en el ámbito de los respectivos municipios; y
+XXXVII. Celebrar con las autoridades estatales y municipales competentes, los convenios necesarios en la ejecución de los programas de ordenamiento territorial y de desarrollo urbano, que deban realizarse en el ámbito de los respectivos municipios;
 
-XXXVIII. Las demás que le otorguen la presente Ley y demás disposiciones jurídicas en la materia.
+XXXVIII. Promover el cumplimiento y la efectiva protección de derechos humanos relacionados con el ordenamiento territorial y desarrollo urbano;
+
+XXXIX. Inscribir en el Instituto Registral, a petición de parte, los Programas Municipales de Desarrollo Urbano, Reservas, Usos de Suelo y Destinos de Áreas y Predios, si cumplen con el requisito de congruencia respecto a la planeación estatal y federal;
+
+XL. Participar en la constitución y administración de reservas territoriales, la dotación de Infraestructura, equipamiento y Servicios urbanos, conforme a la legislación federal y local;
+
+XLI. Participar en las instancias de coordinación metropolitana;
+
+XLII. Apoyar a los municipios que lo soliciten, en la administración de los servicios públicos municipales, en los términos de las leyes aplicables;
+
+XLIII. Evaluar y dar seguimiento al impacto territorial de obras y proyectos que generen efectos en el territorio de uno o más municipios del Estado de que se trate;
+
+XLIV. Prevenir y evitar la ocupación por asentamientos humanos en zonas de alto riesgo, de conformidad con los atlas de riesgo y en los términos de la legislación aplicable;
+
+XLV. Atender las consultas de las autoridades municipales sobre la apropiada congruencia, coordinación y ajuste de sus programas municipales en materia de ordenamiento territorial y de desarrollo urbano;
+
+XLVI. Crear mecanismos de participación social para la formulación, modificación y evaluación en materia de Ordenamiento territorial, Desarrollo urbano y los que de ellos emanen de conformidad con lo dispuesto en esta Ley;
+
+XLVII. Proponer y ejecutar acciones para prevenir y mitigar el riesgo de los asentamientos humanos y aumentar la Resiliencia de los mismos, ante fenómenos naturales y antropogénicos;
+
+XLVIII. Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos;
+
+XLIX. Conservar los expedientes y brindar acceso a la información relativa al Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como de su ejecución y evaluación, ya sea de forma física, electrónica o a través de sitios web;
+
+L. Capacitar a las autoridades estatales o municipales, así como a la sociedad en general en los temas relacionados a los asentamientos humanos, Ordenamiento territorial y Desarrollo urbano;
+
+LI. Recibir y dar el trámite correspondiente a las denuncias ciudadanas, así como promover observatorios ciudadanos, y
+
+LII. Las demás que le otorguen la presente Ley y las disposiciones jurídicas en la materia.
 
 #### Sección III. De los municipios
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-Los municipios del Estado, tendrán en materia de ordenamiento territorial y de desarrollo urbano, las facultades y obligaciones siguientes:
+Los municipios del Estado, tendrán en materia de Ordenamiento territorial y de Desarrollo urbano, las facultades y obligaciones siguientes:
 
-I. Formular, aprobar y administrar los planes de ordenamiento territorial y de desarrollo urbano de su competencia, de acuerdo a los lineamientos establecidos en esta Ley, el Plan Estatal de Ordenamiento Territorial y las demás disposiciones aplicables;
+I. Formular, aprobar y administrar los Programas de ordenamiento territorial y de desarrollo urbano de su competencia, de acuerdo a los lineamientos establecidos en esta Ley, el Programa Estatal de Ordenamiento Territorial y las demás disposiciones jurídicas aplicables;
 
-II. Administrar la zonificación contenida en planes de ordenamiento territorial y de desarrollo urbano de su competencia, así como controlar, autorizar, administrar y vigilar la utilización del suelo, usos, destinos, provisiones y reservas en sus jurisdicciones territoriales, de conformidad con las disposiciones de esta Ley, el Plan Estatal de Ordenamiento Territorial y las demás disposiciones aplicables;
+II. Administrar la Zonificación contenida en Programas de ordenamiento territorial y de desarrollo urbano de su competencia, así como controlar, autorizar, administrar y vigilar la utilización del suelo, usos, Destinos, Provisiones y Reservas en sus jurisdicciones territoriales, de conformidad con las disposiciones de esta Ley, el Programa Estatal de Ordenamiento Territorial y las demás disposiciones jurídicas aplicables;
 
-III. Enviar los planes y programas a que se refiere la fracción anterior al Ejecutivo del Estado, para su publicación en el periódico oficial del gobierno del Estado e inscripción en el Registro Público de la Propiedad, previa la verificación y dictamen de congruencia que al efecto emita la Secretaría;
+III. Enviar los programas a que se refiere la fracción I del presente artículo al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca e inscripción en el Instituto Registral, previa verificación y Dictamen de congruencia que al efecto emita la Secretaría;
 
-IV. Evaluar, vigilar el cumplimiento y modificar, en su caso, el cumplimiento de los planes de ordenamiento territorial y de desarrollo urbano aplicables en su jurisdicción de conformidad con la presente Ley;
+IV. Evaluar, vigilar el cumplimiento y modificar, en su caso, los Programas de ordenamiento territorial y de desarrollo urbano aplicables en su jurisdicción de conformidad con la presente Ley;
 
-V. Elaborar y ejecutar en coordinación con el Ejecutivo del Estado en su caso, los planes de centros de población estratégicos aplicables dentro de su jurisdicción.
+V. Elaborar y ejecutar en coordinación con el Ejecutivo del Estado, en su caso, los programas de Centros de población estratégicos aplicables dentro de su jurisdicción;
 
-VI. Evaluar las manifestaciones de impacto urbano de centro de población, y emitir las resoluciones correspondientes, de acuerdo con esta ley;
+VI. Evaluar las manifestaciones de impacto urbano del Centro de población, y emitir las resoluciones correspondientes, de acuerdo con esta Ley;
 
-VII. Formar parte de las comisiones de zonas metropolitanas y conurbadas propuestas y participar en forma concurrente y coordinada con el Estado, en la elaboración de los planes correspondientes, aplicables dentro de su jurisdicción; así como en su evaluación y modificación, en su caso, de conformidad con lo establecido por la presente Ley;
+VII. Formar parte de las comisiones de zonas metropolitanas y conurbadas propuestas, y participar en forma concurrente y coordinada con el Estado, en la elaboración de los programas correspondientes, aplicables dentro de su jurisdicción; así como en su evaluación y modificación, en su caso, de conformidad con lo establecido por la presente Ley;
 
-VIII. Formar parte de las comisiones de conurbación interestatal y participar en la planeación y regulación de las mismas en los términos previstos por la Ley General de Asentamientos Humanos y la presente Ley;
+VIII. Formar parte de las comisiones de conurbación interestatal y participar en la Planeación y regulación de las mismas, en los términos previstos por la Ley General de Asentamientos Humanos y la presente Ley;
 
-IX. Prever coordinadamente con el Gobierno del Estado, lo referente a inversiones y acciones que tiendan a la conservación, reubicación, mejoramiento y crecimiento de los centros de población, de conformidad con los planes de ordenamiento territorial y de desarrollo urbano que administren;
+IX. Prever coordinadamente con el Gobierno del Estado, lo referente a inversiones y acciones que tiendan a la Conservación, reubicación, Mejoramiento y Crecimiento de los centros de población, de conformidad con los Programas de ordenamiento territorial y de desarrollo urbano que administren;
 
-X. Proponer y solicitar al poder Ejecutivo para su autorización, la fundación de centros de población dentro de los límites de su jurisdicción, cuando sea necesario y en casos extraordinarios, de desastres naturales y/o antropogénicos la reubicación previo (sic) dictámenes correspondientes;
+X. Proponer y solicitar al Poder Ejecutivo para su autorización, la Fundación de centros de población dentro de los límites de su jurisdicción, cuando sea necesario y, en casos extraordinarios de desastres naturales y/o antropogénicos, la reubicación previo dictámenes correspondientes;
 
-XI. Celebrar con el Gobierno del Estado y con otros municipios de la Entidad, los convenios necesarios en la ejecución de los planes o programas de ordenamiento territorial y de desarrollo urbano, que deban realizarse en el ámbito de los respectivos municipios;
+XI. Celebrar con el Gobierno del Estado y con otros municipios de la Entidad, los convenios necesarios en la ejecución de los Programas de ordenamiento territorial y de desarrollo urbano, que deban realizarse en el ámbito de los respectivos municipios;
 
-XII. Coordinarse y asociarse con otros municipios del Estado, para la prestación de los servicios públicos que le correspondan;
+XII. Coordinarse y asociarse con otros municipios del Estado para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de los servicios públicos comunes, atendiendo a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables;
 
-XIII. Otorgar o negar las autorizaciones y licencia municipal de uso de suelo, en los términos que prevea la presente Ley y la reglamentación respectiva;
+XIII. Otorgar o negar las autorizaciones y Licencias de uso de suelo, en los términos que prevea la presente Ley y la reglamentación respectiva;
 
-XIV. Otorgar o negar las autorizaciones y licencias de; construcción, condominios, conjuntos, fraccionamientos, subdivisiones, fusiones y relotificaciones, de acuerdo con lo previsto por la presente Ley, los reglamentos y los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor;
+XIV. Otorgar o negar las autorizaciones y licencias de construcción, condominios, conjuntos, fraccionamientos, subdivisiones, fusiones y relotificaciones, de acuerdo con lo previsto por la presente Ley, su reglamentación respectiva y los Programas de ordenamiento territorial y de desarrollo urbano vigentes;
 
-XV. Intervenir en la atención de asentamientos humanos irregulares, en los términos de la presente Ley y demás ordenamientos aplicables;
+XV. Intervenir en la atención, prevención y solución de los asentamientos humanos irregulares de conformidad con los programas de desarrollo urbano y de zonas metropolitanas y conurbaciones, en el marco de los derechos humanos, en los términos de la presente Ley y demás ordenamientos aplicables;
 
-XVI. Participar en la creación, manejo y administración de sus reservas territoriales para el desarrollo urbano y la vivienda, y de sus zonas de reserva ecológica, de conformidad con lo previsto por la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Amiente, la Ley de (sic) Equilibrio Ecológico del Estado, la Ley de Vivienda, los reglamentos y los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor;
+XVI. Participar en la creación, manejo y administración de sus reservas territoriales para el Desarrollo urbano y la vivienda, y de sus zonas de reserva ecológica, de conformidad con lo previsto por la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley del Equilibrio Ecológico del Estado de Oaxaca, la Ley de Vivienda para el Estado de Oaxaca, los reglamentos y Programas de ordenamiento territorial y de desarrollo urbano vigentes;
 
-XVII. Promover ante la autoridad federal competente la expropiación de los bienes privados, ejidales o comunales; el uso y destino de inmuebles de propiedad federal que fueren necesarios para la realización de acciones de ordenamiento territorial y de desarrollo urbano;
+XVII. Promover ante la autoridad federal competente la expropiación de los bienes privados, ejidales o comunales; el uso y Destino de inmuebles de propiedad federal que fueren necesarios para la realización de acciones de Ordenamiento territorial y de Desarrollo urbano;
 
-XVIII. Controlar y vigilar que la utilización del suelo en sus jurisdicciones territoriales sea acorde a los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor, y en su caso, adoptar y ejecutar las medidas de seguridad, infracciones y sanciones a que se refiere la presente Ley;
+XVIII. Controlar y vigilar que la utilización del suelo en sus jurisdicciones territoriales sea acorde a los Programas de ordenamiento territorial y de desarrollo urbano en vigor, y en su caso, adoptar y ejecutar las medidas de seguridad, infracciones y sanciones a que se refiere la presente Ley;
 
-XIX. Expedir los reglamentos y disposiciones administrativas que fueren necesarias para dar operatividad a sus planes de ordenamiento territorial y de desarrollo urbano municipales y de centros de población;
+XIX. Expedir los reglamentos y disposiciones administrativas que fueren necesarias para dar operatividad a sus Programas de ordenamiento territorial y de desarrollo urbano municipales y de centros de población;
 
-XX. Gestionar la participación de los sectores representativos de la sociedad organizada que tengan relación con el tema, en la elaboración y operación de los planes o programas de ordenamiento territorial y de desarrollo urbano, en la protección del patrimonio cultural y natural así como en la prevención, control y atención de riesgos y contingencias ambientales;
+XX. Gestionar la participación de los sectores representativos de la sociedad organizada que tengan relación con el tema, en la elaboración y operación de los Programas de ordenamiento territorial y de desarrollo urbano, en la protección del Patrimonio cultural y natural, así como en la prevención, control y atención de riesgos y contingencias ambientales;
 
-XXI. Informar y difundir el contenido, regulaciones, evaluación de su cumplimiento y ejecución de los planes de ordenamiento territorial y de desarrollo urbano; y
+XXI. Difundir anualmente a la ciudadanía información sobre la aplicación y ejecución de los programas de desarrollo urbano;
 
-XXII. Las demás que les otorguen la presente Ley y otras disposiciones jurídicas aplicables en la materia.
+XXII. Validar ante la Secretaría, la apropiada congruencia, coordinación y ajuste de sus Programas Municipales de Desarrollo Urbano, con apego a lo establecido en el artículo 115, fracción V de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXIII. Solicitar la incorporación de los programas de Desarrollo urbano y sus modificaciones en el Sistema de Información y Evaluación del Ordenamiento Territorial y el Desarrollo Urbano del Estado, a cargo de la Secretaría;
+
+XXIV. Intervenir en la regulación de la tenencia de la tierra urbana, de conformidad con los programas de desarrollo urbano y de Reservas, usos del suelo y Destinos de áreas y predios, y de conformidad con la legislación aplicable;
+
+XXV. Crear mecanismos de participación social para la formulación, modificación y evaluación de los Programas Municipales de Desarrollo Urbano y los que de ellos emanen, de conformidad con lo dispuesto en esta Ley;
+
+XXVI. Proponer y ejecutar acciones para prevenir y mitigar el riesgo de los asentamientos humanos y aumentar la Resiliencia de los mismos, ante fenómenos naturales y antropogénicos;
+
+XXVII. Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos, debiendo asegurarse, previamente a la expedición de las autorizaciones para el uso, edificación o aprovechamiento urbano, del cumplimiento de las normas para uso de suelo y custodia del Espacio público, en particular, las afectaciones y Destinos para la construcción de infraestructura vial, equipamientos y otros servicios de carácter urbano y metropolitano de carácter público;
+
+XXVIII. Conservar los expedientes y brindar acceso a la información en materia de Ordenamiento territorial, Desarrollo urbano y demás procedimientos relacionados, su ejecución y evaluación, ya sea de forma física, electrónica o a través de sitios web;
+
+XXIX. Recibir y dar el trámite correspondiente a las denuncias ciudadanas, así como promover observatorios ciudadanos, y
+
+XXX. Las demás que le otorguen la presente Ley, su Reglamento y demás disposiciones jurídicas en la materia.
 
 ## TÍTULO SEGUNDO.. DEL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
 
@@ -389,13 +503,17 @@ XXII. Las demás que les otorguen la presente Ley y otras disposiciones jurídic
 
 El Ordenamiento Territorial tiene como objetivo articular las políticas, programas, obras, acciones e inversiones de los diversos sectores de la administración pública estatal y municipal, sobre el territorio del Estado, atendiendo las características geográficas y del etnodesarrollo, a fin de asegurar su congruencia, hacer más eficiente el gasto público y orientar las inversiones de los sectores privado y social.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-El Ordenamiento Territorial del Estado de Oaxaca se instrumentará a partir del Plan Estatal de Ordenamiento Territorial y los acuerdos tomados en el Consejo Estatal de Ordenamiento Territorial.
+El Ordenamiento Territorial del Estado se instrumentará a partir del Programa Estatal de Ordenamiento Territorial y los acuerdos tomados en el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-Los principios rectores del Ordenamiento Territorial son: sustentabilidad, concurrencia, subsidiariedad, inclusión, equidad social y territorial, diversidad, prospectiva, flexibilidad, asociatividad, desarrollo económico y buen gobierno.
+Los principios rectores del ordenamiento territorial y desarrollo urbano son: sustentabilidad ambiental, concurrencia, subsidiariedad, inclusión, equidad social y territorial, diversidad, prospectiva, flexibilidad, asociatividad, desarrollo económico, buen gobierno, derecho a la ciudad, derecho a la propiedad urbana, coherencia y racionalidad, participación democrática y transparencia, productividad y eficiencia, protección y progresividad del Espacio público, resiliencia, seguridad urbana y riesgos, y accesibilidad universal y movilidad.
 
 ###### ARTÍCULO 12.
 
@@ -415,105 +533,141 @@ VI. Vivienda;
 
 VII. Infraestructura y obras públicas;
 
-VIII. Riesgo y vulnerabilidad; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Riesgo, vulnerabilidad y resiliencia;
 
 IX. Desarrollo económico.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+X. Accesibilidad universal y movilidad;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XI. Participación ciudadana, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XII. Protección y rescate al espacio público.
 
 ### CAPÍTULO SEGUNDO.. DEL SISTEMA ESTATAL DE PLANEACIÓN DEL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
 
 #### Sección I. Integración del sistema estatal de planeación del ordenamiento territorial y el desarrollo urbano
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-El ordenamiento y regulación de los asentamientos humanos en el Estado se efectuará a través del sistema estatal de ordenamiento territorial y de desarrollo urbano, el cual está integrado por:
+El ordenamiento y regulación de los asentamientos humanos en el Estado se efectuará a través del Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, el cual está integrado con:
 
-I. Los instrumentos de planeación del ordenamiento territorial, que son:
+I. Los instrumentos de Planeación del Ordenamiento territorial, son:
 
-a. El Plan Estatal de Ordenamiento Territorial;
+a. El Programa Estatal de Ordenamiento Territorial;
 
-b. los Planes Regionales de Ordenamiento Territorial;
+b. Los Programas Regionales de Ordenamiento Territorial, y
 
-c. los Planes Subregionales de Ordenamiento Territorial; y
+c. Los Programas Municipales de Ordenamiento Territorial.
 
-d. Los Planes Municipales de Ordenamiento Territorial.
+II. Las instancias de coordinación interinstitucional para el Ordenamiento territorial y el Desarrollo urbano, está conformada por:
 
-II. La instancia de coordinación interinstitucional para el ordenamiento territorial que está conformada por el Consejo Estatal de Ordenamiento Territorial;
+a) El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
-III. Los instrumentos de planeación del desarrollo urbano, que son:
+b) La Comisión de Zonas Metropolitanas y Conurbadas;
 
-a. Los planes de ordenación de zonas metropolitanas y conurbadas;
+c) El Consejo Consultivo de Desarrollo Metropolitano, y
 
-b. Los planes de desarrollo urbano de centros de población estratégicos;
+d) El Consejo Municipal de Desarrollo Urbano.
 
-c. Los planes de desarrollo urbano de centros de población;
+III. Los instrumentos de Planeación del Desarrollo urbano, son:
 
-d. Los planes parciales de desarrollo urbano; y
+a. Los Programas de Zonas Metropolitanas y Conurbadas;
 
-e. Los esquemas de desarrollo urbano.
+b. Los Programas Municipales de Desarrollo Urbano y de Centros de Población;
 
-Los planes regionales, subregionales a que se refiere este artículo podrán o no formularse en función de lo que disponga el Plan Estatal de Ordenamiento Territorial y los acuerdos que al respecto se tomen en el Consejo Estatal de Ordenamiento Territorial.
+c. Los Programas Parciales de Desarrollo Urbano, y
 
-El Plan Estatal de Ordenamiento Territorial establecerá aquellos municipios que por sus características urbanas, geográficas, socioeconómicas o demográficas, deban contar con plan municipal de ordenamiento territorial.
+d. Los Esquemas Simplificados de Desarrollo Urbano.
 
-Los planes y disposiciones antes mencionados deberán observar la congruencia a que se refiere el artículo 14 de esta Ley.
+Los municipios que cuenten con características urbanas, geográficas, socioeconómicas o demográficas, deberán contar con un programa municipal de ordenamiento territorial.
+
+Los programas y disposiciones antes mencionados, deberán contar con el Dictamen de congruencia a que se refiere esta Ley.
 
 #### Sección II. De la articulación y congruencia con otros sistemas de planeación
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
-Las dependencias y entidades de la administración pública estatal y municipal, que en ejercicio de las disposiciones legales aplicables les corresponda la formulación de planes y programas en las materias a que se refiere el artículo 13, considerarán los siguientes criterios:
+Las dependencias y entidades de la administración pública estatal y municipal, que en ejercicio de las disposiciones legales aplicables les corresponda la formulación de programas en las materias a que se refiere el artículo 13 de esta Ley, considerarán los criterios siguientes:
 
-I. Deberán observar y tomar en cuenta las determinaciones del Plan Estatal de Ordenamiento Territorial a efecto de asegurar que las propuestas que se formulen sean congruentes con la orientación territorial que disponga el citado Plan Estatal de Ordenamiento Territorial;
+I. Deberán observar y tomar en cuenta las determinaciones del Programa Estatal de Ordenamiento Territorial a efecto de asegurar que las propuestas que se formulen sean congruentes con la orientación territorial que dispone el Sistema General;
 
-II. Cuando dichos planes y programas impliquen como consecuencia de su aplicación la realización de obras, acciones o inversiones concretas, deberá verificarse que las mismas sean congruentes con el Plan Estatal de Ordenamiento Territorial y que, por lo tanto, no afecten la sustentabilidad ambiental y urbana del territorio estatal;
+II. Cuando dichos programas impliquen como consecuencia de su aplicación la realización de obras, acciones o inversiones concretas, deberán verificarse que las mismas sean congruentes con el Programa Estatal de Ordenamiento Territorial, y que por lo tanto, no afecten la sustentabilidad ambiental y urbana del territorio estatal;
 
-III. Se evitará que como consecuencia de su aplicación se vean trastocados los criterios de ordenamiento territorial que al efecto disponga el Plan Estatal de Ordenamiento Territorial, específicamente se evitará proponer programas, proyectos, obras, acciones e inversiones en zonas no aptas para ello debido a razones de preservación ecológica y de valor histórico, ordenamiento urbano o riesgo;
+III. Se evitará que como consecuencia de su aplicación se vean trastocados los criterios de Ordenamiento territorial que al efecto disponga el Programa Estatal de Ordenamiento Territorial, específicamente se evitará proponer programas, proyectos, obras, acciones e inversiones en zonas no aptas para ello, debido a razones de preservación ecológica y de valor histórico, ordenamiento urbano o riesgo;
 
-IV. Se tenderá a que los programas, proyectos, obras, acciones e inversiones se lleven a cabo en las zonas adecuadas del territorio estatal y con las prioridades que señale el Plan Estatal de Ordenamiento Territorial; y
+IV. Se tenderá a que los programas, proyectos, obras, acciones e inversiones se lleven a cabo en las zonas adecuadas del territorio estatal y con las prioridades que señale el Programa Estatal de Ordenamiento Territorial, y
 
-V. Se promoverá que los programas, acciones e inversiones que promuevan el desarrollo de proyectos a cargo de los sectores privado y social, se ubiquen en las zonas adecuadas del territorio estatal y con las prioridades que señale el Plan Estatal de Ordenamiento Territorial.
+V. Se promoverá que los programas, acciones e inversiones que promuevan el desarrollo de proyectos a cargo de los sectores privado y social, se ubiquen en las zonas adecuadas del territorio estatal y con las prioridades que señale el Programa Estatal de Ordenamiento Territorial. Para el cumplimiento de este artículo, la Secretaría resolverá lo conducente, y en su caso, solicitará la opinión del Consejo Estatal sobre las consultas que le sean presentadas.
 
-Para el cumplimiento de este artículo, la Secretaria resolverá lo conducente, y en su caso solicitará la opinión del Consejo Estatal de Ordenamiento Territorial sobre las consultas que le sean presentadas.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-En el caso del ordenamiento ecológico a que se refiere la Ley del Equilibrio Ecológico del Estado de Oaxaca, el Instituto Estatal de Ecología y Desarrollo Sustentable, podrá coordinarse con la Secretaría a efecto de integrar dentro del Plan Estatal de Ordenamiento Territorial el ordenamiento ecológico estatal.
+En el caso del ordenamiento ecológico a que se refiere la Ley del Equilibrio Ecológico del Estado de Oaxaca, la Secretaría del Medio Ambiente, podrá coordinarse con la Secretaría a efecto de integrar en los Programas de ordenamiento territorial y desarrollo urbano los criterios generales de regulación ecológica de los asentamientos humanos y lo previsto en las normas oficiales mexicanas en materia ecológica.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-Tratándose del atlas de riesgos estatal a que se refiere la Ley Estatal de Protección Civil, la Coordinación Estatal de Protección Civil podrá coordinarse con la Secretaría a efecto de integrar dentro del Plan Estatal de Ordenamiento Territorial la información contenida en dicho atlas.
+La Secretaría podrá coordinarse con las instancias administrativas que sean necesarias, a efecto de integrar dentro del Programa Estatal de Ordenamiento Territorial la información contenida en los atlas de riesgo nacional, estatal y municipal.
 
-En el caso de los atlas de riesgo municipales, a que se refiere la ley mencionada en el párrafo anterior, las autoridades municipales que cuenten con dicho instrumento podrán coordinarse con la Secretaría a efecto de integrar dentro del Plan Estatal de Ordenamiento Territorial la información contenida en los respectivos atlas.
+En los programas de desarrollo urbano deberán considerarse las normas oficiales mexicanas, medidas y criterios de Resiliencia previstos en el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Para la interpretación y aplicación de los planes de ordenamiento territorial y de desarrollo urbano, se atenderá el orden jerárquico siguiente y deberán ser congruentes entre sí:
+Para la interpretación y aplicación de los Programas de ordenamiento territorial y de desarrollo urbano, se atenderá el orden jerárquico siguiente y deberán ser congruentes entre sí:
 
-I. Los planes regionales y subregionales de ordenamiento territorial, deberán ser congruentes con el Plan Estatal de Ordenamiento Territorial;
+I. El Programa Estatal de Ordenamiento Territorial, deberá ser congruente con la Estrategia Nacional de Ordenamiento Territorial y el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano;
 
-II. Los planes municipales de ordenamiento territorial, deberán ser congruentes con el plan regional o subregional que corresponda, si lo hubiera, y con el Plan Estatal de Ordenamiento Territorial;
+II. Los Programas Regionales de Ordenamiento Territorial, deberán ser congruentes con el Programa Estatal de Ordenamiento Territorial;
 
-III. Los planes de desarrollo urbano de las zonas metropolitanas o conurbadas deberán ser congruentes con el plan regional, subregional o municipal que corresponda, si lo hubiera, y con el Plan Estatal de Ordenamiento Territorial;
+III. Los Programas Municipales de Ordenamiento Territorial, deberán ser congruentes con el programa regional que corresponda, si lo hubiera, y con el Programa Estatal de Ordenamiento Territorial;
 
-IV. Los planes de desarrollo urbano de centros de población deberán ser congruentes con el plan regional, subregional o municipal que corresponda, así como con los planes de desarrollo urbano de las zonas metropolitanas o conurbadas, si los hubiera, y con el Plan Estatal de Ordenamiento Territorial; y
+IV. Los programas de desarrollo urbano de las zonas metropolitanas o conurbadas deberán ser congruentes con el programa regional, los programas municipales que correspondan, y el Programa Estatal de Ordenamiento Territorial;
 
-V. Los esquemas de desarrollo urbano y los planes de parciales de desarrollo urbano deberán ser congruentes con el plan de centro de población del cual deriven.
+V. Los Programas Municipales de Desarrollo Urbano y de Centros de Población deberán ser congruentes con el programa regional, los programas municipales que correspondan, así como con los programas de desarrollo urbano de las zonas metropolitanas o conurbadas, si los hubiera, y con el Programa Estatal de Ordenamiento Territorial, y
+
+VI. Los Esquemas de Planeación Simplificados y los Programas Parciales de Desarrollo Urbano deberán ser congruentes con el Programa de Centro de Población del cual deriven.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-En todo caso los planes de desarrollo urbano deberán guardar congruencia entre sí y sujetarse a los lineamientos del Plan Estatal de Ordenamiento Territorial.
+Los Programas de ordenamiento territorial y de desarrollo urbano deberán guardar congruencia entre sí y con las normas oficiales mexicanas, para tal efecto deberán contar con el Dictamen de congruencia que expida la Secretaría, en los términos previstos por el Reglamento.
+
+De igual manera será obligación de la autoridad encargada de su ejecución facilitar su consulta pública de forma física en sus oficinas y publicarlos en los sitios web correspondientes.
 
 ### CAPÍTULO TERCERO.. DE LOS INSTRUMENTOS DE PLANEACIÓN DEL ORDENAMIENTO TERRITORIAL
 
-#### Sección I. Del Plan Estatal de Ordenamiento Territorial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### Sección I. Del Programa Estatal de Ordenamiento Territorial
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-El Plan Estatal de Ordenamiento Territorial establecerá las políticas generales, estrategias y acciones para el ordenamiento territorial sustentable del Estado y constituirá el marco de referencia para guiar y dar congruencia a las acciones, inversiones, obras y servicios de la administración pública estatal y municipal.
+El Programa Estatal de Ordenamiento Territorial establecerá las políticas generales, estrategias y acciones para el Ordenamiento territorial sustentable del Estado y constituirá el marco de referencia para guiar y dar congruencia a las acciones, inversiones, obras y servicios de la administración pública estatal y municipal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-El Plan Estatal de Ordenamiento Territorial deberá contener:
+El Programa Estatal de Ordenamiento Territorial, de conformidad con lo establecido en el artículo 29 de la Ley General de Asentamientos Humanos, deberá contener:
 
 I. Los antecedentes del desarrollo urbano y de sustentabilidad en el Estado; su relación funcional con el contexto urbano nacional y regional así como el marco jurídico;
 
@@ -533,9 +687,15 @@ VIII. Los mecanismos e instrumentos jurídicos, administrativos y financieros pa
 
 IX. Los mecanismos de seguimiento, evaluación y retroalimentación de la planeación urbana.
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+X. Los mecanismos de participación ciudadana en las acciones previstas en el programa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 21.
 
-El Plan Estatal de Ordenamiento Territorial deberá incluir el desarrollo de los siguientes temas y aspectos:
+El Programa Estatal de Ordenamiento Territorial deberá incluir el desarrollo de los siguientes temas y aspectos:
 
 I. Evaluación del plan o programa anterior en caso de existir;
 
@@ -567,7 +727,9 @@ a) Perspectivas de crecimiento demográfico, proyecciones de población esperada
 
 b) Demanda de suelo urbano, para cada uno de los horizontes de planeación;
 
-c) Metas específicas del plan, estructuradas según los subsistemas de desarrollo urbano: planeación urbana, suelo urbano, equipamiento urbano, comunicación y transporte, infraestructura, protección ambiental y riesgos urbanos e imagen urbana;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+c) Metas específicas del programa, estructuradas según los subsistemas de desarrollo urbano: planeación urbana, suelo urbano, Equipamiento urbano, comunicación y transporte, Infraestructura, protección ambiental, riesgos urbanos, resiliencia urbana, imagen urbana, accesibilidad universal y Movilidad;
 
 d) Análisis del estado de la infraestructura y los servicios;
 
@@ -577,17 +739,25 @@ f) Estructura urbana, conformada por el sistema de ciudades y el sistema vial;
 
 g) Programa de acciones urbanas y estrategias de inversión;
 
-h) Unidades de gestión ambiental en las zonas no urbanas que señale el Plan;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-i) Compromisos de acciones, obras, inversiones y servicios a cargo del sector público para el cumplimiento del Plan, particularmente tratándose de destinos del suelo;
+h) Unidades de gestión ambiental en las zonas no urbanizadas que señale el programa;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+i) Compromisos de acciones, obras, inversiones y servicios a cargo del sector público para el cumplimiento del programa, particularmente tratándose de destinos del suelo;
 
 j) Metas generales en cuanto a la calidad de vida en los centros de población en el Estado;
 
-k) Establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+k) Establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 22.
 
-El Plan Estatal de Ordenamiento Territorial será considerado en la regulación del aprovechamiento de los recursos naturales, para la localización de la actividad productiva secundaria y de los asentamientos humanos, conforme a las siguientes bases:
+El Programa Estatal de Ordenamiento Territorial será considerado en la regulación del aprovechamiento de los recursos naturales, para la localización de la actividad productiva secundaria y de los asentamientos humanos, conforme a las siguientes bases:
 
 I. En cuanto al aprovechamiento de los recursos naturales, los ordenamientos ecológicos serán considerados en:
 
@@ -611,53 +781,71 @@ b) La creación de reservas territoriales y la determinación de los usos, provi
 
 c) La ordenación urbana del territorio, y los programas de los gobiernos federal, estatal y municipales para infraestructura, equipamiento urbano y vivienda.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-La elaboración y aprobación del Plan Estatal de Ordenamiento Territorial, se sujetará al siguiente procedimiento:
+La elaboración, aprobación o modificación del Programa Estatal de Ordenamiento Territorial, se sujetará al siguiente procedimiento:
 
-I. La Secretaría publicará el aviso del inicio del proceso de elaboración del plan en el Periódico Oficial del Gobierno del Estado, en su página web y en un diario de mayor circulación de la Entidad, por una vez;
+I. La Secretaría publicará el aviso del inicio del procedimiento de elaboración o modificación del programa en el Periódico Oficial del Gobierno del Estado de Oaxaca, en su página web y en un diario de mayor circulación de la Entidad, por una vez;
 
-II. La Secretaría formulará el proyecto del plan, conforme a la estructura y contenidos dispuestos en esta Ley;
+II. La Secretaría formulará el proyecto del Programa Estatal de Ordenamiento Territorial, conforme a la estructura y contenidos dispuestos en esta Ley;
 
-III. La Secretaría enviará para la opinión del Consejo Estatal de Ordenamiento Territorial el proyecto de Plan, para su análisis y revisión, durante un plazo de 30 días hábiles;
+III. La Secretaría enviará para la opinión del Consejo Estatal el proyecto del Programa Estatal de Ordenamiento Territorial, para su análisis y revisión, durante un plazo de treinta días hábiles;
 
-IV. Al concluir el plazo a que se refiere la fracción anterior, el Consejo Estatal de Ordenamiento Territorial emitirá una opinión a la Secretaría para que ésta a su vez formule el dictamen correspondiente pudiendo acordar la aprobación del proyecto o la emisión de observaciones para su modificación y ajuste;
+IV. Al concluir el plazo a que se refiere la fracción anterior, el Consejo Estatal emitirá una opinión a la Secretaría, para que ésta a su vez, formule el dictamen correspondiente y en su caso, acordar la aprobación del proyecto o la emisión de observaciones para su modificación y ajuste;
 
-V. Cuando la opinión se emita con observaciones, la Secretaría procederá a atenderlas y turnará nuevamente el proyecto al Consejo Estatal de Ordenamiento Territorial, durante un plazo de 20 días hábiles;
+V. Cuando la opinión se emita con observaciones, la Secretaría procederá a atenderlas y turnará nuevamente el proyecto al Consejo Estatal, durante un plazo de veinte días hábiles;
 
-VI. Cuando el Consejo Estatal de Ordenamiento Territorial emita opinión aprobatoria, la Secretaría, por una vez, publicará el aviso del inicio de la consulta pública, durante un plazo no menor a 30 días hábiles, y el calendario de audiencias para que los interesados, a través del Consejo Estatal de Ordenamiento Territorial, presenten por escrito los planteamientos que consideren respecto al proyecto del plan;
+VI. Cuando el Consejo Estatal emita opinión aprobatoria, la Secretaría, por una sola vez, publicará el aviso del inicio de la consulta pública, durante un plazo no menor a treinta días hábiles, y el respectivo calendario de audiencias, para que los interesados, a través del Consejo Estatal, presenten por escrito los planteamientos que consideren respecto al proyecto del Programa Estatal de Ordenamiento Territorial;
 
-VII. Las respuestas a los planteamientos que hayan sido formulados por escrito y que hayan sido considerados improcedentes, deberán dictaminarse por escrito y estarán a consulta de los interesados durante un término de 15 días en las oficinas de la Secretaría;
+VII. Las respuestas a los planteamientos que hayan sido formulados por escrito y que hayan sido considerados improcedentes, deberán dictaminarse por escrito y estarán a consulta de los interesados durante un término de quince días en las oficinas de la Secretaría;
 
-VIII. Terminado el plazo la Secretaría incorporará al proyecto las observaciones que considere procedentes;
+VIII. Terminado el plazo, la Secretaría incorporará al proyecto las observaciones que considere procedentes;
 
 IX. Concluida la etapa anterior, la Secretaría lo remitirá al Gobernador del Estado, para que este a su vez lo envíe en carácter de iniciativa de decreto a la Legislatura del Estado, para su discusión;
 
-X. La Legislatura del Estado podrá aprobar el proyecto de Plan o rechazarlo con observaciones, en éste último caso será devuelto a la Secretaría para la atención de las mismas, hecho lo cual será nuevamente turnado al Gobernador del Estado para los efectos de la fracción anterior;
+X. La Legislatura del Estado podrá aprobar el proyecto del Programa Estatal de Ordenamiento Territorial o rechazarlo con observaciones, en éste último caso, será devuelto a la Secretaría para la atención de las mismas, hecho lo cual será nuevamente turnado al Gobernador del Estado para los efectos de la fracción anterior, y
 
-XI. Cuando la Legislatura del Estado apruebe el Plan, lo turnará al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno del Estado y su inscripción en el Registro Público de la Propiedad.
+XI. Cuando la Legislatura del Estado apruebe el Programa Estatal de Ordenamiento Territorial, lo turnará al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca y su inscripción en el Instituto Registral.
 
-#### Sección II. De los planes regionales y subregionales de ordenamiento territorial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### Sección II. De los Programas Regionales de Ordenamiento Territorial
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-Los planes regionales y subregionales de ordenamiento territorial, observarán la estructura y contenido del Plan Estatal de Ordenamiento Territorial, ajustándose a la región o subregión de que se trate, y se sujetarán al mismo procedimiento a que se refiere al artículo anterior, con excepción de las fracciones IX, X y XI, y corresponderá al Gobernador del Estado su aprobación, publicación e inscripción.
+Los Programas Regionales de Ordenamiento Territorial, observarán la estructura y contenido del Programa Estatal de Ordenamiento Territorial, ajustándose a la región de que se trate, y se sujetarán al mismo procedimiento a que se refiere al (sic) artículo anterior, con excepción de las fracciones IX, X y XI, y corresponderá al Gobernador del Estado su aprobación, publicación e inscripción.
 
-#### Sección III. De los planes municipales de ordenamiento territorial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### Sección III. De los Programas Municipales de Ordenamiento Territorial
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-Los Planes Municipales de Ordenamiento Territorial tendrán por objeto establecer las políticas urbanas y ambientales en la totalidad del territorio del municipio, con base en las determinaciones del Plan Estatal de Ordenamiento Territorial, adecuado y ajustado a las necesidades locales y considerando lo establecido por los instrumentos ambientales aplicables en el territorio municipal y respetará el siguiente contenido:
+Los Programas Municipales de Ordenamiento Territorial, tendrán por objeto establecer las políticas urbanas y ambientales en la totalidad del territorio del municipio, con base en las determinaciones del Programa Estatal de Ordenamiento Territorial, adecuado y ajustado a las necesidades locales y considerando lo establecido por los instrumentos ambientales aplicables en el territorio municipal y respetará el contenido de la Ley General de Asentamientos Humanos y el siguiente:
 
 I. Antecedentes:
 
-a) Bases jurídicas, que sirvan de soporte legal para la instrumentación jurídica del Plan;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-b) Marco de planeación, que establezca la congruencia con los programas y planes de nivel superior de los cuales se deriva;
+a) Bases jurídicas, que sirvan de soporte legal para la instrumentación jurídica del programa;
 
-c) Evaluación del Plan anterior en caso de existir; y
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-d) Objetivos, que se persiguen en la elaboración del Plan.
+b) Marco de planeación, que establezca la congruencia con los programas de nivel superior de los cuales se deriva;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+c) Evaluación del programa anterior en caso de existir, y
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+d) Objetivos que se persiguen en la elaboración del programa.
 
 II. Diagnóstico del estado actual del municipio:
 
@@ -709,9 +897,13 @@ e) Programa de acciones urbanas y estrategias de inversión, especificando su ub
 
 f) Unidades de gestión ambiental en las zonas no urbanas que señale el Programa;
 
-g) Derechos y obligaciones derivados del Programa, indicando los plazos para que los afectados interpongan el recurso de reconsideración previsto en la Ley del Procedimiento Administrativo del Estado; y
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-h) Establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan.
+g) Derechos y obligaciones derivados del programa, indicando los plazos para que los afectados interpongan el recurso de revisión previsto en la Ley de Justicia Administrativa para el Estado de Oaxaca, y
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+h) Establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa.
 
 ###### ARTÍCULO 26.
 
@@ -739,35 +931,57 @@ b) La creación de reservas territoriales y la determinación de los usos, provi
 
 c) La ordenación urbana del territorio, y los programas de los gobiernos federal, estatal y municipales para infraestructura, equipamiento urbano y vivienda.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 27.
 
-La formulación y aprobación de los planes municipales de ordenamiento territorial, se sujetarán al procedimiento a que se refiere el artículo 42, para los planes de desarrollo urbano de competencia municipal.
+La formulación y aprobación de los Programas Municipales de Ordenamiento Territorial, se sujetarán al procedimiento a que se refiere el artículo 42, para los programas de Desarrollo urbano de competencia municipal.
 
 ### CAPÍTULO CUARTO.. DE LA COORDINACIÓN INSTITUCIONAL PARA EL ORDENAMIENTO TERRITORIAL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-Se crea el Consejo Estatal de Ordenamiento Territorial del Estado de Oaxaca, con la finalidad de facilitar la coordinación entre las dependencias y entidades paraestatales de la administración pública del Poder Ejecutivo del Estado de Oaxaca, y las dependencias y entidades de la administración pública del Poder Ejecutivo de la Unión, para conjuntar esfuerzos de coordinación y cooperación técnica en materia de ordenamiento territorial en el Estado.
+Se crea el Consejo Estatal, con la finalidad de facilitar la coordinación entre las dependencias y entidades paraestatales de la administración pública del Poder Ejecutivo del Estado de Oaxaca, y las dependencias y entidades de la administración pública del Poder Ejecutivo Federal, para conjuntar esfuerzos de coordinación y cooperación técnica en materia de Ordenamiento territorial en el Estado, el cual tendrá las atribuciones que establece el artículo 21 de la Ley General de Asentamientos Humanos.
 
-Su estructura interna, funciones y obligaciones de sus integrantes, se establecerán en el manual de organización y funcionamiento correspondiente.
+Su estructura interna, funciones y obligaciones de sus integrantes, se establecerán de conformidad con lo señalado en la Ley General de Asentamientos Humanos y en su Reglamento Interno que expida el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 28 BIS. Para una mejor coordinación institucional del Ordenamiento territorial y de Desarrollo urbano del Estado, deberán instalarse los siguientes órganos auxiliares:
+
+I. Comisiones de zonas metropolitanas y Conurbadas;
+
+II. Consejos consultivos de desarrollo metropolitano, y
+
+III. Consejos municipales de desarrollo urbano.
+
+Los cuales se organizarán y funcionarán en los términos previstos en el Reglamento.
 
 ### CAPÍTULO QUINTO.. DE LOS EFECTOS DEL ORDENAMIENTO TERRITORIAL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-Los planes de Ordenamiento Territorial estatal, regionales, subregionales y municipales que se expidan, publiquen e inscriban en los términos de esta Ley, serán de observancia obligatoria para autoridades y particulares.
+Los programas de ordenamiento territorial estatal, regionales, municipales, y de desarrollo urbano que se expidan, publiquen e inscriban en los términos de esta Ley, serán de observancia obligatoria para autoridades y los particulares.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 30.
 
-Los programas, proyectos, presupuestos, obras, acciones, inversiones y servicios para el aprovechamiento del territorio, que lleven a cabo las autoridades estatales o municipales, deberán ajustarse a las disposiciones del Plan Estatal de Ordenamiento Territorial.
+Los programas, proyectos, presupuestos, obras, acciones, inversiones y servicios para el aprovechamiento del territorio, que lleven a cabo las autoridades estatales o municipales, deberán ajustarse a las disposiciones del Programa Estatal de Ordenamiento Territorial.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 31.
 
-Las autoridades estatales y municipales promoverán ante los sectores privado y social, que las obras, acciones o inversiones que dichos sectores lleven a cabo, sean congruentes con el Plan Estatal de Ordenamiento Territorial.
+Las autoridades estatales y municipales promoverán ante los sectores privado y social, que las obras, acciones o inversiones que dichos sectores lleven a cabo, sean congruentes con el Programa Estatal de Ordenamiento Territorial.
 
 ###### ARTÍCULO 32.
 
-No requerirán dictamen de congruencia aquellos programas, presupuestos, proyectos, obras, acciones, inversiones y servicios que estén contemplados en un plan de ordenamiento territorial o de desarrollo urbano.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2017)
 
 ### CAPÍTULO SEXTO.. DEL FINANCIAMIENTO DEL ORDENAMIENTO TERRITORIAL
 
@@ -775,11 +989,15 @@ No requerirán dictamen de congruencia aquellos programas, presupuestos, proyect
 
 El Gobierno del Estado y los municipios fomentarán la coordinación y la concertación de acciones e inversiones entre los sectores público, social y privado para:
 
-I. El cumplimiento y ejecución de los planes de ordenamiento territorial y de desarrollo urbano;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. El cumplimiento y ejecución de los Programas de ordenamiento territorial y de desarrollo urbano;
 
 II. El establecimiento de mecanismos e instrumentos financieros en materia de ordenamiento territorial y desarrollo urbano;
 
-III. El financiamiento y operación de proyectos estratégicos urbanos; habitacionales, industriales, comerciales, recreativos, turísticos y ambientales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. El financiamiento y operación de proyectos estratégicos urbanos, intermunicipales, habitacionales, industriales, comerciales, recreativos, turísticos y ambientales;
 
 IV. La integración de una política de suelo y reservas territoriales que permita contar con oportunidad y condición de ese recurso para los distintos usos y necesidades del ordenamiento territorial;
 
@@ -799,23 +1017,43 @@ XI. El impulso a la educación, la investigación y la capacitación en materia 
 
 XII. La aplicación de tecnologías que garanticen la sustentabilidad, protejan al ambiente, reduzcan los costos y mejoren la calidad de la urbanización; y
 
-XIII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios que requiera la población con discapacidad.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XIII. La construcción y adecuación de la Infraestructura, el equipamiento y los servicios que permitan la movilidad urbana sustentable y la accesibilidad universal para todas las personas, incluyendo las personas con discapacidad o movilidad limitada.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 33 BIS. La Secretaría coadyuvará con la Federación en la elaboración de programas territoriales operativos, que tengan como ámbito espacial un municipio, varios municipios interrelacionados, un sistema urbano rural funcional, o la agrupación de varios sistemas urbanos rurales.
+
+Los cuáles serán la guía para la concentración de acciones e inversiones intersectoriales de los tres órdenes de gobierno en los términos que señala la Ley General de Asentamientos Humanos.
 
 ### CAPÍTULO SÉPTIMO.. DE LOS INSTRUMENTOS DE PLANEACIÓN DEL DESARROLLO URBANO
 
-#### Sección I. De los planes de centro de población
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### Sección I. De los Programas de Centro de Población
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 34.
 
-Los planes de desarrollo urbano tendrán como objetivo normar, ordenar, regular y controlar la expansión de las áreas urbanas y consolidar ciudades compactas, productivas, competitivas, incluyentes y sustentables, que faciliten la movilidad y eleven la calidad de vida de los habitantes en el Estado de Oaxaca.
+Los programas de Desarrollo urbano, tendrán como objetivo normar, ordenar, regular y controlar la expansión de las áreas urbanizadas y consolidar ciudades compactas, productivas, competitivas, incluyentes, resilientes y sustentables, que faciliten la accesibilidad universal y eleven la calidad de vida de los habitantes en el Estado.
+
+Deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, considerando la evolución de la ciudad, así como la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la Movilidad.
+
+Los Programas Municipales de Desarrollo Urbano señalarán las acciones específicas necesarias para la Conservación, Mejoramiento y Crecimiento de los centros de población, asimismo, establecerán la Zonificación correspondiente y señalarán los aspectos relacionados con el uso, aprovechamiento y custodia del Espacio público, contemplando la participación social efectiva a través de la consulta, la opinión y la deliberación con las personas y sus organizaciones e instituciones.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 35.
 
-Los planes de desarrollo urbano de centros de población son los instrumentos que integran el conjunto de disposiciones y normas para ordenar y regular la zonificación, reservas, usos y destinos del suelo de los centros de población, que tiendan a mejorar el funcionamiento y organización de sus áreas de conservación, mejoramiento y crecimiento, así como establecer las bases para la programación de acciones, obras y servicios.
+Los ayuntamientos expedirán Programas Municipales de Desarrollo Urbano y de Centros de Población, los cuales integrarán el conjunto de disposiciones y normas para ordenar y regular la Zonificación, Reservas, usos y Destinos del suelo de su Centro de población, que tiendan a mejorar el funcionamiento y organización de sus áreas de Conservación, Mejoramiento y Crecimiento, así como establecer las bases para la programación de acciones, obras y servicios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 36.
 
-Los planes de desarrollo urbano de los centros de población deberán contener:
+Los Programas Municipales de Desarrollo Urbano y de Centros de Población, además de lo establecido en la Ley General de Asentamientos Humanos, deberán contener:
 
 I. Fundamentación y antecedentes;
 
@@ -829,35 +1067,53 @@ V. Estrategia general para el desarrollo urbano del centro de población;
 
 VI. La definición de la estructura vial y de los sistemas para la movilidad del centro de población;
 
-VII. La zonificación secundaria del área que comprenda el plan;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-VIII. Los compromisos de acciones, obras, inversiones y servicios a cargo del sector público para el cumplimiento del plan, particularmente los destinos del suelo;
+VII. La Zonificación secundaria del área que comprenda el programa;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Los compromisos de acciones, obras, inversiones y servicios a cargo del sector público para el cumplimiento del programa, particularmente los Destinos del suelo;
 
 IX. Las metas generales en cuanto a la calidad de vida en el municipio;
 
 X. Los instrumentos y mecanismos que se requieren para la ejecución de las acciones contenidas en las estrategias de desarrollo urbano;
 
-XI. Los instrumentos de financiamiento que deberán utilizarse para sufragar las obras, acciones e inversiones propuestas en el plan, conforme a las disposiciones fiscales y presupuestales aplicables; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XI. Los instrumentos de financiamiento que deberán utilizarse para sufragar las obras, acciones e inversiones propuestas en el programa, conforme a las disposiciones fiscales y presupuestales aplicables, y;
 
 XII. Mecanismos de control, seguimiento y evaluación.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 37.
 
-Los planes de desarrollo urbano de los centros de población podrán tener la modalidad de estratégicos, cuando así lo indique el Plan Estatal de Ordenamiento Territorial, por sus características urbanas, geográficas, socioeconómicas o demográficas.
+Los programas de Desarrollo urbano de los centros de población podrán tener la modalidad de estratégicos, cuando así lo indique el Programa Estatal de Ordenamiento Territorial, por sus características urbanas, geográficas, socioeconómicas o demográficas.
 
-#### Sección II. De los planes parciales de desarrollo urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### Sección II. De los Programas Parciales de Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 38.
 
-Los planes parciales de desarrollo urbano tendrán por objeto estructurar, ordenar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división de la propiedad, la zonificación y normas de usos y destinos del suelo, la ubicación de edificaciones, la imagen urbana, en una zona específica de un centro de población, con la finalidad de llevar a cabo acciones de crecimiento, reubicación, conservación, mejoramiento o consolidación.
+Los Programas Parciales de Desarrollo Urbano tendrán por objeto estructurar, ordenar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división de la propiedad, la zonificación, normas de usos y destinos del suelo, la ubicación de edificaciones, la imagen urbana, en una zona específica de un centro de población, con la finalidad de llevar a cabo acciones de crecimiento, reubicación, conservación, mejoramiento o consolidación.
+
+Podrán integrar los planteamientos sectoriales del desarrollo urbano, en materias tales como: centros históricos, movilidad, medio ambiente, vivienda, agua y saneamiento y los demás previstos en la Ley General de Asentamientos Humanos y esta Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 39.
 
-Los planes parciales deberán contener:
+Los programas parciales deberán contener además de lo señalado en la Ley General de Asentamientos Humanos, lo siguiente:
 
 I. La delimitación de los inmuebles y zonas que afecten;
 
-II. La congruencia con el plan del cual deriven;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. La congruencia con el programa del cual deriven;
 
 III. Una memoria descriptiva de los proyectos, obras o acciones que se pretendan llevar a cabo;
 
@@ -873,11 +1129,15 @@ VIII. El cronograma de trabajo para la ejecución de las acciones, obras o proye
 
 IX. En su caso, las especificaciones de la zonificación y demás normas urbanas que resulten necesarias.
 
-#### Sección III. De los esquemas de desarrollo urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+#### Sección III. De los Esquemas Simplificados de Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-Los esquemas de desarrollo urbano son los instrumentos simplificados que integran el conjunto de disposiciones y normas para ordenar y regular la zonificación primaria y los destinos del suelo básicos para centros de población que cuenten con menos de diez mil habitantes y que no sean considerados estratégicos por el Plan Estatal de Ordenamiento Territorial.
+Los Esquemas Simplificados de Desarrollo Urbano son los instrumentos que integran el conjunto de disposiciones para ordenar y regular la zonificación primaria, así como los destinos del suelo básicos para centros de población, que cuenten con menos de cincuenta mil habitantes y que no sean considerados estratégicos por el Programa Estatal de Ordenamiento Territorial. Deberán tener la debida congruencia, coordinación y ajuste con programas de desarrollo urbano, en los términos del artículo 13 de esta Ley.
 
 ###### ARTÍCULO 41.
 
@@ -897,61 +1157,79 @@ VI. Mecanismos de control, seguimiento y evaluación.
 
 ### CAPÍTULO OCTAVO.. DE LA FORMULACIÓN Y APROBACIÓN DE LOS INSTRUMENTOS DE PLANEACIÓN DEL DESARROLLO URBANO
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 42.
 
-La formulación y aprobación de los planes de desarrollo urbano de centros de población, de los planes parciales de desarrollo urbano, así como de los esquemas de desarrollo urbano, se someterán al siguiente procedimiento:
+La Secretaría y las autoridades municipales, en la esfera de su respectiva competencia, harán cumplir lo establecido en los programas de desarrollo urbano, la Ley General de Asentamientos Humanos y esta Ley.
 
-I. El municipio en Sesión de Cabildo, acordará la elaboración del plan o instrumento respectivo, y publicará el aviso del inicio del proceso de elaboración del plan o instrumento respectivo, en la gaceta o mando (sic) municipal y en su página web;
+La formulación y aprobación de los Programas Municipales de Desarrollo Urbano y de Centros de Población, de los Programas Parciales de Desarrollo Urbano, así como de los Esquemas Simplificados de Desarrollo Urbano, se someterán al siguiente procedimiento:
 
-II. El municipio, a través de la unidad administrativa competente en materia de desarrollo urbano procederá a elaborar el proyecto del plan o instrumento respectivo;
+I. El Ayuntamiento en sesión de cabildo, acordará la elaboración del programa o instrumento respectivo, y publicará el aviso del inicio del proceso de elaboración del instrumento respectivo, en la gaceta o mando municipal y en su página web;
 
-III. El proyecto del plan o instrumento, deberá observar los criterios de jerarquía y congruencia que se establecen en el artículo 17 de esta Ley;
+II. El municipio, a través de la Autoridad municipal competente en materia de desarrollo urbano procederá a elaborar el proyecto del programa o instrumento respectivo;
 
-IV. Una vez terminado el proyecto, el municipio establecerá el plazo, que no podrá ser menor a 30 día (sic) naturales, y el calendario de audiencias para que los interesados presenten por escrito al municipio, los planteamientos que consideren respecto al proyecto del plan o instrumento de que se trate;
+III. El proyecto del programa o instrumento, deberá observar los criterios de jerarquía y congruencia que se establecen en el artículo 17 de esta Ley;
 
-V. Las respuestas a los planteamientos que hayan sido formulados por escrito y que hayan sido considerados improcedentes, deberán dictaminarse por escrito y estarán a consulta de los interesados durante un término de 15 días en las oficinas del municipio;
+IV. Una vez terminado el proyecto, el ayuntamiento, establecerá el plazo, que no podrá ser menor a treinta días naturales, y el calendario de audiencias, para que los interesados presenten por escrito a las autoridades municipales, los planteamientos que consideren respecto al proyecto del programa o instrumento de que se trate;
 
-VI. Integrados los planteamientos procedentes al proyecto del plan o instrumento, el municipio recabará de la Secretaría el dictamen de congruencia a que se refiere el artículo 4, fracción XV;
+V. Las respuestas a los planteamientos que hayan sido formulados por escrito y que hayan sido considerados improcedentes, deberán dictaminarse por escrito y estarán a consulta de los interesados durante un término de quince días naturales en las oficinas del municipio;
 
-VII. Cuando se cuente con el dictamen de congruencia favorable, el municipio aprobará el plan o instrumento respectivo en Sesión de Cabildo y lo enviará al Gobernador del Estado para su publicación mediante Decreto en el Periódico Oficial del Gobierno (sic) Estado y su inscripción en el Registro Público de la Propiedad, el municipio lo pondrá a disposición del público, íntegramente, en su página electrónica oficial; y
+VI. Integrados los planteamientos procedentes al proyecto del programa o instrumento, el Municipio recabará de la Secretaría el dictamen de congruencia a que se refiere el artículo 13 de esta Ley, debiendo la Secretaría dar respuesta en el plazo de noventa días hábiles. Ante la omisión de respuesta opera la afirmativa ficta;
 
-VIII. Los planes o instrumentos que no cuenten con dictamen de congruencia favorable en los términos del artículo 4, fracción XV de esta Ley no podrán ser publicados en el Periódico Oficial del Gobierno (sic) Estado, ni inscritos en el Registro Público de la Propiedad; a menos de encontrarse en el supuesto del artículo 37.
+VII. Cuando se cuente con el dictamen de congruencia favorable, el ayuntamiento aprobará el programa o instrumento respectivo en sesión de cabildo y lo enviará al Gobernador del Estado para su publicación mediante decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca y su inscripción en el Instituto Registral, además el Municipio lo pondrá a disposición del público, íntegramente, en su página electrónica oficial, y;
+
+VII. En el caso de que no sea favorable el dictamen de congruencia de los programas o instrumentos, la Secretaría deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes para que el ayuntamiento efectúe las modificaciones correspondientes. Por lo que, no podrán ser publicados en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca, ni inscritos en el Instituto Registral.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 43.
 
-Los planes de desarrollo urbano de centros de población estratégicos serán formulados en los términos del artículo anterior, con la participación concurrente de la Secretaría a solicitud del municipio respectivo.
+Los programas de Desarrollo urbano de Centros de población estratégicos serán formulados en los términos del artículo anterior, con la participación concurrente de la Secretaría a solicitud del Municipio respectivo.
 
 ###### ARTÍCULO 44.
 
-El contenido, formulación y aprobación de los planes de ordenamiento de zonas metropolitanas o conurbadas, se sujetarán a las disposiciones del artículo 58, 67 y del Título Tercero de esta Ley.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2017)
 
-### CAPÍTULO NOVENO.. DE LA ACTUALIZACIÓN Y MODIFICACIÓN DE LOS PLANES DE DESARROLLO URBANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO NOVENO.. DE LA ACTUALIZACIÓN Y MODIFICACIÓN DE LOS PROGRAMAS DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
-Los planes de ordenamiento territorial y de desarrollo urbano tendrán vigencia indefinida y estarán sometidos a un proceso constante de revisión, seguimiento y evaluación.
+Los programas de ordenamiento territorial y de desarrollo urbano se proyectarán a mediano y largo plazo y estarán sometidos a un proceso constante de revisión, seguimiento y evaluación.
 
 ###### ARTÍCULO 46.
 
 Cada administración pública Estatal o Municipal, dentro de los seis primeros meses de su gestión, evaluará y en su caso, actualizará los instrumentos de planeación de su competencia, ajustándose a los procedimientos que para su elaboración señala esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 47.
 
-Las modificaciones de los planes de ordenamiento territorial y de desarrollo urbano podrán ser solicitadas por escrito al municipio que corresponda o a la Secretaría en su caso, por cualquier interesado que acredite su interés jurídico, conforme a lo dispuesto en este artículo.
+Las modificaciones de los programas de ordenamiento territorial y de desarrollo urbano podrán ser solicitadas por escrito a la Autoridad Municipal que corresponda o a la Secretaría en su caso, por cualquier interesado que acredite su interés jurídico, conforme a lo dispuesto en este artículo.
 
-El municipio respectivo o la Secretaría, según sea el caso, dará trámite a la solicitud en los términos de los procedimientos que para la elaboración de cada tipo de plan o instrumento se señala en este ordenamiento, con excepción del artículo siguiente.
+La Autoridad municipal respectiva o la Secretaría, según sea el caso, dará trámite a la solicitud en los términos de los procedimientos que, para la elaboración de cada tipo de programa o instrumento se señala en este ordenamiento, con excepción del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-En ningún caso podrá dejarse sin efectos un plan de ordenamiento territorial y de desarrollo urbano sin que en la resolución correspondiente se declare la vigencia de uno nuevo.
+En ningún caso podrá dejarse sin efectos un programa de ordenamiento territorial y de desarrollo urbano sin que en la resolución correspondiente se declare la vigencia de uno nuevo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
-Toda solicitud de modificación o cancelación de un plan de ordenamiento territorial y de desarrollo urbano, deberá ajustarse al mismo procedimiento establecido para su elaboración y aprobación.
+Toda solicitud de modificación o cancelación de un programa de Ordenamiento Territorial y de desarrollo urbano, deberá ajustarse al mismo procedimiento establecido para su elaboración y aprobación, con las especificaciones que señale el Reglamento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-Las áreas naturales protegidas en cualquiera de sus modalidades, así como las zonas de preservación ecológica de los centros de población, que estén contempladas en un plan de ordenamiento territorial y de desarrollo urbano, no podrán ser objeto de modificación en los términos de este capítulo, por ser de interés público y beneficio social su conservación y mantenimiento. La única excepción a este artículo será cuando se requiera la reubicación de asentamientos humanos en zonas de riesgo o vulnerabilidad existentes o debido a fenómenos naturales, previa declaratoria.
+Las áreas naturales protegidas en cualquiera de sus modalidades, así como las zonas de preservación ecológica de los centros de población, que estén contempladas en un programa de ordenamiento territorial y de desarrollo urbano, no podrán ser objeto de modificación en los términos de este capítulo, por ser de interés público y beneficio social su conservación y mantenimiento. La única excepción a este artículo será cuando se requiera la reubicación de asentamientos humanos en zonas de riesgo o vulnerabilidad existentes o debido a fenómenos naturales, previa declaratoria.
 
 ### CAPÍTULO DÉCIMO.. DE LA PARTICIPACIÓN SOCIAL EN EL PROCESO DE PLANEACIÓN
 
@@ -971,13 +1249,25 @@ V. Promoverán la constitución de agrupaciones comunitarias que participen en e
 
 VI. Diseñarán programas de promoción y participación conjunta con los colegios y asociaciones de profesionistas en el Estado que tengan relación con el ordenamiento territorial, y destinarán recursos en materia de capacitación y asesoría, para que dichos colegios y asociaciones brinden servicios técnicos especializados de asesoría y gestión a los sectores de la sociedad civil que lo requieran, así como para mediar en caso de conflictos urbanos y proponer las mejores soluciones técnicas para los proyectos y necesidades en la materia.
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. Promoverán la creación y funcionamiento de observatorios ciudadanos, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socio-espaciales y los nuevos modelos de políticas urbanas, regionales y de gestión pública, y;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Atenderán las denuncias ciudadanas en los términos señalados en el Reglamento, respecto del cumplimiento y ejecución de los programas previstos o por alguna infracción a la misma.
+
 ### CAPÍTULO UNDÉCIMO.. DE LOS ORGANISMOS DE PARTICIPACIÓN SOCIAL Y DE CONSULTA MUNICIPALES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-Los municipios establecerán un consejo de participación ciudadana para el ordenamiento territorial y el desarrollo urbano, como mecanismo de consulta y participación en la materia, de carácter municipal, que tendrán las siguientes atribuciones:
+Los municipios establecerán consejos de Desarrollo urbano, como mecanismos de consulta y participación en la materia, de carácter municipal, en los términos que señala la Ley General de Asentamientos Humanos, el Reglamento y las demás disposiciones que al respecto emita el ayuntamiento. Para tal efecto, tendrán las siguientes atribuciones:
 
-I. Participar y opinar en los procesos de formulación o modificación de planes de ordenamiento territorial y de desarrollo urbano;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Participar y opinar en los procesos de formulación o modificación de Programa de ordenamiento territorial y de desarrollo urbano;
 
 II. Recibir y canalizar ante el municipio las opiniones, demandas y propuestas que formule la comunidad, respecto a sus necesidades de obras y servicios urbanos;
 
@@ -999,7 +1289,9 @@ En el Estado de Oaxaca se reconoce la existencia de cuatro fenómenos de crecimi
 
 I. Conurbaciones interestatales: cuando dos o más centros de población situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad física y demográfica;
 
-II. Zona metropolitana: Grupo de dos o más municipios en los cuales se ubica una ciudad cuya área se extiende sobre los límites del municipio al cual pertenece originalmente; o un solo municipio dentro del cual se ubica totalmente una ciudad mayor de 100 mil habitantes.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Zona metropolitana: Cuando dos o más centros de población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo nacional y estatal;
 
 III. Conurbación urbana: cuando dos o más centros de población situados en territorios de dos o más municipios, formen o tiendan a formar una continuidad física y demográfica, con características predominantemente urbanas; y
 
@@ -1007,7 +1299,13 @@ IV. Conurbación rural: cuando dos o más localidades situadas en territorios de
 
 Las conurbaciones interestatales a que se refiere la fracción I de este artículo, se regularán de conformidad con las disposiciones de la Ley General de Asentamientos Humanos.
 
-Los fenómenos de urbanización a que se refieren las fracciones II a IV anteriores, se sujetarán a las disposiciones del presente título y serán identificados por el Plan Estatal de Ordenamiento Territorial.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Los fenómenos de urbanización a que se refieren las fracciones II a IV anteriores, se sujetarán a las disposiciones del presente título y se considerarán en el Programa Estatal de Ordenamiento Territorial.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+En todos los casos se deberán observar y dar cumplimiento a los lineamientos que emita el Ejecutivo Federal.
 
 ### CAPÍTULO SEGUNDO.. DE LAS DISPOSICIONES COMUNES A LAS ZONAS METROPOLITANAS Y CONURBACIONES URBANAS
 
@@ -1019,7 +1317,9 @@ Las zonas metropolitanas y conurbaciones urbanas dentro de los límites del terr
 
 Las declaratorias a que se refiere el artículo anterior tendrán por objeto entre otras:
 
-I. La localización, extensión y delimitación de la zona conurbada o metropolitana, que cuando menos deberá incluir la zona urbanizada, pudiendo convenirse que se incluya todo el territorio de un municipio;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. La localización, extensión y delimitación de la zona conurbada o metropolitana, que cuando menos deberá incluir el área urbanizada, se podrá convenir que se incluya todo el territorio de un Municipio;
 
 II. Las facultades, obligaciones y compromisos de los municipios respectivos y del Gobierno del Estado, para planear y regular conjunta y coordinadamente los centros de población de que se trate;
 
@@ -1029,27 +1329,39 @@ IV. Las demás acciones que convengan los municipios respectivos para el ordenam
 
 La declaratoria deberá publicarse en el Periódico Oficial del Estado y en un periódico de circulación en la zona conurbada o metropolitana de que se trate.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 56.
 
-Una vez publicada la declaratoria, deberá constituirse la comisión de zona conurbada o metropolitana respectiva, misma que se integrará con:
+Una vez publicada la declaratoria, deberá constituirse la Comisión de Zona Metropolitana y Conurbadas respectiva, misma que se integrará con:
 
-I. El Secretario, quien será el Presidente de la comisión de la zona conurbada o metropolitana; y
+I. El titular de la Secretaría, quien será el presidente;
 
-II. Los presidentes municipales de los municipios de la zona de conurbación o metropolitana respectiva, de los cuales se elegirá a un secretario técnico.
+II. Los presidentes municipales respectivos a la zona metropolitana o de conurbación, de los cuales se elegirá a un Secretario Técnico, y;
 
-Podrá invitarse a participar a las sesiones respectivas de conformidad al tema, a dependencias y entidades de la administración pública federal, estatal o municipal, que se consideren convenientes, así como especialistas en el asunto a tratar.
+III. Un representante de la Federación.
+
+Esta comisión tendrá como atribuciones coordinar la formulación y aprobación de los Programas de Zonas Metropolitanas y Conurbadas, así como su gestión, evaluación y cumplimiento.
+
+Además podrá contar con subcomisiones o consejos integrados por igual número de representantes de los tres órdenes de gobierno, en los términos que marca el Reglamento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
-La organización y funcionamiento de las comisiones de las zonas conurbadas o metropolitanas, quedarán establecidos en el reglamento respectivo.
+Las comisiones de zonas metropolitanas y de conurbadas, deberán auxiliarse de los consejos consultivos de desarrollo metropolitano; así como de los mecanismos e instancias previstas en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 58.
 
-El Gobernador del Estado, publicará en el Periódico Oficial del Gobierno del Estado e inscribirá en el Registro Público de la Propiedad el plan de ordenamiento de la zona conurbada o metropolitana.
+El Gobernador del Estado, publicará en el Periódico Oficial del Gobierno del Estado de Oaxaca e inscribirá en el Instituto Registral el Programa de Zonas Metropolitanas y Conurbadas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 59.
 
-Los municipios que integren una comisión de conurbación o metropolitana, ejecutarán, administrarán y evaluarán dentro de su jurisdicción el plan de ordenamiento de la zona en coordinación con el Ejecutivo del Estado en su caso, cuando se trate de proyectos u obras de carácter estratégico de beneficio común.
+Las autoridades municipales que integren una Comisión de Zonas Metropolitanas y Conurbadas, ejecutarán, administrarán y evaluarán dentro de su jurisdicción los programas metropolitanos, con el Ejecutivo del Estado en su caso, cuando se trate de proyectos u obras de carácter estratégico de beneficio común.
 
 ###### ARTÍCULO 60.
 
@@ -1059,51 +1371,65 @@ En los casos de las conurbaciones con otras entidades federativas, el Gobierno d
 
 ###### ARTÍCULO 61.
 
-Tratándose de zonas metropolitanas, serán aplicables adicionalmente las disposiciones del presente Capítulo.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 62.
 
-Se consideran como materias de interés metropolitano, entre los municipios involucrados y el Estado en su caso, dentro del ámbito de sus respectivas competencias:
+Se consideran como materias de interés metropolitano, entre los municipios involucrados y el Estado, dentro del ámbito de sus respectivas competencias:
 
-I. La planeación y el ordenamiento territorial;
+I. La Planeación del ordenamiento territorial y los asentamientos humanos;
 
-II. La infraestructura para la movilidad;
+II. La infraestructura vial, transito, transporte y la movilidad;
 
 III. El suelo y las reservas territoriales;
 
-IV. La redensificación y uso eficiente del espacio urbano;
+IV. La densificación, consolidación urbana y uso eficiente del territorio, con espacios públicos seguros y de calidad;
 
-V. La construcción, habilitación y adecuada dotación de destinos del suelo;
+V. La construcción, habilitación y adecuada dotación de destinos del suelo, políticas habitacionales y las relativas al equipamiento regional y metropolitano;
 
-VI. El agua potable, alcantarillado, saneamiento y drenajes pluviales;
+VI. La gestión integral del agua y los recursos hidráulicos, el agua potable, alcantarillado, saneamiento y drenajes pluviales;
 
-VII. La ecología y la protección al medio ambiente;
+VII. La ecología, la protección al medio ambiente, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, incluyendo la calidad del aire y la protección de la atmósfera;
 
 VIII. El tratamiento y disposición de residuos sólidos municipales, industriales y peligrosos;
 
-IX. La prevención de riesgos, la atención a contingencias y la protección civil;
+IX. La prevención de riesgos, mitigación y resiliencia ante los riesgos, la atención a contingencias y la protección civil;
 
-X. Las zonas urbanas de integración entre municipios metropolitanos;
+X. Las áreas urbanizadas de integración entre municipios metropolitanos;
 
 XI. La imagen urbana de la zona metropolitana;
 
-XII. El equipamiento regional o metropolitano; y
+XII. El equipamiento regional o metropolitano;
 
-XIII. Otras materias de carácter urbano que por sus características y naturaleza sean de interés común.
+XIII. La Infraestructura y equipamientos de carácter estratégico y de seguridad;
+
+XIV. La accesibilidad universal y la movilidad;
+
+XV. La seguridad pública, y
+
+XVI. Otras materias de carácter urbano que por sus características y naturaleza sean de interés común.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 63.
 
-Los objetivos específicos de los planes de ordenamiento de zonas Metropolitanas, deberán considerar, además de lo dispuesto por el artículo 65 y 66:
+Los objetivos específicos de los Programas de Zonas Metropolitanas y Conurbadas, deberán considerar, además de lo dispuesto por el artículo 65 y 66:
 
 I. Definir una agenda de prioridades, estrategias y programas para el adecuado desarrollo urbano de la zona metropolitana y sus áreas de influencia;
 
 II. Promover la acción coordinada entre los gobiernos estatal y municipales que conforman la zona metropolitana para ejecutar las acciones prioritarias y estratégicas relacionadas con su desarrollo;
 
-III. Definir las políticas, estrategias e instrumentos para el desarrollo integral de la zona metropolitana que integre los distintos ordenamientos de desarrollo social, económico, urbano y ambiental que impactan su territorio, de conformidad y en congruencia con el Plan Estatal de Ordenamiento Territorial y, en su caso los planes regionales o subregionales de ordenamiento territorial;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Definir las políticas, estrategias e instrumentos para el desarrollo integral de la zona metropolitana que integre los distintos ordenamientos de desarrollo social, económico, urbano y ambiental que impactan su territorio, de conformidad y en congruencia con el Programa Estatal de Ordenamiento Territorial y, en su caso los Programas Regionales de Ordenamiento Territorial;
 
 IV. Definir los criterios e instrumentos para la planeación y administración coordinadas del territorio que involucra;
 
-V. Mejorar las condiciones de vida en los asentamientos humanos y promover la distribución equitativa de los beneficios y cargas que generan los procesos de metropolización, promoviendo la redensificación y el uso eficiente del espacio urbano;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Mejorar las condiciones de vida en los asentamientos humanos y promover la distribución equitativa de los beneficios y cargas que generan los procesos de metropolización, promoviendo la Densificación y el uso eficiente del espacio urbano;
 
 VI. Preservar y acrecentar los recursos naturales y mejorar las condiciones ambientales, a fin de mantener el equilibrio ecológico;
 
@@ -1111,9 +1437,11 @@ VII. Conservar y mejorar la imagen urbana y el patrimonio cultural; y
 
 VIII. Definir las políticas e instrumentos para el ordenamiento, reestructuración, localización, mejoramiento y crecimiento de la infraestructura y los equipamientos en la zona metropolitana y su área de influencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 64.
 
-Para la ejecución y cumplimiento de los Planes de Ordenamiento de Zonas Metropolitanas, los municipios involucrados, con la participación del Estado, deberán celebrar convenios de coordinación, que contengan como mínimo:
+Para la ejecución y cumplimiento de los Programas de Zonas Metropolitanas y Conurbadas, los municipios involucrados, con la participación del Estado, deberán celebrar convenios de coordinación, que contengan como mínimo:
 
 I. La definición de la cartera de proyectos integrales y de largo plazo, como instrumentos de cumplimiento del programa y sus fuentes de financiamiento.
 
@@ -1133,51 +1461,83 @@ VIII. Los mecanismos de seguimiento, control y evaluación.
 
 ### CAPÍTULO CUARTO.. DE LA PLANEACIÓN EN LAS ZONAS METROPOLITANAS Y CONURBACIONES URBANAS
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 65.
 
-La planeación y regulación de las zonas metropolitanas y conurbaciones urbanas en el Estado se llevará a través de los planes de ordenamiento de las zonas metropolitanas y conurbadas, según sea el caso, los cuales integrarán el conjunto de acciones para promover el desarrollo urbano en la zona de que se trate y establecerán las normas y políticas en materia de ordenamiento y regulación de los asentamientos humanos en dichas zonas.
+La Planeación y regulación de las zonas metropolitanas y conurbadas urbanas en el Estado se llevará a través de los Programas de las Zonas Metropolitanas y Conurbadas, según sea el caso, los cuales integrarán el conjunto de acciones para promover el desarrollo urbano en la zona de que se trate y establecerán las normas y políticas en materia de ordenamiento y regulación de los Asentamientos humanos en dichas zonas.
+
+Para efecto del párrafo anterior, deberán considerarse las estrategias y programas nacionales, estatales y municipales de ordenamiento territorial y desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 66.
 
-Los planes de ordenamiento de las de las (sic) zonas metropolitanas y conurbadas deberán contener:
+Los Programas de las Zonas Metropolitanas y Conurbadas deberán contener, además de lo previsto de la Ley General de Asentamientos Humanos, lo siguiente:
 
 I. La motivación y los fundamentos jurídicos;
 
-II. La congruencia con los otros niveles de planeación, particularmente con el Plan Estatal de Ordenamiento Territorial;
+II. La congruencia con el Programa Estatal de Ordenamiento Territorial;
 
-III. La circunscripción territorial de la zona metropolitana o conurbada de que se trate;
+III. La delimitación de los centros de población con espacios geográficos de reserva para una expansión ordenada a largo plazo, que considere estimaciones técnicas del crecimiento;
 
-IV. Diagnóstico y pronóstico de la infraestructura, equipamiento, servicios urbanos, vialidad y transporte que sean comunes a los centros de población que integran la zona metropolitana o conurbada;
+IV. Diagnóstico integral y pronóstico de la Infraestructura, equipamiento, servicios urbanos, vialidad, transporte y movilidad que sean comunes a los centros de población que integran la zona metropolitana o conurbada, con visión prospectiva de corto, mediano y largo plazo;
 
 V. Los objetivos, políticas y metas de ordenación de la zona metropolitana o conurbada;
 
-VI. La estrategia general para el ordenamiento territorial de la zona metropolitana o conurbada, incluyendo la determinación básica de las áreas dedicadas a la conservación, mejoramiento, reubicación, crecimiento y de la preservación y equilibrio ecológico de sus centros de población; así como aquella que oriente la inversión pública y privada para la dotación, ampliación, o mejoramiento, de la infraestructura, equipamiento, servicios urbanos, vialidad, transporte, y otros proyectos prioritarios urbanos que sean comunes a los centros de población que integran la zona;
+VI. Las estrategias y proyectos para el ordenamiento territorial y desarrollo integral de la zona metropolitana o conurbada, incluyendo la determinación básica de las áreas dedicadas a la conservación, mejoramiento, reubicación, crecimiento y de la preservación y equilibrio ecológico de sus centros de población; así como aquella que oriente la inversión pública y privada para la dotación, ampliación, o mejoramiento, de la infraestructura, equipamiento, servicios urbanos, vialidad, transporte, y otros proyectos prioritarios urbanos que sean comunes a los centros de población que integran la zona;
 
-VII. Las bases para la elaboración y ejecución de los planes de centro de población y parciales que se vayan a realizar en la zona metropolitana o conurbada, o en su defecto, cuando así lo acuerden los municipios involucrados con la Secretaría, la zonificación secundaria y demás normas urbanísticas necesarias que permitan la aplicación directa del plan, sin que exista la necesidad de contar con planes de centros de población;
+VII. Los programas de desarrollo social, económico, urbano, turístico, ambiental y de cambio climático que impactan en su territorio, que se vayan a realizar en la zona metropolitana o conurbada, o en su defecto, cuando así lo acuerden los municipios involucrados con la Secretaría, la zonificación secundaria y demás normas urbanísticas necesarias que permitan la aplicación directa del programa, sin que exista la necesidad de contar con programas de centros de población;
 
-VIII. Los compromisos de acciones, obras, inversiones y servicios que realizarán las autoridades estatales y municipales respectivas para el cumplimiento del Plan de Ordenamiento, particularmente tratándose de destinos del suelo;
+VIII. Los compromisos de acciones, obras, inversiones y servicios que realizarán las autoridades estatales y municipales respectivas, para el cumplimiento del Programa Estatal de Ordenamiento Territorial, particularmente tratándose de destinos del suelo;
 
 IX. Los instrumentos y mecanismos que se requieren para la ejecución de las acciones contenidas en las estrategias de desarrollo urbano;
 
-X. Los mecanismos de control, seguimiento y evaluación del programa; y
+X. Las prioridades para la ocupación de suelo urbano vacante, la urbanización ordenada de la expansión periférica y la localización adecuada con relación al área urbanizada consolidada de suelo apto para la urbanización progresiva;
 
-XI. El anexo gráfico impreso y digital que corresponda.
+XI. Las políticas e instrumentos para la reestructuración, localización, mejoramiento de la Infraestructura y los equipamientos del ámbito metropolitano;
+
+XII. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y servicios urbanos que sean comunes a los centros de población de la zona conurbada;
+
+XIII. Las acciones de movilidad, incluyendo los medios de transporte público masivo, los sistemas no motorizados y aquellos de bajo impacto ambiental;
+
+XIV. Las previsiones y acciones para mejorar las condiciones ambientales y el manejo integral de agua;
+
+XV. Las previsiones y acciones prioritarias para conservar, proteger, acrecentar y mejorar el espacio público;
+
+XVI. Las estrategias para la conservación y el mejoramiento de la imagen urbana y del patrimonio natural y cultural;
+
+XVII. Las estrategias de seguridad, prevención del riesgo y resiliencia;
+
+XVIII. Metodología o indicadores para dar seguimiento y evaluar la aplicación y el cumplimiento de los objetivos del Programa de Zonas Metropolitanas y Conurbadas, y
+
+XIX. El anexo gráfico impreso y digital que corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 67.
 
-La formulación y aprobación de los planes de ordenamiento de zonas metropolitanas o conurbadas, se sujetarán a lo descrito en los artículos 44 y 58, correspondiendo a la Comisión Metropolitana o de Conurbación respectiva conducir el proceso y aprobar, en su caso, el plan de que se trate.
+La formulación y aprobación de los Programas de Zonas Metropolitanas y Conurbadas se sujetarán a lo descrito en los artículos 42 y 58, correspondiendo a las Comisiones de Zonas Metropolitanas y de (sic) Conurbadas respectivas, conducir el proceso y aprobar, en su caso, el programa de que se trate.
+
+Una vez aprobados los Programas de Zonas Metropolitanas y Conurbadas, los municipios respectivos, en el ámbito de sus jurisdicciones, tendrán el plazo de un año para expedir o adecuar sus Programas Municipales de Desarrollo Urbano y de Centros de Población involucrados, los cuales deberán tener la debida congruencia, coordinación y ajuste con el Programa de Zonas Metropolitanas y Conurbadas correspondiente.
 
 ### CAPÍTULO QUINTO.. DE LAS DISPOSICIONES APLICABLES A LAS CONURBACIONES RURALES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 68.
 
-Las conurbaciones rurales serán identificadas preliminarmente en el Plan Estatal de Ordenamiento Territorial, y para su reconocimiento formal será necesaria la formalización de un convenio de coordinación entre las autoridades municipales involucradas y la Secretaría; dicho convenio tendrá los siguientes alcances:
+Las conurbaciones rurales serán identificadas preliminarmente en el Programa Estatal de Ordenamiento Territorial, y para su reconocimiento formal será necesaria la formalización de un convenio de coordinación entre las autoridades municipales involucradas y la Secretaría; dicho convenio tendrá los siguientes alcances:
 
 I. Reconocerá y delimitará la zona de que se trate, pudiendo o no abarcar la totalidad de los territorios municipales, conforme a la opinión técnica que al efecto emita la Secretaría;
 
-II. Retomará las disposiciones aplicables del Plan Estatal de Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-III. Las autoridades municipales involucradas acordarán las circunstancias específicas de tiempo, modo y lugar, conforme a las cuales formularán, en coordinación con la Secretaría, los instrumentos de planeación aplicables a cada uno de sus territorios, pero que serán formulados de forma simultánea y articulada, pudiendo ser planes de centros de población, planes parciales o bien esquemas de desarrollo urbano;
+II. Retomará las disposiciones aplicables del Programa Estatal de Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Las autoridades municipales involucradas acordarán las circunstancias específicas de tiempo, modo y lugar, conforme a las cuales formularán, en coordinación con la Secretaría, los instrumentos de Planeación aplicables a cada uno de sus territorios, pero que serán formulados de forma simultánea y articulada, pudiendo ser Programas de Centros de Población, parciales o bien Esquemas Simplificados de Desarrollo Urbano;
 
 IV. Fijará las regulaciones específicas en materia de administración urbana, particularmente las referidas al otorgamiento de autorizaciones de urbanización y uso del suelo, comprometiéndose a respetar las disposiciones de los instrumentos de planeación aplicables; y
 
@@ -1189,9 +1549,11 @@ La Secretaría dará seguimiento a los convenios que se celebren en los término
 
 ### CAPÍTULO PRIMERO.. DISPOSICIONES RELACIONADAS CON EL DERECHO DE PROPIEDAD
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 69.
 
-Las provisiones, usos, reservas y destinos de áreas y predios, contenidos en los planes de ordenamiento territorial y de desarrollo urbano, son de interés público y de beneficio social, conforme a lo previsto en el párrafo tercero del artículo 27 de· la Constitución Política de los Estados Unidos Mexicanos.
+Las Provisiones, usos, reservas y destinos de áreas y predios, contenidos en los programas de ordenamiento territorial y de desarrollo urbano, son de interés público y de beneficio social, conforme a lo previsto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 70.
 
@@ -1203,119 +1565,165 @@ La no inclusión de dichas cláusulas o el pacto que contravenga lo dispuesto en
 
 Los predios del territorio estatal, estarán sujetos cualquiera que sea su régimen jurídico o su condición urbana o rural, a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 72.
 
-La posesión, el derecho de propiedad o cualquier otro derecho derivado de la tenencia de predios serán ejercidos por su titular con las limitaciones y modalidades establecidas por esta Ley, planes de ordenamiento territorial y de desarrollo urbano y demás ordenamientos relativos.
+La posesión, el derecho de propiedad o cualquier otro derecho derivado de la tenencia de predios serán ejercidos por su titular con las limitaciones y modalidades establecidas por esta Ley, programas de ordenamiento territorial y de desarrollo urbano y demás ordenamientos relativos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 73.
 
-Los notarios públicos y demás fedatarios sólo podrán autorizar escrituras de actos, convenios y contratos a que se refiere el artículo anterior, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto en la Ley General de Asentamientos Humanos, esta Ley y sus disposiciones reglamentarias, así como los planes de ordenamiento territorial y de desarrollo urbano, mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+Los notarios públicos y demás fedatarios sólo podrán autorizar escrituras de actos, convenios y contratos a que se refiere el artículo anterior, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto en la Ley General de Asentamientos Humanos, esta Ley y sus disposiciones reglamentarias, así como los programas de ordenamiento territorial y de desarrollo urbano, mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
 ###### ARTÍCULO 74.
 
 El ejercicio de los derechos de propiedad a que se refiere la Ley Agraria, en lo relacionado con el aprovechamiento urbano y el equilibrio ecológico, se ajustará, de conformidad con la misma, a lo dispuesto por la Ley General de Asentamientos Humanos, la Ley del Equilibrio Ecológico del Estado, la presente Ley y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 75.
 
-Cuando los núcleos de población ejidal y comunal resuelvan delimitar sus zonas de urbanización y la reserva del crecimiento del poblado, lo harán conforme a lo establecido por las Normas Técnicas que para tal efecto haya emitido la dependencia correspondiente, la presente Ley y los planes de ordenamiento territorial y de desarrollo urbano en vigor.
+Cuando los núcleos de población ejidal y comunal resuelvan delimitar sus zonas de urbanización y la reserva del crecimiento del poblado, lo harán conforme a lo establecido por las normas técnicas y normas oficiales mexicanas, que para tal efecto haya emitido la dependencia correspondiente, la presente Ley y los programas de ordenamiento territorial y de desarrollo urbano en vigor, así como en las reservas, usos del suelo y destinos de áreas y predios.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 76.
 
-Para la localización, deslinde y fraccionamiento de la zona de urbanización de los ejidos y comunidades, y su reserva de crecimiento, se requerirá la intervención de las autoridades municipales correspondientes, quienes actuarán de conformidad con lo establecido por la Ley Agraria, la Ley General de Asentamientos Humanos, la presente Ley y los planes de ordenamiento territorial y de desarrollo urbano vigentes.
+Para la localización, deslinde y fraccionamiento de la zona de urbanización de los ejidos y comunidades, y su reserva de crecimiento, se requerirá la intervención de las autoridades municipales correspondientes, quienes emitirán las autorizaciones favorables de impacto urbano y actuarán de conformidad con lo establecido por la Ley Agraria, la Ley General de Asentamientos Humanos, la presente Ley, su Reglamento y los Programas de ordenamiento territorial y de desarrollo urbano vigentes.
 
 ###### ARTÍCULO 77.
 
 Al constituirse la zona de urbanización y su reserva de crecimiento, los ejidos y comunidades separarán las superficies necesarias para el equipamiento urbano y los servicios de la comunidad.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 78.
 
-Cuando se constituye una zona de urbanización ejidal o comunal, la localización y extensión de los solares urbanos se determinará por la asamblea de ejidatarios o comuneros, con la participación del municipio correspondiente, de conformidad a lo establecido por la presente Ley, sus reglamentos, los planes de ordenamiento territorial y de desarrollo urbano en vigor; y atendiendo a las características, usos y costumbres de cada región.
+Cuando se constituya una zona de urbanización ejidal o comunal, la localización y extensión de los solares urbanos se determinará por la asamblea de ejidatarios o comuneros, con la participación de las autoridades municipales correspondientes, de conformidad a lo establecido por la presente Ley, sus reglamentos, los programas de ordenamiento territorial y de desarrollo urbano en vigor; y atendiendo a las características, usos y costumbres de cada región.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 79.
 
-Cuando los terrenos de un ejido o comunidad se encuentren ubicados en el área de crecimiento de un centro de población, los núcleos de población ejidal o comunal podrán beneficiarse de la urbanización de sus tierras. En todo caso, la incorporación de las tierras ejidales y comunales al desarrollo urbano deberá sujetarse a las disposiciones de la presente Ley, los reglamentos que de ella emanen y a los planes de ordenamiento territorial y de desarrollo urbano en vigor.
+Cuando los terrenos de un ejido o comunidad se encuentren ubicados en las Reservas de un centro de población, los núcleos de población ejidal o comunal podrán beneficiarse de la urbanización de sus tierras. En todo caso, la incorporación de las tierras ejidales y comunales al desarrollo urbano deberá sujetarse a las disposiciones de la presente Ley, los reglamentos que de ella emanen, a los programas de ordenamiento territorial y de desarrollo urbano en vigor y a los requisitos previstos en el artículo 80 de la Ley General de Asentamientos Humanos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 80.
 
-Para constituir, ampliar y delimitar la zona de urbanización ejidal o comunal y su reserva de crecimiento, así como para promover la regularización de la tenencia de predios en los que se hayan constituido asentamientos humanos irregulares, la asamblea ejidal o de comuneros respectiva deberá ajustarse a las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Federal de Desarrollo Forestal Sustentable, la Ley General de Asentamientos Humanos, la presente Ley, así como a las disposiciones jurídicas locales de desarrollo urbano y a la zonificación contenida en los planes o programas aplicables en la materia. En estos casos, se requiere la autorización del municipio en el que se encuentre ubicado el ejido o comunidad.
+Para constituir, ampliar y delimitar la zona de urbanización ejidal o comunal y su reserva de crecimiento, así como para promover la regularización de la tenencia de predios en los que se hayan constituido asentamientos humanos irregulares, la asamblea ejidal o de comuneros respectiva deberá ajustarse a las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley General de Asentamientos Humanos, la presente Ley, así como a las disposiciones jurídicas locales de desarrollo urbano y a la zonificación contenida en los programas aplicables en la materia. En estos casos, se requiere la autorización del municipio en el que se encuentre ubicado el ejido o comunidad.
 
 ###### ARTÍCULO 81.
 
 El Estado promoverá la coordinación necesaria con el Gobierno Federal para asegurar el ejercicio de las atribuciones locales de regulación y control urbano en la constitución de las zonas de urbanización ejidal, así como en los procesos de privatización y extinción del régimen ejidal o comunal que contempla la Ley Agraria.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 82.
 
-Queda prohibida la urbanización de tierras cualesquiera que sea su régimen jurídico, que se ubiquen en áreas naturales protegidas, incluyendo las zonas de preservación ecológica establecidas en los planes de ordenamiento territorial y de desarrollo urbano y aquellas previstas en la Ley del Equilibrio Ecológico del Estado. Exceptuándose cuando se requiera la reubicación de asentamientos humanos existentes, en zonas de riesgo y/o vulnerabilidad, o por fenómenos naturales, previa Declaratoria.
+Queda prohibida la urbanización de tierras cualquiera que sea su régimen jurídico, que se ubiquen en áreas naturales protegidas, incluyendo las zonas de preservación ecológica establecidas en los programas de ordenamiento territorial y de desarrollo urbano y aquellas previstas en la Ley del Equilibrio Ecológico del Estado. Exceptuándose cuando se requiera la reubicación de los asentamientos humanos existentes, en zonas de riesgo y/o vulnerabilidad, o por fenómenos naturales, previa declaratoria.
 
 Las violaciones a la prohibición que establece este artículo serán sancionadas según su gravedad de manera penal o administrativa, conforme a la ley aplicable en la materia y a lo previsto por la presente Ley.
 
 ### CAPÍTULO SEGUNDO.. DE LA FUNDACIÓN, CRECIMIENTO, MEJORAMIENTO, REUBICACIÓN Y CONSERVACIÓN DE LOS CENTROS DE POBLACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 83.
 
-La fundación de centros de población deberá establecerse mediante un decreto legislativo expedido por el Congreso del Estado y publicado en el Periódico Oficial del Estado, previa solicitud del municipio que corresponda.
+La fundación de centros de población deberá establecerse mediante un decreto legislativo expedido por el Congreso del Estado y publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, previa solicitud del municipio que corresponda y dictamen de congruencia que emita la Secretaría en los términos previstos en el Reglamento.
 
-El decreto a que se refiere el párrafo anterior deberá contener las determinaciones sobre provisión de tierras, ordenará la formulación y vigencia jurídica del plan de desarrollo urbano respectivo de acuerdo a su clasificación jerárquica de localidad a que corresponda, definida por el Plan Estatal de Ordenamiento Territorial.
+El decreto a que se refiere el párrafo anterior deberá contener las determinaciones sobre provisión de tierras, ordenará la formulación y vigencia jurídica del programa de desarrollo urbano respectivo de acuerdo a su clasificación jerárquica de localidad a que corresponda, definida por el Programa Estatal de Ordenamiento Territorial y asignará la categoría político administrativa al centro de población.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 84.
 
-La fundación de centros de población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, así como el patrón de asentamiento humano rural.
+La Fundación de centros de población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, así como el patrón de asentamiento humano rural y las comunidades indígenas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 85.
 
-Cuando a través de una acción urbana se pretenda llevar a cabo un proyecto que por sus dimensiones, características o impacto previsibles, constituya un nuevo centro de población, la Secretaría, al emitir la resolución en materia de impacto urbano regional correspondiente, podrá determinar la conveniencia de llevar a cabo el proyecto a través de la fundación de un nuevo centro de población.
+Cuando a través de una acción urbanística se pretenda llevar a cabo un proyecto que, por sus dimensiones, características o impacto previsibles, constituya un nuevo centro de población, la Secretaría, al emitir la resolución en materia de impacto urbano regional del proyecto ejecutivo, podrá determinar la conveniencia de llevar a cabo el proyecto a través de la fundación de un nuevo centro de población.
+
+De igual manera, se requerirá la aprobación de la creación de un nuevo centro de población o la modificación previa del Programa Municipal de Desarrollo Urbano y de Centros de Población que corresponda, cuando se pretendan llevar a cabo cualquier tipo de acción o aprovechamiento urbano fuera de los límites de un centro de población, que no cuente con un programa de desarrollo urbano y ordenamiento territorial vigente, o de aquellos proyectos en áreas rurales que requieran la construcción o introducción de obras de cabecera o de redes de Infraestructura primaria.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 86.
 
-La fundación de un centro de población deberá incluir tanto en el decreto que le de origen, como en el plan de desarrollo urbano que al efecto se formule, todos los elementos urbanos, de infraestructura, servicios y vinculación con los asentamiento humanos existentes en la región de que se trate, así como sus respectivas fuentes de financiamiento.
+La fundación de un centro de población deberá incluir tanto en el decreto que le de origen, como en el programa de desarrollo urbano que al efecto se formule, todos los elementos urbanos, de infraestructura, servicios y vinculación con los asentamientos humanos existentes en la región de que se trate, así como sus respectivas fuentes de financiamiento.
+
+Los nuevos fraccionamientos o conjuntos urbanos deberán respetar y conectarse a la estructura vial existente.
+
+Cuando se inicien obras que no cumplan con lo dispuesto en este artículo, podrán ser denunciadas por cualquier persona interesada y serán sancionadas con clausura de las mismas, sin perjuicio de otras responsabilidades aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 87.
 
-Los planes de desarrollo urbano señalarán las acciones específicas para la conservación, mejoramiento y crecimiento de los centros de población y establecerán la zonificación correspondiente, dichas acciones se llevarán a cabo mediante:
+Los programas de desarrollo urbano señalarán las acciones específicas para la Conservación, Mejoramiento y Crecimiento de los centros de población y establecerán la zonificación correspondiente, dichas acciones se llevarán a cabo mediante:
 
-I. La asignación de usos y destinos compatibles;
+I. La asignación de usos y destinos compatibles, promoviendo la mezcla de usos de suelo, procurando integrar las zonas residenciales, comerciales y centros de trabajo, impidiendo la expansión física desordenada de los centros de población y la adecuada estructura vial;
 
-II. La formulación, aprobación y ejecución de los planes de desarrollo urbano;
+II. La formulación, aprobación y ejecución de los programas de desarrollo urbano;
 
 III. La celebración de convenios y acuerdos de coordinación en su caso, con las dependencias y entidades federales, estatales y municipales y de concertación de acciones con los sectores social y privado;
 
 IV. La adquisición, asignación o destino de inmuebles para el sector público;
 
-V. La construcción de vivienda, infraestructura y equipamiento de los centros de población;
+V. La construcción de vivienda, Infraestructura y equipamiento de los centros de población;
 
-VI. La regularización de la tenencia de la tierra urbana y de las construcciones; y
+VI. La regularización de la tenencia de la tierra urbana y de las construcciones;
 
-VII. Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación, mejoramiento y crecimiento.
+VII. La compatibilidad de los servicios públicos y la Infraestructura de telecomunicaciones y de radiodifusión, en cualquier uso de suelo, para áreas urbanizables y no urbanizables;
+
+VIII. La prevención, vigilancia y control de los procesos de ocupación irregular de las tierras, y
+
+IX. Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación, mejoramiento y crecimiento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 88.
 
 Las acciones de conservación y mejoramiento de los centros de población, además de las previsiones señaladas en el artículo anterior, se efectuará mediante:
 
-I. La protección ecológica de los centros de población;
+I. La protección ecológica de los centros de población y su crecimiento sustentable;
 
-II. La proporción que debe existir entre las áreas verdes y las edificaciones destinadas a la habitación, los servicios urbanos y las actividades productivas;
+II. La formulación, aprobación y ejecución de programas parciales de desarrollo urbano;
 
-III. La preservación del patrimonio cultural y de la imagen urbana de los centros de población;
+III. La aplicación de los instrumentos que prevé esta Ley;
 
-IV. El reordenamiento, renovación o densificación de áreas urbanas deterioradas, aprovechando adecuadamente sus componentes sociales y materiales;
+IV. La previsión que debe existir de áreas verdes, espacios públicos seguros y de calidad, y espacio edificable;
 
-V. La dotación de servicios, equipamiento o infraestructura urbana, en áreas carentes de ellas;
+V. La preservación del patrimonio natural y cultural, así como de la imagen urbana de los centros de población;
 
-VI. La prevención, control y atención de riesgos y contingencias ambientales y urbanos en los centros de población;
+VI. El reordenamiento, renovación o densificación de áreas urbanizadas deterioradas, aprovechando adecuadamente sus componentes sociales y materiales;
 
-VII. La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos;
+VII. La dotación de espacios públicos primarios, servicios, equipamiento o Infraestructura, en áreas carentes de ellas, para garantizar en éstos acceso universal a espacios públicos seguros, inclusivos y accesibles, en especial para mujeres, niños, niñas, adultos mayores y personas con discapacidad;
 
-VIII. La regeneración y renovación urbana de las áreas centrales, mediante proyectos urbanos específicos y programas de fomento para su densificación y reciclamiento urbanos;
+VIII. La prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población;
 
-IX. La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública, de conformidad con la ley aplicable en la materia; y
+IX. La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos que tiendan a integrar a la comunidad;
 
-X. Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
+X. La potestad administrativa que permita la celebración de convenios entre autoridades y propietarios a efectos de facilitar la expropiación de sus predios por las causas de utilidad pública previstas en esta Ley;
+
+XI. La construcción y adecuación de la Infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, el libre tránsito y la accesibilidad universal requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta sobre las características técnicas de los proyectos;
+
+XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales, y
+
+XIII. Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
 
 ###### ARTÍCULO 89.
 
 Además de lo dispuesto en el artículo 102 de esta Ley, las acciones de crecimiento de los centros de población se efectuarán mediante:
 
-I. La determinación de las áreas de reserva para expansión de dichos centros, que se preverán en los planes de desarrollo urbano; mediante los perímetros de contención urbana los cuales se clasifican en intraurbano (U1): zonas urbanas consolidadas con acceso a empleo; primer contorno (U2) zonas en proceso de consolidación; y segundo contorno (U3) zonas contiguas al área urbana.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. La determinación de las áreas de reserva para expansión de dichos centros, que se preverán en los programas de desarrollo urbano; mediante los perímetros de contención urbana los cuales se clasifican en intraurbano (U1): áreas urbanizadas consolidadas con acceso a empleo; primer contorno (U2) zonas en proceso de consolidación; y segundo contorno (U3) zonas contiguas al área urbanizada.
 
 II. La participación de los municipios en la incorporación de porciones de la reserva a la expansión urbana y su regulación de crecimiento atendiendo al régimen jurídico de tenencia de la tierra a la que pertenezca;
 
@@ -1325,15 +1733,19 @@ IV. La aplicación de políticas e instrumentos para promover la densificación 
 
 V. Los instrumentos para la intervención directa del Estado y los municipios tendientes a la adquisición o aportación por parte de los sectores público, social y privado de áreas o predios ubicados en las zonas de reserva, a efecto de disponer de dicho recurso en tiempo y condición para el crecimiento de los centros de población.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 90.
 
-Las autoridades estatales y municipales preverán en los planes de desarrollo urbano de su competencia, que las áreas de reserva de suelo para el crecimiento urbano y la vivienda tengan las siguientes características:
+Las autoridades estatales y municipales preverán en los programas de desarrollo urbano de su competencia, que las áreas de reserva de suelo para el crecimiento y la vivienda, tengan las siguientes características:
 
 I. Las pendientes del suelo deberán ser menores al 30 por ciento, considerando en su caso, la estructura geológica y morfológica del suelo;
 
 II. El suelo no deberá tener fallas o fracturas geológicas activas, ni ser susceptible a derrumbes o deslizamientos;
 
-III. El suelo no deberá ser considerado como sujeto a riesgos naturales o antropogénicos conforme al Plan Estatal de Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. El suelo no deberá ser considerado como sujeto a riesgos naturales o antropogénicos conforme al Programa Estatal de Ordenamiento Territorial;
 
 IV. El suelo no deberá encontrarse dentro de la franja de protección de la cota de máximo crecimiento hidráulico indicado por las autoridades correspondientes;
 
@@ -1341,15 +1753,19 @@ V. El área no deberá estar contaminada o expuesta a la contaminación generada
 
 VI. En el área no deberán existir ecosistemas en equilibrio ecológico o recursos naturales endémicos;
 
-VII. El área deberá contar con elementos de integración con el área urbana existente mediante la infraestructura para la movilidad; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VII. El área deberá contar con elementos de integración con el área urbanizada existente mediante la infraestructura para la movilidad, y
 
 VIII. El área deberá contar con factibilidad para ser dotada de infraestructura y los servicios públicos de agua potable, drenaje sanitario, energía eléctrica y alumbrado público.
 
 ### CAPÍTULO TERCERO.. DEL SUELO Y LAS RESERVAS TERRITORIALES
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 91.
 
-El Ejecutivo del Estado en coordinación con los municipios, elaborará de conformidad con lo previsto en los Planes de Ordenamiento Territorial y de Desarrollo Urbano. Los programas de adquisición de tierra para la creación de reservas territoriales, que satisfagan las necesidades de suelo urbano o urbanizable, para el crecimiento de los centros de población, así como para la vivienda y su equipamiento.
+El Ejecutivo del Estado en coordinación con los municipios, elaborará de conformidad con lo previsto en los programas de ordenamiento territorial y de desarrollo urbano. Los programas de adquisición de tierra para la creación de reservas territoriales, que satisfagan las necesidades de suelo urbano o urbanizable, para el crecimiento de los centros de población, así como para la vivienda y su equipamiento.
 
 ###### ARTÍCULO 92.
 
@@ -1377,9 +1793,11 @@ La atención de asentamientos humanos irregulares tendrá como prioridad reubica
 
 Las acciones de reubicación se llevarán a cabo por el Estado en coordinación con el municipio de que se trate, como acciones de mejoramiento urbano y en todo caso la zona definida para la reubicación deberá contar con los usos y destinos del suelo adecuados para la misma.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 96.
 
-Los programas de regularización de la tenencia de la tierra, cualquiera que sea el régimen jurídico de tenencia, se sujetarán a las disposiciones de planeación urbana y se instrumentarán como una acción de mejoramiento urbano aprobada por el municipio que corresponda.
+Los programas de regularización de la tenencia de la tierra, cualquiera que sea el régimen jurídico de tenencia, se sujetarán a las disposiciones de planeación urbana y se instrumentarán como una acción de Mejoramiento urbano aprobada por las autoridades municipales que corresponda.
 
 ###### ARTÍCULO 97.
 
@@ -1389,59 +1807,115 @@ La regularización de la tenencia de la tierra como una acción de mejoramiento 
 
 Los asentamientos irregulares existentes sólo podrán ser regularizados e incorporados formalmente a los centros de población, sujetos al cumplimiento de las siguientes disposiciones:
 
-I. Estar ubicados en áreas factibles de urbanizar y no en áreas o zonas de riesgo o de preservación ecológica, de conformidad con lo que señalen los planes de desarrollo urbano correspondientes;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Estar ubicados en áreas factibles de urbanizar y no en áreas o zonas de riesgo o de preservación ecológica, de conformidad con lo que señalen los programas de desarrollo urbano correspondientes;
 
 II. Promover su regularización como fraccionamiento habitacional de urbanización progresiva a través del organismo público competente cumpliendo con las disposiciones de esta Ley y de dicho organismo; y
 
 III. Contar con el visto bueno expreso de las autoridades municipales, contenido en un acta de cabildo, previo cumplimiento de los requisitos solicitados.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 99.
 
-Las autoridades estatales y municipales se abstendrán de dar trámite a solicitudes o documentos para la autorización de acciones urbanas que se pretendan llevar a cabo en predios que previamente hayan sido ocupados irregularmente o invadidos por terceros, salvo que el interesado acredite haber presentado denuncia o querella en contra de los presuntos invasores, en cuyo caso la autoridad esperará a que la resolución definitiva sea dictada por la autoridad jurisdiccional, sin perjuicio de que el particular cumpla con lo establecido en esta ley.
+Las autoridades estatales y municipales se abstendrán de dar trámite a solicitudes o documentos para la autorización de acciones urbanísticas que se pretendan llevar a cabo en predios que previamente hayan sido ocupados irregularmente o invadidos por terceros, salvo que el interesado acredite haber presentado denuncia o querella en contra de los presuntos invasores, en cuyo caso la autoridad esperará a que la resolución definitiva sea dictada por la autoridad jurisdiccional, sin perjuicio de que el particular cumpla con lo establecido en esta Ley.
 
 ###### ARTÍCULO 100.
 
 La regularización de la tenencia de la tierra en el territorio del Estado se sujetará a las siguientes normas, así como a las que apliquen los organismos correspondientes:
 
-I. Se ajustará a lo que establezcan los planes de desarrollo urbano vigentes;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-II. En el caso de la tierra social a las Normas Técnicas para la Localización, Deslinde y Fraccionamiento de las Zonas de Urbanización de Ejidos y Comunidades, de su Ampliación y de sus Reservas de Crecimiento por parte de la autoridad federal competente;
+I. Se ajustará a lo que establezcan los programas de Desarrollo urbano vigentes;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. En el caso de la tierra social, a las normas técnicas para la localización, deslinde y fraccionamiento de las zonas de urbanización de ejidos y comunidades, de su ampliación y de sus reservas de crecimiento por parte de la autoridad federal competente;
 
 III. Sólo podrán ser beneficiarios de la regularización quienes ocupen un predio y no sean propietarios de otro inmueble en el centro de población respectivo. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión;
 
-IV. Ninguna persona podrá resultar beneficiada por la regularización con más de un lote o predio, cuya superficie no podrá exceder de la extensión determinada por los planes de desarrollo urbano aplicables; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. Ninguna persona podrá resultar beneficiada por la regularización con más de un lote o predio, cuya superficie no podrá exceder de la extensión determinada por los programas de desarrollo urbano aplicables, y
 
 V. Para el caso de lotes mayores, éstos se destinarán para equipamiento u otros usos de carácter público.
 
-### CAPÍTULO CUARTO.. DEL REAGRUPAMIENTO INMOBILIARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO CUARTO.. DEL REAGRUPAMIENTO DE PREDIOS
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 101.
 
-El reagrupamiento inmobiliario procederá cuando los planes de desarrollo urbano lo determinen, así como cuando lo acuerden y lo soliciten los propietarios de los predios comprendidos en un área determinada, para llevar a cabo acciones de crecimiento, mejoramiento o conservación.
+El reagrupamiento de predios para llevar a cabo acciones de crecimiento, mejoramiento o conservación procederá cuando:
 
-Los requisitos, derechos y obligaciones de los propietarios que conformen un reagrupamiento inmobiliario, se establecerán en el reglamento de la presente Ley.
+I. Los programas de desarrollo urbano lo determinen;
+
+II. La Secretaría o Autoridad Municipal lo soliciten, y;
+
+III. En su caso, cuando lo acuerden y lo soliciten los propietarios de los predios comprendidos en un área determinada.
+
+Los requisitos, derechos y obligaciones de los propietarios que conformen un reagrupamiento de predios, se establecerán en el reglamento.
+
+Los predios reagrupados, podrán conformar polígonos de actuación a fin de lograr un desarrollo urbano integrado y podrán aprovechar los incentivos y facilidades contempladas en esta Ley y la Ley General de Asentamientos Humanos para la ocupación y aprovechamiento de áreas, polígonos y predios baldíos, subutilizados y mostrencos.
 
 ### CAPÍTULO QUINTO.. DE LA ZONIFICACIÓN URBANA
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 102.
 
-A los municipios corresponderá formular, aprobar y administrar la zonificación de los centros de población ubicados en su territorio, conforme a los lineamientos del Plan Estatal de Ordenamiento Territorial y las demás disposiciones de mayor jerarquía aplicables.
+A las autoridades municipales corresponderá formular, aprobar y administrar la zonificación de los centros de población ubicados en su territorio, conforme a los lineamientos del Programa Estatal de Ordenamiento Territorial y las demás disposiciones aplicables.
 
-La zonificación deberá establecerse en los planes o programas de desarrollo urbano respectivos, en la que se determinarán:
+La zonificación deberá establecerse en los programas de desarrollo urbano respectivos, de conformidad con lo siguiente:
 
-I. Las áreas que integran y delimitan los centros de población;
+A. Zonificación Primaria: con visión de mediano y largo plazo, deberá establecerse en los Programas Municipales de Desarrollo Urbano, en congruencia con los Programas de Zonas Metropolitanas y conurbadas en su caso, en la que se determinarán:
 
-II. Los aprovechamientos predominantes en las distintas zonas a que se refiere la fracción anterior; y
+I. Las áreas que integran y delimitan los centros de población, previendo las secuencias y condicionantes del crecimiento de la ciudad;
 
-III. La reglamentación de usos, destinos y reservas del suelo.
+II. Las áreas de valor ambiental y de alto riesgo, no urbanizables, localizadas en los centros de población;
+
+III. La red de vialidades primarias que estructure la conectividad, la movilidad y la accesibilidad universal, así como a los espacios públicos y equipamientos de mayor jerarquía;
+
+IV. Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
+
+V. La identificación y las medidas necesarias para la custodia, rescate y ampliación del espacio público, así como para la protección de los derechos de vía;
+
+VI. Las reservas territoriales, priorizando las destinadas a la urbanización progresiva en los centros de población;
+
+VII. Las normas y disposiciones técnicas aplicables para el diseño o adecuación de destinos específicos tales como para vialidades, parques, plazas, áreas verdes o equipamientos que garanticen las condiciones materiales de la vida comunitaria y la movilidad;
+
+VIII. La identificación y medidas para la protección de las zonas de salvaguarda y derechos de vía, especialmente en áreas de instalaciones de riesgo o sean consideradas de seguridad nacional, compensando a los propietarios afectados por estas medidas, y
+
+IX. La identificación y medidas para la protección de los polígonos de amortiguamiento industrial que, en todo caso, deberán estar dentro del predio donde se realice la actividad sin afectar a terceros. En caso de ser indispensable dicha afectación, se deberá compensar a los propietarios afectados.
+
+B. Zonificación secundaria: se establecerá en los Programas Municipales de Desarrollo Urbano de acuerdo a los criterios siguientes:
+
+I. En las zonas de conservación se regulará la mezcla de usos del suelo y sus actividades, y
+
+II. En las zonas que no se determinen de conservación:
+
+a) Se considerarán compatibles y, por lo tanto, no se podrá establecer una separación entre los usos de suelo residenciales, comerciales y centros de trabajo, siempre y cuando éstos no amenacen la seguridad, salud y la integridad de las personas, o se rebasen la capacidad de los servicios de agua, drenaje y electricidad o la movilidad;
+
+b) Se deberá permitir la densificación en las edificaciones, siempre y cuando no se rebase la capacidad de los servicios de agua, drenaje y electricidad o la movilidad;
+
+Los promotores o desarrolladores deberán asumir el costo incremental de recibir estos servicios. El Estado establecerá mecanismos para aplicar dicho costo y ajustar la capacidad de infraestructuras y equipamientos que permita a promotores o desarrolladores incrementar la densidad de sus edificaciones y la mezcla de usos del suelo, y
+
+c) Se garantizará que se consolide una red coherente de vialidades primarias, dotación de espacios públicos y equipamientos suficientes y de calidad.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 103.
 
-A partir de la publicación de los planes o programas de ordenamiento territorial y de desarrollo urbano, previstos por la presente Ley, las áreas y predios en ellos comprendidos quedarán sujetos a las regulaciones de los mismos.
+A partir de la publicación de los programas de ordenamiento territorial y de desarrollo urbano, previstos por la presente Ley, las áreas y predios en ellos comprendidos quedarán sujetos a las regulaciones de los mismos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 104.
 
-La zonificación que determinen los planes o programas de desarrollo urbano, establecerán los usos y las normas para el aprovechamiento de las áreas y predios de un centro de población, indicando:
+La Zonificación que determinen los programas de desarrollo urbano, establecerán los usos y las normas para el aprovechamiento de las áreas y predios de un centro de población, indicando:
 
 I. Los usos permitidos, prohibidos o condicionados;
 
@@ -1455,11 +1929,13 @@ V. Los demás de conformidad con lo que establece la presente Ley y sus reglamen
 
 En la determinación de los usos del suelo, se especificarán las zonas en las que no sea permitido el establecimiento de industrias, comercios o servicios clasificados como riesgosos, de conformidad con lo establecido por la Ley del Equilibrio Ecológico del Estado y demás disposiciones relativas en la materia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 105.
 
-El establecimiento de destinos del suelo en los planes de ordenamiento territorial y de desarrollo urbano se sujetará a las siguientes reglas:
+El establecimiento de destinos de suelo en los programas de ordenamiento territorial y de desarrollo urbano se sujetará a las siguientes reglas:
 
-I. la determinación de los destinos del suelo será de interés público y su establecimiento deberá fundamentarse exclusivamente en consideraciones técnicas, jurídicas y sociales que los justifiquen;
+I. La determinación de los destinos del suelo será de interés público y su establecimiento deberá fundamentarse exclusivamente en consideraciones técnicas, jurídicas y sociales que los justifiquen;
 
 II. Los programas de desarrollo urbano precisarán las zonas o predios afectados por destinos del suelo, así como la descripción del fin o aprovechamiento público a que éstos prevean dedicarse;
 
@@ -1471,9 +1947,11 @@ V. Tratándose de destinos relativos a la infraestructura vial e hidráulica, lo
 
 VI. Quienes resulten afectados por la realización de las obras a que se refiere la fracción anterior, podrán compensar las cargas impuestas con los incrementos de valor del suelo que se generen.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 106.
 
-La zonificación que determine los planes de desarrollo urbano, establecerán las reservas y normas técnicas para la delimitación de las áreas de expansión futura del centro de población, una vez publicado, los predios en ellos comprendidos se utilizarán por sus propietarios en forma que no presenten obstáculos al futuro aprovechamiento determinado por el plan correspondiente.
+La zonificación que determinen los programas de desarrollo urbano, establecerán las reservas y normas técnicas para la delimitación de las áreas de expansión futura del centro de población, una vez publicado, los predios en ellos comprendidos se utilizarán por sus propietarios en forma que no presenten obstáculos al futuro aprovechamiento, determinado por el programa correspondiente.
 
 En igualdad de circunstancias, las reservas comprenderán preferentemente terrenos que no sean de propiedad ejidal o comunal.
 
@@ -1481,27 +1959,13 @@ Cuando se requiera la ocupación parcial o total de las reservas, se expedirá u
 
 ###### ARTÍCULO 107.
 
-Para el efecto de ordenar y regular el desarrollo urbano, el territorio del Estado se clasifica en:
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2017)
 
-I. Zonas urbanas y urbanizables;
-
-II. Zonas en proceso de urbanización;
-
-III. Reservas territoriales; zonas de desarrollo controlado, de amortiguamiento y de salvaguarda, especialmente en áreas e instalaciones en las que se realizan actividades riesgosas y se manejan materiales y residuos peligrosos.
-
-IV. Provisiones para la creación de nuevos centros de población;
-
-V. Espacios destinados a la conservación;
-
-VI. Espacios rurales;
-
-VII. Áreas o zonas federales en ríos, afluentes, caminos y costas; y
-
-VIII. Espacios destinados al mejoramiento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 108.
 
-Las zonas urbanas y urbanizables serán destinadas a usos mixtos y podrán incluir:
+Las áreas urbanizadas y urbanizables serán destinadas a usos mixtos y podrán incluir:
 
 I. Habitación;
 
@@ -1517,27 +1981,31 @@ VI. Servicios, y
 
 VII. Otros usos compatibles.
 
-Las zonas urbanas y urbanizables se dedicarán a los usos y destinos antes mencionados, de acuerdo a los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Las áreas urbanizadas y urbanizables se destinarán a los usos antes mencionados, de acuerdo a los programas de ordenamiento territorial y de desarrollo urbano vigentes, los cuales impedirán la expansión física desordenada de los centros de población y fomentarán la adecuada estructura vial.
 
 ### CAPÍTULO SEXTO.. DE LOS POLÍGONOS DE ACTUACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 109.
 
-La ejecución de acciones, obras, proyectos e inversiones consideradas en los planes de ordenamiento territorial y de desarrollo urbano, se podrán llevar a cabo mediante la constitución y ejecución de polígonos de actuación.
+La ejecución de acciones, obras, proyectos e inversiones consideradas en los Programas de ordenamiento territorial y de desarrollo urbano, se podrán llevar a cabo mediante la constitución y ejecución de polígonos de actuación.
 
-Los polígonos de actuación se podrán constituir mediante determinación de los planes de ordenamiento territorial, de desarrollo urbano o a solicitud a la autoridad competente, hecha por cualquier interesado en la ejecución de acciones, obras, proyectos e inversiones contempladas en dichos planes.
+Los polígonos de actuación se podrán constituir por disposición de programas de ordenamiento territorial y de desarrollo urbano, o a solicitud que se realice ante la autoridad competente, por cualquier interesado en la ejecución de acciones, obras, proyectos e inversiones contempladas en dichos programas.
 
-Las acciones, obras, proyectos e inversiones para la ejecución de un polígono de actuación serán coordinados por la autoridad competente, la que establecerá los derechos y obligaciones que corresponderá a cada uno de ellos, así como las formas de cooperación para el fomento, concertación y financiamiento de las acciones e inversiones necesarias.
+Las acciones, obras, proyectos e inversiones para la ejecución de un polígono de actuación serán coordinados por la Secretaría o Autoridad Municipal correspondiente quienes recibirán, dictaminarán y resolverán lo procedente, señalando los derechos y obligaciones que correspondan, así como las formas de cooperación para el fomento, concertación y financiamiento de las acciones e inversiones necesarias.
 
-Los polígonos de actuación, serán recibidos, dictaminados y resueltos por el municipio o la Secretaría en su caso.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 110.
 
-Cuando el polígono de actuación sea determinado por los planes de desarrollo urbano, la autoridad competente podrá promover mecanismos para la colaboración de los sectores social o privado.
+Cuando el polígono de actuación sea determinado por los programas de desarrollo urbano, la autoridad competente podrá promover mecanismos para la colaboración de los sectores social o privado.
 
-Cuando el polígono de actuación se determine por el municipio o la Secretaría, según sea el caso, a petición de terceros interesados, éstos podrán proponer a la autoridad competente los mecanismos e instrumentos de ejecución y financiamiento que consideren necesarios.
+En el caso de que el polígono de actuación se determine por las autoridades municipales o la secretaría, a petición de terceros interesados, éstos podrán proponer los mecanismos e instrumentos de ejecución y financiamiento que consideren necesarios.
 
-En caso de que los participantes en un polígono de actuación incumplan con las obligaciones que derivadas del mismo, el municipio o la Secretaria, según sea el caso, podrá intervenir llevando a cabo los procedimientos correspondientes para la conclusión del proyecto.
+Las autoridades municipales o la Secretaría, según corresponda, podrá (sic) intervenir cuando se incumplan con las obligaciones derivadas de un polígono de actuación, llevando a cabo los procedimientos para la conclusión del proyecto, ejecutar las responsabilidades que sobrevengan y de ser procedente solicitar la reparación del daño.
 
 ###### ARTÍCULO 111.
 
@@ -1553,9 +2021,11 @@ II. La aportación de bienes o recursos por parte de los interesados participant
 
 III. La aportación de bienes o recursos al fideicomiso o asociación privados que constituya el interesado para el cumplimiento estricto de los fines de dicho fideicomiso o asociación; los cuales deberán ser en beneficio del desarrollo urbano del Estado. En este caso, se deberá garantizar la aplicación de los bienes y recursos a los fines para los que recibió dicha aportación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 113.
 
-Los polígonos de actuación, ya sea que se contemplen en los planes, o se soliciten por particulares, establecerán:
+Los polígonos de actuación, ya sea que se contemplen en los programas o se soliciten por particulares, establecerán:
 
 I. La delimitación de los predios y zonas que incluya;
 
@@ -1593,11 +2063,13 @@ III. De ser necesario, podrá también considerar el establecimiento de un comit
 
 ### CAPÍTULO SÉPTIMO.. DE LA INFRAESTRUCTURA, EL EQUIPAMIENTO URBANO Y LOS SERVICIOS URBANOS
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 116.
 
-Los proyectos para la instalación, construcción o modificación de la infraestructura y del equipamiento urbano, serán sometidos a la consideración de las autoridades correspondientes, de conformidad con los planes de ordenamiento territorial y de desarrollo urbano.
+Los proyectos para la instalación, construcción o modificación de la infraestructura y del equipamiento urbano, serán sometidos a la consideración de las autoridades correspondientes, de conformidad con los programas de ordenamiento territorial y de desarrollo urbano.
 
-En el caso de centros de población que no cuenten con plan o programa, los proyectos referidos en el párrafo anterior, se ejecutarán de conformidad a lo dispuesto en la presente Ley, sus reglamentos y demás disposiciones normativas en la materia.
+En el caso de centros de población que no cuenten con programa, los proyectos referidos en el párrafo anterior, se ejecutarán de conformidad a lo dispuesto en la presente Ley, sus reglamentos y demás disposiciones normativas en la materia.
 
 ###### ARTÍCULO 117.
 
@@ -1635,25 +2107,39 @@ VI. Las obligaciones de las autoridades involucradas y del solicitante.
 
 ### CAPÍTULO OCTAVO.. DEL DERECHO DE PREFERENCIA
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 120.
 
-El Estado y los municipios, tendrán derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en los planes de ordenamiento territorial y de desarrollo urbano, vía derecho público o privado, y de acuerdo a lo establecido en el párrafo III del artículo 27 Constitucional.
+El Estado y los municipios, tendrán derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en los programas de ordenamiento territorial y de desarrollo urbano, vía derecho público o privado, y de acuerdo a lo establecido en el párrafo III del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, artículo 84 de la Ley General de Asentamientos Humanos y el Reglamento de esta Ley, para destinarlos preferentemente a la constitución de espacio público, incluyendo el suelo urbano vacante dentro de una zona de reserva.
+
+Para tal efecto, los propietarios, los notarios públicos, los jueces y las autoridades administrativas respectivas, deberán notificar a la Secretaría o a las Autoridades Municipales que corresponda, los casos en los que un predio comprendido en las zonas de reserva territorial vaya a ser objeto de enajenación a título oneroso. Dando a conocer el monto de la operación, a fin de que, en un plazo de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
 
 ### CAPÍTULO NOVENO.. DE LA EXPROPIACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 121.
 
-Cuando para la ejecución de los planes que contempla este ordenamiento sea necesaria la ocupación de la propiedad, la autoridad competente, por causa de utilidad pública, procederá a la expropiación, de conformidad con las Leyes en la materia.
+Cuando para la ejecución de los programas que contempla este ordenamiento sea necesaria la ocupación de la propiedad, la autoridad competente, por causa de utilidad pública, procederá a la expropiación, de conformidad con las Leyes en la materia.
 
-### CAPÍTULO DÉCIMO.. DE LA EVALUACIÓN DE IMPACTO URBANO REGIONAL
+A efecto de facilitar la expropiación de los predios por las causas de utilidad pública podrán celebrarse convenios entre autoridades y propietarios, en los términos que señale el Reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO DÉCIMO.. DE LA EVALUACIÓN DE IMPACTO URBANO
 
 ###### ARTÍCULO 122.
 
 Las personas físicas o morales, públicas o privadas, que pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente contar con un dictamen de impacto urbano regional:
 
-I. Construcción o ampliación de vialidades u otros componentes de la infraestructura para la movilidad que se realicen en más de un municipio, siempre que no se encuentren previstos en los planes de desarrollo urbano de zona conurbada aplicables al área de que se trate;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-II. Construcción o ampliación de infraestructura primaria para el abasto de agua o suministro de energía eléctrica a los centros de población, siempre que no se encuentren previstos en los planes de desarrollo urbano o rebasen el territorio municipal de que se trate;
+I. Construcción o ampliación de vialidades u otros componentes de la Infraestructura para la movilidad que se realicen en más de un municipio, siempre que no se encuentren previstos en los programas de zonas metropolitanas y conurbadas aplicables al área de que se trate;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Construcción o ampliación de infraestructura primaria para el abasto de agua o suministro de energía eléctrica a los centros de población, siempre que no se encuentren previstos en los programas de desarrollo urbano o rebasen el territorio municipal de que se trate;
 
 III. Estaciones de servicio y plantas de almacenamiento de combustibles de gasolina, diesel, gas licuado de petróleo y gas natural, para servicio público o privado;
 
@@ -1665,15 +2151,21 @@ VI. Proyectos habitacionales o de usos mixtos de más de 500 viviendas o más de
 
 VII. Construcción de parques industriales; y
 
-VIII. Propuestas de modificación a los planes de ordenamiento territorial o de desarrollo urbano, o propuestas de cambio de uso del suelo en zonas fuera de los límites de un centro de población existente, o que impliquen la incorporación de nuevas áreas de reserva para crecimiento futuro del centro de población de que se trate, o cualquier tipo de aprovechamiento que pretendiera llevarse a cabo sobre suelo que estuviera calificado como no urbanizable por el plan que pretenda modificarse.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. Propuestas de modificación a los programas de ordenamiento territorial o de desarrollo urbano, o propuestas de cambio de uso del suelo, en zonas fuera de los límites de un centro de población existente, o que impliquen la incorporación de nuevas áreas de reserva para Crecimiento futuro del centro de población de que se trate, o cualquier tipo de aprovechamiento que pretendiera llevarse a cabo sobre suelo que estuviera calificado como no urbanizable por el programa que pretenda modificarse.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 123.
 
-Cuando las obras o actividades que pretendan llevarse a cabo se localicen fuera de los límites de un centro de población existente o cuando impliquen la incorporación de nuevas áreas de reserva para crecimiento futuro del centro de población de que se trate, o cualquier tipo de aprovechamiento que pretendiera llevarse a cabo sobre suelo que estuviera calificado como no urbanizable por el plan aplicable, será requisito previo e indispensable contar con la autorización de cambio de uso del suelo forestal a que se refiere la Ley General de Desarrollo Forestal Sustentable y la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Sin este requisito no se podrá iniciar el procedimiento de evaluación de impacto urbano regional.
+Cuando las obras o actividades que pretendan llevarse a cabo se localicen fuera de los límites de un centro de población existente o cuando impliquen la incorporación de nuevas áreas de reserva para crecimiento futuro del centro de población de que se trate, o cualquier tipo de aprovechamiento que pretendiera llevarse a cabo sobre suelo que estuviera calificado como no urbanizable por el programa aplicable, será requisito previo e indispensable contar con la autorización de cambio de uso del suelo forestal a que se refiere la Ley General de Desarrollo Forestal Sustentable y la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Sin este requisito no se podrá iniciar el procedimiento de evaluación de impacto urbano regional.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 124.
 
-El dictamen de impacto urbano regional será expedido por el Gobierno del Estado a través de la Secretaría, en coordinación con los municipios afectados por el proyecto de que se trate, en los términos de la presente Ley y tendrá por objeto evaluar y prever las posibles afectaciones negativas causadas a la región, así como las presiones o nuevas demandas a las redes de infraestructura o equipamiento primarios o a los servicios existentes, causados por la acción de que se trate, con el fin de establecer las medidas adecuadas para su prevención, mitigación o compensación.
+El dictamen de impacto urbano regional será expedido por la Secretaría, en coordinación con los municipios afectados por el proyecto de que se trate, en los términos de la presente Ley y su Reglamento. Tendrá por objeto evaluar y prever las posibles afectaciones negativas causadas a la región, así como las presiones o nuevas demandas a las redes de Infraestructura o equipamiento primarios o a los servicios existentes, causados por la acción de que se trate, con el fin de establecer las medidas adecuadas para su prevención, mitigación o compensación.
 
 Para ese efecto, las personas físicas o morales, públicas o privadas, que pretendan llevar a cabo alguna de las obras a las que se refiere el artículo anterior, deberán presentar ante la Secretaría una manifestación de impacto urbano regional, misma que se tramitará sin perjuicio y como requisito previo a las autorizaciones municipales que procedan.
 
@@ -1717,6 +2209,12 @@ Los dictámenes de impacto urbano regional y los estudios que lo sustenten, emit
 
 La reglamentación de esta Ley establecerá los requisitos, las disposiciones relativas a la vigencia, prórroga, modificaciones al proyecto u obra de que se trate, publicidad, consulta y procedimiento de aprobación de la evaluación de impacto urbano regional.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 127 BIS. Las autoridades municipales expedirán la reglamentación relativa a la emisión de los dictámenes de impacto urbano de los proyectos que se ejecuten en su territorio.
+
+Los dictámenes a que se refiere el párrafo anterior, contendrán la valoración de la manifestación de impacto urbano que reciban y deberá (sic) considerar los criterios contenidos en esta Ley y los programas de ordenamiento territorial y desarrollo urbano.
+
 ### CAPÍTULO UNDÉCIMO.. DE LA IMAGEN URBANA Y PROTECCIÓN DEL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 128.
@@ -1731,9 +2229,13 @@ I. La calidad visual, para garantizar que la estructura urbana y sus elementos s
 
 II. El respeto y conservación de los asentamientos rurales como resultado de la arquitectura vernácula y su contexto paisajístico;
 
-III. La eficiencia y funcionalidad, consistente en que los criterios, normas y regulaciones en materia de imagen y diseño urbanos, deberán tender a las soluciones más adecuadas para la operación y funcionamiento de los centros de población; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-IV. Los criterios establecidos al respecto en el Plan Estatal de Ordenamiento Territorial y demás instrumentos aplicables en la materia.
+III. La eficiencia y funcionalidad, consistente en que los criterios, normas y regulaciones en materia de imagen, diseño urbano y accesibilidad universal, deberán tender a las soluciones más adecuadas para la operación y funcionamiento de los centros de población, y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. Los criterios establecidos al respecto en el Programa Estatal de Ordenamiento Territorial y demás instrumentos aplicables en la materia.
 
 Los monumentos e inmuebles de valor histórico y artístico, se sujetarán a lo establecido en las leyes en la materia.
 
@@ -1755,13 +2257,21 @@ Para tal efecto, promoverán los mecanismos presupuestales y financieros y las f
 
 ### CAPÍTULO DÉCIMO SEGUNDO.. DEL ESPACIO PÚBLICO Y LA ACCESIBILIDAD UNIVERSAL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 131.
 
-Las funciones que podrán realizarse en los espacios abiertos, andadores y plazas públicas serán de carácter cultural, ambiental, artístico, deportivo y recreativo, o las que determine el municipio de conformidad a los ordenamientos jurídicos vigentes en la matera y en coordinación con las autoridades competentes.
+La recreación, recuperación, mantenimiento y defensa del Espacio público para todo tipo de usos y para la movilidad será de alta prioridad para el Estado y los Municipios, por lo que se deberá privilegiar el diseño, adecuación, mantenimiento y protección de estos, teniendo en cuenta la evolución de la ciudad.
+
+Los espacios abiertos, andadores y plazas públicas fomentaran funciones de carácter cultural, ambiental, artístico, deportivo y recreativo, o las que determine el municipio de conformidad a los ordenamientos jurídicos vigentes en la materia y en coordinación con las autoridades competentes.
+
+El uso, aprovechamiento y custodia del espacio público, se sujetará a lo previsto en el artículo 75 de la Ley General de Asentamientos Humanos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 132.
 
-Dentro del espacio público y especialmente en las zonas y andadores peatonales se deberá asegurar el libre tránsito, evitando todo tipo de elementos físicos que obstruyan, reduzcan o demeriten el uso de dichos espacios, quedando prohibido el acceso, tránsito y estacionamiento de cualquier tipo de vehículos, exceptuando los de servicios de emergencia: bomberos, ambulancias y policía cuando así se requieran, quedando responsabilidad de la autoridad municipal la reglamentación de horarios nocturnos que permitan el ingreso a vehículos de aprovisionamiento y servicios municipales.
+Dentro del espacio público y especialmente en las zonas y andadores peatonales se deberá asegurar el libre tránsito y accesibilidad universal, evitando todo tipo de elementos físicos que obstruyan, reduzcan o demeriten el uso de dichos espacios, quedando prohibido el acceso, tránsito y estacionamiento de cualquier tipo de vehículos, exceptuando los de servicios de emergencia: bomberos, ambulancias y policía cuando así se requieran, quedando a responsabilidad de la Autoridad Municipal la reglamentación de horarios nocturnos que permitan el ingreso a vehículos de aprovisionamiento y servicios municipales.
 
 ###### ARTÍCULO 133.
 
@@ -1777,21 +2287,31 @@ IV. Privados.
 
 Los espacios públicos abiertos por su dimensión y jerarquía pueden ser de nivel vecinal, barrial, distrital, central y regional.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 134.
 
-Los espacios verdes, públicos y privados, constituyen parte del patrimonio natural y de paisaje del área urbana, como tales deberán protegerse, conservarse y acrecentarse.
+Los espacios verdes, públicos y privados, constituyen parte del patrimonio natural y de paisaje del área urbanizada, como tales deberán protegerse, conservarse y acrecentarse.
 
 Es obligación del municipio establecer los programas y estrategias necesarias para el retiro de cualquier instalación, bien mueble o inmueble, que se encuentren abandonados y obstruyan la vía pública.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 135.
 
-Los instrumentos de planeación del desarrollo urbano deberán incluir los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, considerando la escala y nivel de detalle requerido, entre otras acciones de acuerdo a las siguientes:
+Los instrumentos de planeación del desarrollo urbano deberán incluir los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, considerando la escala y nivel de detalle requerido y de acuerdo a lo establecido en el artículo 74 de la Ley General de Asentamientos Humanos, las normas oficiales mexicanas entre otras acciones de acuerdo a las siguientes:
 
-I. Medidas para la identificación, creación y defensa del espacio público, la calidad del entorno y las alternativas de expansión;
+I. Establecer las medidas para la identificación y mejor localización de los espacios públicos con relación a la función que tendrán, y a la ubicación de los beneficiarios, atendiendo las normas nacionales en la materia;
 
-II. La definición del trazado y características del espacio público y la red vial;
+II. Crear y defender el espacio público, la calidad de su entorno y las alternativas para su expansión;
 
-III. La localización de equipamientos colectivos de interés público o social como templos, centros educativos y de salud, espacios públicos y zonas verdes destinados a parques, jardines o zonas de esparcimiento.
+III. Definir las características del espacio público y el trazo de la red vial de manera que ésta garantice la conectividad adecuada para la movilidad y su adaptación a diferentes densidades en el tiempo;
+
+IV. Definir la mejor localización y dimensiones de los equipamientos colectivos de interés público o social en cada barrio con relación a la función que tendrán y a la ubicación de los beneficiarios, como centros docentes y de salud, espacios públicos para la recreación, el deporte y zonas verdes destinados a parques, plazas, jardines o zonas de esparcimiento, respetando las normas y lineamientos vigentes, y
+
+V. Establecer los instrumentos bajo los cuales se podrá autorizar la ocupación del espacio público, que únicamente podrá ser de carácter temporal y uso definido.
+
+Las autoridades municipales serán las encargadas de velar, vigilar y proteger la seguridad, integridad y calidad del espacio público.
 
 ###### ARTÍCULO 136.
 
@@ -1803,17 +2323,23 @@ También deberán especificar, si es el caso, las afectaciones a que estén some
 
 Todo nuevo plan o programa de desarrollo urbano, proyecto de carácter público, privado o construcción, deberá adoptar todas las medidas de accesibilidad que le conciernan, en base a la normatividad vigente en la materia. Para las edificaciones y espacios públicos preexistentes, se podrá llevar un sistema de adaptaciones por etapas y de conformidad con la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 138.
 
-Los municipios vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad se apliquen al desarrollo urbano, vivienda, equipamiento y otras edificaciones.
+Las autoridades municipales vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad universal se apliquen al desarrollo urbano, vivienda, equipamiento y otras edificaciones.
+
+Todos los habitantes tienen el derecho de presentar denuncias ciudadanas en los términos de esta Ley y el Reglamento, respecto de cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.
 
 ## TÍTULO QUINTO.. INSTRUMENTOS DE FOMENTO DEL DESARROLLO URBANO
 
 ### CAPÍTULO PRIMERO.. DE LOS DERECHOS DE DESARROLLO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 139.
 
-Los derechos de desarrollo derivan de las intensidades de construcción máximas permitidas por los planes de desarrollo urbano en la zonificación. Son susceptibles de transmisión y otorgamiento por las autoridades competentes a los particulares, sujeto a las condiciones y limitaciones establecidas en esta Ley. No forman parte del patrimonio privado hasta en tanto la autoridad competente los haya asignado mediante acto fundado y motivado.
+Los derechos de desarrollo derivan de las intensidades de construcción máximas permitidas por los programas de desarrollo urbano en la zonificación. Son susceptibles de transmisión y otorgamiento por las autoridades competentes a los particulares, sujeto a las condiciones y limitaciones establecidas en esta Ley. No forman parte del patrimonio privado hasta en tanto la autoridad competente los haya asignado mediante acto fundado y motivado.
 
 Mediante los derechos de desarrollo se promoverá el máximo aprovechamiento de los bienes y servicios de los centros de población para generar recursos que sean destinados al mejoramiento, rescate y protección de las áreas e inmuebles con valores culturales, áreas con valores ambientales, así como acciones de mejoramiento urbano específico.
 
@@ -1821,15 +2347,19 @@ La administración y destino de los recursos provenientes de las operaciones de 
 
 #### Sección I. Del aumento de derechos de desarrollo
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 140.
 
-Los planes de desarrollo urbano podrán establecer zonas urbanas o corredores en áreas urbanizables donde sea susceptible incrementar las intensidades de construcción mediante el aumento de derechos de desarrollo.
+Los programas de desarrollo urbano podrán establecer áreas urbanizadas o corredores en áreas urbanizables donde sea susceptible incrementar las intensidades de construcción mediante el aumento de derechos de desarrollo.
 
 ###### ARTÍCULO 141.
 
 Quienes adquieran las potencialidades de desarrollo autorizadas, podrán incrementar la intensidad de construcción de sus predios o inmuebles, en función de los derechos obtenidos por la transferencia.
 
-El reglamento de esta Ley señalará los requisitos y características para las operaciones de transferencia de potencialidades de desarrollo urbano, los municipios autorizarán y supervisarán dichas operaciones, mediante una resolución en la que establezca los coeficientes de utilización y ocupación del suelo, así como la intensidad de construcción correspondiente, altura máxima y demás normas urbanas aplicables al predio o inmueble receptor. Las operaciones de transferencia autorizadas, se inscribirán en el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+El Reglamento señalará los requisitos y características para las operaciones de transferencia de potencialidades de desarrollo urbano, los municipios autorizarán y supervisarán dichas operaciones, mediante una resolución en la que establezca los coeficientes de utilización y ocupación del suelo, así como la intensidad de construcción correspondiente, altura máxima y demás normas urbanas aplicables al predio o inmueble receptor. Las operaciones de transferencia autorizadas, se inscribirán en el Instituto Registral.
 
 Las operaciones de transferencias que celebren los particulares sólo podrán realizarse de acuerdo a las disposiciones de los programas de desarrollo urbano vigentes.
 
@@ -1849,9 +2379,11 @@ El procedimiento para su aplicación, así como el aumento de los estándares de
 
 ### CAPÍTULO SEGUNDO.. FOMENTO URBANO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 144.
 
-Los municipios, podrán autorizar la delimitación de polígonos, para la ejecución de programas de fomento urbano, en su caso en coordinación con la Secretaría, en las siguientes áreas:
+Las autoridades municipales podrán autorizar la delimitación de polígonos, para la ejecución de programas de fomento urbano, en su caso, en coordinación con la Secretaría, en las siguientes áreas:
 
 I. Las que corresponden a zonas que tienen terrenos, sin construir, ubicados dentro del tejido urbano, que cuentan con accesibilidad y servicios donde pueden llevarse a cabo centros de equipamiento o proyectos de impacto urbano regional, apoyándose en el programa de fomento económico, que incluyen equipamientos varios y otros usos complementarios;
 
@@ -1861,31 +2393,35 @@ III. En aquellas factibles de regeneración urbana, que cuentan con infraestruct
 
 IV. En áreas de conservación patrimonial que tienen valores históricos, arqueológicos, arquitectónicos y artísticos o típicos, así como las que, sin estar formalmente clasificadas como tales, presenten características de unidad formal, que requieren atención especial para mantener y potenciar sus valores;
 
-V. En aquellas áreas susceptibles de rescate cuyas condiciones naturales ya han sido alteradas por la presencia de usos inconvenientes o por el manejo indebido de recursos naturales y que requieren de acciones para restablecer en lo posible su situación original. Las obras que se realicen en dichas áreas se condicionarán a que se lleven a cabo acciones para restablecer el equilibrio ecológico. Los planes establecerán las densidades de población y construcción para las mismas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. En aquellas áreas susceptibles de rescate, cuyas condiciones naturales ya han sido alteradas por la presencia de usos inconvenientes o por el manejo indebido de recursos naturales y que requieren de acciones para restablecer en lo posible su situación original. Las obras que se realicen en dichas áreas se condicionarán a que se lleven a cabo acciones para restablecer el equilibrio ecológico. Los programas de ordenamiento territorial y de desarrollo urbano establecerán las densidades de población y construcción para las mismas;
 
 VI. En extensiones naturales que no presentan alteraciones graves y que requieren medidas para el control del uso del suelo y para desarrollar en ellos actividades que sean compatibles con la función de preservación natural; y
 
 VII. En aquellas destinadas a la producción agropecuaria, piscícola, turística forestal y agroindustrial.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 145.
 
-Los municipios y el Estado fomentarán la coordinación y la concertación de acciones e inversiones entre los sectores público, social y privado para:
+El Estado y las autoridades municipales fomentarán la coordinación y la concertación de acciones e inversiones entre los sectores público, social y privado para:
 
-I. El cumplimiento y ejecución de los planes de desarrollo urbano;
+I. El cumplimiento y ejecución de los programas de ordenamiento territorial y desarrollo urbano, regional, de conurbación o zona metropolitana;
 
-II. El establecimiento de mecanismos e instrumentos financieros para el desarrollo urbano y la vivienda;
+II. El establecimiento de mecanismos e instrumentos financieros para el desarrollo urbano y ordenamiento territorial, regional, de conurbación o zona metropolitana;
 
 III. El financiamiento y operación de proyectos estratégicos urbanos, habitacionales, industriales, comerciales, recreativos y turísticos;
 
-IV. La integración de una política de suelo y reservas territoriales que permita contar con oportunidad y condición de ese recurso para los distintos usos y necesidades del desarrollo urbano;
+IV. La integración de una política de suelo y reservas territoriales que permita contar con oportunidad y condición de ese recurso para los distintos usos y necesidades del Desarrollo urbano;
 
-V. La satisfacción de las necesidades de infraestructura, equipamiento y servicios urbanos generados para el desarrollo urbano de los centros de población;
+V. La satisfacción de las necesidades complementarias en Infraestructura, espacios públicos, equipamiento y Servicios urbanos, generadas para el desarrollo urbano de los centros de población;
 
-VI. La construcción y habilitación de destinos del suelo, a través de instrumentos de inversión conjunta, aplicando fórmulas para la recuperación de las inversiones realizadas por los sectores social y privado;
+VI. La construcción y habilitación de destinos de suelo, a través de instrumentos de inversión conjunta, aplicando fórmulas para la recuperación de las inversiones realizadas por los sectores social y privado;
 
-VII. La protección del patrimonio cultural y la imagen urbana de los centros de población;
+VII. La protección del patrimonio natural, cultural y la imagen urbana de los centros de población;
 
-VIII. La simplificación de los trámites administrativos que se requieran para la ejecución de acciones de desarrollo urbano;
+VIII. La simplificación de los trámites administrativos que se requieran para la ejecución de acciones e inversiones de desarrollo urbano;
 
 IX. El fortalecimiento de las administraciones públicas estatales y municipales para el desarrollo urbano;
 
@@ -1893,81 +2429,153 @@ X. La modernización de los sistemas catastrales y registrales de la propiedad i
 
 XI. La adecuación y actualización de las disposiciones jurídicas locales en materia de desarrollo urbano;
 
-XII. El impulso a la educación, la investigación y la capacitación en materia de desarrollo urbano;
+XII. El impulso a las tecnologías de información y comunicación, educación, investigación y capacitación en materia de desarrollo urbano;
 
-XIII. La aplicación de tecnologías que protejan al ambiente, reduzcan los costos y mejoren la calidad de la urbanización; y
+XIII. La aplicación de tecnologías que preserven y restauren el equilibrio ecológico, protejan al ambiente, impulsen las acciones de adaptación y mitigación al cambio climático, reduzcan los costos y mejoren la calidad de la urbanización;
 
-XIV. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos que requiera la población con discapacidad.
+XIV. Promover la construcción y adecuación de la Infraestructura, el equipamiento y los Servicios urbanos que requiera toda la población en condición de vulnerabilidad, así como de los sistemas de movilidad, que promuevan la inclusión, y
 
-### CAPÍTULO TERCERO.. DE LA ASISTENCIA TÉCNICA PARA EL DESARROLLO URBANO
+XV. La protección, mejoramiento y ampliación de los espacios públicos de calidad, para garantizar el acceso universal a zonas verdes y espacios públicos seguros, inclusivos y accesibles.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO TERCERO.. DE LA ASISTENCIA TÉCNICA Y EL SISTEMA DE INFORMACIÓN Y EVALUACIÓN DEL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE OAXACA
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 146.
 
-La Secretaría en coordinación con las dependencias y entidades competentes y con los municipios, practicará investigaciones científicas y recabará información sobre el desarrollo urbano en la Entidad, con la finalidad de servir como órgano de consulta y asistencia integral para los sectores público, social y privado.
+La Secretaría en coordinación con las dependencias, entidades competentes y autoridades municipales, practicará investigaciones científicas y recabará información sobre el desarrollo urbano en la entidad, con la finalidad de servir como órgano de consulta y asistencia.
 
-El Estado, a través de la Secretaría, brindará asesoría y asistencia integral a los municipios y comisiones metropolitanas y de conurbación que lo soliciten, en la formulación, ejecución, control y aplicación de sus respectivos planes de desarrollo urbano.
+El Estado, a través de la Secretaría brindará asesoría, capacitación y asistencia integral a los servidores públicos, municipios y comisiones de zonas metropolitanas y conurbadas que lo soliciten, en la formulación, ejecución, control y aplicación de sus respectivos programas de desarrollo urbano.
 
 La asistencia a los municipios comprenderá los aspectos técnicos y jurídicos involucrados en el desarrollo urbano y su administración.
+
+Se promoverá la legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad, competencia por mérito y equidad de género, como principios del servicio público y la certificación de especialistas en gestión territorial, en los términos de la Ley General de Asentamientos Humanos.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 146 BIS. La Secretaría tendrá a cargo el Sistema de Información y Evaluación del Ordenamiento Territorial y Desarrollo Urbano del Estado de Oaxaca, el cual de manera electrónica integrará y actualizará los datos e información relativa a la planeación, control, evaluación y seguimiento de los programas de ordenamiento territorial y de desarrollo urbano, así como los resultados de su ejecución y la implementación de las acciones urbanísticas, con la finalidad de brindar transparencia, acceso a la información, participación ciudadana y certeza jurídica.
+
+Para tal efecto, se celebrarán los convenios de coordinación con las instancias necesarias que coadyuven proporcionando la información relacionada.
 
 ## TÍTULO SEXTO.. DE LAS REGULACIONES PARA LA URBANIZACIÓN Y CONSTRUCCIÓN
 
 ### CAPÍTULO PRIMERO.. DE LAS REGLAS GENERALES PARA LA URBANIZACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 147.
 
-Se consideran para los efectos de esta Ley como acciones de urbanización, las siguientes:
+Se consideran para los efectos de esta Ley como acciones urbanísticas, las siguientes:
 
-I. La división de un predio en lotes o fracciones a fin de darle una utilización específica o comercializarlo;
+I. Las subdivisiones, parcelaciones, fusiones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones, con la finalidad de una utilización específica o comercializar;
 
-II. La dotación de redes de servicio, como agua potable, desalojo de aguas residuales y pluviales, plantas de tratamiento de aguas residuales, electrificación, alumbrado, telefonía, instalaciones especiales y obras de infraestructura regional;
+II. La dotación de redes de servicio, como agua potable, desalojo de aguas residuales y pluviales, plantas de tratamiento de aguas residuales, electrificación, alumbrado, telefonía, instalaciones especiales y obras de Infraestructura regional;
 
-III. Los elementos de la vialidad, como calles, banquetas, andadores, estacionamiento para vehículos; los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte colectivo;
+III. Los elementos que permiten la movilidad o vialidad, como calles, banquetas, andadores, estacionamiento para vehículos; los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte motorizado y no motorizado;
 
 IV. Los servicios e instalaciones especiales que requieran las actividades de la industria, el comercio y los servicios;
 
-V. Los componentes de la imagen urbana, como arbolado, jardinería y mobiliario; y
+V. Los componentes de la imagen urbana, como arbolado, jardinería y mobiliario;
 
-VI. Las demás que se requieran para lograr el asentamiento en condiciones óptimas para la vida de la comunidad, para proveer los usos y destinos relacionados con la habitación, el trabajo, la educación y el esparcimiento.
+VI. Construcción, ampliación, remodelación, reparación, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que por su naturaleza están determinadas en los programas de desarrollo urbano o cuenten con los permisos correspondientes, y
+
+VII. Las demás que se requieran para lograr el Asentamiento humano en condiciones óptimas para la vida de la comunidad, para proveer los usos y destinos relacionados con la habitación, el trabajo, la educación y el esparcimiento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 148.
 
-Toda acción de urbanización deberá proyectarse y realizarse de acuerdo con los planes de ordenamiento territorial o de desarrollo urbano vigentes, y sus correspondientes determinaciones de usos, destinos y reservas.
+Toda acción urbanística deberá proyectarse y realizarse de acuerdo con los programas de ordenamiento territorial o de desarrollo urbano vigentes, y sus correspondientes determinaciones de usos, destinos y reservas.
+
+Asimismo, serán de observancia obligatoria las normas oficiales mexicanas en la materia; así como, las normas técnicas que se emitan y publiquen en el Periódico Oficial del Gobierno del Estado de Oaxaca, por el Consejo de Normas Técnicas que integrará la Secretaría de acuerdo a lo establecido en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 149.
 
-Están obligadas a respetar y cumplir las disposiciones de este ordenamiento las personas físicas o morales, dependencias de la administración pública, organismos descentralizados y entidades paraestatales propietarias de predios o fincas o poseedores a título de dueño, quienes se desempeñen como representantes legales, promotores y sus respectivos directores responsables de obra que realicen acciones de urbanización, edificación, infraestructura o servicios regionales en la entidad, ya sean públicas o privadas, que se ejecuten en terrenos de cualquier régimen de propiedad.
+Están obligadas a respetar y cumplir las disposiciones de esta Ley las personas físicas o morales, públicas o privadas propietarias de predios o fincas o poseedores a título de dueño, quienes se desempeñen como representantes legales, promotores y sus respectivos directores responsables de obra que realicen acciones urbanísticas, edificación, Infraestructura o servicios regionales en el Estado, que se ejecuten en terrenos de cualquier régimen de propiedad.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 150.
 
-Las acciones de urbanización normadas por la presente Ley, en el ámbito municipal, sólo podrán realizarse mediante autorización expresa otorgada por el municipio de la jurisdicción correspondiente, conforme al plan de ordenamiento territorial o desarrollo urbano aplicable y de acuerdo a los procedimientos y requisitos establecidos en esta Ley.
+Las acciones urbanísticas que se realicen en el ámbito municipal, sólo podrán realizarse mediante autorización expresa otorgada por las autoridades municipales de la jurisdicción correspondiente, conforme al programa de ordenamiento territorial o desarrollo urbano aplicable y de acuerdo a los procedimientos y requisitos establecidos en esta Ley.
+
+Las autorizaciones de construcción, edificación, realización de obras de Infraestructura que otorgue la Secretaría y las autoridades municipales deberán incluir un análisis de riesgo y, en su caso, definir las medidas de mitigación para su reducción en el marco de la Ley General de Protección Civil.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 151.
 
-Los municipios, conforme a las disposiciones y bases de la ley en materia de administración pública municipal, establecerá la dependencia que tendrá a su cargo los procedimientos para expedir los dictámenes, autorizaciones y licencias previstas en la presente Ley.
+Las autoridades municipales, conforme a las disposiciones y bases de la Ley Orgánica Municipal del Estado de Oaxaca y sus ordenanzas municipales, establecerán la dependencia que tendrá a su cargo los procedimientos para expedir los dictámenes, autorizaciones y licencias previstas en la presente Ley.
 
-### CAPÍTULO SEGUNDO.. DE LAS VÍAS PÚBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS VÍAS PÚBLICAS Y LA MOVILIDAD
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 152.
 
-Todos los proyectos relativos a la estructura vial deberán corresponder a la estrategia general contenida en los planes de ordenamiento territorial y de desarrollo urbano respectivos y ser sometidos para su aprobación a las autoridades correspondientes.
+Todos los proyectos relativos a la estructura vial deberán corresponder a la estrategia general contenida en los programas de ordenamiento territorial y de desarrollo urbano respectivos, respetar el derecho a la movilidad y la accesibilidad universal, para tal efecto se someterán para su aprobación ante las autoridades competentes.
 
-En el caso de centros de población que no cuenten con plan o programa, los proyectos referidos en el párrafo anterior, se ejecutarán de conformidad a lo dispuesto en la presente Ley, sus reglamentos y demás disposiciones normativas en la materia.
+En el caso de centros de población que no cuenten con programa, los proyectos referidos en el párrafo anterior, se ejecutarán de conformidad a lo dispuesto en la presente Ley, sus reglamentos y demás disposiciones normativas en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 153.
 
-El municipio respectivo determinará de conformidad a lo dispuesto en la presente Ley, sus reglamentos, planes de ordenamiento territorial o de desarrollo urbano y demás lineamientos normativos en la materia:
+El Municipio respectivo determinará de conformidad a lo dispuesto en la presente Ley, sus reglamentos, programas de ordenamiento territorial o de desarrollo urbano y demás lineamientos normativos en la materia:
 
 I. Los proyectos de redes viales y el establecimiento de los servicios e instalaciones correspondientes, así como sus características;
 
 II. La organización y las características del sistema de transporte de personas y bienes;
 
-III. La limitación de uso en la vía pública; y
+III. La limitación de uso en la vía pública;
 
-IV. Las especificaciones para modificar definitiva y temporalmente la vía pública.
+IV. Las especificaciones para modificar definitiva y temporalmente la vía pública;
+
+V. Las políticas y programas de movilidad, procurando la accesibilidad universal de las personas;
+
+VI. Los mecanismos para garantizar la máxima interconexión entre vialidades, medios de transporte, rutas y destinos, priorizando la movilidad peatonal y no motorizada;
+
+VII. La distribución equitativa del espacio público de vialidades que permita la máxima armonía entre los diferentes tipos de usuarios;
+
+VIII. Acciones para incrementar la oferta de opciones de servicios y modos de transporte integrados, a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del automóvil particular, aquellas innovaciones tecnológicas que permitan el uso compartido del automóvil, el uso de la motocicleta y desarrollar nuevas alternativas al transporte público;
+
+IX. Las políticas y acciones de movilidad residencial que faciliten la venta, renta, o intercambio de inmuebles, para una mejor interrelación entre el lugar de vivienda, el empleo y demás satisfactores urbanos, tendientes a disminuir la distancia y frecuencia de los traslados y hacerlos más eficientes;
+
+X. Las políticas y programas para la prevención de accidentes y el mejoramiento de la infraestructura vial y de movilidad;
+
+XI. Los mecanismos para promover el acceso de mujeres y niñas a espacios públicos y transporte de calidad, seguro y eficiente, incluyendo acciones para eliminar la violencia basada en género;
+
+XII. Las acciones para aumentar el número de opciones de servicios y modos de transporte, por medio del fomento de mecanismos para el financiamiento de la operación del transporte público;
+
+XIII. Las políticas y programas para la prevención de accidentes automovilísticos, que desincentiven el uso de los teléfonos celulares al conducir, o manejar bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente, y
+
+XIV. Las políticas que integren al transporte de carga y fomenten la movilidad institucional, entendida esta última, como aquella realizada por el sector público y privado o instituciones académicas, orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines.
 
 ###### ARTÍCULO 154.
 
 Corresponde al Gobernador del Estado en coordinación con los municipios involucrados, de conformidad a la presente Ley, sus reglamentos y demás leyes y disposiciones relativas en la materia, determinar dentro del territorio del Estado, el sistema vial intermunicipal o regional no reservado a la Federación, el derecho de vía y el establecimiento de servicios, sus instalaciones y características.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 154 BIS. Las autoridades estatales y municipales deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía:
+
+I. Personas con movilidad limitada y peatones;
+
+II. Usuarios de transporte no motorizado;
+
+III. Usuarios del servicio de trasporte (sic) público de pasajeros;
+
+IV. Prestadores del servicio de trasporte (sic) público de pasajeros;
+
+V. Prestadores del servicio de transporte de carga, y
+
+VI. Usuarios de transporte particular.
 
 ### CAPÍTULO TERCERO.. DE LAS DISPOSICIONES COMUNES A LA FUSIÓN, SUBDIVISIÓN O LOTIFICACIÓN, FRACCIONAMIENTO Y RELOTIFICACIÓN DE TERRENOS
 
@@ -2029,29 +2637,33 @@ La ubicación de los fraccionamientos, la zonificación interna, el destino de s
 
 Podrá solicitar la fusión, subdivisión o lotificación, fraccionamiento y relotificación de un predio, la persona física, moral, o en su caso el apoderado legal, que acredite la legítima propiedad o posesión del predio objeto de la solicitud; para tal efecto deberá acompañar a la misma, el título correspondiente y demás requisitos que señale el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 162.
 
-La autorización de una fusión, subdivisión o lotificación, fraccionamiento y relotificación de terrenos, será otorgada o negada, según el caso, por los municipios, y estará sujeta a lo dispuesto por la presente Ley, los reglamentos respectivos y los planes de ordenamiento territorial y de desarrollo urbano en vigor.
+La autorización de una fusión, subdivisión o lotificación, fraccionamiento y relotificación de terrenos, será otorgada o negada, según el caso, por las autoridades municipales, y estará sujeta a lo dispuesto por la presente Ley, los reglamentos respectivos y los programas de ordenamiento territorial y de desarrollo urbano vigentes.
 
-Cuando un municipio no cuente con plan de desarrollo urbano, dicha autorización será otorgada, o negada por el municipio respectivo y en su caso con previa opinión de la Secretaría, a solicitud del primero.
+Cuando un municipio no cuente con programa de desarrollo urbano, dicha autorización será otorgada o negada por el municipio respectivo y con previa opinión de la Secretaría, a solicitud del primero.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 163.
 
 Para autorizar las fusiones, subdivisiones o lotificaciones, fraccionamientos y relotificaciones, se tomarán en cuenta los siguientes aspectos:
 
-I. Las zonas en que se permitan;
+I. La congruencia con las normas de zonificación y planeación urbana vigente, para realizarse en las zonas en que se permitan;
 
-II. El tipo de fraccionamiento y sus características;
+II. El tipo de fraccionamiento y sus características, para determinar su viabilidad y factibilidad, brindar los servicios públicos y extender o ampliar las redes de agua, drenaje, energía, alumbrado público y el manejo de desechos sólidos de manera segura y sustentable, sin afectar los asentamientos humanos colindantes y sin ocupar áreas de riesgo o no urbanizables;
 
-III. La estructura vial y el sistema de transporte;
+III. La estructura vial, el sistema de transporte que permitan la movilidad y la accesibilidad universal;
 
-IV. La proporción y aplicación de las inversiones en diversas etapas;
+IV. La proporción y aplicación de las inversiones en diversas etapas, garantizando la suficiencia financiera para brindar los servicios públicos que se generen;
 
-V. Las proporciones relativas a las áreas de servicios y el equipamiento e infraestructura urbana;
+V. Las proporciones relativas a las áreas de servicios y el equipamiento e Infraestructura urbana;
 
 VI. Las especificaciones relativas a las características y dimensiones de los lotes, la densidad de edificación, urbanización y las áreas que se escriturarán a nombre del municipio y de las que quedarán a cargo del Ayuntamiento;
 
-VII. Lo dispuesto en los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor;
+VII. Lo dispuesto en los programas de ordenamiento territorial y de desarrollo urbano en vigor, y
 
 VIII. Las demás normas vigentes aplicables.
 
@@ -2081,13 +2693,17 @@ Los municipios promoverán el desarrollo de fraccionamientos y conjuntos habitac
 
 En estos casos, tomarán las medidas que eviten la especulación o que desvirtúen la finalidad social del proyecto.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 166.
 
-Las autorizaciones de fusiones, subdivisiones o lotificaciones, fraccionamientos y relotificaciones, que se otorguen en contravención de la presente Ley, sus reglamentos, los planes o programas de ordenamiento y de desarrollo urbano en vigor, serán nulas y no producirán efecto jurídico alguno, y los responsables serán sancionados de conformidad con esta Ley, sin perjuicio de otras disposiciones aplicables.
+Las autorizaciones de fusiones, subdivisiones o lotificaciones, fraccionamientos y relotificaciones, que se otorguen en contravención de la presente Ley, sus reglamentos, programas de ordenamiento territorial y de desarrollo urbano en vigor, serán nulas y no producirán efecto jurídico alguno, y los responsables serán sancionados de conformidad con esta Ley, sin perjuicio de otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 167.
 
-Las autorizaciones de fusiones, subdivisiones o lotificaciones, fraccionamientos y relotificaciones, con sus anexos cartográficos correspondientes, deberán inscribirse en el Registro Público de la Propiedad; así mismo, para los efectos catastrales, el municipio enviará una copia de la misma y de los planos de lotificación aprobados al Instituto Catastral del Estado.
+Las autorizaciones de fusiones, subdivisiones o lotificaciones, fraccionamientos y relotificaciones, con sus anexos cartográficos correspondientes, deberán inscribirse en el Instituto Registral, asimismo, para los efectos catastrales, el municipio enviará una copia de la misma y de los planos de lotificación aprobados al Instituto Catastral.
 
 ###### ARTÍCULO 168.
 
@@ -2101,19 +2717,23 @@ A quienes se haya autorizado para realizar un fraccionamiento, podrá concedérs
 
 ### CAPÍTULO CUARTO.. DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE FRACCIONAMIENTOS
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 170.
 
-Todo propietario de un fraccionamiento tendrá la obligación de transmitir al municipio correspondiente, la propiedad y el dominio de las áreas determinadas como vías y áreas públicas, remanentes y las destinadas a servicios públicos, de conformidad con la presente Ley y el reglamento respectivo.
+Todo propietario de un fraccionamiento tendrá la obligación de transmitir al Municipio correspondiente, la propiedad y el dominio de las áreas determinadas como vías y áreas públicas, remanentes y las destinadas a servicios públicos, de conformidad con la presente Ley y el Reglamento respectivo.
 
-Además deberá transmitir al municipio, la propiedad y el dominio del área requerida exclusivamente para equipamiento urbano, por cada tipo de fraccionamiento, misma que deberá estar ubicada en terreno aprovechable, tener frente a una vía pública principal.
+Además, deberá transmitir al Municipio, la propiedad y el dominio del área requerida exclusivamente para las vías públicas locales, equipamientos y espacios públicos que se requieran para el desarrollo y buen funcionamiento de los centros de población, en una superficie y proporción adecuada, terreno aprovechable, asegurar la factibilidad, sustentabilidad, prestación de los servicios públicos, el diseño y construcción de una red de vialidades primarias, como partes de una retícula, que faciliten la conectividad, la movilidad y el desarrollo de infraestructura.
 
-El porcentaje que corresponderá para equipamiento urbano respecto del área total vendible para cada tipo de fraccionamiento, señalada en el párrafo anterior, quedará fijado en el reglamento respectivo.
+El porcentaje que corresponderá para equipamiento urbano, espacio público y vías locales respecto del área total vendible para cada tipo de fraccionamiento, quedará fijado en el reglamento respectivo
 
 ###### ARTÍCULO 171.
 
 Las áreas de donación destinadas para equipamiento urbano y servicios públicos, las áreas verdes y remanentes, serán cedidas a título gratuito, mediante escritura pública al municipio correspondiente.
 
-Las escrituras que amparen las áreas indicadas en el párrafo anterior, no causarán impuesto de traslación de dominio ni los derechos de inscripción en el Registro Público de la Propiedad, así mismo, el costo de escrituración correrá a cargo del propietario del fraccionamiento, el cual deberá entregarlas al municipio respectivo, en un plazo no mayor de treinta dias, contados a partir de la fecha en que se otorgó la autorización correspondiente.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+Las escrituras que amparen las áreas indicadas en el párrafo anterior, no causarán impuesto de traslación de dominio ni los derechos de inscripción en el Instituto Registral, asimismo, el costo de escrituración correrá a cargo del propietario del fraccionamiento, el cual deberá entregarlas al Municipio respectivo, en un plazo no mayor de treinta días naturales, contados a partir de la fecha en que se otorgó la autorización correspondiente.
 
 ###### ARTÍCULO 172.
 
@@ -2125,11 +2745,15 @@ Para el aprovechamiento de las áreas de donación en usos diferentes a los apro
 
 Para desincorporar del dominio público las áreas de donación destinadas para equipamiento urbano, los servicios, las vías públicas y las áreas verdes, el municipio deberá agotar el procedimiento establecido en la legislación correspondiente, y considerando en la justificación técnica y jurídica dar prioridad al destino del suelo que le dio origen.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 173.
 
-El propietario de un fraccionamiento o de un predio subdivido, será responsable de la operación y mantenimiento de las obras de urbanización y servicios realizados, hasta en tanto se lleve a cabo la entrega del mismo al municipio correspondiente.
+Los nuevos fraccionamientos o conjuntos urbanos deberán respetar y conectarse a la estructura vial existente.
 
-La recepción y entrega del fraccionamiento o subdivisión, deberá solicitarse al municipio respectivo. La Secretaría apoyará a los municipios en este trámite, cuando fuese necesario y a solicitud del primero.
+El propietario de un fraccionamiento, de un predio subdivido o conjunto urbano, deberá asumir el costo de las obras viables y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
+
+Además, será responsable de la operación y mantenimiento de las obras de urbanización y servicios realizados, hasta en tanto se lleve a cabo la entrega del mismo al Municipio correspondiente.
 
 ###### ARTÍCULO 174.
 
@@ -2195,21 +2819,31 @@ Licencia de Construcción es el documento expedido por el municipio, por medio d
 
 Toda licencia de construcción tendrá una vigencia, la cual será fijada en base a la naturaleza y magnitud de la obra por ejecutar, y será determinada de conformidad a lo dispuesto en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 184.
 
-Los municipios otorgarán o negarán, según el caso, las licencias de construcción, de conformidad con lo dispuesto por la presente Ley, sus reglamentos y los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor.
+Las autoridades municipales otorgarán o negarán, según el caso, las licencias de construcción, de conformidad con lo dispuesto por la presente Ley, sus reglamentos y los programas de ordenamiento territorial y de desarrollo urbano en vigor.
 
-En el caso de que los municipios no cuenten con el plan o programa correspondiente, las autorizaciones a que alude el párrafo anterior, serán otorgadas o negadas por el municipio respectivo; la Secretaría emitirá su opinión cuando estos así lo soliciten.
+En el caso de que los municipios no cuenten con el programa correspondiente, las autorizaciones a que alude el párrafo anterior, serán otorgadas o negadas por el municipio respectivo; la Secretaría emitirá su opinión cuando estos así lo soliciten.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 185.
 
-Para el otorgamiento de licencias de uso de suelo y de licencias de construcción u operación, el municipio respectivo, exigirá la presentación de la resolución de impacto ambiental, en las obras o actividades a que se refiere la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+Para el otorgamiento de licencia de uso de suelo y de licencia de construcción u operación, las autoridades municipales respectivas, exigirán la presentación de la resolución de impacto ambiental, en las obras o actividades a que se refiere la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+
+Además, deberán solicitar un estudio de prevención de riesgo que identifique que se realizaron las medidas de mitigación adecuadas, en los términos de las disposiciones de esta Ley, la Ley General de Protección Civil y las normas oficiales mexicanas que se expidan.
+
+En ningún caso podrán asignarse usos o aprovechamientos urbanos o asentamientos humanos en zonas de alto riesgo que no hubieran tomado medidas de mitigación previas. En tales zonas está estrictamente prohibido realizar cualquier obra o edificación de carácter permanente.
 
 ###### ARTÍCULO 186.
 
 Son facultades de los municipios, en el ámbito de su respectiva competencia, en materia de construcción:
 
-I. Dictaminar dentro del área urbana de los centros de población o municipios, sobre las restricciones arquitectónicas, urbanas y/o ecológicas contenidas en los planes o programas de ordenamiento territorial y de desarrollo urbano correspondientes;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Dictaminar dentro del área urbanizada de los centros de población o municipios, sobre las restricciones arquitectónicas, urbanas y/o ecológicas contenidas en los programas de ordenamiento territorial y de desarrollo urbano correspondientes;
 
 II. Inspeccionar y verificar que todas las construcciones que se realicen en su jurisdicción, se ejecuten con estricto apego a los proyectos correspondientes y dentro de las normas que la técnica de la construcción establece;
 
@@ -2217,13 +2851,19 @@ III. Dictar disposiciones para que las áreas y predios sin edificar, los edific
 
 IV. Ordenar y ejecutar la demolición de construcciones, en los casos previstos por la presente Ley y sus reglamentos:
 
-V. Autorizar y expedir la licencia de construcción respectiva, de conformidad a lo dispuesto por la presente Ley, sus reglamentos, planes o programas de ordenamiento territorial y de desarrollo urbano y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. Autorizar y expedir la licencia de construcción respectiva, de conformidad a lo dispuesto por la presente Ley, sus reglamentos, programas de ordenamiento territorial y de desarrollo urbano y demás disposiciones aplicables;
 
 VI. Determinar las cantidades que deberán cubrirse por derechos de licencias y por uso de servicios;
 
 VII. Imponer las sanciones a que se hagan acreedores los infractores de la presente Ley y sus reglamentos, en los términos que los mismos establecen; y
 
 VIII. Llevar un control de los directores responsables de obra con registro estatal vigente, que se encuentren ejerciendo dentro de su jurisdicción, para el estudio, proyecto, diseño, ejecución y supervisión de obra pública y/o privada.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+IX. Asegurarse que en las obras, acciones o inversiones en que intervengan o autoricen se cumplan las normas sobre prevención de riesgos en los asentamientos humanos que esta Ley y la Ley General de Protección Civil establecen.
 
 ###### ARTÍCULO 187.
 
@@ -2243,11 +2883,11 @@ Se requerirá de la licencia municipal de uso de suelo para la construcción, re
 
 En cada licencia de uso de suelo que se expida se señalarán las condiciones que fijen los planes o programas de ordenamiento territorial y de desarrollo urbano en materia de vialidad, estacionamiento, áreas verdes, áreas de maniobras, densidad de población y cualesquiera otras disposiciones señaladas en la presente Ley, sus reglamentos y demás ordenamientos aplicables en la materia, mismas que se asentarán en la licencia de construcción correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 191.
 
-Los municipios podrán autorizar el cambio del uso de suelo de un predio, mediante dictamen técnico, derivado de un estudio técnico justificativo de la zona elaborado por el propietario en términos del reglamento correspondiente y, en su caso, de conformidad con los planes y programas de desarrollo urbano.
-
-En construcciones existentes, el municipio podrá autorizar la modificación de uso de suelo, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes.
+Las autoridades municipales podrán autorizar el cambio de Uso de suelo de un predio, mediante dictamen técnico, derivado de un estudio técnico justificativo de la zona, elaborado por el propietario en términos del reglamento correspondiente y, en su caso, de conformidad con los programas de desarrollo urbano.
 
 ###### ARTÍCULO 192.
 
@@ -2263,9 +2903,11 @@ Para la autorización de construcciones de obras localizadas en zonas y monument
 
 #### Sección II. De la ejecución de las obras
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 195.
 
-Todas las obras públicas y privadas que se realicen en el Estado, deberán sujetarse a lo dispuesto por los planes o programas de ordenamiento territorial y de desarrollo urbano que correspondan; en caso de no contar con los instrumentos antes citados, las construcciones deberán apegarse a lo dispuesto por la presente Ley y su reglamento respectivo.
+Todas las obras públicas y privadas que se realicen en el Estado, deberán sujetarse a lo dispuesto por los programas de ordenamiento territorial y de desarrollo urbano que correspondan. En caso de no contar con los instrumentos antes citados, las construcciones deberán apegarse a lo dispuesto por la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 196.
 
@@ -2275,13 +2917,15 @@ Para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las
 
 Las obras que estén a cargo del Gobierno del Estado o de los municipios, deberán contar con la licencia de construcción correspondiente y la responsiva de un director responsable de obra y corresponsables en su caso, y se ejecutarán en los términos previstos en la presente Ley, sus reglamentos y demás disposiciones relativas en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 198.
 
-El municipio correspondiente y la Secretaría, en el ámbito de sus competencias, supervisarán y vigilarán en todo momento que las obras y actividades realizadas, estén de acuerdo con el proyecto autorizado y demás lineamientos señalados por la presente Ley, sus reglamentos respectivos y los planes o programas de ordenamiento territorial y de desarrollo urbano en vigor.
+El Municipio correspondiente y la Secretaría, en el ámbito de sus competencias, supervisarán y vigilarán, en todo momento, que las obras y actividades realizadas estén de acuerdo con el proyecto autorizado y demás lineamientos señalados por la presente Ley, sus reglamentos respectivos y los programas de ordenamiento territorial y de desarrollo urbano vigentes.
 
-Toda edificación Dispondrá de lugares de estacionamiento de vehículos en la cantidad que señales (sic) tanto los planes de Desarrollo Urbano como el Reglamento de ésta Ley.
+Toda edificación dispondrá de lugares de estacionamiento de vehículos en la cantidad que señalen los programas de desarrollo urbano, así como el Reglamento de ésta Ley.
 
-Tratándose de actividades comerciales, el uso de cajones de estacionamiento a que se refiere el párrafo anterior, deberá ser sin costo para el usuario, a excepción de las que su actividad directa sea exclusiva de este servicio;
+Tratándose de actividades comerciales, el uso de cajones de estacionamiento a que se refiere el párrafo anterior, deberá ser sin costo para el usuario, a excepción de las que su actividad directa sea exclusiva de este servicio.
 
 ### CAPÍTULO SEXTO.. DEL PROYECTISTA, DEL DIRECTOR RESPONSABLE DE OBRA Y DEL CORRESPONSABLE
 
@@ -2331,53 +2975,89 @@ La estructura interna de la Comisión de Admisión de Directores Responsables de
 
 ### CAPÍTULO PRIMERO.. DE LAS DISPOSICIONES GENERALES EN MATERIA DE CONTROL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 206.
 
-Los municipios y la Secretaría en el ámbito de sus respectivas competencias, tendrán a su cargo la vigilancia y el cumplimiento de las disposiciones de esta Ley, su reglamentación y las disposiciones contenidas en los planes de ordenamiento territorial y de desarrollo urbano
+Las autoridades municipales y la Secretaría, en el ámbito de sus respectivas competencias, tendrán a su cargo la vigilancia y el cumplimiento de las disposiciones contenidas en esta Ley, el Reglamento y las contenidas en los programas de ordenamiento territorial y desarrollo urbano y normas oficiales mexicanas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 207.
 
-El procedimiento administrativo, así como las acciones de inspección y vigilancia que lleven a cabo las autoridades competentes, se ajustará a las disposiciones de esta Ley y su reglamento.
+La vigilancia a que se refiere el párrafo anterior se desarrollará conforme a las visitas de verificación y demás procedimientos administrativos previstos en la Ley de Justicia Administrativa para el Estado de Oaxaca.
+
+Los actos administrativos y los procedimientos que emanen de esta Ley se desarrollarán conforme a las formalidades establecidas en la Ley mencionada en el párrafo anterior.
 
 ###### ARTÍCULO 208.
 
 Las personas físicas o morales que conforme a las disposiciones de la presente Ley y su reglamento resulten infractores, serán sancionadas por las autoridades competentes en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### ARTÍCULO 209.
 
-La violación de esta Ley, su reglamentación o de los planes de ordenamiento territorial y de desarrollo urbano, se considera una infracción y origina como consecuencia la aplicación de las sanciones correspondientes.
+La violación a esta Ley, su Reglamento o a los programas de desarrollo urbano y ordenamiento territorial, por parte de cualquier servidor público, dará origen a la responsabilidad respectiva en los términos que establece la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
-La violación a esta Ley, su reglamento o a los planes de desarrollo urbano, por parte de cualquier servidor público, dará origen a la responsabilidad respectiva en los términos que establece la legislación en la materia.
+La imposición de sanciones se hará en los términos de las disposiciones específicas de esta Ley y su Reglamento.
 
-La imposición de sanciones se hará en los términos de las disposiciones específicas de esta Ley y su reglamento.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO SEGUNDO.. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO SEGUNDO. DENUNCIA CIUDADANA
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 210.
 
-El particular deberá promover lo que a sus derechos convenga ante las autoridades a las que se refiere el ámbito de aplicación de la presente Ley y sus reglamentos, y la autoridad deberá respetar la garantía de petición a la que se constriñen los artículos 8 de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Los hechos, actos u omisiones que contravengan las disposiciones de la Ley General de Asentamientos Humanos, esta Ley, su Reglamento, normas oficiales, programas de ordenamiento territorial y desarrollo urbano, se denunciarán en los términos de este capítulo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 211.
 
-Las autoridades estatales o municipales no podrán en ningún caso rechazar las solicitudes, escritos o documentos que les sean presentados por los particulares en las unidades de recepción de documentos, ventanillas de recepción de trámites u oficinas públicas.
+Las autoridades estatales o municipales, serán competentes para recibir y substanciar las denuncias ciudadanas y, en su caso, dictar las medidas de seguridad y sanciones procedentes, en los términos señalados en este Título y en el Reglamento.
 
-Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables. Las autoridades estatales o municipales correspondientes deberán prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación; y no haciéndolo dentro del plazo concedido se tendrá por no interpuesta la promoción de que se trate.
+Cuando por la naturaleza de los hechos denunciados deba conocer otra autoridad, se le remitirá el expediente y demás información que se estime necesaria.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 212.
 
-Los plazos para que las autoridades municipales o estatales a que se refiere esta Ley resuelvan los trámites solicitados estarán previstos en esta Ley o en su reglamento y será congruente con la naturaleza, dimensiones y características de la obra de que se trate.
+La denuncia ciudadana podrá presentarse por cualquier persona, física o moral, pública o privada, mediante escrito impreso o electrónico y deberá contener:
+
+I. El nombre, denominación o razón social, domicilio, teléfono, del denunciante y, en su caso, de su representante legal;
+
+II. Los actos, hechos u omisiones denunciados;
+
+III. Los datos que permitan identificar al presunto infractor, y
+
+IV. Las pruebas que en su caso ofrezca el denunciante.
+
+No se admitirán a trámite denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 213.
 
-Los municipios o la Secretaría en el ámbito de su competencia, podrán llevar a cabo visitas de inspección para comprobar el cumplimiento de esta Ley, su reglamento, los planes de ordenamiento territorial y de desarrollo urbano, acuerdos o demás disposiciones de carácter general en la materia.
+Las autoridades y servidores públicos involucrados deberán rendir un informe sobre los hechos motivo de la denuncia, en el plazo de tres días hábiles, y deberán anexar todos los documentos necesarios, para esclarecer los hechos.
+
+En el caso de que exista documentación o información en poder de otra autoridad o servidor público, con motivo de sus funciones o actividades, deberán proporcionarla a la Secretaría o Autoridad municipal en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 214.
 
-Si como resultado del acta de inspección, la autoridad competente advierte la existencia de algún riesgo para las personas o para sus bienes, procederá a iniciar el procedimiento administrativo correspondiente y aplicar las medidas de seguridad que correspondan.
+La Secretaría y las autoridades municipales, deberán iniciar los procedimientos administrativos que correspondan a su competencia, derivados de las denuncias ciudadanas o por los hechos, actos u omisiones que adviertan de los procedimientos de verificación que realicen.
+
+Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que cause daños o efectos negativos al ordenamiento territorial, a los asentamientos humanos o al desarrollo urbano, será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 215.
 
-El reglamento que al efecto se expida determinaran (sic) las formalidades que habrán de cumplirse para llevar a cabo el procedimiento administrativo, de inspección y/o verificación correspondiente.
+Las autoridades estatales o municipales no podrán en ningún caso, rechazar las solicitudes, escritos o documentos que les sean presentados por los particulares en las unidades de recepción de documentos, ventanillas de recepción de trámites u oficinas públicas.
+
+Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, las autoridades estatales o municipales correspondientes deberán requerir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación; y de no hacerlo dentro del plazo concedido se tendrá por no interpuesta la promoción de que se trate.
 
 ### CAPÍTULO TERCERO.. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES Y DELITOS
 
@@ -2491,53 +3171,69 @@ Las infracciones administrativas y su sanción, son independientes de los delito
 
 El reglamento que al efecto se expida, determinará las formalidades que habrán de cumplirse para la aplicación de las medidas de seguridad, calificación de infracciones y aplicación de sanciones.
 
-### CAPÍTULO CUARTO.. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO CUARTO.. DE LAS NULIDADES
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 222.
 
-Los actos que se realicen para la ejecución de lo dispuesto por la presente Ley, sus reglamentos, los planes o programas de ordenamiento territorial y el desarrollo urbano, podrán ser impugnados por los particulares cuando se afecte su interés jurídico, mediante el recurso de reconsideración o promover lo que a sus derechos convenga en la vía judicial-administrativa correspondiente, en términos de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Las autoridades municipales o la Secretaría podrán solicitar ante la autoridad competente, la nulidad de los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con la utilización de áreas y predios en los casos que:
+
+I. Contravengan esta Ley, su Reglamento y los programas en materia desarrollo urbano, Ordenamiento territorial y asentamientos humanos, así como a las provisiones, usos de suelo, reservas o destinos que establezcan;
+
+II. No contengan las inserciones relacionadas con las autorizaciones, licencias o permisos para la acción urbanística que proceda;
+
+III. Los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia a que se refiere esta Ley, y
+
+IV. Los permisos, autorizaciones o licencias que contravengan lo establecido en los programas de desarrollo urbano, ordenamiento territorial y asentamientos humanos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 223.
 
-La tramitación del recurso de reconsideración se sujetará a las siguientes normas:
+No podrá inscribirse ante el Instituto Registral e Instituto Catastral, ningún acto, convenio, contrato o afectación que no se ajuste a lo dispuesto en esta Ley y en los programas aplicables en la materia.
 
-I. Se interpondrá por escrito ante la autoridad que haya dictado la resolución o acto que se impugne; y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia o entidad, en cuyo caso será resuelto por el mismo.
+Las inscripciones o las cédulas catastrales deberán especificar en su contenido los datos precisos de la zonificación, limitaciones, restricciones y reglas de aprovechamiento, contenidas en los programas de desarrollo urbano que apliquen a la propiedad inmobiliaria.
 
-II. El término para interponer el recurso será de diez días hábiles contados a partir de la fecha de la inscripción del decreto en el Registro Público de la Propiedad o de la fecha de la notificación de la resolución administrativa que se impugne.
-
-III. El escrito deberá satisfacer ros siguientes requisitos:
-
-a) Nombre del recurrente, tercero perjudicado si lo hubiere,
-
-b) Domicilio que señale para oír toda clase de notificaciones,
-
-c) El acto o resolución de la Autoridad que motiva la interposición del recurso, deberá indicar la fecha de notificación.
-
-d) Señalar con precisión a la Autoridad que dicto el acto o resolución que se impugna.
-
-e) Los hechos que constituyen los agravios, preceptos legales violados, y conceptos de violación.
-
-IV. Deberá acompañar al escrito de reconsideración la documentación que tenga relación inmediata y directa con la resolución o acto impugnado,
-
-V. Se admitirán todas las pruebas que no sean contrarias a derecho a excepción de la confesional, y
-
-VI. Deberá acompañar las documentales con que acredite su personalidad cuando actúen en nombre de otra persona física o de personas morales.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 224.
 
-Una vez admitido el recurso, se citará a la parte recurrente para la audiencia de desahogo de pruebas que se celebrara dentro de los diez días siguientes; dicha audiencia se levará acabo (sic) concurra o no el recurrente.
+Las dependencias y entidades de la Administración Pública Estatal, sujetarán la ejecución de sus programas de inversión y de obra a las políticas de ordenamiento territorial de los asentamientos humanos y a los programas de desarrollo urbano.
 
-Concluido el desahogo de pruebas y antes de dictar resolución se pondrán las actuaciones a disposición de los interesados para que por escrito formulen alegatos en un término de tres días.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 225.
 
-La resolución que ponga fin al recurso versará, sobre el desechamiento, sobreseimiento, confirmación, modificación o revocación del acto impugnado, que será dentro de los quince días siguientes.
+Las autoridades que expidan programas municipales de desarrollo urbano, que no gestionen su inscripción o los servidores públicos que se abstengan de llevarla a cabo, o la realicen con deficiencia, serán sancionadas conforme a (sic) Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 226.
 
-La interposición del recurso tendrá el efecto de mantener las cosas en el estado en que se encuentren.
+En el supuesto de que no se atiendan las recomendaciones a que se refiere esta Ley, la Secretaría podrá hacer del conocimiento público su incumplimiento y, en su caso, aplicar las medidas correctivas que se hayan establecido en los convenios o acuerdos respectivos y que se deriven de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 227.
+
+Quienes propicien o permitan la ocupación irregular de áreas y predios en los centros de población, autoricen indebidamente el Asentamiento humano o construcción en zonas de riesgo, en polígonos de protección, salvaguarda y amortiguamiento en torno a la Infraestructura o equipamientos de seguridad nacional o de protección en derechos de vía o zonas federales, o que no respeten la definición de Área urbanizable contenida en este ordenamiento se harán acreedores a las sanciones administrativas, civiles y penales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO QUINTO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### ARTÍCULO 228.
+
+Los actos que se realicen para la ejecución de lo dispuesto por la presente Ley, su Reglamento, los Programas de ordenamiento territorial y de desarrollo urbano, podrán ser impugnados por los particulares cuando se afecte su interés jurídico, mediante el recurso de revisión o promover lo que a sus derechos convenga en la vía judicial administrativa correspondiente, en términos de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### ARTÍCULO 229.
 
 En todo lo no previsto en la presente Ley y sus reglamentos, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Oaxaca y el Código de Procedimientos Civiles del Estado de Oaxaca.
 
@@ -2604,3 +3300,15 @@ Tlalixtac de Cabrera, Centro, Oax., 12 de octubre del 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 725.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO.- El Ejecutivo Estatal deberá expedir el reglamento de la presente Ley a más tardar antes de concluir el siguiente período legislativo de la Sexagésima Tercera Legislatura del Estado Libre y Soberano de Oaxaca.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
