@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2017-09-11"
+last_updated: "2017-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE OCTUBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -86,7 +86,9 @@ III. Órganos Colegiados:
 
 a) Consejo de Honor y Justicia.
 
-2. Subsecretaría de Operación Policial:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE OCTUBRE DE 2017)</small>
+
+2. Subsecretaría de Operación Policial “Zona Norte”:
 
 I. Unidades Administrativas Policiales:
 
@@ -98,25 +100,33 @@ a) Dirección General de Policía de Proximidad "Zona Norte";
 
 b) Dirección General de Policía de Proximidad "Zona Centro";
 
-> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+c) (DEROGADO, G.O. 31 DE OCTUBRE DE 2017)
 
-c) Dirección General de Policía de Proximidad "Zona Sur";
+d) (DEROGADO, G.O. 31 DE OCTUBRE DE 2017)
 
-> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2017)</small>
 
-d) Dirección General de Policía de Proximidad "Zona Oriente";
+e) Dirección General de Policía de Proximidad “Zona Poniente”,
 
-> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+f) (DEROGADO, G.O. 31 DE OCTUBRE DE 2017)
 
-e) Dirección General de Policía de Proximidad "Zona Poniente";
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+g) Dirección Ejecutiva de Logística y Seguimiento Operativo “Zona Norte”.
 
-f) Dirección General de la Policía Metropolitana, y
+> <small>(ADICIONADO [N. DE E. CON SU APARTADO E INCISOS], G.O. 31 DE OCTUBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+2 Bis. Subsecretaría de Operación Policial “Zona Sur”:
 
-g) Dirección Ejecutiva de Logística y Seguimiento Operativo.
+1. Unidades Administrativas Policiales:
+
+a) Dirección General de Policía de Proximidad “Zona Oriente”;
+
+b) Dirección General de Policía de Proximidad “Zona Sur”;
+
+c) Dirección General de la Policía Metropolitana, y
+
+d) Dirección Ejecutiva de Logística y Seguimiento Operativo “Zona Sur”.
 
 3. Subsecretaría de Control de Tránsito:
 
@@ -332,13 +342,19 @@ XIX. Celebrar, otorgar y suscribir toda clase de actos y documentos relacionados
 
 XX. Las demás que le atribuya la normatividad vigente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-Son atribuciones de la Subsecretaría de Operación Policial:
+Son atribuciones de las Subsecretarías de Operación Policial “Zona Norte” y “Zona Sur”:
 
-I. Ejercer el mando operativo de la Policía Preventiva del Distrito Federal y emitir las órdenes generales de operación;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2017)</small>
 
-II. Vigilar el debido funcionamiento de las diversas unidades, agrupamientos y servicios de la Policía Preventiva, así como las de la Policía Complementaria que defina el Secretario;
+I. Ejercer, en el ámbito de su competencia, el mando operativo de la Policía Preventiva del Distrito Federal y emitir las órdenes generales de operación;
+
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2017)</small>
+
+II. Vigilar, en el ámbito de su competencia, el debido funcionamiento de las diversas unidades, agrupamientos y servicios de la Policía Preventiva, así como las de la Policía Complementaria que defina el Secretario;
 
 III. Supervisar que prevalezca la cadena de mando y el principio de autoridad correspondiente para el cumplimiento y obtención de resultados en materia de seguridad pública;
 
@@ -912,7 +928,9 @@ XII. Vigilar el cumplimiento de las resoluciones del Consejo de Honor y Justicia
 
 XIII. Consolidar los informes de los servicios y dispositivos desarrollados en su área geográfica para orientar la toma de decisiones;
 
-XIV. Mantener informado al Subsecretario de Operación Policial sobre las acciones realizadas y los resultados obtenidos, así como al Secretario de los asuntos relevantes en la zona de su adscripción;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2017)</small>
+
+XIV. Mantener informado al Subsecretario de Operación Policial que corresponda, sobre las acciones realizadas y los resultados obtenidos, así como al Secretario de los asuntos relevantes en la zona de su adscripción;
 
 XV. Ordenar, cuando sea solicitada su colaboración, la participación de elementos asignados a las unidades de policía de proximidad en operativos y acciones especiales en zonas de la Ciudad distintas del sector al que se encuentren adscritos;
 
@@ -926,7 +944,9 @@ XVIII. Las demás que les atribuye la normatividad vigente.
 
 Son atribuciones de la Dirección General de la Policía Metropolitana:
 
-I. Participar en operativos y, en general en cualquier requerimiento de servicio, previa autorización del Subsecretario de Operación Policial;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Participar en operativos y, en general en cualquier requerimiento de servicio, previa autorización del Subsecretario de Operación Policial “Zona Sur”.
 
 II. Formular y ejecutar dispositivos, operativos y acciones permanentes o temporales a efecto de prevenir la comisión de delitos e infracciones a los ordenamientos jurídicos vigentes en función de la especialidad requerida;
 
@@ -942,15 +962,21 @@ VI. Las demás que le atribuya la normativa vigente.
 
 (DEROGADO, G.O. 4 DE OCTUBRE DE 2010)
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 25.
 
-Son atribuciones de la Dirección Ejecutiva de Logística y Seguimiento Operativo:
+Son atribuciones de las Direcciones Ejecutivas de Logística y Seguimiento Operativo: ”Zona Norte” y “Zona Sur” en el ámbito del territorio de adscripción las siguientes:
 
-I. Coordinar la recopilación e integración de informes y novedades elaborados por las áreas adscritas por la Subsecretaría de Operación Policial que coadyuven a la adecuada toma de decisiones;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. Coordinar la recopilación e integración de informes y novedades elaborados por las áreas adscritas por la Subsecretaría de Operación Policial que corresponda, que coadyuven a la adecuada toma de decisiones;
 
 II. Garantizar que los recursos en materia técnico operativa le sean asignados en tiempo y forma a las unidades que conforman la policía de proximidad;
 
-III. Dirigir las acciones para la atención de requerimientos de autoridades judiciales y ministeriales sobre información relacionada con elementos policiales adscritos a la Subsecretaria de Operación Policial;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2017)</small>
+
+III. Dirigir las acciones para la atención de requerimientos de autoridades judiciales y ministeriales sobre información relacionada con elementos policiales adscritos a la Subsecretaria de Operación Policial que corresponda;
 
 IV. Atender las demandas ciudadanas captadas por la Cámara de Diputados, estableciendo el procedimiento sistemático con las áreas operativas para su pronta respuesta;
 
@@ -2223,3 +2249,13 @@ TERCERO.- A partir de la entrada en vigor del presente Decreto, en todas las ref
 CUARTO.- El Instituto Técnico de Formación Policial, denominado Universidad de la Policía de la Ciudad de México y la Secretaría de Seguridad Pública, en el ámbito de sus respectivas competencias, realizarán las acciones conducentes para la implementación del presente Decreto, en un término no mayor a seis meses, contados a partir de su vigencia.
 
 QUINTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
