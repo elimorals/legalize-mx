@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-de-justicia-maya-del-estado-de-yucatan-101137"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-29"
-last_updated: "2014-05-29"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2017.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 29 de mayo de 2014.
 
@@ -103,9 +103,19 @@ II. Expedir las constancias de validez de la elección de jueces mayas.
 
 III. Integrar y mantener actualizado el Registro de Jueces Mayas del Estado de Yucatán.
 
-IV. Brindar capacitación a los jueces mayas, para lo cual podrá coordinarse con las instancias de justicia que considere.
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+IV. BRINDAR CAPACITACIÓN CONSTANTE A LOS JUECES MAYAS PARA LO CUAL PODRÁ COORDINARSE CON LAS INSTANCIAS DE JUSTICIA QUE CONSIDERE.
 
 V. Otorgar estímulos o compensaciones económicos a los jueces mayas, de conformidad con la disponibilidad presupuestaria.
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE ADICIONÓ LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. DIFUNDIR EN TODAS LAS COMUNIDADES MAYAS LA PRESENTE LEY, ASÍ COMO DAR A CONOCER LOS DERECHOS CON LOS QUE CUENTAN E INCENTIVAR EL USO DEL SISTEMA.
 
 ###### Artículo 7.
 
@@ -121,7 +131,11 @@ Requisitos para ser juez maya
 
 Para ser juez maya se requiere cumplir con los requisitos siguientes:
 
-I. Tener la nacionalidad mexicana.
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+I. TENER LA NACIONALIDAD MEXICANA Y TENER LA CALIDAD DE CIUDADANO YUCATECO.
 
 II. Estar en ejercicio de sus derechos civiles y políticos.
 
@@ -135,17 +149,33 @@ VI. Ser hablante de la lengua maya.
 
 VII. Residir en la comunidad maya para la cual pretenda ocupar el cargo.
 
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE ADICIONÓ LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+VIII. SABER LEER Y ESCRIBIR.
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 9.
 
 Procedimiento de elección
 
-Las comunidades mayas, con base en su autonomía reconocida por la Constitución Política de los Estados Unidos Mexicanos, elegirán a sus jueces mayas en la forma y términos que las mismas determinen de conformidad con sus usos, costumbres y tradiciones, para lo cual, de estimarlo necesario, podrán solicitar el apoyo técnico del instituto.
+Las comunidades mayas, con base en su autonomía reconocida por la Constitución Política de los Estados Unidos Mexicanos, elegirán a sus jueces mayas en la forma y términos que las mismas determinen de conformidad con sus usos, costumbres y tradiciones, para lo cual, de estimarlo necesario, podrán solicitar el apoyo técnico del instituto, del ayuntamiento respectivo o del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 10.
 
 Constancia de validez
 
-Una vez concluido el procedimiento de elección del juez maya, en los términos del artículo anterior y en cumplimiento de los requisitos establecidos en esta ley, el instituto expedirá a la persona electa, una constancia de validez que lo acreditará como juez maya de la comunidad que lo eligió.
+Una vez concluido el procedimiento de elección del juez maya, en los términos del artículo anterior y en cumplimiento de los requisitos establecidos en esta ley, el instituto expedirá a la persona electa, una constancia de validez que lo acreditará como juez maya de la comunidad que lo eligió entrando en funciones de manera inmediata.
+
+El instituto podrá otorgar a los jueces maya (sic) los apoyos materiales para el correcto desarrollo de su actividad.
 
 ### Capítulo IV. Registro de Jueces Mayas del Estado de Yucatán
 
@@ -163,7 +193,17 @@ III. Fecha de elección del juez maya.
 
 IV. Duración del cargo, de conformidad con los usos y costumbres de la comunidad maya de que se trate.
 
-V. Los demás que el Instituto considere necesarios para el desempeño de las atribuciones que le confiere esta Ley.
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE OCTUBRE DE 2017)</small>
+
+V. BITÁCORA DE ACTIVIDADES Y CAPACITACIONES QUE TENGA EL JUEZ MAYA.
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE ADICIONÓ LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 31 DE OCTUBRE DE 2017)</small>
+
+VI. LOS DEMÁS QUE EL INSTITUTO CONSIDERE NECESARIOS PARA EL DESEMPEÑO DE LAS ATRIBUCIONES QUE LE CONFIERE ESTA LEY.
 
 ### Capítulo V. Jurisdicción y competencia del juez maya
 
@@ -185,19 +225,39 @@ II. Los asuntos que puedan ser objeto de transacción entre particulares.
 
 III. Las conductas previstas como delitos en la legislación penal aplicable en el estado que no sean considerados como graves y respecto de los cuales proceda el perdón del ofendido, y no se afecten los derechos de terceros ni se contravengan disposiciones de orden público o se trate de derechos irrenunciables.
 
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 13 Bis.
+
+Remisión a otras autoridades
+
+Cuando el juez maya tenga conocimiento de algún hecho que supere la esfera de su competencia, podrá ponerlo en conocimiento de las autoridades correspondientes para la pronta atención del afectado.
+
 ### Capítulo VI. Procedimiento de Justicia ante el juez maya
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 14.
 
 Acceso al procedimiento de justicia ante el juez maya
 
-Podrán acceder al procedimiento de justicia ante el juez maya, los integrantes de la comunidad maya que así lo deseen.
+Podrán acceder al procedimiento de justicia ante el juez maya, los integrantes de la propia comunidad maya que así lo deseen, así como también otras personas que no pertenezcan a la comunidad maya, pero que decidan someterse a la competencia de los jueces mayas, siempre y cuando tengan algún conflicto de los señalados en el artículo 13 de esta ley con algún integrante de la comunidad maya.
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-Validez de las resoluciones
+Validez de las resoluciones.
 
 Desde el momento en que las partes se sometan a la jurisdicción del juez maya, las resoluciones que este emita serán válidas ante cualquier instancia.
+
+Para tal efecto el juez maya podrá expedir constancia de la resolución a alguna de las partes, cuando así lo solicite.
 
 ###### Artículo 16.
 
@@ -213,7 +273,11 @@ Los procedimientos a los que se refiere el artículo anterior se llevarán a cab
 
 En dicha audiencia se oirán a ambas partes, las cuales manifestarán lo que a su derecho corresponda e inmediatamente después, el juez maya las invitará a llegar a un acuerdo y, de no conciliar, mediará entre ellas, aportando alternativas de solución viables.
 
-Si aún así, las partes no llegan a un acuerdo satisfactorio, el juez maya las invitará a someterse al procedimiento arbitral. Una vez aceptado dicho procedimiento, este tendrá el carácter de obligatorio hasta su resolución, por lo que el juez maya tendrá que emitir el laudo a conciencia y verdad sabida, y el asunto tendrá el carácter de cosa juzgada.
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017 POR EL QUE SE REFORMÓ EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2017)</small>
+
+SI AUN ASÍ, LAS PARTES NO LLEGAN A UN ACUERDO SATISFACTORIO, EL JUEZ MAYA LAS INVITARÁ A SOMETERSE AL PROCEDIMIENTO ARBITRAL. UNA VEZ ACEPTADO DICHO PROCEDIMIENTO POR AMBAS PARTES, ESTE TENDRÁ EL CARÁCTER DE OBLIGATORIO HASTA SU RESOLUCIÓN, POR LO QUE EL JUEZ MAYA TENDRÁ QUE EMITIR EL LAUDO A CONCIENCIA Y VERDAD SABIDA, Y EL ASUNTO TENDRÁ EL CARÁCTER DE COSA JUZGADA.
 
 ###### Artículo 18.
 
@@ -286,3 +350,19 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 534/2017 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LA COMUNIDAD MAYA DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN".]
+
+(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 151/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 534/2017, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley para la Protección de los Derechos de la Comunidad Maya del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
