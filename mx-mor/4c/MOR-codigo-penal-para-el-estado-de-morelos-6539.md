@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2017-07-19"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -117,7 +117,7 @@ Desde la formulación del citado proyecto del Instituto Nacional de Ciencias Pen
 
 Esos sustitutivos, que también aquí se recogen ahora, son el tratamiento en libertad (artículo 30), la semilibertad (artículo 31) y el trabajo en favor de la comunidad (artículo 32), además de la multa y la suspensión condicional de la ejecución de la condena. De esta forma se renueva la reacción penal frente al delito, que ya no queda encomendada, con la frecuencia que se acostumbró, a la pena privativa de la libertad. Como antes se dijo, estas medidas operan a título de sustitutivos, pero también, en varios casos, como penas aplicables directamente al delito cometido.
 
-Si bien es cierto que los sustitutivos ofrecen ventajas notables sobre la prisión, también lo es que el empleo excesivo de aquéllos, sin el debido cuidado, y la indiscriminada y expansiva sustitución de la pena privativa de la libertad, producto de un entusiasmo de buena fe, pero escasamente documentado, traen consigo problemas mayores que los que concurren a resolver y determinan, a la postre, el descrédito de las medidas no privativas de libertad, con la consecuente tentación de retroceder en este ámbito del desarrollo normativo. Esto se ha visto en la legislación federal y del Distrito Federal, cuya experiencia y novedades se tomaron en cuenta en este ordenamiento.
+Si bien es cierto que los sustitutivos ofrecen ventajas notables sobre la prisión, también lo es que el empleo excesivo de aquéllos, sin el debido cuidado, y la indiscriminada y expansiva sustitución de la pena privativa de libertad, producto de un entusiasmo de buena fe, pero escasamente documentado, traen consigo problemas mayores que los que concurren a resolver y determinan, a la postre, el descrédito de las medidas no privativas de la libertad, con la consecuente tentación de retroceder en este ámbito del desarrollo normativo. Esto se ha visto en la legislación federal y del Distrito Federal, cuya experiencia y novedades se tomaron en cuenta en este ordenamiento.
 
 Por ello se ha puesto cuidado en evitar que los sustitutivos excedan los términos que deben corresponderles por ahora; el éxito en este punto depende de la racionalidad del sistema adoptado, en sí mismo, y de la buena aplicación por parte de las autoridades correspondientes, con las que debe concurrir la sociedad. A esta racionalidad y prudencia, consecuentes con el verdadero desarrollo del régimen penal, contribuye otra apreciación, que el Código recoge: el diverso tratamiento que se da a los casos de delito doloso y a los supuestos de delito culposo (artículo 73), natural en un ordenamiento que subraya la importancia de la culpabilidad del agente.
 
@@ -277,7 +277,7 @@ Es absolutamente necesario evitar el aprovechamiento del delito como medio para 
 
 Con el propósito de racionalizar el empleo de la vía penal, moderando su uso y consecuencias, se previenen casos de exención de sanciones o de reducción considerable de éstas, cuando tal cosa resulta aconsejable en función de los intereses prevalecientes del ofendido o de la sociedad. En estas hipótesis se toma en cuenta, como factor principal, la restitución del objeto mal habido y la reparación de daños y perjuicios (artículo 199).
 
-El Título Decimoprimero se refiere a los delitos contra la familia o el orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de las obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
+El Título Decimoprimero se refiere a los delitos contra la familia o de orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de las obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
 
 Además de los supuestos, bien conocidos, de sustracción o retención indebida de menores, tráfico de éstos que no se denomina "robo de infante", pues no se trata de la sustracción de un bien mueble, delitos contra la filiación y el estado civil y bigamia, el Código recoge el delito consistente en contraer matrimonio a sabiendas de que existe un impedimento que determinará la nulidad absoluta, no sólo la nulidad relativa o anulabilidad, de dicha unión (artículo 207). En el mismo conjunto de delitos contra la familia figuran el incesto y la controvertida figura del adulterio, que se incorpora en los términos previstos por la legislación vigente. Ambas hipótesis son, en efecto, conductas que pugnan con el orden familiar socialmente aceptado; no se trata, propiamente, de delitos contra la libertad o el normal desarrollo sexual, aunque ambos tengan, obviamente, un contenido sexual.
 
@@ -1261,8 +1261,6 @@ La pretensión punitiva y la potestad ejecutiva se extinguirán por cualquiera d
 
 I. Sentencia ejecutoria o proceso anterior por el mismo delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 II. Cumplimiento de la sanción. En el supuesto de inimputables, se atenderá a lo dispuesto en el tercer párrafo del artículo 57;
@@ -1281,13 +1279,9 @@ VIII. Indulto;
 
 IX. Improcedencia del tratamiento de inimputables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 X. Prescripción, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -1733,9 +1727,9 @@ Cuando las lesiones se cometan culposamente con motivo del tránsito de vehícul
 
 Las mismas sanciones se impondrán si el agente actúa en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, sin que exista prescripción médica, o no auxilie a la víctima del delito y se de a la fuga.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-Cuando se cause homicidio, en las circunstancias previstas en el presente artículo, las sanciones serán de seis a veinte años de prisión y privación o inhabilitación en el ejercicio de aquellos derechos.
+Cuando se cause homicidio, en las circunstancias previstas en el presente artículo, las sanciones serán de seis a veinte años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, incluida la cancelación de su licencia para conducir vehículos automotores, expedida por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
@@ -1791,8 +1785,6 @@ Al que omita prestar el auxilio posible y adecuado a quien se encuentre ante él
 
 ### CAPITULO II. SECUESTRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 136.
 
 A quien sabiendo que padece una enfermedad grave en periodo infectante, ponga en peligro de contagio a otro, mediante cualquier medio de transmisión del mal, se le aplicará de seis meses a un año de prisión y tratamiento en libertad hasta por un año.
@@ -1833,8 +1825,6 @@ V. Que la privación de la libertad tenga el propósito de realizar un acto eró
 
 Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres días siguientes a la comisión del delito y no se hubiese hecho uso de la violencia sobre el ofendido, el juez podrá prescindir de la sanción. Si la libertad se produce, en las mismas condiciones, antes de que transcurran seis días desde la comisión del delito, la sanción podrá disminuirse hasta la mitad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO IV. EXTORSION
@@ -1845,13 +1835,9 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 141.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 142.
 
@@ -2269,8 +2255,6 @@ XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y
 
 XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 XIV. Cuando el objeto del robo sean vales de papel, o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, se impondrán de seis meses a tres años de prisión.
@@ -2523,13 +2507,9 @@ VI. Siendo fabricante, empresario, contratista o constructor de una obra emplee 
 
 VII. Provoque deliberadamente cualquier acontecimiento, simulando que se trata de caso fortuito o fuerza mayor, para liberarse de obligaciones o cobrar fianzas o seguros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 VIII. Quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios con conocimientos de que son falsos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2843,7 +2823,7 @@ DELITOS CONTRA LA FE PUBLICA
 
 Comete el delito de corrupción de personas menores de edad y de personas que no tengan la capacidad para comprender el significado del hecho, quien habitual u ocasionalmente, por cualquier medio, procure, induzca o facilite que las personas antes señaladas realicen cualquiera de las siguientes conductas:
 
-l. Actos o exhibiciones eróticas o sexuales, públicas o privadas, sin fines de explotación, que puedan afectar su desarrollo;
+I. Actos o exhibiciones eróticas o sexuales, públicas o privadas, sin fines de explotación, que puedan afectar su desarrollo;
 
 II. Consumo (sic) bebidas embriagantes, narcóticos o sustancias tóxicas que puedan alterar su salud o su desarrollo; y
 
@@ -2897,7 +2877,7 @@ La misma pena será aplicable a quien permita el acceso a personas menores de di
 
 Comete el delito de utilización de imágenes y/o voz de personas menores de edad y de personas que no tengan la capacidad para comprender el significado del hecho para la pornografía:
 
-l. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas, con o sin fines lucrativos;
+I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas, con o sin fines lucrativos;
 
 II. Quien reproduzca, publique, ofrezca, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas;
 
@@ -2915,7 +2895,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 ARTICULO 212 BIS.- Las penas que resulten aplicables por los delitos anteriores se aumentarán de conformidad con lo siguiente:
 
-l. Hasta en una tercera parte, si el delito es cometido por servidores públicos;
+I. Hasta en una tercera parte, si el delito es cometido por servidores públicos;
 
 II. Hasta una mitad cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta;
 
@@ -3045,8 +3025,6 @@ Cuando el objeto falsificado, alterado o utilizado indebidamente sea de aquéllo
 
 A quien falsifique una obra artística de carácter plástico o la haga pasar por auténtica siendo falsa, si su conducta no se halla sancionada por la legislación autoral, se le impondrán las sanciones mencionadas en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 220 Bis.
@@ -3165,15 +3143,23 @@ Los delitos previstos en los artículos 226, 227, 228, 230 y 231 de este Título
 
 El que mediante la conducción temeraria de vehículo de motor transgrediere las normas de seguridad vial, poniendo en peligro la vida o la integridad física de las personas o los bienes, será sancionado:
 
-I.- Suspensión del derecho de conducir hasta por dos años, y en caso de reincidencia la suspensión hasta por cinco años, y de ciento veinte a ciento ochenta días de trabajo a favor de la comunidad, sin estar en estado de ebriedad o bajo los influjos de estupefacientes o psicotrópicos
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-II.- Suspensión del derecho de conducir hasta por tres años, y en caso de residencia (sic) la perdida del derecho de conducir y de ciento veinte a ciento ochenta días de trabajo a favor de la comunidad, al estar en estado de ebriedad o bajo los influjos de estupefacientes o psicotrópicos.
+I.- Suspensión del derecho de conducir hasta por dos años, y en caso de reincidencia la suspensión hasta por cinco años, y de ciento veinte a ciento ochenta días de trabajo a favor de la comunidad, sin estar en estado de ebriedad o bajo los influjos de estupefacientes o psicotrópicos o sin manipular un equipo de radio comunicación o de telefonía celular.
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+II.- Suspensión del derecho de conducir hasta por tres años, y además de la sanción correspondiente del delito cometido, una pena de uno a tres años de prisión y en caso de reincidencia la pérdida del derecho de conducir y de ciento veinte a ciento ochenta días de trabajo a favor de la comunidad, al estar en estado de ebriedad o bajo los influjos de estupefacientes o psicotrópicos o manipulando un equipo de radio comunicación o de telefonía celular.
 
 III.- Si la conducción temeraria provocara daños a terceros se castigará con pena de prisión de uno a tres años, sin perjuicio de las penas y sanciones generadas por los demás delitos que se deriven del hecho que se sanciona.
 
 Si este delito se comete por conductores de vehículos de transporte público en cualquiera de las modalidades previstas en la Ley de Tránsito y Transporte del Estado de Morelos, la sanción se agravara hasta en una mitad más de la prevista, en la fracción (sic) I y II.
 
 Para los efectos de este artículo, se considerará conducción temeraria: manejar en estado de ebriedad o bajo los efectos de estupefacientes o psicotrópicos, o que sin los efectos del alcohol o alguna otra sustancia prohibida conduzca un vehículo con negligencia y ponga en peligro la vida, la salud personal o los bienes de terceras personas.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+De la misma manera se considerará conducción temeraria manejar manipulando un equipo de radio comunicación o de telefonía celular para realizar y contestar llamadas o mandar mensajes de texto, con excepción de que los mismos sean utilizados con accesorios o equipos auxiliares que permitan tener las manos libres u otra tecnología que evite la distracción del conductor.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3208,8 +3194,6 @@ No se sancionará a quienes ejerzan la patria potestad, la tutela o la custodia 
 ###### ARTICULO 242.
 
 (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
@@ -5010,3 +4994,11 @@ VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normativ
 VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
 
 VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO OCHO POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 128 Y LAS FRACCIONES I Y II DEL ARTÍCULO 238 Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 238 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
