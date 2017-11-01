@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2017-09-18"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -841,9 +841,9 @@ V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción
 
 CONCUBINATO. Es la unión de hecho de dos personas, ambas libres de matrimonio y sin impedimento para contraerlo, que viven de forma constante y permanente, generando derechos y obligaciones al procrear hijos o manteniendo la convivencia.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en común de manera ininterrumpida durante dos años o han cohabitado y procreado un hijo o más en común.
+Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en el mismo domicilio, de manera ininterrumpida durante dos años o han cohabitado y procreado un hijo o más en común.
 
 ###### ARTÍCULO 66.
 
@@ -923,7 +923,9 @@ IV.- El parentesco por afinidad en la línea recta, ascendente o descendente.
 
 V.- Haber sido autor o cómplice de homicidio o atentado contra la vida de uno de los cónyuges, para casarse con el otro.
 
-VI.- El consentimiento obtenido por error, violencia o miedo grave.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+VI.- El consentimiento obtenido por error;
 
 VII.- Padecer alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria.
 
@@ -931,7 +933,7 @@ VIII.- El tutor no puede contraer matrimonio con su pupila.
 
 IX.- El adoptante no puede contraer matrimonio con el adoptado.
 
-X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado.
+X.- (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2017)
 
 XI.- (DEROGADA, P.O. 27 DE MAYO DE 2015)
 
@@ -943,9 +945,7 @@ En caso de privación ilegal de la libertad personal o la comisión de otro ilí
 
 XIII.- La embriaguez habitual, o el uso ilegal y persistente de drogas estupefacientes y psicotrópicas;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2015)</small>
-
-XIV.- La impotencia incurable para la cópula, salvo en aquel caso que, a sabiendas de la existencia de esta circunstancia, la contrayente manifieste su voluntad para realizar el matrimonio;
+XIV.- (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2017)
 
 XV. Encontrarse afectado por enfermedades mentales incurables;
 
@@ -6460,3 +6460,19 @@ P.O. 18 DE SEPTIEMBRE DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO SIETE POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 65 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CUYO PROPÓSITO ES ACLARAR LAS CONDICIONES QUE HABRÁN DE CUMPLIRSE PARA ACREDITAR UNA RELACIÓN DE CONCUBINATO".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
