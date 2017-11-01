@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2017-04-19"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1827,13 +1827,19 @@ En cualquier asunto del orden familiar, a petición de parte o de oficio el Juez
 
 FACULTAD DEL JUEZ DE VERIFICAR LA CERTEZA DE FIRMAS DE ESCRITOS ESENCIALES. Los escritos en que se solicite el desistimiento de la demanda, de la instancia o de la pretensión procesal, deberán ser ratificados ante la presencia judicial, sin cuyo requisito no se les dará trámite.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 179.
 
 DEMANDA POR ESCRITO O VERBAL. La demanda inicial que se presente ante el Juez de lo Familiar podrá ser por escrito o por comparecencia personal, cuando se trate de alimentos, cuestiones que amenacen la integridad física o moral de los menores o incapacitados y en los demás casos urgentes.
 
 La exposición deberá hacerse de manera breve y concisa señalando los hechos de que se trate, en la inteligencia de que suplirá de inmediato y ante la presencia del demandante la deficiencia de la queja; en la inteligencia de que el auto de admisión de la demanda inicial deberá ser dictado en el mismo acto.
 
+Tratándose de comparecencias personales, el representante legal del menor, del incapaz o el actor en su caso, previa protesta de decir verdad de que se encuentran en un estado de insolvencia económica, lo cual será valorado por el Departamento de Orientación Familiar, podrán solicitar al Juez solicite a la Dirección General del Registro Civil del Estado de Morelos, remita copias certificadas de las actas de nacimiento, matrimonio, así como cualquier certificación o constancia que obren en sus libros oficiales que acrediten su legitimación.
+
 Con las copias respectivas del acta que se levante con motivo de la comparecencia o de la demanda inicial y de los documentos que en su caso se presenten y auto de admisión, si fuere el caso, se correrá traslado a la parte demandada, la que deberá comparecer por escrito o de manera verbal, indistintamente, dentro del plazo de cinco días.
+
+En caso, de que se hayan solicitado por parte del actor la expedición de copias certificadas al registro civil, el Juez tendrá la obligación de requerirlas en un término de veinticuatro horas para el efecto de que se anexen de inmediato a la comparecencia rendida, y con los mismos deberá corrérsele traslado a la parte demandada.
 
 En tales comparecencias las partes deberán ofrecer las pruebas respectivas y al ordenarse el traslado, el Juez deberá señalar día y hora para la celebración de la audiencia de conciliación y depuración.
 
@@ -7066,3 +7072,11 @@ PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS CUARENTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 179 DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
