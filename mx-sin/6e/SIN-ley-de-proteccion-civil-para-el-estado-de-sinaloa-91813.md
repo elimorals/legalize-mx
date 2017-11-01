@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-civil-para-el-estado-de-sinaloa-91813"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2016-12-28"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 25 de enero de 2013.
 
@@ -835,7 +837,9 @@ III. Promover la formación y profesionalización en la materia, de la sociedad,
 
 IV. La certificación de titulares de protección civil de las dependencias públicas del Estado;
 
-V. La certificación de los planes y programas en materia de protección civil, de los diferentes niveles de gobierno y de los organismos sociales y privados;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+V. La revisión y validación de los planes y programas en materia de protección civil de los diferentes niveles de gobierno y de los organismos sociales y privados; así como la certificación de los Cuerpos Voluntarios de Bomberos, por virtud de la cual tendrán acceso a los recursos públicos a que se refiere el artículo 108 de esta Ley;
 
 VI. Desarrollar y actualizar los manuales operativos ante fenómenos destructivos o de riesgo;
 
@@ -1419,11 +1423,13 @@ La coordinación, registro y funcionamiento de las organizaciones civiles, se no
 
 Se reconoce a los Cuerpos Voluntarios de Bomberos constituidos y que se constituyan conforme a este ordenamiento legal, el carácter de organismos públicos integrantes de los Sistemas Estatal y Municipales de protección civil.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 108.
 
-El Gobierno del Estado y los Ayuntamientos incluirán en sus presupuestos anuales respectivos, la cantidad que en carácter de subsidio se otorgue a cada Patronato de Administración de Cuerpos Voluntarios de Bomberos.
+El Gobierno del Estado y los Ayuntamientos incluirán en sus presupuestos anuales respectivos, la cantidad que en carácter de subsidio y la que por disposición de Ley corresponda a los Cuerpos Voluntarios de Bomberos reconocidos y validados por la autoridad competente en los términos de lo dispuesto por la fracción V del artículo 47 de este ordenamiento. La indicada validación otorgará a los Cuerpos Voluntarios de Bomberos el derecho a recibir el subsidio y los demás recursos públicos que por mandato de Ley les corresponda, en ministraciones mensuales, con base en los lineamientos financieros y de atención de la población objetivo que defina el Instituto. Además, ambas instancias de autoridad procurarán que estos organismos dispongan de recursos regulares adicionales a través de fórmulas legales y de mecanismos o convenios definidos donde se podrá contar con la participación ciudadana.
 
-Además, ambas instancias de autoridad procurarán que estos organismos dispongan de recursos regulares adicionales a través de fórmulas legales y de mecanismos o convenios definidos donde se podrá contar con la participación ciudadana.
+Los recursos a que se refiere el presente artículo sólo podrán entregarse por conducto del Patronato de Administración de los Cuerpos Voluntarios de Bomberos de cada Municipio. Quienes deseen participar en dicho servicio, deberán integrarse al mando operativo y organizacional de aquél.
 
 ###### Artículo 109.
 
@@ -2028,3 +2034,23 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y LA LEY DE HACIENDA MUNICIPAL, AMBAS PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 30 días posteriores de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A los Municipios que cuenten con Patronato de Administración de Cuerpos Voluntarios de Bomberos al día de la entrada en vigor del presente Decreto, deberán adecuar sus lineamientos presupuestales y contables a las disposiciones del mismo a más tardar 90 días de la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+La validación de los programas del cuerpo voluntarios de bomberos que realice el Instituto de Protección Civil, tendrán validez durante el primer año de vigencia del presente Decreto, durante este periodo deberán obtener la certificación correspondiente, misma que deberá ser ratificada anualmente por el Instituto de Protección Civil, o una institución reconocida para este efecto y poder acceder a los apoyos previstos en los artículos 108 de la Ley de Protección Civil y 105 de la Ley de Hacienda Municipal, ambas del Estado de Sinaloa, a partir del año fiscal siguiente.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal de Protección Civil deberá expedir los lineamientos para la certificación de los Cuerpos Voluntarios de Bomberos de cada uno de los municipios que cuenten con el mismo, así como los lineamientos financieros y de atención a la población objetivo a que refiere el presente Decreto, a más tardar 90 días naturales, contados a partir de la entrada en vigor del mismo.
