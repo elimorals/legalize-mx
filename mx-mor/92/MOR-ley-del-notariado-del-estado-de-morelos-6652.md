@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2016-12-22"
+last_updated: "2017-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -246,8 +248,6 @@ La contravención a esta disposición se sancionará con la revocación de la pa
 ###### ARTICULO 24.
 
 Para que el Notario pueda actuar, debe:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1113,9 +1113,11 @@ I.- Retardar injustificadamente a juicio de la Secretaría General de Gobierno l
 
 II.- No llevar índices o los apéndices.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 111.
 
-La Secretaría General de Gobierno sancionará al Notario que incurra en alguna de las causales siguientes con multa de hasta trescientas veces el salario mínimo general vigente en la Capital del Estado:
+La Secretaría General de Gobierno sancionará al Notario que incurra en alguna de las causales siguientes con multa de hasta trescientas veces el valor diario de la unidad de medida y actualización.
 
 I.- Reincidir en alguna de las infracciones a que se refiere el Artículo anterior dentro de un plazo de seis meses.
 
@@ -1512,3 +1514,11 @@ QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jer
 SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantías a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
 
 SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 111 DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. REMÍTASE EL PRESENTE DECRETO AL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PARA LOS EFECTOS DE LO DISPUESTO POR LOS ARTÍCULOS 44 Y 70, FRACCIÓN XVIII, INCISOS A), B) Y C), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+SEGUNDO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD”, ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
