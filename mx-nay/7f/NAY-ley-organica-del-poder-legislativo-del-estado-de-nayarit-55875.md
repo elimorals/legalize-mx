@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2016-10-21"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -845,29 +847,23 @@ El orden del día que se genere con motivo de un citatorio a reunión de Comisio
 
 La estructura técnica del Congreso se integra por la Secretaría General, la Oficialía Mayor, la Contraloría Interna y el Órgano de Fiscalización Superior, siendo la Comisión de Gobierno la autoridad administrativa inmediata.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 76.
 
-Los titulares de los órganos técnicos serán propuestos por la Comisión de Gobierno, requiriéndose para su designación el voto afirmativo de las dos terceras partes de los integrantes de la Asamblea. Solo podrán ser removidos de sus cargos por causa de responsabilidad en términos de lo previsto por el Título Octavo de la Constitución Local y la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+Los titulares de los órganos técnicos serán propuestos por la Comisión de Gobierno, requiriéndose para su designación el voto afirmativo de las dos terceras partes de los integrantes de la Asamblea. Solo podrán ser removidos de sus cargos por causa de responsabilidad en términos de lo previsto por el Título Octavo de la Constitución Local y la Ley en materia de Responsabilidades Administrativas.
 
-El período de duración será de cuatro años, y podrán ser ratificados por una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El período de duración del encargo comprenderá de la fecha de su designación y hasta culminar la Legislatura, y podrán ser ratificados una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 Los procedimientos para la designación de los titulares de los órganos técnicos y administrativos serán determinados en el Reglamento, a excepción del Auditor General del Órgano de Fiscalización que se establecerá en la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 Los titulares de las demás áreas internas de cada órgano técnico se designarán y removerán por acuerdo de la Comisión de Gobierno, en los términos señalados por el reglamento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
@@ -882,8 +878,6 @@ c) Coordinaciones;
 d) Unidades, y
 
 e) Departamentos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REPUBLICADO, P.O. 25 DE DICIEMBRE DE 2013)
 
@@ -1105,7 +1099,7 @@ La Contraloría Interna para el cumplimiento de sus funciones contará con la es
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-I.- Dirección de Auditoría Financiera, y
+I.- Dirección de Auditoria Financiera, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1121,11 +1115,9 @@ Para ser titular de la Oficialía Mayor o de la Contraloría Interna, se deberá
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, y mayor de 30 años;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
-
-II. Poseer al día de la designación, con antigüedad mínima de tres años, título profesional del área económica-administrativa, expedido por autoridad o institución legalmente facultada para ello y debidamente registrado ante autoridad competente;
+II. Poseer al día de la designación, con antigüedad mínima de tres años, título profesional de las áreas económicas-administrativas, sociales y/o humanidades expedido por autoridad o institución legalmente facultada para ello y debidamente registrado ante autoridad competente;
 
 III. Gozar de buena reputación y reconocida honorabilidad;
 
@@ -1612,3 +1604,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las reglas relacionadas con la elaboración del presupuesto anual del Poder Legislativo, contenidas en el artículo 35 fracción IV entrarán en vigor para efectos del ejercicio fiscal 2017, y de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 TERCERO. El Reglamento para el Gobierno Interior del Congreso que se encuentre vigente, en tanto no se modifique, se seguirá aplicando en lo que no se oponga al presente Decreto. Sin perjuicio de lo anterior, se deberán realizar las modificaciones necesarias al Reglamento para el Gobierno Interior del Congreso, en un plazo de hasta un año.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
