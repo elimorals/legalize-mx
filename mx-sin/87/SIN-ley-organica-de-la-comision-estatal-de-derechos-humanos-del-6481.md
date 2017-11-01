@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-comision-estatal-de-derechos-humanos-del-648
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-04-07"
-last_updated: "2017-06-26"
+last_updated: "2017-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADA EN EL P.O. DE 1 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 7 de Abril de 1993.
 
@@ -918,3 +920,17 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 258 QUE EXPIDE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS".]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley Orgánica de la Comisión Estatal de Derechos Humanos del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" Nº 42 del día 7 de abril de 1993, y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO. El Reglamento Interior de la Comisión Estatal de los Derechos Humanos será expedido dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
+
+CUARTO. Los procedimientos y trámites iniciados conforme a las disposiciones de la Ley Orgánica que abroga la presente Ley, se sustanciarán y resolverán conforme a la misma y en lo que fuere procedente y resulte en beneficio de los interesados, serán aplicables lo preceptos de la presente Ley.
+
+QUINTO. A los servidores públicos de la Comisión Estatal que sigan laborando para la misma, se les seguirán reconociendo sus derechos laborales.
