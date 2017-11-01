@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-6497"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-04-18"
-last_updated: "1994-04-18"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE SINALOA
 
-REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE SINALOA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA DE FECHA 18 DE ABRIL DE 1994, CUYO CONTENIDO SE RELACIONE CON LA EVALUACIÓN DEL IMPACTO AMBIENTAL.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 18 de abril de 1994.
 
@@ -124,6 +126,8 @@ El Consejo estará presidido por el Gobernador y en sus ausencias por el Secreta
 ###### ARTICULO 6o.
 
 El Secretario del Consejo deberá dar seguimiento a los acuerdos tomados en el seno del pleno del Consejo e informar en la sesión subsecuente los avances de los mismos.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA DE FECHA 18 DE ABRIL DE 1994, CUYO CONTENIDO SE RELACIONE CON LA EVALUACIÓN DEL IMPACTO AMBIENTAL.]</small>
 
 ## TITULO SEGUNDO. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
 
@@ -1440,3 +1444,17 @@ FRANCISCO C. FRÍAS CASTRO
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 J. ADALBERTO CASTRO CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL”.]
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- Se derogan las disposiciones del Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sinaloa de fecha 18 de abril de 1994, cuyo contenido se relacione con la evaluación del impacto ambiental.
+
+Artículo Tercero.- Los procedimientos que se encuentren en trámite ante la Secretaría a la entrada en vigor del presente Reglamento, se substanciarán conforme a las disposiciones del ordenamiento que deroga hasta su debida conclusión.
+
+Artículo Cuarto.- La Secretaría establecerá los mecanismos previstos en el artículo 38 del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
