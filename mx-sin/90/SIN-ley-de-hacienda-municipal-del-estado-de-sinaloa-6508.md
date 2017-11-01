@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2016-12-28"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1945,7 +1947,9 @@ e) Pro-Comité de Promoción y Desarrollo Turístico. 5.0%
 
 f) Pro-Turismo. 6.5%
 
-2.- En tratándose de los Impuestos Predial y Sobre Adquisición de Inmuebles, se causará únicamente un impuesto adicional del 10% pagadero simultáneamente a la contribución principal, cuyo producto se destinará a la Asistencia Social y/o Pro-Deporte.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+2.- Tratándose de los Impuestos Predial y Sobre Adquisición de Inmuebles, se causará únicamente un impuesto adicional del 10% pagadero simultáneamente a la contribución principal, del cual un 80% del mismo se destinará a la Asistencia Social y/o Pro-Deporte, y el 20% de lo que se recaude, se destinará exclusivamente al sostenimiento de los Cuerpos Voluntarios de Bomberos del Municipio respectivo, debidamente reconocido en los términos de la Ley de Protección Civil para el Estado de Sinaloa.
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
@@ -3138,3 +3142,23 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 249 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y LA LEY DE HACIENDA MUNICIPAL, AMBAS PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 30 días posteriores de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A los Municipios que cuenten con Patronato de Administración de Cuerpos Voluntarios de Bomberos al día de la entrada en vigor del presente Decreto, deberán adecuar sus lineamientos presupuestales y contables a las disposiciones del mismo a más tardar 90 días de la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+La validación de los programas del cuerpo voluntarios de bomberos que realice el Instituto de Protección Civil, tendrán (sic) validez durante el primer año de vigencia del presente Decreto, durante este periodo deberán obtener la certificación correspondiente, misma que deberá ser ratificada anualmente por el Instituto de Protección Civil, o una institución reconocida para este efecto y poder acceder a los apoyos previstos en los artículos 108 de la Ley de Protección Civil y 105 de la Ley de Hacienda Municipal, ambas del Estado de Sinaloa, a partir del año fiscal siguiente.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal de Protección Civil deberá expedir los lineamientos para la certificación de los Cuerpos Voluntarios de Bomberos de cada uno de los municipios que cuenten con el mismo, así como los lineamientos financieros y de atención a la población objetivo a que refiere el presente Decreto, a más tardar 90 días naturales, contados a partir de la entrada en vigor del mismo.
