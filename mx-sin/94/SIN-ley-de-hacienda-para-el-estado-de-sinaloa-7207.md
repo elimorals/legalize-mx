@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2017-03-29"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -621,6 +621,10 @@ Estos incluyen depósitos, anticipos, gastos de toda clase, bienes convencionale
 
 Cuando los contribuyentes no desglosen y demuestren la prestación de servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+Cuando en la prestación del servicio de hospedaje intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro por la prestación de servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto Sobre la Prestación de Servicios de Hospedaje, ésta deberá ser quien entere por sí o a través de su Representante Legal, el pago del impuesto correspondiente a la autoridad fiscal.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 27.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
@@ -637,13 +641,21 @@ Los contribuyentes del impuesto de hospedaje, cuando presten servicios bajo el s
 
 ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 3%.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-ART. 29.- Este impuesto se cobrará al momento de elaborarse la factura correspondiente, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros quince días de cada mes, debiendo contener dichas declaraciones la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
+ART. 29.- Este impuesto se causará al momento en que se actualice cualquiera de los supuestos a que se refiere el artículo 26 de la presente Ley, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros quince días de cada mes, debiendo contener dichas declaraciones la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 La obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro por la prestación de los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto Sobre la Prestación de Servicios de Hospedaje, deberán presentar por sí o a través de sus Representantes Legales a más tardar el día 15 de cada mes, una sola declaración por el total de las contribuciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría de Administración y Finanzas de conformidad con lo establecido en el párrafo primero de este artículo.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+Los contribuyentes a que se refiere el párrafo anterior, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -659,9 +671,13 @@ II.- Trasladar a los usuarios de sus servicios el impuesto correspondiente y ent
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-III. Llevar un registro acorde con sus sistemas de contabilidad en el cual se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje que perciban o se hagan exigibles, donde además se desglosen los servicios accesorios que en su caso se presten;
+III.- Llevar un registro acorde con sus sistemas de contabilidad en el cual se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje que perciban o se hagan exigibles, donde además se desglosen los servicios accesorios que en su caso se presten;
 
 IV.- Presentar ante las oficinas autorizadas para ello en los términos del Código Fiscal del Estado los avisos respectivos en los casos de cambio de nombre, denominación o razón social, domicilio, traslado, traspaso, clausura, fusión, escisión, liquidación, o transformación de personas morales; suspensión o reanudación de actividades u obligaciones o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en el documento de inscripción en los plazos señalados por el citado Código Fiscal.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan por sí o a través de sus Representantes Legales en el cobro por la prestación de servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto Sobre la Prestación de Servicios de Hospedaje, deberán inscribirse en el registro estatal de contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 29 de esta Ley.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4262,3 +4278,13 @@ P.O. 29 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 103 POR EL QUE “SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 34 BIS, Y LOS ARTÍCULOS 34 BIS-2, 34 BIS-4, 34 BIS-7 Y 34 BIS-13 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 1 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 254 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para efectos de la aplicación del presente Decreto y a fin de regular el cobro del Impuesto Sobre la Prestación de Servicios de Hospedaje en el Estado cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro por los servicios de hospedaje, la Secretaría de Administración y Finanzas deberá emitir Reglas de Carácter General para la inscripción en el Registro Estatal de Contribuyentes y para el cobro de la citada contribución, lo cual, no deberá exceder del término de 15 días siguientes de la entrada en vigor del presente Decreto.
