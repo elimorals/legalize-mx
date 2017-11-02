@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2015-11-18"
+last_updated: "2017-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -568,7 +568,7 @@ XVIII. Evitar el manejo y disposición de residuos de manejo especial líquidos 
 
 XVIII BIS.- Fomentar que la producción y el consumo de productos plásticos y poliestireno expandido se sujeten a los criterios y normas de sustentabilidad establecidos en la fracción XI del artículo 6º de la presente ley;
 
-XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que pueden solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
+XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que puedan solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
 
 XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 
@@ -832,11 +832,17 @@ IX. Los de laboratorios industriales, químicos, biológicos, de producción o d
 
 X. Los demás que determine el Reglamento.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-Los residuos de manejo especial estarán sujetos a planes de manejo conforme a las disposiciones que establezca esta ley, su reglamento y los ordenamientos jurídicos de carácter local y federal que al efecto se expidan para su manejo, tratamiento y disposición final.
+Los residuos de manejo especial estarán sujetos a los planes de manejo conforme a las disposiciones que establezca esta Ley, su reglamento y los ordenamientos jurídicos de carácter local y federal que al efecto se expidan para su manejo, tratamiento y disposición final.
 
-Los generadores de residuos de manejo especial deberán instrumentar planes de manejo, mismos que deberán ser autorizados por la Secretaría.
+Los generadores de residuos de manejo especial deberán instrumentar planes de manejo, mismos que deberán ser autorizados por la Secretaría y contemplar programas de postconsumo para aquellos residuos cuya naturaleza así lo permita.
+
+Los planes de manejo a que hace referencia el párrafo anterior deberán instrumentarse e implementarse de acuerdo a la normatividad aplicable, con acciones concretas que permitan el correcto tratamiento de los residuos de manejo especial que se generen.
+
+La Secretaría promoverá la participación de la ciudadanía, a través de campañas de difusión, para prevenir la generación de residuos de manejo especial, así como para la prevención de la contaminación por este tipo de residuos.
 
 ### CAPÍTULO IV. DE LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS
 
@@ -1397,3 +1403,11 @@ TERCERO.- El Jefe de Gobierno del Distrito Federal contará con sesenta días po
 CUARTO.- Las Secretarías del Medio Ambiente y de Desarrollo Económico del Gobierno del Distrito Federal así como las Delegaciones, deberán diseñar e implementar una campaña permanente para dar a conocer a la ciudadanía en general, la forma de operación y participación en los sistemas de intercambio de residuos sólidos por productos en especie tratados en el presente Decreto; previéndose las partidas presupuestales pertinentes para llevar a cabo las mencionadas acciones en medios electrónicos e impresos.
 
 QUINTO.- La Secretaría de Medio Ambiente del Gobierno del Distrito Federal, deberá solicitar la suficiencia presupuestal suficiente con el fin de iniciar y hacer cumplir las modificaciones que indica el presente Decreto.
+
+G.O. 2 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
