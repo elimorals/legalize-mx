@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-81715"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-16"
-last_updated: "2016-10-07"
+last_updated: "2017-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81715&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-06-15"
 ---
 # LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MEXICO -- ANTES LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL --
 
-LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE OCTUBRE DE 2016.
+LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de junio de 2011.
 
@@ -40,17 +42,19 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIM�
 
 UNICO.- Se expide la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para el Distrito Federal, para quedar como sigue:
 
-LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. OBJETO Y MATERIA DE LA LEY
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público, interés social y de observancia general en el Distrito Federal en materia de mitigación de gases de efecto invernadero, adaptación al cambio climático y desarrollo sustentable.
-
-Los objetivos, metas y acciones establecidos en esta ley serán observados en la creación e instrumentación del Programa General de Desarrollo del Distrito Federal, el Plan Verde, el Programa de Acción Climática y la Estrategia Local de Acción Climática de la Ciudad de México, y las demás leyes, reglamentos, programas, planes y políticas del Distrito Federal.
+Esta Ley es de orden público, interés social y de observancia general en la Ciudad de México en materia de mitigación de gases de efecto invernadero, adaptación al cambio climático y desarrollo sustentable. Los objetivos, metas y acciones establecidos en esta ley serán observados en la creación e instrumentación del Plan General de Desarrollo de la Ciudad de México, el Plan Verde, el Programa de Acción Climática y la Estrategia Local de Acción Climática de la Ciudad de México, y las demás leyes, reglamentos, programas, planes y políticas de la Ciudad de México.
 
 ###### Artículo 2.
 
@@ -60,13 +64,17 @@ El objeto de esta Ley es El establecimiento de políticas públicas que permitan
 
 Para los efectos y aplicación de la presente Ley se considerarán las definiciones siguientes:
 
-I. Atlas de Riesgo de Cambio Climático: Atlas de Riesgo de la Ciudad de México. Instrumento dinámico basado en un sistema de evaluaciones de riesgo en zonas vulnerables especificas y formulación de escenarios para la adaptación al cambio climático en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+I. Atlas de Riesgo de Cambio Climático: Atlas de Riesgo de la Ciudad de México. Instrumento dinámico basado en un sistema de evaluaciones de riesgo en zonas vulnerables específicas y formulación de escenarios para la adaptación al cambio climático en la Ciudad de México;
 
 II. Adaptación: Medidas encaminadas a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos del cambio climático;
 
 III. Cambio Climático: Variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
 
-IV. Comisión Interinstitucional: de Cambio Climático del Distrito Federal. Órgano Interinstitucional permanente de coordinación, evaluación, medición, verificación y revisión del Programa de Acción Climática de la Ciudad de México.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+IV. Comisión Interinstitucional: de Cambio Climático de la Ciudad de México. Órgano Interinstitucional permanente de coordinación, evaluación, medición, verificación y revisión del Programa de Acción Climática de la Ciudad de México.
 
 V. Comunicación Nacional: Documento elaborado periódicamente en cumplimiento a los compromisos previstos en el Artículo 12 de la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que incluye el Inventario Nacional de Gases de Efecto Invernadero y las políticas y medidas de Mitigación y Adaptación nacionales en materia de Cambio Climático.
 
@@ -78,7 +86,9 @@ VIII. Deforestación. Conversión de bosques a otro uso de la tierra o la reducc
 
 IX. Degradación. Reducción del contenido de carbono en la vegetación natural ecosistemas o suelos, producto de la intervención humana, en relación a la misma vegetación ecosistemas o suelos, sin que hubiera existido dicha intervención.
 
-X. Delegación. Órgano Político-Administrativo en cada demarcación territorial.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+X. Alcaldía. Órgano Político- Administrativo en cada demarcación territorial.
 
 XI. Emisiones: La liberación a la atmósfera de Gases Efecto Invernadero y otros Compuestos con Efecto Invernadero originados por actividades humanas.
 
@@ -86,7 +96,9 @@ XII. Escenarios: Descripción hipotética de lo que probablemente ocurriría en 
 
 XIII. Estrategia Local: de Acción Climática de la Ciudad de México. Conjunto de acciones que son referentes fundamentales para el Programa de Acción Climática de la Ciudad de México.
 
-XIV. Fondo: El Fondo Ambiental para el Cambio Climático. Es la base de captación y canalización de recursos económicos para acciones de Mitigación y Adaptación al cambio climático en el Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Fondo: El Fondo Ambiental para el Cambio Climático. Es la base de captación y canalización de recursos económicos para acciones de Mitigación y Adaptación al cambio climático en la Ciudad de México.
 
 XV. GEI: Gases de Efecto Invernadero. Gases de origen antropogénico, que absorben y emiten radiación infrarroja, cuyo incremento en sus concentraciones atmosféricas son causantes del Cambio Climático;
 
@@ -94,15 +106,21 @@ XV. GEI: Gases de Efecto Invernadero. Gases de origen antropogénico, que absorb
 
 XV Bis. Huella Ecológica: Es el indicador de sustentabilidad que mide el grado de impacto que ejerce cierta comunidad humana, persona, organización, país, región o ciudad sobre el ambiente. Es considerada además una herramienta para determinar los espacios terrestres, aéreos, acuáticos y marinos que se necesitan para producir todos los recursos y bienes, así como la superficie para absorber todos los desechos que se generan, usando la tecnología actual.
 
-XVI. Instituto de Ciencia y Tecnología: Instituto de Ciencia y Tecnología del Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XVII. INVEADF: El Instituto de Verificación Administrativa del Distrito Federal, organismo descentralizado del Gobierno del Distrito Federal, que tiene personalidad jurídica y patrimonio propio de acuerdo con la ley del Instituto de Verificación Administrativa del Distrito Federal;
+XVI. Secretaría de Ciencia, Tecnología e Innovación: Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XVII. INVEACDMX: El Instituto de Verificación Administrativa de la Ciudad de México, organismo descentralizado del Gobierno de la Ciudad de México, que tiene personalidad jurídica y patrimonio propio de acuerdo con la ley del Instituto de Verificación Administrativa de la Ciudad de México;
 
 XVIII. Inventario: Inventario de Emisiones de gases de efecto invernadero. Documento que estima las Emisiones de gases de efecto invernadero de acuerdo con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre
 
 XIX. IPCC: Panel Intergubernamental del Cambio Climático.
 
-XX. Ley: Ley Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para el Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XX. Ley: Ley (sic) Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para la Ciudad de México.
 
 XXI. MDL: Mecanismo de desarrollo limpio. Mecanismo establecido en el Artículo 12 del Protocolo de Kioto a través del cual los países desarrollados financian programas, proyectos y actividades de reducción o captura de gases de efecto invernadero en países en vías de desarrollo;
 
@@ -112,27 +130,43 @@ XXIII. Mercado de Bonos de carbono. Transacciones nacionales o internacionales p
 
 XXIV. MRV: Medible, reportable y verificable.
 
-XXV. Plan Verde de la Ciudad de México: Ruta del Gobierno del Distrito Federal, que contiene las estrategias y acciones para encaminar a la Ciudad de México hacia la sustentabilidad de su desarrollo.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XXVI. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+XXV. Plan Verde de la Ciudad de México: Ruta del Gobierno de la Ciudad de México, que contiene las estrategias y acciones para encaminar a la Ciudad de México hacia la sustentabilidad de su desarrollo.
 
-XXVII. Programa de Acción Climática: de la Ciudad de México. Integrar, coordinar e impulsar acciones públicas en el Distrito Federal para disminuir los riesgos ambientales, sociales y económicos derivados del cambio climático y promover el bienestar de la población mediante la reducción de emisiones y la captura de gases de efecto invernadero.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XXVIII. Programa Delegacional: Programa delegacional de acción ante el cambio climático, documento que establece las estrategias, políticas directrices y tácticas en tiempo y espacio, así como en los instrumentos, mecanismos y acciones relacionadas al cambio climático en la delegación que corresponda.
+XXVI. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
 
-XXIX. Programa General de Desarrollo: del Distrito Federal. Marco de planeación que propone una agenda para la ciudad y establece el rumbo de la acción de la administración pública.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXVII. Programa de Acción Climática: de la Ciudad de México. Integrar, coordinar e impulsar acciones públicas en la Ciudad de México para disminuir los riesgos ambientales, sociales y económicos derivados del cambio climático y promover el bienestar de la población mediante la reducción de emisiones y la captura de gases de efecto invernadero.
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII. Programa de Alcaldía: Programa por demarcación de acción ante el cambio climático, documento que establece las estrategias, políticas directrices y tácticas en tiempo y espacio, así como en los instrumentos, mecanismos y acciones relacionadas al cambio climático en la demarcación territorial que corresponda.
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXIX. Plan General: Plan General de Desarrollo de la Ciudad de México. Instrumento al que se sujetarán los planes, programas, políticas y proyectos públicos, y que define las políticas de largo plazo en las materias de relevancia estratégica para la ciudad. Tendrá por objeto la cohesión social, el desarrollo sustentable, el mejoramiento de la calidad de vida de sus habitantes, el equilibrio territorial y la transformación económica.
 
 XXX. Protocolo de Kioto: Tratado internacional ligado a la Convención Marco que establece compromisos legalmente vinculantes, mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero para los países anexo 1 y compromisos no vinculantes para los países no anexo 1.
 
 XXXI. Reducciones Certificadas de Emisión: Disminución de emisiones de gases de efecto invernadero a la atmósfera expresados en toneladas de bióxido de carbono equivalente, logradas por alguna actividad o proyecto y que han sido certificadas por alguna entidad autorizada para dichos efectos;
 
-XXXII. Registro de emisiones: Registro de Emisiones del Distrito Federal, instrumento de registro a cargo de la Secretaría de Medio Ambiente del Distrito Federal, de las fuentes de emisiones, los proyectos de reducción de emisiones así como las transacciones de reducciones certificadas y de permisos de emisión.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXXII. Registro de emisiones: Registro de Emisiones de la Ciudad de México, instrumento de registro a cargo de la Secretaría de Medio Ambiente de la Ciudad de México, de las fuentes de emisiones, los proyectos de reducción de emisiones así como las transacciones de reducciones certificadas y de permisos de emisión.
 
 XXXIII. Riesgo: Probabilidad de que se produzca un daño, originado por un fenómeno perturbador;
 
-XXXIV. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XXXV. Secretarías: Las dependencias de la Administración Pública del Distrito Federal en sus respectivos ámbitos de competencia establecidos en esta a Ley;
+XXXIV. Secretaría: La Secretaría del Medio Ambiente de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXXV. Secretarías: Las dependencias de la Administración Pública de la Ciudad de México en sus respectivos ámbitos de competencia establecidos en esta a (sic) Ley;
 
 XXXVI. Sistema local de bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
 
@@ -148,21 +182,27 @@ Son de aplicación supletoria las disposiciones contenidas en otras leyes, regla
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-La coordinación de la Secretaria, delegaciones, procuraduría y de la Comisión, orientada al cumplimiento de la presente Ley, será responsabilidad del titular del Ejecutivo del Distrito Federal, de conformidad con las facultades que esta ley le confiere.
+La coordinación de la Secretaría, alcaldías, procuraduría y de la Comisión, orientada al cumplimiento de la presente Ley, será responsabilidad del titular del Poder Ejecutivo de la Ciudad de México, de conformidad con las facultades que esta ley le confiere.
 
 ###### Artículo 6.
 
 Son autoridades competentes para la aplicación de la presente Ley, y, ejercerán las atribuciones de conformidad con la distribución de facultades que este ordenamiento, su reglamento y demás disposiciones jurídicas aplicables establecen:
 
-I. El Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+I. El Jefe de Gobierno de la Ciudad de México;
 
 II. La Secretaría;
 
 III. La Procuraduría;
 
-IV. Las Delegaciones; y
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+IV. Las Alcaldías; y
 
 V. La Comisión.
 
@@ -172,11 +212,15 @@ Corresponde al Jefe de Gobierno el ejercicio de las siguientes facultades:
 
 I. Elaborar, coordinar y aplicar los instrumentos de política previstos en esta Ley, en los términos en ella establecidos, así como la regulación de la acciones para la Mitigación y Adaptación al Cambio Climático, en las materias de competencia local.
 
-II. Formular y conducir el Programa General de Desarrollo considerando el cambio climático y darle al mismo una proyección sexenal, como de largo plazo y llevar a cabo su seguimiento y evaluación.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+II. Formular y conducir el Plan General de Desarrollo considerando el cambio climático y darle al mismo una proyección sexenal, como de largo plazo y llevar a cabo su seguimiento y evaluación.
 
 III. Expedir el Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes;
 
-IV. Establecer procedimientos para realizar consultas públicas, atendiendo la academia y ciencia, las organizaciones no gubernamentales, la industria, los medios de comunicación, los pueblos indígenas, a las mujeres, jóvenes, a las personas con capacidades diferentes y a la sociedad en general, para formular el Programa General de Desarrollo.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+IV. Establecer procedimientos para realizar consultas públicas, atendiendo la academia y ciencia, las organizaciones no gubernamentales, la industria, los medios de comunicación, los pueblos indígenas, a las mujeres, jóvenes, a las personas con capacidades diferentes y a la sociedad en general, para formular el Plan General de Desarrollo.
 
 V. Formular, regular, instrumentar y controlar las acciones para la Mitigación y Adaptación al Cambio Climático, de conformidad con esta Ley, otros ordenamientos aplicables y sus disposiciones reglamentarias, en las siguientes materias:
 
@@ -214,7 +258,9 @@ X. Promover la participación corresponsable de la sociedad en la Adaptación y 
 
 XI. Revisar la información del Centro Virtual de Cambio Climático;
 
-XII. Revisar el Inventario de GEI del Distrito Federal de acuerdo con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XII. Revisar el Inventario de GEI de La Ciudad de México de acuerdo con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre;
 
 XIII. La suscripción de convenios, contratos o cualquier instrumento jurídico con el sector público, privado y social, que contribuyan al Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes;
 
@@ -252,13 +298,17 @@ XXII. Coordinar a través de la Secretaría las acciones necesarias tendientes a
 
 Corresponde a la Secretaría el ejercicio de las siguientes facultades:
 
-I. Integrar, operar y publicar el Inventario de GEI del Distrito Federal de acuerdo con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+I. Integrar, operar y publicar el Inventario de GEI de la Ciudad de México de acuerdo con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre;
 
 II. Revisar y publicar el Programa de Acción Climática de la Ciudad de México derivando ser MRV, así como los Programas de Acción Climática subsecuentes.
 
 III. Elaborar y publicar los Atlas de riesgo de Cambio Climático de la Ciudad de México, que deberá presentar la modelación de escenarios de vulnerabilidad actual y futura ante el Cambio Climático, atendiendo de forma prioritaria a las zonas de mayor riesgo, de acuerdo a las directrices del Panel Intergubernamental de cambio climático.
 
-IV. Aprobar los planes u (sic) programas que presenten las delegaciones en materia de cambio climático y los demás que éstos deriven, así como evaluar y vigilar su cumplimiento;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+IV. Aprobar los planes u (sic) programas que presenten las demarcaciones en materia de cambio climático y los demás que éstos deriven, así como evaluar y vigilar su cumplimiento;
 
 V. Proponer al titular del Ejecutivo, iniciativas de Ley en materia de cambio climático, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, previa consulta con la academia y ciencia, las organizaciones no gubernamentales, la industria, los medios de comunicación y la sociedad en general.
 
@@ -294,9 +344,11 @@ XIX. Las demás que le confieran las disposiciones legales y reglamentarias apli
 
 Corresponde a la Procuraduría la atención de las denuncias ciudadanas que cualquier persona le presente por violaciones o incumplimiento a las disposiciones de la presente Ley, dándole curso legal en los términos de su Ley Orgánica.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-Corresponde a las delegaciones, el ejercicio de las siguientes facultades:
+Corresponde a las alcaldías, el ejercicio de las siguientes facultades:
 
 I. Someter a consideración de la Secretaría el plan o programa que implementarán en su demarcación para cumplir con las acciones contempladas en la presente Ley;
 
@@ -330,19 +382,27 @@ IV. Coordinar a las diferentes Instituciones para que implementen planes concret
 
 V. Evaluar y dar seguimiento al Programa de Acción Climática de la Ciudad de México, y en su caso a los Programas de Acción Climática subsecuentes;
 
-VI. Plantear y, en su caso, definir los mecanismos y criterios de coordinación del tema cambio climático, que es transversal con las Políticas, Programas y Planes de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-VII. Fomentar la participación de los sectores público y privado en la instrumentación del Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes y en la adaptación transversal con Políticas, Programas y Planes prioritarios de la administración pública del Distrito Federal;
+VI. Plantear y, en su caso, definir los mecanismos y criterios de coordinación del tema cambio climático, que es transversal con las Políticas, Programas y Planes de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+VII. Fomentar la participación de los sectores público y privado en la instrumentación del Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes y en la adaptación transversal con Políticas, Programas y Planes prioritarios de la Administración Pública de la Ciudad de México;
 
 VIII. Difundir proyectos del Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes;
 
 IX. Diseñar y coordinar estrategias de difusión en materia de cambio climático, para la sociedad en general.
 
-X. Diseñar estrategias financieras que generen recursos al Gobierno del Distrito Federal, a través de los mecanismos económicos previstos en los instrumentos nacionales e internacionales, para que formen parte de fondo ambiental para el cambio climático.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+X. Diseñar estrategias financieras que generen recursos al Gobierno de la Ciudad de México, a través de los mecanismos económicos previstos en los instrumentos nacionales e internacionales, para que formen parte de (sic) fondo ambiental para el cambio climático.
 
 XI. Establecer los mecanismos de cooperación nacional e internacional en sus respectivas dependencias;
 
-XII. Informar periódicamente al Jefe de Gobierno del Distrito Federal, los avances del Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes y de los temas de adaptación transversales con políticas, programas y planes prioritarios de la Administración del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XII. Informar periódicamente al Jefe de Gobierno de la Ciudad de México, los avances del Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes y de los temas de adaptación transversales con políticas, programas y planes prioritarios de la Administración del Gobierno de la Ciudad de México;
 
 XIII. Plantear y, en su caso, establecer Subcomisiones o Grupos de Trabajo que considere necesarias para el mejor cumplimiento de sus atribuciones, para atender y dar seguimiento a las acciones específicas contenidas en el Programa de Acción Climática o los Programas de Acción Climática subsecuentes, y especialmente las acciones de mitigación de gases de efecto invernadero, de adaptación a los efectos del cambio climático y de comunicación y educación para la población; las Subcomisiones y Grupos de Trabajo deberán presentar informes MRV de sus actividades a la Comisión, en el marco de las sesiones periódicas.
 
@@ -354,9 +414,11 @@ XVI. Elaborar el presupuesto de adaptación para reducir la vulnerabilidad ante 
 
 XVII. Las demás necesarias para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 12.
 
-La Comisión será presidida por el Jefe de Gobierno del Distrito Federal, en su ausencia lo suplirá el titular de la Secretaria de Medio Ambiente del Distrito Federal.
+La Comisión será presidida por el Jefe de Gobierno de la Ciudad de México, en su ausencia lo suplirá el titular de la Secretaria de Medio Ambiente de la Ciudad de México. La Comisión se integrará por los titulares de:
 
 La Comisión se integrará por los titulares de:
 
@@ -394,23 +456,41 @@ XVI. La Secretaría de Educación;
 
 XVII. La Secretaría de Desarrollo Rural y Equidad de las Comunidades;
 
-XVIII. El Instituto de Ciencia y Tecnología;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XIX. El Instituto de Vivienda del Distrito Federal;
+XVIII. La Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-XX. El Instituto de Asistencia e Integración Social del Distritito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XXI. El Instituto de Educación Media Superior del Distrito Federal;
+XIX. El Instituto de Vivienda de la Ciudad de México;
 
-XXII. El Instituto de la Juventud del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XXIII. El Instituto de las Mujeres del Distrito Federal;
+XX. El Instituto de Asistencia e Integración Social de la Ciudad de México;
 
-XXIV. La Procuraduría Social del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-XXV. La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+XXI. El Instituto de Educación Media Superior de la Ciudad de México;
 
-XXVI. La Coordinación de Uso Eficiente de la Energía del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXII. El Instituto de la Juventud de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. El Instituto de las Mujeres de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. La Procuraduría Social de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXV. La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXVI. La Coordinación de Uso Eficiente de la Energía de la Ciudad de México;
 
 XXVII. El Sistema de Aguas de la Ciudad de México;
 
@@ -426,15 +506,19 @@ XXXII. La Central de Abastos de la Ciudad de México;
 
 XXXIII. El Heroico Cuerpo de Bomberos;
 
-XXXIV. La Asamblea Legislativa, a través de la Comisión de Preservación del Medio Ambiente y Protección Ecológica y Cambio Climático.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXXIV. El Congreso de la Ciudad de México, a través de la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático.
 
 ###### Artículo 13.
 
 La Comisión integrará y presentará un informe anual de sus actividades al Poder Legislativo local cada año al inicio del período de sesiones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Son facultades de (sic) Instituto de Verificación Administrativa del Distrito Federal en materia de de (sic) Cambio Climático:
+Son facultades de (sic) Instituto de Verificación Administrativa de la Ciudad de México en materia de cambio climático:
 
 I. Instaurar mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de la presente Ley;
 
@@ -444,13 +528,17 @@ III. Emitir las resoluciones que procedan;
 
 IV. Inspección y verificación así como auditorias sobre la información reportada al Registro.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-Cada Delegación designará una oficina con las siguientes atribuciones, entre otras:
+Cada Alcaldía designará una oficina con las siguientes atribuciones, entre otras:
 
 I. Participar en la elaboración del Programa de Acción Climática de la Ciudad de México a través de la formulación de comentarios y propuestas presentadas ante el al (sic) Jefe de Gobierno para su aprobación; y
 
-II. Participar en la elaboración o modificación de los Programas Delegacionales considerando los programas enfocados al Cambio Climático.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+II. Participar en la elaboración o modificación de los Programas de Gobierno de las Alcaldías considerando los programas enfocados al Cambio Climático.
 
 III. Participar en la elaboración del presupuesto para la adaptación a la vulnerabilidad en las zonas más desprotegidas producto del cambio climático de acuerdo al atlas de riesgo elaborado por la Secretaria.
 
@@ -458,19 +546,27 @@ III. Participar en la elaboración del presupuesto para la adaptación a la vuln
 
 ### CAPÍTULO I. CON ENTIDADES FEDERATIVAS Y EL GOBIERNO FEDERAL
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 16.
 
-Para la coordinación del trabajo y la delegación de facultades, se estará a lo dispuesto por la Ley Orgánica de la Administración Pública del Distrito Federal y su Reglamento.
+Para la coordinación del trabajo y la delegación de facultades, se estará a lo dispuesto por la Ley Orgánica de la Administración Pública de la Ciudad de México y su Reglamento.
+
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-La Comisión Interinstitucional deberá aprovechar y maximizar el uso de la Comisión Ambiental Metropolitana para la coordinación de esfuerzos con los municipios conurbados del Distrito Federal.
+La Comisión Interinstitucional deberá aprovechar y maximizar el uso de la Comisión Ambiental Metropolitana para la coordinación de esfuerzos con los municipios conurbados de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Para poder firmar acuerdo de coordinación y participar de los recursos del Fondo Ambiental para el cambio climático, las Delegaciones Políticas del Distrito Federal deberán contar con:
+Para poder firmar acuerdo de coordinación y participar de los recursos del Fondo Ambiental para el cambio climático, las Alcaldías de la Ciudad de México deberán contar con:
 
-I. Programas Delegacionales de Acción Climática;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+I. Programas de Alcaldías de Acción Climática;
 
 II. Aportaciones económicas propias;
 
@@ -482,19 +578,23 @@ IV. Sistemas para MRV.
 
 ### CAPÍTULO I. GENERALIDADES
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
-En la definición de los objetivos y metas de adaptación y mitigación, las autoridades locales de gobierno de la Ciudad de México y la Comisión Interinstitucional, deberán tomar en cuenta las evaluaciones de impacto económico, la inserción de los costos ambientales no considerados en las economías, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático, con el objeto de lograr la disminución de la huella ecológica de sus actividades.
+En la definición de los objetivos y metas de adaptación y mitigación, las autoridades locales del Gobierno de la Ciudad de México y la Comisión Interinstitucional, deberán tomar en cuenta las evaluaciones de impacto económico, la inserción de los costos ambientales no considerados en las economías, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático, con el objeto de lograr la disminución de la huella ecológica de sus actividades.
+
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 20.
 
-Los programas de investigación y de desarrollo tecnológico en el Distrito Federal, deberán considerar dentro de su agenda temas relacionados al cambio climático.
+Los programas de investigación y de desarrollo tecnológico en la Ciudad de México, deberán considerar dentro de su agenda temas relacionados al cambio climático.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-Para enfrentar los efectos del cambio climático en el Distrito Federal, se atenderán de manera prioritaria las necesidades de adaptación en el corto, mediano y largo plazo, para lo cual se deberán considerar las siguientes directrices:
+Para enfrentar los efectos del cambio climático en la Ciudad de México, se atenderán de manera prioritaria las necesidades de adaptación en el corto, mediano y largo plazo, para lo cual se deberán considerar las siguientes directrices:
 
 I. En materia de protección civil, contar con atlas de riesgo actualizado;
 
@@ -512,9 +612,13 @@ En materia de mitigación de gases efecto invernadero, se deberán considerar en
 
 I. El fomento de creación de sitios de absorción de bióxido de carbono;
 
-a) Promover que las delegaciones incrementen cada (sic) áreas verdes en suelo urbano sin tomar en cuenta el suelo de conservación existente.
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-b) Fomentar la instalación de sistemas de naturización de azoteas.(Azoteas Verdes)
+a) Promover que las alcaldías incrementen las áreas verdes en suelo urbano sin tomar en cuenta el suelo de conservación existente.
+
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+b) Fomentar la instalación de sistemas de naturización de azoteas.
 
 II. La preservación y aumento de los sumideros de carbono;
 
@@ -554,9 +658,13 @@ V. Procurar el volumen de generación eléctrica con energías renovables, espec
 
 VI. Fomentar a las edificaciones para que se certifiquen dentro del programa de edificación de edificios sustentables.
 
-VII. Fomento para que las delegaciones instalen, sistemas de ahorro de energía, de tecnologías nuevas o existentes, ó tecnologías que permitan el aprovechamiento de energía solar.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Promover que los Órganos de Gobierno y los Órganos Autónomos del Distrito Federal, así como los edificios de la administración del Gobierno del Distrito Federal, que alberguen hospitales, escuelas y universidades públicas, y cualquier oficina de carácter pública (sic), deberán instalar algún tipo de tecnología solar, para generar electricidad, a fin de reducir el uso de energía no renovable y la emisión de gases de efecto invernadero.
+VII. Fomento para que las alcaldías instalen, sistemas de ahorro de energía, de tecnologías nuevas o existentes, ó tecnologías que permitan el aprovechamiento de energía solar.
+
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Promover que los Órganos de Gobierno y los Órganos Autónomos de la Ciudad de México, así como los edificios de la administración del Gobierno de la Ciudad de México, que alberguen hospitales, escuelas y universidades públicas, y cualquier oficina de carácter pública (sic), deberán instalar algún tipo de tecnología solar, para generar electricidad, a fin de reducir el uso de energía no renovable y la emisión de gases de efecto invernadero.
 
 IX. Preservación y aprovechamiento de recursos hídricos, así como la recarga de mantos acuíferos;
 
@@ -568,15 +676,19 @@ XII. Las nuevas construcciones o edificaciones deberán contar con redes separad
 
 XIII. La adopción de medidas para el monitoreo y evaluación de los recursos hídricos y sistemas de bombeo, para el establecimiento de indicadores de sustentabilidad.
 
-XIV. Establecer y operar sistemas de monitoreo y reducción de consumo eléctrico del sistema de bombeo de la red de distribución del agua en el Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Establecer y operar sistemas de monitoreo y reducción de consumo eléctrico del sistema de bombeo de la red de distribución del agua en la Ciudad de México.
 
 ###### Artículo 23.
 
 La Comisión, en el ámbito de sus atribuciones, desarrollará e implementará las políticas y medidas de adaptación y reducción de la vulnerabilidad ante el cambio climático.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-La Comisión presentara a la Asamblea Legislativa del Distrito Federal el Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes y el informe anual del presupuesto de adaptación que deberá ser MRV para que esta lo considere en el presupuesto anual del Distrito Federal.
+La Comisión presentará al Congreso de la Ciudad de México, el Programa de Acción Climática de la Ciudad de México, así como los Programas de Acción Climática subsecuentes y el informe anual del presupuesto de adaptación que deberá ser MRV para que esta lo considere en el presupuesto anual de la Ciudad de México.
 
 ### CAPÍTULO III. SISTEMA DE COMERCIO DE EMISIONES DE CARBONO
 
@@ -602,7 +714,9 @@ En el ámbito de su competencia, el Jefe de Gobierno, podrá otorgar reducciones
 
 El Registro de Emisiones de la Ciudad de México es el instrumento de inscripción de los reportes de emisiones, que utiliza metodologías desarrolladas o avaladas por la Secretaria y reconocidas internacionalmente, en el Registro se incluirá:
 
-I. Cuantificación de las Emisiones directas e indirectas que pueden estar certificadas por organismos independientes y que sean generadas en el territorio del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+I. Cuantificación de las Emisiones directas e indirectas que pueden estar certificadas por organismos independientes y que sean generadas en el territorio de la Ciudad de México;
 
 II. Programas y proyectos de reducción o captura de emisiones públicos o privados; y
 
@@ -650,9 +764,11 @@ VII. El precio de la tonelada equivalente de acuerdo a la oferta y demanda del m
 
 VIII. La utilidad transferida al fondo ambiental para el cambio climático.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-El Instituto de Verificación Administrativa del Distrito Federal será responsable de realizar los actos de inspección y verificación, así como de las auditorias sobre la información reportada al Registro.
+El Instituto de Verificación Administrativa de la Ciudad de México será responsable de realizar los actos de inspección y verificación, así como de las auditorias sobre la información reportada al Registro.
 
 ## TÍTULO QUINTO. DE LAS NORMAS TÉCNICAS Y AMBIENTALES
 
@@ -666,11 +782,11 @@ La aplicación de las normas en materia de adaptación y mitigación al cambio c
 
 ### CAPÍTULO I. DE LOS INSTRUMENTOS DE LA ESTRATEGIA PARA EL CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 37.
 
-Para el ejercicio de las atribuciones constitucionales y legales, previstas por el Programa General de Desarrollo del Distrito Federal, el Plan Verde de la Ciudad de México, el Programa de Acción Climática de la Ciudad de México, se fijarán objetivos, metas, estrategias, prioridades, asignación de recursos, responsabilidades y tiempos de ejecución sobre acciones de mitigación y necesidades del Distrito Federal para construir capacidades de adaptación.
-
-Su actualización, es responsabilidad de las autoridades señaladas por esta Ley.
+Para el ejercicio de las atribuciones constitucionales y legales, previstas por el Plan General de Desarrollo de la Ciudad de México, el Plan Verde de la Ciudad de México, el Programa de Acción Climática de la Ciudad de México, se fijarán objetivos, metas, estrategias, prioridades, asignación de recursos, responsabilidades y tiempos de ejecución sobre acciones de mitigación y necesidades de la Ciudad de México para construir capacidades de adaptación. Su actualización, es responsabilidad de las autoridades señaladas por esta Ley.
 
 ###### Artículo 38.
 
@@ -686,13 +802,17 @@ A efecto de contar con recursos suficientes para emprender las acciones plasmada
 
 El Fondo estará integrado por:
 
-I. Recursos que anualmente sean asignados en el Presupuesto de Egresos del Distrito Federal del ejercicio fiscal que corresponda.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+I. Recursos que anualmente sean asignados en el Presupuesto de Egresos de la Ciudad de México del ejercicio fiscal que corresponda.
 
 II. Las contribuciones de proyectos inscritos al registro de MDL.
 
 III. Donaciones de personas físicas o morales, o trasferencias internacionales.
 
-IV. Las que resulten de las transacciones de Reducciones Certificadas de Emisiones de proyectos implementados en el Distrito Federal, conforme al sistema de comercio de de (sic) emisiones de carbono.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+IV. Las que resulten de las transacciones de Reducciones Certificadas de Emisiones de proyectos implementados en la Ciudad de México, conforme al sistema de comercio de emisiones de carbono.
 
 V. Los que resulten del mercado nacional e internacional de bonos de carbono.
 
@@ -708,7 +828,9 @@ II. Las políticas de Mitigación y Adaptación señaladas en el capítulo II de
 
 III. Proyectos que contribuyan a incrementar y preservar el capital natural, a la adaptación y mitigación al cambio climático, con acciones que permitan: la conservación del suelo de conservación y de las áreas naturales protegidas.
 
-IV. Desarrollo e implementación de proyectos de Mitigación de Emisiones de conformidad con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre, el Programa General de Desarrollo del Distrito Federal, Agenda Ambiental de la Ciudad de México, Programa de Acción Climática de la Ciudad de México, Plan Verde de la Ciudad de México.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+IV. Desarrollo e implementación de proyectos de Mitigación de Emisiones de conformidad con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre, el Plan General de Desarrollo de la Ciudad de México, la Agenda Ambiental de la Ciudad de México, el Programa de Acción Climática de la Ciudad de México, y el Plan Verde de la Ciudad de México.
 
 V. Programas de educación, concientización y difusión de información respecto a los efectos del cambio climático y las medidas de Mitigación y Adaptación que existen.
 
@@ -716,21 +838,25 @@ VI. Estudios, investigaciones en materia de Cambio Climático.
 
 VII. Formulación del atlas de riesgo, pronósticos y escenarios climáticos en la Ciudad de México.
 
-VIII. Presupuesto de adaptación al cambio climático presentado por la comisión, en coordinación con la Secretaria y las delegaciones, previa autorización del Jefe de Gobierno.
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Presupuesto de adaptación al cambio climático presentado por la comisión, en coordinación con la Secretaria y las alcaldías, previa autorización del Jefe de Gobierno.
 
 IX. Demás proyectos y acciones en materia de Cambio Climático que la Comisión considere estratégicos.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 42.
 
-El Fondo Ambiental Público se sujetará a los mecanismos de control, auditoría, transparencia, evaluación y rendición de cuentas que establece la legislación del Distrito Federal y sus Reglas de operación.
+El Fondo Ambiental Público se sujetará a los mecanismos de control, auditoría, transparencia, evaluación y rendición de cuentas que establece la legislación de la Ciudad de México y sus Reglas de operación.
 
 ### CAPÍTULO III. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 43.
 
-El Gobierno del Distrito Federal deberá promover y garantizar la participación corresponsable de la ciudadanía, para la toma de decisiones y en el desarrollo, implementación y verificación del Programa y la Estrategia Local de Acción Climática de la Ciudad de México, así como en las medidas individuales y colectivas de adaptación y mitigación del cambio climático.
-
-Para estos efectos, el Gobierno del Distrito Federal y las Delegaciones Políticas, podrán hacer uso de los instrumentos, establecidos en la Ley de Participación Ciudadana del Distrito Federal.
+El Gobierno de la Ciudad de México deberá promover y garantizar la participación corresponsable de la ciudadanía, para la toma de decisiones y en el desarrollo, implementación y verificación del Programa y la Estrategia Local de Acción Climática de la Ciudad de México, así como en las medidas individuales y colectivas de adaptación y mitigación del cambio climático. Para estos efectos, el Gobierno de la Ciudad de México y las Alcaldías, podrán hacer uso de los instrumentos, establecidos en la Ley de Participación Ciudadana d (sic) la Ciudad de México.
 
 ###### Artículo 44.
 
@@ -748,29 +874,33 @@ IV. Difundirá la información acerca de los resultados de las medidas y accione
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 45.
 
-Las disposiciones de este título se aplicarán en los procedimientos de verificación, inspección, vigilancia, medidas de seguridad y sanciones en los asuntos previstos en esta Ley, así como en materia del recurso de inconformidad en contra de los actos y resoluciones emitidos por las autoridades previstas en esta Ley.
-
-En las materias anteriormente señaladas, se aplicarán supletoriamente las disposiciones de la Ley Ambiental del Distrito Federal y la Ley de Procedimiento Administrativo del Distrito Federal.
+Las disposiciones de este título se aplicarán en los procedimientos de verificación, inspección, vigilancia, medidas de seguridad y sanciones en los asuntos previstos en esta Ley, así como en materia del recurso de inconformidad en contra de los actos y resoluciones emitidos por las autoridades previstas en esta Ley. En las materias anteriormente señaladas, se aplicarán supletoriamente las disposiciones de la Ley Ambiental de Protección a la Tierra en la Ciudad de México y la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 46.
 
-El Instituto de Verificación Administrativa del Distrito Federal, de conformidad con la distribución de competencias que esta ley (sic), será responsable de realizar los actos de inspección y vigilancia para el debido cumplimiento de las disposiciones contenidas en la presente Ley.
+El Instituto de Verificación Administrativa de la Ciudad de México, de conformidad con la distribución de competencias que (sic) esta ley, será responsable de realizar los actos de inspección y vigilancia para el debido cumplimiento de las disposiciones contenidas en la presente Ley.
 
-### CAPÍTULO III. DE LAS SANCIONES DE LAS RESPONSABILIDADES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 47.
 
 Los servidores públicos sujetos de esta Ley, serán acreedores a las sanciones administrativas aplicables por las normas y reglamentos vigentes en sus respectivas materias, para el caso de incumplimiento de sus deberes y responsabilidades, correspondiendo la determinación de dichas sanciones a la autoridad o autoridades competentes.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 48.
 
-Las dependencias, servidores públicos y la Comisión Interinstitucional de Cambio Climático del Distrito Federal, bajo su mas estricta responsabilidad y mediante la presentación de elementos de prueba, podrán denunciar ante la Procuraduría Ambiental del Ordenamiento Territorial, conductas que contravengan las disposiciones de la presente Ley.
-
-En caso de la presunta comisión de delitos, se dará parte al Ministerio Público.
+Las dependencias, servidores públicos y la Comisión Interinstitucional de Cambio Climático de la Ciudad de México, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán denunciar ante la Procuraduría Ambiental del Ordenamiento Territorial, conductas que contravengan las disposiciones de la presente Ley. En caso de la presunta comisión de delitos, se dará parte al Ministerio Público.
 
 ###### Artículo 49.
 
@@ -784,9 +914,11 @@ Las violaciones al Sistema local de bonos de Emisiones de Carbono de esta Ley, s
 
 Los funcionarios públicos que contravengan las disposiciones de esta Ley, su reglamento y las demás disposiciones aplicables incurren en responsabilidad y serán sancionados administrativamente en los términos de la Ley correspondiente, sin perjuicio de la responsabilidad civil y/o penal que pudiera existir.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 52.
 
-En el caso de aquellas constancias, certificados, certificaciones, permisos, licencias, autorizaciones o documentos oficiales que hayan sido emitidos con error, dolo o mala fe, la Administración Pública del Distrito Federal, por conducto de la dependencia competente, revocará el acto de que se trate, o en su caso, promoverá el procedimiento de lesividad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, independientemente de las responsabilidades administrativas o penales que resulten.
+En el caso de aquellas constancias, certificados, certificaciones, permisos, licencias, autorizaciones o documentos oficiales que hayan sido emitidos con error, dolo o mala fe, la Administración Pública de la Ciudad de México, por conducto de la dependencia competente, revocará el acto de que se trate, o en su caso, promoverá el procedimiento de lesividad ante el Tribunal de lo Contencioso Administrativo de la Ciudad de México, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México, independientemente de las responsabilidades administrativas o penales que resulten.
 
 ## TRANSITORIOS
 
@@ -827,3 +959,13 @@ SEGUNDO.- El programa mencionado en el artículo 22, fracción IV, inciso "d" de
 TERCERO.- La emisión de manuales que hace referencia el artículo 12, fracción LVIII de la Ley de Movilidad del Distrito Federal, estará a cargo de la Secretaría de Movilidad del Distrito Federal, con la asesoría técnica de la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
 
 CUARTO. Los lineamientos y/o manuales que hace referencia el artículo 12, fracción LVIII de la Ley de Movilidad del Distrito Federal, deberán ser remitidos para su operación a las 16 Delegaciones del Distrito Federal para vías secundarias y a las instancias competentes del Gobierno del Distrito Federal para el caso de las vías primarias; los cuales deberán ser emitidos dentro de los 180 días naturales posteriores a la publicación del presente Decreto.
+
+G.O. 2 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 17 de septiembre de 2018, en términos del Artículo Primero Transitorio del Decreto por el que se expide la Constitución Política de la Ciudad de México, publicado en el Diario Oficial de la Federación y en la Gaceta Oficial de la Ciudad de México el 05 de febrero de 2017.
+
+SEGUNDO.- El Jefe de Gobierno de la Ciudad de México contará con el plazo de un año, a partir de la entrada en vigor del presente Decreto, para modificar, de ser el caso, el Contrato de Fideicomiso identificado con el número 11023231, denominado “Fondo Ambiental Público del Distrito Federal”, de fecha 30 de noviembre de 2015, así como todos aquellos reglamentos y disposiciones administrativas que, en la esfera de su competencia, resulten aplicables.
+
+TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
