@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-escuela-de-administracion-publica-del-65478"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-01-22"
-last_updated: "2012-01-26"
+last_updated: "2017-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65478&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-01-21"
 ---
 # LEY ORGANICA DE LA ESCUELA DE ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL DECRETO ÚNICO Y TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO POR EL QUE SE EXPIDE LEY ORGÁNICA DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. EL 2 DE NOVIEMBRE DE 2017, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO EN LO RELATIVO A LAS LEYES DEL PODER EJECUTIVO.]</small>
+
 LEY ORGÁNICA DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 22 de enero de 2009.
 
@@ -617,3 +619,21 @@ G.O. 26 DE ENERO DE 2012.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 2 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA LA LEY ORGÁNICA DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY ORGÁNICA DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México; y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Escuela de Administración Pública Local del Distrito Federal y se crea la Ley Orgánica de la Escuela de Administración Pública de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor una vez que así lo haga la Constitución Política de la Ciudad de México en lo relativo a las leyes del Poder Ejecutivo,
+
+CUARTO.- La Junta de Gobierno vigente al momento de la publicación de la presente Ley, seguirá realizando sus labores y se guiará en lo subsecuente de conformidad con la presente Ley.
+
+QUINTO.- La Junta de Gobierno se guiará por el Estatuto Orgánico de la Escuela de Administración Pública del Distrito Federal, pero deberá realizar las modificaciones al Estatuto y armonizarlo de conformidad con lo establecido en esta Ley dentro de los 30 días naturales siguientes a la fecha de su publicación.
+
+SEXTO.- El Consejo Académico vigente al momento de la publicación de la presente Ley, seguirá realizando sus labores y se guiará en lo subsecuente de conformidad con la presente Ley.
+
+SÉPTIMO.- El Director General vigente al momento de la publicación de la presente Ley, seguirá realizando sus labores y se guiará en lo subsecuente de conformidad con la presente Ley.
