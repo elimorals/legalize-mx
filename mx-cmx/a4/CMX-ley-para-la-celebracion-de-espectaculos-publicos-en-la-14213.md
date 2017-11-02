@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2014-11-28"
+last_updated: "2017-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1996-12-27"
 ---
 # LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN LA CIUDAD DE MEXICO -- ANTES LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -35,8 +37,6 @@ Que la Honorable Asamblea de Representantes del Distrito Federal, se ha servido 
 DECRETO
 
 "LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, DECRETA:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
@@ -98,8 +98,6 @@ X. Permiso: El acto administrativo que emite la Delegación, para que una person
 
 XI. Secretaría: La Secretaría de Gobierno de la Administración;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 XII. (DEROGADA, G.O. 26 DE ENERO DE 2009)
 
 XIII. Servicio complementario: La actividad o actividades que por ser compatibles, relacionadas o vinculadas con el Espectáculo público, se autoriza a desarrollar, con el objeto de prestar un servicio integral;
@@ -109,6 +107,10 @@ XIV. Titulares: Las personas físicas o morales que obtengan permiso de las Dele
 XV. Ventanilla de gestión: Las ventanillas únicas de gestión de la Administración, instaladas en las sedes de los organismos empresariales, y
 
 XVI. Ventanilla única: Las ventanillas únicas instaladas en las Delegaciones.
+
+> <small>(ADICIONADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Servicios médicos, es la actividad de carácter obligatoria a cargo de quienes realicen espectáculos públicos en la Ciudad de México para prestar servicios de asistencia sanitaria proporcionados por médicos titulados con cédula profesional vigente, cuya especialidad estará relacionada con el espectáculo que se proporcione, quienes en todo momento deberán de atender tanto a los prestadores del servicio como al público en general.
 
 ###### Artículo 5o.
 
@@ -288,7 +290,9 @@ XIX. Prohibir que los Participantes ejecuten o hagan ejecutar por otro exhibicio
 
 XX. Cuando se detecte la comisión de alguna de las conductas a que se refiere la fracción anterior, se deberá dar aviso a las autoridades competentes;
 
-XXI. Contar con camerino y botiquín equipado con las medicinas y utensilios necesarios, así como con personal capacitado para la atención de los Participantes y Espectadores, durante la celebración de los Espectáculos públicos;
+> <small>(REFORMADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+
+XXI. Contar con camerino y botiquín equipado con las medicinas y utensilios necesarios, así como con personal capacitado y médico con cédula profesional vigente para la atención de los participantes y espectadores, durante la celebración de los espectáculos públicos;
 
 XXII. Respetar el aforo autorizado en los permisos o el manifestado en los avisos, de acuerdo con la capacidad física del local;
 
@@ -1364,7 +1368,7 @@ SEGUNDO.- El presente Decreto entrará en vigor a los 365 días posteriores a su
 
 TERCERO.- Los empleados y los titulares de espectáculos públicos que presenten un espectáculo circense en el Distrito Federal que cuenten con registro, permiso, autorización de posesión y traslado de animales silvestres, así como el certificado de cumplimiento de la legislación en materia de bienestar animal expedido por la autoridad federal correspondiente, tendrán un plazo de 365 días para adecuar su espectáculo en el territorio del Distrito Federal.
 
-G.G. 28 DE NOVIEMBRE DE 2014.
+G.O. 28 DE NOVIEMBRE DE 2014.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
@@ -1373,3 +1377,21 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 2 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL".]
+
+Primero.- La Secretaría de Protección Civil de la Ciudad de México diseñará en un plazo no mayor a 90 días hábiles un registro electrónico que se actualizará de manera mensual y será dado a conocer al público en general en el portal de la dependencia anteriormente señalada.
+
+El registro deberá de contener lo siguiente:
+
+a) Nombre del médico,
+
+b) Cédula profesional,
+
+c) Especialidad y
+
+d) Evento que se cubre.
+
+Segundo.- El presente proyecto de decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
