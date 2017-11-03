@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-a-la-lectura-y-el-libro-del-estado-de-91677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-01-15"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "ROO"
 ---
 # LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. LA EDICIÓN DEL PERIÓDICO OFICIAL EN EL QUE SE PUBLICA ESTE ORDENAMIENTO PRESENTA INCONSISTENCIAS, POR LO QUE SE REPRODUCE LITERALMENTE.</small>
+> <small>[N. DE E. LA EDICIÓN DEL PERIÓDICO OFICIAL EN EL QUE SE PUBLICA ESTE ORDENAMIENTO PRESENTA INCONSISTENCIAS, POR LO QUE SE REPRODUCE LITERALMENTE.]</small>
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, lunes 31 de diciembre de 2012.
 
@@ -72,6 +70,10 @@ Ninguna autoridad en el Estado podrá prohibir, restringir ni obstaculizar la cr
 Es obligación de las autoridades encargadas del fomento a la lectura y el libro, garantizar a todas las personas el acceso democrático, en igualdad de condiciones, al libro y a las bibliotecas en todo el Estado, a fin de aumentar la disponibilidad y fomentar la lectura.
 
 Será obligación del Gobierno del Estado promover la producción de publicaciones en maya. Asimismo, la producción de publicaciones interpretadas mediante el sistema braille, audiolibros o cualquier otro lenguaje que facilite el acceso a personas con alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo, las autoridades encargadas del fomento a la lectura y el libro, garantizarán a las personas privadas de la libertad en los centros penitenciarios del Estado el acceso democrático al libro, fomentando la conformación y el establecimiento de acervos bibliográficos y bibliotecas que comprendan material instructivo y recreativo, así como leyes y textos jurídicos que puedan ser de utilidad en el ejercicio de sus derechos.
 
 ###### Artículo 4.
 
@@ -430,3 +432,11 @@ LIC. LILIAN VILLANUEVA CHAN.
 EL SECRETARIO DE EDUCACION DEL ESTADO DE QUINTANA ROO.
 
 PROF. EDUARDO JOSE PATRÓN AZUETA.
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 105 POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO DEL ARTÍCULO 3 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE QUINTANA ROO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
