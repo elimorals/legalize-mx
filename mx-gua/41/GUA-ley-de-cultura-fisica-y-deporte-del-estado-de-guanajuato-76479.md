@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-76479"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2015-12-29"
+last_updated: "2017-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. EL 3 DE NOVIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2018.]</small>
+
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -1448,3 +1450,35 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 224, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE EXPIDE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2018, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Cultura Física y Deporte del Estado de Guanajuato, contenida en el decreto número 76, expedida por la Sexagésima Primera Legislatura, publicada en el Periódico Oficial del Gobierno del Estado, número 141, segunda parte, de fecha 3 de septiembre de 2010 y todas aquellas disposiciones normativas que se interpongan a la presente.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo deberá actualizar los reglamentos y demás disposiciones a que se refiere esta Ley a más tardar el 31 de diciembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo deberá emitir el programa que se refiere en esta Ley a más tardar el 31 de diciembre de 2018.
+
+###### ARTÍCULO QUINTO.
+
+La CODE instalará los órganos colegiados estatales establecidos en la presente Ley a más tardar el 31 de diciembre de 2018, incluyendo los programas y planes de acción de los mismos.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley, se sujetarán a las disposiciones contenidas en la Ley de Cultura Física y Deporte del Estado de Guanajuato, misma que se abroga por el artículo segundo transitorio del presente Decreto, hasta su total resolución.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los ayuntamientos, en el respectivo ámbito de sus competencias, adecuarán los reglamentos y demás ordenamientos municipales que resulten aplicables en concordancia con la presente Ley, a más tardar el 31 de diciembre de 2018.
