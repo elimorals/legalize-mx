@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2017-05-16"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -73,13 +73,9 @@ II.- Sector: El agrupamiento de entidades de la Administración Pública, coordi
 
 III.- Coordinadora de Sector: La dependencia de la Administración Pública que regula un conjunto de entidades paraestatales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 IV.- Eje: La agrupación de las dependencias y entidades que estén sectorizadas bajo la coordinación de una Secretaría, atendiendo a su objeto y atribuciones; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -91,25 +87,17 @@ V.- Coordinadora de Eje: La dependencia de la Administración Pública Estatal q
 
 El Gobernador del Estado para auxiliarse en el desempeño de sus funciones, tendrá directamente adscritas las unidades de asesoría, de apoyo técnico y administrativo, de acceso a la información, de archivos y de coordinación para la conformación de estructuras organizacionales y de políticas públicas, así como en materia de tecnología de la información y de comunicación social. También podrá establecer oficinas de representación del Gobierno del Estado fuera del propio territorio, que determine de acuerdo a sus atribuciones, al presupuesto que se autorice y con apego a la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 En los decretos y acuerdos relativos, se señalarán las obligaciones y atribuciones de las unidades auxiliares que se creen.
 
 El Gobernador del Estado podrá suprimir o fusionar las unidades auxiliares a que se refiere este artículo, respetando los derechos laborales de los servidores públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 La representación del Titular del Poder Ejecutivo del Estado en todos los juicios en que éste intervenga con cualquier carácter estará a cargo de quienes integren la Coordinación General Jurídica, la cual será además la encargada de someter a consideración del Gobernador del Estado los diversos instrumentos de carácter jurídico que sean de la competencia del mismo, así como coordinar a las dependencias y entidades del Poder Ejecutivo en materia jurídica; asimismo, su Titular estará facultado para representar directamente al Gobernador del Estado, conforme a la Ley de Amparo, respecto de los actos que a éste le reclamen. En el decreto relativo se señalará su organización y funcionamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -161,8 +149,6 @@ Constituyen la Administración Pública Centralizada del Poder Ejecutivo:
 
 I.- La Secretaría de Gobierno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 II.- La Secretaría de Finanzas, Inversión y Administración;
@@ -182,8 +168,6 @@ VII.- La Secretaría de Desarrollo Agroalimentario y Rural;
 VIII.- La Secretaría de Obra Pública;
 
 IX.- La Secretaría de Seguridad Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -206,8 +190,6 @@ XIII.- La Procuraduría General de Justicia.
 Las Secretarías a que se refiere el artículo anterior dependerán directamente del Gobernador del Estado y tendrán entre ellas igual jerarquía.
 
 La Procuraduría General de Justicia estará sujeta a su propio régimen jurídico.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -323,8 +305,6 @@ j) Llevar el registro de autógrafos, legalizar y certificar las firmas de los f
 
 k) Llevar el control y vigilancia del ejercicio notarial, de conformidad con las leyes que regulan la materia, así como organizar, dirigir y supervisar el Archivo General de Notarías;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 l) Organizar y controlar lo concerniente al Registro Civil, así como al Registro Público de la Propiedad;
@@ -348,8 +328,6 @@ e) Ejecutar los acuerdos y declaratorias que emita el Gobernador del Estado, en 
 f) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 g) Tramitar las solicitudes de indulto que le sean presentadas al Gobernador del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -387,8 +365,6 @@ a) Expedir, previo acuerdo del Gobernador del Estado, concesiones para la explot
 
 b) Expedir, previo acuerdo del Gobernador del Estado, las licencias, autorizaciones, concesiones y permisos, cuyas facultades no estén asignadas específicamente a las otras Secretarías;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 c) Organizar los actos cívicos correspondientes al calendario oficial;
@@ -417,8 +393,6 @@ j) Realizar en coordinación con los municipios, los estudios para la planeació
 
 k) Vigilar la prestación del servicio público de transporte;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 l) Prestar y ordenar el servicio público de transporte de competencia estatal, en los términos de la ley de la materia, así como regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal; y
@@ -430,8 +404,6 @@ m) Vigilar el cumplimiento de las disposiciones legales estatales de los medios 
 n) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
 
 V.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -445,8 +417,6 @@ a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado
 
 b) Formular y presentar al Gobernador del Estado los proyectos de iniciativas de la Ley Anual de Ingresos, del Presupuesto General de Egresos y el Programa General del Gasto Público, haciéndolos previamente compatibles con la disponibilidad de recursos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 c) Establecer el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública Estatal, considerando los diferentes instrumentos de planeación vigentes; normando y asesorando a las dependencias y entidades en la integración de sus programas específicos de conformidad con la Ley de la materia;
@@ -457,13 +427,9 @@ e) Establecer y normar los sistemas de contabilidad gubernamental;
 
 f) Organizar y llevar la contabilidad de la hacienda pública estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 g) Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Secretaría de la Transparencia y Rendición de Cuentas las observaciones derivadas de procesos de fiscalización que finque el Congreso del Estado a través de su órgano técnico de fiscalización;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -480,8 +446,6 @@ l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria;
 m) Regular y registrar los actos y contratos de su competencia;
 
 n) Proporcionar asesoría y apoyo técnico que le sean solicitados por las dependencias, entidades y municipios, en materia de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -549,19 +513,13 @@ d) Normar la selección y contratación del personal del Poder Ejecutivo del Est
 
 e) Tramitar los nombramientos, renuncias y licencias de los servidores públicos de las dependencias y entidades del Poder Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 f) Revisar y autorizar la suficiencia presupuestal para la modificación de las unidades administrativas que requieran las dependencias y entidades y que impliquen cambios en su estructura orgánica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 g) Establecer anualmente el Calendario Oficial que regirá en la Administración Pública Estatal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -573,8 +531,6 @@ VI. En materia de archivos e información:
 
 a) Fijar los lineamientos e integrar la documentación que sirvan de base para la elaboración del informe anual que debe rendir el Gobernador ante el Congreso del Estado, en coordinación con las demás dependencias y entidades del Poder Ejecutivo y, en particular, con el despacho del Gobernador del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 b) Normar y coordinar los servicios de informática de la Administración Pública Estatal;
@@ -582,8 +538,6 @@ b) Normar y coordinar los servicios de informática de la Administración Públi
 c) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura de informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
 
 d) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -606,8 +560,6 @@ g) Coordinar el proceso de evaluación socioeconómica de proyectos del Estado p
 h) Promover esquemas de capacitación que permitan mejores prácticas en la formulación y ejecución de proyectos; y
 
 i) Coordinar con la Secretaría de la Transparencia y Rendición de Cuentas y las instancias competentes, que haya congruencia entre los programas de las dependencias y entidades del Poder Ejecutivo con el Programa de Gobierno y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las Coordinadoras de Eje o Sector; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -633,8 +585,6 @@ h) Coordinar la integración de la propuesta de inversión regional y municipal 
 
 i) Coadyuvar en los procesos de concertación de la propuesta de inversión regional, con las dependencias y entidades del Ejecutivo, así como con los municipios, a través de distintos mecanismos de coinversión regional; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 IX.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
@@ -650,8 +600,6 @@ I.- En materia de planeación educativa:
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 a) Coordinar y vigilar la educación a cargo del Estado, los municipiosy (sic) los particulares, en los tipos básico y medio superior, y en las modalidades que les correspondan, de conformidad con la legislación aplicable, los convenios de coordinación celebrados por el Poder Ejecutivo Estatal y lasatribuciones (sic) que al mismo le transfiera la Federación, procurando que la misma reúna los requisitos de equidad, cobertura, calidad y pertinencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -672,8 +620,6 @@ III.- En materia de investigación:
 a) Fomentar el desarrollo de las humanidades, ciencias sociales, naturales y exactas, así como fomentar la vocación por la investigación por conducto de esta Secretaría o de los organismos que al efecto se constituyan;
 
 b) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -737,15 +683,11 @@ i) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 j) Promover y coordinar con las universidades e instituciones de educación media y superior o con los organismos que las agrupen legalmente, así como con las secretarías de Educación, y de Innovación, Ciencia y Educación Superior, el servicio social para que se constituya como un detonador del desarrollo general;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 k) Coordinar y vincular el Programa de Gobierno del Estado con la sociedad civil para la inclusión del desarrollo;
 
 l) Crear los mecanismos que capten fuentes alternas para la inversión social;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -823,8 +765,6 @@ III.- En materia de asistencia social:
 
 a) Llevar a cabo las funciones normativas de asistencia social que establezcan las leyes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 b) Formular políticas de atención a la mujer, a la niñez, a la juventud, a los adultos mayores, y a los grupos étnicos minoritarios, así como a las personas con discapacidad para prever su inclusión en coordinación con las dependencias y entidades competentes en la materia;
@@ -841,8 +781,6 @@ b) Ejercer la vigilancia sanitaria en los organismos operadores o dependencias o
 
 V.- En materia de infraestructura:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 a) Coordinar conjuntamente con la Secretaría de Finanzas, Inversión y Administración, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud, y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de construcción, conservación y mantenimiento de obras de las unidades de salud.
@@ -854,8 +792,6 @@ VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad
 La Secretaría de Desarrollo Económico Sustentable es la dependencia encargada de coordinar, fomentar y regular el desarrollo industrial, comercial y de servicios del Estado, impulsando el aprovechamiento sustentable de los recursos naturales, y le competen las siguientes atribuciones:
 
 I.- En materia de desarrollo económico:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -903,13 +839,9 @@ q) Convenir con las secretarías de Finanzas, Inversión y Administración, Salu
 
 r) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 s) Promover el desarrollo, la divulgación y el conocimiento de la innovación y tecnología en la sociedad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1009,8 +941,6 @@ XXI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entida
 
 La Secretaría de Obra Pública es la dependencia encargada de la planeación, programación, presupuestación, contratación, adjudicación y ejecución de la obra pública estatal, y le competen las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 I.- Coordinar conjuntamente con la Secretaría de Finanzas, Inversión y Administración, la presupuestación de la ejecución del Programa de Obra Pública del Gobierno del Estado con base en los anteproyectos presentados por las diferentes dependencias y entidades;
@@ -1022,8 +952,6 @@ III.- Consultar a las dependencias correspondientes a la materia de la obra que 
 IV.- Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las demás dependencias del Poder Ejecutivo del Estado que participen en dichos procedimientos;
 
 V.- Brindar asistencia técnica y jurídica a las autoridades municipales para la planeación, diseño y ejecución de la obra pública a su cargo, cuando lo soliciten;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1057,8 +985,6 @@ d) Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisd
 
 e) Coordinar dentro del Sistema Estatal de Seguridad Pública, los esfuerzos de los diversos actores sociales para enfrentar los problemas de esta materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 f) Establecer y operar los sistemas de información y registros de seguridad pública, en los términos de la ley de la materia;
@@ -1071,13 +997,9 @@ h) Informar en forma inmediata al Ministerio Público toda denuncia que reciba y
 
 i) Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas para los servidores públicos de la Entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 j) Elaborar el registro de personal de seguridad pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1085,31 +1007,21 @@ k) Organizar, capacitar, supervisar y controlar, los cuerpos de seguridad públi
 
 l) Operar y coordinar el Sistema de Radiocomunicaciones del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ll) Vigilar el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 II. En materia de reinserción social:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 a) Formular, ejecutar y evaluar los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión en los centros de prevención y reinserción social estatales y municipales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 b) Administrar los centros de prevención y de reinserción social estatales y coordinar la observancia de las normas y políticas relativas a la materia en los centros de prevención y reinserción social municipales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 c) DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2012)
 
@@ -1285,8 +1197,6 @@ XII.- Vigilar, en la esfera de su competencia, el cumplimiento de la normativida
 
 XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADA P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
@@ -1337,6 +1247,10 @@ n) Asesorar al Poder Ejecutivo del Estado, a los municipios, a las dependencias 
 
 o) Diagnosticar en conjunto con la Secretaría de Desarrollo Económico Sustentable el desarrollo e impulso de las vocaciones económicas de las diversas zonas económicas y los sectores económicos tradicionales y no tradicionales del Estado y su situación con respecto a las cadenas de valor y productivas y los sectores estratégicos de la Entidad.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+p) Impulsar la creación de entidades de vinculación y transferencia del conocimiento en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en las instituciones de Educación Superior, Centros Públicos de Investigación, así como entidades y organismos de la Administración Pública Estatal que tengan como objeto predominante la realización de actividades de investigación, desarrollo tecnológico o innovación.
+
 II.- En materia de educación superior:
 
 a) Conformar, coordinar y articular el Sistema de Educación Superior del Estado así como diseñar, planear y verificar el cumplimiento de la política, asegurando su cobertura con calidad y pertinencia;
@@ -1385,8 +1299,6 @@ Las instituciones a las que la Ley les otorgue autonomía se regirán por sus pr
 
 Los organismos descentralizados creados por Ley, se regirán por ésta, pero deberán observar las disposiciones de la presente Ley en cuanto no se opongan a aquélla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 37.
@@ -1402,8 +1314,6 @@ A falta de disposición expresa de a quién corresponde la remoción del Directo
 ###### Artículo 38.
 
 El órgano de gobierno o administración de cada entidad paraestatal deberá aprobar el reglamento interior que establezca las bases de su organización y funcionamiento, remitiéndolo al Gobernador del Estado para los efectos constitucionales de su competencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1432,8 +1342,6 @@ Las entidades paraestatales deberán proporcionar a las demás entidades del sec
 ###### Artículo 43.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, así como de las metas y objetivos señalados en sus programas. Asimismo, podrán participar en los sectores a los que sean convocadas, independientemente del que pertenezcan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1468,8 +1376,6 @@ VII.- Las facultades y obligaciones del organismo y de sus órganos de gobierno 
 VIII.- Los órganos de vigilancia y sus facultades; y
 
 IX.- En su caso, la Secretaría coordinadora de sector.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1512,8 +1418,6 @@ VIII.- Autorizar actos y contratos en los términos de la Ley de Contrataciones 
 IX.- Autorizar actos de dominio sobre su patrimonio inmobiliario, sujetándose a las disposiciones constitucionales; y
 
 X.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 50.
 
@@ -1567,8 +1471,6 @@ VIII.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo nor
 
 En los órganos consultivos se deberá contar con la participación de representantes de organizaciones sociales de la materia que corresponda al objeto del organismo descentralizado, designados en los términos del ordenamiento jurídico que lo norme.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 56.
@@ -1582,8 +1484,6 @@ II.- Verificar que se cuente con el registro e inventario actualizado de los bie
 III.- Participar en la entrega-recepeción (sic) de la administración del organismo;
 
 IV.- Verificar los estados financieros del organismo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1602,8 +1502,6 @@ Cuando algún organismo descentralizado creado por decreto gubernativo deje de c
 Se consideran empresas de participación estatal mayoritaria aquéllas que satisfagan alguno de los siguientes requisitos:
 
 I.- Que en la constitución de su capital figuren acciones de serie especial que sólo puedan ser suscritas por el Gobierno del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1625,8 +1523,6 @@ Las empresas de participación estatal mayoritaria contarán con los siguientes 
 
 I.- De gobierno, a cargo de una Asamblea General o Junta Directiva o sus equivalentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 II.- De administración, a cargo de un director general o administrador o su equivalente, además, podrá contar con un consejo de administración o su equivalente; y
@@ -1639,8 +1535,6 @@ Los órganos de gobierno se integrarán de acuerdo a sus estatutos, en lo que no
 
 Los integrantes del órgano de gobierno que representen la participación de la Administración Pública Estatal, podrán ser servidores públicos del Estado o personas de reconocido prestigio y con experiencia en las actividades propias de la empresa de que se trate, y serán designados por el Gobernador del Estado directamente o a través de la Secretaría coordinadora de sector, debiendo constituir en todo tiempo cuando menos la mitad de los miembros del órgano de gobierno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 Las personas que integren el órgano de gobierno y, en su caso, el consejo de administración, podrán desempeñar el cargo de manera honorífica y, en el supuesto de que perciban un sueldo y manejen fondos públicos, estarán sujetos a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
@@ -1651,15 +1545,11 @@ El órgano de gobierno se reunirá con la periodicidad que señalen los estatuto
 
 El órgano de gobierno será presidido por el Gobernador del Estado o por el titular de la Secretaría coordinadora de sector o por quien éste designe. Para sesionar válidamente se requiere la asistencia de la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el presidente voto de calidad para el caso de empate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 64.
 
 Cuando menos uno de los comisarios será designado por la Secretaría de la Transparencia y Rendición de Cuentas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1677,15 +1567,11 @@ La fusión, liquidación o disolución de las empresas de participación estatal
 
 El Gobernador del Estado podrá constituir fideicomisos públicos para impulsar el desarrollo del Estado cuando así lo determine el interés público y previo estudio que lo justifique.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 68.
 
 Los fideicomisos públicos a que se refiere esta Ley serán los que autorice el Gobernador del Estado y en los cuales la Secretaría de Finanzas, Inversión y Administración fungirá como fideicomitente, o en su caso, los organismos públicos descentralizados y las empresas de participación estatal mayoritaria, a través de los representantes de sus órganos de gobierno o administración.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -1707,8 +1593,6 @@ Asimismo, el fideicomiso podrá contar con un director general.
 
 Cuando en el contrato constitutivo del fideicomiso público no se determine a quién corresponde la presidencia del comité técnico, se conferirá al representante de la dependencia coordinadora de sector.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 72.
@@ -1717,15 +1601,11 @@ La Secretaría de Finanzas, Inversión y Administración podrá autorizar el inc
 
 La modificación o extinción de los fideicomisos públicos cuando así convenga al interés general, corresponderá exclusivamente al Gobernador del Estado con base en la propuesta de la Secretaría de Finanzas, Inversión y Administración, la cual en todo caso, deberá establecer el destino de los bienes fideicomitidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 73.
 
 En caso de que el fideicomitente sea un organismo descentralizado de la Administración Pública Estatal, éste deberá solicitar por escrito a la Secretaría de Finanzas, Inversión y Administración la afectación a su presupuesto para la aportación o incremento al fideicomiso público de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1759,13 +1639,9 @@ El comité técnico deberá estar integrado por lo menos con los siguientes miem
 
 I.- Un representante de la dependencia coordinadora de sector;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Un representante de la Secretaría de Finanzas, Inversión y Administración;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1773,15 +1649,11 @@ III.- Un representante de la Secretaría de la Transparencia y Rendición de Cue
 
 IV.- Un representante del fiduciario; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 V.- Un representante de las dependencias o entidades del Ejecutivo del Estado que de acuerdo con los fines del fideicomiso deban intervenir.
 
 Por cada miembro propietario del comité técnico habrá un suplente que lo cubrirá en sus ausencias.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1811,23 +1683,17 @@ Los directores generales de los fideicomisos públicos tendrán las atribuciones
 
 Los comités técnicos de los fideicomisos públicos deberán contar con un órgano de vigilancia, el cual tendrá las atribuciones previstas en el artículo 56 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 El órgano de vigilancia estará integrado por un comisario propietario y un suplente designados por la Secretaría de la Transparencia y Rendición de Cuentas, cuyos cargos serán honoríficos.
 
 ### CAPÍTULO SEXTO. DESARROLLO, CONTROL Y EVALUACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 87.
 
 Las entidades paraestatales para su desarrollo y operación deberán sujetarse al Programa de Gobierno y a los programas que de éste deriven, a las directrices que en materia de programación y evaluación emita el área encargada de la planeación, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas, Inversión y Administración, así como a las políticas que defina la Secretaría coordinadora de sector.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1877,8 +1743,6 @@ El servicio civil de carrera tendrá como finalidad fomentar la vocación en el 
 
 El Gobernador del Estado emitirá el reglamento correspondiente, en el cual determinará las normas, políticas y procedimientos administrativos, a efecto de definir qué servidores públicos participarán en el servicio civil de carrera, el estatuto del personal, un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal y la clasificación de puestos a que se sujetará el servicio civil de carrera, observando lo dispuesto por la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y los Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 96.
@@ -1910,8 +1774,6 @@ Los titulares de las dependencias y entidades, por acuerdo del Titular del Poder
 ###### Artículo 99.
 
 El Gobernador del Estado emitirá el reglamento que contendrá las normas y procedimientos a que se sujetará la entrega-recepción de las dependencias y entidades del Poder Ejecutivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1959,7 +1821,7 @@ EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
 
-N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
 
 P.O. 21 DE NOVIEMBRE DE 2003.
 
@@ -1995,7 +1857,7 @@ Artículo Tercero.- La Secretaría de Seguridad Pública deberá contar con la D
 
 Artículo Cuarto.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento de la presente Ley.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 280.</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 280.]</small>
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2160,3 +2022,15 @@ La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los se
 Artículo Tercero. Dentro de los noventa días siguientes de iniciar sus operaciones la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, el Órgano de Gobierno, deberá emitir el Estatuto Orgánico de la Secretaría Ejecutiva a efecto de que la Secretaría de Gobierno lo publique en el Periódico Oficial de Gobierno del Estado de Guanajuato.
 
 Artículo Cuarto. Dentro de los treinta días siguientes de iniciar sus operaciones la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, el Órgano de Gobierno, deberá emitir la convocatoria pública para la elección de la terna del titular del Órgano Interno de Control a efecto de que la Secretaría de Gobierno la publique en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 223, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 32 TER, FRACCIÓN 1 (SIC), UN INCISO P), DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 33, FRACCIÓN IV, Y SE ADICIONA EL ARTÍCULO 33, FRACCIÓN IV), CON LOS INCISOS A), B), E) Y D) Y UN PÁRRAFO SEGUNDO A LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones de educación, centros y entidades referidas en el contenido del presente Decreto que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica deberán emitir y hacer pública su normatividad institucional en un plazo no mayor de 180 días, contado a partir de la publicación del presente Decreto.
