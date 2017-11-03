@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-6497"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-04-18"
-last_updated: "2017-11-01"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA DE FECHA 18 DE ABRIL DE 1994, CUYO CONTENIDO SE RELACIONE CON LA EVALUACIÓN DEL IMPACTO AMBIENTAL.]</small>
+[NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA DE FECHA 18 DE ABRIL DE 1994, CUYO CONTENIDO SE RELACIONE CON LA EVALUACIÓN DEL IMPACTO AMBIENTAL.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE ORDENAMIENTO ECOLÓGICO DEL TERRITORIO ESTATAL, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, CUYO CONTENIDO SE RELACIONE CON EL ORDENAMIENTO ECOLÓGICO DEL TERRITORIO ESTATAL.]
+
+[NOTA 3. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA ÁREAS NATURALES PROTEGIDAS, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, CUYO CONTENIDO SE RELACIONE CON ÁREAS NATURALES PROTEGIDAS.]
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA
 
@@ -1458,3 +1462,49 @@ Artículo Segundo.- Se derogan las disposiciones del Reglamento de la Ley del Eq
 Artículo Tercero.- Los procedimientos que se encuentren en trámite ante la Secretaría a la entrada en vigor del presente Reglamento, se substanciarán conforme a las disposiciones del ordenamiento que deroga hasta su debida conclusión.
 
 Artículo Cuarto.- La Secretaría establecerá los mecanismos previstos en el artículo 38 del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE ORDENAMIENTO ECOLÓGICO DEL TERRITORIO ESTATAL”.]
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan las disposiciones del Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sinaloa de fecha 18 de abril de 1994, cuyo contenido se relacione con el ordenamiento ecológico del territorio estatal.
+
+Artículo Tercero.- Las acciones previstas en este Reglamento deberán llevarse a cabo conforme a las disposiciones presupuestarias vigentes y mediante el presupuesto autorizado a la Secretaría y a las dependencias y entidades de la Administración Pública Estatal que, de conformidad con las leyes aplicables, sean competentes para su aplicación.
+
+Artículo Cuarto.- La Secretaría, deberá emitir los formatos, lineamientos y estándares necesarios para la aplicación del presente Reglamento, en un plazo de ciento ochenta días hábiles contados a partir de su entrada en vigor.
+
+Artículo Quinto.- Los procedimientos y recursos administrativos que estuvieren en trámite al entrar en vigor el presente Reglamento, se continuarán conforme a las disposiciones que les dieron origen.
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA EN MATERIA DE ÁREAS NATURALES PROTEGIDAS".]
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- Se derogan las disposiciones del Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sinaloa de fecha 18 de abril de 1994, cuyo contenido se relacione con áreas naturales protegidas.
+
+Artículo Tercero.- Los procedimientos que se encuentren en trámite ante la Secretaría a la entrada en vigor del presente Reglamento, se substanciarán conforme a las disposiciones del ordenamiento que derogan hasta su debida conclusión.
+
+Artículo Cuarto.- En lo que se designa al Director de las áreas naturales protegidas previstas en las fracciones I y II del artículo 85 de la Ley, todo lo relativo a las mismas se deberá resolver ante la unidad administrativa correspondiente de la Secretaría.
+
+Artículo Quinto.- La Secretaría constituirá el Consejo Estatal de Áreas Naturales Protegidas, previsto en el Capítulo III del Título Segundo del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
+
+Artículo Sexto.- La Secretaría establecerá el Registro Estatal de Áreas Naturales Protegidas previsto en el Capítulo II del Título Tercero del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
+
+Artículo Séptimo.- Las actividades productivas en las áreas naturales protegidas que se desarrollaban con anterioridad a la expedición de la Declaratoria correspondiente, podrán continuar realizándose siempre y cuando se cumpla con lo establecido en las disposiciones legales y reglamentarias aplicables en materia ambiental.
+
+Artículo Octavo.- Las áreas naturales protegidas de competencia estatal que se hayan establecido con anterioridad a la expedición del presente Reglamento, podrán utilizar zonas alternativas, además de las exigidas por el artículo 87 de la Ley, que permitan compatibilizar los objetivos de conservación del área natural protegida, con las actividades que se han venido desarrollando hasta ese momento.
+
+Artículo Noveno.- La Secretaría, dentro de los 180 días hábiles siguientes a la publicación de este Decreto, elaborará los estudios que determinen el tipo de área natural protegida que, conforme a lo dispuesto en el artículo 85 de la Ley, corresponderá a las áreas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, con la finalidad de cumplir alguno o algunos de los propósitos establecidos en el artículo 84 de la Ley, o cuya caracterización sea análoga o similar a la descripción de alguno de los tipos de las áreas naturales protegidas previstas en los articulos 89 o 90 de la ley citada.
+
+Una vez que cuente con dichos estudios, la Secretaría los entregará al Consejo Estatal de Áreas Naturales Protegidas para que este, dentro de un plazo no mayor a tres meses, contado a partir de que los reciba, emita las opiniones y recomendaciones sobre si deben mantenerse los decretos, si deben ser modificados o, en su caso, abrogados.
+
+En caso de que el Consejo recomiende la modificación de un decreto, la Secretaría seguirá el procedimiento para el establecimiento de un área natural protegida previsto en la Ley y en el presente Reglamento. En caso de que recomiende su abrogación, la Secretaría propondrá a los municipios que dicha área sea decretada como zona de preservación ecológica de los centros de población, en caso de que cumpla con lo previsto en el artículo 91 de la Ley.
+
+Artículo Décimo.- La Secretaría expedirá el manual a que se refieren los artículos 86 y 87 del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
+
+Artículo Décimo Primero.- La Secretaría emitirá las guías y formatos previstos en el artículo 105 del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
+
+Artículo Décimo Segundo.- La Secretaría expedirá el Acuerdo previsto en el artículo 121 del presente Reglamento, dentro de los 180 días hábiles siguientes a la publicación de este Decreto.
