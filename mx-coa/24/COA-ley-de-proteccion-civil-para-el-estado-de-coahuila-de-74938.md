@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2017-10-06"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE NOVIEMBRE DE 2017 Y 1 DE DICIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE NOVIEMBRE DE 2017.]
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -369,15 +369,15 @@ V. Evaluar las situaciones de emergencias y desastres, la capacidad de respuesta
 
 VI. Coordinar y asumir el control de las acciones emprendidas por las instancias que integran el Sistema, excepto cuando los municipios se declaren capacitados para asumir el control de una emergencia o desastre, sin perjuicio de que el Estado preste el apoyo necesario;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+(REFORMADA, P.O. 6 DE OCTUBRE DE 2017) (F. DE E., P.O. 3 DE NOVIEMBRE DE 2017)
 
-VII. Elaborar y actualizar el Atlas Estatal de Riesgos, así como verificar,_en términos de ley y en colaboración con las autoridades competentes, la elaboración y actualización de los atlas municipales de riesgo, y la certificación de competencias de sus integrantes y de las unidades municipales;
+VII. Elaborar y actualizar el Atlas Estatal de Riesgos, así como verificar, en términos de ley y en colaboración con las autoridades competentes, la elaboración y actualización de los atlas municipales de riesgo, y la certificación de competencias de sus integrantes y de las unidades municipales;
 
 VIII. Implementar y evaluar acciones de emergencia en las zonas que se establezcan, así como proveer las medidas necesarias para su operación;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE OCTUBRE DE 2017)</small>
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE OCTUBRE DE 2017) (F. DE E., P.O. 3 DE NOVIEMBRE DE 2017)
 
-I (SIC). Ordenar actos de inspección, a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los Programas Internos de Protección Civil a cargo de los establecimientos, edificaciones o inmuebles siguientes:
+IX. Ordenar actos de inspección, a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los Programas Internos de Protección Civil a cargo de los establecimientos, edificaciones o inmuebles siguientes:
 
 a) Edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, condominios, campamentos turísticos y centros vacacionales;
 
@@ -655,13 +655,9 @@ Para la adopción y ejecución de las medidas de seguridad en casos de emergenci
 
 El Consejo Estatal y los consejos municipales realizarán campañas permanentes de capacitación a la población en materia de protección civil.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 944, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2017, PÁGINA 32.]</small>
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017) (F. DE E., P.O. 3 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
-
-ARTÍCULO 22 A.- ... (sic)
-
-Todos los elementos operativos adscritos a las unidades de Protección civil y a los servicios de atención de emergencias, deberán contar con una capacitación básica común que les permita conocer el funcionamiento del Sistema Estatal de Protección Civil.
+ARTÍCULO 22 A.- Todos los elementos operativos adscritos a las unidades de Protección civil y a los servicios de atención de emergencias, deberán contar con una capacitación básica común que les permita conocer el funcionamiento del Sistema Estatal de Protección Civil.
 
 Para ello, deberán efectuar un curso específico que será impartido por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil, el cual contendrá las materias que les permitan adquirir los conocimientos y aptitudes generales básicas, para ejercer sus funciones en las unidades de Protección Civil y en los servicios de atención de emergencias.
 
@@ -1391,7 +1387,9 @@ VI. Aprovechar la sinergia que resulta del trabajo conjunto, para ampliar la inf
 
 VII. Establecer o renovar los planes de respuesta a emergencias;
 
-VII (SIC). Cooperar en la planeación de emergencias en la comunidad y ayudar en la elaboración de los planes de las empresas integradas al comité;
+> <small>(F. DE E., P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Cooperar en la planeación de emergencias en la comunidad y ayudar en la elaboración de los planes de las empresas integradas al comité;
 
 IX. Involucrar a la comunidad en la planeación de emergencias, y
 
@@ -1719,7 +1717,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 6 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 944.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 944.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
