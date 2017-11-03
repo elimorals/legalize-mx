@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-investigacion-cientifica-tecnologica-y-2487
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-17"
-last_updated: "2016-01-29"
+last_updated: "2017-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 17 de mayo de 2002.
 
@@ -687,7 +685,31 @@ II.- Promover la creación y consolidación de programas de posgrado de alto niv
 
 III.- Promover programas de apoyos y becas para la realización de estudios de posgrado encaminados a la formación de los recursos humanos que satisfagan las necesidades del conocimiento y la investigación en las áreas prioritarias del Estado; y
 
-IV.- Apoyar la integración de las comunidades científica y tecnológica del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+IV.- Apoyar la integración de las comunidades científicas y tecnológicas del Estado mediante la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológicas y redes regionales de innovación emitiendo los lineamientos y condiciones básicas para la conformación de estos, tomando en cuenta lo siguiente:
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+a) Las figuras a que se refiere el párrafo anterior, podrán constituirse mediante convenios de colaboración o a través de instrumentos que den origen a una nueva persona jurídica. En este último caso, será necesario el acuerdo del órgano de gobierno correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+b) La aportación de las instituciones de educación, Centros y entidades en dichas figuras no deberá rebasar el 49% de la participación total.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+c) Los beneficios derivados de la propiedad intelectual que se generen con la participación del personal de la institución, Centro o entidad en las figuras mencionadas, se otorgarán de conformidad con lo establecido en la Ley y en los lineamientos que al efecto expida el órgano de gobierno, sin perjuicio de las prestaciones de carácter laboral que en su caso correspondan a dicho personal.
+
+La participación del personal de la institución, Centro o entidad en las figuras a que se refiere el presente artículo, en los términos en la presente Ley, no implicará que incurra en conflicto de intereses.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+d) El pago de las compensaciones complementarias por concepto de regalías no constituirá una prestación regular y continua en favor del personal de la institución de educación, Centro o entidad, por estar condicionado dicho pago al cumplimiento de lo dispuesto en esta Ley y en las disposiciones que al efecto expidan los órganos de gobierno correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Los órganos de gobierno de las instituciones, centros y entidades estarán facultados para establecer apoyos, criterios y determinaciones relacionadas con la propiedad intelectual y los beneficios que correspondan a las instituciones; pudiendo otorgar, en materia de derechos, a los investigadores, académicos y personal especializado, que los haya generado hasta el 70% de las regalías que se generen.
 
 ## TÍTULO QUINTO
 
@@ -837,7 +859,7 @@ EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 11 DE SEPTIEMBRE DE 2012.
 
@@ -906,3 +928,15 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 223, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 32 TER, FRACCIÓN 1, UN INCISO P), DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 33, FRACCIÓN IV, Y SE ADICIONA EL ARTÍCULO 33, FRACCIÓN IV, CON LOS INCISOS A), B), E) Y D) Y UN PÁRRAFO SEGUNDO A LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones de educación, centros y entidades referidas en el contenido del presente Decreto que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica deberán emitir y hacer pública su normatividad institucional en un plazo no mayor de 180 días, contado a partir de la publicación del presente Decreto.
