@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-una-convivencia-libre-de-violencia-en-el-entorno-95029
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-02"
-last_updated: "2013-07-02"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de julio de 2013.
 
@@ -65,35 +65,43 @@ VI. Establecer mecanismos de participación y seguimiento en el diseño e instru
 
 Para lograr estos fines a los que se refiere la presente Ley, se implementará el modelo para la prevención, atención y erradicación de la violencia escolar elaborado por el Consejo Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, en los términos que dispone esa ley.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
 Glosario
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Comunidad Educativa: Educandos, personal directivo, docente, administrativo, manual y de apoyo a la educación; padres de familia, tutores, quienes ejerzan la patria potestad, o tengan bajo su guarda o custodia a los educandos, que interactúan en el entorno escolar;
+I. Centro Escolar: Los inmuebles destinados a la educación obligatoria, que se imparte por el Estado, los municipios, los organismos públicos descentralizados y los particulares;
 
-II. Cultura de la paz: El conjunto de valores, actitudes y comportamientos, modos de vida y acción que, inspirándose en ella, reflejan el respeto de la vida, de la persona humana, de su dignidad y sus derechos, el rechazo de la violencia, comprendidas todas formas de terrorismo, y la adhesión a los principios de libertad, justicia, solidaridad, tolerancia y entendimiento, tanto en los pueblos como entre los grupos y las personas;
+II. Comunidad Educativa: Educandos, personal directivo, docente, administrativo, manual y de apoyo a la educación; padres de familia, tutores, quienes ejerzan la patria potestad, o tengan bajo su guarda o custodia a los educandos, que interactúan en el entorno escolar;
 
-III. Discriminación entre la Comunidad Educativa: Toda distinción, exclusión, limitación o preferencia fundada en la raza, el color, el sexo, el idioma, la religión, las opiniones políticas o de cualquier índole, el origen nacional o social, la posición económica o el nacimiento, que tenga por finalidad o por efecto destruir o alterar la igualdad de trato en la esfera de enseñanza;
+III. Cultura de la paz: El conjunto de valores, actitudes y comportamientos, modos de vida y acciones que, inspirándose en ella, reflejan el respeto de la vida, de la persona humana, de su dignidad y sus derechos, el rechazo de la violencia, comprendidas todas formas de terrorismo, y la adhesión a los principios de libertad, justicia, solidaridad, tolerancia y entendimiento, tanto en los pueblos como entre los grupos y las personas;
 
-IV. Educando: Las niñas, niños, adolescentes y todas aquellas personas que cursan sus estudios en alguna institución de los tipos de educación básico y medio superior de carácter público o privado con autorización o reconocimiento de validez oficial de estudios por parte de las autoridades correspondientes;
+IV. Discriminacion entre la Comunidad Educativa: Toda distinción, exclusión, limitación o preferencia fundada en la raza, el color, el sexo, el idioma, la religión, las opiniones políticas o de cualquier índole, el origen nacional o social, la posición económica o el nacimiento, que tenga por finalidad o por efecto destruir o alterar la igualdad de trato en la esfera de enseñanza;
 
-V. Entorno escolar: Las instalaciones escolares, las inmediaciones de éstas, así como los espacios en donde el educando lleva a cabo actividades educativas o relacionadas a su condición;
+V. Educando: Las niñas, niños, adolescentes y todas aquellas personas que cursan sus estudios en alguna institución de los tipos de educación básico y medio superior de carácter público o privado con autorización o reconocimiento de validez oficial de estudios por parte de las autoridades correspondientes;
 
-VI. Espectador: Aquella persona que no brinda su apoyo hacia las víctimas en el caso de maltrato entre iguales que ocupe, y al observar un acto de agresión no interviene;
+VI. Entorno escolar: Las instalaciones educativas delimitadas por el perímetro del centro escolar, así como los espacios donde el educando interactúa con la Comunidad Educativa, llevando a cabo actividades de enseñanza aprendizaje bajo la supervisión de un docente;
 
-VII. Generador de la violencia escolar: Toda aquella persona que inflijan violencia escolar contra algún integrante de la Comunidad Educativa o tenga relación con ella, en los términos de esta Ley;
+VII. Espectador: Aquella persona que no brinda su apoyo hacia las víctimas en el caso de maltrato entre iguales que ocupe, y al observar un acto de agresión no interviene;
 
-VIII. Ley: Ley para una Convivencia Libre de Violencia en el Entorno Escolar para el Estado de Guanajuato y sus municipios;
+VIII. Generador de la violencia escolar: Toda aquella persona que inflija violencia escolar contra algún integrante de la Comunidad Educativa o tenga relación con ella, en los términos de esta Ley;
 
-IX. Receptor de violencia escolar: Persona que sufre algún tipo de violencia por parte de uno o varios integrantes de la Comunidad Educativa;
+IX. Ley: Ley para una Convivencia Libre de Violencia en el Entorno Escolar para el Estado de Guanajuato y sus municipios;
 
-X. Red Estatal: Red Estatal para la Convivencia Libre de Violencia en el Entorno Escolar. Es la estructura transversal y vertical coordinada por el gobierno estatal y los municipales, a través de sus áreas educativas, que tiene por objeto la unión de esfuerzos para la detección, atención y erradicación de la violencia en el entorno escolar;
+X. Receptor de violencia escolar: Persona que sufre algún tipo de violencia por parte de uno o varios integrantes de la Comunidad Educativa;
 
-XI. Secretaría: La Secretaría de Educación de Guanajuato; y
+XI. Red Estatal: Red Estatal para la Convivencia Libre de Violencia en el Entorno Escolar. Es la estructura transversal y vertical coordinada por el gobierno estatal y los municipales, a través de sus áreas educativas, que tiene por objeto la unión de esfuerzos para la detección, atención y erradicación de la violencia en el entorno escolar;
 
-XII. Violencia escolar: Es el uso intencional en el entorno escolar de la fuerza física o emocional, ya sea en grado de amenaza o efectivo en contra cualquier integrante de la Comunidad Educativa que cause o tenga como finalidad causar lesiones, daños emocionales, trastornos del desarrollo o privaciones, generando una forma de interacción en la que este proceso se reproduce.
+XII. Secretaría: La Secretaría de Educación de Guanajuato;
+
+XIII. Suplantación de Identidad: El acto de hacerse pasar por otra persona de la Comunidad Educativa y, en su nombre, hacer comentarios ofensivos o participaciones por cualquier medio físico o virtual, que cause un perjuicio a alguna de las personas previstas en el artículo 24 de esta Ley, valiéndose de la identidad o información propiedad del receptor de violencia; y
+
+XIV. Violencia escolar: Todo acto u omisión que de manera reiterada agreda física, psicoemocional, patrimonial o sexualmente a un niño, niña o adolescente, así como el uso intencional de la fuerza física o emocional, ya sea en grado de amenaza o efectivo, que tenga como finalidad causar lesiones, daños emocionales, trastornos del desarrollo o privaciones, realizados en el entorno escolar ya sea en instituciones educativas públicas o particulares.
+
+También se considera violencia escolar, las acciones que se realicen a través de cualquier tipo de comunicación escrita, electrónica o a través de imágenes y videos que pretenda dañar la dignidad y honor.
 
 Principios rectores de la Ley
 
@@ -189,13 +197,15 @@ Deber de difusión
 
 Las autoridades, en el ámbito de su competencia, desarrollarán e impulsarán campañas de difusión que transmitan la importancia de una convivencia armónica y libre de violencia en los ámbitos familiar, escolar, comunitario y social.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
 Deber de denunciar
 
 ###### Artículo 11.
 
-La persona que tenga conocimiento de la realización de una conducta de violencia escolar deberá denunciarla a la autoridad educativa correspondiente, para que ésta, en el ámbito de su competencia adopte las medidas a que haya lugar a fin de que la violencia denunciada cese.
+La persona que tenga conocimiento de la realización de actos de violencia escolar deberá denunciarla (sic) a la autoridad educativa correspondiente, para que ésta, en el ámbito de su competencia adopte las medidas a que haya lugar a fin de que la violencia denunciada cese.
 
-Si la conducta es de aquéllas consideradas como constitutivas de delito, la denuncia deberá presentarse ante el Ministerio Público.
+A efecto de salvaguardar la identidad de las niñas, niños y adolescentes, las autoridades educativas instalarán mecanismos de denuncia anónima de violencia escolar exclusivamente entre los educandos.
 
 Protección de datos personales
 
@@ -277,7 +287,11 @@ X. Hacer del conocimiento de las autoridades competentes las conductas que puede
 
 XI. Coordinar acciones con organizaciones de la sociedad civil y asociaciones de padres de familia con el objeto de fomentar su participación en los programas de prevención, atención y erradicación de la violencia escolar; y
 
-XII. Las demás que le señalen las disposiciones legales aplicables a esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+XII. Implementar acciones de sensibilización y formación sobre el uso responsable de los medios virtuales de comunicación, así como al uso responsable de las tecnologías de la información con la finalidad de prevenir la violencia cibernética; y
+
+XIII. Las demás que le señalen las disposiciones legales aplicables a esta Ley.
 
 Atribuciones de la Secretaría de Salud
 
@@ -389,11 +403,23 @@ I. Violencia psicoemocional: Acción u omisión dirigida a desvalorar, intimidar
 
 II. Violencia física: Toda acción u omisión intencional que causa un daño corporal o menoscabo en las pertenencias de los integrantes de la Comunidad Educativa;
 
-III. Violencia verbal: Acciones violentas que se manifiestan a través del uso del lenguaje;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2017)</small>
 
-IV. Violencia a través de las tecnologías de la información y comunicación: Toda violencia implementada a partir del uso de plataformas virtuales y herramientas tecnológicas; y
+III. Violencia a través del Lenguaje: Toda acción violenta proveniente de manifestaciones a través de expresiones escritas, verbales, gráficas o por señas, que generen o fomente insultos, menosprecio o burla;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+IV. Violencia Cibernética: La que se ejerce mediante el uso de cualquier medio electrónico o tecnologías de la información; como internet, páginas web, redes sociales, aplicaciones informáticas, blogs, correos electrónicos, mensajería electrónica instantánea, computadoras, videograbaciones, entre otros. Este tipo de violencia se considerará como tal, siempre y cuando repercuta en el entorno escolar;
 
 V. Exclusión: Cuando el educando es aislado, apartado, segregado, o amenazado con serlo, de la convivencia escolar por razones de discriminación negativa de cualquier tipo.
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+VI. Violencia Sexual: Toda agresión relacionada con la sexualidad, que denote discriminación, obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual; y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+VII. Violencia por suplantación de identidad: Incurre en este tipo de violencia quien registre un perfil en una red social con el nombre de otro sin su consentimiento, o utilizando datos o imágenes pertenecientes al receptor de violencia, ingrese a una cuenta ajena para tener acceso a información que ahí se almacena, o realice anuncios o comentarios utilizando el nombre de un tercero, o incluso utilizando sus datos personales, para identificarse a través del correo electrónico, mensajería instantánea o cualquier medio de comunicación virtual o física; así como la publicación por cualquier medio de anuncios, comentarios o información a nombre de otra persona.
 
 ### CAPÍTULO IV. INSTRUMENTOS DE REGULACIÓN EN MATERIA DE VIOLENCIA ESCOLAR
 
@@ -420,6 +446,20 @@ Colaboración de padres de familia y tutores
 ###### Artículo 29.
 
 Los padres de familia, tutores o quienes ejercen la guarda o custodia de los alumnos, sin menoscabo de los derechos establecidos en otras disposiciones legales, estarán obligados a colaborar con las autoridades, a fin de alcanzar con ello, los objetivos contemplados en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Acciones preventivas
+
+###### Artículo 29
+
+1. A efecto de reducir la violencia cibernética y la violencia por suplantación de identidad, los padres de familia, tutores o quienes ejerzan la patria potestad deberán:
+
+I. Concientizar a los menores sobre la importancia de limitar la difusión voluntaria de datos personales y privados en redes sociales y mensajería instantánea;
+
+II. Concientizar a los menores sobre las opciones de privacidad en diferentes redes sociales; y
+
+III. Fomentar una cultura del uso y navegación responsable en medios cibernéticos.
 
 #### SECCIÓN ÚNICA. RED ESTATAL PARA LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR
 
@@ -503,13 +543,17 @@ Seguimiento del Órgano Escolar
 
 El organismo escolar deberá presentar y dar seguimiento a las denuncias de casos de violencia en el entorno escolar por conducto del director o responsable de la escuela. Asimismo, dará seguimiento a las acciones que las autoridades educativas emprendan dentro del entorno escolar en materia de prevención de la violencia escolar.
 
-### CAPÍTULO V. PROTOCOLO DE DENUNCIA Y TRATAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2017)</small>
 
-El Protocolo de Denuncia y Tratamiento
+### CAPÍTULO V. PROTOCOLOS
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Los Protocolos
 
 ###### Artículo 37.
 
-El protocolo de denuncia y tratamiento, es aquel por medio del cual se dará respuesta, atención y seguimiento inmediatos a los casos de violencia escolar que se registren, con la participación de las partes involucradas y las autoridades en la materia. Garantizando que cada autoridad competente tenga la intervención adecuada en cada caso de violencia escolar que se suscite.
+Los protocolos son aquellos por medio de los cuales se dará repuesta (sic), atención y seguimiento inmediatos a los casos de violencia escolar que se registren, con la participación de las partes involucradas y las autoridades en la materia. Garantizando que cada autoridad competente tenga la intervención adecuada en los casos de violencia escolar que se susciten.
 
 Principios del Tratamiento
 
@@ -531,9 +575,11 @@ VI. El tratamiento e integración a la Comunidad Educativa.
 
 Objetivos del Protocolo
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-El protocolo de denuncia y tratamiento tiene como objetivos:
+Los protocolos tienen como objetivos.
 
 I. Servir como instrumento de respuesta, atención y seguimiento inmediatos a los casos de violencia escolar;
 
@@ -550,6 +596,10 @@ VI. Crear los formatos de reporte de violencia escolar;
 VII. Establecer procedimientos de actuación para la Comunidad Educativa de orientación, tratamiento e integración para los receptores, generadores y familiares que se encuentren en un caso de violencia escolar; y
 
 VIII. Fomentar en los padres o tutores los principios rectores de la presente Ley, para la prevención, atención y erradicación de la violencia escolar.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+La autoridad educativa desarrollará un programa para que, a través de las autoridades escolares, los educandos conozcan y comprendan los lineamientos establecidos por los procedimientos y protocolos para la detección, prevención y atención de la violencia escolar.
 
 Investigación escolar de los casos de violencia
 
@@ -613,25 +663,97 @@ La Procuraduría de los Derechos Humanos del Estado hará también la investigac
 
 Formará parte del expediente, aquella investigación que realice el Sistema Estatal para el Desarrollo Integral de la Familia, con la finalidad de reforzar la recomendación, en su caso, que formule.
 
-### CAPÍTULO VI. RESPONSABILIDADES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2017)</small>
 
-Responsabilidad e incorporación
+### CAPÍTULO VI. FOMENTO A LA CULTURA DE LA PAZ EN EL ENTORNO ESCOLAR
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Fomento a la Cultura de la Paz
 
 ###### Artículo 45.
 
-Los miembros de la Comunidad Educativa que incurran en violencia escolar serán sancionados de acuerdo a la normativa establecida para tal efecto, y se incorporará a las actividades pedagógicas en materia de violencia escolar que implemente la Secretaría. De igual manera, los padres, tutores o quienes ejerzan la patria potestad deberán asistir a los cursos y talleres, cuando el generador de violencia sea un educando.
+El Órgano Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, integrará un capítulo para el Fomento a la Cultura de la Paz en el Entorno Escolar, dentro del modelo para la prevención, atención y erradicación de la violencia escolar, basado en el desarrollo de habilidades socio-emocionales y la prevención de conflictos interpersonales, a través de los cuales se presentarán actividades orientadas al fomento a la cultura de la paz.
 
-Responsabilidad administrativa
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Información y capacitación
 
 ###### Artículo 46.
 
-Las autoridades estatales y municipales, y en general cualquier servidor público que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta Ley impone, serán sancionados de acuerdo con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin menoscabo de las responsabilidades penales, civiles o cualquier otra que se derive de su incumplimiento.
+Se establecerán y ofrecerán instrumentos de información y capacitación a los miembros de la Comunidad Educativa que aborden los factores de riesgo asociados a los distintos tipos de violencia en el entorno escolar con la finalidad de detectarlos, prevenirlos, atenderlos y reducirlos.
 
-Responsabilidad de particulares
+Se promoverán acciones para eliminar la discriminación e impulsar la resolución pacífica de conflictos, a través del desarrollo e implementación de estrategias de educación y sensibilización de la Comunidad Educativa para promover la cultura de la paz.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Convenios de colaboración
 
 ###### Artículo 47.
 
+La Secretaría podrá celebrar convenios de colaboración a efecto de desarrollar y presentar proyectos encaminados a la prevención social de la violencia en el entorno escolar y al fomento de la cultura de la paz.
+
+Para la ejecución de los convenios a que se refiere el párrafo anterior, la Secretaría podrá coordinarse con las dependencias y entidades de la Administración Pública Estatal cuyas funciones incidan en la prevención social de la violencia en el entorno escolar y el fomento de la cultura de la paz.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Campañas de prevención social
+
+###### Artículo 48.
+
+La Secretaría elaborará campañas en materia de prevención social de la violencia en el entorno escolar que incluyan:
+
+I. La prevención y erradicación de prácticas de hostigamiento, intimidación, acoso y violencia escolar dirigidas prioritariamente a los niños, niñas y adolescentes; y
+
+II. Prácticas innovadoras para el fomento a la cultura de la paz a través de mecanismos que concienticen a la Comunidad Educativa orientados a la modificación de sus conductas en beneficio de la sociedad.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Contenido de las campañas de prevención social
+
+###### Artículo 49.
+
+Las políticas públicas, programas y acciones en materia de prevención social de la violencia en el entorno escolar y fomento a la cultura de la paz, deberán considerar los principios referidos en el artículo 4 de esta Ley, así como los aspectos educativos, de salud pública, recreativos, culturales, económicos, deportivos, de desarrollo social, de fortalecimiento del tejido social, de solidaridad comunitaria, de inclusión social y psicológico que permitan evitar situaciones y acciones violentas.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 3 DE NOVIEMBRE DE 2017)
+
+### CAPÍTULO VII. RESPONSABILIDADES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 45], P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Responsabilidad e incorporación
+
+###### Artículo 50.
+
+Los miembros de la Comunidad Educativa que incurran en violencia escolar serán sancionados de acuerdo a la normativa establecida para tal efecto, y se incorporará a las actividades pedagógicas en materia de violencia escolar que implemente la Secretaría.
+
+De igual manera, los padres, tutores o quienes ejerzan la patria potestad deberán participar en la estrategia de atención que se establezca para el caso específico. En caso de existir negativa o falta de atención, la misma se hará del conocimiento a las autoridades competentes.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 46], P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Responsabilidad administrativa
+
+###### Artículo 51.
+
+Las autoridades estatales y municipales, y en general cualquier servidor público que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta Ley impone, serán sancionados de acuerdo con las leyes que resulten aplicables a la conducta.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 47], P.O. 3 DE NOVIEMBRE DE 2017)
+
+Responsabilidad de particulares
+
+###### Artículo 52.
+
 Los particulares que infrinjan las disposiciones de esta Ley, se harán acreedores a las sanciones previstas en las leyes que resulten aplicables a la conducta.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)</small>
+
+Talleres de capacitación
+
+###### Artículo 53.
+
+En los centros educativos, con base en los programas y acciones de prevención de la violencia en el entorno escolar y fomento a la cultura de la paz, se realizarán talleres de capacitación y actualización al personal directivo y docente, administrativo y de apoyo que al efecto establezca la Secretaría.
+
+En las sesiones del Consejo Técnico Escolar y Consejo Técnico de Zona, se abrirán espacios para tratar temas de violencia escolar y cultura de la paz.
 
 T r a n s i t o r i o s
 
@@ -662,3 +784,13 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 225, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3; 11; 17 FRACCIÓN XII, REUBICANDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XII COMO FRACCIÓN XIII; 25 FRACCIONES III Y IV; LA DENOMINACIÓN DEL CAPÍTULO V; 37; Y 39 EN SU PRIMER PÁRRAFO Y SE ADICIONAN LOS ARTÍCULOS 25 CON LAS FRACCIONES VI Y VII; 29-1; 39 CON UN SEGUNDO PÁRRAFO; 48; Y 49; Y EL CAPÍTULO VI DENOMINADO "FOMENTO A LA CULTURA DE LA PAZ EN EL ENTORNO ESCOLAR", CONFORMADO POR LOS ARTÍCULOS 45, 46, 47, 48 Y 49, REUBICANDO EL ACTUAL CAPÍTULO VI, COMO CAPÍTULO VII, EL CUAL SE INTEGRA CON LOS ARTÍCULOS 50, 51, 52 Y 53 DE LA LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se contará con un plazo de 180 días naturales para realizar las adecuaciones reglamentarias que deriven de la presente reforma.
