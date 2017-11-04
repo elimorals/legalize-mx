@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2017-06-03"
+last_updated: "2017-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -219,13 +219,17 @@ XXIV. Atender las situaciones derivadas de la vida familiar, social o comunitari
 
 XXV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de 18 años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
 
-XXVI. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso apropiado de internet y de las redes sociales; y
+XXVI. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
 
-XXVII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales.
+XXVII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII. Gestionar conforme a los lineamientos expedidos por la autoridad educativa federal, se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales.
 
 Los fines anteriores se realizarán gradual y coordinadamente, según la edad, el desarrollo mental de los educandos, tipo y grado de educación. En las escuelas normales, formadoras de docentes y en las de posgrados para docentes, se les dedicará una mayor atención, un estudio más profundo y un mayor número de prácticas operativas a dichos fines, a efecto de preparar mejor a quienes se dedicarán al ejercicio docente.
 
@@ -367,7 +371,9 @@ XIX. Establecer condiciones que permitan el ejercicio pleno del derecho a la edu
 
 XX. Promover conjuntamente con la Secretaría de Salud, programas y acciones que fomenten en los directores de las instituciones educativas, maestros, padres de familia, encargados de los establecimientos escolares y especialmente en los educandos, una alimentación correcta, es decir, equilibrada, suficiente, completa, higiénica y variada, que junto con la práctica de actividad física mejore su crecimiento y desarrollo;
 
-XXI. Promover y vigilar la aplicación de los lineamientos que para el expendio y distribución de alimentos y bebidas preparados y procesados dentro de toda escuela expida la autoridad educativa federal, con la finalidad de fomentar en los educandos una alimentación saludable;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+XXI. Promover y vigilar la aplicación de los lineamientos que para el expendio y distribución de alimentos y bebidas preparados y procesados dentro de toda escuela expida la autoridad educativa federal, con la finalidad de fomentar en los educandos una alimentación saludable; así como gestionar alimentos gratuitos para todos los niños y niñas que cursen el nivel preescolar;
 
 XXII. Llevar a cabo de manera coordinada con la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de las disposiciones en materia de salud alimentaria y fomento de la actividad física;
 
@@ -399,7 +405,9 @@ VIII. Impulsar el desarrollo de la enseñanza tecnológica y de la investigació
 
 IX. Coadyuvar al logro de la equidad educativa, tomando las medidas y realizando las actividades a que se refieren los artículos 32 y 33 de la Ley General de Educación;
 
-X. Celebrar convenios con la autoridad educativa estatal para coordinar actividades que tiendan a lograr la equidad educativa y cumplir de mejor manera las responsabilidades a su cargo; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+X. Celebrar convenios con la autoridad educativa estatal para coordinar actividades que tiendan a lograr la equidad educativa y cumplir de mejor manera las responsabilidades a su cargo; incluyendo la gestión de alimentos gratuitos para todos los niños y niñas que cursen el nivel preescolar; y
 
 XI. Integrar en cada municipio el consejo municipal de participación social en la educación.
 
@@ -1678,3 +1686,11 @@ P.O. 3 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 246.- POR EL QUE SE ADICIONA LA SECCIÓN QUINTA DENOMINADA "DE LA SEGURIDAD EN LAS ESCUELAS", INTEGRADA POR LOS ARTÍCULOS 36 BIS, 36 TER Y 36 QUATER, AL CAPÍTULO II DEL SISTEMA EDUCATIVO ESTATAL, DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 4 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 368. POR EL (SIC) SE REFORMAN LAS FRACCIONES XXVI Y XXVII Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 11; Y SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 18 Y LA FRACCIÓN X DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto estará sujeto a la disponibilidad presupuestaria por parte de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Colima.
