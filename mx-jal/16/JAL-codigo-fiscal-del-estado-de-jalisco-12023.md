@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2016-12-31"
+last_updated: "2017-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO FISCAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -119,13 +121,9 @@ V. Participaciones.- Las cantidades que el Estado de Jalisco, tiene derecho a pe
 
 Ningún ingreso podrá recaudarse si no está previsto en la Ley de Ingresos del Estado de Jalisco, que para el Ejercicio Fiscal respectivo apruebe el Congreso del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
 
 Asimismo, deberá contemplar la obligación únicamente a los servidores públicos que ejerzan o controlen fondos públicos, de otorgar caución a favor de la entidad a la que laboren, las cuales no podrán ser liberadas en tanto no sea aprobada la cuenta pública o no exista liberación de responsabilidad por parte de la Auditoria Superior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1355,6 +1353,16 @@ Si la devolución se hubiera efectuado y no procediera, se causarán recargos en
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 76 Bis.
+
+La Secretaría de Planeación, Administración y Finanzas estará obligada a devolver las cantidades que hubiesen sido depositadas para garantizar las resultas de un juicio, cuando el Tribunal respectivo ordene expresamente la devolución de las cantidades, por no ser necesaria la fianza.
+
+La devolución de las cantidades a que se refiere el párrafo anterior deberá realizarse en un plazo máximo de diez días hábiles.
+
+Sólo deberá requerirse el billete de depósito en original y el acuerdo del Tribunal en que se autorice la cancelación del billete y la devolución del numerario. El billete de depósito deberá señalar el beneficiario de la devolución del numerario.
+
 #### SECCIÓN PRIMERA. De la Compensación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
@@ -1523,8 +1531,6 @@ Los interesados podrán autorizar por escrito, en cada caso, a persona que en su
 
 Las notificaciones de los citatorios, requerimientos, emplazamientos, solicitudes de informes o documentos y las de acuerdos o resoluciones administrativas que puedan ser recurridas, se harán:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 I. Personalmente o por mensaje de datos con acuse de recibo en el buzón tributario.
 
 La notificación electrónica de documentos digitales se realizará en el buzón tributario. Para tales efectos la Secretaría de Planeación, Administración y Finanzas podrá establecer reglas de carácter general.
@@ -1554,8 +1560,6 @@ III. Por edictos, en el caso de que la persona a quien deba notificarse hubiera 
 IV. Por estrados, cuando la persona a quien deba notificarse, desocupe, desaparezca o no sea localizable en el domicilio que hubiere señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante y en los demás casos que señalan las leyes fiscales y éste Código; o
 
 V. Por instructivo, en los casos a que se refiere el artículo 96 de este Código.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3051,7 +3055,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 19 DE FEBRERO DE 1998.
 
@@ -3146,6 +3150,12 @@ SEGUNDO. Todos los procedimientos que a la fecha de entrada en vigor del present
 TERCERO. Se derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente Decreto.
 
 CUARTO. Las reformas a las disposiciones relativas a las notificaciones mediante buzón tributario, previstas en los artículos 94 fracción I y 95 de éste Código, entrarán en vigor a partir del 02 de Enero de 2018. El diferimiento en la aplicación de la norma, no incluye las demás modalidades de notificación previstas en el numeral 94 de referencia. La Secretaría de Planeación, Administración y Finanzas, podrá emitir reglas de carácter general, para facilitar y precisar los procedimientos relativos al buzón tributario enunciado en los artículos ya mencionados, incluso para postergar el inicio de vigencia de las reformas a dichos preceptos.
+
+P.O. 4 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26441/LXI/17 QUE ADICIONA EL ARTÍCULO 76 BIS DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 ###### ARTICULO PRIMERO
 
