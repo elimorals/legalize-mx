@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-10-21"
+last_updated: "2017-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -645,9 +645,11 @@ VI. Los cambios climáticos persistentes y/o severos que modifican las condicion
 
 El ordenamiento ecológico de la Entidad y de las zonas sobre las que el Estado ejerce su soberanía y jurisdicción, se llevará a cabo a través de los planes de ordenamiento ecológico regionales y locales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 17.
 
-El plan de ordenamiento ecológico de la Entidad será formulado por la SEGAM, en los términos de la presente Ley, de los demás ordenamientos, disposiciones reglamentarias y normativas aplicables, y al efecto tendrá por objeto determinar:
+El Plan de Ordenamiento Ecológico de la Entidad será formulado o actualizado cada tres años por la SEGAM, en los términos de la presente Ley, de los demás ordenamientos, disposiciones reglamentarias y normativas aplicables, y al efecto tendrá por objeto determinar:
 
 I. La regionalización ecológica del territorio estatal y las diferentes políticas ambientales para el territorio del Estado, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales, así como de las actividades productivas que en ellas se desarrollen, además de la ubicación y situación de los asentamientos humanos existentes, y
 
@@ -709,11 +711,17 @@ Una vez recibida la opinión del Comité o transcurrido el plazo mencionado para
 
 Aprobado que fuere el ordenamiento ecológico, será publicado íntegramente o en su versión abreviada, en el Periódico Oficial de la Entidad, con el correspondiente decreto del titular del Ejecutivo del Estado. Para los efectos de contribuir al mejor conocimiento y fiel observancia de los programas de ordenamiento ecológico, las autoridades estatales y municipales podrán utilizar otros medios de divulgación, información y publicación. Los planes, programas y sus correspondientes decretos aprobatorios serán inscritos en el Registro Público de la Propiedad y del Comercio, remitiéndose al apéndice respectivo los planos y demás documentos anexos integrantes de los mismos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 26.
 
-Los municipios podrán definir los usos del suelo específicos dentro de su circunscripción territorial, los que deberán sujetarse a los planes de ordenamiento ecológico, entendiéndose el siguiente procedimiento:
+Los municipios definirán los usos del suelo específicos dentro de su circunscripción territorial, los que deberán sujetarse a los planes de ordenamiento ecológico, entendiéndose el siguiente procedimiento:
 
-I. En sesión de Cabildo, el Ayuntamiento acordará que se formule el correspondiente plan, así como la forma y términos en que éste se elabore;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+I. En la primera sesión ordinaria de cabildo de cada nueva administración, el ayuntamiento acordará que se formule o actualice el correspondiente plan de ordenamiento ecológico, así como la forma y términos en que éste se elabore.
+
+Para la elaboración del plan de ordenamiento ecológico se deberá observar lo previsto en el artículo 23 de este Ordenamiento;
 
 II. Una vez elaborado el plan, se consultará a la comunidad sobre éste en un plazo máximo de treinta días naturales, a través del Comité de Planeación y Desarrollo Municipal (COPLADEM) o los Consejos de Colaboración Municipal, o en cualquier otra forma idónea.
 
@@ -2357,11 +2365,15 @@ Para tal efecto, la SEGAM podrá promover el establecimiento de normas ambiental
 
 III. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 146.
 
-Los responsables del funcionamiento de una empresa podrán en forma voluntaria y concertada con la SEGAM, a través de la Auditoría Ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, así como de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente en la Entidad.
+Los responsables del funcionamiento de una empresa deberán realizar de manera obligatoria, durante el primer semestre de cada año y en forma concertada con la SEGAM, a través de la Auditoría Ambiental, el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, así como de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente en la Entidad.
 
-La SEGAM desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorías ambientales en el ámbito de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución, para tal efecto:
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+La SEGAM desarrollará programas dirigidos a obtener un reporte propio de las empresas y a la realización de auditorías ambientales en el ámbito de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución, para tal efecto:
 
 I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales, o de la forma y términos como se efectuará el propio reporte;
 
@@ -2371,11 +2383,15 @@ Para tal efecto, integrará un Comité Técnico Consultivo constituido por repre
 
 III. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
 
-IV. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias que se ubiquen en el territorio del Estado, que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
 
-V. Promoverá la creación de centros regionales de apoyo a la mediana, pequeña y micro industria, con el fin de facilitar la realización de auditorías en dichos sectores, y
+IV. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias que se ubiquen en el territorio del Estado, que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales, y
 
-VI. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales y de autoreporte industrial.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+V. Promoverá la creación de centros regionales de apoyo a la mediana, pequeña y micro industria, con el fin de facilitar la realización de auditorías en dichos sectores.
+
+VI. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2017)
 
 ###### ARTICULO 147.
 
@@ -2683,11 +2699,17 @@ Tratándose de delitos ambientales, como autoridad en la materia, la SEGAM deber
 
 En los términos del Código Penal, el Estado tiene derecho a la reparación del daño, a través del área estatal encargada de la ecología y gestión ambiental, en los casos de delitos contra el medio ambiente.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 177.
 
-Para el caso de la reparación del daño, la SEGAM expedirá dictamen técnico que evalúe el daño ambiental causado.
+Los responsables de ocasionar un daño ambiental o ecológico deberán presentar ante la Secretaría un estudio de daño ambiental, señalando los hábitats, ecosistemas, elementos y recursos naturales afectados; además deberá incluir las acciones de restauración y compensación que obligadamente deberá realizar.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+
+Por su parte la SEGAM, con base en la evaluación del estudio del daño, expedirá el dictamen técnico del daño ambiental causado, estableciendo la obligación al responsable de la reparación del daño, al estado o condición en la que se habrían hallado las áreas, recursos o elementos naturales afectados en el momento inmediato al daño y, en la medida en que esto no sea posible, determinará la compensación o el pago del daño ocasionado.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 Los lineamientos y requisitos para la expedición del dictamen al que se refiere el párrafo anterior, se establecerán en el Reglamento.
 
@@ -3048,3 +3070,27 @@ P.O. 21 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0738.- SE REFORMAN LOS ARTÍCULOS 17 Y 26 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 739.- SE REFORMA Y ADICIONA EL ARTÍCULO 177 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 740.- SE REFORMA EL ARTÍCULO 146 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
