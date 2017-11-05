@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2017-10-08"
+last_updated: "2017-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -555,7 +555,59 @@ Las empresas que se instalen en el Estado y se asocien con productores o inversi
 
 Las empresas recibirán apoyos adicionales, a través del sistema de incentivos, de conformidad con el nivel de promoción que realicen de los productos duranguenses, dentro y fuera del Estado.
 
-#### SECCIÓN ÚNICA. DEL EMPRENDIMIENTO JUVENIL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCION ÚNICA. DEL FOMENTO A LA PRODUCCIÓN DEL MEZCAL
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 47 BIS.
+
+La producción artesanal, ancestral e industrial y el comercio del Mezcal se fomentarán de manera sustentable, en atención a los convenios interinstitucionales con el Gobierno Federal, conforme a los programas sectoriales, en cumplimiento a lo dispuesto por los Planes Nacional y Estatal de Desarrollo, así como en las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 47 BIS 1.
+
+El Estado fomentará a través de la Secretaría la producción y comercialización del Mezcal en base a lo siguiente:
+
+I. Promover y fomentar, entre los productores, envasadores, comercializadores, distribuidores y asociaciones, en coordinación con los distintos órdenes de gobierno y el Consejo Mexicano Regulador de la Calidad del Mezcal, el cumplimiento de las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, la producción y comercialización, así como la autenticidad y calidad del Mezcal y de sus subproductos de forma regional;
+
+II. Promover la infraestructura para el desarrollo de empresas mezcaleras;
+
+II (SIC). Participar en la promoción de los mezcales duranguenses en el mercado local y nacional;
+
+V (SIC). Fomentar la organización y asociación de los productores de Mezcal del Estado;
+
+V (SIC). Impulsar la elaboración y ejecución de programas de capacitación entre los productores y asociaciones mezcaleras, con el apoyo de las instituciones de investigación y educación superior, en materia de investigación y transferencia tecnológica, sanidad y calidad;
+
+VI. Impulsar la comercialización del Mezcal y sus subproductos en mejores condiciones de mercado;
+
+VII. Participar activamente en el desarrollo económico del Estado de Durango, además de generar valor a la industria del Mezcal por medio de una estrategia de liderazgo en costo y de total calidad, para nuestros consumidores, generando cadenas de valor en todos los participantes de la producción de Mezcal;
+
+VIII. Aprovechar el potencial endógeno del Estado de Durango, para que los productores de Mezcal ejecuten las estrategias competitivas en su producción y aprovechen la cadena productiva, al generar más empleo y elevar su calidad de vida, y
+
+IX. Fomentar, desarrollar y reforzar la cadena productiva del Mezcal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 47 BIS 2.
+
+Para lograr el desarrollo del sector mezcalero la Secretaría empleará las siguientes estrategias:
+
+I.- Gestionar la participación ciudadana;
+
+II.- Promover los instrumentos para el financiamiento y apoyo técnico a los productores;
+
+III.- Propiciar el aseguramiento de la calidad del Mezcal;
+
+IV.- Establecer estrategias para posicionar al Mezcal de Durango como un Mezcal de calidad;
+
+V.- Promover campañas para crear conciencia del beneficio del Mezcal y la imagen de las diferentes casas mezcaleras;
+
+VI.- Fomentar, divulgar y promover la inversión nacional y extranjera en las actividades relacionadas con el sector mezcalero de Durango, y
+
+VII.- Fortalecer la competitividad de los mezcales estatales, fomentando el desarrollo de su producción y calidad.
 
 ## TÍTULO TERCERO. DEL EMPRENDIMIENTO
 
@@ -577,7 +629,7 @@ III. Vinculación a esquemas de incubadoras, grupos de ángeles inversionistas, 
 
 El Estado, por conducto de la Secretaría, y los municipios deberán impulsar la cultura emprendedora, que favorezca la formación y educación del espíritu empresarial, ya sea mediante acciones en los diferentes niveles del sistema educativo o bien a través de acciones dirigidas a la ciudadanía en general y en particular a los jóvenes, mujeres jefas de familia, adultos mayores, personas con discapacidad, indígenas y personas desempleadas.
 
-#### SECCIÓN ÚNICA. DEL PREMIO DURANGUENSE A LA EXCELENCIA EMPRESARIAL
+#### SECCIÓN ÚNICA. DEL EMPRENDIMIENTO JUVENIL
 
 ###### ARTÍCULO 50.
 
@@ -922,6 +974,8 @@ El Gobernador del Estado, a través de la Secretaría, promoverá la celebració
 ###### ARTÍCULO 73.
 
 El Presidente del Consejo podrá invitar a los representantes de las instituciones educativas estatales a participar en las sesiones del mismo, con la finalidad de que informen sobre la actualización de sus planes de estudios o la creación de nuevas áreas de estudio o profesiones. Los organismos empresariales informarán sobre los perfiles técnicos o profesionales que requieran sus áreas productivas.
+
+#### SECCIÓN ÚNICA. DEL PREMIO DURANGUENSE A LA EXCELENCIA EMPRESARIAL
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO PARA LA OBTENCIÓN DE INCENTIVOS FISCALES
 
@@ -1356,3 +1410,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 5 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205.- POR EL QUE SE EXPIDE LA SECCIÓN ÚNICA DEL FOMENTO A LA PRODUCCIÓN DEL MEZCAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. Las reformas a esta Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
