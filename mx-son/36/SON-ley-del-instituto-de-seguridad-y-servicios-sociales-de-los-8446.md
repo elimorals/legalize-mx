@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2015-11-26"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -1063,7 +1063,7 @@ Y LA SIGUIENTE EDAD REGULADOR
 
 El cómputo de los años de servicios se hará considerando uno solo de los empleos, en los casos en que el trabajador hubiese desempeñado simultáneamente varios, cualesquiera que fuesen; en consecuencia, para dicho cómputo se considerará por una sola vez el tiempo durante el cual haya tenido o tenga el interesado el carácter de trabajador.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 71.
 
@@ -1464,6 +1464,12 @@ X.- Obtener préstamos, créditos o financiamientos para aplicarlos a sus propio
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
 XI.- Las demás que le confieran esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 96 Bis.
+
+Para el Instituto, será obligatoria la atención de las mujeres embarazadas que presenten urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 ###### Artículo 97.
 
@@ -2230,3 +2236,15 @@ B.O. 26 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA Y A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La titular del Ejecutivo del Estado, a través del Secretario del Ramo, deberá de difundir entre las y los sonorenses, el derecho que tienen las mujeres embarazadas de recibir la asistencia médica necesaria, cuando se encuentren ante una urgencia obstétrica independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
