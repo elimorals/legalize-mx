@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2016-09-29"
+last_updated: "2017-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -503,7 +503,9 @@ LI. Una relación de los servidores públicos comisionados por cualquier causa, 
 
 LII. Los índices de expedientes clasificados como reservados, elaborados semestralmente y por rubros temáticos;
 
-LIII. La información desclasificada, la cual deberá de permanecer dos años posteriores a partir de que perdió su clasificación; y
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+LIII. La información desclasificada, la cual deberá permanecer cinco años posteriores a partir de que perdió su clasificación; y
 
 LIV. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
@@ -1323,9 +1325,15 @@ VII. Vulnere la conducción de los expedientes judiciales o los procedimientos a
 
 VIII. Se encuentre contenida dentro de las investigaciones de hechos que la ley señale como delitos y se tramiten ante la Fiscalía General del Estado;
 
-IX. La contenida en las revisiones y auditorías realizadas directa o indirectamente por los órganos de control o de fiscalización estatales, hasta en tanto se presenten ante la autoridad competente las conclusiones respectivas y haya definitividad en los procedimientos consecuentes; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-X. Las demás contenidas en la Ley General.
+IX. Las que por disposición expresa de una ley tengan tal carácter, siempre que sean acordes con las bases, principios y disposiciones establecidos en esta Ley y no la contravengan; así como las previstas en tratados internacionales.
+
+(NOTA: EL 22 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2016 Y SUS ACUMULADAS 93/2016 Y 95/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+X. LA CONTENIDA EN LAS REVISIONES Y AUDITORÍAS REALIZADAS DIRECTA O INDIRECTAMENTE POR LOS ÓRGANOS DE CONTROL O DE FISCALIZACIÓN ESTATALES, HASTA EN TANTO SE PRESENTEN ANTE LA AUTORIDAD COMPETENTE LAS CONCLUSIONES RESPECTIVAS Y HAYA DEFINITIVIDAD EN LOS PROCEDIMIENTOS CONSECUENTES; Y
+
+XI. Las demás contenidas en la Ley General.
 
 No podrá invocarse el carácter de reservada cuando se trate de información relativa a la investigación de violaciones a los derechos humanos, delitos de lesa humanidad o se trate de información relacionada con actos de corrupción, de acuerdo con las leyes aplicables. Asimismo, la autoridad deberá preparar versiones públicas de todos los supuestos previstos en el presente artículo.
 
@@ -1391,7 +1399,9 @@ II. Por ley tenga el carácter de pública;
 
 III. Exista una orden judicial;
 
-IV. Por razones de seguridad nacional y salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+IV. Por razones de salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
 
 V. Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
 
@@ -1567,7 +1577,7 @@ Las ausencias temporales menores a sesenta días naturales de los Comisionados y
 
 I. Las ausencias del Comisionado Presidente serán suplidas por el Comisionado que él designe, lo que deberá notificar con cuarenta y ocho horas de anticipación. A falta de notificación o en casos urgentes, ante la ausencia del Comisionado Presidente, los Comisionados designarán de entre ellos a quien ejercerá la suplencia;
 
-II. Las ausencias de los Comisionados menores a sesenta días deberán ser suplidas, cuando se tenga conocimiento de ellas, por el Secretario de Estudio y Cuenta, adscrito a su ponencia, que ellos designen, o si lo prefieren por el Secretario de Acuerdos. A falta de designación, la misma se hará por el Comisionado Presidente y recaerá en alguna de las personas antes señaladas; y
+II. (DEROGADA, G.O. 6 DE NOVIEMBRE DE 2017)
 
 III. En caso de ausencias mayores a sesenta días, el Congreso del Estado nombrará a quien le sustituya, ya sea en forma interina o en definitiva, según sea el caso. Los suplentes de los Comisionados no podrán ser designados Comisionado Presidente.
 
@@ -1965,7 +1975,7 @@ El Secretario Ejecutivo deberá ser ciudadano veracruzano, mayor de treinta y ci
 
 El Secretario Ejecutivo tendrá las atribuciones siguientes:
 
-I. Representar legalmente al Instituto ante toda clase de autoridades civiles, administrativas, fiscales, penales, militares o de cualquier otra índole; ante funcionarios o servidores públicos, ya sea federales, estatales o municipales; nacionales y extranjeras; y ante cualquier persona física o moral, nacional o extranjera; y delegar esta función en el servidor público que designe, mediante acuerdo escrito;
+I. (DEROGADA, G.O. 6 DE NOVIEMBRE DE 2017)
 
 II. Asistir a las sesiones del Pleno, con derecho a voz, pero sin voto;
 
@@ -2015,7 +2025,7 @@ XXI. Elaborar, para aprobación del Pleno, proyectos sobre la fijación de los s
 
 XXII. Ejecutar las políticas y programas institucionales de administración y operación de corto, mediano y largo plazos, que apruebe el Pleno, que garanticen el funcionamiento expedito, eficaz y eficiente de las áreas administrativas;
 
-XXIII. Representar al Instituto en los asuntos que apruebe el Pleno;
+XXIII. (DEROGADA, G.O. 6 DE NOVIEMBRE DE 2017)
 
 XXIV. Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes del Instituto, para el cumplimiento de su objeto;
 
@@ -2033,7 +2043,9 @@ XXX. Aprobar el otorgamiento de licencias, no mayores a tres días, sin que pued
 
 XXXI. Ordenar el despacho de los asuntos que, de conformidad con sus respectivas competencias, correspondan al Secretario de Acuerdos y a los titulares de las demás áreas administrativas del Instituto;
 
-XXXII. Realizar y actualizar, en calidad de representante legal del Instituto y ejecutor de sus programas administrativos, los trámites de renovación, reservas de derechos y licencias de uso de derechos exclusivos y demás, ante el Instituto Nacional de Derechos de Autor de la Secretaría de Educación Pública, respecto de las actividades y bienes del Instituto que lo requieran, con el auxilio de cada una de las áreas administrativas responsables de la actividades o bienes;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXII. Realizar y ejecutar, los trámites de renovación, reservas de derechos y licencias de uso de derechos exclusivos y demás, ante el Instituto Nacional de Derechos de Autor de la Secretaría de Educación Pública, respecto de las actividades y bienes del instituto que lo requieran, con el auxilio de cada una de las áreas administrativas responsables de la (sic) actividades o bienes;
 
 XXXIII. Remitir a la Secretaría de Gobierno, para su publicación en la Gaceta Oficial del Estado, los acuerdos del Pleno que deban ser difundidos por ese medio;
 
@@ -2731,7 +2743,7 @@ I. Nombre del solicitante o, en su caso, los datos generales de su representante
 
 II. Domicilio o medio para recibir notificaciones, pudiendo ser mediante correo electrónico;
 
-III. La descripción de los documentos o registros en los que se supone pueda localizarse la información solicitada;
+III. (DEROGADA, G.O. 6 DE NOVIEMBRE DE 2017)
 
 IV. Cualquier otro dato que, a juicio del requirente, facilite la ubicación de la información; y
 
@@ -2741,7 +2753,15 @@ La información de las fracciones I y IV será proporcionada por el solicitante 
 
 En su caso, el solicitante señalará el formato accesible o la lengua indígena en la que se requiera la información.
 
-Si los datos contenidos en la solicitud fuesen insuficientes o erróneos, la Unidad de Transparencia requerirá, por una vez y dentro de los cinco días hábiles siguientes a la recepción de la solicitud, que se aporten más elementos o se corrijan los datos originalmente proporcionados. En caso de no obtener respuesta dentro de los tres días hábiles siguientes, se desechará la solicitud. Este requerimiento interrumpirá el término establecido en el artículo 145. Una vez que el particular dé cumplimiento, se iniciará nuevamente el procedimiento en los términos previstos en esta Ley.
+Si los datos contenidos en la solicitud fuesen insuficientes o erróneos, la Unidad de Transparencia requerirá, por una vez y dentro de los cinco días hábiles siguientes a la recepción de la solicitud, que se aporten más elementos o se corrijan los datos originalmente proporcionados.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES SEGUNDA PARTE DEL PÁRRAFO QUINTO], G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+En caso de no obtener respuesta dentro de los diez días hábiles siguientes, se desechará la solicitud. Este requerimiento interrumpirá el término establecido en el artículo 145. Una vez que el particular dé cumplimiento, se iniciará nuevamente el procedimiento en los términos previstos en esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+La solicitud se tendrá por no presentada cuando los solicitantes no atiendan el requerimiento de información adicional. En el caso de requerimientos parciales no desahogados, se tendrá por presentada la solicitud por lo que respecta a los contenidos de información que no formaron parte del requerimiento.
 
 En ningún caso la entrega de la información se condicionará a que se motive o justifique su utilización ni se requerirá demostrar interés jurídico alguno.
 
@@ -2953,7 +2973,9 @@ No podrá prevenirse por el nombre que proporcione el solicitante.
 
 Son partes en el recurso de revisión:
 
-I. El recurrente o su representante legal; y
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+I. El recurrente; y
 
 II. El sujeto obligado.
 
@@ -3135,7 +3157,9 @@ II. En caso de que un Comisionado advierta que se encuentra en alguno de los sup
 
 III. El Comisionado ponente al que se le haya turnado estudiará el recurso y determinará si cumple con los requisitos que prevé el artículo 159 de esta Ley y mediante proveído podrá:
 
-a) Requerir al recurrente o a su representante legal para que, en un plazo de cinco días hábiles siguientes al en que surta efectos la notificación, subsane la omisión de alguno de los requisitos que refiere el artículo 159. La prevención tendrá el efecto de interrumpir el plazo que tiene el Instituto para resolver el recurso;
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+a) Requerir al recurrente para que, en un plazo de cinco días hábiles siguientes al en que surta efectos la notificación, subsane la omisión de alguno de los requisitos que refiere el artículo 159. La prevención tendrá el efecto de interrumpir el plazo que tiene el instituto para resolver el recurso;
 
 b) Al admitir el recurso, el Comisionado ponente deberá integrar el expediente y ponerlo a disposición de las partes, adjuntando copia debidamente cotejada y sellada de éste, así como de sus anexos, para que en un término de siete días manifiesten lo que a su derecho convenga y ofrezcan todo tipo de pruebas y alegatos.
 
@@ -3169,13 +3193,17 @@ III. Proporcionalidad: El equilibrio entre perjuicio y beneficio a favor del int
 
 En la sustanciación del recurso de revisión debe privilegiarse el uso de los medios electrónicos de comunicación, evitando el dispendio de recursos públicos, disminuyéndose la utilización de altos volúmenes de papel, copias y otros medios de reproducción.
 
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 195.
 
-Los recursos de revisión presentados por correo electrónico o plataforma nacional después de las dieciocho horas o en día y hora inhábiles, se tendrán por presentados el día hábil siguiente.
+Los recursos de revisión presentados por correo electrónico o plataforma nacional en día inhábil, se tendrán por presentados el día hábil siguiente.
+
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 196.
 
-El recurrente podrá desistirse del recurso en cualquier momento, hasta antes de dictarse resolución. En caso de tratarse del recurrente común, el desistimiento de éste no surte efecto para todos sus representados, a quienes se notificará del desistimiento y contarán con un plazo de tres días, a partir del siguiente al de la notificación, para ratificarlo expresamente o continuar con el procedimiento, apercibidos de que, de no dar respuesta, se les tendrá por desistidos.
+El recurrente podrá desistirse del recurso en cualquier momento, hasta antes de dictarse resolución.
 
 ###### Artículo 197.
 
@@ -3517,7 +3545,9 @@ El domicilio o correo electrónico podrán variarse o señalarse, si no lo han h
 
 II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. El oficio también podrá ser entregado a los titulares de las Unidades de Transparencia o, en su caso, al titular del propio sujeto obligado;
 
-III. Por lista de acuerdos, en la que se omitirán los datos personales del recurrente, representante legal o representante común;
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+III. Por lista de acuerdos, en la que se omitirán los datos personales del recurrente o representante común;
 
 IV. Por comparecencia, cuando las partes acudan directamente al Instituto y siempre que no se haya efectuado la notificación personal o por oficio; y
 
@@ -3535,7 +3565,9 @@ Cuando las partes omitan señalar domicilio para oír y recibir toda clase de no
 
 Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado ante el Instituto en el procedimiento. En todo caso, el notificador deberá cerciorarse del domicilio del interesado y deberá entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
-Las notificaciones personales se entenderán con la persona que deba ser notificada o con su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+Las notificaciones personales se entenderán con la persona que deba ser notificada; el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
 
 Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o, en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio.
 
@@ -3766,3 +3798,13 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 303 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
