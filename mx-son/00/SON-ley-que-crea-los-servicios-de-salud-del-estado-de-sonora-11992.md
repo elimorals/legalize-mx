@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-los-servicios-de-salud-del-estado-de-sonora-11992"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-10"
-last_updated: "2009-06-04"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Número 20 del Boletín Oficial del Estado de Sonora, el lunes 10 de marzo de 1997.
 
@@ -97,9 +97,11 @@ I. La Junta de Gobierno; y
 
 II. El Presidente Ejecutivo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 5o.
 
-La Junta de Gobierno funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente.
+La Junta de Gobierno funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el presidente o, en su caso, su suplente.
 
 Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
@@ -125,7 +127,9 @@ V.- Por un representante de los trabajadores que será designado por el Comité 
 
 El Presidente podrá invitar a las sesiones de dicho órgano a representantes de los sectores público, privado y social, que guarden relación con el objeto del organismo.
 
-Por cada miembro propietario habrá un suplente, con excepción del Presidente.
+> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+Por cada miembro propietario habrá un suplente.
 
 Los cargos en la Junta de Gobierno serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
 
@@ -316,3 +320,11 @@ B.O. 4 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 169, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA LOS SERVICIOS DE SALUD".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
