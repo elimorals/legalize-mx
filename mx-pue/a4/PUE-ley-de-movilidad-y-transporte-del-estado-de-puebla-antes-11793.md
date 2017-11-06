@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2017-08-03"
+last_updated: "2017-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -221,8 +223,6 @@ LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 2.
@@ -233,11 +233,17 @@ Las autoridades competentes para la interpretación y observación de la present
 
 La Secretaría, será competente para interpretar, ejercer, observar y aplicar las atribuciones y obligaciones previstas en el artículo 10 y demás disposiciones de la presente Ley y sus Reglamentos, relativas en materia de supervisión, vigilancia y revisión.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2017)</small>
+Cuando la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Infraestructura, Movilidad y Transportes del Estado de Puebla y cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
 
-Cuando en la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Infraestructura, Movilidad y Transportes del Estado de Puebla y cuando se refiera a la Contraloría, se entenderá a la Secretaría de la Contraloría. Asimismo cuando se haga referencia en ésta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+No producirá ningún efecto la declaración hecha por el concesionario, permisionario o por las Empresas de Redes de Transportes y demás sujetos regulados en esta Ley, en las condiciones de uso del servicio respectivo o acto análogo, que limite su responsabilidad civil, penal o administrativa, con motivo de la realización de las actividades reguladas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+La disposición anterior se observará, no obstante la aceptación expresa o tácita que realicen los usuarios respecto de la prestación del servicio.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -255,43 +261,45 @@ Son autoridades en materia del transporte, en el ámbito de competencia que corr
 
 I.- El Gobernador del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 II.- De la Secretaría de Infraestructura, Movilidad y Transportes del Estado:
-
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
 a) El Secretario de Infraestructura, Movilidad y Transportes;
 
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
 b) El Subsecretario de Movilidad y Transportes;
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-c) El Director General Jurídico;
+c) El Coordinador General Jurídico;
 
-> <small>(ADICIONADO, P.O. 28 E AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-d) El Director General de Operación del Transporte;
+d) El Coordinador General Técnico de Movilidad y Transporte;
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-e) El Director de Supervisión y Vigilancia;
+e) El Director de Operación al Transporte;
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-f) El Director de Administración de Concesiones y Permisos; y
+f) El Director de Administración de Concesiones y Permisos;
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-g) El Director de Ingeniería y Planeación del Transporte.
+g) El Director de Ingeniería y Planeación del Transporte;
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+h) El Director de Licencias y Capacitación, y
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+i) El Director de Movilidad.
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -301,9 +309,7 @@ a) El Director General; y
 
 b) El Director de Transporte Masivo.
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-IV.- Carreteras de Cuota-Puebla, que será competente respecto del Sistema de Transporte Público Masivo.
+IV.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
 V.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -328,8 +334,6 @@ III.- La Secretaría y Carreteras de Cuota-Puebla, para el cumplimiento de esta 
 IV.- Intervenir el Servicio Público de Transporte, con apego a las disposiciones legales aplicables; y
 
 V.- Las demás que le conceda la presente Ley y sus Reglamentos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
@@ -405,8 +409,6 @@ XVI.- Las demás que les otorguen la presente Ley, sus Reglamentos y demás disp
 
 ARTICULO 6 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 7.
@@ -449,21 +451,17 @@ Los servidores públicos a que se refiere este artículo, deberán ser rotados c
 
 Los supervisores tendrán las siguientes atribuciones y obligaciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013) (F. DE E., P.O. 7 DE FEBRERO DE 2014)
+I.- La supervisión, vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte, al Servicio Mercantil y al Servicio Ejecutivo que circulen en la infraestructura vial; así como de los Servicios Auxiliares;
 
-I.- La supervisión, vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial; así como de los Servicios Auxiliares;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-II.- Revisar la documentación necesaria que deben portar los operadores de las unidades, para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
+II.- Revisar la documentación necesaria que deban portar los operadores de las unidades, para la prestación del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-III.- Practicar inspecciones a los vehículos del Servicio Público de Transporte y el Servicio Mercantil;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+III.- Practicar inspecciones a los vehículos del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -473,9 +471,9 @@ IV.- Ejecutar las disposiciones que emitan las autoridades del transporte del Es
 
 V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-VI.- Elaborar las boletas de infracciones a los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando infrinjan la presente Ley y sus Reglamentos;
+VI.- Elaborar las boletas de infracción a los conductores de los vehículos del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo, cuando infrinjan la presente Ley y su Reglamento;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -488,8 +486,6 @@ VIII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
 IX.- Someterse a las pruebas, estudios o exámenes de control de confianza que establezca la Secretaría; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -547,9 +543,9 @@ El Servicio a que se refiere el párrafo anterior se prestará:
 
 Este servicio no estará sujeto a itinerarios, rutas, frecuencias de paso ni a horarios fijos.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 12 BIS.- Para efectos de esta Ley, se entenderá como Empresa de Redes de Transporte aquellas sociedades mercantiles nacionales que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global y de pagos electrónicos, medien el acuerdo entre usuarios y prestadores del Servicio Ejecutivo entre particulares, a través de aplicaciones en teléfonos móviles, y cuyos esquemas tarifarios serán determinados por la misma.
+ARTICULO 12 BIS.- Para efectos de esta Ley, se entenderá como Empresa de Redes de Transporte a las Sociedades Mercantiles Nacionales cuyo objeto sea la prestación del Servicio Ejecutivo, mediante la administración y operación de aplicaciones y plataformas informáticas, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global y de pagos electrónicos, cuyos esquemas tarifarios serán determinados por la misma.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -845,9 +841,17 @@ ARTICULO 36 BIS.- Los vehículos del Servicio Ejecutivo, que se registren ante l
 
 I. Placas de circulación del Estado de Puebla y calcomanías Alfanuméricas;
 
-II. Tarjeta de circulación y el documento que acredite su registro ante la Empresa de Redes de Transporte;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-III. Copia de la Póliza de Seguro con cobertura amplia.
+II.- Tarjeta de circulación;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+III.- Copia de la Póliza de Seguro con cobertura amplia, y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+IV.- Cédula de identificación del Servicio Ejecutivo.
 
 Los vehículos a que se refiere este artículo, deberán tener una antigüedad máxima de cinco años para su registro. Asimismo, estar al corriente en el pago de sus obligaciones fiscales y cumplir con las demás disposiciones de carácter legal y administrativo a que estén obligados sus propietarios.
 
@@ -961,19 +965,25 @@ ARTICULO 45 BIS.- Los exámenes médicos y toxicológicos, para la expedición, 
 
 La Secretaría, mediante Reglas de Carácter General publicadas en el Periódico Oficial del Estado, dará a conocer las Instituciones Públicas o Privadas que realizarán dichos exámenes y expedirán los documentos para este efecto.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 45 TER.- Los conductores particulares que se registren ante las Empresas de Redes de Transporte, deberán acreditar ante las mismas:
+ARTICULO 45 TER.- Las Empresas de Redes de Transporte, deberán acreditar ante la Secretaría, que los conductores que registren para la prestación del servicio cuentan con lo siguiente:
 
-I. Contar con Licencia de Conducir Vigente, la que deberán portar invariablemente durante la prestación del Servicio,
+I.- Licencia de automovilista, la que deberán portar invariablemente durante la prestación del servicio;
 
-II. Contar con Registro Federal de Contribuyentes,
+II.- Clave Única del Registro Nacional de Población;
 
-III. No contar con Antecedentes Penales, y
+III.- Constancia de No Antecedentes Penales, la cual deberán actualizar de forma semestral;
 
-IV. Aprobar los exámenes toxicológicos, psicométricos, psicológicos y de conocimientos que aplique la empresa.
+IV.- Constancia que acredite que fueron aprobados en al menos, los siguientes exámenes: Valoración Toxicológica, Pruebas Psicológicas y Psicométricas e Investigación Socioeconómica.
 
-La vigilancia y comprobación del cumplimiento de los requisitos antes señalados corresponde a la Empresa de Redes de Transporte.
+La aplicación de los exámenes a que se refiere el párrafo anterior, deberá ser realizada por una institución pública o privada debidamente acreditada para dicha actividad.
+
+En adición a lo anterior, las Empresas de Redes de Transporte deberán asegurarse que, respecto de cada conductor particular que desee prestar el Servicio Ejecutivo, se realice, mediante un tercero contratado por éstas, una búsqueda de antecedentes en bases de datos multijurisdiccionales públicas disponibles, y
+
+V.- Constancia que acredite que se encuentran capacitados en materia de igualdad de género, no discriminación y derechos humanos, por alguna institución oficial en el Estado.
+
+La vigilancia y comprobación del cumplimiento de los requisitos antes señalados corresponde a las Empresas de Redes de Transporte. En el caso de que los conductores no cumplan con la totalidad de los mismos, las empresas no podrán registrarlos como prestadores del servicio.
 
 ## TITULO CUARTO. DE LAS CONCESIONES Y LOS PERMISOS PARA EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
 
@@ -990,8 +1000,6 @@ Corresponde al Gobierno del Estado a través de la Secretaría y de Carreteras d
 ###### ARTICULO 47.
 
 Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los permisos o autorizaciones para la prestación de los servicios a que se refiere esta Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2017)</small>
 
@@ -1093,9 +1101,25 @@ II. Renuncia expresa de la Empresa;
 
 III. Incumplimiento notificado por la Secretaría a la Empresa y no subsanado el mismo por ésta última, durante los veinte días naturales siguientes a la fecha de recepción de dicha notificación;
 
-IV. Liquidación de la Empresa; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-V. Cancelación del registro por parte de la Autoridad competente.
+IV.- Liquidación de la empresa;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+V.- Cancelación del registro por parte de la autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+VI.- El incumplimiento del pago en tiempo y forma, de las contribuciones y aportaciones a que esté obligada la empresa, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+Para efectos del párrafo anterior, la Secretaría podrá, en todo momento, verificar el número de viajes realizados, así como el importe correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+Por razones de interés público podrá decretarse la cancelación del registro a que se refiere la fracción V de este artículo, con prescindencia de que el titular de los derechos derivados, incumpla o no obligaciones legales, reglamentarias o generales.
 
 ###### ARTICULO 56.
 
@@ -1226,8 +1250,6 @@ III.- Poder Notarial que especifique, las facultades otorgadas a los representan
 IV.- Plano de la ruta o zona de que se trate y croquis de las calles comprendidas en el itinerario así como el recorrido, con el señalamiento del lugar elegido para establecer la base, terminal o sitio, que se indican en la solicitud, según sea el caso;
 
 V.- Proyecto de horarios, frecuencias de paso, itinerarios y demás características propias del servicio de que se trate;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
@@ -1533,19 +1555,21 @@ Cuando con posterioridad al registro del vehículo del Servicio Público de Tran
 
 ### CAPÍTULO V. LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS Y DE LAS EMPRESAS DE REDES DE TRANSPORTE
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 85.
 
-Los concesionarios y los permisionarios, tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con apego a las políticas de equidad de género y respeto a los derechos humanos, con su sujeción a las disposiciones de la presente Ley y su Reglamento, y demás disposiciones legales aplicables.
+Los concesionarios, los permisionarios y las Empresas de Redes de Transporte tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento, o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sea eficiente, segura y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos, con sujeción a las disposiciones de la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+También deberán realizar campañas informativas para prevenir la violencia de género, la discriminación o violación de derechos humanos.
 
-ARTICULO 85 BIS.- Los concesionarios y los permisionarios, tendrán en todo tiempo, a través de los medios que disponga la Secretaría, la obligación de informar a la autoridad competente, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación del Servicio Público de Transporte y del Servicio Mercantil.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+ARTICULO 85 BIS.- Los concesionarios, los permisionarios y las Empresas de Redes de Transporte, tendrán en todo momento, la obligación de informar a la autoridad competente, a través de los medios que disponga la Secretaría, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación o prestación del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo.
 
-Los conductores o chóferes a que se refiere el párrafo anterior, no podrán conducir los vehículos destinados al Servicio Público de Transporte o al Servicio Público Mercantil, hasta que se informe a la autoridad competente. La información respectiva deberá actualizarse cada tres meses a la autoridad competente y en cada caso concreto, cuando las circunstancias lo requieran. La inobservancia de esta disposición tendrá como consecuencia la revocación de la concesión o la cancelación del permiso.
+Los conductores o choferes a que se refiere el párrafo anterior, no podrán conducir los vehículos destinados al Servicio Público de transporte, al Servicio Público Mercantil o al Servicio Ejecutivo, hasta que se informe a la autoridad competente. La información respectiva deberá actualizarse por lo menos una vez al mes ante la autoridad correspondiente y en cada caso concreto, cuando las circunstancias lo requieran. La inobservancia de esta disposición tendrá como consecuencia la revocación de la concesión, la cancelación del permiso o la conclusión del registro.
+
+Las autoridades del transporte podrán, en todo momento, supervisar y vigilar el cumplimiento de la obligación a que hace referencia el párrafo anterior de conformidad con lo previsto en la presente Ley, su Reglamento y las reglas que para tales efectos se publiquen en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
@@ -1613,7 +1637,9 @@ ARTICULO 92 QUATER.- Las Empresas de Redes de Transportes a que se refiere el ar
 
 I.- Registrarse ante la Secretaría, proporcionando la documentación siguiente:
 
-a) Acta constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos con cláusula de admisión de extranjeros, cuyo objeto social incluya entre otros, desarrollo de programas de cómputo o la prestación de servicios tecnológicos de su propiedad o de sus subsidiarias o filiales, que sirvan como intermediación entre particulares para realizar el servicio a que se refiere el artículo el artículo (sic) 12 fracción V Apartado D de la presente Ley;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+a) Acta constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos con cláusula de admisión de extranjeros, cuyo objeto social incluya entre otros, desarrollo de programas de cómputo o prestación de servicios tecnológicos de su propiedad o sus subsidiarias o filiales, mediante el cual se preste el servicio a que se refiere el artículo 12 fracción V Apartado D de la presente Ley;
 
 b) Documento que acredite la designación del representante legal;
 
@@ -1625,11 +1651,107 @@ II.- Entregar a la Secretaría, copia de la declaración fiscal del ejercicio in
 
 III.- Demostrar ante la Secretaría con documento idóneo, ser propietaria, subsidiaria o licenciataria de aplicaciones que le permita operar como Empresa de Redes de Transporte,
 
-IV.- Proporcionar a la Secretaría, de conformidad con las disposiciones contenidas en las Reglas de Carácter General, el registro de sus conductores debidamente certificados a que se refiere el artículo 45 Ter de esta Ley; de los vehículos con los que se presta el Servicio Ejecutivo, así como de la cantidad de servicios que se presten en dicha modalidad,
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-V.- Cubrir las contribuciones y aportaciones que se establezcan en las disposiciones legales fiscales del Estado, y
+IV.- Proporcionar a la Secretaría, de manera mensual, el registro de sus conductores debidamente certificados a que se refiere el artículo 45 Ter de esta Ley; de los vehículos con los que se presta el Servicio Ejecutivo y la cantidad de servicios que se presten en dicha modalidad;
 
-VI.- Las demás que señalen las disposiciones legales aplicables y las Reglas de Carácter General.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+V.- Cubrir las contribuciones y aportaciones que se establezcan en las disposiciones legales fiscales del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Atender todos los requerimientos de la autoridad competente, en razón de seguridad o investigación, permitiendo el acceso a las tecnologías de teléfonos inteligentes, sistemas de posicionamiento global y plataformas tecnológicas que utilicen para la prestación del servicio, en el caso a que se refieren esos requerimientos, para obtener la información necesaria para desarrollar sus funciones.
+
+Será causa de cancelación del registro, alterar de cualquier forma la información contenida en las plataformas tecnológicas de las Empresas de Redes de Trasporte (sic);
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Vigilar que los usuarios concluyan los viajes para los cuales solicitaron el servicio y en caso de que no se pueda verificar la conclusión oportuna, deberán informar de inmediato a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+VIII.- Establecer una política clara de no discriminación, que deberán mantener accesible a usuarios y prestadores del Servicio Ejecutivo. La Empresa de Redes de Transporte implementará medidas de cero tolerancia en el quebranto de dicha política;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Suministrar a usuarios y conductores información que ayude a evitar la violencia de género y la discriminación y fomente la conservación de los derechos humanos, a efecto de crear conciencia sobre dichos temas en la totalidad de personas que utilicen la plataforma tecnológica mediante la cual se preste el Servicio Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+X.- Para proteger la seguridad de los usuarios del Servicio Ejecutivo, las Empresas de Redes de Transporte, deberán, en todos y cada uno de los viajes realizados, suministrar la siguiente información al usuario:
+
+A.- Con anterioridad al inicio del viaje y tan pronto el servicio sea solicitado, la Empresa de Redes de Transporte deberá asegurarse que el usuario reciba la información correspondiente siguiente:
+
+1.- El nombre del conductor que prestará el Servicio Ejecutivo de transporte;
+
+2.- Fotografía del conductor que está prestando el Servicio Ejecutivo de transporte;
+
+3.- El número de placa del vehículo a través del cual se prestará el Servicio Ejecutivo;
+
+4.- La marca y el modelo del vehículo a través del cual se prestará el Servicio Ejecutivo;
+
+5.- La tarifa estimada del viaje;
+
+6.- Calificación acumulada, otorgada por otros usuarios al prestador del Servicio Ejecutivo en cuestión, y
+
+7.- El tiempo estimado en que el prestador del Servicio Ejecutivo tardará en llegar al punto de partida.
+
+La información señalada en los numerales 1 al 5, será puesta a disposición del usuario durante la totalidad de la prestación del Servicio Ejecutivo de transporte en cuestión.
+
+Para efectos de lo establecido en el numeral 6, las Empresas de Redes de Transporte facilitarán y promoverán sistemas de evaluación y retroalimentación entre usuarios y conductores de la aplicación tecnológica mediante la cual se preste el Servicio Ejecutivo.
+
+B.- Una vez iniciado el Servicio Ejecutivo y durante la prestación del mismo hasta su fin, la Empresa de Redes de Transporte deberá informar al usuario:
+
+1.- La duración estimada por el viaje, y
+
+2.- El recorrido del viaje, en tiempo real, mediante sistemas de localización satelital que arroje el dispositivo móvil del prestador del Servicio Ejecutivo.
+
+C.- Sin perjuicio de lo anterior, las Empresas de Redes de Transporte deberán asegurarse que se habiliten mecanismos tanto de alertamiento en caso de amenaza o riesgo para el usuario y/o el conductor, el cual avise de manera inmediata a la empresa y a un contacto previamente establecido, así como de seguimiento para que, en cualquier momento durante el trayecto, el usuario pueda compartir, si lo desea, información de su viaje, en tiempo real, con quien éste decida, a través de su dispositivo móvil. Dicha información deberá ser, por lo menos, la siguiente:
+
+1.- Aviso de inicio y de finalización del viaje en cuestión;
+
+2.- El nombre del conductor que está prestando el Servicio Ejecutivo de Transporte;
+
+3.- Fotografía del conductor que está prestando el Servicio Ejecutivo de Transporte;
+
+4.- El número de placa del vehículo a través del cual se está prestando el Servicio Ejecutivo;
+
+5.- La marca y el modelo del vehículo a través del cual se prestará el Servicio Ejecutivo, y
+
+6.- El recorrido del viaje, en tiempo real, mediante sistemas de localización satelital que arroje el dispositivo móvil del prestador del Servicio Ejecutivo.
+
+D.- Una vez concluido el Servicio Ejecutivo de Transporte, la Empresa de Redes de Transporte se asegurará que el usuario reciba, mediante el correo electrónico registrado por dicho usuario, un extracto del viaje completado, mismo que deberá incluir, por lo menos, la siguiente información:
+
+1.- Fecha en que se realizó el viaje;
+
+2.- Precio total cobrado al usuario;
+
+3.- Tiempo total del traslado y número de kilómetros recorridos;
+
+4.- Punto de inicio de recorrido y punto de destino;
+
+5.- Hora de inicio y hora de finalización del viaje, y
+
+6.- Nombre y fotografía del prestador del Servicio Ejecutivo correspondiente.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Las Empresas de Redes de Transporte deberán asegurar la existencia de un registro, en los sistemas tecnológicos de la compañía, que resguarde la totalidad de viajes realizados por los prestadores del Servicio Ejecutivo relacionados a la aplicación tecnológica que aquéllas promuevan, así como la totalidad de la información mencionada en la fracción X anterior, por un mínimo de dos años a partir de la finalización de cada viaje.
+
+De igual forma, las Empresas de Redes de Transporte deberán garantizar que cada usuario de la aplicación tecnológica en cuestión y cada prestador del Servicio Ejecutivo relacionado con la misma, tendrán acceso a su propio historial de viajes o servicios;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Poner a disposición de los usuarios un sistema de comunicación seguro y anónimo de llamadas y mensajes de texto dentro de la aplicación mediante la cual se preste el Servicio Ejecutivo, con el objetivo de establecer comunicación entre prestador del Servicio Ejecutivo y usuario, para, entre otras cosas, acordar puntos de inicio de recorrido en lugares seguros;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Verificar que se encuentren vigentes y actualizados los requisitos a que hace referencia el artículo 45 Ter de la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XIV.- Las demás que señalen las disposiciones legales aplicables y las Reglas de Carácter General.
 
 ## TITULO QUINTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE ESTATAL
 
@@ -1949,7 +2071,7 @@ La frecuencia de paso, es el lapso que deben respetar en su itinerario los vehí
 
 El horario, es el tiempo de inicio y término para la prestación del Servicio Público de Transporte y del Servicio Mercantil, previamente determinado por la autoridad competente.
 
-N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA AL PRESENTE ARTÍCULO PUBLICADA EN EL P.O. 10 DE JUNIO DE 2014, SE ADVIERTE QUE CONFORME A LO COMPILADO, EL ARTÍCULO NO CONTABA CON FRACCIONES DESDE SU TEXTO ORIGINAL.
+> <small>[N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA AL PRESENTE ARTÍCULO PUBLICADA EN EL P.O. 10 DE JUNIO DE 2014, SE ADVIERTE QUE CONFORME A LO COMPILADO, EL ARTÍCULO NO CONTABA CON FRACCIONES DESDE SU TEXTO ORIGINAL.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
 
@@ -2023,7 +2145,7 @@ Contra la declaración o acuerdo de rescate o intervención que emita la autorid
 
 El Recurso de Reconsideración, se interpondrá por escrito ante la autoridad que haya emitido el acto que se recurra, dentro de los quince días hábiles siguientes a la notificación del acto recurrible y contendrá:
 
-l. Nombre del titular de la concesión, así como domicilio en la Ciudad de Puebla para recibir notificaciones, si este no se señala, se practicarán por lista;
+I. Nombre del titular de la concesión, así como domicilio en la Ciudad de Puebla para recibir notificaciones, si este no se señala, se practicarán por lista;
 
 II. Documentos que acrediten la personalidad con que se ostenta;
 
@@ -2040,8 +2162,6 @@ VII. Las pruebas que estime convenientes, mismas que deberán guardar estrecha r
 VIII. En su caso, la solicitud de la suspensión del acto reclamado, y
 
 IX. La firma autógrafa del recurrente, o su huella digital en caso de no saber firmar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2534,3 +2654,11 @@ P.O. 3 DE AGOSTO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
