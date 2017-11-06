@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2017-02-22"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -379,9 +379,17 @@ XIV.- Dar orientación, información y capacitación a las familias, con el obje
 
 XV.- Proporcionar, en coordinación con la Secretaría de Desarrollo Social, orientación y apoyo técnico a los ayuntamientos que lo soliciten, en materia de planes y programas relacionados con la atención de adultos mayores;
 
-XVI.- Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento sano y activo; y
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-XVII.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
+XVI.- Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento sano y activo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XVII.- Implementar programas de capacitación diseñados para adultos mayores para la prevención de accidentes, la prestación de primeros auxilios y la atención de menores de edad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XVIII.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 16.
 
@@ -445,9 +453,21 @@ II.- Coadyuvar con la Secretaría de Salud Pública en la elaboración del Progr
 
 III.- Promover la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación, con el objeto de favorecer la convivencia familiar con los adultos mayores, para que esta sea armónica;
 
-IV.- Establecer una base de información sobre las condiciones socioeconómicas de los adultos mayores, que contribuya al mejor diseño y planeación de los programas en la materia; y
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-V.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
+IV.- Establecer una base de información sobre las condiciones socioeconómicas de los adultos mayores, que contribuya al mejor diseño y planeación de los programas en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+V.- Otorgar apoyos económicos a adultos mayores que atiendan y cuiden a sus menores nietos de hasta seis años de edad con motivo del empleo de sus padres;
+
+> <small>(ADICIONADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Elaborar las reglas de operación para los programas de asistencia a adultos mayores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -738,6 +758,54 @@ III.- Que se encuentren en situación de abandono;
 IV.- Que no sean beneficiarios de otros programas institucionales.
 
 De igual manera, para la integración del padrón de beneficiarios se tomará en cuenta la realización de visitas aleatorias a domicilio para constatar la información de la solicitud.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS.- Los adultos mayores que proporcionen atención y cuidado a sus menores nietos de hasta seis años de edad con motivo del empleo de sus padres, podrán recibir un apoyo económico conforme a lo establecido en el presupuesto de egresos del Gobierno del Estado.
+
+En el supuesto de que los nietos al cuidado de los adultos mayores con motivo del empleo de sus padres, padezcan de alguna discapacidad que les impida desplazarse por sí mismos, el apoyo económico será entregado sin importar la edad de los nietos.
+
+Los particulares podrán efectuar aportaciones a la Secretaría de Desarrollo Social destinadas al otorgamiento del apoyo económico en cuestión, con el objeto de aumentar su monto o el número de beneficiarios, las cuales en ningún momento sustituirán a las partidas establecidas para el particular en el presupuesto de egresos del Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS 1.- La Secretaría de Desarrollo Social asesorada por un comité integrado por cinco ciudadanos especialistas en temas de asistencia a adultos mayores, los cuales serán designados por el titular de dicha dependencia, elaborarán las reglas de operación del programa de otorgamiento de apoyos económicos a adultos mayores al cuidado de sus nietos de hasta seis años de edad.
+
+El comité supervisará el otorgamiento de los apoyos económicos por la Secretaría de Desarrollo Social y rendirá un informe anual sobre sus actividades durante los primeros quince días del mes de febrero de cada año.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS 2.- El apoyo económico será destinado por los adultos mayores para la atención y cuidado de sus nietos de hasta seis años de edad, específicamente, para la adquisición de alimentos y el mantenimiento del inmueble donde se les resguarda.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS 3.- Se otorgará un apoyo económico por adulto mayor o por pareja o matrimonio de adultos mayores, a pesar de que uno o ambos resguarden a uno o más de sus nietos de hasta seis años de edad.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS 4.- Para ser beneficiarios de los apoyos señalados en el artículo anterior, los adultos mayores deberán acreditar fehacientemente:
+
+I.- El parentesco por consanguinidad legítima o natural en línea recta descendente en segundo grado con los menores a los que proporcionan atención y cuidado.
+
+II.- Que los padres de los menores a los que proporcionan atención y cuidado tienen un empleo o trabajo que les impide momentáneamente hacerse cargo de su custodia.
+
+III.- Que los padres de los menores a los que se proporciona atención y cuidado carecen de acceso a un servicio público de guardería.
+
+IV.- Que han asistido a un curso para la prevención de accidentes, la prestación de primeros auxilios y la atención de menores de edad impartido por la Secretaría de Salud Pública.
+
+V.- Gozar de salud suficiente para la atención y cuidado de menores de hasta seis años de edad, lo que acreditarán mediante certificado expedido por la Secretaría de Salud Pública.
+
+VI.- No ser beneficiarios de otros programas gubernamentales que otorguen apoyo económico a adultos mayores.
+
+De igual manera, para la integración del padrón de beneficiarios se tomará en cuenta la realización de visitas aleatorias a domicilio para constatar la información de la solicitud.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS 5.- El recibimiento del apoyo económico establecido en el artículo 38 BIS de esta Ley, en modo alguno obliga a los adultos mayores a proporcionar atención y cuidado a sus menores nietos de hasta seis años de edad, siendo que en todo momento podrán rehusarse a realizar dicha actividad.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 38 BIS 6.- Con la finalidad de verificar las condiciones de higiene y seguridad del inmueble en el cual los menores de hasta seis años de edad son atendidos y cuidados por sus abuelos, la Secretaría de Desarrollo Social ordenará la práctica de visitas domiciliarias aleatorias por trabajadores sociales.
 
 ###### ARTÍCULO 39.
 
@@ -1458,3 +1526,19 @@ B.O. 22 DE FEBRERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 167, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud Pública, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, implementará los programas de capacitación diseñados para adultos mayores para la prevención de accidentes, la prestación de primeros auxilios y la atención de menores de edad a que alude el reformado artículo 15 en su fracción XVII.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Desarrollo Social velará por la inclusión en el Presupuesto de Egresos 2018 de una partida específica para otorgar el apoyo a que se refiere el adicionado artículo 38 BIS.
