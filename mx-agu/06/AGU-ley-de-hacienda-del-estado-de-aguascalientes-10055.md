@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2017-07-03"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -989,9 +991,7 @@ h) Motocicletas.
 
 XIII.- Comerciantes en el ramo de vehículos: Personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE APARTADO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE APARTADO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -999,9 +999,7 @@ APARTADO B
 
 Del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1319,9 +1317,7 @@ IV.- Quien aparezca como propietario en el Registro del Padrón Vehicular del Es
 
 V.- El que enajene un vehículo, cuando a la fecha de la enajenación no se haya realizado el cambio de propietario.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1365,9 +1361,7 @@ VII.- Tratándose de tractores destinados a actividades agrícolas.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el usuario o el tenedor del mismo deberán pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1375,9 +1369,7 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 ARTICULO 36 G.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1397,9 +1389,7 @@ ARTICULO 36 M.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ARTICULO 36 N.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1407,9 +1397,7 @@ ARTICULO 36 N.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ARTICULO 36 O.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2213,9 +2201,9 @@ XIV.- las despensas en dinero o en especie, hasta el 40% del salario mínimo gen
 
 XV.- Instrumentos y materiales necesarios para la ejecución del trabajo; y
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-XVI.- Remuneraciones a favor de trabajadores con discapacidad, siempre que el salario del trabajador no sea mayor a cinco veces el salario mínimo general vigente en el Estado; en su caso se exentará sólo sobre dicha cantidad.
+XVI.- Remuneraciones a favor de trabajadores con discapacidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2252,6 +2240,10 @@ Son responsables solidarios del pago de este impuesto, las personas físicas o m
 ###### ARTICULO 66.
 
 La base de este impuesto es el monto de las erogaciones realizadas por concepto de pago al trabajo personal, en términos del Artículo 63 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+Se podrán aplicar a la base del presente impuesto las deducciones, subsidios y estímulos fiscales que para tal efecto disponga la Ley de Ingresos del Estado de Aguascalientes para cada ejercicio fiscal. Para tal efecto, se aplicarán las reglas de operación que emita la Secretaría de Finanzas del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2972,3 +2964,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 169.- SE REFORMA EL ARTÍCULO 63 Y SE ADICIONA EL ARTÍCULO 66 DE LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+###### ARTÍCULO SEGUNDO.
+
+La disposición normativa prevista por el Segundo Párrafo del Artículo 66 de la presente Ley, será regulada en la Ley de Ingresos del Estado de Aguascalientes en los ejercicios fiscales posteriores.
+
+Para el ejercicio fiscal del año 2017, se concede un estímulo fiscal consistente en un subsidio del veinticinco por ciento del impuesto que le resulte a pagar al empleador únicamente por aquellos trabajadores de nuevo ingreso que ostenten la calidad de madres solteras; a los migrantes cuando su condición sea retornar al país de origen por un periodo de tres años a partir de la fecha en que fueron contratados; a los trabajadores mayores de sesenta años; los trabajadores quienes gocen de su primer empleo por un periodo de un año a partir de la fecha en que fueron contratados.
+
+El subsidio a que se refiere el párrafo anterior no podrá aplicarse de manera retroactiva ni dará lugar a devolución alguna del impuesto. Dicho estimulo se regulará a partir del ejercicio fiscal del año 2018 en la Ley de Ingresos del Estado de Aguascalientes.
