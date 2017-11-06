@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2017-08-03"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -457,9 +459,15 @@ Habrá por lo menos una sesión ordinaria cada mes y las extraordinarias que sea
 
 Para que las sesiones del Ayuntamiento sean válidas se requiere que sean citados todos los integrantes del Ayuntamiento y que se constituya el quórum por lo menos con la mitad más uno de los integrantes del mismo.
 
+> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 52.
 
-La citación a que se refiere el artículo anterior deberá efectuarla el Secretario, misma que será por escrito, de carácter personal, en el domicilio del integrante del Ayuntamiento, con una anticipación de por lo menos cuarenta y ocho horas al día en que vaya a realizarse -tratándose de sesiones ordinarias- debiendo contener el lugar, día y hora en que habrá de celebrarse la sesión, así como el orden del día, anexando, en todos los casos, la información y documentación necesaria para su desarrollo.
+La citación a que se refiere el artículo anterior deberá efectuarla el Secretario, misma que será por escrito, de carácter personal, en el domicilio del integrante del Ayuntamiento o por correo electrónico, el cual deberá ser proporcionado por los integrantes del Ayuntamiento, dentro de los 5 días hábiles siguientes a la toma de protesta a que se refiere el artículo 33 de esta ley.
+
+Cuando un Regidor suplente entre en funciones como propietario, deberá proporcionar al Secretario, un correo electrónico para que reciba las citaciones a que se refiere el artículo 51 de esta Ley, dentro de los 5 días hábiles siguientes en que entre en funciones.
+
+La citación deberá realizarse con una anticipación de por lo menos cuarenta y ocho horas al día en que vaya a celebrarse, tratándose de sesiones ordinarias. La citación deberá contener el lugar, día y hora en que habrá de celebrarse la sesión, así como el orden del día, anexando, en todos los casos, la información y documentación necesaria para su desarrollo.
 
 ###### Artículo 53.
 
@@ -1597,8 +1605,6 @@ Además de lo establecido en el párrafo anterior, los Ayuntamientos deberán pr
 
 El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base a los objetivos y metas que se señalen en el programa operativo anual.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 El Presidente Municipal a través de la Tesorería Municipal y el Ayuntamiento en el ámbito de sus competencias deberán verificar que el Presupuesto de Egresos cumpla con las normas y lineamientos establecidos en la Ley General de Contabilidad Gubernamental con las normas que para tal efecto emita el Consejo Nacional de Amortización Contable.
@@ -1607,19 +1613,13 @@ El Presidente Municipal a través de la Tesorería Municipal y el Ayuntamiento e
 
 Las asignaciones presupuestarias se establecerán por programas y con la subdivisión que por cada uno de ellos se determine, atendiendo el clasificador de actividades públicas municipales aprobado por el Ayuntamiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 El Gasto Total propuesto por el Ayuntamiento del Municipio en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal deberá contribuir con un Balance Presupuestario sostenible en términos de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 El Ayuntamiento del Municipio deberá generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con lo establecido en las leyes aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1630,8 +1630,6 @@ Debido a las razones excepcionales a que se refiere el artículo 19 Bis A de la 
 Para la asignación de las previsiones de gasto público municipal la Tesorería Municipal proyectará y calculará los egresos del gobierno municipal, haciéndolo compatible con la disponibilidad de recursos al proyectar y calcular los ingresos del Municipio.
 
 En la proyección del ingreso a que se refiere el párrafo anterior, la Tesorería Municipal deberá considerar las necesidades de gasto público municipal, la utilización del crédito público, en su caso, y la sanidad financiera de la administración pública municipal.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1687,43 +1685,29 @@ VI. Ingresos y gastos realizados en el último ejercicio fiscal;
 
 VII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 VIII. Situación de la Deuda Pública municipal al fin del último ejercicio fiscal y estimación de la que se tendrá en los ejercicios en curso e inmediato siguiente;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 IX. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios General de Política Económica
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 X. Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un período de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán, y en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 XI. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 XII. Los resultados de las finanzas públicas que abarquen un periodo de los últimos tres años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 XIII. Un estudio actuarial de pensiones de los trabajadores del Municipio, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas bajo la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial presente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1769,13 +1753,9 @@ Para efectuar modificaciones al Presupuesto de Egresos se deberá seguir el mism
 
 Las modificaciones al Presupuesto de Egresos deberán ser publicadas en el Boletín Oficial del Gobierno del Estado dentro de un plazo máximo de treinta días posteriores a la fecha de su aprobación.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 Los Municipios, incluyendo sus Entes Públicos deberán observar las disposiciones contenidas en los artículos 144 Bis, 144 Bis A, 144 Bis B, 144 Bis C, 144 Bis D y 144 Bis E de esta Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1784,8 +1764,6 @@ Los Municipios, incluyendo sus Entes Públicos deberán observar las disposicion
 Toda propuesta de aumento o creación de gasto del presupuesto de egresos municipal, deberá acompañarse con la correspondiente partida de ingreso o compensarse con reducciones en otras previsiones de gasto.
 
 No procederá pago alguno que no esté comprendido en el presupuesto de egresos municipal, determinado por ley posterior o con cargo a los Ingresos Excedentes. El Presidente Municipal deberá revelar en la cuenta pública y en los informes que periódicamente entregue, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto Etiquetado y No Etiquetado.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1807,8 +1785,6 @@ a) Las remuneraciones de los servidores públicos, desglosando las percepciones 
 
 b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del presupuesto de egresos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 Artículo 144 Bis B.- Los Ingresos Excedentes derivados de Ingresos de Libre Disposición del Municipio deberán ser destinados a los siguientes conceptos:
@@ -1823,8 +1799,6 @@ b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de
 
 Los Ingresos Excedentes, derivados de Ingresos de Libre Disposición de los Municipios podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Municipio se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas que lleva la Secretaría de Hacienda y Crédito Público.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 Artículo 144 Bis C.- En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos para el Municipio en la Ley de Ingresos de que se trate, el Presidente Municipal, a efecto de cumplir con el principio de sostenibilidad del Balance Presupuestario y del Balance Presupuestario de Recursos Disponibles, deberá aplicar ajustes al presupuesto de egresos en los rubros de gasto en el siguiente orden:
@@ -1837,8 +1811,6 @@ III.- Gasto en servicios personales, prioritariamente las erogaciones por concep
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 Artículo 144 Bis D.- A más tardar el quince de enero de cada año, se deberán reintegrar a la Tesorería de la Federación todas las Transferencias Federales Etiquetadas que, al treinta y uno de diciembre del ejercicio fiscal inmediato anterior, no hayan sido devengadas por los Entes Públicos. Sin perjuicio de lo anterior, las Transferencias Federales Etiquetadas que, al treinta y uno de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido y aquéllas devengadas pero que no hayan sido pagadas, deberán cubrir los pagos respectivos a más tardar durante el primer trimestre del ejercicio fiscal siguiente, o bien, de conformidad con el calendario de ejecución establecido en el convenio correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la Tesorería de la Federación, a más tardar dentro de los quince días naturales siguientes.
@@ -1846,8 +1818,6 @@ Artículo 144 Bis D.- A más tardar el quince de enero de cada año, se deberán
 Los reintegros deberán incluir los rendimientos financieros generados.
 
 Para los efectos de este artículo, se entenderá que el Municipio ha devengado o comprometido las Transferencias Federales Etiquetadas, en el momento previsto en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -4288,3 +4258,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 168, QUE REFORMA EL ARTÍCULO 52 DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, los integrantes de los ayuntamientos deberán de proporcionar al Secretario del Ayuntamiento el correo electrónico en el cual podrán ser notificados para los términos del artículo 52 de la Ley de Gobierno y Administración Municipal que se reforma mediante este ordenamiento jurídico.
