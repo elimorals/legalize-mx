@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2015-10-05"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,13 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
 EXPOSICION DE MOTIVOS
 
-...
+[...]
 
 Por las consideraciones que anteceden, las que se encuentran debidamente fundamentadas y motivadas, se publica el presente:
 
@@ -1039,7 +1039,7 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ### CAPITULO I. De las Dependencias y Entidades de la Administración Municipal
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 99.
 
@@ -1067,6 +1067,8 @@ Instancia Municipal de la Juventud;
 
 Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
+Dirección de Planeación y Evaluación;
+
 Dirección de Finanzas y Administración;
 
 Dirección de Contraloría Municipal;
@@ -1079,13 +1081,13 @@ Dirección de Desarrollo Urbano;
 
 Dirección de Servicios Públicos y Ecología;
 
-Dirección de Asunto Jurídicos;
+Dirección de Asuntos Jurídicos;
 
-Dirección de Seguridad Pública y Tránsito Municipal.
+Dirección de Seguridad Pública y Tránsito Municipal;
 
-De las unidades administrativas con que contará la Presidencia Municipal se desprenderá la estructura siguiente:
+De las unidades administrativas con que contara la Presidencia Municipal se desprenderá la estructura siguiente:
 
-I. PRESIDENCIA MUNICIPAL:
+I.- PRESIDENCIA MUNICIPAL:
 
 Secretaría Particular;
 
@@ -1099,9 +1101,9 @@ Instancia Municipal de la Mujer;
 
 Instancia Municipal de la Juventud.
 
-II. COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF):
+II.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
 
-Presidente del Comité Municipal para el D.I.F;
+Presidente del Comité Municipal para el DIF;
 
 Dirección del Comité Municipal para el DIF;
 
@@ -1109,87 +1111,123 @@ Subdirección Administrativa;
 
 Coordinación Operativa;
 
-Departamento de Programas Alimenticios (PASAF);
+Departamento de Asistencia Social Alimentaria;
 
 Departamento de Rehabilitación Física;
 
-Departamento Jurídico de la Defensa del Menor y la Familia;
-
-Departamento de INAPAM;
+Departamento de Atención a Personas Adultas Mayores
 
 Departamento de Habilidades, Capacitación y Desarrollo Integral;
 
-Departamento de Psicología.
+Unidad de Vinculación con la Sociedad Civil.
 
-III. COORDINACIÓN DE COMUNICACIÓN SOCIAL:
+Procuraduría Municipal de la Defensa de los Derechos de las niñas, niños y adolescentes;
+
+Departamento Jurídico;
+
+Unidad de Trabajo Social y Canalización;
+
+Departamento de Psicología;
+
+III.- COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
 Coordinador;
 
 Departamento de Comunicación e Información.
 
-IV. DELEGACIÓN PUERTECITO DE LA VIRGEN:
+IV.- DELEGACIÓN PUERTECITO DE LA VIRGEN.
 
 Delegado;
 
 Subdelegado.
 
-V. DELEGACIÓN LA ESCONDIDA:
+V.- DELEGACIÓN LA ESCONDIDA.
 
-Delegado; y
+Delegado;
 
 Subdelegado.
 
-VI. SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
+VI.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-Secretario del H. Ayuntamiento y Director General de Gobierno:
+Secretaría del H. Ayuntamiento y Director General de Gobierno;
 
-Departamento de Reglamentos y Mercados;*
+Subdirección General de Gobierno;
+
+Departamento de Reglamentos y Mercados;
 
 Coordinación de Fomento Deportivo;
 
 Departamento de Acción Cívica y Cultural;
 
-Departamento de Control Sanitario y Rastros;*
+Departamento de Desarrollo Turístico;
+
+Departamento de Control Sanitario y Rastros;
 
 Departamento de Protección Civil;
 
-Unidad Municipal de Paramédicos.*
+Unidad Municipal de Paramédicos;
 
-VII. DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN:
+Departamento de Logística;
+
+Unidad del Archivo Municipal.
+
+VII.- DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN.
 
 Director de Finanzas y Administración;
 
-Subdirector de Finanzas, Administración y Control Presupuestal;
+Subdirector de Finanzas, Administración y Control Presupuestal
 
-Departamento de Ingresos y Egresos;
+Departamento de Presupuesto;
+
+Departamento de Ingresos y Recaudación Municipal;
+
+Departamento de Fondos Federales;
 
 Departamento de Compras y Suministros;
 
+Departamento de Mantenimiento Vehicular y Servicios Generales;
+
 Departamento de Recursos Humanos.
 
-VIII. DIRECCIÓN DE CONTRALORÍA MUNICIPAL:
+VIII.- DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
+
+Director de Planeación y Evaluación;
+
+Subdirector de Planeación;
+
+Departamento de Información y Soluciones Informáticas;
+
+Departamento de Monitoreo y Evaluación;
+
+Departamento de Programación;
+
+Departamento de Seguimiento a la obra pública.
+
+IX.- DIRECCIÓN DE CONTRALORÍA MUNICIPAL.
 
 Contralor Municipal;
 
-Departamento de Control Patrimonial;
+Departamento de Auditoría;
 
-Departamento Jurídico y de Responsabilidades Administrativas;
+Unidad Investigadora;
 
-Departamento de Mejora Regulatoria, Simplificación Administrativa e Innovación.
+Unidad de Transparencia;
 
-IX. DIRECCIÓN DE OBRAS PÚBLICAS:
+Departamento Jurídico y Responsabilidades Administrativas;
 
-Director;
+Coordinación de Mejora Regulatoria, simplificación administrativa e innovación.
 
-Departamento de Supervisión de Costos y Licitaciones;
+X.- DIRECCIÓN DE OBRAS PÚBLICAS.
+
+Director de Obras Públicas;
+
+Departamento de Costos y Licitaciones;
 
 Departamento de Proyectos;
 
-Departamento de Supervisión.
+XI.- DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO.
 
-X. DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO:
-
-Director;
+Director de Desarrollo Social, Económico y Agropecuario;
 
 Subdirector;
 
@@ -1197,47 +1235,57 @@ Departamento de Concertación Social;
 
 Departamento de Desarrollo Económico;
 
-Departamento de Desarrollo Agropecuario;
+Departamento de Desarrollo Agropecuario.
 
-Departamento de Desarrollo Turístico.
+XII.- DIRECCIÓN DE DESARROLLO URBANO.
 
-XI. DIRECCIÓN DE DESARROLLO URBANO:
+Director de Desarrollo Urbano;
 
-Director;
+Departamento de Planes y Proyectos;
 
-Departamento de Planes y Programas;
+Departamento de Uso de Suelo;
 
-Departamento de Uso de Suelo.
+Departamento de Cartografía,
 
-XII. DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA:
+Departamento de Fraccionamientos y Regularización.
 
-Director;
+Departamento de Supervisión e Imagen Urbana.
+
+XIII.- DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA.
+
+Director de Servicios Públicos y Ecología;
+
+Subdirección de Servicios Públicos y Ecología;
+
+Departamento de Panteones;
 
 Departamento de Limpia y Aseo Público;
 
 Departamento de Alumbrado Público;
 
-Departamento de Parques, Jardines y Panteones;
+Departamento de Parques, Jardines;
 
 Departamento de Ecología.
 
-XIII. DIRECCIÓN DE ASUNTO JURÍDICOS:
+XIV.- DIRECCIÓN DE ASUNTOS JURÍDICOS.
 
 Director;
+
+Subdirector de Asuntos Jurídicos;
 
 Departamento de Gestión Jurídica;
 
 Departamento de Jueces Calificadores.
 
-XIV. DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL:
+XV.- DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL.
 
 Director;
 
-Subdirección de Seguridad Pública y Tránsito Municipal;
+Subdirector de Seguridad Pública y Tránsito Municipal;
 
 Primer Comandante de Seguridad Pública y Tránsito Municipal;
 
-Comandantes de Grupo;
+Comandante de Grupo;
 
 Oficiales;
 
@@ -1358,6 +1406,64 @@ XI. Procurar permanentemente la adecuación de los objetivos y programas del sis
 XII. Procurar y promover la coordinación con otras instituciones afines, cuyo objetivo sea la obtención del bienestar social; y
 
 XIII. Las demás que le encomienden las leyes. El cargo de Presidente del Comité Municipal para el Desarrollo Integral de la Familia es de carácter honorario.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Representar y proteger el interés superior del menor en situación de vulnerabilidad por conflictos familiares y/o sociales a través de la orientación jurídica, coadyuvando así para que sus derechos sean respetados en busca de una justicia social.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XV. Recibir reportes de menores en situación de riesgo, canalizando los casos conforme a la necesidad de atención requerida con la autoridad correspondiente.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Establecer convenios de colaboración entre el Comité Municipal y las empresas que residan en el municipio, a fin de establecer medios de gestión hacia la ciudadanía.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Los demás que el Presidente Municipal confiera y designe.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 104 BIS. Corresponde a la Procuraduría Municipal de la Defensa de los Derechos de las niñas, niños y adolescentes las siguientes atribuciones:
+
+I. Procurar la protección integral de niñas, niña y adolescente (sic) previstas en las disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
+
+a. Atención médica y psicológica;
+
+b. Seguimiento a las actividades académicas y entorno social y cultural, y
+
+c. La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
+III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de Niñas, Niños y Adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+
+IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La mediación no procederá en casos de violencia;
+
+V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+
+VI. Solicitar ante la autoridad competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes,
+
+VII. Solicitar apoyo a las dependencias de Seguridad Publica en caso de incumplimiento de medidas urgentes de protección.
+
+VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+X. Coadyuvar en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+
+XI. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+
+XII. Supervisar el debido funcionamiento de los centros de asistencia social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos (sic) Ley General de los Derechos de Niñas, Niños y Adolescentes que establece la presente Ley y demás disposiciones aplicables;
+
+XIII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+
+XIV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
+
+XV. Las demás que les confieran otras disposiciones aplicables.
+
+XVI. Los (sic) demás que el Comité Municipal para el Desarrollo Integral de la Familia, encomiende.
 
 APARTADO CUARTO
 
@@ -1509,215 +1615,237 @@ APARTADO SEPTIMO
 
 Contraloría y Desarrollo Administrativo Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 108.
 
-Corresponde a la Dirección de Contraloría Municipal como órgano de control interno del Municipio de San Francisco de los Romo, el despacho de los siguientes asuntos:
+Corresponde a la Dirección de Contraloría Municipal, el despacho de las siguientes funciones:
 
-I. Evaluar el Sistema de Control Interno en la Administración Pública Municipal;
+I. Planear, establecer, organizar y coordinar el Sistema de Control, Evaluación y Fiscalización del Gobierno Municipal;
 
-II. Vigilar el control de los recursos patrimoniales del Municipio de San Francisco de los Romo;
+II. Informar al Presidente Municipal sobre el resultado de la Evaluación respecto de la Gestión de las Dependencias y Entidades de la Administración Pública Municipal;
 
-III. Fijar, en su caso, las normas necesarias para el ejercicio del control administrativo y contable
+III. Verificar que los Programas Operativos Anuales que se elaboren por las dependencias municipales estén acordes en la ejecución del Plan de Desarrollo del Municipio;
 
-IV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las Dependencias y Entidades Municipales;
+IV. Analizar, evaluar y actualizar los sistemas y procedimientos administrativos de control interno que se requieran en cada una de las Direcciones municipales, sus áreas y organismos paramunicipales;
 
-V. Practicar auditorias, revisiones, visitas e inspecciones a las Dependencias y Entidades de la Administración Pública Municipal;
+V. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas, paramunicipales, fideicomisos y organismos paramunicipales;
 
-VI. Vigilar el cumplimiento por parte de las Dependencias y Entidades Municipales de las normas jurídicas y administrativas que rigen su funcionamiento;
+VI. Integrar con la Dirección de Planeación y Evaluación, así como con las dependencias de la administración municipal el Sistema de Evaluación del Desempeño, mediante acciones y programas que propicien la legalidad, la honestidad y la transparencia en la gestión pública, así como la debida rendición de cuentas y el acceso a la información pública, con el objetivo de identificar el avance en la ejecución y resultados de los programas presupuestarios, en el que se incluyan indicadores estratégicos y de gestión;
 
-VII. Vigilar el cumplimiento de las disposiciones jurídico administrativas de transparencia y acceso a la información;
+VII. El Titular de la Dirección de Contraloría, vigilará y garantizará en coordinación con los Titulares de las Dependencias y de las Unidades Administrativas, el adecuado manejo de la información, transparencia y rendición de cuentas que le impongan las disposiciones jurídicas y administrativas aplicables;
 
-VIII. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por la Contraloría Municipal, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+VIII. Vigilar y supervisar que en el Gobierno Municipal se cumpla con las normas y disposiciones en materia de contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles del patrimonio municipal por medio de los respectivos comités;
 
-IX. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal;
+IX. Designar al personal que practicará las auditorías, visitas de inspección y verificación a las diversas dependencias que conforman la Administración Municipal, asimismo ejercerá estas mismas facultades tratándose de programas de obra que realice el Municipio, bajo las diversas modalidades que establece la ley en la materia;
 
-X. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Dirección General de Finanzas y Administración;
+X. Presentar al Presidente Municipal y a la Dirección de Planeación y Evaluación, el Programa Anual de Auditorías, que se realizarán a las dependencias y organismos paramunicipales que conforman la Administración Municipal, así como supervisar su cumplimiento;
 
-XI. Informar a la Contraloría General del Estado, sobre los servidores públicos municipales obligados a presentar la Declaración de Situación Patrimonial;
+XI. Informar a los titulares de las dependencias y organismos paramunicipales que conforman la Administración Municipal, sobre los resultados de las auditorías y visitas de inspección de carácter preventivo y correctivo, dictando las observaciones y recomendaciones que se deriven, a efecto que se tomen medidas para el cumplimiento de sus atribuciones, por lo que la Dirección de Contraloría deberá darte el seguimiento correspondiente;
 
-XII. Emitir las observaciones y las recomendaciones que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
+XII. Informar al Presidente Municipal, sobre el resultado de las auditorías y las acciones que, en su caso, se hayan tomado relativas a las faltas administrativas o ilícitas que se desprendan;
 
-XIII. Informar al Presidente Municipal sobre el resultado de la evaluación respecto de la gestión de las Dependencias y Entidades de la Administración Pública Municipal;
+XIII. Proponer en el ámbito de su competencia, proyectos de iniciativa de reglamentos, manuales, acuerdos y convenios en coordinación con el Director de Asuntos Jurídicos;
 
-XIV. Turnar a las Dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite, a efecto de su atención y resolución;
+XIV. Revisar que se cumpla en tiempo y forma con lo establecido en la Ley General de Contabilidad Gubernamental;
 
-XV. Interpretar para efectos jurídico-administrativos la Legislación Municipal;
+XV. Elaborar de manera trimestral su informe de actividades y presentarlo al Presidente Municipal, en el que se incluirán los resultados de la implementación del Sistema de Evaluación del Desempeño, bajo los principios de verificación del grado de cumplimiento de metas y objetivos;
 
-XVI. Ejecutar las funciones establecidas en este Código y en la Legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
+XVI. Formar parte de los Comités y Comisiones que para el efecto establezca el presente Código y que sean necesarias para el buen funcionamiento del Gobierno Municipal, así como designar a los integrantes de las mismas;
 
-XVII. Designar a su personal que auditará a las Dependencias y Entidades Municipales, así como normar y controlar su desempeño;
+XVII. Atender, dar seguimiento y resolver las quejas y denuncias recibidas en contra de los servidores públicos que puedan constituir responsabilidades administrativas y aplicar las sanciones que correspondan en los términos de ley, así como en su caso turnar al Síndico Municipal los asuntos en los que se determinen faltas administrativas graves o ilícitas a fin de que se presenten las denuncias correspondientes ante la Fiscalía General del Estado de Aguascalientes, prestándose para tal efecto la colaboración que le fuere requerida;
 
-XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la Administración Pública Municipal, que previene el presente Código; y (sic)
+XVIII. El titular de la Dirección de Contraloría, en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora en un mismo asunto, de acuerdo a lo previsto en la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XIX. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención;
 
-XIX. Coordinar la mejora regulatoria, la simplificación administrativa, la innovación y la transparencia, así como las tecnologías de información en la Administración Pública Municipal;
+XX. Fungir como unidad de transparencia del municipio ante el organismo garante en materia de transparencia;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXI. Establecer las bases mínimas para garantizar el derecho de acceso a la información en la forma y términos que establece la ley en la materia, sin más limitaciones que las expresamente previstas en la ley;
 
-XX. Definir y establecer los lineamientos, instrumentos y mecanismos para la aplicación y seguimiento de la mejora regulatoria interna y externa;
+XXII. Verificar el cumplimiento por parte de las dependencias y organismos paramunicipales respecto al cumplimiento de las obligaciones de transparencia comunes y específicas conforme a lo establecido en la ley de la materia;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXIII. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público;
 
-XXI. Coordinar, evaluar y dar seguimiento al Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información y las acciones que se deriven del mismo;
+XXIV. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXV. Coordinar los trabajos de clasificación de la información de las dependencias y organismos paramunicipales respecto a lo establecido en la ley de la materia;
 
-XXII. Implementar directamente o a través de terceros las acciones, mecanismos y productos del Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información;
+XXVI. Coordinar los trabajos con las dependencias y organismos paramunicipales respecto a la simplificación continúa de la normatividad interna que estos aplican con la finalidad de establecer acciones y estrategias que permitan a los ciudadanos el acceso a trámites y servicios que otorga el Gobierno Municipal de manera más ágil y oportuna;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXVII. Implementar en coordinación con las dependencias y organismos paramunicipales los mecanismos necesarios para analizar los procedimientos y/o procesos establecidos en el Gobierno Municipal y buscar la mejora de los mismos con la finalidad de otorgar a la ciudadanía servicios de calidad;
 
-XXIII. Promover la mejora continua de los procesos administrativos, la utilización de soluciones tecnológicas y la innovación para brindar servicios ciudadanos e internos más eficientes, sencillos y claros;
+XXVIII. Organizar los trabajos del proceso de entrega-recepción del Gobierno Municipal de acuerdo a la normatividad vigente, así como diseñar, establecer y autorizar los anexos para la presentación de la información;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXIX. Conocer de las acciones de entrega-recepción de todos los servidores públicos que causen baja, mediante acta administrativa y anexos en los que se detallen los asuntos y recursos asignados para garantizar la continuidad y operación de las mismas;
 
-XXIV. Coordinar con el Presidente Municipal, los Regidores y Síndico, así como con las Dependencias y Entidades, el Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información;
+XXX. Las demás que las leyes aplicables en la materia designen.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXXI. Las demás que encomiende el Presidente Municipal.
 
-XXV. Coordinar, integrar y publicar el Registro Municipal de Trámites y Servicios Externos y el Registro Municipal de Trámites y Servicios Internos, conjuntamente con las Dependencias y Entidades involucradas;
+XXXII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXXIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXVI. Recibir, revisar y dictaminar las Manifestaciones de Impacto Regulatorio que se presenten para las iniciativas de ley con impacto económico o que generen trámites a los ciudadanos para su respectiva evaluación y dictamen, previo a que sea turnada dicha iniciativa al H. Cabildo;
+XXXIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXXV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXVII. Promover, coordinar y actualizar los sistemas de apertura rápida de empresas;
+XXXVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXXVII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXVIII. Otorgar y expedir, negar o condicionar las licencias de funcionamientos para actividades no reglamentadas solicitadas por los particulares para las actividades comerciales, industriales y de prestación de servicios según lo señalando por el presente Código, la Ley de Hacienda del Municipio de San Francisco de los Romo, y las demás disposiciones legales aplicables;
+XXXVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XXXIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXIX. Promover, coordinar y actualizar sistemas de trámites comunes o secuenciales para una actividad a fin de facilitar su realización;
+XL. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XLI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXX. Establecer mecanismos que brinden mayor sencillez y certeza jurídica a los ciudadanos, empresarios y funcionarios municipales;
+XLII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XLIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXI. Asesorar, capacitar y colaborar con las Dependencias y Entidades sobre la implementación del Programa Municipal de Mejora Regulatoria, Simplificación, Transparencia e Innovación y Tecnologías de Información;
+XLIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XLV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXII. Formular propuestas de nuevas reformas ante las Dependencias y Entidades Municipales en esta materia y presentar a las Dependencias Estatal y Federal correspondientes las propuestas en materia de su competencia;
+XLVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XLVII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXIII. Coordinar el Centro de Atención Integral Municipal y los servicios que se ofrezcan en el mismo con la colaboración de las Dependencias y Entidades de la Administración Pública Municipal;
+XLVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+XLIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXIV. Establecer conjuntamente con la Dirección de Finanzas y Administración reglas normas, criterios y procedimientos que deberán observar las Dependencias y Entidades en materia de Simplificación y Modernización Administrativa y asesorarles para optimizar el funcionamiento interno y mejorar el servicio al público;
+L. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+LI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXV. Instituir y coordinar el programa usuario simulado para verificar la atención otorgada al ciudadano y el cumplimiento de los tiempos de respuesta a los trámites y servicios, como un proceso de evaluación de la función pública;
+LII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+LIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXVI. Participar y promover reuniones en materia de mejora regulatoria, simplificación administrativa a nivel estatal, nacional e internacional;
+LIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+LV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-XXXVII. Coordinar el Registro de Personas Acreditadas para la realización de sus trámites ante las Dependencias y Entidades Municipales;
+LVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXXVIII. Coordinar los sistemas de cómputo e informática, las tecnologías de información y comunicación que se utilicen para mayor eficiencia de las labores de la Administración Pública Municipal;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXXIX. Establecer la normatividad y lineamientos para el buen uso y desempeño de los instrumentos tecnológicos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XL. Coordinar la página electrónica del Municipio y desarrollar mecanismos innovadores para la atención ciudadana y el acceso a la información pública por medios electrónicos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLI. Promover el uso de información georeferenciada y establecer los mecanismos para su mayor utilización y difusión;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLII. Colaborar y promover con las Dependencias y Entidades estrategias para detectar los procesos que sean factibles a incorporarse a medios electrónicos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLIII. Promover con las Dependencias y Entidades Municipales la innovación y la creatividad en sus puestos de trabajo para mejorar los procesos administrativos y en su caso la regulación correspondiente;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLIV. Es el órgano de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública municipal;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLV. Coordinar la implementación y seguimiento del Sistema Municipal de Transparencia y Acceso a la Información Pública de conformidad a la ley de la materia y al presente Código:
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLVI. Interpretar en el orden administrativo las disposiciones legales en materia de transparencia y acceso a la información pública con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLVII. Establecer los lineamientos para catalogar, clasificar, desclasificar y conservar la información;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLVIII. Coordinar y proponer medidas para brindar mayor transparencia y eficacia a las labores de inspección y verificación que realicen las autoridades municipales a través del Sistema de Verificación e Inspección Municipal;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XLIX. Asegurar la calidad y eficiencia en la atención y realización de trámites de la Administración Pública y propiciar en los servidores públicos una cultura de mejores prácticas de gestión y de transparencia en la realización de los mismos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-L. Fungir como Unidad de Enlace, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-LI. Recabar y difundir la información a que se refiere el Artículo 9° de la Ley, además de propiciar que las áreas administrativas la actualicen periódicamente;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-LII. Recibir y dar trámite a las solicitudes de acceso a la información de su competencia;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-LIII. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las Dependencias o Entidades u otros órganos que pudieran tener la información que solicitan;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-LIV. Llevar el Registro Municipal de las solicitudes de Acceso a la información, sus resultados y costos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-LV. Garantizar y agilizar el flujo de información entre la mismas Dependencias y Entidades, así como de éstas con los particulares; y
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-LVI. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 APARTADO OCTAVO
 
-###### ARTÍCULO 109.
+De la Dirección de Planeación y Evaluación
 
-(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2011)
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 109.
+
+Corresponde a la Dirección de Planeación y Evaluación, las siguientes funciones:
+
+I. Acopiar, organizar y sistematizar la información estadística del municipio que sustente la elaboración de planes, programas, proyectos y líneas de acción a fin de establecer el universo, la cobertura, los objetivos, las estrategias, las metas y los resultados que se obtienen por cada una de las dependencias de la Administración Municipal en cada ejercicio anual;
+
+II. Propiciar y organizar la participación ciudadana a través de consultas, proyectos de investigación, encuestas, buzones de sugerencias y quejas, audiencias públicas y entrevistas; con el propósito de conocer y sistematizar las necesidades sentidas de la población;
+
+III. Elaborar, conjuntamente con las dependencias de la Administración Municipal, el Plan de Desarrollo Municipal con la Metodología de Marco Lógico estableciendo:
+
+a. Los problemas centrales que limitan el desarrollo de los grupos poblacionales y geográficos;
+
+b. Cuáles son las causas que los generan;
+
+c. Cuáles son sus efectos;
+
+d. Cuáles sus alternativas de solución;
+
+e. Las estrategias adecuadas para su gestión;
+
+f. Mediante qué programas y líneas de acción los podemos solucionar; y
+
+g. Las metas que nos vamos a fijar por cada ejercicio presupuestal;
+
+IV. Presentar al H. Ayuntamiento Constitucional de San Francisco de los Romo el Plan de Desarrollo Municipal para su aprobación y remisión al Congreso del Estado;
+
+V. Elaborar, en coordinación con las dependencias de la Administración Municipal el Programa Operativo Anual (POA) con la metodología de la Gestión para Resultados (GpR);
+
+VI. Alinear el Plan de Desarrollo Municipal con el Plan Nacional de Desarrollo, con los Objetivos para el Desarrollo Sostenible de la Organización de las Naciones Unidas y con el Plan Estatal de Desarrollo, a fin de conocer la aportación de San Francisco de los Romo al desarrollo global;
+
+VII. Turnar a la Dirección de Finanzas y Administración el Plan de Desarrollo Municipal y sus Anexos, así como el POA, para la elaboración del Presupuesto Anual basado en Resultados (PbR);
+
+VIII. Establecer el Padrón de Beneficiarios de los programas sociales de la Administración Municipal y gestionar el acceso a la información del Sistema Integral de Información de Padrones de Programas Gubernamentales (SIIPP-G) a fin de focalizar los grupos y áreas con prioridad de atención;
+
+IX. Conjuntamente con las dependencias de la Administración Municipal, ajustar acciones y metas y, calendarizar su ejecución de acuerdo a los techos presupuestales establecidos en el PbR por la Dirección de Finanzas y Administración y autorizados por el H. Ayuntamiento;
+
+X. Desarrollar con la participación de la Dirección de Contraloría y las dependencias, el Sistema de Indicadores para el Desarrollo que son parte integrante de los POAs, como suministro indispensable para el monitoreo y evaluación de cada una de las metas establecidas;
+
+XI. Diseñar y operar el Programa Anual de Monitoreo, Seguimiento y Evaluación individual a los programas y proyectos durante su ciclo de vida;
+
+XII. Elaborar y operar en coordinación con la Dirección de Finanzas y Administración y la Dirección de Contraloría el Sistema de Evaluación del Desempeño con base en el Modelo Sintético de Evaluación del Desempeño (MSD);
+
+XIII. Atender los Aspectos Susceptibles de Mejora (ASP) producto de las evaluaciones externas;
+
+XIV. Informar semestralmente a la Presidencia Municipal y al H. Ayuntamiento de los resultados del Sistema de Evaluación del Desempeño;
+
+XV. Publicar en el sitio web oficial del Municipio el Plan de Desarrollo Municipal, los Programa (sic) Operativos Anuales y los resultados a fin de cada ejercicio anual del Sistema de Evaluación del Desempeño;
+
+XVI. Establecer la Comisión Municipal de Planeación (COMUPLA) como organismo colegiado de la Administración Municipal para la sanción de la toma de decisiones en materia de planeación y enlace con el organismo de planeación estatal;
+
+XVII. Acopiar, organizar y sistematizar toda la información posible del Municipio como sustento de la planificación, como apoyo para la Administración y como consulta para la población;
+
+XVIII. Diseñar el sistema interior de información y comunicación, conectando todas las dependencias de la Administración Municipal entre sí;
+
+XIX. Tener contacto permanente con el/la Presidente Municipal, a fin de tratar todos los asuntos relevantes para el Municipio en materia de planeación y evaluación de los esfuerzos municipales para lograr objetivos trascendentes para la población;
+
+XX. Crear y mantener un proceso de información recíproca con los/las titulares de las dependencias de la Administración Municipal que redunde en una gestión de calidad de los asuntos municipales;
+
+XXI. Representar a la Presidencia Municipal en la Comisión de la Zona Metropolitana y presentar ante ella los proyectos prioritarios para el municipio;
+
+XXII. Establecer convenios de colaboración con las entidades generadoras de información relevante para el Municipio en aspectos poblacionales, económicos, sociales y culturales;
+
+XXIII. Solicitar a los y las titulares de las dependencias de la Administración Municipal el nombramiento de una persona como enlace con la Dirección de Planeación;
+
+XXIV. Diseñar y organizar talleres de capacitación para funcionarios y enlaces en temas como:
+
+a. Sistema de Marco Lógico (MIR);
+
+b. Presupuesto basado en Resultados;
+
+c. Gestión para Resultados;
+
+d. Diseño de Indicadores;
+
+e. Diseño, elaboración y gestión del POA; y
+
+f. Sistema de Evaluación del desempeño;
+
+XXV. Diseñar un mecanismo de información permanente a la población de los resultados de la gestión;
+
+XXVI. Concentrar, organizar y redactar la información sobre logros obtenidos para el Informe Anual de Resultados del Municipio;
+
+XXVII. Coordinar la actualización permanente del diseño y contenidos de la página web oficial del municipio;
+
+XXVIII. Coordinar la instalación el (sic) Coordinación Municipal de Planeación, COMUPLA;
+
+XXIX. Presidir el (sic) Coordinación Municipal de Planeación COMUPLA;
+
+XXX. Coordinar la integración de la Comisión de Planeación para el Desarrollo del Municipio COPLADEMUN, así como coordinar los trabajos de esta;
+
+XXXI. Participar en la representación del Municipio de San Francisco de los Romo en acciones de planeación en la Zona Metropolitana;
+
+XXXII. Las demás que la Ley de Planeación del Estado de Aguascalientes; así como las leyes aplicables en la materia encomienden;
+
+XXXIII. Las que encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO NOVENO
 
 De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 110.
 
-Corresponde al Secretario del H. Ayuntamiento y Director General de Gobierno, lo siguiente:
+Corresponde a la Secretaria del H. Ayuntamiento y Dirección General de Gobierno, las siguientes atribuciones:
 
 I. Fungir como Secretario del H. Ayuntamiento;
 
@@ -1813,9 +1941,33 @@ XXXI. Determinar el destino de las carnes no apropiadas para el consumo humano d
 
 XXXII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales; y
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-XXXIII. Las Demás que el Presidente Municipal le Encomiende.
+XXXIII. Prestar servicios logísticos a las Dependencias de la administración Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXIV. Coordinar la programación de eventos y giras por realizarse.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXV. Desarrollar acciones de conservación y restauración requerida para el mantenimiento de los archivos físicos que integran el Archivo Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXVI. Conservar, mantener, acopiar y resguardar los documentos de carácter histórico para el Municipio.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXVII. Fomentar la consulta de los archivos históricos del Municipio de San Francisco de los Romo hacia la ciudadanía.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXVIII. Las demás que designe el Presidente Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXIX. En caso de ausencia del Secretario del H. Ayuntamiento y Dirección General de Gobierno, el Subdirector General de Gobierno podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
 
 ###### ARTICULO 111.
 
@@ -1855,9 +2007,9 @@ XV. Compilar leyes, decretos reglamentos, periódicos oficiales del Estado, circ
 
 XVI. Auxiliar al Síndico Municipal, en la Gestión Jurídica de la población, mediante asesorías, elaboración de documentos, canalización a Instancias especializadas y en la Conciliación entre particulares, siempre y cuando exista la voluntad expresa de los ciudadanos involucrados; apegándose en todo momento a lo establecido en el artículo 20, párrafo segundo del presente Código.
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-XVII. Las demás que le confieran el Presidente Municipal, el Secretario del Ayuntamiento y Director General de Gobierno, el presente Código y demás normatividad.
+XVII. El Subdirector de Asuntos Jurídicos apoyara al Director en la representacion legal del Ayuntamiento y a sus unidades administrativas, ante los tribunales estatales y federales, órganos jurisdiccionales, contenciosos administrativos y autoridades administrativas, en los procesos o procedimientos de toda índole; así como en establecer los mecanismos de comunicación y coordinación con las unidades administrativas del Ayuntamiento a fin de apoyarlas en el cumplimiento de las resoluciones judiciales o extrajudiciales o de carácter administrativo y en caso de ausencia del Director de Asuntos Jurídicos, el Subdirector de Asuntos Jurídicos podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1907,13 +2059,99 @@ XVII. Analizar, diseñar y adecuar la estructura orgánica municipal garantizand
 
 XVIII. Definir y establecer los mecanismos de planeación, coordinación, programación, información, control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las Dependencias y Entidades de la Administración Pública Municipal;
 
-XIX. Elaborar y mantener actualizados, conjuntamente con la Dirección de Mejora Regulatoria, los manuales de organización, de procedimientos y el directorio de trámites y servicios públicos de la Administración Municipal;
+XIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
 
 XX. Apoyar y participar en los proyectos de reorganización que formulen las Dependencias y Entidades de la Administración Pública Municipal;
 
 XXI. Definir y establecer mecanismos y/o metodología que fomenten en el servidor público una cultura de mejoramiento continuo; y
 
-XXII. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXII. Registrar en el sistema contable, el presupuesto asignado a la dependencia a efecto de llevar un control adecuando (sic) del mismo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Actualizar el presupuesto de egresos e ingresos derivado de las modificaciones propuestas por las áreas, y autorizadas por el Cabildo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Asignar y Controlar el importe del presupuesto que le fue otorgado en el ejercicio a cada Dependencia Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXV. Registrar y autorizar las solicitudes de redistribuciones financieras con cargo al presupuesto.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXVI. Dar seguimiento a los planes financieros de presupuestos apoyados en el sistema de contabilidad.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXVII. Coadyuvar con las Dependencias Municipales los esfuerzos y estrategias para obtener recursos Federales.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII. Verificar que la documentación soporte de los programas o reglas de operación se mantengan actualizados y cumpla con las normas y disposiciones que apliquen en cada programa.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXIX. Coordinar la entrega y facilitación de la información a los diversos entes Fiscalizadores.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXX. Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaría celebre el Municipio con el Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXI. Diseñar y publicar las formas oficiales de las manifestaciones, avisos y declaraciones, así como los demás documentos fiscales.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias de su competencia, que le sean solicitadas por las Dependencias Municipales.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXIII. Elaborar la propuesta de zonificación catastral y valores unitarios de suelo y construcción, que sirvan como base para el cálculo de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingresos.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXIV. Expedir comprobantes fiscales objeto de la recaudación municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXV. Actualizar la información catastral mediante la depuración de las bases de datos para disponer de la cartografía y un padrón catastral confiable, según lo determine el Instituto Catastral del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXVI. Tramitar los traslados de domino emitidos por el Notariado, para el pago del impuesto sobre adquisición de bienes inmuebles y su actualización en las bases de datos, con el objetivo de registrar los movimientos realizados sobre las propiedades.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXVII. Fomentar el pago de impuestos, mediante el otorgamiento de estímulos fiscales, con el fin de crear una cultura de pronto pago de contribuciones al Municipio.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXVIII. Llevar a cabo el control de cada uno de los vehículos utilitarios propiedad de la Administración Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXXIX. Programar calendarización de mantenimiento preventivo de los vehículos utilitarios, con el fin de extender la vida útil de estos y tener certeza del estado que guarda cada uno de ellos.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XL. Establecer convenios para llevar a cabo el adecuado mantenimiento correctivo de los vehículos utilitarios que se encuentren averiados.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XLI. Brindar servicios generales de mantenimiento correctivos y preventivos a las instalaciones Municipales.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XLII. Vigilar el control de los recursos patrimoniales del Municipio de San Francisco de los Romo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XLIII. Las demás que señale la Ley Municipal, el presente Código y las que en (sic) encomiende el Presidente Municipal.
 
 APARTADO DECIMO PRIMERO
 
@@ -2031,21 +2269,33 @@ APARTADO DECIMO SEGUNDO
 
 De la Dirección de Desarrollo Urbano
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 114.
 
 Corresponde a la Dirección de Desarrollo Urbano,
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de planeación, de construcciones, de ordenamiento territorial y de protección al ambiente;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 II. Diseñar, crear y aplicar los programas de desarrollo urbano, mediante los cuales se regirá la planeación municipal;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 III. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de condominios y de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 V. Controlar y regular la ocupación de las reservas de crecimiento de los ejidos que integran el Municipio;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Administrar y verificar el control urbano con el otorgamiento de las siguientes autorizaciones:
 
@@ -2065,39 +2315,101 @@ g) Números oficiales para las fincas; y
 
 h) Prevenir y manejar los asentamientos humanos irregulares.
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 VII. Supervisar y regular los parques industriales del Municipio y evaluar, autorizar o negar, y supervisar los nuevos proyectos de ocupación en los mismos
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Determinar el tipo de construcciones que se puedan edificar en el municipio;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 IX. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 X. Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé éste Código;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XI. Inspeccionar obras, edificios y construcción e infraestructura en general;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XII. Verificar el uso que se está dando a un predio, edificio o construcción y que éste se ajuste a las características previamente registradas;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XIII. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XIV. Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XV. Aplicar medidas de seguridad en inmuebles, en los casos previstos en este Código;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XVI. Ordenar y/o ejecutar demoliciones en inmuebles en los casos previstos por este Código;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XVII. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código, o en caso contrario negarla;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XVIII. Imponer sanciones a las que se hagan acreedores los infractores de conformidad al presente Código;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XIX. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XX. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XXI. Determinar los requisitos y procedimientos para la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XXII. Participar en el ordenamiento territorial de su competencia; y
 
-XXIII. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Actualizar la Cartografía del Municipio de San Francisco de los Romo.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Georreferenciar las obras y acciones de la iniciativa pública y privada en materia de Desarrollo Urbano.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXV. Coadyuvar para otorgar a la ciudadanía certeza jurídica con respecto a sus predios y propiedades.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXVI. Llevar a cabo el control y supervisión de la imagen urbana que se encuentre asentada en el Municipio.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXVII. Otorgar licencias para la construcción, reparación, remodelación y demolición de las fincas.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII. Supervisar el estado que guardan las construcciones en situación de restructuración (sic) y que tenga relación con la licencia de construcción otorgada.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXIX. Otorgar y supervisar la subdivisión de relotificación de predios.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXX. Las demás que las leyes aplicables en la materia y el Presidente Municipal designen.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2129,9 +2441,11 @@ APARTADO DECIMO SEGUNDO TER
 
 De la Dirección de Servicios Públicos
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 114 B. Corresponde a la Dirección de Servicios Públicos:
+ARTICULO 114 B. Corresponde a la Dirección de Servicios Públicos y Ecología:
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 I. Inspeccionar los trabajos de mantenimiento y conservación de los servicios públicos municipales;
 
@@ -2149,29 +2463,65 @@ VI. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
 
 VII. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 VIII. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 IX. Formular, conducir y evaluar la política ambiental en su jurisdicción territorial, en el ámbito de su competencia;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 X. Ejercer las funciones que le transfieran la Federación y el Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XI. Aplicar, en coordinación con el Organismo Operador del Agua, las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal:
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XIII. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el ambiente, provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XIV. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo de los residuos municipales e industriales que no estén considerados como peligrosos de conformidad con lo dispuestos por los demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XV. Participar en la atención de los asuntos que afecten el ambiente de dos o más municipios y que generen efectos ambientales adversos en su circunscripción territorial, entre otras;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XVI. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 XVII. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 XVIII. Participar en la creación y administración de reservas ecológicas;
 
-XIX. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Mantener en buen estado y funcionamiento del (sic) Panteón Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XX. Regular el establecimiento, operación, funcionamiento y vigilancia de las inhumaciones, exhumaciones, traslados y cremaciones que realice el Panteón Municipal.
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXI. Las demás que designen las leyes aplicables en la materia y las que encomiende el Presidente MunicipalMunicipal (sic).
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XXII. En caso de ausencia del Director de Servicios Públicos y Ecología, el Subdirector de Servicios Públicos y ecología podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
 
 APARTADO DECIMO TERCERO
 
@@ -20873,7 +21223,7 @@ EL SECRETARIO DEL H. AYUNTAMIENTO Y DIRECTOR GENERAL DE GOBIERNO,
 
 Ing. José Juan Aguiñaga Medina.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 30 DE ABRIL DE 2007.
 
@@ -20974,3 +21324,9 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 P.O. 5 DE OCTUBRE DE 2015.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
+
+P.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+
+ÚNICO.- La presente reforma al Código Municipal de San Francisco de los Romo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
