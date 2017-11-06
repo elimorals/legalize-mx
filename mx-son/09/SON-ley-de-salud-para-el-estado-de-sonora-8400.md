@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2017-08-03"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -614,6 +614,10 @@ IV. La atención del pre-escolar y escolar en los centros educativos.
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ARTICULO 50 BIS.- Los hospitales, clínicas, nosocomios y demás establecimientos de los sectores público y privado que otorguen atención médica a la mujer durante el embarazo, parto y puerperio, solicitarán identificación oficial vigente con fotografía de la mujer atendida, especialmente al momento de la expedición del aviso de nacimiento correspondiente.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 50 BIS 1.- Los servicios de salud a que hace referencia el artículo 50 Bis de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencia (sic) obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 ###### ARTICULO 51.
 
@@ -1363,7 +1367,7 @@ VII. Apoyar y asesorar a las instituciones en el cumplimiento de sus objetivos y
 
 VIII. Autorizar y supervisar la promoción y realización de suscripciones de cooperación pública, sorteos y, en general, de toda clase de festivales o diversiones que requieran efectuar las instituciones;
 
-IX. Intervenir, en nombre de las fundaciones en proceso de creación por disposición testamentaria, en los juicios sucesorios correspondientes y en todos aquellos procedimientos judiciales en los que pudiesen resultar afectados los intereses de tales instituciones, hasta en tanto éstas queden debidamente constituídas;
+IX. Intervenir, en nombre de las fundaciones en proceso de creación por disposición testamentaria, en los juicios sucesorios correspondientes y en todos aquellos procedimientos judiciales en los que pudiesen resultar afectados los intereses de tales instituciones, hasta en tanto éstas queden debidamente constituidas;
 
 X. Imponer las sanciones administrativas que correspondan por violaciones al presente Capítulo y sus disposiciones reglamentarias. Dichas sanciones podrán consistir en multa, clausura o disolución de la institución o remoción de sus patronos o administradores. Contra las resoluciones de la Junta de Asistencia Privada procederá el recurso de inconformidad previsto en esta ley; y
 
@@ -1688,6 +1692,10 @@ Los establecimientos informarán al Registro Estatal de Trasplantes de las accio
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ARTÍCULO 154 BIS G.- La donación de sangre es voluntaria y deberá realizarse en los establecimientos de salud públicos y privados autorizados por la Secretaría, de conformidad a las disposiciones legales y las normas oficiales expedidas para tal efecto.
+
+> <small>(ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 154 BIS H.- La Secretaría de Salud Pública deberá proporcionar los servicios médicos que sean necesarios a las personas a quienes se les haya realizado trasplante y que le señale el Centro Estatal de Trasplantes, para garantizar, en la medida de lo posible, la adecuada recepción y funcionamiento del órgano trasplantado, debiendo informar al Director General del Centro Estatal de Trasplantes, de las acciones que realice y los profesionales que estén a cargo de proporcionar los servicios a los que se refiere este artículo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -3254,3 +3262,23 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 165, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 166, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA Y A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La titular del Ejecutivo del Estado, a través del Secretario del Ramo, deberá de difundir entre las y los sonorenses, el derecho que tienen las mujeres embarazadas de recibir la asistencia médica necesaria, cuando se encuentren ante una urgencia obstétrica independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
