@@ -4,7 +4,7 @@ identifier: "VER-ley-de-ingresos-del-municipio-de-otatitlan-del-estado-de-122300
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-30"
-last_updated: "2017-01-18"
+last_updated: "2017-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,25 +25,25 @@ state: "VER"
 
 LEY NÚMERO 139 DE INGRESOS DEL MUNICIPIO DE OTATITLÁN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2017
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 18 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario 522 Tomo X de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 30 de diciembre de 2016.
 
 > <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-Los Derechos por los Servicios del Registro Civil se causarán y pagarán, en salarios mínimos, del acuerdo a las cuotas siguientes:
+Los derechos por los servicios del Registro Civil se causarán y pagarán, en Unidades de Medida y Actualización, del acuerdo a las cuotas siguientes:
 
-[.]
+[...]
 
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-II. REGISTRO DE NACIMIENTOS ORDINARIOS Y EXTEMPORÁNEOS, UNO;
+II. Registros ordinarios y extemporáneos de nacimiento, cero;
 
-[.]
+[...]
 
 > <small>(F. DE E., G.O. 18 DE ENERO DE 2017)</small>
 
@@ -74,3 +74,13 @@ REGINA VÁZQUEZ SAUT
 DIPUTADA SECRETARIA
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 307 QUE REFORMA LAS LEYES DE INGRESOS PARA EL EJERCICIO 2017, DE 58 MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
