@@ -4,7 +4,7 @@ identifier: "SON-ley-de-donacion-y-trasplantes-para-organismos-humanos-sonora-45
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-20"
-last_updated: "2013-09-30"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 20 de junio de 2005.
 
@@ -147,9 +147,17 @@ XII.- Promover la constitución de asociaciones, organismos o grupos de apoyo qu
 
 XIII.- Coadyuvar con las autoridades competentes en la prevención y combate del tráfico ilegal de órganos, tejidos y células;
 
-XIV.- Celebrar acuerdos de coordinación y concertación con los sectores público, social y privado para el cumplimiento de su objeto y funciones; y
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-XV.- Las demás que le señalen esta Ley y otras disposiciones legales.
+XIV.- Celebrar acuerdos de coordinación y concertación con los sectores público, social y privado para el cumplimiento de su objeto y funciones;
+
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XV.- Coordinarse con la Secretaría de Salud para que se les proporcione los servicios médicos que sean necesarios a las personas a quienes se les haya realizado un trasplante, para garantizar, en la medida de lo posible, la adecuada recepción y funcionamiento del órgano trasplantado; y
+
+> <small>(ADICIONADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XVI.- Las demás que le señalen esta Ley y otras disposiciones legales.
 
 ### CAPITULO II. DE LOS ORGANOS DE GOBIERNO DEL CENTRO
 
@@ -269,13 +277,19 @@ IV.- Dirigir técnica y administrativamente el funcionamiento del Centro;
 
 V.- Realizar la asignación de los órganos, tejidos y células para los pacientes, tomando como referencia el criterio establecido en el artículo 336 de la Ley General de Salud y presentar un informe detallado de dichas asignaciones a la Junta en cada sesión ordinaria;
 
+> <small>(ADICIONADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+V BIS.- Dar seguimiento a la salud de las personas a quienes se les haya realizado un trasplante, y coordinarse con la Secretaría de Salud para que se les proporcione los servicios médicos que sean necesarios para garantizar, en la medida de lo posible, la adecuada recepción y funcionamiento del órgano trasplantado;
+
 VI.- Organizar y dirigir el Registro;
 
 VII.- Formular el anteproyecto de presupuesto anual del Centro y someterlo a la consideración de la Junta para su aprobación;
 
 VIII.- Vigilar la correcta aplicación de los recursos del Centro, así como ordenar la práctica de auditorias internas y externas que estime necesarias e implementar las medidas de control convenientes;
 
-IX.- Rendir un informe anual ante la Junta o cada vez que ésta lo solicite, en relación a los avances de los programas establecidos, las metas alcanzadas y los estados financieros;
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Rendir un informe anual ante la Junta o cada vez que ésta lo solicite, en relación a los avances de los programas establecidos, las metas alcanzadas, los estados financieros y los casos de receptores de trasplantes, incluyendo el resultado del seguimiento que se haya hecho en cada uno de los casos;
 
 X.- Nombrar y remover al personal del Centro;
 
@@ -347,11 +361,17 @@ VIII.- De presentarse las condiciones óptimas para la intervención, dentro del
 
 En caso de que el Ministerio Público lo considere procedente, se invitará al médico legista para que presencie la extracción de órganos o tejidos;
 
-IX.- Habiéndose realizado el trasplante, el Coordinador Hospitalario dará aviso oportuno por escrito del procedimiento realizado al Registro, a la Procuraduría General de Justicia del Estado y al Centro Nacional de Trasplantes.
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Habiéndose realizado el trasplante, el Coordinador Hospitalario dará aviso oportuno por escrito del procedimiento realizado al Registro, a la Fiscalía General de Justicia del Estado de Sonora, al Centro Nacional de Trasplantes, al Director General del Centro y a la Secretaría de Salud.
 
 ###### ARTICULO 20.
 
 El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos o tejidos destinados a ser trasplantados, así como a los receptores de la donación, cuando la urgencia del caso así lo amerite.
+
+ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)
+
+Se otorgarán becas, estímulos educativos a los hijos de personas con pérdida de vida, que donen sus órganos para trasplante que así lo decidieron de manera voluntaria; dichos estímulos serán entregados por el Gobierno del Estado, a través del Instituto de Becas y Estímulos Educativos del Estado de Sonora.
 
 ###### ARTICULO 21.
 
@@ -410,6 +430,22 @@ B.O. 31 DE MAYO DEL 2010.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 164, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS Y DE LA LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 165, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
