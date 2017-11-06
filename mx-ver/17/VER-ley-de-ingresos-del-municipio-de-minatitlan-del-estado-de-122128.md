@@ -4,7 +4,7 @@ identifier: "VER-ley-de-ingresos-del-municipio-de-minatitlan-del-estado-de-12212
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-30"
-last_updated: "2017-03-10"
+last_updated: "2017-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,23 +25,23 @@ state: "VER"
 
 LEY NÚMERO126 DE INGRESOS DEL MUNICIPIO DE MINATITLÁN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2017
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 10 DE MARZO DE 2017 NO APLICA AL ARTÍCULO 12 DE LA LEY NÚMERO126 DE INGRESOS DEL MUNICIPIO DE MINATITLÁN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2017, PUBLICADA EN EL NÚMERO EXTRAORDINARIO 522 TOMO IX DE LA G.O. DE 30 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario 522 Tomo IX de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 30 de diciembre de 2016.
 
 > <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-Los derechos por los Servicios del Registro Civil Municipal se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
+Los derechos por los Servicios del Registro Civil Municipal se causarán y pagarán, en Unidades de Medida y Actualización, de acuerdo a las cuotas siguientes:
 
 [...]
 
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 2016)</small>
 
-REGISTRO DE NACIMIENTO EXTEMPORÁNEOS 1.5
+Registro de nacimiento extemporáneo 0
 
 [...]
 
