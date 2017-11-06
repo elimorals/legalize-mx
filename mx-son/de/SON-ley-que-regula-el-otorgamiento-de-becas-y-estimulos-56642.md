@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-otorgamiento-de-becas-y-estimulos-56642"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-14"
-last_updated: "2016-07-07"
+last_updated: "2017-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Edición Especial No. 5 al Boletín Oficial del Estado de Sonora, el martes 14 de agosto de 2007.
 
@@ -247,7 +247,9 @@ IX.- Administrar y asegurar el uso adecuado de los recursos del Instituto;
 
 X.- Nombrar y remover a los trabajadores de confianza del Instituto, cuyo nombramiento y remoción no corresponda a la Junta Directiva o a otra autoridad, así como nombrar y remover al personal de base del mismo, en términos de la legislación aplicable;
 
-XI.- Celebrar acuerdos, convenios y contratos con los sectores públicos, privado y social;
+> <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Celebrar acuerdos, convenios, contratos, con los sectores público, privado y social, así como, con el Centro Estatal de Trasplantes;
 
 XII.- Integrar y difundir la información de todos los programas de becas y estímulos educativos disponibles en el Estado, incluyendo tanto los del sector público como los de los sectores privado y social;
 
@@ -399,7 +401,9 @@ B) Para alumnos de escuelas particulares de educación básica: Las orientadas a
 
 C) Para alumnos de escuelas particulares de educación media superior y superior: las orientadas a apoyar a los alumnos inscritos en instituciones educativas particulares que cuentan con un promedio de 8.5 o superior y que sean alumnos regulares;
 
-D) Especiales para alumnos de escuelas públicas de educación primaria y secundaria: Las orientadas a apoyar a alumnos inscritos en instituciones educativas públicas y que tengan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad, a aquellos que habitan en comunidades indígenas, en zonas rurales o urbanas marginadas en condiciones de pobreza extrema, a hijos de madres jefas de familia, a hijos de padres que tengan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad, a hijos de padre que aporte el único sustento económico de la familia, a hijo e hijas de padres desempleados y/o jubilados que cuenten con promedio aprobatorio y sin materias reprobadas;
+> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+D) Especiales para alumnos de escuelas públicas de educación primaria y secundaria: Las orientadas a apoyar a alumnos inscritos en instituciones educativas públicas y que tengan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad, a aquellos que habitan en comunidades indígenas, en zonas rurales o urbanas marginadas en condiciones de pobreza extrema; a hijos e hijas de madres jefas de familia; a hijos e hijas de padres que tengan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad; a hijos e hijas de personas con pérdida de vida, que donen sus órganos para trasplante porque así lo decidieron de manera voluntaria, siempre y cuando se mantengan en el sistema escolar; a hijos e hijas de padre que aporte el único sustento económico de la familia; a hijos e hijas de padres desempleados y/o jubilados que cuenten con promedio aprobatorio y sin materias reprobadas;
 
 E) Para alumnos de escuelas públicas de educación media superior: las orientadas a apoyar a los alumnos inscritos en instituciones educativas públicas que cuentan con un promedio de 8.5 o superior y que sean alumnos regulares; y
 
@@ -836,3 +840,11 @@ B.O. 7 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno el (sic) Estado de Sonora.
+
+B.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 164, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS Y DE LA LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
