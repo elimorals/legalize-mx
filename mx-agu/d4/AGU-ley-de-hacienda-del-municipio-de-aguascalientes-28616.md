@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2010-03-08"
+last_updated: "2017-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -1007,19 +1007,17 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 ###### ARTICULO 75.
 
-…
-
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 I.- Presentar para su autorización ante la Secretaría de Finanzas, los contratos debidamente prenumerados.
 
-II a IV.-…
+II a IV.-.
 
-…
+.
 
-…
+.
 
-…
+.
 
 #### SECCION OCTAVA. De las Obligaciones de Terceros
 
@@ -1583,6 +1581,10 @@ Estos Derechos por cooperación de Obras Públicas se determinará (sic) una vez
 
 Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, serán retribuidos conforme a las tarifas que a efecto señale la Ley de Ingresos del Municipio.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 148 BIS.- Quedarán exentos del pago de derechos generados por el uso de la pensión a cargo del municipio, los propietarios que tengan el carácter de víctimas u ofendidos de un delito, de los vehículos asegurados por la autoridad ministerial, judicial o administrativa; siempre que dichos vehículos hayan sido el objeto de apropiamiento de dicho delito.
+
 ### CAPITULO I
 
 #### SECCION UNICA
@@ -1830,6 +1832,14 @@ P.O. 8 DE MARZO DE 2010.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 166.- SE ADICIONA UN ARTÍCULO 148 BIS A LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2017”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado del Aguascalientes.
 
 ###### ARTICULO CUARTO.
 
