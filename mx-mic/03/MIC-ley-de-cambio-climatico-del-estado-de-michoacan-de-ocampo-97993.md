@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cambio-climatico-del-estado-de-michoacan-de-ocampo-97993
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2016-12-29"
+last_updated: "2017-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -113,9 +113,9 @@ XVI. Programa Estatal: Programa Estatal de Cambio Climático del Estado de Micho
 
 XVII. Programa Municipal: Programa Municipal de Cambio Climático;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Secretaría: Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
+XVIII. Secretaría: Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
 XIX. Secretarías: Las dependencias de la Administración Pública Centralizada del Estado de Michoacán de Ocampo; y,
 
@@ -283,7 +283,11 @@ XVI. Vigilar, a través de la Procuraduría, en el ámbito de su competencia, el
 
 XVII. Las demás que le señale esta Ley y otras disposiciones jurídicas.
 
-ARTÍCULO 9°, Corresponde a los Ayuntamientos, las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 9°.
+
+Corresponde a los Gobiernos Municipales, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política municipal en materia de cambio climático en concordancia con la política nacional y estatal;
 
@@ -305,7 +309,9 @@ f) Protección Civil; y,
 
 g) Manejo Integral de Residuos Sólidos Urbanos;
 
-IV. Suscribir convenios de coordinación o concertación con ciudadanos, empresariales, educativas, con organizaciones de la sociedad civil, institutos de investigación, en materia de cambio climático;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+IV. Suscribir convenios de coordinación o concertación con organizaciones de la sociedad civil y organismos de carácter público y privado, en materia de cambio climático;
 
 V. Aplicar las estrategias, programas y proyectos integrales de mitigación al cambio climático para impulsar el transporte eficiente y sustentable, público y privado;
 
@@ -409,9 +415,11 @@ La política estatal de mitigación debe incluir, a través de los instrumentos 
 
 Esta política deberá establecer planes, programas, acciones, instrumentos económicos, de política, regulatorios y de inspección y vigilancia para el logro gradual de metas de reducción de emisiones específicas, por sectores y actividades tomando como referencia los escenarios de línea base y líneas de base por sector que se establezcan en los instrumentos previstos por la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
-Los objetivos de la política estatal para la mitigación son:
+Los objetivos de la política estatal para la mitigación del cambio climático son:
 
 I. Promover la protección del medio ambiente, el desarrollo sustentable y el derecho a un medio ambiente sano a través de la mitigación de emisiones;
 
@@ -425,9 +433,21 @@ V. Promover de manera prioritaria, tecnologías de mitigación cuyas emisiones d
 
 VI. Impulsar y fortalecer programas de reforestación y políticas de captura de carbono y de manejo sustentable de los recursos forestales;
 
-VII. Promover como objetivo alcanzar una tasa cero de deforestación entre los involucrados en la industria forestal; y,
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Promover la participación de los sectores social, público y privado en el diseño, la elaboración, la instrumentación y la evaluación de las políticas y acciones estatales de mitigación.
+VII. Promover como objetivo alcanzar una tasa cero de deforestación entre los involucrados en la industria forestal;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Promover la participación de los sectores social, público y privado en el diseño, la elaboración, la instrumentación y la evaluación de las políticas y acciones estatales de mitigación;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+IX. Promover programas para resarcir los daños de incendios forestales, dando prioridad a las zonas naturales protegidas; y,
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+X. Impulsar programas y políticas públicas para reducir el cambio de uso de suelo en zonas forestales.
 
 ###### ARTÍCULO 16.
 
@@ -499,9 +519,9 @@ La Comisión Intersecretarial será integrada por los titulares de:
 
 I. El Titular del Poder Ejecutivo del Estado o la persona que éste designe, quien tendrá el carácter de Presidente;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
-Il. La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, cuyo titular fungirá como Vicepresidente;
+Il. La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, cuyo titular fungirá como Vicepresidente;
 
 III. La Secretaria de Gobierno;
 
@@ -515,7 +535,9 @@ VII. La Secretaria de Finanzas y Administración;
 
 VIII. La Secretaría de Seguridad Pública;
 
-IX. La Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+IX. La Secretaría de Desarrollo Rural y Agroalimentario;
 
 X. La Secretaría de Educación;
 
@@ -523,9 +545,11 @@ XI. La Secretaría de Turismo;
 
 XII. La Procuraduría de Protección al Ambiente;
 
-XIII. La Coordinación de Planeación para el Desarrollo del Estado de Michoacán;
+XIII. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2017)
 
-XIV. La Secretaría de Política Social;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+XIV. La Secretaría de Desarrollo Social y Humano;
 
 XV. La Comisión Estatal de Agua y Gestión de Cuencas;
 
@@ -535,7 +559,9 @@ XVII. La Comisión de Pesca del Estado de Michoacán;
 
 XVIII. El Consejo Estatal de Ciencia, Tecnología e Innovación; y,
 
-XIX. El Centro Estatal de Desarrollo Municipal.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+XIX. El Centro Estatal para el Desarrollo Municipal.
 
 Los titulares de las dependencias y entidades integrantes de la Comisión Intersecretarial, tendrán el carácter de Vocales y en caso de que se encuentren imposibilitados de asistir, podrán designar a su respectivo suplente.
 
@@ -1164,3 +1190,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 7 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 400 POR EL QUE “SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 3°; EL ARTÍCULO 9°; EL PRIMER PÁRRAFO Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 15; LAS FRACCIONES II, IX, XIV, XIX DEL ARTÍCULO 25; SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 15; Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 25; DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
