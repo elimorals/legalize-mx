@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-08-22"
+last_updated: "2017-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -949,7 +949,7 @@ Al concluir el último ejercicio presupuestal, del período constitucional, los 
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2017)</small>
 
-8. Proponer al Congreso del Estado a más tardar el 15 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.”
+8. Proponer al Congreso del Estado a más tardar el 15 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva."
 
 9. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo.
 
@@ -960,6 +960,10 @@ Al concluir el último ejercicio presupuestal, del período constitucional, los 
 VI. En materia de desarrollo económico y social:
 
 1. Conceder subsidios, apoyos administrativos o estímulos fiscales, en los términos de la legislación de la materia, con la finalidad de impulsar la actividad económica del municipio, así como el establecimiento de nuevas empresas y la generación de empleos.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+Se necesitará de la autorización de las dos terceras partes de los miembros del Ayuntamiento y se limitará el subsidio, apoyo administrativo o estímulo fiscal hasta por un 30% del valor de la contribución, para todos aquellos casos que determine el Ayuntamiento y no estén previstos en el párrafo anterior.
 
 2. Promover y apoyar los programas estatales y federales de desarrollo económico y de creación de empleos.
 
@@ -3645,7 +3649,7 @@ La prescripción no puede comenzar ni correr:
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-l. Contra las personas con discapacidad intelectual, sino cuando se haya discernido su tutela conforme a la Ley.
+I. Contra las personas con discapacidad intelectual, sino cuando se haya discernido su tutela conforme a la Ley.
 
 II. Contra los trabajadores incorporados al servicio militar en tiempo de guerra.
 
@@ -4223,7 +4227,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 2 DE ENERO DE 2007.
 
-PRIMERO.- Esta Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -4432,5 +4436,15 @@ P.O. 22 DE AGOSTO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y una vez que entre en vigor la reforma al Artículo 158-U, Fracción V, Numerales 2 y 8, de la Constitución Política del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 980.- SE MODIFICA EL NUMERAL 1 EN LA FRACCIÓN VI DEL ARTÍCULO 102, DEL CÓDIGO MUINICIPAL (SIC) PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 383, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
