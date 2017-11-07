@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-eliminar-y-sancionar-la-desaparicion-107633"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-06"
-last_updated: "2015-05-06"
+last_updated: "2017-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-03-18"
 ---
 # LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICION FORZADA DE PERSONAS Y LA DESAPARICION POR PARTICULARES EN EL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.G. EL 7 DE NOVIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 5 DE DICIEMBRE DE 2018, DE CONFORMIDAD CON LO ESTABLECIDO EN EL SEGUNDO PÁRRAFO DEL ARTÍCULO TRANSITORIO DÉCIMO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO.]</small>
+
 LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 6 de mayo de 2015.
 
@@ -325,3 +327,17 @@ El Sistema de Información de Víctimas de Desaparición a cargo de La Procuradu
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días del mes de febrero del año dos mil quince.- POR LA MESA DIRECTIVA.- DIP. GABRIEL ANTONIO GODÍNEZ JIMÉNEZ, PRESIDENTE.- DIP. ROSALÍO ALFREDO PINEDA SILVA, SECRETARIO.- DIP. ERNESTINA GODOY RAMOS, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de marzo del año dos mil quince. - EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS, FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN EL DISTRITO FEDERAL Y SE EXPIDE LA LEY PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley para Prevenir, Eliminar y Sancionar la Desaparición Forzada de Personas y la Desaparición por Particulares en el Distrito Federal y se crea la Ley para Prevenir, Eliminar y Sancionar la Desaparición Forzada de Personas y la Desaparición por Particulares en la Ciudad de México.
+
+TERCERO.- El presente decreto entrará en vigor el 5 de diciembre de 2018, de conformidad con lo establecido en el segundo párrafo del Artículo Transitorio Décimo Primero de la Constitución Política de la Ciudad de México.
+
+CUARTO.- En tanto no entre en vigor la Unidad de Medida y Actualización, se utilizará la Unidad de Cuenta vigente en la Ciudad de México.
