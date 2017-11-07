@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2017-06-01"
+last_updated: "2017-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -503,71 +503,113 @@ Igual protesta está obligado a rendir el integrante del Ayuntamiento que se pre
 
 ### Capítulo III. De la Entrega-Recepción de la Administración Pública Municipal
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 21.
 
-El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento que contenga la situación que guarda la administración pública municipal.
+El Ayuntamiento saliente realizará la entrega y recepción de la documentación impresa y electrónica que contenga la situación que guarda la Administración Pública Municipal, el día en que se instale el nuevo Ayuntamiento, en términos de la presente Ley y demás disposiciones legales aplicables. El Congreso del Estado, a través de la Auditoría Superior, designará un representante para que participe como observador.
 
-La entrega-recepción, es un acto obligatorio que no deberá dejar de realizarse por ningún motivo y se realizará durante los quince días naturales siguientes a la instalación del nuevo Ayuntamiento.
+En el último trimestre de la administración, los ayuntamientos deberán conformar una comisión de entrega, cuyo objetivo será coordinar las diferentes acciones de integración de documentos, conciliación, consolidación y verificación de resultados, así como de los asuntos programáticos, presupuestales, contables, financieros, administrativos, patrimoniales, técnicos y jurídicos del período constitucional, para dar cumplimiento al proceso de entrega y recepción. Al efecto, la comisión de entrega definirá la estrategia de operación interna, los mecanismos de coordinación necesarios y en su caso las acciones adicionales que se requieran.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+La comisión de entrega estará integrada por:
 
-En la entrega-recepción, la Auditoría Superior de Michoacán, designará un representante para que participe como observador.
+I. El Presidente Municipal, quien lo presidirá;
+
+II. El Síndico, quien fungirá como vicepresidente;
+
+III. El Contralor Municipal, quien fungirá como Secretario Técnico; y,
+
+IV. Y los demás servidores públicos a consideración del Presidente Municipal, quienes fungirán como vocales.
+
+El Secretario Técnico será responsable de verificar los avances e informar de ello en las reuniones de la comisión de entrega, levantar las actas correspondientes y dar seguimiento al cumplimiento de los acuerdos. La comisión de entrega se reunirá por lo menos una vez al mes durante el período junio-julio-agosto del último año de la administración. Sus integrantes no podrán delegar sus funciones relativas al mismo ni percibirán remuneración adicional por ello.
+
+Declarado electo el nuevo Ayuntamiento por resolución inatacable de autoridad competente, el Presidente Municipal electo comunicará de inmediato al Ayuntamiento en funciones los nombres de las personas que conformarán la comisión de recepción, que se encargará de revisar la información y la integración de documentos relativos al proceso de rendición de cuentas. Al efecto, las comisiones de entrega y recepción se reunirán por lo menos una vez, previamente a la instalación del nuevo Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-El documento referido en el artículo anterior, deberá contener:
+Los documentos a que se refiere el artículo anterior serán:
 
-I. Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentren los libros de las administraciones anteriores;
+I. Los libros de actas de las sesiones de Cabildo del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-II. La documentación relativa a la situación financiera y los estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
+II. La documentación relativa a la situación financiera y estados contables que deberán contener los libros de contabilidad y balances, así como los registros auxiliares, correspondientes al Ayuntamiento saliente; y la documentación comprobatoria de los ingresos, patrimonio y gastos;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por la Auditoría Superior o por el Congreso del Estado a los servidores o ex servidores públicos responsables, durante los ejercicios de la administración municipal saliente;
 
-III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá las aprobaciones y observaciones y recomendaciones requerimientos o apercibimientos emitidos por Auditoría Superior de Michoacán y demás órganos con facultades para la fiscalización en la aplicación de recursos municipales;
+IV. La situación de la deuda pública municipal y la documentación relativa a la misma;
 
-IV. La situación de la deuda pública municipal, documentación relativa a la misma y su registro;
+V. El estado de la obra pública ejecutada, así como la que esté en proceso y la documentación relativa a su planeación, programación, presupuestación y ejecución, señalando debidamente el carácter federal, estatal o municipal de los recursos utilizados;
 
-V. El estado de la obra pública ejecutada y en proceso en el municipio y la documentación relativa a la misma;
+VI. La documentación relativa a los proyectos y programas ejecutados y no ejecutados, se guardarán y registrarán en un sistema de datos con soporte digitalizado y acceso público. Los cuales deberán ser presentados y entregados a la administración entrante. De los proyectos y programas antes mencionados, deberán crear un inventario, el cual debe contener un folio de captura y búsqueda en dicho sistema de datos;
 
-VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, presentados ante la Contraloría del Estado;
+VII. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como informes y comprobantes de los mismos;
 
-VII. La plantilla y los expedientes del personal al servicio del municipio, antigüedad, prestaciones, catálogo de puestos y demás información al respecto;
+VIII. El estado que guarda el cumplimiento de obligaciones fiscales, incluidas las de seguridad social, de carácter federal, estatal o municipal, según sea el caso;
 
-VIII. La documentación relativa a convenios o contratos que el municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares;
+IX. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
 
-IX. La documentación relativa a los proyectos aprobados y ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
+X. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con la Federación o con particulares;
 
-X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles propiedad del municipio, así como el inventario de los bienes inmuebles propiedad del municipio que se encuentren en comodato;
+XI. La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guarden los que estén en proceso de ejecución;
 
-XI. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y,
+XII. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+XIII. El inventario de los programas informáticos con que se cuenta, el respaldo electrónico de la información y de las bases de datos;
 
-XII. La información relativa a los procedimientos jurisdiccionales o administrativos en materia laboral, civil, penal o cualquier otra en que el ayuntamiento sea parte, así como los asuntos en trámite, debiendo hacerlo de inmediato.
+XIV. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+XV. Los juicios en trámite, su estado procesal y el pasivo contingente en cantidad líquida o numeraria que representen;
 
-XIII. La demás información que se considere importante para garantizar la continuidad de la Administración Pública Municipal.
+XVI. Los asuntos, contratos, convenios u obras pendientes de atención o trámite, conforme al ejercicio de atribuciones del Ayuntamiento; y,
+
+XVII. Toda la información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-El Secretario del Ayuntamiento entrante, levantara acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente.
+El Congreso del Estado a través de la Auditoría Superior iniciará la capacitación a servidores públicos municipales, en los meses de mayo y junio, quienes tendrán como fecha limite el treinta y uno de julio del último año del ejercicio constitucional, para la integración documental en materia de organización, planeación, marco regulatorio y situación legal, administrativa, de obra pública y de transparencia.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+La capacitación de los integrantes de los ayuntamientos electos se desarrollará en los meses de julio y agosto y concluirá antes de su instalación.
+
+En la actualización e integración de la documentación final, se deben incluir la captación de ingresos y los gastos menores de la última quincena, de manera que, con límite al treinta y uno de agosto, se produzca la información completa y definitiva que se anexará al expediente de entrega y recepción.
+
+La información se clasificará conforme a lo siguiente:
+
+I. Organización: Toda documentación relativa a la conformación y operación del Ayuntamiento;
+
+II. Planeación: Planes y programas municipales, así como estrategias y líneas de acción para el logro de objetivos y metas;
+
+III. Marco regulatorio y situación legal: Disposiciones jurídicas que norman la actuación del Ayuntamiento, así como a los compromisos que debe atender, derivados de un instrumento o proceso jurídico;
+
+IV. Financiera: Información presupuestaria y contable de las transacciones efectuadas por el Ayuntamiento, que expresan su situación económica, los resultados de su operación y los cambios en su patrimonio;
+
+V. Administrativa: Todo lo relacionado con los recursos humanos, materiales y técnicos del Ayuntamiento, así como la documentación y elementos utilizados en la operación del mismo;
+
+VI. Obra pública: Engloba todo lo relativo a obras terminadas o en proceso, de acuerdo con el tipo de recursos utilizados y la modalidad de ejecución;
+
+VII. Transparencia: Comprende los asuntos pendientes de atender y el cumplimiento por parte de la autoridad municipal de sus obligaciones en esta materia;
+
+VIII. Control y fiscalización: Observaciones en proceso de atención, resultantes de la fiscalización de las cuentas públicas y la revisión de la gestión municipal; y,
+
+IX. Compromisos institucionales: Actividades de atención prioritaria durante los noventa días posteriores a la entrega y recepción.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 24.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, que se encargará de analizar el expediente integrado con la documentación conducente, para formular en un plazo de veinticinco días naturales un dictamen que señale si la entrega-recepción fue completa o no.
+El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega y recepción, con especificación de los documentos anexos, firmada al margen y al calce por quienes intervengan, de la cual se proporcionará copia certificada a los integrantes del Ayuntamiento saliente, al entrante y al Congreso del Estado a través de la Auditoría Superior, en un plazo no mayor de quince días naturales.
 
-El dictamen se someterá dentro de los diez días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual deberá de aprobarlo dentro de los cinco días naturales siguientes al en que sea sometido el mismo.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-El Ayuntamiento habiendo conocido el dictamen, emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
+Concluida la entrega y recepción, el Ayuntamiento entrante designará una comisión especial, de la que deberán formar parte, el Síndico, el Secretario del Ayuntamiento, el Tesorero y los demás integrantes a consideración del Presidente Municipal, misma que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo no mayor a 20 días naturales.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+El dictamen se someterá, dentro de los diez días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos de la administración anterior, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria.
 
-El Ayuntamiento, dentro de los diez días naturales, remitirá copia del expediente de entrega-recepción, así como el dictamen aprobado del mismo por el Ayuntamiento al Congreso del Estado, para el efecto de revisión de las cuentas públicas municipales.
+La respuesta se producirá en un plazo no mayor a setenta y dos horas, contado a partir de la notificación. Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión y dentro de los quince días naturales siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado a través de la Auditoría Superior, para el efecto de revisión de las cuentas públicas municipales.
 
 ### Capítulo IV. Del Funcionamiento de los Ayuntamientos
 
@@ -601,15 +643,17 @@ Los acuerdos se tomarán por mayoría de votos de los miembros presentes en la s
 
 El Ayuntamiento sesionará las veces que señale su reglamento, pero nunca serán menos de dos sesiones ordinarias al mes.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Cada sesión del Ayuntamiento se iniciará con la lectura del Acta de la sesión anterior sometiéndose a aprobación o rectificación de quienes intervinieron en la misma. Posteriormente el Secretario del Ayuntamiento informará sobre el cumplimiento de los acuerdos de la sesión anterior. Cumplido esto, se deliberarán los asuntos restantes del orden del día.
+Cada sesión del Ayuntamiento se iniciará con la lectura del acta de la sesión anterior sometiéndose a aprobación o rectificación de quienes intervinieron en la misma. Posteriormente el Secretario del Ayuntamiento informará sobre el cumplimiento de los acuerdos de la sesión anterior. Cumplido esto, se deliberarán los asuntos restantes del orden del día.
 
-Los acuerdos del Ayuntamiento se registrarán en los Libros de Actas en original y duplicado que serán firmados por los miembros que hayan estado presentes.
+Los acuerdos del Ayuntamiento se registrarán en los libros de actas en original y duplicado, mismos que deberán tener un respaldo digitalizado, estableciendo una numeración anual consecutiva y única para cada acuerdo votado en sesión de Cabildo, siendo firmadas por los miembros que hayan estado presentes.
 
-El Secretario del Ayuntamiento deberá expedir copias certificadas de los acuerdos asentados en el Libro a los miembros del Ayuntamiento que lo soliciten.
+El Secretario del Ayuntamiento deberá expedir copias certificadas de los acuerdos asentados en el libro a los miembros del Ayuntamiento que lo soliciten.
 
-En el curso del primer mes de cada año, el Ayuntamiento deberá remitir a la Dirección de Archivos del Poder Ejecutivo, un ejemplar del Libro de Actas de las Sesiones del Ayuntamiento correspondiente al año anterior.
+En el curso del primer mes de cada año, el Ayuntamiento deberá remitir a la Dirección de Archivos del Poder Ejecutivo, un ejemplar del libro de actas de las sesiones del Ayuntamiento correspondiente al año anterior.
 
 ###### Artículo 30.
 
@@ -3161,7 +3205,7 @@ Artículo Segundo. Remítase el presente Decreto al Gobernador del Estado para s
 
 P.O. 1 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 363 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 13 Y 50 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 363 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 13 Y 50 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3172,3 +3216,11 @@ TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputad
 CUARTO. Lo no establecido en el presente Decreto, estará a lo dispuesto en reglamentos y acuerdos que para el efecto emita el Instituto Electoral de Michoacán.
 
 QUINTO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
+
+P.O. 7 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 405 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 21, 22, 23, 24, 25 Y 29 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
