@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-consejo-tecnico-de-adopciones-del-95222"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-25"
-last_updated: "2013-06-25"
+last_updated: "2017-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO TECNICO DE ADOPCIONES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERNO DEL CONSEJO TÉCNICO DE ADOPCIONES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 25 de junio de 2013.
 
@@ -239,7 +241,7 @@ XII. Llenar la solicitud proporcionada por la Procuraduría;
 
 XIII. Estudio socioeconómico realizado por personal de la Procuraduría;
 
-XIV Estudio psicológico realizado por personal de la Procuraduría;
+XIV. Estudio psicológico realizado por personal de la Procuraduría;
 
 XV. Las solicitudes extranjeras del o los solicitantes de adopción internacional, cuyos países sean parte de la Convención de la Haya, además de los anteriores, que serán remitidos por su autoridad central a través de valija diplomática, deberán cumplir los siguientes requisitos:
 
@@ -446,3 +448,21 @@ TESTIGO DE HONOR
 SEÑORA MANÉ SÁNCHEZ CÁMARA DE CUÉ,
 
 PRESIDENTA DEL CONSEJO CONSULTIVO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Oaxaca.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos iniciados con anterioridad a la publicación del presente reglamento, seguirán su trámite con las normas aplicables al inicio del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Reglamento Interno del Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, así como todas aquellas disposiciones legales aplicables que contravengan lo establecido en el presente Reglamento.
