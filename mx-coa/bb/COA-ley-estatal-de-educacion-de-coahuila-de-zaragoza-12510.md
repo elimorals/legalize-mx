@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2017-06-20"
+last_updated: "2017-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -743,9 +743,15 @@ Para la identificación, evaluación, atención educativa, acreditación y certi
 
 La educación especial tendrá como propósito favorecer la integración de menores con necesidades especiales a los planteles de educación regular. Asimismo, ofrecerá escuelas de educación especial para aquellos alumnos que no se logren integrar a las de carácter regular en las que se satisfagan las necesidades básicas de aprendizaje y la convivencia autónoma social y productiva.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
+En todos los casos se atenderá a los educandos bajo un modelo de enseñanza adecuado a sus condiciones y necesidades de aprendizaje. Los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género deberán ser la base fundamental de este modelo y privilegiar un sistema incluyente para los alumnos.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 45.
 
-El servicio de educación especial incluirá orientación a los padres o tutores y a los maestros de las escuelas regulares a las que se integren alumnos con necesidades especiales.
+El servicio de educación especial, bajo el principio de inclusión, incluirá orientación y programas de capacitación y apoyo a los padres o tutores y a los maestros de las escuelas regulares a las que se integren alumnos con necesidades especiales.
 
 ###### ARTICULO 46.
 
@@ -1842,3 +1848,11 @@ P.O. 20 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 855.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2 DE LA LEY ESTATAL DE EDUCACIÓN DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 983.- SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 44, Y SE MODIFICA EL CONTENIDO DEL ARTÍCULO 45 DE LA LEY ESTATAL DE EDUCACIÓN DE COAHUILA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
