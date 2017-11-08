@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2017-06-28"
+last_updated: "2017-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -407,13 +407,17 @@ I.- Salvaguardar la integridad física de los educandos en las escuelas, especia
 
 II.- Vigilar que en el interior y en los alrededores de los planteles educativos se garantice la integridad física y moral de la comunidad educativa, en materia de protección civil y señalamientos viales con la finalidad de que exista un entorno seguro para quienes acuden a los centros escolares.
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
 
-III.- Resguardar y proteger las instalaciones fuera del horario escolar o cuando se encuentren sin personal administrativo o alumnado, y cuando el plantel educativo sea objeto de robo o daño en sus instalaciones, deberá acudir a las autoridades correspondientes a denunciar cualquier hecho en ese sentido, a efecto de que sea seguido el procedimiento legal correspondiente; y
+III.- Resguardar y proteger las instalaciones fuera del horario escolar o cuando se encuentren sin personal administrativo o alumnado, y cuando el plantel educativo sea objeto de robo o daño en sus instalaciones, deberá acudir a las autoridades correspondientes a denunciar cualquier hecho en ese sentido, a efecto de que sea seguido el procedimiento legal correspondiente;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
 
-IV.- Vigilar que en el interior o en los alrededores de los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
+IV.- Vigilar que en el interior o en los alrededores de los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+V.- Desarrollar y aplicar programas y acciones para la prevención de conductas violentas o antisociales que impidan la convivencia sana y pacífica y/o que ponga en riesgo la integridad personal o colectiva de la comunidad educativa; así como la detección, atención y canalización a instituciones especializadas, en caso de requerirse, de aquellos alumnos que presten indicadores de riesgo sobre dichas conductas.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -2042,3 +2046,9 @@ P.O. 28 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 275. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES XVIII Y XIX Y SE ADICIONA UNA FRACCIÓN XX DEL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO."
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 307. SE REFORMAN LAS FRACCIONES III Y IV; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 20 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
