@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2017-10-21"
+last_updated: "2017-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -3247,6 +3247,10 @@ En el diseño de las políticas públicas, el Gobierno del Estado y los municipi
 
 Asimismo, los diversos proyectos de obra pública, en cualquiera de los órdenes de Gobierno, deberán garantizar, entre otras cosas, que el desarrollo sea integral y sustentable; que los mismos sean evaluables mediante criterios de carácter ambiental, económico y social, que tiendan a mejorar la calidad de vida y la productividad de las personas; que consideren medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+La legislación y las normas que para tal efecto se expidan en materia ambiental, tendrán como prioridad, el fomento a las medidas y estrategias de prevención y adaptación al cambio climático en el Estado, así como a la mitigación de sus efectos adversos; para atender dicho fenómeno global; así mismo, deberán propiciar el aprovechamiento sustentable de la precipitación pluvial y de la energía solar y eólica.
+
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO V], P.O. 9 DE MAYO DE 2007)</small>
 
 ### CAPITULO VI.
@@ -4955,7 +4959,7 @@ Hasta en tanto entre en operaciones el Tribunal Estatal de Justicia Administrati
 
 P.O. 30 DE AGOSTO DE 2017.
 
-[TRANSITORIOS DEL “DECRETO N° LXV/RFCNT/0374/2017 VIII P.E.”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCNT/0374/2017 VIII P.E.”.]
 
 PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
 
@@ -4966,3 +4970,11 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCNT/0398/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin necesidad de agotar el trámite del artículo 202 de la Constitución Política del Estado, por ser una adecuación a la Constitución Federal, conforme al último párrafo del referido precepto.
+
+P.O. 8 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCNT/0357/2017 V P.E., POR MEDIO DEL CUAL SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 173 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el computo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
