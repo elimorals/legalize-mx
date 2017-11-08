@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-la-transparencia-y-9576
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2017-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA TRANSPARENCIA Y RENDICION DE CUENTAS DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de septiembre de 2013.
 
 MIGUEL MÁRQUEZ MÁRQUEZ, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III, y 79 de la Constitución Política del Estado de Guanajuato, y en observancia a lo dispuesto por los artículos 2o., 3o. párrafo segundo, 6o., 9o., 13 fracción X y 32 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -1426,3 +1430,73 @@ ANTONIO SALVADOR GARCÍA LÓPEZ
 LA SECRETARIA DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
 MA. ISABEL TINOCO TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 202, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del vigente Reglamento Interior
+
+Articulo Segundo. Se abroga Reglamento Interior de la Secretaría de la Transparencia y Rendición de Cuentas, contenido en el Decreto Gubernativo número 51, publicado en el Periódico Oficial del Gobierno del Estado numero 143 Tercera Parte, el 6 de septiembre de 2013.
+
+Asuntos en trámite
+
+Artículo Tercero. Todo trámite o procedimiento administrativo que se haya iniciado o se encuentre en proceso de resolución a la entrada en vigor del presente Decreto deberá continuar tramitándose de acuerdo a las disposiciones legales y normativas vigentes al momento de iniciarse por lo que cuando se refiere a las unidades administrativas que desaparecen o modifican su denominación se entenderá atribuida a las unidades a que se refiere el presente ordenamiento y las que se atribuya la competencia específica que en cada caso se relacione conforme al siguiente cuadro:
+
+Unidades administrativas Nuevas denominaciones de las
+
+abrogadas unidades administrativas
+
+Dirección de Asesoría legal, Dirección de Investigación "A"
+
+situación patrimonial y
+
+responsabilidades
+
+Dirección de Quejas, Dirección de Investigación "B"
+
+Denuncias y Responsabilidad
+
+Patrimonial
+
+Dirección de Evaluación y Dirección de Investigaciones de
+
+Control a la Administración Evaluación y Control a la
+
+Pública "D" Administración Pública
+
+Dirección de Evaluación y Dirección de Investigación de
+
+Control de Programas de Obra Evaluación y Control de Programas
+
+Pública "D" de Obra Pública
+
+Direcciones de Evaluaciones Órgano Interno de Control
+
+Especializadas
+
+Dirección de Programación, Dirección de Seguimiento a Órganos
+
+Control y Seguimiento de Control Interno
+
+Dirección de Gestión ética Unidad de Ética, integridad y
+
+Prevención de Conflictos de
+
+Intereses
+
+Procedimientos de asuntos en trámite
+
+Artículo Cuarto. Las investigaciones, quejas, denuncias y procedimientos de responsabilidad administrativa de servidores públicos, personas físicas o morales, así como los recursos respectivos, a que se refiera la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, deberán tramitarse, substanciarse, resolverse y concluirse por la unidad administrativa de la Secretaría, que antes de la entrada en vigor del presente Reglamento los haya iniciado.
+
+Transferencia de recursos
+
+Artículo Quinto. La Dirección General de Administración y Finanzas, realizará las acciones y gestiones necesarias para que en su caso, los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan en los términos del presente ordenamiento, de conformidad con las normas aplicables y la disponibilidad presupuestaria.
+
+Así también las referencias a asuntos de las demás unidades administrativas de la Secretaría cuya denominación cambie, se consideraran vinculadas a las unidades administrativas a cuya competencia correspondan conforme al presente Reglamento.
