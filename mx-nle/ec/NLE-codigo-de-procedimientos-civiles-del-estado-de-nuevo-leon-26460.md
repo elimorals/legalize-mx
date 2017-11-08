@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2017-06-23"
+last_updated: "2017-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -3669,7 +3669,9 @@ I.- Si el hecho fuera personal del obligado y no pudiere prestarse por otro, se 
 
 II.- Si el hecho pudiere prestarse por otro, el juez, nombrará persona que lo ejecute a costa del obligado en el término que le fije;
 
-III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el juez lo ejecutará por el obligado, expresándose en el documento que se otorgó en rebeldía.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el juez ordenará, mediante oficio en el que se remita copia certificada de las constancias conducentes u otorgando el acceso al expediente electrónico a través del Tribunal Virtual, que se realice la protocolización ante el Notario Público que elija el ejecutante. En el instrumento público que protocolice el acto jurídico respectivo se hará constar que se otorga en rebeldía del obligado, en ejecución de la sentencia emitida en el juicio, así como por mandamiento de la autoridad judicial; sin que sea necesario, para su validez, las firmas del juez y de quien de fe de su actuar.
 
 ###### Artículo 476.
 
@@ -4185,9 +4187,11 @@ Fincado el remate, al ordenar el juez el otorgamiento de la escritura de adjudic
 
 Si el comprador no consignare el precio en el plazo que el juez señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si no se hubiere celebrado perdiendo el postor el depósito a que se refiere el artículo 535, que se aplicara por vía de indemnización por partes iguales, al ejecutante y al ejecutado.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 550.
 
-Consignado el precio, se hará saber al deudor que dentro del tercer día otorgue la escritura de venta a favor del comprador, apercibido, que de no hacerlo, el juez lo hará en su rebeldía, haciéndolo constar así.
+Consignado el precio, se hará saber al deudor que dentro del tercer día otorgue la escritura de venta a favor del comprador, apercibido, que de no hacerlo, el juez ordenará que se protocolice el remate en rebeldía ante el Notario Público que elija el ejecutante, en los términos previstos en la fracción III del artículo 475 de este Código.
 
 ###### Artículo 551.
 
@@ -9868,5 +9872,11 @@ Segundo.- Los procedimientos cuya tramitación se hubiera iniciado antes de la e
 P.O. 23 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 271. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 954 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 299. SE REFORMA EL ARTÍCULO 2141 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 475 Y EL ARTÍCULO 550 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 Y EL ARTÍCULO 123 DE LA LEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
