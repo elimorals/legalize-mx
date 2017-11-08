@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2017-01-18"
+last_updated: "2017-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -847,6 +847,10 @@ Antes de que la escritura sea firmada por los otorgantes, éstos podrán pedir q
 
 Firmada la escritura por los intervinientes, para cuyo caso deberá obrar expresamente el nombre de quien la suscribe en la parte inferior de su firma, el Notario estampará su firma y sello, quedando con ello autorizada preventivamente para que surta plenamente los efectos jurídicos que sean propios a su naturaleza.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+En los casos previstos por el Código Civil y el Código de Procedimientos Civiles, cuando se ordene la protocolización en rebeldía del obligado, en ejecución de la sentencia emitida en el juicio, así como por mandamiento de la autoridad judicial; por no ser posible la firma de la persona que otorga el acto en esas condiciones; únicamente deberá insertarse la leyenda de “se otorga en rebeldía por mandamiento de autoridad judicial" en la parte superior de su nombre.
+
 Cuando la escritura no sea firmada en el mismo acto por todos los comparecientes, siempre que no se deba firmar en un solo acto por disposición legal, el Notario irá asentando el "Ante mi" con su firma a medida que sea firmada por cada una de las partes, expresando la fecha en cada caso y cuando todos la hayan firmado, imprimirá además su sello, con todo lo cual quedará autorizada preventivamente.
 
 ###### Artículo 114.
@@ -907,9 +911,11 @@ Si el instrumento a que se hace mención en este artículo se otorgó en el Prot
 
 Las escrituras extendidas en el Protocolo por un Notario, podrán ser firmadas preventiva o definitivamente según el caso, por quien lo sustituya en sus funciones o suceda.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 123.
 
-Las enajenaciones de bienes inmuebles y la constitución o transmisiones de derechos reales, se sujetarán a lo dispuesto por esta Ley y el Código Civil.
+Las enajenaciones de bienes inmuebles y la constitución o transmisiones de derechos reales, se sujetarán a lo dispuesto por esta Ley, el Código Civil y el Código de Procedimientos Civiles, según sea el caso.
 
 ###### Artículo 124.
 
@@ -1474,3 +1480,9 @@ Primero.- El presente Decreto entrará en vigor el día primero de enero de 2017
 Segundo.- Los avisos, inscripciones, escrituras, y demás trámites llevados a cabo previo a la entrada en vigor del presente decreto se sujetarán a los plazos, términos y condiciones vigentes al momento de su realización.
 
 Tercero.- El primer informe a que (sic) referencia el segundo párrafo del artículo 138 de la Ley del Notariado del Estado de Nuevo León deberá presentarse durante el mes de agosto de 2017.
+
+P.O. 8 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 299. SE REFORMA EL ARTÍCULO 2141 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 475 Y EL ARTÍCULO 550 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 Y EL ARTÍCULO 123 DE LA LEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
