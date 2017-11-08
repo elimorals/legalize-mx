@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2017-10-25"
+last_updated: "2017-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -12555,9 +12555,11 @@ Para que la promesa de contratar sea válida, debe constar por escrito, contener
 
 La promesa de contratar solo surtirá efectos contra tercero cuando se inscriba conforme a la fracción XIV del artículo 2894.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
 ###### Art. 2141.
 
-Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fé, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+Si el promitente rehúsa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía ordenará el juez que se realice en los términos previstos en la fracción III del artículo 475 del Código de Procedimientos Civiles; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. DE LA COMPRA-VENTA
 
@@ -17341,9 +17343,15 @@ P.O. 12 DE JUNIO DE 2017.
 
 P.O. 25 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 295. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DEL REGISTRO CIVIL; Y SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 52 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 295. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DEL REGISTRO CIVIL; Y SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 52 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 299. SE REFORMA EL ARTÍCULO 2141 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN III DEL ARTICULO 475 Y EL ARTÍCULO 550 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 Y EL ARTÍCULO 123 DE LA LEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
