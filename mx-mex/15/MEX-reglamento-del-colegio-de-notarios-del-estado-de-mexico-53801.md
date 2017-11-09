@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-colegio-de-notarios-del-estado-de-mexico-53801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-22"
-last_updated: "2006-12-22"
+last_updated: "2017-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL COLEGIO DE NOTARIOS DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL COLEGIO DE NOTARIOS DEL ESTADO DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL COLEGIO DE NOTARIOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL COLEGIO DE NOTARIOS DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de diciembre de 2006.
 
@@ -927,3 +929,17 @@ LIC. RAFAEL MARTIN ECHEVERRI GONZALEZ
 Secretario
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 9 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL COLEGIO DE NOTARIOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Se abroga el Reglamento Interior del Colegio de Notarios del Estado de México publicado en el periódico oficial del Gobierno del Estado de México, “Gaceta del Gobierno”, el día veintidós de diciembre de dos mil seis.
+
+SEGUNDO.- Publíquese el presente reglamento en el periódico oficial del Gobierno del Estado de México, “Gaceta del Gobierno”.
+
+CUARTO (SIC).- Hágase del conocimiento del titular del Poder Ejecutivo del Gobierno del Estado de México.
+
+QUINTO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de México, “Gaceta del Gobierno”.
