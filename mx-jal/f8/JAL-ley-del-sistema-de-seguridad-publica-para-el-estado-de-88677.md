@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2017-07-01"
+last_updated: "2017-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -480,6 +480,26 @@ a) Comisario, y
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 b) El Fiscal de Reinserción Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+Los gobernadores, secretarios generales de gobierno, presidentes municipales, los servidores públicos que ejerzan el mando de los cuerpos de seguridad pública, los que directamente les auxilien en ejercicio de éste y aquellos que pudieren suplirles en sus ausencias y sus allegados, serán sujetos de protección en términos de la Ley de Sujetos Protegidos para el Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+Las medidas de seguridad permanecerán aún después de concluido el cargo, por un plazo de seis años en el caso de servidores públicos estatales, y de tres años en el caso de servidores públicos municipales; transcurrido el plazo, si la situación de riesgo continúa prevalecerán las medidas hasta que desaparezca el riesgo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+La protección será otorgada por los cuerpos de seguridad pública en los que hubieren ejercido el mando o estuvieren a su cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+Si los servidores públicos cuentan con medidas de protección de diversos cuerpos de seguridad pública, aquellos podrá (sic) renunciar a alguna de éstas, y en todo caso, los cuerpos de seguridad deberán establecer una coordinación clara.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+Las medidas de protección previstas en este artículo sólo podrán suspenderse por causa legal justificada ante el Tribunal de Justicia Administrativa, si no se demuestra ésta, la suspensión será improcedente.
 
 III) (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014).
 
@@ -2315,9 +2335,13 @@ a) De bienes muebles o inmuebles, y
 
 b) De personas físicas.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2017)</small>
 
-La protección de las personas físicas no se refiere por ningún motivo a escoltas personales, sin embargo se podrán autorizar éstas a criterio de la Fiscalía General conforme al reglamento;
+La protección de personas físicas sólo podrá prestarse a través de empresas privadas autorizadas conforme a esta ley, sus reglamentos y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+Quedan (sic) prohibida la protección de personas físicas no autorizadas conforme al párrafo anterior.
 
 II. Custodia y vigilancia de bienes o valores;
 
@@ -2612,3 +2636,9 @@ P.O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26375/LXL/17 QUE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26501/LXI/17 QUE RESUELVE LAS OBSERVACIONES QUE ENVÍA EL EJECUTIVO DEL ESTADO EN RELACIÓN AL DECRETO 26427/LXI/17 (REFORMA A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO)".]
+
+ÚNICO. El presente decreto iniciará su vigencia el día primero de enero de dos mil dieciocho, previa su publicación en el periódico oficial "Estado de Jalisco".
