@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2017-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,17 +20,19 @@ issue_date: "2017-07-10"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 9 DE NOVIEMBRE DE 2017.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
 Ciudad de México, julio 10 de dos mil diecisiete
 
-EL PLENO DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 181, FRACCIONES I Y XIV DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, EN REUNIONES PRIVADAS DE FECHA VEINTISIETE DE JUNIO Y SEIS DE JULIO DE DOS MIL DIECISIETE, APROBÓ EL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, CUYO CONTENIDO COMPLETO ES DEL TENOR SIGUIENTE:
+> <small>(F. DE E., G.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+EL PLENO DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 181, FRACCIONES I Y XIV DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, EN REUNIONES PRIVADAS DE FECHA VEINTISIETE DE JUNIO Y SEIS DE JULIO DE DOS MIL DIECISIETE, APROBÓ POR UNANIMIDAD EL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, CON EXCEPCIÓN DE SUS ARTÍCULOS 55 Y 57, LOS CUALES FUERON APROBADOS POR MAYORÍA DE VOTOS, CON LOS VOTOS EN CONTRA DE LA MAGISTRADA MARTHA ALEJANDRA CHÁVEZ CAMARENA Y EL MAGISTRADO EDUARDO ARANA MIRAVAL; CUYO CONTENIDO COMPLETO ES DEL TENOR SIGUIENTE:
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
@@ -1962,13 +1964,19 @@ SEGUNDO. Se abroga el Reglamento Interior del Tribunal Electoral del Distrito Fe
 
 TERCERO. La estructura del Tribunal quedará integrada de conformidad con lo establecido en el artículo 3 de este Reglamento, por lo que deberán realizarse, a la brevedad posible, las adecuaciones a los manuales y demás normativa interna que regulen su funcionamiento.
 
-CUARTO. Todas las referencias a “Congreso”, deberán entenderse hechas a la Asamblea Legislativa del Distrito Federal, hasta en tanto inicie la “I Legislatura” que, de conformidad con lo establecido en el párrafo tercero del artículo VIGÉSIMO PRIMERO transitorio de la Constitución Política de la Ciudad de México, será hasta el 17 de septiembre de 2018.
+CUARTO. Todas las referencias a "Congreso", deberán entenderse hechas a la Asamblea Legislativa del Distrito Federal, hasta en tanto inicie la "I Legislatura" que, de conformidad con lo establecido en el párrafo tercero del artículo VIGÉSIMO PRIMERO transitorio de la Constitución Política de la Ciudad de México, será hasta el 17 de septiembre de 2018.
 
 QUINTO. A partir de la entrada en vigor del presente Reglamento, en tiempo breve, las áreas deberán iniciar la revisión de la normativa interna para adecuarla al mismo y al Código, siguiendo la ruta normativa institucional y lo establecido en el artículo DÉCIMO TERCERO del Código de Instituciones y Procedimientos Electorales de la Ciudad de México.
 
 SEXTO. A partir de la entrada en vigor del presente Reglamento, todas las referencias que se hagan como TEDF en la normativa, deberán entenderse como hechas al TECDMX.
 
+> <small>(F. DE E., G.O. 9 DE NOVIEMBRE DE 2017)</small>
+
 SÉPTIMO. Publíquese este Reglamento en la Gaceta Oficial de la Ciudad de México, los Estrados y en los sitios de Internet e Intranet del Tribunal.
+
+> <small>(F. DE E., G.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+VOTO PARTICULAR DISCREPANTE DE LA MAGISTRADA MARTHA ALEJANDRA CHÁVEZ CAMARENA Y EL MAGISTRADO EDUARDO ARANA MIRAVAL, MISMO QUE SE PUEDE CONSULTAR EN LA SIGUIENTE PÁGINA: http://transparencia.tecdmx.org.mx/sites/default/files/archivos/art121/01/reglamentos/voto_particular.doc
 
 Bernardo Valle Monroy, Secretario General del Tribunal Electoral de la Ciudad de México.
 
@@ -1985,3 +1993,11 @@ Ciudad de México, a diez de julio de dos mil diecisiete. DOY FE.
 BERNARDO VALLE MONROY
 
 SECRETARIO GENERAL DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL AVISO POR EL QUE SE DA A CONOCER LA APROBACIÓN DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL DIECIOCHO DE JULIO DE DOS MIL DIECISIETE”.]
+
+ÚNICO. Publíquese en la Gaceta Oficial de la Ciudad de México.
