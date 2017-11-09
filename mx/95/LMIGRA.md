@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2017-05-19"
+last_updated: "2017-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -396,9 +396,11 @@ V. Conocer respecto de los delitos previstos en los artículos 159 y 161 de esta
 
 VI. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Corresponde al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y al del Distrito Federal:
+Corresponde al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y al de la Ciudad de México:
 
 I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes no acompañados que requieran servicios para su protección;
 
@@ -1174,11 +1176,11 @@ Transcurrido dicho plazo, el Instituto les otorgará la condición de estancia d
 
 Cuando alguna niña, niño o adolescente migrante no acompañado, sea puesto a disposición del Instituto quedará bajo la responsabilidad y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 9 DE NOVIEMBRE DE 2017)</small>
 
-I. El Instituto procederá a canalizar de manera inmediata a la niña, niño o adolescente migrante no acompañado al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y del Distrito Federal, con objeto de privilegiar su estancia en lugares donde se les proporcione la atención adecuada, mientras se resuelve su situación migratoria y dará aviso al consulado de su país.
+I. El Instituto procederá a canalizar de manera inmediata a la niña, niño o adolescente migrante no acompañado al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y de la Ciudad de México, con objeto de privilegiar su estancia en lugares donde se les proporcione la atención adecuada, mientras se resuelve su situación migratoria y dará aviso al consulado de su país.
 
-Cuando por alguna circunstancia excepcional las niñas, niños y adolescentes migrantes extranjeros no acompañados lleguen a ser alojados en una estación migratoria, en tanto se les traslada a las instalaciones del Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y del Distrito Federal, deberá asignárseles en dicha estación un espacio específico para su estadía distinto al del alojamiento de los adultos. La autoridad deberá respetar en todo momento los derechos de los niños, niñas y adolescentes migrantes no acompañados previstos en el presente ordenamiento y la legislación aplicables, dándose aviso inmediato a la Comisión Nacional de los Derechos Humanos y a las comisiones estatales de derechos humanos, así como al Comité Estatal del Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de los Derechos del Niño en la entidad que corresponda, a efecto de que coadyuven en la garantía y protección de sus derechos.
+Cuando por alguna circunstancia excepcional las niñas, niños y adolescentes migrantes extranjeros no acompañados lleguen a ser alojados en una estación migratoria, en tanto se les traslada a las instalaciones del Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y de la Ciudad de México, deberá asignárseles en dicha estación un espacio específico para su estadía distinto al del alojamiento de los adultos. La autoridad deberá respetar en todo momento los derechos de los niños, niñas y adolescentes migrantes no acompañados previstos en el presente ordenamiento y la legislación aplicables (sic), dándose aviso inmediato a la Comisión Nacional de los Derechos Humanos y a las comisiones estatales de derechos humanos, así como al Comité Estatal del Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de los Derechos del Niño en la entidad que corresponda, a efecto de que coadyuven en la garantía y protección de sus derechos.
 
 II. Se le informará a la niña, niño y adolescente del motivo de su presentación, de sus derechos dentro del procedimiento migratorio, de los servicios a que tiene acceso y se le pondrá en contacto con el consulado de su país, salvo que a juicio del Instituto o a solicitud del niño, niña o adolescente pudiera acceder al asilo político o al reconocimiento de la condición de refugiado, en cuyo caso no se entablará contacto con la representación consular;
 
@@ -1196,9 +1198,9 @@ VI. Una vez resuelta la situación migratoria del niño, niña o adolescente y e
 
 El retorno asistido de la niña, niño o adolescente migrante a su país de nacionalidad o residencia se realizará atendiendo al interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, con pleno respeto a sus derechos humanos y con la intervención de la autoridad competente del país de nacionalidad o residencia.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], D.O.F. 9 DE NOVIEMBRE DE 2017)</small>
 
-Tratándose de niña, niño o adolescente migrante nacional no acompañado, corresponderá al Sistema Nacional para el Desarrollo Integral de la Familia, garantizar el eficaz retorno asistido del menor con sus familiares adultos, atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, en coordinación y coadyuvancia con los Sistemas Estatales DIF y del Distrito Federal que corresponda, considerando las causas de su migración: reunificación familiar, en busca de empleo, violencia intrafamiliar, violencia e inseguridad social, entre otras.
+Tratándose de niña, niño o adolescente migrante nacional no acompañado, corresponderá al Sistema Nacional para el Desarrollo Integral de la Familia, garantizar el eficaz retorno asistido del menor con sus familiares adultos, atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, en coordinación y coadyuvancia con los Sistemas Estatales DIF y de la Ciudad de México que corresponda, considerando las causas de su migración: reunificación familiar, en busca de empleo, violencia intrafamiliar, violencia e inseguridad social, entre otras.
 
 ###### Artículo 113.
 
@@ -1675,3 +1677,9 @@ D.O.F. 19 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 52 DE LA LEY DE MIGRACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 29 Y 112 DE LA LEY DE MIGRACIÓN".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
