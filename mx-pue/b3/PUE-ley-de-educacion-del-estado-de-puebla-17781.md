@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2017-08-11"
+last_updated: "2017-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -257,13 +257,17 @@ XXVII.- Proporcionar oportunamente la información que se les sea requerida por 
 
 XXVIII.- Promover la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2017)</small>
 
-XXIX.- Proporcionar las facilidades necesarias para que las Autoridades Educativas y el Instituto Nacional realicen actividades de evaluación para fines estadísticos y de diagnóstico y recaben directamente en las escuelas la información necesaria para realizar la evaluación; y
+XXIX.- Proporcionar las facilidades necesarias para que las Autoridades Educativas y el Instituto Nacional realicen actividades de evaluación para fines estadísticos y de diagnóstico, y recaben directamente en las escuelas la información necesaria para realizar la evaluación;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2017)</small>
 
-XXX.- Las demás que establezca la legislación aplicable.
+XXX.- Desarrollar cursos y actividades que fortalezcan la enseñanza de los menores y sus padres o tutores, respecto de la prevención de la violencia escolar en cualquiera de sus manifestaciones, incluso a través del uso de las tecnologías de la información y la comunicación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+XXXI.- Las demás que establezca la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2064,5 +2068,13 @@ P.O. 11 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; ASÍ COMO DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE EDUCACIÓN DEL ESTADO".]
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
