@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-08-11"
+last_updated: "2017-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -611,7 +611,9 @@ VI. Instrumentar mecanismos e instancias multidisciplinarias para la atención, 
 
 VII. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-VIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar, en cualquiera de sus manifestaciones, incluso a través del uso de las tecnologías de la información y la comunicación, para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 IX. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
 
@@ -1826,5 +1828,13 @@ P.O. 11 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; ASÍ COMO LA LEY ESTATAL DE SALUD Y LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, EN MATERIA DE DERECHOS DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA".]
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
