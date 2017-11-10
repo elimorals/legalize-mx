@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2017-09-29"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4873,9 +4873,11 @@ VIII.- La maquinaria e instrumentos propios para el cultivo agrícola, en cuanto
 
 La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho a disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 717.
 
-Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 732.
+Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge o el concubino o concubina debidamente reconocidos del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 732.
 
 ###### ARTICULO 718.
 
@@ -16594,3 +16596,9 @@ P.O. 29 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 117 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 269 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 132 MEDIANTE EL CUAL APRUEBA LA REFORMA AL ARTÍCULO 717 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
