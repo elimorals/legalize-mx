@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2015-05-22"
+last_updated: "2017-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -75,13 +77,23 @@ I.- Dirigir la investigación de los hechos presuntamente constitutivos del deli
 
 II.- Recabar los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo, recibir las denuncias o querellas que le presenten en forma oral, por escrito o a través de medios digitales que permitan su seguimiento, incluso mediante informaciones anónimas, en términos de las disposiciones jurídicas aplicables, sobre hechos que puedan constituir delito, así como iniciar la investigación u ordenar a la policía que investigue la veracidad de los datos aportados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+En los casos de denuncias con motivo de la pérdida o extravío de objetos o documentos, así como aquéllos en que el denunciante requiera de constancia o certificación de la denuncia o querella, la Procuraduría emitirá vía electrónica la constancia o certificación correspondiente, la cual tendrá plena validez oficial o surtirá efectos legales ante cualquier autoridad administrativa, laboral o jurisdiccional, únicamente sobre la denuncia realizada, sin prejuzgar sobre la veracidad de los hechos asentados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Lo anterior, sin perjuicio de que el ciudadano pueda presentarse a ratificar la denuncia o querella ante el Ministerio Público.
+
 III.- Ejercer la acción penal en la forma establecida por la Ley;
 
 IV.- Promover la resolución de los conflictos surgidos como consecuencia de los delitos a través de la mediación, conciliación y el proceso restaurativo entre la víctima u ofendido y el imputado, en los casos autorizados por las leyes; y en su caso sancionar los convenios que resulten procedentes de acuerdo a las disposiciones aplicables;
 
 V.- Aplicar los criterios de oportunidad en los supuestos previstos por las leyes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -101,8 +113,6 @@ XII.- Dirigir a la Policía Ministerial y al resto de las instituciones policial
 
 XIII.- Decretar el no ejercicio de la acción penal o el archivo definitivo de la investigación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XIV.- Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas, cuando con motivo de una averiguación previa o investigación se encuentren a su disposición, siempre y cuando el disponente haya dado su consentimiento expreso y por escrito, y se reúnan los requisitos establecidos en las disposiciones legales aplicables. Cuando el disponente de su cuerpo no haya manifestado su voluntad, los disponentes secundarios podrán otorga (sic) el consentimiento;
@@ -119,97 +129,65 @@ XIX.- Certificar copias sobre constancias de actuaciones o registros que obren e
 
 XX.- Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley de Seguridad Pública del Estado y las disposiciones respectivas; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 REFORMADA, P.O. 15 DE OCTUBRE DE 2010
 
 XXI.- Perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXII.- Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XXIII.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas o investigaciones por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XXIV.- Practicar en los casos a que se refiere el párrafo segundo del artículo 474 de la Ley General de Salud, las diligencias de la averiguación previa o investigación que correspondan y remitir el acta o actas levantadas y todo lo que con ellas se relacione, al Ministerio Público de la Federación dentro de los tres días de haberlas concluido;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXV.- Remitir el expediente relativo a los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias de éste se advierta su incompetencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXVI.- Comprar, adquirir, o recibir la transmisión material de algún narcótico, por conducto de su policía y para fines de investigación, a efecto de lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente; siempre y cuando haya sido autorizado en cada caso por el Titular del Ministerio Público de la Federación o por el servidor público que éste designe;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXVII.- Señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deberá sujetarse el agente o agentes de la policía que la ejecuten, una vez expedida la autorización a que se refiere la fracción anterior;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXVIII.- Realizar a la Secretaría de Salud del Estado el reporte de no ejercicio de la acción penal por el delito previsto en el artículo 477 de la Ley General de Salud en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando sea fuera de los lugares señalados en la fracción II del artículo 475 y se colmen los supuestos del artículo 474 del mismo ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXIX.- Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXX.- Informar según le corresponda, a la autoridad administrativa competente, cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea lo empleare para realizar cualquiera de las conductas sancionadas en el capítulo VII del título XVIII de la Ley General de Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXXI.- Recibir del Ministerio Público de la Federación o de quien para tal efecto haya designado, el aviso mediante el cual éste autorizó para fines de investigación a los agentes de la policía bajo su conducción y mando, para comprar, adquirir o recibir la transmisión material de algún narcótico en la entidad para lograr la detención y el aseguramiento correspondiente del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
 XXXII.- Preparar y ejercer la acción de extinción de dominio, así como ejercer las atribuciones que le correspondan en el procedimiento respectivo, de conformidad con la ley de la materia, y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 227 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
 XXXIII.- Ejercer las acciones que las disposiciones normativas en materia de extinción de dominio de bienes prevean a favor o en beneficio de las víctimas y ofendidos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 227 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
 XXXIV.- En los casos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, asistir gratuitamente a las víctimas u ofendidos a fin de facilitar la promoción, orientación y posibilidad efectiva de reclamar sus derechos, así como una defensa jurídica para obtener la restitución o reparación en el goce de los mismos, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 227 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2015)</small>
 
 XXXV.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2012)</small>
 
@@ -601,13 +579,9 @@ En la substanciación de estos procedimientos hasta dejarlos en estado de resolu
 
 Las solicitudes de reincorporación al servicio de carrera se analizarán por el Procurador, y en su caso, se evaluará si el servidor público debe aprobar de nueva cuenta los cursos para ingresar al servicio de carrera, siempre y cuando el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal, local o federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JULIO DE 2013)</small>
 
 ### CAPÍTULO V BIS. FISCALÍA ESPECIALIZADA EN DELITOS DE TRATA DE PERSONAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
 
@@ -637,19 +611,13 @@ V.- No trabar el aseguramiento de bienes, objetos, instrumentos o productos de d
 
 VI.- Omitir la práctica de las diligencias necesarias en cada asunto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
 VII.- Incumplir cualquiera de las obligaciones a que se refiere el siguiente artículo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
 VIII.- Abstenerse de ejercer la acción de extinción de dominio en los casos y en los términos que establezca la ley de la materia, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
 
@@ -876,3 +844,11 @@ Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de
 QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
 
 Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 137 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo Estatal deberá realizar las modificaciones necesarias al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
