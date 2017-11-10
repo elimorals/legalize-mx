@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2017-03-07"
+last_updated: "2017-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -1838,3 +1840,35 @@ P.O. 7 DE MARZO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 976.- SE EXPIDE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Tránsito y Transporte del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 19 de enero de 1996.
+
+TERCERO.- Se abroga la Ley de Movilidad Sustentable para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 26 de diciembre de 2014.
+
+CUARTO.- Las concesiones para el transporte y distribución de agua potable expedidas conforme a las disposiciones de la Ley de Tránsito y Transporte del Estado de Coahuila de Zaragoza que se abroga, continuarán vigentes por el plazo para el cual fueron otorgadas.
+
+QUINTO.- Los vehículos que actualmente se encuentren prestando el servicio de transporte especializado de personal y escolar con permiso vigente podrán seguir proporcionándolo, hasta en tanto concluya la vigencia del permiso correspondiente.
+
+SEXTO.- La vigencia de las licencias de conducir expedidas de conformidad con la Ley que se abroga en el artículo transitorio segundo del presente Decreto, continuarán vigentes por el plazo por el cual fueron otorgadas.
+
+SÉPTIMO.- En un plazo no mayor a noventa días posteriores a la publicación de este ordenamiento, deberán de expedirse las adecuaciones a las Leyes y demás disposiciones reglamentarias y administrativas que resulten necesarias para la aplicación de la presente Ley.
+
+OCTAVO.- Posterior a la publicación de la presente Ley, deberán instalarse el Consejo de Transporte y Movilidad Sustentable del Estado de Coahuila de Zaragoza y los Consejos Municipales de Transporte y Movilidad Sustentable.
+
+Los consejos instalados conforme a las disposiciones de las leyes abrogadas por el presente Decreto, continuarán su funcionamiento ejerciendo las facultadas (sic) que de acuerdo a su naturaleza les correspondan en el presente ordenamiento hasta en tanto sean constituidos los establecidos en la presente Ley.
+
+NOVENO.- Las concesiones otorgadas conforme a la Ley de Tránsito y Transporte del Estado de Coahuila de Zaragoza que abroga el artículo segundo transitorio de este Decreto, caducarán al término señalado en el título de concesión correspondiente. Al concluir su vigencia, el titular podrá solicitar a la autoridad competente el otorgamiento de una nueva concesión sin sujetarse a concurso, siempre y cuando se cumpla con los requisitos previstos en este ordenamiento para su expedición y su solicitud sea presentada dentro de los sesenta días hábiles anteriores a su vencimiento.
+
+DÉCIMO.- Los asuntos que se encuentren en trámite a la entrada en vigor de la presente Ley, serán resueltos por las autoridades competentes, en los términos del ordenamiento que se abroga.
+
+DÉCIMO PRIMERO.- Las disposiciones reglamentarias derivadas de las leyes abrogadas por el presente Decreto, continuarán aplicándose en tanto no contravengan las disposiciones de esta Ley, hasta en tanto se expidan los reglamentos correspondientes.
+
+DÉCIMO SEGUNDO.- Por única vez, a la publicación de la presente reforma, la Comisión para la Supervisión y Control de la Administración de Vehículos Abandonados, definirá un procedimiento urgente para el destino final de los vehículos que se encuentran en los establecimientos de depósito por más de un año, a fin de detener el proceso de hacinamiento que provoca riesgos a la seguridad, medio ambiente y salud pública.
+
+DÉCIMO TERCERO.- La Secretaría tendrá un plazo no mayor a treinta días hábiles para dar cumplimiento a su obligación de distribuir la Cartilla de Derechos y Obligaciones de los Ciclistas al momento de expedir las licencias de conducir.
