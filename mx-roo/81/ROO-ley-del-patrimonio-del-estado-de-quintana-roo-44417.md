@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2017-06-29"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -1417,9 +1417,11 @@ III. Autorizar en coordinación con la autoridad que corresponda, la imposición
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 106.
 
-El Estado está facultado para retener administrativamente los bienes que posea. Cuando se trate de recuperar la posesión provisional o definitiva de bienes del dominio público, podrá seguirse el procedimiento administrativo contenido en este artículo a elección del Estado, o podrán deducirse ante los tribunales del fuero común las acciones que correspondan, mismas que se tramitarán en la vía ordinaria, de conformidad con las disposiciones aplicables del Código de Procedimientos Civiles vigente en el Estado.
+El Estado por conducto de la Agencia está facultado para retener administrativamente los bienes que posea. Cuando se trate de recuperar la posesión provisional o definitiva de bienes patrimoniales del Estado, podrá seguirse el procedimiento administrativo a elección del Estado, o podrán deducirse ante los tribunales del fuero común las acciones que correspondan, mismas que se tramitarán en la vía ordinaria, de conformidad con las disposiciones aplicables del Código de Procedimientos Civiles vigente en el Estado. La Agencia podrá solicitar de manera inmediata dentro del procedimiento administrativo o jurisdiccional respectivo, la ocupación provisional de los bienes, en caso de que existan elementos para presumir que los bienes, hayan sido adquiridos por particulares a través de medios ilícitos. Medida que deberá estar debidamente fundada y motivada, y la que se decretará de plano.
 
 I. El procedimiento de recuperación administrativa de la posesión provisional o definitiva de los bienes del dominio público, se sujetará a las reglas siguientes:
 
@@ -1639,13 +1641,13 @@ SÉPTIMO. En todo caso, deberán respetarse los derechos legalmente adquiridos c
 
 OCTAVO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 91 POR EL QUE "SE REFORMA EL ARTÍCULO 149; LAS FRACCIONES V Y VI DEL ARTÍCULO 163; LA FRACCIÓN III Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 169, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+P.O. 10 DE NOVIEMBRE DE 2017.
 
-PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 114 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 1785 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO".]
 
-SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-P.O. 29 DE DICIEMBRE DE 2016.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 128 POR EL QUE SE "REFORMA EL ARTÍCULO 306, SE ADICIONAN LOS ARTÍCULOS 307 BIS, 313 BIS, 313 TER Y EL CAPÍTULO V AL TÍTULO DÉCIMO SEXTO CON LOS ARTÍCULOS 315 BIS, 315 TER Y 315 QUÁTER, DENOMINADO "DELITOS COMETIDOS POR LOS SUPERVISORES DE LIBERTAD" Y SE DEROGA EL ARTÍCULO 315, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
 
