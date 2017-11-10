@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2016-09-23"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -701,7 +701,9 @@ Las dependencias y entidades también analizarán debidamente el cálculo e inte
 
 Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquel cuya propuesta resulte solvente porque sea remunerativa en su conjunto y en sus partes, reúna conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante en los términos del párrafo anterior, el contrato se adjudicará a quien presente la proposición solvente cuyo precio sea el más bajo.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante en los términos del párrafo anterior, el contrato se adjudicará a quien presente la proposición solvente cuyo domicilio fiscal se encuentre en el Estado y el precio no exceda en un cinco por ciento respecto a la otra proposición, si dos o más proposiciones tienen domicilio fiscal en el Estado se adjudicara a quien presente el precio más bajo.
 
 La dependencia o entidad convocante emitirá un dictamen fundado y motivado que servirá como base para el fallo, en el que se hará constar el análisis de las proposiciones admitidas, y se hará mención de las causas por las que las proposiciones fueron rechazadas o no ganadoras. El dictamen y su fundamento se hará del conocimiento de todos los participantes en la licitación.
 
@@ -767,7 +769,9 @@ VII.- Se trate de obras o servicios que, de realizarse bajo un procedimiento de 
 
 Las dependencias o entidades, preferentemente, invitarán a cuando menos a tres contratistas según corresponda, salvo que ello a su juicio no resulte conveniente, en cuyo caso utilizarán el procedimiento de adjudicación directa.
 
-En cualquier supuesto se convocará a quien o quienes cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+En cualquier supuesto se convocará a quien o quienes cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, siempre priorizando las empresas con domicilio en el Estado.
 
 ###### ARTICULO 51.
 
@@ -1310,3 +1314,9 @@ P.O. 23 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 556 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4 Y 28 DE LA LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 21, 27 Y 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico del Estado de Baja California.
