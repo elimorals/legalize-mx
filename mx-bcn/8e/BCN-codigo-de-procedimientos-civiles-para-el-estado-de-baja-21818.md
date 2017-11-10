@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2017-09-29"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -537,7 +537,9 @@ ART. 63.- Dentro de los tres días de haberse hecho saber una corrección discip
 
 ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos sábados y domingos, así como aquellos en que por cualquier causa se suspendan las labores de los Tribunales. Son horas hábiles las comprendidas entre las seis y las diecinueve horas.
 
-En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas, y los demás que determinen las Leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbre legal, interdictos posesorios, diferencias domésticas, restitución de menores y los demás que determinen las Leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea esta y las diligencias que hayan de practicarse.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1266,6 +1268,10 @@ XII.- En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso 
 > <small>(ADICIONADA, P.O. 17 DE MAYO DE 2013)</small>
 
 XIII.- En los juicios de alimentos, el del lugar donde tenga su domicilio el acreedor alimentista.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIV.- En los casos de restitución de menores, el del partido judicial, donde se encuentre el menor sujeto de restitución.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5939,7 +5945,7 @@ ART. 886.- En los negocios de personas menores de dieciocho años de edad o pers
 
 ART. 887.- Ninguna tutela puede conferirse sin que previamente se haga la declaración de persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho de la persona que va a quedar sujeta a ella.
 
-La declaración de minoría de edad o de no tener capacidad para comprender el significado del hecho puede pedirse: 1o .- Por la misma persona, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o.- Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
+La declaración de minoría de edad o de no tener capacidad para comprender el significado del hecho puede pedirse: 1o.- Por la misma persona, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o.- Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
 
 Pueden pedir la declaración de minoría de edad los funcionarios encargados de ello por el Código Civil.
 
@@ -6313,9 +6319,9 @@ La persona menor de dieciocho años de edad que deseando contraer matrimonio nec
 
 TITULO DECIMOSEXTO
 
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-### CAPITULO UNICO. De las controversias del orden familiar
+### CAPITULO I. De las controversias del orden familiar
 
 (ADICIONADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6492,6 +6498,182 @@ ART. 941.- Los incidentes se decidirán con un escrito de cada parte y sin suspe
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 942.- En todo lo no previsto en este Capítulo, regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### CAPITULO II. Del procedimiento de restitución de menores
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 BIS.- Cuando se traslade o retenga a un menor de manera ilícita, la persona o institución que ejerza individual o conjuntamente la custodia o guarda legal de éste, podrá solicitar a las autoridades judiciales o administrativas su restitución.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 TER.- El procedimiento civil de restitución será aplicable en aquellos casos en que menores que no han cumplido dieciocho años hayan sido sustraídos o retenidos ilícitamente del lugar de su domicilio habitual; preponderando garantizar el interés superior del menor.
+
+Como excepción, este procedimiento se aplicará a aquellos menores que no hayan cumplido los dieciséis años de edad y que tengan como lugar de domicilio habitual un país en el extranjero.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 QUATER.- Para los efectos de este capítulo, se entiende por retención ilícita la acción de impedir o evitar a través de medios ilícitos y con infracción al derecho de custodia, que un menor de edad que habiendo salido de manera licita de su domicilio habitual pueda volver a él.
+
+Se entiende por sustracción ilícita el apartamiento o separación de un menos (sic) de edad del lugar de su domicilio habitual.
+
+Se entiende por domicilio habitual el lugar en el que un menor tiene establecida su residencia hasta antes de la sustracción o retención ilícita.
+
+El derecho de custodia comprenderá el derecho de tener a su cargo los cuidados y atenciones de un menor.
+
+El derecho de visita comprenderá el derecho de llevar al menor, por un periodo de tiempo limitado, a otro lugar determinado y diferente a aquél en que tiene su domicilio habitual.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 QUINQUIES.- La persona o institución que ejerza individual o conjuntamente la custodia o guarda legal de un menor, podrá solicitar la restitución de éste cuando:
+
+I. Teniendo su domicilio habitual en el Estado sea sustraído o retenido de manera ilícita en:
+
+a) Otra Entidad Federativa; o
+
+b) Cualquier parte de esta Entidad Federativa.
+
+II. Teniendo su domicilio habitual en otra Entidad Federativa sea sustraído a este Estado o retenido de manera ilícita.
+
+III. Teniendo su domicilio habitual en otro país sea sustraído a este Estado o se le retenga ilícitamente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 SEXIES.- Para solicitar la restitución de un menor que teniendo su domicilio habitual en el Estado, sea sustraído o retenido ilícitamente en el extranjero se observará lo dispuesto en las convenciones internacionales en la materia, en la Ley General de los Derechos de Niñas, Niños y Adolescentes, y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 SEPTIES.- El Sistema Estatal para el Desarrollo Integral de la Familia deberá otorgar cuando así lo solicite la autoridad correspondiente las medidas especiales de protección a menores que hayan sido separados de su lugar de domicilio habitual, en especial las siguientes:
+
+I.- Otorgarle al menor de edad el acogimiento y cuidado temporal correspondiente.
+
+II.- Brindar orientación e información al solicitante sobre el procedimiento de restitución y sobre el desarrollo del mismo.
+
+III.- Coordinarse con la Autoridad Central en el desarrollo del procedimiento de restitución, en los casos en que un menor de edad extranjero se encuentre en el Estado de Baja California.
+
+IV.- Establecer mecanismos de coordinación con las autoridades competentes para la búsqueda y localización de menores de edad sustraídos y/o retenidos ilícitamente en alguno de los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 OCTIES.- La restitución de un menor podrá solicitarse en los casos mencionados en el artículo 942 QUINQUIES, procediendo conforme a lo siguiente:
+
+I. El Juez verificará que en la solicitud:
+
+a) Se acompañe la documentación requerida por las convenciones internacionales en la materia;
+
+b) Se manifiesten los antecedentes o hechos que motivan la solicitud de restitución del menor y los medios de convicción que estime necesarios para comprobar los mismos;
+
+c) Se acompañe la información relativa a la identidad del solicitante, así como del menor y de la persona a quien se le imputa la sustracción o retención ilícita del menor;
+
+d) Se acompañe la información disponible relativa a la localización del menor y de la persona con la que se supone se encuentra el menor, y
+
+II. En caso de no satisfacerse los requisitos que se establecen en la fracción anterior, se devolverá la solicitud al peticionario o a la autoridad central del país requirente según sea el caso, señalando las deficiencias que contenga;
+
+III. De no existir prevención alguna, el Juez inmediatamente dictará resolución en la que adoptará las medidas necesarias tendientes a localizar al menor, así como para evitar el ocultamiento o cambio furtivo de domicilio del menor, para lo cual podrá:
+
+a) Impedir la salida del menor del territorio de su jurisdicción sin autorización judicial previa;
+
+b) Prohibir la salida del menor del territorio nacional sin autorización judicial previa;
+
+c) Solicitar a las autoridades migratorias competentes que adopten las medidas necesarias para evitar el traslado del menor;
+
+d) Asegurar la custodia o guarda provisional del menor atendiendo a las circunstancias y condiciones particulares del caso, y/o
+
+e) Cualquier otra tendiente a evitar el ocultamiento o cambio furtivo de domicilio del menor.
+
+f) En el caso de menores extranjeros se dará notificación consular a la representación diplomática o consular extranjera en el Estado a fin de que tenga conocimiento sobre el procedimiento de restitución internacional.
+
+IV. Emitida la resolución a que se refiere la fracción anterior, se requerirá inmediatamente a la persona que se señala como quien ha sustraído o retenido al menor con los apercibimientos legales; ordenará su emplazamiento con copia de la solicitud de restitución, anexos que se acompañen y del texto de la convención internacional respectiva, para que en un término no mayor al de cinco días hábiles conteste por escrito:
+
+a) Si accede voluntariamente a restituir el menor a la persona o institución que solicita y acredita ejercer su guarda u custodia; o
+
+b) Se opone a la restitución del menor. En caso de oposición sólo se podrán hacer valer las excepciones que limitativamente señalen las convenciones internacionales en la materia. Asimismo, no se admitirán incidentes ni reconvenciones.
+
+V. El Juez siempre actuará con eficacia y adoptará las medidas que sean necesarias para lograr la pronta y voluntaria restitución de un menor, así como para garantizar en todo momento el interés superior del menor;
+
+VI. Si la persona requerida una vez emplazada no contesta en el término de tres días naturales se tendrá por precluido su derecho para oponer excepciones y ofrecer pruebas;
+
+VII. Si la persona requerida accede a la restitución del menor, el Juez dará por concluido el procedimiento y ordenará su entrega inmediata a la persona o institución que acredite tener la custodia o guarda legal. De igual forma procederá el Juez cuando la persona requerida debidamente emplazada no comparezca a la audiencia única.
+
+VIII. Si existe oposición a la restitución del menor se citará a la audiencia única dentro de los cincos días siguientes. En este caso el Juez se pronunciará sobre la admisión o desechamiento de las pruebas que se hayan ofrecido. La preparación y desahogo de las pruebas corre a cargo del oferente.
+
+IX. Transcurrido el término concedido sin que haya sido contestada la solicitud de restitución o si contestada no se ofrecieran pruebas, el Juez de igual forma citará a la audiencia única.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 NONIES.- La audiencia única tendrá las siguientes etapas:
+
+a) Conciliación, en la que se procurará la restitución voluntaria del menor;
+
+b) Desahogo de pruebas;
+
+c) Alegatos; y
+
+d) Sentencia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 DECIES.- En la audiencia única se observarán las siguientes reglas:
+
+I. El Ministerio Público velará y resguardará los intereses del menor. No obstante, lo anterior y sin perjuicio de las responsabilidades en que pueda incurrir el representante social, la ausencia del Ministerio Público no implicará el diferimiento o suspensión de la misma;
+
+II. La audiencia única se celebrará con o sin la asistencia de los interesados. La ausencia de los interesados tampoco implicará el diferimiento o suspensión de la misma;
+
+III. Si el Juez estima conveniente o si se ofreciese como prueba, podrá tomarse comparecencia al menor en la audiencia única, siempre apegándose a lo dispuesto por los artículos 44 fracción V y 353 BIS de este Código, debiendo ser asistido el menor por profesionales expertos en la materia designados por el Sistema para el Desarrollo Integral de la Familia de Baja California por medio de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, quienes lo guiarán durante el desarrollo de la diligencia a fin de salvaguardar en todo momento su interés superior;
+
+IV. Si durante el desarrollo de la audiencia única se accede a la restitución voluntaria del menor, el Juez dará por concluido el procedimiento y ordenará su entrega inmediata a la persona o institución que determine;
+
+V. Si no se lograra la restitución voluntaria, se procederá al desahogo de pruebas aplicando en lo conducente, las disposiciones relativas a la recepción oral de las pruebas;
+
+VI. Concluida la recepción de las pruebas, se pasará a la etapa de alegatos y sentencia;
+
+VII. El Juez podrá recabar todos aquellos elementos que estime pertinentes a favor del menor;
+
+VIII. El Juez suplirá la deficiencia de la queja en beneficio del menor;
+
+IX. El interés superior del menor y su derecho a ser escuchado, son principios rectores que el Juez debe tener siempre en cuenta para la tramitación y resolución del asunto sometido a su conocimiento;
+
+X. En la audiencia única, el Juez resolverá acorde con el interés superior del menor y a las convenciones internacionales aplicables, en correspondencia con el derecho nacional;
+
+XI. Los puntos resolutivos se dictarán en la audiencia única, debiéndose engrosar dentro de los cinco días siguientes;
+
+XII. No será materia de resolución la guarda o custodia definitiva del menor, salvo que se trate de menores extranjeros en el Estado, caso en el que será así hasta que se demuestre que no se reúnen las condiciones establecidas en las Convenciones para un retorno del menor o hasta que un periodo razonable haya transcurrido sin que haya sido presentada una solicitud de aplicación de alguna de estas.
+
+XIII. Si el Juez resolviera favorablemente la restitución del menor, solicitará la colaboración de la autoridad central correspondiente y de las demás autoridades estatales o municipales, que se consideren pertinentes a fin de lograr la pronta incorporación del menor al lugar de su domicilio habitual, esto sin perjuicio de las responsabilidades en que pueda incurrir el sustractor o retenedor;
+
+XIV. Las resoluciones que concedan o nieguen la restitución de un menor no serán apelables;
+
+XV. Si una vez emitida la resolución correspondiente existe oposición o resistencia a la restitución de un menor, se hará uso de los medios coactivos previstos en las disposiciones legales que resulten aplicables;
+
+XVI. Los exhortos, despachos o cartas rogatorias que se tramiten oficialmente no requerirán de apostillas o legalizaciones, y
+
+XVII. Se aplicará lo previsto en los artículos 942 QUATER y 942 QUINQUIES, para los casos de perturbación de los derechos de visita hacia un menor.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 UNDECIES.- Para solicitar la restitución de un menor que teniendo su domicilio habitual en el Estado, sea trasladado o se retenga ilícitamente dentro del mismo Estado o en otra Entidad Federativa, se observará en lo conducente lo establecido en los artículos 942 OCTIES, 942 NONIES y 942 DECIES, con las siguientes salvedades:
+
+I. Para los efectos de este procedimiento se entenderá como menor, a toda persona menor de dieciocho años de edad.
+
+II. La persona requerida sólo se podrá oponer a la restitución del menor cuando:
+
+a) Por el tiempo transcurrido el menor se integró a su nuevo medio;
+
+b) La persona o institución que tenía a su cargo el menor no ejercía de modo efectivo el derecho de custodia en el momento en que fue sustraído;
+
+c) La persona o institución que tenía a su cargo el menor consintió posteriormente su traslado o retención;
+
+d) Exista un grave riesgo de que la restitución del menor ponga en peligro su salud física, psicológica o emocional, o de cualquier otra manera lo ponga en una situación perjudicial, y
+
+e) El propio menor se oponga a la restitución, siempre que este a criterio del Juez haya alcanzado un grado de madurez apropiado para tener en cuenta sus opiniones;
+
+III. Se aplicarán en lo conducente, las disposiciones anteriores en los casos de perturbación de los derechos de visita hacia un menor.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ART. 942 DOUDECIES.- En lo que no se oponga al presente capítulo, se aplicarán los lineamientos que este código establece para las controversias del orden familiar.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -7249,6 +7431,12 @@ P.O. 14 DE JULIO DE 2017.
 
 P.O. 29 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 118 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 84 Y 677 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 118 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 84 Y 677 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 133 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS DE LOS ARTÍCULOS 64, 157, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO DÉCIMO SEXTO, Y SE ADICIONA UN CAPÍTULO II DENOMINADO "DEL PROCEDIMIENTO DE RESTITUCIÓN DE MENORES" QUE SE COMPONE DE LOS ARTÍCULOS 942 BIS, 942 TER, 942 QUÁTER, 942 QUINQUIES, 942 SEXIES, 942 SEPTIES, 942 OCTIES, 942 NONIES, 942 DECIES, 942 UNDECIES Y DOUDECIES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
