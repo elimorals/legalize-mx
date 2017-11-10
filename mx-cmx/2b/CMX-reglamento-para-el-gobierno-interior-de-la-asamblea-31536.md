@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2017-06-01"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2526,9 +2526,9 @@ IV.- Al Mérito Deportivo;
 
 V.- Al Mérito de Protección Civil;
 
-> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-VI.-. A las Defensoras y Defensores de Derechos Humanos; y así mismo se otorgará la Medalla al Mérito Periodístico “Miguel Granados Chapa”;
+VI.- A las defensoras y Defensores de Derechos Humanos; y así mismo se otorga la Medalla al Mérito Periodístico “Miguel Granados Chapa”;
 
 > <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
 
@@ -2538,9 +2538,13 @@ VII.- Al Mérito por la Igualdad y la No Discriminación;
 
 VIII.- La Medalla Hermila Galindo;
 
-> <small>(ADICIONADA, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-IX.- Al Mérito Docente "Jaime Torres Bodet".
+IX.- Al Mérito Docente “Jaime Torres Bodet”, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+X.- Al Mérito Turístico “Embajador Turístico de la Ciudad de México”.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2560,9 +2564,9 @@ Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los c
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-I. Medalla: Medalla al Mérito, ya sea Ciudadano, Docente “Jaime Torres Bodet”, en Ciencias y Artes, Policial, Deportivo, en Protección Civil, o por la Igualdad y la No Discriminación; de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, Docente “Jaime Torres Bodet”, en Ciencias y Artes, Policial, Deportivo, Turístico, en Protección Civil, o por la Igualdad y la No Discriminación; de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2584,25 +2588,29 @@ d) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Feder
 
 e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal;
+f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-g) Comisión de Atención a Grupos Vulnerables;
+g) Comisión de Atención a Grupos Vulnerables.
 
-> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-h) Comisión de Derechos Humanos y Comisión Especial para otorgar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” de la Asamblea Legislativa del Distrito Federal;
+h) Comisión de Derechos Humanos y Comisión Especial para otorgar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” de la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
 
 i) Comisiones unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género, para la entrega de la medalla Hermila Galindo;
 
-> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-j) Comisión de Educación de la Asamblea Legislativa del Distrito Federal.
+j) Comisión de Educación de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+k) Comisión de Turismo de la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
@@ -2656,21 +2664,25 @@ e) "MEDALLA AL MÉRITO DEPORTIVO"
 
 f) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
 
-> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-g) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS"
+g) “MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS” Y “MEDALLA AL MÉRITO PERIODÍSTICO “MIGUEL ÁNGEL GRANADOS CHAPA”
 
-> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-h) "MEDALLA AL MÉRITO POR LA IGUALDAD Y LA NO DISCRIMINACIÓN" y "MEDALLA AL MÉRITO PERIODÍSTICO "MIGUEL ÁNGEL GRANADOS CHAPA"".
+h) ”MEDALLA AL MÉRITO POR LA IGUALDAD Y LA NO DISCRIMINACIÓN”
 
-i) MEDALLA HERMILA GALINDO.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+i) “MEDALLA HERMILA GALINDO”
 
-j) "MEDALLA AL MÉRITO DOCENTE "JAIME TORRES BODET"
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+j) “MEDALLA AL MÉRITO DOCENTE “JAIME TORRES BODET”
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+k) “MEDALLA AL MÉRITO TURÍSTICO “EMBAJADOR TURÍSTICO DE LA CIUDAD DE MÉXICO”
 
 En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
 
@@ -3223,6 +3235,38 @@ Artículo 212 Vicies semel.- El periodo para el registro de candidatos a recibir
 > <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
 
 Artículo 212 Vicies bis.- El reconocimiento de la Medalla al Mérito Docente "Jaime Torres Bodet" y el Diploma respectivo serán otorgados en Sesión Solemne misma que deberá celebrarse dentro del mes de abril de cada año.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEXTO QUATER. DE LA MEDALLA AL MÉRITO TURÍSTICO “EMBAJADOR TURÍSTICO DE LA CIUDAD DE MÉXICO”
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 212 Vicies Ter.- El reconocimiento se otorgará a las y los ciudadanos, que por su trayectoria, vocación y servicio han destacado en promover y fomentar el turismo a nivel nacional e internacional de la Ciudad de México de conformidad con las siguientes categorías:
+
+I. Fomento al turismo desde la empresa turística;
+
+II. Fomento al turismo desde el arte, la cultura y la gastronomía;
+
+III. Fomento al turismo desde el deporte y el entretenimiento;
+
+IV. Fomento al turismo social y rural;
+
+V. Fomento al turismo ecológico y sustentable; y
+
+VI. Fomento al patrimonio turístico, arquitectónico e histórico de la Ciudad de México.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 212 Vicies Quater.- Corresponderá a la Comisión de Turismo de la Asamblea Legislativa del Distrito Federal, convocar y efectuar el proceso de la elección de las y los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación. La Comisión presentará ante el Pleno de la Asamblea Legislativa el dictamen correspondiente, una vez que éste sea aprobado al interior de la propia Comisión.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 212 Vicies Quinquies.- La Comisión de Turismo deberá formular la convocatoria correspondiente en la primera quincena del mes de febrero del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases. Las propuestas que se presenten ante la Comisión, deberán estar integradas por no más del cincuenta por ciento de candidatos de un mismo género.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 212 Vicies Sexies.- La Sesión Solemne para entregar el reconocimiento a embajadores Turísticos de la Ciudad de México se realizará en el mes de marzo de cada año.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 12 DE MAYO DE 2015)</small>
 
@@ -3912,7 +3956,7 @@ G.O. 24 DE JUNIO DE 2015.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-SEGUNDO.- Dentro de los 90 días naturales siguientes a la publicación del presente decreto, la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, deberá proponer al Pleno del mencionado Órgano Parlamentario, candidato para ocupar el cargo de Contralor General de la Auditoria Superior; para que, dentro de los 30 días naturales siguientes por mayoría de los diputados presentes en la sesión correspondiente designe al Contralor General; en tanto, seguirá ejerciendo las funciones que viene desarrollando el actual Subcontralor en la Auditoría Superior de la Contraloría General de la Asamblea Legislativa, el personal adscrito a dicha subcontraloria continuará formando parte de la Asamblea Legislativa del Distrito Federal. .
+SEGUNDO.- Dentro de los 90 días naturales siguientes a la publicación del presente decreto, la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, deberá proponer al Pleno del mencionado Órgano Parlamentario, candidato para ocupar el cargo de Contralor General de la Auditoria Superior; para que, dentro de los 30 días naturales siguientes por mayoría de los diputados presentes en la sesión correspondiente designe al Contralor General; en tanto, seguirá ejerciendo las funciones que viene desarrollando el actual Subcontralor en la Auditoría Superior de la Contraloría General de la Asamblea Legislativa, el personal adscrito a dicha subcontraloria continuará formando parte de la Asamblea Legislativa del Distrito Federal.
 
 TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará su Reglamento Interior y demás normatividad interna dentro de los 60 días hábiles siguientes a la entrada en vigor de este Decreto.
 
@@ -3987,3 +4031,11 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el pleno de la Asamblea Legislativa.
 
 TERCERO.- Por única ocasión se entregará la Medalla al Mérito Docente "Jaime Torres Bodet" y el Diploma respectivo correspondiente al año 2017, dentro del primer periodo ordinario de sesiones del tercer año legislativo, en la fecha que acuerde la Comisión de Gobierno.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para los efectos de su publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el Pleno de la Asamblea Legislativa.
