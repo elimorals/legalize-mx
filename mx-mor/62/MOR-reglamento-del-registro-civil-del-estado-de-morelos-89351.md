@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-civil-del-estado-de-morelos-89351"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-05"
-last_updated: "2012-09-05"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de septiembre de 2012.
 
@@ -65,7 +65,9 @@ VII. Constancia de Parto o de Alumbramiento: Es el documento expedido por parter
 
 VIII. Certificado de Defunción: El documento suscrito por médico autorizado para el ejercicio de su profesión o persona legalmente autorizada que haga constar el fallecimiento, en el formato expedido por la autoridad en materia de Salud competente, en el que se asientan las circunstancias del deceso;
 
-IX. Acta: Documento público que hace prueba plena de la identidad y el estado civil de las personas y se asienta en las formas autorizadas por la Dirección General;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IX. Acta: Documento público en papel valorado o en hoja blanca tamaño carta impresa de la Plataforma Nacional del Registro Civil, que hace prueba plena de la identidad y el estado civil de las personas y se asienta, según sea el caso, en las formas autorizadas o validadas por la Dirección General, conforme a la normativa aplicable, en el último supuesto, por cuanto a la certeza de la información generada por los instrumentos y mecanismos técnicos automatizados;
 
 X. Copia Certificada de reciente expedición: Constancia parcial que contiene extractos de los actos registrales, con antigüedad no mayor de seis meses a la fecha de su expedición;
 
@@ -920,3 +922,15 @@ EL SECRETARIO DE GOBIERNO.
 ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 2 DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente Decreto.
+
+TERCERA. Se instruye a la Secretaría de Gobierno, a través de la Dirección General del Registro Civil, para que realice los actos jurídicos y administrativos necesarios e idóneos a fin de implementar las condiciones para que a la brevedad puedan expedirse copias de las actas del registro civil en papel blanco, a través de internet, en coordinación con las autoridades competentes.
