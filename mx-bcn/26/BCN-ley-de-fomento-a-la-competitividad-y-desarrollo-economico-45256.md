@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2015-06-26"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -91,7 +91,9 @@ XI. PDE: La Política de Desarrollo Empresarial del Estado;
 
 XII. Persona Adulta Mayor: Persona de 60 años de edad o más, que lo haga constar con los documentos públicos correspondientes;
 
-XIII. Persona Productiva con Capacidades Diferentes: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Persona con Discapacidad: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
 
 XIV. Proyecto de Inversión: La inversión privada destinada a la instalación de una nueva Empresa, a la ampliación de las operaciones productivas, a la investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado en productos, procesos, materiales y/o servicios, de conformidad con la siguiente clasificación:
 
@@ -151,7 +153,9 @@ b) El impulso a la creación de Empresas regionales mediante la promoción de la
 
 c) Un marco jurídico que aliente y consolide la inversión;
 
-d) La incorporación al mercado laboral de personas adultas mayores y personas productivas con capacidades diferentes, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+d) La incorporación al mercado laboral de personas con discapacidad, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
 
 e) La generación de nuevas fuentes de empleo formales y la conservación de los existentes;
 
@@ -283,7 +287,9 @@ I. Realicen un Proyecto de Inversión;
 
 II. Operen sistemas para el tratamiento de aguas residuales y las reutilicen totalmente, siempre que su descarga final no se realice en el sistema de alcantarillado; o,
 
-III. Contraten Personas Adultas Mayores y/o Personas Productivas con Capacidades Diferentes.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+III. Contraten Personas Adultas Mayores y/o Personas con discapacidad.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -367,21 +373,41 @@ d) De 501 a 750 empleos 4 puntos
 
 e) Más de 750 empleos 5 puntos
 
-Esquema 3. Estudiantes de carreras técnicas y de ingeniería de instituciones técnicas o de educación superior con autorización o reconocimiento de validez oficial de estudios, integrados en los procesos de producción de la Empresa, en virtud del instrumento escrito que revista formalidad y corresponsabilidad entre la empresa y la institución:
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Esquema 3. Estudiantes de carreras técnicas y de ingeniería de instituciones técnicas o de educación superior, licenciatura afines de administración de empresas con autorización o reconocimiento de validez oficial de estudios, integrados en los procesos de producción de la Empresa, en virtud del instrumento escrito que revista formalidad y corresponsabilidad entre la empresa y la institución:
 
 a) De 1 a 5 estudiantes 2 puntos
 
 b) De 6 a 15 estudiantes 3 puntos
 
-c) Más de 15 estudiantes 4 puntos
+c) Más de 15 a 25 estudiantes 4 puntos
 
-Esquema 4. Contratación de Personas Adultas Mayores y/o Personas Productivas con Capacidades Diferentes, que representen:
+d) Mas de 25 estudiantes 5 puntos
 
-a) Al menos el 5% del total del personal 1 puntos
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-b) Entre 6 y 10% del total del personal 2 puntos
+Esquema 4. Contratación de Personas Adultas Mayores y/o Personas Discapacitadas, que representen:
 
-c) Más del 10% del total del personal 5 puntos
+a) Al menos el 5% del total del personal 1 puntos (sic)
+
+b) Entre 6 y 10% del total del personal 3 puntos
+
+c) Más del 10% del total del personal 6 puntos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Esquema 5. Personas que se encuentren comprendidas entre los 40 y 59 años de edad.
+
+a) De 1 a 10 empleos 1 punto
+
+b) De 11 a 50 empleos 2 puntos
+
+c) De 51 a 250 empleos 3 puntos
+
+d) De 251 a 500 empleos 4 puntos
+
+e) Más de 500 empleos 5 puntos
 
 II. Nivel Salarial de los Nuevos Empleos
 
@@ -475,15 +501,25 @@ IV. Inversión en Tecnología
 
 Esquema 1. Cuando su monto represente por lo menos:
 
-a) 0.5% del valor de sus ventas anuales. 3 puntos
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-b) 1.0% del valor de sus ventas anuales 5 puntos
+a) 1.0% del valor de sus ventas anuales. 3 puntos
 
-c) 2.5% del valor de sus ventas anuales 7 puntos
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-d) 5.0% del valor de sus ventas anuales 10 puntos
+b) 2.5% del valor de sus ventas anuales 5 puntos
 
-e) 10% del valor de sus ventas anuales 12 puntos
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+c) 5.0% del valor de sus ventas anuales 7 puntos
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+d) 7.0% del valor de sus ventas anuales 8 puntos
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+e) 10% del valor de sus ventas anuales 10 puntos
 
 V. Proveeduría
 
@@ -1126,3 +1162,15 @@ CUARTO.- Los Reglamentos Municipales deberán actualizarse en un plazo que no ex
 QUINTO.- Dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberán actualizarse los planes y programas respectivos.
 
 SEXTO.- El Comité Consultivo de Fomento a la Competitividad y Desarrollo Económico de Baja California, además de las atribuciones contenidas por esta ley, asumirá el carácter de un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, llevando a cabo el objeto y las funciones encomendadas, por el titular de la Secretaría de Desarrollo Económico del Estado (sic) adoptará las medidas administrativas a que haya lugar para tales efectos.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 152 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado deberá realizar las modificaciones necesarias a sus reglamentos a más tardar sesenta días naturales contados a partir de la publicación de la presente reforma.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. EL "DECRETO NO. 151 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 10 Y 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
