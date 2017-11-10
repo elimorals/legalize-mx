@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2017-07-28"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2031,7 +2031,7 @@ Agravación de pena.- Si los asaltantes atacaren una población, se aplicarán d
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 174.
 
@@ -2105,9 +2105,13 @@ ARTÍCULO 184 QUINQUIES.- Agravación de la punibilidad.- La pena prevista en el
 
 ###### Artículo 176.
 
-Tipo y punibilidad de la violación.- Se impondrá prisión de seis a quince años y hasta trescientos días multa, al que por medio de la violencia física ó moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de quince a veintidós años y hasta quinientos días multa.
+Tipo y punibilidad de la violación.- Se impondrá prisión de diez a quince años y hasta trescientos días multa, al que por medio de la violencia física ó moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de quince a veintidós años y hasta quinientos días multa.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 Sólo se procederá contra el violador a petición de la parte ofendida, cuando la violación se cometa entre cónyuges o entre personas que vivan en concubinato.
 
@@ -2119,23 +2123,23 @@ Violación equiparada.- Al que tenga cópula con persona menor de catorce años 
 
 Artículo 177 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 178.
 
-Violación impropia.- Se equipara a la violación, al que sin consentimiento de una persona o con el consentimiento de un o una menor de catorce años, introduzca uno o más dedos o un objeto de cualquier naturaleza en la región anal o vaginal, la pena será de seis a quince años de prisión y hasta trescientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos.
+Violación impropia.- Se equipara a la violación, al que sin consentimiento de una persona o con el consentimiento de un o una menor de catorce años, introduzca uno o más dedos o un objeto de cualquier naturaleza en la región anal o vaginal, la pena será de ocho a quince años de prisión y hasta trescientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos
 
 Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015) (REPUBLICADO [N. DE E. ESTE PÁRRAFO], 10 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 179.
 
 Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o el delito haya sido cometido dentro (sic) las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de tres a seis años cuando el delito de violación fuere cometido por un ascendiente contra un descendiente, por éste contra aquél, por el tutor en contra de su pupilo o por el padrastro o amasio de la madre del ofendido, en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela, así como el derecho de heredar del ofendido.
+Además de las sanciones que señalan los artículos que anteceden, se impondrán de tres a seis años cuando el delito de violación fuere cometido por un ascendiente contra un descendiente, por éste contra aquél, por persona que tenga relación de parentesco por consanguinidad o civil, con el ofendido, por el tutor en contra de su pupilo o por el padrastro o amasio de la madre del ofendido, en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela, así como el derecho de heredar del ofendido.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2157,9 +2161,13 @@ Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o 
 
 Si se hiciere uso de la violencia física o moral, la pena se aumentará de uno a tres años.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-Artículo 180 BIS.- Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de cuatro a ocho años de prisión y hasta doscientos días de multa.
+###### Artículo 180 Bis.
+
+Sub tipo y puniblidad (sic).- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de ocho a doce años de prisión y hasta trescientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2007)</small>
 
 Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años.
 
@@ -2178,24 +2186,6 @@ III.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ej
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
 
 IV.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
-
-###### Artículo 180 Bis.
-
-Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de cuatro a ocho años de prisión y hasta doscientos días de multa.
-
-Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
-
-Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 Bis, se aumentarán hasta en una mitad, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
-
-I.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido;
-
-II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
-
-III.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -2363,11 +2353,13 @@ Cuantía indeterminada.- Para estimar la cuantía del robo se estará únicament
 
 En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se estará a lo dispuesto por el artículo 81 de este Código.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 203.
 
-Robo con violencia.- Si el robo se ejecutare con violencia, a la pena que corresponda por el robo simple, se agregarán de uno a seis años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de la acumulación.
+Robo con violencia.- Si el robo se ejecutare con violencia, a la pena que corresponda por el robo simple, se agregarán de tres a seis años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de la acumulación.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 204.
 
@@ -2376,6 +2368,10 @@ Concepto de violencia.- La violencia a las personas se distingue en física o mo
 Se entiende por violencia física en el robo la fuerza material que para cometerlo se hace a una persona.
 
 Hay violencia moral cuando el ladrón amaga o amenaza a una persona con un mal grave, presente o inmediato, capaz de intimidarla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Se equipará a la violencia moral, la utilización de juguetes u otros objetos que tengan apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquellas que arrojen proyectiles a través de aire o gas comprimido.
 
 ###### Artículo 205.
 
@@ -3401,9 +3397,9 @@ Uso de documentos falsos.- Las mismas penas se impondrán al que, a sabiendas y 
 
 De igual forma comete el delito de falsificación el que sin autorización para ello, produzca, imprima, enajene, distribuya o altere vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido servidor público o integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
 ### CAPITULO I. REBELION
 
@@ -4673,7 +4669,7 @@ LIC. OSCAR R. TELLEZ ULLOA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE MARZO DE 1992.
 
@@ -5536,3 +5532,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Este ordenamiento deroga todas las disposiciones que se opongan a él.
 
 TERCERO.- Remítase al Titular del Poder Ejecutivo en el Estado para que se ordene su publicación oficial.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 134 MEDIANTE EL CUAL APRUEBA LA REFORMA A LOS ARTÍCULOS 203 Y 204 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto de reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 136 MEDIANTE EL CUAL APRUEBA LA REFORMA A LOS ARTÍCULOS 176, 178, 179 Y 180 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto (sic) reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
