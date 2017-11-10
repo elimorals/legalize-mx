@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2017-01-06"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -107,7 +107,11 @@ Los Períodos, se constituyen por la realización de una serie continuada de ses
 
 La sesión, es la reunión oficial de los integrantes del Pleno del Congreso del Estado, en el recinto parlamentario denominado "Benito Juárez García"; podrá habilitar otro lugar como recinto parlamentario mediante acuerdo aprobado por mayoría calificada.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Cuando por caso fortuito o causas de fuerza mayor, sea imposible llevar a cabo la sesión en el recinto parlamentario, el Presidente de la Mesa Directiva, por acuerdo de la Junta de Coordinación Política, podrá convocar a los Diputados en el lugar distinto a este, debiendo hacerlo por escrito especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 Asimismo, se denominan sesiones las reuniones de los integrantes de las Comisiones, en la sala de juntas de las mismas o en la que se acuerde, para tratar todo lo inherente al desarrollo de sus funciones.
 
@@ -1335,7 +1339,15 @@ I. Coordinar las adquisiciones, servicios y suministros de los órganos de gobie
 
 II. Informar trimestralmente a la Comisión de Administración y Finanzas, sobre el estado que guarde el patrimonio y los recursos humanos, materiales del Congreso del Estado;
 
-III. Emitir e implementar programas de capacitación para el personal de nuevo ingreso del Congreso del Estado, así como programas de capacitación permanente para todos sus servidores públicos, según la naturaleza de las funciones que desempeñen,
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+III. Emitir e implementar programa de capacitación y profesionalización que deberá ser impartido a todos sus servidores públicos según la naturaleza de las funciones que desempeñen.
+
+Constituida cada nueva legislatura la Dirección debe presentar proyecto de programa de capacitación y profesionalización en un plazo de 60 días a la Comisión de Administración y Finanzas del Congreso del Estado.
+
+La Comisión de Administración y Finanzas del Congreso del Estado contará con un plazo de 30 días para elaborar el dictamen correspondiente y someterlo a consideración del Pleno del Congreso.
+
+El programa deberá atender durante los primeros seis meses, contados a partir de la aprobación del programa ante el Pleno, la capacitación y formación del personal de nuevo ingreso, con el propósito de lograr su apropiada incorporación a las funciones que les fueron asignadas, concluida dicha etapa el programa deberá garantizar la profesionalización y capacitación permanente de todos los servidores públicos que laboran en el Congreso, con el objetivo de hacer eficientes y eficaces las labores del personal y generar un ambiente laboral apropiado para la buena práctica parlamentaria.
 
 IV. Conducir las relaciones con los empleados del Congreso del Estado y vigilar el cumplimiento de sus derechos y obligaciones laborales establecidos en la Ley del Servicio Civil de los Trabajadores al servicio de los Poderes del Estado y Municipios de Baja California, así como en las Condiciones Generales de Trabajo del Poder Legislativo,
 
@@ -1597,7 +1609,13 @@ ARTICULO 83 SEXIES.- (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2016)
 
 El Comité de Transparencia es el responsable de instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información, y tendrá las demás atribuciones que establezcan las leyes de la materia.
 
-El Comité de Transparencia se conformará por un número impar, y se integrará por un Presidente que será el Diputado que presida la Comisión de Administración y Finanzas; un Vicepresidente que será el Diputado que designe la Junta de Coordinación Política; así también integran dicho Comité los titulares de cada una de las Direcciones y de las Unidades Auxiliares a que se refiere el artículo 40 de esta Ley. Este órgano deberá adoptar sus resoluciones por mayoría de votos, y en caso de empate, el Presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz, pero no voto.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+El Comité de Transparencia se conformará por un número impar, y se integrará por un Presidente que será el Diputado que presida la Comisión de Administración y Finanzas; un Vicepresidente que será el Diputado que designe la Junta de Coordinación Política; así también integran dicho Comité los titulares de cada una de las Direcciones y de las Unidades Auxiliares a que se refiere el artículo 40 de esta Ley. Este órgano deberá adoptar sus resoluciones por mayoría de voto, y en caso de empate, el Presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz, pero no voto.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Dada la naturaleza jurídica de las funciones que realiza este Comité, las ausencias de sus integrantes con excepción del Secretario, podrán ser sustituidas por un suplente que ellos mismos designen, los cuales contarán con los mismos derechos y obligaciones de sus titulares. Las ausencias del Secretario Ejecutivo deberán ser sustituidas por el Coordinador de la Unidad de Transparencia, lo anterior en los términos de la presente Ley y el Reglamento que al efecto expida el Congreso.
 
 El Comité de Transparencia contará con un Secretario Ejecutivo, función que recaerá en el Titular de la Unidad de Transparencia, el cual tendrá voz pero no voto dentro de las sesiones.
 
@@ -1725,11 +1743,11 @@ XI.- Cita.
 
 En caso de no existir Quórum Legal, después del primer pase de lista, se volverá a pasar lista por segunda vez, quince minutos después para que el Presidente pueda declarar que no hay asistencia requerida para estar en posibilidad con el Quórum Legal o para abrir la Sesión. También se pasará lista de asistencia durante las Sesiones o al final de ellas cuando así lo acuerde la Asamblea o por moción de cuando menos tres Diputados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 94.
 
-En las sesiones, los Diputados ocuparán las curules sin preferencia alguna en el recinto parlamentario, excepto en el presidium, el Presidente ocupará la situada al centro del mismo, y el Vicepresidente y el Secretario se sentará a su lado izquierdo y derecho respectivamente, y el Prosecretario al lado derecho del Secretario; todo lo anterior, salvo los casos de excepción previstos por esta Ley.
+En las sesiones, los Diputados ocuparan las curules sin preferencia alguna en el recinto parlamentario excepto en el presídium, el presidente ocupara la situada al centro del mismo, y el vicepresidente y el Secretario se sentara (sic) a su lado izquierdo y derecho respectivamente, el prosecretario al lado derecho del Secretario y el Secretario Escrutador al lado izquierdo del Vicepresidente; todo lo anterior, salvo los casos de excepción previstos en esta ley.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1972,6 +1990,10 @@ III.- Votación.
 ###### ARTICULO 117.
 
 Toda Iniciativa deberá presentarse al Presidente del Congreso por escrito y firmada, con su exposición de motivos en la cual exponga su autor o autores las consideraciones jurídicas, políticas, sociales o económicas que justifican, explican, motivan y dan procedencia a la proposición de creación, reforma, derogación o abrogación de una Ley, artículo de la misma o decreto.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Las iniciativas de Ley o de Decreto que sean recepcionadas por Oficialía de Partes del Congreso, en las que tenga interés el Diputado inicialista darle lectura a dicho documento ante la Sesión del Pleno, deberá así expresarlo en su escrito que por duplicado deberá presentar cuando menos con 48 horas previo a la Sesión. Lo anterior para los efectos de que sea remitida en tiempo y forma, al Director de Procesos Parlamentarios para su Registro y agenda Correspondiente.
 
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 2015)</small>
 
@@ -2952,5 +2974,27 @@ DÉCIMO.- Las referencias que en lo particular se hagan en leyes y demás dispos
 P.O. 6 DE ENERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 44 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 60, LA DEROGACIÓN DE LA SECCIÓN CUARTA DENOMINADA DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS DEL CAPÍTULO TERCERO Y DEL ARTÍCULO 83 TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 126 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN PÁRRAFO TERCERO AL ARTÍCULO 84, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 117, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. De conformidad con el artículo 34, párrafo H, de la Constitución Política del Estado de Baja California, las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Poder Legislativo.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 144 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 77 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Parlamentaria del H. Congreso del Estado de Baja California, de acuerdo al Artículo 34 inciso H de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Segundo.- Remítase al Titular del Poder Ejecutivo en el Estado para que se ordene su publicación en el Periódico Oficial del Estado.
+
+Tercero.- La Dirección de Administración del Congreso del Estado deberá presentar a la Comisión de Administración y Finanzas proyecto del programa de capacitación y profesionalización adjuntando al mismo el proyecto de presupuesto que contenga la creación de una partida presupuestal exclusiva para la implementación y funcionamiento de dicho programa.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 Y 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
