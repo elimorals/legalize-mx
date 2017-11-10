@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-29"
-last_updated: "2016-07-22"
+last_updated: "2017-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO TRANSITORIO PRIMERO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el jueves 21 de abril de 2016.
 
@@ -843,11 +843,81 @@ El Congreso Local y los Ayuntamientos garantizarán el derecho de acceso a la in
 
 El Congreso Local y los Ayuntamientos promoverán la participación ciudadana de las personas interesadas en la toma de decisiones, y aseguran que las instalaciones, las sesiones y reuniones sean accesibles y abiertas al público por canales de comunicación abiertos.
 
-### Capítulo I. De las disposiciones generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### Capítulo IV. De la Promoción de Datos Abiertos
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 72 Bis.
+
+Los sujetos obligados y los órganos en materia de transparencia en el Estado deberán, dentro del ámbito de su competencia y con base a los principios de datos abiertos, realizar las acciones siguientes:
+
+l. En cuanto al principio de datos abiertos por defecto:
+
+a) Desarrollar e implementar políticas y prácticas que aseguren que, por defecto, toda la información pública sea abierta, salvo las excepciones previstas por ley;
+
+b) Establecer una cultura de apertura, mediante la ayuda de programas de capacitaciones y concientización, herramientas, lineamientos y estrategias de comunicación diseñadas para lograr que gobiernos, sociedad civil y representantes del sector privado tomen conciencia de los beneficios que ofrecen los datos abiertos;
+
+c) Desarrollar políticas de liderazgo, gestión, supervisión, incentivos por desempeño y comunicación interna, para permitir la transición hacia una cultura de apertura en todos los sujetos obligados y órganos en materia de transparencia;
+
+II. En cuanto al principio de datos abiertos oportunos y exhaustivos:
+
+a) Liberar datos abiertos de alta calidad de manera oportuna y sin demoras injustificada (sic);
+
+b) En la medida de lo posible, liberar datos en su forma original, sin modificaciones, y vincular los datos a lineamientos, documentación, visualizaciones o análisis relevantes;
+
+c) En la medida de lo posible, liberar datos desagregados hasta los niveles más bajos de la administración, incluyendo desagregación por género, edad, ingreso, y otras categorías;
+
+d) Permitir que los usuarios provean retroalimentación, y continúen haciendo revisiones para asegurar que la calidad de los datos se mejore según sea necesario;
+
+e) Consultar a los usuarios de los datos sobre cambios significativos en la estructura o suministro de datos a fin de minimizar el impacto en los usuarios que han creado herramientas basadas en los datos abiertos; y,
+
+f) Ser transparente respecto a la propia recolección de datos, normas y procesos de publicación, documentando estos procesos en línea.
+
+III. En cuanto al principio de datos abiertos accesibles y utilizables:
+
+a) Liberar datos en formatos abiertos con el fin de asegurar que los datos estén disponibles para el más amplio rango de usuarios para encontrarse, accederse y utilizarse;
+
+b) Liberar los datos de manera gratuita, sujetos a una licencia abierta y sin restricciones;
+
+c) Liberar los datos sin que exija un registro obligatorio, permitiendo a los usuarios escoger descargar los datos sin requerir que se identifiquen; y
+
+d) Asegurar que los datos puedan ser accesibles y usados eficazmente por el más amplio rango de usuarios.
+
+IV. En cuanto al principio de datos abiertos comparables e interoperables:
+
+a) Implementar, de manera constante, estándares abiertos relacionados con formatos, interoperabilidad, estructura e identificadores comunes, al momento de recolectar y publicar los datos;
+
+b) Asegurar que los conjuntos de datos abiertos incluyan metadatos consistentes y se pongan a disposición en formatos legibles para personas y maquinas;
+
+V. En cuanto al principio de mejora de la gobernanza y la participación ciudadana:
+
+a) Proveer programas de capacitación, herramientas y lineamientos diseñados para asegurar que los funcionarios de los sujetos obligados sean capaces de usar los datos abiertos eficazmente en los procesos de desarrollo de políticas;
+
+b) Colaborar con las organizaciones expertas en la materia para armonizar la publicación proactiva de los datos abiertos con la obligación de los sujetos obligados de poner a disposición aquella información derivada de respuestas a solicitudes;
+
+c) Colaborar proactivamente con los ciudadanos y representantes de la sociedad civil y del sector privado para determinar qué datos necesitan y así poder asegurar la rendición de cuentas de los sujetos obligados;
+
+d) Respetar el derecho de los ciudadanos a la libertad de expresión mediante la protección de quienes usan los datos abiertos para detectar corrupción o para criticar a los gobiernos; y
+
+e) Promover el uso de los datos abiertos para desarrollar soluciones políticas innovadoras basadas en evidencia que beneficien a todos los integrantes de la sociedad, así como para empoderar a las comunidades marginadas.
+
+VI. En cuanto al principio del desarrollo incluyente y la innovación:
+
+a) Alentar a los ciudadanos, a las organizaciones de la sociedad civil y del sector privado, y a las instituciones multilaterales a que abran los datos que generan y recopilan con el fin de avanzar hacia un ecosistema de datos abiertos más rico con múltiples fuentes de datos abiertos;
+
+b) Crear o respaldar programas e iniciativas que promuevan el desarrollo o creación conjunta de bases de datos, visualizaciones, aplicaciones y otras herramientas basadas en datos abiertos;
+
+c) Establecer una vinculación con instituciones de educación superior para respaldar una mayor investigación de datos abiertos y para incorporar la alfabetización de los datos en los programas educativos
+
+d) Crear capacidad y compartir el conocimiento técnico y la experiencia con otros sujetos obligados y organizaciones de la sociedad civil, asegurando que todas las personas puedan obtener beneficios de los datos abiertos; y
+
+e) Empoderar a las futuras generaciones de innovadores de datos, dentro y fuera de los gobiernos, mediante la creación de capacidades y alentando a los desarrolladores, emprendedores, organizaciones de la sociedad civil y del sector privado, la academia, representantes de los medios de comunicación, funcionarios de gobierno y otros usuarios a descubrir el valor de los datos abiertos.
 
 ## TÍTULO QUINTO. OBLIGACIONES DE TRANSPARENCIA
 
-### Capítulo II. De las obligaciones de transparencia comunes
+### Capítulo I. De las disposiciones generales
 
 ###### Artículo 73.
 
@@ -889,7 +959,7 @@ La información publicada por los sujetos obligados en términos del presente T�
 
 Los sujetos obligados serán responsables de los datos personales y, en relación con éstos, deberán cumplir, con las obligaciones establecidas en las leyes de la materia y en la Ley General.
 
-### Capítulo III. De las obligaciones específicas de las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad
+### Capítulo II. De las obligaciones de transparencia comunes
 
 ###### Artículo 81.
 
@@ -1513,7 +1583,7 @@ II.- Revisar el listado que remitió el sujeto obligado con base en las funcione
 
 III.- Determinar el catálogo de información que el sujeto obligado deberá publicar como obligación de transparencia.
 
-### Capítulo IV. De la verificación de las obligaciones de transparencia
+### Capítulo III. De las obligaciones específicas de las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad
 
 ###### Artículo 88.
 
@@ -1533,7 +1603,7 @@ II.- Revisar el listado que remitió la persona física o moral en la medida en 
 
 III.- Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello.
 
-### Capítulo V. De la denuncia por incumplimiento a las obligaciones de transparencia
+### Capítulo IV. De la verificación de las obligaciones de transparencia
 
 ###### Artículo 90.
 
@@ -1573,7 +1643,7 @@ Cuando el Instituto considere que existe un incumplimiento total o parcial de la
 
 En caso de que el Instituto considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días naturales, se informará al Pleno para que, en su caso, imponga las medidas de apremio o sanciones, conforme a lo establecido por esta Ley.
 
-### Capítulo I. De las disposiciones generales de la clasificación y desclasificación de la información
+### Capítulo V. De la denuncia por incumplimiento a las obligaciones de transparencia
 
 ###### Artículo 95.
 
@@ -1665,7 +1735,7 @@ En caso de que el Instituto, considere que subsiste el incumplimiento total o pa
 
 ## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
 
-### Capítulo II. De la Información Reservada
+### Capítulo I. De las disposiciones generales de la clasificación y desclasificación de la información
 
 ###### Artículo 106.
 
@@ -1695,7 +1765,7 @@ II.- El riesgo de perjuicio que supondría la divulgación supera el interés p�
 
 III.- La limitación se adecua al principio de proporcionalidad y representa el medio menos restrictivo disponible para evitar el perjuicio.
 
-### Capítulo I. Del Procedimiento de Acceso a la Información
+### Capítulo II. De la Información Reservada
 
 ###### Artículo 110.
 
@@ -1739,7 +1809,7 @@ II.- Se trate de información relacionada con actos de corrupción de acuerdo co
 
 ## TÍTULO SÉPTIMO. PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo II. De las Cuotas de Acceso
+### Capítulo I. Del Procedimiento de Acceso a la Información
 
 ###### Artículo 113.
 
@@ -1887,7 +1957,7 @@ La resolución del Comité de Transparencia que confirme la inexistencia de la i
 
 Las personas físicas y morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, serán responsables del cumplimiento de los plazos y términos para otorgar acceso a la información.
 
-### Capítulo I. Del Recurso de Revisión
+### Capítulo II. De las Cuotas de Acceso
 
 ###### Artículo 134.
 
@@ -1907,7 +1977,7 @@ La información deberá ser entregada sin costo, cuando implique la entrega de n
 
 ## TÍTULO OCTAVO. DEL RECURSO DE REVISIÓN
 
-### Capítulo II. De la Atracción de los Recursos de Revisión
+### Capítulo I. Del Recurso de Revisión
 
 ###### Artículo 135.
 
@@ -2093,7 +2163,7 @@ Las resoluciones del Instituto son vinculatorias, definitivas e inatacables para
 
 Los particulares podrán impugnar las determinaciones o resoluciones del Instituto ante el INAI a través del recurso de inconformidad que se señala en el artículo 159 de la Ley General o ante el Poder Judicial de la Federación en los términos de la Ley de Amparo.
 
-### Capítulo III. Del Cumplimiento
+### Capítulo II. De la Atracción de los Recursos de Revisión
 
 ###### Artículo 152.
 
@@ -2101,7 +2171,7 @@ El Instituto podrá solicitar al Instituto Nacional que ejerza la facultad de at
 
 Los recurrentes también podrán hacer del conocimiento del Instituto Nacional la existencia de recursos de revisión que, de oficio podría conocer.
 
-### Capítulo I. De las Medidas de Apremio
+### Capítulo III. Del Cumplimiento
 
 ###### Artículo 153.
 
@@ -2135,7 +2205,7 @@ Asimismo, el Instituto podrá emitir criterios de carácter orientador para los 
 
 ## TÍTULO NOVENO. MEDIDAS DE APREMIO Y SANCIONES
 
-### Capítulo II. De las causales de incumplimiento y las sanciones
+### Capítulo I. De las Medidas de Apremio
 
 ###### Artículo 157.
 
@@ -2168,6 +2238,8 @@ Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impu
 Las multas que fijen el Instituto se harán efectivas por conducto de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, a través del procedimiento correspondiente.
 
 El Instituto podrá establecer los convenios y/o mecanismos de colaboración con el Poder Ejecutivo del Estado, para que los ingresos derivados de estas multas se reintegren al Instituto, los cuales en su caso serán destinados a propiciar el desarrollo institucional y de mejora continua del mismo.
+
+### Capítulo II. De las causales de incumplimiento y las sanciones
 
 ###### Artículo 160.
 
@@ -2340,3 +2412,9 @@ P.O. 22 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 531 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 127 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN CAPÍTULO IV DENOMINADO DE LA PROMOCIÓN DE DATOS ABIERTOS AL TÍTULO CUARTO A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
