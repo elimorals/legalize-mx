@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2016-10-21"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -589,11 +589,15 @@ Para el mejor desempeño de sus funciones, el Secretario de Protección al Ambie
 
 Los puestos ocupados por los integrantes ciudadanos del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el reglamento.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su Presidente o del Secretario, previa convocatoria respectiva. Cuando no se haya convocado por parte del Gobernador en su calidad de presidente del Consejo en el término previsto por la Ley, el Secretario de Protección al Ambiente estará facultado para convocar. El quórum para celebrar sesiones legalmente válidas, se establece a partir de la asistencia de la mayoría de sus integrantes, deberá incluir la presencia del Presidente o del Secretario, o en su caso sus respectivos suplentes. Las sesiones del Consejo serán públicas pero sólo sus titulares asistirán con voz.
+El Consejo, sesionará en forma ordinaria cada dos meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su Presidente, quien emitirá la convocatoria respectiva.
+
+En la primer sesión ordinaria del año deberá ser propuesto y aprobado el calendario de sesiones. Si el Consejo deja de sesionar en las fechas acordadas, cualquiera de sus integrantes podrá solicitar al presidente emita la convocatoria que corresponda.
+
+El quórum para celebrar sesiones legalmente válidas, se establece a partir de la asistencia de la mayoría de sus integrantes, pero deberá incluir la presencia del Presidente o su suplente. Las sesiones del Consejo serán públicas pero sólo sus titulares asistirán con voz.
 
 Por acuerdo previo del Consejo o decisión de su presidente, se podrá invitar a las sesiones que lo ameriten, a funcionarios de las dependencias de los gobiernos federal, estatal y municipal y representantes de sectores de la sociedad, que tengan relación directa o indirecta con los asuntos que se vayan a tratar. Los invitados asistirán únicamente con voz y para intervenir únicamente en los asuntos para los que fueron convocados.
 
@@ -1779,8 +1783,6 @@ Los establecimientos mercantiles que corresponda, de forma inmediata deberán at
 
 XVII. Las demás que tengan por objeto dar cumplimiento a lo dispuesto en la presente Ley.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NO. 341, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2010, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN SU ESTRUCTURA, PARA QUEDAR CONFORMADO POR NUEVE FRACCIONES.</small>
-
 ###### ARTÍCULO 113.
 
 Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, los municipios, en el ámbito de su circunscripción territorial, tendrán las siguientes facultades:
@@ -1820,6 +1822,10 @@ VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+X.- Requerir y aplicar las sanciones respectivas a los particulares responsables de quemas dentro de la zona urbana.
 
 #### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
 
@@ -2196,6 +2202,10 @@ VI. Requerir y aplicar las disposiciones jurídicas a quienes generen y provoque
 VII. Integrar y mantener actualizado el inventario de generación de residuos sólidos urbanos y coordinarse con el Gobierno Estatal para la integración del inventario de generación de residuos en el Estado, y
 
 VIII. Expedir en sus bandos de policía o reglamentos los requerimientos que considere pertinentes para sujetar los responsables a que se refieren las fracciones III y IV de este artículo, en materia de prevención y control de la contaminación del suelo.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Requerir y aplicar las sanciones respectivas a los particulares que provoquen la contaminación del suelo con tiras clandestinas de los residuos sólidos urbanos en lugares no destinados para ello.
 
 ###### ARTÍCULO 137.
 
@@ -3148,3 +3158,19 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 627 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 106 BIS 1 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. - La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 149 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 113 Y UNA FRACCIÓN IX AL ARTÍCULO 136, AMBOS NUMERALES CORRESPONDIENTES A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los ayuntamientos tendrán un plazo no mayor de 90 (noventa) días hábiles para la realización de la (sic) adecuaciones necesarias de sus reglamentos municipales.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 150 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 19 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+Segundo.- El Consejo a que se refiere el presente decreto, deberá aprobar el calendario de las sesiones ordinarias que correspondan al año en que entre en vigor esta reforma.
