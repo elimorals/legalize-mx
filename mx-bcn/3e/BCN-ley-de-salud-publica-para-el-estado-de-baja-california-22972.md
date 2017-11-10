@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2016-10-21"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -375,31 +377,21 @@ VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuand
 
 VII.- Coordinarse con la Secretaría de Salud Federal para la ejecución en el Estado, del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, reconociendo a esta como un problema de salud pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 VIII.- Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, así como las acciones para su detección temprana en el individuo, de conformidad con los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 IX.- Proporcionar información y brindar la atención médica y los tratamientos que requieren las personas que consumen estupefacientes y psicotrópicos; conforme a los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 X.- Fomentar la participación de los sectores tanto público, social y privado en la prevención y tratamiento y apoyo a las personas que padecen alguna adicción o se encuentran en riesgo de padecerla;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XI.- La prevención del Consumo de narcóticos y la atención a las adicciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -741,7 +733,13 @@ III.- La realización de programas para la prevención del uso inadecuado de est
 
 IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción; y
 
-V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+V.- La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTÍCULO 31.
 
@@ -805,15 +803,19 @@ b).- Capacitar al personal especializado en psicología para la rápida y oportu
 
 c).- Divulgar material informativo básico en materia de salud a los padres de familia o tutores con la finalidad de identificar algún tipo de trastorno en los alumnos y aplicar las medidas preventivas al respecto.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 34.
 
-El Ejecutivo del Estado y los Municipios promoverán la creación y operarán en su caso, hospitales en los que se puedan recluir enfermos mentales por tiempo definido o indefinido, atendiendo enunciativamente a las circunstancias siguientes:
+El Ejecutivo del Estado y los Municipios promoverán la creación y operarán en su caso, centros de estancia prolongada en los que se pueda ingresar para su protección y rehabilitación a pacientes con enfermedad mental por tiempo definido o indefinido, atendiendo enunciativamente a las circunstancias siguientes:
 
-I.- Enfermos mentales que deambulen por las calles;
+I.- Personas con enfermedad mental que se encuentran en situación de calle por abandono social;
 
-II.- Enfermos mentales que sean internados para su recuperación, a solicitud de la autoridad o sus familiares, debiendo justificarse la necesidad del internamiento en ambos casos; y
+II.- Personas con enfermedad mental que sean internados a petición de la autoridad o sus familiares, para participar en un programa específico de rehabilitación y habiéndose justificado la necesidad del mismo en ambos casos; y
 
-III.- Enfermos mentales que representen un peligro para la sociedad o su familia.
+III.- Personas con enfermedad mental que requieran de custodia para protección de ellos mismos y de terceros.
+
+Para cumplir lo anterior se seguirá el procedimiento establecido por el artículo 32 de esta Ley.
 
 #### SECCION VI. DE LA ASISTENCIA SOCIAL
 
@@ -1003,8 +1005,6 @@ ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado 
 
 #### SECCION X. DONACION Y TRASPLANTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ARTÍCULO 50 TER.- Las autoridades federales de salud en coordinación con los servicios de salud del Estado efectuarán el control y la vigilancia sanitario (sic) de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del Centro de Trasplantes, Procuración de Órganos y Tejidos del Estado de Baja California, mismo que funcionará en los términos establecidos en el Reglamento correspondiente.
@@ -1026,8 +1026,6 @@ III.- Fomentar y vigilar el cumplimiento de las normas oficiales mexicanas en ma
 IV.- Operar y mantener actualizado el registro estatal de trasplantes;
 
 V.- Decidir y vigilar dentro de su ámbito de competencia la asignación de órganos, tejidos y células de seres humanos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1051,8 +1049,6 @@ XII.- Realizar las demás acciones que directa o indirectamente contribuyan al f
 
 ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, que será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 Así también para los fines mencionados en el párrafo anterior, el Gobierno del Estado a través del Centro de Trasplantes y Procuración de Órganos y Tejidos, coadyuvará con el Centro Nacional de Trasplantes, presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señale la Ley General de Salud y demás disposiciones aplicables.
@@ -1065,13 +1061,9 @@ ARTÍCULO 50 TER 4.- El Centro estará a cargo de un Director General, mismo que
 
 ARTÍCULO 50 TER 5.- Las ausencias de los demás servidores públicos, serán cubiertas por los servidores públicos que designe el Director del Centro de Trasplantes y Procuración de Órganos y Tejidos de Baja California.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 La equidad, la transparencia, y la eficiencia, son lineamientos que deberá tener la política en materia de donación y trasplantes, debiendo en todo momento proteger los datos personales en términos de las disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1095,15 +1087,11 @@ VI. Representar al responsable sanitario del establecimiento en ausencia de ést
 
 VII. Las demás disposiciones aplicables que le atribuya.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ARTÍCULO 50 TER 7.- Los coordinadores hospitalarios de la donación de órganos y tejidos para trasplantes en turno notificarán al Ministerio Público, de manera inmediata la identificación de un donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito.
 
 Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1747,13 +1735,23 @@ ARTÍCULO 93 BIS 19.- El personal médico que, por decisión propia, deje de pro
 
 ARTÍCULO 93 BIS 20.- Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN V. DE LOS APOYOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 93 BIS 21.- Los enfermos en situación terminal tienen derecho a recibir apoyos para la adquisición de la canasta básica, así como para el pago de los servicios públicos en términos de los (sic) previsto en la Ley de Asistencia Social del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 93 BIS 22.- Las Autoridades Sanitarias comunicaran a las autoridades en materia de desarrollo social estatal para que previamente a la realización de un estudio socio económico, determinen los apoyos que en cada caso se brindarán; lo anterior, sin perjuicio de los beneficios que el Ejecutivo Estatal apruebe otorgar mediante disposiciones de carácter general, de conformidad con los ordenamientos fiscales y demás que resulten aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 #### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
-
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ### CAPITULO OCTAVO. DE LA PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
@@ -1813,11 +1811,7 @@ V.- Recabar cualquier otra información que se estime necesaria para la prevenci
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
-#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 99.
 
@@ -1845,27 +1839,9 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
-
-I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
-
-II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
-
-ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
-
-I.- La detección y tratamiento de la ludopatía; y
-
-II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
-
-De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 102.
 
@@ -1897,29 +1873,27 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
+#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
-ARTÍCULO 106 QUATER.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución en la entidad del Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
+ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
 
-I.- Prestar servicios de atención médica integral, detección y tratamiento para los enfermos del VIH/SIDA y otras infecciones de transmisión sexual, así como apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado;
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
 
-II.- Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
 
-III.- Coordinar acciones con las Autoridades Educativas del Estado para fortalecer la educación integral en sexualidad y la promoción de la salud sexual, así como apoyar la investigación en el campo de la sexualidad humana para prevenir el VIH/SIDA y otras infecciones de transmisión sexual;
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
-IV.- Promover el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer VIH/SIDA y otras infecciones de transmisión sexual, de conformidad con las políticas que determinen las Autoridades Sanitarias competentes;
+ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
 
-V.- Fomentar la cultura del respeto, igualdad de derechos y la erradicación del estigma, la discriminación, la homofobia y la violación de los derechos fundamentales de las personas que padecen del VIH/SIDA y otras infecciones de transmisión sexual;
+I.- La detección y tratamiento de la ludopatía; y
 
-VI.- Impulsar el desarrollo de estrategias de prevención perinatal del VIH/SIDA, así como medidas de prevención sexual, desde la atención materno-infantil, para incrementar la detección oportuna y el tratamiento médico eficaz de las mujeres embarazadas y de los niños que viven con VIH/SIDA;
+II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
 
-VII.- Organizar en coordinación con los grupos y organismos de la sociedad civil interesados, actividades específicas para reducir los riesgos de transmisión del VIH/SIDA y otras infecciones de transmisión sexual, permitiendo su plena y total participación en todos los niveles;
+De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
 
-VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de VIH/SIDA y otras infecciones de transmisión sexual en los centros penitenciarios del Estado, así como diseñar estrategias fronterizas, atendiendo a la (sic) condiciones de movilidad de los migrantes que transitan por la entidad, para prevenir, atender y controlar la propagación del VIH/SIDA y otras infecciones de transmisión sexual en el Estado, y
-
-IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1949,17 +1923,37 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
+#### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 106 QUATER.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución en la entidad del Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
+
+I.- Prestar servicios de atención médica integral, detección y tratamiento para los enfermos del VIH/SIDA y otras infecciones de transmisión sexual, así como apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado;
+
+II.- Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
+
+III.- Coordinar acciones con las Autoridades Educativas del Estado para fortalecer la educación integral en sexualidad y la promoción de la salud sexual, así como apoyar la investigación en el campo de la sexualidad humana para prevenir el VIH/SIDA y otras infecciones de transmisión sexual;
+
+IV.- Promover el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer VIH/SIDA y otras infecciones de transmisión sexual, de conformidad con las políticas que determinen las Autoridades Sanitarias competentes;
+
+V.- Fomentar la cultura del respeto, igualdad de derechos y la erradicación del estigma, la discriminación, la homofobia y la violación de los derechos fundamentales de las personas que padecen del VIH/SIDA y otras infecciones de transmisión sexual;
+
+VI.- Impulsar el desarrollo de estrategias de prevención perinatal del VIH/SIDA, así como medidas de prevención sexual, desde la atención materno-infantil, para incrementar la detección oportuna y el tratamiento médico eficaz de las mujeres embarazadas y de los niños que viven con VIH/SIDA;
+
+VII.- Organizar en coordinación con los grupos y organismos de la sociedad civil interesados, actividades específicas para reducir los riesgos de transmisión del VIH/SIDA y otras infecciones de transmisión sexual, permitiendo su plena y total participación en todos los niveles;
+
+VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de VIH/SIDA y otras infecciones de transmisión sexual en los centros penitenciarios del Estado, así como diseñar estrategias fronterizas, atendiendo a la (sic) condiciones de movilidad de los migrantes que transitan por la entidad, para prevenir, atender y controlar la propagación del VIH/SIDA y otras infecciones de transmisión sexual en el Estado, y
+
+IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
+
 #### SECCION I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
-
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 107.
 
@@ -1981,7 +1975,9 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION IV. DE LA LIMPIEZA PUBLICA
+#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 112.
 
@@ -2001,7 +1997,7 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
 
-#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
+#### SECCION IV. DE LA LIMPIEZA PUBLICA
 
 ###### ARTÍCULO 114.
 
@@ -2095,7 +2091,7 @@ Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntami
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
-#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
+#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 ###### ARTÍCULO 120.
 
@@ -2109,7 +2105,7 @@ La basura deberá ser manejada en su destino final como relleno sanitario o dest
 
 El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
+#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 ###### ARTÍCULO 123.
 
@@ -2149,7 +2145,7 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo humano, están obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 132.
 
@@ -2177,9 +2173,7 @@ Para abrir los servicios al público, los establecimientos señalados en el art�
 
 La actividad de los establecimientos señalados en la presente sección está sujeta a lo dispuesto por esta Ley y la normatividad aplicable.
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 138.
 
@@ -2188,6 +2182,22 @@ Para los efectos de esta Ley, se entiende por centros de reunión, todas aquella
 ###### ARTÍCULO 139.
 
 La Autoridad Sanitaria competente una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta Ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
+
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 140.
+
+Para los efectos de esta Ley, se entiende por establecimientos de hospedaje, los moteles, hoteles, casas de asistencia y cualquier otro establecimiento similar que se destine al albergue de personas mediante una retribución.
+
+Para la construcción o acondicionamiento de este tipo de establecimientos se requiere de autorización sanitaria.
+
+###### ARTÍCULO 141.
+
+La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
 
 #### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
 
@@ -2227,20 +2237,6 @@ Esta información servirá de base para que la Secretaría de Salud del Estado i
 
 ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que (sic) Secretaría de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
 
-###### ARTÍCULO 140.
-
-Para los efectos de esta Ley, se entiende por establecimientos de hospedaje, los moteles, hoteles, casas de asistencia y cualquier otro establecimiento similar que se destine al albergue de personas mediante una retribución.
-
-Para la construcción o acondicionamiento de este tipo de establecimientos se requiere de autorización sanitaria.
-
-###### ARTÍCULO 141.
-
-La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que conforme a esta Ley y otras disposiciones aplicables le correspondan.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
-
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
-
 ###### ARTÍCULO 142.
 
 Se entiende por tratamientos del área de Medicina Estética, como aquellos actos que no sean quirúrgicos y que no requieren de anestesia general ni regional y que tienden a mejorar el aspecto y la condición de salud de los pacientes; los cuales se conforman por terapias médicas y cosméticas que mejoran la apariencia, la salud y la autoestima del paciente, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico propio de la cirugía plástica y estética, y de otras ramas de la medicina.
@@ -2265,15 +2261,11 @@ ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, ti
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2014)</small>
 
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
+
 #### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
-
-#### SECCION I. DE LAS AUTORIZACIONES
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 145.
 
@@ -2285,9 +2277,9 @@ Los transportes de carga señalados en el artículo anterior que circulen por el
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 147.
 
@@ -2432,6 +2424,10 @@ II.- Proponer acciones, programas y demás para fomentar y estimular la calidad 
 III.- Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia, y
 
 IV.- Las demás que le establezca el Reglamento Interno.
+
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION III. DE LOS CERTIFICADOS
 
@@ -3345,9 +3341,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 
 P.O. 21 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 623 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 106 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 623 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 106 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE OCTUBRE DE 2016.
 
@@ -3357,9 +3353,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 
 P.O. 21 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 676 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 20 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 676 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 20 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE OCTUBRE DE 2016.
 
@@ -3372,3 +3368,27 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 673 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 40 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128 MEDIANTE EL CUAL APRUEBA LA REFORMA AL ARTÍCULO 30 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de los 180 días siguientes a partir de la entrada en vigor de la presente reforma, la Secretaria de Salud del Estado y el Instituto de Psiquiatría realizaran las adecuaciones (sic) programas vigentes en materia de prevención del suicidio, a efecto de armonizar con la presente reforma.
+
+TERCERO.- Dentro de los 120 días siguientes a la entrada en vigor de la presente reforma, el Ejecutivo del Estado realizara las adecuaciones reglamentarias que rigen al Instituto de Psiquiatría del Estado de Baja California, a efecto de armonizar con la presente reforma.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 129 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA SECCIÓN V, ASÍ COMO DE LOS ARTÍCULOS 93 BIS 21 Y 93 BIS 22 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 131 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
