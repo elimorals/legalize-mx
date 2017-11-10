@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-616-de-deuda-publica-para-el-estado-de-guerrero-4703
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-11"
-last_updated: "2011-10-21"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO
 
-LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO
+LEY NÚMERO 616 DE DEUDA PÚBLICA PARA EL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de noviembre de 2005.
 
@@ -67,11 +67,11 @@ Que, la expedición de una nueva Ley de Deuda Pública, permitirá a las Entidad
 
 Que, bajo un marco de modernización de las finanzas pública estatales, los financiamientos que obtenga, el Estado, los Municipios y las entidades públicas estatales, podrán ser calificados por Sociedades Calificadoras de Valores, debidamente autorizadas, puedan llevar a cabo la calificación de dichos empréstitos y con ello, permitir que al Estado de Guerrero, puedan llegar inversionistas que fomenten la economía en beneficio de la sociedad guerrerense;"
 
-Que en términos de lo dispuesto por los Artículos, 46, 49 Fracción V, 56 Fracción I, 86, 87, 127 Primer y Tercer Párrafo, 132, 133 y demás relativos de la Ley Orgánica del Poder Legislativo en vigor, la Comisión de Hacienda tiene plenas facultades para emitir el Dictamen con Proyecto de Ley que recaerán ,a la Iniciativa de antecedentes.
+Que en términos de lo dispuesto por los Artículos, 46, 49 Fracción V, 56 Fracción I, 86, 87, 127 Primer y Tercer Párrafo, 132, 133 y demás relativos de la Ley Orgánica del Poder Legislativo en vigor, la Comisión de Hacienda tiene plenas facultades para emitir el Dictamen con Proyecto de Ley que recaerán, a la Iniciativa de antecedentes.
 
 Que en él análisis del contenido de la presente iniciativa de Ley, pudimos constatar de que ésta cumple con los principios de una nueva ley, tales como claridad, generalidad, obligatoriedad, precisión y unidad.
 
-Que en ese sentido, fue necesario primeramente suprimir de la iniciativa algunos artículos, que por su redacción y contenido formal, se incluía en otras disposiciones, tal es el caso del Artículo 24 de la iniciativa en mención, que previamente está definida y considerada la misma facultad en el Artículo 17 Fracción III de la misma iniciativa. De igual forma, esta Comisión de Hacienda determinó derogar los Artículos 27, 29 Y 56 bajo los mismos argumentos antes expuestos, y que deja sin razón de reglamentar lo redactado en los Artículos 18 Fracción IV, 19 Fracción XIV y XVI, 20 Fracción XV y XVII; y 21 Fracción XII, y lo dispuesto en los Artículos 54 y 55 de la iniciativa en mención.
+Que en ese sentido, fue necesario primeramente suprimir de la iniciativa algunos artículos, que por su redacción y contenido formal, se incluía en otras disposiciones, tal es el caso del Artículo 24 de la iniciativa en mención, que previamente está definida y considerada la misma facultad en el Artículo 17 Fracción III de la misma iniciativa. De igual forma, esta Comisión de Hacienda determinó derogar los Artículos 27, 29 y 56 bajo los mismos argumentos antes expuestos, y que deja sin razón de reglamentar lo redactado en los Artículos 18 Fracción IV, 19 Fracción XIV y XVI, 20 Fracción XV y XVII; y 21 Fracción XII, y lo dispuesto en los Artículos 54 y 55 de la iniciativa en mención.
 
 Que como segunda parte del análisis, y en función de darle coherencia y unidad, fue necesario llevar a cabo a la iniciativa modificaciones a algunos artículos, con el único propósito de corregir errores de nomenclatura y redacción, y por ende, que exista, correspondencia con los ordenamientos legales correspondientes. Razón por la cual se compactaron en un solo ordenamiento los Artículos 3, 4, 5 y 8, del Capítulo I Disposiciones Generales de la iniciativa en mención, esto, en regla a que un artículo es la división fundamental y elemental de una ley, por lo que al referirse al mismo concepto, puede ser dividida en fracciones, incisos y párrafos para lograr una mayor comprensión y estructura internamente organizada y enlazada entres sus partes.
 
@@ -181,7 +181,37 @@ VI.- Deuda Pública Indirecta: Las operaciones financieras que contraten los org
 
 VII.- Servicio de la Deuda: Los importes destinados a la amortización del capital y el pago de intereses, comisiones y otros cargos, que se hayan convenido en las operaciones de financiamiento.
 
-VIII.- Inversiones Públicas Productivas: Se entiende por Inversiones Públicas Productivas, la ejecución de obras públicas, acciones, adquisiciones o manufactura de bienes y prestación de servicios públicos, el mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer o a cualquier otra finalidad de interés público o social, siempre que puedan producir directa o indirectamente, inmediata o mediatamente, un ingreso para el Estado o los Municipios, incluyendo además, las acciones que se destinen para apoyar el gasto público en materia de educación, salud, asistencia, comunicaciones, desarrollo regional, fomento agropecuario, turismo, seguridad pública y combate a la pobreza, que fomenten el crecimiento económico y la equidad social, así como para cubrir un déficit imprevisto en la Hacienda Pública del Estado o Municipal, o bien, aquellas acciones que permitan hacer frente a cualquier calamidad o desastre natural.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VIII.- Inversiones Públicas Productivas: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea a) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; b) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o c) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Asociaciones Público-Privadas: Las previstas en la Ley número 801 de Asociaciones Público Privadas para el Estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+X.- Deuda Estatal Garantizada: El Financiamiento de los estados y municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los entes públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Obligaciones a corto plazo: Cualquier obligación contratada con instituciones financieras a un plazo menor o igual a un año;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Refinanciamiento: La contratación de uno o varios financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más financiamientos previamente contratados;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIV.- Registro Público Único: El registro para la inscripción de Obligaciones y Financiamientos que contraten los Entes Públicos; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XV.- Sistema de Alertas: La publicación hecha por la Secretaría de Finanzas y Administración sobre los indicadores de endeudamiento de los Entes Públicos.
 
 ###### ARTICULO 4.
 
@@ -219,9 +249,11 @@ Límites de endeudamiento de la deuda pública. - El Congreso del Estado, atendi
 
 El límite anterior, será fijado considerando la capacidad de pago de cada Municipio o Entidad Pública, con base a sus ingresos propios, así como a las participaciones que en ingresos federales o cualquier otro ingreso les correspondan.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 10.
 
-Rendición de cuentas de la deuda pública,- El Gobernador del Estado, los Presidentes Municipales y los demás servidores públicos, con facultades para negociar o contratar Deuda Pública Estatal o Municipal, están obligados a informar de su ejercicio, al rendir la Cuenta Pública anual o cuando expresamente, el Congreso del Estado o cualquier órgano facultado se los requiera, en términos de la Constitución Política del Estado Libre y Soberano de Guerrero, de la Ley de Fiscalización Superior del Estado de Guerrero y de la Ley Orgánica del Poder Legislativo del Estado de Guerrero y demás legislación estatal aplicable.
+Rendición de cuentas de la deuda pública.- El Gobernador del Estado, los Presidentes Municipales y los demás servidores públicos, con facultades para negociar o contratar Deuda Pública Estatal o Municipal, están obligados a informar de su ejercicio, al rendir la Cuenta Pública anual o cuando expresamente, el Congreso del Estado o cualquier órgano facultado se los requiera, en términos de la Constitución Política del Estado Libre y Soberano de Guerrero, de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero y de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 231 y demás legislación estatal aplicable.
 
 ###### ARTICULO 11.
 
@@ -293,9 +325,13 @@ I. Presentar anualmente al Congreso del Estado, la iniciativa de Ley de Ingresos
 
 II. Enviar al Congreso del Estado, la iniciativa de decreto, decreto de reforma o adición a la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las Entidades de la Administración Pública Paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias que así lo justifiquen y/o cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán;
 
-III.- Presentar ante el Congreso del Estado, las solicitudes de autorización de endeudamiento, en términos de lo previsto por esta Ley; y
+III. Presentar ante el Congreso del Estado, las solicitudes de autorización de endeudamiento, en términos de lo previsto por esta Ley; y
 
-IV.- Incluir anualmente dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo del Estado, correspondiente al ejercicio fiscal de que se trate.
+IV. Incluir anualmente dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo del Estado, correspondiente al ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+V. Adherirse al mecanismo de contratación de Deuda Estatal Garantizada que otorga el Gobierno Federal en los términos del Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
 
 ###### ARTICULO 16.
 
@@ -319,7 +355,7 @@ VII. Constituir al Estado, previa autorización del Congreso del Estado y sujeto
 
 VIII. Afectar, previa autorización del Congreso del Estado, como fuente o garantía de pago, o ambas, de los financiamientos que contrate directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto, sus derechos al cobro e ingresos derivados, de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos, federales o locales, de los que pueda disponer de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago, en términos del Artículo 8 de esta Ley;
 
-IX. Negociar, previa autorización del Congreso del Estado, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebre directamente el Estado o de aquellos .en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto;
+IX. Negociar, previa autorización del Congreso del Estado, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebre directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto;
 
 X. Realizar, en su caso, a través de los mecanismos legales establecidos, el pago de obligaciones y empréstitos o créditos, contraídos por el Estado;
 
@@ -333,6 +369,8 @@ XIV. Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de
 
 XV. Realizar oportunamente los pagos del servicio de la deuda pública directa del Estado y vigilar que se hagan oportunamente los pagos del servicio de la deuda pública contingente e indirecta del Estado;
 
+XVI. Aprobar, previamente a la autorización por el Congreso del Estado, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las Entidades de la Administración Pública Paraestatal, cuya inclusión en la Ley de Ingresos del Estado soliciten dichas Entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que se propongan contraer dichas Entidades;
+
 XVII.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos o emisiones de valores, que negocie el Estado y sus Entidades Públicas y para que realicen la revisión periódica de las calificaciones respectivas;
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
@@ -343,7 +381,19 @@ XIX.- Llevar el Registro Único de Obligaciones y Empréstitos del Estado de Gue
 
 XX.- Inscribir los financiamientos que celebre en el Registro Único de Obligaciones y Empréstitos del Estado de Guerrero, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
 
-XXI. Expedir a través del Registro Unico de Obligaciones y Empréstitos del Estado de Guerrero, las certificaciones que correspondan, con relación a las obligaciones que se encuentren inscritas en dicho registro;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXI.- Contratar Obligaciones a corto plazo sin autorización de la Legislatura local, siempre y cuando se cumplan las siguientes condiciones:
+
+a).- En todo momento, el saldo insoluto total del monto principal de estas Obligaciones a corto plazo no exceda del 6 por ciento de los ingresos totales aprobados en la Ley de Ingresos, sin incluir Financiamiento Neto, del Estado o de los municipios durante el ejercicio fiscal correspondiente;
+
+b).- Las Obligaciones a corto plazo queden totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, no pudiendo contratar nuevas Obligaciones a corto plazo durante esos últimos tres meses;
+
+c).- Las Obligaciones a corto plazo deberán ser quirografarias; y
+
+d).- Ser inscritas en el Registro Público Único.
+
+Para dar cumplimiento a la contratación de las Obligaciones a corto plazo bajo mejores condiciones de mercado, se deberá cumplir lo dispuesto en el penúltimo párrafo del artículo 26 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios. Las Obligaciones a corto plazo que se contraten quedarán sujetas a los requisitos de información previstos en la citada ley.
 
 XXII. Asesorar a las Entidades Públicas señaladas en las Fracciones II, III, IV y V del Artículo 2 de esta Ley, en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública; y
 
@@ -453,7 +503,9 @@ Comité Técnico de Financiamiento.- Se integra un Comité Técnico de Financiam
 
 l.- El Secretario de Finanzas y Administración del Estado;
 
-II.- El Director General de Deuda Pública del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+II.- El titular de la Coordinación de Planeación Estratégica y Deuda Pública; y
 
 III.- Un vocal, que será designado por trienio, entre todos los Presidentes Municipales del Estado.
 
@@ -475,9 +527,11 @@ III.- Dar asesoría a los Municipios y sus Entidades Paramunicipales, que así l
 
 Empréstitos a cargo de Municipios.- La contratación de empréstitos a cargo de los Municipios, deberá ser autorizada por sus respectivos integrantes del H. Ayuntamiento y previo Dictamen del Comité Técnico de Financiamiento, de acuerdo a lo señalado en la Fracción I, del artículo anterior. Dicho Dictamen, será requisito necesario para gestionar la autorización de los mismos ante el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 22.
 
-Montos y conceptos de endeudamiento. Los montos y conceptos de endeudamiento que sean necesarios para el financiamiento de las Entidades Públicas, a que hace referencia el Artículo 2 de esta Ley, serán autorizados por el Congreso del Estado, anualmente, en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, en su caso.
+Montos y conceptos de endeudamiento.- Los montos y conceptos de endeudamiento serán la base para la contratación de los créditos necesarios para el financiamiento de las Entidades Públicas, a que hace referencia el Artículo 2 de esta Ley, serán autorizados por el Congreso del Estado, anualmente, en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, en su caso. El endeudamiento neto de la (sic) Entidades Públicas incluidas en dichos Presupuestos invariablemente estará correspondido con la calendarización y demás previsiones acordadas periódicamente con la dependencia competente en materia de gasto y financiamiento.
 
 ###### ARTICULO 23.
 
@@ -557,7 +611,7 @@ Colocación de los valores.- Los valores serán colocados entre el gran público
 
 Legislación bursátil.- En todo lo referente a la emisión, colocación y operación de los valores, las Entidades Públicas se sujetarán a lo previsto en la Ley del Mercado de Valores y demás ordenamientos aplicables.
 
-### CAPITULO SEXTO. DEL PAGO Y GARANTIA DE LOS .EMPRESTITOS Y DE LAS EMISIONES DE VALORES
+### CAPITULO SEXTO. DEL PAGO Y GARANTIA DE LOS EMPRESTITOS Y DE LAS EMISIONES DE VALORES
 
 ###### ARTICULO 40.
 
@@ -683,13 +737,17 @@ Calificación de los empréstitos o créditos. El Estado y los Municipios, en la
 
 Del Registro Unico de Obligaciones y Empréstitos del Estado de Guerrero. Todos los empréstitos, créditos o emisiones de valores, que realicen el Estado, los Municipios o sus Entidades, así como el pago de obligaciones, a través de mecanismos legales de garantía o pago, deberán inscribirse para efectos declarativos, en el Registro Unico de Obligaciones y Empréstitos del Estado de Guerrero, que lleva la Secretaría de Finanzas y Administración.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Con el objeto de transparentar los financiamientos y obligaciones que contraten el Estado y los municipios, deberá aplicarse el Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios.
+
 ###### ARTICULO 62.
 
 Inscripción de los empréstitos o créditos.- Las obligaciones directas e indirectas o contingentes, derivadas de la contratación de empréstitos o créditos u otras operaciones de endeudamiento, que lleven a cabo las Entidades Públicas, señaladas en el Artículo 2 de esta Ley, deberán registrarse ante la Secretaría de Finanzas y Administración, quien llevará el registro de empréstitos o créditos u obligaciones que afecten a la Deuda Pública Estatal, Deuda Pública Municipal o las de las Entidades Paraestatales o Paramunicipales, independientemente del registro contable o control que, cada una de ellas, tenga.
 
 ###### ARTICULO 63.
 
-Requisitos de .inscripción.- Para que preceda la inscripción de los financiamientos en el Registro Unico de Obligaciones y Empréstitos del Estado de Guerrero, se deberá cumplir con los siguientes requisitos:
+Requisitos de inscripción.- Para que preceda la inscripción de los financiamientos en el Registro Unico de Obligaciones y Empréstitos del Estado de Guerrero, se deberá cumplir con los siguientes requisitos:
 
 I.- Que la entidad solicitante, bajo protesta de decir verdad, manifieste que se trata de obligaciones pagaderas en México y en moneda nacional, contraídas con la Federación, con instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, conforme a las bases establecidas en esta Ley, por los conceptos y hasta por los montos autorizados conforme a la misma.
 
@@ -731,7 +789,7 @@ De la subrogación.- La deuda pública contratada por el Estado y por los Munici
 
 En los casos de subrogación a los que se refiere el artículo anterior, al enajenar un activo u otorgar una concesión se deberá proceder a la sustitución de las garantías otorgadas por el Estado o el Municipio de que se trate, por las que ponga a disposición el adquirente o concesionario, salvo en aquellos casos en que las garantías originales de los créditos sean los propios bienes, sus rendimientos, o los ingresos derivados de la prestación de los servicios objeto de la enajenación o concesión.
 
-En ningún caso podrán permanecer o darse como garantías de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y .otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión.
+En ningún caso podrán permanecer o darse como garantías de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión.
 
 TRANSITORIOS:
 
@@ -810,3 +868,13 @@ P.O. 21 DE OCTUBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de la entrada en vigor del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero, mediante el cual se establecen las bases Constitucionales de las Asociaciones Público-Privada (sic).
 
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 478 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 616 DE DEUDA PÚBLICA PARA EL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Número 616 de Deuda Pública para el Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
