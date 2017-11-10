@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2017-07-04"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -9545,6 +9545,18 @@ Cuando se demuestre que una persona tiene en su poder un bien en virtud de la si
 
 Son objeto de posesión los bienes y derechos que sean susceptibles de apropiación y también el estado civil de las personas.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+No pueden ser objeto de posesión jurídica para efectos del presente capítulo, los bienes que integran el patrimonio del Estado, que hayan sido obtenidos y/o apropiados ilícitamente, por particulares, sin importar el tiempo que haya transcurrido. El Estado podrá demandar la inexistencia y/o nulidad de los actos que siendo contrarios a derecho dieron origen a una ocupación que se considera precaria.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Tampoco podrán ser objeto de posesión jurídica los bienes que integran el patrimonio del Estado, si existen elementos necesarios y suficientes que lleven a presumir que fueron obtenidos de manera ilícita por los particulares, el Estado podrá realizar su recuperación en los términos de la Legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Para efectos de los dos párrafos anteriores, será necesario en el primer caso, una resolución definitiva, en el segundo, una resolución provisional, ambas de autoridad competente.
+
 ###### Artículo 1786.
 
 La posesión de bienes pueden adquirirse por la misma persona que va a disfrutarla, por su representante legal, por su mandatario y por un tercero sin mandato alguno; pero en este último caso no se entenderá adquirida la posesión sino hasta que la persona a cuyo nombre se haya verificado el acto posesorio lo ratifique.
@@ -17438,3 +17450,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los juicios de divorcio iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones procesales vigentes al momento de iniciarse dichos procedimientos.
 
 TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 114 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 1785 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
