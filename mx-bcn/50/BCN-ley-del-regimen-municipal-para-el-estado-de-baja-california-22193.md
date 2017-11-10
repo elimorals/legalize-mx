@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2016-12-30"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -65,11 +65,15 @@ IV.- Regular el uso y aprovechamiento de los bienes municipales, y
 
 V.- Emitir el estatuto que establezca las demarcaciones administrativas interiores del territorio municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Establecer los procedimientos para el nombramiento y remoción de los Comisarios Sociales Honorarios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
-Del Órgano de Gobierno Municipal.- El Ayuntamiento, es el órgano de Gobierno del Municipio; se integra por un Presidente Municipal, un Síndico Procurador, un Síndico Social en los Municipios en que proceda, y por el número de Regidores que establezca la Ley Electoral, de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
+Del Órgano de Gobierno Municipal.- El Ayuntamiento, es el órgano de Gobierno del Municipio; se integra por un Presidente Municipal, un Síndico Procurador, y por el número de Regidores que establezca la Ley Electoral, de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
 
 El Ayuntamiento tendrá su residencia en la cabecera de cada municipalidad y ejercerá sus atribuciones de manera exclusiva en el ámbito territorial y jurídico de su competencia.
 
@@ -105,9 +109,11 @@ De la representación legal del Municipio.- En representación del Municipio y p
 
 El reglamento mediante el cual se otorguen facultades de representación legal y poderes, o el acuerdo del Ayuntamiento que las contenga, debidamente certificado por el Secretario Fedatario Municipal y publicado en el Periódico Oficial del Estado, tendrá en todo caso la naturaleza de documento público en los procedimientos administrativos y judiciales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-Del Órgano Ejecutivo del Ayuntamiento.- El Presidente Municipal, en su calidad de alcalde de la comuna, es el Órgano Ejecutivo del Ayuntamiento y ostenta, en todo caso, las siguientes atribuciones:
+Del órgano Ejecutivo del Ayuntamiento.- El Presidente Municipal, en su calidad de alcalde de la comuna, es el órgano Ejecutivo del Ayuntamiento y ostenta, en todo caso, las siguientes atribuciones:
 
 I.- Dirigir el gobierno y la administración pública municipal, centralizada y paramunicipal;
 
@@ -115,7 +121,9 @@ II.- Desempeñar la jefatura superior y de mando de la policía municipal así c
 
 III.- Convocar y presidir las sesiones de Cabildo, ejerciendo el voto de calidad en los casos que determine su reglamentación interior;
 
-IV.- Ejercer la representación legal del Municipio conforme lo disponga el reglamento respectivo, pudiendo delegarla mediante acuerdo expreso del Ayuntamiento;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IV.- Ejercer la representación política, legal y social del Municipio conforme lo disponga el reglamento respectivo. La representación legal podrá delegarla mediante acuerdo expreso del Ayuntamiento;
 
 V.- Cumplir y hacer cumplir las disposiciones normativas relativas a la recaudación, custodia y administración de los impuestos, derechos, productos, aprovechamientos y demás ingresos del Municipio, ejerciendo la facultad económico-coactiva en favor de los créditos fiscales;
 
@@ -139,15 +147,17 @@ X. Garantizar y cumplir con el principio de interés superior de la niñez, así
 
 XI. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
-Del Síndico Procurador.- El Síndico Procurador tendrá a su cargo la función de contraloría interna, la procuración de la defensa de los intereses del Ayuntamiento y vigilar que no se afecten los intereses de los habitantes del municipio, en el ejercicio de las funciones y atribuciones de orden municipal, ostentando en todo caso, las siguientes atribuciones:
+Del Síndico Procurador.- El Síndico Procurador.- (sic) El Síndico Procurador tendrá a su cargo la función de contraloría interna, la procuración de la defensa de los intereses del Ayuntamiento, y vigilar que no se afecten los intereses de los habitantes del municipio, en el ejercicio de las funciones y atribuciones de orden municipal, ostentando en todo caso, las siguientes atribuciones:
 
-I.- Ejercer la representación jurídica del Ayuntamiento en los litigios jurisdiccionales y en las negociaciones relativas a la hacienda municipal pudiendo nombrar apoderado legal, con arreglo a las facultades específicas que el Ayuntamiento le delegue;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-En caso de que el Síndico Procurador, por cualquier causa, se encuentre imposibilitado para ejercer la representación jurídica del Ayuntamiento, éste resolverá lo conducente.
+I.- Ejercer la representación jurídica del Ayuntamiento en los litigios jurisdiccionales, así como en las negociaciones relativas a la hacienda municipal, pudiendo nombrar apoderado legal y delegar sus facultades, con arreglo a las que específicamente el Ayuntamiento le delegue;
+
+En caso de que el Síndico Procurador, por cualquiera de las causas o supuestos enunciados en las normas técnicas o reglamentos que para tal efecto establezcan los propios Ayuntamientos, se encuentre imposibilitado para ejercer la representación jurídica del Ayuntamiento, la podrá ejercer el Presidente Municipal por acuerdo del Ayuntamiento, estando obligado a dar cuenta de su actuación ante el órgano de gobierno municipal.
 
 II.- Nombrar y remover al personal a su cargo;
 
@@ -181,29 +191,37 @@ IX.- Recibir del Congreso del Estado los Dictámenes derivados de las cuentas p�
 
 X.- Participar en la formulación y vigilancia de la ejecución de los programas municipales de desarrollo social;
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XI.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y vigilar que se hagan públicos sus resultados;
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XII.- Proponer mecanismos de inclusión de participación social en los programas y acciones de desarrollo social;
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XIII.- Recibir y dar trámite a las quejas contra servidores públicos o con relación a los servicios prestados por el ayuntamiento;
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XIV.- Instrumentar y operar un sistema de comunicación con la población en general, con relación a la prestación de servicios municipales;
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 XV.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XVI.- Las demás que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+XVI.- Convocar, capacitar, evaluar, seleccionar, nombrar, remover, coordinar y supervisar a los Comisarios Sociales Honorarios conforme al procedimiento establecido en ésta Ley y en la normatividad técnica de cada Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E, ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XVII.- Presidir las reuniones de los Comisarios Sociales Honorarios.
+
+> <small>(REFORMADA [N. DE E, ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XVIII.- Las demás que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 ARTÍCULO 8 BIS.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
@@ -553,6 +571,10 @@ Procedimiento de Lesividad.- Los Municipios, por conducto de las dependencias qu
 
 ## TÍTULO QUINTO. DE LA ASOCIACIÓN CON FINES DE DERECHO PÚBLICO
 
+### CAPÍTULO PRIMERO. DEL COMISARIO SOCIAL HONORARIO
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 48.
 
 De la Asociación entre Municipios.- Los Municipios, previo acuerdo de sus Ayuntamientos, podrán asociarse entre sí para la prestación de un servicio o el ejercicio de una función pública de su competencia, bajo las siguientes bases:
@@ -604,6 +626,184 @@ En caso de que el Congreso del Estado no resuelva la petición del Ayuntamiento 
 ###### ARTÍCULO 54.
 
 Del Registro de Actuaciones Municipales.- Los Municipios deberán comunicar al Ejecutivo del Estado para su registro, los nombramientos de los diferentes funcionarios y comisionados que realicen, incluyendo las facultades y atribuciones que deban ejercer.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE SELECCION
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 55.
+
+El Comisario Social Honorario, tiene como objeto coadyuvar al Síndico Procurador en la implementación de las medidas necesarias para la vigilancia de la gestión pública municipal, así como ser la instancia de vinculación entre los ciudadanos y las autoridades municipales.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 56.
+
+El Síndico Procurador determinará acorde a sus necesidades la cantidad de Comisarios Sociales Honorarios que requiera, los cuales deberán gozar de prestigio y solvencia moral en su comunidad como persona de conducta honorable.
+
+Durarán en su encargo, el término Constitucional del Ayuntamiento en turno, con posibilidad de reelección; solo podrán ser removidos por alguna de las causas establecidas en el artículo 59 de ésta Ley.
+
+Durante el tiempo de su gestión no podrán desempeñar ningún empleo, cargo o comisión de cualquier naturaleza, en la administración pública federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 57.
+
+Los Comisarios Sociales Honorarios no tendrán relación laboral alguna por virtud de su encargo con el Municipio, por lo que no percibirán ningún tipo de sueldo, salario, remuneración o prestación, garantizando así la objetividad de su desempeño.
+
+Los Comisarios Sociales Honorarios estarán sujetos al régimen de Responsabilidades Administrativas, les serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información y demás aplicables por el acceso que pudieran llegar a tener a (sic) documentos o información de carácter reservado o confidencial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES, DERECHOS, OBLIGACIONES Y PROHIBICIONES
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 58.
+
+Los Comisarios Sociales Honorarios serán nombrados conforme al siguiente procedimiento:
+
+I.- El Síndico Procurador:
+
+A) Convocará a todos aquellos ciudadanos que deseen ser Comisario Social Honorario, mediante publicación en el periódico de mayor circulación del municipio, por medios electrónicos, sitios oficiales en las redes sociales y en los estrados de las oficinas del Síndico procurador de que se trate;
+
+B) Dentro de los quince días hábiles siguientes al en que concluya la recepción de solicitudes, deberá seleccionar a los ciudadanos que hayan cumplido con el perfil y requisitos para desempeñarse como Comisario Social Honorario para que acudan al curso de capacitación respecto a las atribuciones, derechos, obligaciones y prohibiciones del Comisario Social Honorario;
+
+C) Deberá publicar en las instalaciones de la Sindicatura Municipal, en el periódico de mayor circulación del municipio, así como en los sitios oficiales de redes sociales la lista que contendrá los nombres de los aspirantes a Comisario Social Honorario a que se refiere el inciso anterior;
+
+D) Aplicará y calificará el examen de conocimientos y demás evaluaciones que se enuncien en la norma técnica o reglamentos que los Ayuntamientos establezcan a aquellos ciudadanos que hayan tomado el curso de capacitación a que se refiere el inciso B); y,
+
+E) Otorgará en compañía del Presidente Municipal y un regidor los nombramientos como Comisario Social Honorario a los ciudadanos que hayan sido aprobados para ejercer el cargo.
+
+II.- Una vez emitida la convocatoria por el Síndico Procurador, el aspirante a Comisario Social Honorario deberá entregar en la fecha señalada para tal efecto, en la Sindicatura Municipal que corresponda, solicitud por escrito anexando la documentación a que se hace referencia en esta Ley y en la norma técnica o reglamento que para tal efecto establezcan los Ayuntamientos.
+
+III.- La presente Ley, la norma técnica y/o reglamentos de los Ayuntamientos definirán cuáles serán los requisitos que deberán cubrir los aspirantes para ser Comisario Social Honorario.
+
+IV.- En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo Comisario Social Honorario no podrá exceder el límite de noventa días naturales, y el ciudadano que resulte electo desempeñará el encargo el tiempo restante de la vacante a ocupar.
+
+En el nombramiento de los Comisarios Sociales Honorarios se procurará prevalezca la equidad de género.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 59.
+
+El nombramiento de Comisario Social Honorario se perderá por las siguientes razones:
+
+I.- Por separación voluntaria;
+
+II.- Por incumplimiento a las atribuciones, obligaciones o prohibiciones establecidas en este capítulo para el desempeño de su encargo;
+
+III.- Por violación a las obligaciones de confidencialidad, secrecía, y resguardo de documentos y/o información que tenga el carácter de reservado y confidencial; y,
+
+V (SIC).- Por fallecimiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO CUARTO. DEL CURSO DE CAPACITACION Y EL EXAMEN DE CONOCIMIENTOS
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 60.
+
+Son atribuciones del Comisario Social Honorario:
+
+I.- Dar aviso a la Sindicatura Municipal de los actos u omisiones cometidos por los servidores públicos municipales en el desempeño de sus funciones que consideren irregulares;
+
+II.- Proporcionar orientación a la ciudadanía respecto de los procedimientos y servicios que lleva a cabo la Sindicatura Municipal;
+
+III.- Canalizar de manera inmediata a la Sindicatura Municipal las quejas que la ciudadanía presente en contra de servidores públicos con relación a los servicios prestados por el Ayuntamiento; así como los reconocimientos al desempeño de los servidores públicos que la ciudadanía presente, en los supuestos establecidos en las normas técnicas y o reglamentos que establezcan los Ayuntamientos.
+
+IV.- Opinar y realizar propuestas, sobre las políticas públicas municipales en materia de desarrollo social;
+
+V.- Coadyuvar con la Sindicatura Municipal en la vigilancia y orientación de los programas municipales de desarrollo social;
+
+VI.- Coadyuvar con la Sindicatura Municipal en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento.
+
+VII.- Proponer mecanismos para que la sociedad participe en la prevención de faltas administrativas y hechos de corrupción; y,
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 61.
+
+Los Comisarios Sociales Honorarios tienen derecho a:
+
+I.- Que se les proporcione nombramiento por escrito, así como gafete de identificación;
+
+II.- Presentar quejas, denuncia, observaciones por parte de la Sindicatura y se les informe de su seguimiento;
+
+III.- Ser convocado a los cursos de capacitación que imparta el Ayuntamiento para el mejor desempeño de su encargo; y,
+
+IV.- Se les proporcione la información y documentación necesaria para el desempeño de su encargo.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 62.
+
+El Comisario Social Honorario tendrá las siguientes obligaciones:
+
+I.- Cumplir con la normatividad establecida en la presente Ley, el reglamento, las normas técnicas y demás disposiciones legales aplicables para el desempeño de su encargo;
+
+II.- Abstenerse de interferir en cualquier forma en el desempeño de las funciones de los servidores públicos del Ayuntamiento, así como de las Entidades de la Administración Pública Municipal, limitándose únicamente a tomar los datos que juzgue necesarios para notificar lo correspondiente a la Sindicatura Municipal;
+
+III.- Abstenerse de llevar a cabo cualquier tipo de gestión a título propio o a favor de terceros ante dependencias de la administración pública federal, estatal o municipal, ostentándose como Comisario Social Honorario;
+
+IV.- Abstenerse de divulgar a institución o persona ajena a la Sindicatura Municipal en cualquier forma el contenido de las observaciones que detecte o reciba;
+
+V.- Abstenerse de inhibir en cualquier forma al ciudadano para que ejercite su derecho a presentar una queja, denuncia o reconocimiento ante la Sindicatura Municipal;
+
+VI.- Rendir un informe mensual a la Sindicatura Municipal sobre las tareas que se le hayan encomendado;
+
+VII.- Acudir puntualmente a las reuniones para las que sea convocado por el Síndico Procurador;
+
+VIII.- Participar en las capacitaciones que le sean proporcionadas por el Ayuntamiento;
+
+IX.- Contribuir y participar en la difusión de los programas institucionales de participación ciudadana a cargo de la Sindicatura; y,
+
+X.- Las demás que establezca la presente Ley, los reglamentos y las normatividades técnicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 63.
+
+El Síndico Procurador, en la lista a que se refiere el Artículo 58 inciso C), fijará la fecha, día y hora para la impartición del curso de capacitación correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 64.
+
+El Síndico Procurador impartirá a los aspirantes a Comisario Social Honorario el curso de capacitación, el cual versará sobre los siguientes temas:
+
+A) Definición de Comisario Social Honorario;
+
+B) Fundamento legal; y,
+
+C) Atribuciones, derechos, obligaciones y prohibiciones del Comisario Social Honorario.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 65.
+
+Una vez concluido el curso de capacitación, el Síndico Procurador fijará fecha, día y hora para la aplicación del examen de conocimientos.
+
+El examen deberá versar únicamente sobre los temas impartidos en el curso de capacitación.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 66.
+
+La calificación mínima aprobatoria del examen de conocimientos a que se refiere el Artículo anterior será del 80% del total de reactivos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 67.
+
+Una vez aplicado y calificado el examen de conocimientos, el Síndico Procurador avisará al aspirante a Comisario Social Honorario el resultado del mismo; en caso de que el resultado obtenido haya sido aprobatorio, continuará con el procedimiento de aplicación de exámenes en términos de la norma técnica, reglamentación interna o acuerdos que para tal efecto establezcan los Ayuntamientos.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -724,3 +924,23 @@ P.O. 30 DE DICIEMBRE DE 2016.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Municipios del Estado tendrán un plazo de 60 días, contados a partir de la entrada en vigor del presente decreto, para armonizar sus reglamentos conforme a lo establecido en la presente reforma.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. EL "DECRETO NO. 138 MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 7 Y 8 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 147 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NO. 148 MEDIANTE EL CUAL SE APRUEBAN LA REFORMA A LOS ARTÍCULOS 3 Y 8, ASÍ COMO LA ADICIÓN DE UN TÍTULO SEXTO, EL CUAL CONTIENE DE LOS CAPÍTULOS PRIMERO AL CUARTO, CON SUS RESPECTIVOS ARTÍCULOS 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 Y 67 A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo.- Los Ayuntamientos dentro un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente reforma, deberán crear o en su caso adecuar la reglamentación municipal, así como las normas técnicas que correspondan.
