@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2017-09-01"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -181,6 +181,10 @@ XXII.- Otorgar la Medalla al Mérito Ciudadano en reconocimiento a quienes hayan
 > <small>(ADICIONADA, G.O. 1 DE JUNIO DE 2017)</small>
 
 XXII BIS.- Otorgar la Medalla al Mérito Docente "Jaime Torres Bodet" a aquellas o aquellos Profesores de la Ciudad de México, que por su trayectoria, vocación y servicio han destacado en la labor académica más noble y así se les pueda reconocer, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXII TER.- Otorgar la Medalla al Mérito Turístico "Embajador Turístico de la Ciudad de México" a aquellas mujeres y hombres de la Ciudad de México, que por su trayectoria, vocación y servicio han destacado en promover y fomentar el turismo a nivel nacional e internacional de la Ciudad de México y así se les pueda reconocer, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior.
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
@@ -2615,3 +2619,11 @@ G.O. 1 DE SEPTIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para los efectos de su publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el Pleno de la Asamblea Legislativa.
