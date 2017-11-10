@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-procedimiento-para-la-atencion-de-quejas-92551"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-30"
-last_updated: "2013-01-30"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 30 de enero 2013.
 
@@ -493,9 +493,11 @@ De recibirse dos o más quejas por los mismos actos u omisiones que se atribuyan
 
 #### SECCIÓN TERCERA. De la Etapa Conciliatoria y la Transacción
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 56.
 
-La CODAMEVER, dentro de los diez días hábiles siguientes a la admisión de la queja, notificará por escrito al prestador del servicio médico, para efectos de que si fuere su voluntad acepte el trámite arbitral de la institución.
+La CODAMEVER, dentro de los diez días hábiles siguientes a la admisión de la queja, revisará que la misma vaya debidamente firmada por el usuario, en el caso de que se reclamen prestaciones económicas y la misma vaya firmada por un representante, éste deberá acompañar carta poder debidamente certificada por notario público o poder notarial con cláusula especial, en el sentido de que lo represente en la queja promovida ante la CODAMEVER y en caso que se dé conciliación y ofrezca el prestador una indemnización la recoja en su nombre y representación; en caso de fallecimiento del usuario, la queja debe ir acompañada de copia certificada expedida por el secretario del Juzgado de Primera Instancia, donde denunció el intestado o la radicación de la testamentaria y fue nombrado albacea para poder representarlo. En caso de que se represente a un menor o a un adulto incapacitado a éstos se le debe promover su estado de interdicción y exhibir la copia certificada del juzgado competente donde exista la resolución y la aceptación del cargo de tutor y curador. Una vez revisada la queja y cumpla con los requisitos señalados, se notificará por escrito al prestador del servicio médico para efectos de que si fuere su voluntad acepte el trámite arbitral de la Institución.
 
 Con la cédula de notificación personal se correrá traslado de la queja.
 
@@ -880,3 +882,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 56 PRIMER PÁRRAFO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL, APROBADO POR EL CONSEJO DIRECTIVO DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE VERACRUZ, MEDIANTE ACUERDO 1/15-10-02-17 EN LA PRIMERA SESIÓN ORDINARIA CELEBRADA EL 10 DE FEBRERO DE 2017”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.]</small>
