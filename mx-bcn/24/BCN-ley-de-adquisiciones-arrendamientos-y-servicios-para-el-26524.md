@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2016-09-09"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -143,13 +143,13 @@ El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su ca
 
 La unidad administrativa, la tesorería y la contraloría, en las materias de su competencia, estarán facultadas para interpretar la Ley y su Reglamento, así como para dictar las normas y políticas que sean necesarias para su adecuado cumplimiento, dichas normas y políticas deberán publicarse en el Periódico Oficial del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
-En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento.
+En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores de la Entidad, de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento.
 
-Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Desarrollo Económico del Gobierno del Estado, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas, las que deberán observar las unidades administrativas.
+Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Desarrollo Económico del Gobierno del Estado, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas en la Entidad, especialmente de las micro, pequeñas y medianas, las que deberán observar las unidades administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
 
@@ -331,6 +331,10 @@ En los procedimientos de contratación deberán establecerse los mismos requisit
 
 El Comité pondrá a disposición pública a través de medios electrónicos, la información que obre en su base de datos o archivos correspondientes a las convocatorias y bases de las licitaciones, y en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+En todos los casos tratándose de licitaciones públicas, invitaciones o adjudicaciones directas se priorizará a empresas radicadas en del (sic) Estado que cumplan con los requisitos técnicos y que sus ofertas sean competentes respecto a las demás ofertas.
+
 ###### ARTÍCULO 22.
 
 Las adquisiciones, arrendamientos y servicios, se contratarán por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado o a través de medios electrónicos, que será abierto públicamente, a fin de asegurar al sujeto obligado, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias que se estimen pertinentes.
@@ -418,6 +422,10 @@ XII.- En el caso de arrendamiento y en los proyectos de Asociación Público-Pri
 ###### ARTÍCULO 27.
 
 En el caso de licitaciones regionales, las convocatorias deberán ser publicadas en el Periódico Oficial del Estado y en un diario de amplia circulación estatal. En el caso de licitaciones nacionales e internacionales las convocatorias deberán ser publicadas en un diario de circulación nacional. En todos los casos, conjuntamente podrán utilizarse los medios de difusión electrónica que autorice la unidad administrativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Tratándose de licitaciones regionales y en cumplimiento con el principio de máxima publicidad se dará conocimiento a los colegios, barras, agrupaciones y demás grupos técnicos organizados y reconocidos según sea la materia de que se trate.
 
 ###### ARTÍCULO 28.
 
@@ -619,7 +627,9 @@ Los órganos podrán adquirir sin sujetarse a los procedimientos previstos por e
 
 El procedimiento de invitación se sujetará a lo siguiente:
 
-I.- Deberá invitarse a cuando menos tres personas, de las cuales dos de ellas, si las hubiere, deberán ser fabricantes o distribuidores regionales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+I.- Deberá invitarse a cuando menos tres personas, de las cuales dos de ellas, si las hubiere, deberán ser fabricantes o distribuidores de la Entidad;
 
 II.- El acto de presentación y apertura de proposiciones se llevará a cabo en dos etapas, para lo cual la apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la contraloría;
 
@@ -1196,3 +1206,9 @@ P.O. 9 DE SEPTIEMBRE DE 2016.
 PRIMERO.- Las presentes reformas a la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California entrarán en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Los poderes del Estado, los órganos constitucionales autónomos y los Ayuntamientos, en un plazo no mayor a 90 días contados a partir de la entrada en vigor del presente decreto deberán modificar los Reglamentos correspondientes de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 21, 27 Y 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico del Estado de Baja California.
