@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2014-09-02"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -47,9 +47,11 @@ LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO.
 
 Las disposiciones de esta Ley son de orden público e interés social y tendrán aplicación en el territorio del Estado de Guerrero.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-La aplicación de las disposiciones en materia de Coordinación Hacendaria corresponde al Honorable Congreso del Estado, por conducto de la Auditoría General del Estado, al Ejecutivo y a los Ayuntamientos, quienes ejercerán sus atribuciones de manera concurrente y coordinada en el ámbito de sus respectivas competencias, por sí o a través de sus dependencias y entidades, bajo las bases establecidas en la presente Ley.
+La aplicación de las disposiciones en materia de coordinación hacendaria corresponde al Congreso del Estado, por conducto de la Auditoría Superior del Estado, al Ejecutivo del Estado y a los ayuntamientos, quienes ejercerán sus atribuciones de manera concurrente y coordinada en el ámbito de sus respectivas competencias, por sí o a través de sus secretarías, dependencias y entidades, bajo las bases establecidas en la presente Ley.
 
 ###### ARTÍCULO 3.
 
@@ -77,15 +79,21 @@ VIII. Los mecanismos legales, formas y plazos, para presentar inconformidades o 
 
 Para efectos de esta Ley se entenderá por:
 
-I. Auditoría: La Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+I. Auditoría: La Auditoría Superior del Estado de Guerrero;
 
 II. Ayuntamientos: Los Ayuntamientos Municipales del Estado de Guerrero;
 
-III. Comisión Permanente: La Comisión Permanente de Funcionarios Hacendarios del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+III. Comisión Permanente: La Comisión Permanente de Servidores Públicos Hacendarios del Estado;
 
 IV. Comité Técnico de Financiamiento: El Comité Técnico de Financiamiento, contenido en el capítulo segundo de la Ley número 616 de Deuda Pública para el Estado de Guerrero;
 
-V. Contraloría: La Contraloría General del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+V. Secretaría de Contraloría: La Secretaría de Contraloría y Transparencia Gubernamental;
 
 VI. Estado: Al Gobierno del Estado de Guerrero;
 
@@ -103,7 +111,9 @@ XII. Periódico Oficial: El Periódico Oficial del Gobierno del Estado de Guerre
 
 XIII. Reglamento Interior: El Reglamento Interior de los Órganos del Sistema de Coordinación Hacendaria del Estado de Guerrero;
 
-XIV. Reunión Estatal: Reunión Estatal de Funcionarios Hacendarios;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Reunión Estatal: La Reunión Estatal de Servidores Públicos Hacendarios;
 
 XV. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del Estado, y
 
@@ -123,13 +133,17 @@ II. Las Aportaciones, que correspondan a los Municipios, en términos de las dis
 
 III. Las reasignaciones y transferencias de gasto derivadas del Presupuesto de Egresos de la Federación y del Estado que se reciban, administren y ejerzan por el Estado y los Municipios, en términos de los convenios, acuerdos, anexos y demás documentos de naturaleza análoga que se suscriban.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-Los recursos a que se refiere el artículo anterior, formarán parte del ingreso y del gasto Estatal o Municipal, según sea el caso, y su ejercicio deberá ser incorporado en las Cuentas de las Haciendas Públicas Estatal y Municipales que se presenten ante el H. Congreso del Estado, a través de la Auditoría General del Estado, independientemente de los informes que deban proporcionarse a la Federación, en términos de las disposiciones legales aplicables.
+Los recursos a que se refiere el artículo anterior, formarán parte del ingreso y del gasto estatal o municipal, según sea el caso, y su ejercicio deberá ser incorporado en las cuentas de las haciendas públicas estatal y municipales que se presenten ante el Congreso del Estado, a través de la Auditoría, independientemente de los informes que deban proporcionarse a la federación, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
-El Ejecutivo Estatal, a través de sus Dependencias y Entidades, y los Ayuntamientos, en el ámbito de sus respectivas competencias, serán responsables de administrar, distribuir, ejercer y supervisar los recursos materia de esta Ley, de conformidad con la misma y demás disposiciones aplicables.
+El Ejecutivo Estatal, a través de sus secretarías, dependencias y entidades, y los ayuntamientos, en el ámbito de sus respectivas competencias, serán responsables de administrar, distribuir, ejercer y supervisar los recursos materia de esta Ley, de conformidad con la misma y demás disposiciones aplicables.
 
 ## TÍTULO II. DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
@@ -181,19 +195,27 @@ XVI. Los demás objetivos y funciones que le encomiende la legislación en la ma
 
 El Gobierno del Estado, los Ayuntamientos, y las entidades Estatales y Municipales con carácter fiscal, participarán en la organización, desarrollo, vigilancia y evaluación del Sistema, a través de los siguientes órganos:
 
-I. Reunión Estatal de Funcionarios Hacendarios;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-II. Comisión Permanente de Funcionarios Hacendarios;
+I. Reunión Estatal de Servidores Públicos Hacendarios;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+II. Comisión Permanente de Servidores Públicos Hacendarios;
 
 III. Grupos de Trabajo, y
 
-IV. El Instituto Hacendario del Estado de Guerrero.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IV. Oficina Hacendaria.
 
 Las facultades, el alcance en la operación, los mecanismos de organización y el financiamiento de estos órganos, serán las que se establezcan en el Reglamento Interior que apruebe la Reunión Estatal.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-La Reunión Estatal es el órgano supremo del Sistema, y está integrado por el Titular del Poder Ejecutivo, quien podrá estar representado por el Secretario de Finanzas y Administración, los Presidentes Municipales, el Auditor General del Estado y los Titulares de las entidades de carácter fiscal de la administración pública del Estado y los Municipios. La Presidencia de la Reunión estará a cargo del Secretario de Finanzas y Administración y podrá ser suplido por el Subsecretario de Ingresos o por el funcionario que éste designe.
+La Reunión Estatal es el órgano supremo del Sistema, y está integrado por el titular del Poder Ejecutivo, quien podrá estar representado por el Secretario de Finanzas y Administración, los presidentes municipales, el Auditor Superior del Estado y los titulares de las entidades de carácter fiscal de la administración pública del Estado y los municipios. La presidencia de la Reunión Estatal estará a cargo del Secretario de Finanzas y Administración y podrá ser suplido por el Subsecretario de Ingresos o por el servidor público que éste designe.
 
 ###### ARTÍCULO 13.
 
@@ -225,9 +247,11 @@ VII. Procurar los recursos económicos necesarios para la operación del Sistema
 
 VIII. Las demás que le confiera la legislación aplicable a la materia, así como las que determine la propia Reunión Estatal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 16.
 
-La Comisión Permanente estará integrada por el Secretario de Finanzas y Administración del Estado, el Auditor General del Estado, dos Tesoreros municipales que representen a cada región fiscal y el Tesorero de Acapulco de Juárez. El Coordinador de la Comisión Permanente será el Secretario de Finanzas y Administración del Estado.
+La Comisión Permanente estará integrada por el Secretario de Finanzas y Administración del Estado, el Auditor Superior del Estado, dos tesoreros municipales que representen a cada región fiscal y el Tesorero Municipal de Acapulco de Juárez. El Coordinador de la Comisión Permanente será el Secretario de Finanzas y Administración del Estado.
 
 Para los efectos de esta Ley, las Regiones Fiscales se integrarán de la siguiente manera:
 
@@ -251,9 +275,11 @@ V. Región Norte:
 
 Taxco de Alarcón, Iguala de la Independencia, Buenavista de Cuéllar, Tetipac, Pilcaya, Ixcateopan de Cuauhtémoc, Pedro Ascencio Alquisiras, Tepecoacuilco de Trujano, Huitzuco de los Figueroa, Atenango del Río, Copalillo, Cocula, Cuetzala del Progreso, Apaxtla de Castrejón, General Canuto A. Neri y Teloloapan.
 
-VI. Región Tierra Caliente:
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-Pungarabato, Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Arcelia, Tlapehuala, San Miguel Totolapan, Zirándaro de los Chávez y Ajuchitlán del Progreso.
+VI. Región Tierra Caliente.
+
+Pungarabato, Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Arcelia, Tlapehuala, San Miguel Totolapan, Zirándaro y Ajuchitlán del Progreso.
 
 VII. Región Montaña:
 
@@ -291,15 +317,19 @@ XII. Emitir resoluciones sobre los escritos de inconformidad que se le presenten
 
 XIII. Aprobar la integración de grupos de trabajo y comisiones de estudio que considere pertinente para la consecución de sus funciones.
 
-XIV. Aprobar el calendario anual de las reuniones bimestrales.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Aprobar el calendario anual de las reuniones cuatrimestrales.
 
 XV. Proponer al Gobernador del Estado proyectos de reformas, adiciones, derogaciones o abrogaciones a la legislación Hacendaria local, para que éste, de estimarlo procedente, someta a la consideración de la Legislatura las correspondientes iniciativas, y
 
 XVI. Las demás que determine la Reunión Estatal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-La Comisión Permanente celebrará reuniones ordinarias de manera bimestral, cuya convocatoria deberá realizarse cuando menos con diez días de anticipación, y de manera extraordinaria las que convoque su Coordinador dentro de las cuarenta y ocho horas previas a la realización de la misma.
+La Comisión Permanente celebrará reuniones ordinarias de manera cuatrimestral, cuya convocatoria deberá realizarse cuando menos con diez días de anticipación, y de manera extraordinaria las que convoque su Coordinador dentro de las cuarenta y ocho horas previas a la realización de la misma.
 
 Las reuniones que celebre la Comisión Permanente, deberán realizarse de manera itinerante en las diferentes Regiones Fiscales del Estado, previo acuerdo de sus integrantes.
 
@@ -323,7 +353,9 @@ V. De Deuda Pública Local;
 
 VI. De Patrimonio Estatal y Municipal;
 
-VII. De Transparencia, Armonización Contable, Rendición de Cuentas y Profesionalización de Funcionarios Hacendarios;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VII. De transparencia, armonización contable, rendición de cuentas y profesionalización de servidores públicos hacendarios;
 
 VIII. De Gobierno Electrónico, y
 
@@ -340,6 +372,26 @@ Cada Grupo contará con un Secretario Técnico, que será designado por el Secre
 ###### ARTÍCULO 22.
 
 El Sistema contará con un Secretariado Técnico que para tales efectos proponga el Presidente y ratifique la Comisión Permanente, cuyas funciones, estructura orgánica y operación estarán definidas en el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 22 BIS.- La Oficina Hacendaria, se establece como un órgano auxiliar de logística, consulta, análisis y desarrollo técnico en materia de hacienda pública, encargado de asesorar a las secretarias, dependencias, organismos públicos descentralizados, municipios y demás entes públicos del Estado.
+
+La Oficina Hacendaria estará representada por la persona que el titular del Poder Ejecutivo a propuesta del Secretario de Finanzas y Administración, haya designado como Director General de Estudios Hacendarios y Difusión, la cual tendrá cargo honorifico y contara con las atribuciones siguientes:
+
+I. Realizar en forma permanente el análisis y estudio de la normatividad estatal y municipal relativa a sus respectivas haciendas;
+
+II. Compilar las disposiciones jurídicas y administrativas en materia hacendaria, haciendo un análisis de las adiciones o reformas que contengan dichos instrumentos jurídicos;
+
+III. Promover el desarrollo y fortalecimiento técnico en materia hacendaria estatal;
+
+IV. Asesorar a servidores públicos estatales y municipales en cualquiera de las materias de la hacienda pública;
+
+V. Apoyar a los Grupos del Trabajo, cuando así se lo requieran; y
+
+VI. Realizar todas aquellas otras funciones de estudio y análisis que se desprendan de esta Ley, de los convenios de coordinación y de colaboración administrativa, así como de los acuerdos que se tomen tanto en la Reunión Estatal como de la Comisión Permanente de los Servidores Públicos Hacendarios del Estado.
+
+Las facultades de la Oficina Hacendaria deberán realizarse en congruencia con las contenidas en el artículo 20 del Reglamento Interior de la Secretaría de Finanzas y Administración.
 
 ## TÍTULO III. DE LA COORDINACIÓN DEL INGRESO
 
@@ -437,7 +489,9 @@ Para efectuar el cálculo de las Participaciones, las fuentes de información de
 
 a) El número de habitantes se tomará de la última información oficial de población que publique el Instituto Nacional de Estadística y Geografía (INEGI).
 
-b) La recaudación de Ingresos Propios de los Municipios se tomará con los datos que proporcione la Auditoria a la Secretaría, en el último día hábil del mes de julio del ejercicio fiscal correspondiente, como fecha límite. En caso de que el Municipio no entregue al H. Congreso del Estado su Cuenta Pública en el tiempo que marca la Ley de Fiscalización Superior del Estado de Guerrero numero 564, se le deberá tomar en cuenta la información de la última Cuenta Pública presentada.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+b) La recaudación de ingresos propios de los municipios se tomará con los datos que proporcione la Auditoria a la Secretaría, en el último día hábil del mes de julio del ejercicio fiscal correspondiente, como fecha límite. En caso de que el Municipio no entregue al Congreso del Estado su cuenta pública en el tiempo que marca la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero, se le deberá tomar en cuenta la información de la última cuenta pública presentada.
 
 Los factores de Participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
 
@@ -495,7 +549,9 @@ IX. Las demás reglas que sean necesarias para el cumplimiento puntual de sus ob
 
 Los Convenios celebrados entre el Estado y los Municipios que contengan beneficios para éstos, traducidos en incentivos, podrán considerar compensaciones, ajustes o descuentos como consecuencia del incumplimiento de los compromisos contraídos.
 
-Los actos u omisiones de las partes que causen un incumplimiento en las obligaciones pactadas se harán del conocimiento del Coordinador de la Comisión Permanente de Funcionarios Fiscales, para que éste en un término de 5 días emita sus observaciones y las notifique a la parte que incumpla, para que ésta, en un término de 10 días hábiles, procede a su atención y cumplimiento, y en caso de no hacerlo, se aplicará lo establecido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Los actos u omisiones de las partes que causen un incumplimiento en las obligaciones pactadas se harán del conocimiento del Coordinador de la Comisión Permanente, para que éste en un término de 5 días emita sus observaciones y las notifique a la parte que incumpla, para que ésta, en un término de 10 días hábiles, procede (sic) a su atención y cumplimiento, y en caso de no hacerlo, se aplicará lo establecido en el párrafo anterior.
 
 ###### ARTÍCULO 38.
 
@@ -545,7 +601,9 @@ Se establecen las Aportaciones Federales a favor de los Municipios del Estado, c
 
 I. Fondo de Aportaciones para la Infraestructura Social Municipal, y
 
-II. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+II. Fondo de Aportaciones para el Fortalecimiento de los municipios y de las Demarcaciones Territoriales de la Ciudad de México.
 
 Los montos de recursos que integrarán los Fondos de Aportaciones señalados en el presente artículo, serán los que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
 
@@ -559,9 +617,11 @@ El Fondo de Aportaciones para la Infraestructura Social Municipal se enterará a
 
 El Titular del Poder Ejecutivo del Estado, emitirá los lineamientos complementarios a la normatividad Federal y Estatal sobre el uso de los recursos que reciban los Ayuntamientos del Fondo de Infraestructura Social Municipal, y deberán de ser publicados en el Periódico Oficial, a más tardar el último día hábil del mes de enero del ejercicio fiscal de que se trate, los cuales deberán ser aplicados en los procesos de fiscalización.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 46.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se enterará a los Municipios mensualmente, por partes iguales y por conducto de la Secretaría; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 37 de la Ley de Coordinación Fiscal.
+El Fondo de Aportaciones para el Fortalecimiento de los municipios y de las Demarcaciones Territoriales de la Ciudad de México, se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 37 de la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 47.
 
@@ -593,7 +653,9 @@ El control, la evaluación y fiscalización del manejo de los recursos Federales
 
 El control, la evaluación y fiscalización del manejo de los recursos Estatales a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
 
-I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria Estatal y hasta la entrega de los recursos correspondientes a los Municipios, corresponderá a la Contraloría;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria Estatal y hasta la entrega de los recursos correspondientes a los municipios, corresponderá a la Secretaría de la Contraloría;
 
 II. Recibidos los recursos de los Fondos de que se trate por los Municipios, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los Ayuntamientos Municipales.
 
@@ -603,19 +665,25 @@ La supervisión y vigilancia no podrán implicar limitaciones ni restricciones, 
 
 III. La fiscalización de las Cuentas Públicas de los Municipios, será efectuada por la Legislatura, por conducto de la Auditoría, a fin de verificar que las dependencias Municipales, aplicaron los recursos de los Fondos para los fines previstos en esta Ley;
 
-IV. La Auditoría, al fiscalizar la Cuenta Pública Estatal que corresponda, verificará que las dependencias del Ejecutivo del Estado cumplieron con las disposiciones legales y administrativas Estatales y, por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en los términos de la Ley de Fiscalización del Estado de Guerrero Número 564, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IV. La Auditoría, al fiscalizar la Cuenta Pública Estatal que corresponda, verificará que las secretarías y dependencias del Ejecutivo del Estado cumplieron con las disposiciones legales y administrativas estatales y, por lo que hace a la ejecución de los recursos de los fondos a los que se refiere este capítulo, la misma se realizará en los términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero; y
 
 V. El ejercicio de los recursos a que se refiere el presente capítulo deberá sujetarse a la evaluación del desempeño a que se refiere la Ley correspondiente.
 
-Cuando las autoridades del Estado o de los Municipios, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo en forma inmediata del conocimiento de la Auditoria, Contraloría y de las autoridades de control y supervisión interna de los Ayuntamientos Municipales, según corresponda.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN V], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Cuando las autoridades del Estado o de los municipios, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los fondos no han sido aplicados a los fines que por cada fondo se señale en la Ley, deberán hacerlo en forma inmediata del conocimiento de la Auditoria, Secretaría de la Contraloría y de las autoridades de control y supervisión interna de los ayuntamientos municipales, según corresponda.
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos Estatales o Municipales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades Federales, Estatales o Municipales, según corresponda conforme a las etapas a que se refiere este artículo, de conformidad con su propia normatividad.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN INTERGUBERNAMENTAL EN MATERIA DE GASTO
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 51.
 
-El Estado, por conducto de las instancias competentes y los Municipios, en ejercicio de las atribuciones que les otorgan la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables, podrán celebrar Convenios de Coordinación y Colaboración administrativa en materia de gasto público para la ejecución de acciones y programas conjuntos, así como para la aplicación de recursos en la realización de obras, proyectos y prestación de servicios públicos, con el objeto de optimizar los recursos públicos, satisfacer las necesidades colectivas e impulsar el desarrollo de la Entidad.
+El Estado, por conducto de las instancias competentes y los municipios, en ejercicio de las atribuciones que les otorga los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 91 fracción XIX y 178 fracciones V y VI de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes aplicables, podrán celebrar convenios de coordinación y colaboración administrativa en materia de gasto público para la ejecución de acciones y programas conjuntos, así como para la aplicación de recursos en la realización de obras, proyectos y prestación de servicios públicos, con el objeto de optimizar los recursos públicos, satisfacer las necesidades colectivas e impulsar el desarrollo de la entidad.
 
 ###### ARTÍCULO 52.
 
@@ -657,11 +725,13 @@ IX. En el caso que involucren recursos públicos Estatales que no pierden su nat
 
 X. De los recursos Estatales que se transfieran a los Municipios mediante Convenios y aquéllos mediante los cuales los recursos no pierdan el carácter de Estatal, se destinará un monto equivalente al uno al millar para la fiscalización de los mismos, en los términos que para tales efectos se establezcan en los propios acuerdos.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-Los recursos que se transfieran a través de los Convenios para el cumplimiento de objetivos de programas Estatales, no pierden el carácter Estatal, por lo que se comprobarán los gastos en los términos de las disposiciones aplicables; para ello los ejecutores del gasto se sujetarán en lo conducente a lo dispuesto en el artículo anterior, y deberán verificar que en los Convenios se establezca el compromiso de los Municipios de entregar los documentos comprobatorios del gasto. La Secretaría y la Contraloría emitirán los lineamientos que permitan un ejercicio transparente, ágil y eficiente de los recursos, en el ámbito de sus competencias.
+Los recursos que se transfieran a través de los convenios para el cumplimiento de objetivos de programas estatales, no pierden el carácter Estatal, por lo que se comprobarán los gastos en los términos de las disposiciones aplicables; para ello los ejecutores del gasto se sujetarán en lo conducente a lo dispuesto en el artículo anterior, y deberán verificar que en los convenios se establezca el compromiso de los municipios de entregar los documentos comprobatorios del gasto. La Secretaría y la Secretaría de la Contraloría emitirán los lineamientos que permitan un ejercicio transparente, ágil y eficiente de los recursos, en el ámbito de sus competencias.
 
-Los entes Estatales que requieran suscribir Convenios de Coordinación, deberán apegarse al Convenio modelo emitido por la Secretaría y la Contraloría, así como obtener la autorización presupuestaria de la Secretaría.
+Los entes estatales que requieran suscribir convenios de coordinación, deberán de apegarse al convenio modelo emitido por la Secretaría y la Secretaría de la Contraloría, así como obtener la autorización presupuestaria de la Secretaría.
 
 ###### ARTÍCULO 56.
 
@@ -845,7 +915,7 @@ La Comisión Permanente se apoyará del Grupo de Trabajo o Comisión de Análisi
 
 Si la Comisión Permanente resuelve declarando la procedencia de la inconformidad, la parte infractora tendrá un plazo de quince días hábiles para que corrija las violaciones en que haya incurrido.
 
-Si la parte infractora hiciese caso omiso a la resolución de la Comisión Permanente, la parte afectada quedará en aptitud de acudir ante el Pleno del Tribunal Superior de Justicia para efectos de lo dispuesto por la fracción V del artículo 89 de la Constitución Política del Estado.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 T R A N S I T O R I O S
 
@@ -926,3 +996,13 @@ P.O. 2 DE SEPTIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para los efectos legales a que haya lugar.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 479 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Ley Número 427 del Sistema de Coordinación Hacendaria del Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
