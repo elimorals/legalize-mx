@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2017-06-29"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -1417,9 +1417,11 @@ III. Autorizar en coordinación con la autoridad que corresponda, la imposición
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 106.
 
-El Estado está facultado para retener administrativamente los bienes que posea. Cuando se trate de recuperar la posesión provisional o definitiva de bienes del dominio público, podrá seguirse el procedimiento administrativo contenido en este artículo a elección del Estado, o podrán deducirse ante los tribunales del fuero común las acciones que correspondan, mismas que se tramitarán en la vía ordinaria, de conformidad con las disposiciones aplicables del Código de Procedimientos Civiles vigente en el Estado.
+El Estado por conducto de la Agencia está facultado para retener administrativamente los bienes que posea. Cuando se trate de recuperar la posesión provisional o definitiva de bienes patrimoniales del Estado, podrá seguirse el procedimiento administrativo a elección del Estado, o podrán deducirse ante los tribunales del fuero común las acciones que correspondan, mismas que se tramitarán en la vía ordinaria, de conformidad con las disposiciones aplicables del Código de Procedimientos Civiles vigente en el Estado. La Agencia podrá solicitar de manera inmediata dentro del procedimiento administrativo o jurisdiccional respectivo, la ocupación provisional de los bienes, en caso de que existan elementos para presumir que los bienes, hayan sido adquiridos por particulares a través de medios ilícitos. Medida que deberá estar debidamente fundada y motivada, y la que se decretará de plano.
 
 I. El procedimiento de recuperación administrativa de la posesión provisional o definitiva de los bienes del dominio público, se sujetará a las reglas siguientes:
 
@@ -1638,3 +1640,11 @@ Todo instrumento legal, jurídico o administrativo y norma en sentido formal o m
 SÉPTIMO. En todo caso, deberán respetarse los derechos legalmente adquiridos con anterioridad a la entrada en vigor de la presente Ley.
 
 OCTAVO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 114 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 1785 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
