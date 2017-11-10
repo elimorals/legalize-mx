@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2016-11-07"
+last_updated: "2017-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -633,8 +633,6 @@ El Sistema Estatal de Información sobre Seguridad Pública se integrará por lo
 
 I. Del personal adscrito a las Instituciones de Seguridad Pública de los Ayuntamientos y dependencias del Poder Ejecutivo del Estado, independientemente de la función que se desempeñe, así como del personal a que se refiere el reglamento que regula la prestación de servicios de seguridad privada en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 II. De los imputados, acusados y sentenciados;
@@ -653,13 +651,9 @@ VIII. Del padrón vehicular y de licencias de conducir;
 
 IX. De huellas dactilares;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 X. Del registro de voz de los Miembros, del personal que prevé el reglamento que regula la prestación de servicios de seguridad privada para el Estado, y de los imputados, acusados y sentenciados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1229,7 +1223,9 @@ El incumplimiento por parte de los prestadores de servicios de seguridad privada
 
 I. Amonestación por escrito;
 
-II. Multa hasta de cinco mil veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+II. Multa por el equivalente de hasta cinco mil veces la Unidad de Medida y Actualización;
 
 III. Suspensión de la autorización hasta por noventa días naturales;
 
@@ -1845,7 +1841,31 @@ III.- Días de descanso, semanal y periódicos: Es el tiempo durante el cual el 
 
 IV.- Licencias: El permiso concedido al Miembro para ausentarse temporalmente de la prestación del servicio, por algún motivo justificado, con o sin derecho a remuneración;
 
-V.- Seguridad Social: Comprende todas aquellas prerrogativas de salud y los demás sistemas complementarios de seguridad social que expresamente otorguen cada una de las Instituciones Policiales a los Miembros, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+V.- Seguridad Social: Comprende todas aquellas prerrogativas de salud y los demás sistemas complementarios de seguridad social que expresamente otorguen cada una de las Instituciones Policiales a los Miembros, así como a sus familias y dependientes de acuerdo con esta Ley y demás disposiciones que resulten aplicables.
+
+La Seguridad Social comprenderá cuando menos, lo siguiente:
+
+a) La afiliación del Miembro, de sus familiares y dependientes a un sistema de seguridad social;
+
+b) Prótesis gratuitas en los casos en que el Miembro sufra la perdida de alguna parte de su cuerpo en cumplimiento de su deber;
+
+c) Tratamiento psicológico o psiquiátrico gratuito cuando así lo requiera el Miembro;
+
+d) El otorgamiento a los familiares y dependientes que designe el Miembro como beneficiarios, de un seguro de vida o pago póstumo único por muerte en cumplimiento del servicio; este último, con independencia de las condecoraciones y estímulos económicos que se deban otorgar para el caso de que el Miembro haya fallecido por salvar o proteger la vida de una o varias personas;
+
+e) El otorgamiento a los familiares y dependientes que designe el Miembro, de un importe por concepto de apoyo para gastos funerales;
+
+f) Licencias al Miembro con derecho a remuneración por accidentes y enfermedades profesionales, enfermedades no profesionales y maternidad;
+
+g) En su caso, pensión por jubilación, retiro, invalidez y muerte, para el Miembro o para los familiares y dependientes que para tal efecto designe como beneficiarios;
+
+h) En caso de fallecimiento del Miembro, asegurar a sus descendientes y dependientes menores de edad el acceso a la educación básica, media superior y superior Publica, y
+
+i) El acceso a créditos para que el Miembro pueda obtener vivienda.
+
+Si con motivo del inicio de un procedimiento de separación definitiva o responsabilidad administrativa se ordena la suspensión preventiva del Miembro, este, sus familiares y dependientes continuaran gozando de las prestaciones de seguridad social hasta en tanto no quede firme la correspondiente resolución conforme a las disposiciones aplicables.
 
 VI.- Servicio carrera policial: Sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, certificación, selección, ingreso, formación, permanencia, antigüedad, evaluación, promoción, y reconocimiento; así como la separación, remoción o baja del servicio de los Miembros de las Instituciones Policiales; y
 
@@ -2253,7 +2273,9 @@ Para hacer cumplir sus determinaciones, la Contraloría Interna y la Comisión p
 
 I.- Amonestación;
 
-II.- Multa hasta por 30 días de salario mínimo vigente en la región;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+II.- Multa hasta por el equivalente a 30 veces la Unidad de Medida y Actualización;
 
 III.- Auxilio de la fuerza pública, y
 
@@ -2600,3 +2622,21 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 PRIMERO.- La adición al artículo 125 de la Ley de Seguridad Pública del Estado, entrará en vigor el día siguiente al de su publicación en el periódico oficial del estado.
 
 SEGUNDO.- Para dar cumplimiento a lo establecido en el artículo 125 bis del presente decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, a efecto de su entrada en vigor en el próximo ejercicio gubernamental correspondiente al año 2017.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 125 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V (SIC) ARTÍCULO 131 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo del Estado y los ayuntamientos emitirán las disposiciones reglamentarias y demás medidas que sean necesarias para desarrollar y hacer efectivo el derecho a la Seguridad Social previsto en el presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 139 MEDIANTE EL CUAL APRUEBA LA REFORMA A LOS ARTÍCULOS 90 Y 172 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
