@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2014-08-01"
+last_updated: "2017-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -119,9 +119,17 @@ III.- Agricultor: A toda persona física o moral que con fines de explotación y
 
 IV.- Agricultor especializado: A toda persona física o moral que se dedique a la explotación de terrenos o instalaciones en el cultivo de determinada especie y específicamente a la producción de semillas patrones o especies para trasplante ya sean hortícolas o frutales;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-V.- Apicultura: La actividad relacionada a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización de sus productos y subproductos;
+V.- Agroclústeres: Concentración geográfica de empresas de producción agropecuaria, proveedores especializados, oferentes de servicios e instituciones asociadas que compiten y cooperan en una cadena productiva específica mediante el desarrollo sostenido de economías de aglomeración;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Sistema dinámico que implica la combinación de dos procesos productivos, el agrícola y el industrial, con el que permite transformar de manera rentable los productos provenientes del campo;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Apicultura: La actividad relacionada a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización de sus productos y subproductos;
 
 Apiario: Al conjunto de colmenas instaladas en un lugar determinado;
 
@@ -129,55 +137,109 @@ Apicultor: Toda persona física o moral que se dedique a la cría y explotación
 
 Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que ahí finquen sus panales para el almacenamiento de miel;
 
-VI.- Arete: Identificación metálica o de plástico con inscripción registrada y autorizada por la Secretaría que se aplica en la oreja del ganado mayor y menor. En otra especie animal, puede aplicarse en otra parte del cuerpo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-VII.- Asistencia técnica: Al conjunto de acciones continuas, programadas y actualizadas por la experiencia y la investigación, y que tienden a mejorar los niveles de producción y productividad;
+VIII.- Arete: Identificación metálica o de plástico con inscripción registrada y autorizada por la Secretaría que se aplica en la oreja del ganado mayor y menor. En otra especie animal, puede aplicarse en otra parte del cuerpo;
 
-VIII.- Avicultura: La reproducción, cría y explotación de las especies y variedades de aves útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus subproductos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-IX.- Corridas o velas: La reunión que los productores hacen del ganado que se agosta en terrenos de su propiedad o de los cuales tengan posesión;
+IX.- Asistencia técnica: Al conjunto de acciones continuas, programadas y actualizadas por la experiencia y la investigación, y que tienden a mejorar los niveles de producción y productividad;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-X.- Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, mediante el uso racional de los mismos, así como la biodiversidad y los servicios ambientales de dicho territorio;
+X.- Avicultura: La reproducción, cría y explotación de las especies y variedades de aves útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus subproductos;
 
-XI.- Especie animal: aquella cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XII.- Estado: El Estado Libre y Soberano de Baja California;
+XI.- Corridas o velas: La reunión que los productores hacen del ganado que se agosta en terrenos de su propiedad o de los cuales tengan posesión;
 
-XIII.- Fierro o marca de herrar: La señal que se graba en el cuarto trasero izquierdo generalmente con fierro candente;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XIV.-Ganadero: A toda persona física o moral que con fines de explotación pecuaria, sea propietaria de ganado de las especies a que se refieren las fracciones XVI y XVII de este apartado, y que tenga definido su asiento de producción;
+XII.- Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, mediante el uso racional de los mismos, así como la biodiversidad y los servicios ambientales de dicho territorio;
 
-XV.- Ganadero especializado: A todo aquel que se dedique a la cría y aprovechamiento de determinada especie animal y específicamente a la explotación de alguna función zootécnica de sus individuos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XVI.- Ganado mayor: A los animales domésticos o domesticables de las especies bovina y equina;
+XIII.- Especie animal; aquella cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
 
-XVII.- Ganado menor: A los animales domésticos o domesticables de las especies ovina, porcina, caprina, cunícula, incluso las apícolas y avícolas;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XVIII.- Granjas o Plantas Avícolas: Las empresas especializadas en la reproducción, cría y explotación avícola;
+XIV.- Estado: El Estado Libre y Soberano de Baja California;
 
-XIX.- Granja porcícola: La empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos para pie de cría o abasto;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XX.- Ley: La Ley de Desarrollo Agropecuario del Estado de Baja California;
+XV.- Fierro o marca de herrar: La señal que se graba en el cuarto trasero izquierdo generalmente con fierro candente;
 
-XXI.- Marca de venta: Es potestativa y es la señal que se pone comúnmente en la paleta del animal del mismo lado en que se grabó el fierro que nulifica, esta deberá ser de fierro candente;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XXII.- Marca o reseña: La que se pone en la quijada de la marca o reseña del último propietario, con fierro candente, tinta indeleble o ácido corrosivo;
+XVI.- Ganadería Diversificada: Rama de la ganadería que, además de estar orientada a la producción de ganado doméstico, ha diversificado la producción mediante el aprovechamiento sustentable de los recursos naturales renovables que ofrecen sus predios, utiliza las distintas especies domésticas, silvestres, nativas e introducidas, y lacustres, las cuales transforman la producción integral en bienes de consumo, promoviendo el aprovechamiento sustentable, extractivo y no extractivo, de las especies silvestres, mediante actividades de caza, recreación, consumo, productos artesanales, exhibición, investigación, industrialización y comercialización;
 
-XXIII.- Orejano: Animal que no cuenta con ninguna marca de identificación en el cuerpo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XXIV.- Porcicultura: La cría, reproducción, mejoramiento y explotación de los cerdos;
+XVII.- Ganadero: A toda persona física o moral que con fines de explotación pecuaria, sea propietaria de ganado de las especies a que se refieren las fracciones XVI y XVII de este apartado, y que tenga definido su asiento de producción;
 
-XXV.- Recuento: La verificación de la cantidad de semovientes que le pertenecen a un determinado ganadero y separar los ajenos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XXVI.- Realeo: Desalojo de ganado que mediante el recuento realizado, resultó ser ajeno;
+XVIII.- Ganadero especializado: A todo aquel que se dedique a la cría y aprovechamiento de determinada especie animal y específicamente a la explotación de alguna función zootécnica de sus individuos;
 
-XXVII.- Secretaría: La Secretaría de Fomento Agropecuario del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-XXVIII.- Señal de sangre: Las cortadas, incisiones o perforaciones que se hagan en las orejas del ganado, y
+XIX.- Ganado mayor: A los animales domésticos o domesticables de las especies bovina y equina;
 
-XXIX.- Tatuajes: La impresión de dibujos, letras, números indelebles en las orejas o en el labio del animal.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XX.- Ganado menor: A los animales domésticos o domesticables de las especies ovina, porcina, caprina, cunícula, incluso las apícolas y avícolas;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXI.- Granjas o Plantas Avícolas: Las empresas especializadas en la reproducción, cría y explotación avícola;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXII.- Granja porcícola: La empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos para pie de cría o abasto;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXIII.- Ley: La Ley de Desarrollo Agropecuario del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXIV.- Marca de venta: Es potestativa y es la señal que se pone comúnmente en la paleta del animal del mismo lado en que se grabó el fierro que nulifica, esta deberá ser de fierro candente;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXV.- Marca o reseña: La que se pone en la quijada de la marca o reseña del último propietario, con fierro candente, tinta indeleble o ácido corrosivo;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXVI.- Orejano: Animal que no cuenta con ninguna marca de identificación en el cuerpo;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXVII.- Porcicultura: La cría, reproducción, mejoramiento y explotación de los cerdos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII.- Recuento: La verificación de la cantidad de semovientes que le pertenecen a un determinado ganadero y separar los ajenos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXIX.- Realeo: Desalojo de ganado que mediante el recuento realizado, resultó ser ajeno;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXX.- Reconversión Productiva: Es el cambio o transformación voluntaria hacia una producción agropecuaria diferente a la actual; busca innovar y agregar valor a la producción mediante la utilización de sistemas tecnológicos eficientes en toda la cadena productiva;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXXI.- Secretaría: La Secretaría de Desarrollo Agropecuario del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXXII.- Señal de sangre: Las cortadas, incisiones o perforaciones que se hagan en las orejas del ganado, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XXXIII.- Tatuajes: La impresión de dibujos, letras, números indelebles en las orejas o en el labio del animal.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES COMPETENTES
 
@@ -187,9 +249,13 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Fomento Agropecuario;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-III.- Los Subsecretarios de la Secretaría;
+II.- El Secretario de Desarrollo Agropecuario;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+III.- El Subsecretario de Desarrollo Agropecuario;
 
 IV.- Los Directores de área de la Secretaría;
 
@@ -199,15 +265,23 @@ VI.- Los jefes de departamentos de la Secretaría;
 
 VII.- Los inspectores agropecuarios que designe la Secretaría, y
 
-VIII.- Los Presidentes y Delegados Municipales.
+VIII.- (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 7.
 
 Son autoridades, y organismos auxiliares y de cooperación respectivamente:
 
-I.- La Procuraduría General de Justicia del Estado, los cuerpos de seguridad pública federales, estatales o municipales, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-II.- Los Inspectores habilitados por la Secretaría, la Secretaría de Salud del Estado y las Organizaciones de productores agropecuarios, en los términos de la reglamentación respectiva.
+I.- La Procuraduría General de Justicia del Estado, los cuerpos de seguridad pública federales, estatales o municipales;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+II.- Los Inspectores habilitados por la Secretaría, la Secretaría de Salud del Estado y las Organizaciones de productores agropecuarios, en los términos de la reglamentación respectiva; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+III.- Los presidentes y delegados municipales en los lugares que no cuenten con autoridad en la materia.
 
 ###### ARTÍCULO 8.
 
@@ -231,7 +305,25 @@ V.- Promover y fortalecer la participación de Universidades y Centros de Invest
 
 VI.- Promover una mejor distribución y comercialización de la producción agropecuaria del Estado, privilegiando el abastecimiento del mercado interno, y
 
-VII.- Las demás que le atribuyan las leyes, reglamentos; decretos y acuerdos sobre la materia.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Coadyuvar, promover y gestionar la transferencia al Gobierno del Estado, de programas, recursos y atribuciones en materia agropecuaria que en el marco legal sean factibles y de beneficio para la población del Estado de Baja California;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VIII.- Impulsar acciones dirigidas a la reconversión productiva, competitividad e innovación tecnológica de las actividades agropecuarias;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Fortalecer, priorizar y consolidar competitivamente a los agroclústeres del sector rural;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+X.- Impulsar la investigación y transferencia de tecnología para atender las cadenas productivas y mejorar su productividad y competitividad; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 B) En lo Agrícola:
 
@@ -285,7 +377,13 @@ X.- Establecer y fortalecer el servicio de clasificación de alimentos;
 
 XI.- Otorgar los permisos para el establecimiento de expendios de carne clasificada, y
 
-XII.- Subastar los animales cuya procedencia legal no sea acreditada en los términos de la presente Ley, observando las disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Subastar los animales cuya procedencia legal no sea acreditada en los términos de la presente Ley, observando las disposiciones aplicables en la materia; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Impulsar actividades de ganadería diversificada en el Estado de Baja California.
 
 ###### ARTÍCULO 9.
 
@@ -540,6 +638,10 @@ La Secretaría promoverá el pleno aprovechamiento, protección, mejoramiento, e
 ###### ARTÍCULO 35.
 
 La Secretaría en coordinación con instituciones gubernamentales y académicas, fomentará el diseño, divulgación y prácticas de manejo del suelo y el agua. Así como la elaboración de programas y acciones tendientes a la conservación de la infraestructura hidráulica.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 35 BIS.- La Secretaría impulsará las acciones necesarias y mantendrá la coordinación con el gobierno federal para ampliar, rehabilitar, conservar y modernizar la infraestructura hidroagrícola con la utilización de tecnología apropiada, como mecanismo que consolide el desarrollo sustentable, social y productivo de las actividades rurales.
 
 ### CAPÍTULO IV. DE LA SANIDAD VEGETAL
 
@@ -1155,7 +1257,9 @@ Las carnes, productos y subproductos de origen animal, que se encuentren en los 
 
 La fabricación de sellos oficiales, registradores y fechadores para el uso oficial de los inspectores agropecuarios de los programas de clasificación de alimentos y de inspección, sólo serán autorizados por el Ejecutivo del Estado, a través de la Secretaría.
 
-Las tintas y los sellos para el marcado de carnes, huevo, productos y subproductos de origen animal serán diseñados y autorizados por la Secretaría quien reglamentará su uso en los programas de calidad y clasificación de alimentos.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+Las tintas y los sellos para el marcado de carnes, huevo, productos y subproductos de origen animal, así como la documentación oficial, serán diseñados y autorizados por la Secretaría quien reglamentará su uso en los programas de calidad y clasificación de alimentos.
 
 ###### ARTÍCULO 134.
 
@@ -1452,3 +1556,9 @@ TERCERO.- El Ejecutivo por conducto de la Secretaría, en un término no mayor a
 P.O. 1 DE AGOSTO DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 146 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 17 FRACCIÓN VII, EL CAPÍTULO X DEL TÍTULO PRIMERO Y AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+Único.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
