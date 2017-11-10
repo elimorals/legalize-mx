@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2017-08-07"
+last_updated: "2017-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -47,9 +47,11 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 DE LA ADMINISTRACION PUBLICA ESTATAL.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley fija la estructura y regula la función administrativa a cargo del Poder Ejecutivo del Estado de Baja California y define las bases de creación y vinculación con la Administración Pública Paraestatal.
+La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal. Estas administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
 ###### ARTICULO 2o.
 
@@ -217,7 +219,9 @@ V.- Secretaría de Infraestructura y Desarrollo Urbano;
 
 VI.- Secretaría de Desarrollo Económico;
 
-VII.- Secretaría de Fomento Agropecuario;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Secretaría de Desarrollo Agropecuario;
 
 VIII.- Secretaría de Turismo;
 
@@ -817,59 +821,57 @@ XV.- Llevar el control del Registro Estatal de Agentes Profesionales Inmobiliari
 
 XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-### CAPITULO X
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-DE LA COMPETENCIA DE LA SECRETARIA DE FOMENTO AGROPECUARIO.
+### CAPÍTULO X. DE LA COMPETENCIA DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 29.
 
-A la Secretaría de Fomento Agropecuario le corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría de Desarrollo Agropecuario le corresponde la atención y trámite de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+I.- Cumplir y hacer cumplir las disposiciones legales en materia agropecuaria y proponer la política agropecuaria en el Estado respetando el derecho humanos (sic) al agua así como al cuidado y protección del medio ambiente.
 
-I.- Cumplir y hacer cumplir las disposiciones legales en materia agropecuaria que se emitan en el Estado y las demás aplicables en la materia;
+II.- Promover el aprovechamiento, reproducción, mejoramiento, fomento y protección de las especies agrícolas y ganaderas;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+III.- Coordinar, impulsar y participar en las acciones, programas, proyectos e instrumentos que permitan el mejoramiento de las actividades agrícolas y ganaderas de la sociedad rural;
 
-II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas y avícolas;
+IV.- Promover acciones que permitan potenciar competitiva y sustentablemente las cadenas de valor de los agroclústeres;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+V.- Proponer y ejecutar actividades destinadas al fomento, mejora, comercialización e industrialización de los productos y subproductos agrícolas y ganaderos;
 
-III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados;
+VI.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción, aprovechamiento y comercialización agrícola, ganadera y agroindustrial en el Estado;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+VII.- Impulsar y participar en los programas de investigación, innovación tecnológica y capacitación empresarial de los sistemas de producción que incrementen la productividad del sector;
 
-IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos y avícolas;
+VIII.- Coordinar, participar, diseñar e implementar campañas para la prevención y erradicación de plagas y enfermedades que afecten a las especies agropecuarias;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+IX.- Coordinar, participar, diseñar, desarrollar y fomentar la adopción de programas de responsabilidad social empresarial en las unidades productivas del sector;
 
-V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera y avícola del Estado;
+X.- Efectuar actividades de inspección, supervisión, control, regulación y sanción de la movilización de ganado, productos y subproductos agropecuarios en el Estado;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+XI.- Desempeñar funciones de asistencia técnica integral para los productos agrícolas y ganaderos;
 
-VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria en todos sus aspectos, y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
+XII.- Promover la diversificación de la producción de las actividades agropecuarias mediante el aprovechamiento sustentable de los recursos naturales que incrementen la productividad del sector;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+XIII.- Coordinar la información estadística del sector agropecuario para la toma de decisiones en beneficio del sector;
 
-VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas y avícolas;
+XIV.- Coadyuvar en coordinación con las autoridades competentes en el ordenamiento de las cuencas hidrológicas para la extracción, distribución y aprovechamiento sustentable de los recursos hídricos en el Estado;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+XV.- Promover y coordinar la ejecución de programas de infraestructura física e hidroagrícola que contribuyan a incrementar la producción y productividad agropecuaria;
 
-VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios en el Estado;
+XVI.- Participar en las acciones de rehabilitación, conservación, mejoramiento y modernización de la infraestructura hidroagrícola, en las unidades de riego y cuencas hidrológicas del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+XVII.- Promover el uso eficiente del recurso del agua, así como nuevas fuentes del recurso hídrico, su saneamiento, manejo del suelo agrícola y cultura del agua;
 
-IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos y avícolas del Estado;
+XVIII.- Desarrollar la cultura empresarial de los agentes del sector;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+XIX.- Desempeñar el servicio de clasificación estatal de productos y subproductos para garantizar la calidad e inocuidad de los alimentos;
 
-X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria;
+XX.- Impulsar acciones dirigidas a la reconversión productiva, competitividad e innovación tecnológica de las actividades agropecuarias, y
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
-
-XI.- Coordinar en el seno del Comité de Planeación para el desarrollo del Estado de Baja California el funcionamiento del Subcomité que le competa, así como organizar la información estadística del sector y,
-
-XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+XXI.- Los demás que determinen expresamente las Leyes y Reglamentos aplicables.
 
 ### CAPITULO XI
 
@@ -2157,7 +2159,23 @@ SÉPTIMO.- El titular del Poder Ejecutivo, dentro de los noventa días siguiente
 
 OCTAVO.- El titular del Poder Ejecutivo, en un término de sesenta días de la entrada en vigor del presente Decreto, remitirá al Congreso del Estado, para efecto de su ratificación, a quien designe como titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 128.- SE EXPIDE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE TLAXCALA".]
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 140 MEDIANTE EL CUAL APRUEBA LA REFORMA AL ARTÍCULO 1° DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente decreto.
+
+TERCERO.- Las dependencias normativas del poder ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 10 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 146 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 17 FRACCIÓN VII, EL CAPÍTULO X DEL TÍTULO PRIMERO Y AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+Primero.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las menciones que en otras leyes o reglamentos se hagan a la Secretaría de Fomento Agropecuario, se entenderán hechas a la Secretaría de Desarrollo Agropecuario.
 
 ## TITULO IV. DE LA SECTORIZACION
 
