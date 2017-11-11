@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-de-datos-personales-del-estado-de-123308"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-06"
-last_updated: "2017-09-06"
+last_updated: "2017-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexa al Número 71 del Periódico Oficial del Estado de Chihuahua, el miércoles 6 de septiembre de 2017.
 
@@ -185,7 +185,9 @@ XVIII. Instituto: Instituto Nacional de Transparencia, Acceso a la Información 
 
 XIX. Ley: Ley de Protección de Datos Personales del Estado de Chihuahua.
 
-XX. Ley General: Ley de General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+XX. Ley General: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 XXI. Medidas compensatorias: Mecanismos alternos para dar a conocer (sic) las y los titulares el aviso de privacidad, a través de su difusión por medios masivos de comunicación u otros de amplio alcance.
 
@@ -365,7 +367,9 @@ XVII. En su caso, interponer acciones de inconstitucionalidad en contra de leyes
 
 XVIII. Emitir, en su caso, las recomendaciones no vinculantes correspondientes a la evaluación de impacto, en materia de protección de datos personales.
 
-XIX. Brindar asesoría y apoyo técnico a los responsables y titulares, desarrollar herramientas que faciliten a los responsables el cumplimiento de sus obligaciones, así como a los titulares el ejercicio de sus derechos, y emitir disposiciones de carácter general que permitan interpretarlas (sic) disposiciones de la presente Ley.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Brindar asesoría y apoyo técnico a los responsables y titulares, desarrollar herramientas que faciliten a los responsables el cumplimiento de sus obligaciones, así como a los titulares el ejercicio de sus derechos, y emitir disposiciones de carácter general que permitan interpretar las disposiciones de la presente Ley.
 
 ###### Artículo 23.
 
@@ -671,25 +675,27 @@ V. El sitio donde se podrá consultar el aviso de privacidad integral.
 
 La puesta a disposición del aviso de privacidad simplificado, no exime al responsable de proveer los mecanismos para que el o la titular conozca el aviso de privacidad integral.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 67.
 
 El aviso de privacidad integral deberá contener, al menos, la siguiente información:
 
 I. El nombre y domicilio del responsable.
 
-II. Las finalidades para las cuales se obtienen los datos personales, el tratamiento al que serán sometidos y, en su caso, la necesidad de que otorgue su consentimiento para tales efectos.
+II. Las finalidades para las cuales se obtienen los datos personales, el tratamiento al que serán sometidos, identificando aquellos que son sensibles y, en su caso, la necesidad de que otorgue su consentimiento para tales efectos.
 
 III. El fundamento legal que faculta al responsable para llevar a cabo el tratamiento.
 
-VI (SIC). Las transferencias que pueden realizarse, las autoridades, poderes, entidades, órganos y organismos gubernamentales de los tres órdenes de gobierno y las personas físicas o morales a las que se transfieren los datos personales, las finalidades de estas y, en su caso, la necesidad de que otorgue su consentimiento para tales efectos.
+IV. Las transferencias que pueden realizarse, las autoridades, poderes, entidades, órganos y organismos gubernamentales de los tres órdenes de gobierno y las personas físicas o morales, ya sean de carácter nacional o internacional, a las que se transfieren los datos personales, las finalidades de estas y, en su caso, la necesidad de que otorgue su consentimiento para tales efectos.
 
-IV. Los mecanismos y medios disponibles para que el titular manifieste su negativa, previo el tratamiento y transferencia de sus datos personales.
+V. Los mecanismos, medios y procedimientos disponibles para ejercer los derechos ARCO y el de portabilidad, y para que el titular manifieste su negativa previo al tratamiento y transferencia de sus datos personales.
 
-V. El domicilio de la Unidad de Transparencia.
+VI. El domicilio de la Unidad de Transparencia.
 
-VI. El sitio donde puede consultarse.
+VII. El sitio donde puede consultarse.
 
-VII. Los medios a través de los cuales el responsable comunicará a los titulares los cambios al aviso de privacidad.
+VIII. Los medios a través de los cuales el responsable comunicará a los titulares los cambios al aviso de privacidad.
 
 ###### Artículo 68.
 
@@ -1091,11 +1097,15 @@ Los responsables en materias de seguridad, procuración y administración de jus
 
 Los responsables en materias de seguridad, procuración y administración de justicia y prevención o persecución de los delitos, deberán cumplir con los principios establecidos en la presente Ley, cuando realicen tratamiento o utilicen las bases de datos para el almacenamiento de datos personales.
 
-Artículo 107 (sic).- Las autoridades que accedan y almacenen los datos personales recabados por los particulares en cumplimiento de las disposiciones legales correspondientes, deberán cumplir con lo señalado en el presente Capítulo.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 108.
+
+Las autoridades que accedan y almacenen los datos personales recabados por los particulares en cumplimiento de las disposiciones legales correspondientes, deberán cumplir con lo señalado en el presente Capítulo.
 
 ###### Artículo 109.
 
-Exclusivamente la autoridad judicial federal, a petición de la autoridad federal que faculte la ley o del titular del Ministerio Público del Estado, podrá autorizar la intervención de cualquier comunicación privada.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 110.
 
@@ -1714,3 +1724,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de agosto del año dos mil diecisiete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0407/2017 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
