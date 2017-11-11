@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2017-05-30"
+last_updated: "2017-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -267,13 +267,27 @@ Todas las personas que transiten por las vías públicas están obligadas a cump
 
 Para los efectos de esta ley y los ordenamientos que de ella emanan, se estará a lo siguiente:
 
-I. Se otorgará el derecho de preferencia a los peatones, personas con discapacidad, adultos mayores, mujeres embarazadas, ciclistas y los usuarios del transporte público, quienes gozarán de preferencia sobre los vehículos en todos los cruceros o zonas de paso peatonal y se les brindarán las facilidades necesarias para abordar las unidades del transporte público, las cuales deberán contar con asientos o espacios preferenciales y exclusivos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+I. Se otorgará el derecho de preferencia a los peatones, personas con discapacidad, adultos mayores, mujeres embarazadas o con niños menores de cinco años, ciclistas y los usuarios del transporte público, quienes gozarán de preferencia sobre los vehículos en todos los cruceros o zonas de paso peatonal y se les brindarán las facilidades necesarias para abordar las unidades del transporte público, las cuales deberán contar con asientos o espacios preferenciales y exclusivos;
 
 II. Se establecerán las medidas necesarias, a fin de garantizar al usuario el derecho a que el servicio público de transporte se preste en forma regular, continua, uniforme, permanente e ininterrumpida y en las mejores condiciones de seguridad, comodidad, higiene y eficiencia, cumpliendo con las reglas y condiciones de calidad del servicio, con estricto apego a la normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
 III. Los ciudadanos tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio de transporte público o cualquier tema inherente a la movilidad en el Estado, mediante los procedimientos que la propia Secretaría determine, debiendo informar al quejoso sobre las acciones tomadas, resultados obtenidos y resolución de la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+La denuncia contendrá los elementos que establezca el reglamento y podrá realizarse por escrito, por comparecencia o a través de cualquier medio establecido en las plataformas del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+Cuando los hechos denunciados se cometan en una unidad de transporte masivo o colectivo de pasajeros, la Secretaría de oficio solicitará las imágenes de las cámaras de seguridad y hará acopio de las demás pruebas que considere necesarias para determinar las condiciones de tiempo, modo y lugar en que se realizó el evento denunciado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+A toda denuncia por incumplimiento a las obligaciones de esta ley, recaerá inicio de proceso de sanción y, en su caso, orden y realización de las visitas de inspección que resulten necesarias.
 
 Tratándose del servicio que gestionan las empresas de redes de transporte, la Secretaría únicamente atenderá cualquier irregularidad relativa a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las que se rigen por la legislación en la materia.
 
@@ -1913,7 +1927,9 @@ Los titulares de concesiones del servicio público de transporte tendrán los si
 
 I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta ley y su Reglamento, y acatando las normas de calidad y operación establecidas en el título de concesión correspondiente;
 
-II. En el caso del transporte público colectivo y masivo de pasajeros, deberán destinar al menos el veinte por ciento del total de asientos de la unidad de transporte, debidamente identificados para el uso preferente de personas con discapacidad, embarazo o adultos mayores;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+II. En el caso del transporte público colectivo y masivo de pasajeros, deberán destinar al menos el veinte por ciento del total de asientos de la unidad de transporte, debidamente identificados para el uso preferente de personas con discapacidad, adultos mayores, mujeres embarazadas o con niño menor de cinco años;
 
 III. Proteger, orientar y respetar a los usuarios del servicio;
 
@@ -2209,9 +2225,13 @@ I. Para ceder o traspasar sus derechos, el concesionario deberá obtener autoriz
 
 II. El adquirente deberá reunir los requisitos que se establezcan en el Reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 126.
 
-Los vehículos afectos a las concesiones del servicio público de transporte masivo y colectivo de pasajeros, que sean otorgadas por el Ejecutivo del Estado, deberán contar en cada ruta, por lo menos, en un diez por ciento de las unidades correspondientes, con las adaptaciones necesarias para facilitar el desplazamiento en dicho servicio de las personas con discapacidad, tales como rampas, mecanismos especiales para permitir su entrada y salida, garantizando que cada ruta tenga al menos dos unidades con esas características, mismas que se sujetarán a lo previsto por la norma general de carácter técnico aplicable.
+Los vehículos afectos a las concesiones del servicio público de transporte masivo y colectivo de pasajeros, que sean otorgadas por el Ejecutivo del Estado, además de acreditar el cumplimiento de la norma general de carácter técnico aplicable, contarán con cámaras de seguridad que registren el ascenso de pasajeros y la conducción del operador, la operación a lo largo del pasillo de la unidad y el descenso de los usuarios; así como, escalones retractiles o diverso mecanismo que facilite el ascenso y descenso de la unidad.
+
+Las rutas deberán contar con por lo menos un diez por ciento de vehículos con rampa o diverso mecanismo que permita la accesibilidad de personas con discapacidad. Si de la aplicación del porcentaje resulta un número menor a dos, se habilitarán dos unidades por ruta para este servicio.
 
 ###### Artículo 127.
 
@@ -3403,9 +3423,11 @@ III. Al conductor del servicio de transporte público colectivo de pasajeros, po
 
 IV. Infringir lo previsto en el artículo 185 fracciones II, III y IV de la presente ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 191.
 
-Se sancionará a los conductores o propietarios de vehículos que comentan (sic) las siguientes infracciones:
+Se sancionará a los conductores o propietarios de vehículos, o administradores de ruta en su caso, cuando cometan las siguientes infracciones:
 
 I. Tratándose de vehículos de transporte público colectivo, realizar viajes especiales fuera de ruta, sin la autorización de excursión;
 
@@ -3433,9 +3455,19 @@ XII. Estacionarse en rampas o en lugares reservados para vehículos de personas 
 
 XIII. A los vehículos de transporte público de pasajeros que no circulen con las luces principales e interiores encendidas en los términos del reglamento;
 
-XIV. A los vehículos de transporte público colectivo de pasajeros que no circulen con cristales que sean transparentes en su totalidad, en los términos de la norma técnica correspondiente, o
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
-XV. Conduzca durante la prestación del servicio, utilizando equipos de sonido, radios, telefonía, equipos de comunicación diversa o luces que distraigan y provoquen molestias al conductor, usuarios o terceros, salvo los autorizados expresamente en virtud a sus características.
+XIV. A los vehículos de transporte público colectivo de pasajeros que no circulen con cristales que sean transparentes en su totalidad, en los términos de la norma técnica correspondiente;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+XV. Conduzca durante la prestación del servicio, utilizando equipos de sonido, radios, telefonía, equipos de comunicación diversa o luces que distraigan y provoquen molestias al conductor, usuarios o terceros, salvo los autorizados expresamente en virtud a sus características; o
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+XVI. A los vehículos o rutas de transporte público masivo y colectivo de pasajeros, que presten el servicio sin el equipamiento previsto en el artículo 126.
+
+Para efectos de la fracción IX existe maltrato cuando al usuario se le niega el servicio sin causa justificada o sea víctima de actos violentos, discriminatorios o humillantes.
 
 ###### Artículo 192.
 
@@ -3583,11 +3615,11 @@ IV. Para fijar la duración de los términos, los meses se regularán por el nú
 
 ### Capítulo VI. De la inspección y vigilancia
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 205.
 
-Las autoridades estatales de movilidad y transporte y municipales de vialidad y tránsito, en sus respectivas esferas de competencia, a efecto de verificar el cumplimiento de esta ley y sus reglamentos, por parte de los titulares de concesiones, permisos o autorizaciones de servicio público, autorizaciones temporales, permisos y contratos de subrogación, autorizaciones para el funcionamiento de empresas de redes de transporte, podrán ordenar y realizar inspecciones de locales, instalaciones, bases de servicios, terminales y vehículos destinados a la prestación del servicio público de transporte o conexos; así como en el domicilio fiscal y lugar donde se asientan los negocios de las empresa (sic) de redes de transporte o el domicilio registrado para esos efectos.
+Las autoridades estatales y municipales en materia de tránsito, movilidad y transporte, en sus respectivas esferas de competencia, realizarán inspecciones sobre los requisitos, calidad del servicio y condiciones de los bienes muebles e inmuebles afectos al servicio público de transporte o conexos para verificar que cumplen lo establecido en la Ley y su reglamento.
 
 ###### Artículo 206.
 
@@ -3807,7 +3839,7 @@ ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2014.
 
@@ -3956,3 +3988,11 @@ P.O. 30 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26362/LXI/17 QUE ADICIONA EL ARTÍCULO 27 QUINQUIES A LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26492/LXI/17 QUE REFORMA LOS ARTÍCULOS 8°, 101, 126 Y 205 Y ADICIONA EL ARTÍCULO 191 FRACCIÓN XVI DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo Estatal, conforme a los puntos de acuerdo Trigésimo Tercero y Trigésimo Sexto del "ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LOS LINEAMIENTOS DE COLABORACIÓN EN MATERIA DE SEGURIDAD Y JUSTICIA Y MODIFICA EL PLAN TÉCNICO FUNDAMENTAL DE NUMERACIÓN", publicado en el Diario Oficial de la Federación el 2 de diciembre de 2015, deberá gestionar y reglamentar el procesamiento de denuncias por violaciones a los derechos de los usuarios del transporte público a través del número telefónico 911 y demás plataformas del Sistema Nacional de Seguridad Pública.
