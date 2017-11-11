@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2017-07-01"
+last_updated: "2017-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -58,6 +58,10 @@ El Registro Civil es una institución de orden público y de interés social por
 El Registro Civil es público, por ello toda persona puede solicitar copias o extractos certificados de las actas del estado civil así como de los documentos archivados y de las constancias de todo lo referente a la función propia de la Institución.
 
 La certificación es el medio de publicidad de las actas y documentos que obren en los diversos archivos del Registro Civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+Las copias o extractos certificados tendrán pleno valor y podrán ser presentadas ante cualquier instancia pública o privada, con independencia de su fecha de expedición, salvo que se requiera acreditar el estado civil del interesado.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -1577,6 +1581,12 @@ P.O. 31 DE DICIEMBRE DE 2016.
 
 P. O. 1 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26377/LXI/17 QUE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26377/LXI/17 QUE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P. O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26494/LXI/17 QUE REFORMA EL ARTÍCULO 2 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
