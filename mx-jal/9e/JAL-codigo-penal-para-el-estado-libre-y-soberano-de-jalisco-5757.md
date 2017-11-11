@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-10-21"
+last_updated: "2017-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO xxx
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -5191,13 +5191,13 @@ Para los efectos del presente Título, se estará a las definiciones establecida
 
 Inmediatamente que el Ministerio Público o el servidor público encargado de practicar diligencias de averiguación previa tenga conocimiento de la probable existencia de uno de los delitos establecidos en el presente título, iniciará sus actuaciones atendiendo las reglas establecidas en el Código de Procedimientos Penales, con el objeto de evitar que se agraven los daños cometidos, dando intervención a la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o al ayuntamiento en cuyo territorio se den los hechos presuntamente constitutivos de delito, para que determinen la gravedad del daño ambiental y las acciones de su competencia.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 ###### Art. 290.
 
-Se impondrá pena de uno a tres años de prisión y de trescientas a tres mil veces el valor diario de la Unidad de Medida y Actualización al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
+Se impondrá pena de uno a tres años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente la flora, fauna, ecosistemas, el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
 
-En el caso de que las actividades a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del Gobierno del Estado o de la autoridad municipal, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil veces el valor diario de la Unidad de Medida y Actualización.
+En el caso de que las actividades a que se refiere el párrafo anterior, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del Gobierno del Estado o de la autoridad municipal, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5205,9 +5205,9 @@ En el caso de que las actividades a que se refieren los párrafos anteriores, se
 
 Se impondrá pena de uno a seis años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, a quien sin aplicar las medidas de prevención o seguridad:
 
-(F. DE E., P.O. 12 DE JULIO DE 2003) (ADICIONADA, P.O. 12 DE JUNIO DE 2003)
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
-I. Emita, despedida, descargue en la atmósfera, o lo autorice u ordene, gases, humos, polvos contaminantes que ocasionen daños a los recursos naturales, a la fauna, a la flora, a los ecosistemas o al ambiente, a la salud pública, siempre que dichas emisiones no provengan de fuentes fijas de competencia federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o
+I. Emita, despida, descargue en la atmósfera, o lo autorice u ordene, gases, humos, polvos contaminantes que ocasionen daños a los recursos naturales, a la fauna, a la flora, a los ecosistemas o al ambiente, a la salud pública, siempre que dichas emisiones no provengan de fuentes fijas de competencia federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -5259,11 +5259,13 @@ Si el daño es ocasionado a un área natural protegida, la pena se incrementará
 
 Se considera que existe daño generalizado cuando por la superficie afectada o la gravedad del daño, tenga como consecuencia que se requiera un tiempo de recuperación de la flora y fauna mayor a un año, se dé una afectación grave o pérdidas de especies de flora o fauna, o se altere el ecosistema.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2017 Y SU ACUMULADA 156/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE FEBRERO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 26493/LXI/17, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 ###### Art. 295.
 
-Se impondrá pena de uno a tres años de prisión y multa de cinco mil veces el valor diario de la Unidad de Medida y Actualización a las personas que promuevan, ocasionen, subsidien o dirijan algunos de los hechos punibles lesivos al ambiente descritos en este ordenamiento, según la gravedad del daño ambiental causado y la inhabilitación para contratar con la administración pública hasta por el lapso de 6 años.
+Se impondrá pena de uno a tres años de prisión Y MULTA DE CINCO MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN a las personas que promuevan, subsidien o dirijan algunos de los hechos punibles lesivos al ambiente descritos en este ordenamiento, según la gravedad del daño ambiental causado Y LA INHABILITACIÓN DEFINITIVA PARA CONTRATAR CON LA ADMINISTRACIÓN PÚBLICA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5287,11 +5289,11 @@ III. Prestando sus servicios como auditor técnico, especialista o perito especi
 
 IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad, necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 ###### Art. 297.
 
-Al que sin autorización legal acopie, almacene, transforme, transporte, comercie o destruya hasta menos de cuatro metros cúbicos de recursos forestales maderables, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicará de un año a cinco años de prisión y multa por el importe de cien a un mil veces el valor diario de la Unidad de Medida y Actualización.
+Al que sin autorización legal acopie, almacene, transforme, transporte, comercie o destruya en cantidades superiores de cuatro metros cúbicos de recursos forestales maderables, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicará de uno a cinco años de prisión y multa por el importe de cien a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -6329,7 +6331,7 @@ P.O. 11 DE OCTUBRE DE 2016.
 
 P.O. 10 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 25904/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 42, 43, 44, 45, 46, 46- BIS, 49 Y 56, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 92 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 46 BIS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PúBLICO DEL ESTADO DE JALISCO, MODIFICA EL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE SOBERANO DE JALISCO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25904/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 42, 43, 44, 45, 46, 46- BIS, 49 Y 56, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 92 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 46 BIS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, MODIFICA EL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE SOBERANO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -6426,3 +6428,9 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26439/LXI/17 QUE REFORMA LOS ARTÍCULOS 233 Y 234 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26493/LXI/17 QUE REFORMA LOS ARTÍCULOS 290, 291, 295 Y 297 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor a los noventa días posteriores de su publicación en el periódico oficial “EI Estado de Jalisco".
