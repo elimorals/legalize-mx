@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2017-04-22"
+last_updated: "2017-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -775,11 +775,11 @@ En el ejercicio de dichas funciones, tratándose de las comparecencias, solicitu
 
 Los Diputados además de formar parte de las comisiones para las que fueren designados, podrán participar en las sesiones de otras comisiones, con voz pero sin voto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 75.
 
-para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones Ordinarias:
+Para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones ordinarias:
 
 I. Asuntos de la Frontera Sur;
 
@@ -801,7 +801,9 @@ VIII. Educación, Cultura, Ciencia y Tecnología.
 
 IX. Energía, Recursos Naturales y Protección Ambiental;
 
-X. Equidad y Género;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+X. Igualdad de Género.
 
 XI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
 
@@ -1746,3 +1748,11 @@ TERCERO.- En tanto se establece el sistema al que se refiere el artículo transi
 CUARTO.- En su oportunidad, háganse las modificaciones correspondientes al Reglamento Interior del Congreso del Estado de Tabasco, a fin de reglamentar la implementación y uso del sistema parlamentario de asistencia, votación y audio automatizado.
 
 QUINTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 128 POR EL QUE "SE REFORMA LA FRACCIÓN X, DEL ARTÍCULO 75, DEL CAPÍTULO IV, DE LAS COMISIONES, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
