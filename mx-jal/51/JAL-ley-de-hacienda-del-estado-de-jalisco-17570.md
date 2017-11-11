@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2017-08-08"
+last_updated: "2017-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -741,7 +741,9 @@ Del objeto
 
 Es objeto de este impuesto, el ingreso por la prestación de servicios de hospedaje, en las edificaciones regidas por la modalidad de uso en tiempo compartido, hoteles, moteles, campamentos y paraderos de casas rodantes, en inmuebles ubicados en el estado de Jalisco.
 
-Asimismo, para los efectos de este impuesto, se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo, para los efectos de este impuesto, se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga, incluidos los servicios de hospedaje que se oferten a través de plataformas digitales, independientemente de su temporalidad.
 
 De los sujetos
 
@@ -775,6 +777,14 @@ IV. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 49 bis. Se entiende por plataforma digital, a la aplicación de servicios de hospedaje que la persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje en inmuebles con terceros.
+
+La plataforma digital de servicios de hospedaje, deberá inscribirse ante el Registro Estatal, en el carácter mencionado a efecto de coadyuvar en el cumplimiento de lo establecido en los artículos 50, 51 y 52 de esta ley.
+
+De igual forma estará obligada a retener el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo.
+
 De la base del impuesto
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
@@ -795,13 +805,19 @@ Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto
 
 Del pago
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 52.
 
-El pago entero del impuesto lo hará el prestador de servicios de hospedaje a más tardar el día 15 posterior a cada bimestre del año natural en las Oficinas de Recaudación Fiscal de la Secretaría de Planeación, Administración y Finanzas o ante las instituciones de crédito autorizadas.
+El entero del impuesto lo hará el prestador de servicios de hospedaje a más tardar el día 15 posterior a cada bimestre del año natural en las Oficinas de Recaudación Fiscal de la Secretaría de Planeación, Administración y Finanzas o ante las instituciones de crédito autorizadas.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+La plataforma digital de servicios de hospedaje, deberá presentar a más tardar el día 15 posterior a cada bimestre del año natural, declaración para el entero del impuesto, en los términos, condiciones, lineamientos, mecanismos y formatos, que para tal efecto establezca la Secretaría de Planeación, Administración y Finanzas, y con apego a los ordenamientos en materia de protección de datos personales en posesión de sujetos obligados.
 
 ### CAPITULO SEPTIMO. Del Impuesto sobre loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase
 
@@ -1308,3 +1324,11 @@ P.O. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26416/LXI/17, QUE REFORMA EL ARTÍCULO 65 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26496/LXI/17 QUE REFORMA (SIC) LOS ARTÍCULOS 47 Y 52 Y ADICIONA EL ARTÍCULO 49 BIS, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, deberá realizar las acciones necesarias para el debido cumplimiento de las disposiciones legales aplicables.
