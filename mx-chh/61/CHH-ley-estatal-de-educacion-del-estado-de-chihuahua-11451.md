@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2017-07-08"
+last_updated: "2017-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -2579,7 +2579,9 @@ XV. Realizarán las demás actividades que permitan mejorar la calidad y ampliar
 
 XVI. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros.
 
-XVII. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, impulsando y favoreciendo una educación integral de mejor calidad, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, designando recursos humanos especializados adicionales y el apoyo de tecnologías, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
 
 XVIII. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
 
@@ -4270,3 +4272,9 @@ P.O. 8 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0329/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0393/2017 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 153 BIS, FRACCIÓN XVII, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
