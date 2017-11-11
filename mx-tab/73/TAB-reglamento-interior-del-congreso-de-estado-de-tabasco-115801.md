@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-congreso-de-estado-de-tabasco-115801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-23"
-last_updated: "2016-07-23"
+last_updated: "2017-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de julio de 2016.
 
@@ -727,7 +727,9 @@ e) Coadyuvar en la investigación técnico industrial, en materia de energía y 
 
 f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-X. Equidad y Género
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+
+X. Igualdad de Género.
 
 a) Conocer, dictaminar o resolver, sobre las iniciativas de ley o decreto y demás propuestas relacionadas con la igualdad y equidad de género;
 
@@ -2156,3 +2158,13 @@ PRESIDENTE
 DIP. GLORIA HERRERA
 
 PRIMERA SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 128 POR EL QUE "SE REFORMA LA FRACCIÓN X, DEL ARTÍCULO 58, DEL CAPÍTULO IV, DE LAS COMISIONES, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
