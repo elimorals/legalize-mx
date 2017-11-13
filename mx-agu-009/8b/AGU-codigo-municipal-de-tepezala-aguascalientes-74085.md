@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-tepezala-aguascalientes-74085"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-22"
-last_updated: "2011-08-08"
+last_updated: "2017-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE TEPEZALA, AGUASCALIENTES
 
-CODIGO MUNICIPAL
+CÓDIGO MUNICIPAL DE TEPEZALÁ, DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 
@@ -6661,185 +6661,123 @@ IX. Portar su identificación de manera visible.
 
 ###### ARTÍCULO 722.
 
-Son objeto de regulación de este Titulo, los establecimientos comerciales, industriales y de servicios que vendan bebidas alcohólicas que contengan más del 2% de alcohol, las sustancias de efecto psicotrópico señaladas en la Ley General de Salud, todos aquellos productos cuyo (sic) inhalación produce o puede producir efectos psicotrópicos o similares.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 723.
 
-Los establecimientos dedicados a la venta y consumo de bebidas alcohólicas suspenderán sus actividades los días en los que se establezca "Ley Seca", por alguna disposición estatal o federal y todos aquellos días en que en forma especial así lo determine el Ayuntamiento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 724.
 
-Las licencias y permisos que se otorguen al amparo de este Código, en cualquier momento pueden ser objeto de revisión, para determinar que cumplen los requisitos que el mismo les señala y que no se afecta el interés público o social; estando facultada la Presidencia Municipal para reubicar aquellos establecimientos que no cumplan con lo señalado con anterioridad o cancelarlas, de ser necesario, para evitar una afectación a la comunidad.
-
-En caso de que un titular de una licencia comercial desee enajenarla, deberá de tener la autorización por escrito del Cabildo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 725.
 
-Se requiere permiso especial para degustaciones, regalos y rifas de bebidas alcohólicas en lugares públicos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 726.
 
-Los establecimientos en los cuales de (sic) desarrolle la venta de los productos señalados en el presente capitulo, deberán contar (sic) cumplir con los requisitos de higiene, salubridad, seguridad y protección a la moral pública, que el Ayuntamiento determine mientras se encuentra operando.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 727.
 
-Los lugares destinados a la venta de bebidas alcohólicas, se clasifican en:
-
-I. Establecimientos destinados específica mente a la venta y consumo de bebidas alcohólicas: cantinas, merenderos, cervecerías, bares, centros nocturnos, cabarets, discotecas, etc.;
-
-II. Establecimientos que en forma accesoria puedan vender y consumir bebidas alcohólicas: restaurantes, centros turísticos, clubes sociales, fondas, loncherías, taquerías, cenadurías, balnearios, baños públicos, cafeterías, rosticerías, establecimientos dedicados a la venta de mariscos, billares, peñas y similares;
-
-III. Lugares en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: kermesses, ferias, espectáculos y bailes públicos;
-
-IV. Establecimientos en donde puedan venderse bebidas alcohólicas, sólo en botella cerrada: depósitos o expendios, tiendas de abarrotes, supermercados y misceláneas; y
-
-V. Comercios en donde puede venderse alcohol, pero no a granel ni para consumir: boticas, droguerías, farmacias y similares.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 728.
 
-En los establecimientos señalados en el artículo anterior, así como en los bailes públicos y billares, queda estrictamente prohibida la entrada a menores de edad, así como su contratación para trabajar en dichos lugares, con excepción en los merenderos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 729.
 
-Cantina es todo establecimiento dedicado específicamente a la venta y consumo de bebidas al copeo. En ella podrán expenderse bebidas embriagantes, tabaco y botanas, la cual funcionará en un horario de las 10:00 horas a las 24:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 730.
 
-En las cantinas y bares se permitirán los juegos de mesa tales como; ajedrez, damas chinas, dominó y cubilete, sin apuestas; pueden instalarse aparatos de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado, y que los mismos no sean atentatorios a la moral y buenas costumbres, entendiéndose por esto, aquellos donde exhiban escenas de contenido erótico o que inciten al sexo. Esta prohibición es aplicable a todos los establecimientos regulados en el presente capitulo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 731.
 
-Merendero es todo establecimiento destinado de manera primordial a la venta y consumo de bebidas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas y funcionará de las 12:00 horas a las 24:00 horas, se permitirá el ingreso a menores acompañados de un adulto y su permanencia será hasta las 19:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 732.
 
-Bar es un establecimiento dedicado a la venta y consumo de bebidas al copeo que debe contar con un espacio para baile y música adecuada para ello, su horario será de las 12:00 horas a las 24:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 733.
 
-Cervecería es el establecimiento en el que, de manera exclusiva se venda cerveza, de cualquier clase o presentación, para su consumo inmediato; se requerirá permiso especial para incluir la venta de comida, botanas o refrescos y podrá funcionar en un horario de las 10:00 a las 24:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 734.
 
-En las cantinas, bares, merenderos y cervecerías tendrán libre acceso los trovadores y músicos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 735.
 
-Centro nocturno o cabaret es el local para diversión, en donde se expendan bebidas alcohólicas al copeo, cuente con un conjunto u orquesta permanente, algún espectáculo de las denominadas variedades, y espacio para que bailen los concurrentes, siendo optativo dar el servicio de restaurante, el cual podrá funcionar en un horario de las 19:00 a las 24:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 736.
 
-Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista de baile, en ella pueden expenderse bebidas alcohólicas al copeo, de cualquier graduación y podrá funcionar en un horario de las 20:00 a las 24:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 737.
 
-En los bares centros nocturnos y discotecas se establecerá el cupo técnico de personas, mismo que se consignará en la licencia respectiva, y cualquier sobre-cupo será motivo de sanción.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 738.
 
-En las ferias que se celebren con autorización de (sic) Ayuntamiento, se podrán extender los horarios a criterio de la autoridad competente, pero únicamente en el perímetro de la celebración previamente determinado.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 739.
 
-Las tiendas de abarrotes, misceláneas, ultra-marinos mini súper y supermercados, depósitos de cerveza, depósitos de vinos y licores, y otros establecimientos similares, podrán vender bebidas alcohólicas, previa licencia que expida la Presidencia Municipal, únicamente en botella, cerrada, estando prohibido el consumo dentro del establecimiento y su horario de venta de bebidas alcohólicas será de las 9:00 a las 22:00 horas, pudiendo continuar con la venta de otros productos hasta el horario autorizado para ellos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 740.
 
-Los restaurantes, loncherías y cenadurías, previa licencia, podrán expender bebidas alcohólicas de cualquier graduación sólo con alimentos, en un horario de las 7:00 a las 22:00 horas los primeros, las loncherías de 9:00 a 22:00 y las cenadurías de 18:00 a las 22:00 horas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 741.
 
-En las fondas, loncherías y cenadurías, se permitirá libre acceso a los músicos y trovadores que cuenten con el permiso correspondiente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 742.
 
-En los Restaurantes, será potestativo del propietario, el autorizar acceso a los trovadores o músicos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 743.
 
-Los centros sociales, clubes deportivos, de servicio y similares, previa licencia, podrán habilitar un área especial para cantina, en el horario que para tal efecto señale este Código.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 744.
 
-En los bailes públicos la Presidencia Municipal podrá otorgar, por conducto de la Secretaría del H. Ayuntamiento, autorización para la venta y consumo de bebidas alcohólicas, de cualquier graduación, con las limitaciones que se establezcan en el permiso respectivo y con el pago del impuesto respectivo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 745.
 
-En los espectáculos públicos, la Secretaría del H. Ayuntamiento podrá permitir la venta de bebidas alcohólicas, previa licencia, en envase de cartón, plástico o en cualquier otro material que sea reciclable, y que no represente peligro para los asistentes o al medio ambiente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 746.
 
-Queda prohibido, en cualquiera de los establecimientos referidos con anterioridad en este capítulo, que los meseros o empleados alternen con los clientes, en las mesas o lugares interiores de los establecimientos, entendiéndose por alternancia el que los empleados compartan la mesa, bebida o comida con los clientes.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 747.
 
-El Ayuntamiento podrá dentro de sus facultades discrecionales y por causas justificadas autorizar la ampliación de horario de los giros reglamentados los días viernes y sábado así como en fechas conmemorativas o celebraciones especiales hasta por dos horas más, previo pago de los derechos correspondientes Se exceptúa de lo anterior los casos en que haya Ley Seca.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 748.
 
-Son obligaciones de los titulares de las licencias o permisos a que se refiere este capítulo, las siguientes:
-
-I. Tener a la vista la licencia o permiso, que le otorgue la Presidencia Municipal;
-
-II. Exhibir en lugares visibles al público y en forma legible, la lista de precios autorizados para la venta de sus productos;
-
-III. Destinar el local exclusivamente al giro o giros señalados en la licencia o permiso;
-
-IV. Impedir el acceso a personas en estado de ebriedad, o bajo el influjo de estupefacientes;
-
-V. Negar el acceso o estancia a personas armadas, con excepción de los miembros de los cuerpos de seguridad, que por razones de servicio deben ingresar a estos establecimientos;
-
-VI. Prohibir dentro del establecimiento las conductas que tiendan a la mendicidad y la prostitución y evitar que las mujeres cobren por bailar o perciban comisión por el consumo que hagan los asistentes;
-
-VII. Prohibir la celebración de apuestas, de cualquier tipo, dentro del establecimiento;
-
-VIII. Respetar el horario autorizado, por este Código, evitando que los clientes permanezcan en el interior después de dicho horario;
-
-IX. Colocar en lugares visibles letreros, que indiquen al público, las áreas de trabajo, zonas restringidas o de peligro, salidas de emergencia, y servicios sanitarios;
-
-X. Abstenerse de utilizar la vía pública para la realización de las actividades propias del giro;
-
-XI. Negar la venta o consumo a menores de edad, policías o militares uniformados;
-
-XII. Abstenerse de recibir armas o cualquier objeto en prenda o garantía de pago de las bebidas que vendan;
-
-XIII. Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de Héroes Nacionales;
-
-XIV. Permitir el libre acceso a los verificadores del Departamento de Regulación Sanitaria;
-
-XV. Tener los Reglamentos y Licencias para la realización de sus funciones;
-
-XVI. Evitar que en sus establecimientos se atente contra la moral, buenas costumbres o se altere el orden público; y
-
-XVII. Respetar cualquiera de las limitaciones que le impone este Capítulo, al giro de que se trate, así como las demás que se desprendan de la Ley.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 749.
 
-La violación a lo dispuesto por este Libro Quinto constituye una infracción, aplicándose a los infractores las siguientes sanciones:
-
-I. Amonestación, de carácter verbal o escrito;
-
-II. Multa económica a favor del Erario Municipal;
-
-III. Suspensión del permiso o licencia o de manera temporal;
-
-IV. Clausura total o parcial, de carácter temporal o definitivo de las actividades que contravengan el presente Código;
-
-V. Reparación de daño causado, en caso de presentarse;
-
-VI. Arresto hasta por treinta y seis horas;
-
-VII. Aseguramiento de mercancías u objetos cuya venta se realice en contravención a lo dispuesto por el presente libro; o
-
-VIII. Cancelación de la licencia, permiso, autorización o empadronamiento municipal para operar, funcionar o prestar determinados servicios.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 750.
 
-Las sanciones enumeradas en el ARTÍCULO anterior no constituyen obligación para la autoridad en aplicarlas de manera progresiva, lo que implica que la autoridad puede aplicar dichas sanciones sin respetar orden y atendiendo a la gravedad de la falta.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 751.
 
-Corresponde aplicar las sanciones enumeradas anteriormente a la Secretaría del H. Ayuntamiento, por si o a través del Departamento de Reglamentos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ### CAPÍTULO II. De las Farmacias, Droguerías, Tlapalerías o Similares
 
@@ -13977,8 +13915,22 @@ SINDICO MUNICIPAL,
 
 Blas Medina Loera
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 8 DE AGOSTO DE 2011.
 
 > <small>N. DE E. EL DECRETO DEL CODIGO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TEPEZALÁ, AGUASCALIENTES".]
+
+PRIMERO.- El presente Reglamento Municipal de Tepezalá, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan los artículos 722 al 751 del Código Municipal de Tepezalá, publicado en el Periódico Oficial del Estado, el día lunes veintidós de marzo de dos mil diez.
+
+TERCERO.- Todos los asuntos que se encuentren en trámite al inicio de la vigencia del presente Reglamento Municipal de Tepezalá, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas de carácter municipal que se opongan a lo dispuesto en el presente Reglamento Municipal de Tepezalá
+
+QUINTO.- Los reglamentos municipales expedidos con anterioridad continuarán vigentes en cuanto su aplicación sea compatible con el presente ordenamiento.
