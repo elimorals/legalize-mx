@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2017-10-16"
+last_updated: "2017-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -251,9 +251,9 @@ h) Llevará a cabo el establecimiento y desarrollo de programas especiales para 
 
 i) Propiciará la participación social en materia educativa, para el fortalecimiento y desarrollo del sistema de educación público en todos sus niveles.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-La Universidad Veracruzana es una institución autónoma de educación superior. Conforme a la ley: tendrá la facultad de autogobernarse, expedir su reglamentación, y nombrar a sus autoridades; realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; y administrará libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras los recursos generados por los servicios que preste, así como por los demás que señale su ley.
+La Universidad Veracruzana es una institución autónoma de educación superior. Conforme a la ley, tendrá la facultad de autogobernarse, expedir su reglamentación y nombrar a sus autoridades; realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; contará con autonomía presupuestaria y administrará libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste, así como por los demás que señale su ley. El presupuesto asignado a la Universidad Veracruzana no podrá ser menor al cuatro por ciento del total del presupuesto general del Estado, previsto para el ejercicio anual respectivo, el cual deberá ministrarse conforme al calendario autorizado en los términos que establezca la legislación aplicable y, en ningún caso, el monto del presupuesto asignado será inferior al otorgado en el ejercicio inmediato anterior.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1447,7 +1447,7 @@ IV. Presidir la sesión pública y solemne convocada para el solo efecto de decl
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -12697,8 +12697,18 @@ Noveno. Los Magistrados que integrarán el Tribunal Estatal de Justicia Administ
 
 G.O. 16 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 290 QUE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 33; ADICIONA UN SEGUNDO PÁRRAFO Y RECORRE EL SUBSECUENTE DEL ARTÍCULO 67 Y REFORMA EL INCISO E) DE LA FRACCIÓN I DEL MISMO NUMERAL, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 290 QUE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 33; ADICIONA UN SEGUNDO PÁRRAFO Y RECORRE EL SUBSECUENTE DEL ARTÍCULO 67 Y REFORMA EL INCISO E) DE LA FRACCIÓN I DEL MISMO NUMERAL, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz.
 
 Segundo. Se derogan cualquier disposición que contravenga al presente Decreto.
+
+G.O. 13 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 350 QUE REFORMA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Para cumplir con el objeto del presente Decreto, el Presupuesto de la Universidad Veracruzana para el año 2017 será del 2.58% del total del Presupuesto de Egresos del Estado de Veracruz de Ignacio de la Llave para dicho Ejercicio Fiscal, para 2018 se le fijará un Presupuesto del 3% del total del Presupuesto General del Estado, a partir del cual se incrementará gradualmente de forma anual hasta llegar al mínimo establecido para el Ejercicio 2023.
+
+Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
