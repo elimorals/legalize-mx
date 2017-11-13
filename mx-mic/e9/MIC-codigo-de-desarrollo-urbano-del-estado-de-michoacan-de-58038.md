@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2016-12-29"
+last_updated: "2017-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -107,7 +107,9 @@ XII. Ordenamiento Ecológico del Territorio: Al instrumento de política ambient
 
 XIII. Periódico Oficial: El Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-XIV. Preservación Ecológica: Toda acción tendiente a mantener las condiciones que propician la evolución y continuidad de los procesos naturales y el equilibrio entre un centro de población y el ambiente que circunda;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Preservación Ecológica: Las acciones generadas a mantener aquéllas áreas en su estado natural, para asegurar y contribuir al equilibrio y calidad del medio ambiente, asimismo preservar el patrimonio ecológico en la Entidad;
 
 XV. Programa Estatal: Al Programa Estatal de Desarrollo Urbano;
 
@@ -143,7 +145,9 @@ XXIV. Zona Metropolitana: El espacio territorial de influencia dominante de un c
 
 Se declara de utilidad pública:
 
-I. La planeación del desarrollo urbano, la ordenación y regulación de los asentamientos humanos en el Estado;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+I. La planeación del desarrollo urbano;
 
 II. La fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
@@ -153,7 +157,9 @@ IV. La constitución de reservas territoriales para el desarrollo urbano y la vi
 
 V. Las acciones de edificación y mejoramiento, para atender las necesidades de vivienda de interés social y popular;
 
-VI. La regularización de los asentamientos humanos irregulares;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VI. La ordenación y regularización de los asentamientos humanos irregulares;
 
 VII. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población;
 
@@ -685,59 +691,77 @@ En todos los casos en que las autoridades lo estimen necesario, solicitarán la 
 
 La Comisión Estatal, es un órgano de consulta y opinión en materia de planeación, operación urbana y vivienda, la cual funcionará en forma permanente y tendrá por sede la Capital del Estado y jurisdicción en toda la Entidad. Esta comisión, en su caso, funcionará dentro del Comité de Planeación para el Desarrollo del Estado de Michoacán, en los asuntos que tengan que ver con su materia, a efecto de evitar duplicidades.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-La Comisión Estatal se integrará por veintiocho miembros permanentes:
+La Comisión Estatal se integrará de la siguiente forma:
 
 I. Un Presidente, que será el Gobernador;
 
 II. Un Secretario Técnico, que será el titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-III. Un vocal del Congreso del Estado, representado por el Presidente de la Comisión de Desarrollo Urbano, Obra Pública y Vivienda;
+III. El Presidente de la Comisión de Desarrollo Urbano, Obra Pública y Vivienda del Congreso del Estado;
 
-IV. Tres vocales designados por la totalidad de los ayuntamientos del Estado;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-V. Ocho vocales que serán los titulares de las dependencias o entidades estatales, siguientes:
+IV. Tres representantes designados por la totalidad de los ayuntamientos y de los Concejos Municipales;
 
-a. Secretaría de Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-b. Tesorería General del Estado;
+V. El titular del Instituto de Vivienda del Estado de Michoacán;
 
-c. Junta de Caminos;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-d. Comisión Estatal del Agua y Gestión de Cuencas;
+VI. El titular de la Secretaría de Comunicaciones y Obras Públicas;
 
-e. Comisión Forestal del Estado;
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-f. Instituto de Vivienda del Estado de Michoacán;
+VII. El titular de la Comisión Estatal del Agua y Gestión de Cuencas;
 
-g. Dirección de Protección Civil; y,
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-h. Dirección de Catastro.
+VIII. El titular de la Comisión Forestal del Estado;
 
-VI. Catorce representantes de los cuales siete corresponderán al sector social y siete al sector privado.
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+IX. El titular de la Dirección de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+X. Un representante de la Universidad Michoacana de San Nicolás de Hidalgo, preferentemente un experto en la materia; y,
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+XI. Cinco representantes del sector social y cinco del sector privado.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
-Podrán participar como vocales invitados por la Secretaría Técnica, representantes de las dependencias y entidades del Poder Ejecutivo Federal relacionadas con la materia de desarrollo urbano y ordenamiento territorial o relacionado con los asuntos que analizará la Comisión Estatal; o un representante de la Comisión Municipal o de Zona Conurbada de desarrollo urbano, según sea el caso, relacionada con los asuntos que tratará la Comisión Estatal.
+Podrán participar como invitados a las sesiones de la Comisión Estatal, representantes de las dependencias y entidades de la Administración Pública Estatal y Federal o a quien se considere necesario, que su opinión contribuya a los asuntos relacionados con este organismo.
 
 ###### ARTÍCULO 22.
 
 Por cada representante propietario se designará un suplente, que lo sustituirá en sus faltas temporales y, en todo caso, será el Secretario Técnico quien supla las faltas del Presidente de la Comisión Estatal.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-Los vocales permanentes contarán con voz y voto en las sesiones de la Comisión Estatal y los vocales invitados, solo con voz. Los representantes de las comisiones de zonas conurbadas contarán con voto cuando se analicen proyectos, programas, obras, acciones o servicios a realizar dentro de sus respectivas jurisdicciones.
+Los integrantes de la Comisión Estatal, tendrán voz y voto, los invitados, solo con voz.
 
 ###### ARTÍCULO 24.
 
 Las decisiones de la Comisión Estatal, se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-El Reglamento Interior de la Comisión Estatal establecerá los requisitos de acreditación de constitución, funcionamiento, representatividad y participación de los vocales previstos en la fracción VI del artículo 20.
+La Comisión Estatal, se regirá por lo dispuesto en este Código y por su Reglamento Interior.
 
 ###### ARTÍCULO 26.
 
@@ -1927,11 +1951,19 @@ VII. Las autorizaciones de regularización que expidan los ayuntamientos, se tip
 
 Cuando para proceder a una regularización de un asentamiento humano irregular, sólo falte cubrir el requisito de entregar las áreas de donación y no existan terrenos baldíos en el asentamiento o sean insuficientes, las mismas o el faltante, según corresponda, se podrán convenir con el Ayuntamiento, para su pago a valor comercial o la entrega de la superficie correspondiente en ubicación distinta al asentamiento.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 120.
 
-Sólo podrán ser beneficiarios de la regularización las familias que ocupen un predio y no sean propietarios de otro inmueble o tengan posesión de terrenos en otros asentamientos irregulares. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión.
+Sólo podrán ser beneficiarios de la regularización:
 
-Ninguna familia deberá resultar beneficiada por la regularización con más de un lote, cuya superficie no podrá exceder de la extensión determinada por la reglamentación y los programas de desarrollo urbano.
+I. La familia que ocupe un predio no sean propietarios de otro inmueble o tengan posesión de terrenos en otros asentamientos irregulares;
+
+II. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión;
+
+III. La persona que no sea beneficiada por algún otro programa de vivienda y que no cuente con vivienda propia; y,
+
+IV. Ninguna familia deberá resultar beneficiada por la regularización con más de un lote, cuya superficie no podrá exceder de la extensión determinada por la reglamentación y los programas de desarrollo urbano.
 
 ###### ARTÍCULO 121.
 
@@ -1951,9 +1983,17 @@ Los ayuntamientos al tener conocimiento por sí o por denuncia ciudadana, presen
 
 El Ayuntamiento al tener conocimiento de un asentamiento humano irregular o la formación de éste, procederá a la suspensión o clausura de cualquier obra o ventas de terrenos que se realicen ilícitamente, fijando en los lugares públicos y visibles copias del acuerdo correspondiente, pudiendo publicarlo en los periódicos de mayor circulación de la localidad.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 124.
 
-Cuando el asentamiento irregular se localice en terrenos no aptos para el desarrollo urbano, se procurará su reubicación.
+Cuando el asentamiento irregular se localice en terrenos no aptos para el desarrollo urbano, se procurará su reubicación, en todo caso, se seguirán los requisitos que señala este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 124 BIS.- La Secretaría y los Ayuntamientos implementarán y mantendrán actualizado un Registro de Asentamientos Humanos, con el propósito de conocer el número, problemática y factibilidad de su regularización.
+
+Los municipios deberán enviar anualmente a la autoridad estatal, la información y actualizaciones de su registro, para efectos de contar con los datos suficientes que le permita emitir los acuerdos de validación correspondientes.
 
 ### Capítulo IV. Programa Estatal de Vivienda
 
@@ -1988,6 +2028,10 @@ I. Dirigirse a la población con el nivel de ingresos que precise el Programa Es
 II. El tamaño de los lotes para la vivienda de interés social y popular, deberá cumplir con las normas que determina este Código; y,
 
 III. Los beneficiarios no deberán ser propietarios de otros inmuebles o tener en posesión lotes en asentamientos humanos irregulares.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+En la instrumentación de acciones de vivienda se deberá incentivar la reducción de costos de construcción, mejoramiento y conservación de la misma; así como ampliar la cobertura de estos programas, preferentemente hacia las zonas marginadas del desarrollo.
 
 ###### ARTÍCULO 128.
 
@@ -2207,9 +2251,15 @@ Los sobrantes de alineamiento resultantes de la rectificación de una vía públ
 
 ### Capítulo Único
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 161.
 
-Se declara de utilidad pública e interés social, la investigación, protección, conservación, restauración, mejoramiento, recuperación e identificación del patrimonio cultural del Estado en los términos de la Ley de Desarrollo Cultural del Estado, que se refieran a poblaciones, zonas o inmuebles.
+Se declara de utilidad pública e interés social, la investigación, protección, conservación, restauración, mejoramiento, recuperación e identificación del patrimonio cultural del Estado, relativo a poblaciones, zonas o los bienes inmuebles, espacios culturales o naturales que les son inherentes a las comunidades, los grupos y en algunos casos a los individuos, en los términos de la Ley de Desarrollo Cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+El Estado y los Municipios de acuerdo a las leyes de la materia, determinarán las características de los edificios y las construcciones que pueden autorizarse en las zonas declaradas como sitios de valor cultural, histórico, artístico, arquitectónico y natural, según sus diversas clases y usos.
 
 ###### ARTÍCULO 162.
 
@@ -3913,7 +3963,13 @@ l. Caseta de vigilancia.
 
 Los Fraccionamientos Habitacionales Urbanos tipo interés social, son aquellos que se ubican en áreas cuya densidad de población puede ser mayor de 301 habitantes por hectárea pero no mayor de 500 habitantes por hectárea, y deberán tener como mínimo las características siguientes.
 
-I. Lotificación: Sus lotes no podrán tener una superficie menor de 96 metros cuadrados; sus frentes serán de 7.00 metros cuando se ubiquen sobre vialidades colectoras y principales y de 6.00 metros cuando tengan frente a vialidades secundarias y su fondo mínimo será de 16 metros;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+I. Lotificación: Sus lotes no podrán tener una superficie menor de 126 metros cuadrados; sus frentes serán de 8.00 metros, cuando se ubiquen sobre vialidades colectoras y principales y de 7.00 metros, cuando tengan frente a vialidades secundarias y su fondo mínimo será de 18 metros;
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+Estas mismas características deberán tener los lotes para fraccionamientos de interés social en condominio.
 
 II. (sic)
 
@@ -4175,11 +4231,11 @@ Quedan exentos de las donaciones señaladas en las fracciones anteriores los cas
 
 Las superficies de donación para equipamiento urbano y para áreas verdes, estatales o municipales, se entregarán en los lugares y áreas que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, debidamente urbanizadas y mediante escritura pública inscrita en el Registro Público de la Propiedad Raíz y del Comercio que costeará el interesado.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 330.
 
-En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que hubiesen satisfecho la obligación de donar o pagar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas (sic) desarrollo urbano vigentes para cada caso, no estarán obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior será determinado por la autoridad por medios fehacientes y verificables.
+En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que hubiesen satisfecho la obligación de donar o pagar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas de desarrollo urbano vigentes para cada caso, no estarán obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior, será acreditada por la autoridad estatal o municipal, por medios fehacientes y verificables.
 
 ### Capítulo II. De las Autorizaciones
 
@@ -5494,3 +5550,17 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 13 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 404 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN XIV, 3 FRACCIONES I Y VI, 20 PÁRRAFO PRIMERO Y LAS FRACCIONES III, IV, V Y VI, 21, 23, 25, 120, 124, 161 PRIMER PÁRRAFO, 316 FRACCIÓN I Y ARTÍCULO 330; SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X Y XI AL ARTÍCULO 20, EL ARTÍCULO 124 BIS, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 127, UN SEGUNDO PÁRRAFO AL ARTÍCULO 161 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 316 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se otorga un término de noventa días para que los Gobiernos Municipales, actualicen y regulen en sus reglamentos y sus programas de desarrollo urbano municipal, el contenido de esta reforma.
+
+TERCERO. El Gobernador del Estado, actualizará en los términos de esta Ley, el Reglamento Interior de la Comisión Estatal de Desarrollo Urbano, en un término no mayor de sesenta días, a la entrada en vigor de esta reforma.
+
+CUARTO. La Secretaría y los Municipios crearán el Registro de Asentamientos Humanos Irregulares en la Entidad, en un término no mayor a treinta días, a la entrada en vigor de esta reforma. Refiérase para efectos de este transitorio a la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial.
+
+QUINTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
