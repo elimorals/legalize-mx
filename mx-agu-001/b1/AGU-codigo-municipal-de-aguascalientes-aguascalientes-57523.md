@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-10-16"
+last_updated: "2017-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -10131,9 +10131,9 @@ ARTÍCULO 503 TER- Las áreas naturales protegidas municipales deberán ser insc
 
 Es facultad del Municipio, a través de la SEMADESU, la prevención y control de la contaminación ambiental originada por residuos sólidos urbanos, emisiones a la atmósfera, ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, generados por establecimientos mercantiles, de servicios, o zonas habitacionales; de conformidad con las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-ARTÍCULO 504 BIS.- Para prevenir y controlar la contaminación ambiental en el Municipio, la SEMADESU deberá:
+ARTÍCULO 504 BIS.- Para prevenir y controlar la contaminación ambiental en el Municipio, la Secretaría del Medio Ambiente y Desarrollo Sustentable deberá:
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
 
@@ -10163,9 +10163,9 @@ VI. Vigilar, y en su caso sancionar, que los servicios públicos municipales no 
 
 VII. Ordenar la reubicación de todo establecimiento comercial o de servicios, que estando ubicado en zonas habitacionales, sea motivo de quejas por parte de la población, mismas que haya podido constatar mediante visitas de campo; en prevención de molestias de este tipo, analizará minuciosamente la información proporcionada por los interesados y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Coordinar con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente;
+VIII. Coordinar las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente, conjuntamente con la Coordinación Municipal de Protección Civil;
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -10271,7 +10271,9 @@ VII. Medidas de seguridad que determine la autoridad competente, la cual cumplir
 
 La autorización podrá ser otorgada por cada quema que se pretenda realizar y la SEMADESU se reserva la facultad de negar o condicionar dicha quema, cuando pudiera representar riesgos o impactos ambientales.
 
-El solicitante deberá acatar las medidas de seguridad que determine la SEMADESU en la autorización, así como las que indique la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+El solicitante deberá acatar las medidas de seguridad que determine la Secretaría del Medio Ambiente y Desarrollo Sustentable en la autorización, así como las que indique la Coordinación Municipal de Protección Civil.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -12701,9 +12703,11 @@ APARTADO SEGUNDO
 
 Del Mando del Cuerpo de Bomberos
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 624.
 
-El Jefe del Departamento de Bomberos será designado por el Presidente Municipal y dependerá directamente del Secretario del H. Ayuntamiento y Director General de Gobierno.
+El Jefe del Departamento de Bomberos será designado por el Presidente Municipal, quien estará adscrito a la Secretaría del Ayuntamiento y Dirección General de Gobierno, y dependerá de la Coordinación Municipal de Protección Civil.
 
 ###### ARTÍCULO 625.
 
@@ -12716,6 +12720,22 @@ Cuidará también que los automovilistas no crucen con sus vehículos por encima
 Las autoridades que colaboren con los bomberos, estarán en su caso bajo la Dirección del 1er Superintendente o por quien designe éste.
 
 El 1er Superintendente hará del conocimiento del Coordinador de Protección Civil y del Secretario, las deficiencias que pudieran poner en peligro el buen funcionamiento del Departamento.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+Para brindar el adecuado auxilio ante cualquier siniestro, emergencia o desastre, la Coordinación Municipal de Protección Civil podrá conformar unidades interdisciplinarias, integradas por quienes se encuentren adscritos a sus distintos departamentos. Dichas unidades serán:
+
+I. Unidad de rescate terrestre;
+
+II. Unidad de rescate acuático;
+
+III. Unidad canina; y
+
+IV. Las demás que determine el Coordinador Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+Quienes conformen las unidades interdisciplinarias de referencia, deberán contar con la capacitación y las herramientas necesarias, para brindar el auxilio que corresponda.
 
 ###### ARTÍCULO 626.
 
@@ -12739,11 +12759,11 @@ V. El Jefe del Departamento de Emergencias 080.
 
 Con el objetivo de que el Servicio de Emergencia 080 proporcione a la ciudadanía sus servicios, el personal laborará los 365 días del año las 24 horas, conforme al rol de turno que determine la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 628.
 
-El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaria de Seguridad Pública, la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias o la Jefatura del Departamento y los que sean mencionados en el Plan Interno de Capacitación, en los que se incluirán los que se proporcionen anualmente para la debida atención de casos de violencia de género y serán aplicados desde esa misma perspectiva, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080:
+El personal que integra el Servicio de Emergencia telefónica, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaría de Seguridad Pública, la Coordinación Municipal de Protección Civil o la Jefatura del Departamento y los que sean mencionados en el Plan Interno de Capacitación, en los que se incluirán los que se proporcionen anualmente para la debida atención de casos de violencia de género y serán aplicados desde esa misma perspectiva, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia telefónica:
 
 a) Cursos obligatorios de Capacitación para el desempeño: Aquellos cursos que son necesarios para el desarrollo eficiente de su trabajo incrementando la capacidad de los empleados municipales asignados al servicio para la realización de las actividades y funciones del puesto que actualmente ocupan, los cuales pueden ser otorgados por el mismo departamento o por una institución o persona ajena a éste.
 
@@ -16473,9 +16493,9 @@ Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con �
 
 El área en la que se instalen aparatos mecánicos, deberá estar cercada de tal manera que se impida el paso libre al público más allá de una distancia perimetral de uno punto cincuenta metros fuera de la zona delimitada por la proyección vertical del campo de acción de los aparatos en movimiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-Así mismo el propietario o poseedor deberá presentar en los casos en que la Secretaría lo requiera dictamen de estabilidad estructural avalado por un Perito de Obra o Especializado para autorizar su colocación de los mismos en conjunto con (sic) Coordinación Municipal de Protección Civil.
+Así mismo el propietario o poseedor deberá presentar en los casos en que la Secretaría lo requiera dictamen de estabilidad estructural avalado por un Perito de Obra o Especializado para autorizar su colocación de los mismos en conjunto con la Coordinación Municipal de Protección Civil.
 
 ###### ARTÍCULO 805.
 
@@ -19403,7 +19423,9 @@ C) Aunado a la solicitud, el solicitante deberá de anexar a esta:
 
 4. Memoria de cálculo de la instalación eléctrica, firmada por un perito especializado e instalaciones eléctricas con registro vigente en la SEDUM.
 
-5. Dictamen de la dirección y/o departamento de Protección Civil Municipal que señale que la instalación de la estructura es segura en materia de sus competencias.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+5. Dictamen de la Coordinación Municipal de Protección Civil que señale que la instalación de la estructura es segura en materia de sus competencias.
 
 6. Proveer las coordenadas geográficas de la ubicación de la radiobase a fin de integrarlas al Sistema de Información Geográfico correspondiente.
 
@@ -24001,11 +24023,11 @@ Las plazas de toros, deberán tener instalaciones sanitarias separadas y en núm
 
 Habrá suficiente número de taquillas o expendios de boletos, en donde en letreros visibles se indicará el tipo de localidades existentes y los precios de las mismas.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 1424.
 
-Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano, Servicios Públicos y a la Dirección de Protección Civil Municipal.
+Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano, Servicios Públicos y a la Coordinación Municipal de Protección Civil.
 
 ### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
 
@@ -27360,6 +27382,12 @@ P.O. 16 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 ÚNICO.- La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
