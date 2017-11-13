@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2017-11-06"
+last_updated: "2017-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1171,15 +1171,19 @@ Departamento de Logística;
 
 Unidad del Archivo Municipal.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 VII.- DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN.
 
 Director de Finanzas y Administración;
 
-Subdirector de Finanzas, Administración y Control Presupuestal
+Subdirector de Finanzas, Administración y Control Presupuestal;
 
 Departamento de Presupuesto;
 
 Departamento de Ingresos y Recaudación Municipal;
+
+Departamento de Egresos:
 
 Departamento de Fondos Federales;
 
@@ -1187,7 +1191,9 @@ Departamento de Compras y Suministros;
 
 Departamento de Mantenimiento Vehicular y Servicios Generales;
 
-Departamento de Recursos Humanos.
+Departamento de Recursos Humanos;
+
+Departamento de Control Patrimonial.
 
 VIII.- DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
@@ -1217,6 +1223,8 @@ Departamento Jurídico y Responsabilidades Administrativas;
 
 Coordinación de Mejora Regulatoria, simplificación administrativa e innovación.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 X.- DIRECCIÓN DE OBRAS PÚBLICAS.
 
 Director de Obras Públicas;
@@ -1224,6 +1232,8 @@ Director de Obras Públicas;
 Departamento de Costos y Licitaciones;
 
 Departamento de Proyectos;
+
+Departamento de Supervisión.
 
 XI.- DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO.
 
@@ -21330,3 +21340,9 @@ P.O. 6 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
 
 ÚNICO.- La presente reforma al Código Municipal de San Francisco de los Romo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]</small>
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
