@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-rincon-de-romos-aguascalientes-101809"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-28"
-last_updated: "2014-07-28"
+last_updated: "2017-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 90 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES.</small>
-
-TEXTO ORIGINAL.XXX
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de julio de 2014.
 
@@ -12981,9 +12979,65 @@ X. Las afectaciones por proyectos de obras en materia de infraestructura, equipa
 
 XI. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 1323.
 
-Las constancias de compatibilidad urbanística tendrán una vigencia de tres años, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la legislación y programas de desarrollo urbano.
+La constancia municipal de compatibilidad urbanística requerirá que el solicitante acredite la propiedad del inmueble o inmuebles objeto de las mismas o en su caso, acreditar la posesión legítima de los mismos y tendrán una vigencia de 3 años improrrogables, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la legislación y programas de desarrollo urbano y ordenamiento de territorio aplicables.
+
+En caso de que la acción, obra, servicio o inversión, no se hubiese realizado durante la vigencia de una constancia de compatibilidad urbanística, se requerirá la tramitación de una nueva ante la autoridad municipal competente, en virtud de las posibles modificaciones a los programas aplicables o a las características y situación de las zonas, áreas, lotes o predios objeto de dicha constancia.
+
+Ejercido el aprovechamiento de uso o destino del suelo que establece la constancia de compatibilidad urbanística dentro del plazo de su vigencia previsto en este artículo, la misma será indefinida y únicamente quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y a la renovación en su caso, de la licencia municipal de funcionamiento.
+
+I. Los requisitos que deberá presentar en original y copia para su tramitación en el Departamento de Atención y Gestión Urbana son:
+
+a) Llenar el Formato que le proporciona en la Ventanilla de atención de éste Departamento
+
+b) Acreditar la propiedad con Título de Propiedad o Escritura Pública inscritas en el Registro Público de la Propiedad, o en su caso, constancia notariada sellada de escrituras en trámite con los datos completos del predio.
+
+c) En caso de que el propietario sea persona moral, se requiere Acta Constitutiva de la empresa y Poder Notariado del Representante Legal.
+
+d) Identificación oficial con fotografía del Propietario o Representante Legal.
+
+e) Recibo Predial pagado del año en curso o Constancia de No Adeudo del predio objeto de la Constancia Municipal de Compatibilidad Urbanística.
+
+II. Para la solicitud de Constancia Municipal de Compatibilidad Urbanística para Giros de Bajo Riesgo y con superficies hasta 100.00 m2; los requisitos que deberá presentar en original y copia para su tramitación en el Departamento de Atención y Gestión Urbana son:
+
+En caso de ser propietario:
+
+a) Llenar el Formato que le proporciona en la Ventanilla de atención de éste Departamento
+
+b) Acreditar la propiedad con Título de Propiedad o Escritura Pública inscritas en el Registro Público de la Propiedad, o en su caso, constancia notariada sellada de escrituras en trámite con los datos completos del predio.
+
+c) En caso de que el propietario sea persona moral, se requiere Acta Constitutiva de la empresa y Poder Notariado del Representante Legal.
+
+d) Identificación Oficial del Propietario o Representante Legal.
+
+e) Recibo Predial pagado del año en curso o Constancia de No Adeudo del predio objeto de la Constancia Municipal de Compatibilidad Urbanística.
+
+En caso de renta:
+
+a) Llenar el Formato que le proporciona en la Ventanilla de atención de éste Departamento
+
+b) Contrato de arrendamiento vigente, en el que se indique el nombre del/la arrendador/a, mismo que deberá coincidir con el del recibo predial, deberá especificar el uso, que se pretende dar, medidas y superficie del predio, así como la vigencia del contrato
+
+c) Identificación oficial de el/la arrendador/a y arrendatario/a, en el caso de que alguna de las partes o ambas sean personas morales deberán presentar Acta Constitutiva de la empresa y Poder Notariado del Representante Legal.
+
+d) Recibo Predial pagado del año en curso o Constancia de No Adeudo del predio objeto de la Constancia Municipal de Compatibilidad Urbanística.
+
+En caso de préstamo:
+
+a) Llenar el Formato que le proporciona en la Ventanilla de atención de éste Departamento
+
+b) Carta comodato firmada por el/la o los/las propietario/as del predio, (el nombre del/la dueño/a del predio deberá coincidir con el del recibo del predial), deberá especificar el uso que se pretende dar, medidas y superficie del predio, así como la vigencia
+
+c) Identificación oficial del comodatario y comodante, en el caso de que alguna de las partes o ambas sean personas morales deberán presentar Acta Constitutiva de la empresa y Poder Notariado del Representante Legal.
+
+d) Recibo Predial pagado del año en curso o Constancia de No Adeudo del predio objeto de la Constancia Municipal de Compatibilidad Urbanística.
+
+En caso de que el/la solicitante no se presente a realizar el trámite, deberá otorgar una carta poder simple a una tercera persona para que gestione el tramite con firma de dos testigos, debiendo presentar identificación oficial con fotografía del apoderado y de los testigos.
+
+Para cualquiera de los casos anteriormente mencionados en caso que el/la propietario/a haya fallecido deberá presentar sucesión testamentaria para identificar a el/la albacea, e identificación oficial con fotografía. El albacea es quien tendrá la facultad de arrendar el inmueble.
 
 ### CAPÍTULO VI. De la Vía Pública
 
@@ -14543,7 +14597,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 ###### ARTÍCULO 1509.
 
-La memoria de cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada evaluada por un profesionista ajeno al proyecto, los siguientes aspectos: (sic)
+La memoria de cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
 ###### ARTÍCULO 1510.
 
@@ -17334,3 +17388,11 @@ SINDICO PROCURADOR Y DE HACIENDA,
 Profr. Héctor Nájera Gómez,
 
 SECRETARIO DEL H. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA Y ADICIÓN AL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS”.]
+
+UNICO.- la presente modificación entrará en vigor a partir de su aprobación en cabildo.
