@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-de-justicia-administrativa-121
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-01"
-last_updated: "2017-02-01"
+last_updated: "2017-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS AL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT, PUBLICADO EN EL P.O. 13 DE NOVIEMBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 1 de febrero de 2017.
 
@@ -46,13 +48,15 @@ Lo no previsto en la Ley de Justicia y Procedimientos Administrativos del Estado
 
 El Tribunal funcionará mediante una Sala Colegiada con sede en la Capital del Estado, compuesta de tres Magistrados que resolverán en pleno.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
 El calendario oficial de labores del Tribunal, se publicará en el Periódico Oficial del Estado y en los estrados, durante el mes de diciembre anterior al año calendario de vigencia.
 
 El horario de labores del personal adscrito a los Magistrados y demás servidores públicos del Tribunal, es de 9:00 a 16:00 horas, en días hábiles para atención al público.
 
-La presentación de documentos de término, fuera del horario establecido en el párrafo anterior, será de las 17:00 a las 19:00 horas en días hábiles, el cual será considerado horario de guardia.
+La presentación de documentos en general, para considerarse dentro de los términos legales deberá presentarse dentro del horario comprendido de las 9:00 a las 20:00 horas, el cual será ininterrumpido y será cubierto por los oficiales de partes, o quien los supla en sus ausencias.
 
 Los días y horarios anteriormente señalados, podrán ser modificados y/o habilitados por acuerdo del pleno, para el mejor funcionamiento del Tribunal.
 
@@ -136,13 +140,17 @@ V. Dictar las medidas necesarias para que garanticen el despacho pronto y expedi
 
 VI. Despachar en sesiones ordinarias o extraordinarias, todos los asuntos de su competencia;
 
-VII. Celebrar sesiones ordinarias una vez al mes, a las que deberán ser convocados los magistrados por conducto de la Presidencia;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VII. Celebrar sesiones extraordinarias cuando lo considere necesario el Presidente o lo solicite cualquiera de los Magistrados. El Presidente deberá convocar a dicha sesión, citando por escrito a los Magistrados previo a la sesión, haciéndoles saber los puntos a tratar del orden del día, lo cual hará constar el Secretario General de Acuerdos.
 
 VIII. Celebrar sesiones extraordinarias cuando lo considere necesario el Presidente o lo solicite cualquiera de los Magistrados. El Presidente deberá convocar a dicha sesión, citando por escrito a los Magistrados cuando menos 48 horas antes de la hora señalada para la sesión, haciéndole saber los puntos a tratar del orden del día, de lo cual dejará constancia el Secretario General de Acuerdos.
 
-IX. Establecer, modificar y suspender la jurisprudencia del Tribunal, en los términos de las disposiciones legales, aprobar las tesis y los rubros de los precedentes y ordenar su publicación.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
-X. Las demás que señale la Ley, este Reglamento, los Acuerdos de la Sala y demás disposiciones legales.
+IX. Las demás que señale la Ley, este Reglamento, los Acuerdos de la Sala y demás disposiciones legales.
+
+X. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 13.
 
@@ -226,9 +234,11 @@ VII. Las demás que les confieran la Ley, este Reglamento o cualquier otro Orden
 
 ### CAPÍTULO QUINTO. DEL SECRETARIO GENERAL DE ACUERDOS, DE LOS SECRETARIOS PROYECTISTAS, SECRETARIOS DE ACUERDOS, ACTUARIOS, JEFE DE ADMINISTRACIÓN Y JEFES DE ÁREA
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-Para ocupar el cargo de Secretario General de Acuerdos, Secretario Proyectista, Secretario de Acuerdos, Actuario, y Oficial de Partes, deberán reunirse los requisitos siguientes:
+Para ocupar el cargo de Secretario General de Acuerdos, Secretario Proyectista, Secretario de Acuerdos, Secretario de Presidencia, Actuario, y Oficial de Partes, deberán reunirse los requisitos siguientes:
 
 I).- Para Secretario General de Acuerdos, Secretario Proyectista, Secretario de Acuerdos y Titular del Área de Amparo:
 
@@ -238,35 +248,51 @@ b. Tener más de veinticinco años al día de la designación;
 
 c. Ser licenciado en derecho con título y cédula profesional;
 
-d. Acreditar experiencia laboral en materia administrativa, fiscal y amparo de cuando menos tres años;
+d. Acreditar experiencia laboral en materia administrativa, fiscal o amparo de cuando menos tres años;
 
-e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión;
+e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; y
 
-f. No haber tenido el cargo de diputado local durante el año previo al día de la designación o haber pertenecido a las fuerzas armadas, y
+f. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
-g. No ser ministro de algún culto religioso a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
-
-II).- Para Actuario:
+II).- Para Secretario de Presidencia:
 
 a. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
 
-b. Tener título y cedula profesional o constancia de pasante en derecho;
+b. Tener más de veinticinco años al día de la designación;
 
-c. Acreditar experiencia en materia jurídica;
+c. Contar con título y cédula profesional;
 
-d. Ser de notoria buena· conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión.
-
-III).- Para Oficial de Partes:
-
-a. Contar con estudios en licenciatura en derecho;
-
-b. Gozar de buena reputación;
-
-c. Tener experiencia laboral mínima de 6 meses;
-
-d. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año; y
+d. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; y
 
 e. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
+
+III).- Para Actuario:
+
+a. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
+
+b. Tener más de veintidós años al día de la designación;
+
+c. Tener título y cedula profesional o constancia de pasante en derecho;
+
+d. Acreditar experiencia en materia jurídica;
+
+e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; y
+
+f. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
+
+IV).- Para Oficial de Partes:
+
+a. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
+
+b. Tener más de veintiún años al día de la designación;
+
+c. Contar con estudios en licenciatura en derecho;
+
+d. Tener experiencia laboral mínima de 6 meses;
+
+e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; y
+
+f. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 19.
 
@@ -296,13 +322,17 @@ XI. Revisar y autorizar con su firma, los informes y demás documentos que se em
 
 XII. Las demás atribuciones que le fije la Ley, este Reglamento Interior, o le encomiende la Sala.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-El Área de Amparo, la Oficialía de Partes, así como la Actuaría; dependerán de la Secretaría General de Acuerdos.
+El Área de Amparo y la Oficialía de Partes dependerán de la Secretaria General de Acuerdos; en tanto que el personal de actuaría dependerá de los Secretarios Coordinadores de cada ponencia.
 
-La oficialía de partes recibirá las promociones, documentos y correspondencia dirigida al Tribunal y las ponencias que lo integran, estrictamente dentro del horario establecido en este reglamento. Una vez que se registren las promociones, documentos y correspondencia en el libro respectivo, por riguroso orden numérico, se distribuirán en forma inmediata.
+La oficialía de partes recibirá las promociones, documentos y correspondencia dirigida al Tribunal y las ponencias que lo integran, estrictamente dentro del horario establecido en este reglamento.
 
-El Área de Amparo tramitará todo lo conducente respecto a los juicios de la materia, tanto directos como indirectos, y los recursos que procedan cuando se señale como autoridad responsable o tercero interesado al Tribunal;
+Una vez que se registren las promociones, documentos y correspondencia en el libro respectivo, por riguroso orden numérico, se distribuirán en forma inmediata. El Secretario General de Acuerdos vigilara el cumplimiento de esta obligación.
+
+El Área de Amparo tramitará todo lo conducente respecto a los juicios de la materia, tanto directos como indirectos, y los recursos que procedan cuando se señale como autoridad responsable o tercero interesado al Tribunal.
 
 ###### Artículo 21.
 
@@ -330,7 +360,13 @@ VI. Ejercer el debido control sobre la utilización y la custodia de los sellos 
 
 VII. Auxiliar al Magistrado en los demás asuntos que le sean encomendados; y
 
-VIII. Lo demás que establezca la ley y este Reglamento y la Sala.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Autorizar con su firma las actuaciones de su competencia; expedir certificaciones de las constancias que obren en los expedientes de trámite, y cotejar los documentos que en original presenten las partes para tal efecto; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+IX. Lo demás que establezca la ley, este Reglamento y la Sala.
 
 ###### Artículo 23.
 
@@ -404,7 +440,9 @@ XI. Recibir de parte de las Áreas responsables, los informes trimestrales que g
 
 XII. Atender las demás instrucciones dictadas por el Presidente;
 
-Artículo26.- Corresponde a los Actuarios:
+###### Artículo 26.
+
+Corresponde a los Actuarios:
 
 I. Notificar, en el tiempo y forma prescritos por la Ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
 
@@ -416,7 +454,9 @@ IV. Auxiliar en la publicación de las listas de acuerdos; y
 
 V. Llevar el registro de las notificaciones y diligencias realizadas;
 
-VI. Integrar debidamente las constancias que notifiquen y generen, cerciorándose que los expedientes estén debidamente ordenados al momento de devolverlos a los Secretarios;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VI. Integrar debidamente las constancias que notifiquen y generen, cerciorándose que los expedientes estén debidamente ordenados y costurados al momento de devolverlos a los Secretarios;
 
 VII. Las que le sean encomendadas por los Magistrados y el Secretario General de Acuerdos; y
 
@@ -430,7 +470,9 @@ El Secretario General de Acuerdos, los Secretarios Proyectistas, los Secretarios
 
 Corresponde al Oficial de Partes:
 
-I. Recibir documentación, aplicando criterios de recepción y distribución de asuntos, así como registrar en los libros de gobierno correspondientes la recepción de documentación.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+I. Recibir documentación estampando sello de recibido, aplicando criterios de recepción y distribución de asuntos, así como registrar en los libros de gobierno correspondientes la recepción de documentación;
 
 II. Registrar en el sistema de información la recepción y turno de la documentación, atendiendo acuerdos y disposiciones aplicables en el ámbito de su competencia.
 
@@ -442,7 +484,13 @@ V. Utilizar de manera adecuada los medios tecnológicos a su disposición, monit
 
 VI. Elaborar informes de acuerdo a los criterios e instrucciones que se le giren; y
 
-VII. Las demás que correspondan al ámbito de su competencia, y las que le sean encomendadas por los Magistrados y el Secretario General de Acuerdos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VII. Cumplir con los horarios establecidos para la recepción de documentos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Las demás que correspondan al ámbito de su competencia, y las que le sean encomendadas por los Magistrados y el Secretario General de Acuerdos.
 
 ###### Artículo 29.
 
@@ -470,19 +518,23 @@ X. Todas las demás atribuciones que le encomiende la Sala por conducto de su Pr
 
 ### CAPÍTULO SEXTO. DEL DEPARTAMENTO DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
 El Departamento de Administración estará a cargo de un Titular designado por el Presidente previo acuerdo con el Pleno del Tribunal y deberá reunir los siguientes requisitos:
 
 a. Ser mexicana o mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
 
-b. Tener más de treinta y cinco años al día de la designación;
+b. Tener más de treinta años al día de la designación;
 
 c. Tener título y cedula profesional en administración o contabilidad;
 
-d. Acreditar experiencia de al menos 5 años en materia de administración de recursos públicos; y
+d. Acreditar experiencia de al menos 3 años en materia de administración de recursos públicos;
 
-e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión.
+e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; y
+
+f. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 31.
 
@@ -500,7 +552,9 @@ V.- Presentar a consideración de la Sala para su autorización, los presupuesto
 
 VI.- Conservar bajo su responsabilidad los libros, registros de contabilidad y la información financiera que sirve como base de la comprobación de los egresos del Tribunal;
 
-VII.- Realizar funciones de pagaduría, relativas al sueldo del personal, así como las deducciones que conforme a la Ley procedan;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Realizar funciones de pagaduría, relativas al sueldo del personal, así como las deducciones que conforme a la Ley procedan; debiendo enterar a las autoridades hacendarias federales y locales en su caso, de los impuestos que conforme a la ley de la materia debe retener al personal.
 
 VIII.- Enterar las deducciones a que se refiere la fracción anterior, a sus respectivos acreedores;
 
@@ -518,6 +572,8 @@ XIV.- Las demás que le encomiende el Pleno del Tribunal.
 
 ### CAPÍTULO SÉPTIMO. DEL ÁREA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
 El Área de Transparencia y Acceso a la Información, estará a cargo de un Titular, dependerá y será designado por el Presidente previo acuerdo con el Pleno del Tribunal, y deberá reunir los siguientes requisitos:
@@ -531,6 +587,10 @@ c. Tener título y cédula profesional en la carrera de derecho;
 d. Acreditar experiencia de al menos 3 años en materia jurídica;
 
 e. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+f. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 33.
 
@@ -576,7 +636,9 @@ c. Poseer al día de la designación, título profesional en materia jurídica o
 
 d. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; y
 
-e. No ser ministro de algún culto religioso a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+e. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 36.
 
@@ -596,7 +658,9 @@ VI. Atender las inconformidades que presenten los proveedores o contratistas en 
 
 VII. Participar, opinar, y asesorar en su caso, sobre los procedimientos de adquisiciones, prestación de servicios y obra pública, así como en los de enajenación de bienes del Tribunal;
 
-VIII. Vigilar y dar seguimiento a la situación patrimonial de los servidores públicos del Tribunal, coordinándose con la Auditoria Superior del Estado en los términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Vigilar y dar seguimiento a la situación patrimonial de los servidores públicos del Tribunal, coordinándose con las autoridades competentes tanto federales como locales, en los términos de la ley de la materia;
 
 IX. Intervenir en los actos y procedimientos de la entrega-recepción de las unidades administrativas del Tribunal;
 
@@ -608,56 +672,72 @@ XII. Diseñar y supervisar las metodologías que permitan evaluar el desempeño 
 
 XIII. Las que le encomiende el Pleno, así como las que las disposiciones normativas le faculten.
 
-### CAPÍTULO NOVENO. DE LA OFICIALÍA DE PARTES
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO DÉCIMO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO NOVENO. DE LAS LABORES, DE LOS DESCANSOS, VACACIONES Y GUARDIAS
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 38], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 37.
 
-La Oficialía de Partes del Tribunal tendrá las siguientes funciones:
+Los servidores públicos del Tribunal tendrán dos periodos anuales de vacaciones de al menos diez días hábiles cada uno y los disfrutarán en las fechas que establezca para tal efecto el Pleno.
 
-I. Atender de manera diligente y adecuada a los usuarios;
-
-II. Recibir los documentos que se le presenten de conformidad con lo establecido en el presente Reglamento;
-
-III. Tener bajo su responsabilidad los sellos oficiales que le sean encomendados;
-
-IV. Dar buen uso a los equipos de cómputo, así como a los sistemas y programas informáticos; y
-
-V. Las demás que le confiera el Secretario General de Acuerdos.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 38.
 
-Los servidores públicos del Tribunal tendrán dos periodos anuales de vacaciones de diez días hábiles cada uno y los disfrutarán en las fechas que establezca para tal efecto el Pleno.
+El Tribunal suspenderá labores los días que establezca la Ley Federal del Trabajo, las autoridades federales y estatales, así como los que acuerde el Pleno del Tribunal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 40], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
-El Tribunal suspenderá labores los días que establezca la Ley Federal del Trabajo, las autoridades federales y estatales, así como los que acuerde el Pleno del Tribunal.
+Cuando existan asuntos de trámite y resoluciones de notoria urgencia, el Tribunal en Pleno designará una guardia para el efecto de que los provea y despache durante los periodos vacacionales.
 
-### CAPÍTULO DÉCIMO. DE LAS LABORES, DE LOS DESCANSOS, VACACIONES Y GUARDIAS
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO DÉCIMO PRIMERO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO DÉCIMO. DE LAS RESPONSABILIDADES DEL PERSONAL
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 41] P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 40.
 
-Cuando existan asuntos de trámite y resoluciones de notoria urgencia, el Tribunal en Pleno designará una guardia para el efecto de que los provea y despache durante los periodos vacacionales.
+Por el incumplimiento de las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit y del presente ordenamiento, los servidores públicos del Tribunal incurrirán en responsabilidades en términos de la Ley reglamentaria en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 42], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-Por el incumplimiento de las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit y del presente ordenamiento, los servidores públicos del Tribunal incurrirán en responsabilidades en términos de la Ley reglamentaria en materia de responsabilidades administrativas.
+Están obligados a presentar la manifestación de situación patrimonial, los Magistrados, Secretario General de Acuerdos, Secretarios Proyectistas, Secretarios de Acuerdos, Actuarios y Jefes de Unidad. El Presidente del Tribunal precisará a la autoridad competente, los nombres de los servidores públicos obligados a presentar la declaración anual de situación patrimonial.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 43], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
-Están obligados a presentar la manifestación de situación patrimonial, los Magistrados, Secretario General de Acuerdos, Secretarios Proyectistas, Secretarios de Acuerdos, Actuarios y Jefes de Unidad. El Presidente del Tribunal precisará a la autoridad competente, los nombres de los servidores públicos obligados a presentar la declaración anual de situación patrimonial.
+El Titular del Órgano de Control Interno, tramitará el procedimiento para identificar, investigar y determinar las responsabilidades administrativas de los servidores públicos de la Institución, con motivo de las denuncias o quejas que presenten los particulares o servidores públicos, o de la revisión de documentos o instrumentos relacionados con los asuntos de su competencia conforme a los preceptos de la Ley reglamentaria en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 44], P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 43.
 
-El Titular del Órgano de Control Interno, tramitará el procedimiento para identificar, investigar y determinar las responsabilidades administrativas de los servidores públicos de la Institución, con motivo de las denuncias o quejas que presenten los particulares o servidores públicos, o de la revisión de documentos o instrumentos relacionados con los asuntos de su competencia, conforme a los preceptos de la Ley reglamentaria en materia de responsabilidades administrativas.
+El Presidente del Tribunal previa resolución del Titular del Órgano de Control Interno, ejecutará las sanciones que procedan a los servidores públicos del mismo Órgano Jurisdiccional.
 
-###### Artículo 44.
+También sancionará a dichos servidores públicos, en los casos en que se determine que han omitido presentar o han formulado extemporáneamente la manifestación de bienes.
 
-El Presidente del Tribunal previa resolución del Titular del Órgano de Control Interno, ejecutará las sanciones que procedan a los servidores públicos del mismo Órgano Jurisdiccional. También sancionará a dichos servidores públicos, en los casos en que se determine que han omitido presentar o han formulado extemporáneamente la manifestación de bienes.
+Contra las resoluciones del Titular del Órgano de Control Interno, procederá el Juicio Contencioso Administrativo.
 
-T R A N S I T O R I O S (SIC)
+> <small>(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. T R A N S I T O R I O S (SIC)
 
 ÚNICO.- El presente Reglamento Interior del Tribunal de Justicia Administrativa se publicará en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit y entrará en vigor al día siguiente de su publicación.
 
 A T E N TA M E N T E LOS INTEGRANTES DE LA SALA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT: MAGISTRADO PRESIDENTE DR. JESÚS RAMÍREZ DE LA TORRE.- Rúbrica.- MAGISTRADO LIC. RAYMUNDO GARCÍA CHÁVEZ.- Rúbrica. MAGISTRADA LIC. YENIRIA CATALINA RUIZ RUIZ.- Rúbrica.- LIC. HÉCTOR ALEJANDRO VELASCO RIVERA, SECRETARIO GENERAL DE ACUERDOS.- Rúbrica.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LAS RESPONSABILIDADES DEL PERSONAL
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT”.]
+
+ÚNICO.- El presente Reglamento Interior del Tribunal de Justicia Administrativa se publicará en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit y entrará en vigor el día de su publicación.
