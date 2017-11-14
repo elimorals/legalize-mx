@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-94749"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-18"
-last_updated: "2017-09-05"
+last_updated: "2017-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 18 de junio de 2013.
 
@@ -35,7 +35,9 @@ GUADALAJARA, JALISCO A 10 DE JUNIO DEL AÑO 2013
 
 Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado de Jalisco, con fundamento en lo dispuesto en los artículos 36, 46 y 50 fracción VIII de la Constitución Política; así como 1°, 3°, 4°, 6° fracción II y 27 de la Ley Orgánica del Poder Ejecutivo, ambos ordenamientos del Estado de Jalisco, y
 
-CONSIDERANDO:...
+CONSIDERANDO:
+
+[...]
 
 Con base en lo expuesto y fundado, tengo a bien expedir el siguiente
 
@@ -1281,9 +1283,11 @@ El Consejo Consultivo en Procuración de Justicia expedirá su reglamento, y pod
 
 Durante las ausencias del Fiscal General hasta por treinta días, el despacho y la resolución de los asuntos correspondientes al mismo, así como la coordinación de las Fiscalías, en su orden, quedará a cargo del Fiscal Central, del Fiscal Regional, y en ausencia de éstos, del Comisionado de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 64.
 
-En caso de destitución, renuncia o ausencia absoluta del Fiscal General, la Fiscalía General será cubierta por el Fiscal Central o, a falta de éste por el Fiscal Regional, durante el periodo en el que sea propuesto un nuevo Fiscal General por el Gobernador del Estado y éste sea ratificado por el Poder Legislativo.
+En caso de destitución, renuncia o ausencia absoluta del Fiscal General, la Fiscalía General será cubierta por el Fiscal Central, por el Fiscal Regional o por quien el Gobernador nombre como encargado de despacho, hasta en tanto se designa un nuevo Fiscal General.
 
 ###### Artículo 65.
 
@@ -1398,3 +1402,9 @@ Quinto. Los asuntos que a la entrada en vigor del presente reglamento se encuent
 Sexto. Se instruye a la Secretaría de Planeación, Administración y Finanzas, para que realice las adecuaciones administrativas y presupuestales para el cumplimiento del presente Acuerdo.
 
 Séptimo. Queda sin efecto cualquier disposición normativa o administrativa que se oponga al presente Acuerdo.
+
+P.O. 14 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO ACU 042/2017 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 64 DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial “El Estado de Jalisco”.
