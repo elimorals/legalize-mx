@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2016-12-06"
+last_updated: "2017-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -457,11 +457,11 @@ I. De atención médica, y
 
 II. De salud pública.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 27.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables y a las mujeres embarazadas y sus hijos en gestación y en infancia temprana.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables, a las mujeres embarazadas y sus hijos en gestación y en infancia temprana y a los beneficiarios a que se refieren las Reglas de Operación del Programa Integral de Atención a Familiares de Personas Desaparecidas y demás disposiciones aplicables, de acuerdo a los programas de atención integral en salud que se establezcan o implementen para tal efecto.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -1223,7 +1223,7 @@ III. Coadyuvar en la aplicación de programas y actividades que establezca la Se
 
 ###### Artículo 107.
 
-El Gobierno del Estado, a través de la Secretaría de Salud y en coordinación con las autoridades sanitarias federales, elaborará programas o campañas temporales o permanentes, para el contro lo erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general a la población.
+El Gobierno del Estado, a través de la Secretaría de Salud y en coordinación con las autoridades sanitarias federales, elaborará programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general a la población.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -3308,3 +3308,11 @@ P.O. 6 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 999.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 26 Y LA FRACCIÓN IV DEL ARTÍCULO DEL (SIC) 79 DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 27 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
