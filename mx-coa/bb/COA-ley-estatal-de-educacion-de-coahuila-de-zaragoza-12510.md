@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2017-11-07"
+last_updated: "2017-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -451,7 +451,9 @@ VI.- Brindar el servicio a quienes abandonaron el sistema educativo regular y se
 
 VII.- Establecer, fortalecer y promover modalidades de educación a distancia;
 
-VIII.- Desarrollar, aplicar y participar en programas encaminados a otorgar becas y apoyos económicos a los educandos de escasos recursos;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2017)</small>
+
+VIII.- Desarrollar programas y llevar a cabo acciones encaminadas a otorgar becas y apoyos económicos para el ingreso y permanencia de los educandos de escasos recursos o beneficiarios a que se refieren las Reglas de Operación del Programa Integral de Atención a Familiares de Personas Desaparecidas y demás disposiciones aplicables, en todos los niveles de educación básica, media superior y superior, inclusive en instituciones educativas a las que la ley les otorga autonomía.
 
 IX.- Desarrollar actividades educativas que tiendan a elevar los niveles culturales y de bienestar de la población que vive en localidades aisladas o en condiciones de marginación;
 
@@ -1173,9 +1175,9 @@ II.- Sujetarse a los planes y programas de estudio vigentes de educación inicia
 
 III.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan autorizado para impartir educación distinta a la que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2017)</small>
 
-IV.- Otorgar un mínimo de 5% de becas sobre la inscripción del ciclo escolar anterior, para que la Secretaría de Educación del Estado las asigne con base en los lineamientos que se establezcan y remita a los interesados su resolución antes del inicio del ciclo escolar,
+IV.- Otorgar un mínimo de 5% de becas sobre la inscripción del ciclo escolar anterior, para que la Secretaría de Educación del Estado las asigne preferentemente a los educandos a que se refiere la fracción VIII del artículo 26, con base en los lineamientos que se establezcan y remita a los interesados su resolución antes del inicio escolar;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1856,3 +1858,11 @@ P.O. 7 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 999.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 26 Y LA FRACCIÓN IV DEL ARTÍCULO DEL (SIC) 79 DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 27 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
