@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2016-12-21"
+last_updated: "2017-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1711,7 +1713,7 @@ V.- Si los dos cónyuges procedieron de buena fe, podrá el consorte donante rev
 
 ###### Art. 275.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere en cinta (sic), se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero.
+Si al declararse la nulidad del matrimonio la mujer estuviere en cinta, (sic) se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero.
 
 ###### Art. 276.
 
@@ -2123,11 +2125,11 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 Tratándose de adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen los padres y los hijos consanguíneos. En la adopción plena se aplicará lo dispuesto por los artículos 320, 321, 321 Bis (sic), 322 y 324 de este Código.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2017)</small>
 
 ###### Art. 324.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales. En cuanto a los adultos mayores, además de incluir todos los gastos necesarios para su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. En cuanto a los adultos mayores, además de incluir todos los gastos necesarios para su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
 
 ###### Art. 325.
 
@@ -4245,7 +4247,7 @@ El curador que no llene los deberes prescritos en el artículo precedente, será
 
 ###### Art. 642.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría (sic).
+Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el (sic) curaduría.
 
 ###### Art. 643.
 
@@ -8361,7 +8363,7 @@ Sólo cuando el original depositado haya sido destruido o robado, se tendrá com
 
 ###### Art. 1471.
 
-El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaturas (sic), aún cuando el contenido del testamento no sea vicioso.
+El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaturas, (sic) aún cuando el contenido del testamento no sea vicioso.
 
 ###### Art. 1472.
 
@@ -10373,7 +10375,7 @@ Si ambas cosas se perdieren por culpa del deudor, podrá el acreedor exigir el v
 
 Si ambas cosas se pierden sin culpa del deudor, se hará la distinción siguiente:
 
-I.- Si se hubiere hecho ya la elección o designación de la cosa, la pérdida será, por cuenta del acreedor;
+I.- Si se hubiere hecho ya la elección o designación de la cosa, la pérdida será por cuenta del acreedor;
 
 II.- Si la elección no se hubiere hecho, quedará el contrato sin efecto.
 
@@ -16310,3 +16312,11 @@ P.O. 21 DE DICIEMBRE DE 2016.
 PRIMERO.- EI presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 211 POR EL QUE “SE REFORMA EL ARTÍCULO 324 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarios (sic) que se opongan al contenido del presente decreto.
