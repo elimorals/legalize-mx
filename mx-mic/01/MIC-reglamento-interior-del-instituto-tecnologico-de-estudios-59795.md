@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-de-estudios-59795
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-13"
-last_updated: "2008-02-13"
+last_updated: "2017-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO DE ESTUDIOS SUPERIORES DE ZAMORA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO DE ESTUDIOS SUPERIORES DE ZAMORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ZAMORA, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ZAMORA, DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 13 de febrero de 2008.
 
 LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que me confieren los artículos 60 fracción XXII, 62, 65 y 66 de la Constitución Política del Estado; así como los artículos 2º, 3º, 4º, 5º, 9°, 11, 12, 13, 14, 16, 37 fracción I y 38 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; y,
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto, tengo a bien expedir el siguiente:
 
@@ -368,3 +372,13 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 SECRETARIA DE CONTRALORÍA Y DESARROLLO ADMINISTRATIVO
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ZAMORA".]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico de Estudios Superiores de Zamora, publicado en el Tomo CXLIII, número 36 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 13 de febrero de 2008, y demás disposiciones administrativas en lo que se opongan al presente Reglamento.
