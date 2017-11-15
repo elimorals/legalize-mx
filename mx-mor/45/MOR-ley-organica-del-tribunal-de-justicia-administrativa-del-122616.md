@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
-Al margen izquierdo un Escudo del estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LIII Legislatura. 2015-2018.
+Al margen izquierdo un Escudo del estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LIII Legislatura. 2015-2018.
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
@@ -39,7 +39,7 @@ LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO D
 
 ANTECEDENTES
 
-[.]
+[…]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -333,7 +333,9 @@ d) Los juicios en los que se reclame responsabilidad patrimonial objetiva y dire
 
 e) Las controversias que se susciten por la interpretación, cumplimiento, rescisión o terminación de los contratos de naturaleza administrativa o los que deriven de la Ley de Obra Pública y Servicios relacionados con la misma del Estado de Morelos, o de la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, o de los Reglamentos Municipales en dichas materias;
 
-f) Conforme a lo establecido en el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, conocerá de los juicios promovidos por los miembros de las instituciones de seguridad pública, derivados de su relación administrativa con el Estado y los Ayuntamientos, en contra de las sentencias definitivas mediante las que se imponen correctivos disciplinarios y sanciones impuestas por los Consejos de Honor y Justicia, con excepción, con excepción (sic) de las responsabilidades administrativas graves previstas en la Ley General de Responsabilidades Administrativas;
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+f) Conforme a lo establecido en el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, conocerá de los juicios promovidos por los miembros de las instituciones de seguridad pública, derivados de su relación administrativa con el Estado y los Ayuntamientos, en contra de las sentencias definitivas mediante las que se imponen correctivos disciplinarios y sanciones impuestas por los Consejos de Honor y Justicia, con excepción de las responsabilidades administrativas graves previstas en la Ley General de Responsabilidades Administrativas;
 
 g) La aprobación de los convenios debidamente ratificados que lleguen a celebrarse con motivo de un acuerdo conciliatorio entre las partes para elevarlos a categoría de cosa juzgada
 
@@ -527,13 +529,17 @@ B) Conocer:
 
 I. Los juicios que se promuevan en contra de cualquier resolución definitiva en materia de responsabilidades administrativas que en el ejercicio de sus funciones dicten, ordenen, ejecuten o pretendan ejecutar los Órganos Internos de Control o sus equivalentes en las dependencias que integran la Administración Pública Estatal y Municipal, sus organismos auxiliares estatales o municipales, y
 
-II. Los recursos previstos en el artículo 26 fracciones III y IV de esta Ley;
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+II. Los recursos previstos en el artículo 25 fracciones III y IV de esta Ley;
 
 C) Someter al Pleno Especializado:
 
 I. Los proyectos de resolución de los juicios señalados en la fracción anterior, y
 
-II. Los proyectos de resolución de los recursos previstos en el artículo 26 fracciones III y IV de esta Ley, respecto de las resoluciones de primera instancia emitida por la diversa Sala Especializada.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+II. Los proyectos de resolución de los recursos previstos en el artículo 25 fracciones III y IV de esta Ley, respecto de las resoluciones de primera instancia emitida por la diversa Sala Especializada.
 
 ### Capítulo VIII. Del Procedimiento para la Redistribución y Compensación de Cargas de Trabajo Derivado de Excusas
 
@@ -903,11 +909,13 @@ Para el ejercicio de las atribuciones que tiene conferidas el Órgano interno de
 
 ### Capítulo XIII. De los Impedimentos y de las Excusas
 
+> <small>(F. DE E., 15 DE NOVIEMBRE DE 2017)</small>
+
 ### Capítulo IV (SIC). Recusación
 
 ###### Artículo 55.
 
-En el juicio no procede la recusación, sin embargo, los Magistrados, bajo su responsabilidad, deberán excusarse de intervenir en los siguientes casos:
+Los Magistrados, bajo su responsabilidad, deberán excusarse de intervenir en los siguientes casos:
 
 I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -951,13 +959,7 @@ Cuando el impedimento sea de un Magistrado el Pleno Especializado, la remisión 
 
 ### Capítulo XIII (SIC). De las Ausencias
 
-Artículo 55 (SIC). Las ausencias temporales de los Magistrados, por licencia o por cualquier otra causa serán suplidas por el Secretario que al efecto designe el Pleno, el cual deberá cumplir con los mismos requisitos señalados en el artículo 6 de esta Ley; y asumirán las facultades correspondientes al Magistrado que suple. Los Secretarios que sean designados para desempeñar las funciones de Magistrado podrán recibir una compensación adicional que determine el Pleno, de acuerdo a la suficiencia presupuestal.
-
-Las ausencias absolutas o definitivas serán cubiertas por el Magistrado que para tal efecto designe el Congreso del Estado, conforme al procedimiento establecido en la Constitución y demás normativa aplicable para la designación de Magistrados.
-
-###### Artículo 56.
-
-Las faltas temporales del Secretario General de Acuerdos serán suplidas por el Actuario adscrito a la Secretaría General o, a falta de este, por la persona que al efecto designe el Pleno.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 58.
 
@@ -995,7 +997,9 @@ Las Salas y el Pleno Especializado desecharán de plano toda recusación, cuando
 
 I.- No estuviere propuesta en tiempo;
 
-II.- No se funde en alguno de los impedimentos a que se refiere el artículo 12 de esta codificación, y
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+II.- No se funde en alguno de los impedimentos a que se refiere el artículo 55 de esta Ley, y
 
 III.- Se interponga en actuaciones en que no puede tener lugar.
 
@@ -1035,13 +1039,33 @@ Además, se impondrá al recusante una multa hasta de doscientas veces el valor 
 
 ### Capítulo XIV. De las Responsabilidades
 
-###### Artículo 57.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 70.
+
+Las ausencias temporales de los Magistrados, por licencia o por cualquier otra causa serán suplidas por el Secretario que al efecto designe el Pleno, el cual deberá cumplir con los mismos requisitos señalados en el artículo 6 de esta Ley; y asumirán las facultades correspondientes al Magistrado que suple. Los Secretarios que sean designados para desempeñar las funciones de Magistrado podrán recibir una compensación adicional que determine el Pleno, de acuerdo a la suficiencia presupuestal.
+
+Las ausencias absolutas o definitivas serán cubiertas por el Magistrado que para tal efecto designe el Congreso del Estado, conforme al procedimiento establecido en la Constitución y demás normativa aplicable para la designación de Magistrados.
+
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 71.
+
+Las faltas temporales del Secretario General de Acuerdos serán suplidas por el Actuario adscrito a la Secretaría General o, a falta de este, por la persona que al efecto designe el Pleno.
+
+### Capítulo XV. Del Procedimiento Administrativo
+
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 72.
 
 Los Magistrados y servidores públicos del Tribunal son responsables administrativamente de las faltas en que incurran en el ejercicio de sus cargos, independientemente de los delitos que cometan, quedando sujetos al procedimiento y sanciones que determinen la Constitución y la normativa aplicable.
 
 Son obligaciones de los servidores públicos del Tribunal salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.
 
-###### Artículo 58.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 73.
 
 Son faltas de los Secretarios de Acuerdos:
 
@@ -1063,7 +1087,9 @@ VIII. No cumplir con diligencia el servicio que tenga encomendado y cometer cual
 
 IX. Incurrir en falta de probidad, honradez o proceder en contra de disposiciones de orden público en el desempeño de su cargo.
 
-###### Artículo 59.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 74.
 
 Son faltas de los Actuarios.
 
@@ -1081,7 +1107,9 @@ VI. No cumplir con diligencia el servicio que tenga encomendado y cometer cualqu
 
 VII. Incurrir en falta de probidad, honradez o proceder en contra de disposiciones de orden público en el desempeño de su cargo.
 
-###### Artículo 60.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 75.
 
 Son faltas de los demás servidores públicos del Tribunal:
 
@@ -1101,13 +1129,13 @@ VII. No cumplir con diligencia el servicio que tenga encomendado y cometer cualq
 
 VIII. Incurrir en falta de probidad, honradez o proceder en contra de disposiciones de orden público en el desempeño de su cargo.
 
-### Capítulo XV. Del Procedimiento Administrativo
-
-###### Artículo 61.
+###### Artículo 76.
 
 El procedimiento de responsabilidad administrativa en contra de los servidores públicos del Tribunal, se seguirá conforme a las reglas que al efecto establece el Reglamento.
 
-###### Artículo 62.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 77.
 
 Se establecen como sanciones las siguientes:
 
@@ -1125,7 +1153,9 @@ VI. Destitución e inhabilitación temporal de uno a seis años para desempeñar
 
 Las sanciones establecidas para los servidores públicos en este título solo podrán ser impuestas por el Pleno.
 
-###### Artículo 63.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 78.
 
 Las sanciones aludidas en el artículo que precede se impondrán tomando en consideración los siguientes factores:
 
@@ -1143,11 +1173,15 @@ VI. La reincidencia en la comisión de faltas, y
 
 VII. En su caso, el monto del beneficio, daño o perjuicio económico causado, así como la gravedad de la interrupción, suspensión del servicio a su cargo, o violación cometida.
 
-###### Artículo 64.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 79.
 
 Las sanciones previstas en las fracciones I a IV del artículo 62 de esta Ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de la presentación de la denuncia que corresponda. En ambos casos las actuaciones realizadas por el Pleno, encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
 
-###### Artículo 65.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 80.
 
 En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las disposiciones que regulen las responsabilidades de los servidores públicos del estado y las relativas al Sistema Estatal Anticorrupción.
 
