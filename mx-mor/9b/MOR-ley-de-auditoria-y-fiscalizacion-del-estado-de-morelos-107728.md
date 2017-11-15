@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-y-fiscalizacion-del-estado-de-morelos-107728"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-13"
-last_updated: "2017-07-19"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA VIGÉSIMA SEGUNDA DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE AUDITORÍA Y FISCALIZACIÓN DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017 (ABROGADA).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de mayo de 2015.
 
@@ -1649,7 +1649,9 @@ DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secret
 
 DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa (sic) las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
 
-DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
 
 DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
 
