@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-122747"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-09-13"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -1519,9 +1519,9 @@ Para tales efectos, el Tribunal Superior de Justicia del Estado de Zacatecas des
 
 Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, conservarán sus derechos laborales y de seguridad social.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
-Artículo décimo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado designará al titular del Órgano Interno de Control del Tribunal.
+Artículo décimo. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado designará al titular del Órgano Interno de Control del Tribunal.
 
 Artículo decimoprimero. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio fiscal 2018, se establecerán los recursos correspondientes para el funcionamiento del Tribunal. La Secretaría de Finanzas del Gobierno del Estado en los términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado, reasignará recursos para el funcionamiento del Tribunal y del Órgano Interno de Control.
 
@@ -1542,5 +1542,13 @@ P.O. 13 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DE LA "DECRETO 201.- SE REFORMAN DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 211.- SE MODIFICA EL DECRETO 201 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS PUBLICADO EL 13 DE SEPTIEMBRE DE 2017".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
