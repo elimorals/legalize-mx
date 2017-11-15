@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-servicio-social-del-centro-morelense-de-las-8918
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DEL SERVICIO SOCIAL DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS CUARTO Y SEGUNDO TRANSITORIOS DEL REGLAMENTO DE SERVICIO SOCIAL DEL CENTRO MORELENSE DE LAS ARTES Y EL REGLAMENTO DE INGRESO, PROMOCIÓN Y PERMANENCIA DEL PERSONAL ACADÉMICO DEL CENTRO MORELENSE DE LAS ARTES, PUBLICADOS EN EL P.O. DE 15 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DEL SERVICIO SOCIAL DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 22 de agosto de 2012.
 
@@ -31,7 +33,9 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 H. JUNTA DE GOBIERNO DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS, EN USO DE LAS FACULTADES QUE NOS CONFIEREN LOS ARTÍCULOS 1, 2, 3 FRACCIÓN VI, 9 FRACCIÓN VIII, 12 FRACCIÓN XVI, DE LA LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, con fecha 16 de junio de dos mil diez, fue aprobado el presente ordenamiento en la Tercera Sesión Ordinaria de la Junta de Gobierno del Centro Morelense de las Artes del Estado de Morelos, documento que ha sido revisado y modificado por sugerencias de la Consejería Jurídica y el cual se aprueba de manera definitiva mediante acuerdo número CMAEM/A-11/SO18A/29-06-12, emitido en Décimo Octava Sesión ordinaria de fecha veintinueve de junio de dos mil doce, en mérito de lo cual, se expide el siguiente:
 
@@ -201,7 +205,7 @@ VI. Expedir las constancias de liberación del Servicio Social o documentos comp
 
 VII. Supervisar las actividades de los Prestadores;
 
-VIII. Orientar a los Prestadores en la elaboración de sus informes periódicos de actividades;, (sic)y
+VIII. Orientar a los Prestadores en la elaboración de sus informes periódicos de actividades;, (sic) y
 
 X. Las demás que le confiera la persona titular de la Rectoría del CMAEM y las demás disposiciones legales aplicables.
 
@@ -410,3 +414,27 @@ Mtro. Javier Almazán Orihuela
 Rector del Centro Morelense de las Artes del Estado de Morelos.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE SERVICIO SOCIAL DEL CENTRO MORELENSE DE LAS ARTES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Información Oficial del Gobierno del estado de Morelos.
+
+SEGUNDO. Quedan derogadas todas las disposiciones existentes de igual o menor rango en cuanto se opongan a la regulación del presente Reglamento.
+
+TERCERO. Todos los Prestadores de servicio que hayan iniciado su trámite antes de la fecha de expedición del presente Reglamento, se regularán por las disposiciones que eran aplicables en la fecha de su inicio.
+
+CUARTO. Se deroga el Reglamento de Servicio Social del Centro Morelense de las Artes del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5015, de fecha 22 de agosto de 2012 y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+[N. DE E TRANSITORIOS DEL “REGLAMENTO DE INGRESO, PROMOCIÓN Y PERMANENCIA DEL PERSONAL ACADÉMICO DEL CENTRO MORELENSE DE LAS ARTES”.]
+
+PRIMERO. El presente Decreto (sic) entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDO.- Se deroga el Reglamento de Servicio Social del Centro Morelense de las Artes del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 5015, de fecha 22 de agosto de 2012, y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
+
+TERCERO.- Los casos no previstos en el presente Reglamento los podrá resolverá (sic) el titular de la Rectoría o de la Secretaría Académica, de forma discrecional.
