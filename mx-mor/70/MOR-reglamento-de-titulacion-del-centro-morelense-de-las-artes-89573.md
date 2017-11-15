@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-titulacion-del-centro-morelense-de-las-artes-8957
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-26"
-last_updated: "2012-09-26"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE TITULACION DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO (SIC) TRANSITORIO DEL REGLAMENTO DE TITULACIÓN DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2017; EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO (SIC) TRANSITORIO DEL REGLAMENTO DE TITULACIÓN DEL CENTRO MORELENSE DE LAS ARTES, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2017; EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
 REGLAMENTO DE TITULACIÓN DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de septiembre de 2012.
 
@@ -33,7 +33,9 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 H. JUNTA DE GOBIERNO DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS, EN USO DE LAS FACULTADES QUE NOS CONFIEREN LOS ARTÍCULOS 1, 2, 3 FRACCIÓN IX Y XIII, 9 FRACCIÓN VIII, 12 FRACCIÓN XVI, DE LA LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En virtud de lo anterior, y con fundamento en lo establecido en la Ley que Crea el Centro Morelense de las Artes del Estado de Morelos, en los Artículos 3, fracción IX y 9 fracción VIII, 12 fracción XVI, esta H. Junta de Gobierno del Centro Morelense de las Artes mediante acuerdo número CMAEM/A-11/SO18A/29-06-12, emitido en Décimo Octava Sesión Ordinaria de fecha veintinueve de junio de dos mil doce, aprueba el:
 
@@ -448,3 +450,15 @@ Mtro. Javier Almazán Orihuela
 Rector del Centro Morelense de las Artes del Estado de Morelos.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TITULACIÓN DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Información Oficial del Gobierno del estado de Morelos.
+
+SEGUNDO. Todos los trámites de titulación que hayan sido realizados antes de la fecha de aprobación del presente Reglamento, se regularán por las disposiciones que se encontraban vigentes al momento de su inicio y el presente Reglamento será aplicable para los procesos de titulación que se inicien a partir de su entrada en vigor.
+
+SEGUNDO (SIC). Se derogan el Reglamento de titulación del Centro Morelense de las Artes del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5028, de fecha 26 de septiembre de 2012 y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
