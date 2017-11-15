@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12261
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -109,7 +109,9 @@ XVI. Fiscalía Anticorrupción, a la Fiscalía Especializada en Combate a la Cor
 
 XVII. Fiscalización superior, al proceso de control, evaluación, revisión y auditoría de la gestión financiera que realiza la ESAF, a las Entidades fiscalizadas desde su inicio hasta su conclusión, en los términos constitucionales y de esta Ley;
 
-XVIII. Gestión financiera, a las acciones, tareas y procesos que, en la ejecución de los Programas, realizan las Entidades fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la Ley e Ingresos y el Presupuesto de Egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del Presupuesto de Egresos y demás disposiciones aplicables.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. Gestión financiera, a las acciones, tareas y procesos que, en la ejecución de los Programas, realizan las Entidades fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la Ley de Ingresos y el Presupuesto de Egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del Presupuesto de Egresos y demás disposiciones aplicables.
 
 XIX. Informe de Avance de Gestión Financiera, al informe que rinden los Entes públicos a la ESAF, para el análisis correspondiente, sobre los avances físicos y financieros de los programas aprobados, que comprenderá el periodo del primero de enero al treinta de junio del ejercicio presupuestal correspondiente;
 
@@ -129,7 +131,7 @@ XXVI. Órgano constitucional autónomo, a los órganos creados inmediata y funda
 
 XXVII. Órgano interno de control, a las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los Entes públicos, así como de la investigación, sustanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, independientemente de la denominación que reciban;
 
-XXVIII. Periódico Oficial, al Periódico Oficial, “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos;
+XXVIII. Periódico Oficial, al Periódico Oficial, "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos;
 
 XXIX. Presupuesto de Egresos, al Presupuesto de Egresos del Gobierno del Estado de Morelos o de los municipios;
 
@@ -657,7 +659,9 @@ II. Descripción de los presuntos hechos irregulares, y
 
 III. Opcionalmente, datos generales del denunciante.
 
-Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relaciones (sic) directamente con los hechos denunciados. La ESAF deberá proteger en todo momento la identidad del denunciante.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La ESAF deberá proteger en todo momento la identidad del denunciante.
 
 ###### Artículo 55.
 
@@ -677,9 +681,11 @@ Siempre y cuando, los supuestos señalados en las fracciones anteriores den orig
 
 La ESAF informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
 
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 56.
 
-El Auditor General, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de la ESAF autorizara, en su caso, la revisión de la Gestión financiera correspondiente ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta pública en revisión.
+El Auditor General, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de la ESAF autorizará, en su caso, la revisión de la Gestión financiera correspondiente ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
 
 ###### Artículo 57.
 
@@ -761,9 +767,11 @@ La ESAF, en los términos de la Ley General del Sistema Nacional Anticorrupción
 
 ### Capítulo II. Del Recurso de Reconsideración
 
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 68.
 
-La tramitación del recurso de reconsideración, se realizará por única vez en contra de las de las multas impuestas por la ESAF, y se sujetará a las disposiciones siguientes:
+La tramitación del recurso de reconsideración, se realizará por única vez en contra de las multas impuestas por la ESAF, y se sujetará a las disposiciones siguientes:
 
 I. Se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá: la mención de la autoridad administrativa que impuso la multa, el nombre y firma autógrafa del recurrente, el domicilio que señala para oír y recibir notificaciones, la multa que se recurre y la fecha en que se le notifico, los agravios que a juicio de la entidad fiscalizada y, en su caso, de los servidores públicos, o del particular, persona física o moral, les cause la sanción impugnada, así mismo se acompañara copia de ésta y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervinientes que ofrezca y que tengan relación inmediata y directa con la sanción recurrida;
 
@@ -817,7 +825,9 @@ En caso de que ningún candidato de la terna propuesta en el dictamen para ocupa
 
 El Auditor General durará en el cargo ocho años y podrá ser nombrado nuevamente por una sola vez, previa evaluación realizada por el órgano de gobierno del Congreso. Permanecerá en funciones hasta en tanto la Legislatura no designe al entrante.
 
-El Auditor General sólo podrá ser removido por la Legislatura por causas graves, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en este Ley.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+El Auditor General sólo podrá ser removido por la Legislatura por causas graves, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Ley.
 
 ###### Artículo 75.
 
@@ -893,7 +903,9 @@ XXIV. Elaborar en cualquier momento estudios y análisis, así como publicarlos;
 
 XXV. Iniciar las acciones penales que correspondan, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades, y
 
-XXVI. Las demás que señale este (sic) Ley y demás disposiciones legales aplicables.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXVI. Las demás que señale esta Ley y demás disposiciones legales aplicables.
 
 De las atribuciones previstas a favor del Auditor General en esta Ley, sólo las mencionadas en las fracciones II, IV, V, VI, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XX, XXI, y XXIV de este artículo son de ejercicio exclusivo del mismo y, por tanto, no podrán ser delegadas.
 
@@ -929,9 +941,7 @@ La Legislatura dictaminará sobre la existencia de los motivos de la remoción d
 
 EL Auditor General y el personal de mando superior sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la ESAF o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
-###### Artículo 80.
-
-(Sic) El Auditor General podrá adscribir orgánicamente las unidades administrativas establecidas en el Reglamento. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial.
+Artículo 80 (Sic). El Auditor General podrá adscribir orgánicamente las unidades administrativas establecidas en el Reglamento. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial.
 
 ###### Artículo 81.
 
@@ -1015,7 +1025,9 @@ II. Proponer al Auditor General, dentro de los primeros sesenta días, el progra
 
 III. Planear, conforme a los programas aprobados por el Auditor General, las actividades relacionadas con la revisión y fiscalización de la cuenta pública y determinar la documentación e informes que deberán requerirse a las Entidades Fiscalizadas;
 
-IV. Presentar al Auditor General, trimestralmente, dentro de los primeros 30 días posteriores, el informe del avance parcial del (sic) conforme a los indicadores del programa operativo anual;
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+IV. Presentar al Auditor General, trimestralmente, dentro de los primeros 30 días posteriores, el informe del avance parcial conforme a los indicadores del Programa Operativo Anual;
 
 V. Revisar la cuenta pública que presenten las Entidades Fiscalizadas;
 
@@ -1031,11 +1043,15 @@ b) Las solicitudes a los Entes Fiscalizados que les corresponda respecto a la ex
 
 c) Las solicitudes a los Entes Fiscalizados que les corresponda, respecto de los bienes muebles e inmuebles, para verificar su actualización, control, estado físico y jurídico que guardan, así como la ubicación de los mismos;
 
-d) La práctica de visitas, inspecciones y auditorías a la obra pública realizada por los a los (sic) Entes Fiscalizados que les corresponda;
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+d) La práctica de visitas, inspecciones y auditorías a la obra pública realizada a los Entes Fiscalizados que les corresponda;
 
 e) Las solicitudes a los Entes Fiscalizados que les corresponda que realicen obras, de los expedientes técnicos de cada obra en proceso y ejecutadas por ellos, así como de los registros contables y la documentación comprobatoria que ampare los gastos registrados en las obras públicas;
 
-IX. Verificar físicamente, evaluar y comprobar las inversiones que realicen los a los (sic) Entes Fiscalizados que les corresponda en obras públicas, vigilando que su avance y terminación estén de acuerdo con los programas y presupuestos autorizados y con las especificaciones técnicas requeridas en la Ley de la materia;
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+IX. Verificar físicamente, evaluar y comprobar las inversiones que realicen los Entes Fiscalizados que les corresponda en obras públicas, vigilando que su avance y terminación estén de acuerdo con los programas y presupuestos autorizados y con las especificaciones técnicas requeridas en la Ley de la materia;
 
 X. Proponer al Auditor General, la solicitud de información y datos necesarios a dependencias federales, estatales y municipales, órganos autónomos y organismos descentralizados y desconcentrados, y a aquellas personas físicas y morales que puedan dar fe pública, para comprobar el cumplimiento de las disposiciones legales de las Entidades Fiscalizadas;
 
@@ -1357,7 +1373,9 @@ La Comisión es el órgano responsable de coordinar las relaciones entre la ESAF
 
 Son obligaciones de la Comisión en relación con la ESAF las siguientes:
 
-I. Recibir del Congreso la Cuenta Públicas de las Entidades Fiscalizadas y turnarlas a la ESAF;
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+I. Recibir del Congreso la Cuenta Pública de las Entidades Fiscalizadas y turnarlas a la ESAF;
 
 II. Conocer el programa anual de actividades que, para el debido cumplimiento de sus funciones, elabore la ESAF, así como sus modificaciones;
 
@@ -1459,9 +1477,11 @@ La ESAF, podrá celebrar convenios con la Auditoría Superior de la Federación,
 
 La ESAF, a través de su titular, deberá emitir en el Estatuto, las disposiciones que deberá observar los servidores públicos que la conforman, para estar en posibilidades de definir su plan de auditoría, partiendo del perfil requerido para desempeñar los distintos cargos de su interés, fortalecer su desarrollo profesional, ampliar sus experiencias e identificar sus posibles trayectorias de ascenso y promoción.
 
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 111.
 
-La ESAF recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas en el Programa Anual de auditorías y cuyos resultados deberán ser considerados en los Informes Individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana del Sistema Estatal, debiendo al Auditor General informar a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el Programa Anual de Auditorías.
+La ESAF recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas en el Programa Anual de auditorías y cuyos resultados deberán ser considerados en los Informes Individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana del Sistema Estatal, debiendo el Auditor General informar a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el Programa Anual de Auditorías.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -1493,7 +1513,9 @@ DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secret
 
 DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
 
-DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
 
 DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren el Estado de Morelos.
 
