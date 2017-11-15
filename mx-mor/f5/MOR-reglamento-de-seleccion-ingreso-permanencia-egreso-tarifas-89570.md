@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-seleccion-ingreso-permanencia-egreso-tarifas-8957
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-26"
-last_updated: "2012-09-26"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE SELECCION, INGRESO, PERMANENCIA, EGRESO, TARIFAS Y CUOTAS DE LOS ALUMNOS DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SELECCIÓN, INGRESO, PERMANENCIA, EGRESO, TARIFAS Y CUOTAS DE LOS ALUMNOS DEL CENTRO MORELENSE DE LAS ARTES, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DE SELECCIÓN, INGRESO, PERMANENCIA, EGRESO, TARIFAS Y CUOTAS DE LOS ALUMNOS DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 15 DE NOVIEMBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de septiembre de 2012.
 
@@ -858,3 +860,17 @@ Mtro. Javier Almazán Orihuela
 Rector del Centro Morelense de las Artes del Estado de Morelos.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE SELECCIÓN, INGRESO, PERMANENCIA, EGRESO, TARIFAS Y CUOTAS DE LOS ALUMNOS DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDO.- Se deroga el Reglamento de Selección, Ingreso, Permanencia, Egreso, Tarifas y Cuotas de los Alumnos del Centro Morelense de las Artes publicado en el Periódico Oficial "Tierra y Libertad", número 5028, de fecha 26 de septiembre de 2012 y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
+
+TERCERO.- En el caso de existir trámites administrativos o académicos que se encuentren en tránsito al momento de la publicación del presente Reglamento, les será aplicable lo estipulado en el mismo, siempre y cuando su aplicación no sea en su perjuicio.
+
+CUARTO.- El Centro Morelense de las Artes del Estado de Morelos, deberá poner a disposición de sus Alumnos y Aspirantes en su página web el presente Reglamento, dentro de los 10 días hábiles siguientes a la publicación señalada en el Artículo Primero Transitorio.
