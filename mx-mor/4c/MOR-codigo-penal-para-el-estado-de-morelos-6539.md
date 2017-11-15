@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2017-11-01"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "MOR"
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -191,7 +193,7 @@ El reconocimiento de la inocencia, que apareja la nulidad de la sentencia conden
 
 Se propone que en esos casos la reparación se haga a razón de un día de salario mínimo por cada día de privación de la libertad, por lo menos (artículo 92). Se entiende que esta nueva regla es apenas el principio de un camino que deberá ir mucho más lejos, reconociendo que quien se ve sujeto a proceso y sentencia penales, aunque no haya perdido su libertad en el enjuiciamiento y la ejecución, también sufre o puede sufrir un menoscabo patrimonial que el Estado debe reparar, y aceptando asimismo que esta reparación debe ajustarse, en la mayor medida posible, a la verdadera cuantía de los daños causados.
 
-Cuando se trate de delitos cuya persecución pueda cesar mediante perdón del ofendido, es conveniente y natural que se amplíe en la mayor medida posible la oportunidad de que se otorgue el perdón. Por ello, el presente ordenamiento indica que el perdón surtirá efectos tanto en la etapa de la averiguación y el proceso, como en el período de ejecución de la condena. Para que la figura del perdón atienda a razones objetivas de equidad, el concedido a un inculpado beneficia a los restantes, si han quedado satisfechos los intereses o derechos del ofendido. Este Código estatuye que este mismo régimen se aplicará en los casos en que la persecución de un delito no dependa de la voluntad de un particular, sino de un acto de autoridad, cualquiera que sea la denominación jurídica de éste (artículo 93).
+Cuando se trate de delitos cuya persecución pueda cesar mediante perdón del ofendido, es conveniente y natural que se amplíe en la mayor medida posible la oportunidad de que se otorgue el perdón. Por ello, el presente ordenamiento indica que el perdón surtirá efectos tanto en la etapa de la averiguación y el proceso, como en el periodo de ejecución de la condena. Para que la figura del perdón atienda a razones objetivas de equidad, el concedido a un inculpado beneficia a los restantes, si han quedado satisfechos los intereses o derechos del ofendido. Este Código estatuye que este mismo régimen se aplicará en los casos en que la persecución de un delito no dependa de la voluntad de un particular, sino de un acto de autoridad, cualquiera que sea la denominación jurídica de éste (artículo 93).
 
 Es posible que un inculpado que se considere inocente del delito que se le atribuye, prefiera que su inocencia quede acreditada formalmente en una sentencia, y opte por rechazar el perdón que se le ofrece. En tal virtud es razonable que el beneficiario potencial del perdón asuma la decisión que juzgue conveniente (artículo 94). Esta solución sirve mejor a la justicia que la simple imposición del sobreseimiento como efecto del perdón.
 
@@ -277,7 +279,7 @@ Es absolutamente necesario evitar el aprovechamiento del delito como medio para 
 
 Con el propósito de racionalizar el empleo de la vía penal, moderando su uso y consecuencias, se previenen casos de exención de sanciones o de reducción considerable de éstas, cuando tal cosa resulta aconsejable en función de los intereses prevalecientes del ofendido o de la sociedad. En estas hipótesis se toma en cuenta, como factor principal, la restitución del objeto mal habido y la reparación de daños y perjuicios (artículo 199).
 
-El Título Decimoprimero se refiere a los delitos contra la familia o de orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de las obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
+El Título Decimoprimero se refiere a los delitos contra la familia o el orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de las obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
 
 Además de los supuestos, bien conocidos, de sustracción o retención indebida de menores, tráfico de éstos que no se denomina "robo de infante", pues no se trata de la sustracción de un bien mueble, delitos contra la filiación y el estado civil y bigamia, el Código recoge el delito consistente en contraer matrimonio a sabiendas de que existe un impedimento que determinará la nulidad absoluta, no sólo la nulidad relativa o anulabilidad, de dicha unión (artículo 207). En el mismo conjunto de delitos contra la familia figuran el incesto y la controvertida figura del adulterio, que se incorpora en los términos previstos por la legislación vigente. Ambas hipótesis son, en efecto, conductas que pugnan con el orden familiar socialmente aceptado; no se trata, propiamente, de delitos contra la libertad o el normal desarrollo sexual, aunque ambos tengan, obviamente, un contenido sexual.
 
@@ -4969,7 +4971,9 @@ DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secret
 
 DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa (sic) las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
 
-DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
 
 DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
 
