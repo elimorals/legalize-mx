@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-junta-de-gobierno-del-centro-morelense-de-8918
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CENTRO MORELENSE DE LAS ARTES, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 22 de agosto de 2012.
 
@@ -332,3 +334,17 @@ Mtro. Javier Almazán Orihuela
 Rector del Centro Morelense de las Artes del Estado de Morelos.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CENTRO MORELENSE DE LAS ARTES”.]
+
+PRIMERO.- El presente ordenamiento iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDO.- Este Reglamento, sólo podrá ser reformado o modificado, en todo o en parte, por la Junta de Gobierno del Centro, debiendo publicarse para su validez dichas reformas en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERO.- El presente Reglamento será de aplicación obligatoria a todos los Órganos Colegiados que tiene el Centro, para la convocatoria y desarrollo de sus sesiones.
+
+CUARTO.- Se deroga el Reglamento de la Junta de Gobierno del Centro Morelense de las Artes del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5015, de fecha 22 de agosto de 2012 y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
