@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-anticorrupcion-de-zacatecas-122732"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-09-13"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -775,9 +775,9 @@ En caso de que el Comité Coordinador considere que las medidas de atención no 
 
 Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
-Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión de Selección.
+Artículo segundo. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión de Selección.
 
 Artículo tercero. La Comisión de Selección, dentro de los sesenta días posteriores a su instalación, nombrará a los integrantes del Comité de Participación Ciudadana en los términos siguientes:
 
@@ -820,5 +820,13 @@ P.O. 13 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 201.- SE REFORMAN DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 211.- SE MODIFICA EL DECRETO 201 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS PUBLICADO EL 13 DE SEPTIEMBRE DE 2017".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
