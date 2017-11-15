@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-para-el-estado-de-morelos-122618
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, PÁGINAS DE LA 130 A 131 Y PÁGINA 132, RESPECTIVAMENTE; SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -421,7 +421,9 @@ I. El nombre y firma del demandante;
 
 II. Domicilio para oír y recibir notificaciones dentro de la ciudad de Cuernavaca; o en su caso, la manifestación expresa de recibir los avisos de notificación mediante dirección de correo electrónico.
 
-III. El domicilio de las autoridades será el de su residencia oficial.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+III. El domicilio de las autoridades para llevar a cabo el emplazamiento será el de su residencia oficial;
 
 IV. El acto, omisión, resolución o actuación de carácter administrativo impugnados;
 
@@ -605,7 +607,9 @@ Los peritos deberán tener título legalmente en la ciencia o arte de que se tra
 
 En caso de que existan diferencias en los dictámenes presentados por los peritos, en alguno o algunos de los puntos esenciales sobre los que verse la prueba pericial, dichas diferencias se razonarán, en forma cuidadosa, al resolver el asunto, sin necesidad de nombrar un tercer perito para dirimir la discordia, salvo lo que al respecto determine el Tribunal.
 
-En caso de que la Sala determine la designación de perito tercero, el así nombrado no será recusable, pero deberá excusarse de intervenir en el juicio, si concurre algún impedimento de los enumerados en el artículo 12 de esta ley, siéndole aplicable en lo conducente, lo dispuesto por el artículo 13 de este mismo ordenamiento.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+En caso de que la Sala determine la designación de perito tercero, el así nombrado deberá excusarse de intervenir en el juicio, si concurre algún impedimento de los enumerados en el artículo 55 de la Ley Orgánica del Tribunal de Justicia Administrativa.
 
 En caso de desahogo de pruebas a cargo de perito tercero en discordia, los gastos serán erogados proporcionalmente por las partes.
 
@@ -1173,9 +1177,9 @@ El Presidente ordenará se remitan a la Secretaría de Gobierno, para su publica
 
 DISPOSICIONES TRANSITORIAS
 
-PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
 
 TERCERA. Los procedimientos de responsabilidad administrativa, que hayan iniciado su trámite de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos continuarán su trámite hasta su total resolución conforme a dicha normatividad.
 
@@ -1189,7 +1193,7 @@ SEXTA. Notifíquese a la Secretaría de la Contraloría del Poder Ejecutivo, a l
 
 SÉPTIMA. La Declaración de Modificación Patrimonial correspondiente al ejercicio 2016, presentada en enero del presente año, será válida por esta única ocasión en lo que respecta a dicha obligación, debiéndose presentar las que corresponden a los ejercicios subsecuentes en el mes de mayo de cada año.
 
-OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial “Tierra y Libertad”, número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
+OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "Tierra y Libertad", número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
 
 NOVENA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
 
@@ -1201,13 +1205,15 @@ DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secret
 
 DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
 
-DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
 
 DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
 
 DÉCIMA SEXTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuará las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
 
-DÉCIMA SÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial “Tierra y Libertad” número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
+DÉCIMA SÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
 
 DÉCIMA OCTAVA. Dentro del plazo de noventa días hábiles, contados a partir de que surta efectos el presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, realícense las modificaciones reglamentarias a que haya lugar. Las referencias hechas a las actuales Fiscalías específicas se entenderán hechas a las Vicefiscalías.
 
@@ -1217,9 +1223,9 @@ VIGÉSIMA. Las reformas contenidas en las fracciones I del artículo 24 y la fra
 
 VIGÉSIMA PRIMERA. El Congreso del Estado de Morelos en plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley en materia de Responsabilidad Política del estado de Morelos.
 
-VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
+VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
 
-VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
+VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
 
 VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones debe expedir, en un plazo no mayor de ciento ochenta días hábiles contados a partir de que la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos cobre vigencia.
 
@@ -1235,7 +1241,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del estado de Morelos a los dieciocho días del mes de julio de dos mil diecisiete.
 
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
