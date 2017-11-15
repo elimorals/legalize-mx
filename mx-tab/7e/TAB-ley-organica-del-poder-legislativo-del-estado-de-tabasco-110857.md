@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2017-11-11"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -561,9 +561,17 @@ XIII. Establecer la Agenda Legislativa de cada uno de los períodos de sesiones,
 
 XIV. Proponer al Pleno la creación de los Comités que considere necesarios para apoyar las funciones de la Junta;
 
-XV. Autorizar los convenios de cooperación con otras instituciones y organismos; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Las demás que le atribuyen esta Ley o los ordenamientos relativos.
+XV. Autorizar los convenios de cooperación con otras instituciones y organismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Expedir las convocatorias necesarias para la designación de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto General de Egresos, en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Tabasco, las leyes que regulan dichos organismos, la presente ley y el Reglamento Interior del Congreso del Estado de Tabasco; así como realizar los procedimientos que de ellas se deriven; y
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Las demás que le atribuyan la Constitución, esta Ley y demás ordenamientos aplicables.
 
 ###### Artículo 56.
 
@@ -627,7 +635,9 @@ Para el adecuado desempeño de sus atribuciones de orden administrativo, la Junt
 
 Corresponde a la Dirección de Administración:
 
-I. Seleccionar, contratar, tramitar nombramientos, renuncias y licencias; así como vigilar el desarrollo y tener el control administrativo del personal que preste sus servicios al Congreso;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+I.- Seleccionar, contratar, tramitar nombramientos, renuncias y licencias; así como vigilar el desarrollo y tener el control administrativo del personal que preste sus servicios al Congreso. Previo a la designación, nombramiento o contratación de cualquier servidor público en el Congreso, se deberá consultar en el Sistema Nacional de Servidores Públicos y particulares sancionados de la Plataforma Digital Nacional, con el fin de verificar si existen inhabilitaciones respecto de la persona de que se trate, para desempeñar un cargo público;
 
 II. Realizar los trámites necesarios para el otorgamiento de las prestaciones económicas y sociales a que tengan derecho los servidores públicos del Congreso;
 
@@ -637,7 +647,9 @@ IV. Proponer a la Junta de Coordinación Política los manuales de organización
 
 V. Dictar las medidas, acuerdos, lineamientos, circulares y órdenes necesarios para el mejoramiento de las unidades administrativas del Congreso;
 
-VI. Tramitar y atender las adquisiciones, servicios y suministros que requieran las áreas administrativas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+VI. Tramitar y atender las adquisiciones, servicios y suministros que requieran las áreas administrativas. En todo caso deberá solicitar que el proveedor manifieste por escrito no estar inhabilitado para prestar el servicio a contratar por parte de algún órgano interno de control en el estado, así como no tener conflicto de intereses con algún integrante de la Legislatura. En caso de duda podrá solicitar la información a la autoridad competente;
 
 VII. Coordinar la prestación de los servicios de correspondencia, archivo, transportación, intendencia, fotocopiado y mensajería;
 
@@ -1071,9 +1083,11 @@ Las áreas administrativas de la Secretaría General se regirán, en su integrac
 
 En términos de las leyes aplicables, el Congreso cuenta también con una Contraloría Interna cuyo titular será nombrado por la Junta de Coordinación Política, por el término de la Legislatura. El contralor podrá ser removido de su cargo por causa grave, calificada por la propia Junta.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 97.
 
-La Contraloría Interna de la Cámara tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas, conforme a la Ley de la materia.
+La Contraloría Interna de la Cámara tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones, en términos de las disposiciones aplicables.
 
 Corresponde a la Contraloría Interna:
 
@@ -1087,13 +1101,19 @@ IV. Presentar a la Junta de Coordinación Política un programa e informe anual 
 
 V. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
 
-VI. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos al Poder Legislativo;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+VI. Conforme a las disposiciones señaladas en la Ley General de Responsabilidades Administrativas, a través de las áreas respectivas de su propia estructura, conocer, investigar y sustanciar los procedimientos de responsabilidades administrativas, por los actos, omisiones o conductas de los servidores públicos del Congreso, que puedan constituir Faltas Administrativas y aplicar las sanciones que correspondan cuando éstas no sean graves o, en su caso, remitir el asunto al Tribunal de Justicia Administrativa cuando se trate de faltas consideradas como graves.
+
+Cuando se trate de posibles delitos por hechos de corrupción, se presentarán las denuncias correspondientes ante el Fiscal del Ministerio Público, prestándole para tal efecto la colaboración que fuere requerida;
 
 VII. Sustanciar los procedimientos disciplinarios por actos u omisiones de los servidores públicos, comunicando al superior jerárquico para la imposición de las sanciones correspondientes en los términos de la Ley de la materia;
 
 VIII. Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que competen a la Contraloría, previa autorización de la Junta de Coordinación Política;
 
-IX. Aplicar las sanciones impuestas por la Junta de Coordinación Política; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+IX. Aplicar las sanciones disciplinarias impuestas por la Junta de Coordinación Política; y
 
 X. Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
 
@@ -1103,9 +1123,13 @@ X. Las demás que expresamente le confieran los ordenamientos legales o que dete
 
 Para el mejor ejercicio de la función de control del gasto, el Congreso se auxiliará de un órgano desconcentrado, denominado Órgano Superior de Fiscalización del Estado, dotado de autonomía técnica y de gestión para el ejercicio de sus facultades, encargado de revisar y fiscalizar las cuentas del erario estatal y municipal, cuya competencia, organización y atribuciones se sujetarán a la Constitución, a la Ley de Fiscalización Superior del Estado de Tabasco y demás disposiciones jurídicas aplicables.
 
-La Junta de Coordinación Política contará con la Dirección de Control y Evaluación, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos del Órgano Superior de Fiscalización, a fin de aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
-La Dirección de Control y Evaluación dependerá directamente de la Junta de Coordinación Política, y tendrá las atribuciones y facultades que se relacionan en el artículo 93 de la Ley de Fiscalización Superior del Estado. Su titular será designado para el término de la Legislatura por el voto de las dos terceras partes de los diputados presentes en la sesión respectiva, a propuesta de la Junta de Coordinación Política, debiendo cumplir los requisitos de Ley, pudiendo ser reelecto.
+La Junta de Coordinación Política contará con la Dirección de Control y Evaluación, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos del Órgano Superior de Fiscalización, a fin de aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en la Ley General de Responsabilidades Administrativas y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+La Dirección de Control y Evaluación dependerá directamente de la Junta de Coordinación Política, y tendrá las atribuciones y facultades que se relacionan en el artículo 96 de la Ley de Fiscalización Superior del Estado de Tabasco. Su titular será designado para el término de la Legislatura por el voto de las dos terceras partes de los diputados presentes en la sesión respectiva, a propuesta de la Junta de Coordinación Política, debiendo cumplir los requisitos de Ley, pudiendo ser reelecto.
 
 ### CAPÍTULO XI. Del Servicio Profesional de Carrera Parlamentaria
 
@@ -1115,11 +1139,55 @@ Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentari
 
 La Unidad dependerá de la Junta de Coordinación Política, que designará a su titular, quien deberá cumplir los requisitos y ejercer las atribuciones que se establezcan en el Reglamento del Servicio Profesional de Carrera Parlamentaria.
 
-### CAPÍTULO I. De los Períodos de Sesiones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+### CAPITULO XII. De la Designación de los Titulares de los Órganos Internos de Control de los Órganos Constitucionales Autónomos
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 99 Bis.
+
+Conforme a lo previsto en el artículo 36, fracción XIX, de la Constitución Política del Estado Libre y Soberano de Tabasco, corresponde al Congreso del Estado designar a los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución, que ejerzan recursos del Presupuesto General de Egresos del Estado.
+
+Los requisitos personales y el plazo de duración de los nombramientos a que se refiere el párrafo anterior, serán los establecidos en los ordenamientos que regulen a cada organismo constitucional autónomo.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 99 Ter.
+
+La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I.- La Junta de Coordinación expedirá la convocatoria para la designación del titular del Órgano Interno de Control correspondiente,
+
+II.- La convocatoria será abierta a toda la ciudadanía, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
+
+III.- Para ser titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
+
+IV.- La convocatoria pública para la elección del titular del Órgano Interno de Control correspondiente, deberá publicarse en la página oficial de internet del Congreso, en un periódico de los de mayor circulación del Estado y en su caso en la Gaceta Legislativa del Congreso del Estado;
+
+V.- Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, y la documentación comprobatoria del cumplimiento de los requisitos correspondientes; la Secretaría General del Congreso entregará los expedientes a la Comisión de Gobernación y Puntos Constitucionales, misma que se encargará de realizar la revisión correspondiente a efecto de determinar el cumplimiento de los requisitos exigidos para el cargo respectivo;
+
+VI.- En caso de que la Comisión de Gobernación y Puntos Constitucionales, determine que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud, mediante acuerdo por escrito, con el señalamiento del o los requisitos incumplidos;
+
+VII.- La Comisión de Gobernación y Puntos Constitucionales, elaborará un acuerdo que deberá publicarse en el Periódico Oficial del Estado, en la página Oficial de Internet del Congreso, y en su caso en la Gaceta Legislativa del Congreso del Estado de Tabasco, que contendrá lo siguiente:
+
+a). El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
+
+b). El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación;
+
+c). El día y hora cuando tendrán verificativo las comparecencias ante la Comisión de Gobernación y Puntos Constitucionales, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de conocer su interés y razones respecto a su posible designación en el cargo;
+
+VIII.- Una vez que se hayan desahogado las comparecencias, la Comisión de Gobernación y Puntos Constitucionales, sesionará con la finalidad de integrar y revisar los expedientes y entrevistas para la formulación del dictamen que contenga la lista de candidatos aptos para ser votados, y que se hará llegar a la Junta de Coordinación Política;
+
+IX.- La Junta de Coordinación Política, atendiendo a las consideraciones y recomendaciones que establezca el dictamen de la Comisión de Gobernación y Puntos Constitucionales, someterá al Pleno la propuesta del nombre del candidato a titular del Órgano Interno de Control que corresponda;
+
+X.- En la sesión correspondiente del Congreso, se presentará al Pleno la propuesta a que se refiere el inciso anterior, y se procederá a su discusión y votación por las dos terceras partes de los diputados presentes; y
+
+XI.- Aprobado el dictamen, el candidato cuyo nombramiento se apruebe en los términos del presente Capítulo, rendirá la protesta constitucional ante el Pleno o Comisión Permanente de la Cámara de Diputados en la misma sesión, o en la inmediata siguiente.
 
 ## TÍTULO IV. PROCESO LEGISLATIVO
 
-### CAPÍTULO II. De las sesiones
+### CAPÍTULO I. De los Períodos de Sesiones
 
 #### SECCIÓN I. De los Períodos Ordinarios
 
@@ -1159,7 +1227,7 @@ Durante un periodo extraordinario el Congreso realizará tantas sesiones como se
 
 Si dentro de un período extraordinario, las sesiones se prolongan hasta el inicio de un periodo ordinario, se darán por concluidas y durante el periodo ordinario se despacharán los asuntos que hayan quedado pendientes en el período extraordinario.
 
-### CAPÍTULO III. De las Iniciativas y Dictámenes
+### CAPÍTULO II. De las sesiones
 
 ###### Artículo 107.
 
@@ -1243,7 +1311,7 @@ V. Dictámenes o propuestas de las comisiones, para su discusión y aprobación 
 
 VI. Asuntos generales.
 
-### CAPÍTULO IV. De los Debates y Votaciones
+### CAPÍTULO III. De las Iniciativas y Dictámenes
 
 #### SECCIÓN I. De las Iniciativas
 
@@ -1363,7 +1431,7 @@ Los dictámenes formulados y suscritos por alguna comisión de la Legislatura an
 
 En la reforma, adición o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formulación.
 
-### CAPÍTULO V. De las Cuentas Públicas
+### CAPÍTULO IV. De los Debates y Votaciones
 
 #### SECCIÓN I. De los Debates
 
@@ -1551,13 +1619,13 @@ En casos de empate en cualquier forma de votación, el Presidente del Congreso, 
 
 Concluidas las votaciones, el Secretario hará el cómputo de votos dando a conocer el resultado al Presidente, para que éste haga la declaratoria correspondiente.
 
-### CAPÍTULO VI. Del Público Asistente
+### CAPÍTULO V. De las Cuentas Públicas
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 168.
 
-El Congreso al examinar y calificar la cuenta pública, se ajustará en lo conducente a lo establecido en los artículos 40, 41 y demás disposiciones aplicables de la Constitución y declarará si las cantidades percibidas y gastadas por los entes fiscalizados están de acuerdo con las partidas presupuestales respectivas, si los gastos están comprobados o ha lugar a exigir responsabilidades o, en su caso, dejar en suspenso su dictamen hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente. Para tales efectos, el Congreso podrá practicar las investigaciones que considere procedentes.
-
-La resolución que emita el Congreso al calificar la cuenta pública, es inatacable.
+El Congreso al examinar y calificar la cuenta pública, se ajustará en lo conducente a lo establecido en los artículos 40, 41 y demás disposiciones aplicables de la Constitución y declarará si las cantidades percibidas y gastadas por los entes fiscalizados están de acuerdo con las partidas presupuestales respectivas y si los gastos están comprobados o, en su caso, dejar en suspenso su dictamen hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente. Para tales efectos, el Congreso podrá practicar las investigaciones que considere procedentes, por conducto del Órgano Superior de Fiscalización del Estado.
 
 ###### Artículo 169.
 
@@ -1567,7 +1635,7 @@ La aprobación por el Congreso de las cuentas públicas no exime de responsabili
 
 En todo caso, la entrega al Congreso de las cuentas públicas de los entes fiscalizables deberá realizarse por conducto del Órgano Superior de Fiscalización, en las fechas establecidas por el artículo 41 constitucional, conteniendo los elementos que en el mismo numeral se precisan y de acuerdo a las reglas, mecanismos y procedimientos que en la propia Constitución y las leyes aplicables se establecen.
 
-### CAPÍTULO ÚNICO. De la Declaración Patrimonial
+### CAPÍTULO VI. Del Público Asistente
 
 ###### Artículo 171.
 
@@ -1607,49 +1675,47 @@ Se destinarán lugares preferentes en el recinto a servidores públicos federale
 
 ## TÍTULO V. DE LA DECLARACIÓN PATRIMONIAL
 
-### CAPÍTULO ÚNICO. Del Ceremonial
+### CAPÍTULO ÚNICO. De la Declaración Patrimonial
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 178.
 
 El Contralor Interno del Congreso llevará el registro y control de las declaraciones de situación patrimonial de los diputados y de los servidores públicos del Congreso del Estado.
 
-Le corresponderá igualmente a la Contraloría Interna, en términos de lo dispuesto por la legislación aplicable en materia de responsabilidades y el Reglamento, tramitar y resolver los procedimientos de responsabilidades administrativas que correspondan.
+De igual forma deberá mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente de los declarantes a su cargo. Además, verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con la Ley General de Responsabilidades Administrativas y otras disposiciones jurídicas aplicables.
+
+En los términos de la legislación aplicable, realizará una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 179.
 
-Tienen la obligación de presentar declaración de situación patrimonial ante la Contraloría Interna del Congreso bajo protesta de decir verdad:
-
-I. Los Diputados;
-
-II. El Secretario General del Congreso;
-
-III. El Titular del Órgano Superior de Fiscalización; y
-
-IV. Los demás servidores públicos del Congreso y del Órgano Superior de Fiscalización, desde el nivel Jefe de Departamento.
+Los Servidores Públicos del Congreso tienen la obligación de presentar la declaración de situación patrimonial y de intereses ante las autoridades competentes en los casos, términos y condiciones que determinen la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
 
 ###### Artículo 180.
 
-La declaración deberá presentarse en los siguientes plazos:
-
-I. La inicial, dentro de los sesenta días naturales siguientes al inicio de sus funciones;
-
-II. La anual, en el mes de mayo de cada año; y
-
-III. La final, dentro de los treinta días naturales siguientes a la conclusión de sus funciones o separación del cargo.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 181.
 
 En caso de no presentarse la declaración inicial o anual en los plazos fijados, tratándose de los Diputados, la Contraloría lo comunicará al Presidente de la Junta de Coordinación Política, quien requerirá por escrito al omiso para que la presente dentro de un plazo de 30 días naturales.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 182.
 
-Tratándose de los demás servidores públicos, si transcurridos los plazos que señala esta Ley, no presentan sus declaraciones correspondientes, automáticamente quedarán sin efecto sus nombramientos.
+Tratándose de los demás servidores públicos, si transcurridos los plazos señalados para ello no presentan sus declaraciones correspondientes, se procederá conforme a lo previsto en la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 183.
 
-En lo no previsto en este Título se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado.
+En lo no previsto en este Título se aplicará, en lo conducente, la Ley General de Responsabilidades Administrativas.
 
 ## TÍTULO VI. DEL CEREMONIAL
+
+### CAPÍTULO ÚNICO. Del Ceremonial
 
 ###### Artículo 184.
 
@@ -1756,3 +1822,15 @@ P.O. 11 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 132 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 55 FRACCIÓN XV, XVI Y XVII, 61, FRACCIÓN I, 97 FRACCIÓN VI, IX Y X, 98, 168, 178, 179, 182 Y 183; SE ADICIONA UN CAPÍTULO XII DENOMINADO "DE LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS", QUE COMPRENDE LOS ARTÍCULOS 99 BIS Y 99 TER, Y SE DEROGA EL ARTÍCULO 180, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- En la imposibilidad de lograr las dos terceras partes para el (sic) designación del Titular del Órgano de Control Interno, que establece la fracción X, del artículo 99 Ter, de esta Ley, continuará en funciones quien estuviera desempeñando dicho encargo, en tanto que el Congreso realice la designación correspondiente. En caso de ausencia del Titular del Órgano de Control Interno se designará un encargado de despacho conforme a las disposiciones legales aplicables, en tanto el Congreso haga la designación respectiva.
+
+TERCERO.- El Congreso del Estado de Tabasco, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política del Estado Libre y Soberano de Tabasco les otorga autonomía conforme a las disposiciones previstas en el presente Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control que actualmente se encuentren en funciones, quienes continuarán en su encargo en los términos en los que fueron nombrados.
