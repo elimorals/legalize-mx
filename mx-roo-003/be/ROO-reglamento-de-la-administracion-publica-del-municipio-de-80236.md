@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-administracion-publica-del-municipio-de-80236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-23"
-last_updated: "2016-11-08"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 23 de febrero de 2011.
 
@@ -407,7 +407,7 @@ III. Vigilar que el personal adscrito a las Oficialías cumplan (sic) cabalmente
 
 IV. Elaborar la programación y presupuestación de sus recursos, para el eficiente desempeño de sus funciones;
 
-V. Rendir al Secretario General, independientemente de las veces que este así se lo requiera, un informe mensual de las actividades desarrolladas y del grado de avance de los programas de trabajo, así como al Presidente Municipal cuando éste así se lo requiera;
+V. Rendir al Secretario General, independientemente de las veces que este así se lo requiera, un, informe mensual de las actividades desarrolladas y del grado de avance de los programas de trabajo, así como al Presidente Municipal cuando éste así se lo requiera;
 
 VI. Llevar a cabo la elaboración de planes y programas anuales para el mejor desempeño de sus funciones; y
 
@@ -467,9 +467,11 @@ VI. Las demás que resulten compatibles al ejercicio de cargo y que le confieren
 
 ### CAPÍTULO II. LA TESORERÍA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-La Tesorería Municipal es la dependencia encargada de recaudar, distribuir, administrar y controlar las finanzas públicas municipales, contando con las facultades y obligaciones que le imponen la Ley de los Municipios del Estado de Quintana Roo, la Legislación Fiscal Estatal y otras leyes y disposiciones de carácter municipal, entre las que se encuentran las siguientes atribuciones:
+Además de las atribuciones que le asigna el artículo 125 de la Ley de los Municipios del Estado, son facultades y obligaciones del titular de la Tesorería Municipal, las siguientes:
 
 I. Proponer al Ayuntamiento cuantas medidas sean conducentes al buen orden y mejora de los cobros municipales, haciendo las observaciones que estime convenientes;
 
@@ -521,7 +523,21 @@ XXIV. Cuidar que se integren los padrones de los causantes con la debida puntual
 
 XXV. Ejercer la facultad económica-coactiva conforme a las leyes, códigos y reglamentos vigentes; y
 
-XXVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales reglamentarias.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXVI. Condonar hasta el 100% de los recargos, siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las Leyes Fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso; No se dará curso a ninguna instancia de condonación después de transcurridos quince días hábiles contados a partir de la fecha en que hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual procederá revocar el acto administrativo que dio origen a la multa;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXVII. Reducir las multas que hayan quedado firmes siempre y cuando se acredite que el contribuyente sancionado se encuentre en una situación económica precaria;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII. Decretar la cancelación de los créditos fiscales por no localización, incosteabilidad en el cobro o por insolvencia de los sujetos directos y de los responsables solidarios, en los términos del Código Fiscal de los Municipios del Estado de Quintana Roo, así como de las reglas de carácter general que para tal efecto se expidan; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+y XXIX. Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal y otras disposiciones legales reglamentarias.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -773,7 +789,21 @@ XXI. Implantar sistemas y procedimientos de control administrativo que coadyuven
 
 XXII. Participar para la aprobación directa, en la medida de su competencia, en el análisis para la formulación de Convenios y Acuerdos de Coordinación con las autoridades del Estado y la Federación, y evaluar sus resultados;
 
-XXIII. Las demás que le confieran las leyes, decretos, reglamentos, acuerdos y convenios, y las que le atribuya directamente el Tesorero Municipal.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Condonar hasta el 100% de los recargos, siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las Leyes Fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso; No se dará curso a ninguna instancia de condonación después de transcurridos quince días hábiles contados a partir de la fecha en que hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual procederá revocar el acto administrativo que dio origen a la multa;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Reducir las multas que hayan quedado firmes siempre y cuando se acredite que el contribuyente sancionado se encuentre en una situación económica precaria;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+XXV. Decretar la cancelación de los créditos fiscales por no localización, incosteabilidad en el cobro o por insolvencia de los sujetos directos y de los responsables solidarios, en los términos del Código Fiscal de los Municipios del Estado de Quintana Roo, así como de las reglas de carácter general que para tal efecto se expidan; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+y XXVI. Las demás que prevea la normalidad de la materia y aquellas que le asigne el Tesorero o Presidente Municipal y las que le confieran las leyes, decretos, reglamentos, acuerdos y convenios.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -2340,3 +2370,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE LOS “ACUERDOS APROBADOS EN EL ACTA DE LA 2DA. SESIÓN ORDINARIA DE CABILDO DEL H. AYUNTAMIENTO DE ISLA MUJERES: REFORMAS AL REGLAMENTO INTERIOR DEL MUNICIPIO DE ISLA MUJERES Y REFORMAS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES”.]
 
 Único: Las presentes, reformas y adiciones entraran en vigor al día siguiente de su publicación
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Publíquese el presente en el Periódico Oficial del Estado de Quintana Roo para los efectos legales a que corresponda.
