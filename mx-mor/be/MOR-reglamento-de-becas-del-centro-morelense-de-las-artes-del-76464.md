@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-becas-del-centro-morelense-de-las-artes-del-76464
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-01"
-last_updated: "2010-09-01"
+last_updated: "2017-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE BECAS DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE BECAS DEL CENTRO MORELENSE DE LAS ARTES, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DE BECAS DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de septiembre de 2010.
 
@@ -288,3 +290,15 @@ MTRO. JOSÉ LUIS RODRÍGUEZ MARTÍNEZ.
 LA RECTORA DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
 MTRA. LEONOR ORDUÑA CANO. RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE BECAS DEL CENTRO MORELENSE DE LAS ARTES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDO. Se derogan el Reglamento de Becas del Centro Morelense de las Artes del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 4832, de fecha 1 de septiembre de 2010 y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
+
+TERCERO. Todas las becas que hayan sido otorgadas antes de la fecha de aprobación del presente Reglamento se regularán por las disposiciones que se encontraban vigentes al momento de su otorgamiento.
