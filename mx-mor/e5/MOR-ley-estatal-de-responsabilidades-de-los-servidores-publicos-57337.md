@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2017-07-19"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -103,7 +103,7 @@ VIII. Firma autógrafa del quejoso o denunciante.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
 
-En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos, motivo de la comparecencia, señalando de manera precisa el acto imputado y las circunstancias de modo, tiempo y lugar en que se realizó. En este supuesto se deberán cubrir los requisitos enumerados en las fracciones anteriores.
+En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar fecha, hora, sus generales, así como una relación sucinta de los hechos, motivo de la comparecencia, señalando de manera precisa el acto imputado y las circunstancias de modo, tiempo y lugar en que se realizó. En este supuesto se deberán cubrir los requisitos enumerados en las fracciones anteriores.
 
 ###### ARTÍCULO 5.
 
@@ -849,7 +849,9 @@ DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secret
 
 DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
 
-DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del (sic) el inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
 
 DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren el (sic) Estado de Morelos.
 
