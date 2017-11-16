@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-de-datos-personales-en-posesion-de-124769"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-21"
-last_updated: "2017-10-21"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera al Número 78 del Periódico Oficial del Estado de Nayarit, el sábado 21 de octubre de 2017.
 
@@ -316,6 +316,8 @@ La puesta a disposición del aviso simplificado que refiere este artículo no ex
 Por regla general, el aviso de privacidad deberá ser difundido por los medios electrónicos y físicos con que cuente el responsable.
 
 Para que el aviso de privacidad cumpla de manera eficiente con su función de informar, deberá estar redactado y estructurado de manera clara y sencilla. Se deberá privilegiar cuando corresponda, que los formatos se consideren en lenguaje indígena o sistema braille.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 20.
 
@@ -743,7 +745,11 @@ IX. Cuando sean necesarios para proteger intereses jurídicamente tutelados del 
 
 X. Cuando sean necesarios para dar cumplimiento a obligaciones legalmente adquiridas por el titular;
 
+> <small>[N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2017]</small>
+
 XI. Derogada
+
+> <small>[N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2017]</small>
 
 XII. Derogada
 
@@ -891,6 +897,8 @@ VII. Cuando la transferencia sea necesaria por virtud de un contrato celebrado o
 
 VIII. Cuando se trate de los casos en los que el responsable no esté obligado a recabar el consentimiento del titular para el tratamiento y transmisión de sus datos personales, conforme a lo dispuesto en el artículo 29 de la presente Ley, o
 
+> <small>[N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2017]</small>
+
 IX. Derogada
 
 La actualización de algunas de las excepciones previstas en este artículo, no exime al responsable de cumplir con las obligaciones previstas en el presente Capítulo que resulten aplicables.
@@ -923,13 +931,21 @@ VI. Demostrar ante el Instituto, el cumplimiento de la normatividad que resulte 
 
 Todo esquema de mejores prácticas que busque la validación o reconocimiento por parte del Instituto, deberá:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 I. Cumplir con los parámetros que para tal efecto emita el Instituto conforme a los criterios que fije el Órgano Garante Nacional, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 II. Ser notificado ante el Instituto, de conformidad con el procedimiento establecido en los parámetros señalados en la fracción anterior, a fin de que sean evaluados y, en su caso, validados o reconocidos e inscritos en el registro al que refiere el último párrafo de este artículo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 El Instituto, podrá inscribir los esquemas de mejores prácticas que haya reconocido o validado en el registro administrado por el Órgano Garante Nacional, de acuerdo con las reglas que fije este último.
 
 ### Capítulo II. Evaluaciones de impacto de la protección de datos personales
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 85.
 
@@ -1687,12 +1703,22 @@ PRIMERO. La presente Ley de Protección de Datos Personales en Posesión de Suje
 
 SEGUNDO. Los procedimientos en materia de protección de datos personales iniciados bajo la vigencia de la Ley de Transparencia y Acceso a la Información pública del Estado de Nayarit, en lo relativo a protección de datos personales en posesión de sujetos obligados, continuarán y culminarán conforme a la ley mencionada en este párrafo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 TERCERO. Los responsables expedirán sus avisos de privacidad en los términos previstos en esta Ley y demás disposiciones aplicables, de manera inmediata después de la entrada en vigor de ésta.
 
 CUARTO. El Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere esa Ley, dentro del plazo estipulado en la Ley General.
 
-D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial del Honorable Congreso del Estado de Nayarit, en Tepic, su capital, a los diecinueve días del mes de octubre del año dos mil diecisiete.
+D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del Honorable Congreso del Estado de Nayarit, en Tepic, su capital, a los diecinueve días del mes de octubre del año dos mil diecisiete.
 
 Dip. Ana Yusara Ramírez Salazar, Presidenta.- Rúbrica.- Dip. Eduardo Lugo López, Secretario.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinte días del mes de octubre del año dos mil diecisiete.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. Jorge Aníbal Montenegro Ibarra.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS”.]
+
+Primero (sic). El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
