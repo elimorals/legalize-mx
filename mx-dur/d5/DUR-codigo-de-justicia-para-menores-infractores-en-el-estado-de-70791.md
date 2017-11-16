@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2017-03-05"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -3161,7 +3161,7 @@ El Magistrado, los Jueces de Menores, Jueces de Ejecución, Secretarios y Actuar
 
 El Magistrado será inamovible durante el período de su encargo y sólo podrá ser privado de su cargo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO No. 417, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR ONCE FRACCIONES.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. 417, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR ONCE FRACCIONES.]</small>
 
 ###### Artículo 376.
 
@@ -3173,9 +3173,11 @@ II. Vigilar el cumplimiento del presente Código;
 
 III. Ser el conducto para tramitar ante otras autoridades los asuntos del Tribunal;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-IV. Elaborar y someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal para Menores Infractores del Poder Judicial del Estado y proponerlo, una vez aprobado, al Presidente del Tribunal Superior de Justicia, para su inclusión en el correspondiente del Poder Judicial del Estado;
+IV. Elaborar anualmente el anteproyecto de presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, y someterlo a la consideración de la Comisión de Administración; una vez aprobado, proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el correspondiente del Poder Judicial del Estado.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3924,3 +3926,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 214.- QUE CONTIENE REFORMAS AL CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
