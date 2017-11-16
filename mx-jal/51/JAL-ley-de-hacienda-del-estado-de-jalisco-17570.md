@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2017-11-11"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -65,7 +67,7 @@ a) Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles
 
 b) Impuesto sobre la Adquisición de Vehículos Automotores Usados
 
-c) Impuesto sobre Negocios Jurídicos e Instrumentos Notariales
+c) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 d) Impuesto sobre Hospedaje
 
@@ -227,107 +229,55 @@ Los avisos deberán presentarse en la Secretaría de Planeación, Administració
 
 Del objeto
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
-
 ###### Artículo 13.
 
-Es objeto de este impuesto:
-
-I. La celebración, realización o expedición de cualquier acto o contrato, ya sea que presente o no interés pecuniario para los contratantes;
-
-II. La protocolización de documentos ante fedatario público; y
-
-III. El asiento de documentos, actas y pólizas en el libro de registro ante fedatario público.
-
-Este impuesto se causará, siempre y cuando el objeto no esté gravado por otro impuesto previsto en esta Ley.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 De los sujetos
 
 ###### Artículo 14.
 
-Son sujetos pasivos de este impuesto las partes en los actos o contratos e instrumentos públicos.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
-
-Los fedatarios públicos, registradores y las autoridades competentes no registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 De la base del impuesto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 15.
 
-Sera base para el pago de este impuesto el monto establecido por la (sic) partes en los contratos y actos jurídicos o de fedatario público en que se estipulen obligaciones pecuniarias o reducibles a dinero, o en su caso los montos establecidos en los documentos que hayan dado origen al contrato o acto jurídico de que se trate, si no se hubieren señalado montos.
-
-En caso de obligaciones alternativas, el monto de la más elevada.
-
-Si las obligaciones pecuniarias se estipulan a base de obligaciones periódicas, su monto se calculará por la suma de todas ellas.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 De la cuota
 
 ###### Artículo 16.
 
-Este impuesto se liquidará y pagará de conformidad con la tarifa o tasa que señale la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 Del pago
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 17.
 
-El pago de este impuesto se efectuará dentro de los treinta días naturales siguientes a la fecha de celebración del acto jurídico o contrato, o en su defecto, a la fecha de expedición del protocolo, acta o póliza respectiva.
-
-En el área metropolitana, compuesta por los Municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, el pago de este impuesto se hará en la Oficina de Recaudación Fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de Planeación, Administración y Finanzas o el Sub Secretario de Finanzas mediante acuerdo general.
-
-Fuera del área metropolitana, el pago se efectuará en las Oficinas de Recaudación Fiscal que correspondan.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 De las exenciones
 
 ###### Artículo 18.
 
-Están exentos del pago de este impuesto:
-
-I. Los contratos, actos jurídicos e instrumentos notariales en que intervengan el Gobierno Federal, el Estado y los municipios;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
-
-II. La protocolización o asiento de actas de asambleas generales ordinarias y extraordinarias de accionistas;
-
-III. Los actos jurídicos o contratos en los que intervengan los organismos públicos de seguridad social;
-
-IV. Los contratos o convenios de financiamiento celebrados con instituciones de crédito, relativos a créditos hipotecarios, refaccionarios o de habilitación o avío y las afectaciones en garantía a favor de instituciones de fianzas, así como los contratos o actos que celebren las organizaciones auxiliares de crédito;
-
-V. Los contratos de financiamiento relativos a la adquisición de viviendas de interés social, popular o unifamiliar;
-
-VI. Los contratos de arrendamiento de casa habitación;
-
-VII. La manifestación de voluntad que realicen las personas para donar sus órganos o tejidos para fines terapéuticos o de investigación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 19.
 
-Los fedatarios públicos o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
-
-En todo caso, al margen de la matriz y en los testimonios en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
-
-No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 20.
 
-Tratándose de contratos mercantiles cuyo registro no puede ser demorado de acuerdo con el artículo 31 del Código de Comercio, la obligación de los registradores se limitará a denunciar de inmediato, a la oficina de recaudación fiscal respectiva, las omisiones fiscales que adviertan.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 21.
 
-En el caso de que en una misma escritura o documento privado se consignen varios actos o contratos, además del principal, se causará el impuesto por cada uno de ellos. La modalidad pactada en el acto o contrato, no dará lugar a la causación adicional del gravamen.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 22.
 
-Los fedatarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Planeación, Administración y Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
 
 ### CAPITULO TERCERO. Del impuesto sobre la adquisición de vehículos automotores usados
 
@@ -1332,3 +1282,9 @@ P.O. 11 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
 
 SEGUNDO. La Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, deberá realizar las acciones necesarias para el debido cumplimiento de las disposiciones legales aplicables.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26591/LXI/17 QUE DEROGA LOS ARTÍCULOS 1° FRACCIÓN I, NUMERAL 2), INCISO C), 13, 14, 15, 16, 17, 18, 19, 20, 21 Y 22 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el 1° de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
