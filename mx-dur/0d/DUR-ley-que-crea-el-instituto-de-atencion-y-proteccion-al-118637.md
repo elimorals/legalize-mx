@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-atencion-y-proteccion-al-118637"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-25"
-last_updated: "2016-12-25"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA EL INSTITUTO DE ATENCION Y PROTECCION AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 25 de diciembre de 2016.
 
@@ -379,6 +381,14 @@ I. Establecer los planes y programas necesarios para el cumplimiento de los obje
 
 II. Examinar, y en su caso, aprobar, dentro de los últimos tres meses del año, los presupuestos anuales de ingresos y egresos, así como los planes de trabajo y financiamiento del Instituto para el siguiente año, remitiéndolo al Ejecutivo para que lo integre a su iniciativa de Ley de Egresos.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto de presupuesto de egresos, deberá ser elaborado y autorizado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
+
 III. Examinar, y en su caso, aprobar, dentro del primer mes del año, los estados financieros que resulten de la operación en el último ejercicio, y el informe de actividades del Director General, e incorporarlos a la Cuenta Pública del Estado.
 
 IV. Designar, a propuesta del Ejecutivo, al Director General del Instituto, y otorgarle los poderes generales y especiales que sean necesarios para el cumplimiento de su función.
@@ -647,7 +657,7 @@ III. Brindar auxilio en caso de situaciones excepcionales.
 
 IV. El trámite de documentos oficiales y
 
-V.- Atención en los servicios correspondientes a niñas, niños y adolescentes migrantes acompañados o no acompañados documentados o no, así como menores en situación de custodia temporal, respetando todo (sic) y cada uno de sus derechos.
+V. Atención en los servicios correspondientes a niñas, niños y adolescentes migrantes acompañados o no acompañados documentados o no, así como menores en situación de custodia temporal, respetando todo (sic) y cada uno de sus derechos.
 
 ###### Artículo 56.
 
@@ -868,3 +878,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANIS QUIÑONEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 220.- QUE CONTIENE REFORMAS A LA LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
