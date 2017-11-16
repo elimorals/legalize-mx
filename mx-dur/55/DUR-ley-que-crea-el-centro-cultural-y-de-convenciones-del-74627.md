@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-centro-cultural-y-de-convenciones-del-74627"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-21"
-last_updated: "2017-05-11"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA EL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 21 de marzo de 2010.
 
@@ -291,7 +293,17 @@ V. Formular y proponer al Consejo Directivo, el proyecto de Reglamento Interior 
 
 VI. Formular y proponer al Consejo Directivo, las reformas al Reglamento Interior del Centro de Convenciones, con base en los lineamientos descritos en la fracción que antecede;
 
-VII. Formular programas de trabajo de corto, mediano y largo plazo, así como los relativos al presupuesto anual del Centro de Convenciones y someterlos a la aprobación del Consejo Directivo;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VII. Formular programas de trabajo de corto, mediano y largo plazo así como el anteproyecto del presupuesto anual del Centro de Convenciones y someterlos a la aprobación del Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto de Presupuesto de Egresos, deberá ser elaborado y autorizado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; el cual deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 VIII. Presentar anualmente al Consejo Directivo, los estados financieros y el informe de actividades y resultados;
 
@@ -386,3 +398,11 @@ P.O. 11 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 135.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 12 EN SU FRACCIÓN X y 26 DE LA LEY QUE CREA EL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 219.- QUE CONTIENE REFORMAS A LA LEY QUE CREA EL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
