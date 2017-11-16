@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-y-los-jovenes-del-estado-de-durango-29613"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-06"
-last_updated: "2015-12-20"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE LAS Y LOS JOVENES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LAS Y LOS JÓVENES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 6 de marzo de 2003.
 
@@ -581,7 +583,17 @@ II. Establecer en congruencia con la Ley de Planeación, el Plan Estatal de Desa
 
 III. Proponer al Ejecutivo Estatal los convenios de fusión con otras entidades paraestatales;
 
-IV. Aprobar los programas y presupuestos del Instituto, así como sus modificaciones, sujetándose a lo dispuesto por las leyes aplicables en el Estado, el presupuesto de egresos y, en su caso a las asignaciones de gasto y financiamiento autorizados;
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+IV. Aprobar los programas y presupuestos del Instituto, así como sus modificaciones, sujetándose a lo dispuesto por las leyes aplicables en el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+Aprobar el anteproyecto de presupuesto de egresos anual, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 V. Aprobar el proyecto de estructura orgánica que le proponga el Director General del Instituto;
 
@@ -808,3 +820,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 218. QUE CONTIENE REFORMAS A LA LEY DE LAS Y LOS JOVENES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
