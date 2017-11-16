@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2017-02-06"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1449,77 +1449,55 @@ La Junta de Trabajos Legislativos someterá al acuerdo del Pleno la regulación 
 
 ### CAPÍTULO I. De las Comparecencias de Servidores Públicos
 
-> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 153.
 
-Los titulares de las dependencias y entidades de la administración pública, de conformidad a lo establecido por la Constitución y la Ley, comparecerán ante el Congreso en los casos siguientes:
+Los titulares de las Dependencias y Entidades de la Administración Pública, así como de los Organismos Autónomos del Estado, de conformidad con lo establecido por la Constitución y la Ley, comparecerán ante el Congreso en los casos siguientes:
 
-I. Para la Glosa del informe anual del titular del Poder Ejecutivo del Estado;
+I. Para la Glosa del Informe Anual del titular del Poder Ejecutivo del Estado y, en los casos de las Dependencias y Entidades de la Administración Pública, así como de los Organismos Autónomos del Estado, a fin de ampliar o precisar el informe anual que por escrito presenten al Congreso, en términos del calendario que haya aprobado el Pleno, a propuesta de la Junta de Coordinación Política, mismo que se comunicará al Gobernador y en su caso, a los Organismos Autónomos del Estado;
 
-> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-II. Para informar del estado que guarden las dependencias a su cargo, previa convocatoria de la Legislatura al Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso; y
+II. Para informar del estado que guarden las Dependencias y Entidades de la Administración Pública a su cargo, por conducto del Gobernador, previa convocatoria del Congreso del Estado. En el caso de los Organismos Autónomos del Estado, el Congreso notificará a sus titulares; y
 
 III. Cuando se delibere o discuta una ley o se estudie un asunto relativo a sus respectivos ramos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 154.
 
-Las comparecencias se realizarán ante las comisiones correspondientes, en el lugar que determine la Junta de Coordinación Política, para lo cual informará al Pleno sobre el particular.
+Las comparecencias se realizarán ante el Pleno o las Comisiones correspondientes, en el lugar que determine la Junta de Coordinación Política, y se sujetarán a las reglas generales siguientes:
 
-(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)
+I. Los titulares de las Dependencias y Entidades de la Administración Pública y de los Organismos Autónomos del Estado que comparezcan ante el Congreso podrán hacerse acompañar, para auxiliarse en el desarrollo de sus comparecencias, de hasta veinte colaboradores, quienes al igual que el compareciente evitarán, al interior del Palacio Legislativo y en los alrededores de éste, todo acto multitudinario o de promoción personal con tal motivo y por cualquier medio, y se conducirán en todo momento con apego a los principios que establecen (sic) la relación respetuosa entre los Poderes del Estado;
 
-Los titulares de las dependencias y entidades de la Administración Pública que comparezcan ante el Congreso evitarán hacer, por cualquier medio, promoción de su persona por tal motivo. Podrán hacerse acompañar, para auxiliares en el desarrollo de sus comparecencias, de hasta veinte colaboradores, quienes se abstendrán de realizar, directa o indirectamente, actos multitudinarios dentro o fuera del edificio sede del Poder Legislativo.
+II. El presidente del Congreso o de la Permanente solicitará a los comparecientes la relación de funcionarios, invitados y personal de apoyo técnico que los acompañarán en su comparecencia; así como el envío, con cuarenta y ocho horas de anticipación por lo menos, del texto inicial de su comparecencia al presidente de la Comisión que corresponda, el cual lo distribuirá a todos los diputados, a más tardar treinta y seis horas antes de la comparecencia;
 
-El Congreso podrá convocar a los titulares de las dependencias y entidades de la administración pública, que considere conveniente, a comparecer ante el Pleno, cuando el asunto a tratar así lo requiera. Las comparecencias quedan sujetas a las reglas generales siguientes:
+III. Las comparecencias serán públicas y, durante su desarrollo, la seguridad del recinto y de las personas estará a cargo exclusivamente del personal de vigilancia del Congreso, el que, en ningún caso, podrá ser sustituido o desplazado por el de otro Poder o Dependencia. Por razones de seguridad o cuando se exceda el aforo del recinto, la Comisión respectiva podrá disponer que se limite el acceso al mismo;
 
-I. El Presidente, a propuesta de la Junta de Coordinación Política, informará al titular del Poder Ejecutivo, el programa de las comparecencias, así como la fecha, hora y lugar de su realización;
+IV. Las comparecencias serán coordinadas y conducidas por la Comisión o Comisiones encargadas del ramo, a excepción de las efectuadas ante el Pleno, que serán conducidas por la Mesa Directiva;
 
-(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)
+V. A su llegada al lugar designado para la comparecencia, el servidor público será recibido por la Comisión ante la cual comparece. Si fuere ante el Pleno, la Mesa Directiva dispondrá el protocolo a seguir;
 
-I Bis. El Presidente o de la Permanente solicitará a los titulares de las dependencias y entidades de la Administración Pública del Estado de Veracruz de Ignacio de la Llave, que comparezcan, la relación de funcionarios, invitados y personal de apoyo técnico que los acompañarán a la glosa; asimismo, solicitará que cada servidor público compareciente envíe, con cuarenta y ocho horas de anticipación, el texto de su presentación al Presidente de la Comisión, el cual lo distribuirá a todos los Diputados, por lo menos treinta y seis horas antes de la comparecencia;
+VI. El presidente de la Comisión, antes de la lectura del texto inicial, hará saber al compareciente que, en términos de los artículos 49, fracción XXI, de la Constitución y 40 de la Ley, se encuentra obligado a decir verdad en la información que rinda; y lo apercibirá de la manera siguiente: "En caso de conducirse con falsedad, podrá hacerse acreedor a las sanciones penales o administrativas a que haya lugar". Acto seguido, le interrogará de la forma siguiente: "¿Protesta usted decir verdad en cuanto a la información que proporcione y a las respuestas que emita a los cuestionamientos que le formulen los integrantes de este Congreso?, a lo que el compareciente responderá: "Sí, protesto";
 
-(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)
+VII. El compareciente hará uso de la voz en el momento en que se lo indique el presidente de la Comisión y leerá un texto introductorio, para cuya mejor comprensión podrá apoyarse con los medios pertinentes, a fin de que el mismo sea lo más completo posible, basado en datos objetivos y sin exceder de treinta minutos;
 
-I Ter. Durante el desarrollo de las comparecencias, la seguridad del recinto y de las personas estará a cargo exclusivamente del personal de vigilancia del Congreso, el que, en ningún caso, podrá ser sustituido o desplazado por el de otro Poder o dependencia. Las comparecencias serán públicas, siempre y cuando el aforo no exceda el límite o la capacidad del recinto, que ponga en riesgo la seguridad e integridad de los asistentes;
+VIII. Concluida la exposición inicial, la Comisión abrirá el registro de participantes hasta por cinco minutos. Agotado el registro, iniciarán los cuestionamientos;
 
-II. Las comparecencias serán coordinadas y conducidas por la comisión o comisiones encargadas del ramo a excepción de las efectuadas ante el Pleno, las que serán conducidas por la Directiva;
+IX. El orden de participación de los diputados en los cuestionamientos será el siguiente:
 
-III. A su llegada al recinto, el servidor público será recibido por la comisión ante la cual comparece. Si se compareciere ante el Pleno, la Directiva dispondrá el protocolo a seguir;
+a) Se establecerá una ronda de preguntas, en la que participará un diputado por cada Grupo Legislativo, en el orden de mayor a menor representación en el Congreso, seguido de los diputados que no conformen grupo;
 
-(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)
+b) En una segunda ronda, el orden se determinará por insaculación;
 
-III bis. El presidente de la comisión, antes de la exposición del compareciente, hará saber a éste que, en términos de los artículos 49, fracción XXI, de la Constitución y 40 de la Ley, se encuentra obligado a decir verdad en la información que rinda; y lo apercibirá de la manera siguiente: "En caso de conducirse con falsedad, podrá hacerse acreedor a las sanciones penales, políticas y administrativas a que haya lugar". Acto seguido, le interrogará de la forma siguiente: "¿Protesta usted decir verdad en cuanto a la información que proporcione y a las respuestas que emita a partir de los cuestionamientos que le formulen los integrantes de este Congreso?, a lo que el compareciente responderá: "Sí, protesto".
+c) Si algún diputado registrado ante la Comisión no se encontrare presente al momento de su turno para preguntar, se concederá el uso de la voz al siguiente de la lista;
 
-> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+X. Cada pregunta deberá formularse en un término que no excederá de cinco minutos, y para la respuesta se concederá un lapso máximo de quince minutos;
 
-IV. El compareciente hará uso de la voz en el momento en que lo indique el presidente de la comisión y expondrá su informe con apoyo de todos los medios que considere pertinentes, a fin de que éste sea lo más completo posible y basado en datos objetivos, el cual no excederá de treinta minutos.
+XI. Los diputados que consideren no haber recibido respuesta a alguna de sus preguntas podrán solicitar al presidente de la Comisión, sin exceder su intervención de cinco minutos, que requiera al compareciente para que la responda en un lapso no mayor a cinco minutos. Al finalizar la última respuesta del compareciente, se concederá el uso de la voz hasta por dos minutos al diputado que lo haya cuestionado.
 
-V. Concluida la exposición, se abrirá el registro de participantes ante la comisión, para lo que se dispondrá de hasta diez minutos. Concluido el registro se abrirá el debate;
+En caso de que el servidor público se comprometa a entregar posteriormente la información requerida, deberá hacerla llegar en un plazo de cuarenta y ocho horas; en caso de no hacerlo, se estará a lo señalado en el artículo 18 Bis de la Ley; y
 
-VI. El orden de participación de los diputados en el debate será el siguiente:
-
-a) Se establecerá una primera y segunda ronda en la que participará un diputado por cada grupo legislativo, de mayor a menor representación en el Congreso, seguido de los diputados que no conforman grupo.
-
-b) La tercera ronda, cuyo orden se determinará por insaculación, quedará integrada por los diputados, registrados ante la comisión.
-
-c) Si algún diputado registrado ante la comisión no se encontrare presente cuando le toque su turno de preguntar, el presidente solicitará al grupo legislativo al que pertenezca si lo sustituye por otro diputado que no haya sido registrado; en caso contrario, se le concederá el turno al siguiente de la lista.
-
-(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)
-
-VII. Cada pregunta deberá formularse en un término que no exceda de cinco minutos, y para la respuesta se dará un tiempo máximo de quince minutos, con el objeto de que se dé contestación a todas las preguntas;
-
-(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)
-
-VIII. Los diputados que no hubieren recibido respuesta a alguna de sus preguntas podrán requerir al compareciente responderlas en un término no mayor a cinco minutos. En caso de que el servidor se comprometa a entregar la información que satisfaga las preguntas requeridas, deberá hacerla llegar en un plazo de cuarenta y ocho horas; en caso de no hacerlo, se estará a lo señalado en el artículo 18 Bis de la Ley Orgánica de este Poder Legislativo.
-
-> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE 2016)</small>
-
-Al finalizar la última intervención del compareciente se le concederá al diputado el uso de la voz hasta por dos minutos; y
-
-IX. El presidente de la comisión agradecerá al servidor público su presencia y dará por concluida la comparecencia.
+XII. El presidente de la Comisión agradecerá al servidor público su presencia y dará por concluida la comparecencia.
 
 ###### Artículo 155.
 
@@ -1826,3 +1804,11 @@ G.O. 6 DE FEBRERO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 360 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
