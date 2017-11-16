@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-bebeleche-museo-interactivo-de-durango-72121"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2016-05-26"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL "BEBELECHE, MUSEO INTERACTIVO DE DURANGO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 01 de diciembre del presente año, el C. C.P. Ismael Alfredo Hernández Deras, Gobernador Constitucional del Estado Libre y Soberano de Durango, envió a esta H. LXIV Legislatura, Iniciativa de Decreto que contiene LEY QUE CREA EL "BEBELECHE, MUSEO INTERACTIVO DE DURANGO"; misma que fue turnada a la Comisión de Administración Pública integrada por los CC. Diputados: Juan Moreno Espinoza, Noel Flores Reyes, José Arreola Contreras, Ernesto A. Alanís Herrera y Francisco Gamboa Herrera; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S:.
+C O N S I D E R A N D O S:
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -293,7 +295,11 @@ XXII. Lograr que la operación del organismo busque su sostenimiento financiero;
 
 XXIII. Expedir las disposiciones reglamentarias relativas a la operación, acceso y uso de los servicios que preste el Museo;
 
-XXIV. Aprobar el proyecto de presupuesto del organismo y remitirlo a la Secretaría de Finanzas y de Administración para que se integre al que presente el Poder Ejecutivo del Estado, al H. Congreso del Estado, en la Ley de Egresos del Estado de Durango;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Aprobar y presentar anualmente el anteproyecto de presupuesto de egresos del organismo, y remitirlo a la Secretaría de Finanzas y de Administración para su integración al presupuesto del Gobierno del Estado para el trámite de aprobación respectivo, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
 
@@ -544,3 +550,11 @@ PRIMERO.- El presente Decreto entrará en vigor, a partir del día siguiente de 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Dentro de los sesenta días siguientes a la publicación del presente decreto, se deberán realizar las adecuaciones que correspondan al Reglamento Interno de Bebeleche, Museo Interactivo Durango.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 228.- QUE CONTIENE REFORMAS A LA LEY QUE CREA EL BEBELECHE MUSEO INTERACTIVO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
