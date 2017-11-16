@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2015-08-13"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -33,7 +35,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 06 de mayo del presente año, los CC. Diputados Manuel Herrera Ruiz, Agustín Bernardo Bonilla Saucedo, Arturo Kampfner Díaz, Julián Salvador Reyes y Ricardo del Rivero Martínez, presentaron a esta H. LXVI Legislatura, Iniciativa de Decreto por la que se expide la LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO; misma que fue turnada a la Comisión de Derechos Humanos integrada por los CC. Diputados: Manuel Herrera Ruiz, Agustín Bernardo Bonilla Saucedo, Arturo Kampfner Díaz, Ricardo del Rivero Martínez y Julián Salvador Reyes, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S …
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVI Legislatura del Estado, expide el siguiente:
 
@@ -111,7 +115,9 @@ El personal de la Comisión no podrá ser detenido, reconvenido, multado o juzga
 
 La Comisión tendrá el presupuesto que anualmente se establezca en la Ley de Egresos correspondiente, para lo cual, el Congreso del Estado considerará en su presupuesto de egresos las partidas suficientes para que la Comisión cumpla con sus fines.
 
-La Comisión ejercerá libremente su presupuesto, ajustando el manejo de los recursos públicos a los principios de eficiencia, eficacia, economía, transparencia, honradez y responsabilidad social, para cumplir los objetivos a los que estén destinados, con observancia de las disposiciones legales aplicables en la materia, e informará al Congreso del Estado y a la Entidad de Auditoría Superior, sobre su ejercicio presupuestal, en la forma y plazos que determinen las leyes.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+La Comisión ejercerá libremente su presupuesto, ajustando el manejo de los recursos públicos a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para cumplir los objetivos a los que estén destinados, con observancia de las disposiciones legales aplicables en la materia, e informará al Congreso del Estado y a la Entidad de Auditoría Superior, sobre su ejercicio presupuestal, en la forma y plazos que determinen las leyes.
 
 ### CAPÍTULO SEGUNDO. COMPETENCIA
 
@@ -279,7 +285,9 @@ IV. Dictar las medidas que juzgue convenientes para el mejor desempeño de las f
 
 V. Enviar al Titular del Poder Ejecutivo Estatal un informe anual sobre las actividades realizadas por la Comisión. Asimismo deberá comparecer ante el Congreso del Estado a rendir un informe anual de su gestión, dentro del término y conforme a lo señalado en el Capítulo II, Sección Primera, del Título Séptimo de la Constitución Local;
 
-VI. Elaborar y presentar ante el Congreso del Estado la cuenta pública y el proyecto de presupuesto anual de egresos de la Comisión;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VI. Elaborar y presentar ante el Congreso del Estado la cuenta pública;
 
 VII. Entregar a la Entidad de Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y desempeño gubernamental;
 
@@ -309,9 +317,17 @@ XVIII. Suscribir, en términos de la legislación aplicable, las Bases de Coordi
 
 XIX. Llevar a cabo reuniones con organizaciones no gubernamentales de defensa de los derechos humanos, a fin de intercambiar puntos de vista sobre los objetivos de la Comisión y sobre la situación de los derechos humanos en el Estado, debiendo realizarse por lo menos una reunión por año;
 
-XX. Implementar acciones de difusión, protección y capacitación de los derechos humanos, y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-XXI. Las demás que le señale la Ley, el Reglamento y ordenamientos aplicables.
+XX. Implementar acciones de difusión, protección y capacitación de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XXI. Elaborar anualmente el anteproyecto de presupuesto de egresos, remitiendo un tanto a la Secretaría de Finanzas y de Administración para su integración al presupuesto del Gobierno del Estado para el trámite de aprobación respectivo y otro tanto al Congreso del Estado, todo ello conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible; y
+
+XXII. Las demás que le señale la Ley, el Reglamento y ordenamientos aplicables.
 
 #### SECCIÓN SEGUNDA. INFORMES DEL PRESIDENTE DE LA COMISIÓN
 
@@ -673,7 +689,9 @@ La Secretaría Administrativa tendrá las siguientes facultades y obligaciones:
 
 I. Vigilar la correcta aplicación de los recursos públicos con los que cuente la Comisión;
 
-II. Proponer al Presidente el proyecto de presupuesto anual de egresos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+II. Proponer al Presidente el anteproyecto de presupuesto anual de egresos, cumpliendo con lo dispuesto en la fracción XXI del artículo 22 de la presente Ley;
 
 III. Presentar al Presidente el informe respectivo sobre el ejercicio presupuestal;
 
@@ -913,10 +931,18 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE AGOSTO DE 2015.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217.- QUE CONTIENE REFORMAS A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
