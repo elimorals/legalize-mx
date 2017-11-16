@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2017-11-09"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,15 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
 Con fecha 29 de junio del presente año, el C. Lic. J. Apolonio Betancourt Ruíz, Magistrado Presidente del Tribunal Superior de Justicia del Estado de Durango, envió a esta H. LXIV Legislatura del Estado, Iniciativa de Decreto. Que contiene nueva LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Justicia integrada por los CC. Diputados: José Luis López Ibáñez, Rosauro Meza Sifuentes, Servando Marrufo Fernández, Alma Marina Vitela Rodríguez y J. Salvador Vázquez Hinojosa; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -2595,9 +2597,11 @@ El Pleno del Consejo de la Judicatura dictará los reglamentos o los acuerdos ne
 
 ### CAPÍTULO XI. DE LA AUTONOMÍA PRESUPUESTAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 212.
 
-El Poder Judicial del Estado, administrará en forma autónoma su patrimonio, para cuyo efecto dispondrá del ejercicio integral y directo de su presupuesto de egresos, así como de los recursos del Fondo Auxiliar para la Administración de Justicia.
+El Poder Judicial del Estado, administrará en forma autónoma su patrimonio, en base a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para cuyo efecto dispondrá del ejercicio integral y directo de su presupuesto de egresos, así como de los recursos del Fondo auxiliar para la Administración de Justicia.
 
 En casos excepcionales, se podrá disponer, por acuerdo del Pleno del Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura, de las cantidades adicionales a las aprobadas para cada ejercicio fiscal, fijándose su destino en cada caso.
 
@@ -2899,7 +2903,11 @@ III. Remitir de inmediato a la instancia competente, las renuncias de los Magist
 
 IV. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, así como del resto del personal jurídico y administrativo del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
-V. Aprobar el anteproyecto de presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado para proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+V. Aprobar el anteproyecto de presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado para proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el del Poder Judicial del Estado; conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
 
@@ -3002,6 +3010,8 @@ También tendrá a su cargo las funciones inherentes a la materia de transparenc
 ###### ARTÍCULO 261.
 
 (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2017)
+
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 9 DE NOVIEMBRE DE 2017 SESIONADO POR EL CONGRESO DEL ESTADO EL 28 DE JUNIO DE 2017. EL 16 DE NOVIEMBRE DE 2017 FUE REFORMADO ESTE ARTÍCULO SESIONADO POR EL CONGRESO DEL ESTADO EL 18 DE OCTUBRE DE 2017 “ARTÍCULO 262. ... I.- a la VII. ... VIII.- Se deroga IX.- a la XXIV. ... XXII (SIC).-. ..."; POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
 
 ###### ARTÍCULO 262.
 
@@ -3166,6 +3176,8 @@ También tendrá a su cargo las funciones inherentes a la materia de transparenc
 ###### ARTÍCULO 296.
 
 (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2017)
+
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 9 DE NOVIEMBRE DE 2017 SESIONADO POR EL CONGRESO DEL ESTADO EL 28 DE JUNIO DE 2017. EL 16 DE NOVIEMBRE DE 2017 FUE REFORMADO ESTE ARTÍCULO SESIONADO POR EL CONGRESO DEL ESTADO EL 18 DE OCTUBRE DE 2017 "ARTÍCULO 297.- Corresponde al Secretario Administrativo: I. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial del Estado, remitiéndolo al Presidente, para el trámite respectivo ante la Comisión de Administración y ante el Presidente del Tribunal Superior de Justicia, dicho anteproyecto deberá ser elaborado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, y enviarlo al Titular del Poder Ejecutivo para el trámite de aprobación respectivo. El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible. II. a la X. …"; POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
 
 ###### ARTÍCULO 297.
 
@@ -3487,7 +3499,7 @@ SEGUNDO.- Se derogan todas las disposiciones que (sic) opongan al contenido del 
 
 P.O. 9 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 184.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 184.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3520,3 +3532,11 @@ En el Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2018, se deber�
 ###### ARTÍCULO OCTAVO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 242.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
