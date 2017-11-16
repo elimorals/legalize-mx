@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2017-03-05"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -117,9 +117,19 @@ XV. Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Er
 
 XVI. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, que establece la Ley General;
 
-XVII. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos;
 
 XVIII. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que cause muerte, daño o sufrimiento físico, sexual, psicológico, patrimonial o económico a la mujer, tanto en el ámbito público como en el privado.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Violencia feminicida: Se entiende la forma extrema de Violencia de Genero contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar a la impunidad tanto social como del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XX. Alerta de violencia de Genero: Conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercido por los individuos o la propia comunidad; y tendrá como objetivo fundamental garantizar la seguridad de las mujeres.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -165,17 +175,21 @@ V. Violencia Psicológica: Cualquier acto u omisión que dañe la estabilidad ps
 
 VI. Violencia Sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto;
 
-VII. Hostigamiento: Ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+VII. Violencia de Género: Es todo tipo de violencia física o psicológica ejercida contra la mujer en razón de su género, que impacta de manera negativa su identidad y bienestar social, físico o psicológico, así como de las expectativas sobre el rol que ella deba cumplir en una sociedad o cultura.
 
-VIII. Acoso Sexual: Forma de violencia en la que, sin (sic) bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
+VIII. Hostigamiento: Ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-IX. Violencia Política.- Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos; y
+IX. Acoso Sexual: Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en espacios públicos o privados, en uno o varios eventos;
 
-X. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+X. Violencia Política: Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos; y
+
+XI. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -213,11 +227,11 @@ La violencia contra las mujeres en el ámbito familiar, se establece sin contrav
 
 Por violencia contra las mujeres en la comunidad, se entiende los actos u omisiones de carácter individual o colectivo que transgreden los derechos de las víctimas que las denigran, discriminan, marginan o excluyen en el ámbito público. Además de las conductas que propician, justifican y alimentan patrones estereotipados, basados en conceptos de inferioridad o subordinación.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 10.
 
-La violencia contra las mujeres en el ámbito laboral, son todos los actos u omisiones que se ejercen por la persona que tiene un vínculo laboral con la víctima, independientemente de la relación jerárquica, que vulnera los derechos laborales al no respetar la permanencia o condiciones de trabajo, así como la negativa ilegal e indebida para contratar a la víctima. Independientemente de que puedan constituir un delito o no.
+La violencia contra las mujeres en el ámbito laboral, son todos los actos u omisiones que se ejercen por la persona que tiene un vínculo laboral con la víctima, independientemente de la relación jerárquica, así como también la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Incluye, para efectos de esta ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley Federal del Trabajo, además del acoso y el hostigamiento sexual. Independientemente de que puedan constituir un delito o no.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -401,9 +415,9 @@ En el ejercicio de los derechos tutelados en la presente ley, la víctima contar
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-### CAPÍTULO V. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES
+### CAPITULO V. DE LA ALERTA DE VIOLENCIA DE GENERO CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ### CAPÍTULO VI. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -469,7 +483,7 @@ Los Centros de Reeducación para los hombres agresores, deberán proporcionar se
 
 Los Centros de Reeducación deberán estar alejados de los refugios para víctimas, y el personal que presta servicios en el centro de reeducación no podrá prestar servicios en los refugios para víctimas.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ### CAPÍTULO VII. DE LOS PROGRAMAS ESTATAL Y MUNICIPAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -477,7 +491,17 @@ Los Centros de Reeducación deberán estar alejados de los refugios para víctim
 
 ###### Artículo 27.
 
-La alerta de violencia contra las mujeres será operada por la Federación y tendrá como objetivos fundamentales garantizar la seguridad de las mismas, erradicar la violencia en su contra y fomentar el respeto a los derechos humanos.
+La alerta de violencia de género contra las mujeres será operada por la Federación y tendrá como objetivos fundamentales garantizar la seguridad de las mismas, erradicar la violencia en su contra, fomentar el respeto a los derechos humanos y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, para lo cual el Gobierno del Estado a través de la autoridad correspondiente deberá:
+
+I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que le dé el seguimiento respectivo;
+
+II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
+
+III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres; y
+
+V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -487,7 +511,33 @@ La declaratoria de alerta de violencia de género contra las mujeres, será emit
 
 I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame; y
 
-II. Los organismos de derechos humanos a nivel nacional o estatal, los organismos de la sociedad civil o los organismos internacionales, así lo soliciten.
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres; y
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+III. Los organismos de derechos humanos a nivel nacional o estatal, los organismos de la sociedad civil o los organismos internacionales, así lo soliciten;
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 28 bis. Ante la violencia feminicida, el Estado de Durango y sus municipios participarán, junto con el Gobierno Federal, en el resarcimiento del daño, conforme a los parámetros establecidos en los derechos humanos reconocidos internacionalmente y considerar como reparación:
+
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
+
+II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+III. La satisfacción: Son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+
+a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+
+b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las víctimas a la impunidad;
+
+c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres; y
+
+d) La verificación de los hechos y la publicidad de la verdad.
+
+En los casos de feminicidio se aplicará lo previsto en el Artículo 137 del Código Penal del Estado Libre y Soberano de Durango.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1180,3 +1230,11 @@ P.O. 5 DE MARZO DE 2017.
 PRIMERO. El presente decreto entrara en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 209.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
