@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ciencia-y-tecnologia-del-estado-de-durango-52313"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-26"
-last_updated: "2015-12-31"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de octubre de 2006.
 
@@ -195,7 +195,7 @@ I. La política estatal de desarrollo de la ciencia y la tecnología; así como,
 
 II. Diagnóstico, objetivos, metas, estrategias y acciones prioritarias en materia de investigación científica y tecnológica, e innovación y desarrollo tecnológico;
 
-III. Acciones especificas en materia de vinculación entre la investigación que se realiza en las instituciones y centros, con el sector productivo;
+III. Acciones específicas en materia de vinculación entre la investigación que se realiza en las instituciones y centros, con el sector productivo;
 
 IV. Los apoyos para la formación e incorporación de investigadores, tecnólogos y profesionistas, mediante el otorgamiento de becas entre otros incentivos;
 
@@ -220,6 +220,14 @@ IV. El cumplimiento de las metas y avances físicos y financieros, en su caso, d
 V. El programa financiero respectivo, y
 
 VI. Los acuerdos de concertación con los sectores privado y social y los convenios de coordinación con otros niveles de Gobierno.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+Además de lo anterior, para la elaboración anual del anteproyecto de presupuesto de egresos se deberá tomar en consideración lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además de comprender partidas para cubrir el financiamiento y las prerrogativas de los partidos políticos y los candidatos independientes; dicho proyecto se enviará a la Secretaría de Finanzas y de Administración para su integración en el presupuesto de egresos del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 La programación y presupuestación anual de la política de ciencia y tecnología en los términos señalados en esta Ley, será responsabilidad de:
 
@@ -269,7 +277,7 @@ Podrán formar parte del Sistema de Investigadores, todos aquellos miembros de l
 
 El COCYTED, será el encargado de instaurar, desarrollar y administrar el Sistema de Investigadores y evaluar su funcionamiento, garantizando el proceso de implantación, principios de transparencia, legalidad y equidad, involucrando en esas actividades a miembros reconocidos de la comunidad científica nacional y local y de los sectores público, social y productivo, conforme a la normatividad correspondiente.
 
-#### SECCIÓN TERCERA. DEL SERVICIO ESTATAL DE INFORMACIÓN CIENTIFICA Y TECNOLÓGICA
+#### SECCIÓN TERCERA. DEL SERVICIO ESTATAL DE INFORMACIÓN CIENTÍFICA Y TECNOLÓGICA
 
 ###### Artículo 14.
 
@@ -307,7 +315,7 @@ El Registro Estatal de Ciencia y Tecnología, como parte del Servicio Estatal de
 
 ###### Artículo 19.
 
-Para conformar el Registro Estatal de Ciencia y Tecnología se incluirán los siguientes rubros: instituciones; equipos de investigadores; investigadores individuales; infraestructura y equipos; proyectos en proceso y terminados; patentes; fuentes dé información científica; publicaciones y eventos, y financiamiento. El COCYTED será el encargado de operar el Registro Estatal de Ciencia y Tecnología y vigilar su funcionamiento.
+Para conformar el Registro Estatal de Ciencia y Tecnología se incluirán los siguientes rubros: instituciones; equipos de investigadores; investigadores individuales; infraestructura y equipos; proyectos en proceso y terminados; patentes; fuentes de información científica; publicaciones y eventos, y financiamiento. El COCYTED será el encargado de operar el Registro Estatal de Ciencia y Tecnología y vigilar su funcionamiento.
 
 ###### Artículo 20.
 
@@ -347,7 +355,7 @@ III. Propiciar el fortalecimiento de los programas de postgrado que se dirijan a
 
 IV. Promover la creación de postgrados en aquellas áreas y disciplinas que sean identificadas como productiva y socialmente necesarias.
 
-#### SECCIÓN QUINTA. DE LA DIFUSIÓN DE LA CULTURA CIENTIFICA Y TECNOLÓGICA
+#### SECCIÓN QUINTA. DE LA DIFUSIÓN DE LA CULTURA CIENTÍFICA Y TECNOLÓGICA
 
 ###### Artículo 24.
 
@@ -499,7 +507,7 @@ El COCYTED podrá convenir con los gobiernos federal, estatal y municipal, depen
 
 Los municipios podrán solicitar al COCYTED, la asesoría técnica necesaria para la formulación, ejecución y evaluación de sus políticas y acciones en materia de ciencia y tecnología, para el cumplimiento de la presente Ley.
 
-### CAPÍTULO IV. DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO
+### CAPÍTULO IV. DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -890,3 +898,11 @@ Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 216.- QUE CONTIENE REFORMAS A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
