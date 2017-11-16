@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-estatal-de-las-mujeres-del-estado-de-104910"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2014-12-25"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DEL INSTITUTO ESTATAL DE LAS MUJERES, DEL ESTADO DE DURANGO
+LEY DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 25 de diciembre de 2014.
 
@@ -35,9 +35,11 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha primero del mes de abril del presente año, las CC. Diputadas Alicia Guadalupe Gamboa Martínez, Anavel Fernández Martínez, María Luisa González Achem, Alicia García Valenzuela y Beatriz Barragán González, integrantes de esta H. LXVI Legislatura, presentaron Iniciativa de Decreto que contiene Reformas y Adiciones a la Ley que Crea el Instituto de la Mujer Duranguense, misma que fue turnada a la Comisión de Equidad y Género, integrada por los CC. Diputados: Alicia Guadalupe Gamboa Martínez, José Alfredo Martínez Núñez, Anavel Fernández Martínez, Felipe de Jesús Enríquez Herrera y Beatriz Barragán González; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable en base a los siguientes:
 
-C O N S I D E R A N D O S:...
+C O N S I D E R A N D O S:
 
-O E C R E T O No. 298
+[...]
+
+D E C R E T O No. 298
 
 LA HONORABLE SEXAGÉSIMA SEXTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 82 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
@@ -205,7 +207,11 @@ El Consejo tendrá las siguientes atribuciones y obligaciones:
 
 I. Establecer, en congruencia con los programas correspondientes, las políticas generales del Instituto, así como definir las prioridades relativas a finanzas y administración;
 
-II. Aprobar los programas y presupuestos del Instituto, así como sus modificaciones, sujetándose a lo dispuesto por las leyes aplicables del Estado, el presupuesto de egresos y, en su caso, a las asignaciones de gasto y financiamiento autorizados;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+II. Aprobar los programas del Instituto, así como sus modificaciones, sujetándose a lo dispuesto por las leyes aplicables del Estado; además del anteproyecto de presupuesto anual de egresos y remitirlo a la Secretaría de Finanzas y de Administración para su integración al presupuesto del Gobierno del Estado para el trámite de aprobación respectivo, ello conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 III. Analizar y aprobar en su caso, anualmente los informes financieros que rinda la Directora General, previo dictamen del Comisario respecto a los estados financieros del Instituto;
 
@@ -408,3 +414,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 223.- QUE CONTIENE REFORMAS A LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO (SIC). Se derogan todas las disposiciones legales que se opongan al presente decreto.
