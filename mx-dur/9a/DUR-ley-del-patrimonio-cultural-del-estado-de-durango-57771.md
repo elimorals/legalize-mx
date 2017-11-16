@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-patrimonio-cultural-del-estado-de-durango-57771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-11"
-last_updated: "2015-09-06"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 11 de noviembre de 2007.
 
@@ -35,7 +37,7 @@ Con fecha 17 de febrero del año 2004, el C. Diputado Jorge Herrera Delgado, int
 
 CONSIDERANDOS:
 
-...
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -351,7 +353,17 @@ XVIII. Elaborar el Programa de Conservación del Patrimonio Cultural del Estado;
 
 XIX. Planear las acciones conducentes para la conservación del Patrimonio Cultural del Estado, que incluirá acciones, políticas y estrategias a seguir;
 
-XX. Elaborar e instrumentar el presupuesto de egresos que corresponda a la materia del patrimonio cultural;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XX. Elaborar e instrumentar anualmente el anteproyecto de presupuesto de egresos que corresponda a la materia del patrimonio cultural;
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto de presupuesto de egresos, deberá ser elaborado y autorizado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 XXI. Coordinarse con el Consejo en lo relativo a las facultades que le hayan sido conferidas en materia del patrimonio cultural;
 
@@ -1193,7 +1205,7 @@ ARTÍCULO 112 BIS. Se promoverá la suscripción de convenios o acuerdos de coop
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-ARTÍCULO 112 BIS1. Cuando dentro del territorio estatal o municipal se localicen monumentos arqueológicos, artísticos e históricos y zonas de monumentos de competencia federal, los gobiernos federales, locales o municipales podrán celebrar acuerdos o convenios de cooperación y coordinación para:
+ARTÍCULO 112 BIS 1. Cuando dentro del territorio estatal o municipal se localicen monumentos arqueológicos, artísticos e históricos y zonas de monumentos de competencia federal, los gobiernos federales, locales o municipales podrán celebrar acuerdos o convenios de cooperación y coordinación para:
 
 I. Colaborar en la restauración, conservación y mejoramiento de los monumentos arqueológicos, artísticos e históricos y zonas de monumentos;
 
@@ -1370,3 +1382,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 224.- QUE CONTIENE REFORMAS A LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
