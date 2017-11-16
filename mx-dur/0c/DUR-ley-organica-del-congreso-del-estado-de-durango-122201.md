@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2017-06-15"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -66,6 +68,10 @@ La nomenclatura cambiará de manera ascendente, según corresponda.
 ###### Artículo 3.
 
 Al Congreso del Estado le corresponde el ejercicio de las facultades que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, la presente ley y demás disposiciones legales en vigor. Asimismo, está facultado para realizar funciones de consulta, promoción y gestoría, encaminadas a satisfacer las necesidades sociales de la población de la Entidad.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El Congreso del Estado, administrará sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia control y rendición de cuentas.
 
 ###### Artículo 4.
 
@@ -473,9 +479,17 @@ XIII. Justificar ante el Presidente respectivo, las inasistencias a las sesiones
 
 XIV. Observar las normas de cortesía y el respeto para con los miembros del Congreso, así como para con los servidores públicos e invitados al recinto oficial;
 
-XV. Guardar el debido respeto y compostura propios de su investidura, en el ejercicio de sus funciones, aún fuera del recinto plenario; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Las demás que les asignen las leyes.
+XV. Guardar el debido respeto y compostura propios de su investidura, en el ejercicio de sus funciones, aún fuera del recinto plenario;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Conocer de los asuntos relativos a la contratación de financiamientos y obligaciones en términos de la Constitución Política del Estado Libre y Soberano de Durango, y demás leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Las demás que les asignen las leyes.
 
 ###### Artículo 45.
 
@@ -1629,7 +1643,11 @@ II. Aprobar, en su caso, los resultados de las revisiones a que se refiere la fr
 
 III. Vigilar que se conserve actualizado y debidamente resguardado el inventario de los bienes del Congreso, así como del cuidado y conservación de los mismos; y,
 
-IV. Participar en la elaboración del presupuesto anual de egresos del Congreso.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+IV. Participar en la elaboración del presupuesto anual de egresos del Congreso y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, y enviarlo al Titular del Poder Ejecutivo para el trámite de aprobación respectivo;
+
+El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 ###### Artículo 154.
 
@@ -2136,6 +2154,10 @@ Los dictámenes deberán contener una exposición clara en la cual se habrán de
 Al dictamen, según su naturaleza, deberá acompañarse el análisis impacto presupuestario que necesariamente deba elaborarse por la Secretaría de Finanzas y de Administración del Gobierno del Estado, la cual deberá remitir dicha opinión a la Comisión Dictaminadora en un plazo que no exceda de treinta días naturales.
 
 En caso de no darse cumplimento al párrafo anterior el Centro de Investigaciones y Estudios Legislativos emitirá la opinión correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación local, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
 
 ###### Artículo 185.
 
@@ -2840,3 +2862,13 @@ SECRETARIA.
 DIP. MAR GRECIA OLIVA GUERRERO
 
 SECRETARIA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 243.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
