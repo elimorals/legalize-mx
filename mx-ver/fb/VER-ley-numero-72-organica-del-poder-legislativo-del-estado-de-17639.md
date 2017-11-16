@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2017-08-16"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -579,13 +579,17 @@ XVI. Comunicar al Secretario General del Congreso los acuerdos, observaciones y 
 
 XVII. Requerir a los Diputados que no asistan, a concurrir a las sesiones del Congreso y comunicar al Pleno, en su caso, las medidas o sanciones que correspondan;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Establecer las condiciones generales de trabajo de todos los servidores públicos del Congreso del Estado; y
+XVIII. Establecer las condiciones generales de trabajo de todos los servidores públicos del Congreso del Estado;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-XIX. Las demás que expresamente le señalen la Constitución del Estado, esta ley, la normatividad interior del Congreso y las leyes del Estado.
+XIX. Tener bajo su adscripción la Oficina de la Unidad de Transparencia del Congreso y vigilar que ésta se apegue a la normativa aplicable en el desempeño de sus funciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XX. Las demás que expresamente le señalen la Constitución del Estado, esta Ley, la normatividad interior del Congreso y las leyes del Estado.
 
 #### SECCIÓN CUARTA. DEL VICEPRESIDENTE
 
@@ -875,15 +879,17 @@ XXXIX. Vigilancia; y
 
 XL. Zonas Especiales y Desarrollo Económico.
 
-> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 40.
 
-Los Secretarios de Despacho o equivalentes del Gobierno del Estado comparecerán ante las Comisiones Permanentes que correspondan, en caso de ser citados por el Congreso, a efecto de ampliar o precisar lo conducente respecto del informe escrito presentado por el Ejecutivo sobre el estado que guarda la administración pública. En su caso, a propuesta de la Junta de Coordinación Política, el Pleno emitirá el acuerdo en el que se señalen las dependencias cuyos titulares deban comparecer y el calendario correspondiente, mismo que se comunicará al Gobernador.
+Los titulares de Dependencias y Entidades de la Administración Pública comparecerán ante las Comisiones Permanentes que correspondan, a fin de ampliar o precisar lo conducente respecto del informe anual que por escrito presente el Ejecutivo del Estado al Congreso.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+Por su parte, los titulares de los Organismos Autónomos del Estado referidos en el artículo 67 de la Constitución, con excepción del Tribunal Estatal de Justicia Administrativa, comparecerán para el mismo efecto respecto de su propio informe anual de labores.
 
-Igual obligación de comparecer en cualquier tiempo tendrán los titulares de las dependencias y entidades de la Administración Pública, por conducto del Gobernador del Estado, para dar cuenta del estado que guardan éstas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, si fueren convocados por la comisión permanente del ramo que le corresponda, cuando a juicio de la mayoría de sus miembros exista causa suficiente o extraordinaria para ello; en caso de que la convocatoria no fuera atendida, la comisión podrá dirigirse oficialmente en queja al Gobernador del Estado.
+Al efecto, a propuesta de la Junta de Coordinación Política, el Pleno emitirá el acuerdo en el que se señale el calendario de comparecencias, mismo que se comunicará al Gobernador y a los titulares de las Dependencias y Entidades de la Administración Pública, y a los Organismos Autónomos del Estado.
+
+Igual obligación de comparecer en cualquier tiempo, tendrán los titulares de las Dependencias y Entidades de la Administración Pública, así como de los Organismos Autónomos del Estado, para dar cuenta del estado que guardan éstos, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, si fueren convocados por la Comisión Permanente del ramo que corresponda, cuando a juicio de la mayoría de los miembros de ésta exista causa suficiente o extraordinaria para ello; en los casos de las Dependencias, la convocatoria se realizará por conducto del Gobernador del Estado y, si no fuere atendida, la Comisión podrá dirigirse oficialmente en queja al propio Ejecutivo. Si el titular de alguna Dependencia o Entidad de la Administración Pública o de un Organismo Autónomo del Estado no acudiere al ser requerido, incurrirá en responsabilidad administrativa, conforme al artículo 76 Bis de la Constitución.
 
 En los supuestos previstos en los párrafos anteriores, los servidores públicos que comparezcan rendirán sus informes bajo protesta de decir verdad.
 
@@ -1655,8 +1661,16 @@ Tercero. En un plazo no mayor a treinta días, el Organismo Público Local Elect
 
 G.O. 16 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309 QUE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309 QUE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 360 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
