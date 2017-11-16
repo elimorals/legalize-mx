@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-evaluacion-de-politicas-101260"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2014-12-25"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA EL INSTITUTO DE EVALUACION DE POLITICAS PUBLICAS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 311 QUE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS DOS AÑOS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -251,7 +251,17 @@ VI. Nombrar, remover, dirigir y coordinar a los funcionarios y al personal bajo 
 
 VII. Enviar al Titular del Poder Ejecutivo del Estado y al Congreso del Estado un informe anual sobre las actividades realizadas por el Instituto, asimismo, deberá comparecer ante el Congreso del Estado dentro de los primeros quince días del mes de febrero a rendir un informe anual de su gestión.
 
-VIII. Elaborar el proyecto de Presupuesto Anual de Egresos del Instituto y el Informe respectivo sobre su ejercicio para presentarse al Congreso del Estado, por conducto del órgano de gobierno interior, encargado de la administración y de su representación política.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Elaborar el anteproyecto de Presupuesto Anual de Egresos del Instituto y el Informe respectivo sobre su ejercicio para presentarse al Congreso del Estado, por conducto del órgano de gobierno interior, encargado de la administración y de su representación política.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto de presupuesto de egresos, deberá ser elaborado y autorizado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 IX. Suscribir en términos de la legislación aplicable, convenios de colaboración con los poderes, autoridades, organismos, instituciones académicas y asociaciones civiles, o quien considere necesario para el cumplimiento de los objetivos de la presente ley.
 
@@ -560,3 +570,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 221.- QUE CONTIENE REFORMAS A LA LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto de presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
