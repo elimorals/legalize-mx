@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2014-04-14"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -129,7 +129,7 @@ f) La Coordinación de Informática;
 
 g) La Oficina de Oficialía de Partes;
 
-h) La Oficina de Servicios Médicos; y (sic)
+h) La Oficina de Servicios Médicos; y
 
 i) La Oficina de Seguridad.
 
@@ -156,6 +156,10 @@ IV. A la Secretaría de Fiscalización:
 a) La Dirección de Auditoría y Revisión Financiera, conformada por el Departamento de Auditoría y Análisis de la Cuenta Pública y el Departamento de Capacitación, Asesoría, revisión y Supervisión a Municipios; y
 
 b) La Dirección de Normatividad, Control y Seguimiento, conformada por el Departamento de Registro de Deuda Pública y Programas Institucionales y el Departamento de Responsabilidades Administrativas de Servidores Públicos.
+
+> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+V. A la Presidencia: La Oficina de la Unidad de Transparencia.
 
 ###### Artículo 8.
 
@@ -239,9 +243,11 @@ Las ausencias temporales de los Secretarios de Servicios serán suplidas por los
 
 ### CAPÍTULO IV. De las Disposiciones Generales para las Direcciones, Subdirecciones, Coordinaciones, Departamentos y Oficinas
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-Las unidades administrativas a que se refiere este Capítulo, estarán a cargo de un titular que será designado por la Junta de Coordinación Política, a propuesta de la Secretaría General. Tendrán igual categoría que sus similares de la administración pública estatal.
+Las unidades administrativas a que se refiere este Capítulo estarán a cargo de un titular, que será designado por la Junta de Coordinación Política, a propuesta de la Secretaría General, con excepción de la Oficina de la Unidad de Transparencia, cuyo titular será propuesto por el presidente. Tendrán igual categoría que sus similares de la administración pública estatal.
 
 > <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2014)</small>
 
@@ -255,13 +261,17 @@ La Directora del Centro durará en el cargo tres años, con posibilidad de ser r
 
 Los titulares de las unidades administrativas a que se refiere este Capítulo podrán permanecer en su encargo aún después de concluida la Legislatura correspondiente, si son ratificados por la Junta de Coordinación Política, y cuentan con la opinión favorable del titular de la unidad administrativa de adscripción.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-Los titulares de las unidades administrativas referidas en el presente Capítulo podrán ser removidos de su encargo porque, en el ejercicio de sus atribuciones, la Junta de Coordinación Política haya nombrado un nuevo titular.
+Los titulares de las unidades administrativas referidas en el presente Capítulo podrán ser removidos de su encargo por la Junta de Coordinación Política, en los términos previstos por la Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-Las ausencias temporales de los titulares de las unidades administrativas serán suplidas por el servidor público que designe el Secretario de Servicios al cual se encuentren adscritos.
+Las ausencias temporales de los titulares de las unidades administrativas serán suplidas por el servidor público que designe el superior jerárquico.
 
 ###### Artículo 17.
 
@@ -1309,6 +1319,66 @@ III. Instrumentar y desarrollar campañas de concientización respecto de las ob
 
 IV. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
+> <small>[N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE NOVIEMBRE DE 2017]</small>
+
+### CAPÍTULO V. De la Unidad de Transparencia
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 59.
+
+La Unidad de Trasparencia es la Oficina del Congreso, dependiente del presidente, responsable de tramitar las solicitudes de acceso a la información y los respectivos recursos de revisión que se presenten al Congreso, conforme a las disposiciones de los ordenamientos referidos en la fracción I del artículo siguiente.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 60.
+
+A la Unidad de Transparencia le corresponden las funciones siguientes:
+
+I. Recabar y difundir la información a que se refieren los Capítulos II, III, IV y V del Título Quinto de la Ley General de Transparencia y Acceso a la Información Pública, así como la correspondiente a los artículos 15 y 17 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, en el ámbito de su competencia;
+
+II. Recibir y tramitar, dentro del plazo legal establecido, las solicitudes de acceso a la información pública;
+
+III. Entregar la información requerida, fundando y motivando su resolución en los términos de la normatividad aplicable;
+
+IV. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normativa aplicable;
+
+V. Proporcionar los formatos para las solicitudes de acceso a la información pública, así como para los derechos de acceso, rectificación, cancelación u oposición de datos personales que, para el efecto, emita el Sistema Nacional de Transparencia;
+
+VI. Realizar los trámites internos necesarios para localizar y entregar la información pública requerida;
+
+VII. Diseñar procedimientos que faciliten la tramitación y adecuada atención a las solicitudes de acceso a la información pública;
+
+VIII. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normativa aplicable;
+
+IX. Aplicar los criterios prescritos por la Ley y el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, en materia de ordenamiento, manejo, clasificación y conservación de los documentos, registros y archivos, en los términos de la legislación aplicable;
+
+X. Efectuar las notificaciones a los solicitantes;
+
+XI. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información, conforme al presupuesto aprobado para el Congreso;
+
+XII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+XIII. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+XIV. Fomentar la transparencia y accesibilidad al interior del Congreso;
+
+XV. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
+
+XVI. Revisar la información que cada área pretenda subir a su página de Internet y a la Plataforma del Sistema Nacional de Transparencia, siempre y cuando dicha información sea a su vez oportunamente remitida por las diversas unidades administrativas, a través de las personas señaladas como enlaces;
+
+XVII. Entregar a cada unidad administrativa las claves necesarias para subir su información en los formatos autorizados a la página de internet del Congreso y a la Plataforma del Sistema Nacional de Transparencia; para dichos efectos se estará a los lineamientos y demás normatividad emitida por los organismos garantes;
+
+XVIII. Remitir al comisionado presidente del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, a más tardar en los meses de enero y julio de cada año, un informe semestral de las actividades que realice, relativas a la información consignada en la fracción anterior;
+
+XIX. Elaborar los manuales de organización, procedimientos y servicios al público, de la Unidad de Transparencia, para ser autorizados por la autoridad competente del Congreso del Estado;
+
+XX. Coordinarse con el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, en caso de duda sobre casos concretos y específicos en materia de transparencia, o para la interpretación de algún criterio o normativa en materia de acceso a la información y protección de datos personales; y
+
+XXI. Las demás que se desprendan de la normativa aplicable o le encomiende el presidente.
+
+El Congreso, por conducto del presidente, promoverá acuerdos con instituciones públicas especializadas, que pudieren auxiliar en la entrega más eficiente de las respuestas a solicitudes de información en lengua indígena, en sistema braille o cualquier formato accesible correspondiente, en cumplimiento a las disposiciones legales aplicables.
+
 TRANSITORIOS (SIC)
 
 ÚNICO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado.
@@ -1348,3 +1418,11 @@ G.O. 14 DE ABRIL DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo.- Para los efectos del artículo 13 Bis, la primera convocatoria será emitida por las Comisiones de Equidad, Género y Familia, y de Derechos Humanos, Atención a Grupos Vulnerables y Migrantes del H. Congreso del Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a diez días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 360 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
