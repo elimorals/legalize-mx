@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-proteccion-de-ninas-ninos-y-116765"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-01"
-last_updated: "2016-09-01"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de septiembre de 2016.
 
@@ -355,7 +355,11 @@ LVIII. Supervisar y evaluar el funcionamiento de las áreas que integran la Proc
 
 LIX. Coordinar todas las actividades que le sean encomendadas por el Director General del Sistema DIF Estatal, para el mejor desarrollo integral de la familia;
 
-LX. Elaborar el proyecto de presupuesto anual de la Procuraduría de Protección, y turnarlo al Director General del Sistema DIF Estatal;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LX. Elaborar el anteproyecto de presupuesto de egresos anual de la Procuraduría de Protección, y turnarlo al Director General del Sistema DIF Estatal; para el trámite de aprobación respectivo, y enviarlo a la Secretaría de Finanzas y de Administración para su integración al presupuesto del Gobierno del Estado, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 LXI. Otorgar el consentimiento de adopción de niñas, niños y adolescentes de los cuales el Procurador ejerza la patria potestad;
 
@@ -624,3 +628,13 @@ C. P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 215.- QUE CONTIENE REFORMAS A LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
