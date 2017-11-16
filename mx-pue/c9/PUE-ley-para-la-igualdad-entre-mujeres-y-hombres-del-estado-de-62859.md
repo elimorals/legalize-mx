@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2008-08-22"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -33,7 +33,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 63 fracción II y 64 de la Constitución Política del Estado Libre y Soberano de Puebla, 17 fracción XI, 43 fracciones I y X, 69 fracción II, 70 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y X, 93 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla y demás disposiciones aplicables, se emite la siguiente:
 
@@ -57,7 +59,9 @@ IV.- Establecer las bases de coordinación entre los diferentes niveles de gobie
 
 V.- Garantizar a las mujeres y a los hombres el pleno ejercicio de sus derechos, el desarrollo de su personalidad, aptitudes y capacidades.
 
-Para los efectos de esta Ley se entenderá por discriminación, cualquier tipo de distinción, exclusión o restricción, que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de las personas, sobre la base de la igualdad de oportunidades con equidad de género, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera; en concordancia con los instrumentos nacionales y los internacionales ratificados por el Estado Mexicano.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+Para los efectos de esta Ley se entenderá por discriminación, toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas.
 
 ###### Artículo 2.
 
@@ -99,15 +103,31 @@ Asimismo, han de proveer la colaboración y el trabajo en común con otras insti
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Acciones afirmativas: Es el conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+I.- Acciones afirmativas: Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
 II.- Comisión: La Comisión de Derechos Humanos del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+II Bis.- Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+II Ter.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+II Quater.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 III.- Instituto: Instituto Poblano de las Mujeres;
 
 IV.- Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla;
 
-V.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+V.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
 VI.- Poderes Públicos del Estado: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, de acuerdo a su organización y funcionamiento conforme a su normatividad aplicable y los demás que la legislación reconozca como autoridad;
 
@@ -117,7 +137,9 @@ VIII.- Programa: Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
 IX.- Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
 
-X.- Transversalidad: Los principios de igualdad entre mujeres y hombres deben estar presentes en el conjunto de acciones y políticas emprendidas por los Órganos de Gobierno. Este enfoque transversal supone la inclusión de la perspectiva de género en la elaboración, desarrollo y seguimiento de todas las actuaciones que afecten, directa o indirectamente, a la comunidad. Por ello las actuaciones y medidas impulsadas por la administración buscarán ser ejemplares.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+X.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
 
 ###### Artículo 5.
 
@@ -146,6 +168,10 @@ Serán autoridades en la aplicación del presente ordenamiento las siguientes:
 Al Gobierno del Estado, le corresponde:
 
 I.- Elaborar y conducir la Política Estatal en materia de igualdad entre mujeres y hombres, a fin de cumplir con lo establecido en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+I Bis.- Incorporar en el presupuesto de egresos la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad;
 
 II.- Diseñar y aplicar los instrumentos de la Política Estatal en materia de igualdad entre mujeres y hombres, garantizada en esta Ley;
 
@@ -183,6 +209,10 @@ III.- Realizar las previsiones presupuestarias para la ejecución de los program
 
 IV.- Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere;
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
+
 V.- Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales e indígenas;
 
 VI.- Celebrar acuerdos de coordinación, cooperación y concertación en materia de igualdad de género; y
@@ -209,9 +239,37 @@ IV.- Promover la igualdad de acceso y el pleno disfrute de los derechos sociales
 
 V.- Adoptar medidas para garantizar a mujeres y hombres la igualdad de acceso y la plena participación en las estructuras de poder;
 
-VI.- Propiciar la igualdad entre mujeres y hombres en la vida civil; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-VII.- Impulsar la modificación de los patrones culturales que permita la erradicación de estereotipos establecidos en función del sexo.
+VI.- Promover la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Promover la eliminación de estereotipos establecidos en función del sexo;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VIII.- Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+IX.- El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+X.- La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XI.- En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
 
 ### CAPÍTULO SEGUNDO. DE LOS OBJETIVOS Y ACCIONES
 
@@ -417,13 +475,23 @@ II.- Desarrollo de acciones para fomentar la integración de políticas pública
 
 III.- Impulsar liderazgos igualitarios;
 
-IV.- Salvaguardar, velar y promover la participación de la mujer en el sector productivo; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-V.- Garantizar el acceso a la capacitación, adiestramiento y asesoramiento técnico de comercialización y distribución.
+IV.- Salvaguardar, velar y promover la participación de la mujer en el sector productivo;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+V.- Garantizar el acceso a la capacitación, adiestramiento y asesoramiento técnico de comercialización y distribución, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 32.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades, dependencias y organismos públicos competentes, desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
 I.- Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -443,9 +511,17 @@ VIII.- Evitar la segregación de las personas por razón de su sexo, en el merca
 
 IX.- Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
-X.- Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-XI.- Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+X.- Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
 ###### Artículo 33.
 
@@ -463,9 +539,17 @@ Con el fin de promover la igualdad en el acceso a los derechos sociales y el ple
 
 I.- Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
 
-II.- Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-III.- Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+II.- Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+III.- Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+IV.- Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
 
 ###### Artículo 36.
 
@@ -527,9 +611,25 @@ Para los efectos de lo previsto en el artículo anterior, las autoridades, depen
 
 I.- Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
 
-II.- Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-III.- Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+II.- Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+III.- Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+IV.- Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+V.- Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VI.- Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO SEXTO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL
 
@@ -584,3 +684,13 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la present
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de julio de dos mil ocho.- Diputado Presidente.- PABLO FERNÁNDEZ DEL CAMPO ESPINOSA.- Rúbrica.- Diputada Vicepresidenta.- BÁRBARA MICHELE GANIME BORNNE.- Rúbrica.- Diputada Secretaria.- ANGÉLICA PATRlCIA HIDALGO ELGUEA.- Rúbrica.- Diputado Secretario.- MANUEL FERNÁNDEZ GARCÍA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, al (sic) día primero del mes de agosto de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
