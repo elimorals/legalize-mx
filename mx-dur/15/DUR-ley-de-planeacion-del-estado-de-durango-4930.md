@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2017-05-11"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PLANEACION DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -59,11 +61,21 @@ LEY de PLANEACION del ESTADO de DURANGO
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas y principios básicos, conforme a los cuales se llevará a cabo la planeación para el desarrollo del Estado de Durango, así como el establecimiento de las bases de integración y funcionamiento del Sistema Estatal de Planeación del Desarrollo.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-###### ARTICULO 2o.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017]
 
-La planeación deberá llevarse bajo los principios de racionalidad y optimización de los recursos, deberá mantener en su formulación una visión a largo plazo, de desarrollo económico y social de la entidad, una programación con objetivos y metas a mediano y corto plazo, la identificación de prioridades producto del consenso social, así como los mecanismos que permitan dar seguimiento a su ejecución y la evaluación de resultados con la participación ciudadana.
+###### ARTÍCULO 2o.
+
+La planeación es un medio fundamental para imprimir solidez, dinamismo, permanencia y equidad al desarrollo económico, social, político y cultural del Estado, mediante la participación plural de la sociedad, en la conformación de planes y programas que garanticen una eficiente utilización de los recursos al alcance del Estado y que propicien una más justa distribución del ingreso y la riqueza.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los municipales deberán observar dicho principio.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+La iniciativa de ley de ingresos y el proyecto de presupuesto de egresos del Estado, deberán ser congruentes con el Plan Estatal de Desarrollo y los programas derivados del mismo. Asimismo, las iniciativas de leyes de ingresos y los proyectos de presupuestos de egresos de los Municipios deberán ser congruentes con el Plan Estatal y su respectivo Plan Municipal de Desarrollo y los programas derivados de los mismos.
 
 ###### ARTICULO 3o.
 
@@ -123,7 +135,7 @@ El Sistema Estatal de planeación del Desarrollo, estructurará los esfuerzos de
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal, y los ayuntamientos, a través de sus unidades administrativas que tengan .asignadas las funciones de planeación; con el apoyo de la participación ciudadana, así mismo podrán formar parte del sistema las representaciones en el Estado de las dependencias y entidades de la administración pública federal.
+Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal, y los ayuntamientos, a través de sus unidades administrativas que tengan asignadas las funciones de planeación; con el apoyo de la participación ciudadana, así mismo podrán formar parte del sistema las representaciones en el Estado de las dependencias y entidades de la administración pública federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
 
@@ -521,7 +533,7 @@ III. Un Coordinador General, que será el Subsecretario de Planeación de la Sec
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-IV. Un Secretario Técnico, que será .el titular de la Secretaría de Desarrollo Social del Estado;
+IV. Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo Social del Estado;
 
 V. Los titulares de las dependencias y entidades de la Administración Pública Estatal que señale el C. Gobernador del Estado;
 
@@ -748,3 +760,11 @@ Para dar debido cumplimiento a lo establecido en el artículo 18 del presente de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 244.- QUE CONTIENE REFORMAS A LA LEY DE PLANEACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración de los anteproyectos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
