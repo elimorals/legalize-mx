@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2017-07-16"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -67,11 +67,11 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 1.
 
-La presente ley tiene por objeto regular la organización y funcionamiento de la administración pública centralizada y paraestatal del Estado Libre y Soberano de Durango.
+La presente ley tiene por objeto regular la organización y funcionamiento de la administración pública centralizada y paraestatal del Estado Libre y Soberano de Durango, mismo (sic) que administrarán sus recursos con base en los principios de Legalidad, Honestidad, Eficacia, Eficiencia, Economía, Racionalidad, Austeridad, Transparencia, Control y Rendición de Cuentas.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -107,7 +107,7 @@ IV. Aquellas entidades que por su naturaleza no estén comprendidas en la Admini
 
 ###### ARTICULO 5.
 
-El Gobernador del Estado, por sí o a propuesta de los Titulares de las Secretarías del Ramo, mediante decreto podrá crear órganos desconcentrados que dependerán jerárquicamente de éstas y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso. El decreto correspondiente deberá publicarse en el periódico oficial para que surta sus efectos legales.
+El Gobernador del Estado, por sí o a propuesta de los Titulares de las Secretarías del Ramo, mediante decreto podrá crear órganos desconcentrados que dependerán jerárquicamente de estas y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso. El decreto correspondiente deberá publicarse en el periódico oficial para que surta sus efectos legales.
 
 > <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -137,7 +137,7 @@ VIII. Las que sean propias de la autoridad pública del Gobierno del Estado y qu
 
 ###### ARTICULO 7.
 
-El Ejecutivo del Estado, podrá convocar a reuniones a los titulares de las dependencias, entidades y demás servidores públicos, cuando se trate de definir o evaluar la política de la Administración Pública del Estado en las materias que sean de la competencia de éstos.
+El Ejecutivo del Estado, podrá convocar a reuniones a los titulares de las dependencias, entidades y demás servidores públicos, cuando se trate de definir o evaluar la política de la Administración Pública del Estado en las materias que sean de la competencia de estos.
 
 ###### ARTICULO 8.
 
@@ -147,9 +147,11 @@ El Gobernador del Estado, podrá constituir comisiones intersecretariales para e
 
 El Gobernador del Estado podrá convenir con el Gobierno Federal, con los Estados de la República, los Ayuntamientos locales y los sectores social y privado, incluso con las entidades de la administración pública paraestatal, la prestación de servicios públicos, convenios de coordinación y cualquier acción de Gobierno.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 10.
 
-Las dependencias y entidades de la Administración Pública Estatal programará sus actividades señalando objetivos, metas, así como unidades responsables de su ejecución y presupuesto de gastos para su cumplimiento en concordancia con el Plan Estatal de Desarrollo.
+Las dependencias y entidades de la Administración Pública Estatal programarán sus actividades señalando objetivos, metas, así como unidades responsables de su ejecución y presupuesto de gastos para su cumplimiento deberán ser congruentes con el Plan Estatal de Desarrollo.
 
 ###### ARTICULO 11.
 
@@ -169,17 +171,17 @@ V. Rendir la protesta de ley conforme lo dispone al (sic) Artículo 121 de la Co
 
 ###### ARTICULO 12.
 
-Los titulares de las dependencias y entidades, no podrán aceptar ni desempeñar empleo o cargo de la federación, otros estados o municipios, salvo los casos señalados en las leyes; los de docencia u honoríficos; o de beneficencia pública y privada. La infracción a esta disposición traerá consigo la pérdida del cargo, previo el procedimiento legal respectivo.
+Los titulares de las dependencias y entidades, no podrán aceptar ni desempeñar empleo ó cargo de la federación, otros estados o municipios, salvo los casos señalados en las leyes; los de docencia u honoríficos; ó de beneficencia pública y privada. La infracción a ésta disposición traerá consigo la pérdida del cargo, previo el procedimiento legal respectivo.
 
 ###### ARTICULO 13.
 
 El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, resolverá cualquier duda sobre la competencia de las dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 14.
 
-Cada dependencia y entidad de la Administración Pública Estatal, deberá elaborar su anteproyecto de presupuesto de egresos, con base en el programa respectivo, presentándolo ante la Secretaría de Finanzas y de Administración, la cual lo someterá a consideración del Titular del Poder Ejecutivo, para su autorización.
+Cada dependencia y entidad de la Administración Pública Estatal, deberá elaborar su anteproyecto de presupuesto de egresos, de la Dependencia a su cargo, mismo que deberá contribuir a un balance presupuestario sostenible, ello conforme a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, la Ley General de Contabilidad Gubernamental, y las normas que para tal efecto emita el Consejo de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño: deberán ser congruentes con el Plan Estatal de Desarrollo y los programas derivados del mismo, remitiéndolos junto con los proyectos de inversión a la Secretaría de Finanzas y de Administración, la cual los someterá a consideración del Titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -257,7 +259,7 @@ Para la eficaz atención y despacho de los asuntos de su competencia, las depend
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-Estos órganos desconcentrados se crearán, modificaran o extinguirán por acuerdo o decreto que expida el Titular del Ejecutivo por sí, o a propuesta del Secretario del ramo respectivo.
+Estos órganos desconcentrados se crearán, modificaran o extinguirán por acuerdo o decreto que expida el Titular del Ejecutivo por si, o a propuesta del Secretario del ramo respectivo.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -331,7 +333,7 @@ II.- Conducir por delegación del Ejecutivo, los asuntos de orden político inte
 
 Así mismo deberá fomentar el desarrollo político, contribuir al fortalecimiento de las instituciones democráticas, promover la participación ciudadana y favorecer la construcción de acuerdos políticos y consensos sociales para que en el marco del estado de derecho se preserve la gobernabilidad democrática
 
-III. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otras dependencias;
+III. Cumplir y hacer cumplir los acuerdos, ordenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otras dependencias;
 
 IV. Vigilar en el orden administrativo, la exacta observancia de las leyes, reglamentos y decretos;
 
@@ -461,7 +463,11 @@ IV. Vigilar el cumplimiento de las normas jurídicas hacendarias y las normas co
 
 V. Proyectar y calcular los ingresos del Estado, tomando en cuenta los objetivos y metas de la planeación, bajo un enfoque de una Gestión Pública basada en resultados, las fuentes de recursos y la utilización del crédito público para la ejecución de los programas;
 
-VI. Formular y presentar oportunamente a la consideración del titular del Poder Ejecutivo del Estado el anteproyecto de Ley de Ingresos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+VI. Formular y presentar oportunamente a la consideración del titular del Poder Ejecutivo del Estado el anteproyecto de Ley de Ingresos, del Presupuesto de Egresos, y el programa general del gasto público, conforme a los (sic) establecido en la Ley de Presupuesto, Contabilidad y Gasto Púbico (sic) del Estado, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; el cuál deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados del mismo.
+
+El anteproyecto deberá contribuir a un balance presupuestario sostenible.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -509,9 +515,7 @@ XXV. Publicar anualmente las disposiciones fiscales estatales y municipales;
 
 XXVI. Dirigir la negociación de la Deuda Pública del Estado, llevar su registro y control e informar periódicamente al Gobernador sobre el estado de las amortizaciones de capital y el pago de intereses;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
-
-XXVII. Integrar y presentar el anteproyecto de Presupuesto de Egresos del Gobierno del Estado, al titular del Poder Ejecutivo, considerando las prioridades y objetivos de la planeación bajo un enfoque de un Presupuesto Basado en Resultados, cuyo ejercicio pueda ser medido y evaluado en término de los resultados e impactos alcanzados; tomando en consideración los programas y montos aprobados en materia de gasto de inversión y de gasto corriente;
+XXVII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2017)
 
 XXVIII. Diseñar, instrumentar, implantar y actualizar un sistema de programación de gasto público;
 
@@ -521,11 +525,9 @@ XXX. Formular mensualmente el estado de origen y aplicación de los recursos fin
 
 XXXI. Presentar anualmente al Gobernador, en la primera quincena del mes de marzo, un informe pormenorizado del ejercicio fiscal anterior;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-XXXII. El Titular del Poder Ejecutivo autorizará a través de la Secretaría, las adecuaciones presupuestarias que en su caso soliciten las Dependencias y Entidades, en los términos de las disposiciones aplicables, siempre y cuando tales adecuaciones permitan mejorar sus resultados en la consecución de los objetivos y metas de los programas a su cargo.
-
-Además autorizar y registrar, las ampliaciones y reducciones de los recursos asignados a los programas presupuestarios a cargo de las dependencias y entidades siempre y cuando no rebasen el presupuesto asignado;
+XXXII. Proponer al Gobernador del Estado las modificaciones a los presupuestos de egresos e ingresos, así como las normas y criterios con los cuales podrán realizar transferencias dentro del presupuesto de las dependencias y entidades y, en su caso, definir y aplicar con autorización del Gobernador del Estado, las fuentes alternas de financiamiento que permitan lograr el equilibrio financiero entre los ingresos y egresos; además, a efecto de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto señalados en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
 
 XXXIII. Vigilar los subsidios que conceda el Gobierno del Estado a instituciones o a particulares y comprobar que se destinen a los fines y en los términos establecidos;
 
@@ -633,13 +635,69 @@ LXXI. Mantener actualizado el diagnóstico situacional de la entidad mediante la
 
 LXXII. Establecer normas, criterios y procedimientos de un sistema planificador de inversiones que permita priorizar los proyectos de inversión desde un punto de vista socioeconómico y su incorporación a un banco de proyectos que sirvan como base para la formulación de un programa multianual de inversiones, a fin de lograr una eficiente asignación y administración de los recursos públicos destinados a la inversión;
 
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN LXXIV]</small>
+
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
 
 LXXIII. Evaluar, con la participación de las dependencias y entidades de la administración pública estatal, el ejercicio de los recursos públicos en función de los objetivos y metas del Plan Estatal de Desarrollo, diseñando para tales fines un sistema de evaluación del desempeño, con base en los criterios de la gestión pública basada en resultados; y
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN LXXIII]</small>
 
-LXXIV. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXIV. Evaluar, con la participación de las dependencias y entidades de la administración pública estatal, el ejercicio de los recursos públicos en función de los objetivos y metas del Plan Estatal de Desarrollo, diseñando para tales fines un sistema de evaluación del desempeño, con base en los criterios de la gestión pública basada en resultados;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXV. Elaborar y presentar al Gobernador del Estado, la cuenta pública de conformidad con los plazos estipulados en la ley y en caso de aumento o creación del gasto del Presupuesto de Egresos deberá revelar en la misma y en los informes trimestrales, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado, asimismo, deberá mantener relaciones de coordinación con el Congreso del Estado, a través de la Entidad de Auditoría Superior del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXVI. Reportar en los informes trimestrales y en la Cuenta Pública que entregue al Congreso del Estado y a través de su página oficial de internet, el avance de las acciones previstas en el caso de que la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos prevean un balance presupuestario de recursos disponibles negativo conforme a la legislación aplicable, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXVII. Publicar en su página oficial de internet los resultados de las evaluaciones realizadas respecto al análisis de costo beneficio, socioeconómico y de conveniencia del área encargada de realizarlos; así como la información relativa a los subsidios en los cuales se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXVIII. Autorizar la realización de erogaciones adicionales a las aprobadas en el presupuesto de egresos con cargo a los ingresos excedentes que se obtengan;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXIX. Realizar una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración del Congreso del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXX. Apoyar técnicamente a los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía, en las proyecciones y resultados de finanzas públicas de sus iniciativas de las leyes de ingresos y los proyectos de presupuestos de egresos;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXI. Confirmar que los financiamientos y obligaciones que contrate la Administración Pública Estatal, Centralizada y Paraestatal, fueron celebrados bajo las mejores condiciones de mercado;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXII. Realizar periódicamente la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria a cargo de los Municipios; dicha evaluación deberá publicarse en su página oficial de internet;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXIII. Enviar trimestralmente a la Secretaría de Hacienda y Crédito Público del Gobierno Federal, la información que se especifique en el convenio que se celebre, correspondiente a la Deuda Estatal Garantizada de cada Municipio, para efectos de la evaluación periódica a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXIV. Inscribir y transparentar la totalidad de los Financiamientos y Obligaciones a cargo de los Entes Públicos en el Registro Estatal de Deuda Pública;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXV. Publicar la información financiera de la Administración Pública Estatal, Centralizada y Paraestatal, de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, deberán presentar la opinión de la Entidad de Auditoría Superior del Estado, en la que se manifieste el cumplimiento de dicha publicación;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXVI. Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+LXXXVII. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -1635,7 +1693,7 @@ XVII. Vigilar que se proporcione asesoría gratuita en materia laboral a los sin
 
 XVIII. Vigilar la instalación y funcionamiento de las comisiones obrero patronales que establezca la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
 
-XIX. Promover el incremento de la productividad del trabajo en el territorio estatal en coordinación con la Secretaria de Desarrollo Económico;
+XIX. Promover el incremento de la productividad del trabajo en el territorio estatal en coordinación con la Secretaría de Desarrollo Económico;
 
 XX. Realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación para incrementar la productividad en el trabajo que requieran los sectores productivos del Estado, en coordinación con otras dependencias;
 
@@ -1771,7 +1829,7 @@ XIV. Celebrar convenios con los ayuntamientos, para la custodia de reos, sujetos
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2006)</small>
 
-XV. Ejecutar y vigilar las medidas impuestas por el Tribunal de Menores Infractores del Estado de Durango, de conformidad con las disposiciones del Código de Justicia para menores Infractores del Estado de Durango; organizar, dirigir, administrar, supervisar, controlar y vigilar los Centros Especializados de Readaptación y Tratamiento para Menores Infractores del Estado de Durango; Cumplimentar los requerimientos y mandamientos de los Jueces de Ejecución de Menores, y organizar y dirigir las actividades de apoyo a los liberados;
+XV. Ejecutar y vigilar las medidas impuestas por el Tribunal de Menores Infractores del Estado de Durango, de conformidad con las disposiciones del Código de Justicia para Menores Infractores del Estado de Durango; organizar, dirigir, administrar, supervisar, controlar y vigilar los Centros Especializados de Readaptación y Tratamiento para Menores Infractores del Estado de Durango; cumplimentar los requerimientos y mandamientos de los Jueces de Ejecución de Menores, y organizar y dirigir las actividades de apoyo a los liberados;
 
 XVI. Diseñar, proponer y en su caso establecer programas tendientes a prevenir el pandillerismo, el alcoholismo y la farmacodependencia, en coordinación con las dependencias federales, estatales y municipales competentes;
 
@@ -2609,7 +2667,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192.- POR EL QUE SE REFORMA EL ARTICULO 36 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 192.- POR EL QUE SE REFORMA EL ARTICULO 36 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2618,3 +2676,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 225.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, con las salvedades previstas en los siguientes artículos.
+
+SEGUNDO. Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria del Estado, a que hace referencia el artículo 30 fracciones VI, XXXII, LXXVI, LXXVIII y LXXIX del presente Decreto, entrarán en vigor para el ejercicio fiscal 2018, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+TERCERO. Las obligaciones relacionadas con el Registro Único, serán aplicables hasta la entrada en operación del mismo, de conformidad con lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
