@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2016-12-11"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -107,9 +107,11 @@ VIII. Pronunciarse sobre las inconformidades que se formulen en contra de actuac
 
 IX. Designar Agentes del Ministerio Público especiales para que intervengan en asuntos en los que a su juicio sea útil esa intervención;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-X. Proponer el anteproyecto de presupuesto anual de egresos de la Institución y someterlo a la consideración del Titular del Poder Ejecutivo del Estado;
+X. Presentar anualmente el anteproyecto de presupuesto de egresos de la Institución, ante la Secretaría de Finanzas y de Administración para su integración al presupuesto del Gobierno del Estado para el trámite de aprobación respectivo, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 XI. Comparecer ante el Congreso del Estado cuando sea requerido, para informar de los asuntos a su cargo;
 
@@ -303,7 +305,7 @@ Toda víctima u ofendido del delito, podrá coadyuvar con el Ministerio Público
 
 ###### Artículo 14.
 
-En las funciones de investigación y persecución de los delitos, los elementos de la Policía investigadora de Delitos, además de las obligaciones que establece el artículo 132 del Código Nacional de Procedimientos Penales, tendrán las siguientes atribuciones:
+En las funciones de investigación y persecución de los delitos, los elementos de la Policía Investigadora de Delitos, además de las obligaciones que establece el artículo 132 del Código Nacional de Procedimientos Penales, tendrán las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1392,3 +1394,11 @@ TERCERO.- Toda mención en otras leyes, reglamentos, decretos, acuerdos u ordena
 CUARTO.- En un término de sesenta días naturales, a partir de la publicación del presente Decreto, deberán quedar debidamente armonizadas, conforme al contenido de la reforma, todos y cada uno de los instrumentos que conforman el marco normativo bajo el que se rige la función y organización de la función del Ministerio Público en el Estado de Durango.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 226.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
