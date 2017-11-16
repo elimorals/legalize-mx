@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-universidad-juarez-del-estado-de-durango-958
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-15"
-last_updated: "2013-08-15"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el jueves 15 de agosto de 2013.
 
@@ -627,7 +629,11 @@ IX.- Cuidar que dentro de la unidad académica se desarrollen las labores de man
 
 X.- Profesar cuando menos una cátedra en la unidad respectiva;
 
-XI.- Formular y presentar el presupuesto anual de su unidad, y vigilar el control de su ejercicio;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Formular y presentar el anteproyecto de presupuesto anual de su unidad, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además de vigilar el control de su ejercicio, y deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 XII.- Rendir un informe anual de las actividades realizadas en el ejercicio de su mandato ante la comunidad de su unidad y remitirlo al Rector, y
 
@@ -1148,3 +1154,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 227.- QUE CONTIENE REFORMAS A LA LEY ORÁNICA (SIC) DE LA UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
