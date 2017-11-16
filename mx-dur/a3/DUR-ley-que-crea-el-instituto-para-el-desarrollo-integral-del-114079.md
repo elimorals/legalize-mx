@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-para-el-desarrollo-integral-del-11407
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-07"
-last_updated: "2016-04-07"
+last_updated: "2017-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de abril de 2016.
 
@@ -355,13 +355,25 @@ VI. Formular los programas institucionales de corto, mediano y largo plazos;
 
 VII. Formular anualmente el anteproyecto de presupuesto del Instituto, para someterlo a la aprobación de la Junta, el informe de actividades, avances de programas, estados financieros y los que específicamente le solicite este órgano;
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto de presupuesto de egresos, deberá ser elaborado y autorizado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, además deberá ser remitido a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para su integración al presupuesto del Gobierno del Estado para su trámite de aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
+
 VIII. Elaborar el informe anual sobre el desempeño de las funciones del Instituto y someterlo a aprobación de la Junta;
 
 IX. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
 
-XI (SIC). Ejercer en el ámbito Estatal las atribuciones que le correspondan en virtud de la Legislación Federal en materia de adultos mayores; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
-X (SIC). Las demás que le otorguen otras disposiciones jurídicas aplicables y las que le asigne la Junta.
+X. Ejercer en el ámbito Estatal las atribuciones que le correspondan en virtud de la Legislación Federal en materia de adultos mayores; y
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
+XI. Las demás que le otorguen otras disposiciones jurídicas aplicables y las que le asigne la Junta.
 
 #### SECCIÓN CUARTA. DEL PATRIMONIO DEL INSTITUTO
 
@@ -577,7 +589,7 @@ III. Promover programas y acciones que generen, fomenten y fortalezcan las oport
 
 IV. Instrumentar y fortalecer en coordinación con el DIF y con las instituciones públicas y privadas los programas y acciones de desarrollo social y humano dirigidas a las personas adultas mayores;
 
-V. Vincular y establecer mecanismos de coordinación con las dependencias y entidades federales, estatales y municipales que corresponda, para la concertacion de programas y acciones que garanticen el desarrollo integral de las personas adultas mayores;
+V. Vincular y establecer mecanismos de coordinación con las dependencias y entidades federales, estatales y municipales que corresponda, para la concertación de programas y acciones que garanticen el desarrollo integral de las personas adultas mayores;
 
 VI. Brindar atención, en materia de desarrollo social, a las personas adultas mayores con el propósito de que disminuya su situación de vulnerabilidad, a través de acciones que incidan en el mejoramiento de sus condiciones básicas de bienestar;
 
@@ -752,3 +764,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 222.- QUE CONTIENE REFORMAS A LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
