@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2017-10-06"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -289,7 +289,9 @@ XIV.- Proponer al Ayuntamiento para su aprobación el Dictamen Técnico donde se
 
 XV.- Dictar los acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público de transporte de pasajeros y de carga, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
 
-XVI.- Calificar las infracciones e imponer las sanciones correspondientes por violaciones al presente reglamento, en lo que se refiere a la prestación de los servicios público de transporte de pasajeros y carga, excepto en materia de tránsito y vialidad;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+XVI.- Calificar las infracciones e imponer las sanciones correspondientes por violaciones al presente reglamento, en lo que se refiere a la prestación de los servicios público (sic) de transporte de pasajeros y carga.
 
 XVII.- Decretar la suspensión temporal de los permisos, en los casos que conforme al reglamento sea procedente;
 
@@ -1471,95 +1473,95 @@ X.- La carencia o falta de datos esenciales de la hoja de ruta y otra documentac
 
 XI.- Cualquiera de las infracciones previstas cuando por su naturaleza, ocasión o circunstancia no deba ser calificado como grave.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 96.
 
 Se considerarán infracciones graves:
 
-a.- La realización de transporte con vehículos ajenos sobre los que no se tengan las condiciones de disponibilidad legalmente exigibles, así como utilizar para el transporte vehículos arrendados a otros transportistas o utilizar la colaboración de los mismos fuera de los supuestos o incumpliendo las condiciones legalmente establecidas, salvo que deba ser considerada falta muy grave de conformidad con lo previsto en el primer párrafo del artículo 97. En idéntica infracción incurrirán los transportistas que actúen como arrendadores o colaboradores incumpliendo las condiciones que les afecten.
+I.- La realización de transporte con vehículos ajenos sobre los que no se tengan las condiciones de disponibilidad legalmente exigibles, así como utilizar para el transporte vehículos arrendados a otros transportistas o utilizar la colaboración de los mismos fuera de los supuestos o incumpliendo las condiciones legalmente establecidas, salvo que deba ser considerada falta muy grave de conformidad con lo previsto en el primer párrafo del artículo 97. En idéntica infracción incurrirán los transportistas que actúen como arrendadores o colaboradores incumpliendo las condiciones que les afecten.
 
-b.- El incumplimiento de las condiciones esenciales del permiso o concesión, salvo que deba calificarse como infracción muy grave conforme a lo previsto en el artículo 97. A tal efecto se considerarán condiciones esenciales del permiso o concesión aquellos aspectos que configuren la naturaleza del servicio o actividad de que se trate y delimiten su ámbito, así como el mantenimiento de los requisitos exigidos para su otorgamiento y realización, según lo que reglamentariamente se determine.
+II.- El incumplimiento de las condiciones esenciales del permiso o concesión, salvo que deba calificarse como infracción muy grave conforme a lo previsto en el artículo 97. A tal efecto se considerarán condiciones esenciales del permiso o concesión aquellos aspectos que configuren la naturaleza del servicio o actividad de que se trate y delimiten su ámbito, así como el mantenimiento de los requisitos exigidos para su otorgamiento y realización, según lo que reglamentariamente se determine.
 
-c.- La prestación de servicios públicos de transporte, utilizando la mediación de persona física o moral no autorizada para ello, sin perjuicio de la sanción que al mediador pueda corresponderle, de conformidad con lo previsto en el presente reglamento.
+III.- La prestación de servicios públicos de transporte, utilizando la mediación de persona física o moral no autorizada para ello, sin perjuicio de la sanción que al mediador pueda corresponderle, de conformidad con lo previsto en el presente reglamento.
 
-d.- El incumplimiento del régimen tarifario. La responsabilidad corresponderá en todo caso al permisionario, concesionario y/o chofer.
+IV.- El incumplimiento del régimen tarifario. La responsabilidad corresponderá en todo caso al permisionario, concesionario y/o chofer.
 
-e.- La carencia o no adecuado funcionamiento, imputable al transportista o manipulación de los instrumentos de medición, sus elementos, u otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, o no pasar la revisión periódica de los mismos en los plazos y forma legalmente establecidos.
+V.- La carencia o no adecuado funcionamiento, imputable al transportista o manipulación de los instrumentos de medición, sus elementos, u otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, o no pasar la revisión periódica de los mismos en los plazos y forma legalmente establecidos.
 
-f.- El exceso sobre el peso máximo autorizado superior a los porcentajes comprendidos entre el 6 y el 15% del mismo que reglamentariamente se determine en relación con los distintos tipos de vehículos, mercancías transportadas, salvo que dicho exceso deba ser considerado falta muy grave, conforme a lo dispuesto en el artículo anterior.
+VI.- El exceso sobre el peso máximo autorizado superior a los porcentajes comprendidos entre el 6 y el 15% del mismo que reglamentariamente se determine en relación con los distintos tipos de vehículos, mercancías transportadas, salvo que dicho exceso deba ser considerado falta muy grave, conforme a lo dispuesto en el artículo anterior.
 
-g.- El reiterado incumplimiento no justificado de los horarios en los servicios en que éstos vengan prefijados con el permiso o concesión correspondiente.
+VII.- El reiterado incumplimiento no justificado de los horarios en los servicios en que éstos vengan prefijados con el permiso o concesión correspondiente.
 
-h.- Carecer del documento en el que se anuncien los teléfonos y Unidad Municipal de Transporte en donde deben formularse las reclamaciones de los usuarios.
+VIII.- Carecer del documento en el que se anuncien los teléfonos y Unidad Municipal de Transporte en donde deben formularse las reclamaciones de los usuarios.
 
-i.- La negativa y obstrucción a la actuación de los servicios de inspección cuando no se den las circunstancias previstas en este reglamento.
+IX.- La negativa y obstrucción a la actuación de los servicios de inspección cuando no se den las circunstancias previstas en este reglamento.
 
-j.- La no suscripción de los seguros que haya obligación de realizar de conformidad con lo que dispone el presente reglamento.
+X.- La no suscripción de los seguros que haya obligación de realizar de conform dad (sic) con lo que dispone el presente reglamento.
 
-k.- Cualquiera de las infracciones previstas en el artículo 97, cuando por su naturaleza, ocasión o circunstancia no deba ser calificada como muy grave.
+XI.- Cualquiera de las infracciones previstas en el artículo 97, cuando por su naturaleza, ocasión o circunstancia no deba ser calificada como muy grave.
 
-l.- El exceso superior al 30% en los tiempos máximos de conducción permitidos, salvo que dicho exceso deba ser considerado falta muy grave de conformidad con lo previsto en el artículo 97.
+XII.- El exceso superior al 30% en los tiempos máximos de conducción permitidos, salvo que dicho exceso deba ser considerado falta muy grave de conformidad con lo previsto en el artículo 97.
 
-m.- La obstaculización de una o varias vialidades que impida el paso de vehículos automotores o peatones y que suceda cuando con pretexto de hacerse de pasajeros o ganar el paso a otros concesionarios o permisionarios siempre que esta conducta afecte la normal circulación vehicular y peatonal.
+XIII.- La obstaculización de una o varias vialidades que impida el paso de vehículos automotores o peatones y que suceda cuando con pretexto de hacerse de pasajeros o ganar el paso a otros concesionarios o permisionarios siempre que esta conducta afecte la normal circulación vehicular y peatonal.
 
-n.- Cualquier otra infracción no incluida en los apartados siguientes, que las normas reguladoras de los transportes califiquen como grave, de acuerdo con los principios del régimen sancionador establecido en el presente capítulo.
+XIV.- Cualquier otra infracción no incluida en los apartados siguientes, que las normas reguladoras de los transportes califiquen como grave, de acuerdo con los principios del régimen sancionador establecido en el presente capítulo.
 
-ñ.- La reincidencia en las infracciones que se hayan calificado como leves, cuando en los doce meses anteriores a su comisión el responsable haya sido objeto de sanción mediante resolución definitiva por infracción en un mismo apartado de dicho artículo, salvo que se trate de infracciones que tengan distinta naturaleza. No obstante lo anterior, en la calificación de la infracción se estará a las agravantes que determina el presente reglamento.
+XV.- La reincidencia en las infracciones que se hayan calificado como leves, cuando en los doce meses anteriores a su comisión el responsable haya sido objeto de sanción mediante resolución definitiva por infracción en un mismo apartado de dicho artículo, salvo que se trate de infracciones que tengan distinta naturaleza. No obstante lo anterior, en la calificación de la infracción se estará a las agravantes que determina el presente reglamento.
 
-o.- El trato desconsiderado con los usuarios, pasajeros y peatones. La infracción a que se refiere este apartado se sancionará teniendo en cuenta los supuestos que al respecto contemple la normativa sobre los derechos de los usuario (sic), pasajeros y peatones.
+XVI.- El trato desconsiderado con los usuarios, pasajeros y peatones. La infracción a que se refiere este apartado se sancionará teniendo en cuenta los supuestos que al respecto contemple la normativa sobre los derechos de los usuario (sic), pasajeros y peatones.
 
-p.- La no comunicación de los datos esenciales que reglamentariamente se determinen y que deban ser inscritos en el Registro Público del Transporte, o puestos por otra causa en conocimiento de la Unidad. Cuando dicha falta de comunicación fuera determinante para el conocimiento por la Unidad Municipal de Transporte de hechos sancionables, se considerará interrumpido el plazo de prescripción hasta que la comunicación se produzca.
+XVII.- La no comunicación de los datos esenciales que reglamentariamente se determinen y que deban ser inscritos en el Registro Público del Transporte, o puestos por otra causa en conocimiento de la Unidad Municipal de Transporte. Cuando dicha falta de comunicación fuera determinante para el conocimiento por la Unidad de hechos sancionables, se considerará interrumpido el plazo de prescripción hasta que la comunicación se produzca.
 
-No obstante lo anterior, en la calificación de la infracción señalada en este apartado, se estará a lo que se dispone en material de agravantes del presente reglamento.
+No obstante lo anterior, en la calificación de la infracción señalada en este apartado, se estará a lo que se dispone en material (sic) de agravantes del presente reglamento.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 97.
 
 Se consideran infracciones muy graves:
 
-a.- La realización de transportes o actividades auxiliares o complementarias de los mismos para las cuales la normativa reglamentaria del transporte exija permiso o concesión careciendo del mismo o de la actividad de que se trate.
+I.- La realización de transportes o actividades auxiliares o complementarias de los mismos para las cuales la normativa reglamentaria del transporte exija permiso o concesión careciendo del mismo o de la actividad de que se trate.
 
-b.- La prestación de servicios en condiciones que puedan afectar a la seguridad de las personas por entrañar peligro grave y directo para las mismas.
+II.- La prestación de servicios en condiciones que puedan afectar a la seguridad de las personas por entrañar peligro grave y directo para las mismas.
 
-c.- El exceso en el peso máximo autorizado de los vehículos que señalen las normas oficiales o las del fabricante del vehículo, superior a los porcentajes comprendidos entre el 15 y el 25% del mismo que reglamentariamente se determinen en relación con los distintos tipos de vehículos, mercancías transportadas y con las instalaciones de carga utilizadas.
+II (SIC).- El exceso en el peso máximo autorizado de los vehículos que señalen las normas oficiales o las del fabricante del vehículo, superior a los porcentajes comprendidos entre el 15 y el 25% del mismo que reglamentariamente se determinen en relación con los distintos tipos de vehículos, mercancías transportadas y con las instalaciones de carga utilizados.
 
 La responsabilidad de dicha infracción, corresponderá tanto al permisionario al concesionario en su caso, al transportista, al cargador y al intermediario, salvo que alguno de ellos justifique respecto a sí mismo la existencia de causas de inimputabilidad.
 
-d.- Llevar en lugar visible del vehículo el distintivo correspondiente a un ámbito territorial o clase de transporte para cuya realización no se halle facultado por el necesario permiso o concesión.
+IV.- Llevar en lugar visible del vehículo el distintivo correspondiente a un ámbito territorial o clase de transporte para cuya realización no se halle facultado por el necesario permiso o concesión.
 
-e.- La reincidencia a la negativa y obstrucción de la actuación de los servicios de inspección que impida el ejercicio de las funciones que legal o reglamentariamente tengan éstos atribuidas.
+V.- La reincidencia a la negativa y obstrucción de la actuación de los servicios de inspección que impida el ejercicio de las funciones que legal o reglamentariamente tengan éstos atribuidas.
 
-f.- La utilización de permisos expedidos a nombre de otras personas sin realizar previamente la transmisión de los mismos, de conformidad con (sic) establecido en este reglamento. La responsabilidad por esta infracción corresponderá, tanto a los que utilicen permisos ajenos, como a las personas a cuyo nombre estén éstos, salvo que demuestren que la utilización se ha hecho sin su consentimiento.
+VI.- La utilización de permisos expedidos a nombre de otras personas sin realizar previamente la transmisión de los mismos, de conformidad con (sic) establecido en este reglamento. La responsabilidad por esta infracción corresponderá, tanto a los que utilicen permisos ajenos, como a las personas a cuyo nombre estén éstos, salvo que demuestren que la utilización se ha hecho sin su consentimiento.
 
-g.- La reincidencia en las infracciones que se hayan calificado como graves de acuerdo con lo previsto en este reglamento, cuando en los doce meses anteriores a su comisión el responsable de la misma haya sido objeto de sanción mediante resolución definitiva por infracción tipificada en un mismo apartado de dicho artículo. No obstante lo anterior, en la calificación de la infracción se estará a las agravantes que determina el presente reglamento.
+VII.- La reincidencia en las infracciones que se hayan calificado como graves de acuerdo con lo previsto en este reglamento, cuando en los doce meses anteriores a su comisión el responsable de la misma haya sido objeto de sanción mediante resolución definitiva por infracción tipificada en un mismo aportado de dicho artículo. No obstante lo anterior, en la calificación de la infracción se estará a las agravantes que determina el presente reglamento.
 
-h.- El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
+VIII.- El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 98.
 
-Las infracciones leves se sancionarán con apercibimiento y/o multa de hasta 100 salarios mínimos vigentes; las graves, con multa de 101 hasta 350 salarios mínimos y las muy graves, con multa de 351 a 500 salarios mínimos.
+Las infracciones leves se sancionarán con apercibimiento y/o multa de hasta 100 Unidades de Medida y Actualización; las graves, con multa de 101 hasta 349 Unidades de Medida y Actualización y las muy graves, con multa de 350 Unidades de Medida y Actualización.
 
 La cuantía de la sanción que se imponga, dentro de los límites establecidos en el párrafo anterior, se graduará de acuerdo con la repercusión social de la infracción, la intencionalidad, la reincidencia, el daño causado en su caso, o el número de infracciones cometidas a una o varias disposiciones legales y reglamentarias.
 
-La comisión de las infracciones previstas en los apartados a) y b) del artículo 97, podrá implicar independientemente de la sanción pecuniaria que corresponda, el retiro del correspondiente permiso, así como la clausura del local en el que, en su caso, vengan ejercitando las actividades, en ambos supuestos durante el plazo máximo de un año, sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.
+La comisión de las infracciones previstas en los fracciones I) y II) del artículo 97, podrá implicar independientemente de la sanción pecuniaria que corresponda, el retiro del correspondiente permiso, así como la clausura del local en el que, en su caso, vengan ejercitando las actividades, en ambos supuestos durante el plazo máximo de un año, sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.
 
-La infracción prevista en el apartado f) del artículo 97, además de la sanción pecuniaria que corresponda, llevará a la revocación del correspondiente permiso.
+La infracción prevista en la fracción VI del artículo 97, además de la sanción pecuniaria que corresponda, llevará a la revocación del correspondiente permiso.
 
 Cuando los responsables de las infracciones previstas en el artículo 97 hayan sido sancionados mediante resolución definitiva por infracción tipificada en el mismo apartado de dicho artículo, en los doce meses anteriores a la comisión de la misma, la infracción llevará a la suspensión temporal del correspondiente permiso, al amparo del cual se realizaba la actividad o se prestaba el servicio, por el plazo máximo de un año. La tercera y sucesivas infracciones en el citado plazo de doce meses, llevarán a la suspensión temporal o definitiva de la autorización. En el cómputo del referido plazo no se tendrán en cuenta los períodos en que no haya sido posible realizar la actividad o prestar el servicio por haber sido temporalmente retirada la autorización.
 
-Cuando sean detectadas infracciones que deban ser denunciadas de acuerdo con lo previsto en los apartados a), b) y c) del artículo 97 y del artículo 96 en sus apartados f), y l), podrá ordenarse la inmediata paralización del vehículo hasta que se supriman los motivos determinantes de la infracción, pudiendo la Unidad Municipal de Transporte adoptar las medidas necesarias a fin de que los usuarios sufran la menor perturbación posible.
+Cuando sean detectadas infracciones que deban ser denunciadas de acuerdo con lo previsto en las fracciones I), II) y III) del artículo 97 y del artículo 96 en sus apartados VI), y XII), podrá ordenarse la inmediata paralización del vehículo hasta que se supriman los motivos determinantes de la infracción, pudiendo la Unidad Municipal de Transporte adoptar las medidas necesarias a fin de que los usuarios sufran la menor perturbación posible.
 
 Independientemente de las sanciones que correspondan de conformidad con este reglamento el incumplimiento reiterado o de manifiesta gravedad de las condiciones esenciales del permiso, podrá dar lugar a la revocación del permiso, en ambos casos con pérdida de la respectiva fianza.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 99.
 
-La competencia para la imposición de las sanciones previstas en el presente reglamento corresponde al Director de la Unidad Municipal de Transporte y a los inspectores que para tales efectos se habiliten; así como previa solicitud por escrito y aceptación de la misma a las corporaciones policíacas ministeriales, agentes del ministerio público en el estado de Baja California, las dependencias o entidades de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, a la preservación del orden público y la seguridad; también los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, en los términos del artículo 2 del presente reglamento.
+La competencia para la imposición de las sanciones previstas en el presente reglamento corresponde al (sic) Unidad Municipal de Transporte y a los inspectores que para tales efectos se habiliten; así como previa solicitud por escrito y aceptación de la misma a las corporaciones policíacas ministeriales, agentes del ministerio público en el estado de Baja California, las dependencias o entidades de seguridad pública municipal en lo que se refiere al control del tránsito y la vialidad, a la preservación del orden público y la seguridad; también los jueces calificadores y el personal que se autorice de los servicios médicos municipales y demás autoridades que tengan funciones relacionadas con el transporte de pasajeros y de carga en el municipio, salvo que estén atribuidas a otro órgano de la Administración Pública, en los términos del artículo 2 del presente reglamento.
 
 En la imposición y ejecución de las sanciones por infracciones cometidas por personas que no acrediten su residencia dentro del territorio municipal, serán de aplicación las reglas específicas que reglamentariamente se determinen, las cuales se basarán en las normas establecidas para similares supuestos en los reglamentos y leyes respectivas.
 
@@ -1569,7 +1571,7 @@ El pago de las sanciones pecuniarias, impuestas por resolución definitiva, ser�
 
 Asimismo, la realización de dicho pago de sanciones será requisito exigible para que proceda la autorización administrativa a la transferencia de los vehículos con los que se hayan cometido las infracciones a las que las referidas sanciones correspondan.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 100.
 
@@ -1590,6 +1592,278 @@ VI.- Cuando el conductor no porte licencia o no sea la que corresponda al tipo m
 VII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Unidad; y
 
 VIII.- En caso de que el conductor se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 101.
+
+Podrán imponerse en materia de transporte las siguientes sanciones:
+
+a) Amonestación.
+
+b) Apercibimiento.
+
+c) Multa
+
+d) Cancelación o revocación.
+
+Entendiéndose por:
+
+Amonestación.- El conductor de una unidad de transporte público será acreedor a una amonestación mediante documento, mismo que quedara aceptado como antecedente posterior a tres infracciones cometidas en un periodo de treinta días;
+
+Apercibimiento.- El conductor de la unidad de transporte público será acreedor a un apercibimiento mediante documento si en el lapso de seis meses comete nuevamente una infracción, o por reincidencia de resultados positivos en el examen antidoping realizado por el Departamento de Servicios Médicos Municipales, quedando sujeto al procedimiento de suspensión de Licencia de Conducir, pudiéndose determinar hasta su cancelación; iniciando por un periodo de treinta días y hasta un año, conforme lo determine la Unidad Municipal de Transporte.
+
+Multa.- El pago de las multas a que se refieren los artículos 95, 96 y 97 del presente reglamento y tratándose de conductores que sean reincidentes, podrán ser permutados por 6 horas de trabajo en favor de la comunidad o cuando por su situación económica así lo demande el infractor o bien asistir al curso de capacitación en materia de tránsito y educación vial.
+
+Cancelación o revocación de concesiones y permisos para prestar el servicio de transporte público.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 102.
+
+Los inspectores de la Unidad Municipal de Transporte, en ausencia de autoridad de tránsito municipal, sancionarán de 10 a 20 UMAS a los operadores del servicio de transporte público cuando estos incurran en alguna falta al Reglamento de Tránsito Municipal de Ensenada.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 103.
+
+Se sancionará con multa de 1 a 3 veces el valor diario de la Unidad de Medida y Actualización por:
+
+I.- No llevar exteriormente en forma legible e iluminado por la noche, un rotulo que contenga el nombre de la ruta a recorrer.
+
+II.- Falta de pasamanos en unidad de pasajeros.
+
+III.- Entorpecer la circulación por falta de combustible.
+
+IV.- Exceso de ruido producido por aparato de sonido
+
+V.- Permitir, dentro de un minibús, que un usuario viaje en el pasillo o en el lugar en que se encuentra ubicado el motor.
+
+VI.- Permitir el conductor de la unidad el ascenso de personas en visible estado de ebriedad o bajo el influjo de drogas.
+
+VII.- No conservar las instalaciones y equipo en condiciones de dar un servicio eficiente.
+
+VIII.- No dar aviso a la Unidad Municipal de Transporte, el cambio de color de unidad de pasajeros.
+
+IX.- No colocar señalamientos viales correspondientes en vehículos en malas condiciones mecánicas que pudieran obstruir o entorpecer la circulación.
+
+X.- No traer puertas de acceso con barras de apoyo fijas a la carrocería
+
+XI.- Falta de piso anti derrapante.
+
+XII.- Estacionarse fuera de sitio.
+
+XIII.- No colocar en lugar visible el número de sitio.
+
+XIV.- No reportar la suspensión del servicio.
+
+XV.- Realizar servicio público de transporte sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestar los mismos.
+
+XVI.- no llevar en lugar visible del vehículo los distintivos exigidos por la ley y la normativa vigente, relativos al tipo de transporte que esté autorizado a realizar, o llevarlos en condiciones que dificulten su percepción, así como la utilización inadecuada de los referidos distintivos.
+
+XVII.- No portar en lugar visible de la unidad el tarjetón.
+
+XVIII.- Conducir con tarjetón no vigente.
+
+XIX.- Falta de una de las placas.
+
+XX.- Traer en su vehículo volante no reglamentario
+
+XXI.- Falta de espejos laterales.
+
+XXII.- No disminuir la velocidad, de acuerdo a las condiciones del tránsito, del camino, de la visibilidad del vehículo y del propio conductor.
+
+XXIII.- No satisfacer permanentemente todas las condiciones de seguridad y de higiene, acatando cuidadosamente todas las órdenes que den las autoridades sanitarias.
+
+XXIV.- llevar adornos que impida (sic) parcialmente la visibilidad del conductor.
+
+XXV.- llantas en mal estado, en vehículos automotores, remolques o semirremolques.
+
+XXVI.- Hacer sitio en lugar no autorizado.
+
+XXVII.- Hacer terminal sobre la vía pública.
+
+XXVIII.- Falta de timbre en unidades de pasajeros para anunciar la bajada de los mismos.
+
+XXIX.- No portar el uniforme.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 104.
+
+Se sancionará con multa de 4 a 6 veces el valor diario de la Unidades (sic) de Medida y Actualización por:
+
+I.- Trasportar mayor número de viajeros de los autorizados para el vehículo de que se trate. Para la aplicación de dicha sanción no deberá ser superior a los porcentajes comprendidos entre el 2.5 y el 6%, que reglamentariamente se determinen en relación con los distintos tipos de vehículos, mercancías transportadas y con las instalaciones de carga utilizadas.
+
+II.- Circular con las puertas de ascenso y descenso de pasajeros en mal estado.
+
+III.- Obstruir la circulación de peatones y vehículos, poner en peligro a las personas o causar daños a propiedades privadas o públicas.
+
+IV.- Ejercer el servicio de transporte público en vehículos que no lleven señalada su razón social.
+
+V.- No poner señales de protección para bajar o subir pasaje.
+
+VI.- Hacer servicio de carga sin permiso en vehículo.
+
+VII.- Falta de precaución al abrir las portezuelas.
+
+VIII.- No mantener las puertas cerradas con el vehículo en movimiento.
+
+IX.- Pasar sobre una manguera de bomberos.
+
+X.- No dar aviso de cambio de motor en el vehículo destinado al servicio público de transporte.
+
+XI.- No dar aviso a la Unidad Municipal de Transporte del cambio de domicilio del permisionario o concesionario.
+
+XII.- Frenar bruscamente vehículo destinado al servicio público de transporte.
+
+XIII.- Realizar reparaciones en la vía pública no tratándose de emergencias.
+
+XIV.- Falta de aseo en zona destinada para sitio.
+
+XV.- Falta de indicador de ruta en la unidad de pasajeros.
+
+XVI.- Circular con pasajeros en los estribos o en el exterior de lo unidad.
+
+XVII.- Circular con placas en lugares no designados para ello.
+
+XVIII.- Depositar en la vía pública materiales de cualquier naturaleza.
+
+XIX.- La falta de aseo del operador.
+
+XX.- No poner en funcionamiento dispositivos luminosos especiales para ascenso y descenso de escolares.
+
+XXI.- Bajar o subir pasaje en lugares que no ofrecen seguridad a los usuarios.
+
+XXII.- Efectuar maniobras de carga y descarga fuera del horario autorizado.
+
+XXIII.- Circular un camión de carga fuera de horario autorizado.
+
+XXIV.- Arrastrar la carga en vía pública.
+
+XXV.- Traer el silenciador modificado.
+
+XXVI.- No dar de baja en la Unidad Municipal de Transporte el vehículo destinado al servicio público de transporte cuando ya no esté en condiciones de circular.
+
+XXVII.- El exceso de carga fuera del límite especificado por el fabricante y lo asentado en el reglamento, estorbando la visibilidad del operador.
+
+XXVIII.- Carecer de los cuadros de tarifas, calendarios, horarios, avisos y otros de obligada exhibición para conocimiento del público.
+
+XXIX.- Carecer de número económico autorizado o cambiarlo en los vehículos del servicio público de transporte.
+
+XXX.- Hacer reparaciones mecánicas con pasajeros a bordo de la unidad.
+
+XXXI.- Falta de aseo en su interior y exterior del vehículo.
+
+XXXII.- Traer dispositivos, contraseñas u objetos que impidan ver con claridad los letras o números en forma parcial o total
+
+XXXIII.- Colocar objetos que impidan la visibilidad de las placas
+
+XXXIV.- No hacer cambio de propietario del vehículo al servicio público de transporte en caso de cesiones de derecho o algún acto de traslación de dominio.
+
+XXXV.- Circular con las puertas de emergencia en mal estado.
+
+XXXVI.- Modificar la carrocería.
+
+XXXVII.- Falta de freno de emergencia.
+
+XXXVIII.- Velocímetro en mal estado.
+
+XXXIX.- Permitir el permisionario o concesionario la conducción de un vehículo destinado al servicio público de transporte a persona que carezca de licencia de conducir.
+
+XL.- No proporcionar el boleto al usuario del servicio público de trasporte (sic).
+
+XLI.- Toda descortesía u ofensas al usuario por parte del operador.
+
+XLII.- No guardar el personal operador la debida compostura.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 105.
+
+Se sancionará con multa de 7 a 10 veces el valor diario de la Unidades (sic) de Medida y Actualización:
+
+I.- Por falta de señalamientos en carga sobresaliente.
+
+II.- Por no contar con suscripción de los seguros que haya obligación de realizar de conformidad con lo que dispone el presente reglamento.
+
+III.- Por la falta de seguro del viajero.
+
+IV.- Por falta de revisión mecánica.
+
+V.- Por conducir sin las condiciones físicas o mentales necesarias.
+
+VI.- Por permitir manejar a un menor de edad que no tenga licencia de conducir.
+
+VII.- Por traer carga que no esté debidamente cubierta.
+
+VIII.- Por conducir una unidad de pasajeros con tarjetón cancelado o suspendido.
+
+IX.- Por no cumplir con lo estipulado en las concesiones y permisos para los servicios públicos de transporte de pasajeros y de carga.
+
+X.- A los operadores que inicien una discusión en la vía pública. Si la discusión terminara en riña se suspenderá al operador de transporte público por un periodo de 15 días naturales, esto sin perjuicio de las sanciones civiles o penales que procedan.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 106.
+
+Se sancionará con multa de 15 veces el valor diario de la Unidad de Medida y Actualización:
+
+I.- Al operador de transporte de pasajeros que no acepte credencial vigente de descuento a adultos mayores y estudiantes.
+
+II.- Cuando el operador no de aviso a la autoridad después de ocurrir un siniestro.
+
+III.- Por proveerse de combustible, los vehículos del servicio público con pasajeros o bordo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 107.
+
+Se sancionará con multa de 20 veces el valor diario de la Unidad de Medida y Actualización:
+
+I.- Por modificar las características de los permisos autorizados para el servicio público.
+
+II.- por poner en movimiento el vehículo antes de que los pasajeros terminen de subir o bajar.
+
+III.- A quien instale sitios, lanzaderas, terminales sin el permiso (sic) autorización correspondiente.
+
+IV.- Por establecer nueva ruta sin permiso.
+
+V.- Por ampliar de (sic) nueva ruta sin permiso.
+
+VI.- Por no tener permiso para el transporte de carga (servicio urbano.)
+
+VII.- Por no respetar las tarifas de convenio de cooperación.
+
+VIII.- por alteración de permisos provisionales para el servicio público.
+
+IX.- Por no usar los colores de los vehículos de servicio público, autorizados por la dirección de tránsito y transporte del estado.
+
+X.- A quien conduzca vehículo de carga si éste trae consigo oruga metálica causando daño a la vía pública.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 108.
+
+Se sancionará con multa de 100 veces el valor diario de la Unidad de Medida y Actualización:
+
+I.- Por realizar el servicio público de transporte con placas y registro Federales o de otro Estado de los Estados Unidos Mexicanos o Extranjeros, así como transportar materiales peligrosos o explosivos sin la autorización de la Dirección de Seguridad Pública, Tránsito y Transportes o autoridad competente.
+
+II.- La carencia o no adecuado funcionamiento, imputable al transportista o manipulación de los instrumentos de medición, sus elementos, u otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, o no pasar la revisión periódica de los mismos en los plazos y forma legalmente establecidos.
+
+III.- Por carecer del documento que anuncie los teléfonos y dirección en donde deben formularse las reclamaciones de los usuarios.
+
+IV.- Por la negativa y obstrucción a la actuación de los servicios de inspección cuando no se den las circunstancias previstas en este reglamento.
+
+V.- Por la obstaculización de una o varias vialidades que impida el paso de vehículos automotores o peatones y que suceda cuando con pretexto de hacerse de pasajeros o ganar el paso a otros permisionarios o concesionarios siempre que esta conducta afecte la normal circulación vehicular y peatona (sic).
+
+VI.- Por la no comunicación de los datos esenciales que reglamentariamente se determinen y que deban ser inscritos en el Registro Público del Transporte, o puestos por otra causa en conocimiento de la Dirección (sic) Unidad.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 109.
+
+Se sancionará con multa de 350 veces el valor diario de la Unidades (sic) de Medida y Actualización por la prestación de servicios en condiciones que puedan afectar a la seguridad de los usuarios y representen riesgo o peligro para los mismos.
 
 T R A N S I T O R I O S
 
@@ -1664,3 +1938,9 @@ P.O. 6 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 BIS DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, ASIMISMO LA REFORMA AL ARTÍCULO 164 FRACCIÓN XVII DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
