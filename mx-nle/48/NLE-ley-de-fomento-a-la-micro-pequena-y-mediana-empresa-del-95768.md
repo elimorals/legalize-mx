@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-del-95768"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-04"
-last_updated: "2015-12-09"
+last_updated: "2017-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 4 de julio de 2013.
 
@@ -129,7 +129,7 @@ La planeación y ejecución de las políticas y acciones de fomento para la comp
 
 I. Propiciar la participación y toma de decisiones del sector público, en un marco de coordinación;
 
-II. Gestionar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de Federación (sic), Estado y de los Municipios;
+II. Gestionar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de (sic) Federación, Estado y de los Municipios;
 
 III. Incluir propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES;
 
@@ -153,7 +153,7 @@ IV. Promover una cultura tecnológica en las MIPYMES; modernización, innovació
 
 V. Desarrollo de proveedores y distribuidores con las MIPYMES;
 
-VI. Apoyar a integración (sic) de Cadenas Productivas y Agrupamientos empresariales en base a las ventajas competitivas locales;
+VI. Apoyar a (sic) integración de Cadenas Productivas y Agrupamientos empresariales en base a las ventajas competitivas locales;
 
 VII. Promover la modernización, innovación y desarrollo tecnológico en las MIPYMES;
 
@@ -498,3 +498,17 @@ FEDERICO EUGENIO VARGAS RODRÍGUEZ
 P.O. 9 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 304. POR EL QUE SE EXPIDE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga la Ley de Fomento a la Micro, Pequeña y Mediana Empresa del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 04 de julio de 2013 y demás disposiciones contenidas en leyes, y reglamentos, en lo que se opongan a lo establecido en el presente Decreto.
+
+Tecero (sic).- Dentro de los ciento veinte días naturales posteriores a la entrada en vigor de la Ley, el Poder Ejecutivo del Estado, deberá expedir el Reglamento de la misma.
+
+Cuarto.- El Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa, no generará costo adicional, y deberá instalarse dentro de los sesenta días naturales siguientes a la entrada en vigor de esta Ley.
+
+Quinto.- Para efectos de la aprobación del Fondo de Fomento a la Micro, Pequeña y Mediana Empresa, previsto en el artículo 14 de la presente Ley, se estará (sic) acuerdo a la disponibilidad presupuestal de la Secretaría de Finanzas y Tesorería General del Estado.
