@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-en-el-estado-de-56449
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-20"
-last_updated: "2013-07-04"
+last_updated: "2017-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEON
 
-LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 17 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
+LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO EN EL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2007.
 
@@ -129,7 +131,7 @@ XVIII. SECTORES ESTRATÉGICOS: clasificación de. empresas que por su especialid
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-XIX. SMG: el Salario mínimo general diario vigente en el área geográfica “B”.
+XIX. SMG: el Salario mínimo general diario vigente en el área geográfica "B".
 
 ###### ARTÍCULO 4.
 
@@ -730,3 +732,21 @@ Artículo Sexto.- Para efectos de lo dispuesto en la fracción VI del Artículo 
 I. Se establece un plazo de dos años contados a partir de la entrada en vigor del presente Decreto, a efecto que se destine el 10%, y
 
 II. Concluido el plazo a que se refiere la fracción I del presente artículo, la Secretaría revisará la gradualidad de referencia para los siguientes cuatro años, a fin de que fenecido este término se alcance el porcentaje del 30%.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 301. POR EL QUE SE EXPIDE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 20 de julio de 2007.
+
+Tercero.- El Reglamento de la Ley deberá expedirse en un periodo de 90 días hábiles, posteriores a la entrada en vigor de la Ley.
+
+Cuarto.- El Consejo deberá instalarse dentro de los 45 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+Quinto.- En caso de autorizarse el fideicomiso deberá constituirse a los 60 días hábiles posteriores a la instalación del Consejo.
+
+Sexto.- Los incentivos otorgados antes de la entrada en vigor de la presente Ley y las solicitudes de incentivos que se encuentren en proceso antes de la entrada en vigor de la presente Ley, se sujetarán a la normatividad vigente al momento de su otorgamiento o de haber presentado la solicitud.
+
+Séptimo.- Para efectos de la aprobación del Fideicomiso Económico de Incentivos para la Inversión de la presente Ley, se dispondrá a lo conducente conforme a la disponibilidad presupuestal de la Secretaría de Finanzas y Tesorería General del Estado.
