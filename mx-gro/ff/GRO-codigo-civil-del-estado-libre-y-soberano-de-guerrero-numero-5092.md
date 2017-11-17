@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2017-05-09"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -173,7 +173,9 @@ Puede, igualmente, disponer de su cuerpo, para después de su muerte, con fines 
 
 Toda persona tiene derecho a que se le respete su integridad corporal y psicológica, así como su sano desarrollo para incorporarse al núcleo social, para ello, contará con la asistencia y protección del Estado, conforme a las Leyes de salud y asistencia social, siendo sancionable todo acto de violencia familiar.
 
-Se entiende por violencia familiar las conductas dirigidas a dominar, controlar o agredir física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre o haya estado unida por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de hecho, dentro o fuera del domicilio familiar.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+Se entiende por violencia familiar las conductas dirigidas a dominar, controlar o agredir física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre o haya estado unida por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de hecho, dentro o fuera del domicilio familiar o cuando exista alienación parental, es decir, la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
 
 Ninguna forma de maltrato cometido contra los menores, podrá ser justificada como parte de la educación o formación de los mismos.
 
@@ -15832,3 +15834,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el portal oficial del Congreso del Estado, para su difusión.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 493 POR EL QUE SE REFORMAN EL ARTÍCULO 27 BIS DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358 Y EL ARTÍCULO 198 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo para los efectos constitucionales y legales conducentes.
