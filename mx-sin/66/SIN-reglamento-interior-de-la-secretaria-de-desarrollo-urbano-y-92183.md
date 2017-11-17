@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-921
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-04"
-last_updated: "2013-02-04"
+last_updated: "2017-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 4 de febrero de 2013.
 
@@ -998,3 +1000,15 @@ C.P.C. Armando Villarreal Ibarra
 El Secretario de Desarrollo Urbano y Obras Públicas
 
 Ing. José Luis Sevilla Suárez Peredo
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas, de fecha 05 de Noviembre de 2012, publicado en el Periódico Oficial “El Estado de Sinaloa”, número 076, el día 04 de Febrero de 2013.
+
+Artículo Tercero.- La Secretaría formulará dentro de un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público.
