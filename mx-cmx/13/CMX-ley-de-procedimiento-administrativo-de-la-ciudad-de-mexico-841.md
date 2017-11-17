@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2014-11-28"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1995-12-14"
 ---
 # LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MEXICO -- ANTES LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL --
 
-LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -38,29 +40,39 @@ D E C R E T O
 
 D E C R E T A:
 
-LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 1o.
 
-Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular los actos y procedimientos de la Administración Pública del Distrito Federal. En el caso de la Administración Pública Paraestatal, sólo será aplicable la presente Ley, cuando se trate de actos de autoridad provenientes de organismos descentralizados que afecten la esfera jurídica de los particulares.
+Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular los actos y procedimientos de la Administración Pública de la Ciudad de México. En el caso de la Administración Pública Paraestatal, sólo será aplicable la presente Ley, cuando se trate de actos de autoridad provenientes de organismos descentralizados que afecten la esfera jurídica de los particulares.
 
-Quedan excluidos de la aplicación de esta Ley los actos y procedimientos administrativos relacionados con las materias de carácter financiero, fiscal, en lo relativo a la actuación del Ministerio Público en ejercicio de sus funciones constitucionales y legales, seguridad pública, electoral, participación ciudadana, del notariado, así como de justicia cívica en el Distrito Federal; las actuaciones de la Contraloría General, en lo relativo a la determinación de responsabilidades de los servidores públicos; y de la Comisión de Derechos Humanos del Distrito Federal, en cuanto a las quejas de que conozca y recomendaciones que formule.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+Quedan excluidos de la aplicación de esta Ley los actos y procedimientos administrativos relacionados con las materias de carácter financiero, fiscal, en lo relativo a la actuación del Ministerio Público en ejercicio de sus funciones constitucionales y legales, seguridad pública, electoral, participación ciudadana, del notariado, así como de justicia cívica en la Ciudad de México; las actuaciones de la Secretaría de la Contraloría General, en lo relativo a la determinación de responsabilidades de los servidores públicos; y de la Comisión de Derechos Humanos de la Ciudad de México, en cuanto a las quejas de que conozca y recomendaciones que formule.
 
 En relación a los créditos fiscales, no se excluyen de la aplicación de esta Ley lo relativo a las multas administrativas, derivadas de las infracciones por violaciones a las disposiciones de orden administrativo local.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 2o.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-I. Acto Administrativo: Declaración unilateral de voluntad, externa, concreta y ejecutiva, emanada de la Administración Pública del Distrito Federal, en el ejercicio de las facultades que le son conferidas por los ordenamientos jurídicos, que tiene por objeto crear, transmitir, modificar, reconocer o extinguir una situación jurídica concreta, cuya finalidad es la satisfacción del interés general;
+I. Acto Administrativo: Declaración unilateral de voluntad, externa, concreta y ejecutiva, emanada de la Administración Pública de la Ciudad de México, en el ejercicio de las facultades que le son conferidas por los ordenamientos jurídicos, que tiene por objeto crear, transmitir, modificar, reconocer o extinguir una situación jurídica concreta, cuya finalidad es la satisfacción del interés general.
 
-II. Administración Pública: Dependencias y entidades que integran a la Administración Central y Paraestatal del Distrito Federal, en los términos de la Ley Orgánica de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+II. Administración Pública: Dependencias y entidades que integran a la Administración Central y Paraestatal de la Ciudad de México, en los términos de la Ley Orgánica de la Administración Pública de la Ciudad de México;
 
 III. Afirmativa ficta: Figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por esta Ley o los ordenamientos jurídicos aplicables al caso concreto, se entiende que resuelve lo solicitado por el particular, en sentido afirmativo;
 
@@ -68,9 +80,9 @@ IV. Anulabilidad: Reconocimiento del órgano competente, en el sentido de que un
 
 V. Autoridad: Persona que dispone de la fuerza pública, en virtud de circunstancias legales o de hecho;
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-VI. Autoridad competente: Dependencia, Órgano Desconcentrado, Órgano Político Administrativo o Entidad de la Administración Pública del Distrito Federal facultada por los ordenamientos jurídicos, para dictar, ordenar o ejecutar un acto administrativo;
+VI. Autoridad competente: Dependencia, Órgano Desconcentrado, Órgano Político Administrativo o Entidad de la Administración Pública de la Ciudad de México facultada por los ordenamientos jurídicos, para dictar, ordenar o ejecutar un acto administrativo:
 
 VII. Causahabiente: Persona que sucede o se subroga en el derecho de otra;
 
@@ -96,17 +108,25 @@ XIII. Bis. Interés Jurídico: Derecho subjetivo de los particulares derivado de
 
 XIV. Interlocutoria: Resolución que se dicta dentro del procedimiento administrativo para resolver algún incidente;
 
-XV. Ley: Ley de Procedimiento Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Ley Orgánica: Ley Orgánica de la Administración Pública del Distrito Federal;
+XV. Ley: Ley de Procedimiento Administrativo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Ley Orgánica: Ley Orgánica de la Administración Pública de la Ciudad de México;
 
 XVII. Ley de Responsabilidades: Ley Federal de Responsabilidades de los Servidores Públicos;
 
-XVIII. Manual: Manual de Trámites y Servicios al Público del Distrito Federal, que contiene las características de diversos trámites y procedimientos, de acuerdo a los requisitos y plazos que establecen las Leyes y Reglamentos aplicables;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. Manual: Manual de Trámites y Servicios al Público de la Ciudad de México, que contiene las características de diversos trámites y procedimientos, de acuerdo a los requisitos y plazos que establecen las Leyes y Reglamentos aplicables;
 
 XIX. Negativa ficta: Figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por esta Ley o los ordenamientos jurídicos aplicables al caso concreto, se entiende que se resuelve lo solicitado por el particular, en sentido negativo;
 
-XX. Normas: Leyes, Reglamentos, Decretos, Acuerdos u otras disposiciones de carácter general, que rijan en el Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+XX. Normas: Leyes, Reglamentos, Decretos, Acuerdos u otras disposiciones de carácter general, que rijan en la Ciudad de México;
 
 XXI. Nulidad: Declaración emanada del órgano competente, en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en esta Ley y que por lo tanto no genera efectos jurídicos;
 
@@ -118,51 +138,75 @@ XXIV. Resolución Administrativa: Acto administrativo que pone fin a un procedim
 
 XXV. Revocación: Acto administrativo emitido por autoridad competente por virtud del cual se retira y extingue a otro que nació válido y eficaz, que tendrá efectos sólo para el futuro, el cual es emitido por causas supervenientes de oportunidad e interés público previstos en los ordenamientos jurídicos que modifican las condiciones iniciales en que fue expedido el original; y
 
-XXVI. Tribunal: Tribunal de lo Contencioso Administrativo del Distrito Federal.
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+XXVI. Tribunal: Tribunal de Justicia Administrativa de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 3o.
 
-La Administración Pública del Distrito Federal ajustará su actuación a la Ley, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia y eficacia; y deberá abstenerse de comportamientos que impliquen vías de hecho administrativa contrarias a las garantías constitucionales, a las disposiciones previstas en esta Ley o en otros ordenamientos jurídicos.
+La Administración Pública de la Ciudad de México ajustará su actuación a la Ley, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia, eficacia; ética, austeridad, racionalidad, transparencia, apertura, responsabilidad, la participación ciudadana y la rendición de cuentas con control de la gestión y evaluación, debiendo abstenerse de comportamientos que impliquen vías de hecho administrativa (sic) contrarias a los Derechos Humanos y garantías constitucionales, a las disposiciones previstas en esta Ley o en otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 4o.
 
-La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública del Distrito Federal; excepto en lo siguiente: en lo relativo al recurso de Inconformidad previsto en esta Ley, que se aplicará a pesar de lo que en contrario dispongan los diversos ordenamientos jurídicos; en lo que respecta a las Visitas de Verificación, las cuales se sujetarán a lo previsto por esta Ley y el Reglamento que al efecto se expida, en las materias que expresamente contemple este último ordenamiento; y en lo referente al procedimiento de revalidación de licencias, autorizaciones o permisos, así como a las declaraciones y registros previstos en el artículo 35 de esta Ley.
+La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública de la Ciudad de México; excepto en lo siguiente: en lo relativo al recurso de Inconformidad previsto en esta Ley, que se aplicará a pesar de lo que en contrario dispongan los diversos ordenamientos jurídicos; en lo que respecta a las Visitas de Verificación, las cuales se sujetarán a lo previsto por esta Ley y el Reglamento que al efecto se expida, en las materias que expresamente contemple este último ordenamiento; y en lo referente al procedimiento de revalidación de licencias, autorizaciones o permisos, así como a las declaraciones y registros previstos en el artículo 35 de esta Ley.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código de Procedimientos Civiles para el Distrito Federal, respecto a las instituciones reguladas por esta Ley.
+A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código de Procedimientos Civiles para la Ciudad de México, respecto a las instituciones reguladas por esta Ley.
 
 ###### Artículo 5o.
 
 El procedimiento administrativo que establece la presente Ley se regirá por los principios de simplificación, agilidad, información, precisión, legalidad, transparencia, imparcialidad y buena fe.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 5o Bis.
 
 Las dependencias, órganos desconcentrados, entidades y órganos político-administrativos que lleven a cabo visitas de verificación deberán capacitar constantemente a los verificadores administrativos en la materia relativa a su función.
 
-El personal encargado de la verificación administrativa relativa a los establecimientos mercantiles de las delegaciones serán en todo momento personal con código de confianza.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+El personal encargado de la verificación administrativa relativa a los establecimientos mercantiles de las Alcaldías serán (sic) en todo momento personal con código de confianza.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 Cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos expedirán las credenciales que acrediten a sus verificadores para realizar dicha actividad. Dichas credenciales contendrán, por lo menos, lo siguiente:
 
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
 I. Nombre, firma y fotografía a color del verificador;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
 II. Número, fecha de expedición y vigencia de la credencial, que no podrá ser mayor a un año;
 
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+
 III. Nombre y firma del titular de la autoridad a la que se encuentre adscrito el verificador;
 
-IV. Logotipo Oficial del Gobierno del Distrito Federal, y
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-V. Número telefónico de la Contraloría Interna de la autoridad, así como de la Contraloría General del Gobierno del Distrito Federal.
+IV. Logotipo Oficial del Gobierno de la Ciudad de México, y
 
-Estas credenciales además, deberán contener, de manera clara y visible, por ambos lados, la leyenda siguiente: “Esta credencial exclusivamente autoriza a su portador a ejecutar las órdenes escritas emitidas por la autoridad competente.”
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+V. Número telefónico de la Contraloría Interna de la autoridad, así como de la Contraloría General del Gobierno de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+
+Estas credenciales además, deberán contener, de manera clara y visible, por ambos lados, la leyenda siguiente: "Esta credencial exclusivamente autoriza a su portador a ejecutar las órdenes escritas emitidas por la autoridad competente."
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
 Reunidos los anteriores requisitos la credencial será válida y deberá ser renovada cada año. En el sitio web de cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos se publicará el padrón de verificadores.
 
-La oficialía mayor emitirá los lineamientos generales relativo al formato de la credencial y llevará un padrón de verificadores habilitados en el Distrito Federal, para tal efecto cada dependencia, órgano desconcentrado, entidad y órganos político-administrativos, le remitirá el padrón de sus verificadores.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+La oficialía mayor emitirá los lineamientos generales relativo al formato de la credencial y llevará un padrón de verificadores habilitados en la Ciudad de México, para tal efecto cada dependencia, órgano desconcentrado, entidad y órganos político-administrativos, le remitirá el padrón de sus verificadores.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
 Una vez expedida la credencial, el verificador podrá ejecutar las diligencias que le sean encomendadas.
 
@@ -230,6 +274,8 @@ Todo acto administrativo será válido mientras su invalidez no haya sido declar
 
 El acto administrativo válido será eficaz, ejecutivo y exigible desde el momento en que surta sus efectos la notificación realizada de conformidad con las disposiciones de esta Ley, o de que se configure en el caso de ser negativa ficta.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 10.
 
 Se exceptúan de lo dispuesto en el artículo anterior, los siguientes actos administrativos:
@@ -238,59 +284,97 @@ I. Los que otorguen un beneficio, licencia, permiso o autorización al interesad
 
 II. Los actos en virtud de los cuales se realicen actos de inspección, investigación o vigilancia, en los términos de esta Ley y demás disposiciones normativas aplicables. En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública del Distrito Federal.
 
+> <small>[N. DE E. EL TEXTO DEL PRESENTE PÁRRAFO ES SIMILAR A LA PARTE FINAL DE LA ACTUAL FRACCIÓN II.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-Los actos administrativos de carácter general, tales como decretos, acuerdos, circulares y otros de la misma naturaleza, deberán publicarse en la Gaceta Oficial del Distrito Federal para que produzcan efectos jurídicos y, en su caso, en el Diario Oficial de la Federación para su mayor difusión.
+Los actos administrativos de carácter general, tales como decretos, acuerdos, circulares y otros de la misma naturaleza, deberán publicarse en la Gaceta Oficial de la Ciudad de México para que produzcan efectos jurídicos y, en su caso, en el Diario Oficial de la Federación para su mayor difusión.
 
 Los actos administrativos de carácter individual, cuando lo prevean los ordenamientos aplicables, deberán publicarse en el referido órgano informativo local.
 
-Los acuerdos delegatorios de facultades, instructivos, manuales y formatos que expidan las dependencias y entidades de la Administración Pública del Distrito Federal, se publicarán previamente a su aplicación, en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+Los acuerdos delegatorios de facultades, instructivos, manuales y formatos que expidan las dependencias y entidades de la Administración Pública de la Ciudad de México, se publicarán previamente a su aplicación, en la Gaceta Oficial de la Ciudad de México.
 
 ###### Artículo 12.
 
 Los actos administrativos que requieran de la aprobación de dependencias o entidades distintas de las que los emitan, en los términos de las normas aplicables, únicamente tendrán eficacia y ejecutividad una vez que se produzca dicha aprobación.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-El acto administrativo válido es ejecutorio cuando el ordenamiento jurídico aplicable, reconoce a la Administración Pública del Distrito Federal, la facultad de obtener su cumplimiento mediante el uso de medios de ejecución forzosa.
+El acto administrativo válido es ejecutorio cuando el ordenamiento jurídico aplicable, reconoce a la Administración Pública de la Ciudad de México, la facultad de obtener su cumplimiento mediante el uso de medios de ejecución forzosa.
 
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 14.
 
-La ejecución forzosa por la Administración Pública del Distrito Federal, se efectuará respetando siempre el principio de proporcionalidad, por los siguientes medios:
+La ejecución forzosa por la Administración Pública de la Ciudad de México, se efectuará respetando siempre el principio de proporcionalidad, por los siguientes medios:
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
 I. Apremio sobre el patrimonio;
 
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
 II. Ejecución subsidiaria;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
 III. Multa; y
 
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
 IV. Actos que se ejerzan sobre la persona.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 Tratándose de las fracciones anteriores, se estará a lo que establezcan las disposiciones legales aplicables, sin perjuicio de las facultades de ejecución directa a que se refieren los artículos 17, 18 y 19 de esta Ley.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 Si fueren varios los medios de ejecución admisible, se elegirá el menos restrictivo de la libertad individual.
 
-Si fuere necesario entrar en el domicilio particular del administrado, la Administración Pública del Distrito Federal deberá observar lo dispuesto por el Artículo 16 Constitucional.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+Si fuere necesario entrar en el domicilio particular del administrado, la Administración Pública de la Ciudad de México deberá observar lo dispuesto por el Artículo 16 Constitucional
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 14 Bis.
 
 Procede la ejecución forzosa una vez que se agote el procedimiento respectivo y medie resolución de la autoridad competente en los siguientes casos:
 
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
 I.- Cuando exista obligación a cargo de los propietarios o poseedores de los predios sobre los que la autoridad competente haya decretado ocupación parcial o total, de retiro de obstáculos que impidan la realización de las obras de utilidad o interés social, sin que las realicen en los plazos determinados.
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
 II.- Cuando haya obligación de demoler total o parcialmente las construcciones que se encuentren en estado ruinoso o signifiquen un riesgo para la vida, bienes o entorno de los habitantes, sin que ésta se ejecute.
 
-III.- Cuando exista la obligación de reparar las edificaciones que así lo requieran de acuerdo con el reglamento de construcciones del Distrito Federal y no se cumpla con ella.
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+III.- Cuando exista la obligación de reparar las edificaciones que así lo requieran de acuerdo con el reglamento de construcciones de la Ciudad de México y no se cumpla con ella.
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
 IV.- Cuando los propietarios o poseedores hubieran construido en contravención a lo dispuesto por los programas, siempre que dichas obras se hubieran realizado con posterioridad a la entrada en vigor de los mismos, y no se hicieran las adecuaciones ordenadas, o bien no se procediera a la demolición ordenada en su caso; y
 
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
 V.- Cuando los propietarios de terrenos sin edificar se abstengan de conservarlos libres de maleza y basura.
 
-El costo de la ejecución forzosa se considera crédito fiscal, en los términos del Código Financiero del Distrito Federal.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+El costo de la ejecución forzosa se considera crédito fiscal, en los términos del Código Financiero de la Ciudad de México.
 
 ###### Artículo 15.
 
@@ -300,17 +384,21 @@ No podrá ejercerse coerción directa sobre la persona, salvo que una norma lega
 
 Los medios de coerción deben estar expresamente contemplados y autorizados por las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 17.
 
-La ejecución directa del acto por la Administración Pública del Distrito Federal, será admisible cuando se trate de retirar obstáculos, vehículos o cualesquiera otros efectos o bienes irregularmente colocados, ubicados o asentados en bienes del dominio público del Distrito Federal.
+La ejecución directa del acto por la Administración Pública de la Ciudad de México, será admisible cuando se trate de retirar obstáculos, vehículos o cualesquiera otros efectos o bienes irregularmente colocados, ubicados o asentados en bienes del dominio público de la Ciudad de México.
 
-En estos casos deberá hacerse un previo apercibimiento al propietario, poseedor o tenedor de la cosa, si éste estuviere presente en el lugar en tal momento, para que lo retire con sus propios medios; si éste no estuviere presente, o si estándolo se negara a cumplir el acto o no lo cumpliere dentro de un plazo razonable que se le fijará al efecto, podrá procederse a la ejecución del acto que ordena su remoción quedando obligado el propietario, poseedor o tenedor a pagar los gastos de ejecución en que hubiere incurrido la Administración Pública del Distrito Federal.
+En estos casos deberá hacerse un previo apercibimiento al propietario, poseedor o tenedor de la cosa, si éste estuviere presente en el lugar en tal momento, para que lo retire con sus propios medios; sí éste no estuviere presente, o si estándolo se negara a cumplir el acto o no lo cumpliere dentro de un plazo razonable que se le fijará al efecto, podrá procederse a la ejecución del acto que ordena su remoción quedando obligado el propietario, poseedor o tenedor a pagar los gastos de ejecución en que hubiere incurrido la Administración Pública de la Ciudad de México.
 
-Cuando el acto que se ejecute directamente fuere invalidado por autoridad competente, corresponderá a la Administración Pública del Distrito Federal restituir lo que hubiere cobrado de gastos de ejecución en los términos previstos por el Código Financiero del Distrito Federal.
+Cuando el acto que se ejecute directamente fuere invalidado por autoridad competente, corresponderá a la Administración Pública de la Ciudad de México restituir lo que hubiere cobrado de gastos de ejecución en los términos previstos por el Código Financiero de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-También será admisible la ejecución directa por la Administración Pública del Distrito Federal, cuando se trate de obras o trabajos que correspondieran ejecutar al particular; y éste no haya ejecutado dentro del plazo que al efecto le señale la autoridad, que será suficiente para llevar a cabo dichas obras o trabajos, atendiendo a la naturaleza de los mismos. En tal caso deberá apercibirse previamente al propietario, poseedor o tenedor que resultase obligado a efectuar el trabajo, a fin de que exprese lo que a su derecho conviniere, dentro de los cinco días siguientes. Este término podrá ampliarse hasta 15 días en caso de no existir razones de urgencia.
+También será admisible la ejecución directa por la Administración Pública de la Ciudad de México, cuando se trate de obras o trabajos que correspondieran ejecutar al particular; y éste no haya ejecutado dentro del plazo que al efecto le señale la autoridad, que será suficiente para llevar a cabo dichas obras o trabajos, atendiendo a la naturaleza de los mismos. En tal caso deberá apercibirse previamente al propietario, poseedor o tenedor que resultase obligado a efectuar el trabajo, a fin de que exprese lo que a su derecho conviniere, dentro de los cinco días siguientes. Este término podrá ampliarse hasta 15 días en caso de no existir razones de urgencia.
 
 > <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -442,13 +530,17 @@ VI. La conclusión de su vigencia.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
-El procedimiento administrativo servirá para asegurar el mejor cumplimiento de los fines de la Administración Pública del Distrito Federal, así como para garantizar los derechos e intereses legítimos de los gobernados, de conformidad con lo preceptuado por los ordenamientos jurídicos aplicables.
+El procedimiento administrativo servirá para asegurar el mejor cumplimiento de los fines de la Administración Pública de la Ciudad de México, así como para garantizar los derechos e intereses legítimos de los gobernados, de conformidad con lo preceptuado por los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
-Las disposiciones de este Título se aplicarán a los actos que desarrolle la Administración Pública del Distrito Federal ante los particulares, cuando los actos jurídicos que inicien, integren o concluyan el procedimiento administrativo produzcan efectos en su esfera jurídica.
+Las disposiciones de este Título se aplicarán a los actos que desarrolle la Administración Pública de la Ciudad de México ante los particulares, cuando los actos jurídicos que inicien, integren o concluyan el procedimiento administrativo produzcan efectos en su esfera jurídica.
 
 El incumplimiento de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad del servidor público, en los términos de la Ley de Responsabilidades.
 
@@ -470,17 +562,19 @@ Toda promoción deberá contener la firma autógrafa o electrónica del interesa
 
 En los procedimientos administrativos no procederá la gestión oficiosa. Quien promueva a nombre de otro deberá acreditar su personalidad en los términos de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 35.
 
-La Administración Pública del Distrito Federal en los procedimientos y trámites respectivos, no podrá exigir mayores formalidades y requisitos que los expresamente establecidos en los ordenamientos jurídicos de cada materia y en el Manual.
+La Administración Pública de la Ciudad de México en los procedimientos y trámites respectivos, no podrá exigir mayores formalidades y requisitos que los expresamente establecidos en los ordenamientos jurídicos de cada materia y en el Manual.
 
 > <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 La normatividad establecerá los casos en que proceda la declaración o registro de manifestación de los particulares, como requisito para el ejercicio de facultades determinadas. En estos casos, el trámite estará basado en la recepción y registro de la manifestación bajo protesta de decir verdad de que se cumple con las normas aplicables para acceder a dicho acto, acompañada de los datos y documentos que éstas determinen, sin perjuicios de que la autoridad competente inicie los procedimientos que correspondan cuando en la revisión del trámite se detecte falsedad. En estos casos, estará obligada a presentar denuncia en el Ministerio Público para la aplicación de las sanciones penales correspondientes.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgó u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a concesiones ni a permisos para el uso o aprovechamiento de bienes del patrimonio del Distrito Federal.
+En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgó u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a concesiones ni a permisos para el uso o aprovechamiento de bienes del patrimonio de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -506,9 +600,11 @@ Las actuaciones, ocursos o informes que realicen las dependencias, entidades o l
 
 Los incidentes que surjan dentro del procedimiento administrativo, se tramitarán de acuerdo a lo que establece esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-La Administración Pública del Distrito Federal, en sus relaciones con los particulares, tendrá las siguientes obligaciones:
+La Administración Pública de la Ciudad de México, en sus relaciones con los particulares, tendrá las siguientes obligaciones:
 
 I. Solicitar la comparecencia de éstos, sólo cuando así esté previsto en los ordenamientos jurídicos aplicables, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
@@ -526,9 +622,9 @@ VII. Proporcionar información y orientar acerca de los requisitos jurídicos o 
 
 VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes.
 
-> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Pública y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública del Distrito Federal, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia y Acceso a la Información Pública, ambas del Distrito Federal;
+El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Pública y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública de la Ciudad de México, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia y Acceso a la Información Pública, ambas de la Ciudad de México;
 
 IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
 
@@ -544,9 +640,11 @@ XI. Dictar resolución expresa en los procedimientos iniciados de oficio, cuya i
 
 En el procedimiento administrativo los interesados podrán actuar por sí mismos, por medio de representante o apoderado.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 41.
 
-La representación de las personas morales ante la Administración Pública del Distrito Federal, deberá acreditarse mediante instrumento público. En el caso de las personas físicas, dicha representación podrá acreditarse también mediante carta poder firmada ante dos testigos y ratificadas las firmas ante fedatario público, o bien, por declaración en comparecencia personal ante la autoridad competente.
+La representación de las personas morales ante la Administración Pública de la Ciudad de México, deberá acreditarse mediante instrumento público. En el caso de las personas físicas, dicha representación podrá acreditarse también mediante carta poder firmada ante dos testigos y ratificadas las firmas ante fedatario público, o bien, por declaración en comparecencia personal ante la autoridad competente.
 
 ###### Artículo 42.
 
@@ -596,9 +694,11 @@ Las promociones deberán presentarse en las unidades receptoras autorizadas para
 
 Cuando un escrito sea presentado ante un órgano incompetente, dicho órgano deberá rechazar la promoción de plano, indicando al promovente en dónde debe presentarla.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 48.
 
-Los escritos que la Administración Pública del Distrito Federal reciba por vía de correo certificado con acuse de recibo, se considerarán presentados en la fecha que los ingrese la autoridad competente.
+Los escritos que la Administración Pública de la Ciudad de México reciba por vía de correo certificado con acuse de recibo, se considerarán presentados en la fecha que los ingrese la autoridad competente.
 
 En caso de que se hubiese dirigido a un órgano incompetente, se tendrá por no presentada la promoción, debiendo devolverla al particular señalándole la autoridad competente a la que deba dirigirla.
 
@@ -624,9 +724,11 @@ Iniciado el procedimiento, la autoridad competente podrá adoptar las medidas pr
 
 Los titulares de los órganos administrativos ante quienes se inicie o en que se tramite cualquier procedimiento administrativo, de oficio o a petición de parte interesada, podrán disponer su acumulación. Contra el acuerdo de acumulación no procederá recurso alguno.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 54.
 
-En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas autorizadas previamente y publicadas en los términos de esta Ley, las cuales serán distribuidas gratuitamente por las dependencias y entidades de la Administración Pública del Distrito Federal.
+En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas autorizadas previamente y publicadas en los términos de esta Ley, las cuales serán distribuidas gratuitamente por las dependencias y entidades de la Administración Pública de la Ciudad de México
 
 ###### Artículo 55.
 
@@ -637,6 +739,8 @@ Los informes u opiniones solicitados a otras dependencias o entidades podrán se
 A quien se le solicite un informe u opinión, deberá emitirlo dentro del plazo de siete días hábiles, salvo disposición que establezca otro plazo.
 
 Si transcurrido el plazo a que se refiere el párrafo anterior, no se recibiese el informe u opinión, cuando se trate de informes u opiniones obligatorios o vinculantes, se entenderá que no existe objeción a las pretensiones del interesado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 56.
 
@@ -650,9 +754,9 @@ En los procedimientos administrativos se admitirán toda clase de pruebas, excep
 
 Las pruebas supervenientes podrán ofrecerse hasta antes de que se dicte resolución en el procedimiento administrativo.
 
-> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-Cuando en el procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+Cuando en el procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública de la Ciudad de México.
 
 ###### Artículo 57.
 
@@ -790,9 +894,11 @@ VIII. El 25 de diciembre;
 
 IX. Los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia, entidad do (sic) delegación respectiva, que se publicará en la Gaceta oficial del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 72.
 
-Las diligencias o actuaciones del procedimiento administrativo se efectuarán conforme a los horarios que cada dependencia o entidad de la Administración Pública del Distrito Federal previamente establezca y publique en la Gaceta Oficial del Distrito Federal. Una diligencia iniciada en horas hábiles podrá concluirse en horas inhábiles sin afectar su validez, siempre y cuando sea continua.
+Las diligencias o actuaciones del procedimiento administrativo se efectuarán conforme a los horarios que cada dependencia o entidad de la Administración Pública de la Ciudad de México previamente establezca y publique en la Gaceta Oficial de la Ciudad de México. Una diligencia iniciada en horas hábiles podrá concluirse en horas inhábiles sin afectar su validez, siempre y cuando sea continua.
 
 ###### Artículo 73.
 
@@ -818,6 +924,8 @@ Para la práctica de las notificaciones, citaciones, emplazamientos, requerimien
 
 El procedimiento administrativo continuará de oficio, sin perjuicio del impulso que puedan darle los interesados. En caso de que la carga del procedimiento les correspondiera a estos últimos; y no fuera desahogada perderá el derecho que debió ejercitar.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 78.
 
 Las notificaciones, citatorios, emplazamientos, requerimientos; y la solicitud de informes o documentos deberán realizarse:
@@ -836,7 +944,9 @@ II. Por correo certificado con acuse de recibo, o personalmente en los casos en 
 
 III. Por edictos, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, previo informe de la Policía Preventiva; se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
-Las notificaciones por edictos se efectuarán mediante publicaciones que contendrán el resumen de las actuaciones por notificar. Dichas publicaciones deberán efectuarse por tres veces, de tres en tres días en la Gaceta Oficial del Distrito Federal y en uno de los periódicos de mayor circulación en el Distrito Federal, que para tal efecto señale la autoridad competente.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+Las notificaciones por edictos se efectuarán mediante publicaciones que contendrán el resumen de las actuaciones por notificar. Dichas publicaciones deberán efectuarse por tres veces, de tres en tres días en la Gaceta Oficial de la Ciudad de México y en uno de los periódicos de mayor circulación en la Ciudad de México, que para tal efecto señale la autoridad competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -864,6 +974,8 @@ Si el domicilio se encontrare cerrado; y nadie respondiera al llamado del notifi
 
 Si la persona a quien haya de notificarse no atiende el citatorio la notificación se entenderá con cualquier persona con capacidad de ejercicio, que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, el notificador deberá asentar la media filiación de la persona que lo atiende o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio asentándose las características del inmueble. De estas diligencias, el notificador asentará en el expediente, razón por escrito.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 82.
 
 Las notificaciones que se realicen en el procedimiento administrativo surtirán sus efectos conforme a las siguientes disposiciones:
@@ -872,7 +984,9 @@ I. Las notificaciones personales, a partir del día hábil siguiente al en que s
 
 II. Tratándose de las notificaciones hechas por correo certificado con acuse de recibo, a partir del día hábil siguiente de la fecha que se consigne en el acuse de recibo respectivo;
 
-III. En el caso de las notificaciones por edictos, a partir del día hábil siguiente de la fecha de la última publicación en la Gaceta Oficial del Distrito Federal y en el periódico respectivo.
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+III. En el caso de las notificaciones por edictos, a partir del día hábil siguiente de la fecha de la última publicación en la Gaceta Oficial de la Ciudad de México y en el periódico respectivo.
 
 ###### Artículo 83.
 
@@ -980,11 +1094,13 @@ II. Cuando se trate de procedimientos administrativos iniciados a petición del 
 
 La declaración de caducidad no procederá cuando el interesado haya dejado de actuar en virtud de haberse configurado la afirmativa ficta.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 95.
 
 Transcurridos los términos y condiciones que señalan las fracciones I y II del artículo 93 de esta Ley, la autoridad competente acordará el archivo del expediente.
 
-La caducidad no producirá por sí misma la prescripción de las acciones del particular, ni de la Administración Pública del Distrito Federal, pero los procedimientos caducados no interrumpen ni suspenden el plazo de la prescripción.
+La caducidad no producirá por sí misma la prescripción de las acciones del particular, ni de la Administración Pública de la Ciudad de México, pero los procedimientos caducados no interrumpen ni suspenden el plazo de la prescripción.
 
 ###### Artículo 96.
 
@@ -992,11 +1108,11 @@ Contra la resolución que declare la caducidad del procedimiento administrativo 
 
 ### CAPITULO OCTAVO. DE LAS VISITAS DE VERIFICACION
 
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 97.
 
-Las autoridades competentes del Distrito Federal, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local podrán llevar a cabo visitas de verificación. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
+Las autoridades competentes de la Ciudad de México, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local podrán llevar a cabo visitas de verificación. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
 
 ###### Artículo 98.
 
@@ -1030,6 +1146,8 @@ De toda visita de verificación se levantará acta circunstanciada, en presencia
 
 De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar la circunstancia en la propia acta.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 103.
 
 En las actas se hará constar:
@@ -1038,7 +1156,9 @@ I. Nombre, denominación o razón social del visitado;
 
 II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
-III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, delegación y código postal en que se encuentre ubicado el lugar en que se practique la visita;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, Alcaldía y código postal en que se encuentre ubicado el lugar en que se practique la visita;
 
 IV. Número y fecha del oficio de comisión que la motivó;
 
@@ -1052,15 +1172,13 @@ VIII. Declaración del visitado, si quiere hacerla; y
 
 IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien o quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
-> <small>(REFORMADO, G.O. 7 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 104.
 
 Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien lo podrán hacer por escrito, en un documento anexo, dentro de los diez días hábiles siguientes a la fecha en que se hubiere levantado el acta de visita de verificación.
 
-> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
-
-Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se recavarán (sic), apreciarán y valorarán en términos de la Ley que Regula el Uso de la Tecnología para la Seguridad Pública del Distrito Federal.
+Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguridad Pública de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que Regula el Uso de la Tecnología para la Seguridad Pública de la Ciudad de México.
 
 ###### Artículo 105.
 
@@ -1096,9 +1214,11 @@ Los interesados afectados por los actos y resoluciones de las autoridades admini
 
 El término para interponer el recurso de inconformidad será de quince días hábiles, contados a partir del día siguiente al en que surta sus efectos la notificación de la resolución que se recurra, o de que el recurrente tenga conocimiento de dicha resolución.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 110.
 
-El recurso de inconformidad deberá presentarse ante el superior jerárquico de la autoridad que emitió la resolución. Será competente para conocer y resolver este recurso dicho superior jerárquico. En caso de que la resolución que origine la inconformidad la hubiese emitido el Jefe del Distrito Federal, el recurso se tramitará y resolverá por el mismo servidor público.
+El recurso de inconformidad deberá presentarse ante el superior jerárquico de la autoridad que emitió la resolución. Será competente para conocer y resolver este recurso dicho superior jerárquico. En caso de que la resolución que origine la inconformidad la hubiese emitido el Jefe de Gobierno de la Ciudad de México, el recurso se tramitará y resolverá por el mismo servidor público.
 
 ###### Artículo 111.
 
@@ -1427,3 +1547,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal; y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
+
+TERCERO.- Las reformas contenidas en el presente decreto derogan y dejan sin efecto cualquier disposición legal, reglamentaria y normativa que se les oponga.
