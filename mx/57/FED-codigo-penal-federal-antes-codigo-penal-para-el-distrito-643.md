@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-06-26"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -499,8 +499,6 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 25.
@@ -509,7 +507,9 @@ La prisión consiste en la pena privativa de libertad personal. Su duración ser
 
 La medida cautelar de prisión preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse en otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
 
-El límite máximo de la duración de la pena privativa de la libertad hasta por sesenta años contemplada en el presente artículo, no aplicará para los delitos que se sancionen con lo estipulado en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, cuya duración máxima será la que marque dicha ley.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
+
+El límite máximo de la duración de la pena de privación de la libertad hasta por 60 años contemplada en el presente artículo no es aplicable para los delitos que se sancionen de conformidad con lo estipulado en otras leyes.
 
 ###### ARTICULO 26.
 
@@ -3181,8 +3181,6 @@ Dichas penas se impondrán a las personas relacionadas o adscritas a cualquier i
 
 ### CAPITULO III BIS. Desaparición forzada de personas
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
-
 ###### ARTICULO 210.
 
 Se impondrán de treinta a doscientas jornadas de trabajo en favor de la comunidad, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o puesto.
@@ -3407,7 +3405,7 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
 
 ### CAPITULO VIII. Ejercicio abusivo de funciones
 
@@ -3415,31 +3413,19 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 ###### ARTICULO 215-A.
 
-Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
-
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+(DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 2017)
 
 ###### ARTICULO 215-B.
 
-A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
-
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-
-Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
-
-Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+(DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 2017)
 
 ###### ARTICULO 215-C.
 
-Al servidor Público que haya sido condenado por el delito de desaparición forzada de personas, además se le destituirá del cargo y se le inhabilitará de uno a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
-
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+(DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 2017)
 
 ###### ARTICULO 215-D.
 
-La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
+(DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -4852,6 +4838,12 @@ En este caso no se aplicará sanción a los ascendientes o descendientes, cónyu
 > <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
 III.- Al que exhume un cadáver sin los requisitos legales o con violación de derechos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 280 Bis.
+
+Se impondrá pena de cinco a ocho años de prisión y de quinientos a mil días multa, a quien incinere, sepulte, desintegre o destruya total o parcial el cadáver o restos humanos de una persona no identificada, sin autorización de las autoridades competentes en la materia.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -8044,3 +8036,111 @@ Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto
 Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
 
 Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+
+D.O.F. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL Y DE LA LEY GENERAL DE SALUD".]
+
+Primero. El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+A partir de la entrada en vigor del presente Decreto y hasta la emisión de los instrumentos a que se refiere el Artículo Décimo Cuarto Transitorio, la Procuraduría y las Procuradurías Locales y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a esta Ley.
+
+La Procuraduría y las Procuradurías Locales, además de los protocolos previstos en esta Ley, continuarán aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+Segundo. Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+
+Tercero. Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+Dentro de los treinta días siguientes a que la Comisión Nacional de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 53, fracción VIII, de esta Ley.
+
+Dentro de los ciento ochenta días posteriores a la entrada en funciones de la Comisión Nacional de Búsqueda, ésta deberá emitir el Programa Nacional de Búsqueda.
+
+Los servidores públicos que integren las Fiscalías Especializadas y las Comisiones de Búsqueda deberán estar certificados dentro del año posterior a su creación.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Nacional de Búsqueda emitirá los criterios previstos en el artículo 53, fracción L, de esta Ley, dentro de los noventa días posteriores a su entrada en funciones.
+
+La Comisión Nacional de Búsqueda y las comisiones locales podrán, a partir de que entren en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes. La Comisión Nacional de Búsqueda coordinará la búsqueda de las personas desaparecidas relacionadas con búsquedas en las que, a la entrada en vigor de esta Ley, participen autoridades federales.
+
+Cuarto. Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las entidades federales (sic) para el establecimiento de sus Comisiones Locales de Búsqueda.
+
+Quinto. El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+Sexto. El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+
+En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
+
+En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el artículo 55.
+
+Séptimo. Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
+
+Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas Desaparecidas y No Localizadas, las Entidades Federativas deberán poner en marcha sus registros de Personas Desaparecidas y No Localizadas.
+
+Octavo. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
+
+La Federación y las Entidades Federativas deberán migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
+
+Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+
+Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+
+En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior, resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local aplicable.
+
+Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos de esta Ley, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la presente Ley;
+
+II. En las investigaciones iniciadas en las que aún no se ejerza acción penal, el Ministerio Público la ejercitará de conformidad con la traslación del tipo que resulte procedente;
+
+III. En los procesos iniciados conforme al sistema penal mixto en los que el Ministerio Público aún no formule conclusiones acusatorias, procederá a su elaboración y presentación de conformidad con la traslación del tipo penal que, en su caso, resultare procedente;
+
+IV. En los procesos iniciados conforme al sistema acusatorio adversarial, en los que el Ministerio Público aún no presente acusación, procederá a su preparación y presentación atendiendo a la traslación del tipo que pudiera proceder;
+
+V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y
+
+VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
+
+Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+
+Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las Fiscalías Especializadas la información de las Personas Desaparecidas o No Localizadas que correspondan al ámbito de su competencia.
+
+Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
+
+I. Dentro de los ciento ochenta días siguientes a que reciban la información, la Fiscalía Especializada que corresponda deberá recabar información sobre las personas inscritas en el Registro previsto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas que correspondan a su ámbito de competencia, a fin de que dicha información esté apegada a lo dispuesto en el artículo 106 y, en su caso, al artículo 112 de esta Ley;
+
+II. En términos de la fracción anterior, las Fiscalías Especializadas que estén impedidas materialmente para actualizar la información dentro del plazo previsto, deberán publicar un padrón con el nombre de las Personas Desaparecidas o No Localizadas cuya información no haya sido actualizada, a efecto de que, dentro de los ciento veinte días siguientes, los Familiares y organizaciones de la sociedad civil proporcionen la información que pudiera resultar útil para realizar dicha actualización;
+
+III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
+
+IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
+
+Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
+
+Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.
+
+Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
+
+Décimo Quinto. Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+
+Décimo Sexto. En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
+
+Décimo Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+
+Las Legislaturas de las Entidades Federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+
+Décimo Octavo. Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
+
+Décimo Noveno. La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+
+Dentro del plazo previsto en el párrafo anterior la Procuraduría General de la República emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Nacional de Datos Forenses previstos en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Vigésimo. En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+
+Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+
+Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
