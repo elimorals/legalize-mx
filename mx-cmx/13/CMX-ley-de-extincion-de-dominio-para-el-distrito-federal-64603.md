@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-extincion-de-dominio-para-el-distrito-federal-64603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2014-12-18"
+last_updated: "2017-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64603&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-12-03"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE EXTINCIÓN DE DOMINIO PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL EL 17 DE NOVIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 5 DE DICIEMBRE DE 2018.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO: 17 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de diciembre de 2008.
 
@@ -747,3 +749,17 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE EXTINCIÓN DE DOMINIO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase al jefe de gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto entrará en vigor el 5 de diciembre de 2018, de conformidad con lo establecido en el segundo párrafo del Artículo Transitorio Décimo Primero de la Constitución Política de la Ciudad de México, abrogándose en ese momento la Ley de Extinción de Dominio para el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 08 de diciembre de 2008.
+
+CUARTO.- Se derogan todas las disposiciones legales que contravengan el presente decreto.
+
+QUINTO.- En tanto no entre en vigor la Unidad de Medida y Actualización, se utilizará la Unidad de Cuenta vigente en la Ciudad de México.
