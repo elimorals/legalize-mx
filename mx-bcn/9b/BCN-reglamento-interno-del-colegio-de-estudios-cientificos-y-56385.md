@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-colegio-de-estudios-cientificos-y-56385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2017-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de julio de 2007.
 
@@ -820,3 +822,17 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 ÓSCAR ORTEGA VELEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del CECYTE BC, Publicado en el Periódico Oficial del Estado de fecha 20 de Julio de 2007.
+
+TERCERO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Reglamento.
