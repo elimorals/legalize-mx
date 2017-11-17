@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2017-05-24"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1935,9 +1935,9 @@ Los delitos de este Título, se perseguirán por querella.
 
 ## TITULO SEPTIMO. DELITO CONTRA LA INVIOLABILIDAD DEL SECRETO
 
-### CAPITULO V. ACOSO SEXUAL
+### CAPITULO V. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 178.
 
@@ -1959,7 +1959,7 @@ Este delito se perseguirá por querella.
 
 ### CAPITULO VI. DISPOSICIONES COMUNES DE ESTE TITULO
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 179.
 
@@ -2031,17 +2031,39 @@ Cuando la edad del agente supere con quince años o más la edad del sujeto pasi
 
 Se presume que existe engaño cuando el sujeto pasivo sea menor de dieciséis años.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ### CAPITULO I. ROBO
 
 ###### ARTICULO 185.
 
-Al que solicite favores de naturaleza sexual para sí o para un tercero, valiéndose de su situación de superioridad jerárquica, laboral docente, doméstica o de cualquier otra naturaleza que implique subordinación, se le impondrá prisión de uno a dos años.
+Comete el delito de hostigamiento sexual, quien asedie u hostigue con fines lascivos o solicite favores de naturaleza sexual para sí o para un tercero a persona de cualquier sexo que le sea subordinada, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación; al responsable se le impondrá de uno a dos años de prisión y de doscientos a cuatrocientos días de multa.
 
-Si la solicitud de favores de naturaleza sexual, se acompaña con la amenaza de causar a la víctima un mal relacionado con las legítimas expectativas que pueda tener en el ámbito de su relación con su superior jerárquico, se le impondrá prisión de dos a tres años.
+Si la solicitud de favores de naturaleza sexual, se acompaña con la amenaza de causar a la víctima un mal relacionado con las legítimas expectativas que pueda tener en el ámbito de su relación con su superior jerárquico, se le impondrá prisión de dos a tres años y de trescientos a seiscientos días multa.
 
-Si la persona ofendida es menor de edad, la pena de prisión será de tres a cinco años.
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-En caso de reincidencia, se le impondrá prisión de dos a siete años.
+ARTICULO 185 BIS.- Comete el delito de acoso sexual, quien en ejercicio abusivo de poder que conlleve a un estado de indefensión, desventaja o de riesgo para la víctima, asedie, acose, o demande actos de naturaleza sexual con fines lascivos, independientemente de que se realice en uno o varios eventos.
+
+De igual forma incurre en acoso sexual quien sin consentimiento y en perjuicio de la intimidad del sujeto pasivo, con propósitos de lujuria o erótico sexual, grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de una persona, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio.
+
+Si la imagen obtenida sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
+
+Comete también el delito de acoso sexual quien con fines de lujuria asedie a cualquier persona, sin su consentimiento, en lugares públicos, en instalaciones o vehículos destinados al transporte público de pasajeros.
+
+A quien cometa el delito de acoso sexual, se le sancionará con pena de uno a tres años de prisión y de trescientos a seiscientos días multa.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 185 BIS A.- Si la víctima de los delitos a que se refiere este capítulo es menor de dieciocho años o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena de prisión será de tres a cinco años de prisión y la sanción pecuniaria de quinientos a mil días multa.
+
+Si el sujeto activo es servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo y se le inhabilitará para el ejercicio de la función pública hasta por siete años.
+
+En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de dos a siete años.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 185 BIS B.- Los delitos previstos en el presente Capítulo se perseguirán por querella de parte ofendida, salvo que la víctima sea menor de dieciocho años o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, en cuyo caso se perseguirá de oficio.
 
 ### CAPITULO II. ROBO BANCARIO
 
@@ -2051,7 +2073,7 @@ En caso de reincidencia, se le impondrá prisión de dos a siete años.
 
 ###### ARTICULO 186.
 
-Sólo se perseguirá por querella de parte ofendida o de sus legítimos representantes los delitos de abuso sexual, sancionado en el artículo 183, párrafo segundo; estupro; y el de acoso sexual.
+Sólo se perseguirá por querella de parte ofendida o de sus legítimos representantes los delitos de abuso sexual, sancionado en el artículo 183, párrafo segundo; y estupro.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2012)</small>
 
@@ -4530,3 +4552,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 260 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO V, DEL TÍTULO OCTAVO, DE LA SECCIÓN PRIMERA, DEL LIBRO SEGUNDO PARA QUEDAR "HOSTIGAMIENTO Y ACOSO SEXUAL", LOS ARTÍCULOS 185 Y 186, Y SE ADICIONAN LOS ARTÍCULOS 185 BIS, 185 BIS A Y 185 BIS B DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
