@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2017-07-14"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -176,6 +176,18 @@ f) De las víctimas de violencia familiar y sexual, maltrato infantil y personas
 IX. El derecho de toda persona a la recreación social, deportiva y cultural, que permita el sano esparcimiento como medida para auspiciar la integración y la convivencia colectiva.
 
 2. El Estado deberá remover los obstáculos que impidan o dificulten el ejercicio de los derechos contenidos en esta sección; y, mediante políticas públicas, hacer realidad el progreso y el bienestar social de sus habitantes, y garantizar su acceso efectivo en los términos del artículo 6.1 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+3. La política pública de mejora regulatoria del estado es obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 3, P.O. 17 DE NOVIEMBRE DE 2017]</small>
+
+El Congreso del Estado mediante una ley creará el Sistema Estatal de Mejora Regulatoria, así como los instrumentos necesarios para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos autónomos del ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 3, P.O. 17 DE NOVIEMBRE DE 2017]</small>
+
+La ley establecerá la creación de un catálogo estatal que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información. La inscripción en el catálogo y su actualización será obligatoria en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5088,3 +5100,13 @@ Con el objeto de asegurar el escalonamiento en los cargos de los integrantes del
 QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 251 POR EL QUE SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la entidad para efectos de lo dispuesto por la fracción III del numeral 1 del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la Declaratoria respectiva con forme a lo dispuesto por el numeral 2 del mismo artículo.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
