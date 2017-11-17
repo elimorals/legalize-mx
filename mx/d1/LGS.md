@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2017-06-22"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2017.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
 
@@ -708,8 +708,6 @@ XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
 Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28 Bis.
@@ -1295,8 +1293,6 @@ El Sistema de Protección Social en Salud será financiado de manera solidaria p
 Los recursos que se transfieran por la Federación para el financiamiento del Sistema de Protección Social en Salud, en cualquiera de sus modalidades, deberán computarse como parte de la cuota social o de la aportación solidaria federal a que se refieren los artículos 77 Bis 12 y 77 Bis 13 de esta Ley, respectivamente.
 
 En los casos de incumplimiento a las obligaciones de pago por la prestación de servicios de salud a la persona, establecidas en los convenios de colaboración celebrados entre las entidades federativas, la Federación, por conducto de la Secretaría de Salud, de los recursos a los que se refiere el presente Título, correspondientes a la entidad federativa deudora, podrá destinar a la entidad federativa acreedora, el monto que representa el pago de los casos validados y no rechazados por concepto de compensación económica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -3486,8 +3482,6 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 181.
 
 En caso de epidemia de carácter (sic) grave peligro de invasión de enfermedades transmisibles, situaciones de emergencia o catástrofe que afecten al país, la Secretaría de Salud dictará inmediatamente las medidas indispensables para prevenir y combatir los daños a la salud, a reserva de que tales medidas sean después sancionadas por el Presidente de la República.
@@ -3650,13 +3644,9 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 189.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 190.
 
@@ -4134,8 +4124,6 @@ IV.- Aditivo: toda substancia que se incluya en la formulación de los medicamen
 
 V.- Materiales: los insumos necesarios para el envase y empaque de los medicamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 222.
@@ -4143,8 +4131,6 @@ V.- Materiales: los insumos necesarios para el envase y empaque de los medicamen
 La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que éstos, sus procesos de producción y las sustancias que contengan reúnan las características de seguridad, eficacia y calidad exigidas, que cumple con lo establecido en esta Ley y demás disposiciones generales, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
 
 Para el otorgamiento de registro sanitario a cualquier medicamento, se verificará previamente el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento así como la certificación de sus principios activos. Las verificaciones se llevarán a cabo por la Secretaría o sus terceros autorizados o, de ser el caso, se dará reconocimiento al certificado respectivo expedido por la autoridad competente del país de origen, siempre y cuando existan acuerdos de reconocimiento en esta materia entre las autoridades competentes de ambos países.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -4992,8 +4978,6 @@ En los casos en que resulten afectadas, por acción u omisión, la identidad, pu
 
 ### CAPITULO XI. Tabaco
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 262.
 
 Para los efectos de esta Ley, se entiende por:
@@ -5194,19 +5178,13 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 276.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 277.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 277 Bis.
 
@@ -5448,8 +5426,6 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de las personas con discapacidad, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Economía, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 301.
@@ -5528,8 +5504,6 @@ La publicidad no deberá inducir a hábitos de alimentación nocivos, ni atribui
 
 La publicidad de alimentos y bebidas no alcohólicas deberá incluir en forma visual, auditiva o visual y auditiva, según sea para impresos, radio o cine y televisión, respectivamente, mensajes precautorios de la condición del producto o mensajes promotores de una alimentación equilibrada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 308.
@@ -5558,8 +5532,6 @@ VII.- En el mensaje no podrán participar personas menores de 25 años, y
 
 VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 La Secretaría de Salud podrá dispensar el requisito previsto en la fracción VIII del presente artículo, cuando en el propio mensaje y en igualdad de circunstancias, calidad, impacto y duración, se promueva la moderación en el consumo de bebidas alcohólicas, especialmente en la niñez, la adolescencia y la juventud, así como advierta contra los daños a la salud que ocasionan el abuso en el consumo de bebidas alcohólicas.
@@ -5568,21 +5540,15 @@ La Secretaría de Salud podrá dispensar el requisito previsto en la fracción V
 
 Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el otorgamiento de la dispensa a que se refiere el párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 308 Bis.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 309.
 
 Los horarios en los que las estaciones de radio y televisión y las salas de exhibición cinematográfica podrán transmitir o proyectar, según el caso, publicidad de bebidas alcohólicas, se ajustarán a lo que establezcan las disposiciones generales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 309 Bis.
 
@@ -5642,19 +5608,13 @@ Compete a la Secretaría de Salud:
 
 I. El control y la vigilancia sanitarios de la disposición y trasplantes de órganos, tejidos y células de seres humanos, en los términos establecidos por esta Ley y demás disposiciones jurídicas aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 II. La regulación sobre cadáveres, en los términos de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 III. Establecer y dirigir las políticas en salud en materia de donación, procuración y trasplantes de órganos, tejidos y células, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -5696,8 +5656,6 @@ VIII. Embrión, al producto de la concepción a partir de ésta, y hasta el tér
 
 IX. Feto, al producto de la concepción a partir de la decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes, que mantiene de modo autónomo su estructura, vascularización y capacidad de desarrollar funciones fisiológicas;
@@ -5730,61 +5688,41 @@ XIV Bis. Transfusión, procedimiento terapéutico consistente en la aplicación 
 
 XV. Banco de tejidos con fines de trasplante, establecimiento autorizado que tenga como finalidad primordial mantener el depósito temporal de tejidos para su preservación y suministro terapéutico;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XVI. Disponente secundario, alguna de las siguientes personas; él o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XVII. Disposición, el conjunto de actividades relativas a la obtención, extracción, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XVIII. Asignación el proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XIX. Autotrasplante, trasplante que consiste en obtener un órgano o tejido del propio paciente y volverlo a implantar en él;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XX. Coordinador hospitalario de donación de órganos y tejidos para trasplantes, el médico especialista o general, debidamente capacitado por la Secretaría de Salud que realiza las funciones de procuración de órganos a que se refiere esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XXI. Coordinación Institucional, la representación nombrada por cada institución de salud en el país ante la Secretaría de Salud con el fin de atender en el ámbito de su competencia, las políticas en salud en materia de donación y trasplantes de órganos, tejidos y células;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XXII. Distribución, al proceso a través del cual se determina el establecimiento de salud donde serán trasplantados los órganos y tejidos, obtenidos de un donador que haya perdido la vida;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XXIII. Implante, al procedimiento terapéutico consistente en la sustitución de una parte del cuerpo por material biológico nativo o procesado, o bien sintético, que podrá quedar o no integrado al organismo y sin que desempeñe alguna función que requiera la persistencia viva de lo sustituido;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XXIV. Institución de salud, a la agrupación de establecimientos de salud bajo una misma estructura de mando y normativa;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -5802,15 +5740,11 @@ XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos, tej
 
 XXVIII. Hemoderivados, los productos obtenidos de algunos componentes sanguíneos, especialmente el plasma, mediante procesos fisicoquímicos o biológicos, para aplicación terapéutica, diagnóstica, preventiva o en investigación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 314 Bis.
 
 Los gobiernos de las entidades federativas deberán establecer centros de trasplantes, los cuales coadyuvarán con el Centro Nacional de Trasplantes presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señalen esta Ley y las demás disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -5819,8 +5753,6 @@ Los gobiernos de las entidades federativas deberán establecer centros de traspl
 El Subsistema Nacional de Donación y Trasplantes está constituido por las dependencias y entidades de la Administración Pública, tanto federal como de las entidades federativas, el Centro Nacional de Trasplantes, los Centros Estatales de Trasplantes y el del Distrito Federal y las personas físicas o morales de los sectores público, social y privado que presten servicios de salud o se dediquen a actividades relacionadas con los trasplantes o la donación de órganos, tejidos y células, así como por los programas y los mecanismos de vinculación, coordinación y colaboración de acciones que se establezcan entre éstas.
 
 La política en materia de donación y trasplantes deberá guiarse por la transparencia, la equidad y la eficiencia, debiendo protegerse los datos personales en términos de las disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -5872,8 +5804,6 @@ Para el caso de los establecimientos de salud a que se refiere la fracción IV d
 
 Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, de quien deberán dar aviso ante la Secretaría de Salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Los establecimientos en los que se extraigan órganos, tejidos y células, deberán de contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
@@ -5899,8 +5829,6 @@ En caso de que el establecimiento cuente con la autorización sanitaria para hac
 > <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
 Los comités y subcomités a que se refiere este artículo se integrarán y sujetarán a las disposiciones que para tal efecto emita la Secretaría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6004,8 +5932,6 @@ La donación en materia de órganos, tejidos, células y cadáveres, consiste en
 
 La Secretaría de Salud promoverá que en todo establecimiento de atención obstétrica, se solicite sistemáticamente a toda mujer embarazada su consentimiento para donar de manera voluntaria y altruista la sangre placentaria para obtener de ella células troncales o progenitoras para usos terapéuticos o de investigación, por medio de una carta de consentimiento informado, garantizándole en todo momento su plena voluntad, libertad y confidencialidad, de conformidad con las demás disposiciones jurídicas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 322.
@@ -6028,8 +5954,6 @@ La donación expresa, cuando corresponda a mayores de edad con capacidad jurídi
 
 En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, componentes sanguíneos y células troncales se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 323.
@@ -6043,8 +5967,6 @@ I. Para la donación de órganos y tejidos en vida, y
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 II. Para la donación de sangre, componentes sanguíneos y células troncales en vida.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6086,15 +6008,11 @@ Está prohibido el comercio de órganos, tejidos y células. La donación de és
 
 No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos y células, incluyendo la sangre y sus componentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 328.
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, o se desconozca su identidad o forma de localizar a sus parientes, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6128,8 +6046,6 @@ I. El trasplante de gónadas o tejidos gonadales, y
 
 II. El uso, para cualquier finalidad, de tejidos embrionarios o fetales producto de abortos inducidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 331.
@@ -6162,8 +6078,6 @@ III. Tener compatibilidad aceptable con el receptor;
 
 IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 V. Haber otorgado su consentimiento en forma expresa, en términos de los artículos 322 y 323 de esta Ley, y
@@ -6178,19 +6092,13 @@ b) El interesado en donar deberá otorgar su consentimiento expreso ante Notario
 
 c) Haber cumplido todos los requisitos legales y procedimientos establecidos por la Secretaría, para comprobar que no se está lucrando con esta práctica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Asimismo, para realizar trasplantes entre vivos, cuando el receptor y/o el donador sean extranjeros, deberá además de cumplir lo previsto en el presente artículo y demás disposiciones aplicables, acreditar su legal estancia en el país con la calidad migratoria específica que corresponda, y el establecimiento en el que se vaya a realizar el trasplante, deberá inscribir al paciente al Registro Nacional de Trasplantes con una antelación de al menos quince días hábiles si se trata de un trasplante entre familiares por consanguinidad, civil o de afinidad hasta el cuarto grado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Cuando no exista el parentesco a que se refiere el párrafo anterior, el receptor del órgano deberá tener un historial clínico en el país de al menos seis meses.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6202,19 +6110,13 @@ Los establecimientos de salud en los que se realicen trasplantes a los que se re
 
 Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la extracción de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este título;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 II. Existir consentimiento expreso del disponente, que conste por escrito o no constar la revocación del tácito para la donación de sus órganos y tejidos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6228,8 +6130,6 @@ III. Asegurarse que no exista riesgo sanitario.
 
 Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 335 Bis.
@@ -6237,8 +6137,6 @@ Los profesionales de las disciplinas para la salud que intervengan en la extracc
 Los coordinadores hospitalarios de la donación de órganos y tejidos para trasplantes en turno notificarán al Ministerio Público, de manera inmediata la identificación de un donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito.
 
 Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6271,8 +6169,6 @@ El traslado, la preservación, conservación, manejo, etiquetado, claves de iden
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 El traslado de órganos, tejidos y células adecuadamente etiquetados e identificados, podrá realizarse en cualquier medio de transporte por personal debidamente acreditado bajo la responsabilidad del establecimiento autorizado para realizar trasplantes o para la disposición de órganos, tejidos y células.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6372,8 +6268,6 @@ La Secretaría de Salud emitirá las disposiciones que regulen tanto la infraest
 
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un deshecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud, en los términos de esta Ley y demás disposiciones generales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 342 Bis.
@@ -6385,8 +6279,6 @@ Estos tejidos únicamente se podrán obtener en los establecimientos autorizados
 Los establecimientos para la atención de la salud en los cuales se obtenga la donación de los tejidos antes referidos, se sujetarán a las disposiciones que dicte la Secretaría de Salud.
 
 Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los mecanismos de aprovechamiento, procesamiento o utilización, bajo condiciones que garanticen calidad, seguridad y eficacia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6405,8 +6297,6 @@ La distribución de sangre y sus componentes deberá ser equitativa y dar priori
 > <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 Se deberán realizar las pruebas necesarias que determine la Secretaría de Salud de acuerdo con los estándares internacionales de calidad y seguridad sanguínea a efecto de disminuir el riesgo de transmisión de enfermedades por transfusión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6492,7 +6382,9 @@ Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la 
 
 La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción.
 
-Los cadáveres deberán inhumarse, incinerarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público, o de la autoridad judicial.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
+
+Los cadáveres deberán inhumarse, incinerarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público, o de la autoridad judicial. Para el caso de cadáveres de personas no identificadas se estará a lo dispuesto en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
 La inhumación e incineración de cadáveres sólo podrá realizarse en lugares permitidos por las autoridades sanitarias competentes.
 
@@ -6536,23 +6428,41 @@ Para la práctica de necropsias en cadáveres de seres humanos se requiere conse
 
 Para la utilización de cadáveres o parte de ellos de personas conocidas, con fines de docencia e investigación, se requiere el consentimiento del disponente.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
 
-Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, las instituciones educativas deberán dar aviso a la autoridad sanitaria competente, en los términos de esta Ley y demás disposiciones aplicables.
+Tratándose de cadáveres de personas desconocidas o no identificadas se estará a lo dispuesto en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 350 Bis 4.
 
-Las instituciones educativas que obtengan cadáveres de personas desconocidas serán depositarias de ellos durante diez días, con objeto de dar oportunidad al cónyuge, concubinario, concubina o familiares para reclamarlos. En este lapso los cadáveres permanecerán en las instituciones y únicamente recibirán el tratamiento para su conservación y el manejo sanitario que señalen las disposiciones respectivas.
+Las instituciones educativas sólo podrán utilizar cadáveres respecto de los que tengan el consentimiento, ante mortem de la persona fallecida o de sus familiares después de su muerte.
 
-Una vez concluido el plazo correspondiente sin reclamación, las instituciones educativas podrán utilizar el cadáver.
+Las instituciones educativas que reciban cadáveres para efectos de investigación o de docencia deberán tener un registro que contenga, por lo menos:
 
-> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+I. Nombre completo de la persona fallecida;
+
+II. El domicilio en el que habitaba la persona fallecida;
+
+III. Edad que tenía la persona al fallecer;
+
+IV. Sexo de la persona fallecida;
+
+V. Estado civil de la persona fallecida;
+
+VI. Nombre y domicilio del cónyuge, concubina o concubinario;
+
+VII. Nombre y domicilio de los padres y en caso de haber fallecido éstos, la mención de este hecho;
+
+VIII. En caso de no tener cónyuge, concubina o concubinario, o padres, el señalamiento del nombre y domicilio de alguno de sus familiares más cercanos, y
+
+IX. El nombre de la institución educativa beneficiaria del cadáver.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 350 Bis 5.
 
-Los cadáveres de personas desconocidas, los no reclamados y los que se hayan destinado para docencia e investigación, serán inhumados o incinerados.
+Los cadáveres que se hayan destinado para fines de docencia e investigación serán inhumados o incinerados.
 
 > <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
@@ -6561,8 +6471,6 @@ Los cadáveres de personas desconocidas, los no reclamados y los que se hayan de
 Sólo podrá darse destino final a un feto previa expedición del certificado de muerte fetal.
 
 En el caso de que el cadáver del feto no sea reclamado dentro del término que señala el artículo 348 de esta ley, deberá dársele destino final. Salvo aquellos que sean destinados para el apoyo de la docencia e investigación por la autoridad de Salud conforme a esta ley y a las demás disposiciones aplicables, quien procederá directamente o por medio de las instituciones autorizadas que lo soliciten mismas que deberán cumplir con los requisitos que señalen las disposiciones legales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -7328,8 +7236,6 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 157 Bis 10, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 Bis, 350 Bis 2, 350 Bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
@@ -7632,15 +7538,13 @@ Igual sanción se aplicará al que traslade o realice actos tendientes a traslad
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por siete años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 462.
 
 Se impondrán de seis a diecisiete años de prisión y multa por el equivalente de ocho mil a diecisiete mil días de salario mínimo general vigente en la zona económica de que se trate:
 
-l. Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos y sus componentes, cadáveres o fetos de seres humanos;
+I. Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos y sus componentes, cadáveres o fetos de seres humanos;
 
 II. Al que comercie o realice actos de simulación jurídica que tengan por objeto la intermediación onerosa de órganos, tejidos, incluyendo la sangre, cadáveres, fetos o restos de seres humanos;
 
@@ -7662,8 +7566,6 @@ VII. Aquella persona que con intención cause infección de receptores por agent
 
 En el caso de las fracciones III, IV, V y VI se aplicarán al responsable, además de otras penas, de cinco a diez años de prisión. Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de cinco a ocho años en el ejercicio profesional, técnico o auxiliar y hasta seis años más, en caso de reincidencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ARTICULO 462 BIS. Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II, III, IV y V del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de cuatro a nueve años de prisión y multa por el equivalente de diez mil a quince mil días de salario mínimo general vigente en la zona económica de que se trate.
@@ -7671,8 +7573,6 @@ ARTICULO 462 BIS. Al responsable o empleado de un establecimiento donde ocurra u
 > <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
 Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de dos a cuatro años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -7719,8 +7619,6 @@ Cuando la conducta descrita en el párrafo anterior sea producto de negligencia,
 ###### ARTICULO 464 Ter.
 
 En materia de medicamentos se aplicarán las penas que a continuación se mencionan, a la persona o personas que realicen las siguientes conductas delictivas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
@@ -8821,3 +8719,111 @@ Segundo. La Secretaría emitirá el Reglamento del Registro Nacional de Cáncer 
 Tercero. La Secretaría realizará las modificaciones a la Norma Oficial Mexicana y demás disposiciones administrativas relativas al Sistema Nacional de Información Básica en Materia de Salud que permitan la recopilación, integración y disposición de la información necesaria para la operación del Registro Nacional de Cáncer con base poblacional, garantizando la protección de datos personales de los pacientes de conformidad con la normatividad aplicable.
 
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de la Secretaría de Salud para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL Y DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+A partir de la entrada en vigor del presente Decreto y hasta la emisión de los instrumentos a que se refiere el Artículo Décimo Cuarto Transitorio, la Procuraduría y las Procuradurías Locales y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a esta Ley.
+
+La Procuraduría y las Procuradurías Locales, además de los protocolos previstos en esta Ley, continuarán aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+Segundo. Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+
+Tercero. Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+Dentro de los treinta días siguientes a que la Comisión Nacional de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 53, fracción VIII, de esta Ley.
+
+Dentro de los ciento ochenta días posteriores a la entrada en funciones de la Comisión Nacional de Búsqueda, ésta deberá emitir el Programa Nacional de Búsqueda.
+
+Los servidores públicos que integren las Fiscalías Especializadas y las Comisiones de Búsqueda deberán estar certificados dentro del año posterior a su creación.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Nacional de Búsqueda emitirá los criterios previstos en el artículo 53, fracción L, de esta Ley, dentro de los noventa días posteriores a su entrada en funciones.
+
+La Comisión Nacional de Búsqueda y las comisiones locales podrán, a partir de que entren en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes. La Comisión Nacional de Búsqueda coordinará la búsqueda de las personas desaparecidas relacionadas con búsquedas en las que, a la entrada en vigor de esta Ley, participen autoridades federales.
+
+Cuarto. Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las entidades federales (sic) para el establecimiento de sus Comisiones Locales de Búsqueda.
+
+Quinto. El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+Sexto. El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+
+En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
+
+En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el artículo 55.
+
+Séptimo. Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
+
+Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas Desaparecidas y No Localizadas, las Entidades Federativas deberán poner en marcha sus registros de Personas Desaparecidas y No Localizadas.
+
+Octavo. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
+
+La Federación y las Entidades Federativas deberán migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
+
+Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+
+Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+
+En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior, resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local aplicable.
+
+Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos de esta Ley, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la presente Ley;
+
+II. En las investigaciones iniciadas en las que aún no se ejerza acción penal, el Ministerio Público la ejercitará de conformidad con la traslación del tipo que resulte procedente;
+
+III. En los procesos iniciados conforme al sistema penal mixto en los que el Ministerio Público aún no formule conclusiones acusatorias, procederá a su elaboración y presentación de conformidad con la traslación del tipo penal que, en su caso, resultare procedente;
+
+IV. En los procesos iniciados conforme al sistema acusatorio adversarial, en los que el Ministerio Público aún no presente acusación, procederá a su preparación y presentación atendiendo a la traslación del tipo que pudiera proceder;
+
+V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y
+
+VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
+
+Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+
+Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las Fiscalías Especializadas la información de las Personas Desaparecidas o No Localizadas que correspondan al ámbito de su competencia.
+
+Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
+
+I. Dentro de los ciento ochenta días siguientes a que reciban la información, la Fiscalía Especializada que corresponda deberá recabar información sobre las personas inscritas en el Registro previsto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas que correspondan a su ámbito de competencia, a fin de que dicha información esté apegada a lo dispuesto en el artículo 106 y, en su caso, al artículo 112 de esta Ley;
+
+II. En términos de la fracción anterior, las Fiscalías Especializadas que estén impedidas materialmente para actualizar la información dentro del plazo previsto, deberán publicar un padrón con el nombre de las Personas Desaparecidas o No Localizadas cuya información no haya sido actualizada, a efecto de que, dentro de los ciento veinte días siguientes, los Familiares y organizaciones de la sociedad civil proporcionen la información que pudiera resultar útil para realizar dicha actualización;
+
+III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
+
+IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
+
+Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
+
+Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.
+
+Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
+
+Décimo Quinto. Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+
+Décimo Sexto. En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
+
+Décimo Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+
+Las Legislaturas de las Entidades Federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+
+Décimo Octavo. Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
+
+Décimo Noveno. La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+
+Dentro del plazo previsto en el párrafo anterior la Procuraduría General de la República emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Nacional de Datos Forenses previstos en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Vigésimo. En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+
+Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+
+Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
