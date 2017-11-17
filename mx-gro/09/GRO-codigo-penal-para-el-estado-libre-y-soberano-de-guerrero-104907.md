@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2017-07-18"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2123,6 +2123,8 @@ A los hermanos, ascendientes o descendientes consanguíneos en línea recta, que
 
 ### Capítulo I. Violencia familiar
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 189.
 
 Reparación del daño
@@ -2215,7 +2217,9 @@ IV. Hasta en dos terceras partes si espontáneamente se devuelve a la persona me
 
 Violencia familiar
 
-A quien teniendo la calidad de cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, maltrate física o psicoemocionalmente a un miembro de la familia, se le impondrán de uno a cinco años de prisión, pérdida de los derechos que tenga respecto de la víctima por el doble del término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+A quien teniendo la calidad de cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, maltrate física o psicoemocionalmente a un miembro de la familia, o cuando exista alienación parental, se le impondrán de uno a cinco años de prisión, pérdida de los derechos que tenga respecto de la víctima por el doble del término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+
+Se entiende por Alienación Parental la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
 
 ###### Artículo 199.
 
@@ -4546,3 +4550,11 @@ Tercero. Las personas sentenciadas continuarán cumpliendo la pena de conformida
 Cuarto. Quedará derogada la fracción VI del artículo 274 de este Código, una vez que se regule de manera específica este supuesto en la Ley para Prevenir, Sancionar y Erradicar la Tortura en el Estado de Guerrero. Los procedimientos iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo establecido en la misma.
 
 Los procedimientos iniciados antes de la vigencia de la Ley para Prevenir, Sancionar y Erradicar la Tortura en el Estado de Guerrero continuarán su sustanciación de conformidad con este código.
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 493 POR EL QUE SE REFORMAN EL ARTÍCULO 27 BIS DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358 Y EL ARTÍCULO 198 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo para los efectos constitucionales y legales conducentes
