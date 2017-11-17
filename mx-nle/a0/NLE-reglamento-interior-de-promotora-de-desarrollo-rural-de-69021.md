@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-promotora-de-desarrollo-rural-de-69021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-03"
-last_updated: "2009-06-03"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE PROMOTORA DE DESARROLLO RURAL DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de junio de 2009.
 
@@ -76,7 +76,13 @@ a. De Administración y Finanzas
 
 b. De Operaciones
 
-IV. Además del personal de Jefaturas, supervisión, operativo y técnico que se establezcan por acuerdo del Director General, con base a las necesidades internas.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+c. Unidad de Transparencia.
+
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN IV], P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+Además del personal de Jefaturas, supervisión, operativo y técnico que se establezcan por acuerdo del Director General, con base a las necesidades internas.
 
 ###### Artículo 5.
 
@@ -122,6 +128,12 @@ Para la delegación de las atribuciones que le corresponde, el Director General 
 
 Son atribuciones del Director General las señaladas en las fracciones I, II, III, IV, V, VI, y VII del artículo noveno del Decreto
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+Así mismo, integrará el Comité de Transparencia del Organismo, conforme a los artículos 24, 56 y demás relativos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 17 DE NOVIEMBRE DE 2017, PÁGINA 5.]</small>
+
 ###### Artículo 11.
 
 Son funciones para el Director de Administración y Finanzas, las siguientes:
@@ -144,9 +156,9 @@ VIII. Administración eficaz y eficiente de los egresos.
 
 IX. Supervisar el mantenimiento y actualización de la infraestructura material e informática del Organismo tratando de mantenerlo en condiciones optimas de operación.
 
-X. Dirigir y coordinar los trabajos a desarrollar derivados de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-XI. Dirigir y coordinar las medidas de prevención de riesgos y de seguridad de Protección Civil.
+X. Dirigir y coordinar las medidas de prevención de riesgos y de seguridad de Protección Civil.
 
 ###### Artículo 12.
 
@@ -169,6 +181,36 @@ VII. Administrar los recursos humanos a su cargo.
 VIII. Controlar y autorizar el consumo de combustible para cada vehículo.
 
 IX. Programar, dirigir y coordinar la operación del departamento de Taller.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 12 Bis.
+
+Son funciones de la Unidad de Transparencia, las siguientes:
+
+I. Recabar y difundir la información a que se refieren los Capítulos II, III y IV del Título Quinto de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, y propiciar que las Áreas la actualicen periódicamente, conforme la normatividad aplicable;
+
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V. Efectuar las notificaciones a los solicitantes;
+
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
+
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y en las demás disposiciones aplicables; y
+
+XII. Las demás que se desprendan de la normatividad aplicable.
 
 ### Capítulo V. De la Suplencia de los Titulares
 
@@ -197,3 +239,11 @@ ATENTAMENTE
 C. ING. DANIEL MARTINEZ RUIZ
 
 DIRECTOR GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE PROMOTORA DE DESARROLLO RURAL DE NUEVO LEÓN”.]
+
+ÚNICO. Las reformas al presente Reglamento entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
