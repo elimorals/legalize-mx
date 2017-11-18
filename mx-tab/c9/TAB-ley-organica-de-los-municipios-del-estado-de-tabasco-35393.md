@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2017-07-05"
+last_updated: "2017-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -65,17 +65,37 @@ En todo lo no previsto por esta Ley para la organización y funcionamiento de lo
 
 El Municipio Libre, investido de personalidad jurídica propia, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Tabasco, es la base de la división territorial y de la organización política y administrativa del Estado; autónomo en su régimen interior y con libertad para administrar su Hacienda conforme a las disposiciones constitucionales y a la presente Ley.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+Para garantizar el manejo sostenible de sus finanzas públicas, los municipios y sus respectivos entes públicos están obligados a cumplir y aplicar los criterios generales de responsabilidad hacendaria y financiera que establecen la Constitución General de la República, la particular del Estado, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+En todo caso, los entes públicos municipales administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
 ###### Artículo 3.
 
 La función primordial del Municipio es permitir el gobierno democrático para el constante mejoramiento económico, social y cultural de sus habitantes, mediante la prestación de los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 3 Bis.
+
+Como Ente Público considerado en el marco de la Ley General del Sistema Nacional Anticorrupción y su correlativa Ley del Sistema Anticorrupción del Estado de Tabasco, el Municipio está obligado a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, así como a vigilar y promover la actuación ética y responsable de cada servidor público en este orden de gobierno.
+
+De igual modo, en el marco de competencias concurrentes que establece la Ley General de Responsabilidades Administrativas, corresponde al Municipio la aplicación de dicho ordenamiento, para efectos de intervenir en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción; así como el cumplimiento de sus propias obligaciones en materia de fiscalización y control de recursos públicos.
+
+Para alcanzar los objetivos señalados en los párrafos anteriores, el Municipio deberá conducirse bajos (sic) los modelos de coordinación y colaboración establecidos en los ordenamientos de referencia y cumplir con las bases, lineamientos y directrices que señalen las instancias y autoridades nacionales y estatales competentes.
 
 ###### Artículo 4.
 
 En los términos señalados en esta Ley y sin menoscabo de la libertad que sancionan el pacto federal y la Constitución del Estado, los municipios podrán coordinarse entre sí, con el Estado o con municipios de otras entidades federativas, para el más eficaz cumplimiento de sus funciones, la prestación de los servicios públicos y el mejor aprovechamiento de sus recursos y en cuanto proceda, buscarán la coordinación con los gobiernos estatal y federal.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-Artículo 4 bis. El Ayuntamiento y/o Consejo Municipal, titulares de las Dependencias y Entidades Paramunicipales y demás servidores públicos municipales que tengan el carácter de sujetos obligados, deberán cumplir con las obligaciones en materia de transparencia señaladas en la Ley de Transparencia y Acceso a la Información Pública del Estado. El incumplimiento de esta obligación será causa de responsabilidad administrativa que será sancionada conforme a dicha Ley, sin perjuicio de otras sanciones que prevean otras leyes.
+###### Artículo 4 Bis.
+
+El Ayuntamiento y/o Concejo Municipal, los titulares de las Dependencias y Entidades Paramunicipales y demás servidores públicos municipales que tengan el carácter de sujetos obligados, deberán cumplir con las obligaciones en materia de transparencia señaladas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco. El incumplimiento de esta obligación será causa de responsabilidad administrativa que será sancionada conforme a dicha Ley, sin perjuicio de otras sanciones que prevean otras leyes.
 
 ### CAPÍTULO II. De la Organización Territorial del Estado
 
@@ -363,161 +383,21 @@ Al instalarse el Ayuntamiento, deberá comunicar los nombres de sus integrantes,
 
 El proceso de entrega-recepción de la administración pública municipal es un acto administrativo de interés público, de cumplimiento obligatorio y formal, a través del cual los servidores públicos, al concluir o separarse de su empleo, cargo o comisión, preparan y entregan a quienes los sustituyan en sus funciones, los asuntos y recursos que les hayan sido asignados para el ejercicio de sus atribuciones legales.
 
-I. La entrega-recepción puede ser:
+I. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2017)
 
-a) Intermedia.- Cuando por causas distintas al cambio de administración, se separe el servidor público y/o sujeto obligado de su cargo, empleo o comisión;
+II. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2017)
 
-b) Final.- El que se realiza al término e inicio de un periodo constitucional o legal y, en su caso, con motivo de la suspensión o desaparición de los Ayuntamientos.
+III. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2017)
 
-En caso de trasferencia de área, cese, despido, destitución, suspensión, renuncia, inhabilitación del cargo o licencia por más de quince días hábiles o tiempo indefinido, en los términos de sus leyes respectivas, el servidor público saliente, no quedará relevado de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
+IV. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2017)
 
-En caso de muerte, incapacidad física o mental, la reclusión por la comisión de algún delito sustentada en un auto de formal prisión y que no permita la libertad bajo fianza, que imposibilite al servidor público o sujeto obligado para llevar a cabo la Entrega-Recepción, el superior jerárquico lo notificará a la Contraloría Municipal, quien levantará acta circunstanciada a fin de dejar constancia del estado en que se encuentran los asuntos y recursos, requiriéndose información a los servidores públicos adscritos a dicha área. Posteriormente, en un plazo no mayor de 15 días hábiles, contados a partir de la fecha en que se presente la renuncia, se notifique la baja o se lleve a cabo el cambio de cargo se procederá a realizar la entrega a la persona que sea nombrada como encargada o titular definitivo.
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-En caso de urgencia el superior jerárquico podrá habilitar días y horas inhábiles para hacer la entrega-recepción correspondiente.
-
-II. Los servidores públicos del Ayuntamiento para efectuar la entrega-recepción que corresponda, deberán implementar previamente un programa de trabajo por área de responsabilidades, que tendrá como propósito la realización de las actividades relativas a la preparación, actualización e integración de la información, que permita efectuar la entrega de una manera ágil y transparente conforme a los lineamientos, metodología y formatos que se establezcan en el Manual de Procedimientos para el Proceso de Entrega-Recepción, que para tal efecto dicte la Contraloría Municipal en coordinación con el Órgano Superior de Fiscalización del Estado, conforme a los criterios señalados en el artículo 28 de esta Ley, mismo que deberá ser aprobado por el Cabildo y publicado en el Periódico Oficial del Estado.
-
-Para dar cumplimiento a la presente Ley, los servidores públicos deberán mantener permanentemente actualizados sus registros, controles, inventarios y demás documentación relativa a su despacho, a fin de hacer posible la entrega oportuna del mismo; asimismo en la ejecución de los trabajos de la entrega-recepción deberán atender los principios de eficiencia, eficacia, honradez, legalidad, certeza, imparcialidad y objetividad en el ejercicio de sus respectivas funciones.
-
-III. Tratándose del acto de entrega-recepción final, los miembros del Ayuntamiento saliente, mediante acuerdo con quienes sean reconocidos legal y definitivamente electos por el órgano electoral competente, nombrarán representantes para integrar una comisión de enlace para el proceso de entrega-recepción, a la que podrán invitar a servidores públicos designados por el Titular del Órgano Superior de Fiscalización del Estado.
-
-Los representantes del Ayuntamiento entrante, sólo conocerán los asuntos y recursos que habrán de recibirse por parte de los servidores públicos de cada uno de los órganos de la administración municipal saliente; por lo que no podrán sustraer información, ni tomar posesión de bienes antes de la entrega-recepción final. Durante su actuación no tendrán el carácter de servidores públicos ni percibirán retribución alguna con cargo al erario del Ayuntamiento, por lo que deberán abstenerse de efectuar cualquier acción tendente a obtener algún beneficio.
-
-El acto de entrega-recepción final se formalizará al entrar en funciones el Ayuntamiento electo, firmándose el acta administrativa de entrega-recepción final por el Presidente Municipal y Contralor Municipal, entrante y saliente, ante la presencia de un representante del Órgano Superior de Fiscalización del Estado.
-
-IV. En caso de que el servidor público entrante, se percate de irregularidades en los documentos y recursos recibidos, previa confrontación con la información entregada por el Ayuntamiento saliente, dentro de un término de sesenta días hábiles, contados a partir de la fecha del acto de entrega-recepción, deberá hacerlas del conocimiento de la Contraloría Municipal, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
-
-En caso de que algún servidor público, entrante o saliente, no cumpla con lo dispuesto en la presente Ley, la Contraloría Municipal, llevará a cabo el procedimiento respectivo para deslindar las responsabilidades y para los efectos de la sanción que se le imponga. Lo anterior, sin perjuicio de lo que dispongan otros ordenamientos jurídicos penales o administrativos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+Dicho procedimiento se llevará a cabo en los términos previstos por la Ley que Establece los Procedimientos de Entrega y Recepción en los Poderes Públicos, los Ayuntamientos y los Órganos Constitucionales Autónomos del Estado de Tabasco y demás normatividad aplicable.
 
 ###### Artículo 28.
 
-La información que formará parte de la entrega-recepción, se integrará junto con los formatos y anexos correspondientes, conforme a los criterios que a continuación se enlistan y de acuerdo a la naturaleza de la actividad desarrollada:
-
-I.- El Expediente Protocolario que contendrá:
-
-a) Acto solemne de toma de protesta;
-
-b) Acta administrativa de Entrega-Recepción;
-
-c) Informe de los asuntos de su competencia, y
-
-d) En su caso, acta circunstanciada.
-
-II.- El marco jurídico administrativo; conformado por leyes, decretos, acuerdos y reglamentos, autorizados y publicados en el Periódico Oficial del Estado, manuales de organización y procedimientos, otros ordenamientos legales y administrativos aplicables, así como la estructura orgánica actualizada con el nombre y cargo del servidor público.
-
-III.- La planeación estratégica, que comprende los panes (sic), programas y acciones especificando la fuente de los recursos con los que se financia cada uno.
-
-IV.- Los recursos humanos, señalándose la plantilla de personal autorizada por condición laboral, base, confianza, supernumerario y otros; detallando los que se encuentren bajo la clasificación de activos, licencia, comisionado, eventual, honorarios asimilables a salarios, así como los que se encuentran en lista de raya, suplencias, con permiso, incapacidad o comisión; estableciendo la comisión y la unidad de adscripción.
-
-Tanto las nóminas como la plantilla deberán incluir el detalle de las percepciones y deducciones mensuales.
-
-En el caso del personal eventual que labora bajo contrato, por obra o tiempo determinado y de los prestadores de servicios por honorarios, los contratos respectivos no podrán exceder su vigencia más allá del último día de la entrega-recepción.
-
-Los órganos de la administración municipal deberán efectuar los trámites pertinentes, a fin de que el personal comisionado se reintegre, antes del cierre del ejercicio, a su área original de adscripción.
-
-El Ayuntamiento saliente deberá especificar y asegurar la disponibilidad de recursos para el pago de aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
-
-V. Los recursos financieros y presupuestales:
-
-a) Estados financieros y presupuestales;
-
-b) Resumen de arqueos y corte de caja;
-
-c) Cuentas de cheques y depósitos en inversión;
-
-d). Cheques o transferencias pendientes de entregar o realizar;
-
-e) Deudores diversos;
-
-f) Cuentas por cobrar y cuentas y retenciones por pagar;
-
-g) Deuda directa e indirecta, y
-
-h) Formas valoradas, así como valores y bienes en custodia.
-
-VI. La hacienda municipal a que se refiere el artículo 106 de esta Ley, así como inventarios de almacén y archivos documentales.
-
-VII. Los sistemas de información:
-
-a) Software adquirido;
-
-b) Software desarrollado, y
-
-c) Respaldos de información en medios magnéticos.
-
-VIII. Las obras públicas:
-
-a) Inventario de obras concluidas y en proceso;
-
-b) Anticipos y saldos pendientes de amortizar, y
-
-c) Cartera de estudios y proyectos.
-
-IX. Los acuerdos y convenios interinstitucionales como pueden ser acuerdos de coordinación, anexos de ejecución, convenios de colaboración, de integración a algún programa, acuerdos con organizaciones no gubernamentales, con la iniciativa privada o particulares y otros.
-
-X. Las adquisiciones de bienes y/o servicios en trámite y los contratos de servicios vigentes.
-
-XI. Los informes especiales con la documentación soporte correspondiente especificando su status, respecto de los pasivos de las anteriores administraciones que no hubieren sido finiquitados, como deudas directas e indirectas, laudos, convenios, acreedores diversos y otros.
-
-XII. Los expedientes fiscales que contendrá:
-
-a) Padrón de contribuyentes;
-
-b) Inventario de formas valoradas;
-
-c) Inventario de recibos de ingresos;
-
-d) Relación de rezago, y
-
-e) Legislación fiscal.
-
-Para que el Acta Administrativa de entrega-recepción final o intermedia, cumpla con su finalidad y tenga la validez necesaria para los efectos legales a que dé lugar, deberá reunir, señalar y en su caso especificar como mínimo los siguientes requisitos:
-
-I.- Fecha, lugar y hora en que da inicio el acto de entrega-recepción;
-
-II.- Nombre, cargo u ocupación de las personas que intervienen, quienes se identificarán plenamente;
-
-III.- Especificar el asunto u objeto principal del acto de Entrega-Recepción, o evento del cual se va a dejar constancia;
-
-IV.- Ser circunstanciada, relacionando por escrito y a detalle, el conjunto de hechos que comprende el acto de entrega-recepción o evento del cual se va a dejar constancia, así como las situaciones que acontezcan durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
-
-V.- Realizarse en presencia de personas que funjan como testigos;
-
-VI.- Especificar número, tipo y contenido de los documentos que se anexan y complementen el acta;
-
-VII.- Indicar fecha, lugar y hora en que concluye el acto de entrega-recepción o evento de cual se va a dejar constancia;
-
-VIII.- Formularse cuando menos en cuatro tantos;
-
-IX.- No deberá contener tachaduras, enmendaduras o borraduras; en todo caso, los errores deben corregirse mediante testado, antes del cierre del acta, y los espacios o renglones no utilizados deben ser cancelados con guiones;
-
-X.- Todas y cada una de las hojas que integran el acta circunstanciada del acto de entrega-recepción, deberán ser firmadas por las personas que en ella intervinieron, haciéndose constar, en su caso, el hecho de la negativa para hacerlo;
-
-XI.- En caso de no existir formato especial de acta, ésta deberá levantarse en papel oficial de la dependencia, organismo o entidad de que se trate;
-
-XII.- Las cantidades deben ser asentadas con número y letra;
-
-XIII.- Las hojas que integran el acta deben foliarse en forma consecutiva;
-
-XIV.- Hacer el señalamiento del domicilio legal del servidor público entrante y saliente;
-
-XV.- El apercibimiento de conducirse con la verdad ante la autoridad administrativa en el acto de entrega-recepción.
-
-XVI.- La manifestación de que los formatos y/o anexos forman parte integrante del acta, y
-
-XVII.- La mención de que la entrega del despacho y de los asuntos, no eximen de la responsabilidad en que hubiera incurrido el servidor público saliente.
-
-El acta de entrega-recepción correspondiente y sus anexos se presentarán en carpetas o medios magnéticos en su caso, que serán integrados en original y dos copias para distribuirse de la siguiente forma:
-
-a) El original para el servidor público entrante;
-
-b) La primera copia para el servidor público saliente;
-
-c) La segunda copia para la Contraloría Municipal, y
-
-d) La tercera copia para el Órgano Superior de Fiscalización del Estado.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ### CAPÍTULO III. De las Facultades y Obligaciones de los Ayuntamientos
 
@@ -541,9 +421,9 @@ V. Examinar, discutir y aprobar el presupuesto de egresos sobre la base de sus i
 
 En dicho presupuesto de egresos deberán incluirse los tabuladores desglosados de las remuneraciones que percibirán los miembros del Ayuntamiento y demás servidores públicos, a propuesta del Presidente Municipal, sujetándose a lo establecido en el artículo 75 de la Constitución Política del Estado y la Ley de Remuneraciones de los Servidores Públicos.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-El incumplimiento de esta disposición será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de otras sanciones que prevean otras leyes.
+El incumplimiento de esta disposición será sancionado conforme a la Ley General de Responsabilidades de (sic) Administrativas, sin perjuicio de otras sanciones que prevean otras leyes.
 
 VI. Enviar mensualmente al Órgano Superior de Fiscalización del Estado, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros y sus avances, mismos que acreditarán las erogaciones y el desarrollo de las metas físicas de sus proyectos.
 
@@ -551,7 +431,9 @@ Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el pres
 
 VII. Remitir al Órgano Superior de Fiscalización del Estado, dentro de los treinta días siguientes al trimestre que corresponda, los informes de autoevaluación que al efecto se hubieren realizado por el órgano de control interno;
 
-VIII. Enviar a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública del ejercicio de que se trate, la evaluación final de su Programa Operativo Anual, con relación a las metas que se establecieron por el año que corresponda y el avance de su plan de desarrollo, para su inclusión correspondiente y calificación anual de la cuenta pública;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Entregar la Cuenta Pública al Congreso del Estado, por conducto del Órgano Superior de Fiscalización, a más tardar el 30 de abril del año siguiente al ejercicio fiscal que corresponda, en los términos del artículo 41 de la Constitución, para su examen, calificación y demás efectos legales pertinentes, de conformidad con la Ley de Fiscalización Superior del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
@@ -629,7 +511,9 @@ XL. Dictar medidas, cuidar el orden y seguridad en los lugares públicos de dive
 
 XLI. Cuidar que las vías urbanas se mantengan expeditas para el tránsito de peatones y vehículos, y llevar a cabo campañas de educación vial para los ciudadanos;
 
-XLII. Atender a la seguridad pública en todo el Municipio, proveyendo los recursos que requiera la organización y operación de la Unidad Municipal de Protección Civil, los cuerpos de policía preventiva, tránsito y bomberos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+XLII. Atender a la seguridad pública en todo el Municipio, proveyendo los recursos que requiera la organización y operación de la Coordinación Municipal de Protección Civil, los cuerpos de policía preventiva, tránsito y bomberos;
 
 XLIII. Construir los cementerios que sean necesarios, cuidar y conservar los existentes;
 
@@ -783,9 +667,9 @@ VI. Rendir, por conducto del presidente de la comisión de que se trate, informe
 
 VII. Las demás que les otorguen esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-El incumplimiento de cualquiera de las obligaciones señaladas en este artículo será sancionado conforme a las disposiciones de la Constitución Política Local y la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de otras sanciones que establezcan otras leyes.
+El incumplimiento de cualquiera de las obligaciones señaladas en este artículo será sancionado conforme a las disposiciones de la Constitución Política Local y, en su caso, la Ley General de Responsabilidades Administrativas, sin perjuicio de otras sanciones que establezcan otras leyes.
 
 ### CAPÍTULO VII. Del Síndico o Síndicos
 
@@ -813,7 +697,9 @@ IX. Supervisar que el director de finanzas, en representación del Ayuntamiento 
 
 X. Asistir a las visitas de inspección que se hagan a la Dirección de Finanzas;
 
-XI. En los lugares donde no existan Agencias del Ministerio Público, practicar las primeras diligencias de averiguación y remitirlas, dentro de las veinticuatro horas siguientes, al Procurador General de Justicia en el Estado; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+XI. En los lugares donde no existan Fiscalías del Ministerio Público, practicar las primeras diligencias de averiguación, de conformidad con la legislación procesal penal y demás normatividad aplicable, procediendo de inmediato a dar conocimiento a la Fiscalía General del Estado; y
 
 XII. Las demás que le señale esta Ley y otras leyes, así como los reglamentos municipales o las que les asigne el Ayuntamiento.
 
@@ -837,11 +723,15 @@ Con las salvedades que señala este artículo, los acuerdos de los ayuntamientos
 
 Requieren el voto de las dos terceras partes de los integrantes de los ayuntamientos, los acuerdos del Cabildo que afecten el patrimonio inmobiliario municipal y los que autoricen actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-Las sesiones de los ayuntamientos serán ordinarias, extraordinarias, internas o reservadas y solemnes.
+Las sesiones de los ayuntamientos serán ordinarias, extraordinarias, internas o reservadas y solemnes. Todas las sesiones ordinarias, extraordinarias y solemnes serán públicas, permitiéndose el libre acceso y deberán ser transmitidas en vivo en la página electrónica de los Ayuntamientos y en las redes sociales de mayor difusión.
 
-I. Son sesiones ordinarias las que se celebren permitiéndose el libre acceso al público y en las cuales se traten problemas relativos a la competencia del Ayuntamiento que no requieran solemnidad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+I. Son sesiones ordinarias las que se celebren para tratar asuntos y problemas relativos a la competencia del Ayuntamiento que no requieran solemnidad;
 
 II. Son sesiones extraordinarias las que se celebren para tratar asuntos urgentes relacionados con la atención de los servicios públicos indispensables para la población y todos aquellos que, a juicio del Ayuntamiento, ameriten este tipo de sesiones;
 
@@ -867,7 +757,9 @@ Si alguno de los miembros del Ayuntamiento tuviere un interés directo o indirec
 
 Si el regidor que se encuentra en el supuesto anterior no realiza manifestación alguna, cualquiera de ellos podrá hacerlo y el Cabildo resolverá lo conducente.
 
-La infracción a lo dispuesto en el párrafo anterior, será causa de responsabilidad y se sancionará en los términos de la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+La infracción a lo dispuesto en el párrafo anterior, será causa de responsabilidad y se sancionará en los términos de la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
 
 ###### Artículo 41.
 
@@ -1137,19 +1029,25 @@ e) En los recesos del Congreso del Estado, la Comisión Permanente convocará de
 
 f) Desde el inicio o durante la secuela del procedimiento, las partes podrán designar abogados para que los asistan en todos los actos derivados del mismo, debiendo recaer dicho nombramiento en profesionistas con cédula profesional de licenciado en derecho; y
 
-g) Con el auxilio de la Oficialía Mayor o de la Dirección de Asuntos Jurídicos, se levantará acta circunstanciada de todas las actuaciones que se originen con motivo de este procedimiento, mismas que serán firmadas por las partes que en ellas intervinieron así como por el presidente y el secretario de la Comisión de que se trate.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-En lo no previsto en este artículo, respecto a las notificaciones, a la admisión, desahogo y valoración de las pruebas, así como en cuanto a los requisitos que deberá contener la resolución respectiva, deberán observarse supletoriamente y en lo conducente, las reglas de juicio ordinario contenidos en el Código de Procedimientos Civiles en vigor.
+g) Con el auxilio de la Secretaría General o de la Dirección de Asuntos Jurídicos, del Congreso del Estado, se levantará acta circunstanciada de todas las actuaciones que se originen con motivo de este procedimiento, mismas que serán firmadas por las partes que en ellas intervinieron así como por el presidente y el secretario de la Comisión de que se trate.
+
+En lo no previsto en este artículo, respecto a las notificaciones, a la admisión, desahogo y valoración de las pruebas, así como en cuanto a los requisitos que deberá contener la resolución respectiva, deberán observase (sic) supletoriamente y en lo conducente, las reglas de juicio ordinario contenidos en el Código de Procedimientos Civiles en vigor.
 
 ### CAPÍTULO IV. De la Suspensión y Revocación del Mandato de Algún Miembro del Ayuntamiento y su Procedimiento
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 59.
 
-El Congreso del Estado, previo procedimiento, por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá declarar la suspensión hasta por un año conforme a la gravedad de la falta a alguno o algunos de los miembros de un Ayuntamiento, por haberse decretado en su contra auto de formal prisión por delito doloso que merezca pena corporal.
+El Congreso del Estado, previo procedimiento, por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá declarar la suspensión hasta por un año, conforme a la gravedad de la falta, a alguno o algunos de los miembros de un Ayuntamiento, por haberse dictado en su contra auto de vinculación a proceso por delito que merezca prisión preventiva oficiosa en términos de la legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 60.
 
-El Congreso del Estado, previo procedimiento y por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá revocar definitivamente su mandato conforme a la gravedad de la falta a alguno o algunos de los miembros de un Ayuntamiento, cuando incurran en las hipótesis señaladas en la Constitución Política del Estado, en la Ley de Responsabilidades de los Servidores Públicos o en esta Ley, así como por cualquiera de las siguientes causas:
+El Congreso del Estado, previo procedimiento y por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá revocar definitivamente su mandato conforme a la gravedad de la falta a alguno o algunos de los miembros de un Ayuntamiento, cuando incurran en las hipótesis señaladas en la Constitución Política del Estado o en la Ley de Responsabilidades de los Servidores Públicos, Reglamentaria de los Artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco, así como por cualquiera de las siguientes causas:
 
 I. Por infringir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los ordenamientos legales locales, ocasionando con ello perjuicio grave al Estado, al Municipio o a la colectividad;
 
@@ -1172,6 +1070,10 @@ IX. Por disponer ilegalmente de caudales públicos y bienes del patrimonio munic
 X. Por realizar actos que impliquen violaciones sistemáticas a los planes y programas oficiales; y
 
 XI. Por incapacidad física o legal por un término que le impida cumplir con su responsabilidad.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+Independientemente de lo anterior, tanto los integrantes de los ayuntamientos, como todo servidor público del Municipio, sus dependencias y entidades, son responsables por faltas administrativas, de conformidad con lo señalado por la Ley de General de Responsabilidades Administrativas; así como por delitos cometidos contra el erario y el servicio públicos, por hechos de corrupción, según corresponda.
 
 ###### Artículo 61.
 
@@ -1281,7 +1183,11 @@ XV. Tener el mando de la fuerza pública municipal, con las restricciones señal
 
 XVI. Para el cumplimiento de sus facultades y obligaciones, el Presidente Municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos, salvo los casos de la Secretaría del Ayuntamiento, la Contraloría Municipal y la Dirección de Seguridad Pública, cuyos titulares serán nombrados por el Cabildo, o el Concejo Municipal en su caso, a propuesta del Presidente Municipal. Las excepciones previstas en el párrafo anterior no restringen la facultad del presidente municipal para la remoción de dichos servidores, en su caso;
 
-XVII. (DEROGADA, P.O. 2 DE JULIO DE 2014)
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Previo a los nombramientos, contrataciones o designaciones de cualquier servidor público del municipio que realice el Presidente Municipal, por sí mismo o por delegación, se deberá consultar en el Sistema Nacional de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Nacional que prevé la Ley General de Responsabilidades Administrativas, con el fin de verificar si dichas personas se encuentran inhabilitadas. Lo anterior, independientemente del cumplimiento de los demás requisitos o procedimientos que establezcan otros ordenamientos aplicables para el ingreso al servicio público.
+
+El mecanismo o procedimientos para realizar las consultas a que se refiere esta fracción, serán los que determinen las autoridades competentes en el marco del Sistema Nacional Anticorrupción;
 
 XVIII. Proponer al Cabildo la creación de las coordinaciones que sean necesarias, para la consecución del desarrollo y la prestación de los servicios públicos del Ayuntamiento;
 
@@ -1399,9 +1305,9 @@ XIV. Dirección de Atención a las Mujeres, y
 
 XV.- Dirección de Protección Ambiental y Desarrollo Sustentable, y
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-XVI.- Unidad de Protección Civil.
+XVI.- Coordinación de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
@@ -1563,7 +1469,9 @@ A la Contraloría Municipal corresponderá el despacho de los siguientes asuntos
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación municipal, así como inspeccionar el ejercicio del gasto público municipal, y su congruencia con el presupuesto de egresos;
 
-II. Fijar en consulta con el Órgano Superior de Fiscalización del Estado, las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias, órganos y organismos municipales;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+II. Implementar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias, órganos v organismos municipales, conforme a los lineamientos que determine el Comité Rector del Sistema Nacional de Fiscalización por conducto del Órgano Superior de Fiscalización del Estado;
 
 III. Vigilar el cumplimiento de las políticas y de los programas establecidos por el Ayuntamiento, así como de las normas mencionadas en la fracción anterior;
 
@@ -1575,9 +1483,15 @@ VI. Supervisar que las adquisiciones que realice el Municipio sean favorables a 
 
 VII. Vigilar que las obras que en forma directa o en participación con otros organismos realice el Municipio, se ajusten a las especificaciones previamente fijadas;
 
-VIII. Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores del gobierno municipal y verificar y practicar las investigaciones que fueren pertinentes, de acuerdo con las leyes y reglamentos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-IX. Atender las quejas que presenten los particulares con motivos de acuerdos, convenios o contratos que celebren con las dependencias y demás órganos y organismos del Municipio;
+VIII. Recibir, registrar y custodiar las declaraciones patrimonial y de intereses que presenten los servidores públicos del gobierno municipal, así como promover su presentación adecuada y oportuna. De igual forma deberá mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente de los declarantes a su cargo. Además, verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con la Ley General de Responsabilidades Administrativas y otras disposiciones jurídicas aplicables.
+
+En los términos de la legislación aplicable, realizará una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+IX. Atender y resolver las vistas, quejas o denuncias que se presenten con motivo de acuerdos, convenios o contratos que celebren con las dependencias y demás órganos y organismos del Municipio; en materia de adquisiciones, arrendamientos de muebles, prestación de servicios y obra pública; aplicar las sanciones que correspondan cuando éstas no sean graves o, en su caso, remitir el asunto al Tribunal de Justicia Administrativa cuando se trate de faltas consideradas como graves o faltas de particulares. Cuando se trate de delitos por hechos de corrupción, presentar las denuncias correspondientes ante el Fiscal del Ministerio Público;
 
 X. Designar a los auditores externos y comisarios de los organismos que integran la administración pública paramunicipal;
 
@@ -1587,9 +1501,15 @@ XII. Informar anualmente al presidente municipal el resultado de las evaluacione
 
 XIII. Cumplir con la obligación señalada en el último párrafo del artículo 41 de la Constitución del Estado de Tabasco;
 
-XIV. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalen, y en su caso, cuando se trate de delitos perseguibles de oficio, hacer las denuncias correspondientes ante el Ministerio Público, prestándole para tal efecto, la colaboración que le fuere requerida;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-XV. Vigilar el cumplimiento de las normas internas de las dependencias y entidades y constituir las responsabilidades administrativas, aplicando las sanciones que correspondan y hacer al efecto las denuncias a que hubiera lugar;
+XIV. En los términos previstos por la Ley General de Responsabilidades Administrativas, a través de las áreas respectivas de su propia estructura, conocer, investigar y sustanciar los procedimientos de responsabilidades administrativas, por los actos, omisiones o conductas de los servidores públicos, que puedan constituir Faltas Administrativas y aplicar las sanciones que correspondan cuando éstas no sean graves o, en su caso, remitir el asunto al Tribunal de Justicia Administrativa cuando se trate de faltas consideradas como graves.
+
+Cuando se trate de delitos por hechos de corrupción, presentar las denuncias correspondientes ante el Fiscal del Ministerio Público, prestándole para tal efecto la colaboración que le fuere requerida;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+XV. Vigilar el cumplimiento de las normas internas de las dependencias y entidades, conforme a las disposiciones aplicables;
 
 XVI. Evaluar, proponer e instrumentar los mecanismos necesarios en la gestión pública para el desarrollo administrativo integral en las dependencias y entidades, a fin de que los recursos humanos y materiales, así como los procedimientos técnicos de la misma, sean aprovechados y aplicados con criterios de eficacia, descentralización, desconcentración y simplificación administrativa. Para ello, podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las demás entidades de la administración pública municipal;
 
@@ -1605,7 +1525,9 @@ XXI. Dictaminar por sí o con la intervención de profesionales en la materia, l
 
 XXII. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Ayuntamiento;
 
-XXIII. Cuando así lo requiera, el Contralor Municipal, podrá auxiliarse en el ejercicio de sus atribuciones previa autorización del Cabildo, de despachos o profesionistas especializados en las materias a que se refiere este numeral; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Cuando así lo requiera, el Contralor Municipal, podrá auxiliarse en el ejercicio de sus atribuciones previa autorización del Cabildo, de despachos o profesionistas especializados en las materias a que se refiere este numeral, exceptuándose únicamente, las atribuciones derivadas de la Ley General de Responsabilidades Administrativas, las cuales no podrán ser ejercidas por los despachos o profesionistas mencionados; y
 
 XXIV. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
@@ -1881,11 +1803,13 @@ Los presidentes municipales o primeros concejales municipales, serán los jefes 
 
 La policía preventiva municipal acatará las órdenes que el gobernador del Estado le transmita por conducto del presidente o en su caso del primer concejal, en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 91.
 
-Para ser designado Director de Seguridad Pública se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio (sic) sus derechos políticos y civiles y no tener otra nacionalidad, tener cuando menos treinta y cinco años cumplidos el día de la designación, tener reconocida buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal, comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, así como previamente haber acreditado la prueba de confianza y demás señaladas por el Sistema Nacional de Seguridad Pública. El nombramiento de Director de Seguridad Pública, deberá ser aprobado por los integrantes del Cabildo correspondiente.
+Para ser designado Director de Seguridad Pública se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y no tener otra nacionalidad, tener cuando menos treinta y cinco años cumplidos el día de la designación, tener reconocida buena conducta y no haber sido sentenciado por delito doloso o encontrarse inhabilitado como servidor público, ni estar sujeto a proceso penal, comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, así como previamente haber acreditado la prueba de confianza y demás señaladas por el Sistema Nacional de Seguridad Pública. El nombramiento de Director de Seguridad Pública, deberá ser aprobado por los integrantes del Cabildo correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
 
 Los demás integrantes de los cuerpos de seguridad pública y policía preventiva serán designados preferentemente de entre los egresados de los centros de capacitación, Institutos o colegios que la Secretaría de Seguridad Pública tenga funcionando atendiendo al contenido del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 6 de la Ley General del Sistema Nacional de Seguridad pública.
 
@@ -2059,53 +1983,91 @@ XX.- Formular, ejecutar y evaluar el programa municipal de educación ambiental,
 
 XXI.- Atender los demás asuntos que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente les confiera las demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-Artículo 94 quáter. El titular la (sic) Dirección de Protección Ambiental y Desarrollo Sustentable, además de los requisitos previstos en el párrafo segundo del artículo 75 de esta Ley, preferentemente deberá contar con título profesional o técnico en la materia.
+###### Artículo 94 Quater.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+El titular de la Dirección de Protección Ambiental y Desarrollo Sustentable, además de los requisitos previstos en el párrafo segundo del artículo 75 de esta Ley, preferentemente deberá contar con título profesional o técnico en la materia.
 
-### CAPÍTULO XV QUATER. De la Unidad de Protección Civil, del Sistema Municipal de Protección Civil y de los Consejos Municipales de Protección Civil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+### CAPÍTULO XV QUATER. De la Coordinación de Protección Civil, del Sistema Municipal de Protección Civil y de los Consejos Municipales de Protección Civil
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 94 Quinquies.
 
-A la Unidad de Protección Civil le corresponde el despacho de los siguientes asuntos:
+A la Coordinación de Protección Civil le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 I. Elaborar el proyecto de Reglamento Municipal de Protección Civil y presentarlo al Cabildo, para su aprobación, en su caso, y su aplicación correspondiente;
 
-II. Elaborar y mantener actualizado el inventario de recursos humanos y materiales disponibles en el Municipio, para hacer frente a un riesgo, alto riego (sic), emergencia o desastre y coordinar su manejo;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+II. Elaborar y mantener actualizado el inventario de recursos humanos y materiales disponibles en el Municipio, para hacer frente a un riesgo, alto riesgo, emergencia o desastre y coordinar su manejo;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 III. Proponer al Presidente Municipal, así como coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de una emergencia o desastre;
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
 IV. Coordinar sus funciones con otras autoridades municipales, estatales y federales similares;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 V. Promover la instalación y operación de los centros de acopio de recursos y abastecimientos, para recibir y brindar ayuda a la población afectada;
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
 VI. Fomentar acciones de capacitación para la sociedad en materia de protección civil;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 VII. Coadyuvar en la promoción de la cultura de protección civil;
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
 VIII. Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado y otros Municipios en materia de protección civil;
 
-IX. Identificar los altos riegos (sic) que se presenten en el Estado, y emitir las recomendaciones necesarias integrando el Atlas de Riegos (sic) Municipal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+IX. Identificar los altos riegos (sic) que se presenten en el Estado, y emitir las recomendaciones necesarias integrando el Atlas de Riego (sic) Municipal;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 X. Elaborar los proyectos del Programa y del Plan de Emergencia Municipal de Protección Civil;
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
 XI. Promover la creación de grupos voluntarios de protección civil y llevar su registro;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 XII. Formular la evaluación inicial de la magnitud de la contingencia, en caso de alto riesgo, emergencia o desastre, presentando de inmediato esta información al Presidente Municipal y en su caso, a las autoridades estatales y federales competentes;
 
-XIII. Realizar la inspección, control y vigilancia de los establecimientos de competencia municipal, que por su operatividad representen algún riego (sic) para la sociedad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+XIII. Realizar la inspección, control y vigilancia de los establecimientos de competencia municipal, que por su operatividad representen algún riesgo para la sociedad;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 XIV. Desarrollar las acciones aprobadas por el Sistema Municipal de Protección Civil y el Consejo Municipal de Protección Civil; y
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
 XV. Las demás que señale esta ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 Apartado A. En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, que tendrán como función principal organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia o desastre, de conformidad con lo dispuesto por la Ley de Protección Civil del Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 El Sistema Municipal de Protección Civil será presidido por el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 En materia de protección civil, el Presidente Municipal tendrá, además de las que establece la Ley de la materia, las siguientes facultades y obligaciones:
 
@@ -2130,6 +2092,8 @@ IX. Comunicar al Consejo Estatal de Protección Civil cuando exista riego (sic),
 X. Proporcionar a la población alojamiento, alimentación, atención médica y. seguridad pública ante una emergencia o desastre; y
 
 XI. Las demás que le confieran las leyes y reglamentos municipales.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 Apartado B. En los Municipios del Estado, se constituirán Consejos Municipales de Protección Civil, que serán órganos de carácter consultivo, de opinión y de coordinación, de conformidad con la ley de la materia.
 
@@ -2387,9 +2351,11 @@ Los bienes inmuebles municipales de uso común y los destinados a un servicio p�
 
 La inspección de la Hacienda Pública Municipal compete al Ayuntamiento, por sí o por conducto del órgano de control interno correspondiente, y al Congreso del Estado, por conducto del Órgano Superior de Fiscalización del Estado en los términos de esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 112.
 
-La Legislatura estatal aprobará las leyes de ingresos de los municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y el Programa Operativo Anual del año de que se trate.
+La Legislatura estatal aprobará las leyes de ingresos de los municipios; y revisará y fiscalizará sus cuentas públicas por conducto del Órgano Superior de Fiscalización. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y el Programa Operativo Anual del año de que se trate.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -2591,9 +2557,11 @@ El transporte de basura, desperdicios o residuos sólidos se llevará a cabo en 
 
 El transporte de basura, desperdicios o residuos sólidos, sin perjuicio de lo señalado en el presente capítulo, se sujetará a lo establecido en la ley o disposiciones reglamentarias para el tránsito de vehículos en el Estado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 144.
 
-En la prestación del servicio público de limpia, la Secretaría de Desarrollo Social y Protección del Medio Ambiente del Poder Ejecutivo del Estado, tendrá la participación que le señalen las leyes y demás disposiciones aplicables.
+En la prestación del servicio público de limpia, la Secretaría de Energía, Recursos Naturales y Protección Ambiental del Poder Ejecutivo del Estado, tendrá la participación que le señalen las leyes y demás disposiciones aplicables.
 
 ### CAPÍTULO V. Mercados y Centrales de Abasto
 
@@ -2681,15 +2649,19 @@ El derecho sobre las bóvedas, fosas, gavetas o criptas, se adquirirá previo el
 
 Los depósitos de restos áridos o cenizas que se realicen en templos, iglesias y demás recintos religiosos o en sus anexidades, deberán sujetarse a las disposiciones de la Ley General de Bienes Nacionales y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 159.
 
-La inscripción en el Registro Público de la Propiedad, de los inmuebles utilizados para la prestación del servicio público de panteones, deberá contener una anotación marginal que especifique este uso.
+La inscripción en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, de los inmuebles utilizados para la prestación del servicio público de panteones, deberá contener una anotación marginal que especifique este uso.
 
 ###### Artículo 160.
 
 A las solicitudes que presenten las personas físicas o jurídicas colectivas, para obtener de los ayuntamientos la concesión del servicio público de panteones, deberán acompañarse los siguientes documentos:
 
-I. Los que acrediten la propiedad sobre el predio que deberá ocupar el nuevo panteón y la constancia de su inscripción en el Registro Público de la Propiedad que corresponda;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+I. Los que acrediten la propiedad sobre el predio que deberá ocupar el nuevo panteón y la constancia de su inscripción en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, según corresponda;
 
 II. El proyecto arquitectónico y de construcción del panteón, elaborado con base en lo previsto en la fracción I del Artículo 156 de esta Ley, debidamente autorizados por las autoridades sanitarias que correspondan;
 
@@ -3197,89 +3169,79 @@ Los órganos de gobierno controlarán la forma en que los objetivos sean alcanza
 
 Los órganos internos de control serán parte integrante de la estructura de la entidad y tendrán por objeto apoyar la función directiva y promover el mejoramiento de la gestión de la entidad, y desarrollarán sus funciones conforme al reglamento correspondiente y a los lineamientos que emita la Contraloría Municipal.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
+Los Órganos Internos de Control de las entidades paramunicipales tendrán las funciones y responsabilidades que se establecen a su cargo en la Ley General de Responsabilidades Administrativas; al efecto, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+
 ## TÍTULO DÉCIMO. DE LOS SERVIDORES PÚBLICOS DE LOS AYUNTAMIENTOS
 
 ### CAPÍTULO I. De las Responsabilidades de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 218.
 
-Para los efectos de las responsabilidades a que alude este capítulo, se repuntarán como servidores públicos municipales a los miembros del Ayuntamiento o del Concejo Municipal, en su caso, y en general a toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en el gobierno municipal u organismos paramunicipales, los que serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este capítulo, se reputarán como servidores públicos municipales a los miembros del Ayuntamiento o del Concejo Municipal, en su caso, y en general a toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en el gobierno municipal u organismos paramunicipales, los que serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-El presidente municipal es responsable por las violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales, a la Constitución local y a las leyes que de ella emanen. Será responsable también por el manejo indebido de fondos y recursos del Municipio.
+Los Servidores públicos municipales serán responsables por las violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes generales y federales, a la Constitución local y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Municipio, en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 219.
 
-Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos relacionados con faltas administrativas de los Servidores Públicos de los municipios y particulares vinculados, se estará a lo dispuesto por la Ley General de Responsabilidades Administrativas, así como, en su caso, la Ley de Justicia Administrativa del Estado de Tabasco.
 
 ###### Artículo 220.
 
-El Ayuntamiento a través de su órgano de control interno, podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el valor diario de la Unidad de Medida y Actualización.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 221.
 
-Las sanciones administrativas serán impuestas oyéndose en la audiencia al servidor público, quien puede ofrecer pruebas y alegatos en la misma lo que a su derecho convenga, y la resolución se dictará en la misma audiencia.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 222.
 
-Los acuerdos y resoluciones que se dicten durante la audiencia a que se refiere el artículo anterior constarán en actas que firmarán los intervinientes.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 223.
 
-Los sujetos sancionados podrán impugnar ante el Ayuntamiento las resoluciones administrativas del superior jerárquico por las cuales se le impongan sanciones, mediante el recurso de revisión por escrito que deben interponer dentro de los quince días naturales siguientes a la fecha de la notificación de la resolución.
-
-Contra la resolución que dicte el Ayuntamiento en el recurso de revisión no cabe ningún otro recurso.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 224.
 
-Las sanciones económicas constituyen créditos fiscales a favor del erario municipal que se harán efectivos mediante el procedimiento económico-coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales vigentes en el Municipio.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 225.
 
-Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetará a lo previsto en la ley que regula las relaciones laborales de aquéllos con el Municipio.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ### CAPÍTULO II. De la Declaración de la Situación Patrimonial
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 226.
 
-Tienen obligación de presentar declaración de situación patrimonial:
-
-I. El presidente municipal;
-
-II. Los regidores;
-
-III. Los síndicos;
-
-IV. Los Concejales en su caso;
-
-V. El secretario;
-
-VI. Los directores y subdirectores;
-
-VII. El contralor municipal, coordinadores y jefes de departamento; y
-
-VIII. Los que determine el Cabildo.
+Los Servidores Públicos municipales tienen la obligación de presentar la declaración de situación patrimonial y de intereses ante las autoridades competentes en los términos y condiciones que determina la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 227.
 
-La declaración de situación patrimonial deberá presentarse en los plazos y términos que al efecto señala la Ley de Responsabilidades de los Servidores Públicos del Estado, ante el propio Órgano de Control Interno de los municipios.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 228.
 
-En caso de incumplimiento de alguno de los regidores de las obligaciones consignadas en los artículos de este título, el presidente municipal a solicitud del contralor municipal, exhortará al omiso para que, en un término de veinte días cumpla con su obligación. Si transcurrido dicho término no cumple, se dará vista al Congreso del Estado para los efectos legales a que haya lugar.
-
-Cuando los que no presenten su declaración de situación patrimonial o de modificación de la misma, sea cualquier otro de los servidores públicos obligados a ello, seguido el procedimiento legal se dejará sin efecto su nombramiento, en términos de lo señalado por el artículo 81, penúltimo párrafo, de la Ley de Responsabilidades de los Servidores Públicos.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 229.
 
-Para efectos de registro y control, el contralor municipal remitirá al Órgano Superior de Fiscalización del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas. Asimismo, también deberá remitir a dicho Órgano, la información relacionada con la situación patrimonial de los servidores públicos que le requiera, por acuerdo de la comisión competente del Congreso del Estado, en términos del artículo 90, segundo párrafo de la Ley de Responsabilidades de los Servidores Públicos.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2017)
 
 ### CAPÍTULO III. De las Relaciones Laborales
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 230.
 
-Los trabajadores del gobierno municipal tendrán los derechos y obligaciones previstas en la Ley de los Trabajadores al Servicio del Estado.
+Los trabajadores del gobierno municipal tendrán los derechos y obligaciones previstas en la Ley de los Trabajadores al Servicio del Estado y demás normatividad aplicable.
 
 ###### Artículo 231.
 
@@ -3327,9 +3289,9 @@ Tratándose de personas jurídicas colectivas se expresará su denominación, do
 
 VIII. Superficie, medidas, linderos y ubicación exacta del inmueble, acompañando el plano correspondiente;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-IX. Certificación del Registro Público de la Propiedad y del Comercio, de que el solicitante, cuando es un particular, y el predio se destina para una vivienda, no es propietario de algún inmueble;
+IX. Certificación de la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, de que el solicitante, cuando es un particular, y el predio se destina para una vivienda, no es propietario de algún inmueble;
 
 X. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
@@ -3956,3 +3918,35 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 18 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 129 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I, DEL ARTÍCULO 39, DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Los ayuntamientos deberán prever en sus respectivos presupuestos de egresos los recursos necesarios para dar cumplimiento a lo previsto en el presente decreto, a efecto de que en un plazo no mayor a 90 días se implementen las disposiciones contenidas en el mismo.
+
+P.O. 18 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 130 POR EL QUE “SE REFORMAN, LOS ARTÍCULOS 4 BIS; 29, FRACCIONES V, PÁRRAFO TERCERO, VIII Y XLII; 35, PÁRRAFO SEGUNDO; 36, PÁRRAFO PRIMERO, FRACCIÓN XI; 40, PÁRRAFO NOVENO; 58, PÁRRAFO PRIMERO, INCISO G); 59; 60 PÁRRAFO PRIMERO; 73, PÁRRAFO PRIMERO, FRACCIÓN XVI; 81, FRACCIONES II, VIII, IX, XIV, XV Y XXIII; 91, PÁRRAFO PRIMERO; 94 QUATER; LA DENOMINACIÓN DEL CAPÍTULO XV QUATER DEL TÍTULO CUARTO; EL ARTÍCULO 94 QUINQUIES, EN SU PÁRRAFO PRIMERO Y SUS FRACCIONES II Y XIII; 112, PÁRRAFO PRIMERO; 144; 159; 160, FRACCIÓN I; 218; 219; 226; 230; Y 233 PÁRRAFO PRIMERO, FRACCIÓN IX. SE ADICIONAN, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 2; UN ARTÍCULO 3 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 27; UN PÁRRAFO SEGUNDO AL ARTÍCULO 60; UNA FRACCIÓN XVII AL ARTÍCULO 65 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 217. SE DEROGAN, LAS FRACCIONES DE LA I A LA IV DEL PÁRRAFO PRIMERO DEL ARTÍCULO 27; LOS ARTÍCULOS 28; 220; 221; 222; 223; 224; 225; 227; 228 Y 229 TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, realizará los ajustes presupuestales necesarios para garantizar el adecuado funcionamiento de los Órganos Internos de Control de las Dependencias y Entidades de la Administración Pública, para el resto del ejercicio fiscal en curso.
+
+De igual modo, la Dependencia antes mencionada deberá prever en el Proyecto de Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2018, los recursos necesarios para el correcto funcionamiento de las autoridades investigadoras y sustanciadoras en el marco de los respectivos Órganos Internos de Control de las Dependencias y Entidades, cuando así se requiera.
+
+TERCERO.- El Titular del Poder Ejecutivo expedirá las reformas correspondientes a los reglamentos interiores de las dependencias cuyas funciones se ajustan o actualizan por el presente Decreto, las cuales deberán realizarse en un plazo no mayor a noventa días naturales, contados a partir de su entrada. A tales efectos, la Secretaría de Administración, en coordinación con la Secretaría de Planeación y Finanzas y con la Secretaría de Contraloría, revisará las estructuras administrativas de las Dependencias para realizar los ajustes correspondientes, a fin de armonizarlas con el diseño legal de los Órganos Internos de Control establecido en la Ley General de Responsabilidades Administrativas y en este Decreto.
+
+Las menciones contenidas en otras leyes, reglamentos y cualquier otra disposición, respecto de las Dependencias cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a los entes públicos que, respectivamente, adquieren tales funciones, ya sea por virtud de la presente reforma o de otros ordenamientos.
+
+CUARTO.- Los ayuntamientos municipales deberán realizar las adecuaciones de orden reglamentario y administrativo para el adecuado ejercicio de las funciones derivadas de las reformas en materia de responsabilidades administrativas, para el resto del ejercicio fiscal en curso, en un plazo no mayor a noventa días a partir de la publicación del presente Decreto.
+
+De igual modo, deberán prever en sus respectivos proyectos de Presupuestos de Egresos para el Ejercicio Fiscal 2018, los recursos necesarios para el correcto funcionamiento de las autoridades investigadoras y sustanciadoras en el marco de sus respectivos órganos internos de control.
+
+QUINTO.- Las obligaciones derivadas de las reformas materia del presente Decreto, a cargo de los entes públicos estatales y municipales, referentes a la designación de servidores públicos; a la presentación de declaraciones patrimoniales y de intereses; y a la inclusión de información en los sistemas de la Plataforma Digital Nacional; así como a la presentación de informes a las instancias del Sistema Nacional Anticorrupción o del Sistema Anticorrupción del Estado de Tabasco, deberán ser cumplidas una vez que las autoridades competentes de dichos sistemas determinen los mecanismos y procedimientos correspondientes.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Conforme a lo establecido en el Decreto por el que se expiden la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación y a lo dispuesto en el presente Decreto, los procedimientos de responsabilidades administrativas iniciados por autoridades del Estado de Tabasco y sus municipios con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables en la materia vigentes al momento de su inicio.
