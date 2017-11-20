@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2017-10-27"
+last_updated: "2017-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -61,9 +61,17 @@ IV. La organización, funcionamiento y atribuciones de los organismos operadores
 
 V. La participación de los sectores gubernamental, social y privado en las diversas acciones previstas en esta ley;
 
-VI. Las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reuso, los contratistas y los usuarios de dichos servicios; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
-VII. La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reuso.
+VI. Las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reuso, los contratistas y los usuarios de dichos servicios;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+VII. La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reuso; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+VIII. La organización, funcionamiento y atribuciones relativas a la captación de aguas pluviales.
 
 ###### ARTICULO 3o.
 
@@ -75,57 +83,61 @@ II. Alcantarillado: la red o sistema de conductos y accesorios para recolectar y
 
 III. Aguas pluviales: aquéllas que provienen de lluvias, incluyendo las que provienen de nieve y granizo;
 
-IV. Comunidad rural: los centros de población con menos de 2,500 habitantes;
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
-V. Concesionario: la persona moral a la que le sean concesionados los servicios públicos de agua potable, alcantarillado o saneamiento y su reuso;
+IV. Captación de aguas pluviales: a la recopilación y almacenamiento, así como en su caso, potabilización y distribución de aguas pluviales; por distintos métodos y con la ayuda de diversos instrumentos, con la finalidad de ser aprovechada tanto en zonas urbanas como rurales;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+V. Comunidad rural: los centros de población con menos de 2,500 habitantes;
 
-VI. Concedente: es el Gobierno Municipal, o el Gobierno del Estado, directamente o por conducto del Instituto, en el caso señalado en el Artículo 21 de esta Ley;
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
-
-VII. Contratistas: las personas físicas y morales que celebren un contrato con los Municipios, organismos operadores municipales o intermunicipales, el Instituto o el Estado, en los términos del Artículo 60 de esta Ley;
-
-VIII. Derivación: la conexión a la instalación hidráulica de un predio para abastecer de agua a uno o más usuarios en el mismo predio;
-
-IX. Descarga: las aguas residuales y pluviales que se vierten en el sistema de alcantarillado y drenaje;
-
-X. Drenaje: sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas superficiales, residuales o pluviales;
-
-XI. Estructura tarifaria: la tabla que establece por cada tipo de usuarios y, en su caso, nivel de consumos, los precios por unidad de servicio que deberá pagar cada usuario;
-
-XII. Instituto: el Instituto del Agua del Estado;
+VI. Concesionario: la persona moral a la que le sean concesionados los servicios públicos de agua potable, alcantarillado o saneamiento y su reuso;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Prestador de los servicios: quien preste los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales, ya sean organismos operadores municipales, intermunicipales, concesionarios o contratistas del Instituto;
-
-XIV. Proyecto Estratégico de Desarrollo: estudio a cargo del Municipio que, basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado y saneamiento, y tomando en cuenta las proyecciones de incremento de la demanda, tomando en cuenta la disponibilidad del recurso y en estricto apego a los planes ambientales y de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el ambiente. Esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
-
-XV. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha de que se cometió o se tuvo conocimiento de la infracción precedente, siempre que ésta no hubiere sido desvirtuada;
-
-XVI. Reuso: la utilización de las aguas residuales previamente tratadas, que cumplen con lo establecido en las Normas Oficiales Mexicanas, en la industria, el riego de áreas verdes, en la agricultura y otros usos permitidos;
-
-XVII. Saneamiento: la conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
+VII. Concedente: es el Gobierno Municipal, o el Gobierno del Estado, directamente o por conducto del Instituto, en el caso señalado en el Artículo 21 de esta Ley;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XVIII. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales;
+VIII. Contratistas: las personas físicas y morales que celebren un contrato con los Municipios, organismos operadores municipales o intermunicipales, el Instituto o el Estado, en los términos del Artículo 60 de esta Ley;
 
-XIX. Suspensión del servicio: la acción y efecto de interrumpir temporalmente el suministro de agua potable por falta de pago, derivaciones no autorizadas, uso distinto al convenido; instalar en forma no autorizada conexiones en cualquiera de las instalaciones del sistema sin estar contratadas y sin apegarse a los requisitos establecidos en la ley, por emplear mecanismos para succionar agua de las tuberías de distribución;
+IX. Derivación: la conexión a la instalación hidráulica de un predio para abastecer de agua a uno o más usuarios en el mismo predio;
 
-XX. Tarifa media de equilibrio: la tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero en la prestación de los servicios;
+X. Descarga: las aguas residuales y pluviales que se vierten en el sistema de alcantarillado y drenaje;
 
-XXI. Toma: conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
+XI. Drenaje: sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas superficiales, residuales o pluviales;
 
-XXII Uso comercial y de servicios: la utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes, o la prestación de servicios;
+XII. Estructura tarifaria: la tabla que establece por cada tipo de usuarios y, en su caso, nivel de consumos, los precios por unidad de servicio que deberá pagar cada usuario;
 
-XXIII. Uso industrial: la utilización de agua en fábricas, empresas o parques industriales así como la que se utiliza en calderas, en dispositivos en enfriamiento, lavado, baños y otros servicios dentro de la empresa, y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación;
+XIII. Instituto: el Instituto del Agua del Estado;
 
-XXIV. Uso doméstico: la utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XXV. Usuario: la persona, física o moral que utilice los servicios públicos.
+XIV. Prestador de los servicios: quien preste los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales, ya sean organismos operadores municipales, intermunicipales, concesionarios o contratistas del Instituto;
+
+XV. Proyecto Estratégico de Desarrollo: estudio a cargo del Municipio que, basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado y saneamiento, y tomando en cuenta las proyecciones de incremento de la demanda, tomando en cuenta la disponibilidad del recurso y en estricto apego a los planes ambientales y de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el ambiente. Esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
+
+XVI. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha de que se cometió o se tuvo conocimiento de la infracción precedente, siempre que ésta no hubiere sido desvirtuada;
+
+XVII. Reuso: la utilización de las aguas residuales previamente tratadas, que cumplen con lo establecido en las Normas Oficiales Mexicanas, en la industria, el riego de áreas verdes, en la agricultura y otros usos permitidos;
+
+XVIII. Saneamiento: la conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XIX. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales;
+
+XX. Suspensión del servicio: la acción y efecto de interrumpir temporalmente el suministro de agua potable por falta de pago, derivaciones no autorizadas, uso distinto al convenido; instalar en forma no autorizada conexiones en cualquiera de las instalaciones del sistema sin estar contratadas y sin apegarse a los requisitos establecidos en la ley, por emplear mecanismos para succionar agua de las tuberías de distribución;
+
+XXI. Tarifa media de equilibrio: la tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero en la prestación de los servicios;
+
+XXII. Toma: conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
+
+XXIII. Uso comercial y de servicios: la utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes, o la prestación de servicios;
+
+XXIV. Uso industrial: la utilización de agua en fábricas, empresas o parques industriales así como la que se utiliza en calderas, en dispositivos en enfriamiento, lavado, baños y otros servicios dentro de la empresa, y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación;
+
+XXV. Uso doméstico: la utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes; y
+
+XXVI. Usuario: la persona, física o moral que utilice los servicios públicos.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 "A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE, SE DEROGA EL TÍTULO SEGUNDO DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EN FECHA 24 DE JULIO DE 2000, QUEDANDO EXTINTO EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DENOMINADO "INSTITUTO DEL AGUA DEL ESTADO".]</small>
 
@@ -140,6 +152,8 @@ XXV. Usuario: la persona, física o moral que utilice los servicios públicos.
 ###### ARTICULO 4o.
 
 (DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 SESIONADA EL 26 DE OCTUBRE DE 2017. EL 20 DE NOVIEMBRE DE 2017 FUE REFORMADO ESTE ARTÍCULO SESIONADO EL 9 DE NOVIEMBRE DE 2017 "ARTICULO 5º.- ... I. a la XXX .... XXXI. Participar en la elaboración de los planes y programas para la conservación y el uso sustentable de las aguas de jurisdicción estatal; XXXII. Diseñar y establecer los programas y líneas de acción relativos a la captación de aguas pluviales, y coordinar su ejecución; y XXXIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado en los términos de Ley y de los convenios que al efecto se celebren. ..." POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
 
 ###### ARTICULO 5o.
 
@@ -197,7 +211,9 @@ Los Municipios con el concurso del Estado cuando así fuere necesario, el Estado
 
 Los Municipios por sí mismos, o con el concurso del Estado, el Estado en el supuesto señalado en el Artículo 21, los prestadores de los servicios o contratistas deberán adoptar las medidas necesarias para que se alcance la autonomía financiera en la prestación de los servicios públicos y establecerán los mecanismos de control para que se realicen con eficacia técnica y administrativa.
 
-Para tal efecto, estarán obligados a diseñar y a revisar anualmente el Proyecto Estratégico de Desarrollo, en los términos del Artículo 3º fracción XIV.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+Para tal efecto, estarán obligados a diseñar y a revisar anualmente el Proyecto Estratégico de Desarrollo, en los términos del Artículo 3° fracción XV.
 
 ###### ARTICULO 16.
 
@@ -1047,11 +1063,23 @@ Los usuarios que se surtan de agua potable por medio de derivaciones autorizadas
 
 Por cada derivación, el usuario pagará al prestador de los servicios el importe de las cuotas de conexión que correspondan a una toma de agua directa, así como el servicio respectivo.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 92.
 
-Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos ahorradores, en los términos y características que se señalen en el Reglamento de esta Ley, el prestador de los servicios procurará estimular permanentemente a los usuarios cumplidos, así como fomentar la cultura del uso sustentable del agua.
+Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos ahorradores, e instalarlos en las nuevas edificaciones que así los requieran, en los términos y características que se señalen en el Reglamento de esta Ley, el prestador de los servicios procurará estimular permanentemente a los usuarios cumplidos, así como fomentar la cultura del uso sustentable del agua.
+
+Los aparatos ahorradores a que se refiere el párrafo anterior deberán cumplir los requisitos técnicos especificados por las normas oficiales mexicanas correspondientes.
 
 Las autoridades de los municipios serán responsables de vigilar el cumplimiento de las disposiciones de esta Ley y su Reglamento, al autorizar la construcción, rehabilitación, ampliación, remodelación y demolición de obras.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 92 A.- Con el fin de evitar el desperdicio de agua, los usuarios deberán mantener en buen estado sus instalaciones hidráulicas interiores y exteriores de sus inmuebles, así como la toma de la red de agua potable.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 92 B.- Los usuarios, deben abstenerse de hacer un uso inadecuado del agua, evitando para tal efecto, lavar o limpiar con mangueras banquetas, automóviles u otros objetos, y/o realizando acciones con las que se desperdicie el agua de manera ostensible.
 
 ###### ARTICULO 93.
 
@@ -1243,7 +1271,15 @@ La suspensión a que se refiere este Artículo sólo podrá ejecutarse previo ap
 
 Existirán fondos de asistencia social con recursos aportados por el Estado y los Municipios previo convenio que al efecto se celebre.
 
-Estos Fondos serán operados por los municipios a través de sus organismos operadores para las personas en situación económica apremiante, previo estudio socioeconómico elaborado y aplicado por la Unidad de Asistencia Social correspondiente, y su exacta aplicación será vigilada por el Instituto.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+Estos Fondos serán operados por los municipios a través de sus organismos operadores en beneficio de los asilos y/u orfanatos acreditados en términos del Artículo 61 de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar, así como de los usuarios en situación económica apremiante, y/o para aquellos que tengan una discapacidad comprobada. Lo anterior previo estudio socioeconómico y en su caso de salud, elaborado y aplicado por la Unidad de Asistencia Social correspondiente, y su exacta aplicación será vigilada por el Instituto.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+Para el supuesto de discapacidad comprobada, se procurará otorgar descuentos como mínimo de un cincuenta por ciento en el consumo del servicio, tomando como base el resultado del estudio socioeconómico a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
 Estos Fondos operarán según lo establezca el Reglamento correspondiente.
 
@@ -1395,7 +1431,9 @@ III. El que utilice el servicio de los hidrantes públicos para uso doméstico p
 
 IV. Los propietarios o poseedores de los predios dentro de los cuales se localice alguna fuga que no haya sido atendida oportunamente;
 
-V. Los que desperdicien o hagan uso inadecuado del agua;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+V. Los que desperdicien y/o hagan uso inadecuado del agua en términos del Artículo 92 B de esta Ley;
 
 VI. Las personas que impidan la instalación de los servicios públicos;
 
@@ -1413,6 +1451,10 @@ XII. Quien no presente ante el prestador de los servicios los resultados de la c
 
 XIII. Quienes se opongan a las visitas de inspección y verificación a que se refiere la sección IV, del capítulo V, del Título Tercero de esta Ley.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+El importe de las multas que se impongan por infracciones cometidas en términos de la fracción V de este Artículo, serán destinados a los respectivos fondos de asistencia social a que se refiere el Artículo 105 de esta Ley.
+
 ###### ARTICULO 125.
 
 Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el municipio, o el Instituto, a el organismo operador, según corresponda, con multas por el equivalente a:
@@ -1425,9 +1467,9 @@ I. De diez a doscientas veces el valor diario de la unidad de medida y actualiza
 
 II. De diez a trescientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las Fracciones II, IV y VI;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
-III. De diez a cien veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la Fracción V;
+III. De cien a quinientas veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la Fracción V;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1489,7 +1531,21 @@ VII. No cumplir con los dispositivos de seguridad y señalamientos cuando se efe
 
 VIII. No cumplir con lo establecido en el segundo párrafo del Artículo 78;
 
-IX. Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta Sección.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+IX. Abstenerse de reparar fallas estructurales de la red de agua potable, en los términos establecidos en esta Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+X. Permitir, el derramamiento de agua de los tanques elevados o de cualquier otro instrumento de captación o almacenamiento de agua, cualquiera que sea la causa; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+XI. Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta Sección.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+El importe de las multas que se impongan por infracciones cometidas en términos de las fracciones IX y X de este Artículo, serán destinados a los fondos de asistencia social a que se refiere el Artículo 105 de esta Ley.
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)
 
@@ -1509,13 +1565,17 @@ II. De quinientos a dos mil veces el valor diario de la unidad de medida y actua
 
 III. De mil a cuatro mil veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la fracción II;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
-IV. De mil a cinco mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones V, VI y VII; y
+IV. De mil a cinco mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones V, VI y VII;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
-V. De hasta quinientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en la fracción IX.
+V. De hasta quinientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en la fracción XI; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+VI. De quinientas a mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones IX y X.
 
 Para sancionar las faltas, se calificarán las infracciones tomando en consideración la gravedad de la misma, los daños causados y la reincidencia.
 
@@ -1544,6 +1604,78 @@ Una vez interpuesta la inconformidad conforme a este Artículo, se deberá factu
 La resolución deberá dictarse en un término que no excederá de quince días hábiles. Antes de resolver, deberá solicitarse los antecedentes o cualquier otra información que se estime necesaria al efecto, y un informe con su justificación, fijándole un plazo oportuno para ello.
 
 La decisión tendrá carácter vinculatorio en términos del Derecho Administrativo.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+## TITULO CUARTO. DE LA CAPTACION DE AGUAS PLUVIALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 137.
+
+Las autoridades en materia de captación de aguas pluviales cuenten con las siguientes atribuciones comunes:
+
+I. Aprovechar la captación de aguas pluviales, para su uso en zonas rurales y urbanas, así como para el aprovechamiento de actividades pecuarias, comerciales, industriales, y para el consumo humano; previa potabilización en su caso, de conformidad con las normas oficiales mexicanas aplicables;
+
+II. Promover la participación de los sectores público, privado y social, en los programas y líneas de acción que establezca el Instituto;
+
+III. Coadyuvar con la recarga de los mantos acuíferos del Estado, mediante la captación de aguas pluviales, a través de las fallas geológicas y/o demás mecanismos adecuados; e
+
+IV. Establecer programas en los sectores público, privado y social, que permitan la instalación de la infraestructura necesaria a efecto de captar aguas pluviales, en los techos y/o azoteas de sus edificaciones.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 138.
+
+En el caso de las edificaciones públicas del Estado, la Secretaría de Obras Públicas incentivará en aquellas que resulten adecuadas, la instalación de la infraestructura necesaria a efecto de captar aguas pluviales, con la finalidad de que las aguas pluviales sean aprovechadas en servicios sanitarios, riego de áreas verdes, o cualquier otro de reuso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+### CAPITULO II. De las Autoridades y su Competencia
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 139.
+
+Son autoridades en materia de captación de aguas pluviales, las siguientes:
+
+I. El Gobernador Constitucional del Estado;
+
+II. La Secretaría de Sustentabilidad, Medio Ambiente y Agua;
+
+III. La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
+
+IV. La Secretaría de Obras Públicas; y
+
+V. La Secretaría de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 140.
+
+Son atribuciones del Gobernador Constitucional del Estado, en materia de captación de aguas pluviales, las siguientes:
+
+I. Instruir a la Secretaría de Sustentabilidad, Medio Ambiente y Agua para la elaboración y coordinación de los programas y líneas de acción de la materia;
+
+II. Promover la participación de los sectores privado y social, en la elaboración de los programas y líneas de acción a que se refiere la fracción anterior; y
+
+III. Incentivar la participación de las autoridades en la materia, para el cumplimiento de sus respectivas atribuciones.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 141.
+
+A la Secretaría de Sustentabilidad, Medio Ambiente y Agua le corresponde el diseñar y establecer los programas y líneas de acción relativos a la captación de aguas pluviales, y coordinar su ejecución.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTICULO 142.
+
+Además de las atribuciones comunes, las autoridades señaladas en las fracciones III, IV y V del Artículo 139 de esta Ley, deberán cumplir en su respectivo ámbito de competencia, lo que al efecto establezcan los programas y líneas de acción relativos a la captación de aguas pluviales.
 
 TRANSITORIOS:
 
@@ -1728,3 +1860,19 @@ La Secretaría de Administración será la encargada de dictaminar la estructura
 Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, las Dependencias deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar para dar cumplimiento al presente Decreto.
 
 ARTÍICULO (SIC) DÉCIMO CUARTO.- Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+P.O. 20 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO 171.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo máximo de sesenta días naturales, contados a partir de la publicación de este Decreto, los Ayuntamientos deberán adecuar respectivamente los reglamentos que regulen los Fondos de Asistencia Social, de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias y atribuciones Adicionadas por los Artículos 138, 139, 140, 141 y 142 del presente Decreto, para los casos de: la Secretaría de Sustentabilidad, Medio Ambiente y Agua, la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, la Secretaría de Obras Públicas, y la Secretaría de Desarrollo Social, se entenderán por referidas y conferidas respectivamente, y hasta el 31 de diciembre de 2017, para la Secretaría del Medio Ambiente, la Secretaría de Gestión Urbanística y Ordenamiento Territorial, la Secretaría de Infraestructura y Comunicaciones, y la Secretaría de Bienestar y Desarrollo Social.
