@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2017-11-06"
+last_updated: "2017-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -764,6 +764,10 @@ En caso de que la excedencia no rebase el 10% de la superficie total del inmuebl
 ###### ARTICULO 57.
 
 Quedan exceptuados del pago de este impuesto, los bienes de dominio público de la Federación, de los Estados y de los Municipios.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo podrá exentarse de pago de este impuesto a aquellas Asociaciones Civiles que presten servicios de asistencia social respecto de los inmuebles que sirvan de albergue a niñas, niños o adolescentes u otros grupos vulnerables, previo convenio que se celebre con el Ayuntamiento.
 
 #### SECCION NOVENA. De las Obligaciones de los Contribuyentes
 
@@ -1840,6 +1844,18 @@ P.O. 6 DE NOVIEMBRE DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado del Aguascalientes.
+
+P.O. 20 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 172.- LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El H. Ayuntamiento de Aguascalientes deberá en el ámbito de su competencia, emitir las reglas de carácter general para otorgar el beneficio fiscal del Segundo Párrafo del Artículo 57 de su Ley de Hacienda.
 
 ###### ARTICULO CUARTO.
 
