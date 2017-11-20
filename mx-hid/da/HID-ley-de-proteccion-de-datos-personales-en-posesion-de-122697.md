@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-de-datos-personales-en-posesion-de-122697"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-24"
-last_updated: "2017-07-24"
+last_updated: "2017-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de julio de 2017.
 
@@ -165,7 +165,9 @@ XXVIII. Plataforma Nacional: Plataforma Nacional de Transparencia.
 
 XXIX. Remisión: toda comunicación de datos personales realizada exclusivamente entre el responsable y encargado, con independencia de que se realice dentro o fuera del territorio mexicano;
 
-XXX. Responsable: Cualquier autoridad, dependencia, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, órganos, organismos constitucionales autónomos, fideicomisos y fondos públicos, partidos políticos, sindicatos, candidatas o candidatos independientes y cualquier otra persona física o jurídica colectiva que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal o municipal, y maneje datos personales de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+XXX. Responsable: Los sujetos obligados a que se refiere el artículo 4 de la presente Ley que deciden sobre el tratamiento de datos personales;
 
 XXXI. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
@@ -183,7 +185,9 @@ XXXVI. Unidad de Transparencia: Instancias facultadas por los sujetos obligados,
 
 Son sujetos obligados a cumplir con las disposiciones de la presente Ley cualquier autoridad, dependencia, entidad, órgano y organismos de los Poderes Ejecutivo, Legislativo y Judicial, ayuntamientos, órganos y organismos autónomos, fideicomisos y fondos públicos y partidos políticos del orden estatal y municipal del Estado de Hidalgo, que lleven a cabo tratamiento de datos personales.
 
-Los sindicatos, las candidatas o los candidatos independientes y cualquier otra persona física o jurídica colectiva que reciba y ejerza recursos públicos o realice actos de autoridad, en el ámbito estatal o municipal, serán responsables de los datos personales de conformidad con las disposiciones legales aplicables para la protección de datos personales en posesión de los particulares.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+Cualquier otra persona física o jurídica colectiva que reciba y ejerza recursos públicos o realice actos de autoridad, en el ámbito estatal o municipal, serán responsables de los datos personales de conformidad con las disposiciones legales aplicables para la protección de datos personales en posesión de los particulares.
 
 Los fideicomisos y fondos públicos de carácter estatal y municipal considerados como entidades paraestatales, deberán dar cumplimiento por sí mismos a las obligaciones previstas en la presente Ley y demás normatividad aplicable en la materia, a través de sus propias áreas.
 
@@ -1467,7 +1471,7 @@ I. Los documentos que acrediten su identidad y la de su representante, en su cas
 
 II. El documento que acredite la personalidad de su representante, en su caso;
 
-III. La copia de la solicitud a través de la cual ejerció sus derechos ARCO o de portabilidad de los datos personales y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+III. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2017)
 
 IV. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso; y
 
@@ -2115,11 +2119,11 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
 
-TERCERO. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de esta Ley.
+TERCERO. (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2017)
 
-CUARTO. Los responsables deberán observar lo dispuesto en el Capítulo II, Título Segundo de la presente Ley, a más tardar un año después de la entrada en vigor de ésta.
+CUARTO. (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2017)
 
-QUINTO. El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+QUINTO. (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2017)
 
 SEXTO. Los procedimientos iniciados durante la vigencia de la actual Ley aplicable en materia de protección de datos personales del Estado de Hidalgo se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.
 
@@ -2154,3 +2158,15 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 237 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los responsables a que se refiere la presente Ley deberán tramitar, expedir o modificar su normatividad interna, conforme a lo ordenado en la presente Ley, a más tardar el 27 de julio de 2018.
+
+TERCERO. El Instituto deberá emitir los lineamientos a que se refiere esta Ley y publicarlos en el Periódico Oficial del Estado, a más tardar el 27 de enero de 2018.
