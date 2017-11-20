@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-117831"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2017-10-23"
+last_updated: "2017-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2016.
 
@@ -541,6 +541,12 @@ Se faculta al Secretario de Finanzas del Estado a través de la Subsecretaría d
 
 Los propietarios de los vehículos que no hayan efectuado el canje de placas en los años 2012, 2013, 2014, 2015 y 2016 se podrán hacer acreedores a una sanción de 5 a 50 Unidades de Medida y Actualización, en virtud de no dar cumplimiento a los términos señalados en los Artículos 18 y 20 de la Ley de Vialidad del Estado de Aguascalientes. De igual manera se podrá proceder en su caso a la detención del vehículo, en los términos señalados en el Artículo 145, fracción III, de la Ley de Vialidad del Estado de Aguascalientes, que será liberado hasta que regularice su situación fiscal y administrativa.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 45.
+
+Las personas que acrediten su calidad de migrantes en retorno, serán acreedores a un 50% de descuento en el pago de todos los derechos contenidos en esta Ley necesarios para la creación, inicio, tramitación o gestión del funcionamiento de actividades comerciales, industriales y/o de servicios, en los términos y condiciones de las reglas que al respecto emita la Secretaría de Finanzas. En caso de que a dichas personas les aplique diversos descuentos, se aplicará únicamente el que más beneficie al interesado.
+
 T R A N S I T O R I O S :
 
 ###### ARTÍCULO PRIMERO.
@@ -604,3 +610,15 @@ P.O. 23 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 173.- ARTÍCULO PRIMERO.- SE ADICIONA UN ARTÍCULO 105 A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2017".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas del Gobierno del Estado, así como los H. Ayuntamientos de Aguascalientes, Asiento, Calvillo, Cosío, El Llano, Jesús María, Pabellón de Arteaga, Rincón de Romos, San Francisco de los Romo, San José de Gracia, y Tepezalá deberán emitir respectivamente, y en el ámbito de sus competencias, las reglas a que hace referencia el presente Decreto, a más tardar en un plazo de 30 días naturales, contados a partir de la publicación del presente Decreto.
