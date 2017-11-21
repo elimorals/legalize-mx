@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2015-06-02"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -225,7 +225,9 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 Para efectos de la presente Ley son derechos de las niñas, niños y adolescentes que vivan en el Estado de Campeche, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -267,11 +269,15 @@ XX. Derecho de acceso a las tecnologías de la información y comunicación, as�
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### CAPÍTULO PRIMERO. DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO PRIMERO. DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 14.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la paz, a la supervivencia y al desarrollo.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
@@ -1939,54 +1945,12 @@ Contra las sanciones que se impongan en cumplimiento de la presente Ley, se podr
 
 Para los efectos de este Título, a falta de disposición expresa y en lo que no contravenga a la presente Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
 
-## TRANSITORIOS
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 21 DE NOVIEMBRE DE 2017.
 
-SEGUNDO. Se abroga la Ley de los Derechos de la Niñez y la Adolescencia del Estado de Campeche, expedida mediante decreto número 67 publicado en el Periódico Oficial del Estado el 5 de julio de 2004.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 212 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 13, EL ARTÍCULO 14 Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DE TÍTULO SEGUNDO DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y DEL DESARROLLO, PARA QUEDAR DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
 
-TERCERO. Los Sistemas de Protección Estatal y Municipales deberán integrarse e instalarse a más tardar dentro de los noventa días hábiles siguientes a la entrada en vigor del presente decreto.
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Hecho lo anterior, los integrantes se abocarán a tomar las previsiones necesarias para la elaboración de los lineamientos que permitan el cumplimiento de todas las disposiciones que emanan de este decreto.
-
-En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento.
-
-CUARTO. El órgano administrativo desconcentrado que regirá como Secretaría Ejecutiva del Sistema Estatal de Protección Integral deberá constituirse dentro de los primeros noventa días del siguiente ejercicio presupuestal a la entrada en vigor del presente decreto.
-
-Asimismo, una vez constituido ese órgano administrativo desconcentrado, se deberán hacer las adecuaciones necesarias al Reglamento Interior de la Secretaría de Gobierno en un plazo no mayor a noventa días naturales contados a partir de su constitución.
-
-QUINTO. Se transforma la Procuraduría de la Defensa del Menor, la Mujer y la Familia en la Procuraduría de Protección de Niñas, Niños y Adolescentes, con efectos a partir del 1° de enero del 2016.
-
-SEXTO. Los bienes muebles que en la actualidad tienen a su servicio la Procuraduría de la Defensa del Menor, la Mujer y la Familia quedarán en su momento asignados a la Procuraduría de Protección de Niñas, Niños y Adolescentes, y los expedientes, documentos y demás material que integran el acervo documental y archivo de aquéllas se entregarán a la mencionada Procuraduría de Protección, los cuales quedarán bajo su custodia.
-
-SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Procuraduría de la Defensa del Menor, la Mujer y la Familia, continuarán su trámite ante la Procuraduría de Protección de Niñas, Niños y Adolescente (sic), de conformidad con las disposiciones aplicables.
-
-OCTAVO. El personal que conforma la plantilla actual de servidores públicos de la Procuraduría de la Defensa del Menor, la Mujer y la Familia se incorporarán en su momento a la Procuraduría de Protección de Niñas, Niños y Adolescentes con las mismas funciones, rangos y jerarquías, conservando los derechos laborales adquiridos.
-
-NOVENO. Para el debido cumplimiento de este decreto se deberán prever en el Presupuesto de Egresos del Estado del ejercicio fiscal 2016, las partidas presupuestales necesarias que permitan fortalecer el funcionamiento y operación de la antecitada Procuraduría.
-
-DÉCIMO. Entretanto transcurre el proceso de transformación de la referida Procuraduría, las instituciones públicas del Estado coadyuvarán con la hoy denominada Procuraduría de la Defensa del Menor, la Mujer y la Familia, para el cumplimiento de sus fines.
-
-UNDÉCIMO. El Titular del Ejecutivo y el Congreso del Estado expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de la presente Ley, en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto.
-
-DUODÉCIMO. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días a partir de su publicación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley.
-
-DÉCIMO TERCERO. Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
-
-DÉCIMO CUARTO. Quedan sin efecto todas las disposiciones legales, reglamentarias y administrativas en lo que contravengan o se opongan al presente decreto.
-
-Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, al primer día del mes de junio del año dos mil quince.
-
-C. José Adalberto Canto Sosa, Diputado Presidente.- C. José Eduardo Bravo Negrín, Diputado Secretario.- C. Oscar Eduardo Uc Dzul. Diputado Secretario.- Rúbricas.
-
-PODER EJECUTIVO
-
-DECRETO PROMULGATORIO
-
-FERNANDO EUTIMIO ORTEGA BERNES, Gobernador Constitucional del Estado Libre y Soberano de Campeche, mediante el presente Decreto, se hace saber a los habitantes del Estado de Campeche:
-
-Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Campeche me ha dirigido el Decreto Número 252, por lo que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71, fracción XVIII, de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
-
-Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, el primer día del mes de junio del año dos mil quince.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, DR. JORGE DE JESÚS ARGÁEZ URIBE.- RÚBRICAS.
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
