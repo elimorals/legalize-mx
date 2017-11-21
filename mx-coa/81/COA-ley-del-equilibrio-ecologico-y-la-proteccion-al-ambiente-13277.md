@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2016-03-08"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -254,6 +254,28 @@ Las autoridades encargadas de la aplicación de esta ley, podrán solicitar ases
 ###### ARTICULO 5º.
 
 Para la interpretación y aplicación de las disposiciones previstas en la presente ley se aplicarán, en forma supletoria, las disposiciones contenidas en otras leyes estatales u ordenamientos municipales sobre cuestiones específicas, relacionadas con las materias que regula este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 5° BIS.- Para el inicio, continuación o conclusión de los trámites o procedimientos establecidos en esta ley, los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la dependencia, entidad u organismo de la Administración Pública Estatal o Municipal ante la que se realicen los trámites o procedimientos correspondientes, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite o procedimiento lo realicen ante la propia dependencia, entidad u organismo, aún y cuando se hayan entregado ante otra unidad administrativa de la misma dependencia, entidad u organismo, excepto cuando un procedimiento se tenga que dar vista a terceros.
+
+Los interesados deberán señalar los datos de identificación de las licencias, autorizaciones, permisos y, en general de cualquier documento expedido por la dependencia, entidad u organismo de la Administración Pública Estatal o Municipal ante la que se realicen los trámites o procedimientos, sin que sea necesario hacer entrega del documento original o copia de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 5° BIS 1.- En los trámites y procedimientos establecidos en la presente ley, la dependencia estatal o municipal, entidad u organismo competente, deberá resolver lo conducente en un plazo no mayor a treinta días hábiles, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún supuesto en particular.
+
+Transcurrido el plazo aplicable, sin que se haya dictado resolución por la autoridad competente, ésta se entenderá en sentido positivo al promovente, a menos que en otra disposición legal o administrativa se prevea lo contrario.
+
+A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante quien deba resolver.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 5° BIS 2.- Las licencias, autorizaciones o permisos establecidos en la presente ley, otorgados por la dependencia estatal o municipal, entidad u organismo competente, se entenderán refrendados, renovados o revalidados con la presentación del pago de los derechos correspondientes.
+
+La autoridad competente contará con un plazo de tres meses a partir del refrendo, renovación o revalidación correspondiente para verificar el cumplimiento de los requisitos establecidos en las disposiciones aplicables para su otorgamiento. En caso de incumplimiento, se otorgará un plazo de cinco días hábiles para subsanarlo, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún supuesto en particular.
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se haya subsanado el incumplimiento, procederá la cancelación de la licencia, autorización o permiso correspondiente.
 
 ### CAPITULO II. DE LA DISTRIBUCION Y COORDINACION DE COMPETENCIAS
 
@@ -2323,7 +2345,9 @@ IV.- Se trate de información sobre inventarios e insumos y tecnologías de proc
 
 La Secretaría y, en su caso, los municipios, deberán responder por escrito a los solicitantes de información ambiental en un plazo no mayor a veinte días hábiles a partir de la recepción de la petición respectiva.
 
-Si transcurrido el plazo establecido en el párrafo anterior la Secretaría o, en su caso, el municipio respectivo no emite su respuesta por escrito, la petición se entenderá resuelta en sentido negativo para el promovente.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+Si transcurrido el plazo establecido en el primer párrafo la Secretaría o, en su caso, el municipio respectivo no emite su respuesta por escrito, la petición se entenderá resuelta en sentido afirmativo para el promovente, a excepción de lo dispuesto en el artículo 162 de esta ley.
 
 La Secretaría o, en su caso, el municipio correspondiente, dentro de los diez días hábiles siguientes a la solicitud de información, deberá notificar al generador o propietario de la misma de la recepción de la solicitud.
 
@@ -2990,3 +3014,13 @@ SEGUNDO.- El Ejecutivo del Estado, mediante decreto que se publicará en el Peri
 TERCERO.- Los municipios, mediante el instrumento legal que para tal efecto determinen, deberán solicitar la publicación en el Periódico Oficial del Gobierno del Estado, y publicar en la Gaceta municipal correspondiente, la categoría de área natural protegida que, conforme a lo dispuesto en este decreto, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas de competencia municipal previstas en este decreto.
 
 CUARTO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
