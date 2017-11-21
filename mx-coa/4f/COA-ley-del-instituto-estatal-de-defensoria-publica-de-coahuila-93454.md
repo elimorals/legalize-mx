@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-estatal-de-defensoria-publica-de-coahuila-934
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-22"
-last_updated: "2013-03-22"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -1117,6 +1117,10 @@ TERCERO.- Todas las disposiciones contenidas en esta ley que se relacionen con e
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+QUINTO.- Se abroga la Ley de la Defensoría Jurídica Integral para el Estado de Coahuila, publicada en el Periódico Oficial del Estado el 11 de diciembre de dos mil siete.
+
 DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los seis días del mes de febrero del año dos mil trece.
 
 DIPUTADO PRESIDENTE
@@ -1152,3 +1156,13 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 978.- SE ADICIONA EL ARTÍCULO QUINTO A LOS ARTÍCULOS TRANSITORIOS DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA, QUE DEROGA LA LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
