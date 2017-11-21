@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-66143"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2017-04-07"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -363,9 +363,9 @@ El Órgano de Control hará del conocimiento de las dependencias, entidades y de
 
 Para toda adquisición o contratación de los servicios definidos en esta Ley, que se realicen en total o parte con fondos estatales, las dependencias, entidades y municipios, sólo podrán aceptar proposiciones y celebrar contrato, con las personas físicas y morales inscritas en el Padrón cuyo Certificado de Aptitud esté vigente en la fecha de presentación y apertura de las proposiciones. En el caso de Invitación a cuando menos tres personas se vigilará que los licitantes que se encuentren inscritos y vigentes a la fecha de la presentación de sus proposiciones, así mismo para el caso de adjudicación directa se solicitará el Certificado antes de la firma del contrato o la asignación del pedido.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-Para la evaluación de las solicitudes de inscripción o refrendo, el Órgano de Control deberá verificar en forma programada el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás que relacionadas con la actividad del solicitante que considere importantes para dicha evaluación, lo que se hará constar mediante el acta correspondiente. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud. Si no fuera permitida por el solicitante o su personal, la evaluación antes referida, el tramite será cancelado y en el caso de ser posterior a la emisión del Certificado de Aptitud, éste deberá ser cancelado en el Padrón de Proveedores de la Administración Pública Estatal.
+Para la evaluación de las solicitudes de inscripción y para el refrendo, el Órgano de Control deberá verificar en forma espontánea el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás que considere importantes para dicha evaluación, lo que se hará constar mediante el acta correspondiente. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud. Si no fuera permitida por el solicitante o su personal, la evaluación antes referida, el trámite será cancelado y en el caso de ser posterior a la emisión del Certificado de Aptitud, éste deberá ser cancelado en el Padrón de Proveedores de la Administración Pública Estatal.
 
 ###### Artículo 23.
 
@@ -445,19 +445,23 @@ El Certificado de Aptitud deberá estar vigente y será requisito indispensable 
 
 El Certificado de Aptitud, y en su caso, la calidad de Salarialmente Responsable, en el Padrón de Proveedores de la Administración Pública Estatal, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-Los proveedores que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsable, podrán presentar su solicitud de refrendo ante el Órgano de control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos actualizados y complementarios que procedan, en los términos del artículo anterior.
+Los proveedores que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsable, podrán presentar el pago de los derechos correspondientes al refrendo ante el Órgano de Control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud. Los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente.
 
 La inscripción y la revalidación causarán los derechos que establezca la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
 Así mismo deberán comunicar por escrito al Órgano de Control dentro de un plazo de sesenta días naturales a partir de que suceda cualquier situación que se presente en su empresa y que modifique los datos proporcionados para obtener su Certificado de Aptitud o revalidación.
 
-En caso de que se requiera solventar alguna observación dentro del procedimiento de trámite del Certificado de Aptitud, de acreditación de la calidad de Salarialmente Responsable o revalidación de éstos, el Órgano de Control lo hará del conocimiento del solicitante a través de los medios electrónicos establecidos para ello, para que éste presente las aclaraciones y documentos pertinentes en un plazo que no exceda de quince días hábiles contados a partir de la fecha en que reciba la comunicación; en caso de no ser atendida la solventación en este plazo, la solicitud se dará por cancelada, turnando la documentación para su devolución al interesado.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+En caso de que se requiera solventar alguna observación dentro del procedimiento de trámite del Certificado de Aptitud, de acreditación de la calidad de Salarialmente Responsable o revalidación de éstos, el Órgano de Control lo hará del conocimiento del solicitante a través de los medios electrónicos establecidos para ello, para que éste presente las aclaraciones y documentos pertinentes en un plazo que no exceda de quince días hábiles contados a partir de la fecha en que reciba la comunicación; en caso de no ser atendida la solventación en este plazo, el trámite se dará por cancelado, turnando la documentación para su devolución al interesado.
 
 Cuando el Proveedor dejase de revalidar su Certificado de Aptitud y en su caso la calidad de Salarialmente Responsable, por un período de treinta y seis meses consecutivos contados a partir de la fecha de su vencimiento, deberá iniciar los trámites para su inscripción en los términos del Artículo 23 de este ordenamiento jurídico.
 
-La omisión de la solicitud de revalidación o de su negación, traerá como consecuencia la cancelación del Certificado de Aptitud y en su caso, de su calidad de Salarialmente Responsable, a su vencimiento, sin perjuicio del derecho del interesado para formular nueva solicitud.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+La omisión de la revalidación traerá como consecuencia la cancelación del Certificado de Aptitud y en su caso, de su calidad de Salarialmente Responsable, a su vencimiento, sin perjuicio del derecho del interesado para formular nueva solicitud.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -479,7 +483,9 @@ A): Negar el Certificado de Aptitud a los proveedores cuando:
 
 I. La fecha de su registro ante la Secretaria de Hacienda y Crédito Público sea menor a noventa días.
 
-II. No cumpla con los requisitos, llenado de formatos y la entrega de documentos establecidos en el procedimiento de inscripción o refrendo en el Padrón.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+II. No cumpla con los requisitos, llenado de formatos y la entrega de documentos establecidos en el procedimiento de inscripción en el Padrón o no presente el pago de derechos del refrendo correspondiente.
 
 III. Presente la declaración anual ante la Secretaria de Hacienda y Crédito Público, o en su caso estados financieros; con capital contable negativo, apalancamiento y/o liquidez financiera menor a 1.0, o en su caso que los egresos sean mayores a los ingresos.
 
@@ -531,9 +537,9 @@ VII. Cualquier otra circunstancia que evidencie hechos de falta de probidad éti
 
 Se cancelará la calidad de Salarialmente Responsable, a todos aquellos proveedores que incumplan con los requisitos contemplados en la presente ley.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-Contra las resoluciones que nieguen las solicitudes de inscripción o revalidación o determinen la suspensión o la cancelación del Certificado de Aptitud, o en su caso de la calidad de Salarialmente Responsable, el interesado podrá interponer recurso de inconformidad, en los términos de esta Ley.
+Contra las resoluciones que nieguen las solicitudes de inscripción o determinen la suspensión o la cancelación del Certificado de Aptitud, o en su caso de la calidad de Salarialmente Responsable, el interesado podrá interponer recurso de inconformidad, en los términos de esta Ley.
 
 ###### Artículo 27.
 
@@ -2304,3 +2310,13 @@ CUARTO.- Los procedimientos de contratación que se encuentren en curso a la ent
 QUINTO.- La Secretaría de Fiscalización y Rendición de Cuentas, dentro de los 30 días hábiles siguientes a la publicación de este Decreto, deberá emitir los lineamientos para regular la participación de los testigos sociales.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
