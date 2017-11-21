@@ -4,7 +4,7 @@ identifier: "COA-ley-para-regular-la-apertura-instalacion-y-funcionamiento-10726
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-07"
-last_updated: "2015-04-07"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA REGULAR LA APERTURA, INSTALACION Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 7 de abril de 2015.
 
@@ -86,6 +86,14 @@ VIII. Pignorar. Dejar en prenda un objeto como garantía de un préstamo.
 IX. Procuraduría.- Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
 
 X. Secretaría. Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 5-A.
+
+Para el inicio, continuación o conclusión de los trámites o procedimientos establecidos en esta ley, los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la Secretaría, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite o procedimiento lo realicen ante la propia dependencia, aún y cuando se hayan entregado ante otra unidad administrativa de la misma Secretaría, excepto cuando un procedimiento se tenga que dar vista a terceros.
+
+Los interesados deberán señalar los datos de identificación de los permisos, registros y, en general de cualquier documento expedido por la Secretaría, sin que sea necesario hacer entrega del documento original o copia de los mismos.
 
 ### CAPÍTULO II. DE LOS PERMISOS
 
@@ -149,9 +157,11 @@ La Secretaría contará con un plazo de diez días hábiles a partir de la recep
 
 Cuando la documentación presentada no cumpla con la totalidad de los requisitos señalados en la Ley, la Secretaría requerirá al peticionario la presentación de los documentos omitidos, otorgándole un plazo de quince días naturales para que dé cumplimiento; apercibiéndolo que de no hacerlo se tendrá por rechazada su petición.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 11.
 
-La Secretaría, recibida la solicitud de permiso en los términos previstos en el artículo anterior, deberá resolver la petición en un plazo no mayor de quince días hábiles contados a partir del día siguiente a la recepción integral de la documentación; la cual deberá notificarse al peticionario personalmente o por correo certificado con acuse de recibo. Transcurrido dicho plazo sin que se emita la resolución que corresponda, la petición se entenderá resuelta en sentido negativo.
+La Secretaría, recibida la solicitud de permiso en los términos previstos en el artículo anterior, deberá resolver la petición en un plazo no mayor de quince días hábiles contados a partir del día siguiente a la recepción integral de la documentación; la cual deberá notificarse al peticionario personalmente o por correo certificado con acuse de recibo. Transcurrido dicho plazo sin que se emita la resolución que corresponda, la petición se entenderá resuelta en sentido afirmativo.
 
 ###### ARTÍCULO 12.
 
@@ -229,9 +239,11 @@ III. Los documentos idóneos que acrediten la causa invocada y,
 
 IV. El recibo de pago de los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-Recibida la solicitud de modificación de un permiso en los términos previstos en el artículo anterior, dentro de los diez días naturales siguientes, la Secretaría, dictaminará sobre la procedencia de la solicitud; de aprobarse se expedirá un nuevo permiso con las modificaciones solicitadas y cancelará el anterior dejando constancia de ello en el expediente respectivo y notificará al peticionario personalmente o por correo certificado con acuse de recibo. Transcurrido el plazo sin que se emita resolución, se entenderá resuelta la petición en sentido negativo.
+Recibida la solicitud de modificación de un permiso en los términos previstos en el artículo anterior, dentro de los diez días naturales siguientes, la Secretaría, dictaminará sobre la procedencia de la solicitud; de aprobarse se expedirá un nuevo permiso con las modificaciones solicitadas y cancelará el anterior dejando constancia de ello en el expediente respectivo y notificará al peticionario personalmente o por correo certificado con acuse de recibo. Transcurrido el plazo sin que se emita resolución, se entenderá resuelta la petición en sentido afirmativo.
 
 ###### ARTÍCULO 21.
 
@@ -243,21 +255,29 @@ En caso de que la resolución notificada niegue la modificación del permiso el 
 
 El permisionario tiene la obligación de refrendar anualmente su permiso dentro del primer trimestre de cada ejercicio fiscal, debiendo presentar ante la Secretaría lo siguiente:
 
-I. Solicitud por escrito.
+I. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2017)
 
-II. El permiso original sujeto a revalidación.
+II. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2017)
 
 III. El recibo de pago de los derechos correspondientes.
 
-En caso de que la petición de revalidación del permiso sea en forma extemporánea, el permisionario se hará acreedor a la multa correspondiente, en los términos establecidos por la presente ley.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+En caso de que la revalidación del permiso sea en forma extemporánea, el permisionario se hará acreedor a la multa correspondiente, en los términos establecidos por la presente ley.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Recibida la solicitud de revalidación de un permiso, en los términos previstos en el artículo anterior, deberá resolverse la petición en un plazo no mayor de quince días hábiles; de aprobarse, se expedirá la constancia de refrendo correspondiente y se hará la devolución del permiso original, conservando copia de la constancia de refrendo en el expediente respectivo y se notificará al permisionario en forma personal o por correo certificado con acuse de recibo. Transcurrido el plazo sin que se emita resolución, se entenderá resuelta la petición en sentido negativo.
+Presentado el pago de los derechos correspondientes a la revalidación, en los términos previstos en el artículo anterior, la Secretaría expedirá la constancia de refrendo, conservando copia en el expediente respectivo, y podrá verificar el cumplimiento de los requisitos establecidos en las disposiciones aplicables para su otorgamiento en un plazo no mayor de quince días hábiles.
+
+Para el refrendo de los permisos establecidos en esta Ley, los permisionarios no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la Secretaría.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-Si la resolución niega el refrendo del permiso el interesado podrá inconformarse en los términos previstos por esta Ley.
+En caso de incumplimiento de los requisitos establecidos en las disposiciones aplicables para el otorgamiento del refrendo, se concederá al permisionario un plazo de cinco días hábiles para subsanarlo. Transcurrido el plazo señalado sin que se haya subsanado el incumplimiento, procederá la cancelación del permiso correspondiente, a lo cual el interesado podrá inconformarse en los términos previstos por esta Ley.
 
 #### SECCIÓN CUARTA. REPOSICIÓN DEL PERMISO
 
@@ -337,17 +357,25 @@ La Secretaría, para la atención de los asuntos que tiene encomendados por la L
 
 A la Secretaría corresponderá realizar las funciones siguientes:
 
-I. La recepción, análisis y calificación de las solicitudes para la expedición, revalidación, modificación de permiso para la instalación y funcionamiento de casas de empeño, así como la integración del expediente correspondiente.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-II. Elaboración de los proyectos de resolución correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permiso para la instalación y funcionamiento de casas de empeño.
+l. La recepción, análisis y calificación de las solicitudes para la expedición y modificación del permiso para la instalación y funcionamiento de casas de empeño, la revalidación del mismo, así como la integración del expediente correspondiente.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+II. Elaboración de los proyectos de resolución correspondientes a las solicitudes de expedición, modificación y cancelación de permiso para la instalación y funcionamiento de casas de empeño.
 
 III. Sancionar a los permisionarios por infracción a la Ley, conforme al procedimiento administrativo previsto en éste ordenamiento.
 
 IV. Notificar las sanciones por infracciones a las disposiciones de la Ley.
 
-V. Notificar las resoluciones sobre la expedición, modificación, revalidación y cancelación del permiso.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-VI. Elaborar formatos de documentos relativos a la solicitud de expedición, revalidación, modificación de permiso y demás papelería oficial necesaria para el cumplimiento del objeto de la Ley.
+V. Notificar las resoluciones sobre la expedición, modificación y cancelación del permiso.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+VI. Elaborar formatos de documentos relativos a la solicitud de expedición, modificación de permiso y demás papelería oficial necesaria para el cumplimiento del objeto de la Ley.
 
 VII. Llevar a cabo las visitas de inspección ya sea por si misma o en coordinación con la Procuraduría, con las formalidades que establece el Código Fiscal para el Estado de Coahuila de Zaragoza.
 
@@ -423,7 +451,9 @@ II. El permisionario omita anexar al contrato de mutuo con interés, los documen
 
 III. El permisionario se oponga sin causa justificada, a la práctica de una visita de inspección, auditoría o de supervisión de la operación del establecimiento.
 
-IV. El permisionario solicite extemporáneamente la revalidación del permiso.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+IV. El permisionario revalide el permiso de forma extemporánea.
 
 V. El permisionario omita anexar al informe descrito en la fracción I del artículo 28, copia de la factura, contrato de compra venta, cesión de derechos, acta notarial o cualquier otro documento con que acredite la propiedad del bien dado en prenda.
 
@@ -564,3 +594,15 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DÉL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
