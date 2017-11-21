@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2017-03-17"
+last_updated: "2017-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -421,6 +421,28 @@ XXII Bis.- Las disposiciones de los programas de desarrollo urbano y del ordenam
 
 XXIII.- Todos aquellos lineamientos, criterios o normas técnicas que se deriven de la legislación y programas en materia de desarrollo urbano y vivienda y demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 12 BIS.- Para el inicio, continuación o conclusión de los trámites o procedimientos establecidos en esta ley, los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la dependencia, entidad u organismo descentralizado o desconcentrado de la Administración Pública Estatal o Municipal ante la que se realicen los trámites o procedimientos correspondientes, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite o procedimiento lo realicen ante la propia dependencia, entidad u organismo descentralizado o desconcentrado, aún y cuando se hayan entregado ante otra unidad administrativa de la misma dependencia, entidad u organismo, excepto cuando (sic) un procedimiento se tenga que dar vista a terceros.
+
+Los interesados deberán señalar los datos de identificación de las autorizaciones, permisos, licencias, constancias y, en general de cualquier documento expedido por la dependencia u organismo descentralizado de la Administración Pública Estatal o Municipal ante la que se realicen los trámites o procedimientos, sin que sea necesario hacer entrega del documento original o copia de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 12 BIS 1.- Para las solicitudes de autorizaciones, permisos, licencias y constancias establecidas en la presente ley, la dependencia estatal o municipal, entidad u organismo descentralizado o desconcentrado competente, deberá resolver lo conducente en un plazo no mayor a treinta días hábiles, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún trámite o procedimiento en particular.
+
+Transcurrido el plazo aplicable, sin que se haya dictado resolución por la autoridad competente, ésta se entenderá en sentido positivo al promovente, a menos que en otra disposición legal o administrativa se prevea lo contrario.
+
+A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante quien deba resolver.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 12 BIS 2.- Las autorizaciones, permisos, licencias o constancias establecidas en la presente ley, otorgados por las autoridades estatales o municipales competentes, se entenderán refrendados, renovados o revalidados con la presentación del pago de los derechos correspondientes.
+
+La autoridad competente contará con un plazo de tres meses a partir del refrendo, renovación o revalidación correspondiente para verificar el cumplimiento de los requisitos establecidos en las disposiciones aplicables para su otorgamiento. En caso de incumplimiento, se otorgará un plazo de cinco días hábiles para subsanarlo, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún supuesto en particular.
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se haya subsanado el incumplimiento, procederá la cancelación de la autorización, permiso, licencia o constancia correspondiente.
+
 ###### ARTICULO 13.
 
 Los derechos y demás contribuciones que se generen por las autorizaciones, licencias, permisos y demás actos previstos por esta ley serán cubiertos conforme a lo previsto en las leyes fiscales correspondientes.
@@ -699,13 +721,9 @@ XXXVIII.- Promover o ejecutar fraccionamientos populares y de interés social;
 
 XXXIX.- Autorizar la subdivisión y fusión de terrenos;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-XL.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles. En ningún caso podrán otorgar licencias para construcción de casinos, centros de juego, casas de apuesta y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;
-
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2015)</small>
-
-La autoridad municipal otorgará licencias y permisos para construcción en los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos, siempre y cuando se cuente previamente con la aprobación emitida por la autoridad federal de aeronáutica civil y con la opinión favorable del comité de zonificación.
+XL.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles, así como licencias provisionales para construcción. En ningún caso podrán otorgar licencias, provisionales o definitivas, para construcción de casinos, centros de juego, casas de apuesta y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -3013,6 +3031,30 @@ Este documento será indispensable para el inicio de la construcción de cualqui
 
 En ningún caso se expedirán licencias de construcción a casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+ARTICULO 256 BIS.- La licencia provisional de construcción es el documento expedido por las autoridades competentes, por medio del cual se autoriza provisionalmente a los propietarios o poseedores de un predio para construir, ampliar, modificar, reparar o demoler una edificación o instalación.
+
+Para la expedición de la licencia provisional, el solicitante únicamente deberá cumplir con los siguientes requisitos:
+
+I.- La documentación que acredite fehacientemente la propiedad o legítima posesión sobre el inmueble de que se trate, en los términos que establezcan las normas aplicables;
+
+II.- La constancia de libertad de gravámenes expedida por la Oficina del Registro Público que corresponda;
+
+III.- En su caso, la autorización del impacto ambiental que expida la Secretaría, conforme a las disposiciones aplicables de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado.
+
+IV.- La constancia de uso de suelo.
+
+V.- Que el inmueble motivo de la licencia provisional se encuentre fuera de las zonas protegidas y centros históricos, o se trate de inmuebles históricos en los términos de la Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza.
+
+Si la autoridad competente cuenta previamente con la documentación que acredite cualquiera de los requisitos establecidos en este artículo, la licencia provisional se podrá emitir sin la exhibición de la misma, siempre y cuando la documentación se encuentre vigente de conformidad con esta ley y demás disposiciones aplicables que regulan su expedición a la fecha de presentación de la solicitud.
+
+La licencia provisional deberá ser emitida, previa solicitud firmada por el propietario o poseedor, su representante legal o por el Director Responsable de Obra, por la autoridad competente dentro del día hábil siguiente al cumplimiento de los requisitos señalados en el presente artículo, debiendo el solicitante cumplir, previo al vencimiento de la vigencia de la misma, con los demás requisitos establecidos por esta ley para la expedición de la licencia definitiva.
+
+La licencia provisional de construcción se podrá expedir por una vigencia de treinta, sesenta o noventa días hábiles, en los términos que determinen los ayuntamientos y tomando en consideración la magnitud de la obra.
+
+En ningún caso se expedirán licencias provisionales a cualquiera de los establecimientos señalados en el último párrafo del artículo 256 de esta ley.
+
 ###### ARTICULO 257.
 
 Las obras de construcción, instalación, modificación, ampliación, reparación y demolición en los predios de los asentamientos humanos del Estado, se sujetarán a las disposiciones de esta ley y demás ordenamientos aplicables.
@@ -3598,3 +3640,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA."]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
