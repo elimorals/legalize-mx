@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-defensoria-juridica-integral-para-el-estado-de-59316"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-11"
-last_updated: "2013-03-22"
+last_updated: "2017-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE LA DEFENSORIA JURIDICA INTEGRAL PARA EL ESTADO DE COAHUILA
 
-LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 978 POR EL QUE SE ADICIONA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2007.
 
@@ -567,7 +569,7 @@ Saltillo, Coahuila, 15 de Noviembre de 2007.
 
 EL SECRETARIO DE GOBIERNO
 
-LlC. HOMERO RAMOS GLORIA
+LIC. HOMERO RAMOS GLORIA
 
 (RÚBRICA)
 
@@ -579,7 +581,7 @@ PROFR. HUMBERTO MOREIRA VALDÉS
 
 EL SECRETARIO DE FINANZAS
 
-LlC. JORGE TORRES LÓPEZ
+LIC. JORGE TORRES LÓPEZ
 
 (RÚBRICA)
 
@@ -616,3 +618,15 @@ SEGUNDO.- Todos los procedimientos y asuntos pendientes de la Defensoría Juríd
 TERCERO.- Todas las disposiciones contenidas en esta ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+QUINTO.- Se abroga la Ley de la Defensoría Jurídica Integral para el Estado de Coahuila, publicada en el Periódico Oficial del Estado el 11 de diciembre de dos mil siete.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 978.- SE ADICIONA EL ARTÍCULO QUINTO A LOS ARTÍCULOS TRANSITORIOS DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA, QUE DEROGA LA LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
