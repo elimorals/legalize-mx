@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-gestion-integral-de-residuos-para-4744
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2008-06-06"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 2 de diciembre de 2005.
 
@@ -661,6 +661,22 @@ IV. No realizar la reparación del daño ambiental que se cause con motivo de la
 
 V. Incumplir con las obligaciones establecidas en la autorización, la presente ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 41-A.
+
+Las autorizaciones establecidas en la presente ley, otorgadas por la dependencia estatal o municipal, entidad u organismo competente, se entenderán refrendadas, renovadas o revalidadas con la presentación del pago de los derechos correspondientes.
+
+La autoridad competente contará con un plazo de tres meses a partir del refrendo, renovación o revalidación correspondiente para verificar el cumplimiento de los requisitos establecidos en las disposiciones aplicables para su otorgamiento. En caso de incumplimiento, se otorgará un plazo de cinco días hábiles para subsanarlo, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún supuesto en particular.
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se haya subsanado el incumplimiento, procederá la cancelación de la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 41-B.
+
+Para el refrendo, renovación o revalidación de las autorizaciones establecidas en esta ley, los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la dependencia, entidad u organismo de la Administración Pública Estatal o Municipal ante la que se realicen.
+
 ### Capítulo Segundo. De las Fases del Manejo Integral de Residuos
 
 ###### ARTÍCULO 42.
@@ -970,3 +986,13 @@ P.O. 6 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
