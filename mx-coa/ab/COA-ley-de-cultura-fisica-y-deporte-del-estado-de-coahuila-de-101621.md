@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2017-06-23"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -163,15 +163,19 @@ XII. Establecer procesos para certificar las competencias de los entrenadores de
 
 XIII. Convocar a las instituciones educativas y a las organizaciones de deportistas a participar del Sistema Estatal del Deporte;
 
-XIV. Procurar que la población de las zonas rurales quede siempre incluida en todos los programas, acciones y beneficios que el estado y los municipios provean en materia de cultura física y deporte y
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Coordinarse con el Sistema Educativo del Estado, para la promoción e impartición del deporte en los niveles de educación básica y media superior, así como en las instituciones de educación especial.
+
+XV. Procurar que la población de las zonas rurales quede siempre incluida en todos los programas, acciones y beneficios que el estado y los municipios provean en materia de cultura física y deporte y
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XV. Garantizar la ejecución total o en forma abreviada del Himno Nacional en actos y eventos deportivos, de conformidad con la Ley Sobre el Escudo, la Bandera y el Himno Nacionales, y demás disposiciones aplicables.
+XVI. Garantizar la ejecución total o en forma abreviada del Himno Nacional en actos y eventos deportivos, de conformidad con la Ley Sobre el Escudo, la Bandera y el Himno Nacionales, y demás disposiciones aplicables.
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XVI. Las que le confiera esta ley y demás disposiciones aplicables.
+XVII. Las que le confiera esta ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -878,3 +882,11 @@ P.O. 23 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 984.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XIV; Y SE RECORRE EL ACTUAL A LA SIGUIENTE FRACCIÓN, REALIZANDO LO PROPIO CON LAS ULTERIORES, CREANDO AL FINAL LA FRACCIÓN XVII, DEL ARTÍCULO 7 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
