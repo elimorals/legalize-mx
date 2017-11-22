@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-09-02"
+last_updated: "2017-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -835,7 +837,9 @@ El desarrollo de las sesiones de la Diputación Permanente y el despacho de los 
 
 Las comisiones del Congreso son órganos colegiados integrados por diputados y diputadas, cuyas funciones son las de analizar y discutir las iniciativas de leyes, decretos, acuerdos, y demás asuntos de su competencia que les sean turnados para elaborar, en su caso, los dictámenes o informes, según corresponda.
 
-Las comisiones, cuando tengan asuntos que resolver, se reunirán a convocatoria de quien presida la misma, expedida conjuntamente con su secretaría.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+Las comisiones, cuando tengan asuntos que resolver, se reunirán a convocatoria de quien ocupe la presidencia conjuntamente con la secretaría de las mismas, expedida y remitida por medio físico, electrónico o telemático, sin que exista un orden de prelación, a través de la secretaría técnica.
 
 ###### ARTÍCULO 88.
 
@@ -1017,13 +1021,17 @@ Las Comisiones, para el desempeño de sus funciones, podrán crear subcomisiones
 
 En este caso, presidirá los trabajos de la subcomisión la o el diputado nombrado por aquella, quien tendrá el carácter de coordinador.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 105.
 
-Para el estudio, análisis, redacción y elaboración de proyectos de ley o de decreto, podrán crearse mesas técnicas, foros o consultas, invitando a participar, de considerase pertinente, a especialistas en el tema que se trate.
+Para el estudio y análisis de los asuntos turnados podrán realizarse mesas técnicas, reuniones informativas, reuniones de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema que se trate.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 106.
 
-La convocatoria a reuniones se hará, invariablemente, para que estas se lleven a cabo en horas que no coincidan con las de Sesión del Congreso, debiendo entregarse aquella en días hábiles, cuando menos con doce horas de anticipación a la fijada para la reunión, pudiendo acordarse para tales efectos el uso del correo electrónico.
+La convocatoria a reuniones se hará, invariablemente, para que estas se lleven a cabo en horas que no coincidan con las de Sesión del Congreso, debiendo entregarse aquella por medio físico, electrónico o telemático en días hábiles, cuando menos con doce horas de anticipación a la fijada para la reunión.
 
 En la convocatoria se enlistarán los proyectos de dictamen y asuntos a tratar.
 
@@ -1041,11 +1049,17 @@ V.- En su caso, acuerdos tomados y el sentido de la votación.
 
 VI.- Asuntos generales.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Clausura y hora de término de la reunión.
+
 Las actas de las reuniones de Comisión, se aprobarán, en su caso, en la reunión posterior a su celebración y serán firmadas por su Presidente(a) y Secretario(a).
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 107.
 
-Cuando las reuniones de las Comisiones versen sobre asuntos que no puedan desahogarse en un solo día, la Comisión acordará el día y hora en que habrán de continuar los trabajos sin necesidad de un nuevo citatorio.
+Cuando las reuniones de las Comisiones versen sobre asuntos que no puedan desahogarse en un solo día, la Comisión entrará en receso y acordará el día y hora en que habrán de continuar los trabajos sin necesidad de un nuevo citatorio.
 
 ###### ARTÍCULO 108.
 
@@ -1255,13 +1269,19 @@ I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II.- Contar con una edad mínima de treinta años el día de la designación.
 
-III.- Tener licenciatura en las áreas económica, administrativa, jurídica o alguna otra relacionada directamente con las funciones propias del cargo, con las especificaciones siguientes:
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+III.- Tener grado de licenciatura, con las especificaciones siguientes:
 
 a) Tratándose de la o el Titular de las Secretarías de Asuntos Legislativos, de Asuntos Interinstitucionales, de la Unidad de Transparencia y del Instituto de Estudios e Investigación Legislativa, necesariamente tendrá que contar con Licenciatura en Derecho, con antigüedad mínima de cinco años.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
-b) Tratándose de la o el Titular de la Dirección de Archivos, necesariamente tendrá que contar con Licenciatura en alguna de las Ciencias de la Información como son Archivonomía, Bibliotecología y/o Gestión Documental o similar, con antigüedad mínima de tres años.
+b) Tratándose de la Secretaría de Administración, acreditar los conocimientos y la experiencia en las áreas relacionadas con las funciones propias del cargo.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+c) Tratándose de la o el Titular de la Dirección de Archivos, necesariamente tendrá que contar con Licenciatura en alguna de las Ciencias de la Información como son Archivonomía, Bibliotecología y/o Gestión Documental o similar, con antigüedad mínima de tres años.
 
 IV.- No haber sido condenado (a) por delitos dolosos que ameriten pena privativa de la libertad.
 
@@ -2400,3 +2420,11 @@ P.O. 2 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXV/RFLEY/0373/2017 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2017.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0416/2017 I P.O., MEDIANTE EL CUAL SE RE FORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 87, segundo párrafo, y 106, primer párrafo, ambos de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua; así como el numeral 49 del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo, en lo relativo a emisión y citación de las convocatorias por medio electrónico o telemático de las reuniones de comisión, serán aplicables 60 días después de la entrada en vigor del presente Decreto.
