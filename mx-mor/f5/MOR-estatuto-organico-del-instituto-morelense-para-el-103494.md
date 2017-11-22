@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-morelense-para-el-103494"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-11-12"
-last_updated: "2014-11-12"
+last_updated: "2017-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO, EN EL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ESTATUTO ORGÁNICO DEL FONDO MORELOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 12 de noviembre de 2014.
 
@@ -732,3 +734,29 @@ EL ENLACE ADMINISTRATIVO EN REPRESENTACIÓN DE LA DELEGACIÓN DEL INSTITUTO NACI
 JULIA GUZMÁN GUERRERO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “ESTATUTO ORGÁNICO DEL FONDO MORELOS”.]</small>
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los 10 días siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico del Instituto Morelense para el Financiamiento del Sector Productivo, publicado en el Periódico Oficial “Tierra y Libertad”, número 5236, Segunda Sección, el 12 de noviembre de 2014, y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Dentro del término de 90 días hábiles siguientes a la entrada en vigor del presente instrumento, el Fondo Morelos, en su caso, deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada Unidad Administrativa según su ámbito de competencia.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; así como 11, fracción XXXV, y 18, fracción XXIII, del Reglamento Interior de la Secretaría de Gobierno; el Fondo Morelos, dentro del plazo de 10 días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la Secretaría de Gobierno del Poder Ejecutivo Estatal, los cambios sufridos por virtud de este Estatuto Orgánico, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las Unidades Administrativas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Fondo Morelos, en su caso, deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los casos no previstos en el presente Estatuto Orgánico se resolverán de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, demás normativa y por el Consejo Directivo del Fondo Morelos.
+
+SÉPTIMA. Se instruye al Director General inscriba el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, de conformidad con lo previsto en el artículo 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+OCTAVA. Los asuntos que se encuentren en trámite a la entrada en vigor del presente instrumento y que se hayan iniciado con el Estatuto Orgánico a que se refiere la Disposición Transitoria Segunda, se resolverán conforme a este último hasta su conclusión.
+
+NOVENA. Dentro de un plazo no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá instalarse el Subcomité de Adquisiciones, Arrendamientos y Servicios del Fondo Morelos.
+
+DÉCIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Estatuto Orgánico serán resueltos por el Director General, de conformidad con la normativa.
