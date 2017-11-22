@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2017-09-02"
+last_updated: "2017-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR Y DE PRACTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -487,19 +489,25 @@ Tratándose del primer informe, este abarcará de la fecha en que se instale la 
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 49.
 
-Las convocatorias a reunión de comisión a que se refieren los artículos 87 último párrafo, 101 fracción II y 106 de la Ley, deberán ser firmadas por la o el Presidente, conjuntamente con quien ocupe la Secretaría, salvo en casos debidamente fundamentados y motivados.
+Las convocatorias a reunión de comisión a que se refieren los artículos 87, último párrafo; 101, fracción II, y 106 de la Ley, deberán ser firmadas por la Presidencia, conjuntamente con la Secretaría, expedida y remitida por medio físico, electrónico o telemático, sin que exista un orden de prelación, a través de la secretaría técnica.
 
-La firma de las convocatorias no implica la conformidad de los asuntos a tratar en la reunión que corresponda.
+La expedición y, en su caso, firma de las convocatorias no implica la conformidad de los asuntos a tratar en la reunión que corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-En caso de negativa de quienes deban firmar las convocatorias, podrán citar a reunión de comisión la mayoría de sus integrantes.
+En caso de negativa de quienes deban ordenar la expedición de las convocatorias, podrán citar a reunión de comisión la mayoría de sus integrantes.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-En caso de ausencia de quienes ocupen la Presidencia y/o secretaría, la convocatoria podrá ser expedida con la firma digitalizada, siempre y cuando se cuente con la anuencia de su titular, para cada reunión de la comisión.
+En caso de anuencia de quienes ocupen la Presidencia y/o Secretaría, la convocatoria podrá ser expedida con la firma digitalizada, para cada reunión de la comisión.
 
 ###### ARTÍCULO 52.
 
@@ -511,11 +519,43 @@ Para que las resoluciones adoptadas en las reuniones de comisión adquieran plen
 
 Para efectos de lo anterior, la o el secretario pasará lista de asistencia a quienes se encuentren presentes al inicio de los trabajos, y en caso de no contar con el quórum legal, lo informará a quien presida para que haga la declaración de inexistencia y fije nueva fecha y hora para la próxima reunión.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 54.
 
-Las comisiones podrán convocar a reuniones informativas, a las que acudan como invitados servidores públicos o personas que por razón de su oficio, ocupación o profesión posean conocimientos o información útil para el análisis de temas relacionados con la comisión.
+Las mesas técnicas, reuniones informativas, reuniones de trabajo, solicitudes de opinión o foros a que se refieren (sic) el artículo 105 de la Ley, deberán observar, por lo menos, las siguientes formalidades:
 
-Para la celebración de estas reuniones no se requerirá quórum, pero sí deberán cumplirse las demás formalidades establecidas para tales efectos.
+I. Las mesas técnicas se desarrollarán atendiendo lo siguiente:
+
+a) La Comisión establecerá el acuerdo para su creación, en el cual precisará su objetivo, integrantes, moderadores, periodicidad de las reuniones y plazo estimado de cumplimiento, en su caso.
+
+b) La convocatoria a sus reuniones deberá realizarse a través de medios electrónicos o telemáticos, en la cual se especificará el lugar y hora de la reunión.
+
+c) Llevarán registro de asistencia.
+
+d) Podrán realizar minutas de trabajo cuando así lo acuerden sus integrantes.
+
+e) Quienes la integren participarán en las discusiones respetando el orden que determine su moderador. Quienes asistan sin el carácter de participantes no podrán tomar parte en las discusiones y deberán conservar el mayor respeto y compostura.
+
+f) Se elaborará un resumen final de los trabajos para su entrega a la Comisión que la creó.
+
+g) Se extinguirán al cumplir su objetivo, al considerar la comisión concluidas sus actividades de forma anticipada o, en su caso, al término de la legislatura en la cual se constituyeron.
+
+h) Las mesas técnicas podrán establecer sus propias reglas de funcionamiento, siempre y cuando no contravengan lo dispuesto en este artículo.
+
+II. Las reuniones informativas o de trabajo a las que acudan las y los servidores públicos o personas que por razón de su oficio, ocupación o profesión posean conocimientos o información útil para el análisis de temas relacionados con la comisión, observarán lo dispuesto en el artículo 65 de este Reglamento.
+
+Para la celebración de estas reuniones no se requerirá quórum.
+
+III. Las solicitudes de opinión sobre temas de interés para la Comisión se realizarán por acuerdo de sus integrantes, mediante oficio dirigido a la persona o institución de que se trate. El oficio deberá estar firmado por quien presida la Comisión.
+
+IV. Los foros para el intercambio de ideas u opiniones con los diferentes sectores de la sociedad, se desarrollarán atendiendo a lo siguiente:
+
+a) La Comisión establecerá un acuerdo en el que precisará su objetivo.
+
+b) A través de convocatoria, en la que se determinará la fecha, lugar de los eventos, entre otros.
+
+c) La convocatoria contendrá las bases para el desarrollo de los eventos y deberá publicarse en el portal oficial de internet del Congreso del Estado, así como en los lugares que acuerde la Comisión.
 
 ###### ARTÍCULO 55.
 
@@ -1496,3 +1536,11 @@ P.O. 2 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXV/RFLEY/0373/2017 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0416/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 87, segundo párrafo, y 106, primer párrafo, ambos de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua; así como el numeral 49 del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo, en lo relativo a emisión y citación de las convocatorias por medio electrónico o telemático de las reuniones de comisión, serán aplicables 60 días después de la entrada en vigor del presente Decreto.
