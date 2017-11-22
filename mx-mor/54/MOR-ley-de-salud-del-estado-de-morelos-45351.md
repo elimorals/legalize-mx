@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2017-06-14"
+last_updated: "2017-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -2681,6 +2681,10 @@ Los proyectos de sistemas de abastecimiento de agua potable deberán ser sometid
 
 La Autoridad Municipal, y los Servicios de Salud de Morelos, realizarán periódicamente análisis de la potabilidad del agua conforme a esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+Corresponde a la Autoridad Sanitaria, realizar verificaciones periódicas a los establecimientos cuyo producto sea agua y hielo para consumo humano envasados y a granel conforme a las Leyes y Normas Oficiales Mexicanas correspondientes.
+
 ###### Artículo 232.
 
 En los centros de población que carezcan de Sistema de Agua Potable y Alcantarillado, la Autoridad Municipal deberá proteger las fuentes de abastecimiento para prevenir su contaminación, conforme a las normas correspondientes.
@@ -3269,9 +3273,15 @@ VIII.- Canalizar a las personas agredidas, para su tratamiento oportuno y notifi
 
 IX.- Participar en actividades de esterilización de mascotas en coordinación con los Servicios de Salud de Morelos y las asociaciones protectoras de animales;
 
-X.- Realizar, vigilar y coordinar acciones inherentes a la prevención, control y erradicación de fauna nociva y vectores relacionados con las Fracciones V, VI y VII del Artículo 127 de esta Ley y demás que determinen las autoridades sanitarias Estatales, bajo la coordinación, lineamientos y normatividad que definan los Servicios de Salud de Morelos; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
-XI.- Celebrar convenios con instituciones públicas, sociales o privadas, para la realización y ejecución de las acciones a que se refiere el presente Capítulo.
+X.- Realizar, vigilar y coordinar acciones inherentes a la prevención, control y erradicación de fauna nociva y vectores relacionados con las Fracciones V, VI y VII del Artículo 127 de esta Ley y demás que determinen las autoridades sanitarias Estatales, bajo la coordinación, lineamientos y normatividad que definan los Servicios de Salud de Morelos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Realizar y promover en coordinación con las asociaciones protectoras de animales, campañas permanentes de adopción, y
+
+XII.- Celebrar convenios con instituciones públicas, sociales o privadas, para la realización y ejecución de las acciones a que se refiere el presente Capítulo.
 
 ###### Artículo 324.
 
@@ -4528,3 +4538,11 @@ P.O. 14 DE JUNIO DE 2017.
 PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS SESENTA Y DOS POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 231 Y UNA FRACCIÓN PARA SER LA XI RECORRIÉNDOSE LA SIGUIENTE Y MODIFICANDO LA FRACCIÓN X AL ARTÍCULO 323 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
