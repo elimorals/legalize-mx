@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2017-11-11"
+last_updated: "2017-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -594,6 +594,14 @@ LIII. Vigilar que en las instituciones de educación básica y media superior, p
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
 LIV. Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación e impulsar la alfabetización digital en el sistema educativo estatal, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento, con base en los lineamientos generales que emita la Autoridad Educativa Federal.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+LV. Emitir, actualizar, ejecutar y evaluar un Marco Local de Convivencia Escolar de Chihuahua aplicable a todas las escuelas públicas y particulares del nivel básico, que contenga las orientaciones para la elaboración de los Acuerdos Escolares de Convivencia.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+LVI. Generar, sostener y evaluar políticas públicas tendientes a evitar el acoso escolar o "bullying", en los términos del Marco Local de Convivencia Escolar, de las leyes o acuerdos nacionales aplicables, de tratados internacionales relativos y válidos en nuestro país, y de los protocolos de actuación que para tales efectos se expidan y sean aplicados por las instancias administrativas especializadas y competentes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1443,7 +1451,13 @@ En el tipo superior orientado al dominio y desarrollo de nuevas tecnologías a t
 
 La educación en valores es parte esencial de la formación integral de las y los educandos y coadyuva a su desarrollo armónico, promoviendo valores universales, para que ejerza plenamente sus capacidades dentro del marco de la convivencia entre los integrantes de la comunidad escolar, estimulando su iniciativa y un alto sentido de responsabilidad social.
 
-Este proceso educativo se basará en los principios de libertad, responsabilidad y equidad, de forma tal que aseguren una convivencia social fundada en el respeto a las personas y las leyes, así como libre de cualquier forma de maltrato, violencia o abuso entre escolares, y promoviendo el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+Este proceso educativo se basará en los principios de libertad, responsabilidad y equidad, de forma tal que aseguren una convivencia social fundada en el respeto a las personas y las leyes, así como libre de cualquier forma de acoso escolar o "bullying", maltrato, violencia o abuso entre escolares, y promoviendo el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+
+Se entiende por acoso escolar o "bullying" a la conducta repetitiva e intencional, por cualquier medio, por la que se pretende o se consigue intimidar, someter, amedrentar y/o atemorizar, emocional o físicamente, a la víctima, ya sea dentro de las instalaciones de una institución educativa o fuera de ella, perjudicando su desarrollo psíquico o emotivo; y cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias de abandono y/o que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2363,9 +2377,9 @@ X. En general, podrá realizar actividades en beneficios del propio plantel.
 
 En las escuelas particulares del tipo básico de educación, podrán integrarse y operar consejos similares, que cumplan con la normatividad correspondiente.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
-Estos Consejos Escolares de Participación Social en la Educación, conforme a la normatividad expedida por la autoridad educativa competente, conformarán un Comité de Desaliento de las Prácticas que Generen Violencia entre Pares, cuyo objeto será prevenir, detectar y canalizar, ante la instancia correspondiente para su atención, al alumnado víctima y agresor del acoso escolar.
+Estos Consejos Escolares de Participación Social en la Educación, conforme a la normatividad expedida por la autoridad educativa competente, conformarán un Comité de Desaliento de las Prácticas que Generen Violencia entre Pares, cuyo objeto será prevenir, detectar y canalizar, ante la instancia correspondiente para su atención, al alumnado víctima y agresor del acoso escolar o "bullying".
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4276,5 +4290,11 @@ P.O. 8 DE JULIO DE 2017.
 P.O. 11 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0393/2017 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 153 BIS, FRACCIÓN XVII, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0396/2017 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
