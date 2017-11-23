@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-10-05"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
+LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1971,7 +1971,39 @@ Artículo 73 Sedecies. Las dependencias y entidades proporcionarán los informes
 
 Artículo 73 Septies decies. El Jefe o Comandante de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá contar con la certificación correspondiente, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera Policial y de profesionalización.
 
-#### SECCIÓN PRIMERA. DE LOS ORGANISMOS DESCENTRALIZADOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN DE FOMENTO AGROPECUARIO
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 73 Octodecies. Cada Ayuntamiento, en cuyo municipio se realicen preponderantemente actividades agropecuarias y exista disponibilidad presupuestal, contará con una Dirección de Fomento Agropecuario, cuyo titular será nombrado conforme a las disposiciones de esta Ley. El director deberá contar preferentemente con título profesional, o en su caso, experiencia comprobable en el ramo.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 73 Novodecies. Son atribuciones del director de Fomento Agropecuario:
+
+I. Observar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones en materia de tierra, bosques y agua;
+
+II. Fomentar y asesorar el desarrollo de actividades agrícolas, forestales, ganaderas y acuícolas, promoviendo el adecuado aprovechamiento de los recursos renovables, así como la óptima utilización de los avances tecnológicos;
+
+III. Promover la protección, restauración y el aprovechamiento sustentable de los recursos naturales;
+
+IV. Promover la organización de los productores, para la capacitación, transformación, producción y comercialización de los productos;
+
+V. Proponer esquemas de comercialización y financiamiento para los productores del municipio;
+
+VI. Colaborar en la promoción, organización, difusión y ejecución de esquemas de distribución de insumos, tales como tianguis y ferias agropecuarias, para lograr que la población tenga acceso a productos del campo a precios accesibles y un mayor desarrollo de la industria agropecuaria;
+
+VII. Diseñar proyectos agroindustriales que permitan mejorar las condiciones de comercialización de los productos agropecuarios para acortar la cadena de comercialización;
+
+VIII. Proponer la celebración de acuerdos y convenios en materia forestal con la Federación y el Estado y, de manera especial, en materia de deforestación y tala clandestina de bosques;
+
+IX. Gestionar, ante la Federación y el Estado, la asignación de recursos al municipio para actividades agropecuarias;
+
+X. Coadyuvar, en el ámbito de su competencia, a implementar las medidas administrativas y de control a que deba sujetarse la actividad agropecuaria; y
+
+XI. Las demás que le otorguen esta Ley y demás leyes aplicables del Estado.
 
 ### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
 
@@ -2009,7 +2041,7 @@ Al efecto, el Ayuntamiento designará miembros en los Órganos de Gobierno, Cons
 
 Se exceptúa lo señalado en este artículo cuando se trate de entidades paramunicipales creadas por dos o más ayuntamientos, en cuyo caso se estará a lo dispuesto en el instrumento de creación o en la legislación que regula el objeto de dicha entidad. Para el ingreso y egreso de recursos, así como para su vigilancia, control y evaluación, se sujetará al Código Hacendario Municipal del Estado de Veracruz de Ignacio de la Llave, aun cuando los ayuntamientos participantes tengan su propio Código Hacendario Municipal.
 
-#### SECCIÓN SEGUNDA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
+#### SECCIÓN PRIMERA. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 ###### Artículo 78.
 
@@ -2067,7 +2099,7 @@ En cada Ayuntamiento deberá crearse el Instituto Municipal de las Mujeres, como
 
 El Ayuntamiento deberá remitir al Congreso del Estado, junto con la solicitud de aprobación de la creación del Organismo, el Reglamento que establezca los requisitos y el cumplimiento de lo establecido en los artículos 78, 79, 80 y 81 de la presente ley.
 
-#### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
+#### SECCIÓN SEGUNDA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
 
 ###### Artículo 82.
 
@@ -2102,6 +2134,8 @@ Los integrantes de dichos consejos, o sus equivalentes, que representen la parti
 La fusión o disolución de las empresas de participación municipal se efectuará conforme a lo dispuesto en esta ley y a los lineamientos o disposiciones establecidos en la normatividad interna de la empresa y demás disposiciones aplicables.
 
 El Ayuntamiento, de conformidad con lo señalado en el párrafo anterior, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
+
+#### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
 
 ###### Artículo 88.
 
@@ -2163,21 +2197,25 @@ La prestación de los servicios es de interés público, serán generales, conti
 
 Las cuotas y tarifas que se deban cobrar por derechos en la prestación de los servicios públicos municipales serán aprobadas por el Congreso del Estado o la Diputación Permanente, en su caso. Esta disposición se aplicará aun cuando el servicio esté concesionado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 95.
 
-Cuando se trate del cobro de cuotas o tarifas por concepto de servicios de agua potable y alcantarillado a pensionistas y jubilados, o en su caso, a la viuda o concubina legalmente reconocida de éstos, así como a los adultos mayores de sesenta y cinco años, se les disminuirá el cincuenta por ciento sobre la cuota o tarifa que les corresponda, siempre y cuando cumplan con los siguientes requisitos:
+Cuando se trate del cobro de cuotas o tarifas por concepto de servicios de agua potable y alcantarillado a pensionistas y jubilados, o en su caso, a la viuda o concubina legalmente reconocida de éstos, así como a los adultos mayores de sesenta y cinco años, y personas con discapacidad física, e intelectual, o sensorial se les disminuirá el cincuenta por ciento sobre la cuota o tarifa que les corresponda, siempre y cuando cumplan con los siguientes requisitos:
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-I. Que se compruebe de manera fehaciente la calidad de pensionista o jubilado o, en su caso, el fallecimiento de éstos y la relación matrimonial o concubinaria legalmente reconocida; de la misma forma, los adultos mayores de sesenta y cinco años deberán acreditarse con la credencial de elector vigente;
+I. Que se compruebe de manera fehaciente la calidad de pensionista o, en su caso, el fallecimiento de éstos y la relación matrimonial o concubinaria legalmente reconocida; de la misma forma, los adultos mayores de sesenta y cinco años deberán acreditarse con la credencial de elector vigente y las personas con discapacidad física, intelectual, o sensorial con el documento que al efecto expida el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o la Secretaría de Salud del Estado de Veracruz;
 
 II. Que se encuentren al corriente en sus pagos;
 
 III. Que el pago se realice en forma anual o mensual; y
 
 IV. Que se trate de la casa habitación del beneficiario.
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V. Que se acredite por la Autoridad Administrativa que la persona con discapacidad, habita en el domicilio.
 
 Por ningún motivo se extenderá este beneficio a más de un inmueble por persona y, en todo caso, corresponderá al Ayuntamiento, concesionario u organismo prestador del servicio, establecer con claridad los mecanismos o documentos con las que deban satisfacer los requisitos exigidos. Este beneficio se otorgará aún cuando el servicio sea concesionado.
 
@@ -3241,7 +3279,7 @@ Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo co
 
 ### CAPÍTULO II
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 191.
 
@@ -3345,13 +3383,15 @@ Los planes y programas podrán ser modificados mediante el mismo procedimiento r
 
 ###### Artículo 202.
 
-Los Ayuntamientos promoverán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la obra pública municipal. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
+Los Ayuntamientos promoverán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la construcción de obra pública municipal, desde su planeación hasta su conclusión. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 203.
 
-Los Comités de Contraloría Social estarán integrados por tres vecinos de la localidad en la que se construya la obra, quienes serán elegidos en asamblea general por los ciudadanos beneficiados por aquélla.
+Los Comités de Contraloría Social estarán integrados por tres vecinos beneficiarios directos de la obra, quienes serán elegidos entre los ciudadanos beneficiados por aquella, en Asamblea General que se celebrará antes del inicio de la obra. El Ayuntamiento entregará la información a la que está obligado en materia de transparencia y acceso a la información pública de la misma, para que el Comité realice sus trabajos.
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 El cargo de integrante del Comité será honorífico. No podrán ser integrantes de los Comités los dirigentes de organizaciones políticas o servidores públicos.
 
@@ -3953,8 +3993,32 @@ G.O. 4 DE JULIO DE 2017.
 
 G.O. 5 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318 QUE REFORMA LA FRACCIÓN II Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318 QUE REFORMA LA FRACCIÓN II Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 300 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319 QUE REFORMA LOS ARTÍCULOS 202 Y 203 PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se exceptúa su aplicación para la Administración Pública Municipal 2014 - 2017.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342 QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 100 DE LA LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y REFORMA EL PRIMER PÁRRAFO, LA FRACCIÓN I Y ADICIONA UNA FRACCIÓN V AL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
