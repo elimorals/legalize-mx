@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2016-11-29"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -2055,9 +2055,13 @@ En caso de separación de quienes ejercen la patria potestad, ambos deberán con
 
 En este supuesto, con base en el interés superior del menor, éste quedará bajo el cuidado y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o la resolución judicial.
 
-> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-A la conducta que uno o ambos padres, en proceso de separación o separados, ejerza sobre sus hijas e hijos, con el objeto de obstaculizar o destruir sus vínculos con alguno de ellos, se le llamará manipulación y aleccionamiento parental; derivadas de la utilización de las y los menores en el conflicto parental.
+En el caso de depósito de menores, deberá decretarse oficiosamente la convivencia provisional con el progenitor no custodio, con base en el interés superior del menor y el derecho de convivencia con ambos padres, a fin de salvaguardar el sano desarrollo de la personalidad de los menores, salvo que exista alguna causa justificada, probada plenamente, que impida la convivencia al poner en peligro a éstos.
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+A la conducta que uno o ambos padres, en proceso de separación o separados, ejerza sobre sus hijas e hijos, con el objeto de obstaculizar o destruir sus vínculos con alguno de ellos, se le llamará manipulación y aleccionamiento parental, derivadas de la utilización de las y los menores en el conflicto parental.
 
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -16406,3 +16410,11 @@ G.O. 29 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 923 QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 345 Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 346 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ADICIONA TRES PÁRRAFOS AL ARTÍCULO 218 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA LA FRACCIÓN V, Y RECORRE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 299 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 345 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
