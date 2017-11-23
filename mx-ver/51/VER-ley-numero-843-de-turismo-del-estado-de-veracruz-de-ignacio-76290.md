@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2017-01-31"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -220,6 +220,10 @@ XIV. Coadyuvar con la Secretaría de Desarrollo Económico y Portuario en las ac
 XV. Establecer acciones con la Secretaría de Educación y convenios con instituciones académicas, con el objeto de fortalecer, promover y fomentar la investigación, educación y la cultura turística, así como para el diseño y ejecución de proyectos de investigación que permitan el desarrollo turístico sustentable;
 
 XVI. Participar en programas de acción y atención a la seguridad pública y prevención de emergencias y desastres;
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Bis. Establecer acciones de coordinación con la Secretaría de Seguridad Pública, con la finalidad de fortalecer y promover los programas y protocolos de atención y protección a turistas;
 
 XVII. Brindar, en el ámbito de su competencia, orientación y asistencia al visitante, así como atender las quejas que éstos presenten;
 
@@ -495,9 +499,9 @@ II. Identificar los atractivos o productos específicos que puedan vincular la r
 
 III. Coadyuvar con la Secretaría en el desarrollo de nuevas rutas, circuitos y productos turísticos para su comercialización;
 
-IV Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz; y
+IV. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz; y
 
-V Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
+V. Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
@@ -677,7 +681,7 @@ Para determinar el Índice de Vocación Turística de los municipios, se evaluar
 
 I. Atracción turística: Los elementos existentes en el municipio que motivan el viaje y atraen visitantes, así como su estado de conservación. Este término se utiliza preferentemente para enumerar los espacios naturales, culturales e históricos que sean parte de la oferta turística;
 
-II Servicios turísticos: Se refiere a las actividades que buscan satisfacer las necesidades del turista. Se prestan a través de hoteles, moteles, albergues, cabañas, hostales, agencias de viaje, operadores turísticos, restaurantes, cafeterías, bares, guías de turistas, entre otros. También contempla el análisis de la demanda de estos servicios en cada municipio;
+II. Servicios turísticos: Se refiere a las actividades que buscan satisfacer las necesidades del turista. Se prestan a través de hoteles, moteles, albergues, cabañas, hostales, agencias de viaje, operadores turísticos, restaurantes, cafeterías, bares, guías de turistas, entre otros. También contempla el análisis de la demanda de estos servicios en cada municipio;
 
 III. Infraestructura: Prevé los elementos básicos para el desarrollo del turismo, como toda construcción, instalación, vías de comunicación, aeropuertos, gasolineras, hospitales, talleres mecánicos, centros de convenciones, terminales de servicios para viajeros, bancos, cajeros automáticos, servicios financieros; y
 
@@ -765,7 +769,7 @@ IV. Región Turística Primeros Pasos de Cortés: Que comprende Veracruz, Boca d
 
 V. Región Turística Altas Montañas: Compuesta por los municipios de Orizaba, Fortín, Coscomatepec, Huatusco, Córdoba, Yanga, Zongolica, Río Blanco, Tlaltetela, Tezonapa, Tlilapan, Ixhuatlancillo, Omealca, Amatlán de los Reyes, Cuichapa, Cuitláhuac, Tlaquilpa, Ixtaczoquitlán, Xoxocotla, Tenampa, Totutla, Sochiapa, Tlacotepec de Mejía, Comapa, Aquila, Maltrata, Acultzingo, Soledad Atzompa, Mixtla de Altamirano, Tehuipango, Astacinga, Zentla, Tepatlaxco, Ixhuatlán del Café, Tomatlán, Chocamán, Alpatláhuac, Atlahuilco, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Calcahualco, La Perla, Atzacan, Mariano Escobedo, Atoyac, Magdalena, Tequila, Los Reyes, San Andrés Tenejapan, Texhuacan, Coetzala, Naranjal, Nogales, Paso del Macho, Camarón de Tejeda, Carrillo Puerto y Rafael Delgado;
 
-VI. Región Turística Los Tuxtlas: Que incluye los municipios de Catemaco, Santiago Tuxtla, San Andrés Tuxtla, Ángel R. Cabada, José Azueta, Lerdo de Tejada, Isla, Playa Vicente, Juan Rodríguez Clara, Santiago Sochiapan y Hueyapan de Ocampo;y
+VI. Región Turística Los Tuxtlas: Que incluye los municipios de Catemaco, Santiago Tuxtla, San Andrés Tuxtla, Ángel R. Cabada, José Azueta, Lerdo de Tejada, Isla, Playa Vicente, Juan Rodríguez Clara, Santiago Sochiapan y Hueyapan de Ocampo; y
 
 VII. Región Turística Olmeca: Integrada por Acayucan, Minatitlán, Coatzacoalcos, Las Choapas, Oluta, Agua Dulce, Mecayapan, Soconusco, Sayula de Alemán, Tatahuicapan de Juárez, Soteapan, San Juan Evangelista, Hidalgotitlán, Moloacán, Jesús Carranza, Uxpanapa, Pajapan, Ixhuatlán del Sureste, Nanchital de Lázaro Cárdenas del Río, Cosoleacaque, Chinameca, Texistepec, Jáltipan, Zaragoza y Oteapan.
 
@@ -1235,6 +1239,14 @@ II. Intervenir, a petición de las partes, en la conciliación de intereses entr
 
 III. Servir como órgano de enlace con el consulado respectivo para apoyo al visitante, cuando se trate de quejas presentadas en el extranjero, siempre y cuando esta facultad no contravenga las leyes federales.
 
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 108 Bis.
+
+La Secretaría contará con un grupo de auxilio turístico de primer contacto que ofrezca servicios de información, orientación, asesoría, asistencia médica inicial, asistencia mecánica, auxilio y apoyo a turistas, que operará durante la celebración de eventos de mayor afluencia turística en el Estado.
+
+Al efecto, la Secretaría podrá celebrar convenios de coordinación con los municipios correspondientes y con los prestadores de servicios turísticos, a fin de dotar de mayores recursos al grupo de auxilio.
+
 ### CAPÍTULO III. De las sanciones y del recurso de revisión
 
 ###### Artículo 109.
@@ -1398,5 +1410,13 @@ G.O. 31 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 QUE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4, Y LA FRACCIÓN XLI BIS AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 306 QUE ADICIONA UNA FRACCIÓN XVI BIS AL ARTÍCULO 5, Y EL ARTÍCULO 108 BIS A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
