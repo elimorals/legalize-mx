@@ -4,7 +4,7 @@ identifier: "MOR-decreto-no-991-por-el-que-se-autoriza-al-gobierno-del-145932"
 country: "mx"
 rank: "decreto"
 publication_date: "2016-07-21"
-last_updated: "2016-08-10"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 DECRETO NÚMERO NOVECIENTOS NOVENTA Y UNO POR EL QUE SE AUTORIZA AL GOBIERNO DEL ESTADO DE MORELOS, A TRAVÉS DEL PODER EJECUTIVO ESTATAL, A GESTIONAR Y CONTRATAR UN FINANCIAMIENTO O EMPRÉSTITO CON CUALQUIER INSTITUCIÓN DE CRÉDITO O INTEGRANTE DEL SISTEMA FINANCIERO MEXICANO; A AFECTAR COMO FUENTE DE PAGO DEL MISMO LAS PARTICIPACIONES PRESENTES Y FUTURAS QUE EN INGRESOS FEDERALES LE CORRESPONDAN; ASÍ COMO A CONSTITUIR O MODIFICAR UN FIDEICOMISO IRREVOCABLE DE ADMINISTRACIÓN Y FUENTE DE PAGO QUE FUNJA COMO MECANISMO DE PAGO DEL FINANCIAMIENTO O EMPRÉSTITO QUE SE CONTRATE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE AGOSTO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Decreto publicado en el Periódico Oficial del Estado de Morelos, el jueves 21 de julio de 2016.
 
@@ -61,17 +59,19 @@ II. Autorizar al Gobierno del estado de Morelos, a través del Poder Ejecutivo E
 
 III. Autorizar al Gobierno del estado de Morelos, a través del Poder Ejecutivo Estatal y por conducto de su Secretaría de Hacienda, para que constituya o modifique y utilice un fideicomiso de administración y fuente de pago que funja como mecanismo de pago del financiamiento o empréstito que se contrate en términos de este Decreto.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Se autoriza al Gobierno del estado de Morelos, a través del Poder Ejecutivo Estatal y por conducto de su Secretaría de Hacienda, para contratar un financiamiento o empréstito con cualquier institución de crédito o integrante del sistema financiero mexicano, que ofrezca las mejores condiciones de mercado, hasta por la cantidad de $540’000,000.00 (QUINIENTOS CUARENTA MILLONES DE PESOS 00/100 M.N.), más los accesorios financieros, impuestos, comisiones, la constitución o reconstitución de fondos de reserva, garantías e instrumentos de coberturas de tasas.
+Se autoriza al Gobierno del Estado de Morelos, a través del Poder Ejecutivo Estatal y por conducto de su Secretaría de Hacienda, para contratar un financiamiento o empréstito con cualquier institución de crédito o integrante del sistema financiero mexicano, que ofrezca las mejores condiciones de mercado, hasta por la cantidad de $540'000,000.00 (QUINIENTOS CUARENTA MILLONES DE PESOS 00/100 M.N.), más los accesorios financieros, impuestos, comisiones, la constitución o reconstitución de fondos de reserva, garantías e instrumentos de coberturas de tasas.
 
-Los recursos que se obtengan mediante la contratación del financiamiento o empréstito autorizado, en términos de los artículos 117, fracción VIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 2, fracción XXV, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y 3, fracción XXI, de la Ley de Deuda Pública para el Estado de Morelos, se destinarán precisa y exclusivamente a inversiones públicas productivas, consistentes en infraestructura urbana en materia de servicios públicos de movilidad y transporte para la zona metropolitana de Cuernavaca, Morelos.
+Los recursos que se obtengan mediante la contratación del financiamiento o empréstito autorizado, en términos de los artículos 117, fracción VIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 2, fracción XXV, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y 2, fracción XXIII, de la Ley de Deuda Pública para el Estado de Morelos, se destinarán precisa y exclusivamente a inversiones públicas productivas, en los siguientes rubros de inversión: agua potable, drenaje y saneamiento; carreteras, caminos y vías de comunicación; infraestructura y equipamiento educativo, deportivo y cultural; infraestructura y equipamiento en salud; urbanización y desarrollo de espacios públicos; adquisición de terrenos, infraestructura y equipamiento para la prestación de servicios públicos y gubernamentales; y electrificación y alumbrado público.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO CUARTO.
 
-El financiamiento o empréstito autorizado mediante el presente Decreto deberá contratarse durante los ejercicios fiscales 2016 o 2017, y amortizarse en su totalidad en un plazo de hasta 25 años, contado a partir de que se ejerza la única o primera disposición del mismo, en el entendido de que los demás plazos, así como los intereses, comisiones y demás términos y condiciones serán los que se establezcan en el contrato que al efecto se celebre.
-
-Sin perjuicio de lo anterior, el contrato mediante el cual se formalice el financiamiento o empréstito con base en la presente autorización, estará vigente mientras existan obligaciones a cargo del Gobierno del estado de Morelos en calidad de acreditado y a favor de la Institución acreditante.
+El financiamiento o empréstito autorizado mediante el presente Decreto deberá contratarse durante los ejercicios fiscales 2017 o 2018, y amortizarse en su totalidad en un plazo de hasta 25 años, contado a partir de que se ejerza la única o primera disposición del mismo, en el entendido de que los demás plazos, así como los intereses, comisiones y demás términos y condiciones serán los que se establezcan en el contrato que al efecto se celebre. Sin perjuicio de lo anterior, el contrato mediante el cual se formalice el financiamiento o empréstito con base en la presente autorización, estará vigente mientras existan obligaciones a cargo del Gobierno del Estado de Morelos en calidad de acreditado y a favor de la Institución acreditante.
 
 ###### ARTÍCULO QUINTO.
 
@@ -134,3 +134,25 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO DEL DIVERSO NÚMERO NOVECIENTOS NOVENTA Y UNO POR EL QUE SE AUTORIZA AL GOBIERNO DEL ESTADO DE MORELOS, A TRAVÉS DEL PODER EJECUTIVO ESTATAL, A GESTIONAR Y CONTRATAR UN FINANCIAMIENTO O EMPRÉSTITO CON CUALQUIER INSTITUCIÓN DE CRÉDITO O INTEGRANTE DEL SISTEMA FINANCIERO MEXICANO; A AFECTAR COMO FUENTE PAGO DEL MISMO LAS PARTICIPACIONES PRESENTES Y FUTURAS QUE EN INGRESOS FEDERALES LE CORRESPONDAN; ASÍ COMO A CONSTITUIR O MODIFICAR UN FIDEICOMISO IRREVOCABLE DE ADMINISTRACIÓN Y FUENTE PAGO QUE FUNJA COMO MECANISMO DE PAGO DEL FINANCIAMIENTO O EMPRÉSTITO QUE SE CONTRATE, PUBLICADO EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD”, NÚMERO 5415, DE 21 DE JULIO DE 2016”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. El presente Decreto de reforma y la autorización consecuente, se expiden sin perjuicio de las erogaciones aprobadas y ejecutadas por el Estado con base en los términos autorizados en el “Decreto número Novecientos Noventa y Uno por el que se autoriza al Gobierno del estado de Morelos, a través del Poder Ejecutivo Estatal, a gestionar y contratar un financiamiento o empréstito con cualquier institución de crédito o integrante del sistema financiero mexicano; a afectar como fuente de pago del mismo las participaciones presentes y futuras que en ingresos federales le correspondan; así como a constituir o modificar un fideicomiso irrevocable de administración y fuente de pago que funja como mecanismo de pago del financiamiento o empréstito que se contrate”, publicado en el Periódico Oficial “Tierra y Libertad”, número 5415, de 21 de julio de 2016.
+
+Las obligaciones financieras y afectaciones que deriven de contratos de crédito que hayan sido celebrados previo a la expedición del presente Decreto, seguirán siendo existentes, válidas y exigibles para los efectos conducentes hasta su total liquidación.
+
+QUINTA. Los procesos competitivos celebrados por el Estado para la contratación de los créditos que, en términos de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios, hubiere realizado el Poder Ejecutivo Estatal, a través de la Secretaría de Hacienda, previo a la expedición del presente Decreto, no se verán afectados en su existencia o validez con la vigencia de aquél.
+
+No obstante, en caso de que alguno de los contratos de crédito no pueda ser ejercido de acuerdo al presente Decreto de reforma, se autoriza al Poder Ejecutivo del Gobierno del Estado, a través de su Secretaría de Hacienda, a realizar las gestiones necesarias para la cancelación de dichos créditos, reponiendo los procesos competitivos hasta por aquellos montos plasmados en los contratos que cancelen.
+
+SEXTA. Se autoriza al Titular del Poder Ejecutivo Estatal para que, en virtud de las atribuciones conferidas en el “Decreto número mil trescientos setenta y tres.- por el que se crea a la Entidad Paraestatal denominada ‘Sistema Integrado de Transporte Masivo’; y se autoriza al Titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación”, realice las acciones conducentes para suspender o postergar el inicio de vigencia u operatividad de dicho organismo auxiliar, hasta en tanto se cuente con la disponibilidad presupuestaria para ello. Para lo anterior, deberá tomar las previsiones respectivas por cuanto al “Decreto por el que se determina la naturaleza jurídica como Organismo Público Descentralizado, y demás particularidades para la operación, de la Entidad Paraestatal denominada ‘Sistema Integrado de Transporte Masivo’”.
