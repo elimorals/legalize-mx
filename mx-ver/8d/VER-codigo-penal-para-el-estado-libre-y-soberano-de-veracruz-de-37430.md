@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-08-15"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1685,7 +1687,7 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ### CAPÍTULO I. PEDERASTIA
 
-> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 186.
 
@@ -1765,33 +1767,25 @@ Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a 
 
 Los delitos de acoso y hostigamiento sexual se perseguirán por querella.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-## TÍTULO V BIS. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
+## TÍTULO V BIS. DELITOS CONTRA EL LIBRE Y SANO DESARROLLO DE LA PERSONALIDAD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO III BIS. ABUSO SEXUAL DE MENORES DE EDAD Y DE PERSONAS INCAPACES
 
-> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-Artículo 190 Undecies. A los partícipes de estos delitos que tengan una relación de parentesco consanguíneo, por afinidad o civil con niñas, niños, adolescentes o incapaces víctimas de estos delitos, o a quienes ejerzan autoridad sobre éstos o habiten en el mismo domicilio, aun cuando no tengan parentesco, se les impondrán de diez a veinte años de prisión, multa hasta de setecientos días de salario e inhabilitación para el ejercicio de los derechos de patria potestad, tutela, curatela o custodia y, en su caso, se les privará de todo derecho sobre los bienes del ofendido.
+Artículo 190 Undecies. A quien sin llegar a la cópula o a la introducción vaginal, anal u oral, abuse sexualmente de un niño, niña o adolescente o lo obligue, induzca o convenza a ejecutar cualquier acto sexual, de manera pública o privada, se le impondrán de seis a doce años de prisión y multa hasta de dos mil Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+Para los efectos de este artículo, se entiende por acto sexual, los tocamientos corporales voluntarios, así como la exhibición de los órganos genitales, ambas conductas con finalidades lascivas.
 
-Artículo 190 Duodecies. Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia.
-
-> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
-
-Artículo 190 Terdecies. Si el sujeto activo se valiere de su función pública, profesión u oficio, además de las penas previstas, se le suspenderá del ejercicio de éstos y, en su caso, se le destituirá e inhabilitará para desempeñar empleo, cargo o comisión públicos, por un tiempo de tres a diez años.
-
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 190 Quater.
 
-A quien, con consentimiento o sin él, introduzca el pene por la vía vaginal, anal u oral, o por la vía vaginal o anal cualquier otro artefacto u otra parte del cuerpo distinta del pene, a una niña, niño o adolescente, se le impondrán de seis a treinta años de prisión y multa de hasta tres mil días de salario.
-
-A quien sin llegar a la cópula o a la introducción vaginal, anal u oral, abuse sexualmente de un niño, niña o adolescente, o lo obligue, induzca o convenza a ejecutar cualquier acto sexual, de manera pública o privada, se le impondrán de cinco a diez años de prisión y multa de hasta doscientos cincuenta días de salario.
+A quien, con consentimiento o sin él, introduzca el pene por la vía vaginal, anal u oral, o por la vía vaginal o anal cualquier otro artefacto u otra parte del cuerpo distinta del pene, a una niña, niño o adolescente, se le impondrán de seis a treinta años de prisión y multa de hasta tres mil unidades de medida y actualización.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1823,7 +1817,21 @@ El responsable perderá, en su caso, la patria potestad o la tutela de la vícti
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO I. DIFAMACIÓN
+### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 190 Duodecies. A los partícipes de estos delitos que tengan una relación de parentesco consanguíneo, por afinidad o civil con niñas, niños, adolescentes o incapaces víctimas de estos delitos, o a quienes ejerzan autoridad sobre éstos o habiten en el mismo domicilio, aun cuando no tengan parentesco, se les impondrán de diez a veinte años de prisión, multa hasta de setecientas Unidades de Medida y Actualización e inhabilitación para el ejercicio de los derechos de patria potestad, tutela, curatela o custodia y, en su caso, se les privará de todo derecho sobre los bienes del derecho.
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 190 Terdecies. Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia.
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 190 Quaterdecies. Si el sujeto activo se valiere de su función pública, profesión u oficio, además de las penas previstas, se le suspenderá del ejercicio de éstos y, en su caso, se le destituirá e inhabilitará para desempeñar empleo, cargo o comisión públicos, por un tiempo de tres a diez años.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 190 Sexies.
 
@@ -1857,7 +1865,7 @@ A quien tenga bajo su responsabilidad directa permitir el acceso a salas en que 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO II. CALUMNIA
+### CAPÍTULO I. DIFAMACIÓN
 
 ###### Artículo 190 Decies.
 
@@ -1879,23 +1887,21 @@ VI. A quien almacene, compre o arriende el material pornográfico a que se refie
 
 No constituye pornografía el empleo de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual o reproductiva, la prevención de infecciones de transmisión sexual o del embarazo de adolescentes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. CALUMNIA
 
 ### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA LA DIGNIDAD
-
-### CAPÍTULO I. ROBO
 
 ## TÍTULO VI. DELITOS CONTRA LA DIGNIDAD
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO II. ABIGEATO
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
+### CAPÍTULO I. ROBO
 
 ###### Artículo 191.
 
@@ -1907,7 +1913,9 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
+### CAPÍTULO II. ABIGEATO
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 193.
 
@@ -1921,13 +1929,11 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
-### CAPÍTULO IV. RETENCIÓN INDEBIDA DE COSA MUEBLE
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+### CAPÍTULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 196.
 
-Se impondrán de uno a dos años de prisión y hasta cien días de trabajo a favor de la comunidad a quien, por razón de edad, sexo, género, embarazo, estado civil, origen étnico o nacional, lengua, religión, ideología, modificaciones corporales, preferencia sexual, color de la piel, condición social o económica trabajo, profesión, características físicas, discapacidad o condición de salud; o cualquier otra causa que atente contra la dignidad humana:
+Se impondrán de uno a tres años de prisión, hasta cien días de trabajo a favor de la comunidad y hasta ciento cincuenta Unidades de Medida y Actualización de multa al que, por razones de edad, sexo, género, embarazo, estado civil, origen étnico o nacional, lengua, religión, ideología, modificaciones corporales, preferencia sexual, orientación sexual, identidad de género o expresión de género de la víctima, vinculación, pertenencia, o relación con un grupo social definido, color de piel, condición social o económica, trabajo, profesión, características físicas, discapacidad o condición de salud, o cualquier otra causa que atente contra la dignidad humana, realice cualquiera de las siguientes conductas:
 
 > <small>(REFORMADA, G.O. 10 DE JULIO DE 2008)</small>
 
@@ -1943,6 +1949,10 @@ III. Veje o excluya a alguna persona o grupo de personas; o
 
 IV. Niegue o restrinja derechos laborales.
 
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V. Niegue, retrase, restrinja o abandone un servicio de salud, sin causa justificada y poniendo en riesgo la vida.
+
 Al servidor público que en ejercicio de su función, incurra en alguna de las conductas previstas en este artículo o niegue o retrase a una persona un trámite o servicio al que tenga derecho, además de las sanciones previstas, se le impondrán destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de la prisión impuesta.
 
 > <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2010)</small>
@@ -1951,7 +1961,9 @@ Este delito se perseguirá por querella.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO V. FRAUDE
+### CAPÍTULO IV. RETENCIÓN INDEBIDA DE COSA MUEBLE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 197.
 
@@ -1975,7 +1987,7 @@ Este delito se perseguirá por querella.
 
 ## TÍTULO VII. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO VI. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO V. FRAUDE
 
 ###### Artículo 202.
 
@@ -2031,9 +2043,9 @@ b) Se ejecute con violencia física o moral en las personas o en las cosas, o bi
 
 c) Se cometa en lugar cerrado, habitado o destinado para habitación o sus dependencias.
 
-> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-III. De cinco a ocho años de prisión y multa hasta de doscientos días de salario mínimo, cuando;
+III. De seis a ocho años de prisión y multa hasta de doscientas Unidades de Medida y Actualización, cuando:
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
 
@@ -2049,7 +2061,7 @@ c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de ta
 
 > <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2017)</small>
 
-D) Cuando se cometa por elementos de los cuerpos policiacos o de procuración de justicia durante un incendio, naufragio, inundación, cualquier fenómeno climatológico u otra calamidad pública, aprovechándose del desorden y confusión que producen o de la consternación que una desgracia privada causa al ofendido y a su familia.
+d) Cuando se cometa por elementos de los cuerpos policiacos o de procuración de justicia durante un incendio, naufragio, inundación, cualquier fenómeno climatológico u otra calamidad pública, aprovechándose del desorden y confusión que producen o de la consternación que una desgracia privada causa al ofendido y a su familia.
 
 > <small>(REFORMADO, G.O. 20 DE ABRIL DE 2015)</small>
 
@@ -2121,9 +2133,7 @@ A quien proporcione recursos, de cualquier naturaleza, para llevar a cabo las ac
 
 Si en los actos de referencia interviene algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción de conductas o de ejecución de sus consecuencias jurídicas, además de las penas mencionadas en este artículo, se le aumentará la privativa de libertad que le correspondiere hasta en una mitad, se le destituirá e inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos hasta por el doble del tiempo de la pena de prisión que le fuere impuesta.
 
-### CAPÍTULO VII
-
-INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
+### CAPÍTULO VI. ADMINISTRACIÓN FRAUDULENTA
 
 ###### Artículo 210.
 
@@ -2189,9 +2199,9 @@ IV. Contramarque o contraseñale animales ajenos en cualquier parte, sin derecho
 
 V. Expida certificados falsos para obtener guías simulando ventas; haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello; o use documentos falsificados para cualquier negociación sobre ganados o cueros.
 
-### CAPÍTULO VIII. EXTORSIÓN
+### CAPÍTULO VII
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
+INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 ###### Artículo 213.
 
@@ -2219,7 +2229,9 @@ IV. Sea gerente, directivo, administrador, mandatario o intermediario de persona
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO IX. USURA
+### CAPÍTULO VIII. EXTORSIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 215.
 
@@ -2227,7 +2239,7 @@ Se sancionará con prisión de dos a cinco años y multa hasta de quinientos dí
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO X. DESPOJO
+### CAPÍTULO IX. USURA
 
 ###### Artículo 216.
 
@@ -2279,7 +2291,7 @@ XII. Venda o intercambie por algún otro bien, vales de papel o cualquier dispos
 
 XIII. Haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
 
-### CAPÍTULO XI. DAÑOS
+### CAPÍTULO X. DESPOJO
 
 ###### Artículo 218.
 
@@ -2293,15 +2305,15 @@ III. Oculte o retenga valores, o los emplee indebidamente.
 
 Este delito se sancionará de la misma forma que el fraude genérico, atendiendo al beneficio obtenido o al perjuicio causado, conforme a la cantidad que resulte más elevada.
 
-### CAPÍTULO XI BIS. GRAFITI ILEGAL
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+### CAPÍTULO XI. DAÑOS
 
 ###### Artículo 219.
 
 A quien, artificiosamente, se coloque en estado de insolvencia, con el objeto de eludir las obligaciones que tenga frente a sus acreedores, se le impondrán las sanciones previstas para el delito de fraude, conforme al valor de las obligaciones incumplidas.
 
-### CAPÍTULO XII. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO XI BIS. GRAFITI ILEGAL
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 220.
 
@@ -2317,7 +2329,7 @@ Las penas se duplicarán si la extorsión se comete por un servidor público, a 
 
 Al responsable de tentativa en la conducta señalada en el artículo anterior, se le aplicará la misma sanción.
 
-### CAPÍTULO XIII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO XII. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### Artículo 221.
 
@@ -2335,9 +2347,7 @@ A los dirigentes, administradores y mandatarios de personas morales que ordenen,
 
 La sanción privativa de libertad se reducirá en una tercera parte si, antes de que se dicte sentencia ejecutoriada, se devolviere a la víctima la cantidad lucrada ilícitamente con el pago de los intereses legales correspondientes.
 
-### CAPÍTULO XIV. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
-
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+### CAPÍTULO XIII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### Artículo 222.
 
@@ -2373,7 +2383,9 @@ Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate
 
 Si la invasión y ocupación consecuente no se ejecutan con violencia y el o los ocupantes restituyen voluntariamente al poseedor en el goce de sus derechos, antes de que el Ministerio Público ejerza la acción penal persecutoria, no se impondrá sanción alguna.
 
-### CAPÍTULO I. VIOLENCIA FAMILIAR
+### CAPÍTULO XIV. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 226.
 
@@ -2395,17 +2407,15 @@ La prisión podrá aumentarse hasta diez años y la multa hasta trescientos día
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-### CAPÍTULO II. INCUMPLIMIENTO DE LA OBLIGACIÓN DE DAR ALIMENTOS Y ABANDONO DE FAMILIARES
-
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+### CAPÍTULO I. VIOLENCIA FAMILIAR
 
 ###### Artículo 228 Bis.
 
 A quien, sin importar el material ni los instrumentos utilizados, pinte, tiña, grabe o imprima palabras, dibujos, símbolos, manchas o figuras a un bien mueble o inmueble, sin consentimiento de quien pueda darlo conforme a la ley, se le impondrán de tres meses a ocho años de prisión, multa hasta de trescientos días de salario y trabajo en favor de la comunidad y de la víctima u ofendido.
 
-### CAPÍTULO III. SUSTRACCIÓN O RETENCIÓN DE MENORES O INCAPACES
+### CAPÍTULO II. INCUMPLIMIENTO DE LA OBLIGACIÓN DE DAR ALIMENTOS Y ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO, G.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 229.
 
@@ -2415,7 +2425,9 @@ A quien, después de la ejecución del delito y sin haber participado en él, ad
 
 Si el delito se comete por elementos de los cuerpos policiacos o de procuración de justicia, la prisión será de cinco a diez años, además de la inhabilitación hasta por quince años para ejercer la función pública.
 
-### CAPÍTULO IV. TRÁFICO DE MENORES
+### CAPÍTULO III. SUSTRACCIÓN O RETENCIÓN DE MENORES O INCAPACES
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 230.
 
@@ -2423,7 +2435,7 @@ Se impondrán de cinco a quince años de prisión y multa hasta de mil días de 
 
 Cuando el agente activo sea servidor público las sanciones anteriores serán aumentadas hasta en una mitad y se le destituirá e inhabilitará para desempeñar empleo, cargo o comisión públicos por otro tiempo igual al de la pena de prisión impuesta.
 
-### CAPÍTULO V. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
+### CAPÍTULO IV. TRÁFICO DE MENORES
 
 ###### Artículo 231.
 
@@ -2445,13 +2457,13 @@ Si el juez lo considera conveniente, además de las penas previstas para cada un
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO VI. BIGAMIA
+### CAPÍTULO V. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
-### CAPÍTULO VII. MATRIMONIOS ILEGALES
+### CAPÍTULO VI. BIGAMIA
 
 ## TÍTULO IX. DELITOS DE MALTRATO E INDUCCIÓN A LA MENDICIDAD
 
-### CAPÍTULO VIII. INCESTO
+### CAPÍTULO VII. MATRIMONIOS ILEGALES
 
 ###### Artículo 233.
 
@@ -2465,9 +2477,7 @@ Si el juez lo considera conveniente, además de las penas previstas para cada un
 
 (DEROGADO, G.O. 2 DE ABRIL DE 2010)
 
-### CAPÍTULO I. MALTRATO
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2016)</small>
+### CAPÍTULO VIII. INCESTO
 
 ###### Artículo 236.
 
@@ -2497,9 +2507,9 @@ Para que el perdón concedido por el agraviado o por su representante legítimo 
 
 No procederá el perdón para quien habiéndolo obtenido sea procesado nuevamente por el mismo delito.
 
-### CAPÍTULO I BIS. MALTRATO INFANTIL
+### CAPÍTULO I. MALTRATO
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2016)</small>
 
 ###### Artículo 241.
 
@@ -2509,7 +2519,9 @@ A quien le una parentesco con persona menor de dieciocho años de edad o incapaz
 
 Si el agente activo devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
 
-### CAPÍTULO II. INDUCCIÓN A LA MENDICIDAD
+### CAPÍTULO I BIS. MALTRATO INFANTIL
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2016)</small>
 
 ###### Artículo 243.
 
@@ -2533,7 +2545,7 @@ Cuando en la comisión del delito no haya existido el consentimiento a que se al
 
 A quienes ejerciendo el derecho de patria potestad, tutela o custodia, cometan el delito en cualquiera de los casos indicados, se les impondrá, además, la privación de este derecho, así como de los derechos de familia en relación con el sujeto pasivo.
 
-### CAPÍTULO I. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPÍTULO II. INDUCCIÓN A LA MENDICIDAD
 
 ###### Artículo 245.
 
@@ -2549,7 +2561,7 @@ IV. Usurpe el estado civil o la filiación de otro con el fin de adquirir derech
 
 V. Inscriba o haga inscribir un divorcio o la nulidad de un matrimonio, no declarados por sentencia ejecutoriada.
 
-### CAPÍTULO II. DELITOS COMETIDOS POR MÉDICOS, AUXILIARES Y OTROS RELACIONADOS CON LA PRÁCTICA DE LA MEDICINA
+### CAPÍTULO I. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### Artículo 246.
 
@@ -2557,7 +2569,7 @@ Se impondrán de seis meses a cinco años de prisión y multa de veinte a ochent
 
 Las mismas sanciones se impondrán al otro contrayente, al encargado del registro civil, a los testigos y a quienes, en su caso, ejerzan la patria potestad o la tutela y hayan autorizado u otorgado su consentimiento, si conocían el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPÍTULO III. DELITOS COMETIDOS POR OTROS PROFESIONALES Y TÉCNICOS
+### CAPÍTULO II. DELITOS COMETIDOS POR MÉDICOS, AUXILIARES Y OTROS RELACIONADOS CON LA PRÁCTICA DE LA MEDICINA
 
 ###### Artículo 247.
 
@@ -2565,7 +2577,7 @@ A quien contraiga matrimonio a sabiendas de la existencia de un impedimento no d
 
 Las mismas sanciones se impondrán al encargado del registro civil, a los testigos y a quienes ejerzan la patria potestad o la tutela, que hayan autorizado, declarado u otorgado su consentimiento, conociendo el impedimento.
 
-### CAPÍTULO IV. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN
+### CAPÍTULO III. DELITOS COMETIDOS POR OTROS PROFESIONALES Y TÉCNICOS
 
 ###### Artículo 248.
 
@@ -2575,7 +2587,7 @@ Se aplicarán las mismas sanciones en caso de que la cópula sea entre hermanos.
 
 ## TÍTULO X. DELITOS COMETIDOS EN EL EJERCICIO DE UNA ACTIVIDAD PROFESIONAL O TÉCNICA
 
-### CAPÍTULO I. DELITOS AMBIENTALES
+### CAPÍTULO IV. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN
 
 ###### Artículo 249.
 
@@ -2583,15 +2595,15 @@ A quien reiteradamente haga uso de la fuerza física o moral contra una persona 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE ENERO DE 2016)</small>
 
-### CAPÍTULO I BIS. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES
-
-> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2014)</small>
+### CAPÍTULO I. DELITOS AMBIENTALES
 
 ###### Artículo 249 Bis.
 
 A quien prive de sus derechos y su bienestar a persona menor de edad o le inflija deterioro a su integridad física o psicológica, se le impondrán de tres a siete años de prisión y multa de hasta quinientos días.
 
-### CAPÍTULO II. ESTRAGOS
+### CAPÍTULO I BIS. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES
+
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2014)</small>
 
 ###### Artículo 250.
 
@@ -2599,7 +2611,7 @@ A quien prive de sus derechos y su bienestar a persona menor de edad o le inflij
 
 ## TÍTULO XI. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPÍTULO III. INCITACIÓN A COMETER UN DELITO Y APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
+### CAPÍTULO II. ESTRAGOS
 
 ###### Artículo 251.
 
@@ -2625,7 +2637,7 @@ VIII. A sabiendas ejercite acción u oponga excepciones ante cualquier autoridad
 
 Al defensor de oficio que incurra en alguna de las conductas previstas en el artículo anterior, además de las penas señaladas, se le impondrán destitución e inhabilitación para ejercer otro empleo, cargo o comisión públicos hasta por dos años.
 
-### CAPÍTULO I. CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
+### CAPÍTULO III. INCITACIÓN A COMETER UN DELITO Y APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
 
 ###### Artículo 253.
 
@@ -2663,15 +2675,13 @@ Se impondrán de tres meses a dos años de prisión y multa hasta de cien días 
 
 Si el daño en la salud se realiza, se impondrán además las sanciones que correspondan a este delito, aplicando en su caso las reglas del concurso.
 
-### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO I. CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
 
 ###### Artículo 257.
 
 Quienes ejerzan una profesión o actividad técnica, distinta a las previstas en los capítulos precedentes de este Título, serán responsables por los daños que causen con motivo de sus actividades y, además de las sanciones que correspondan por los delitos cometidos, se les impondrá suspensión de tres meses a dos años para ejercer la profesión o actividad técnica de que se trate.
 
-### CAPÍTULO III. CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### Artículo 258.
 
@@ -2703,7 +2713,9 @@ Se impondrán de dos a cuatro años de prisión y multa de cien a quinientas vec
 
 ## TÍTULO XII. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y DE LAS VÍAS DE COMUNICACIÓN
 
-### CAPÍTULO I. FALSIFICACIÓN DE LLAVES, SELLOS, MARCAS Y CONTRASEÑAS
+### CAPÍTULO III. CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 259.
 
@@ -2771,7 +2783,7 @@ Al servidor público que, aprovechándose de sus funciones, intervenga en la com
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE JULIO DE 2014)</small>
 
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS
+### CAPÍTULO I. FALSIFICACIÓN DE LLAVES, SELLOS, MARCAS Y CONTRASEÑAS
 
 ###### Artículo 264 Bis.
 
@@ -2807,7 +2819,7 @@ Se entenderá por métodos de extrema crueldad, todos aquellos que ocasionen da�
 
 Al sujeto activo de los delitos considerados en este Capítulo, se le aplicarán medidas reeducativas, integrales, especializadas y gratuitas, con la finalidad de prevenir, atender, sancionar y erradicar el maltrato animal, en el lugar y por el tiempo que la autoridad jurisdiccional indique.
 
-### CAPÍTULO III. FALSIFICACIÓN DE TÍTULOS Y CONTRA LA FE PÚBLICA
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS
 
 ###### Artículo 265.
 
@@ -2827,7 +2839,7 @@ III. Si el delito tuviere como consecuencia la destrucción de un edificio habit
 
 Cuando los delitos señalados en el presente capítulo se cometan de manera culposa se sancionarán conforme a lo previsto para ello en este código.
 
-### CAPÍTULO IV. USO DE DOCUMENTO FALSO
+### CAPÍTULO III. FALSIFICACIÓN DE TÍTULOS Y CONTRA LA FE PÚBLICA
 
 ###### Artículo 268.
 
@@ -2835,7 +2847,7 @@ A quien públicamente incite a cometer un delito o haga apología de éste o de 
 
 ## TÍTULO XIII. DELITOS DE FALSEDAD
 
-### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA
+### CAPÍTULO IV. USO DE DOCUMENTO FALSO
 
 ###### Artículo 269.
 
@@ -2871,7 +2883,7 @@ Las penas también le serán aplicadas al conductor de la unidad vehicular con l
 
 La autoridad que conozca de un hecho que pudiere constituir el delito descrito debe de inmediato hacerlo del conocimiento del Agente del Ministerio Público que corresponda para el ejercicio de sus funciones.
 
-### CAPÍTULO II. CORRUPCIÓN DE MENORES O INCAPACES
+### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA
 
 ###### Artículo 273.
 
@@ -2889,7 +2901,7 @@ No se impondrá sanción a quienes, ejerciendo la patria potestad o la tutela, a
 
 Toda correspondencia que bajo cubierta circule por las estafetas estará protegida en términos de este capítulo.
 
-### CAPÍTULO III. PORNOGRAFÍA
+### CAPÍTULO II. CORRUPCIÓN DE MENORES O INCAPACES
 
 ###### Artículo 276.
 
@@ -2915,7 +2927,7 @@ Sólo la autoridad de Transporte en el Estado y sus delegaciones regionales podr
 
 ## TÍTULO XIV. DELITOS CONTRA LA MORAL PÚBLICA
 
-### CAPÍTULO IV. LENOCINIO Y TRATA DE PERSONAS
+### CAPÍTULO III. PORNOGRAFÍA
 
 ###### Artículo 278.
 
@@ -2929,7 +2941,7 @@ III. Enajene o, a sabiendas, haga uso de llaves, sellos, contraseñas, marcas, e
 
 IV. Al que procurándose los objetos verdaderos antes mencionados para utilizarlos directamente o duplicándolos, haga uso indebido de ellos.
 
-### CAPÍTULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO IV. LENOCINIO Y TRATA DE PERSONAS
 
 ###### Artículo 279.
 
@@ -2955,7 +2967,7 @@ IX. Siendo perito, altere de manera dolosa el contenido de un documento al tradu
 
 X. Imite, simule o altere de distinta manera a las anteriores, un documento verdadero.
 
-### CAPÍTULO I. VIOLACIÓN DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPÍTULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 280.
 
@@ -2987,17 +2999,17 @@ III. A quien para eximirse de una obligación impuesta por la ley utilice un cer
 
 Cuando alguno de los delitos previstos en este capítulo sea cometido por un servidor público, la pena de que se trate se aumentará hasta en una mitad, se le destituirá del empleo, cargo o comisión públicos e inhabilitará por otro tiempo igual al de la privativa de libertad.
 
-### CAPÍTULO II. CONTRA EL RESPETO A LOS MUERTOS
+### CAPÍTULO I. VIOLACIÓN DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### Artículo 283.
 
 A quien a sabiendas, en beneficio propio, de un tercero o para causar daño a otro, hiciere uso de un documento falso o alterado, se le impondrán de seis meses a cinco años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO I. CONSPIRACIÓN
+### CAPÍTULO II. CONTRA EL RESPETO A LOS MUERTOS
 
 ## TÍTULO XV. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO II. REBELIÓN
+### CAPÍTULO I. CONSPIRACIÓN
 
 ###### Artículo 284.
 
@@ -3005,7 +3017,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta d
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO III. SEDICIÓN
+### CAPÍTULO II. REBELIÓN
 
 ###### Artículo 285.
 
@@ -3029,7 +3041,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta d
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SEDICIÓN
 
 ###### Artículo 290.
 
@@ -3041,7 +3053,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta d
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO V. TERRORISMO
+### CAPÍTULO IV. MOTÍN
 
 ###### Artículo 292.
 
@@ -3053,7 +3065,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta d
 
 > <small>(DEROGADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO VI. SABOTAJE
+### CAPÍTULO V. TERRORISMO
 
 ###### Artículo 294.
 
@@ -3069,7 +3081,7 @@ Si el sujeto activo se valiere de su función pública, profesión u oficio, ade
 
 ## TÍTULO XVI. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO I. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PÚBLICO
+### CAPÍTULO VI. SABOTAJE
 
 ###### Artículo 297.
 
@@ -3081,7 +3093,7 @@ II. Exhume un cadáver o un feto o parte de ellos; o
 
 III. Sustraiga o esparza las cenizas de un cadáver o restos humanos.
 
-### CAPÍTULO II. ABUSO DE AUTORIDAD
+### CAPÍTULO I. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PÚBLICO
 
 ###### Artículo 298.
 
@@ -3095,9 +3107,7 @@ III. Viole o vilipendie el lugar donde repose un cadáver, restos humanos o sus 
 
 ## TÍTULO XVII. DELITOS CONTRA EL SERVICIO PÚBLICO
 
-### CAPÍTULO II BIS. DESAPARICIÓN FORZADA DE PERSONAS
-
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+### CAPÍTULO II. ABUSO DE AUTORIDAD
 
 ###### Artículo 299.
 
@@ -3111,7 +3121,9 @@ La pena privativa de libertad se aumentará en una mitad para quienes organizan,
 
 A quien contrate, organice, instruya, entrene o equipe a personas en tácticas, técnicas o procedimientos militares para el desarrollo de actividades terroristas, de escuadrones de la muerte o grupos de justicia privada, se le impondrán de siete a veinte años de prisión y multa hasta de seiscientos días de salario.
 
-### CAPÍTULO III. INCUMPLIMIENTO DEL DEBER LEGAL
+### CAPÍTULO II BIS. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
 
 ###### Artículo 301.
 
@@ -3169,7 +3181,7 @@ Los rebeldes no serán responsables de las muertes o de las lesiones inferidas e
 
 No se aplicará sanción a los rebeldes que depongan las armas antes de ser tomados prisioneros.
 
-### CAPÍTULO IV. COALICIÓN
+### CAPÍTULO III. INCUMPLIMIENTO DEL DEBER LEGAL
 
 ###### Artículo 309.
 
@@ -3183,13 +3195,13 @@ III. Abolir o reformar la Constitución Política del Estado o las instituciones
 
 IV. Separar o impedir el desempeño de su cargo a algún servidor público, estatal o municipal.
 
-### CAPÍTULO V. COHECHO
+### CAPÍTULO IV. COALICIÓN
 
 ###### Artículo 310.
 
 A quienes, para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cuarenta días de salario y suspensión de derechos políticos hasta por dos años.
 
-### CAPÍTULO VI. PECULADO
+### CAPÍTULO V. COHECHO
 
 ###### Artículo 311.
 
@@ -3207,7 +3219,7 @@ A quien administre dinero o bienes relacionados con terroristas se le impondrán
 
 Se considera terrorista y se sancionará como tal a quien haga señales, dé voces de alarma o provoque estruendos por los medios idóneos, simulando la posible existencia de alguno de los actos considerados por el delito de terrorismo, con el fin de suscitar tumultos, desórdenes, alarma o zozobra aun cuando éstos no se produzcan.
 
-### CAPÍTULO VII. EXACCIÓN ILEGAL
+### CAPÍTULO VI. PECULADO
 
 ###### Artículo 314.
 
@@ -3221,7 +3233,7 @@ III. Recursos esenciales que el Estado destine para el mantenimiento del orden p
 
 ## TÍTULO XVIII. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO VIII. INTIMIDACIÓN
+### CAPÍTULO VII. EXACCIÓN ILEGAL
 
 ###### Artículo 315.
 
@@ -3239,7 +3251,7 @@ Al responsable del delito previsto en este artículo se le impondrán de uno a s
 
 Se impondrán las mismas sanciones que señala el artículo anterior al servidor público que, sin presentar renuncia o sin causa justificada, con perjuicio del servicio, abandone el empleo, cargo o comisión para el que fue nombrado.
 
-### CAPÍTULO IX. TRÁFICO DE INFLUENCIA
+### CAPÍTULO VIII. INTIMIDACIÓN
 
 ###### Artículo 317.
 
@@ -3263,7 +3275,7 @@ VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE JULIO DE 2014)</small>
 
-### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO IX. TRÁFICO DE INFLUENCIA
 
 ###### Artículo 318 Bis.
 
@@ -3283,7 +3295,7 @@ Al servidor público que cometa el delito de desaparición forzada de persona, s
 
 > <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
 
-### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
 
 ###### Artículo 318 Ter.
 
@@ -3367,7 +3379,7 @@ g). Que la víctima se encuentre en una situación de vulnerabilidad. Se conside
 
 6. Su condición migratoria, aislamiento social, cultural o lingüístico.
 
-### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### Artículo 319.
 
@@ -3385,13 +3397,13 @@ I. Por razón de su empleo, cargo o comisión tenga conocimiento de que existe i
 
 II. Al concluir el empleo, cargo o comisión no entregue a la persona autorizada para recibir los bienes, documentación, archivos, expedientes y todo lo que haya estado bajo su responsabilidad.
 
-### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 321.
 
 Se impondrán prisión de seis meses a seis años y multa hasta de doscientas veces el salario, a los servidores públicos que se unan para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
-### CAPÍTULO XIV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
 
 ###### Artículo 322.
 
@@ -3407,15 +3419,13 @@ Cuando el dinero, dádiva o servicios de que se trate sea inferior al equivalent
 
 El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
 
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+### CAPÍTULO XIV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
-### CAPÍTULO II. FRAUDE PROCESAL
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
 
 ###### Artículo 323.
 
 Se impondrán de cuatro a quince años de prisión y multa hasta de seiscientos días de salario al servidor público que, en provecho propio o ajeno, utilice o disponga de dinero, valores o cualquier otro bien que hubiere recibido en administración, depósito o por otra causa en razón de su cargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3429,7 +3439,7 @@ I. El servidor público que a título personal e indebidamente utilice fondos p�
 
 II. Cualquier persona que sin tener el carácter de servidor público, estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
+### CAPÍTULO II. FRAUDE PROCESAL
 
 ###### Artículo 325.
 
@@ -3439,9 +3449,7 @@ I. Cuando las prestaciones indebidas no excedan del equivalente de quinientas ve
 
 II. Si su equivalente excediera de quinientas veces el salario, se impondrán de dos a diez años de prisión y multa de trescientos a quinientos días de salario.
 
-### CAPÍTULO IV. EVASIÓN DE PRESOS
-
-> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
 
 ###### Artículo 326.
 
@@ -3451,13 +3459,15 @@ I. Por sí o por interpósita persona, utilizando la violencia física o moral, 
 
 II. Realice una conducta ilícita u omita una lícita que lesione los intereses del denunciante, querellante o informante o de algún tercero interesado.
 
-### CAPÍTULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPÍTULO IV. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 327.
 
 Se impondrán de uno a cuatro años de prisión y multa hasta de ciento cincuenta días de salario al servidor público que por sí o por interpósita persona, sin estar autorizado para ello y aprovechando el empleo, cargo o comisión que desempeñe, promueva o gestione la emisión o ejecución de un acto o resolución oficial en beneficio propio o de un tercero.
 
-### CAPÍTULO VI. QUEBRANTAMIENTO DE LA SANCIÓN DE PRIVACIÓN, SUSPENSIÓN O INHABILITACIÓN DE DERECHOS
+### CAPÍTULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### Artículo 328.
 
@@ -3467,7 +3477,7 @@ Se aplicará la misma sanción a quien haga figurar como suyos bienes que el ser
 
 Además de las sanciones establecidas en este artículo, se decomisarán en beneficio del Estado aquellos bienes cuya procedencia no logre justificarse de acuerdo con la ley en materia de responsabilidades de los servidores públicos del Estado.
 
-### CAPÍTULO VII. CONTRA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS
+### CAPÍTULO VI. QUEBRANTAMIENTO DE LA SANCIÓN DE PRIVACIÓN, SUSPENSIÓN O INHABILITACIÓN DE DERECHOS
 
 ###### Artículo 329.
 
@@ -3481,19 +3491,19 @@ Cuando la ley autorice el empleo de medios de apremio, el delito sólo se consum
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta en un año.
 
-### CAPÍTULO VIII. REVELACIÓN DE INFORMACIÓN RESERVADA
+### CAPÍTULO VII. CONTRA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS
 
 ###### Artículo 330.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien quebrante los sellos que se fijen por orden de autoridad competente.
 
-### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
+### CAPÍTULO VIII. REVELACIÓN DE INFORMACIÓN RESERVADA
 
 ###### Artículo 331.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien amenace o agreda a un servidor público en el momento de ejercer sus funciones o con motivo de ellas.
 
-### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
+### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
 
 ###### Artículo 332.
 
@@ -3503,7 +3513,7 @@ Los servidores públicos que cometan los ilícitos previstos en el presente Tít
 
 ## TÍTULO XIX. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
-### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
 ###### Artículo 333.
 
@@ -3531,15 +3541,15 @@ A quien se retracte espontáneamente de sus falsas declaraciones rendidas ante l
 
 Si la declaración falsa hubiere sido elemento de convicción para la imposición de sanción privativa de libertad, existiendo posterior reconocimiento de inocencia del inculpado, al falso declarante se le impondrán de tres a diez años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO I. DE LOS DELITOS ELECTORALES
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 337.
 
 A quien simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial o administrativa, de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
 
-### CAPÍTULO II
+### CAPÍTULO I. DE LOS DELITOS ELECTORALES
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 338.
 
@@ -3547,9 +3557,7 @@ A quien ante la autoridad impute falsamente a una persona un hecho calificado co
 
 No se procederá contra el probable responsable sino una vez pronunciada sentencia absolutoria o acto de sobreseimiento que causen ejecutoria o hubiere reconocimiento de inocencia del inculpado.
 
-### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
-
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+### CAPÍTULO II
 
 ###### Artículo 339.
 
@@ -3573,7 +3581,7 @@ A los servidores públicos que ilegalmente permitan la salida temporal de las pe
 
 Si la reaprehensión del evadido se lograre por informes proporcionados por el responsable de la evasión, las sanciones se reducirán hasta en dos terceras partes de las previstas.
 
-### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
+### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3595,7 +3603,7 @@ II. El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
+### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3603,7 +3611,7 @@ III. Los que estén ligados con el delincuente por amor, respeto, gratitud o est
 
 A quien quebrante una sanción de privación, suspensión o inhabilitación de derechos se le impondrá multa hasta de ciento cincuenta días de salario. En caso de reincidencia, se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
-### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
+### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3611,7 +3619,7 @@ A quien quebrante una sanción de privación, suspensión o inhabilitación de d
 
 A quien altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta días de salario.
 
-### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
+### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3621,13 +3629,13 @@ Al servidor público que, por cualquier medio, facilite información sobre manda
 
 Igual sanción se aplicará al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la investigación ministerial.
 
-### CAPÍTULO VI. VIOLENCIA LABORAL
+### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ## TÍTULO XX. DELITOS CONTRA LA FUNCIÓN ELECTORAL
 
-### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
+### CAPÍTULO VI. VIOLENCIA LABORAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3635,9 +3643,9 @@ Igual sanción se aplicará al servidor público que indebidamente quebrante la 
 
 Se impondrán de tres a diez años de prisión y multa hasta de mil días de salario a quien, sin contar con el permiso o la licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
 
-### CAPÍTULO VII BIS. FEMINICIDIO
+### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 350.
 
@@ -3647,7 +3655,9 @@ I. Venda o prometa vender lotes de fraccionamiento o de lotificaciones; o
 
 II. Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII BIS. FEMINICIDIO
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 351.
 
@@ -3657,9 +3667,7 @@ Estos delitos se perseguirán por querella del particular afectado o de la autor
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
-
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 352.
 
@@ -3691,9 +3699,9 @@ Los delitos electorales en el Estado serán los previstos en la Ley General en M
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 359.
 
@@ -3709,9 +3717,9 @@ Los delitos electorales en el Estado serán los previstos en la Ley General en M
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA G.O. 27 DE AGOSTO DE 2010)</small>
 
-### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
 
-> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 361.
 
@@ -3720,6 +3728,10 @@ A quien de manera pública o privada ejerza violencia física o psicológica en 
 Si la víctima estuviere embarazada o en período de puerperio, la sanción se incrementará hasta en una mitad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+
+### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+
+> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 362.
 
@@ -4433,125 +4445,31 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. En la aplicación del presente Decreto de reforma se empleará el principio de sucesión de normas penales sustantivas.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 3o., 31 y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA EDUCATIVA”.]
+G.O. 23 DE NOVIEMBRE DE 2017.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 296 QUE REFORMA EL ARTÍCULO 190 QUÁTER Y LA DENOMINACIÓN DEL TÍTULO V BIS; ADICIONA EL CAPÍTULO III BIS AL TÍTULO V BIS Y EL ARTÍCULO 190 UNDECIES Y RECORRE LA NUMERACIÓN DE LOS ARTÍCULOS DEL CAPÍTULO IV DEL TÍTULO V BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo. A partir de la entrada en vigor de este Decreto se abroga la Ley General del Servicio Profesional Docente, se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Hasta en tanto el Congreso de la Unión expida la ley en materia del Sistema para la Carrera de las Maestras y los Maestros, queda suspendida cualquier evaluación y permanecerán vigentes las disposiciones que facultan a la actual Coordinación Nacional del Servicio Profesional Docente de la Secretaría de Educación Pública, para proveer las medidas necesarias y dar cumplimiento a los procesos derivados del Servicio Profesional Docente.
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
-En la aplicación de este Decreto se respetarán los derechos adquiridos de las maestras y los maestros, los cuales no podrán ser restringidos o afectados de manera retroactiva con las disposiciones de nueva creación.
+G.O. 23 DE NOVIEMBRE DE 2017.
 
-Tercero. Quedan sin efectos los actos referidos a la aplicación de la Ley General del Servicio Profesional Docente que afectaron la permanencia de las maestras y los maestros en el servicio.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 305 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 196 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Cuarto. A partir de la entrada en vigor de este Decreto se abroga la Ley del Instituto Nacional para la Evaluación de la Educación, se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Quinto. El Congreso de la Unión deberá expedir la Ley del organismo al que se refiere la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema para la Carrera de las Maestras y los Maestros, a más tardar en un plazo de 120 días a partir de la publicación del presente Decreto.
+Segundo. En la aplicación de la presente reforma al tipo penal de discriminación de personas, se empleará el principio de sucesión de normas penales sustantivas.
 
-Sexto. El Congreso de la Unión deberá expedir las Leyes Generales en materia de Educación Superior y de Ciencia, Tecnología e Innovación a más tardar en el año 2020.
+G.O. 23 DE NOVIEMBRE DE 2017.
 
-Séptimo. El Congreso de la Unión deberá realizar las reformas a la legislación secundaria correspondiente, a más tardar en un plazo de 120 días a partir de la publicación de este Decreto.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 314 QUE REFORMA LA FRACCIÓN TERCERA DEL ARTÍCULO 205 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-Octavo. Las legislaturas de los Estados, en el ámbito de su competencia, tendrán el plazo de un año para armonizar el marco jurídico en la materia, conforme a este Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
-Noveno. Para la integración de la primera Junta Directiva del organismo al que se refiere la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Cámara de Senadores designará a sus cinco integrantes en un plazo de 30 días naturales contados a partir de la entrada en vigor de este Decreto, con una prórroga de hasta 15 días naturales.
+Segundo. En la aplicación de la presente reforma, se empleará el principio de su sucesión de normas penales sustantivas.
 
-Con el fin de asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
-
-1) Dos nombramientos por un periodo de cinco años;
-
-2) Dos nombramientos por un periodo de seis años, y
-
-3) Un nombramiento por un periodo de siete años.
-
-En la integración del Consejo Técnico de Educación, la Cámara de Senadores designará a sus siete miembros en un plazo máximo de 60 días naturales contados a partir de la entrada en vigor de este Decreto. Cuatro de ellos deberán ser representantes de los diversos tipos y modalidades de la educación.
-
-Para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
-
-1) Tres nombramientos por un periodo de tres años;
-
-2) Tres nombramientos por un periodo de cuatro años, y
-
-3) Un nombramiento por un periodo de cinco años.
-
-Para la designación de los integrantes de la Junta Directiva y del Consejo Técnico, el Senado de la República emitirá convocatoria pública a fin de que las instituciones educativas, organismos de la sociedad civil organizada y sociedad en general presenten propuestas. La Junta de Coordinación Política acordará los procedimientos para su elección.
-
-La Junta Directiva y el Consejo Técnico de Educación asumirán sus funciones para ejercer las facultades que le otorga este Decreto, una vez que entre en vigor la legislación del organismo para la mejora continua de la educación, que expida el Congreso de la Unión.
-
-Décimo. Las asignaciones presupuestales, así como los recursos humanos, financieros y materiales con que cuenta el Instituto Nacional para la Evaluación de la Educación, formarán parte del organismo al que se refiere el artículo 3o., fracción IX, de la Constitución Política de los Estados Unidos Mexicanos.
-
-Una vez constituida la Junta Directiva, será la encargada de dar cumplimiento a esta disposición, con independencia de las atribuciones que correspondan en este proceso a otras autoridades, además realizará todas aquellas para el funcionamiento del organismo.
-
-Hasta la designación de la Junta Directiva que realice la Cámara de Senadores en los términos del Artículo Noveno Transitorio, se nombrará como Coordinador de Administración a quien fungía como titular de la Unidad de Administración del Instituto Nacional para la Evaluación de la Educación, quien dispondrá las medidas administrativas y financieras para el funcionamiento del mismo, para lo cual tendrá las siguientes atribuciones:
-
-I. Administrar y controlar los recursos humanos, presupuesto, recursos financieros, bienes y servicios, servicios tecnológicos, asuntos jurídicos y mejora de la gestión del organismo;
-
-II. Dar seguimiento a los procesos de planeación y programación, así como su implementación, con la participación de las unidades administrativas;
-
-III. Dar continuidad a las disposiciones que rijan las relaciones laborales y llevar a cabo los procesos de reclutamiento, selección, nómina y remuneraciones, servicios y capacitación al personal;
-
-IV. Supervisar las acciones para el desarrollo y seguimiento de los procesos de adquisición, almacenamiento, distribución, control y mantenimiento de los recursos materiales, así como de los servicios generales del Instituto;
-
-V. Suscribir los instrumentos jurídicos en materia de administración del Instituto;
-
-VI. Dirigir las estrategias de tecnologías de la información del organismo y el desarrollo de herramientas informáticas y sistemas de comunicación y tecnológicos, así como la prestación de servicios informáticos y de soporte técnico, con la participación de las unidades administrativas;
-
-VII. Establecer las estrategias para representar legalmente al organismo en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades;
-
-VIII. Coordinar la atención y vigilancia del cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública, y
-
-IX. Determinar las acciones para atender las auditorías de las instancias fiscalizadoras, en coordinación con las unidades administrativas.
-
-En un plazo de 15 días a partir de la vigencia de este Decreto, el Coordinador de Administración deberá publicar en el Diario Oficial de la Federación un informe acerca de la situación del Instituto que incluya el balance financiero correspondiente.
-
-Los derechos laborales de los servidores públicos del actual Instituto Nacional para la Evaluación de la Educación se respetarán conforme a la ley.
-
-El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Instituto Nacional para la Evaluación de la Educación es patrimonio público y deberá ser puesto a disposición de la ciudadanía en un portal público, accesible, con la debida protección de datos personales y de fácil manejo en un plazo de 90 días a partir de la publicación de este Decreto.
-
-Décimo Primero. Para la integración de los planes y programas a los que se refiere el artículo 3o. en su párrafo décimo primero, el Ejecutivo Federal considerará el carácter local, contextual y situacional del proceso de enseñanza aprendizaje.
-
-En el caso de las escuelas normales, la ley respectiva en materia de educación superior, establecerá los criterios para su desarrollo institucional y regional, la actualización de sus planes y programas de estudio para promover la superación académica y contribuir a la mejora de la educación, así como el mejoramiento de su infraestructura y equipamiento.
-
-Para dar cumplimiento a lo establecido en el párrafo noveno del artículo 3o., el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de las presentes disposiciones, definirá una Estrategia Nacional de Mejora de las Escuelas Normales, la cual establecerá acciones para su fortalecimiento.
-
-Décimo Segundo. Para atender la educación inicial referida en el artículo 3o., el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de su entrada en vigor de estas disposiciones, definirá una Estrategia Nacional de Atención a la Primera Infancia, en la cual se determinará la gradualidad de su impartición y financiamiento.
-
-Décimo Tercero. La Autoridad Educativa Federal mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena, especial, así como la normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
-
-Décimo Cuarto. La legislación secundaria, en los aspectos que así lo ameriten, determinará la gradualidad para la implementación de lo contenido en este Decreto y, la Cámara de Diputados anualmente, en el Presupuesto de Egresos de la Federación, aprobará las previsiones presupuestarias necesarias para el cumplimento progresivo de las mismas.
-
-La Cámara de Diputados, en el Presupuesto de Egresos de la Federación que corresponda, aprobará los recursos necesarios para dar cumplimiento a lo establecido en la fracción V del artículo 3o. Constitucional.
-
-Décimo Quinto. Para dar cumplimiento al principio de obligatoriedad de la educación superior, se incluirán los recursos necesarios en los presupuestos federal, de las entidades federativas y de los municipios, en términos de las fracciones VIII y X del artículo 3o. de esta Constitución; adicionalmente, se establecerá un fondo federal especial que asegure a largo plazo los recursos económicos necesarios para garantizar la obligatoriedad de los servicios a que se refiere este artículo, así como la plurianualidad de la infraestructura.
-
-Décimo Sexto. Con la entrada en vigor de las presentes disposiciones, los derechos laborales de los trabajadores al servicio de la educación, se regirán por el artículo 123 Constitucional Apartado B. Con fundamento en este Decreto, la admisión, promoción y reconocimiento se regirán por la Ley Reglamentaria del Sistema para la Carrera de las Maestras y los Maestros, prevaleciendo siempre la rectoría del Estado.
-
-Décimo Séptimo. La ley secundaria definirá que, dentro de los consejos técnicos escolares, se integrará un Comité de Planeación y Evaluación para formular un programa de mejora continua que contemple, de manera integral, la infraestructura, el equipamiento, el avance de los planes y programas educativos, la formación y prácticas docentes, la carga administrativa, la asistencia de los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas y los contextos socioculturales. Dichos programas tendrán un carácter multianual, definirán objetivos y metas, los cuales serán evaluados por el referido Comité.
-
-Décimo Octavo. Con la finalidad de dar cumplimiento a lo dispuesto en el artículo 3o., fracción II, inciso f), el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de las presentes disposiciones, definirá una Estrategia Nacional de Inclusión Educativa, la cual establecerá acciones y etapas para su cumplimiento progresivo. La educación especial en sus diferentes modalidades se impartirá en situaciones excepcionales.
-
-D.O.F. 6 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 4, 35, 41, 52, 53, 56, 94 Y 115; DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PARIDAD ENTRE GÉNEROS".]
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- El Congreso de la Unión deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución, en los términos del segundo párrafo del artículo 41.
-
-TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 41, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral federal o local siguiente a la entrada en vigor del presente Decreto, según corresponda.
-
-Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-
-CUARTO.- Las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán realizar las reformas correspondientes en su legislación, para procurar la observancia del principio de paridad de género en los términos del artículo 41.
-
-D.O.F. 9 DE AGOSTO DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN APARTADO C AL ARTÍCULO 2o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE DICIEMBRE DE 2019.
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE CONSULTA POPULAR Y REVOCACIÓN DE MANDATO”.]
 
