@@ -4,7 +4,7 @@ identifier: "HID-codigo-unico-de-etica-de-la-administracion-publica-del-117655"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-11-28"
-last_updated: "2016-11-28"
+last_updated: "2017-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO UNICO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 23 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO ÚNICO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 28 de noviembre de 2016.
 
@@ -186,3 +188,13 @@ DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE EL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Código único de Ética de la Administración Pública del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo el 28 de noviembre de 2016.
