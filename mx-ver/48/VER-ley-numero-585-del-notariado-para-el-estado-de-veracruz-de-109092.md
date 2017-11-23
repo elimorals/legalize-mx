@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-585-del-notariado-para-el-estado-de-veracruz-de-1090
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-03"
-last_updated: "2015-08-03"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 585 DEL NOTARIADO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 3 de agosto de 2015.
 
@@ -714,6 +714,8 @@ II. Precisar el día, hora y lugar en que se practicarán las pruebas teóricas 
 III. Indicar el número de las notarías vacantes y de nueva creación.
 
 #### Sección Primera. De los Requisitos
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 311, PUBLICADO EN LA G.O. DE 23 DE NOVIEMBRE DE 2017, SE SEÑALA QUE “DE LA INTERPRETACIÓN ARMÓNICA DE LOS ARTÍCULOS 37, 58 Y 72 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE DESPRENDE QUE EL REQUISITO PREVISTO EN LA FRACCIÓN PRIMERA DEL ARTÍCULO 58 PUEDE ACREDITARSE COMO SATISFECHO, MEDIANTE LA PRESENTACIÓN DE LA PATENTE DE ASPIRANTE, SIEMPRE QUE ÉSTA CUMPLA CON LAS FORMALIDADES QUE SEÑALE LA LEY”.]</small>
 
 ###### Artículo 58.
 
@@ -2006,3 +2008,17 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “DECRETO NÚMERO 311”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De Interpretación Auténtica de Ley
+
+Artículo único. De la interpretación armónica de los artículos 37, 58 y 72 de la Ley del Notariado para el Estado de Veracruz de Ignacio de la Llave, se desprende que el requisito previsto en la fracción primera del artículo 58 puede acreditarse como satisfecho, mediante la presentación de la patente de aspirante, siempre que ésta cumpla con las formalidades que señale la Ley.
+
+T R A N S I T O R I O S
+
+Único. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
