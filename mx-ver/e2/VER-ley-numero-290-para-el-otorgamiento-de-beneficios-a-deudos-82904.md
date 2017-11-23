@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-290-para-el-otorgamiento-de-beneficios-a-deudos-8290
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-29"
-last_updated: "2011-08-29"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 290 PARA EL OTORGAMIENTO DE BENEFICIOS A DEUDOS DE INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO CAÍDOS EN CUMPLIMIENTO DEL DEBER
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 29 de agosto de 2011.
 
@@ -45,9 +45,11 @@ LEY NUMERO 290
 
 Para el otorgamiento de beneficios a deudos de integrantes de las instituciones de Seguridad Pública del Estado caídos en cumplimiento del deber
 
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 1°.
 
-El Gobierno del Estado de Veracruz de Ignacio de la Llave otorgará trimestralmente una pensión equivalente a cuatrocientas veinte veces el salario mínimo vigente en la ciudad de Xalapa-Enríquez, a los deudos de cualquier integrante de las instituciones de Seguridad Pública en el Estado, que fallezca con motivo de su actividad profesional desarrollada con objeto de brindar protección a los habitantes del Estado.
+El Gobierno del Estado de Veracruz de Ignacio de la Llave otorgará trimestralmente una pensión equivalente a cuatrocientas veinte veces la Unidad de Medida y Actualización vigente en la ciudad de Xalapa-Enríquez, a los deudos de cualquier integrante de las instituciones de seguridad pública en el Estado, que fallezca con motivo de su actividad profesional desarrollada con objeto de brindar protección a los habitantes del Estado.
 
 ###### Artículo 2°.
 
@@ -84,6 +86,18 @@ b) La participación en un enfrentamiento armado siempre que éste ocurra con in
 c) Cualquier acto sucedido en un puesto de control o vigilancia; y
 
 d) Cualquier acto sucedido durante el desempeño de patrullajes o traslados oficiales;
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+e) Cuando por necesidades del servicio, se trasladen a cualquier otro estado de la República Mexicana, siempre y cuando los ampare el correspondiente oficio de comisión, y se actualice lo establecido en el inciso b).
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+f) Cuando estando franco sea víctima de alguna agresión, levantón o secuestro por parte de algún grupo delictivo, y posteriormente sea localizado sin vida e identificado por alguno de sus deudos.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+g) Cuando estando fuera de su servicio, se suscite un hecho delictivo grave, en el que por su condición de servidor público, intervenga para evitar la pérdida de vidas de civiles, y como resultado de esa intervención, se origine la pérdida de su propia vida, justificando esta causal con las declaraciones de las personas víctimas de este hecho.
 
 Se exceptúan los actos previstos en los incisos c) y d) de este artículo, cuando deriven de la imprudencia o negligencia del propio afectado.
 
@@ -152,3 +166,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 302 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL OTORGAMIENTO DE BENEFICIOS A DEUDOS DE INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO CAÍDOS EN CUMPLIMIENTO DEL DEBER".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
