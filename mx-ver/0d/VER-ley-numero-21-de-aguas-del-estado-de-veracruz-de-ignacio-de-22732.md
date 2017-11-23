@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2016-01-21"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -189,7 +189,7 @@ XLIV. Uso Público Urbano: la utilización de agua para el abasto a centro de po
 
 XLV. Uso recreativo: la utilización del agua en actividades de esparcimiento, como balnearios, navegación y otras similares, que presten instituciones públicas o privadas con fines comerciales;
 
-XLVI. Usuario: las personas físicas o morales que hagan uso de los servicios a que se refiere la presente Ley; y (sic)
+XLVI. Usuario: las personas físicas o morales que hagan uso de los servicios a que se refiere la presente Ley; y
 
 XLVII. Zona de protección: la franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de jurisdicción estatal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hidráulicas a cargo del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, medida horizontalmente a partir del nivel de aguas máximas ordinarias. Dicha franja será de cinco metros cuando el cauce o depósito sea menor de cinco metros, y de diez metros cuando dicho cauce o depósito sea mayor a cinco metros. El nivel de aguas máximas ordinarias se calculará a partir de la creciente máxima ordinaria que estará asociada a un periodo de retorno de cinco años, de acuerdo con lo dispuesto en el reglamento de esta ley;
 
@@ -821,7 +821,7 @@ XIII. Acordar la propuesta de extensión de los servicios públicos a otras loca
 
 XIV. Expedir el reglamento interior del organismo, así como los manuales de organización, de procedimientos y de servicios al público y ordenar su publicación;
 
-XV. Proponer al Director del organismo, y (sic)
+XV. Proponer al Director del organismo, y
 
 > <small>(REFORMADA [N. DE ADICIONADA], G.O. 9 DE ENERO DE 2007)</small>
 
@@ -1371,9 +1371,9 @@ Para el cálculo de las tarifas medias de equilibrio de cada organismo operador,
 
 Como complemento a esta tarifa media de equilibrio, el Consejo emitirá la metodología que deberá seguirse para obtener tarifas ponderadas de acuerdo a los diversos estratos de la población y a los diversos usos identificados en el municipio.
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-El órgano de gobierno del organismo operador o el concesionario podrán, a su juicio, otorgar subsidios por cuanto al pago de los servicios que regula esta Ley, a particulares de escasos recursos económicos, grupos vulnerables que pertenezcan a zonas de alta marginalidad, dependencias o entidades federales, estatales o municipales, instituciones educativas o de asistencia pública o privada. El subsidio será obligatorio en los casos de jubilados, pensionados y a los adultos mayores de sesenta y cinco años debidamente acreditados con la credencial de elector vigente.
+El órgano de gobierno del organismo operador o el concesionario podrán, a su juicio, otorgar subsidios por cuanto al pago de los servicios que regula esta Ley, a particulares de escasos recursos económicos, grupos vulnerables que pertenezcan a zonas de alta marginalidad, previo estudio socioeconómico que deberá realizar dicho organismo operador o concesionario así como a dependencias o entidades federales, estatales o municipales, instituciones educativas o de asistencia pública o privada. El subsidio será obligatorio en los casos de jubilados, pensionados y a los adultos mayores de sesenta y cinco años debidamente acreditados con la credencial de elector vigente, así como a las personas con discapacidad física, intelectual o sensorial.
 
 > <small>(ADICIONADO, G.O. 21 DE ENERO DE 2016)</small>
 
@@ -1397,7 +1397,7 @@ I. La tarifa media de equilibrio de los servicios de abastecimiento de agua pota
 
 II. La tarifa media de equilibrio de los servicios de drenaje y alcantarillado;
 
-III. La tarifa media de equilibrio de los servicios de recolección, tratamiento y disposición de aguas residuales; y (sic)
+III. La tarifa media de equilibrio de los servicios de recolección, tratamiento y disposición de aguas residuales; y
 
 IV. La cuota por conexión a la red de agua potable;
 
@@ -2054,5 +2054,13 @@ G.O. 21 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 846 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS Y EL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, AMBOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 342 QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 100 DE LA LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y REFORMA EL PRIMER PÁRRAFO, LA FRACCIÓN I Y ADICIONA UNA FRACCIÓN V AL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
