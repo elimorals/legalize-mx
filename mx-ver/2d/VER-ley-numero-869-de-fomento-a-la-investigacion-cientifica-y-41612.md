@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-869-de-fomento-a-la-investigacion-cientifica-y-41612
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-08"
-last_updated: "2014-08-25"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 8 de noviembre de 2004.
 
@@ -379,9 +379,17 @@ XXI. Determinar los estímulos, recompensas o medidas correctivas a que se sujet
 
 XXII. Vigilar el cumplimiento de los criterios de austeridad, racionalidad y disciplina, conforme a los cuales el COVEICYDET deberá ejercer su presupuesto;
 
-XXIII. Integrar las comisiones que de acuerdo con los programas de operación del COVEICYDET se estimen necesarias, y designar a los responsables de esas comisiones; y
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-XXIV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
+XXIII. Integrar las comisiones que de acuerdo con los programas de operación del COVEICYDET se estimen necesarias, y designar a los responsables de esas comisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Evaluar, revisar y dar seguimiento al Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico, al menos una vez al año; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XXV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
 
 ###### Artículo 19.
 
@@ -431,7 +439,9 @@ III. Dictaminar sobre los proyectos de investigación, desarrollo tecnológico e
 
 IV. Proponer al Consejo Directivo los proyectos específicos de investigación y desarrollo tecnológico, presentados por la Dirección General, definiendo los mecanismos de evaluación que regirán la asignación de recursos económicos;
 
-V. Elaborar el Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico, en los términos de la presente Ley;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V. Integrar, elaborar y ejecutar el Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico, en los términos de la presente Ley;
 
 VI. Dar seguimiento a los proyectos apoyados por el COVEICYDET a partir de los informes presentados por la Dirección General;
 
@@ -617,9 +627,11 @@ V. Apoyar la integración de las comunidades científica y tecnológica del Esta
 
 Se instituye el Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico, como instrumento rector de la política del Gobierno del Estado en esta materia, el cual tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, difusión, divulgación y aplicación de la ciencia y tecnología en la Entidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-El Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico será autorizado por el Gobernador del Estado. Su integración, ejecución, evaluación y revisión anual correrán a cargo del COVEICYDET, quien para su elaboración tomará en cuenta las propuestas que le presenten las dependencias y entidades que apoyen o realicen investigación científica y tecnológica, así como las que le formulen las comunidades científica y tecnológica, las Instituciones de Educación Superior y las que surjan de los órganos de gobierno y consultivos de participación ciudadana del propio COVEICYDET.
+El Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico será autorizado por el Gobernador del Estado, quien para su elaboración tomará en cuenta las propuestas que le presenten las dependencias y entidades que apoyen o realicen investigación científica y tecnológica, así como las que le formulen las comunidades científica y tecnológica, las Instituciones de Educación Superior y las que surjan de los órganos de gobierno y consultivos de participación ciudadana del propio COVEICYDET.
 
 El Programa Veracruzano de Investigación Científica y Desarrollo Tecnológico será publicado en la Gaceta Oficial del Estado.
 
@@ -898,6 +910,14 @@ Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 G.O. 25 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 356 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
