@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2016-03-16"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -132,6 +132,10 @@ VII.- Establecer las bases sobre las cuales se prestarán los servicios de segur
 VIII.- Diseñar y aplicar estrategias, planes y programas para combatir la delincuencia; y
 
 IX.- Desarrollar e instrumentar acciones, estrategias y programas en materia de prevención; así como de reinserción social y, en su caso, tratamiento de adolescentes que hayan cometido conductas tipificadas como delitos por la legislación penal.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Además, promover mecanismos que permitan implementar la capacitación para el trabajo, la educación, la salud y el deporte como medios de reinserción social.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
 
@@ -1904,3 +1908,11 @@ P.O. 16 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 4 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
