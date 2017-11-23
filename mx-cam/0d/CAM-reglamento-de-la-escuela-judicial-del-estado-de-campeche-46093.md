@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-escuela-judicial-del-estado-de-campeche-46093"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2016-11-09"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Sección Judicial del Periódico Oficial del Estado de Campeche, el lunes 15 de agosto de 2005.
 
@@ -175,9 +175,17 @@ q) Ejercer las demás funciones que le sean conferidas por el Pleno y por el pre
 
 El Consejo Académico es el órgano colegiado encargado de la consulta y asesoría académica de la Dirección de la EJEC. También ejercerá las demás funciones que le sean conferidas por el Pleno y por este Reglamento.
 
-Se integrará por el Director y con al menos dos profesores investigadores de la EJEC o Magistrados comisionados, quienes sesionarán cuando menos una vez cada bimestre.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-Los Consejeros serán nombrados por el Pleno a propuesta del Director, y durarán en el cargo cuatro años, pudiendo ser ratificados una sola vez, para el periodo inmediato.
+Se integrará por el Director y con al menos dos profesores investigadores de la EJEC o magistrados o consejeros comisionados en activo o en retiro, quienes sesionarán cuando menos una vez cada bimestre.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+En el caso de que el cargo recaiga en magistrados o consejeros en activo o en retiro, el mismo será honorario.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Los consejeros serán nombrados por el Pleno del Consejo a propuesta del Director, y durarán en el cargo cuatro años, pudiendo ser ratificados una sola vez, para el periodo inmediato.
 
 ###### Artículo 12.
 
@@ -187,7 +195,9 @@ a) Evaluar periódicamente el funcionamiento del Plan de Estudios, y en base a l
 
 b) Proponer la realización de Convenios o intercambios académicos con Universidades o Instituciones análogas.
 
-c) Designar tutores para las actividades prácticas que hayan de desarrollar los alumnos de la EJEC, pudiendo recaer éstas también en Jueces o Magistrados que reúnan los requisitos según este Reglamento, aunque no formen parte del cuerpo académico de la EJEC o en Profesores de la misma.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+c) Designar tutores para las actividades prácticas que hayan de desarrollar los alumnos de la EJEC, pudiendo recaer éstas también en Magistrados, Consejeros o Jueces que reúnan los requisitos según este reglamento aunque no formen parte del cuerpo académico de la EJEC o en Profesores de la misma.
 
 d) Participar en la selección y autorización de los profesores de la EJEC.
 
@@ -201,11 +211,19 @@ g) Proponer las acciones que consideren necesarias y benéficas para el adecuado
 
 El Consejo Académico aprobará las actividades escolares, y presentará al Pleno la evaluación anual del funcionamiento de la EJEC, en la semana siguiente a la terminación de los cursos. En las evaluaciones deberán contemplar los siguientes aspectos:
 
-a) El desempeño de los estudiantes,
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-b) El desempeño de los profesores,
+a) El desempeño de los estudiantes;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+b) El desempeño de los profesores;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 c) Las necesidades académicas detectadas, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 d) La congruencia de los planes y programas de estudios con las necesidades y objetivos de la institución.
 
@@ -287,11 +305,11 @@ Las ausencias temporales de más de 3 días del Director serán cubiertas por un
 
 Los integrantes del Consejo Académico serán suplidos en sus faltas accidentales o temporales cuando no se reúna la mayoría de sus integrantes, por otro Magistrado o Profesor-investigador de la EJEC, a propuesta del Director ante el Pleno.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Los Secretarios Académicos y Administrativos serán suplidos en sus faltas temporales que excedan de diez días por el servidor académico o administrativo de la EJEC, que, a propuesta del Director, nombre el Pleno.
+El Secretario Académico y el Coordinador Administrativo serán suplidos en sus faltas temporales que excedan de diez días naturales por el servidor académico o administrativo de la EJEC que nombre el Consejo, a propuesta de su Presidente.
 
 ###### Artículo 19.
 
@@ -829,11 +847,7 @@ En caso de que el resultado sea notablemente negativo, el Consejo Académico pod
 
 La EJEC como dependencia del Poder Judicial estará sujeta al mismo régimen presupuestario y control financiero que las restantes de la misma naturaleza y de acuerdo a lo autorizado por el Pleno.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
-
-Artículo 78 BIS.
-
-La EJEC, como dependencia del Poder Judicial, estará sujeta al mismo régimen presupuestario y control financiero que las restantes de la misma naturaleza y de acuerdo a lo autorizado por el Pleno.
+Artículo 78 BIS. (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 79.
 
@@ -974,3 +988,15 @@ P.O. 9 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO DEL PLENO POR EL QUE SE "REFORMA AL ARTÍCULO 8 DEL REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- En términos del artículo 4 del Código Civil vigente en el Estado la presente reforma entrará en vigor el día diez de noviembre del actual, para lo cual se remite el presente documento al Periódico Oficial del Gobierno del Estado para su publicación por una sola vez así como en el Portal de Transparencia del Honorable Tribunal Superior de Justicia del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 11, PÁRRAFOS SEGUNDO Y TERCERO, 12, PÁRRAFO PRIMERO INCISO C), 18, ADICIONES AL ARTÍCULO 11, PÁRRAFO CUARTO, 13, INCISOS A), B), C) Y D) DEL PÁRRAFO PRIMERO, Y DEROGACIÓN DEL ARTÍCULO 78 BIS DEL REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO. Publíquese el presente Acuerdo General en el Periódico Oficial del Estado, en los estrados de la Secretaría Ejecutiva, de los Juzgados, así como en las áreas administrativas, órganos auxiliares, auxiliares de la administración de justicia, auxiliares administrativos, direcciones, coordinaciones, departamentos, centros y/o centrales; y en el Portal de Transparencia del Poder Judicial del Estado de Campeche.
+
+SEGUNDO. Las reformas al Reglamento de la Escuela Judicial del Estado de Campeche entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, según lo establecido en el artículo 4 del Código Civil del Estado de Campeche.
+
+TERCERO. Se deja sin efecto el transitorio tercero de la Reforma al Reglamento de la Escuela Judicial aprobado en la sesión ordinaria del Consejo de la Judicatura Local, el dieciocho de septiembre de dos mil diecisiete, y publicado en el periódico oficial del Estado, el 25 de septiembre del presente año.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente ordenamiento reglamentario.
