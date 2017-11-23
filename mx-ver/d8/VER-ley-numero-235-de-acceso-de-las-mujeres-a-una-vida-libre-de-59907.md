@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2016-07-26"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2018 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -209,13 +211,17 @@ V. Violencia Institucional: Son los actos u omisiones de las y los servidores p�
 
 VI. Violencia Feminicida: Forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar tolerancia social e indiferencia del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
-> <small>(ADICIONADA, G.O. 26 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-VII. Violencia Política. Son los actos u omisiones cometidos en contra de una mujer o sus familias, que le causen un daño físico, psicológico, sexual, económico o de otra índole, resultado de prejuicios de género, que tengan como objeto impedir su participación en campañas políticas, o restringir el ejercicio de un cargo público, o provocarla a tomar decisiones en contra de su voluntad o de la ley.
+VII. Violencia política en razón de género: Es la acción u omisión, que cause un daño físico, psicológico, sexual, económico o de otra índole, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-Constituye violencia política:
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Constituye violencia política en razón de género:
 
 > <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
 
@@ -264,6 +270,22 @@ k) Publicar o revelar información personal, privada o falsa, de las mujeres can
 > <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
 
 l) Obligar, intimidar o amenazar a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+m) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género;
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+n) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos, político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+o) Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida; y
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+p) Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
@@ -351,17 +373,41 @@ El Sistema Estatal se conformará con:
 
 I. La Secretaría de Gobierno, cuyo titular lo presidirá;
 
-II. Un representante del Poder Judicial del estado;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-III. Una representante del Poder Legislativo, que será la Presidenta de la Comisión Permanente de Equidad, Género y Familia del Congreso del estado;
+II. Un representante del Poder Judicial del Estado que será una magistrada designada por el Consejo de la Judicatura;
 
-IV. La titular del Instituto Veracruzano de las Mujeres, que fungirá como Secretaria Ejecutiva del Sistema;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-V. Tres mujeres representantes de organizaciones civiles especializadas, con probado currículo en trabajo relativo a los Derechos Humanos de las Mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Unidas de Equidad, Género y Familia y de Derechos Humanos y Grupos Vulnerables del Congreso del Estado; y
+III. La Fiscalía General del Estado;
 
-VI. Dos mujeres representantes de instituciones de investigación, especializadas en los Derechos Humanos de las Mujeres, designadas por el Congreso del Estado a propuesta de la Universidad Veracruzana.
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-La Secretaría Ejecutiva elaborará el proyecto de Reglamento del Sistema y, previa la consideración de los miembros, lo presentará al Ejecutivo del estado para su promulgación.
+IV. Un representante del Poder Legislativo, que será la presidenta de la Comisión Permanente para la Igualdad de Género del Congreso del Estado;
+
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V. Un representante del Organismo Público Local Electoral de Veracruz;
+
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VI. La titular del Instituto Veracruzano de las Mujeres, que fungirá como secretaria ejecutiva del Sistema;
+
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VII. Tres mujeres representantes de Organizaciones Civiles Especializadas, con probado currículum en trabajo relativo a los derechos humanos de las mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Permanentes Unidas Para la Igualdad de Género y de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado; y
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Dos mujeres especializadas en los derechos humanos de las mujeres, representantes de instituciones académicas y de investigación, designadas por el Congreso del Estado.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Las integrantes señaladas en las fracciones VI y VII, durarán en su encargo tres años.
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+La Secretaría Ejecutiva elaborará el proyecto de Reglamento del Sistema y, previa la consideración de los miembros, lo presentará al Ejecutivo del Estado para su promulgación.
 
 ###### Artículo 16.
 
@@ -527,9 +573,59 @@ d). Implementar proyectos especiales para mujeres empresarias, indígenas y camp
 
 e). Diseñar y ejecutar programas especiales de capacitación técnica y productividad para mujeres víctimas de violencia.
 
-XXXII. A través de la Procuraduría General de Justicia del Estado, garantizar mecanismos expeditos en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena; y
+XXXII. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2017)
 
 XXXIII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde a la Fiscalía General del Estado:
+
+I. Garantizar mecanismos expeditos en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
+
+II. Promover la formación y especialización con perspectiva de género de las y los Fiscales y de todo el personal encargado de atender a las y los denunciantes;
+
+III. Brindar a las mujeres víctimas de violencia la asistencia y orientación jurídica adecuada, de conformidad con los ordenamientos aplicables;
+
+IV. Evitar la conciliación en los casos de violencia contra las mujeres, en tanto dure la situación de violencia;
+
+V. Alimentar el Banco Estatal de Datos en coordinación con el Instituto Veracruzano de las Mujeres;
+
+VI. Elaborar y aplicar protocolos especializados con perspectiva de género;
+
+VII. Brindar protección a las mujeres víctimas de violencia y a quienes denuncien cualquier tipo de violencia contra las mujeres;
+
+VIII. Instrumentar, en coordinación con la Secretaría de Seguridad Pública, acciones para prevenir la violencia contra las mujeres;
+
+IX. Desarrollar campañas de difusión sobre los derechos de las mujeres víctimas de violencia; y
+
+X. Las demás que le señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 19 Ter.
+
+Al Tribunal Superior de Justicia del Estado le corresponde:
+
+I. Formar, actualizar y especializar a su personal en materia de derechos humanos de las mujeres;
+
+II. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y de su acceso a la justicia;
+
+III. Promover una cultura libre de estereotipos de género, de roles y lenguaje sexista;
+
+IV. Informar sobre los procedimientos judiciales en materia de violencia de género contra las mujeres;
+
+V. Coordinar, dirigir y administrar las órdenes y medidas de protección e informar sobre las circunstancias en cómo se ejecutan;
+
+VI. Alimentar el Banco Estatal de Datos en coordinación con el Instituto Veracruzano de las Mujeres;
+
+VII. Emitir sus resoluciones con base en los Tratados Internacionales sobre derechos humanos de las mujeres;
+
+VIII. Generar mecanismos y promover su implementación para la detección de violencia contra las mujeres; y
+
+IX. Las demás que le señalen otros ordenamientos legales.
 
 ###### Artículo 20.
 
@@ -577,9 +673,21 @@ XX. Prestar servicios jurídicos gratuitos y especializados de orientación, ase
 
 XXI. Diseñar e instrumentar la formación de las y los servidores públicos, vía cursos, seminarios, talleres, diplomados y/o especialidades académicas;
 
-XXII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-XXIII. Las demás previstas para el cumplimiento de la presente Ley.
+XXII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Coadyuvar en la formación de liderazgos políticos de las mujeres;
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XXIV Impulsar mecanismos de promoción, protección y respeto de los derechos político-electorales de las mujeres; y
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XXV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 21.
 
@@ -600,6 +708,22 @@ VI. Adecuar o crear modelos de atención que favorezcan el empoderamiento de la 
 VII. Aplicar los principios y derechos de esta Ley y de cualquier otro Instrumento y/o Tratado Internacional de protección de los derechos humanos de las mujeres y las niñas; y
 
 VIII. Proporcionar al Instituto, información sobre los casos relacionados con cualquiera de los tipos y modalidades de la violencia señaladas en la Ley, para la integración del Banco Estatal de Datos.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 21 Bis.
+
+Corresponde al Organismo Público Local Electoral de Veracruz, en el ámbito de sus atribuciones:
+
+I. Prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género;
+
+II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos político-electorales de las mujeres;
+
+III. Realizar campañas de difusión de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre su erradicación;
+
+IV. Capacitar a su personal y a las personas integrantes de mesas directivas de casilla, en la prevención y en su caso erradicación de la violencia política en razón de género, y
+
+V. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
@@ -958,3 +1082,17 @@ G.O. 26 DE JULIO DE 2016.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291 QUE REFORMA LAS FRACCIONES II A VI DEL ARTÍCULO 15; ADICIONA UNA FRACCIÓN VII Y UN PÁRRAFO PENÚLTIMO AL ARTÍCULO 15, LOS ARTÍCULOS 19 BIS Y 19 TER, Y DEROGA LA FRACCIÓN XXXII DEL ARTÍCULO 19, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Las personas señaladas en las fracciones VI y VII del artículo 15 del presente Decreto, que actualmente se encuentran en funciones dentro del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, durarán en su encargo hasta el 4 de noviembre de 2018.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, a excepción de la Reforma al Código Electoral cuya vigencia iniciará una vez concluido el proceso electoral 2016-2017.
