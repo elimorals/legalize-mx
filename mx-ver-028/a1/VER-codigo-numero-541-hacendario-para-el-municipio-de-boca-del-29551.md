@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2017-02-08"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -3047,39 +3047,13 @@ Es objeto de los derechos a que se refiere este Capítulo, la prestación de los
 
 Son sujetos de estos derechos el propietario o poseedor del predio donde se presten o se soliciten los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 247 Quinquies.
 
 Los derechos a que se refiere este Capítulo, por los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos se causarán de conformidad con lo siguiente:
 
-[VÉASE TABLAS PUBLICADAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 4 A LA 5]
-
-Para el cobro del servicio de drenaje se asignará el 25% del costo del servicio de agua.
-
-Para el cobro del servicio de saneamiento se aplicará el 30% del costo del servicio de agua.
-
-MODALIDAD SERVICIO MEDIDO
-
-Tarifas del Servicio de Agua Potable
-
-[VÉASE TABLAS PUBLICADAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2016, PÁGINA 6]
-
-Para el cobro del servicio de drenaje se asignará el 25% del costo del servicio de agua.
-
-Para el cobro del servicio de saneamiento se aplicará el 30% del costo del servicio de agua.
-
-COSTOS DIVERSOS
-
-[VÉASE TABLAS PUBLICADAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 7 A LA 13]
-
-A las tarifas por los servicios de agua potable, drenaje y saneamiento de uso no doméstico, se les aplicará el cargo del Impuesto al Valor Agregado (IVA).
-
-A las tarifas por los servicios de drenaje y saneamiento de uso doméstico, se les aplicara el cargo del Impuesto al Valor Agregado (IVA).
-
-Las tarifas por los servicios de agua potable de uso doméstico, estarán exentas del Impuesto al Valor Agregado (IVA).
-
-Los derechos de servicios, costos de instalación de servicios de agua potable y alcantarillado sanitario serán gravados con el Impuesto al Valor Agregado (IVA).
+> <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2017, PÁGINAS DE LA 30 A LA 38.]</small>
 
 > <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -5220,3 +5194,11 @@ G.O. 8 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 247 POR ELQUE SE REFORMA EL TERCER PÁRRAFO DE LA FRACCIÓN VI Y ADICIONA LA FRACCIÓN VII AL ARTÍCULO 206 DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERA CRUZ DE IGNACIO DE LA LLAVE".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 357 POR EL QUE SE REFORMA EL ARTÍCULO 247 QUINQUIES DEL CAPÍTULO XV DEL TÍTULO SEGUNDO DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
