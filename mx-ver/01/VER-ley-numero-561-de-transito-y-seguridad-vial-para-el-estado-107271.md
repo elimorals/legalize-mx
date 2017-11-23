@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2017-06-26"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -1375,6 +1375,10 @@ Cada arrastre únicamente llevará un vehículo.
 
 La Secretaría podrá modificar las condiciones establecidas en las autorizaciones conforme al procedimiento previsto en la Ley, su Reglamento y demás disposiciones en la materia.
 
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Los servicios auxiliares de seguridad vial deberán estar dotados de cámaras de video para garantizar la integridad de los vehículos y evitar actos de corrupción.
+
 ###### Artículo 113.
 
 Sin perjuicio de lo previsto en el artículo precedente, la prestación de los servicios auxiliares de la seguridad vial quedará sujeta a los requerimientos hechos para tal efecto por la Dirección.
@@ -1745,6 +1749,14 @@ Cuando se cometa una infracción y la Dirección conozca del hecho en flagrancia
 
 Cuando un vehículo sea retirado de la vía pública, el conductor o propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa oficial, autorizada, permisionada o concesionada, así como el monto de la pensión que se genere en el depósito vehicular por el resguardo del vehículo, de conformidad con las tarifas autorizadas por la Secretaría.
 
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Se exceptúan de lo anterior, aquellos conductores que no resulten responsables por la comisión de alguna infracción a esta Ley o su Reglamento, y no realicen una acción u omisión que dé o pueda dar lugar a la tipificación de un delito.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+El costo de la maniobra y del arrastre del vehículo que sea retirado de la vía pública nunca será mayor al costo de la multa impuesta.
+
 ###### Artículo 160.
 
 Para la aplicación de las multas, el policía vial que conozca de la infracción correspondiente procederá como sigue:
@@ -1886,3 +1898,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Tercero. El Ejecutivo del Estado contará con un plazo de 60 días naturales contado a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
 
 Cuarto. A la entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en la ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 338 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
