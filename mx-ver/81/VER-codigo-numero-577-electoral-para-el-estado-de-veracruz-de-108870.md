@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2017-07-31"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "VER"
 ---
 # CODIGO NUMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2018 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 23 DE NOVIEMBRE DE 2017.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -114,6 +118,14 @@ IV. Desempeñar gratuitamente las funciones electorales para las que sean design
 V. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, este Código y las demás leyes aplicables.
 
 Las autoridades electorales que, en el ámbito de su competencia, expidan a un ciudadano el nombramiento para desempeñar una función electoral podrán excusarlo de su cumplimiento únicamente por causa justificada, con base en las pruebas que el ciudadano aporte ante la autoridad que lo hubiese designado.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 4 Bis.
+
+El ejercicio de los derechos y el cumplimiento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia. El Organismo Público Local Electoral de Veracruz, el Tribunal Electoral de Veracruz, los Partidos Políticos y las Asociaciones Políticas, establecerán mecanismos, para prevenir, atender, sancionar y, en su caso, erradicar la violencia política en razón de género.
+
+Para los efectos de este Código se entenderá por violencia política en razón de género, la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
 
 ###### Artículo 5.
 
@@ -785,7 +797,9 @@ La precampaña electoral es el conjunto de actos que realizan los partidos polí
 
 Los actos de precampaña electoral son las reuniones públicas, asambleas, marchas y, en general, aquellos en que los precandidatos se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulados como candidatos a un cargo de elección popular.
 
-La propaganda de precampaña es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por este Código, la normativa aplicable, y el que señale la convocatoria respectiva, difunden los precandidatos a cargos de elección popular, con el propósito de dar a conocer sus propuestas.
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+La propaganda de precampaña es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el período establecido por este Código, la normativa aplicable, y el que señale la convocatoria respectiva, difunden los precandidatos a cargos de elección popular, con el propósito de dar a conocer sus propuestas. La propaganda de precampaña no debe contener expresiones que constituyan violencia política en razón de género en términos de lo establecido en este Código.
 
 Precandidato es el ciudadano que pretende ser postulado por un partido político como candidato a un cargo de elección popular, conforme a lo establecido por este Código y demás normativa aplicable, y los estatutos de cada partido, en el proceso de selección interna.
 
@@ -3925,9 +3939,9 @@ g) Las personas que vivan o trabajen en el extranjero;
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-VI. Abstenerse de proferir calumnia a personas;
+VI. Abstenerse de proferir calumnia a personas o que constituya violencia política en razón de género;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -4131,11 +4145,11 @@ VII. Depositar únicamente en la cuenta bancaria abierta al efecto sus aportacio
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-IX. Abstenerse de proferir calumnia a personas;
+IX. Abstenerse de proferir calumnia (sic) a personas o que constituya violencia política en razón de género;
 
-X. Insertar en su propaganda de manera visible la leyenda: “Candidato Independiente”;
+X. Insertar en su propaganda de manera visible la leyenda: "Candidato Independiente";
 
 XI. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos nacionales;
 
@@ -4379,9 +4393,15 @@ I. La realización de actos anticipados de precampaña o campaña, según sea el
 
 II. En el caso de los aspirantes o precandidatos, solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por este Código y demás disposiciones aplicables en la materia;
 
-III. Exceder el tope de gastos de precampaña o campaña establecido por el Consejo General del Instituto Electoral Veracruzano; y
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-IV. El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables en la materia.
+III. Exceder el tope de gastos de precampaña o campaña establecido por el Consejo General del Organismo Público Local Electoral de Veracruz;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+IV. La acción u omisión que constituya violencia política en razón de género en los términos de este Código; y
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables en la materia.
 
 ###### Artículo 318.
 
@@ -4421,9 +4441,15 @@ XI. La obtención de bienes inmuebles con recursos provenientes del financiamien
 
 XII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
 
-XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Electoral Veracruzano; y
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-XIV. El incumplimiento de cualquiera de las disposiciones contenidas en este ordenamiento y demás disposiciones aplicables.
+XIII. La omisión o el incumplimiento de la obligación de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Organismo Público Local Electoral de Veracruz;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XIV. La acción u omisión que constituya violencia política en razón de género en los términos de este Código; y
+
+XV. El incumplimiento de cualquiera de las disposiciones contenidas en este ordenamiento y demás disposiciones aplicables.
 
 ###### Artículo 320.
 
@@ -4437,13 +4463,21 @@ I. La omisión o el incumplimiento de la obligación de prestar colaboración y 
 
 II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-III. El incumplimiento del principio de imparcialidad establecido en el párrafo primero del Artículo 79 de la Constitución del Estado, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo segundo del Artículo 79 de la Constitución del Estado;
+III. La acción u omisión que constituya violencia política en razón de género en términos de este Código;
 
-V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+IV. El incumplimiento del principio de imparcialidad establecido en el párrafo primero del artículo 79 de la Constitución del Estado, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes precandidatos o candidatos durante los procesos electorales;
+
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo segundo del artículo 79 de la Constitución del Estado;
+
+VI. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 Los Consejeros Electorales, el Secretario Ejecutivo, el Contralor General y los Directores Ejecutivos del Instituto Electoral Veracruzano estarán sujetos al régimen de responsabilidades previsto en la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y en las demás leyes aplicables.
 
@@ -4525,9 +4559,11 @@ c) Con la pérdida del derecho del aspirante infractor a ser registrado como Can
 
 d) En caso de que el aspirante omita informar y comprobar los gastos tendentes a recabar el apoyo ciudadano y los gastos de campaña, sin que en este último caso los reembolse no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 326.
 
-Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto, se estará a lo siguiente:
+Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto o actualicen la infracción prevista en el artículo 321 fracción III del presente Código, se estará a lo siguiente:
 
 I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
 
@@ -4559,9 +4595,15 @@ V. Las condiciones externas y los medios de ejecución;
 
 VI. La afectación o no al financiamiento público, si se trata de organizaciones o coaliciones;
 
-VII. La reincidencia en el incumplimiento de obligaciones; y
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-VIII. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+VII. La reincidencia en el incumplimiento de obligaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VIII. La observancia de los principios de igualdad sustantiva entre mujeres y hombres, de no discriminación, la perspectiva de género en términos de las disposiciones aplicables, y la violencia política en razón de género; y
+
+IX. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere el presente Código o demás legislación aplicable en la materia, incurra nuevamente en la misma conducta infractora. Para tener por actualizada la reincidencia, la autoridad sancionadora deberá considerar el ejercicio o periodo en el que se cometió la transgresión anterior, por la que se estima reiterada la infracción; la naturaleza de las contravenciones, así como los preceptos infringidos, a fin de evidenciar que afecta el mismo bien jurídico tutelado y que la resolución mediante la cual se sancionó al infractor, con motivo de la contravención anterior, tiene el carácter de firme.
 
@@ -4821,7 +4863,9 @@ Dentro de los procesos electorales, la Secretaría Ejecutiva del Instituto Elect
 
 I. Contravengan lo dispuesto en el artículo 79, párrafo segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave;
 
-II. Contravengan las normas sobre propaganda política o electoral; o
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+II. Contravengan las normas sobre propaganda política o electoral, incluida la prohibición de difundir expresiones que constituyan violencia política en razón de género, o
 
 III. Constituyan actos anticipados de precampaña o campaña.
 
@@ -5968,3 +6012,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo no mayor a treinta días, el Organismo Público Local Electoral deberá realizar las modificaciones a la reglamentación respectiva, así como emitir los lineamientos correspondientes para garantizar el cumplimiento de las disposiciones del presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, a excepción de la Reforma al Código Electoral cuya vigencia iniciará una vez concluido el proceso electoral 2016-2017.
