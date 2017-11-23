@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2017-06-20"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -59,7 +59,9 @@ II.- La evaluación del impacto ambiental que pudiesen producir las obras, activ
 
 III.- La participación social de toda persona, individual o colectivamente, en cualquier actividad, pública o privada, que tenga por objeto la preservación o restauración del equilibrio ecológico o la protección del ambiente, en los términos establecidos en la presente Ley, sus reglamentos y demás disposiciones jurídicas que resulten aplicables;
 
-IV.- La protección y preservación de las áreas naturales, así como la restauración y reconstrucción de su entorno ecológico mediante el establecimiento de las áreas naturales protegidas a las que se refiere el Título Tercero de esta Ley;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+IV.- El establecimiento, protección, preservación, mejoramiento y vigilancia de las áreas naturales protegidas y áreas verdes de jurisdicción estatal, así como la conservación, restauración y reconstrucción de su entorno ecológico de conformidad con el Título Tercero de esta Ley;
 
 V.- El cuidado de los sitios necesarios para asegurar el mantenimiento e incremento de los recursos naturales, frente al peligro de deterioro grave, en aguas de jurisdicción del Estado de Veracruz y las asignadas por la Federación;
 
@@ -90,6 +92,10 @@ III.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos po
 IV.- Áreas naturales protegidas de competencia Federal: Las zonas del territorio nacional sobre las que la nación ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la presente Ley.
 
 V.- Áreas naturales protegidas: zonas del territorio estatal y aquellas sobre las que el Estado ejerce su soberanía y jurisdicción en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas o restauradas y están sujetas al régimen previsto en la presente Ley con el fin de preservar e interconectar ambientes naturales; salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento sustentable de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V Bis.- ÁREA VERDE: Toda superficie cubierta de vegetación natural o inducida que se localice en el Estado.
 
 VI.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos.
 
@@ -160,6 +166,10 @@ XXXII.- Material genético: Todo material de origen vegetal, animal, microbiano 
 XXXIII.- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
 
 XXXIV.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XXXIV Bis.- PARQUES: Las áreas verdes o espacios abiertos jardinados de uso público, ubicados dentro del suelo urbano o dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales en suelo de conservación, que contribuyen a mantener el equilibrio ecológico dentro de las demarcaciones en que se localizan, y que ofrecen fundamentalmente espacios recreativos para sus habitantes.
 
 XXXV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
@@ -277,13 +287,19 @@ IV. Regular las actividades que no sean consideradas altamente riesgosas para el
 
 V. Emitir los criterios y normas técnicas ambientales en materia de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
 
-VI. Establecer, regular y administrar las áreas naturales protegidas previstas en esta Ley, con la participación de los gobiernos municipales y la sociedad civil; en su caso, previo convenio podrá otorgarse la administración al municipio que corresponda;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VI. Establecer, regular y administrar las áreas naturales protegidas y áreas verdes previstas en esta Ley, con la participación de los gobiernos municipales y la sociedad civil; en su caso, previo convenio podrá otorgarse la administración al municipio que corresponda.
 
 VII. Prevenir la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas y fuentes móviles de competencia estatal;
 
 VIII. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas;
 
 IX. Formular, expedir, evaluar y ejecutar los programas de ordenamiento ecológico del territorio a que se refiere el artículo 16 de esta Ley, con la participación de los municipios respectivos y la sociedad civil;
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+IX Bis. Ejecutar, en coordinación con las autoridades competentes, las acciones necesarias para evitar el establecimiento de asentamientos humanos irregulares, en áreas naturales protegidas y áreas verdes que sean competencia de la Secretaría.
 
 X. Regular el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
 
@@ -355,7 +371,17 @@ VI. Promover el principio de no regresión en materia de legislación ambiental;
 
 VII. Promover la gestión integrada de zonas costeras; y
 
-VIII. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Realizar acciones de vigilancia y supervisión, así como la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta Ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, creación e incremento de áreas verdes.
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+IX. Solicitar a los municipios el inventario de áreas verdes de su competencia, así como de las especies de flora y fauna silvestres presentes en las mismas, correspondiente a su demarcación territorial.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+X. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
@@ -366,6 +392,10 @@ Corresponde a las autoridades municipales del Estado, en el ámbito de su compet
 A. Por conducto del Presidente Municipal:
 
 I. Formular, conducir y evaluar la política ambiental municipal y publicar los programas, decretos y actos administrativos que esta ley confiere a los Municipios, previa aprobación del Cabildo;
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+I Bis. Etiquetar, con la aprobación del cabildo, un porcentaje de su presupuesto anual que garantice el mantenimiento, la protección, la preservación y la vigilancia de las áreas verdes de su demarcación.
 
 II. Conservar, preservar y restaurar el equilibrio ecológico y la protección al ambiente, en sus respectivas circunscripciones territoriales, salvo cuando se trate de asuntos de competencia del Estado o de la Federación;
 
@@ -385,7 +415,9 @@ VIII. Formular, evaluar y promover el programa municipal de protección al medio
 
 IX. Formular y conducir la política municipal de información y difusión en materia ambiental;
 
-X. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+X. Proponer y opinar, según el caso, respecto del establecimiento de áreas de valor ambiental, áreas verdes y áreas naturales protegidas dentro de su demarcación territorial, y participar en su vigilancia.
 
 XI. Crear y regular zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley;
 
@@ -425,7 +457,9 @@ XI. Coadyuvar, en términos de la presente Ley y su reglamento, con la autoridad
 
 XII. Concertar con los sectores público, social y privado, para la realización de acciones en las materias de su competencia y de educación ambiental;
 
-XIII. Aplicar las sanciones administrativas por violaciones a la presente Ley y sus reglamentos, en los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XIII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por violaciones a la presente Ley y sus reglamentos, en los asuntos de su competencia; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes.
 
 XIV. Formular querella o denuncia ante la autoridad competente de los hechos ilícitos en materia ambiental, que regule el Código Penal;
 
@@ -436,6 +470,10 @@ XVI. Ejecutar la política municipal de información y difusión en materia ambi
 XVII. Emitir, previo dictamen y de manera conjunta con el Presidente Municipal, opinión fundada ante la autoridad competente respecto del derribo o desrame de árboles en lugares públicos, urbanos o rurales;
 
 XVIII. Solicitar a la autoridad competente, previa petición fundada y aprobada en sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+XVIII Bis. Integrar el inventario de áreas verdes de su competencia, así como de las especies de flora y fauna silvestres presentes en las mismas, correspondiente a su demarcación territorial.
 
 XIX. Atender los demás asuntos que esta Ley y la normatividad ambiental le confieran, así como aquellos que le sean expresamente delegados por el Presidente Municipal.
 
@@ -1393,7 +1431,127 @@ II.- Establecerán o en su caso promoverán la utilización de mecanismos para c
 
 III.- Establecerán los incentivos económicos y los estímulos fiscales para quienes destinen sus predios a acciones de preservación, conservación y restauración de los ecosistemas y su biodiversidad en términos del artículo 73 de la presente Ley.
 
-#### SECCIÓN PRIMERA. GENERALIDADES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. ÁREAS VERDES
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Bis.
+
+Para los efectos de esta Ley se consideran áreas verdes:
+
+I. Parques y jardines;
+
+II. Plazas jardinadas o arboladas;
+
+III. Jardineras;
+
+IV. Zonas con cualquier cubierta vegetal en la vía pública; así como área o estructura con cualquier cubierta vegetal o tecnología ecológica instalada en azoteas de edificaciones;
+
+V. Alamedas y arboledas;
+
+VI. Promontorios, cerros, colinas, elevaciones y depresiones orográficas, pastizales naturales y áreas rurales de producción forestal, agroindustrial o que presten servicios eco-turísticos;
+
+VII. Zonas de recarga de mantos acuíferos;
+
+VIII. Áreas de valor ambiental; y
+
+IX. Las demás análogas.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Ter.
+
+Corresponde a los municipios la construcción, rehabilitación, administración, preservación, protección, restauración, forestación, reforestación, fomento y vigilancia de las áreas verdes establecidas en las fracciones I a la V y a la Secretaría cuando se trate de las áreas previstas en las fracciones VI a la IX, todas del precepto anterior, siempre y cuando no estén ubicadas dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales de los municipios focalizados en suelo de conservación, mismas que se consideren competencia de los municipios, así como cuando se trate de los recursos forestales, evitando su erosión y deterioro ecológico con el fin de mejorar el ambiente y la calidad de vida de toda persona del Estado de Veracruz, de conformidad con los criterios, lineamientos y normatividad que para tal efecto expida la propia Secretaría.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Quater.
+
+Los municipios procurarán el incremento de áreas verdes de su competencia, en proporción equilibrada con los usos de suelo distintos a áreas verdes, espacios abiertos y jardinados o en suelo de conservación existentes en su demarcación territorial, e incorporarlos a los programas municipales de desarrollo urbano.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Quinquies.
+
+Los municipios deberán garantizar un porcentaje mayor de cinco metros cuadrados de área verde por habitante, no deberán permitir por ningún motivo su disminución.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Sexies.
+
+Los municipios que no cuenten con 5 metros cuadrados de área verde por habitante deberán incrementarlo buscando alcanzar este objetivo con alternativas para la creación de nuevas áreas verdes como son: Azoteas verdes, barrancas, retiro de asfalto innecesario en explanadas, camellones, áreas verdes verticales y jardineras en calles secundarias.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Septies.
+
+Queda prohibido, en los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardines, barrancas, áreas de valor ambiental y áreas naturales protegidas:
+
+I. La construcción de edificaciones y de cualquier obra o actividad que tengan ese fin;
+
+II. No procederá en ningún caso la desincorporación ni el cambio de uso del suelo de las áreas destinadas a espacios verdes, parques y jardines;
+
+III. La extracción de tierra y cubierta vegetal, así como el alambrado o cercado, siempre que ello no sea realizado por las autoridades competentes o por persona autorizada por las mismas, para el mantenimiento o mejoramiento del área respectiva; y
+
+IV. El depósito de cascajo y de cualquier otro material proveniente de edificaciones que afecte o pueda producir afectaciones a los recursos naturales de la zona.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Octies.
+
+Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas, áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada en el lugar más cercano.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Nonies.
+
+La construcción de edificaciones en las áreas verdes previstas en las fracciones VI a IX del artículo 82 Bis de la presente Ley, podrá ser autorizada o realizada por la autoridad competente, para su protección, fomento y educación ambiental, para lo cual se requerirá de la emisión de un dictamen técnico preliminar en el que se determinen las acciones y medidas que habrán de considerarse y, en su caso, ordenarse en la autorización correspondiente, a efecto de evitar que se generen afectaciones a los recursos naturales de la zona durante el desarrollo de la construcción.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 82 Decies.
+
+La Secretaría establecerá el inventario general de las áreas verdes del Estado de Veracruz, con la finalidad de conocerlas, protegerlas y preservarlas, así como para proponer a los municipios, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
+
+I. La ubicación y superficie;
+
+II. Los tipos de área verde;
+
+III. Las especies de flora y fauna que la conforman;
+
+IV. Las zonas en las cuales se considera establecer nuevas áreas verdes; y
+
+V. Las demás que se establezcan en el Reglamento.
+
+Los municipios llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior, y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes. Dicho inventario formará parte del Registro Estatal de Espacios Naturales Protegidos.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 82 Undecies. Las autoridades municipales y estatales, así como las dependencias de gobierno estatal y municipal, instalarán en la medida de sus posibilidades azoteas verdes en las edificaciones de que sean propietarios.
+
+Las azoteas verdes se sujetarán a la normatividad que para tal efecto establezca la Secretaría.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 82 Duodecies. Todos los trabajos de mantenimiento, mejoramiento, fomento, forestación, reforestación y conservación a desarrollarse en las áreas verdes deberán sujetarse a la normatividad que establezca la Secretaría.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 82 Terdecies. En caso de dañar un área verde, el responsable deberá reparar los daños causados, en los siguientes términos:
+
+I. Restaurando el área afectada; o
+
+II. Llevando a cabo las acciones de compensación que se requieran a efecto de que se restituya un área equivalente a la afectada, en el sitio más próximo posible a ésta.
+
+Las alternativas referidas deberán ser consideradas por las autoridades competentes en el orden en que se enuncian.
+
+La reparación de los daños causados a las áreas verdes podrá ordenarse por las autoridades competentes, como medida correctiva o sanción.
+
+Excepcionalmente, en caso de que el daño realizado sea irreparable en términos de las fracciones I y II del presente artículo, el responsable deberá pagar una compensación económica que se destina al Fondo Ambiental Veracruzano, a efecto de aplicarse a restauración y compensación de áreas afectadas.
+
+Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sanciones adicionales que sean procedentes por infracciones a lo dispuesto en la presente Ley.
 
 ### CAPÍTULO II. DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACIÓN, ADMINISTRACIÓN, DESARROLLO Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
 
@@ -1475,15 +1633,17 @@ La Secretaría buscará los mecanismos para que se establezca la transferencia a
 
 ###### Artículo 94.
 
-Declarada un área natural protegida, solo podrá modificarse su extensión y los usos del suelo permitidos, por la autoridad que la haya establecido, previo estudios (sic) que al efecto se realicen y consultando siempre a la sociedad civil, la academia, institutos de investigación y demás organizaciones civiles de acuerdo a las disposiciones contenidas en esta Ley y la Ley General.
+Declarada un área natural protegida, solo podrá modificarse su extensión y los usos del suelo permitidos, por la autoridad que la haya establecido, previo (sic) estudios que al efecto se realicen y consultando siempre a la sociedad civil, la academia, institutos de investigación y demás organizaciones civiles de acuerdo a las disposiciones contenidas en esta Ley y la Ley General.
 
 ### CAPÍTULO III. REGISTRO ESTATAL DE ESPACIOS NATURALES PROTEGIDOS
 
-#### SECCIÓN SEGUNDA. SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN PRIMERA. GENERALIDADES
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 95.
 
-El Registro Estatal de Espacios Naturales Protegidos estará conformado por el Sistema Estatal de Áreas Naturales Protegidas y el Sistema Estatal de Áreas Privadas y Sociales de Conservación.
+El Registro Estatal de Espacios Naturales Protegidos estará conformado por el Sistema Estatal de Áreas Naturales Protegidas y el Sistema Estatal de Áreas Privadas y Sociales de Conservación y el Inventario General de las Áreas Verdes del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
 
@@ -1497,7 +1657,7 @@ Las opiniones y recomendaciones que formule este Consejo, deberán ser considera
 
 El Consejo Estatal de Espacios Naturales Protegidos podrá invitar a sus sesiones a representantes de la Administración Pública Federal, los gobiernos de otros Estados, organismos ambientales no gubernamentales, representantes de áreas privadas de conservación y de los municipios, cuando se traten de asuntos relacionados con espacios naturales protegidos de su competencia. Asimismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y en general a cualquier persona u organización cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
-#### SECCIÓN TERCERA. SISTEMA ESTATAL DE ÁREAS PRIVADAS Y SOCIALES DE CONSERVACIÓN
+#### SECCIÓN SEGUNDA. SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
 
 ###### Artículo 97.
 
@@ -1515,7 +1675,7 @@ Con el propósito de preservar el patrimonio natural del Estado, y de acuerdo a 
 
 Para coadyuvar en la conservación, administración, desarrollo y vigilancia de las áreas naturales protegidas integradas al Sistema, las autoridades estatales o municipales, podrán promover la celebración de acuerdos de concertación, para que participen las autoridades federales, así como el sector social y privado.
 
-#### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
+#### SECCIÓN TERCERA. SISTEMA ESTATAL DE ÁREAS PRIVADAS Y SOCIALES DE CONSERVACIÓN
 
 ###### Artículo 101.
 
@@ -1799,9 +1959,7 @@ III.- Realicen investigaciones de tecnología y apliquen ésta, para disminuir l
 
 IV.- Reubiquen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
-#### SECCIÓN SEGUNDA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
+#### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
 
 ###### Artículo 132.
 
@@ -1867,9 +2025,9 @@ XIII.- Las demás que establezca esta Ley, las disposiciones que de ella se deri
 
 La Secretaría podrá convenir con los responsables de las fuentes fijas de competencia estatal la realización de las actividades a que se refiere el artículo anterior, o bien, requerir a los mismos para que las lleven a cabo, en forma obligatoria.
 
-#### SECCIÓN TERCERA. DE LOS VERIFICENTROS
+#### SECCIÓN SEGUNDA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
 
-> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 139.
 
@@ -2044,6 +2202,10 @@ En el ámbito de competencia de la Secretaría y de la Procuraduría, tanto para
 Asimismo, la Procuraduría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE JULIO DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LOS VERIFICENTROS
+
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis.
 
@@ -2633,7 +2795,9 @@ IV.- Participar en la elaboración de los programas en los que se consideren acc
 
 ## TÍTULO SEXTO. PARTICIPACIÓN SOCIAL Y DERECHO A LA INFORMACIÓN AMBIENTAL
 
-### CAPÍTULO II. CONSEJO ESTATAL DE PROTECCIÓN AL AMBIENTE
+### CAPÍTULO II. CONSEJO CIUDADANO PARA LA CONSERVACIÓN DEL MEDIO AMBIENTE Y EL DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 182.
 
@@ -2679,17 +2843,59 @@ V.- Impulsarán el fortalecimiento de la conciencia ecológica a través de la r
 
 VI.- Propondrán a las Comisiones Municipales de Ecología mecanismos adecuados para intensificar la participación de representantes de los sectores de la sociedad, así como de organizaciones e instituciones.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
 ### CAPÍTULO III. DE LOS CONSEJOS MUNICIPALES DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
 > <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 184.
 
-(DEROGADO, G.O. 7 DE FEBRERO DE 2007)
+El Consejo Ciudadano para la Conservación del Medio Ambiente y el Desarrollo Sustentable será el órgano de decisión, consulta, asesoría, promoción y proposición de acciones de la Secretaría. Sus resoluciones estarán dirigidas al cuidado y protección del medio ambiente, así como a la procuración del desarrollo sustentable, en términos de esta Ley y demás disposiciones aplicables.
+
+El Consejo Ciudadano para la Conservación del Medio Ambiente y el Desarrollo Sustentable se integrará por:
+
+I. El titular de la Secretaría, quien lo presidirá;
+
+II. El subsecretario de Fomento y Gestión Ambiental, quien fungirá como Secretario Técnico;
+
+III. Dos representantes del sector académico, con especialización y amplio conocimiento en la materia; y
+
+IV. Tres representantes de la sociedad civil, provenientes de organizaciones o colectivos ciudadanos con probada experiencia y trayectoria en la materia.
+
+Todos los integrantes del Consejo Ciudadano para la Conservación del Medio Ambiente y el Desarrollo Sustentable tendrán derecho a voz y voto. Los cargos de los integrantes del Consejo son de carácter honorario.
+
+Los representantes del sector académico y de la sociedad civil deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, mayores de edad, sin carrera militar, sin ser militante de ningún partido político y no pertenecer al estado eclesiástico ni ser ministro de algún culto.
+
+Los integrantes del Consejo Ciudadano para la Conservación del Medio Ambiente y el Desarrollo Sustentable serán designados por el Congreso del Estado, mediante el voto de dos terceras partes de sus miembros presentes, a propuesta directa de universidades y organizaciones de la sociedad civil.
+
+El Congreso del Estado por medio de la Comisión Permanente de Medio Ambiente, Recursos Naturales y Cambio Climático celebrará audiencias públicas donde se recibirán las propuestas de los perfiles ciudadanos para el Consejo para la Conservación del Medio Ambiente y el Desarrollo Sustentable. Los integrantes serán nombrados por un período de tres años y podrán ser ratificados por un período más.
+
+El Consejo Ciudadano para la Conservación del Medio Ambiente y el Desarrollo Sustentable será el órgano que sesionará de manera ordinaria, por lo menos, cada tres meses y de manera extraordinaria las veces que sean necesarias para el cumplimiento de sus fines. Sus decisiones se tomarán por mayoría de votos, privilegiando en todo momento el diálogo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 185.
 
-(DEROGADO, G.O. 7 DE FEBRERO DE 2007)
+El Consejo Ciudadano para la Conservación del Medio Ambiente y el Desarrollo Sustentable tendrá las siguientes atribuciones:
+
+I. Analizar, evaluar y aprobar el Programa de Ordenamiento Ecológico Estatal;
+
+II. Coadyuvar en la elaboración de estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente y a la procuración del desarrollo sustentable en el Estado;
+
+III. Opinar sobre las autorizaciones en materia de impacto ambiental que emita la Secretaría;
+
+IV. Determinar que la Secretaría promueva, ante las autoridades federales, estatales o municipales competentes, con base en los estudios que hagan para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos, de transporte o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico o pérdida de la biodiversidad;
+
+V. Analizar, evaluar y aprobar el Programa Operativo Anual de la Secretaría;
+
+VI. Analizar, evaluar y aprobar las acciones y programas que efectúe la Secretaría;
+
+VII. Conocer y vigilar el correcto ejercicio del presupuesto de la Secretaría;
+
+VIII. Impulsar y organizar foros de consulta ciudadana para el análisis de la problemática ambiental del Estado; y
+
+IX. Fomentar la cultura de la protección al ambiente y programas de educación ambiental en el Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE JULIO DE 2011)</small>
 
@@ -3268,3 +3474,19 @@ G.O. 20 DE JUNIO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 308 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 313 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
