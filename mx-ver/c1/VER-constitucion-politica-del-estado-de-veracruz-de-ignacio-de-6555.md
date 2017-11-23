@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2017-11-13"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -79,11 +79,11 @@ El Estado tiene como base de su división territorial y de su organización pol�
 
 El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-El Estado garantizará el Derecho a la vida del ser humano, DESDE EL MOMENTO DE LA CONCEPCIÓN HASTA LA MUERTE NATURAL, COMO VALOR PRIMORDIAL QUE SUSTENTA EL EJERCICIO DE LOS DEMÁS DERECHOS; SALVO LAS EXCEPCIONES PREVISTAS EN LAS LEYES.
+El Estado garantizará el derecho a la vida del ser humano y su seguridad humana, DESDE EL MOMENTO DE LA CONCEPCIÓN HASTA LA MUERTE NATURAL, COMO VALOR PRIMORDIAL QUE SUSTENTA EL EJERCICIO DE LOS DEMÁS DERECHOS, SALVO LAS EXCEPCIONES PREVISTAS EN LAS LEYES.
 
 La libertad del hombre y de la mujer no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
 
@@ -111,9 +111,9 @@ La legislación ordinaria preverá medios alternos para la solución de controve
 
 En el Estado todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de origen, raza, color, sexo, idioma, religión, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
+Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos, privilegiando el enfoque de la seguridad humana, de conformidad con los principios de universalidad, interdependencia, indivisibilidad, progresividad y prevención temprana de los problemas del desarrollo, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
 
 Está prohibida la pena de muerte.
 
@@ -235,9 +235,9 @@ a) El sistema educativo será laico;
 
 b) Impulsará la educación en todos sus niveles y modalidades, y establecerá la coordinación necesaria con las autoridades federales en la materia;
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-c) Fomentará el respeto a los derechos humanos, el conocimiento de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
+c) Fomentará el respeto a los derechos humanos, el conocimiento de la noción de seguridad humana, así como de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
 
 d) Desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural;
 
@@ -344,6 +344,10 @@ e) La consulta popular se realizará el mismo día de la jornada electoral feder
 f) Las resoluciones del organismo público electoral administrativo podrán ser impugnadas en los términos de lo dispuesto en el Apartado B del artículo 66 de esta Constitución y de la ley; y
 
 g) Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+VI. Participar en el proceso de asignación y ejecución del presupuesto en su municipio.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -615,9 +619,9 @@ II. Dar la interpretación auténtica de las leyes o decretos;
 
 III. Iniciar ante el Congreso de la Unión las leyes o decretos que sean competencia del Poder Legislativo de la Federación, así como su reforma o abolición, y secundar, cuando lo estime conveniente, las iniciativas que presenten los Congresos de otros Estados;
 
-> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de acceso a la información y protección de datos personales que generen o posean los sujetos obligados; de las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
+IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de seguridad humana, desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de acceso a la información y protección de datos personales que generen o posean los sujetos obligados; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
 
 V. Darse su Ley Orgánica, y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
@@ -687,7 +691,7 @@ XVI. Autorizar, en su caso, a los ayuntamientos:
 
 a) La contratación de obras y servicios públicos, cuando produzcan obligaciones que excedan al período constitucional del Ayuntamiento contratante;
 
-b) La celebración de contratos y de obras públicas, cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
+b) (DEROGADO, G.O. 23 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -711,7 +715,9 @@ e) La transmisión en forma gratuita o donación de la propiedad, así como el u
 
 f) Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones;
 
-g) La celebración de convenios con: la Federación, el Estado, otros Estados, personas físicas o morales, y de coordinación con municipios de otras entidades federativas; y
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+g) La celebración de convenios de coordinación con municipios de otras entidades federativas, así como con el Estado, en este último caso cuando tengan por objeto lo señalado en las fracciones III y X del artículo 71 de esta Constitución y aquellos por los que el Estado se haga cargo de algunas de las funciones relacionadas con la administración de las contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, y las que tengan por base el cambio de valor de los inmuebles; y
 
 h) La creación de entidades paramunicipales.
 
@@ -1575,7 +1581,9 @@ III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las
 
 IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de los ciudadanos, haciendo efectiva la responsabilidad en que aquélla incurriera;
 
-V. Promover y fomentar, por todos los medios posibles, la educación pública, la protección a la salud y procurar el progreso y bienestar social en el Estado;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+V. Promover y fomentar, por todos los medios posibles, la educación pública, la protección a la salud, la seguridad humana y procurar el progreso y bienestar social en el Estado;
 
 > <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)</small>
 
@@ -12712,3 +12720,27 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Para cumplir con el objeto del presente Decreto, el Presupuesto de la Universidad Veracruzana para el año 2017 será del 2.58% del total del Presupuesto de Egresos del Estado de Veracruz de Ignacio de la Llave para dicho Ejercicio Fiscal, para 2018 se le fijará un Presupuesto del 3% del total del Presupuesto General del Estado, a partir del cual se incrementará gradualmente de forma anual hasta llegar al mínimo establecido para el Ejercicio 2023.
 
 Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 351 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y DÉCIMO DEL ARTÍCULO 4, EL INCISO C) DEL TERCER PÁRRAFO DEL ARTÍCULO 10, LA FRACCIÓN IV DEL ARTÍCULO 33 Y LA FRACCIÓN V DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 352 POR EL QUE SE ADICIONA LA FRACCION VI AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 353 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
