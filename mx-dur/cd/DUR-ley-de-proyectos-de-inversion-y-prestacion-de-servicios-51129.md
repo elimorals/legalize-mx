@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proyectos-de-inversion-y-prestacion-de-servicios-51129"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2017-05-11"
+last_updated: "2017-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE DURANGO, PUBLICADA AL NO. 94 DEL P.O. DE 23 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -169,8 +171,20 @@ LIC. RICARDO LÓPEZ PESCADOR
 
 P.O. 11 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 137.- QUE CONTIENE REFORMA AL ÚLTIMO PARRAFO DEL ARTÍCULO 5 DE LA LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 137.- QUE CONTIENE REFORMA AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 5 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS PARA EL ESTADO DE DURANGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 292 QUE CONTIENE (SIC) LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Durango.
+
+SEGUNDO.- Se abroga la Ley de Proyectos de Inversión y de Prestación de Servicios para el Estado de Durango, publicada en el Periódico Oficial del Estado el 29 de junio de 2006. Los proyectos que se hayan iniciado bajo la vigencia de dicha ley podrán continuar rigiéndose por las disposiciones de la misma, previo acuerdo de los que en ellos intervienen que podrán modificarse para adecuarse a los términos de la presente ley.
+
+TERCERO.- El Ejecutivo del Estado expedirá el reglamento de la presente ley en un plazo no mayor a 180 días naturales, contados a partir del día siguiente en el que entre en vigor el presente ordenamiento.
+
+CUARTO.- El Congreso del Estado, así como los Municipios en su esfera de competencia, realizarán las reformas a las leyes, reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
