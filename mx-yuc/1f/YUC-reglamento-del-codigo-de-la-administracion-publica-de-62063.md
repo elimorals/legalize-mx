@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-08-29"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -2047,7 +2047,7 @@ VIII. Establecer los lineamientos para el desarrollo de los procesos de capacita
 
 > <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
 
-IX. Administrar y procesar la nomina de los servidores públicos de las dependencias del Poder Ejecutivo, así como la de los prejubilados de la zona henequenera, jubilados y pensionados del Gobierno del Estado;
+IX. Administrar y procesar la nómina de los servidores públicos de las dependencias del Poder Ejecutivo, así como la de los prejubilados de la zona henequenera, jubilados y pensionados del Gobierno del Estado;
 
 > <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -4817,7 +4817,7 @@ VIII. Revisar los sistemas de selección, reclutamiento, depuración y ascensos 
 
 IX. Realizar cualquier investigación relacionada con las funciones propias de esta Secretaría que ordene su Titular;
 
-X. Coordinar y realizar acciones policiales especificas que aseguren la obtención, el análisis y aprovechamiento de información de inteligencia, para ubicar, identificar, prevenir y combatir la comisión de delitos;
+X. Coordinar y realizar acciones policiales específicas que aseguren la obtención, el análisis y aprovechamiento de información de inteligencia, para ubicar, identificar, prevenir y combatir la comisión de delitos;
 
 XI. Informar de forma inmediata al Secretario de las quejas o denuncias en las que se encuentre involucrado el personal de esta Secretaría, a si (sic) como de las investigaciones que le corresponda realizar, y
 
@@ -7923,7 +7923,7 @@ VI. Dirección de Promoción Turística;
 
 VII. Dirección de Administración y Finanzas, y
 
-VIII. Dirección de la Oficina de Congresos y Convenciones.
+VIII. (DEROGADA, D.O. 24 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 491.
 
@@ -7947,9 +7947,9 @@ V. Proponer, en términos del Plan Estatal de Desarrollo, la zonificación turí
 
 VI. Suscribir, con la aprobación del Titular del Poder Ejecutivo, acuerdos y convenios de colaboración en materia de desarrollo y promoción turística, para la implementación de proyectos y programas turísticos estatales y regionales;
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-VII. Coadyuvar con la Oficina de Congresos y Convenciones en el diseño e instrumentación de los convenios y acciones que esa oficina impulse para la promoción del segmento de reuniones, congresos, convenciones, exposiciones, viajes de incentivo y en general para el desarrollo del turismo de negocios en el Estado;
+VII. Coadyuvar con el Fideicomiso Público para el Desarrollo del Turismo de Reuniones en Yucatán en el diseño e instrumentación de acciones que impulsen la promoción y el fortalecimiento del segmento de reuniones, congresos, convenciones, exposiciones, viajes de incentivo y, en general, el desarrollo del turismo de reuniones en el Estado;
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -8321,39 +8321,9 @@ XXV. Tramitar ante las autoridades competentes, la adquisición, regularización
 
 XXVI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
-
 ###### Artículo 497.
 
-El Titular de la Dirección de la Oficina de Congresos y Convenciones tendrá las siguientes facultades y obligaciones:
-
-I. Promover al Estado de Yucatán como destino turístico enfocándose primordialmente al segmento de turismo de congresos, convenciones, reuniones, exposiciones, seminarios y viajes de incentivo y los demás segmentos especiales que determine el Secretario;
-
-II. Fungir como enlace de la dependencia con los prestadores de servicios turísticos especializados en turismo de reuniones, difundiendo los servicios que proporcionan en los eventos, foros y reuniones en las cuales se participe;
-
-III. Diseñar, elaborar y ejecutar el Programa Anual de Trabajo de la Oficina, para la atracción de eventos al destino;
-
-IV. Mantener la presencia del Estado en los principales mercados emisores de turismo de reuniones en el país y en los principales eventos internacionales dirigidos a este segmento, siempre que se apeguen a las estrategias definidas por la Oficina;
-
-V. Administrar los apoyos institucionales para la atracción de eventos de turismo de reuniones, que se realicen en el Estado, con particular énfasis en los que se presenten afluencia internacional de visitantes;
-
-VI. Coadyuvar en la Coordinación de los Comités organizadores de eventos con los prestadores de servicios locales;
-
-VII. Validar el diseño y producción del material publicitario, impreso, electrónico y/o audiovisual que se determine por parte del Titular, asegurando su distribución en las actividades de la oficina;
-
-VIII. Encabezar la estrategia de solicitudes de sedes para eventos de turismo de reuniones con la representación del Gobierno del Estado;
-
-IX. Organizar y atender los viajes de familiarización de operadores turísticos y/o comités organizadores de eventos;
-
-X. Participar con la representación de la dependencia en las ferias y eventos especializados que se determinen;
-
-XI. Integrar y actualizar el directorio de prestadores y proveedores de servicios de turismo de reuniones;
-
-XII. Proporcionar asesoría y apoyo en la gestión de los organizadores de eventos ante los organismos públicos y/o privados respecto a los diversos permisos y/o trámites que se requieran para la realización de los eventos;
-
-XIII. Realizar la planeación de las campañas de promoción turística en los medios que se determinen y coordinar su implementación a través de la Dirección de Promoción Turística de la dependencia, y
-
-XIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -13218,3 +13188,11 @@ D.O. 29 DE AGOSTO DE 2017.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 548/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE FOMENTO TURÍSTICO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2018.
